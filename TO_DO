@@ -9,3 +9,5 @@
 * Connected to the previous question: Input of BERT so far is list of string tuples. Do we want to change that to tensors?
 
 * Improve CUDA support: right now we are moving around everything explicitly in the forward. Is there a better way to do so? (probably connected to torchtext/hugging-face integration)
+
+* GPU allocator fails: too much memory
