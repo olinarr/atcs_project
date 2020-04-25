@@ -29,6 +29,9 @@ class MyIterator():
             # the "min" is used in order not to exceed the length
             batch = self.dataset[self.idx:min(self.idx+self.batch_size, len(self.dataset))]
 
+            # update index
+            self.idx += self.batch_size
+
             # create batch: it is a tuple of a list of (premise, hypotesis) and a tensor of label_indexes
             return [(example.premise, example.hypothesis) for example in batch],\
                 torch.tensor([self.l2i[example.label] for example in batch], device = self.device)
