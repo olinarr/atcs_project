@@ -1,0 +1,11 @@
+* when we apply Hugging Face's BERT, we use the output[0]. output[0] contains the hidden states, and we take only the first one (the [CLS] tag) and apply a FFLayer. On the docs, it says that output[1] is the CLS token passed in a classifier+tanh. Shall we use output[0]+our classifier (as we do now) or use directly output[1]?
+
+* which activation function on top of the FFLayer? (currently none!)
+
+* are we using Hugging Face correctly, i.e., why doesn't it learn?
+
+* Better integration between torchtext and MultiNLI. As of now, torchtext returns the raw sentences. How to return directly the ready-for-BERT encoded tensors, considering that we need to compute cross attention and all that racket?
+
+* Connected to the previous question: Input of BERT so far is list of string tuples. Do we want to change that to tensors?
+
+* Improve CUDA support: right now we are moving around everything explicitly in the forward. Is there a better way to do so? (probably connected to torchtext/hugging-face integration)
