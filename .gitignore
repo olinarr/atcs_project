@@ -126,6 +126,12 @@ venv.bak/
 # mypy
 .mypy_cache/
 .dmypy.json
+
+# Datasets and state dicts
+**/ibm
+ibm/
+**/state_dicts
+state_dicts/
 dmypy.json
 
 # Pyre type checker
