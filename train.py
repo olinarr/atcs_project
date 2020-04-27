@@ -22,12 +22,13 @@ def get_accuracy(model, iter):
 
     model.eval()
     count, num = 0., 0
-    for i, batch in enumerate(iter):
-        data, targets = batch
-        out = model(data)
-        predicted = out.argmax(dim=1)
-        count += (predicted == targets).sum().item()
-        num += len(targets)
+    with torch.no_grad():
+        for i, batch in enumerate(iter):
+            data, targets = batch
+            out = model(data)
+            predicted = out.argmax(dim=1)
+            count += (predicted == targets).sum().item()
+            num += len(targets)
 
     model.train()
     return count / num
