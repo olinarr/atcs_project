@@ -3,6 +3,7 @@ import argparse
 from modules.MultiNLI_BERT import MultiNLI_BERT
 from utils.MultiNLIBatchManager import MultiNLIBatchManager
 import os
+from transformers import AdamW, get_linear_schedule_with_warmup
 
 # path of the trained state dict
 MODELS_PATH = './state_dicts/'
@@ -72,7 +73,8 @@ def train(config, batchmanager, model):
 
     # filter out from the optimizer the "frozen" parameters,
     # which are the parameters without requires grad.
-    optimizer = torch.optim.Adam(filter(lambda p: p.requires_grad, model.parameters()), lr=config.lr)
+    optimizer = AdamW(filter(lambda p: p.requires_grad, model.parameters()), lr=config.lr)
+    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps = 0, num_training_steps = len(batchmanager.train_iter) * config.epochs)
 
     # compute initial dev accuracy (to check whether it is 1/n_classes)
     last_dev_acc = get_accuracy(model, batchmanager.dev_iter)
@@ -92,12 +94,13 @@ def train(config, batchmanager, model):
                 loss = criterion(out, targets)
                 loss.backward()
 
-                loss_c += loss.item() / len(targets)
+                loss_c += loss.item()
 
                 if i != 0 and i % config.loss_print_rate == 0:
-                    print(f'epoch #{epoch+1}/{config.epochs}, batch #{i}/{len(batchmanager.train_iter)}: loss = {loss.item() / len(targets)}', flush = True)
+                    print(f'epoch #{epoch+1}/{config.epochs}, batch #{i}/{len(batchmanager.train_iter)}: loss = {loss.item()}', flush = True)
 
                 optimizer.step()
+                scheduler.step() # update lr
 
             # end of an epoch
             print(f'#####\nEpoch {epoch+1} concluded!\n')
@@ -119,7 +122,7 @@ def train(config, batchmanager, model):
         print(f'Recomputing dev accuracy: {new_dev_acc}')
         if new_dev_acc > best_dev_acc:
             best_dev_acc = new_dev_acc
-            best_model_dict = get_filtered_dict(model)
+            best_model_dict = model.state_dict()
 
     return best_model_dict, best_dev_acc
 
@@ -129,10 +132,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
     # Model params
-    parser.add_argument('--batch_size', type=int, default="128", help="Batch size")
+    parser.add_argument('--batch_size', type=int, default="32", help="Batch size")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--lr', type=float, help='Learning rate', default = 0.01)
+    parser.add_argument('--lr', type=float, help='Learning rate', default = 2e-5)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 1)
     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
     config = parser.parse_args()

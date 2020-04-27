@@ -59,7 +59,7 @@ class MultiNLI_BERT(nn.Module):
         # we pad them and output is a pytorch.
         # output is a dict with ready to be passed to BERT directly
         encoded = self.tokenizer.batch_encode_plus(inputs, pad_to_max_length=True, return_tensors="pt")
-        # to cuda. This should be improved...
+        # to cuda
         encoded['input_ids'] = encoded['input_ids'].to(self.device)
         encoded['token_type_ids'] = encoded['token_type_ids'].to(self.device)
         encoded['attention_mask'] = encoded['attention_mask'].to(self.device)

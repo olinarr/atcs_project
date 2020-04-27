@@ -34,7 +34,7 @@ class MyIterator():
 
             # create batch: it is a tuple of a list of (premise, hypotesis) and a tensor of label_indexes
             return [(example.premise, example.hypothesis) for example in batch],\
-                torch.tensor([self.l2i[example.label] for example in batch], device = self.device)
+                torch.tensor([self.l2i[example.label] for example in batch], device = self.device, requires_grad = False)
 
         # else, we are finished, but restart (endless iterator)
         else:
