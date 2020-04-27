@@ -133,12 +133,11 @@ if __name__ == "__main__":
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--lr', type=float, help='Learning rate', default = 0.01)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 1)
-    parser.add_argument('--cuda', action='store_true', help='Request cuda')
     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
     config = parser.parse_args()
 
     torch.manual_seed(config.random_seed)
-    config.device = 'cuda:0' if torch.cuda.is_available() and config.cuda else 'cpu'
+    config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
     model = load_model(config)
     batchmanager = MultiNLIBatchManager(batch_size = config.batch_size, device = config.device)

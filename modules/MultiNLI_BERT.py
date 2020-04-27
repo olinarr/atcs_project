@@ -3,7 +3,7 @@ import torch.nn as nn
 
 class MultiNLI_BERT(nn.Module):
 
-    def __init__(self, n_classes = 3, device = 'cpu', trainable_layers = [9,10,11]):
+    def __init__(self, n_classes = 3, device = 'cpu', trainable_layers = [10,11]):
         """Init of the model
 
         Parameters:

@@ -64,7 +64,7 @@ class MultiNLIBatchManager():
 
         # create the three iterators
         self.train_iter = MyIterator(self.train_set, batch_size, self.l2i, device)
-        self.dev_iter = MyIterator(self.train_set, batch_size, self.l2i, device)
-        self.test_iter = MyIterator(self.train_set, batch_size, self.l2i, device)
+        self.dev_iter = MyIterator(self.dev_set, batch_size, self.l2i, device)
+        self.test_iter = MyIterator(self.test_set, batch_size, self.l2i, device)
 
         self.device = device
