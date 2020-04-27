@@ -8,6 +8,7 @@ Project on Meta-Learning for the "Advanced Topics on Computational Semantics" co
   * `random_seed` to set a seed for reproducibility
   * `epochs` to set the number of epochs to run for
   * `dataset`, e.g. `NLI` or `IBM` to set the dataset you want to use (for single task only)
+  * More parameters can be found in the file `train.py`
 
 ## Dataset Locations
 
