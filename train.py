@@ -7,7 +7,7 @@ import torch
 from transformers import AdamW, get_linear_schedule_with_warmup
 
 from modules.MultiNLI_BERT import MultiNLI_BERT
-from utils.MultiNLIBatchManager import MultiNLIBatchManager
+from utils.MultiNLIBatchManager import MultiNLIBatchManager, IBMBatchManager
 
 # path of the trained state dict
 MODELS_PATH = './state_dicts/'
@@ -144,15 +144,19 @@ if __name__ == "__main__":
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--lr', type=float, help='Learning rate', default = 2e-5)
-    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 1)
+    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
+    parser.add_argument('--dataset', type=str, default='IBM', help='Select the dataset to be used')
     config = parser.parse_args()
 
     torch.manual_seed(config.random_seed)
     config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
     model = load_model(config)
-    batchmanager = MultiNLIBatchManager(batch_size = config.batch_size, device = config.device)
+    if config.dataset in ('NLI', 'nli', 'Nli'): 
+        batchmanager = MultiNLIBatchManager(batch_size = config.batch_size, device = config.device)
+    if config.dataset in ("IBM", "ibm", "Ibm", "stance","Stance"):
+        batchmanager = IBMBatchManager(batch_size = config.batch_size, device = config.device)
 
     # Train the model
     print('Beginning the training...', flush = True)

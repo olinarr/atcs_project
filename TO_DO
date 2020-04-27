@@ -15,3 +15,7 @@
 * CLS POOLING vs average of hidden states
 
 * which batch size?
+
+* Ask Phillip about the validation set in IBM dataset
+
+* Train loss goes down, but accuracy does not really go up for IBM. Shuffle the dataset?

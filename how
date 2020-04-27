@@ -1,0 +1,192 @@
+[33mcommit c4f2391aa8e5a1e86518f62fbec45f694d45e463[m
+Author: Sasafrass <albertharkema@gmail.com>
+Date:   Mon Apr 27 16:27:26 2020 +0200
+
+    IBM iter works, but may have to shuffle for accuracy to go up
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mindex 04c6d4c..5d75ea3 100644[m
+[1m--- a/.gitignore[m
+[1m+++ b/.gitignore[m
+[36m@@ -130,3 +130,6 @@[m [mdmypy.json[m
+ [m
+ # Pyre type checker[m
+ .pyre/[m
+[32m+[m
+[32m+[m[32m# datasets[m
+[32m+[m[32m**/ibm[m
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 803c6a6..2b27ed6 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,17 @@[m
+[31m-# atcs_project[m
+[31m-Project on Meat-Learning for the "Advanced Topics on Computational Semantics" course (UvA, 2020)[m
+[32m+[m[32m# Meta Learning[m
+[32m+[m[32mProject on Meta-Learning for the "Advanced Topics on Computational Semantics" course (UvA, 2020)[m
+[32m+[m
+[32m+[m[32m## How To[m
+[32m+[m
+[32m+[m[32m* This project can most easily be executed by running the following line in your Command Line Interface: `python3 train.py --batch_size = 256`, where batch_size is a parameter.  Parameters include:[m
+[32m+[m[32m  * `batch_size` to set the number of elements in a batch[m
+[32m+[m[32m  * `random_seed` to set a seed for reproducibility[m
+[32m+[m[32m  * `epochs` to set the number of epochs to run for[m
+[32m+[m[32m  * `dataset`, e.g. `NLI` or `IBM` to set the dataset you want to use (for single task only)[m
+[32m+[m
+[32m+[m[32m## Dataset Locations[m
+[32m+[m
+[32m+[m[32m* `.data` for the NLI dataset[m
+[32m+[m[32m  * Downloading is taken care of by PyTorch[m
+[32m+[m[32m* `IBM` for the IBM dataset[m
+[32m+[m[32m  * Download dataset 3.1 from [here](https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Claim%20Stance).[m[41m [m
+\ No newline at end of file[m
+[1mdiff --git a/TO_DO b/TO_DO[m
+[1mindex f9d8a0b..afb9c6f 100644[m
+[1m--- a/TO_DO[m
+[1m+++ b/TO_DO[m
+[36m@@ -14,4 +14,8 @@[m
+ [m
+ * CLS POOLING vs average of hidden states[m
+ [m
+[31m-* which batch size?[m
+\ No newline at end of file[m
+[32m+[m[32m* which batch size?[m
+[32m+[m
+[32m+[m[32m* Ask Phillip about the validation set in IBM dataset[m
+[32m+[m
+[32m+[m[32m* Train loss goes down, but accuracy does not really go up for IBM. Shuffle the dataset?[m
+[1mdiff --git a/state_dicts/state_dict.pt b/state_dicts/state_dict.pt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2004885[m
+Binary files /dev/null and b/state_dicts/state_dict.pt differ
+[1mdiff --git a/train.py b/train.py[m
+[1mindex 6966d45..a7fc034 100644[m
+[1m--- a/train.py[m
+[1m+++ b/train.py[m
+[36m@@ -7,7 +7,7 @@[m [mimport torch[m
+ from transformers import AdamW, get_linear_schedule_with_warmup[m
+ [m
+ from modules.MultiNLI_BERT import MultiNLI_BERT[m
+[31m-from utils.MultiNLIBatchManager import MultiNLIBatchManager[m
+[32m+[m[32mfrom utils.MultiNLIBatchManager import MultiNLIBatchManager, IBMBatchManager[m
+ [m
+ # path of the trained state dict[m
+ MODELS_PATH = './state_dicts/'[m
+[36m@@ -144,15 +144,19 @@[m [mif __name__ == "__main__":[m
+     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")[m
+     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')[m
+     parser.add_argument('--lr', type=float, help='Learning rate', default = 2e-5)[m
+[31m-    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 1)[m
+[32m+[m[32m    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)[m
+     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')[m
+[32m+[m[32m    parser.add_argument('--dataset', type=str, default='IBM', help='Select the dataset to be used')[m
+     config = parser.parse_args()[m
+ [m
+     torch.manual_seed(config.random_seed)[m
+     config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'[m
+ [m
+     model = load_model(config)[m
+[31m-    batchmanager = MultiNLIBatchManager(batch_size = config.batch_size, device = config.device)[m
+[32m+[m[32m    if config.dataset in ('NLI', 'nli', 'Nli'):[m[41m [m
+[32m+[m[32m        batchmanager = MultiNLIBatchManager(batch_size = config.batch_size, device = config.device)[m
+[32m+[m[32m    if config.dataset in ("IBM", "ibm", "Ibm", "stance","Stance"):[m
+[32m+[m[32m        batchmanager = IBMBatchManager(batch_size = config.batch_size, device = config.device)[m
+ [m
+     # Train the model[m
+     print('Beginning the training...', flush = True)[m
+[1mdiff --git a/utils/MultiNLIBatchManager.py b/utils/MultiNLIBatchManager.py[m
+[1mindex bd7dcc2..dafe909 100644[m
+[1m--- a/utils/MultiNLIBatchManager.py[m
+[1m+++ b/utils/MultiNLIBatchManager.py[m
+[36m@@ -1,8 +1,10 @@[m
+ import torchtext, torch[m
+[32m+[m[32mimport pandas as pd[m
+[32m+[m[32mimport os[m
+ [m
+ class MyIterator():[m
+     """Used in the batch manager. An endless generator with length"""[m
+[31m-    def __init__(self, dataset, batch_size, l2i, device):[m
+[32m+[m[32m    def __init__(self, dataset, batch_size, l2i, device, IBM = False):[m
+         """Init of the model[m
+ [m
+         Parameters:[m
+[36m@@ -12,6 +14,7 @@[m [mclass MyIterator():[m
+         device (str): cpu or cuda:0[m
+ [m
+         """[m
+[32m+[m[32m        self.IBM = IBM[m
+         self.batch_size = batch_size[m
+         self.dataset = dataset[m
+         # compute the number of batches.[m
+[36m@@ -27,14 +30,21 @@[m [mclass MyIterator():[m
+         if self.idx < len(self.dataset):[m
+             # select next batch (list of torchtext Example instances)[m
+             # the "min" is used in order not to exceed the length[m
+[31m-            batch = self.dataset[self.idx:min(self.idx+self.batch_size, len(self.dataset))][m
+[32m+[m[32m            if self.IBM: # Check whether we're using the IBM[m
+[32m+[m[32m                batch = self.dataset.iloc[self.idx:min(self.idx+self.batch_size, len(self.dataset)),:][m
+[32m+[m[32m            else:[m
+[32m+[m[32m                batch = self.dataset[self.idx:min(self.idx+self.batch_size, len(self.dataset))][m
+ [m
+             # update index[m
+             self.idx += self.batch_size[m
+ [m
+             # create batch: it is a tuple of a list of (premise, hypotesis) and a tensor of label_indexes[m
+[31m-            return [(example.premise, example.hypothesis) for example in batch],\[m
+[31m-                torch.tensor([self.l2i[example.label] for example in batch], device = self.device, requires_grad = False)[m
+[32m+[m[32m            if self.IBM:[m
+[32m+[m[32m                return [(batch.loc[i,'topicText'], batch.loc[i,'claims.claimCorrectedText']) for i in batch.index],\[m
+[32m+[m[32m                    torch.tensor([self.l2i[batch.loc[i,'claims.stance']] for i in batch.index], device = self.device, requires_grad = False)[m
+[32m+[m[32m            else:[m
+[32m+[m[32m                return [(example.premise, example.hypothesis) for example in batch],\[m
+[32m+[m[32m                    torch.tensor([self.l2i[example.label] for example in batch], device = self.device, requires_grad = False)[m
+ [m
+         # else, we are finished, but restart (endless iterator)[m
+         else:[m
+[36m@@ -48,7 +58,6 @@[m [mclass MyIterator():[m
+         return self[m
+ [m
+ [m
+[31m-[m
+ class MultiNLIBatchManager():[m
+     def __init__(self, batch_size = 256, device = 'cpu'):[m
+         # sequential false -> no tokenization. Why? Because right now this[m
+[36m@@ -67,4 +76,36 @@[m [mclass MultiNLIBatchManager():[m
+         self.dev_iter = MyIterator(self.dev_set, batch_size, self.l2i, device)[m
+         self.test_iter = MyIterator(self.test_set, batch_size, self.l2i, device)[m
+ [m
+[31m-        self.device = device[m
+\ No newline at end of file[m
+[32m+[m[32m        self.device = device[m
+[32m+[m
+[32m+[m[32mclass IBMBatchManager():[m
+[32m+[m[32m    """[m
+[32m+[m[32m    Batch Manager for the IBM dataset[m
+[32m+[m[32m    """[m
+[32m+[m[32m    def __init__(self, batch_size = 256, device = 'cpu'):[m
+[32m+[m[32m        """[m
+[32m+[m[32m        Initializes the dataset[m
+[32m+[m
+[32m+[m[32m        Args:[m
+[32m+[m[32m            batch_size: Number of elements per batch[m
+[32m+[m[32m            device    : Device to run it on: cpu or gpu[m
+[32m+[m[32m        """[m
+[32m+[m[41m        [m
+[32m+[m[32m        # Get a mapping from stances to labels[m
+[32m+[m[32m        self.l2i = {'PRO': 0, 'CON':1}[m
+[32m+[m
+[32m+[m[32m        # IBM dataset doesn't offer a separate validation set![m
+[32m+[m[32m        df = pd.read_csv(os.path.join("ibm", "claim_stance_dataset_v1.csv"))[m
+[32m+[m[32m        self.train_set = df.query("split == 'train'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']][m
+[32m+[m[32m        self.dev_set   = df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']][m
+[32m+[m[32m        self.test_set  = df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']][m
+[32m+[m
+[32m+[m[32m        # Turn the datasets into iterators[m
+[32m+[m[32m        self.train_iter = MyIterator(self.train_set, batch_size, l2i = self.l2i, device = device, IBM = True)[m
+[32m+[m[32m        self.dev_iter = MyIterator(self.dev_set, batch_size, l2i = self.l2i, device = device, IBM = True)[m
+[32m+[m[32m        self.test_iter = MyIterator(self.test_set, batch_size, l2i = self.l2i, device = device, IBM = True)[m
+[32m+[m
+[32m+[m[32mif __name__ == "__main__":[m
+[32m+[m[32m    batchmanager = IBMBatchManager()[m
+[32m+[m[32m    #batchmanager = MultiNLIBatchManager()[m
+[41m+[m
