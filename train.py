@@ -113,6 +113,7 @@ def train(config, batchmanager, model):
             # end of an epoch
             print(f'#####\nEpoch {epoch+1} concluded!\n')
             print(f'Average train loss: {loss_c / len(batchmanager.train_iter)}')
+            print(f'Average train acc : {get_accuracy(model, batchmanager.train_iter)}')
             new_dev_acc = get_accuracy(model, batchmanager.dev_iter)
             last_dev_acc = new_dev_acc
 
