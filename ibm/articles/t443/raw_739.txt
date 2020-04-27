@@ -1,0 +1,57 @@
+'''Maturity''' is a [[psychology|psychological]] term used to indicate how a person responds to the [[circumstance]]s or [[Social environment|environment]] in an [[Norm (sociology)|appropriate]] manner.  This response is generally learned rather than [[instinct]]ive, and is not determined by one's age.  Maturity also encompasses being aware of the correct time and place to behave and knowing when to act appropriately, according to the situation and the culture of the society one lives in.{{Citation needed|date=April 2010}} . 
+
+Adult development and maturity theories include the purpose in life concept. Maturity emphasizes a clear comprehension of life's purpose, directedness, and intentionality which, contributes to the feeling that life is meaningful. <ref>{{cite web | last = Adler | first = Nancy | authorlink = | coauthors = | title = Purpose in Life | work = Psychosocial workgroup | publisher = MacArthur | date = November 1997 | url = http://www.macses.ucsf.edu/research/psychosocial/purpose.php | accessdate = 2011-11-03}}</ref> . 
+
+==Age==. 
+{{See also|Age of majority}}
+While it has been shown that older persons are generally more mature, psychological maturity is not determined by one's [[Ageing|age]]. <ref>{{Cite journal
+| volume = 37
+| issue = 4
+| pages = 491–501
+| last = Sheldon
+| first = K. M. 
+| coauthors = T. Kasser
+| title = Getting Older, Getting Better? Personal Strivings and Psychological Maturity Across the Life Span
+| journal = Developmental Psychology
+| year = 2001
+| doi = 10.1037/0012-1649.37.4.491
+| pmid = 11444485
+}}</ref>  However, for [[law|legal]] purposes, people are not considered psychologically mature enough to perform certain tasks (such as [[driving]], [[age of consent|consenting to sex]], signing a binding [[contract]] or making medical decisions) until they have reached a certain age.  In fact, [[judge]] [[Julian Mack]], who helped create the [[juvenile court]] system in the [[United States]], said that juvenile justice was based on the belief that young people do not always make good decisions because they are not mature, but this means that they can be reformed more easily than adults. <ref>{{Cite journal
+| volume = 23
+| pages = 104–122
+| last = Mack
+| first = J. W. 
+| title = The Juvenile Court
+| journal = Harvard Law Review
+| year = 1909
+| doi = 10.2307/1325042
+| jstor = 1325042
+| issue = 2
+| publisher = The Harvard Law Review Association
+}}
+</ref>  However, the relationship between psychological maturity and age is a difficult one, and there has been much debate over methods of determining maturity, especially regarding social issues such as [[religion]], [[politics]], human stem-cell research, [[genetic engineering]] and [[abortion]]. <ref>{{Cite journal
+| doi = 10.1007/BF01499023
+| issn = 0147-7307
+| volume = 20
+| issue = 3
+| pages = 249–272
+| last = Steinberg
+| first = Laurence
+| coauthors = Elizabeth Cauffman
+| title = Maturity of Judgment in Adolescence: Psychosocial Factors in Adolescent Decision Making
+| journal = Law and Human Behavior| date = 1996-06
+| jstor = 1393975
+| publisher = Springer
+}}</ref> . 
+
+==See also==. 
+* [[Mental age]]
+* [[Adult]]
+* [[Mature minor doctrine]] . 
+
+==References==. 
+{{reflist}} . 
+
+{{DEFAULTSORT:Maturity (Psychological)}}
+[[Category:Developmental psychology]]
+[[Category:Human behavior]]

@@ -1,0 +1,127 @@
+{{Chicago School (economics)}}
+{{Neoliberalism sidebar}}
+{{Libertarianism sidebar}}
+The '''Chicago school of economics''' describes a [[Neoclassical economics|neoclassical]] [[school of thought]] within the academic community of [[economist]]s, with a strong focus around the faculty of The [[University of Chicago]], some of whom have constructed and popularized its principles. It is at times referred to as '''freshwater school''' of economics, in contrast to the [[saltwater school (economics)|saltwater school]] based in coastal universities (notably Harvard, MIT, and Berkeley). The University of Chicago department, considered one of the world's foremost economics departments, has fielded more [[Nobel Prize]] laureates and [[John Bates Clark Medal|John Bates Clark medalists]] in economics than any other university.  . 
+
+Kaufman (2010) says that the School is characterized by:
+:A deep commitment to rigorous scholarship and open academic debate, an uncompromising belief in the usefulness and insight of neoclassical price theory, and a normative position that favors and promotes economic liberalism and free markets. <ref>Bruce Kaufman in Ross B. Emmett, ed. ''The Elgar Companion to the Chicago School of Economics'' (2010)  p. 133</ref> . 
+
+Chicago macroeconomic theory rejected [[Keynesianism]] in favor of [[monetarism]] until the mid-1970s, when  it turned to [[new classical macroeconomics]] heavily based on the concept of [[rational expectations]].  Chicago economists applied rational expectations to other areas in economics like [[finance]], which produced the influential [[efficient market hypothesis]].  . 
+
+==Terminology==. 
+The term was coined in the 1950s to refer to economists teaching in the Economics Department at the [[University of Chicago]], and closely related academic areas at the University such as the [[University of Chicago Booth School of Business|Booth School of Business]] and the [[University of Chicago Law School|Law School]]. They met together in frequent intense discussions that helped set a group outlook on economic issues, based on price theory. The 1950s saw the height of popularity of the Keynesian school of economics, so the members of the University of Chicago were considered outside the mainstream.  . 
+
+==Scholars==. 
+===Frank Knight=== . 
+
+{{Main|Frank Knight}}
+Frank Knight (1885–1972) was an early member of the University of Chicago department. His most influential work was ''Risk, Uncertainty and Profit'' (1921) from which was coined the term [[Knightian uncertainty]]. Knight's perspective was iconoclastic, and markedly different from later Chicago school thinkers. He believed that while the free market could be inefficient, government programs were even less efficient. He drew from other economic schools of thought such as [[Institutional economics]] to form his own nuanced perspective.  . 
+
+===Ronald Coase===. 
+{{Main|Ronald Coase|Law and economics}}
+Ronald Coase (b. 1910) is the most prominent economic analyst of law and the 1991 [[Nobel Prize in Economics|Nobel Prize]]-winner. His first major article, ''[[The Nature of the Firm]]'' (1937), argued that the reason for the existence of firms ([[company law|companies]], partnerships, etc.) is the existence of [[transaction cost]]s. [[Homo economicus|Rational individuals]] trade through bilateral contracts on open markets until the costs of transactions mean that using corporations to produce things is more cost-effective. His second major article, ''The Problem of Social Cost'' (1960), argued that if we lived in a world without transaction costs, people would bargain with one another to create the same allocation of resources, regardless of the way a court might rule in property disputes. Coase used the example of an 1879 London [[Law|legal]] case about [[nuisance]] named [[Sturges v Bridgman]], in which a noisy sweetmaker and a quiet doctor were neighbours; the doctor went to court seeking an injunction against the noise produced by the sweetmaker. <ref>''Sturges v. Bridgman'' (1879) 11 Ch D 852</ref> Coase said that regardless of whether the judge ruled that the sweetmaker had to stop using his machinery, or that the doctor had to put up with it, they could strike a mutually beneficial [[bargain]] that reaches the same outcome of resource distribution. Only the existence of [[transaction costs]] may prevent this. <ref>Coase (1960) IV, 7</ref> So the law ought to pre-empt what ''would'' happen, and be guided by the most [[efficiency (economics)|efficient]] solution. The idea is that law and regulation are not as important or effective at helping people as lawyers and government planners believe. <ref>Coase (1960) V, 9</ref> Coase and others like him wanted a change of approach, to put the burden of proof for positive effects on a government that was intervening in the market, by analysing the costs of action. <ref>Coase (1960) VIII, 23</ref> . 
+
+===George Stigler===. 
+{{Main|George Stigler}}
+George Stigler (1911–1991) was tutored for his thesis by [[Frank Knight]] and won the [[Nobel Prize in Economics]] in 1982. He is best known for developing the ''Economic Theory of Regulation'',<ref>"The Theory of Economic Regulation." (1971) Bell Journal of Economics and Management Science, no. 3,pp. 3–18. </ref> also known as [[Capture (politics)|capture]], which says that interest groups and other political participants will use the regulatory and coercive powers of government to shape laws and regulations in a way that is beneficial to them.  This theory is an important component of the [[Public Choice]] field of economics. He also carried out extensive research into the [[history of economic thought]]. His 1962 article "Information in the Labor Market"<ref>See also, "The Economics of Information," (1961) ''Journal of Political Economy'', June. [http://links.jstor.org/sici?sici=0022-3808%28196106%2969%3A3%3C213%3ATEOI%3E2.0.CO%3B2-D&size=LARGE&origin=JSTOR-enlargePage (JSTOR)] developed the theory of [[unemployment types|search unemployment]]. </ref> . 
+
+===Milton Friedman===. 
+{{Main|Milton Friedman|Monetarism}}
+Milton Friedman (1912–2006) stands as one of the most influential economists of the late twentieth century. He was a student of [[Frank Knight]] and he won the [[Nobel Prize in Economics]] in 1976 for, among other things, ''A Monetary History of the United States'' (1963). Friedman argued that the Great Depression had been caused by the [[Federal Reserve]]'s policies through the 1920s, and worsened in the 1930s. Friedman argued that laissez-faire government policy is more desirable than government intervention in the economy.  . 
+
+{{cquote|One of the great mistakes is to judge policies and programs by their intentions rather than their results. -[[Milton Friedman]] Interview with Richard Heffner on The Open Mind (7 December 1975)}} . 
+
+Governments should aim for a neutral monetary policy oriented toward long-run [[economic growth]], by gradual expansion of the money supply. He advocated the [[quantity theory of money]], that general prices are determined by money. Therefore active monetary (e.g. easy credit) or fiscal (e.g. tax and spend) policy can have unintended negative effects. In ''[[Capitalism and Freedom]]'' (1967) Friedman wrote, . 
+
+{{cquote|"There is likely to be a lag between the need for action and government recognition of the need; a further lag between recognition of the need for action and the taking of action; and a still further lag between the action and its effects. <ref>Friedman (1967) p. </ref>}} . 
+
+The slogan that "money matters" has come to be associated with Friedman, but Friedman had also leveled harsh criticism of his ideological opponents. Referring to [[Thorstein Veblen]]'s assertion that economics unrealistically models people as "lightning calculator[s] of pleasure and pain", Friedman wrote, . 
+
+{{cquote|"Criticism of this type is largely beside the point unless supplemented by evidence that a hypothesis differing in one or another of these respects from the theory being criticized yields better predictions for as wide a range of phenomena."<ref>Friedman (1953) [http://members.shaw.ca/compilerpress1/Anno%20Friedman%20Positive%20c.htm I,V,30]</ref>}} . 
+
+===Robert Fogel===. 
+{{Main|Robert Fogel}}
+Robert Fogel (b.1926), a co-winner of the Nobel Prize in 1993, is well known for his historical analysis and his introduction of [[New economic history]],<ref>{{cite journal
+| title       =The New Economic History. Its Hindings and Methods
+| first       =Robert 
+| last        =Fogel
+| author      =
+| authorlink  =Robert W. Fogel
+| date        =
+| month       =December
+| year        =1966
+| work        =
+| publisher   =Economic History Society
+| quote       =The 'new economic history', sometiems called economic history or cliometrics, is not often practiced in Europe. However, it is fair to say that efforts to apply statistical and mathematical models currently occupy the centre of the stage in American economic history. 
+| jstor         =2593168
+}}</ref> and ''invention of [[cliometrics]], a notation system for quantitative data''{{Citation needed|date=May 2010}}. In his tract, ''Railroads and American Economic Growth: Essays in Econometric History'' (1964) Fogel set out to rebut comprehensively the idea that railroads contributed to economic growth in the 19th century. And in ''[[Time on the Cross: The Economics of American Negro Slavery]]'' (1974) he argued that slaves in the Southern states of America had a higher standard of living than the industrial proletariat of the Northern states before the [[American civil war]]. Fogel believes that slavery was morally wrong, but argues that it was not necessarily less efficient than wage-labour.  . 
+
+===Gary Becker===. 
+{{Main|Gary Becker}}
+Gary Becker (b. 1930) is a Nobel Prize-winner from 1992 and is known in his work for applying economic methods of thinking to other fields, such as crime, sexual relationships, slavery and drugs, assuming that people act rationally. His work was originally focused in [[labour economics]]. His work partly inspired the popular economics book ''[[Freakonomics]]''.  . 
+
+===Richard Posner===. 
+{{Main|Richard Posner}}
+[[Image:Richard-A-Posner.jpg|thumb|left|Richard Posner runs a blog with Gary Becker.]]
+Richard Posner (b. 1939) is known primarily for his work in [[law and economics]]. A lawyer rather than an economist, Posner's main work, ''Economic Analysis of Law'' attempts to apply rational choice models to areas of law. He has chapters on tort, contract, corporations, labor law, but also criminal law, discrimination and family law. Posner goes so far as to say that  . 
+
+<blockquote>"[the central] meaning of justice, perhaps the most common is – efficiency… [because] in a world of scarce resources waste should be regarded as immoral."<ref>[[Richard Posner]], ''Economic Analysis of Law'' (1998) p.30</ref></blockquote> . 
+
+===Robert E. Lucas===. 
+{{Main|Robert Lucas, Jr.}}
+Robert Lucas (b. 1937), who won the Nobel Prize in 1995, has dedicated his life to unwinding [[Keynesianism]].  His major contribution is the argument that [[macroeconomics]] should not be seen as a separate mode of thought from [[microeconomics]], and that analysis in both should be built on the same foundations. Lucas's works cover several topics in macroeconomics, included economic growth, asset pricing, and monetary Economics.  . 
+
+===Eugene Fama===. 
+{{Main|Eugene Fama|Efficient Market Hypothesis}} . 
+
+Eugene Fama (b. 1939) is an American economist who has spent all of his teaching career at the University of Chicago. He is well known as the father of the [[Efficient Market Hypothesis]]. Starting with his 1965 Ph.D. thesis, "The Behavior of Stock Market Prices", Fama concluded that stock prices are unpredictable and follow a [[random walk]] pattern of movement. He solidified this idea in his 1970 article, "Efficient Capital Markets: A Review of Theory and Empirical Work", which brought the idea of efficient markets into the forefront of modern economic theory.  . 
+
+===Friedrich Hayek===. 
+Libertarian economist [[Friedrich Hayek]] was teaching in another department at Chicago in the 1950s and had little intellectual interaction with the economics department. However he and Friedman did work together in supporting a national student organization devoted to libertarian ideas, the [[Intercollegiate Society of Individualists]]. Hayek is not considered a member of the Chicago School but rather the [[Austrian School]]. <ref>Alan O. Ebenstein, ''Hayek's journey: the mind of Friedrich Hayek'' (2003)  p 167</ref> . 
+
+==Discussion==. 
+Some claim that Chicago School economists are associated with [[Washington Consensus]],<ref name=Sivalingam2005>{{Cite book |author=Sivalingam, G. |year=2005 |title=Competition Policy in the ASEAN Countries |url=http://books.google.com/?id=IIgrjqPMjeEC |publisher=Cengage Learning Asia |page=6 |isbn=9789812549648 |postscript=<!--None-->}}</ref><ref>Palley T. (2008). [http://www.project-syndicate.org/commentary/palley3 Breaking the Neoclassical Monopoly in Economics]. Project Syndicate. </ref> which [[John Williamson (economist)|John Williamson]] says is "disappointing". <ref name=Williamson2002>Williamson J. (2002). [http://www.iie.com/publications/papers/paper.cfm?ResearchID=488 Did the Washington Consensus Fail?]</ref> A significant body of economists and policy-makers argues that what was wrong with the Washington Consensus as originally formulated by Williamson had less to do with what was ''included'' than with what was ''missing''. <ref>See, as examples representative of a much more extensive literature, e.g., Birdsall and de la Torre. "Washington Contentious" (2003); Kuczynski and Williamson (eds.), "After the Washington Consensus" (2003). </ref> Economists overwhelmingly agree that the Washington Consensus was ''incomplete'', and that countries in Latin America and elsewhere need to move beyond "first generation" macroeconomic and trade reforms to a stronger focus on [[productivity]]-boosting reforms and direct programs to support the poor. <ref>See, e.g., Birdsall and de la Torre, "Washington Contentious" (2003); de Ferranti and Ody, "Key Economic and Social Challenges for Latin America" (2006): http://www.brookings.edu/views/papers/20060803.pdf</ref> . 
+
+==Criticisms==. 
+The Chicago school, which advocates for unfettered [[free market]]s and little government intervention (albeit within a strict, government-defined monetary regime), came under attack in the wake of the [[financial crisis of 2007–2010]]. <ref>http://www.newyorker.com/reporting/2010/01/11/100111fa_fact_cassidy</ref> The school has been blamed for growing [[income inequality in the United States]]. <ref>http://www.salon.com/tech/htww/2009/04/28/downfall_of_the_chicago_school/</ref> Economist [[Brad DeLong]] of the [[University of California, Berkeley]] says the Chicago School has experienced an "intellectual collapse", while Nobel laureate [[Paul Krugman]] of [[Princeton University]], says that recent comments from Chicago school economists are "the product of a Dark Age of macroeconomics in which hard-won knowledge has been forgotten." <ref>{{cite news| url=http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html | work=The New York Times | title=How Did Economists Get It So Wrong? | first=Paul | lhttp://en.wikipedia.org/w/index.php?title=Chicago_school_of_economics&action=edit&section=14ast=Krugman | date=2009-09-06 | accessdate=2010-04-28}}</ref> Critics have also charged that the school's belief in human rationality contributed to bubbles such as the recent financial crisis, and that the school's trust in markets to self-regulate has offered no aid to the economy in the wake of the crisis. <ref>{{cite news| url=http://www.economist.com/displayStory.cfm?story_ID=14030288 | work=The Economist | title=The other-worldly philosophers | date=2009-07-16}}</ref> . 
+
+==See also==. 
+*[[Chicago Boys]]
+*[[History of economic thought]]
+*[[Perspectives on Capitalism]]
+*[[Milton Friedman Institute]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==Further reading==. 
+* Emmett, Ross B.,  ed. ''The Elgar Companion to the Chicago School of
+Economics'' (Edward Elgar, 2010), 350 pp.; ISBN 978-1-84064-874-4
+* Emmett, Ross B. (2008). "Chicago School (new perspectives)," ''[[The New Palgrave Dictionary of Economics]]'', 2nd Edition.  [http://www.dictionaryofeconomics.com/article?id=pde2008_C000576&edition=current&q=Chicago%20School,&topicid=&result_number=1 Abstract.]
+*{{cite book |title=Two Lucky People: Memoirs |last=Friedman |first=Milton |authorlink= |coauthors=Friedman, Rose |year=1998 |publisher=University of Chicago Press |location=Chicago |isbn=0226264149 |pages=}}
+*{{cite book |title=Making Chicago Price Theory: Friedman-Stigler Correspondence, 1945–1957 |last=Hammond |first=J. Daniel |authorlink= |coauthors=Hammond, Claire H. |year=2006 |publisher=Routledge |location=London |isbn=0415700787 |pages=}}
+*{{cite journal |last=Hovenkamp |first=Herbert |authorlink= |coauthors= |year=1985 |month= |title=Antitrust Policy after Chicago |journal=[[Michigan Law Review]] |volume=84 |issue=2 |pages=213–284 |doi=10.2307/1289065|publisher=Michigan Law Review, Vol. 84, No. 2 |jstor= 1289065}}
+*{{cite book |title=The Revival of Laissez-Faire in American Macroeconomic Theory: A Case Study of Its Pioneers |last=Kasper |first=Sherryl |authorlink= |coauthors= |year=2002 |publisher=Edward Elgar |location=Cheltenham |isbn=1840646063 |pages=}}
+*{{cite journal |last=Miller |first=H. Laurence, Jr. |authorlink= |coauthors= |year=1962 |month= |title=On the 'Chicago School of Economics' |journal=The Journal of Political Economy |volume=70 |issue=1 |pages=64–69 |doi=10.1086/258588 |url=}}
+*{{cite book |title=Economics As Religion: From Samuelson to Chicago and Beyond |last=Nelson |first=Robert H. |authorlink= |coauthors= |year=2001 |publisher=Pennsylvania State Univ. Press |location=University Park, PA |isbn=0271020954 |pages=}}
+*{{cite journal |last=Reder |first=Melvin W. |authorlink= |coauthors= |year=1982 |month= |title=Chicago Economics: Permanence and Change |journal=Journal of Economic Literature |volume=20|issue=1|pages= [http://jstor.org/stable/2724657 1]–38|doi= |url= |publisher=}} Reprinted in John Cunningham Wood & R.N. Woods (1990), ''Milton Friedman: Critical Assessments'', pp. [http://books.google.com/books?hl=en&lr=&id=L_x4V4aXK7sC&oi=fnd&pg=PA343&=false 343-393.]
+*{{cite book |title=Chicago Studies in Political Economy |last=Stigler |first=George J. |authorlink= |coauthors= |year=1988 |publisher=University of Chicago Press |location=Chicago |isbn=0226774376 |pages=}}
+*{{cite book |title=Memoirs of an Unregulated Economist |last=Stigler |first=George J. |authorlink= |coauthors= |year=1988 |publisher=Basic Books |location=New York |isbn=0465044433 |pages=}} [http://www.press.uchicago.edu/presssite/metadata.epl?mode=synopsis&bookkey=3638673 Description]  & [http://books.google.com/books?id=GvP51g2GQIoC&dq=%22Memoirs+of+an+Unregulated+Economist.%22&printsec=frontcover&source=bn&hl=en&ei=X4NlTN7uC4GKlwej4fCSDg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CCQQ6AEwAw#v=onepage&q&f=false preview.]
+* Valdes, Juan Gabriel (2008): ''Pinochet's Economists: The Chicago School of Economics in Chile'' (Historical Perspectives on Modern Economics), [[Cambridge University Press]], ISBN 0521064406
+*{{cite book |title=Frontiers of Economics: Nobel Laureates of the Twentieth Century |last=Wahid |first=Abu N. M. |authorlink= |coauthors= |year=2002 |publisher=Greenwood Press |location=Westport, CT |isbn=031332073X |pages=}} . 
+
+==External links==. 
+* [http://www.tsowell.com Thomas Sowell]
+* [http://economics.uchicago.edu The University of Chicago Department of Economics]
+* [http://www.pbs.org/wgbh/commandingheights/hi/story/ch_f01_11.html Commanding Heights, PBS Documentary, Chicago Against the Tide]
+* [http://equityprivate.typepad.com/ep/2008/12/death-of-cook.html Essay on the Chicago School, the financial crisis, and wishful thinking] . 
+
+{{UChicago}}
+{{Chiconomists}}
+{{History of economic thought}} . 
+
+{{DEFAULTSORT:Chicago School Of Economics}}
+[[Category:Conservatism in the United States]]
+[[Category:University of Chicago]]
+[[Category:History of economic thought, methodology, and heterodox approaches]]
+[[Category:Locality-based schools of economic thought and methodology]]

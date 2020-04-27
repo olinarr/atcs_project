@@ -1,0 +1,41 @@
+{{Elections}}
+{{Expand section|information concerning what electoralism is, its pertinence, and where information about it can be found; it needs a better introduction prior to proceeding to the meat of the article|date=May 2008}}
+{{globalize/Northern|date=December 2010}}
+{{Refimprove|date=May 2008}}
+Although highly controversial at various points in history, [[representative democracy]] (and [[electoral system]]s in general) has become the modern [[civics]] global-standard. <ref>[[Global civics]]</ref> Nevertheless, '''criticisms of electoral politics''' continue to come from both within the [[Western world]] and the [[developing world]]. In the [[Global North]], criticism comes primarily from the [[anarchist]], [[revolutionary]] [[communist]], and [[left-libertarian]] ends of the [[political spectrum]].  . 
+
+==Scholarship==. 
+''[[A People's History of the United States, 1492 to Present]]'' by [[Howard Zinn]] provides a historical analysis of electoral politics as a corporate statist (not his term) mechanism for co-opting grass-roots action and organizing, which primarily has been engendered by discontent with the social effects of disproportionate disposition of economic benefit and risk.  . 
+
+==Libertarian criticism==. 
+Anarchists and some other [[Libertarianism|libertarians]] typically argue against the legitimacy of political representation although most libertarians accept the concept of [[delegation]]. This is primarily due to their belief that [[majority rule]] [[voting systems]] will erode the [[liberty]] of social and political minorities. Libertarians argue that any truly [[justice|just]] political system must include [[voluntary association]] to prevent the [[oppression|oppressive]] enforcement of law. Additionally, libertarians argue that the election of representatives creates a priest-class of political administrators while disempowering and [[Social alienation|alienating]] the general public, for which voting is a highly mediated form of political engagement that diverts energy away from more effective means of political and social reform (or, for some anarchists, [[revolution]] in the form of [[Direct Action]]). Some libertarians argue that representation is philosophically impossible due to the unique nature of each individual, distinct from social, political, and economic [[social class|class]] interests.  . 
+
+[[Social anarchism|Social anarchists]] support [[consensus]]-based [[direct democracy]] as an alternative to an electoral system, and [[direct action]] as a means to implement decisions made individually or collectively.  . 
+
+[[Autonomism]], [[horizontalidad|horizontalism]], and "topless federation" are related concepts. There also exists a non-elective procedure for electing a democratic representation called [[sortition]], in which representatives are drawn at random from the citizen population.  . 
+
+==Revolutionary Marxist/Communist criticism== . 
+
+Revolutionary [[communists]] generally argue against elections under [[capitalism]] as being, at best, insufficient for revolutionary change, and at worst as diverting the personal, economic, and mental resources of the [[working class]] individual towards [[dead end]] politics when that same energy could be used to foment a [[communist revolution]] and create a [[proletarian dictatorship]]. Communists see the global-standard status of elections in the current world as clear evidence that [[market society]] has entrenched itself and been, for the moment, completely victorious over [[armed struggle]] and other truly [[grassroots]] forms of change. For [[Marxists]], the [[overthrow]] of the entire [[ruling class]] means not just a seizure of their [[state power]], but the establishment of an entirely different sort of state, one structured to protect working class control of [[means of production|production]] -- such a fundamental change, it is usually argued, cannot take place within the electoral system of a state designed foremost for the protection of [[private property]].  . 
+
+This is not, however, a critique of elections ''in general,'' and most communists hold that elections of some sort are compatible or even necessary for workers' democracy. [[Friedrich Engels]] argued that a Communist society could only exist with a representative constitution. <ref>"Principles of Communism, The," by Engels, section 18, http://www.marxists.org/archive/marx/works/1847/11/prin-com.htm</ref> Election of leaders at the local level and, in turn, for wider leadership on the global level, would to a communist undoubtedly make fully [[participatory democracy|participatory]] elections absolutely necessary. However, the difference under such circumstances as compared to capitalism would be that communist elections would reject the representative democracy model as a residual of capitalism; that model, in the view of communists, would make it more likely for the new society to revert back to [[Profit (economics)|profit]] and the [[market economy|market]] if fully participatory democracy were not pursued.  . 
+
+It is also not the case that Marxists necessarily shun capitalist elections altogether.  The question of whether fighting for reforms is worthwhile and, if so, how much energy should be devoted to them has been an ongoing debate within Marxism from the beginning, and a broad spectrum of positions has resulted.  Communists may consider some reforms within capitalism to be tactically important—a [[civil rights]] struggle, for instance, may help to overcome divisions that hurt and weaken all workers.  In the most extreme cases of "reformism", a party may actively work to curb more "revolutionary" activity, whether out of momentary caution or genuine commitment to other methods—during the 1968 General Strike of France, Marxist and Communist Parties urged workers to return to their jobs, and express their dissatisfaction with the power of voting.   On the other hand, groups such as the [[Progressive Labor Party]] make a point of abstaining completely from elections.  Finally, many Marxist parties run candidates without regard to their chances of winning, purely as a means of disseminating their message.  . 
+
+== See also ==. 
+* [[Non-voting]]
+* ''[[Democracy: The God That Failed]]'', a 2001 book by [[Hans-Hermann Hoppe]] . 
+
+== References ==. 
+{{Reflist}} . 
+
+== Further reading ==. 
+* Valenti, Mark. ''[http://www.liberty-page.com/issues/elections/main.html Elections...or, Cheering for the State]''
+* Larocque, Marc. ''[http://www.boston.com/news/local/articles/2008/02/03/on_primary_day_theyll_elect_to_not_vote/ On primary day, they'll elect to not vote]''. [[Boston Globe]] (February 3, 2008) . 
+
+{{DEFAULTSORT:Criticisms Of Electoralism}}
+[[Category:Anarchist theory]]
+[[Category:Elections]]
+[[Category:Communist theory]]
+[[Category:Libertarian theory]]
+[[Category:Criticisms of political philosophy|Electoralism]]

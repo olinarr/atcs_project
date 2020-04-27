@@ -1,0 +1,86 @@
+[[File:Wachusett-dam.jpg|thumb|The Wachusett Dam in [[Clinton, Massachusetts]].]]
+The '''environmental impact of reservoirs''' comes under ever increasing scrutiny as the global demand for water and energy increases and the number and size of reservoirs increases.  . 
+
+[[Dam|Dams]] and [[reservoir|reservoirs]] can be used to supply [[drinking water]], generate [[hydroelectric]] [[Electric power|power]], increase the water supply for [[irrigation]], provide recreational opportunities, and improve certain aspects of the environment.{{Citation needed|date=March 2012}} However, adverse environmental and sociological impacts have been identified during and after many reservoir constructions.{{Citation needed|date=March 2012}} Whether reservoir projects are ultimately beneficial or detrimental to either the environment or surrounding human populations has been debated since the 1960s and likely before then, as well.{{Citation needed|date=March 2012}} In 1960 the construction of [[Llyn Celyn]] and the flooding of [[Capel Celyn]] provoked political uproar which continues to this day. More recently, the construction of [[Three Gorges Dam]] and other similar projects throughout [[Asia]], [[Africa]] and [[Latin America]] have generated considerable environmental and political debate.  . 
+
+== Upstream impacts ==. 
+[[File:Lake Nasser.jpg|thumb|[[Lake Nasser]] behind the [[Aswan dam]], Egypt, 5250 km², displaced 60,000 people <ref name="Thayer">''A comparative survey of dam-induced resettlement in 50 cases'' by Thayer Scudder and John Gray [http://www.hss.caltech.edu/~tzs/50%20Dam%20Survey.pdf]</ref>]] . 
+
+=== Creation of a reservoir ===. 
+The damming of a river creates a [[reservoir]] upstream from the dam. The reservoir waters spill out into the surrounding environments, flooding the natural habitats that existed before the dam’s construction. To date, over 400,000&nbsp;km<sup>2</sup> of the earth have been flooded due to damming. The newly created reservoir has more surface area than the river would have had, and therefore more evaporation occurs than previously. This can lead to a loss of up to 2.1 meters in depth per year in some [[climate]]s. Reservoirs can also contribute to greenhouse gas emissions. <ref>[http://www.newscientist.com/article.ns?id=dn7046 Hydroelectric power's dirty secret revealed - earth - 24 February 2005 - New Scientist<!-- Bot generated title -->]</ref>  . 
+
+''The initial filling of a reservoir floods the existing plant material, leading to the death and decomposition of the carbon-rich plants and trees. The rotting organic matter releases large amounts of carbon into the atmosphere. The decaying plant matter itself settles to the non-oxygenated bottom of the reservoir, and the decomposition&mdash;unmitigated by a flow pattern that would oxygenate the water&mdash;produces and eventually releases dissolved methane.'' . 
+
+=== Fragmentation of river ecosystems ===. 
+A dam also acts as a barrier between the upstream and downstream movement of migratory river animals, such as [[salmon]] and [[trout]]. <ref name="Mann">{{cite journal | last = Mann | first = Charles C | coauthors = Mark L. Plummer | year = 2000 | month = August | title = Can Science Rescue Salmon? | journal = Science, New Series | volume = 289 | issue = 5480 | pages = 716–719 | pmid = }}</ref>  . 
+
+Some communities have also begun the practice of transporting migratory fish upstream to spawn via a barge. <ref name="Mann" />  . 
+
+=== Reservoir sedimentation ===. 
+Rivers carry four different types of sediment down their riverbeds, allowing for the formation of riverbanks, river deltas, alluvial fans, braided rivers, oxbow lakes, levees and coastal shores. The construction of a dam blocks the flow of sediment downstream, leading to downstream erosion of these Sedimentary depositional environment, depositional environments, and increased sediment build-up in the reservoir. While the rate of sedimentation varies for each dam and each river, eventually all reservoirs develop a reduced water-storage capacity due to the exchange of storage space for sediment. <ref name="Silenced">''Silenced Rivers: The Ecology and Politics of Large Dams'', by Patrick McCully, Zed Books, London, 1996. ISBN 1-85649-902-2</ref> Diminished storage capacity results in decreased ability to produce hydroelectric power, reduced availability of water for irrigation, and if left unaddressed, may ultimately result in the expiration of the dam and river. <ref name="Handbook">Reservoir Sedimentation Handbook; Morris, Gregory & Fan, Jiahua; McGraw-Hill Publishers; 1998. </ref> . 
+
+== Impact below dam ==. 
+=== Riverline and coastal erosion ===. 
+As all dams result in reduced sediment load downstream, a dammed river is said to be “hungry” for sediment. Because the rate of deposition of sediment is greatly reduced since there is less to deposit but the rate of erosion remains nearly constant, the water flow eats away at the river shores and riverbed, threatening shoreline ecosystems, deepening the riverbed, and narrowing the river over time. This leads to a compromised water table, reduced water levels, homogenization of the river flow and thus reduced ecosystem variability, reduced support for wildlife, and reduced amount of sediment reaching coastal plains and deltas. <ref name="Handbook" /> This prompts coastal erosion, as beaches are unable to replenish what waves erode without the sediment deposition of supporting river systems. Channel erosion of rivers has its own set of consequences. The eroded channel could create a lower water table level in the affected area, impacting bottomland crops such as [[alfalfa]] or [[Zea mays|corn]], and resulting in a smaller supply. <ref name="Egineering">Sedimentation Engineering; American Society of Civil Engineers Committee; American Society of Civil Engineers Headquarters; 1975. </ref> . 
+
+=== Water temperature ===. 
+The water of a deep reservoir in temperate climes typically stratifies with a large volume of cold, oxygen poor water in the hypolimnion. If this water is released to maintain river flow, it can cause adverse impacts on the downstream ecosystem including fish populations. 
+<ref>{{citation
+ | last1 = Hurford | first1 =Clive. 
+ | author1-link = Clive Hurford
+ | last2 = Schneider | first2 = M
+ | author2-link = Michael Schnieder
+ | last3 = Cowx | first3 = Ian
+ | author3-link = Ian Cowx
+ | last4 = West | first4 = Richard
+ | author4-link = Richard West
+ | title = Conservation Monitoring in Freshwater Habitats
+ | chapter = 21
+ | pages = 219 - 230
+ | publisher = Springer Dordrecht
+ | location = Berlin
+ | date = 25 June 1997
+ | year = 1997
+ | url = http://crd.lbl.gov/~dhbailey/... 
+ | issn =0343-6993
+ | isbn = 978-1-4020-9277-0
+ | doi = 10.1007/978-1-4020-9278-7 
+}}</ref> . 
+
+== Effects beyond the reservoir ==. 
+=== Effects on humans ===. 
+'''Diseases'''<br />
+Whilst reservoirs are helpful to humans, they can also be harmful as well. One negative effect is  that the reservoirs can become breeding grounds for disease vectors. This holds true especially in tropical areas where [[mosquitoes]] (which are [[Vector (epidemiology)|vectors]] for [[malaria]]) and [[snails]] (which are vectors for [[Schistosomiasis]]) can take advantage of this slow flowing water. <ref>William R. Jobin, 1999. ''Dams and Disease: Ecological Design and Health Impacts of Large Dams, Canals, and Irrigation Systems'', Taylor & Francis, ISBN 0-419-22360-6 [http://books.google.com/books?vid=ISBN0419223606&id=NH6WcjShY2oC&pg=PA239&lpg=PA239&ots=TbZgPnlesk&dq=%22Bakoy+River%22&ie=ISO-8859-1&output=html&sig=ivNXJjX3GLZXNs6mZXEdNTHie6s]</ref>
+[[File:10.34748W 13.10430N.png|thumb|Lake Manantali, 477 km², displaced 12,000 people.]] . 
+
+'''Resettlement'''<br />
+Dams and the creation of reservoirs also require relocation of potentially large human populations if they are constructed close to residential areas. The record for the largest population relocated belongs to the [[Three Gorges dam]] built in [[China]]. Its reservoir submerged a large area of land, forcing over a million people to relocate. "Dam related relocation affects society in three ways: an economic disaster, human trauma, and social catastrophe", states Dr. Michael Cernea of the [[World Bank]] and Dr. Thayer Scudder, a professor at the [[California Institute of Technology]]. <ref name="Thayer" /> . 
+
+=== Effects on flood-dependent ecology/agriculture ===. 
+In many developing countries the [[savanna]] and [[forest]] ecology of the [[floodplain]]s depend on seasonal flooding from rivers. Also, flood recession cropping is practiced extensively whereby the land is cultivated taking advantage of the residual soil moisture after floods recede. Dams attenuate floods which may affect the ecology and agriculture seriously.{{Citation needed|date=March 2012}}
+[[File:BaluchNomads.jpg|thumb|Water becomes scarce for nomadic pastoralist in Baluchistan due to new dam + irrigation developments <ref>ILRI, 1982. ''Modern interferences in traditional water resources in Baluchistan''. In: Annual Report 1982, pp. 23-34. ILRI, Wageningen, The Netherlands. Reprinted in Water International 9 (1984), pp. 106- 111. Elsevier Sequoia, Amsterdam. Also reprinted in Water Research Journal (1983) 139, pp. 53-60. Download from : [http://www.waterlog.info/annrep.htm] , under nr. 10, or directly as PDF : [http://www.waterlog.info/pdf/baluchistan.pdf]</ref>]] . 
+
+''Case studies''
+*The [[Lake Manantali|Manatali reservoir]] formed by the [[Manantali dam]] in [[Mali]] intersects the migration routes of nomadic [[Pastoralism|pastoralists]] and destroyed 43000 ha of savannah, probably leading to [[overgrazing]] and [[soil erosion]] elsewhere. Further, the reservoir destroyed 120&nbsp;km² of forest. The [[Environmental impact of irrigation#Lost land use opportunities|depletion of groundwater aquifers]], which is caused by the suppression of the seasonal flood cycle, is damaging the forests downstream of the dam. <ref>A. deGeorges and B.K. Reilly, 2006. ''Dams and large scale irrigation on the Senegal river: impacts on man and the environment''. UNDP Human Development Report. On line: http://hdr.undp.org/en/reports/global/hdr2006/papers/DeGeorges%20Andre.pdf</ref>
+*After the closure of the [[Kainji]] dam, [[Nigeria]], 50 to 70 per cent of the downstream area of [[Environmental impact of irrigation#Affected downstream water users|flood-recession cropping]] was lost. <ref>C.A.Drijver and M.Marchand, 1985. ''Taming the floods. Environmental aspects of the floodplain developments of Africa''. Centre of Environmental Studies, University of Leiden, The Netherlands. </ref> . 
+
+=== Effects on the Earth itself ===. 
+Reservoirs may contribute to changes in the Earth's climate. Warm climate reservoirs generate [[methane]], a [[greenhouse gas]] when the reservoirs  are stratified, in which the bottom layers are [[Anoxic waters|anoxic]] (i.e. they lack oxygen), leading to degradation of [[biomass]] through anaerobic processes. <ref>Climate Change and Dams: An Analysis of the Linkages Between the UNFCCC Legal Regime and Dams. </ref> In some cases, where flooded basins are wide and biomass volumes are high the amount of biomass converted to methane results in pollution potential 3.5 times more than an oil-fired power plant would for the same generation capacity. <ref>http://www.newscientist.com/article/dn7046 Hydroelectric Power's Dirty Secret</ref> . 
+
+== See also ==. 
+*[[Environmental impact of irrigation]] . 
+
+== References ==. 
+{{reflist}} . 
+
+== External links ==. 
+*[http://www.internationalrivers.org/en/node/1636 ''Rivers No More: The Environmental Effects of Large Dams''] at International Rivers (an excerpt for ''Rivers No More: The Environmental Effects of Large Dams'')
+*[http://dams.org/ ''World Commission on Dams''] . 
+
+{{Environmental effects of energy}} . 
+
+{{DEFAULTSORT:Environmental Impacts Of Reservoirs}}
+[[Category:Dam controversies| ]]
+[[Category:Reservoirs]]
+[[Category:Environmental issues with water|Reservoirs]]
+[[Category:Environmental issues with energy|Reservoirs]]

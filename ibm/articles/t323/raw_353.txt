@@ -1,0 +1,35 @@
+{{Infobox SCOTUS case
+  |Litigants=Negusie v. Holder
+  |ArgueDate=November 5
+  |ArgueYear=2008
+  |DecideDate=March 3
+  |DecideYear=2009
+  |FullName=Daniel Girmai Negusie, Petitioner v. Eric H. Holder, Jr., Attorney General
+  |USVol=555
+  |USPage=511
+  |Citation=129 S.Ct. 1159; 2008 US LEXIS 2444
+  |Prior=Certiorari to the United States Court of Appeals for the Fifth Circuit
+  |Subsequent=231 Fed. Appx. 325, reversed and remanded. 
+  |Holding=The BIA and Fifth Circuit misapplied ''Fedorenko'' as mandating that whether an alien is compelled to assist in persecution is immaterial for prosecutor-bar purposes. The BIA must interpret the statute, free from this mistaken legal premise, in the first instance
+  |SCOTUS=2006-2009
+  |Majority=Kennedy
+  |JoinMajority=Roberts, Scalia, Souter, Ginsburg, Alito
+  |Concurrence/Dissent=Stevens
+  |JoinConcurrence/Dissent=Breyer
+  |Dissent=Thomas
+  |LawsApplied=
+}}
+'''''Negusie v. Holder''''' (formerly ''Negusie v. Mukasey''), [[Case citation|555 U.S. 511]] (2009), was a legal case in which the [[United States Supreme Court]] agreed to review the issue whether the bar to [[asylum in the United States]] for persecutors applies to asylum applicants who have been the target of credible threats of harm or torture in their home countries if they refuse to further participate in the acts of persecution. At issue is whether Daniel Negusie, who says he was forced to assist in the mistreatment of prisoners in [[Eritrea]] under threat of execution, may nonetheless apply for asylum because any assistance he rendered was provided under [[duress]].  . 
+
+The court held that the BIA and [[United States Court of Appeals for the Fifth Circuit]] erred when they evaluated Negusie's asylum petition because they presumed it mandatory that an alien's coercion to persecute was immaterial when determining whether the "persecutor bar" applies.  . 
+
+==See also==. 
+*[[List of United States Supreme Court cases, volume 555]]
+*''[[Fedorenko v. United States]]'' (1981)
+*[[List of United States Supreme Court cases]] . 
+
+==Further reading==. 
+*{{cite journal |last=Lonegan |first=Bryan |year=2011 |title=Sinners or Saints: Child Soldiers and the Persecutor Bar to Asylum After ''Negusie v. Holder'' |journal=Boston College Third World Law Journal |volume=31 |issue=1 |pages=71–99 |doi= |url=http://lawdigitalcommons.bc.edu/twlj/vol31/iss1/4 }} . 
+
+[[Category:United States Supreme Court cases of the Roberts Court]]
+[[Category:United States immigration and naturalization case law]]

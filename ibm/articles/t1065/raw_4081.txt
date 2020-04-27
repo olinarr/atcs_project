@@ -1,0 +1,226 @@
+{{Democracy}}{{Forms of government}}
+'''Direct democracy''' (or '''pure democracy''')<ref>A. [http://www.aolsvc.worldbook.aol.com/wb/Article?id=ar153840 ''Democracy''] in World Book Encyclopedia, World Book Inc., 2006. B. [http://m-w.com/dictionary/pure%20democracy ''Pure democracy''] entry in Merriam-Webster Dictionary. C. [http://www.yourdictionary.com/ahd/p/p0667300.html ''Pure democracy''] entry in American Heritage Dictionary"</ref> is a form of government in which people vote on policy initiatives directly, as opposed to a representative democracy in which people vote for representatives who then vote on policy initiatives. <ref>{{cite book|author=Budge, Ian|chapter=Direct democracy|editors=Clarke, Paul A.B. & Foweraker, Joe|title=Encyclopedia of Political Thought|publisher=Taylor & Francis|year=2001|isbn=978-0-415-19396-2|url=http://books.google.com/books?id=srzDCqnZkfUC&pg=PA224}}</ref> Depending on the particular system in use, it might entail passing executive decisions, making [[law]]s, directly electing or dismissing officials and conducting [[trial]]s. Two leading forms of direct democracy are [[Participatory democracy]] and [[Deliberative democracy]].  . 
+
+Many countries that are representative democracies allow for three forms of political action that provide limited direct democracy: [[referendum]] (plebiscite), [[initiative]], and [[recall election|recall]]. Referendums can include the ability to hold a binding vote on whether a given law should be rejected. This effectively grants the populace which holds suffrage a [[veto]] on a law adopted by the elected legislature. (One nation to use this system is [[Switzerland]].) Initiatives, usually put forward by members of the general public, compel the consideration of laws (usually in a subsequent referendum) without the consent of the elected representatives, or even against their expressed opposition. Recalls give public the power to remove elected officials from office before the end of their term, although this is very rare in modern democracies. <ref> {{Harvnb|Fiskin|2011|loc= Chapters 2 & 3. }}</ref> Writers with anarchist sympathies have argued that Direct democracy is opposed to a strong central authority, as decision making power can only reside at one level - with the people themselves or with the central authority. <ref> {{Harvnb|Ross|2011|loc= Chapter 3 }}</ref>   Some of the most important modern thinkers who were inspired by the concept of direct democracy are: [[Cornelius Castoriadis]], [[Hannah Arendt]], and [[Pierre Clastres]].{{Citation needed|date=November 2011}} . 
+
+==History==. 
+{{See also|History of democracy}}
+The earliest known direct democracy is said to be the [[Athenian democracy]] in the 5th century BC, although it may be argued that it was not a liberal democracy because women, foreigners and [[slavery|slaves]] were excluded from it. The main bodies in the Athenian democracy were the [[Popular assembly|assembly]], composed of male citizens; the [[boule (ancient Greece)|boule]], composed of 500 citizens; and the law courts, composed of a massive number of juries chosen by lot, with no judges. Out of the male population of 30,000, several thousand citizens were politically active every year and many of them quite regularly for years on end. The Athenian democracy was not only ''direct'' in the sense that decisions were made by the assembled people, but also in the sense that the people through the assembly, boule and law courts controlled the entire political process and a large proportion of citizens were involved constantly in the public business. <ref>Raafaub, 2007, p. 5</ref> Modern democracies do not use institutions that resemble the Athenian system of rule.  . 
+
+Also relevant is the history of [[Ancient Rome|Roman]] republic beginning circa 449 BC. <ref name=cary67>(Cary, 1967)</ref> The ancient Roman Republic's "citizen lawmaking"&nbsp;&ndash; citizen formulation and passage of law, as well as citizen veto of legislature-made law&nbsp;&ndash; began about 449 BC and lasted the approximately 400 years to the death of [[Julius Caesar]] in 44 BC. Many historians mark the end of the Republic on the passage of a law named the ''[[Lex Titia]]'', 27 November 43 BC. <ref name=cary67/> . 
+
+Modern-era citizen lawmaking began in the towns of [[Switzerland]] in the 13th century. In 1847, the Swiss added the "statute referendum" to their national constitution. They soon discovered that merely having the power to veto Parliament's laws was not enough. In 1891, they added the "constitutional amendment initiative". The Swiss political battles since 1891 have given the world a valuable experience base with the national-level constitutional amendment initiative (Kobach, 1993). In the past 120 years, more than 240 initiatives have been put to referendum. The populace has been conservative, approving only about 10% of these initiatives; in addition, they have often opted for a version of the initiative rewritten by government. (See [[#Switzerland|''Direct democracy in Switzerland'']] below.) Another example is the [[United States]], where, despite being a [[federal republic]] where no direct democracy exists at the federal level, almost half the [[U.S. state|states]] (and many localities) provide for citizen-sponsored ballot initiatives (also called "ballot measures" or "ballot questions") and the vast majority of the states have either initiatives and/or referenda. (See [[#United States|''Direct democracy in the United States'']] below.){{Citation needed|date=May 2011}} . 
+
+Some of the issues surrounding the related notion of a direct democracy using the [[Internet]] and other communications technologies are dealt with in [[e-democracy]] and below under the term ''electronic direct democracy''. More concisely, the concept of [[open source governance]] applies principles of the [[free software movement]] to the governance of people, allowing the entire populace to participate in government directly, as much or as little as they please. This development strains the traditional concept of democracy, because it does not necessarily give equal representation to each person. Some implementations may even be considered democratically-inspired [[meritocracy|meritocracies]], where contributors to the code of laws are given preference based on their ranking by other contributors.{{Citation needed|date=May 2011}} . 
+
+==Examples==. 
+===Ancient Athens===. 
+{{Main|Athenian democracy}}
+Athenian democracy  developed in the [[Ancient Greece|Greek]] [[city-state]] of [[Classical Athens|Athens]], comprising the central city-state of Athens and the surrounding territory of [[Attica]], around 500 BC. Athens was one of the [[History of democracy#Athens|very first known democracies]]. Other Greek cities set up democracies, and even though most followed an Athenian model, none were as powerful, stable, or as well-documented as that of Athens. In that direct democracy the people did not elect representatives to vote on their behalf but vote on legislation and executive bills in their own right. Participation was by no means open, but the in-group of participants was constituted with no reference to economic class and they participated on a big scale. The [[public opinion]] of voters was remarkably influenced by the [[political satire]] performed by the [[Ancient Greek comedy|comic poets]] at the [[Ancient Greek theatre|theatres]]. <ref>Henderson, J. (1993) ''Comic Hero versus Political Elite'' pp.307-19 in {{Cite book|editor=Sommerstein, A.H.; S. Halliwell, J. Henderson, B. Zimmerman |title=Tragedy, Comedy and the Polis |year=1993 |publisher=Levante Editori |location=Bari}}</ref> . 
+
+[[Solon]] (594 BC), [[Cleisthenes]] (508/7 BC), and [[Ephialtes]] (462 BC) all contributed to the development of Athenian democracy. Historians differ on which of them was responsible for which institution, and which of them most represented a truly democratic movement. It is most usual to date Athenian democracy from Cleisthenes, since Solon's constitution fell and was replaced by the tyranny of [[Peisistratos|Peisistratus]], whereas Ephialtes revised Cleisthenes' constitution relatively peacefully. 
+[[Hipparchus (son of Pisistratus)|Hipparchus]], the brother of the tyrant [[Hippias (son of Pisistratus)|Hippias]], was killed by [[Harmodius and Aristogeiton]], who were subsequently honored by the Athenians for their alleged restoration of Athenian freedom.  . 
+
+The greatest and longest lasting democratic leader was [[Pericles]]; after his death, Athenian democracy was twice briefly interrupted by oligarchic revolution towards the end of the [[Peloponnesian War]]. It was modified somewhat after it was restored under [[Eucleides]]; the most detailed accounts are of this fourth-century modification rather than the Periclean system. It was suppressed by the [[Macedon]]ians in 322 BC. The Athenian institutions were later revived, but the extent to which they were a real democracy is debatable. <ref> {{Harvnb|Elster|1998 loc= pages 1-3 }}</ref> . 
+
+===Switzerland===. 
+{{Main|Voting in Switzerland}}
+In [[Switzerland]], single majorities are sufficient at the town, city, and [[cantons of Switzerland|canton]] level, but at the national level, [[Double majority|double majorities]] are required on constitutional matters. The intent of the double majorities is simply to ensure any citizen-made law's [[legitimacy (law)|legitimacy]] (Kobach, 1993).  . 
+
+Double majorities are, first, the approval by a majority of those voting, and, second, a majority of cantons in which a majority of those voting approve the ballot measure. A citizen-proposed law (i.e. [[initiative]]) cannot be passed in Switzerland at the national level if a majority of the people approve but a majority of the cantons disapprove (Kobach, 1993). For referendums or propositions in general terms (like the principle of a general revision of the Constitution), the majority of those voting is enough (Swiss constitution, 2005).  . 
+
+In 1890, when the provisions for Swiss national citizen lawmaking were being debated by civil society and government, the Swiss adopted the idea of double majorities from the [[United States Congress]], in which House votes were to represent the people and Senate votes were to represent the [[U.S. state|states]] (Kobach, 1993). According to its supporters, this "legitimacy-rich" approach to national citizen lawmaking has been very successful. Kobach claims that Switzerland has had tandem successes both socially and economically which are matched by only a few other nations. Kobach states at the end of his book, "Too often, observers deem Switzerland an oddity among political systems. It is more appropriate to regard it as a pioneer." Finally, the Swiss political system, including its direct democratic devices in a [[multi-level governance]] context, becomes increasingly interesting for scholars of [[European Union]] integration (see Trechsel, 2005) . 
+
+===United States===. 
+{{Main|History of direct democracy in the United States}}
+Direct democracy was very much opposed by the framers of the [[United States Constitution]] and some signatories of the [[United States Declaration of Independence|Declaration of Independence]]. They saw a danger in majorities forcing their will on minorities. As a result, they advocated a [[representative democracy]]{{Citation needed|date=August 2010}} in the form of a [[constitutional republic]] over a direct democracy. For example, [[James Madison]], in [[Federalist No. 10]] advocates a constitutional republic over direct democracy precisely to protect the individual from the will of the majority. He says, "A pure democracy can admit no cure for the mischiefs of faction. A common passion or interest will be felt by a majority, and there is nothing to check the inducements to sacrifice the weaker party. Hence it is, that democracies have ever been found incompatible with personal security or the rights of property; and have, in general, been as short in their lives as they have been violent in their deaths."<ref>[http://www.constitution.org/fed/federa10.htm The Federalist No. 10&nbsp;&ndash; The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection (continued)&nbsp;&ndash; Daily Advertiser&nbsp;&ndash; November 22, 1787&nbsp;&ndash; James Madison]. Retrieved 2007-09-07. </ref> [[John Witherspoon]], one of the signers of the [[Declaration of Independence]], said "Pure democracy cannot subsist long nor be carried far into the departments of state&nbsp;&ndash; it is very subject to caprice and the madness of popular rage." [[Alexander Hamilton]] said, "That a pure democracy if it were practicable would be the most perfect government. Experience has proved that no position is more false than this. The ancient democracies in which the people themselves deliberated never possessed one good feature of government. Their very character was tyranny; their figure, deformity."<ref>Zagarri, Rosemarie (2010), ''The Politics of Size: Representation in the United States, 1776-1850'', Cornell University, p. 97. ISBN 978-0-8014-7639-6</ref> . 
+
+Despite the framers' intentions in the beginning of the republic, ballot measures and their corresponding referendums have been widely used at the state and sub-state level. There is much state and federal [[case law]], from the early 1900s to the 1990s, that protects the people's right to each of these direct democracy governance components (Magleby, 1984, and Zimmerman, 1999). The first [[United States Supreme Court]] ruling in favor of the citizen lawmaking was in ''Pacific States Telephone and Telegraph Company v. Oregon'', 223 U.S. 118 in 1912 (Zimmerman, December 1999). [[President of the United States|President]] [[Theodore Roosevelt]], in his "Charter of Democracy" speech to the 1912 [[Ohio]] constitutional convention, stated "I believe in the Initiative and Referendum, which should be used not to destroy representative government, but to correct it whenever it becomes misrepresentative."<ref>Watts, Duncan (2010), ''Dictionary of American Government and Politics'', Edinburgh University, p. 75. ISBN 978-0-7486-3501-6</ref> . 
+
+In various states, referendums through which the people rule include:{{Citation needed|date=May 2011}}
+*''Referrals'' by the legislature to the people of "proposed constitutional amendments" (constitutionally used in 49 states, excepting only [[Delaware]]&nbsp;&ndash; Initiative & Referendum Institute, 2004). 
+*''Referrals'' by the legislature to the people of "proposed statute laws" (constitutionally used in all 50 states&nbsp;&ndash; Initiative & Referendum Institute, 2004). 
+*''Constitutional amendment initiative'' is a constitutionally-defined petition process of "proposed constitutional law", which, if successful, results in its provisions being written directly into the state's constitution. Since constitutional law cannot be altered by state legislatures, this direct democracy component gives the people an automatic superiority and sovereignty, over representative government (Magelby, 1984). It is utilized at the state level in eighteen states: [[Arizona]], [[Arkansas]], [[California]], [[Colorado]], [[Florida]], [[Illinois]], [[Massachusetts]], [[Michigan]], [[Mississippi]], [[Missouri]], [[Montana]], [[Nebraska]], [[Nevada]], [[North Dakota]], [[Ohio]], [[Oklahoma]], [[Oregon]] and [[South Dakota]] (Cronin, 1989). Among the eighteen states, there are three main types of the constitutional amendment initiative, with different degrees of involvement of the state legislature distinguishing between the types (Zimmerman, December 1999). 
+*''Statute law initiative'' is a constitutionally-defined, citizen-initiated, petition process of "proposed statute law", which, if successful, results in law being written directly into the state's statutes. The statute initiative is used at the state level in twenty-one states: [[Alaska]], Arizona, Arkansas, California, Colorado, [[Idaho]], [[Maine]], Massachusetts, Michigan, Missouri, Montana, Nebraska, Nevada, North Dakota, Ohio, Oklahoma, Oregon, South Dakota, [[Utah]], [[Washington (U.S. state)|Washington]] and [[Wyoming]] (Cronin, 1989). Note that, in Utah, there is no constitutional provision for citizen lawmaking. All of Utah's I&R law is in the state statutes (Zimmerman, December 1999). In most states, there is no special protection for citizen-made statutes; the legislature can begin to amend them immediately. 
+*''Statute law referendum'' is a constitutionally-defined, citizen-initiated, petition process of the "proposed veto of all or part of a legislature-made law", which, if successful, repeals the standing law. It is used at the state level in twenty-four states: Alaska, Arizona, Arkansas, California, Colorado, Idaho, [[Kentucky]], Maine, [[Maryland]], Massachusetts, Michigan, Missouri, Montana, Nebraska, Nevada, [[New Mexico]], North Dakota, Ohio, Oklahoma, Oregon, South Dakota, Utah, Washington and Wyoming (Cronin, 1989). 
+*The ''recall'' is a constitutionally-defined, citizen-initiated, petition process, which, if successful, removes an elected official from office by "recalling" the official's election. In most state and sub-state jurisdictions having this governance component, voting for the ballot that determines the recall includes voting for one of a slate of candidates to be the next office holder, if the recall is successful. It is utilized at the state level in nineteen states: Alaska, Arizona, California, Colorado, [[Georgia (U.S. state)|Georgia]], Idaho, Illinois, [[Kansas]], [[Louisiana]], Michigan, [[Minnesota]], Montana, Nevada, [[New Jersey]], North Dakota, Oregon, [[Rhode Island]], Washington and [[Wisconsin]] (National Conference of State Legislatures, 2011, [http://www.ncsl.org/default.aspx?tabid=16581 Recall Of State Officials]).  . 
+
+There are now a total of 24 U.S. states with constitutionally-defined, citizen-initiated, direct democracy governance components (Zimmerman, December 1999). In the United States, for the most part only one-time majorities are required (simple majority of those voting) to approve any of these components.{{Citation needed|date=May 2011}} . 
+
+In addition, many localities around the U.S. also provide for some or all of these direct democracy governance components, and in specific classes of initiatives (like those for raising taxes), there is a [[supermajority]] voting threshold requirement. Even in states where direct democracy components are scant or nonexistent at the state level, there often exists [[local option]]s for deciding specific issues, such as whether a county should be "wet" or "dry" in terms of whether alcohol sales are allowed.{{Citation needed|date=May 2011}} . 
+
+In the U.S. [[region]] of [[New England]], many municipalities (styled ''[[New England town|towns]]'' in contrast to ''cities'') practice a very limited form of [[home rule]], and decide local affairs through the direct democratic process of the [[town meeting]].[http://books.google.fr/books?hl=en&lr=&id=2A35hJAR7u0C&oi=fnd&pg=PR7&dq=new+england+town+home+rule&ots=22O-fb1P2q&sig=QyFjJPQfTDqMihiBdj0f5UIgCdc#v=onepage&q&f=false] . 
+
+==Democratic reform trilemma==. 
+Democratic theorists have identified a trilemma due to the presence of three desirable characteristics of an ideal system of direct democracy, which are challenging to deliver all at once.  These three characteristics are ''participation'' - widespread participation in the decision making process by the people effected; ''deliberation'' - a rational discussion where all major points of view are weighted according to evidence; and ''equality'' -  all members of the population on whose behalf decisions are taken have an equal chance of having their views taken into account. Empirical evidence from dozens of studies suggests deliberation leads to better decision making. <ref>{{Harvnb|Ross|2011|loc= Chapter 3 }}</ref><ref>{{Harvnb|Elster|1998|loc = chapter 5}}</ref><ref> Even Susan C. Strokes in her critical essay ''Pathologies of Deliberation'' (Chapter 5 of Elster 1998) concedes that a majority of academics in the field agree with this view. </ref> However, the more participants there are the more time and money is needed to set up good quality discussions with clear neutrally presented briefings. Also it is hard for each individual to contribute substantially to the discussion when large numbers are involved. For the system to respect the principle of political equality, either ''everyone'' needs to be involved or there needs to be a representative random sample of people chosen to take part in the discussion. In the definition used by scholars such as James Fiskin, [[deliberative democracy]] is a form of direct democracy which satisfies the requirement for deliberation and equality but does not make provision to involve everyone who wants to be included in the discussion. [[Participatory democracy]], by Fiskin's definition, allows inclusive participation and deliberation, but at a cost of sacrificing equality - because widespread participation is allowed there will rarely be sufficient resources to compensate people who give up their time to take part in the deliberation, and so the participants tend to be those with a strong interest in the issue to be decided, and therefore will often not be representative of the overall population. <ref>Fiskin suggests they may even have been directly mobalised by interest groups or be largely composed of people who have fallen for political propoganda and so have inflamned and distorted opinions. </ref> Fiskin instead argues that random sampling should be used to select a small but still representative number of people from the general public. <ref>{{Harvnb|Fiskin|2011|loc= Chapters 2 & 3. }}</ref><ref>{{Harvnb|Ross|2011|loc= Chapter 3 }}</ref> . 
+
+Fiskin concedes it is possible to imagine a system that transcends the trilemma, but it would require very radical reforms if such a system is to be integrated into mainstream politics. To an extent, the [[Occupy movement]] attempted to create a system that satisfies all three desirable requirements at once, but at a cost of the resulting system being widely criticized for being slow and unwieldy. <ref>{{cite news
+|url= http://www.ft.com/cms/s/0/7a106566-0931-11e1-8e86-00144feabdc0.html
+|title= The Occupy crowd is no match for banks
+|work= [[Financial Times]]
+|author= Michael Skapinker
+|date = 2011-11-09
+|accessdate=2011-11-14
+|format={{registration required}}}}</ref><ref name = "Penny">{{Cite web
+|url= http://www.newstatesman.com/blogs/laurie-penny/2011/10/spain-movement-square-world
+|title= Protest by consensus
+|publisher= [[New Statesman]]
+|author= Laurie Penny
+|date=2011-10-16
+|accessdate=2011-11-21}}
+</ref><ref name = "NYtimes">{{Cite web
+|url= http://www.nytimes.com/2011/10/26/opinion/will-extremists-hijack-occupy-wall-street.html
+|title= Will Extremists Hijack Occupy Wall Street?
+|publisher= [[The New York Times]]
+|author= James Miller
+|date=2011-10-25
+|accessdate=2011-11-21}}
+</ref><ref>{{Harvnb|Fiskin|2011|loc= Chapters 2 & 3. }}</ref> . 
+
+==Electronic direct democracy==. 
+{{Merge|E-democracy|date=December 2011}}
+'''Electronic direct democracy''' (EDD), also known as '''Direct Digital Democracy''' (DDD)<ref name=quezi>Quezi.com. [http://quezi.com/12164 What is Direct Digital Democracy?] Accessed 2011-11-26. </ref> or '''[[E-democracy]]'''<ref name=quezi/>, is a form of direct democracy which utilizes [[telecommunications]] to facilitate public participation. Electronic direct democracy is sometimes referred to by other names, such as [[open source governance]] and [[collaborative governance]].{{Citation needed|date=May 2011}} . 
+
+EDD requires [[electronic voting]] or some way to register votes on issues electronically. As in any direct democracy, in an EDD, citizens would have the right to vote on legislation, author new legislation, and recall representatives (if any representatives are preserved).{{Citation needed|date=May 2011}} . 
+
+Technology for supporting EDD has been researched and developed at the [[Florida Institute of Technology]],<ref>Kattamuri etal. "Supporting Debates Over Citizen Initiatives", Digital Government Conference, pp 279-280, 2005</ref> where the technology is used with student organizations. Numerous other software development projects are underway,<ref>[http://www.metagovernment.org/wiki/Active_projects List of active projects] involved in the Metagovernment project</ref> along with many supporting and related projects. <ref>[http://www.metagovernment.org/wiki/Related_projects List of related projects] from the Metagovernment project</ref> Several of these projects are now collaborating on a cross-platform architecture, under the umbrella of the Metagovernment project. <ref>[http://www.metagovernment.org/wiki/Standardization Standardization project] of the Metagovernment project. </ref> . 
+
+EDD as a system is not fully implemented in a political government anywhere in the world, although several initiatives are currently forming. [[Ross Perot]] was a prominent advocate of EDD when he advocated "electronic [[town meeting|town halls]]" during his [[United States presidential election, 1992|1992]] and [[United States presidential election, 1996|1996 presidential campaigns]] in the [[United States]]. [[Politics of Switzerland|Switzerland]], already partially governed by direct democracy, is making progress towards such a system. <ref>[http://web.archive.org/web/20070212194901/www.swissworld.org/dvd_rom/eng/direct_democracy_2004/content/votes/e_voting.html Electronic Voting in Switzerland (web archive link)]</ref>
+[[Senator Online]], an Australian political party running for the Senate in the [[Australian federal election, 2007|2007 federal elections]], proposed to institute an EDD system so that Australians can decide which way the senators vote on each and every bill. <ref>{{Cite web|title = Senator On-Line |url = http://senatoronline.com.au/ |accessdate = 2008-06-03}}</ref> A similar initiative was formed 2002 in Sweden where the party [[Aktivdemokrati]], running for the [[Parliament of Sweden|Swedish parliament]], offers its members the power to decide the actions of the party over all or some areas of decision, or alternatively to use a proxy with immediate recall for one or several areas. 
+Since early 2011 EDD parties are working together on the Participedia wiki
+[http://participedia.net/organizations/e2d-international E2D] . 
+
+The first mainstream direct democracy party to be registered with any country's electoral commission [checked against each country's register] is the UK's [http://www.PAparty.co.uk People's Administration Direct Democracy] party. The People's Administration have developed and published the complete architecture for a legitimate reform to EDD [including the required Parliamentary reform process]. Established by musicians [including Alex Romane] and political activists, the People's Administration advocates using the web and telephone to enable the majority electorate to create, propose and vote upon all policy implementation. The People's Administration's blueprint has been published in various forms since 1998 and the People's Administration is the first direct democracy party registered in a vote-able format anywhere in the world - making transition possible through evolution via election with legitimate majority support, instead of potentially through revolution via violence.  . 
+
+==Relation to other movements==. 
+Some anarchists (usually [[social anarchism|social anarchists]]){{Citation needed|date=June 2010}} have advocated forms of direct democracy as an alternative to the centralized state and capitalism; however, others (such as [[individualist anarchism|individualist anarchists]]) have criticized direct democracy and democracy in general for ignoring the rights of the minority, and instead have advocated a form of [[consensus decision-making]]. [[Libertarian Marxism|Libertarian Marxists]], however, fully support direct democracy in the form of the [[dictatorship of the proletariat|proletarian republic]] and see majority rule and citizen participation as virtues. The [[Young Communist League USA]] in particular refers to representative democracy as "bourgeois democracy", implying that they see direct democracy as "true democracy". <ref>{{Cite web|author=Author: membership Cmte |url=http://yclusa.org/article/articleview/1445/1/278/ |title=Young Communist League USA&nbsp;&ndash; Frequently Asked Questions |publisher=Yclusa.org |date= |accessdate=2010-05-02}}</ref> . 
+
+[[Sociocracy]] shares the aims of direct democracy{{Citation needed|date=December 2011}}, expressing it as the right of citizens to control the conditions of their lives. It uses consensus decision-making ("consent" defined as "no objections") for policy decisions and believes that majority vote is counter-productive because it creates inequality. To create "equivalence", sociocracy delegates policy decisions to those who execute them, not to a separate policy-making body like a Board of Directors or a Senate. Representatives continue to participate in the body that elected them as well as in the body in which they serve as a representative. This overlapping participation maintains consensus between bodies, not just within them. Sociocracy believes it is majority vote and autocratic decision-making that disenfranchise both voters and workers, not representational democracy. <ref>{{cite book|last=Buck|first=John|title=We the People: Consenting to a  Deeper Democracy|year=2007|publisher=Sociocracy.info|location=Washington DC|isbn=978-0-9792827-0-6|pages=277|url=http://www.sociocracy.info|coauthors=Sharon Villines|language=English}}</ref> . 
+
+==In schools==. 
+{{Main|Democratic school}} . 
+
+A [[democratic school]] is a school that centers on providing a democratic educational environment featuring "full and equal" [[participation (decision making)|participation]] from students and staff. These learning environments position youth voice as the central actor in the educative process by engaging students in every facet of school operations, including learning, teaching, leadership, justice, and democracy, through experience. <ref>Greenberg, D. (1992) Education in America&nbsp;&ndash; A View from Sudbury Valley, ''Democracy must be Experienced to be Learned''. {{Page needed|date=July 2010}}</ref><ref>Greenberg, D. (1987) The Sudbury Valley School Experience, ''Teaching Justice Through Experience''. {{Page needed|date=July 2010}}</ref> Adult staff support students by offering facilitation according to students' interests.  . 
+
+[[Sudbury model]] of democratic education schools are run by a [[Sudbury school#School Meeting|School Meeting]] where the students and staff participate exclusively and equally. Everyone who wishes to attend can vote, and there are no proxies. As with direct democracy elsewhere, participants are usually only those who have an interest in the topic. <ref>Greenberg, D. (1987) Free at Last&nbsp;&ndash; The Sudbury Valley School, Chapter 22, ''The School Meeting''. {{Page needed|date=July 2010}}</ref> . 
+
+[[Summerhill School]] in England has operated a direct democracy approach to decision making for over 80 years and has often come into conflict with the UK government as a result. The school won an appealed to the high court 1999 after it was threatened with closure after which the joint statement confirmed that: "The minister recognised the school had a right to its own philosophy and that any inspection should take into account its aims as an international 'free' school ... both sides went on record as agreeing that the pupils' voice should be fully represented in any evaluation of the quality of education at Summerhill and that inspections must consider the full breadth of learning at the school&nbsp;&ndash; learning was not confined to lessons". <ref>{{Cite web|url=http://news.bbc.co.uk./1/hi/education/688152.stm|title=Summerhill closure threat lifted|work=BBC News|accessdate=2010-03-11}}</ref> . 
+
+==Contemporary movements==. 
+Some [[Wikipedia:Notability (organizations and companies)|notable]] contemporary movements working for direct democracy via direct democratic [[praxis (process)|praxis]] include:<ref>[http://www.metagovernment.org/wiki/Related_projects Extensive list of projects], mostly oriented toward direct democracy</ref>
+* [[Abahlali baseMjondolo]]&nbsp;&ndash; South African shack dwellers' movement
+* [[Aktivdemokrati]]&nbsp;&ndash; Political party for e-democracy [[Sweden]]
+* [[Autonomous Action]]&nbsp;&ndash; a Russian libertarian communist and anarchist movement
+* [[Change 2011]]&nbsp;&ndash; a Finnish political party
+* [[Demoex]]&nbsp;&ndash; direct democracy party and experiment in Sweden
+* [[Direct Democracy (British Conservative Party)]]&nbsp;&ndash; Campaign group within the UK Conservative Party{{Citation needed|date=December 2011}}
+*  [[Homeless Workers' Movement]]- Brazilian favela-based movement{{Citation needed|date=December 2011}}
+*  [[I&R ~ GB Citizens' Initiative and Referendum]]&nbsp;&ndash; Campaign for Direct Democracy in Britain and Northern Ireland{{Citation needed|date=December 2011}}
+* [[Inclusive Democracy]]&nbsp;&ndash; [[Takis Fotopoulos]]' Inclusive Democracy Project & Journal of Inclusive Democracy
+* [[Internet Party]], Spain. Registered party proposing a [[liquid democracy]] system. 
+* [[Occupy Movement]] and [[Occupy Wall Street]]
+* [[¡Democracia Real YA!]]Real Democracy NOW! Movement started from Spain. 
+* [[Landless People's Movement]]&nbsp;&ndash; South African movement of people without land{{Citation needed|date=December 2011}}
+* [[Landless Workers' Movement]]&nbsp;&ndash; Brazilian landless people's movement{{Citation needed|date=December 2011}}
+* The [[Metagovernment]] project&nbsp;&ndash; Global umbrella group supporting development and implementation of Internet-based governance software
+* [[The Movement For a Democracy of Content]] United States, South Africa, United Kingdom, Germany, Switzerland{{Citation needed|date=December 2011}}
+* The [[National Initiative for Democracy]]&nbsp;&ndash; United States movement led by former US Senator [[Mike Gravel]] to allow national ballot initiatives
+* [[Online Party of Canada]]&nbsp;&ndash; Electronic direct democracy party (pending registration) in [[Canada]]
+* The [[Party of Internet Democracy]]&nbsp;&ndash; Direct democracy party in [[Hungary]]
+* [http://paparty.co.uk People's Administration Direct Democracy Party]
+* [[Senator On-Line]]&nbsp;&ndash; Electronic direct democracy party in [[Australia]]
+* [[Students for a Democratic Society (2006 organization)|Students for a Democratic Society]]&nbsp;&ndash; American students' movement{{Citation needed|date=December 2011}}
+* [[Vetëvendosje!|Selfdetermination]]&nbsp;&ndash; Kosovo Albanian political movement{{Citation needed|date=December 2011}}
+* [[Western Cape Anti-Eviction Campaign]]&nbsp;&ndash; Militant poor people's movement in Cape Town{{Citation needed|date=December 2011}}
+* [[Zapatista Army of National Liberation]]&nbsp;&ndash; Mexican indigenous people's movement{{Citation needed|date=December 2011}} . 
+
+==See also==. 
+*[[Autonomy]]
+*[[Democratic centralism]]
+*[[Direct Democracy Party of New Zealand]]
+*[[Participatory democracy]]
+*[[Participatory economics]]
+*[[Popular assembly]]
+*[[Proxy voting]], esp. ''delegated voting''
+*[[Sociocracy]]
+*[[Sortition]]
+*[[Soviet democracy]]
+*[[Inclusive Democracy]]
+*[[Libertarian municipalism]]
+*[[Libertarian socialism]]
+*[[Workers' councils]] . 
+
+==Notes and citations==. 
+{{Reflist|2}} . 
+
+==References==. 
+* {{cite book
+| author= [[Jon Elster|Jon Elster(editor)]] | year=1998 | title= Deliberative Democracy (Cambridge Studies in the Theory of Democracy)
+| publisher= [[Cambridge University Press]]
+| isbn= 0-521-59696-3
+|ref = CITEREFElster1998}} . 
+
+* {{cite book
+| author= James s Fiskin | year=2011 | title= When the People Speak
+| publisher= [[Oxford University Press]]
+| isbn= 978-0-19-960443-2
+|ref = CITEREFFiskin2011}} . 
+
+* {{cite book
+| author= [[Carne Ross]] | year=2011 | title= The Leaderless Revolution: How Ordinary People Can Take Power and Change Politics in the 21st Century
+| publisher= Simon & Schuster
+| isbn= 1-84737-534-0
+|ref = CITEREFRoss2011}} . 
+
+===Bibliography===. 
+* A. Gutmann, D. F. Thompson, "Why Deliberative Democracy?", Princeton University Press, 2004, [http://books.google.co.uk/books?id=OmlrGo1fZdMC Google Books]
+* Raaflaub K. A., Ober J., Wallace R. W., ''Origins of Democracy in Ancient Greece'', University of California Press, 2007 . 
+
+==Further reading==. 
+*Arnon, Harel (January 2008). "A Theory of Direct Legislation" (LFB Scholarly)
+*Cary, M. (1967) ''A History Of Rome: Down To The Reign Of Constantine.'' St. Martin's Press, 2nd edition. 
+*Cronin, Thomas E. (1989). ''Direct Democracy: The Politics Of Initiative, Referendum, And Recall.'' Harvard University Press. 
+*Finley, M.I. (1973). ''Democracy Ancient And Modern''. Rutgers University Press. 
+* [[Takis Fotopoulos|Fotopoulos, Takis]], ''Towards an Inclusive Democracy: The Crisis of the Growth Economy and the Need for a New Liberatory Project'' (London & NY: Cassell, 1997). 
+*[[Takis Fotopoulos|Fotopoulos, Takis]], ''The Multidimensional Crisis and [[Inclusive Democracy]]''. (Athens: Gordios, 2005). ([http://www.inclusivedemocracy.org/fotopoulos/english/brbooks/multi_crisis_id/multi_crisis_id.htm English translation] of the book with the same title published in Greek). 
+* [[Takis Fotopoulos|Fotopoulos, Takis]], [http://www.inclusivedemocracy.org/journal/vol2/vol2_no2_Takis_liberal_socialist.htm "Liberal and Socialist 'Democracies' versus Inclusive Democracy"], ''The International Journal of INCLUSIVE DEMOCRACY'', vol.2, no.2, (January 2006). 
+*Gerber, Elisabeth R. (1999). ''The Populist Paradox: Interest Group Influence And The Promise Of Direct Legislation''. Princeton University Press. 
+*[[Mogens Herman Hansen|Hansen, Mogens Herman]] (1999). ''The Athenian Democracy in the Age of Demosthenes: Structure, Principles and Ideology''. University of Oklahoma, Norman (orig. 1991). 
+*Kobach, Kris W. (1993). ''The Referendum: Direct Democracy In Switzerland''. Dartmouth Publishing Company. 
+*[[Hans Köchler|Köchler]], Hans (1995). [http://hanskoechler.com/DEM-CON.HTM ''A Theoretical Examination of the Dichotomy between Democratic Constitutions and Political Reality'']. University Center Luxemburg. 
+*Magleby, David B. (1984). ''Direct Legislation: Voting on Ballot Propositions in The United States''. Johns Hopkins University Press. 
+* [http://www-rcf.usc.edu/~matsusak/  Matsusaka John G.]  [http://www.press.uchicago.edu/presssite/metadata.epl?mode=synopsis&bookkey=3615566 For the Many or the Few] The Initiative, Public Policy, and American Democracy, Chicago Press
+*National Conference of State Legislatures, (2004). [http://www.ncsl.org/programs/legman/elect/recallprovision.htm Recall of State Officials]
+*[[Akiva Orr|Orr Akiva]] e-books, Free download : Politics without politicians&nbsp;&ndash; Big Business, Big Government or Direct Democracy. 
+* Pimbert, Michel (2010). Reclaiming citizenship: empowering civil society in policy-making. In: Towards Food Sovereignty. http://pubs.iied.org/pdfs/G02612.pdf?  e-book. Free download. 
+*Polybius (c.150 BC). ''The Histories''. Oxford University, The Great Histories Series, Ed., Hugh R. Trevor-Roper and E. Badian. Translated by Mortimer Chanbers. Washington Square Press, Inc (1966). 
+*Reich, Johannes (2008). [http://ssrn.com/abstract=1154019 ''An Interactional Model of Direct Democracy&nbsp;&ndash; Lessons from the Swiss Experience'']. SSRN Working Paper. 
+*Verhulst Jos en Nijeboer Arjen [http://www.democracy-international.org/book-direct-democracy.html Direct Democracy] e-book in 8 languages. Free download. 
+*Zimmerman, Joseph F. (March 1999). [http://www.questia.com/library/book/the-new-england-town-meeting-democracy-in-action-by-joseph-f-zimmerman.jsp ''The New England Town Meeting: Democracy In Action'']. Praeger Publishers. 
+*Zimmerman, Joseph F. (December 1999). ''The Initiative: Citizen Law-Making''. Praeger Publishers.  . 
+
+==External links==. 
+<!-- Please keep this list alphabetized. Thanks! -->
+*[http://democracy.mkolar.org/DDlinks.html Direct democracy links]
+*{{dmoz|Society/Politics/Democracy/Direct_Democracy/}}
+*[http://participedia.net/organizations/e2d-international] Electronic Direct Democracy organisations on Participedia
+*[http://wsm.ie/c/occupy-movement-zapatistas-general-assemblies Occupy Movement, the Zapatista's and the General Assemblies]
+*[http://www.iniref.org I&R ~ GB Campaign for Direct Democracy in Britain INIREF]
+*[http://www.realdirectdemocracynow.blogspot.com Real Direct Democracy Now] Blog on Real Direct Democracy Now
+*[http://www.seasonalmagazine.com/2010/12/indias-greatest-challenge-is-its.html The Need for Direct Democracy in India]
+*[http://bulgaria.indymedia.org/article/38102 The direct democracy as an alternative proposition]
+*[http://new-compass.net/articles/popular-assemblies-revolts-and-revolutions Popular Assemblies in Revolts and Revolutions] . 
+
+===Multimedia===. 
+*Documentary: [http://www.youtube.com/watch?v=Vu8J_UKKa-c&list=UUyLaxkXE8Zg5AHFwSbwADgA&index=4&feature=plcp ''Direct Democracy''] . 
+
+{{DEFAULTSORT:Direct Democracy}}
+[[Category:Democracy]]
+[[Category:Direct democracy| ]]
+[[Category:Autonomy]]
+[[Category:Ancient Greek society]]
+[[Category:Anarchist theory]]
+[[Category:Politics of Switzerland]]
+[[Category:Referendums]]
+[[Category:Political philosophy]]
+[[Category:Social anarchism]]

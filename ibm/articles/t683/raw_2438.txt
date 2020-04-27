@@ -1,0 +1,194 @@
+[[Image:Tauernwindpark.jpg|thumb|[[Vestas]] V66-1.75[[megawatt|MW]] [[wind turbine]]s of the Tauern Wind Park in [[Oberzeiring]]]] . 
+
+Although [[Austria]] is a landlocked country with a distinguished hilly [[topography]], meteorological preconditions permit the [[utilization]] of [[wind power]]. First calculations on the basis of wind measuring data assessed at the meteorological stations in the early 1980s rendered the surprising result of annually approx. 6,600 to 10,000 [[gigawatt-hour]] (GWh) of technically exploitable wind energy potential in Austria. <ref name="awpia">{{cite web
+  | title = Analyzing the Wind Power Industry in Austria
+  | publisher = Research and Markets
+  | date = 2009
+  | url = http://www.researchandmarkets.com/reports/706024/analyzing_the_wind_power_industry_in_austria.htm
+  | accessdate = 2009-12-07}}</ref> . 
+
+Austria ranked as the world’s seventeenth largest producer of wind power with an installed [[Intermittent power source#Terminology|nameplate capacity]] of 995&nbsp;[[megawatt]] (MW) in 2008, behind [[Wind power in Ireland|Ireland]] and ahead of [[Wind power in Greece|Greece]]. <ref name="gwec2007">{{cite web
+  | title = Global wind 2007 report
+  | publisher = Global Wind Energy Council
+  | date = May 2008
+  | url = http://www.gwec.net/index.php?id=90
+  | accessdate = 2008-11-21
+  | page=10}}</ref>  . 
+
+==History==. 
+Back in the 1980s, there were huge private wind measurements and experiments with smaller plants.  In 1994, initiated by Councilor Waltner, 110 [[kilowatt]] (kW) [[wind turbine]] was set up in [[St. Pölten]]. Another wind turbine was put into operation six months later in [[Zistersdorf]]. In 1995, the first wind turbine was built with civic participation in [[Michelbach, Lower Austria|Michelbach]].  . 
+
+In January 1996, the first turbine of the type E-40 with 500 kW was placed in [[Eberschwang]]. Not only the absolute largest wind turbines were placed there, but with two plants the first „[[wind farm]]“ was established. In the course of 1996, no signs of new funding arrangements had emerged. It led by the end of the year in a panic reaction from the first „boom“ for wind power.  . 
+
+36 wind turbines with 12 MW and an annual total of 18 million kW of work hours had been set up between New Year's Day and New Year's Eve. <ref name="ewe">{{cite web
+  | title = Geschichte der Windkraft in Österreich
+  | publisher = DI Helmut Waltner
+  | date = 2006
+  | url = http://www.waltner.co.at/wind/wind_1.html
+  | language = German
+  | accessdate = 2009-12-07}}</ref> After 1996, there were, only in exceptional cases, economic conditions for individual projects, including the wind park in [[Zurndorf]] with six plants.  . 
+
+The pressure of individual countries and the idea that desired objectives could be reached nationwide cheaper than by any nation-state alone resulted into negotiations between federal and state governments to a new nationwide [[Green Electricity Act 2002]] ''(Ökostromgesetz 2002)'' in spring 2002.  . 
+
+Wind turbines with a capacity of a total of 276 MW were built in 2003. The plant output tripled from 139 MW (end 2002) to 415 MW (end 2003) within a year. <ref name="ewe">{{cite web
+  | title = Geschichte der Windkraft in Österreich
+  | publisher = DI Helmut Waltner
+  | date = 2006
+  | url = http://www.waltner.co.at/wind/wind_1.html
+  | language = German
+  | accessdate = 2009-12-07}}</ref> . 
+
+==Economics== . 
+
+===Life span of wind turbines=== . 
+
+According to manufacturers, the life span of wind turbines amounts to 25 years. <ref name="tw">{{cite web
+  | title = Life span of Wind Turbines
+  | publisher = Tauernwind Windkraftanlagen G.m.b.H
+  | url = http://www.tauernwind.com/windenergie_e/windenergie_oeko_e.htm#
+  | accessdate = 2009-12-07}}</ref> Important influences on the life span are site specific (wind speed, storms, icing conditions) and the quality of the maintenance of the turbines.  . 
+
+===External costs=== . 
+
+[[External costs]] are not a part of the investment and operation costs, and are paid by the [[tax]] payer and therefore by the public. Examples of external costs for fossil fuel and nuclear electricity production are political and military securing of the access to these energy sources, costs of green house gase emissions, cleaning up of spilled oil, police operations during the transporting of nuclear wastes and other similar activities. There are no external costs for the production of electricity from wind. Wind power is a product with no [[hidden costs]] and economically the most inexpensive form of energy production. <ref name="tw">{{cite web
+  | title = External Costs
+  | publisher = Tauernwind Windkraftanlagen G.m.b.H
+  | url = http://www.tauernwind.com/windenergie_e/windenergie_oeko_e.htm#
+  | accessdate = 2009-12-07}}</ref> . 
+
+===Property for wind turbines=== . 
+
+Most of the property owners are farmers. They have an additional source of income by [[leasing]] their land to the wind park operator. The prices paid for property leases for wind turbines are many times more than would normally be earned by farming the property.  . 
+
+A wind turbine needs an area of up to 500 square metres (5,382 square feet) and the rest of the property can still be farmed without any problem. <ref name="tw">{{cite web
+  | title = Property for Wind Turbines
+  | publisher = Tauernwind Windkraftanlagen G.m.b.H
+  | url = http://www.tauernwind.com/windenergie_e/windenergie_oeko_e.htm#
+  | accessdate = 2009-12-07}}</ref> A wind turbine can also be easily and quickly dismantled.  . 
+
+===Costs of electricity production=== . 
+
+According to the costs for [[infrastructure]], a kW of installed capacity costs between 880 € and 1,385 €. (At the Tauernwindpark a kW costs 1,240 €). <ref name="tw">{{cite web
+  | title = Costs of Electricity Production
+  | publisher = Tauernwind Windkraftanlagen G.m.b.H
+  | url = http://www.tauernwind.com/windenergie_e/windenergie_oeko_e.htm#
+  | accessdate = 2009-12-07}}</ref> . 
+
+==Installed capacity growth==. 
+The table shows an annual increase in installed wind power capacity. <ref name="wp">{{cite web
+  | url = http://www.thewindpower.net/country-datasheet-13-austria.php
+  | title = The wind power
+  | accessdate = 2009-12-07}}</ref>  . 
+
+{| class="wikitable"
+. |-
+! Year
+! [[Intermittent power source#Terminology|Nameplate capacity]] (MW)
+. |-
+| 2000
+| 77
+. |-
+| 2001
+| 94
+. |-
+| 2002
+| 139  
+. |-
+| 2003
+| 415
+. |-
+| 2004
+| 606
+. |-
+| 2005
+| 819
+. |-
+| 2006
+| 965
+. |-
+| 2007
+| 982
+. |-
+| 2008
+| 995
+|} . 
+
+==Advantages== . 
+
+The use of wind power reduces the necessity for importing electricity from abroad and strengthens the regional economy. Just like water and wood, it is a natural resource that is used in rural areas. Wind energy is a more permanent type of energy. The wind will exist until the time the sun exists. Theoretically, if all the wind power available to humankind is harnessed, there can be ten times of energy we use readily available. <ref name="buzzle">{{cite web
+  | title = Advantages and Disadvantages of Wind Energy
+  | publisher = Buzzle.com
+  | author = Roy D'Silva
+  | date = 2007-05-04
+  | url = http://www.tauernwind.com/windenergie_e/windenergie_oeko_e.htm#
+  | accessdate = 2009-12-07}}</ref> Production of wind power does not release any pollutants. A wind park with 6 MW installed capacity will reduce approximately the following emissions yearly:<ref name="tw">{{cite web
+  | url = http://www.tauernwind.com/windenergie_e/windenergie_umwe_e.htm#
+  | title = Reduction of Pullutants
+  | accessdate = 2009-12-07}}</ref>  . 
+
+{| class="wikitable"
+. |-
+| Carbon dioxide
+| 13,600,000 kg
+. |-
+| Sulphur dioxide
+| 20,720 kg
+. |-
+| Nitrogen oxide
+| 10,220 kg
+. |-
+| Carbon monoxide
+| 8,550 kg
+. |-
+| Dust
+| 560 kg
+. |-
+| Nuclear wastes
+| 72 kg
+|} . 
+
+Compared to oil and [[natural gas]], wind power does not pose a threat to people or the environment. No war has to be fought to secure its accessibility and there is no danger concerning the transportation from one place to another.  . 
+
+==Gallery== . 
+
+<gallery>
+Image:Tauernwindpark2 am Schönberg, Oberzeiring.jpg|[[Vestas]] V66-1.75[[megawatt|MW]] [[wind turbine]]s of the Tauern Wind Park near [[Oberzeiring]]
+Image:Tauernwindpark.jpg|Tauern Wind Park
+Image:Tauernwind panorama wind park oberzeiring.jpg|Cattle grazing before Tauern Wind Park
+Image:Kanonenwasser-windpark.JPG|Pond for snow cannons near the Tauern Wind Park
+Image:Plöckenpass-pass-wind-generator.jpg|Wind turbine on the Austrian side of the [[Plöcken Pass]]
+Image:Windkraftwerk Turm innen.jpg|Ladder providing access to the nacelle of a wind turbine in Lower Austria. Photo taken following an inspection. The view is from bottom to top, showing the safety rope for the climb
+Image:European-union-renewables-fr.svg|Austria compared to other [[European Union|EU]] countries by percentage of energy from [[renewable energy|renewables]]
+Image:Wind power installed in Europe by end of 2007.svg|Austria compared to other [[European Union|EU]] countries by wind power installed capacity
+</gallery> . 
+
+==See also==. 
+{{portal box|Austria|Renewable energy}}
+*[[Energy in Austria]]
+*[[European Wind Energy Association]]
+*[[Global Wind Energy Council]]
+*[[Wind power in the European Union]] . 
+
+==Notes==. 
+{{reflist|2}} . 
+
+==References==. 
+;English
+*[http://www.researchandmarkets.com/reports/706024/analyzing_the_wind_power_industry_in_austria.htm/ Analyzing the Wind Power Industry in Austria]
+*[http://www.tauernwind.com/windenergie_e/windenergie_oeko_e.htm#/ Tauernwind]
+*[http://www.thewindpower.net/country-datasheet-13-austria.php Wind turbines and windfamrs database]
+*[http://www.buzzle.com/articles/advantages-disadvantages-wind-energy.html/ Advantages and Disadvantages of Wind Energy] . 
+
+;German
+*[http://www.waltner.co.at/wind/wind_1.html/ Geschichte der Windkraft in Österreich] . 
+
+==External links==. 
+{{Commonscat|Wind power in Austria}}
+*[http://www.igwindkraft.at/ Interessengemeinschaft Windkraft] - Austrian Wind Energy Association . 
+
+{{wind power}}
+{{Wind power by country}}
+{{Renewable energy by country}} . 
+
+[[Category:Wind power in Austria|Austria]]
+[[Category:Wind power in the European Union|Austria]]

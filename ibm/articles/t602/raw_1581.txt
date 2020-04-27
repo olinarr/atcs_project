@@ -1,0 +1,673 @@
+{{Infobox Education
+|country name          = Sweden
+|agency image          = 
+|agency                = [[Ministry of Education and Research (Sweden)|Ministry of Education and Research]]
+|leader titles         = Minister for Education
+|leader names          = [[Jan Björklund]]
+|budget                = 
+|funding per student   =
+|budget year           = 
+|primary languages     = Swedish
+|system type           = 
+|established events    = 
+|established dates     = 
+|literacy year         = 
+|literacy total        = 
+|literacy men          = 
+|literacy women        = 
+|enroll total          = 
+|enroll primary        = 891,727<ref name=statistics />
+|enroll secondary      = 394,771<ref name=statistics />
+|enroll post-secondary = 
+|enrollment year       = 2009/10
+|attain secondary      = 
+|attain post-secondary = 
+|attainment year       =
+|footnotes             = 
+}}
+{{Life in Sweden}}
+''' Education in Sweden''' is mandatory for all [[child]]ren from year 1 to year 9 - generally from the year of the child’s seventh birthday to the year of the child’s 16th
+birthday. <ref>{{Cite web| url = http://www.sweden.gov.se/content/1/c6/02/15/38/1532b277.pdf#page=11 | format = PDF | title = Education Act (1985:1100) | publisher = Swedish Government Offices | date=1985-12-12 | accessdate=2008-04-03}}</ref> The [[school year]] in [[Sweden]] runs from mid/late August to early/mid June. The Christmas holiday from mid December to early January divides the Swedish school year into two [[academic term|terms]]. [[Homeschooling]] is forbidden, unless there are "exceptional circumstances". <ref>http://www.hslda.org/hs/international/Sweden/default.asp and http://rohus.nu/en/?English_information</ref> . 
+
+From the age of one, children can be admitted to pre-school (''[[wikt:förskola#Swedish|förskola]]''). Pre-schools both help provide an environment that stimulates children's development and learning, and enable parents to combine parenthood with work or studies. <ref>http://www.skolverket.se/sb/d/2650</ref> During the year before children start compulsory school, all children are offered a place in a pre-school class (''förskoleklass''), which combines the pedagogical methods of the pre-school with those of compulsory school. <ref>http://www.skolverket.se/sb/d/2651/a/14987 and http://www.skolverket.se/sb/d/2651</ref> Between ages 6/7 and 15/16, children attend compulsory comprehensive school (''[[wikt:grundskola#Swedish|grundskola]]''), divided in three stages. The vast majority of schools in Sweden are municipally run, but there are also autonomous and publicly funded schools, known as "free schools". The education in free schools has many objectives in common with the municipal school, but it can have an orientation that differs from that of the municipal schools. <ref>http://www.skolverket.se/sb/d/2653 and http://www.skolverket.se/sb/d/2665/a/15011</ref> A handful of [[boarding school]]s, known as "private schools", are funded by privately paid tuition.  . 
+
+In 2008, statistics showed that of all Swedes aged 25–64, 15% have completed only compulsory education (as the highest level of attainment), 46% only upper secondary education, 14% only post-secondary education of less than 3 years, and 22% post-secondary education of 3 years or more. Women are more educated than men (26% of women vs 19% of men have post-secondary education of 3 years or more). <ref>http://www.scb.se/Pages/PressRelease____275784.aspx</ref> The level of education is highest among those aged 25–34, and it decreases with age. <ref>http://www.oecd.org/document/52/0,3746,en_2649_39263238_45897844_1_1_1_1,00.html</ref> Both upper secondary school and university studies are financed by taxes. Some Swedes go straight to work after secondary school. Along with several other European countries, the government used to subsidize tuition of international students pursuing a degree at Swedish institutions, but in 2010 they started charging international students 80,000-100,000 SEK per year . <ref>{{Cite web|url=http://www.studyinsweden.se/How-To-Apply/Basic-information/Fees-and-costs/ |title=Fees and costs - SWEDEN.SE |accessdate=2011-08-22 |format= |work=}}</ref> Swedish  15-years-old pupils have the 22nd highest average score in the [[Programme for International Student Assessment|PISA]] assessments, being neither significantly higher nor lower than the OECD average. <ref>[http://www.oecd.org/dataoecd/42/8/39700724.pdf http://www.oecd.org]</ref> Only [[Canada]], the [[United States]], and [[Japan]] have higher levels of tertiary degree holders.  . 
+
+==Diagram==. 
+{| class="wikitable" align="right": 1em"
+|+ '''Education in Sweden'''<span style="font-weight: normal"><ref name="skolverketKarta-se">
+{{Cite web
+ | url = http://skolnet.skolverket.se/polopoly/utbsys/
+ | title = Karta över utbildningssystemet
+ | accessdate= 2007-07-08
+ | author = Skolverket
+ | authorlink = Skolverket
+ | date= 2005-08-22
+ | publisher = Skolverket
+ | language = Swedish
+}}</ref><ref name="skolverketKarta-en">
+{{Cite web
+ | url = http://skolnet.skolverket.se/polopoly/utbsys-eng/
+ | title = The Swedish Education System
+ | accessdate= 2007-07-08
+ | author = Swedish National Agency for Education
+ | authorlink = Skolverket
+ | publisher = Swedish National Agency for Education
+}}</ref><ref name="newHigherEd-se">
+{{Cite web
+ | url = http://www.hogskoleverket.se/densvenskahogskolan/forandringar/nyautbildningsochexamensstrukturen.4.539a949110f3d5914ec800062698.html
+ | title = Den nya utbildnings- och examensstrukturen
+ | accessdate= 2007-07-08
+ | first = Lotta
+ | last = Bäcklin
+ | author = Lotta Bäcklin
+ | date= 2007-06-07
+ | publisher = Högskoleverket
+ | language = Swedish
+|archiveurl = http://web.archive.org/web/20070506234057/http://www.hogskoleverket.se/densvenskahogskolan/forandringar/nyautbildningsochexamensstrukturen.4.539a949110f3d5914ec800062698.html <!-- Bot retrieved archive --> |archivedate= 2007-05-06}}</ref><ref name="newHigherEd-en">
+{{Cite web
+ | url = http://www.hogskoleverket.se/highereducation/thenewstructureofprogrammesandqualifications.4.5ed111281136ce97c148000493.html
+ | title = The new structure of programmes and qualifications
+ | accessdate= 2007-07-08
+ | first = Lotta
+ | last = Bäcklin
+ | author = Lotta Bäcklin
+ | date= 2007-06-07
+ | publisher = Swedish National Agency for Higher Education
+|archiveurl = http://web.archive.org/web/20071009170355/http://www.hogskoleverket.se/highereducation/thenewstructureofprogrammesandqualifications.4.5ed111281136ce97c148000493.html <!-- Bot retrieved archive --> |archivedate= 2007-10-09}}</ref><ref name="UvsH-se">
+{{Cite web
+ | url = http://www.hogskoleverket.se/densvenskahogskolan/hogskolorna/universitetellerhogskola.4.539a949110f3d5914ec800063518.html
+ | title = Universitet eller högskola?
+ | accessdate= 2007-08-03
+ | first = Lennart
+ | last = Ståhle
+ | author = Lennart Ståhle
+ | date= 2007-05-30
+ | publisher = Högskoleverket
+ | language = Swedish
+}}</ref><ref name="UvsH-en">
+{{Cite web
+ | url = http://www.hogskoleverket.se/highereducation/highereducationinstitutions/universityoruniversitycollege.4.539a949110f3d5914ec800066338.html
+ | title = University or University College?
+ | accessdate= 2007-08-03
+ | first = Lennart
+ | last = Ståhle
+ | author = Lennart Ståhle
+ | date= 2007-06-11
+ | publisher = Swedish National Agency for Higher Education
+|archiveurl = http://web.archive.org/web/20071007075310/http://www.hogskoleverket.se/highereducation/highereducationinstitutions/universityoruniversitycollege.4.539a949110f3d5914ec800066338.html <!-- Bot retrieved archive --> |archivedate= 2007-10-07}}</ref>
+</span>
+. |-
+! Type of education
+! colspan="2" | School
+! colspan="3" | Designation
+. |- align="center"
+| rowspan="4" | ''Forskarutbildning''<br />(''forskarnivå'')<br />[[Postgraduate education|Postgraduate programmes]]<br />(doctoral level)
+| rowspan="4" | ''Universitet''<br />University
+| rowspan="4" | ''Högskola som har<br />vetenskapsområde''<br />University college entitled to conduct<br/>research in a particular discipline
+| colspan="3" | ''4:e året''
+. |- align="center"
+| colspan="3" | ''3:e året''
+. |- align="center"
+| colspan="3" | ''2:a året''
+. |- align="center"
+| colspan="3" | ''1:a året''
+. |- align="center"
+| rowspan="5" | ''Grundläggande högskoleutbildning''<br />(''grundnivå'' & ''avancerad nivå'')<br />[[Higher education]]<br />(undergraduate & graduate/master's level)
+| rowspan="5" | ''Universitet''<br />University<br />2–5 years
+| rowspan="5" | ''Högskola''<br />University college<br />2–5 years
+| colspan="2" | ''5:an''
+| ''Årskurs 5''
+. |- align="center"
+| colspan="2" | ''4:an''
+| ''Årskurs 4''
+. |- align="center"
+| colspan="2" | ''3:an''
+| ''Årskurs 3''
+. |- align="center"
+| colspan="2" | ''2:an''
+| ''Årskurs 2''
+. |- align="center"
+| colspan="2" | ''1:an''
+| ''Årskurs 1''
+. |- align="center"
+| rowspan="3" | ''Gymnasieutbildning''<br />[[Secondary school|Upper secondary school]]<br />(secondary school)
+| rowspan="3" colspan="2" | ''Gymnasieskola''<br />[[Gymnasium (school)|Upper secondary school]]<br />Ages 16–19
+| colspan="2" | ''3:an''
+| ''Tredje ring''
+. |- align="center"
+| colspan="2" | ''2:an''
+| ''Andra ring''
+. |- align="center"
+| colspan="2" | ''1:an''
+| ''Första ring''
+. |- align="center"
+| rowspan="9" bgcolor="#FFFFCC" | ''Grundskoleutbildning''<br />[[Primary school|Compulsory school]]<br />(primary school)
+| rowspan="9" colspan="2" bgcolor="#FFFFCC" | ''Grundskola''<br />Compulsory school<br />Ages 7–16<br />(compulsory)
+| bgcolor="#FFFFCC" | ''9:an''
+| bgcolor="#FFFFCC" | ''Skolår 9''
+| bgcolor="#FFFFCC" | ''Årskurs 9''
+. |- align="center"
+|  bgcolor="#FFFFCC" | ''8:an''
+|  bgcolor="#FFFFCC" | ''Skolår 7''
+|  bgcolor="#FFFFCC" | ''Årskurs 8''
+. |- align="center"
+| bgcolor="#FFFFCC" | ''7:an''
+| bgcolor="#FFFFCC" | ''Skolår 7''
+| bgcolor="#FFFFCC" | ''Årskurs 7''
+. |- align="center"
+| bgcolor="#FFFFCC" | ''6:an''
+| bgcolor="#FFFFCC" | ''Skolår 6''
+| bgcolor="#FFFFCC" | ''Årskurs 6''
+. |- align="center"
+| bgcolor="#FFFFCC" | ''5:an''
+| bgcolor="#FFFFCC" | ''Skolår 5''
+| bgcolor="#FFFFCC" | ''Årskurs 5''
+. |- align="center"
+| bgcolor="#FFFFCC" | ''4:an''
+| bgcolor="#FFFFCC" | ''Skolår 4''
+| bgcolor="#FFFFCC" | ''Årskurs 4''
+. |- align="center"
+| bgcolor="#FFFFCC" | ''3:an''
+| bgcolor="#FFFFCC" | ''Skolår 3''
+| bgcolor="#FFFFCC" | ''Årskurs 3''
+. |- align="center"
+| bgcolor="#FFFFCC" | ''2:an''
+| bgcolor="#FFFFCC" | ''Skolår 2''
+| bgcolor="#FFFFCC" | ''Årskurs 2''
+. |- align="center"
+| bgcolor="#FFFFCC" | ''1:an''
+| bgcolor="#FFFFCC" | ''Skolår 1''
+| bgcolor="#FFFFCC" | ''Årskurs 1''
+. |- align="center"
+| ''Förskoleklass''<br />[[Pre-school]] class<br />(preschool)
+| colspan="2" | ''Förskoleklass''<br />Preschool class<br />Age 6
+| colspan="3" | ''Årskurs F''
+. |- align="center"
+| ''Förskoleverksamheten''<br />[[Preschool]] activities<br />(preschool)
+| colspan="2" | ''Förskola''<br />Pre-school<br />Ages 1–5
+| colspan="3" | &nbsp;
+|} . 
+
+==Terminology==. 
+''Förskola'' (literally "preschool"), colloquially ''daghem'' or ''dagis'', is the [[kindergarten]]. ''Grundskola'' is the 1-9 grade [[primary school]]. ''Gymnasieskola'' (literally "gymnasium school") is the three-year [[secondary school]]. ''Högskola'' (literally "high school") is a [[tertiary school]] (formally translated to [[university college]], less formally to ''[[university]]'') and ''universitet'' (always translated to ''university'') is a tertiary school with [[postgraduate education]].  . 
+
+Historical terms include ''småskola'' ("small school") and ''folkskola'' ("people's school") for primary school and ''läroverk'' ("learning institute") for secondary school. Formerly, ''högskola'' usually meant a one-faculty school &ndash; usually professionally oriented &ndash; while ''universitet'' contained many faculties.  . 
+
+==Choice==. 
+Students in Swedish primary schools have very limited choice in their education. For instance, advanced mathematics courses are available only during the fall term of the seventh grade (the year students will turn 13); until then, all students take the same basic mathematics courses. A similar situation applies to most other subjects. This is the result of a concerted effort to streamline education, in the hope that this will favor students from families with lower levels of educational attainment. Critics claim it has lowered results significantly among talented students without raising them within other groups.  . 
+
+All students between 12–15 years old take math, English, Swedish, foreign language, NO (physics, chemistry, biology, technology), SO (social studies, history, religion, geography), physical education, art, music, carpentry or sewing and a course in home economics.  . 
+
+After students graduate from the nine-year compulsory school, the selection of education, both private and state owned, becomes much broader. As all education is publicly funded, all students have a large selection of choices, which are quite different from some other western nations, where some education costs more money than others, thus limiting the choice for those with a less fortunate background.  . 
+
+The Swedish School Plan<ref>http://www.fiss.se/doc/2008/forslag_till_skolplan.pdf</ref><ref>http://www.skolverket.se/sb/d/740#paragraphAnchor7</ref> also highly encourages an individualistic education in which each student has their specific means met. The students are also encouraged not only to participate in student councils, but also to actually form the education they desire together with their teachers, choosing what books to read and how to balance practice with theory depending on which the individual students find most enjoyable to learn from. <ref>http://www.oru.se/templates/oruExtNormal____22106.aspx</ref> . 
+
+==Primary and Secondary School==. 
+The educational system in Sweden is based on a nine year [[primary education|primary school]], or "''Grundskola''" with mandatory attendance. <ref name=ne-grundskola /> Following this comes an elective three year [[secondary education|secondary school]], or "''Gymnasieskola''" which is divided in two instances where you either prepare for [[higher education]] or receive [[vocational education]]. The preparatory instance allows for specialization in either natural sciences or social sciences.  . 
+
+===Grading===. 
+Three grades were until recently used in elementary school: Pass (''godkänd (G)''), Pass with distinction (''Väl godkänd (VG)'') and Pass with special distinction (''Mycket väl godkänd (MVG)''). <ref name=ne-grundskola /> The grades are usually referred to by their abbreviation. Note that failed does not exist as a formal grade, but should the student fail to pass a course this is reported as ***, referring to a footnote explaining that the pupil "lacks foundation for a grade", however, many people do consider failed (''Icke godkänd (IG)'') to be an actual grade and often refer to *** as such. Pupils do not start receiving official grades until the 8th grade, although it's not uncommon that tests are marked with grades prior to that. Compared to course grades, failed tests are often actually marked with IG.  This is, however, dependent on the preferences of the teacher and does not make any  difference.  . 
+
+The pupil's total score, which is used for application to ''gymnasium'', the secondary schools, is calculated by taking the pupil's 16 best subjects and numerically adding them together, with G = 10, VG = 15 and MVG = 20, yielding a maximum possible score of 320. It is normal for a pupil to have 17 or more grades, as most study a third language - traditionally German or French, but in recent years Spanish has increased in popularity.  . 
+
+The 16 subjects used to calculate the total must include the three core subjects - English, Swedish and Mathematics. If the pupil fails any of the core subjects, she or he lacks qualification to attend secondary school. However, the student can still attend the secondary school individual program (''individuellt program (IV)''), either to gain competence in the core subjects and start a secondary school program or to complete the individual program and satisfy the requirements for a [[student degree]] (see below).  . 
+
+However, from the autumn of 2011, a new grading system has been introduced into the Swedish school system: A, B, C, D, and E as passing grades and F as Failing. B and D work as filling grades, for when a student hasn't reached all objectives for C or A, but has reached most of them. If the student can't be graded, e.g. extensive truancy, the student will receive a dash instead of an F. If a student is given an F they will receive a written review of how to improve themselves.  . 
+
+===Gymnasieskola===. 
+Secondary school, called ''[[gymnasieskola]]'', lasts for three years (however some students study for four or more years for various reasons) and is formally elective, although most attend it and there are very few prospects for those who do not attend. Secondary school is divided into so called "programs", e.g. different types of choices of educational focus. The two most common "programs" are "social science" (samhällskunskap) and "natural sciences" (naturvetenskap). The "programs" are further divided into orientations.  There are currently seventeen different ''national programs'' &ndash; centrally defined program curricula &ndash; with between two and four centrally defined orientations. In addition there are local programs and orientations, but most schools use the national programs.  As of the autumn of 2011, there will be eighteen national programs, six college preparatory programs and twelve vocational programs.  . 
+
+The programs are divided into two general categories: preparatory and vocational.  All programs give basic qualification to attend university, but preparatory programs typically satisfy more of the various special qualifications that are required to attend some university courses and programs.  . 
+
+Just over half of upper secondary students follow one of the thirteen vocationally oriented programs. These programs must include at least fifteen weeks of workplace training over the three year program. <ref>http://www.oecd.org/dataoecd/26/55/40755122.pdf OECD review of vocational education and training in Sweden</ref> . 
+
+The courses that a student takes depending on program and orientation can be divided into four levels: Core subjects, program-specific subjects, orientation subjects and individually selected courses. Core courses are courses that everyone, regardless of program, must study to satisfy the requirements for a [[student degree]]. Program-specific courses are the additional courses that a student is required to take to fulfill the program requirements. If a student for some reason does not fulfill the requirements, for example by electing to replace a program-specific course with another course, the student is considered to have attended a specially designed program &ndash; this has no bearing except for what's printed on the school leaving certificate. Orientation subjects are the courses that a student elects to take by selecting an orientation. Normally these courses take place in the second and third year, although in a few cases the courses start earlier. Finally, individually selected courses are courses that the student freely selects for herself/himself in the second and third year; for these specific slots have been set aside in the curriculum and the schedule.  . 
+
+====Admittance====. 
+To attend secondary school, the prospective student applies to attend a certain program at a certain school, competing for entrance based upon his/her elementary school grades. In a few cases, such as the Arts Program (''Estetiska programmet (ES)'') at certain schools, the student applies for both program and orientation. Some programs, generally the Arts Program and certain local programs/orientations, have some form of entrance exam in addition to the elementary school grades.  . 
+
+==Independent schools in Sweden==. 
+{{unbalanced-section|date=December 2010}}
+Prior to the 1990s, there were only a handful of [[private school]]s in Sweden, mostly tuition-funded [[boarding school]]s, catering primarily for children of Swedish diplomats assigned abroad. In 1992, however, the government decided that [[independent school]]s offering primary or secondary education could receive public funding for each student, at a level similar to what public schools receive. This change saw the birth of the Swedish "free schools", and in 2008 there were around 900 of them. <ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/programmes/politics_show/7471335.stm |title=Free schools |date=26 June 2008 |newspaper=[[BBC News Online]] |first=Paola |last=Buonadonna}}</ref> . 
+
+The "free schools", similar to [[charter school]]s in the United States or [[Academy (English school)|academies]] in the United Kingdom, are funded with public money from the local municipality, based on the number of pupils they have enrolled, in the same way Swedish public schools are. Consequently, they are not allowed to discriminate or require admission examinations, nor are they not allowed to charge the students any additional fees. They are, however, allowed to accept private donations. Regional economic differences directly affect how much money each municipality can provide per pupil, by as much as SEK 50,000 (around USD 7,700 or GBP 4,700). <ref>http://www.dn.se/opinion/debatt/vi-vill-att-staten-atertar-ansvaret-for-skolvasendet-1.977905</ref> . 
+
+Anyone can start an independent [[for-profit school]], or a chain of such schools, in Sweden. Many of them offer an alternate pedagogy (such as [[Montessori]]), or a foreign/international, religious or special needs (such as hearing-impaired) profile. There are also several secondary schools with an elite sports profile. [[Internationella Engelska Skolan]] and [[Kunskapsskolan]] (“Knowledge Schools”) are the two largest "free school" chains. In 2008, more than 10% of Swedish pupils were enrolled in "free schools". <ref name=economist /> . 
+
+A handful of the old tuition-funded [[boarding school]]s still remain, whereof [[Sigtunaskolan Humanistiska Läroverket|Sigtunaskolan]] and [[Lundsbergs skola]] are the most well known.  . 
+
+===Opinions===. 
+The "free school" system has divided public opinion in Sweden. During the 2010 election neither political block suggested abandoning the programme. However, a poll carried out this year (2011) by Synovate found that Swedes who want to ban companies from operating schools for profit now outnumber those that don't. The Swedish model has been put forward as a possible model for similar solutions in both the United Kingdom<ref name=economist /><ref name="spectator.co.uk">[http://www.spectator.co.uk/the-magazine/features/526631/made-in-sweden-the-new-tory-education-revolution.thtml Made in Sweden: the new Tory education revolution], [[The Spectator]]</ref> and the United States, where [[Per Unckel]], County Governor of Stockholm and former Conservative Minister of Education, in 2009 summarised the advantages of the Swedish system in an opinion piece produced by the [[Libertarianism|Libertarian]] [[think tank]] [[Pacific Research Institute]]: "Education is so important that you can’t just leave it to one producer. Because we know from monopoly systems that they do not fulfill all wishes". <ref name="Op-Ed NewYork Times">{{cite news|url=http://video.nytimes.com/video/2009/03/15/opinion/1194838660912/sweden-s-choice.html|title=Sweden’s Choice: Why the Obama Administration Should Look to Europe for a School Voucher Program that Works|author=Lance T. Izumi | work=The New York Times}}</ref> . 
+
+==Tertiary education==. 
+<table border=1 cellpadding=2 cellspacing=0 align=right style=margin-left:1em width=300>
+<caption><font size="+1">'''Post-secondary Education'''</font></caption>
+<tr align=center><td rowspan=2>Qualified Vocational Education<td>KY2<tr align=center><td>KY1
+<tr align=center><td>''KomVux''<td>PS
+<tr align=center><td rowspan=3>Secondary School (Vocational)<br>Ages 16–19<td>S3<tr align=center><td>S2<tr align=center><td>S1
+</table> . 
+
+Completing secondary school on a vocational program with full classes on a three year curriculum does provide a basic qualification for further studies. However many times [[tertiary education]] is required before being admitted at university or university college. Post-secondary education is provided by [[Municipalities of Sweden|Municipal]] "''KomVux''" schools (short for KOMmunal VUXenutbildning, lit. "Municipal Adult Education"), and independent boarding schools named [[Folk high school|Folkhögskolor]] (or People's High Schools in English).  . 
+
+Instead of opting for higher education, a student from a vocational program in secondary school is able to apply for what is called Qualified Vocational Education or "''Kvalificerad Yrkesutbildning''" (KY). This form combines education and practical experience from business or industry in the chosen field. The level of education is essentially post-secondary but can also contain courses that meet the requirements of tertiary education.  . 
+
+For post-secondary education, the KomVux and the Qualified Vocational Education in some ways correspond to what is offered by [[community college]]s in the United States.  . 
+
+==Higher education==. 
+{{See also|List of universities in Sweden}}
+After ''gymnasieskola'', students can apply to a university in order to receive a [[tertiary education]]. General [[academic degree]]s are offered by public [[university|universities]] and [[university college]]s that tend to attract students on a regional basis. Besides general academic degrees, the higher education system in Sweden also provides a number of [[professional degree|professional and vocational degrees]] in fields such as engineering, law and medicine. 
+<!--A University Diploma can be awarded after two years of study, and a [[Bachelor's degree]], after three years at a university or university college. It is possible to specialize further by obtaining a [[Master's degree]] which requires an additional year at a university, however once at least a Bachelor's degree has been obtained the student is qualified for postgraduate education.  . 
+
+Besides the general academic degrees described the system of higher education in Sweden also provides a number of [[professional degree|professional and vocational degrees]] awarded by establishments on the outside of, and on occasion by separate schools within, the public university system. These degrees are in fields such as engineering, law and medicine. Even if these have a more extensive curriculum and require a longer time to complete than a Master's degree, it is generally not possible to receive any intermediate degree prior to completion. Having completed the preparatory secondary school with a specialization in natural sciences is typically a prerequisite before being able to apply to an establishment that awards one of the higher professional degrees in the natural science or technical fields.--> . 
+
+As of autumn semester 2011, higher education is free of charge only for Swedish, EU/EEA, and Swiss citizens. <ref>
+{{Cite web
+ | url = http://www.sweden.gov.se/sb/d/12798
+ | title = Competing on the basis of quality – tuition fees for foreign students
+ | author = Swedish Ministry of Education and Research
+ | authorlink = Swedish Ministry of Education and Research
+ | accessdate= 2011-01-14
+}}</ref>
+<ref>
+{{Cite web
+ | url = https://www.studera.nu/studera/4238.html
+ | title = Application and tuition fees
+ | author = studera.nu
+ | authorlink = studera.nu
+ | accessdate= 2011-01-14
+}}</ref> . 
+
+<!--There is a discussion in parliament about charging foreign students (non EU-citizens) in the future.{{Citation needed|date=August 2007}}-->
+On 1 July 2007, a new higher education system came into effect in Sweden. <ref name="newHigherEd-se"/><ref name="newHigherEd-en"/> Higher education became divided into three levels: basic level (''grundnivå''), advanced level (''avancerad nivå''), and doctoral level (''forskarnivå''). The new changes also included removing several professional / vocational degrees (''yrkesexamina'') as well as redefining other pre-existing degrees.  . 
+
+{| class="wikitable" style="margin-left: 1em"
+|+ '''Higher Education from 1 July 2007'''<span style="font-weight: normal"><ref name="newHigherEd-se"/><ref name="newHigherEd-en"/></span>
+. |-
+! Type of education
+! Level
+! colspan="2" | Designation
+! colspan="4" | Degree
+! colspan="2" | Designation
+. |- align="center"
+| rowspan="4" | ''Forskarutbildning''<br />Postgraduate<br /> programmes
+| rowspan="4" | ''Forskarnivå''<br />Doctoral level
+| rowspan="4" colspan="2" style="background-color: #dddddd" | &nbsp; <!-- årskurs -->
+| rowspan="4" style="background-color: #dddddd" | &nbsp; <!-- högskoleexamen -->
+| rowspan="2" colspan="3" style="border-bottom-style: dashed" | ''Doktorsexamen''<br />[[Doctorate|Degree of Doctor (PhD)]]<br />240 higher education credits
+| colspan="2" | ''4:e året''
+. |- align="center"
+| colspan="2" | ''3:e året''
+. |- align="center"
+| rowspan="2" colspan="3" style="border-top-style: dashed"| ''Licentiatexamen''<br />[[Licentiate|Degree of Licentiate]]<br />120 higher education credits
+| colspan="2" | ''2:a året''
+. |- align="center"
+| colspan="2" | ''1:a året''
+. |- align="center"
+| rowspan="5" | ''Grundläggande<br /> högskoleutbildning''<br />Undergraduate<br /> education
+| rowspan="2" | ''Avancerad nivå''<br />Advanced level
+| ''2:an''
+| ''Årskurs 2''
+| style="background-color: #dddddd" | &nbsp; <!-- högskoleexamen -->
+| style="background-color: #dddddd" | &nbsp; <!-- magisterexamen -->
+| rowspan="2" | ''Masterexamen''<br />[[Master's degree|Degree of Master (Two years)]]<br />120 higher education credits
+| rowspan="5" | ''Yrkesexamina''<br />[[Professional degree|Professional Degrees]]<br />(3–5 years long)
+| ''5:an''
+| ''Årskurs 5''
+. |- align="center"
+| ''1:an''
+| ''Årskurs 1''
+| style="background-color: #dddddd" | &nbsp; <!-- högskoleexamen -->
+| style="border-right-style: dotted" | ''Magisterexamen''<br />[[Master's degree|Degree of Master (One year)]]<br />60 higher education credits
+| ''4:an''
+| ''Årskurs 4''
+. |- align="center"
+| rowspan="3" | ''Grundnivå''<br />Basic level
+| ''3:an''
+| ''Årskurs 3''
+| style="background-color: #dddddd" | &nbsp; <!-- högskoleexamen -->
+| rowspan="3" colspan="2" | ''Kandidatexamen''<br />[[Bachelor's degree|Degree of Bachelor]]<br />180 higher education credits
+| ''3:an''
+| ''Årskurs 3''
+. |- align="center"
+| ''2:an''
+| ''Årskurs 2''
+| rowspan="2" style="border-right-style: dotted" | &nbsp; ''Högskoleexamen''<br />University Diploma<br />120 higher education credits
+| ''2:an''
+| ''Årskurs 2''
+. |- align="center"
+| ''1:an''
+| ''Årskurs 1''
+| ''1:an''
+| ''Årskurs 1''
+|} . 
+
+===Basic level (''grundnivå'')===. 
+To be admitted to a programme at the basic level, a student must complete an education at the ''gymnasieskola'' level or its equivalent. The degrees that can be obtained at the basic level are: . 
+
+* University Diploma (''högskoleexamen''), 2 years, 120 higher education credits (''högskolepoäng'')
+* Degree of Bachelor (''kandidatexamen''), 3 years, 180 higher education credits . 
+
+===Advanced level (''avancerad nivå'')===. 
+To be admitted to a programme at the advanced level, a student must have obtained a 3-year Swedish degree at the basic level or a corresponding degree from another country or some corresponding qualification. The degrees that can be obtained at the advanced level are: . 
+
+* Degree of Master (One year) (''magisterexamen''), 1 year, 60 higher education credits
+* Degree of Master (Two years) (''masterexamen''), 2 years, 120 higher education credits . 
+
+Both degrees require completing a thesis.  . 
+
+The Degree of Master (Two years), ''masterexamen'', is a new degree that is intended to be closely linked to continuing education at the graduate level.  . 
+
+===Doctoral level (''forskarnivå'')===. 
+To be admitted to a programme at the doctoral level, a student must have obtained a Swedish degree at the advanced level or completed at least 4 years of full-time study with at least one year at the advanced level or a corresponding degree from another country or equivalent knowledge. The degrees that can be obtained at the doctoral level are: . 
+
+* Degree of Licentiate (''licentiatexamen''), 2 years, 120 higher education credits
+* Degree of Doctor (PhD, ''doktorsexamen''), 4 years, 240 higher education credits . 
+
+Postgraduate academic titles are ''docent'' (associate professor) and ''professor'' (professor). Each department has an administrative officer, the ''prefekt'', who often is a docent.  . 
+
+===Grading===. 
+:''See also [[academic grading in Sweden]] and [[Bologna process#Sweden|Bologna process, section Sweden]]''
+Three sets of grades exist in Swedish universities and university colleges. Some universities have introduces a seven-grade scale (A-F, Fx), that similar to the ECTS scale, but with a [[criterion-referenced grading]] instead of [[relative grading]]. The most common scale is a three-grade scale that consists of U (Underkänd in Swedish, fail), G (Godkänd, pass) and VG (Väl godkänd, pass with distinction). In this set VG is the highest. The other grade set consists of (U, 3, 4, 5) where 5 is the highest. This grade set is normally given in courses within technical professional degrees. Finally there are some courses, within two systems of grading, in which you can only get G (pass) or U (fail). For instance, for a one semester thesis (specialized level) in [[Computer Science]] for a [[Master's degree]] at some institutions one can only get the grade G (pass) or fail, while for an equivalent thesis at other institutions one can also receive the grade VG.  . 
+
+===Language requirements===. 
+Before being accepted to a higher education programme in Sweden, all applicants must demonstrate a minimum proficiency in Swedish and English by either taking 2 years of Swedish and English or passing Swedish B and English A. <ref>
+{{Cite web
+  | title = Grundläggande behörighet
+  | publisher = [[studera.nu]]
+  | date= 2007-09-11
+  | url = https://www.studera.nu/sokutbildning/kommerjagin/behorighet/grundniva/grundlaggandebehorighet.561.html
+  | language = Swedish
+  | accessdate= 2007-10-30
+}}</ref> For international applicants, the [[TISUS]], or Test in Swedish for University Studies, is an international exam that can be taken to demonstrate proficiency in Swedish. For those whose native language is not English, international applicants can demonstrate proficiency in English by obtaining a minimum score of 173 points on the [[TOEFL]] or a minimum grade of B on the Cambridge [[First Certificate in English]] exam. <ref>
+{{Cite web
+  | title = Utländska betyg: Behörighet
+  | publisher = [[studera.nu]]
+  | date= 2007-10-04
+  | url = https://www.studera.nu/sokutbildning/kommerjagin/utlandskabetyg/behorighet.962.html
+  | language = Swedish
+  | accessdate= 2007-10-30
+}}</ref> Exchange students may have different language requirements.  . 
+
+===Student Aid===. 
+Swedish students receive economic help from the [[Swedish National Board of Student Aid]] (CSN) for studying. Every student is entitled to 12 semesters of allowances and loans, totaling 1,841 [[Swedish krona|SEK]] per week (July 2007: 200 [[Euro|EUR]], 474 [[USD]], 127 [[GBP]]) for full-time studies (after 1 July 2006). <ref name=csn-se /><ref name=csn-en /> Allowances are usually 632 SEK per week (August 2007: 68 EUR; 94 USD; 46 GBP) with loans covering the rest. The limits for loans and allowances may be substantially increased under certain circumstances. <ref name=csn-se /> . 
+
+===Student Democracy===. 
+{{Main|Student democracy}} . 
+
+====Legislation====. 
+Swedish legislation about student democracy is made by:
+* the Higher Education Act (issued by the [[Parliament of Sweden|Parliament]])
+* the Higher Education Ordinance (issued by the government and frequently revised)
+Such legal basis form regulations for all [[list of universities in Sweden|Swedish public universities]]. They principally state that:
+* the state provides institutions for higher education
+* higher education should be based on [[research]]
+* higher education institutions should cooperate with the surrounding [[local communities]]
+* quality efforts on all things are a joint matter for staff and students
+* students should take an active part in the work, with further development of the education
+* there must be student representatives in all drafting and decision-making bodies
+Complaints about the implementation of legislation on student democracy can be sent to the [[Swedish National Agency for Higher Education]]. Even if there is no fine, universities usually follow the agency's decisions.  . 
+
+====Core issues====. 
+The main issues about student democracy in Sweden are:
+* Granting a low threshold in entering universities, by:
+** no fees, for Swedish, EU/EEA, and Swiss citizens
+** simple rules of admission (no entrance test)
+* Widening participation, introducing new groups into higher educations ([[ethnic minorities]], low-income citizens); it is worthy noting that [[affirmative action]]s are not allowed by Swedish legislation, as a form of positive [[discrimination]]. 
+* Securing [[gender equality]] for staff, students and perspectives of education
+* Strengthening the international perspective in all education, in order to help in creating understanding of the [[international society]] . 
+
+====The Equal Treatment Act====. 
+In 2001, the Act for Equal Treatment of Students in Higher Education was issued, stating that:
+* [[Equal treatment]] should be granted regardless of sex, ethnic origin, religion, sexual orientation, disabilities. 
+* [[Harassment]] (from staff or students) and [[discrimination]] are to be prevented. 
+* An annual plan has to be issued by each university to actively promote equal treatment. 
+* Weak spots are to be found in cooperation with students. 
+* In case of reported harassment or discrimination (based on the student's feelings), there's an obligation to investigate and take measures.  . 
+
+==History of education in Sweden==. 
+===Primary school===. 
+In 1842, the Swedish parliament introduced a four-year primary school for children in Sweden, "''Folkskola''". In 1858 grade 1 and 2 became "''Småskola''" and children started school at the age of seven. In 1882 two grades were added to "''folkskola''", grade 5 and 6. Some "''folkskola''" also had grade 7 and 8, called "''Fortsättningsskola''". Schooling in Sweden became mandatory for 7 years in the 1930s and for 8 years in the 1950s. Since 1972, Swedish children have 9 mandatory years in school - from August the year the child turns 7 to June the year the child turns 16. Parents in some cases also have the option of delaying starting school until age 8 if deemed to be in the childs best interest.  . 
+
+===Secondary school===. 
+After three years in "''folkskola''", children who enjoyed school and had good grades could choose to switch to a secondary school called "''Högre allmänna läroverket''". ''Högre allmänna läroverket'' was not free, so most students came from well-off families. However, some children with good grades got free education at "''högre allmänna läroverket''" because their parents could not afford to pay for it. In 1905, "''högre allmänna läroverket''" was divided into a lower level, 6-year school called "''realskola''" and a higher level, 4-year school called "''gymnasium''". In 1971, ''fackskola'' merged with ''gymnasium'' and ''yrkesskola'' to become ''"gymnasieskola"''.  . 
+
+===Grundskola===. 
+In the autumn term of 1949, some Swedish schools introduced an experiment with a nine-year school called ''enhetsskola''. The ''enhetsskola'' had three stages. The first 3 years were ''lågstadium'' (lower stage), the next three years were ''mellanstadium'' (middle stage) and the last three years were ''högstadium'' (upper stage). In those school districts, ''småskola'' became ''lågstadium'', ''folkskola'' became ''mellanstadium'' and ''realskola'' became ''högstadium''. On 26 May 1950 the Swedish parliament decided to introduce the ''enhetsskola'' in Sweden. In 1958 the ''enhetsskola'' became ''försöksskola'', which in 1962 changed name to ''grundskola''. In 1972, the ''grundskola'' was introduced in all parts in Sweden, and the ''folkskola'' and ''högre allmänna läroverket'' were abolished. From the autumn term of 1994, the official division in three different stages was abolished. In the early 1990s, Sweden also introduced ''förskoleklass'' for the children aged 6, a one year long grade which first was called ''årskurs 0'' (Grade 0) or ''6-årsgrupp'' (group for the 6-year-olds). ''Förskoleklass'' is not mandatory.  . 
+
+==Comparison with the American educational system==. 
+The Swedish educational system has its own distinctions and, as such, is not directly comparable to the educational system in the United States. There is, however, a need to compare degrees and the educational or academic levels attained through a completed education.  . 
+
+While the Swedish educational system is regulated by the [[Government of Sweden]], the American educational system is regulated at the state level. Furthermore, the definition and duration of primary and secondary school in the US and the names they are called (e.g., elementary school, grade school, middle school, junior high school, high school, senior high school) can vary within a state making comparisons with other countries difficult. To simplify, a typical mainstream American educational system is compared with the mainstream Swedish educational system, where special education is not included in mainstream education.  . 
+
+In the US, children are typically required to attend primary school and secondary school from age 6 to 18. After completing high school, many Americans enroll in higher education in a community college, college, or university. In comparison, Swedish children are required to attend ''grundskola'', compulsory school, from age 7 to 16, where ''grundskola'' is a combination of primary and secondary school. After ''grundskola'', many Swedes attend the elective ''gymnasieskolan'', upper secondary school, choosing either a university-preparatory program or a vocational program. Students who choose a vocational program normally terminate their education after ''gymnasieskolan'' while students who complete a university-preparatory program normally enroll in higher education at a university or university college. Students who complete a vocational program can enroll in higher education, but may need to take additional courses before being eligible to apply.  . 
+
+In Sweden, ''grundskola'' students are required to learn how to swim as a part of their physical education. Since 1 September 2007, students in årskurs 5 must be able to swim 200 meters, with 50 meters on their back. <ref name=simundervisning /> . 
+
+In the US, many high-school students take a [[Driver's Education]] course at their high school, which is often subsidized by the government. Thus, by the age of 18, many Americans have a [[Learner's permit|driving permit]] or a [[Driver's license#United_States|driver's license]]. In contrast, Swedes typically learn how to drive by paying for a course at a private driving school (''trafikskola''). Since driving school can be quite expensive, many Swedes obtain their [[Driver's license#Sweden|driver's license]] when they are older than 18. The minimum age of obtaining a drivers license in Sweden is 18.  . 
+
+Before 1 July 2007, Sweden had several degrees of undergraduate education, such as candidate of philosophy (fil. kand.) or ''civilingenjör'' ([[Master of Science in Engineering|m. sc. eng.]]). Since 1 July 2007, undergraduate education in Sweden consists of all higher education degrees that are normally obtained in the first 5 years (Master, Bachelor, University Diploma and all professional degrees). In the US, undergraduate education is considered higher education degrees that are normally obtained in the first 4 years (Bachelor and [[Associate degree|Associate]] degrees).  . 
+
+Graduate education in the US consists of the Doctorate and Master degrees. Postgraduate education is additional training after being awarded a Doctorate degree. In contrast, postgraduate programmes in Sweden are at the graduate level and consist of the Doctorate and Licentiate degrees. (The Master degree is a part of undergraduate education.) . 
+
+{| class="wikitable" align="right": 1em"
+|+ '''Educational System Comparison'''
+. |-
+! rowspan="2" | Typical Age
+! colspan="3" style="width: 260px" | Sweden<span style="font-weight: normal"><ref name="skolverketKarta-se"/><ref name="skolverketKarta-en"/></span>
+! colspan="3" style="width: 260px" | United States
+. |- align="center"
+! School
+! colspan="2" | Designation
+! School
+! colspan="2" | Designation
+. |- align="center"
+| 18
+| rowspan="3" | ''Gymnasieskola''<br />Upper secondary school<br />Ages 16–19
+| ''3:an''
+| ''Årskurs 3''
+. |- align="center"
+| 17
+| ''2:an''
+| ''Årskurs 2''
+| bgcolor="#FFFFCC" rowspan="4" | High School<br />Ages 14–18<br />(Compulsory)
+| bgcolor="#FFFFCC" | Grade 12
+| bgcolor="#FFFFCC" | Senior
+. |- align="center"
+| 16
+| ''1:an''
+| ''Årskurs 1''
+| bgcolor="#FFFFCC" | Grade 11
+| bgcolor="#FFFFCC" | Junior
+. |- align="center"
+| 15
+| bgcolor="#FFFFCC" rowspan="9" | ''Grundskola''<br />Compulsory school<br />Ages 7–16<br />(Compulsory)
+| bgcolor="#FFFFCC" | ''9:an''
+| bgcolor="#FFFFCC" | ''Årskurs 9''
+| bgcolor="#FFFFCC" | Grade 10
+| bgcolor="#FFFFCC" | Sophomore
+. |- align="center"
+| 14
+| bgcolor="#FFFFCC" | ''8:an''
+| bgcolor="#FFFFCC" | ''Årskurs 8''
+| bgcolor="#FFFFCC" | Grade 9
+| bgcolor="#FFFFCC" | Freshman
+. |- align="center"
+| 13
+| bgcolor="#FFFFCC" | ''7:an''
+| bgcolor="#FFFFCC" | ''Årskurs 7''
+| bgcolor="#FFFFCC" rowspan="3" | Middle School<br />Ages 11–14<br />(Compulsory)
+| bgcolor="#FFFFCC" colspan="2" | Grade 8
+. |- align="center"
+| 12
+| bgcolor="#FFFFCC" | ''6:an''
+| bgcolor="#FFFFCC" | ''Årskurs 6''
+| bgcolor="#FFFFCC" colspan="2" | Grade 7
+. |- align="center"
+| 11
+| bgcolor="#FFFFCC" | ''5:an''
+| bgcolor="#FFFFCC" | ''Årskurs 5''
+| bgcolor="#FFFFCC" colspan="2" | Grade 6
+. |- align="center"
+| 10
+| bgcolor="#FFFFCC" | ''4:an''
+| bgcolor="#FFFFCC" | ''Årskurs 4''
+| bgcolor="#FFFFCC" rowspan="5" | Elementary School<br />Ages 6–11<br />(Compulsory)
+| bgcolor="#FFFFCC" colspan="2" | Grade 5
+. |- align="center"
+| 9
+| bgcolor="#FFFFCC" | ''3:an''
+| bgcolor="#FFFFCC" | ''Årskurs 3''
+| bgcolor="#FFFFCC" colspan="2" | Grade 4
+. |- align="center"
+| 8
+| bgcolor="#FFFFCC" | ''2:an''
+| bgcolor="#FFFFCC" | ''Årskurs 2''
+| bgcolor="#FFFFCC" colspan="2" | Grade 3
+. |- align="center"
+| 7
+| bgcolor="#FFFFCC" | ''1:an''
+| bgcolor="#FFFFCC" | ''Årskurs 1''
+| bgcolor="#FFFFCC" colspan="2" | Grade 2
+. |- align="center"
+| 6
+| ''Förskoleklass''<br />Pre-school class<br />Age 6
+| colspan="2" | ''Årskurs F''<br/>Sometimes called 0:an
+| bgcolor="#FFFFCC" colspan="2" | Grade 1
+. |- align="center"
+| 5
+| rowspan="2" | ''Förskola''<br />Pre-school<br />Ages 1–5
+| rowspan="2" colspan="2" | &nbsp;
+| Kindergarten<br>Ages 5–6
+| colspan="2" | K
+. |- align="center"
+| ≤ 4
+| Pre-Kindergarten<br>Ages < 5
+| colspan="2" | Pre-K
+<!-- . |-
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| -->
+|}
+<!--
+<table border=1 cellpadding=2 cellspacing=0 align=right style=margin-left:1em>
+<caption><font size="+1">'''System Comparison'''</font></caption>
+<tr><th>Typical age<th colspan=3 width=250>Sweden<ref>
+{{cite web
+ | url = http://www.skolverket.se/sb/d/767;jsessionid=4D7AFD09848C22F4E3BAA4BA4CACF8C6
+ | title = Karta över utbildningssystemet
+ | accessdate= 2007-07-08
+ | accessdaymonth = 
+ | accessmonthday = 
+ | accessyear = 
+ | author = Skolverket
+ | authorlink = Skolverket
+ | date= 2005-08-22
+ | publisher = Skolverket
+ | language = Swedish
+}}</ref>
+<th colspan=2 width=250>United States . 
+
+<tr align=center><td>Post Doctorate<td>PD<td rowspan=2>Post Doctorate<td rowspan=2>PD
+<tr align=center><td rowspan=4>''Doktors-examen''<td rowspan=2>Q4
+<tr align=center><td rowspan=6>Doctorate<td rowspan=3>Q4
+<tr align=center><td rowspan=2>Q3<tr>
+<tr align=center><td rowspan=4>''Licentiat-examen''<td rowspan=2>Q2<td rowspan=3>Q3<tr>
+<tr align=center><td rowspan=2>Q1
+<tr align=center><td rowspan=4>Master's Degree<td rowspan=2>G2
+<tr align=center><td rowspan=2>''Magister-examen''<td rowspan=2>T4
+<tr align=center><td rowspan=2>G1
+<tr align=center><td rowspan=6>''Kandidat-examen''<td rowspan=2>T3
+<tr align=center><td rowspan=6>Bachelor's Degree<td rowspan=2>T4
+<tr align=center><td rowspan=2>T2
+<tr align=center><td rowspan=2>T3
+<tr align=center><td rowspan=2>T1
+<tr align=center><td rowspan=1>T2
+<tr align=center><td rowspan=3>Secondary School<br>(Preparatory)<br>Ages 16-20<td>S3<td rowspan=1>T1 . 
+
+<tr align=center><td>18<td rowspan=3 colspan=2>''Gymnasieskola''<br>(Preparatory)<br>Ages 16-20<td>3:an / Årskurs 3<td rowspan=1>1st year Higher Education</td><td>Freshman / 1st year</td></tr>
+<tr align=center><td>17<td>2:an / Årskurs 2<td rowspan=4 bgcolor="#FFFFCC">High School<br>Ages 14-18<br>(Compulsory)<td bgcolor="#FFFFCC">Grade 12 / Senior
+<tr align=center><td>16<td>1:an / Årskurs 1<td bgcolor="#FFFFCC">Grade 11 / Junior
+<tr align=center><td>15<td rowspan=9 colspan=2 bgcolor="#FFFFCC">''Grundskola''<br>Ages 7-16<br>(Compulsory)<td bgcolor="#FFFFCC">9:an / Årskurs 9<td bgcolor="#FFFFCC">Grade 10 / Sophomore
+<tr align=center><td>14<td bgcolor="#FFFFCC">8:an / Årskurs 8<td bgcolor="#FFFFCC">Grade 9 / Freshman
+<tr align=center><td>13<td bgcolor="#FFFFCC">7:an / Årskurs 7<td rowspan=3 bgcolor="#FFFFCC">Middle School<br>Ages 11-14<br>(Compulsory)<td bgcolor="#FFFFCC">Grade 8
+<tr align=center><td>12<td bgcolor="#FFFFCC">6:an / Årskurs 6<td bgcolor="#FFFFCC">Grade 7
+<tr align=center><td>11<td bgcolor="#FFFFCC">5:an / Årskurs 5<td bgcolor="#FFFFCC">Grade 6
+<tr align=center><td>10<td bgcolor="#FFFFCC">4:an / Årskurs 4<td rowspan=5 bgcolor="#FFFFCC">Elementary School<br>Ages 6-11<br>(Compulsory)<td bgcolor="#FFFFCC">Grade 5
+<tr align=center><td>9<td bgcolor="#FFFFCC">3:an / Årskurs 3<td bgcolor="#FFFFCC">Grade 4
+<tr align=center><td>8<td bgcolor="#FFFFCC">2:an / Årskurs 2<td bgcolor="#FFFFCC">Grade 3
+<tr align=center><td>7<td bgcolor="#FFFFCC">1:an / Årskurs 1<td bgcolor="#FFFFCC">Grade 2
+<tr align=center><td>6<td rowspan=3>''Öppen förskola''<br>Ages 1-6<td>''Förskoleklass''<br>Age 6<td>Årskurs F<td bgcolor="#FFFFCC">Grade 1
+<tr align=center><td>5<td rowspan=2>''Förskola''<br>Ages 1-5<td rowspan=2><td>Kindergarten<br>Ages 5-6<td>K
+<tr align=center><td>≤ 4<td>Pre-Kindergarten<br>Ages < 5<td>Pre-K
+</table>--> . 
+
+<!--With the new higher education system that came into effect on 1 July 2007,<ref name="newHigherEd-se">
+{{cite web
+ | url = http://www.hogskoleverket.se/densvenskahogskolan/forandringar/nyautbildningsochexamensstrukturen.4.539a949110f3d5914ec800062698.html
+ | title = Den nya utbildnings- och examensstrukturen
+ | accessdate= 2007-07-08
+ | accessdaymonth = 
+ | accessmonthday = 
+ | accessyear = 
+ | author = Lotta Bäcklin
+ | authorlink = 
+ | date= 2007-06-07
+ | publisher = Högskoleverket
+ | language = Swedish
+}}</ref><ref name="newHigherEd-en">
+{{cite web
+ | url = http://www.hogskoleverket.se/highereducation/thenewstructureofprogrammesandqualifications.4.5ed111281136ce97c148000493.html
+ | title = The new structure of programmes and qualifications
+ | accessdate= 2007-07-08
+ | accessdaymonth = 
+ | accessmonthday = 
+ | accessyear = 
+ | author = Lotta Bäcklin
+ | authorlink = 
+ | date= 2007-06-07
+ | publisher = Swedish National Agency for Higher Education
+ | language = 
+}}</ref> many Swedish degrees can be directly comparable to American degrees.--><!--
+The higher education system in Sweden does not recognize any intermediate stages between under graduate and postgraduate education. The Swedish equivalent of undergraduate education includes the general degrees of "''Kandidat''", literally Candidate and "''Magister''", literally "Master". These degrees are for all purposes seen as equivalent but not identical to the degrees of Bachelor's and Master's. Next to duration, the most significant difference is in the elective requirements. While an American degree might have over a full year's worth of mandatory electives unrelated to the course of study, Swedish degrees frequently contain less than a semester of such coursework. A Swedish Bachelor's degree is seen to hold a slightly higher academic distinction, and a Master's degree, while attaining at least the same level of specialization is not as extensive, as a graduate Master's degree.  . 
+
+The postgraduate level at Swedish universities offers an intermediate degree called Licentiate and it is closer in academic level to a Doctorate than a Master's degree. Due to this the requirements for a disputation for a Doctorate in Sweden is also seen to be slightly higher. Though at the Doctorate level the degree of specialization is reaching a point where the benefit of any kind generalized comparisons can be questioned. 
+--> . 
+
+==See also==. 
+* [[Education in Stockholm]]
+* [[Swedish Scholastic Aptitude Test]]
+* [[List of universities in Sweden]]
+* [[Studentexamen]]
+* [[National Agency for Education (Sweden)|National Agency for Education]]
+* [[National Agency for Higher Education]]
+* [[Swedish National Union of Students]] . 
+
+==References==. 
+{{Reflist|refs=
+<ref name=economist>{{cite news |title=The Swedish model |url=http://www.economist.com/node/11535645?story_id=11535645 |newspaper=[[The Economist]] |date=2008-06-12 |accessdate=2011-01-15}}</ref> . 
+
+<ref name=simundervisning>{{cite web |url=http://www.skolverket.se/sb/d/1295/a/9702;jsessionid=D406A818AA5FCB9D20BDA74E5D00D5C4 |title=Nu ställs större krav på simundervisningen |last=Lindqvist |first=Kristin |date=2007-08-27 |publisher=[[National Agency for Education (Sweden)|Swedish National Agency for Education]] |language=Swedish |accessdate=2007-08-31}}</ref> . 
+
+<ref name=ne-grundskola>{{cite encyclopedia |first1=Bertil |last1=Gran |first2=Sixten |last2=Marklund | title=grundskola | encyclopedia=[[Nationalencyklopedin]] | language=Swedish | url=http://www.ne.se/grundskola | accessdate=2011-01-15}} {{subscription required}}</ref> . 
+
+<ref name=statistics>{{cite web |url=http://www.skolverket.se/sb/d/193/url/0068007400740070003a002f002f0077007700770034002e0073006b006f006c007600650072006b00650074002e00730065003a0038003000380030002f00770074007000750062002f00770073002f0073006b006f006c0062006f006b002f0077007000750062006500780074002f0074007200790063006b00730061006b002f005200650063006f00720064003f006b003d0032003300390031/target/Record%3Fk%3D2391 |title=Barn, elever och personal - Riksnivå 2010 |year=2010 |page=85 |publisher=[[National Agency for Education (Sweden)|Swedish National Agency for Education]] |language=Swedish |accessdate=2011-01-15}}</ref> . 
+
+<ref name=csn-se>{{cite web |url=http://csn.se/Avdelningar/Studerande/HogskolaOchUniversitet/Studiemedel/StudiemedlensStorlek/StudiemedlensStorlek.asp?MenyIdnr=507 |title=Studiemedlens storlek |accessdate=2007-08-04 |publisher=[[National Board of Student Aid (Sweden)|National Board of Student Aid]] |language=Swedish |archiveurl=http://web.archive.org/web/20070928114901/http://csn.se/Avdelningar/Studerande/HogskolaOchUniversitet/Studiemedel/StudiemedlensStorlek/StudiemedlensStorlek.asp?MenyIdnr=507 |archivedate=2007-09-28}}</ref> . 
+
+<ref name=csn-en>{{cite web |url=http://csn.se/English/Students/ThisIsHowMuchStudentAidYouCanReceive/TheTotalAmountIsTheSumOfTheGrantAndLoan.asp?MenyIdnr=1016 |title=The total amount is the sum of the grant and loan |accessdate=2007-08-04 |publisher=[[National Board of Student Aid (Sweden)|National Board of Student Aid]] |archiveurl=http://web.archive.org/web/20070928114855/http://csn.se/English/Students/ThisIsHowMuchStudentAidYouCanReceive/TheTotalAmountIsTheSumOfTheGrantAndLoan.asp?MenyIdnr=1016 |archivedate=2007-09-28}}</ref>
+}} . 
+
+==External links==. 
+* [http://www.rohus.nu/en The Swedish Association for Home Education (Rohus)]
+* [http://www.freesweden.net Home Education in Sweden] . 
+
+{{Education in Europe}} . 
+
+{{DEFAULTSORT:Education In Sweden}}
+[[Category:Education in Sweden|*]]

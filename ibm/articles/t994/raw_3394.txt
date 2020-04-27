@@ -1,0 +1,79 @@
+{{globalize|date=March 2012}}<!--Not just about BC...--> . 
+
+[[Image:Chief Joseph Dam.jpg|thumb|200px|[[Chief Joseph Dam]] near [[Bridgeport, Washington]], USA, is a major run-of-the-river station without a sizeable reservoir.]]
+[[File:Wasserwirbelkraftwerk.jpg|thumb|200px|operating principle]]
+'''Run-of-the-river hydroelectricity''' (ROR) is a type of [[hydroelectricity|hydroelectric]] generation whereby little or no water storage is provided.  Run-of-the-river power plants may either have no storage at all, or a limited amount of storage, in which case the storage reservoir is referred to as [[pondage]]. A plant without pondage has no storage and is, therefore, subjected to seasonal river flows and serves as a [[base load power plant]] while a plant with pondage can regulate water flow and serve either as a base load or [[peaking power plant]].  . 
+
+==Concept==. 
+Run-of-the-river hydroelectricity is ideal for streams or rivers with a minimum dry weather flow or those regulated by a much larger dam and reservoir upstream. <ref name="Dwivedi">{{cite book|last=Dwivedi|first=A.K. Raja, Amit Prakash Srivastava, Manish|title=Power Plant Engineering|url=http://books.google.com/books?id=P-7kM_VZqxcC&pg=PA354&lpg=PA354&dq=run+of+the+river+pondage&source=bl&ots=ELkFHcBwbo&sig=uaNyjOsVInBPYKFG0DgXHd-qQWQ&hl=en&ei=0FhvTf_EO5T5cZv44PgC&sa=X&oi=book_result&ct=result&resnum=6&ved=0CDwQ6AEwBQ#v=onepage&q=run%20of%20the%20river%20pondage&f=false|year=2006|publisher=New Age International|location=New Delhi|isbn=8122418317|page=354}}</ref><ref name=raghun>{{cite book|last=Raghunath|first=H.M.|title=Hydrology : principles, analysis, and design|year=2009|url=http://books.google.com/books?id=-N1G5VSoRngC&pg=PA288&lpg=PA288&dq=run+of+the+river+pondage&source=bl&ots=I_zh2RqWve&sig=BCxim0kXhEQBLXjXqPoufkpRJEU&hl=en&ei=0FhvTf_EO5T5cZv44PgC&sa=X&oi=book_result&ct=result&resnum=9&ved=0CE4Q6AEwCA#v=onepage&q=run%20of%20the%20river%20pondage&f=false|publisher=New Age International|location=New Delhi|isbn=8122418252|edition=Rev. 2nd ed.|page=288}}</ref> A dam, smaller than that used for traditional hydro, is required to ensure that there is enough water to enter the "[[penstock]]" pipes that lead to the lower-elevation [[turbines]]. <ref name="two"/> Projects with pondage, as opposed to those without pondage, can store water for peak load demand or continuously for base load, especially during wet seasons. <ref name="Dwivedi"/> In general, projects divert some or most of a river’s flow (up to 95% of mean annual discharge)<ref name="one">Knight Piesold Consulting. [http://a100.gov.bc.ca/appsdata/epic/documents/p316/d26174/1210629972391_8e248a8d30d9de771b58862f4ef2acd0a2105751f9de.pdf  Plutonic Hydro Inc. Bute Inlet Project. Summary of Project Intake and Turbine Parameters]. Knight Piesold Consulting. </ref> through a pipe and/or tunnel leading to electricity-generating turbines, then return the water back to the river downstream. <ref name="two">Douglas T, Broomhall P, Orr C. (2007). [http://www.rivershed.com/documents/Guide_to_RunRiver.pdf Run-of-the-River Hydropower in BC: A Citizen’s Guide to Understanding Approvals, Impacts and Sustainability of Independent Power Projects]. Watershed Watch. </ref> . 
+
+ROR projects are dramatically different in design and appearance from conventional hydroelectric projects. Traditional hydro dams store enormous quantities of water in [[reservoirs]], necessitating the flooding of large tracts of land. In contrast, most run-of-river projects do not require a large impoundment of water, which is a key reason why such projects are often referred to as environmentally-friendly, or "green power."<ref name="three">Hydromax Energy Limited. [http://www.hydromaxenergy.com/Green+Power/Green+Power.htm Hydromax Energy Limited website]. </ref> . 
+
+The use of the term "run-of-the-river" for power projects varies around the world and is dependent on different definitions. Some may consider a project ROR if power is produced with no storage while a limited storage is considered by others. Developers may mislabel a project ROR to sooth public image about its environmental or social effects. The [[Bureau of Indian Standards]] describes run-of-the-river hydroelectricity as:<ref name=INDDAM/>
+<blockquote>A power station utilizing the run of the river flows for generation of power with sufficient pondage for supplying water for meeting diurnal or weekly fluctuations of demand. In such stations, the normal course of the river is not materially altered. <ref name=INDDAM>{{cite web|title=Damming Northeast India|first=Neeraj Vagholikar|last=Partha J. Das1|url=http://www.conflicts.indiawaterportal.org/sites/conflicts.indiawaterportal.org/files/Damming%20Northeast%20India,%20Single%20page%20format.pdf|publisher=Kalpavriksh, Aaranyak and ActionAid India|page=4-5|accessdate=11 July 2011}}</ref></blockquote>
+Many of the larger ROR projects have been designed to a scale and generating capacity rivaling some traditional hydro dams. <ref name="four">Plutonic Power (2008). [http://www.ceaa.gc.ca/050/documents/33401/33401E.pdf Revised Project Description for Bute Inlet Hydroelectric Project Requirements. P1]. Plutonic Power. </ref>  For example, one ROR project currently proposed in [[British Columbia]] (BC) Canada—one of the world’s new epicentres of run-of-river development—has been designed to generate 1027 megawatts capacity. <ref name="five">Wilderness Committee. [http://www.ceaa.gc.ca/050/documents/33144/33144E.pdf Wilderness Committee Comments on the Draft Terms of Reference, Bute Inlet Hydroelectric Private Power Project. Letter to Kathy Eichenberger, Project Assistant Director. P1]. Wilderness Committee. </ref> . 
+
+== Advantages ==. 
+When developed with care to footprint size and location, ROR hydro projects can create sustainable energy minimizing impacts to the surrounding environment and nearby communities. <ref name="two"/>  Advantages include: . 
+
+=== Cleaner power, fewer greenhouse gases ===. 
+Like all hydro-electric power, run-of-the-river hydro harnesses the natural energy of water and gravity, eliminating the need to burn coal or [[natural gas]] to generate the electricity needed by consumers and industry.  . 
+
+=== Less flooding/reservoirs ===. 
+Substantial flooding of the upper part of the river is not required for smaller-scale run-of-river projects as a large reservoir is not required.  As a result, people living at or near the river don't need to be relocated and natural habitats and productive farmlands are not wiped out.  . 
+
+== Disadvantages ==. 
+=== "Unfirm" power ===. 
+Run-of-the-River power is considered an “unfirm” source of power: a run-of-the-river project has little or no capacity for energy storage<ref name="six">Douglas, T. (2007). [http://www.watershed-watch.org/publications/files/Run-of-River-long.pdf “Green” Hydro Power: Understanding Impacts, Approvals, and Sustainability of Run-of River Independent Power Projects in British Columbia]. Watershed Watch. </ref> and hence can't co-ordinate the output of electricity generation to match consumer demand. It thus generates much more power during times when seasonal river flows are high (i.e, spring freshet),<ref name="five"/> and much less during drier summer months.  . 
+
+=== Availability of sites ===. 
+The potential power at a site is a result of the head and flow of water. By damming a river, the head is available to generate power at the face of the dam. Where a dam may create a reservoir hundreds of kilometers long, in run of the river the head is usually delivered by a canal, pipe or tunnel constructed upstream of the power house. Due to the cost of upstream construction, a steep drop in the river is desirable.  . 
+
+=== Environmental impacts ===. 
+Small, well-sited ROR projects can be developed with minimal environmental impacts. <ref name="two"/>  Larger projects have more environmental concerns.  For example, Plutonic Power Corp.’s [[Bute Inlet]] Hydroelectric Project in BC will see three clusters of run-of-river projects with 17 river diversions;<ref name="four"/> as proposed, this run-of-river project will divert over 90 kilometres of streams and rivers into tunnels and pipelines, requiring 443&nbsp;km of new transmission line, 267&nbsp;km of permanent roads, and 142 bridges, to be built in wilderness areas. <ref name="seven">{{cite web|work=Watershed Watch Salmon Society|url=http://www.watershed-watch.org/BACKGROUNDER-ButeInlet_Feb3.pdf|title=The Bute Inlet Hydroelectric Project, Backgrounder|format=PDF|page=2|publisher=Watershed Watch|accessdate=2010-08-03|year=2009}}</ref> . 
+
+British Columbia’s mountainous terrain and wealth of big rivers have made it a global testing ground for run-of-river technology.  As of March 2010, there were 628 applications pending for new water licences solely for the purposes of power generation – representing more than 750 potential points of river diversion. <ref name="eight">IPPwatch.com website. [http://www.ippwatch.info/w/ IPPwatch.com]. </ref> . 
+
+==Concerns==. 
+Many of the impacts of this technology are still not understood or well-considered, including the following: . 
+
+* Diverting large amounts of river water reduces river flows, affecting water velocity and depth, minimizing habitat quality for fish and aquatic organisms; reduced flows can lead to excessively warm water for salmon and other fish in summer. <ref name="two"/>  As planned, the Bute Inlet project in BC could divert 95 percent of the mean annual flow in at least three of the rivers. <ref name="one"/> . 
+
+* New access roads and transmission lines can cause extensive habitat fragmentation for many species, making inevitable the introduction of invasive species and increases in undesirable human activities, like illegal hunting. <ref name="two"/> . 
+
+* Cumulative impacts—the sum of impacts caused not only by the project, but by roads, transmission lines and all other nearby developments—are difficult to measure. <ref name="two"/> Cumulative impacts are an especially important consideration in areas where projects are clustered in high densities close to sources of electricity demand: for example, of the 628 pending water license applications for hydropower development in British Columbia, roughly one third are located in the southwestern quarter of the province,<ref name="eight"/> where human population density and associated environmental impacts are highest.  . 
+
+* Water licenses issued by the BC Ministry of Environment, enabling developers to legally divert rivers<ref name="WWSSp4">{{cite web|work=Watershed Watch Salmon Society|url=http://www.watershed-watch.org/BACKGROUNDER-ButeInlet_Feb3.pdf|title=The Bute Inlet Hydroelectric Project, Backgrounder|format=PDF|page=4|publisher=Watershed Watch|accessdate=2010-08-03|year=2009}}</ref>, have not included clauses that specify changing water entitlements in response to altered conditions; this fact means that conflicts will arise over the water needed to sustain aquatic life and generate power when river flow becomes more variable or decreases in the future. <ref name="eight"/> However, it should also be noted that under section 101 of the BC Water Act, regulations regarding a water licenses can be changed by the government at any time, including the amount of water that a power plant is required to release to protect aquatic life <ref>{{cite web|title=BC Water Act|url=http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/00_96483_01|work=Legislation|accessdate=May 20, 2011}}</ref>.  . 
+
+== Major examples ==. 
+{{Main|List of run-of-the-river hydroelectric power stations}}
+* [[Chief Joseph Dam]], 2,620 MW
+* [[Beauharnois Hydroelectric Power Station]], 1,903 MW<ref name="HQP">{{citation|author=Hydro-Québec Production|url=http://www.hydroquebec.com/generation/centrale-hydroelectrique.html |publisher=Hydro-Québec |title= Hydroelectric Generating Stations (as of December 31, 2010) |year=2011 |accessdate=2011-05-17}}</ref>
+* [[Nathpa Jhakri Dam|Satluj Jal Vldyut Nigam Ltd]], [[Sutlej|Satluj River]], Shimla, India, 1,500 MW
+* [[Ghazi-Barotha Hydropower Project]] on [[River Indus]] in [[Pakistan]], 1,450 MW
+* [[La Grande-1 generating station]], 1,436 MW
+* Bute Inlet Hydroelectric Project, British Columbia, Canada, 1,026 MW
+* [[Baglihar Dam|Baglihar Hydroelectric Power Project]]on [[Chenab River]] in India, 900 MW
+* [[Carillon Generating Station]], Quebec, Canada, 752 MW
+* East Toba/Montrose Hydro Project, British Columbia, Canada, 196 MW
+* Forrest Kerr Hydro Project, British Columbia, Canada, 195 MW
+* Upper Toba Valley, British Columbia, Canada, 123 MW . 
+
+==See also==. 
+{{Portal|Sustainable development}} . 
+
+*[[Environmental concerns with electricity generation]]
+*[[Environmental impacts of dams]]
+*[[Hydropower]]
+*[[Micro hydro]]
+*[[Pico hydro]]
+*[[Pumped-storage hydroelectricity]]
+*[[Small hydro]] . 
+
+==References==. 
+{{Reflist}}
+* Freedman, B., 2007, Environmental Science: a Canadian Perspective; 4th edition, Pearson Education Canada, Toronto, pp 226,394. 
+{{Hydropower}} . 
+
+{{DEFAULTSORT:Run-Of-The-River Hydroelectricity}}
+[[Category:Hydroelectricity]]

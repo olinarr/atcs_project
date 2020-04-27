@@ -1,0 +1,146 @@
+{{About|the selection of the sex of offspring|the evolutionary concept|sexual selection}}
+'''Sex selection''' is the attempt to control the sex of the offspring to achieve a desired sex. It can be accomplished in several ways, both pre- and post-implantation of an [[embryo]], as well as at [[childbirth|birth]].  It has been marketed under the title '''family balancing'''.  . 
+
+== Preference for sex of child ==. 
+In many cultures, male offspring are desired in order to inherit property, carry on family name, to provide support for parents in old age.  . 
+
+A 2009 study at the [[University of Ulster]] found that having sisters, as compared to brothers, can enhance the quality of life of an adult. <ref>[http://news.bbc.co.uk/2/hi/health/7977454.stm Sisters 'make people happy']</ref> . 
+
+Evidence suggests couples in the [[United Kingdom]] tend to pick sons and daughters in roughly even numbers. <ref name=times/> . 
+
+==Methods==. 
+===Pre-implantation===. 
+Two major types of pre-implantation methods can be used for social sex selection. Both of them are based on actively rendering the second [[XY sex-determination system|sex chromosome]] to be either an [[Y chromosome]] (resulting in a [[male]]), or an [[X chromosome]] (resulting in a [[female]]). <ref name="dugdale2009">{{cite web |author=Dugdale, David, M.D. |publisher=U.S. National Library of Medicine |title=Chromosome url=http://www.nlm.nih.gov/medlineplus/ency/article/002327.htm |date=February 19, 2009}}</ref> . 
+
+====The Ericsson method====. 
+The [[Ericsson method]], first applied in a [[Clinic|clinical setting]] in the 1970s by Dr. Ronald J. Ericsson, uses higher [[concentration]]s of sperm of the desired sex to increase the likelihood of [[Human fertilization|conceiving]] that gender.  The method has a 70-72% success rate for [[boy]]s and a 69-75% success rate for [[girl]]s. <ref name="beernink">{{cite journal |last1=Beernink |first1=FJ |last2=Dmowski |first2=WP |last3=Ericsson |first3=RJ |title=Sex preselection through albumin separation of sperm. |journal=Fertility and sterility |volume=59 |issue=2 |pages=382–6 |year=1993 |pmid=8425635}}</ref> Currently, approximately 50 gender selection centers in the United States use the Ericsson Method for artificial gender selection. <ref name="silverman2010a">{{cite web |last=Silverman, M.D., Ph.D. |first= Andrew Y. |title=Gender Selection Ericsson Method  |url=http://www.gender-select.com/gender_selection/ericsson-method/ |accessdate= February 13, 2011}}</ref> . 
+
+The Ericsson method separates male and female sperm by passing them through a column filled with [[Constituents of human blood|blood protein]], [[human serum albumin]].  As the sperm enter the human serum albumin, the differences in [[mass]] between the X and Y chromosomes manifest as the lighter male sperm push deeper into the protein than the females dragged down by the [[weight]] of the extra “leg” of the X sex chromosome. <ref name="dmowski1979">{{cite journal |last1=Dmowski |first1=WP |last2=Gaynor |first2=L |last3=Rao |first3=R |last4=Lawrence |first4=M |last5=Scommegna |first5=A |title=Use of albumin gradients for X and Y sperm separation and clinical experience with male sex preselection. |journal=Fertility and sterility |volume=31 |issue=1 |pages=52–7 |year=1979 |pmid=283932}}</ref> This tiny difference creates separate layers of concentrated male and female sperm.  The layers of gender-selected sperm are of higher concentrations but not pure.  This lack of purity explains the 30% chance of gender selection failure of the Ericsson method. <ref name="chenguu1997">{{cite journal |last1=Chen |first1=M. |last2=Guu |first2=HF |last3=Ho |first3=ES |title=Efficiency of sex pre-selection of spermatozoa by albumin separation method evaluated by double-labelled fluorescence in-situ hybridization |journal=Human Reproduction |volume=12 |issue=9 |pages=1920–6 |year=1997 |pmid=9363707 |doi=10.1093/humrep/12.9.1920}}</ref> . 
+
+====IVF/PGD technique====. 
+[[Image:Embryo, 8 cells.jpg|thumb|right|350px| An 8-celled [[embryo]] prior to IVF/PGD analysis]]
+{{See|IVF|Preimplantation genetic diagnosis}} . 
+
+After [[Ovulation induction|ovarian stimulation]], multiple eggs are removed from the mother. The eggs are fertilized in the laboratory using the father's sperm in a technique called [[IVF|in vitro fertilization]] (IVF). "[[In vitro]]” is [[Latin language|Latin]] for "within [[Test tube|glass]]".  Fertilized eggs are called [[embryo]]s. As the embryos develop through [[mitosis]], they are separated by sex. Embryos of the desired gender are implanted back in the mother's [[uterus]].  . 
+
+Prior to fertilization with IVF, the fertilized eggs can be genetically [[Biopsy|biopsied]] with [[preimplantation genetic diagnosis]] (PGD) to increase fertilization success. <ref name="pehlivan2003">{{cite journal |last1=Pehlivan |first1=T |last2=Rubio |first2=C |last3=Rodrigo |first3=L |last4=Romero |first4=J |last5=Remohi |first5=J |last6=Simón |first6=C |last7=Pellicer |first7=A |title=Impact of preimplantation genetic diagnosis on IVF outcome in implantation failure patients |journal=Reproductive BioMedicine Online |volume=6 |issue=2 |pages=232–7 |year=2003 |pmid=12676006 |doi=10.1016/S1472-6483(10)61715-4}}</ref> Once an embryo [[Cell growth|grows]] to a 6-8 cell size, a small laser incision in the egg membrane (zona pellucida) allows safe removal of one of the cells. <ref name="boada1998">{{cite journal |last1=Boada |first1=M. |last2=Carrera |first2=M. |last3=De La Iglesia |first3=C. |last4=Sandalinas |first4=M. |last5=Barri |first5=P. N. |last6=Veiga |first6=A. |title=Successful use of a laser for human embryo biopsy in preimplantation genetic diagnosis: report of two cases. |journal=Journal of Assisted Reproduction and Genetics |volume=15 |issue=5 |pages=302–7 |year=1998 |pmid=9604764 |doi=10.1023/A:1022548612107}}</ref> Every cell in the embryo contains an identical copy of the [[genome]] of the entire person.  Removal of one of these cells does not harm the developing embryo. <ref name="rice2007">{{cite web |last=Rice |first=Mary |title=Children born after PGD as healthy as those born after conventional IVF treatment |publisher=European Society of Human Genetics |url=http://www.eurekalert.org/pub_releases/2007-06/esoh-cba061307.php |accessdate=February 12, 2011}}</ref> An [[embryologist]] then studies the chromosomes in the extracted cells for [[Genetic disorder|genetic defects]] and for a definite analysis of the embryo’s gender. <ref name="bredenoord2009">{{cite journal |last1=Bredenoord |first1=Annelien |last2=Dondorp |first2=Wybo |last3=Pennings |first3=Guido |last4=De Die-Smulders |first4=Christine |last5=Smeets |first5=Bert |last6=De Wert |first6=Guido |title=Preimplantation genetic diagnosis for mitochondrial DNA disorders: ethical guidance for clinical practice |journal=European Journal of Human Genetics |volume=17 |issue=12 |pages=1550–9 |year=2009 |pmid=19471315 |pmc=2987024 |doi=10.1038/ejhg.2009.88}}</ref> Embryos of the desired sex and with acceptable genetics are then placed back into the mother. 
+The IVF/PGD technique is favored over the Ericsson method because of the stricter control of the offspring gender in the laboratory.  Since only embryos of the desired sex are transferred to the mother, IVF/PGD avoids the small likelihood present in the Ericsson method of an undesired sperm fertilizing the egg.  Gender selection success rates for IVF/PGD are very high.  The technique is recommended for couples who will not accept a child of the undesired gender. <ref name="kanavakis2002">{{cite journal |last1=Kanavakis |first1=E |last2=Traeger-Synodinos |first2=J |title=Preimplantation genetic diagnosis in clinical practice |journal=Journal of Medical Genetics |volume=39 |issue=1 |pages=6–11 |year=2002 |pmid=11826017 |pmc=1734958 |doi=10.1136/jmg.39.1.6}}</ref><ref name="silverman2010b">{{cite web |last=Silverman, M.D., Ph.D. |first= Andrew Y. |title=Determine baby gender with IVF/PGD
+ |url=http://www.gender-select.com/gender_selection/determine-baby-gender-with-ivfpgd/ |accessdate= February 12, 2011}}</ref> . 
+
+====Timing methods====. 
+Timing methods aim to affect the sex ratio of the resultant children by having [[sexual intercourse]] at specific times as related to [[ovulation]], but have shown no influence on the sex of the baby. <ref>{{cite journal |author=Wilcox AJ, Weinberg CR, Baird DD |title=Timing of sexual intercourse in relation to ovulation. Effects on the probability of conception, survival of the pregnancy, and sex of the baby |journal=N. Engl. J. Med. |volume=333 |issue=23 |pages=1517–21 |year=1995 |month=December |pmid=7477165 |doi=10.1056/NEJM199512073332301}}</ref> . 
+
+*The [[Shettles Method|Shettles method]], first formally theorized in the 1960s by [[Landrum B. Shettles]], proposes that sperm containing the X (female) chromosome are more [[Semen quality|resilient]] than sperm containing the Y (male) chromosome.  The method advocates [[Sexual intercourse|intercourse]] two to four days prior to [[ovulation]].  By the time ovulation occurs, the [[cervix]] should contain a higher concentration of female sperm still capable of fertilization (with most of the male sperm already dead). Intercourse close to ovulation, on the other hand, should increase the chances of conceiving a boy since the concentration of Y sperm is be higher at the [[Menstrual cycle#Ovulation|height]] of the [[menstrual cycle]]. <ref name="shettles1991">{{cite journal |last1=Gray |first1=RH |title=Natural family planning and sex selection: fact or fiction? |journal=American journal of obstetrics and gynecology |volume=165 |issue=6 Pt 2 |pages=1982–4 |year=1991 |pmid=1836712}}</ref>
+*The Whelan method is an "[[Fertility awareness|intercourse timing]]" method that advocates the opposite of the Shettles method. The Whelan method suggests intercourse four to six days prior to ovulation to increase likelihood of fertilization by male sperm. <ref name="whelan2006">{{cite book |first=L. |last=Shettles |coauthors=D.M. Rorvick |chapter=How Do They Compare? |editor=Martin J. Whittle and C. H. Rodeck |title=How to Choose the Sex of Your Baby: The Method Best Supported by Scientific Evidence |publisher=Random House |location=New York |year=2006 |page=[http://books.google.com/books?id=ExmLlSUCI_UC&lpg=PA90&dq=whelan%20method&pg=PA90#v=onepage&q&f=false] |isbn=978-0767926102 }}</ref> . 
+
+====Sperm sorting====. 
+{{Main|Sperm sorting}}
+Sperm sorting is an advanced technique that sorts sperm "in vitro" by [[flow cytometry]]. This shines a [[laser]] at the sperm to distinguish X and Y chromosomes, and can automatically separate the sperm out into different samples. The technology is already in commercial use for animal farming. <ref>ABC Landline, [http://www.abc.net.au/landline/content/2006/s1624149.htm Dairy farms use gender selection process], 2006. </ref> It is currently being trialed on humans in the US under the trademark MicroSort; it claims a 90% success rate but is still considered experimental by the [[Food and Drug Administration|FDA]]. <ref name=Microsort>{{cite web |publisher=MicroSort, Inc. |title=MicroSort Information |url=http://www.microsort.net/ |accessdate=February 13, 2011}}</ref><ref>{{cite journal |author=Mayor S |title=Specialists question effectiveness of sex selection technique |journal=BMJ |volume=323 |issue=7304 |pages=67 |year=2001 |month=July |pmid=11451774 |pmc=1120747 |doi=10.1136/bmj.323.7304.67}}</ref> . 
+
+===Post-implantation===. 
+Sex selection after implantation can be performed by [[prenatal sex discernment]], followed by [[sex-selective abortion]] of any offspring of the unwanted sex. For prenatal sex discernment, a [[blood test]] can be taken from the mother for testing of small amounts of fetal DNA within it, and has been estimated to be reliable more than 98% of the time, as long as the samples are taken after the seventh week of pregnancy. <ref>{{cite journal |doi=10.1001/jama.2011.1114 |journal=JAMA |year=2011 |volume=306 |issue=6 |pages=627–636 |title=Noninvasive Fetal Sex Determination Using Cell-Free Fetal DNA |author=Devaney SA, Palomaki GE, Scott JA, Bianchi DW |pmid=21828326}}</ref><ref>{{cite news |url=http://www.bbc.co.uk/news/health-14457670 |date=10 August 2011 |title=Baby gender blood tests 'accurate' |first=Michelle |last=Roberts |newspaper=[[BBC News Online]]}}</ref> . 
+
+===Post-birth===. 
+[[Sex-selective infanticide]] - Killing children of the unwanted sex. Though illegal in most parts of the world, it is still practiced.  . 
+
+Sex-selective [[child abandonment]] - Abandoning children of the unwanted sex. Though illegal in most parts of the world, it is still practiced.  . 
+
+Sex-selective [[adoption]] - Placing children of the unwanted sex up for adoption. Less commonly viewed as a method of social sex selection, adoption affords families that have a gender preference a legal means of choosing offspring of a particular sex.  . 
+
+==Ethical concerns==. 
+The application of these techniques to humans creates moral and ethical concerns in the opinion of some, while the advantages of sensible use of selected technologies is favored by others.  . 
+
+In contrast, in an interview study, sex-selection technology providers generally argued that sex selection is an expression of [[reproductive rights]], was initiated and pursued by women, and was a sign of female empowerment that allowed couples to make well-informed family planning decisions, prevented occurrences of [[unintended pregnancy]] and [[abortion]], and minimized [[Domestic violence|intimate partner violence]] and/or [[child neglect]]. <ref name=puri>{{cite journal |author=Puri S, Nachtigall RD |title=The ethics of sex selection: a comparison of the attitudes and experiences of primary care physicians and physician providers of clinical sex selection services |journal=Fertil. Steril. |volume=93 |issue=7 |pages=2107–14 |year=2010 |month=May |pmid=19342036 |doi=10.1016/j.fertnstert.2009.02.053 |url=}}</ref> In contrast, [[primary care physician]]s questioned whether women could truly express free choice under pressure from family and community. <ref name=puri/> In addition, primary care physicians voiced the concerns that sex selection led to invasive medical interventions in the absence of therapeutic indications, contributed to [[gender stereotype]]s that could result in child neglect of the lesser-desired sex, and was not a solution to domestic violence. <ref name=puri/> . 
+
+Post-conceptual selection by preimplantation testing (PGD) also involves preferential use of embryos, and termination of pregnancy for gender selection also raises many ethical questions of the [[abortion debate]].  . 
+
+==Demographic concerns== . 
+
+[[File:Map3.2SonPreference compressed.jpg|thumb|A world map showing countries by sex ratio and prevalence of son preference, 2010.]] . 
+
+In addition to the ethical concerns mentioned, issues of [[demographics]] arise in societies where social sex selection is common. A society may exhibit a widespread bias towards having children of a specific gender, either due to cultural biases or economic concerns (e.g. male children may be more employable in the future and thus provide more financial support). When combined with frequent social sex selection, this bias may produce a [[gender imbalance]] that has undesirable consequences. This phenomenon has been observed in many nations in the [[Far East]], such as [[India]] and [[China]], where social sex selection has produced unnaturally high male/female ratios in the population. China's gender imbalance is further increased by the [[One Child Policy]], although applicable only in most urban populations. In these nations, a lack of opportunity for many men to marry is believed to be producing increases in [[crime]], demand for [[prostitution]], mass [[emigration]], and the selling of brides. <ref>[http://news.bbc.co.uk/2/hi/south_asia/2723513.stm India's lost girls], BBC Online, 4 Feb 2003. </ref><ref>[http://www.msnbc.msn.com/id/16593301/ China facing major gender imbalance], MSNBC, 12 Jan 2007.[http://web.archive.org/web/20080207012108/http://www.msnbc.msn.com/id/16593301/ Archive]</ref> . 
+
+Major demographic changes have occurred in China because of sex selection. Chinese government reports show that the [[sex ratio]] for newborns is 118:100 (boys:girls), higher in rural areas such as [[Guangdong]] and [[Hainan]] (130:100) compared to the average of 104:100 in developed countries. It is believed that the ratio would increase further to the point that, by 2020, men of marriageable age would be unable to find mates, resulting in large social problems. <ref name="web.archive.org">http://web.archive.org/web/20080207012108/http://www.msnbc.msn.com/id/16593301/</ref><ref>{{cite news| url=http://news.bbc.co.uk/2/hi/asia-pacific/3601281.stm | work=BBC News | title=China fears bachelor future | date=April 5, 2004}}</ref>  . 
+
+Some nations, such as India, have attempted to curtail these gender imbalances with criminal statutes. <ref name="opposingviews.com">Appel, JM. [http://www.opposingviews.com/articles/opinion-want-a-daughter-try-paying-for-her Want a Daughter?  Try Paying for Her] Opposing Views, August 26, 2009. </ref>  In contrast, bioethicist [[Jacob M. Appel|Jacob Appel]] of [[New York University]] has argued that governments should pay couples to choose to have female children. <ref name="opposingviews.com"/>  According to Professor Appel, "if female babies [were] worth their weight in [[rupees]] and [[Chinese yuan|yuan]], economic and educational opportunities for girls would soon follow."<ref name="opposingviews.com"/> . 
+
+In contrast, actual experience in Western cultures provides no evidence for any degree of gender imbalance from technologies which have long been available and legal - such as selective abortion or preimplantation embryo testing. When used for family balancing indications in such countries as the United States, pre-conceptual sex selection is widely sought without any preferential selection of males. Thus the right of individual families to determine whether or not to balance gender of offspring in their families is not and will not become, in many countries, a demographic issue.  Furthermore, in countries where such demographic issues exist because of strong gender preferences in a segment of the population, regulatory and legal control of, without denial of access to, sperm sorting technology can be utilized to provide individuals with choices while ensuring that equal numbers of boys and girls are produced for population demographic equality.  . 
+
+Although problems such as rising crime rates may be associated with high male-female ratios (more males than females), it is not clear that such problems would arise in connection with low male-female ratios (fewer males than females).  In addition, cultural practices such as [[polyamory]] and [[polyandry]] may reduce or eliminate potential problems. Also incentives for [[Human migration|emigration]] of young singles out of gender imbalanced nations into more gender balanced nations, has often been seen as another solution to reduce potential social problems. <ref>{{cite news| url=http://www.foxnews.com/story/0,2933,281722,00.html | work=Fox News | title=Infanticide, Abortion Responsible for 60 Million Girls Missing in Asia | date=June 13, 2007}}</ref> . 
+
+==History and folk beliefs==. 
+There are a wide variety of social sex selections methods which have not been demonstrated to be effective.  Because even implausible and ineffective methods have a "success" rate of 50%, many continued to be recommended by word of mouth.  . 
+
+As early as 330 BC, [[Aristotle]] prescribed the ligation (tying off) of the left [[testicle]] in men wishing to have boys. <ref>Hoag, Hannah. [http://dfire.org/x1405.xml I'll take a girl, please... ''Cherry-picking from the dish of life'']. Drexel University Publication. </ref> . 
+
+Some people believe that timing [[Conception (biology)|conception]] according to [[Natal chart|astrological charts]] can influence a baby's sex,<ref>[http://www.indianchild.com/chinese_birth_chart.htm Ancient chinese birth gender chart]</ref> though there is no evidence to support this or any other timing method.  A 13th century Chinese [[conception chart]] purports to be able to identify the sex of the baby before birth.  . 
+
+Sperm sorting utilizes the technique of [[flow cytometry]] to analyze and 'sort' [[spermatozoa]].  During the early to mid 1980s, Dr. Glenn Spaulding was the first to sort viable whole human and animal spermatozoa using a flow cytometer, and utilized the sorted motile rabbit sperm for artificial insemination.  Subsequently, the first patent application disclosing the method to sort "two viable subpopulations enriched for x- or y- sperm"<ref>US Patent 5,021,244, column 9, Sorting Sperm; http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5021244.PN.&OS=PN/5021244&RS=PN/5021244</ref> was filed in April 1987 as US Application Serial Number 35,986 and later became part of US Patent 5,021,244; and the patent included the discovery of [[haploid]] expression (sex-associated membrane proteins, or SAM proteins) and the development of monoclonal antibodies to those proteins. Additional applications and methods were added, including antibodies, from 1987 through 1997. <ref>US Patent 5,021,244; 5,346,990; 5,369,012; 5,439,362; 5,496,722; 5,648,468; 5,660,997; PCT/US1989/002069</ref>  At the time of the patent filing, both Lawrence Livermore National Laboratories and the USDA were only sorting fixed sperm nuclei,<ref>{{cite journal |author=Johnson LA, Flook JP, Look MV, Pinkel D |title=Flow sorting of X and Y chromosome-bearing spermatozoa into two populations |journal=Gamete Res |volume=16 |issue=1 |pages=1–9 |year=1987 |month=January |pmid=3506896 |doi=10.1002/mrd.1120160102}}</ref> after the Application Serial Number 35,986 patent filing a new technique was utilized by the USDA where "sperm were briefly sonicated to remove tails". <ref>{{cite journal |author=Johnson LA, Flook JP, Look MV |title=Flow cytometry of X and Y chromosome-bearing sperm for DNA using an improved preparation method and staining with Hoechst 33342 |journal=Gamete Res |volume=17 |issue=3 |pages=203–12 |year=1987 |month=July |pmid=3507347 |doi=10.1002/mrd.1120170303}}</ref> USDA in conjunction with Lawrence Livermore National Laboratories, 'Beltsfield Sperm Sexing Technology' relies on the DNA difference between the X- and Y- chromosomes. <ref>{{cite journal |author=Garner DL, Seidel GE |title=History of commercializing sexed semen for cattle |journal=Theriogenology |volume=69 |issue=7 |pages=886–95 |year=2008 |month=April |pmid=18343491 |doi=10.1016/j.theriogenology.2008.01.006}}</ref>  Prior to flow cytometric sorting, semen is labeled with a fluorescent dye called Hoechst 33342 which binds to the DNA of each spermatozoon.  As the X chromosome is larger (i.e. has more DNA) than the Y chromosome, the "female" (X-chromosome bearing) spermatozoa will absorb a greater amount of dye than its male (Y-chromosome bearing) counterpart.  As a consequence, when exposed to UV light during flow cytometry, X spermatozoa fluoresce brighter than Y- spermatozoa.  As the spermatozoa pass through the flow cytometer in single file, each spermatozoon is encased by a single droplet of fluid and assigned an electric charge corresponding to its chromosome status (e.g. X-positive charge, Y-negative charge).  The stream of X- and Y- droplets is then separated by means of electrostatic deflection and collected into separate collection tubes for subsequent processing. <ref>{{cite journal |author=Seidel GE, Garner DL |title=Current status of sexing mammalian spermatozoa |journal=Reproduction |volume=124 |issue=6 |pages=733–43 |year=2002 |month=December |pmid=12537000 |doi=10.1530/rep.0.1240733}}</ref> . 
+
+Recently, a study published in 2006 indicated that mothers with [[toxoplasmosis]] have a significantly higher [[human sex ratio|sex ratio]] of boys to girls. This has been discussed in connection with the [[manipulation hypothesis]] of parasites. <ref name="toxo">{{cite journal
+ | quotes =
+ | last = Flegr  | first = Jaroslav   | coauthors =
+ | year =    2007| month =
+ | title = Women infected with parasite ''Toxoplasma'' have more sons
+ | journal = Naturwissenschaften   | volume =    94| issue =    2| pages = 122–7
+ | doi = 10.1007/s00114-006-0166-2
+ | id =
+ | url = http://www.natur.cuni.cz/~flegr/pdf/toxosons.pdf
+ | language =    | format = PDF
+ | accessdate =
+ | laysummary =
+ | laysource =
+ | laydate =
+ | quote =
+ | pmid =17028886
+ | last2 =Sulc
+ | first2 =J
+ | last3 =Nouzová
+ | first3 =K
+ | last4 =Fajfrlík
+ | first4 =K
+ | last5 =Frynta
+ | first5 =D
+ | last6 =Flegr
+ | first6 =J
+ }}</ref>
+Another study found a link between sex and the diet of the mother, but this may be due to statistical chance, and has yet to be confirmed. <ref>[http://www.npr.org/templates/story/story.php?storyId=99346281 Can A Pregnant Woman's Diet Affect Baby's Sex?]</ref> . 
+
+==Legality==. 
+Sex selection is officially prohibited in [[China]], but the Chinese government admits that the practice is widespread, especially in rural areas of China and among lawless groups such as [[ghettoized]] migrant workers in cities (despite denials by the government-sponsored studies). <ref name="web.archive.org"/><ref>http://fsi.stanford.edu/news/gender_imbalance_in_china_20081027/</ref> . 
+
+Social sex selection is illegal in [[India]]. To ensure this, prenatal determination of sex through [[ultrasound]] is also illegal in India. These laws are instituted to combat the prevalent practice of [[sex-selective abortion]]. However, these laws have generally failed to be effective in rural areas and, despite education efforts, sex-selective abortion continues to be widely practiced there.  . 
+
+Sex selection is legal in most of the world, and it is practiced particularly in Western countries, but is more limited in Eastern countries, such as India or China. There is [[fertility tourism]] from the [[United Kingdom]] to the [[United States]] for sex selection, because [[preimplantation genetic diagnosis]] (PGD, a potential expansion of IVF), which can be used for sex selection, is prohibited in the UK, except when it is used to screen for genetic diseases, while the laws in the US are more relaxed in this subject. <ref name=times>[http://www.timesonline.co.uk/tol/life_and_style/health/article6805880.ece US clinic offers British couples the chance to choose the sex of their child] From The Times. August 22, 2009</ref> . 
+
+==See also==. 
+*[[Sex-selective abortion and infanticide]]
+*[[Human sex ratio]]
+*[[List of countries by sex ratio]]
+*[[Trivers–Willard hypothesis]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+===External links===. 
+*[http://www.microsort.com/en/whatismicrosort.shtml What is MicroSort Sex Selection]
+*[http://www.pregnancyprimer.com/pregnancy/gender-selection/pgd-microsort-ericsson-shettles.html Gender Selection Options]
+*[http://www.genetics-and-society.org/index.asp Center for Genetics and Society]
+*[http://www.cicred.org/Eng/Publications/pdf/BOOK_singapore.pdf A collection of essays on sex selection in various Asian countries by Attané and Guilmoto]
+*[http://www.unfpa.org/gender/case_studies.htm Five case studies and a video on sex selection in Asia by UNFPA]
+*[http://www.genetics-and-society.org/index.asp Center for Genetics and Society]
+*[http://zavos.wordpress.com/2008/01/09/gender-selection/ More Information on Gender Selection] . 
+
+====Ethical debates====. 
+* [http://atheism.about.com/library/weekly/aa100301a.html Bioethics: Gender Selection]
+* [http://www.cnn.com/HEALTH/9809/09/baby.sex.ethics/ Gender selection for babies poses ethical dilemmas]
+* [http://www.phgfoundation.org/news/3312 On fetal blood testing]
+{{Assisted reproductive technology}} . 
+
+{{DEFAULTSORT:Sex Selection}}
+[[Category:Family]]
+[[Category:Infanticide]]
+[[Category:Population]]
+[[Category:Demographics]]
+[[Category:Demography]]
+[[Category:Gender]]

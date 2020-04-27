@@ -1,0 +1,78 @@
+The '''State Secrets Protection Act''', {{USBill|110|S.|2533}}, ("SSPA") was a bill first proposed in the [[U.S. Senate]] during the [[110th Congress]] by Senators [[Ted Kennedy|Kennedy]], [[Patrick Leahy|Leahy]], and [[Arlen Specter|Specter]] on January 22, 2008. <ref>{{cite web
+|url=http://thomas.loc.gov/cgi-bin/query/z?c110:S.2533:
+|title=S.2533 - State Secrets Protection Act (Introduced in Senate, 110th Congress)
+|publisher=The Library of Congress
+|date=2008-01-22
+|accessdate=2008-04-03
+}}</ref>  Senator Kennedy put out a press release explaining the rationale behind introducing the SSPA. <ref>{{cite web
+|url=http://kennedy.senate.gov/newsroom/press_release.cfm?id=C56BD1D0-7AD3-46EA-9D30-A77317F28B70
+|title=Senator Kennedy's Press Release for the Introduction of the State Secrets Protection Act
+|publisher=Senator Ted Kennedy
+|date=2008-01-22
+|accessdate=2008-04-03
+}}</ref>
+Hearings were held before the [[Senate Judiciary Committee]] on February 13, 2008. <ref>{{cite web
+|url=http://judiciary.senate.gov/hearings/hearing.cfm?id=3091
+|title=Examining the State Secrets Privilege: Protecting National Security While Preserving Accountability
+|publisher=Senate Judiciary Committee - 110th Congress
+|date=2008-02-13
+|accessdate=2009-04-15
+}}</ref> On Thursday, April 24, the committee approved the proposed legislation, voting 11-8 to send the bill to the full Senate for consideration. <ref>{{cite web
+|url=http://jurist.law.pitt.edu/paperchase/2008/04/senate-judiciary-panel-advances-bill.php
+|title=Senate judiciary panel advances bill curbing state secrets privilege 
+|last=Shawl
+|first=Jeannie
+|publisher=JURIST Legal News and Research
+|date=2008-04-26
+|accessdate=2008-04-29}}</ref> . 
+
+In a March 31, 2008 letter to Senator Leahy, [[Attorney General]] [[Michael B. Mukasey]] expressed strong Bush Administration opposition to the legislation, saying in his letter that the bill "would needlessly and improperly interfere with the appropriate constitutional role of both the Judicial and Executive branches in state secrets cases; would alter decades of settled case law; and would likely result in the harmful disclosure of national security information that would not be disclosed under current doctrine."<ref>{{cite web
+|url=http://www.usdoj.gov/archive/ola/views-letters/110-2/03-31-08-ag-ltr-re-s2533-state-secrets.pdf
+|title=Letter to Sen. Patrick J. Leahy
+|last=Mukasey
+|first=Michael
+|publisher=United States Department of Justice
+|date=2008-03-31
+|accessdate=2009-04-15
+}}</ref>  . 
+
+Numerous scholars and non-governmental organizations (including the [[American Civil Liberties Union]], the [[American Bar Association]], the [[Constitution Project]], and the [[Brennan Center for Justice]]) issued responses to the Attorney General's letter refuting his criticisms of the bill. These scholars and organizations noted that current laws surrounding State Secrets allow much room for abuse, and claimed that taking a new approach would not jeopardize security in any manner because each case would be left to the discretion of US courts (who have acted in good faith with regard to national security in the past).  . 
+
+The SSPA legislation was initially proposed in the [[110th Congress]] in response to the government’s assertions of the [[State secrets privilege|State Secrets Privilege]] in cases challenging the constitutionality of several of the Bush administration’s national security programs, including the warrantless wiretapping, rendition and interrogation programs. <ref name=sr442>{{cite web
+|url=http://thomas.loc.gov/cgi-bin/cpquery/R?cp110:FLD010:@1(sr442)
+|title=Senate Report 110-442 - STATE SECRETS PROTECTION ACT (Senate Judiciary Committee, 110th Congress)
+|publisher=The Library of Congress
+|date=2008-08-01
+|accessdate=2009-04-15
+}}</ref><ref name=LeahyPress>{{cite web
+|url=http://leahy.senate.gov/press/200902/021109b.html
+|title=Senator Leahy's Press Release for the Introduction Of the State Secrets Protection Act
+|publisher=U.S. Senator Patrick Leahy
+|date=2009-02-11
+|accessdate=2009-04-15
+}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> Similar legislation was also introduced in the House, {{USBill|110|H.R.|5607}}, during the 110th Congress.  . 
+
+Leading members of the [[Senate Judiciary Committee]] of the [[111th Congress]] have joined together to re-introduce the ''State Secrets Protection Act'', {{USBill|111|S.|417}}, ("SSPA"), a bill that provides guidance to federal courts considering cases in which the government has asserted the [[State secrets privilege|State Secrets Privilege]]. <ref name=LeahyPress/> Senate Judiciary Committee Chairman [[Patrick Leahy]] (D-Vt.), Ranking Member [[Arlen Specter]] (R-Pa.), and Committee Member [[Russ Feingold]] (D-Wis.) joined with former Committee Chairman and Member [[Edward Kennedy]] (D-Ma.) to introduce the bill on Wednesday, February 11, 2009. <ref>{{cite web
+|url=http://thomas.loc.gov/cgi-bin/bdquery/z?d111:s.00417:
+|title=S.417 - State Secrets Protection Act (Introduced in Senate, 111th Congress)
+|publisher=The Library of Congress
+|date=2009-02-11
+|accessdate=2009-04-15
+}}</ref> Similar legislation, {{USBill|111|H.R.|984}}, was also introduced in the House on the same day. <ref>{{cite web
+|url=http://thomas.loc.gov/cgi-bin/bdquery/z?d111:h.r.00984:
+|title=H.R.984 - State Secrets Protection Act of 2009 (Introduced in House, 111th Congress)
+|publisher=The Library of Congress
+|date=2009-02-11
+|accessdate=2009-04-15
+}}</ref> . 
+
+==References==. 
+{{reflist|2}} . 
+
+==External links==. 
+* William G. Weaver & Danielle Escontrias, [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1079364 Origins of the State Secrets Privilege], 68, Feb. 10, 2008, (unpublished manuscript) 
+* [[State Secrets Privilege]]
+* [[Classified Information Procedures Act]]
+* [[Federal Tort Claims Act]] . 
+
+[[Category:United States proposed federal legislation]]

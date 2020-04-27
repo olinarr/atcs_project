@@ -1,0 +1,44 @@
+{{Politics of Saint Vincent and the Grenadines}}
+A constitutional [[referendum]] was held in [[Saint Vincent and the Grenadines]] on 25 November 2009,<small><ref name=Caribnn>{{cite news| title=CARICOM Secretariat team to observe St Vincent and the Grenadines referendum| url=http://www.caribbeannetnews.com/news-19839--15-15--.html| publisher=Caribbean Net News|date=12 November 2009| accessdate=14 November 2009}}</ref></small> which would have replaced the constitution in force since independence in 1979. <small><ref name=Tandte>{{cite news| last=Browne| first=Juhel| title=Gonsalves: No executive president for St. Vincent| url=http://www.trinidadexpress.com/index.pl/article_news?id=161555837| newspaper=Trinidad and Tobago Express| date=11 November 2009| accessdate=14 November 2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref><ref name=Const>{{Citation| last=Elizabeth II| author-link=Elizabeth II of the United Kingdom| publication-date=26 July 1979| title=Constitution of Saint Vincent and the Grenadines| series=50.1| publication-place=Kingstown| publisher=Queen's Printer| url=http://pdba.georgetown.edu/Constitutions/Vincent/stvincent79.html| accessdate=26 November 2009}}</ref></small> The proposal was supported by only 43.13% of voters in the referendum, well short of the required two-thirds threshold. If approved, the proposed constitution would have abolished the [[monarchy of Saint Vincent and the Grenadines]], headed by Queen [[Elizabeth II]],<small><ref name=Const /></small> and would have given more power to the opposition. <small><ref name=Tandte /></small> The referendum was the first of its kind to be held by a member of the [[Organisation of Eastern Caribbean States]]. <small><ref name=Caribnn /></small> . 
+
+==Campaign==. 
+[[Prime Minister of Saint Vincent and the Grenadines|Prime Minister]] [[Ralph Gonsalves]] and his [[Unity Labour Party]] (ULP) campaigned heavily for the "Yes" vote,<small><ref name=Caribbean360>{{cite news| title=CARICOM observers for St Vincent Constitution referendum| url=http://www.caribbean360.com/News/Caribbean/Stories/2009/11/13/NEWS0000009461.html| publisher=Caribbean 360| date=13 November 2009| accessdate=14 November 2009}}</ref></small> Gonsalves advocating that, though he had nothing personally against Queen Elizabeth II, he believed it was time for Saint Vincent to stop having a monarch as its head of state; he offered the opinion: "I find it a bit of [[Anansi|a Nancy story]] that the [[Monarchy of the United Kingdom|Queen of England]] {{sic}} can really be the [[Monarchy of Saint Vincent and the Grenadines|Queen of Saint Vincent and the Grenadines]]."<small><ref name=Tandte /></small> Though he had earlier shown affinity towards [[executive presidency|executive presidents]] [[Hugo Chávez]] and [[Fidel Castro]],<small><ref>{{Citation| last=Johnson| first=Andy| title=St Vincent leader's constitutional reform in danger| newspaper=Trinidad and Tobago Express| date=26 November 2009| url=http://www.trinidadexpress.com/index.pl/article_news?id=161562550| accessdate=26 November 2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref></small> Gonsalves asserted that the proposed constitution for Saint Vincent and the Grenadines would not have created such a presidential post; the Prime Minister argued that an executive presidency would give the office holder too much power in the small country. In an interview with the ''[[Trinidad and Tobago Express]]'', he stated that type of presidency "may well make perfect sense" for the neighbouring country of [[Trinidad and Tobago]], but such a government would not work in Saint Vincent and the Grenadines, saying further: "it is our assessment that to conjoin the power of a prime minister with the power of a [[head of state]], [[head of government]], or head of state in our circumstances, that is a matter which will end up making that office holder more powerful than the current situation."<small><ref name=Tandte /></small> . 
+
+Opposition to the constitutional changes was led by the [[New Democratic Party (Saint Vincent and the Grenadines)|New Democratic Party]] (NDP), which held the position that the proposed constitution would neither reduce the power of the prime minister nor strengthen the country's [[democracy]]. <small><ref name=Caribbean360 /></small> The NDP's leader, [[Arnhim Eustace]], opined that the Gonsalves government and opposition parties had not come to an agreement on a number of fundamental issues, including the Integrity Commission, the [[Human Rights Commission]], the [[Ombudsman]], and the Electoral and Boundaries Commission. <small><ref name=Caribbean360 /></small> . 
+
+The [[CARICOM]] [[Secretariat]] announced that it would, at the request of the government of Saint Vincent and the Grenadines, officially observe the referendum, with the support of the [[Spanish Agency for International Cooperation for Development]] (AECID), an agency of the government of [[Spain]]. <small><ref name=Caribnn /><ref name=Caribbean360 /></small> . 
+
+==Vote==. 
+Voting took place in heavy rain on 25 November 2009; 52,156 of the 98,000 eligible Vincentiens cast ballots at 225 polling stations. The Supervisor of Elections opined that this was a good turn-out given the inclement weather. <small><ref>{{Citation| last=Trotman| first=Jeff| title=NO... NO...NO!!!| newspaper=The Vincentian| date=26 November 2009| url=http://www.thevincentian.com/dcmain.aspx?p=0&i=3712&skin=64&tID=198| accessdate=29 November 2009}}</ref></small> . 
+
+==Results==. 
+{{Referendum
+| title      = Saint Vincent and the Grenadines constitutional referendum, 2009
+| yes        = 22,493
+| yespct     = 43.13
+| no         = 29,020
+| nopct      = 55.64
+| valid      = 51,343
+| validpct   = 98.81
+| invalid    = 620
+| invalidpct = 1.19
+| total      = 52,177
+| turnoutpct = 54
+| source     = [http://www.gov.vc/govt/Referendum/referendum_election.html SVG Government– Referendum Results]
+}} . 
+
+==See also==. 
+* [[Australian republic referendum, 1999]]
+* [[Tuvaluan constitutional referendum, 2008]] . 
+
+==References==. 
+{{reflist}} . 
+
+{{Saint Vincent and the Grenadines elections}} . 
+
+{{DEFAULTSORT:Saint Vincent And The Grenadines Constitutional Referendum, 2009}}
+[[Category:2009 elections in the Caribbean]]
+[[Category:2009 referendums]]
+[[Category:Elections in Saint Vincent and the Grenadines]]
+[[Category:Monarchy in Saint Vincent and the Grenadines]]
+[[Category:Republicanism in Saint Vincent and the Grenadines]]

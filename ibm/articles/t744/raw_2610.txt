@@ -1,0 +1,683 @@
+{{Use dmy dates|date=March 2012}}
+{{pp-move-indef}}
+{{Infobox country
+|native_name = {{my|ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်}}<br>''Pyidaunzu Thanmăda Myăma Nainngandaw''
+|conventional_long_name =Republic of the Union of Myanmar
+|common_name = Burma
+|image_flag = Flag of Myanmar.svg
+|image_coat = State seal of Myanmar.svg
+|symbol_type = State seal
+|image_map = Location Burma (Myanmar) ASEAN.svg
+|map_caption = Location of Burma (green) within [[ASEAN]] (dark grey)
+|capital = [[Naypyidaw]]
+|national_motto =
+|national_anthem = ''[[Kaba Ma Kyei]]'' <br>[[File:US NAVY Band - Kaba Ma Kyei.ogg]]
+|official_languages = [[Burmese language|Burmese]]
+|languages_type = [[Official script]]s
+|languages = [[Burmese script]]
+|regional_languages = [[Jingpho language|Jingpho]], [[Kayah language|Kayah]], [[Karen language|Karen]], [[Chin languages|Chin]], [[Mon language|Mon]], [[Rakhine language|Rakhine]], [[Shan language|Shan]]
+|demonym = {{nowrap|Burmese / Myanma}}
+|ethnic_groups = Burman 68%<br>Shan 9%<br>Karen 7%<br>Rakhine 4%<br>Chinese 3%<br>Indian 2%<br>Mon 2%<br>other 5%
+|military_ capital = [[Naypyidaw]] (<sup>2</sup>)
+|business capital_= [[Yangon]]
+|largest_city = [[Yangon]] (Rangoon)
+|latd=19 |latm=45 |latNS=N |longd=96 |longm=6 |longEW=E
+|government_type = [[Unitary state|Unitary]] [[Presidential system|presidential republic]]
+|leader_title1 = [[President of Burma|President]]
+|leader_name1 = [[Thein Sein]]
+|leader_title2 = [[Vice President of Burma|Vice President]]
+|leader_name2 = [[Tin Aung Myint Oo]]<br>[[Sai Mauk Kham]]
+|leader_title3 = 
+|leader_name3 = 
+|sovereignty_type = [[History of Burma|Formation]]
+|established_event1 = [[Pagan Kingdom|Pagan Dynasty]]
+|established_date1 = 23 December 849
+|established_event2 = [[Taungoo dynasty|Toungoo Dynasty]]
+|established_date2 = 16 October 1510
+|established_event3 = [[Konbaung Dynasty]]
+|established_date3 = 29 February 1752
+|established_event4 = [[Post-independence Burma, 1948–1962|Independence]]<br/>(from United Kingdom)
+|established_date4 = 4 January 1948
+|established_event5 = [[1962 Burmese coup d'état|Coup d'état]]
+|established_date5 = 2 March 1962
+|established_event6 = [[Constitution of Burma|New constitution]]
+|established_date6 = 30 March 2011
+|legislature = [[Pyidaungsu Hluttaw]]
+|upper_house = [[Amyotha Hluttaw]]
+|lower_house = [[Pyithu Hluttaw]]
+|area_rank = 40th
+|area_magnitude = 1 E11
+|area_km2 = 676,578
+|area_sq_mi = 261,227 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 3.06
+|population_estimate = 60,280,000<ref><http://www.adb.org/Documents/Fact_Sheets/MYA.pdf>. Retrieved 8 July 2010. </ref>
+|population_estimate_year = 2010
+|population_estimate_rank = 24th
+|population_census = 33,234,000 (<sup>3</sup>)
+|population_census_year = 1983
+|population_density_km2 = 73.9
+|population_density_sq_mi = 191.5 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 119th
+|GDP_PPP_year = 2011
+|GDP_PPP = $81.553&nbsp;billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=518&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=54&pr.y=7 |title=Burma (Myanmar) |publisher=International Monetary Fund|accessdate=6 May 2011}}</ref>
+|GDP_PPP_rank = 76th
+|GDP_PPP_per_capita = $1,307<ref name=imf2/>
+|GDP_PPP_per_capita_rank = 163rd
+|GDP_nominal = $42.953&nbsp;billion<ref name=imf2/>
+|GDP_nominal_rank = 76th
+|GDP_nominal_year = 2010
+|GDP_nominal_per_capita = $702<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 155th
+|HDI_year = 2011 <!-- Please use the year that the data refers and not the publication year-->
+|HDI = {{nowrap|{{increase}} 0.483<ref name="UN">{{cite web|url=http://hdr.undp.org/en/media/HDR_2011_EN_Tables.pdf|title=Human Development Report 2011|year=2011|publisher=United Nations|accessdate=5 November 2011}}</ref>}}
+|HDI_rank = 149th
+|HDI_category =<span style="color:#e0584e;">low</span>
+|FSI = 97.0 {{increase}} 0.5
+|FSI_year = 2007
+|FSI_rank = 14th
+|FSI_category = <span style="colour:red;">Alert</span>
+|currency = [[Burmese kyat|kyat]] (K)
+|currency_code = MMK
+|Official exchange rate = 6 Kyat
+|Exchange rate = 1350 Kyat
+|time_zone = [[Myanmar Standard Time|MST]]
+|utc_offset = +06:30
+|drives_on = right<ref>Road infrastructure is still for driving on the left. </ref>
+|cctld = [[.mm]]
+|calling_code = [[Telephone numbers in Burma|95]]
+|footnote1 = Some governments recognise [[Yangon|Rangoon]] as the national capital. <ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html CIA – The World Factbook – Burma]</ref>
+}}
+{{Contains Burmese text}} . 
+
+'''Burma''' {{IPAc-en|audio=En-us-Burma.ogg|ˈ|b|ɜr|m|ə}}, officially the '''Republic of the Union of Myanmar''' {{IPAc-en|audio=En-us-Myanmar.ogg|ˌ|m|j|ɑː|n|ˈ|m|ɑr}} ({{lang-my|ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်}}, ''Pyidaunzu Thanmăda Myăma Nainngandaw'', {{IPA-my|pjìdàʊɴzṵ θàɴməda̰ mjəmà nàɪɴŋàɴdɔ̀|pron}}), is a country in [[South Asia]] and [[Southeast Asia]]. It is bordered by [[India]], [[Bangladesh]], [[China]], [[Laos]] and [[Thailand]]. One-third of Burma's total perimeter of {{convert|1930|km}} forms an uninterrupted coastline along the [[Bay of Bengal]] and the [[Andaman Sea]]. At 676,578&nbsp;km<sup>2</sup> (261,227 sq mi), it is the 40th largest country in the world and the second largest country in Southeast Asia. Burma is also the 24th most populous country in the world with over 58.8&nbsp;million people. <ref>Asian Development Bank – Myanmar Fact Sheet, <http://www.adb.org/Documents/Fact_Sheets/MYA.pdf>. Retrieved 8 July 2010. </ref> . 
+
+Burma is home to some of the early civilizations of Southeast Asia including the [[Pyu city states|Pyu]] and the [[Mon kingdoms|Mon]]. <ref>{{cite book | title=Early civilizations of Southeast Asia | publisher=Altamira Press | author=Dougald JW O'Reilly | year=2007 | location=United Kingdom | isbn=10: 0-7591-0279-1}}</ref> In the 9th century, the [[Bamar|Burmans]] of the [[Kingdom of Nanzhao]], entered the upper Irrawaddy valley and, following the establishment of the [[Pagan Empire]] in the 1050s, the [[Burmese language|language]] and [[Culture of Burma|culture]] slowly became dominant in the country. During this period, [[Theravada Buddhism]] gradually became the predominant religion of the country. The Pagan Empire fell due to the [[Mongol invasion of Burma|Mongol invasions]] (1277–1301), and several warring states emerged. In the second half of the 16th century, the country was reunified by the  [[Taungoo Dynasty]] which for a brief period was the largest empire in the [[history of Southeast Asia]]. <ref name=vbl-152>Lieberman 2003: 152</ref> The early 19th century [[Konbaung Dynasty]] ruled over an area that included modern Burma as well as [[Manipur]] and [[Assam]]. The country was colonized by Britain following three [[Anglo-Burmese Wars]] (1824–1885).  . 
+
+British rule brought social, economic, cultural and administrative changes to the once-feudal society. Since independence in 1948, the country has been in one of the [[List of ongoing military conflicts#Other conflicts|longest running]]  [[Internal conflict in Burma|civil wars]] among the country's [[List of ethnic groups in Burma|myriad ethnic groups]] that remains unresolved. From 1962 to 2011, the country was under [[Military dictatorship|military rule]]. The [[State Peace and Development Council|military junta]] was dissolved in 2011 following a [[Burmese general election, 2010|general election in 2010]] and a civilian government installed.  . 
+
+Burma is a resource rich country. However, since the [[Burmese way to socialism|reformations of 1962]], the [[Economy of Burma|Burmese economy]] has become one of the least developed in the world. Burma’s GDP stands at $42.953&nbsp;billion and grows at an average rate of 2.9% annually – the lowest rate of economic growth in the Greater [[Mekong]] Subregion. <ref name="CIA">{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html |title=Burma |accessdate =13 January 2007 |work=The World Factbook | publisher=Central Intelligence Agency}}</ref> Among others, the EU, United States and Canada have imposed economic sanctions on Burma. <ref>{{cite news | url=http://news.bbc.co.uk/2/hi/asia-pacific/8195956.stm | title=Overview of Burma sanctions |publisher=BBC  | date=18 December 2009 | accessdate=3 June 2011}}</ref> Burma's health care system is one of the worst in the world: The [[World Health Organization]] ranked Burma at [[World Health Organization's ranking of health care systems|190th]], the worst performing of all countries.  . 
+
+The United Nations and several other organizations have reported consistent and systematic [[Human rights in Burma|human rights]] violations in the country, including [[child labour]], [[human trafficking]] and a lack of [[freedom of speech]].  . 
+
+==Name==. 
+{{Main|Names of Burma}} . 
+
+Both "Burma" and "Myanmar" are derived from the name of the majority Burmese [[Bamar]] ethnic group. "Myanmar" is considered to be the literary form of the name of the ethnic group, while "Burma" is derived from Bamar, the colloquial form of the name of the group. Depending on the [[register (linguistics)|register]] used the pronunciation would be "Bama" ({{IPA-my|bəmà|pron}}), or "Myamah" ({{IPA-my|mjəmà|pron}}). The name "Burma" has been in use in English since the time of [[British Burma|British colonial rule]].  . 
+
+In 1989, the military government [[Geographical renaming|officially changed]] the English translations of many colonial-era names; among these changes was the alteration of the name of the country to "Myanmar". The renaming remains a contested issue. <ref name="Houtman">{{cite book |url=http://homepages.tesco.net/~ghoutman |title=Mental culture in Burmese crisis politics |last=Houtman |first=Gustaaf |year=1999 |series=ILCAA Study of Languages and Cultures of Asia and Africa Monograph Series No. 33|publisher=Institute for the Study of Languages and Cultures of Asia and Africa |pages=43–47 |isbn=978-4872977486}}</ref> Many opposition groups and countries continue to use "Burma" because they do not recognise the legitimacy of the ruling military government or its authority to rename the country. <ref name="steinberg">{{cite book |last=Steinberg |first=David L. |year=2002 |month=February |title=Burma: The State of Myanmar |publisher=[[Georgetown University|Georgetown University Press]] |id=ISBN}}</ref> Various non-Burman ethnic groups choose not to recognise the name because of the association of the term "Myanmar" with the majority ethnic group, the [[Bamar]], rather than with the country. <ref name="thantmyintu2001">{{cite book | first=Thant | last=Myint-U | year=2001 | title=The Making of Modern Burma | isbn=0-521-79914-7 | publisher=Cambridge Univ. Press | location=Cambridge}}</ref><ref name="msmith"/><ref>''The Burma Road from the Union of Burma to Myanmar'', Mya Maung, Asian Survey, Vol. 30, No. 6, June 1990, p 602</ref> . 
+
+"Burma" continues to be used in English by the governments of many countries, including the United States, Australia, Canada and the United Kingdom. The United Nations uses "Myanmar", as do the [[Association of Southeast Asian Nations]], Germany,<ref name="BBC">{{cite news |url=http://news.bbc.co.uk/1/hi/magazine/7013943.stm
+|title=Should it be Burma or Myanmar? |date=26 September 2007 |work=Magazine |publisher=BBC News  |accessdate=2 July 2008}},</ref> China, India and Japan. <ref name="Dittmer">{{cite book
+|title=Burma Or Myanmar? The Struggle for National Identity|last=Dittmer|first=Lowell|year=2010|page=2|url=http://books.google.co.uk/books?id=aoHP2Q2I1p4C&lpg=PA103&ots=C9AfQULR5Q&dq=9789814313643&pg=PA2|publisher=World Scientific}}</ref>
+There are variations of "Myanmar" when translated to local languages. The Government of [[Brazil]] uses "Mianmar"<ref name="Itamaraty">{{cite news |url=http://www.itamaraty.gov.br/sala-de-imprensa/notas-a-imprensa/2007/09/27/situacao-em-mianmar/ |title=Sala de Imprensa: Situação em Mianmar |date= 27 September 2007 |work=Institutional website |publisher=Itamaraty |accessdate= 2 April 2012}}</ref>, for example.  . 
+
+==History==. 
+{{Main|History of Burma}} . 
+
+===Early history===. 
+{{Main|Prehistory of Burma|Pyu city-states|Mon city-states}}
+[[File:The neolithic culture of Padah Lin cave.png|thumb|Neolithic paintings found inside [[Padah-Lin Caves]], [[Radiocarbon dating|radiocarbon]] dated up to 13,000 years ago]] . 
+
+Archaeological evidence shows that the ''[[homo erectus]]'' had lived in the region now known as [[Burma]] as early as 750,000 years ago, and the ''[[homo sapiens]]'' about 11,000 BCE, in a [[Stone Age]] culture called the ''Anyathian'', when plants and animals were first domesticated and polished stone tools appeared in Burma. <ref name=rmc-1>Cooler 2002: Chapter 1</ref> The [[Bronze Age]] arrived circa 1500 BCE when people in the region were turning copper into bronze, growing rice, and domesticating chickens and pigs; they were among the first people in the world to do so. The [[Iron Age]] arrived around 500 BCE when iron-working settlements had emerged in an area south of present-day [[Mandalay]]. <ref name=tmu-2006-45>Myint-U 2006: 45</ref> Evidence also shows rice growing settlements of large villages and small cities that traded with their surroundings as far as China between 500 BCE and 200 CE. <ref name=bh-1>Hudson 2005: 1</ref> . 
+
+Around the 2nd century BCE, the first known [[city-states]] emerged in central Burma. The city-states were founded as part of the southward migration by the [[Tibeto-Burman languages|Tibeto-Burman]]-speaking [[Pyu people|Pyu]], the earliest inhabitants of Burma of whom records are extant, from present-day [[Yunnan]]. <ref name=dgeh-8-10>Hall 1960: 8-10</ref><ref name=ehm-236>Moore 2007: 236</ref> The Pyu culture was heavily influenced by trade with [[India]], importing [[Buddhism]] as well as other cultural, architectural and political concepts, which would have an enduring influence on later Burmese culture and political organization. <ref name=tmu-2006-51-52>Myint-U 2006: 51–52</ref> By the 9th century CE, several city-states had sprouted across the land: the Pyu states in the central dry zone, Mon states along the southern coastline and Arakanese states along the western littoral. The balance was upset when the Pyu states came under repeated attacks from the [[Kingdom of Nanzhao]] between the 750s and the 830s. In the mid-to-late 9th century, the [[Bamar|Mranma]] (Burmans/Bamar) of Nanzhao founded a small settlement at [[Bagan|Pagan]] (Bagan). It was was one of several competing city-states until the late 10th century when it grew in authority and grandeur. <ref name=vbl-90-91>Lieberman 2003: 90–91</ref> . 
+
+===Imperial era (849–1885)===. 
+{{Main|Pagan Kingdom|Toungoo Dynasty|Konbaung Dynasty}}
+{{See also|Ava Kingdom|Hanthawaddy Kingdom|Mrauk U Kingdom|Shan states}} . 
+
+[[File:Bagan, Burma.jpg|thumb|Pagodas and temples in present-day [[Bagan|Pagan]] (Bagan), the capital of the [[Pagan Kingdom]]]] . 
+
+Pagan gradually grew to absorb its surrounding states until the 1050s–1060s when [[Anawrahta]] founded the [[Pagan Empire]], the first ever unification of the Irrawaddy valley and its periphery. In the 12th and 13th centuries, the Pagan Empire and the [[Khmer Empire]] were two main powers in [[mainland Southeast Asia]]. <ref name=vbl-24>Lieberman 2003: 24</ref> The [[Burmese language]] and [[Burmese culture|culture]] gradually became dominant in the upper Irrawaddy valley, eclipsing the [[Pyu language|Pyu]], [[Mon language|Mon]] and [[Pali]] norms by the late 12th century. [[Theravada Buddhism]] slowly began to spread to the village level although [[Vajrayana|Tantric]], [[Mahayana]], [[Brahmanic]], and [[animist]] practices remained heavily entrenched. Pagan's rulers and wealthy built over 10,000 Buddhist temples in the Pagan capital zone alone. Repeated [[Mongol invasion of Burma|Mongol invasions]] (1277–1301) toppled the four-century-old kingdom in 1287. <ref name=mha-63-65>Htin Aung 1967: 63–65</ref> . 
+
+[[File:MysticalMraukU.jpg|thumb|Temples at Mrauk U]] . 
+
+Pagan's collapse was followed by 250 years of political fragmentation that lasted well into the 16th century. Like the Burmans four centuries earlier, [[Shan people|Shan]] migrants who arrived with the Mongol invasions stayed behind. Several competing [[Shan states]] came to dominate the entire northwestern to eastern arc surrounding the Irrawaddy valley. The valley too was beset with petty states until the late 14th century when two sizable powers, [[Ava Kingdom]] and [[Hanthawaddy Kingdom]], emerged. In the west, a politically fragmented Arakan was under competing influences of its stronger neighbors until the [[Kingdom of Mrauk U]] unified the Arakan coastline for the first time in 1437.  . 
+
+Early on, Ava fought [[Forty Years' War|wars of unification]] (1385–1424) but could never quite reassemble the lost empire. Having held off Ava, Hanthawaddy entered its golden age, and Arakan went on to become a power in its own right for the next 350 years. In contrast, constant warfare left Ava greatly weakened, and it slowly disintegrated from 1481 onward. In 1527, the [[Confederation of Shan States]] conquered Ava itself, and ruled Upper Burma until 1555.  . 
+
+Like the Pagan Empire, Ava, Hanthawaddy and the Shan states were all multi-ethnic polities. Despite the wars, cultural synchronization continued. This period is considered a golden age for Burmese culture. [[Burmese literature]] "grew more confident, popular, and stylistically diverse", and the second generation of Burmese law codes as well as the earliest pan-Burma chronicles emerged. <ref name=vbl-134>Lieberman 2003: 134</ref> Hanthawaddy monarchs introduced religious reforms that later spread to the rest of the country. <ref name=tmu-2006-64-65>Myint-U 2006: 64–65</ref> Many splendid temples of Mrauk U were built during this period.  . 
+
+[[File:Map of Taungoo Empire (1580).png|thumb|left|Bayinnaung's Empire in 1580]]
+Political unification returned in the mid-16th century, due to the efforts of one tiny [[Toungoo Dynasty|Toungoo]] (Taungoo), a former vassal state of Ava. Toungoo's young, ambitious king [[Tabinshwehti]] [[Toungoo–Hanthawaddy War (1535–1541)|defeated]] the more powerful Hanthawaddy in 1541. His successor [[Bayinnaung]] went on to conquer a vast swath of [[mainland Southeast Asia]] including the [[Shan states]], [[Lan Na]], [[Manipur]], the [[Mong Mao|Chinese Shan states]], [[Ayutthaya kingdom|Siam]], [[Lan Xang]] and southern Arakan. However, the largest empire in the history of Southeast Asia unravelled soon after Bayinnaung's death in 1581, completely collapsing by 1599. Siam seized Tenasserim and Lan Na, and [[Portuguese people|Portuguese]] mercenaries established [[Portuguese Empire|Portuguese rule]] at [[Thanlyin|Syriam]] (Thanlyin).  . 
+
+The dynasty regrouped and defeated the Portuguese in 1613 and Siam in 1614. It restored a smaller, more manageable kingdom, encompassing Lower Burma, Upper Burma, Shan states, Lan Na and upper Tenasserim. The Restored Toungoo kings created a legal and political framework whose basic features would continue well into the 19th century. The crown completely replaced the hereditary chieftainships with appointed governorships in the entire Irrawaddy valley, and greatly reduced the hereditary rights of Shan chiefs. Its trade and secular administrative reforms built a prosperous economy for more than 80 years. From the 1720s onward, the kingdom was beset with repeated [[Manipuri]] raids into Upper Burma, and a nagging rebellion in Lan Na. In 1740, the Mon of Lower Burma founded the [[Restored Hanthawaddy Kingdom]]. Hanthawaddy forces sacked Ava in 1752, ending the 266-year-old Toungoo Dynasty.  . 
+
+[[File:Shwedagon pagoda.jpg|thumb|A British 1825 lithograph of [[Shwedagon Pagoda]] shows British occupation during the [[First Anglo-Burmese War]].]] . 
+
+After the fall of Ava, one resistance group, [[Alaungpaya]]'s [[Konbaung Dynasty]] [[Konbaung-Hanthawaddy War|defeated]] Restored Hanthawaddy, and by 1759, had reunited all of Burma (and Manipur), and driven out the French and the British who had provided arms to Hanthawaddy. By 1770, Alaungpaya's heirs had subdued much of [[Laos]] (1765), [[Burmese–Siamese War (1765–1767)|defeated Siam]] (1767), and [[Sino–Burmese War (1765–1769)|defeated four invasions]] by [[Qing Dynasty|China]] (1765–1769). <ref name=vbl-184-187>Lieberman 2003: 184–187</ref> With Burma preoccupied by the Chinese threat, Siam recovered its territories by 1770, and went on to capture Lan Na by 1776. Burma and Siam went to war until 1855, but all resulted in a stalemate, exchanging Tenasserim (to Burma) and Lan Na (to Siam). Faced with a powerful China and a resurgent Siam in the east, King [[Bodawpaya]] turned west, acquiring Arakan (1785), Manipur (1814) and Assam (1817). It was second largest empire in Burmese history but also one with a long ill-defined border with [[British India]]. <ref name=tmu-109>Myint-U 2006: 109</ref> . 
+
+The breadth of this empire was short lived. Burma lost Arakan, Manipur, Assam and Tenasserim to the British in the [[First Anglo-Burmese War]] (1824–1826). In 1852, the British easily seized [[Lower Burma]] in the [[Second Anglo-Burmese War]]. King [[Mindon]] tried to modernize the kingdom, and in 1875 narrowly avoided annexation by ceding the [[Karenni States]]. The British, alarmed by the consolidation of [[French Indo-China]], annexed the remainder of the country in the [[Third Anglo-Burmese War]] in 1885.  . 
+
+Konbaung kings extended Restored Toungoo's administrative reforms, and achieved unprecedented levels of internal control and external expansion. For the first time in history, the Burmese language and culture came to predominate the entire Irrawaddy valley. The evolution and growth of Burmese literature and theater continued, aided by an extremely high adult male literacy rate for the era (half of all males and 5% of females). <ref name=vbl-202-206>Lieberman 2003: 202–206</ref> Nonetheless, the extent and pace of reforms were uneven and ultimately proved insufficient to stem the advance of British colonialism.  . 
+
+===Colonial era (1886–1948)===. 
+{{main|British rule in Burma}}
+[[File:British forces arrival mandalay1885.jpg|thumb|The landing of British forces in Mandalay after the last of the [[Anglo-Burmese War]]s, which resulted in the abdication of the last Burmese monarch, King [[Thibaw Min]].]]
+[[File:IND 004723.jpg|thumb|right|British troops firing a [[mortar (weapon)|mortar]] on the [[Mawchi]] road, July 1944.]] . 
+
+With the fall of Mandalay, all of Burma came under British rule. Throughout the colonial era, many Indians arrived as soldiers, civil servants, construction workers and traders and, along with the Anglo-Burmese community, dominated commercial and civil life in Burma. Rangoon became the capital of British Burma and an important port between Calcutta and Singapore.  . 
+
+Burmese resentment was strong and was vented in violent riots that paralysed Yangon on occasion all the way until the 1930s. <ref>{{cite book | first=Maurice | last=Collis | year=1945 | title=Trials in Burma}}</ref> Some of the discontent was caused by a disrespect for [[Burmese culture]] and traditions such as the British refusal to remove shoes when they entered pagodas. Buddhist monks became the vanguards of the independence movement. [[U Wisara]], an activist monk, died in prison after a 166-day hunger strike to protest a rule that forbade him from wearing his Buddhist robes while imprisoned. <ref>{{cite book | first=Heinz | last=Bechert | year=1984 | title=The World of Buddhism-Buddhist Monks and Nuns in Society and Culture | isbn=978-0871969828 | publisher=Facts on File | location=New York, N.Y.}}</ref> . 
+
+On 1 April 1937, Burma became a separately administered colony of Great Britain and [[Ba Maw]] the first Prime Minister and Premier of Burma. Ba Maw was an outspoken advocate for Burmese self-rule and he opposed the participation of Great Britain, and by extension Burma, in World War II. He resigned from the Legislative Assembly and was arrested for sedition. In 1940, before Japan formally entered the Second World War, [[Aung San]] formed the [[Burma Independence Army]] in Japan.  . 
+
+A major battleground, Burma was devastated during the Second World War. By March 1942, within months after they entered the war, Japanese troops had advanced on Rangoon and  the British administration had collapsed. A Burmese Executive Administration headed by Ba Maw was established by the Japanese in August 1942. Beginning in late 1944, allied troops launched a series of offensives that led to the end of Japanese rule in July 1945. However, the battles were intense with much of Burma laid waste by the fighting.  . 
+
+Although many Burmese fought initially for the Japanese, some Burmese, mostly from the ethnic minorities, also served in the British Burma Army. <ref>{{cite book |first=Ian |last=Fellowes-Gordon |year=1971 |title=The Battle For Naw Seng's Kingdom: General Stilwel}}</ref> The [[Burma Independence Army]] and the Arakan National Army fought with the Japanese from 1942 to 1944, but switched allegiance to the Allied side in 1945.  . 
+
+Following the World War II, Aung San negotiated the [[Panglong Agreement]] with ethnic leaders that guaranteed the independence of Burma as a unified state. In 1947, Aung San became Deputy Chairman of the Executive Council of Burma, a transitional government. But in July 1947, political rivals backed by the British<ref>{{cite news
+|url=http://www.irrawaddy.org/article.php?art_id=719
+|title=Who killed Aung San?
+|publisher=The Irrawaddy
+|date=August 1977
+|accessdate=10 January 2012}}</ref> assassinated Aung San and several cabinet members. <ref name="aungsan">{{cite book |first=Gustaaf |last=Houtman |year=1999 |title=Mental Culture in Burmese Crisis Politics: Aung San Suu Kyi and the National League for Democracy |isbn=4-87297-748-3 |publisher=Tokyo University of Foreign Studies, Institute for the Study of Languages and Cultures of Asia and Africa |location=Tokyo}}</ref> . 
+
+===Democratic republic (1948–1962)===. 
+{{Main|Post-independence Burma, 1948–1962}}
+On 4 January 1948, the nation became an independent republic, named the ''Union of Burma'', with [[Sao Shwe Thaik]] as its first President and [[U Nu]] as its first Prime Minister. Unlike most other former British colonies and overseas territories, it did not become a member of the [[Commonwealth of Nations|Commonwealth]]. A [[bicameral]] parliament was formed, consisting of a [[Chamber of Deputies]] and a [[Chamber of Nationalities]],<ref name="1947con">{{cite web |url=http://english.dvb.no/e_docs/511947_con.htm |title=The Constitution of the Union of Burma |accessdate=7 July 2006 |year=1947 |publisher=DVB| archiveurl = http://web.archive.org/web/20060615072018/http://english.dvb.no/e_docs/511947_con.htm| archivedate = 15 June 2006}}</ref> and [[Multi-party system|multi-party]] elections were held in [[Burmese general election, 1951–1952|1951–1952]], [[Burmese general election, 1956|1956]] and [[Burmese general election, 1960|1960]].  . 
+
+The geographical area Burma encompasses today can be traced to the [[Panglong Agreement]], which combined Burma Proper, which consisted of [[Lower Burma]] and [[Upper Burma]], and the [[Frontier Areas]], which had been administered separately by the British. <ref name="msmith">{{cite book |first=Martin |last=Smith |year=1991 |title=Burma -Insurgency and the Politics of Ethnicity |publisher=Zed Books |location=London and New Jersey |pages=42–43}}</ref> . 
+
+In 1961, [[U Thant]], then the Union of Burma's Permanent Representative to the United Nations and former Secretary to the Prime Minister, was elected [[Secretary-General of the United Nations]], a position he held for ten years. <ref name="az">{{cite web 
+|url=http://www.irrawaddy.org/article.php?art_id=7610 
+|author=Aung Zaw 
+|title=Can Another Asian Fill U Thant's Shoes? 
+|work=[[The Irrawaddy]] September 2006 
+|accessdate=10 January 2012}}</ref> Among the Burmese to work at the UN when he was Secretary-General was a young [[Aung San Suu Kyi]], who went on to become winner of the 1991 [[Nobel Peace Prize]].  . 
+
+===Military rule (1962–2011)===. 
+====The Ne Win years====. 
+{{Main|1962 Burmese coup d'état}} . 
+
+On 2 March 1962, the military led by General [[Ne Win]] took control of Burma through a coup d'état and the government has been under direct or indirect control by the military since then. Between 1962 and 1974, Burma was ruled by a revolutionary council headed by the general, and almost all aspects of society (business, media, production) were [[nationalized]] or brought under government control under the [[Burmese Way to Socialism]]<ref name="thantmyintu">{{cite book |first=Thant |last=Myint-U |year=2006 |title=The River of Lost Footsteps |isbn=0-374-16342-1 |publisher=Farra, Strauss and Giroux |location=New York}}</ref> which combined [[Soviet]]-style nationalisation and [[central planning]] with the governmental implementation of [[superstition|superstitious]] beliefs.{{Citation needed |date=July 2010}} A new [[Constitution of Burma|constitution of the Socialist Republic of the Union of Burma]] was adopted in 1974, until 1988, the country was ruled as a [[Single-party state|one-party system]], with the General and other military officers resigning and ruling through the [[Burma Socialist Programme Party]] (BSPP). <ref name="christinafink">{{cite book |first=Christina |last=Fink |year=2001 |title=Living Silence:Burma under Military Rule |isbn=1-8564-9926-X |publisher=White Lotus |location=Bangkok}}</ref> During this period, Burma became one of the world's most impoverished countries. <ref name="ruin">{{cite news |url=http://www.guardian.co.uk/world/2007/sep/28/burma.uk |title=The Burma road to ruin |work=The Guardian |location=London  |first=Mark |last=Tallentire |date=28 September 2007 |accessdate=27 April 2010}}</ref> . 
+
+There were sporadic protests against military rule during the Ne Win years and these were almost always violently suppressed. On 7 July 1962, the government broke up demonstrations at [[Yangon University|Rangoon University]], killing 15 students. <ref name="thantmyintu"/> In 1974, the military violently suppressed anti-government protests at the funeral of [[U Thant]]. Student protests in 1975, 1976 and 1977 were quickly suppressed by overwhelming force. <ref name="christinafink"/> . 
+
+====SPDC rule (1988–2011)====. 
+[[Image:8888 Uprising.jpg|right|thumb|Protesters gathering in central Rangoon, 1988]] . 
+
+In 1988, unrest over economic mismanagement and political oppression by the government led to widespread pro-democracy demonstrations throughout the country known as the [[8888 Uprising]]. Security forces killed thousands of demonstrators, and General [[Saw Maung]] staged a coup d'état and formed the [[State Law and Order Restoration Council]] (SLORC). In 1989, SLORC declared [[martial law]] after widespread protests. The military government finalised plans for People's Assembly elections on 31 May 1989. <ref>{{cite web |url=http://www.ibiblio.org/obl/docs/pyithu_hluttaw_election_law.htm |title=PYITHU HLUTTAW ELECTION LAW |accessdate=11 July 2006 |date=31 May 1989 |work=State Law and Order Restoration Council |publisher=iBiblio.org}}</ref> SLORC changed the country's official English name from the "Socialist Republic of the Union of Burma" to the "Union of Myanmar" in 1989.  . 
+
+In May 1990, the government held [[Election#Difficulties with elections|free election]]s for the first time in almost 30 years and the [[National League for Democracy]] (NLD), the party of [[Aung San Suu Kyi]], [[Burmese general election, 1990|won 392 out of a total 489 seats]] (i.e., 80% of the seats). However, the military junta refused to cede power<ref>{{cite web |url=http://www.ibiblio.org/obl/docs/Elections-02.htm |title=1990 MULTI-PARTY DEMOCRACY GENERAL ELECTIONS |author=Khin Kyaw Han |accessdate=11 July 2006 |date=1 February 2003 |work=National League for Democracy |publisher=iBiblio.org}}</ref> and continued to rule the nation as SLORC until 1997, and then as the [[State Peace and Development Council]] (SPDC) until its dissolution in March 2011.  . 
+
+On 23 June 1997, Burma was admitted into the [[Association of Southeast Asian Nations]] (ASEAN). On 27 March 2006, the military junta, which had moved the national capital from [[Yangon]] to a site near [[Pyinmana]] in November 2005, officially named the new capital [[Naypyidaw]], meaning "city of the kings". <ref name="newcapital">{{cite news |url=http://news.bbc.co.uk/2/hi/asia-pacific/4848408.stm |title=Burma's new capital stages parade |publisher=BBC News |date=27 March 2006 |accessdate=24 June 2006 }}</ref> . 
+
+=====2007 Burmese anti-government protest=====. 
+{{main|2007 Burmese anti-government protests}}
+[[File:2007 Myanmar protests 7.jpg|thumb|Protesters in [[Yangon]] with a banner that reads ''non-violence: national movement'' in [[Burmese language|Burmese]].  In the background is [[Shwedagon Pagoda]].]]
+[[File:Cyclone Nargis -Myanmar-3May2008.jpg|thumb|[[Cyclone Nargis]], 2—3 May 2008,<br>devastated southern Burma]]
+In August 2007, an increase in the price of [[diesel fuel|diesel]] and [[gasoline|petrol]] led to a series of anti-government protests that were dealt with harshly by the government. <ref name="Fuel">[http://news.bbc.co.uk/2/hi/asia-pacific/6947251.stm Burma leaders double fuel prices]. </ref> The protests then became a campaign of [[civil resistance]] (also called the [[Saffron Revolution]]. <ref>{{cite news |url=http://www.timesonline.co.uk/tol/news/world/asia/article2521951.ece|title=Military junta threatens monks in Burma |location=London |work=The Times  |date=24 September 2007 |accessdate=27 April 2010 |first1=Jenny |last1=Booth}}</ref><ref>{{cite web |url=http://www.novinite.com/view_news.php?id=85644|title=100,000 Protestors Flood Streets of Rangoon in "Saffron Revolution"}}</ref>)<ref>Christina Fink, “The Moment of the Monks: Burma, 2007”, in [[Adam Roberts (scholar)|Adam Roberts]] and [[Timothy Garton Ash]] (eds.), ''Civil Resistance and Power Politics: The Experience of Non-violent Action from Gandhi to the Present'', Oxford University Press, 2009, ISBN 978-0-19-955201-6, pp. 354–70. [http://books.google.com/books?id=BxOQKrCe7UUC&dq=Civil+resistance+and+power+politics&source=gbs_navlinks_s]</ref> led by Buddhist monks,<ref name="Monks">[http://english.aljazeera.net/NR/exeres/4081D23F-F1A4-46AF-BA50-D47FA2B7A4AE.htm UN envoy warns of Myanmar crisis]. </ref> hundreds of whom defied the house arrest of democracy advocate [[Aung San Suu Kyi]] to pay their respects at the gate of her house. The government finally cracked down on them on 26 September 2007. The crackdown was harsh, with reports of barricades at the Shwedagon Pagoda and monks killed. However, there were also rumours of disagreement within the Burmese armed forces, but none was confirmed.  . 
+
+In May 2008, [[Cyclone Nargis]] caused extensive damage in the densely populated, rice-farming delta of the [[Irrawaddy Division]]. <ref>[http://www.iht.com/articles/ap/2008/05/06/asia/AS-GEN-Myanmar-Cyclone.php Aid arrives in Myanmar as death toll passes 22,000, but worst-hit area still cut off&nbsp;– International Herald Tribune<!-- Bot generated title -->]. </ref> It was the worst [[natural disaster]] in Burmese history with reports of an estimated 200,000 people dead or missing, and damage totaled to 10&nbsp;billion dollars (USD), and as many as 1 million left homeless. <ref name="autogenerated2">{{cite web
+|url=http://myanmartravelinformation.com/mti-myanmar-religion/nats.htm
+|title=Official: UN plane lands in Myanmar with aid after cyclone
+|publisher=The Associated Press
+|archiveurl=http://web.archive.org/web/20080509013747/http://ap.google.com/article/ALeqM5greyFH3qkj9mc9oagSoulgjN4KHgD90HICSO3
+|archivedate=9 May 2008
+|accessdate=10 January 2012}}</ref> In the critical days following this disaster, Burma's isolationist government hindered recovery efforts by delaying the entry of United Nations planes delivering medicine, food, and other supplies. <ref>{{cite news |coauthors=Rachel Stevenson, Julian Borger, Ian MacKinnon |title=Burma snubs foreign aid workers |url=http://www.guardian.co.uk/world/2008/may/09/cyclonenargis.burma4 |work=The Guardian |location=London  |date=9 May 2008 |accessdate=9 May 2008 }}</ref> . 
+
+In early August 2009, a conflict known as the [[August 2009 Kokang incident|Kokang incident]] broke out in [[Shan State]] in northern Burma. For several weeks, junta troops fought against ethnic minorities including the [[Kokang people|Han Chinese]],<ref>[http://www.msnbc.msn.com/id/32596296/ns/world_news-asiapacific/ Fighting forces up to 30,000 to flee Myanmar]. Msnbc.com. 28 August 2009. </ref> [[Va people|Va]], and [[Jingpo people|Kachin]]. <ref name="BangkokPost">{{cite web |url=http://www.bangkokpost.com/news/asia/152806/more-fighting-feared-as-thousands-flee-burma |title=More fighting feared as thousands flee Burma | publisher=[[Bangkok Post]] |author=[[Agence France-Presse]] |date=27 August 2009 |accessdate=28 August 2009}}</ref><ref name="NYTrefugees">{{cite news |work=The New York Times |last=Fuller |first=Thomas |date=28 August 2009 |accessdate=28 August 2009 |url=http://www.nytimes.com/2009/08/29/world/asia/29myanmar.html?ref=world |title=Refugees Flee to China as Fighting Breaks Out in Myanmar}}</ref> From 8–12 August, the first days of the conflict, as many as 10,000 Burmese civilians fled to [[Yunnan]] province in neighbouring China. <ref name="BangkokPost"/><ref name="NYTrefugees"/><ref name="BBCrefugees">{{cite news |work=BBC News |url=http://news.bbc.co.uk/2/hi/asia-pacific/8223430.stm |title=Thousands Flee Burma Violence |date=26 August 2009 |accessdate=28 August 2009}}</ref> . 
+
+====Elections and reforms (2010–present)====. 
+{{main|2011–2012 Burmese political reforms}} . 
+
+The [[Burmese constitutional referendum, 2008]], promised a "discipline-flourishing democracy", was held on 10 May 2008 and the name of the country was changed from the '''Union of Myanmar''' to the '''Republic of the Union of Myanmar'''. General elections were held under the new constitution in 2010.  Observers described the election day of 2010 as mostly peaceful, though there were alleged irregularities in polling stations and the United Nations and Western countries condemned the elections as fraudulent. <ref name="t">{{cite news | url=http://www.time.com/time/world/article/0,8599,2064470,00.html | title=The Slow Thaw of Burma's Notorious Military Junta |work=The Times |location=UK | accessdate=1 September 2011 | author=Andrew Marshall | date=11 April 2011}}</ref> The official turnout was reported as 77%. <ref name="tni.org">[http://www.tni.org/briefing/changing-ethnic-landscape-analysis-burmas-2010-polls A Changing Ethnic Landscape: Analysis of Burma's 2010 Polls] Burma Policy Briefing 4. of the [[Transnational Institute]] and Burma Centrum Nederland</ref> The military-backed [[Union Solidarity and Development Party]] declared victory stating that it had won 80% of the votes. That claim was widely disputed by pro-democracy opposition groups, which asserted that the military regime engaged in rampant fraud to achieve its result. <ref name="tni.org"/>  . 
+
+Since the elections, the government has embarked on a series of reforms toward [[liberal democracy]], [[mixed economy]], and reconciliation although the motives of such reforms are still debated.  These reforms include the release of pro-democracy leader [[Aung San Suu Kyi]] from house arrest, establishment of the National Human Rights Commission,  general amnesties of more than 200 political prisoners, institution of new labour laws that allow labour unions and strikes, relaxation of press censorship and regulations of currency practices. <ref>{{cite news | url=http://www.bbc.co.uk/news/world-asia-pacific-15303968 | title=Obstacles lie ahead in Burma's bid for reform |publisher=BBC | date=19 November 2011 | accessdate=20 November 2011 | author=David Loyn}}</ref> The reforms come as a surprise to many because [[Burmese general election, 2010|the election of 2010]] was considered fraudulent by the international community. <ref>{{cite news | url=http://www.nytimes.com/2010/10/22/world/asia/22nations.html | title=U.N. Doubts Fairness of Election in Myanmar |work=New York Times | accessdate=20 November 2011 | first=Neil | last=MacFarquhar | date=21 October 2010}}</ref> . 
+
+The consequences of the reforms are far-reaching. The ASEAN members have approved Burma's bid for ASEAN chair in 2014. United States Secretary of State [[Hillary Clinton]] visited Burma in December 2011 to encourage further progress, the first visit by a Secretary of State in more than fifty years. Clinton met with Burmese president [[Thein Sein]] as well as opposition leader [[Daw Aung San Suu Kyi]]. <ref name="Clinton">{{cite news|title=Clinton Says U.S. Will Relax Some Restrictions on Myanmar|url=http://www.nytimes.com/2011/12/02/world/asia/us-will-relax-curbs-on-aid-to-myanmar.html?ref=asia|accessdate=3 December 2011|newspaper=New York Times|date=1 December 2011}}</ref> Domestically, [[Aung San Suu Kyi]]'s party, [[National League for Democracy]] will participate in the by-election after the government abolished laws that led to NLD's boycott. <ref>{{cite news | url=http://www.bbc.co.uk/news/world-asia-15787052 | title=US Secretary of State Hillary Clinton to visit Burma |publisher=BBC | date=18 November 2011 | accessdate=25 November 2011}}</ref> However, uncertainties exist as more than 1,600 political prisoners are not yet released and the clashes between Burmese Army and local insurgent groups continue.  . 
+
+The April 1 election was perhaps the most promising moment of reform. Led by Aung San Suu Kyi, the [[National League for Democracy]] won 44 of 45 seats up for grab. Although only a small fraction of the seats were up for a vote, the previously illegal NLD was allowed to campaign, run, and win for the first time. Also a first, international election monitors were allowed to monitor the voting. <ref>{{cite news|last=Golluoglu|first=Esmer|title=Aung San Suu Kyi hails 'new era' for Burma after landslide victory|url=http://www.guardian.co.uk/world/2012/apr/02/aung-san-suu-kyi-new-era-burma? newsfeed=true|accessdate=4/2/2012|newspaper=The Guardian|date=4/2/2012}}</ref>  Despite such positive strides, the NLD has reported over 50 instances of voting irregularities on election day as well as a campaign of fraud and harassment leading up to the election. <ref>{{cite web|last=House|first=Freedom|title=Burma Election Is Test of Progress|url=http://www.freedomhouse.org/article/burma-election-test-progress|accessdate=4/2/2012}}</ref> . 
+
+==Geography==. 
+{{Main|Geography of Burma}}
+[[File:Burma topo en.jpg|thumb|right|220px|Topographic map of Burma]]
+[[File:Satellite image of the Ayeyarwady delta.jpg|thumb|left|The [[Irrawaddy Delta]], which is approximately {{convert|50400|km2|sqmi|0|abbr=on}} in area, is largely used for rice cultivation. <ref name="myatthein">{{cite book | first=Myat | last=Thein | year=2005 | title=Economic Development of Myanmar | isbn=9-8123-0211-5 | publisher=Inst. of Southeast Asian Studies | location=Singapore}}</ref>]]
+[[Image:ShanFields.jpg|thumb|Rural landscape of Shan State]] . 
+
+Burma, which has a total area of {{convert|678500|km2}}, is the largest country in mainland Southeast Asia, and the 40th-largest in the world. It lies between latitudes [[9th parallel north|9°]] and [[29th parallel north|29°N]], and longitudes [[92nd meridian east|92°]] and [[102nd meridian east|102°E]]. As of February 2011, Burma constituted of 14 states and regions, 67 districts, 330 townships, 64 sub‐townships, 377 towns, 2914 Wards, 14220 village tracts and 68290 villages.  . 
+
+It is bordered to the northwest by the [[Chittagong Division]] of Bangladesh and the [[Mizoram]], Manipur, [[Nagaland]] and [[Arunachal Pradesh]] states of India to the northwest. Its north and northeast border straddles the [[Tibet Autonomous Region|Tibet]] and [[Yunnan]] regions of China for a Sino-Burman border total of {{convert|2185|km|mi}}. It is bounded by Laos and Thailand to the southeast. Burma has {{convert|1930|km|mi}} of contiguous coastline along the [[Bay of Bengal]] and [[Andaman Sea]] to the southwest and the south, which forms one quarter of its total perimeter. <ref name="CIA">{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html |title=Burma |accessdate =13 January 2007 |work=The World Factbook | publisher=Central Intelligence Agency }}{{Dead link|date=July 2009}}</ref> . 
+
+In the north, the [[Hengduan Shan]] mountains form the border with China. [[Hkakabo Razi]], located in [[Kachin State]], at an elevation of {{convert|5881|m|ft|0}}, is the highest point in Burma. <ref>{{cite book | editor = Dr. Patrick Hesp et al. | year=2000 | title=Geographica's World Reference | publisher=Random House Australia | pages =738, 741}}</ref> Three mountain ranges, namely the Rakhine Yoma, the Bago Yoma, and the [[Shan Plateau]] exist within Burma, all of which run north-to-south from the [[Himalayas]]. <ref name="myathan">{{cite book | first=Mya | last=Than | year=2005 | title=Myanmar in ASEAN: Regional Co-operation Experience | isbn=9-8123-0210-7 | publisher=Institute of Southeast Asian Studies | location=Singapore}}</ref> The mountain chains divide Burma's three river systems, which are the [[Irrawaddy River|Irrawaddy]], [[Salween River|Salween (Thanlwin)]], and the [[Sittaung River|Sittaung]] rivers. <ref name="myatthein"/> The Irrawaddy River, Burma's longest river, nearly {{convert|2170|km|mi|0}} long, flows into the [[Gulf of Martaban]]. Fertile plains exist in the valleys between the mountain chains. <ref name="myathan"/> The majority of Burma's population lives in the Irrawaddy valley, which is situated between the Rakhine Yoma and the Shan Plateau.  . 
+
+===Climate===. 
+{{Main|Climate of Burma}}
+[[File:MonStateMudon.jpg|thumb|Limestone landscape of [[Mon State]]]]
+Much of the country lies between the [[Tropic of Cancer]] and the [[Equator]]. It lies in the [[monsoon]] region of Asia, with its coastal regions receiving over {{convert|5000|mm|in|1|abbr=on}} of rain annually. Annual [[Precipitation (meteorology)|rainfall]] in the [[river delta|delta]] region is approximately {{convert|2500|mm|in|1|abbr=on}}, while average annual rainfall in the Dry Zone, which is located in central Burma, is less than {{convert|1000|mm|in|1|abbr=on}}. Northern regions of the country are the coolest, with average temperatures of {{convert|21|C|F}}. Coastal and delta regions have an average maximum temperature of {{convert|32|C|F|1}}. <ref name="myatthein"/> . 
+
+===Wildlife===. 
+The country's slow economic growth has contributed to the preservation of much of its environment and [[ecosystem]]s. Forests, including dense tropical growth and valuable [[teak]] in lower Burma, cover over 49% of the country, including areas of [[acacia]], [[bamboo]], [[Hopea odorata|ironwood]] and [[michelia champaca]]. [[Coconut]] and [[Areca catechu|betel palm]] and rubber have been introduced. In the highlands of the north, [[oak]], [[pine]] and various [[rhododendron]]s cover much of the land. <ref name="BRMLIB">{{cite web |url=http://www.burmalibrary.org/reg.burma/archives/199909/msg00690.html |title=Myanmar's Forest Law and Rules |publisher=BurmaLibrary.org |accessdate=15 July 2006}}</ref>  Heavy logging since the new 1995 forestry law went into effect has seriously reduced forest acreage and wildlife habitat. <ref>Reid, Robert; Bindloss, Joseph and Butler, Stuart (2009) "Environment: National Parks" ''Myanmar (Burma)'' (10th edition) Lonely Planet, Footscray, Victoria, Australia, page 85, ISBN 978-1-74104-718-9</ref> The lands along the coast support all varieties of [[tropical fruit]]s and once had large areas of [[Burmese Coast mangroves|mangroves]] although much of the protective mangroves have disappeared. In much of central Burma (the Dry Zone), vegetation is sparse and stunted.  . 
+
+Typical [[jungle]] animals, particularly tigers and [[leopard]]s, occur sparsely in Burma. In upper Burma, there are [[rhinoceros]], wild [[Bubalus|buffalo]], [[wild boar]]s, [[deer]], [[antelope]], and elephants, which are also tamed or bred in captivity for use as work animals, particularly in the [[timber|lumber industry]]. Smaller [[mammal]]s are also numerous, ranging from [[gibbon]]s and [[monkey]]s to [[flying fox]]es and [[tapir]]s. The abundance of birds is notable with over 800 species, including parrots, [[peafowl]], [[pheasant]]s, [[crow]]s, [[heron]]s, and [[paddy field|paddy]]birds. Among [[reptile]] species there are [[crocodile]]s, [[gecko]]s, [[cobra]]s, [[Burmese python]]s, and turtles. Hundreds of species of [[freshwater]] fish are wide-ranging, plentiful and are very important food sources. <ref name="MNET">{{cite web|url=http://www.myanmars.net/myanmar-culture/myanmar-flora-fauna.htm |title="Flora and Fauna" at |publisher=Myanmars.net |accessdate=17 April 2010}}</ref> For a list of protected areas, see [[List of protected areas of Burma]].  . 
+
+==Government and politics==. 
+{{Main|Politics of Burma}}
+The constitution of Burma, its third since independence, was drafted by its military rulers and published in September 2008. The country is governed as a [[Presidential system|presidential republic]] with a bicameral legislature, with a portion of legislatures appointed by the military and others elected in general elections. The current head of state, inaugurated as [[President of Burma|President]] on 30 March 2011, is [[Thein Sein]].  . 
+
+The legislature, called the [[Pyidaungsu Hluttaw]], is bicameral and made up of two houses: The 224-seat upper house [[Amyotha Hluttaw]] (House of Nationalities) and the 440-seat lower house [[Pyithu Hluttaw]] (House of Representatives). The upper house consists of 224 member of which 168 are directly elected and 56 are appointed by the Burmese Armed Forces while the lower house consists of 440 members of which 330 are directly elected and 110 are appointed by the armed forces. The major political parties are the [[National Democratic Force]] and the two backed by the military:  the [[National Unity Party (Burma)|National Unity Party]], and the [[Union Solidarity and Development Party]].  The [[National League for Democracy]], the party of [[Aung San Suu Kyi]], was declared illegal before the 2010 elections for failing to register for the elections.  . 
+
+Burma's army-drafted constitution was approved in a [[Burmese constitutional referendum, 2008|referendum]] in May 2008.  The results, 92.4% of the 22 million voters with an official turnout of 99%, are considered suspect by many international observers and by the National league of democracy with reports of widespread fraud, [[ballot stuffing]], and voter intimidation. <ref>{{cite news|url=http://in.reuters.com/article/topNews/idINIndia-33587120080515 |title=Reuters, Cyclone-hit Myanmar says 92 percent back charter |publisher=In.reuters.com |date=15 May 2008 |accessdate=17 April 2010}}</ref> . 
+
+The [[Burmese general election, 2010|elections of 2010]] resulted in a victory for the military-backed [[Union Solidarity and Development Party]] and various foreign observers questioned the fairness of the elections. <ref>{{cite news|url=http://www.nytimes.com/2010/10/22/world/asia/22nations.html|date=22 October 2010|work=The New York Times | first=Neil|last=MacFarquhar|title=U.N. Doubts Fairness of Election in Myanmar}}</ref><ref>{{cite web|url=http://www.irrawaddy.org/article.php?art_id=15692 |title=2010 Burmese Election may be Illegitimate: Clinton |publisher=Irrawaddy.org |accessdate=11 November 2010}}</ref><ref>{{cite news|url=http://www.bbc.co.uk/news/world-asia-pacific-11707294 |title=BBC News – Western states dismiss Burma's election |publisher=BBC  |date= 8 November 2010|accessdate=11 November 2010}}</ref> One criticism of the election was that only government sanctioned political parties were allowed to contest in it and the popular [[National League for Democracy]] was declared illegal and is still barred from political activities. <ref name=guardianASSK>{{cite news|last=Tisdall|first=Simon|title=Aung San Suu Kyi has to tread softly – but governments must tell it like it is|date=4 July 2011|work=The Guardian |location=UK|url=http://www.guardian.co.uk/commentisfree/2011/jul/04/aung-san-suu-kyi-burmese}}</ref> However, immediately following the elections, the government ended the house arrest of the democracy advocate and leader of the [[National League for Democracy]], [[Aung San Suu Kyi]]. <ref>http://www.guardian.co.uk/world/2010/nov/12/aung-san-suu-kyi-burma-release''Guardian'' report on Aung's release from house arrest</ref> and her ability to move freely around the country is considered an important test of the military's movement toward more openness. <ref name=guardianASSK/> After unexpected [[Democratic reforms in Burma|reforms in 2011]], NLD senior leaders have decided to register as a political party and to field candidates in future by-elections. <ref>{{cite news | url=http://www.bbc.co.uk/news/world-asia-15787605 | title=Suu Kyi's NLD democracy party to rejoin Burma politics |publisher=BBC | date=18 November 2011 | accessdate=18 November 2011}}</ref> . 
+
+Burma rates as a highly corrupt nation on the [[Corruption Perceptions Index]] with a rank of 180th out of 183 countries worldwide and a rating of 1.5 out of 10 (10 being least corrupt and 0 being highly corrupt) as of 2011. <ref>{{cite web|url=http://www.transparency.org/news_room/in_focus/2008/cpi2008/cpi_2008_table |title=cpi 2008 table /cpi2008/2008/in focus/news room |publisher=Transparency.org |accessdate=17 April 2010}}</ref> . 
+
+==Human rights==. 
+{{Main|Human rights in Burma}}
+{{Further|Internal conflict in Burma|Health in Burma|HIV/AIDS in Burma}} . 
+
+Human rights in Burma are a long-standing concern for the international community and human rights organizations. Members of the United Nations and major international human rights organizations have issued repeated and consistent reports of widespread and systematic human rights violations in Burma. The [[United Nations General Assembly]] has repeatedly<ref>{{Cite web
+  | title = List of UN General Assembly Resolutions On Burma
+  | url = http://www.altsean.org/Research/UN%20Dossier/UNGA.htm
+  | accessdate =4 January 2010 }}</ref> called on the Burmese Military Junta to respect human rights and in November 2009 the General Assembly adopted a resolution "strongly condemning the ongoing systematic violations of human rights and fundamental freedoms" and calling on the Burmese Military Regime "to take urgent measures to put an end to violations of international human rights and humanitarian law."<ref>{{Cite press release
+  | title = UN General Assembly Resolution: Time f    or Concrete Action
+  | publisher = International Federation for Human Rights
+  | date = 20 November 2009
+  | url = http://www.fidh.org/UN-General-Assembly-Resolution-time-for-concrete
+  | accessdate =4 January 2010 }}</ref>
+International human rights organizations including [[Human Rights Watch]],<ref>{{cite web|url=http://hrw.org/english/docs/2004/09/01/burma9290.htm |title=Statement to the EU Development Committee |accessdate=11 July 2006 |author=Brad Adams |publisher=[[Human Rights Watch]]}}</ref> [[Amnesty International]]<ref>{{cite web|url=http://report2009.amnesty.org/en/regions/asia-pacific/myanmar |title=Amnesty International 2009 Report on Human Rights in Myanmar |accessdate=4 January 2010 |author=Brad Adams |publisher=[[Amnesty International]]}}</ref> and the [[American Association for the Advancement of Science]]<ref>{{cite web|url=http://sciencemode.com/2007/09/28/satellite-images-verify-myanmar-forced-relocations-mounting-military-presence/ |title=Satellite Images Verify Myanmar Forced Relocations, Mounting Military Presence |accessdate=1 October 2007 |publisher=[[ScienceMode]]}}</ref> have repeatedly documented and condemned widespread human rights violations. There is consensus that the military regime in Burma is one of the world's most repressive and abusive regimes. <ref>{{Cite document | contribution = A Special Report to the 59th Session of the United Nations | title = A Special Report to the 59th Session of the United Nations | publisher=Freedom House | place = Geneva | pages = vii–7 | year = 2003| id = | contribution-url = http://www.middle-east-info.org/gateway/mostrepressiveregimes.pdf | quote = ruled by one of the world’s most repressive regimes | postscript = <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref><ref>{{cite journal | title = Are EU Trade Sanctions On Burma Compatible With WTO Law? | journal=Are EU Trade Sanctions on Burma Compatible with WTO Law? | first = Robert | last = Howse | coauthors = Jared M. Genser | pages = 166+| id = | url = http://students.law.umich.edu/mjil/article-pdfs/v29n2-howse-genser.pdf | accessdate =7 November 2010 | quote = repressive and abusive military regime}}</ref> They have claimed that there is no independent [[judiciary]] in Burma. [[Forced labour]], [[human trafficking]], and [[child labour]] are common. <ref>{{cite web|url=http://web.amnesty.org/library/index/ENGASA160201998 |title=Myanmar: 10th anniversary of military repression |accessdate=14 July 2006 |date=7 August 1998 |publisher=[[Amnesty International]]|archiveurl = http://web.archive.org/web/20060824024228/http://web.amnesty.org/library/index/ENGASA160201998 |archivedate = 24 August 2006}}</ref> The military is also notorious for rampant use of sexual violence as an instrument of control, including allegations of systematic rapes and taking of [[sexual slavery|sex slaves]] as porters for the military. A women's pro-democracy movement has formed in exile, largely along the Thai border and in Chiang Mai. There is a growing international movement to defend women's human rights issues. <ref>{{cite web|url=http://www.womenofburma.org/Statement&Release/state_of_terror_report.pdf |format=PDF |title=State of Terror report |accessdate=21 May 2007 |date=1 February 2007 |publisher=[[Women's League of Burma]]}}</ref> . 
+
+The ''Freedom in the World 2011'' report by [[Freedom House]] notes that "The military junta has long ruled by decree and controlled all executive, legislative, and judicial powers; suppressed nearly all basic rights; and committed human rights abuses with impunity. The junta carefully rigged the electoral framework surrounding the 2010 national elections, which were neither free nor fair. The country’s more than 2,100 political prisoners included about 429 members of the NLD, the victors in the 1990 elections."<ref name="Freedom House">{{cite web | url=http://www.freedomhouse.org/template.cfm?page=22&year=2011&country=8007 | title=Burma (Myanmar) (2011) | publisher=Freedom House | accessdate=29 August 2011}}</ref> Evidence has been gathered suggesting that the Burmese regime has marked certain ethnic minorities such as the [[Karen people|Karen]] for extermination or 'Burmisation'. <ref>[http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/1492726/Burma%27s-%27slow-genocide%27-is-revealed-through-the-eyes-of-its-child-victims.html Burma's 'slow genocide' is revealed through the eyes of its child victims] – Anton La Guardia, Telegraph, 24 June 2005</ref> This, however, has received little attention from the international community since it has been more subtle and indirect than the mass killings in places like Rwanda. <ref>[http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/1512149/New-evidence-backs-claims-of-genocide-in-Burma.html New evidence backs claims of genocide in Burma] – Mike Thomson, Telegraph, 4 March 2006</ref> . 
+
+The ''Freedom in the World 2012'' report notes improvement due to new reforms. Previously rated as a 7, the lowest rating, for both civil liberties and political rights, the release of political prisoners and a loosening of restriction has given Burma a 6 for civil liberties in the most recent Freedom in the World. <ref>{{cite web|title=Freedom in the World 2012: Burma|url=http://www.freedomhouse.org/report/freedom-world/2012/burma-0|publisher=Freedom House|accessdate=4/2/2012}}</ref>  . 
+
+However, since the transition to new government in August 2011, Burma's human rights record has been improving according to the [[Crisis Group]]. <ref>{{cite web | url=http://www.crisisgroup.org/en/regions/asia/south-east-asia/burma-myanmar/B127-myanmar-major-reform-underway.aspx | title=Major Reform Underway | publisher=Crisis Group | date=22 Sep 2011 | accessdate=29 August 2011}}</ref> The government has assembled a National Human Rights Commission consisted of 15 members from various backgrounds. <ref>{{cite web | url=http://australianetworknews.com/stories/201109/3312219.htm?desktop | title=Burma gets rights commission | publisher=Australia Network News | date=7 Sep 2011 | accessdate=29 August 2011}}</ref> Several activists in exile including Thee Lay Thee Anyeint members, have returned to Burma after President Thein Sein’s offer to expatriates to return home to work for national development. <ref>{{cite web | url=http://www.mmtimes.com/2011/news/593/news59307.html | title=Anyeint group returns from exile in Thailand | publisher=MM Times | date=19–25 September 2011 | accessdate=29 August 2011 | author=Kyaw Hsu Mon}}</ref> In an address to the United Nations Security Council in 22 September 2011, Burma's Foreign Minister Wanna Maung Lwin confirmed the release of prisoners in near future. <ref>{{cite news | url=http://www.smh.com.au/world/burma-flags-mass-release-of-political-prisoners-20110928-1kx9d.html | title=Burma flags mass release of political prisoners |work=The Sydney Morning Herald | date=29 September 2011 | accessdate=29 August 2011 | author=Lindsay Murdoch}}</ref> The government also relaxes reporting laws although still highly restrictive. <ref>{{cite web | url=http://www.dawn.com/2011/09/20/free-press-is-the-key-to-myanmar-reform.htmldawn | title=Free press is the key to Myanmar reform |agency=AFP | date=20 September 2011 | accessdate=29 August 2011}}</ref> In September 2011, several banned websites, including YouTube, [[Democratic Voice of Burma]] and [[Voice of America]], have been unblocked. <ref>{{cite news | url=http://www.independent.co.uk/news/world/asia/burmese-junta-relaxes-access-to-foreign-websites-2356125.html | title=Burmese junta relaxes access to foreign websites |work=The Independent |location=London | date=17 September 2011 | accessdate=29 August 2011 | author=Andrew Buncombe }}</ref>  . 
+
+A 2011 report by the [[Hauser Center for Nonprofit Organizations]] found that while constrained by donor restrictions on contact with the Myanmar government, international humanitarian Non Governmental Organizations (NGOs) see opportunities for effective advocacy with government officials, especially at the local level. At the same time, International NGOs are mindful of the ethical quandary of how to work with the government without bolstering or appeasing it. <ref>[http://www.hks.harvard.edu/hauser/engage/humanitarianorganizations/research/assets/Myanmar%20Report%20Final%20Version%209-8-11.pdf Working Through Ambiguity: International NGOs in Myanmar]. Soubhik Ronnie Saha The Hauser Center for Nonprofit Organizations Harvard University September 2011</ref> . 
+
+Burma's government spends the least percentage of its GDP on health care of any country in the world, and international donor organisations give less to Burma, per capita, than any other country except India. <ref name=autogenerated1>http://www.msf.org/source/countries/asia/myanmar/2008/PreventableFate/PreventableFatereport.pdf</ref> According to the report named "Preventable Fate", published by [[Doctors without Borders]], 25,000 Burmese AIDS patients died in 2007, deaths that could largely have been prevented by [[Antiretroviral therapy|Anti Retroviral Therapy]] drugs and proper treatment. <ref name=autogenerated1 /> . 
+
+==Administrative divisions (regions and states)==. 
+{{Main|Administrative divisions of Burma}} . 
+
+{{Burma Administrative Divisions Image Map}} . 
+
+The country is divided into seven states ({{my|ပြည်နယ်}}) and seven regions ({{my|တိုင်းဒေသကြီး}}), formerly called divisions. <ref name="2008constbur">{{my|ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်ဖွဲ့စည်းပုံ အခြေခံဥပဒဒေ (၂၀၀၈ ခုနစ်)|}} (in Burmese) [http://www.irrawaddy.org/election/component/filecabinet/?task=download&cid%5B0%5D=1|2008 Constitution PDF]</ref> The announcement on the renaming of division to regions was made on 20 August 2010. <ref>{{cite news |title=တိုင်းခုနစ်တိုင်းကို တိုင်းဒေသကြီးများအဖြစ် လည်းကောင်း၊ ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တိုင်းနှင့် ကိုယ်ပိုင်အပ်ချုပ်ခွင့်ရ ဒေသများ ရုံးစိုက်ရာ မြို့များကို လည်းကောင်း ပြည်ထောင်စုနယ်မြေတွင်ခရိုင်နှင့်မြို့နယ်များကို လည်းကောင်း သတ်မှတ်ကြေညာ |newspaper=[[Weekly Eleven|Weekly Eleven News]] |date=20 August 2010 |url=http://www.news-eleven.com/index.php?option=com_content&view=article&id=4375:2010-08-20-12-39-51&catid=42:2009-11-10-07-36-59&Itemid=112 |accessdate=23 August 2010 |language=Burmese}}</ref> Regions are predominantly [[Bamar]] (that is, mainly inhabited by the dominant ethnic group). States, in essence, are regions which are home to particular ethnic minorities. The administrative divisions are further subdivided into [[Districts of Burma|districts]], which are further subdivided into townships, [[Ward (country subdivision)|ward]]s, and villages.  . 
+
+Below are the number of districts, townships, cities/towns, wards, village Groups and villages in each divisions and states of Burma as of 31 December 2001:<ref>''List of Districts, Townships, Cities/Towns, Wards, Village Groups and Villages in Union of Myanmar'' published by Ministry of Home Affairs, Government of Union of Myanmar on 31 December 2001</ref>
+{| class="wikitable"
+. |-
+! No. 
+! [[Country subdivision|State/Region]]
+! Districts
+! Townships
+! Cities/Towns
+! [[Ward (country subdivision)|Wards]]
+! [[Village groups]]
+! Villages
+. |-
+| 1
+| [[Kachin State]]
+| 3
+| 18
+| 20
+| 116
+| 606
+| 2630
+. |-
+| 2
+| [[Kayah State]]
+| 2
+| 7
+| 7
+| 29
+| 79
+| 624
+. |-
+| 3
+| [[Kayin State]]
+| 3
+| 7
+| 10
+| 46
+| 376
+| 2092
+. |-
+| 4
+| [[Chin State]]
+| 2
+| 9
+| 9
+| 29
+| 475
+| 1355
+. |-
+| 5
+| [[Sagaing Region]]
+| 8
+| 37
+| 37
+| 171
+| 1769
+| 6095
+. |-
+| 6
+| [[Tanintharyi Region]]
+| 3
+| 10
+| 10
+| 63
+| 265
+| 1255
+. |-
+| 7
+| [[Bago Region]]
+| 4
+| 28
+| 33
+| 246
+| 1424
+| 6498
+. |-
+| 8
+| [[Magway Region]]
+| 5
+| 25
+| 26
+| 160
+| 1543
+| 4774
+. |-
+| 9
+| [[Mandalay Region]]
+| 7
+| 31
+| 29
+| 259
+| 1611
+| 5472
+. |-
+| 10
+| [[Mon State]]
+| 2
+| 10
+| 11
+| 69
+| 381
+| 1199
+. |-
+| 11
+| [[Rakhine State]]
+| 4
+| 17
+| 17
+| 120
+| 1041
+| 3871
+. |-
+| 12
+| [[Yangon Region]]
+| 4
+| 45
+| 20
+| 685
+| 634
+| 2119
+. |-
+| 13
+| [[Shan State]]
+| 11
+| 54
+| 54
+| 336
+| 1626
+| 15513
+. |-
+| 14
+| [[Ayeyarwady Region]]
+|6
+| 26
+| 29
+| 219
+| 1912
+| 11651
+. |-
+|
+| '''Total'''
+| '''63'''
+| '''324'''
+| '''312'''
+| '''2548'''
+| '''13742'''
+| '''65148'''
+|} . 
+
+==Foreign relations and military==. 
+{{Main|Foreign relations of Burma|Burmese Armed Forces}}
+[[File:Clinton and President Thein Sein.jpg|thumb|US Secretary of State [[Hillary Clinton]] and Myanmar President [[Thein Sein]] at Naypyidaw]]
+Though the country's [[foreign policy|foreign relations]], particularly with Western nations, have been strained, relations have thawed since the reforms following the 2010 elections. After years of diplomatic isolation and economic and military sanctions,<ref>{{cite web|url=http://www.congress.gov/cgi-bin/bdquery/z?d108:SN01182:@@@L&summ2=m& | title=Burma Freedom and Democracy Act of 2003 | publisher=United States Library of Congress |accessdate=4 February 2007 |date=4 June 2003}}</ref> the United States relaxed curbs on foreign aid to Burma in November 2011<ref>{{cite news| url=http://www.nytimes.com/2011/12/02/world/asia/us-will-relax-curbs-on-aid-to-myanmar.html | work=The New York Times | title=Clinton Says U.S. Will Relax Some Curbs on Aid to Myanmar | date=1 December 2011}}</ref> and announced the resumption of diplomatic relations on 13 January 2012<ref>{{cite news| url=http://www.nytimes.com/2012/01/14/world/asia/united-states-resumes-diplomatic-relations-with-myanmar.html | work=The New York Times | title=U.S. to Renew Myanmar Ties in Light of Reforms | date=13 January 2012}}</ref>  The European Union has placed sanctions on Burma, including an arms embargo, cessation of [[trade preference]]s, and suspension of all aid with the exception of [[humanitarian aid]]. <ref name="EU">{{cite web|url=http://ec.europa.eu/comm/external_relations/myanmar/intro/index.htm|archiveurl=http://web.archive.org/web/20060725000750/http://ec.europa.eu/comm/external_relations/myanmar/intro/index.htm|archivedate=25 July 2006 |title= The EU's relations with Burma / Myanmar |accessdate=13 July 2006 |publisher=European Union}}</ref> U.S. and European government sanctions against the former military government, coupled with boycotts and other direct pressure on corporations by supporters of the democracy movement, have resulted in the withdrawal from the country of most U.S. and many European companies. <ref>{{cite news | url=http://news.bbc.co.uk/2/hi/asia-pacific/8195956.stm | title=Overview of Burma sanctions |publisher=BBC | accessdate=12 November 2011 | date=18 December 2009}}</ref>  . 
+
+Despite Western isolation, Asian corporations have generally remained willing to continue investing in the country and to initiate new investments, particularly in [[natural resource]] extraction. The country has close relations with neighbouring India and China with several Indian and Chinese companies operating in the country. There remains active debate as to the extent to which the American-led sanctions have had adverse effects on the civilian population or on the military rulers. <ref>{{cite news|last=Hiatt |first=Fred |url=http://www.washingtonpost.com/ac2/wp-dyn?pagename=article&contentId=A21505-2003Jun22 |title=How Best to Rid the World of Monsters |work=Washington Post|date=23 June 2003 |accessdate=24 May 2006 }}</ref><ref>{{cite news|url=http://www.ibiblio.org/obl/reg.burma/archives/199905/msg00184.html |title=Reuters Belgian group seeks Total boycott over Myanmar |work=Ibiblio |publisher=Reuters |date=10 May 1999 |accessdate=24 June 2006 }}</ref> Burma has also received extensive military aid from India and China in the past. <ref>{{cite news|author=View all comments that have been posted about this article. |url=http://www.washingtonpost.com/wp-dyn/content/article/2007/09/27/AR2007092702382_pf.html |title=Caution by Junta's Asian Neighbors Reflects Their Self-Interest – |work=The Washington Post  |date=27 September 2007 |accessdate=17 April 2010}}</ref> According to some estimates, Burma has received more than US$200&nbsp;million in military aid from India. <ref>{{cite web|url=http://www.businessweek.com/globalbiz/content/oct2007/gb20071019_332887_page_2.htm |title=India's Role in Burma's Crisis |work=Bloomberg BusinessWeek   |date=19 October 2007 |accessdate=17 April 2010}}</ref> Under India's [[Look East policy]], fields of cooperation between India and Burma include [[remote sensing]],<ref>{{cite news|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=NewsLibrary&p_multi=BBAB&d_place=BBAB&p_theme=newslibrary2&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=11045BA04AFDFED0&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |title=NewsLibrary.com – newspaper archive, clipping service – newspapers and other news sources |publisher=Nl.newsbank.com |date=9 March 2006 |accessdate=17 April 2010}}</ref> oil and gas exploration,<ref>{{cite web|url=http://www.csmonitor.com/2006/0426/p04s01-wosc.html |title=India looks to Burma to slake growing thirst for gas |publisher=csmonitor.com |date=26 April 2006 |accessdate=17 April 2010}}</ref> information technology,<ref>{{cite web|url=http://news.xinhuanet.com/english/2008-08/04/content_8953269.htm |title=Myanmar, India to build IT centres in Myanmar_English_Xinhua |publisher=News.xinhuanet.com |date=4 August 2008 |accessdate=17 April 2010}}</ref> [[hydro power]]<ref>{{cite web|url=http://steelguru.com/news/index/2008/08/01/NTY5MDg%3D/India_to_develop_two_hydel_power_projects_in_Myanmar.html |title=SteelGuru – News |publisher=Steelguru.com |date=1 August 2008 |accessdate=17 April 2010}}</ref> and construction of ports and buildings. <ref>{{cite news|url=http://news.bbc.co.uk/mobile/bbc_news/world/asia_pacific/716/71684/story7168492.shtml |title=BBC News |publisher=BBC News  |date=2 January 2008 |accessdate=17 April 2010}}</ref> In 2008, India suspended military aid to Burma over the issue of human rights abuses by the ruling junta, although it has preserved extensive commercial ties which provide the regime with much needed revenue. <ref>{{cite web|url=http://hrw.org/english/docs/2008/01/14/india17739_txt.htm |title=India and Burma: time to choose (Human Rights Watch, 14-1-2008) |publisher=Hrw.org |accessdate=17 April 2010}}</ref> . 
+
+Burma has been a member of [[ASEAN]] since 1997. Though it gave up its turn to hold the ASEAN chair and host the [[ASEAN Summit]] in 2006, it is scheduled to chair the forum and host the summit in 2014. <ref>{{cite news| url=http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/8896397/Burma-to-chair-ASEAN-in-2014.html |location=London |work=The Daily Telegraph  | title=Burma to chair ASEAN in 2014 | date=17 November 2011}}</ref> In November 2008, Burma's political situation with neighbouring Bangladesh became tense as they began searching for natural gas in a disputed block of the Bay of Bengal. <ref>{{cite news|author=Randeep Ramesh, South Asia correspondent |url=http://www.guardian.co.uk/world/2008/nov/05/bangladesh-burma-bengal-gas |title=Bangladesh sends warship to Burma in gas row &#124; World news |work=The Guardian |location=London  |date= 5 November 2008|accessdate=17 April 2010 }}</ref> The fate of Rohingya refugees also remains an issue between Bangladesh and Burma. <ref>{{cite news| url=http://www.time.com/time/world/article/0,8599,1966621,00.html | work=Time | title=For Rohingya in Bangladesh, No Place is Home | date=19 February 2010}}</ref> . 
+
+The country's armed forces are known as the [[Tatmadaw]], which numbers 488,000. The Tatmadaw comprises the [[Myanmar Army|Army]], the [[Burma Navy|Navy]], and the [[Burma Air Force|Air Force]]. The country [[List of countries by number of active troops|ranked twelfth]] in the world for its number of active troops in service. <ref name="CIA"/> The military is very influential in the country, with top cabinet and ministry posts held by [[military officer]]s. Official figures for military spending are not available. Estimates vary widely because of uncertain exchange rates, but military spending is very high. <ref>{{cite web|url=http://www.commondreams.org/headlines05/0607-03.htm |title= World Military Spending Topped US$1 [[1000000000000 (number)|trillion]] in 2004 |accessdate=19 July 2006 |last=Starck |first=Peter |date=7 June 2005 |work=Reuters |publisher=Common Dreams NewsCenter }}</ref> The country imports most of its weapons from Russia, Ukraine, China and India.  . 
+
+The country is building a research [[nuclear reactor]] near [[Pyin Oo Lwin]] with help from Russia. It is one of the signatories of the nuclear [[non-proliferation]] pact since 1992 and a member of the [[International Atomic Energy Agency]] (IAEA) since 1957. The military junta had informed the IAEA in September 2000 of its intention to construct the reactor. The research reactor outbuilding frame was built by ELE steel industries limited of Yangon and water from Anisakhan/BE water fall will be used for the reactor cavity cooling system. <ref>{{Cite news|publisher=BBC|title=Russia and Burma in Nuclear Deal|date=15 May 2007|url=http://news.bbc.co.uk/2/hi/asia-pacific/6658713.stm|accessdate=28 September 2011}}</ref><ref>{{Cite news|publisher=The Telegraph|title=Nuclear Watchdog asks Burma to Open Up Suspect Sites|date=14 January 2011|last=Moore|first=Malcolm|url=http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/8259803/Nuclear-watchdog-asks-Burma-to-open-up-suspect-sites.html|accessdate=28 September 2011|location=London}}</ref> . 
+
+In 2010 as part of the Wikileaks leaked cables, Burma was suspected of using North Korean construction teams to build a fortified Surface-to-Air Missile facility. <ref>{{cite web |url=http://wikileaks.ch/cable/2004/08/04RANGOON1100.html |title=ALLEGED NORTH KOREAN INVOLVEMENT IN MISSILE ASSEMBLY AND UNDERGROUND FACILITY CONSTRUCTION IN BURMA |date=27 August 2004 |publisher=Wikileaks.ch}}</ref> . 
+
+Until 2005, the [[United Nations General Assembly]] annually adopted a detailed resolution about the situation in Burma by consensus. <ref name = "UN-5483030">
+{{UN document |docid=A-54-PV.83 |body=General Assembly |type=Verbotim Report |session=54 |meeting=83 |page=30 |anchor=pg030-bk03 |date=17 December 1999 |meetingtime=10:00 |speakername=The President |accessdate=25 September 2007 }}
+</ref><ref name = "UN-5483030"/><ref>
+{{UN document |docid=A-55-PV.81 |body=General Assembly |type=Verbotim Report |session=55 |meeting=81 |page=22 |anchor=pg022-bk01 |date=4 December 2000 |meetingtime=15:00 |speakername=The President |accessdate=25 September 2007 }}
+</ref><ref>
+{{UN document |docid=A-56-PV.92 |body=General Assembly |type=Verbotim Report |session=56 |meeting=92 |page=7 |anchor=pg007-bk04 |date=24 December 2001 |meetingtime=11:00 |accessdate=25 September 2007 }}
+</ref><ref>
+{{UN document |docid=A-60-PV.69 |body=General Assembly |type=Verbotim Report |session=60 |meeting=69 |page=19 |anchor=pg019-bk05 |date=23 December 2005 |meetingtime=10:00 |speakername=The President |accessdate=25 September 2007 }}</ref> But in 2006 a divided [[United Nations General Assembly]] voted through a resolution that strongly called upon the government of Burma to end its systematic violations of human rights. <ref>{{UN document |docid=A-61-PV.84 |body=General Assembly |type=Verbotim Report |session=61 |meeting=84 |page=14 |anchor=pg014-bk07 |date=22 December 2006 |meetingtime=10:00 |accessdate=25 September 2007 }}</ref> In January 2007, Russia and China vetoed a draft resolution before the [[United Nations Security Council]]<ref name="UN_S200714">{{UN document |docid=S-2007-14 |type=Document |body=Security Council |year=2007 |document_number=14 |accessdate=25 September 2007| date=12 January 2007}}</ref> calling on the government of Burma to respect human rights and begin a democratic transition. South Africa also voted against the resolution. <ref>{{UN document |docid=S-PV-5619 |body=Security Council |type=Verbotim Report |meeting=5619 |page=3 |anchor=pg003-bk01 |date=12 January 2007 |meetingtime=16:00 |speakername=Mr. Kumalo | speakernation=South Africa |accessdate=25 September 2007 }}</ref> . 
+
+==Economy==. 
+[[File:Market, Yangon, Myanmar.jpg|thumb|170px|A street market in Yangon selling produce.]]
+{{Main|Economy of Burma}}
+{{Further|Agriculture in Burma|Golden Triangle (Southeast Asia)|Tourism in Burma|Transport in Burma}} . 
+
+The country is one of the poorest nations in Southeast Asia, suffering from decades of stagnation, mismanagement and isolation. The lack of an educated workforce skilled in modern technology contributes to the growing problems of the economy. <ref>{{cite book | first=Ian | last=Brown | year=2005 | title=A Colonial Economy In Crisis | publisher=Routledge | isbn=0-4153-0580-2}}</ref> The country lacks adequate infrastructure. Goods travel primarily across the Thai border, where most illegal drugs are exported and along the [[Irrawaddy River]]. Railways are old and rudimentary, with few repairs since their construction in the late 19th century. <ref name="idea">{{cite web|url=http://www.idea.int/asia_pacific/burma/upload/chap3.pdf |title=Challenges to Democratization in Burma |accessdate=12 July 2006 |year=2001 |month=November |format=PDF |publisher=International IDEA}}</ref> Highways are normally unpaved, except in the major cities. <ref name="idea"/> Energy shortages are common throughout the country including in [[Yangon]].  . 
+
+Under British administration, Burma was the second-wealthiest country in South-East Asia. It had been the world's largest exporter of rice. Burma also had a wealth of natural and labour resources. It produced 75% of the world's [[teak]] and had a highly literate population. <ref name="steinberg"/> The country was believed to be on the fast track to development. <ref name="steinberg"/>  . 
+
+During World War II, the British destroyed the major oil wells and mines for tungsten, tin, lead and silver to keep them from the Japanese. Burma was bombed extensively by both sides. After a parliamentary government was formed in 1948, Prime Minister [[U Nu]] embarked upon a policy of nationalization and the state was declared the owner of all land. The government also tried to implement a poorly considered Eight-Year plan. By the 1950s, rice exports had fallen by two thirds and mineral exports by over 96% (as compared to the pre-World War II period). Plans were partly financed by printing money, which led to inflation. <ref name =watkins>{{cite web|url=http://www2.sjsu.edu/faculty/watkins/burma.htm |title=Political and Economic History of Myanmar (Burma) Economics |accessdate=8 July 2006|last=Watkins |first=Thayer |publisher=San José State University}}</ref> The 1962 coup d'état was followed by an economic scheme called the [[Burmese Way to Socialism]], a plan to nationalise all industries, with the exception of agriculture. The catastrophic program turned Burma into one of the world's most impoverished countries. <ref name="ruin"/> Burma's admittance to [[Least Developed Countries|Least Developed Country]] status by the UN in 1987 highlighted its economic bankruptcy. <ref>{{cite web |year=2005 |url=http://www.un.org/special-rep/ohrlls/ldc/list.htm |title=List of Least Developed Countries |publisher=UN-OHRLLS }}</ref> . 
+
+The national currency is [[Myanma kyat|Kyat]]. Burma has a dual exchange rate system similar to Cuba. <ref>{{cite news |url=http://search.japantimes.co.jp/cgi-bin/eo20080502a1.html |title=The rape of Burma: where did the wealth go? |date=2 May 2008 |author=Sean Turnell |work=The Japan Times }}</ref> The market rate was around two hundred times below the government-set rate in 2006. <ref name="turnell">{{cite web |url=http://uscampaignforburma.org/contact-resources/TurnellCongressTestimony.pdf |title=Burma's Economic Prospects – Testimony before the Senate Foreign Relations Subcommittee on East Asian and Pacific Affairs |author=Sean Turnell |date=29 March 2006}}{{dead link|date=November 2010}}</ref> Inflation averaged 30.1% between 2005 and 2007. <ref name="freedom">{{cite web |url=http://www.heritage.org/index/country/Burma |title=Index of Economic Freedom: Burma |year=2009}}</ref> Inflation is a serious problem for the economy. In recent years, both China and India have attempted to strengthen ties with the government for economic benefit. Many nations, including the United States and Canada, and the European Union, have imposed investment and trade sanctions on Burma. The United States has banned all imports from Burma. <ref name="turnell"/> Foreign investment comes primarily from China, Singapore, South Korea, India, and Thailand. <ref>{{cite news |first=David |last=Fullbrook |url=http://www.atimes.com/atimes/Southeast_Asia/FK04Ae03.html |title=So long US, hello China, India |publisher=Asia Times |date=4 November 2004 |accessdate=14 July 2006}}</ref> . 
+
+The annual import of medicine and medical equipment to Burma during the 2000s was 160 million USD. <ref>{{cite web
+|url=http://eversion.news-eleven.com/index.php?option=com_content&view=article&id=206:only-under-license-medicine-to-be-produced-in-myanmar&catid=42:weekly-eleven-news&Itemid=109
+|title=Only under-license medicine to be produced in Myanmar
+|publisher=Eleven Media Group
+|accessdate=10 January 2012}}</ref>  . 
+
+[[File:Rijstvelden Myanmar 2006.jpg|thumb|right|Rice cultivation accounts for much of the agriculture in Burma today.]] . 
+
+===Agriculture===. 
+The major agricultural product is rice which covers about 60% of the country's total cultivated land area. Rice accounts for 97% of total food grain production by weight. Through collaboration with the [[International Rice Research Institute]] 52 modern rice varieties were released in the country between 1966 and 1997, helping increase national rice production to 14 million tons in 1987 and to 19&nbsp;million tons in 1996. By 1988, modern varieties were planted on half of the country's ricelands, including 98 percent of the irrigated areas. <ref>{{PDFlink|[http://www.irri.org/media/facts/pdfs/myanmar.pdf Myanmar and IRRI]{{dead link|date=November 2010}}|21.2&nbsp;KB}}, Facts About Cooperation, International Rice Research Institute. Retrieved on 25 September 2007. </ref> In 2008 rice production was estimated at 50 million tons. <ref>http://faostat.fao.org/site/339/default.aspx</ref>  . 
+
+Burma is also the world's second largest producer of [[opium]], accounting for 8% of entire world production and is a major source of [[illegal drug]]s, including [[amphetamines]]. <ref>{{cite web|url=http://www.unodc.org/pdf/myanmar/myanmar_country_profile_2005.pdf |title=Myanmar Country Profile |accessdate=9 July 2006 |year=2005 |month=December |format=PDF |work=Office on Drugs and Crime | pages=5–6 | publisher=United Nations}}</ref>
+Opium bans implemented since 2002 after international pressure have left ex-poppy farmers without sustainable sources of income in the Kokang and Wa regions. They depend on casual labour for income. <ref>[http://www.tni.org/briefing/golden-triangle-rubber-belt Drug Policy Briefing nr.29] of the [[Transnational Institute]]. </ref> . 
+
+===Natural resources===. 
+Burma produces precious stones such as [[sapphire]]s, [[pearls]] and [[jade]]. [[Rubies]] are the biggest earner; 90% of the world's [[rubies]] come from the country, whose red stones are prized for their purity and [[hue]]. Thailand buys the majority of the country's [[Gemstone|gems]]. Burma's "''Valley of Rubies''", the mountainous [[Mogok Township|Mogok]] area, {{convert|200|km|mi|abbr=on}} north of [[Mandalay]], is noted for its rare pigeon's blood rubies and blue sapphires. <ref>[http://www.uvm.edu/envnr/gemecology/index.html Gems of Burma and their Environmental Impact]. </ref> Many U.S. and European jewellery companies, including Bulgari, Tiffany, and Cartier, refuse to import these stones based on reports of deplorable working conditions in the mines. Human Rights Watch has encouraged a complete ban on the purchase of Burmese gems based on these reports and because nearly all profits go to the ruling junta, as the majority of mining activity in the country is government-run. <ref>{{cite news|url=http://www.hrw.org/en/news/2007/11/11/burma-gem-trade-bolsters-military-regime-fuels-atrocities |title=Burma: Gem Trade Bolsters Military Regime, Fuels Atrocities |publisher=Human Rights Watch |date=11 November 2007}}</ref> The government of Burma controls the gem trade by direct ownership or by joint ventures with private owners of mines. <ref>[http://www.artinfo.com/news/story/38144/burmese-gem-emporium-rakes-in-15-billion-despite-human-rights-abuse-concerns/ Burmese Gem Emporium Rakes in $1.5&nbsp;Billion Despite Human Rights Abuse Concerns] ARTINFO.com</ref>    . 
+
+Other industries include agricultural goods, textiles, wood products, construction materials, gems, metals, oil and natural gas. 
+[[File:Naypyitaw Apartment.jpg|thumb|Apartment building in Naypyidaw. Naypyidaw is the new capital of Burma which is nearing completion.]] . 
+
+===Tourism===. 
+Since 1992, the government has encouraged [[Tourism in Burma|tourism in the country]]. However, fewer than 750,000 tourists enter the country annually. <ref>{{cite web|url=http://www.channelviewpublications.net/cit/006/0097/cit0060097.pdf |format=PDF |title=The Politics of Tourism in Myanmar |accessdate=8 July 2006|last=Henderson |first=Joan C. |publisher=[[Nanyang Technological University]]}}</ref> Burma's Minister of Hotels and Tourism [[Maj-Gen Saw Lwin]] has stated that the government receives a significant percentage of the income of private sector tourism services. <ref>{{cite web|author=tayza thuria |url=http://www.tayzathuria.org.uk/bd/2006/12/24/re.htm |title=Burma Digest |publisher=Tayzathuria.org.uk |date=24 December 2006 |accessdate=17 April 2010}}</ref> Much of the country is completely off-limits to tourists, and the military very tightly controls interactions between foreigners and the people of Burma, particularly the border regions. <ref>{{cite web | title=Cycling Burma (Myanmar) | url=http://7ride.com/rides/myanmar-%28burma%29-2006.aspx | work=Cycling Burma (Myanmar) | date=1900-1-0 | accessdate=21 May 2010}}</ref>  They are not to discuss politics with foreigners, under penalty of imprisonment, and in 2001, the Myanmar Tourism Promotion Board issued an order for local officials to protect tourists and limit "unnecessary contact" between foreigners and ordinary Burmese people. <ref>{{cite web|url=http://www.burmacampaign.org.uk/action_holiday.html |title=The Tourism Campaign – Campaigns – The Burma Campaign UK |publisher=Burmacampaign.org.uk |accessdate=17 April 2010}}</ref> . 
+
+==Demographics==. 
+{{Main|Demographics of Burma}}
+[[File:Downtownflatsyangon.jpg|thumb|A block of flats in down-town Yangon, facing [[Bogyoke Market]]. Much of Yangon's urban population resides in densely populated flats.]] . 
+
+Burma has a population of about 56 million. <ref>{{cite web|url=http://www.unescap.org/esid/psis/population/popin/profiles/myn.asp |title= POPULATION AND SOCIAL INTEGRATION SECTION (PSIS) |publisher=UN Economic and Social Commission for Asia and the Pacific }}</ref> Population figures are rough estimates because the last partial census, conducted by the Ministry of Home and Religious Affairs under the control of the military junta, was taken in 1983. <ref>{{cite web|url=http://www.ibiblio.org/obl/docs/Considered_responses-2.pdf | title=Conflict and Displacement in Karenni: The Need for Considered Responses |accessdate=13 July 2006 |year=2000 | month=May | format=PDF |publisher=Burma Ethnic Research Group}}</ref> No trustworthy nationwide census has been taken in Burma since 1931. There are over 600,000 registered [[migrant worker]]s from Burma in Thailand, and millions more work illegally. Burmese migrant workers account for 80% of Thailand's migrant workers. <ref>{{cite web|url=http://web.amnesty.org/library/index/ENGASA390012005 |title=Thailand: The Plight of Burmese Migrant Workers |accessdate=13 July 2006 |date=8 June 2006 |publisher=Amnesty International |archiveurl = http://web.archive.org/web/20060626102346/http://web.amnesty.org/library/index/ENGASA390012005 |archivedate = 26 June 2006}}</ref> Burma has a population density of {{convert|75|/km2}}, one of the lowest in Southeast Asia. Refugee camps exist along Indian, Bangladeshi and Thai borders while several thousand are in Malaysia. Conservative estimates state that there are over 295,800 refugees from Burma, with the majority being [[Kayah State|Karenni]], and [[Karen people|Kayin]] and are principally located along the Thai-Burma border. <ref>{{cite web|url=http://www.unhcr.org/cgi-bin/texis/vtx/publ/opendoc.pdf?tbl=PUBL&id=449676844 | title=Myanmar Refugees in South East Asia |accessdate=13 July 2006 |year=2006 | month=April | format=PDF |publisher=UNHCR}}</ref> There are nine permanent refugee camps along the Thai-Burma border, most of which were established in the mid-1980s. The refugee camps are under the care of the [http://www.tbbc.org/ Thai-Burma Border Consortium (TBBC)]. In FY 2009, the U.S. resettled 18,275 refugees from Burma. <ref>"[http://www.acf.hhs.gov/programs/orr/data/fy2009RA.htm Fiscal Year 2009 Refugee Arrivals]". U.S. Department of Health and Human Services. </ref> . 
+
+There are over 53.42&nbsp;million Buddhists, over 2.98&nbsp;million Christians, over 2.27&nbsp;million Muslims, over 0.3&nbsp;million Hindus and over 0.79&nbsp;million of those who believe in other religions in the country, according to an answer by Union Minister at Myanmar Parliament on 8 Sep 2011. <ref>http://www.mrtv3.net.mm/newpaper/99newsn.pdf Page 8 Column 4</ref> . 
+
+Ne Win's rise to power in 1962 and his relentless persecution of "resident aliens" (immigrant groups not recognised as citizens of the ''Union of Burma'') led to an exodus/expulsion of some 300,000 [[Burmese Indians]]. <ref>{{cite book|author=Martin Smith|year=1991|title=Burma&nbsp;– Insurgency and the Politics of Ethnicity|publisher=Zed Books|location=London,New Jersey|pages=43–44,98,56–57,176}}</ref> They migrated to escape [[Racial Discrimination against Burmese Indians|racial discrimination]] and wholesale nationalisation of private enterprise a few years later in 1964. <ref>[http://www.time.com/time/magazine/article/0,9171,875949,00.html Asians v. Asians]. TIME. 17 July 1964. </ref> The Anglo-Burmese at this time either fled the country or changed their names and blended in with the broader Burmese society.  . 
+
+Hundreds of thousands of [[Rohingya people|Rohingya]] Muslims fled Burma and many refugees inundated neighbouring Bangladesh including 200,000 in 1978 as a result of the [[King Dragon operation in Arakan]]. <ref>[http://ipsnews.net/news.asp?idnews=45850 Burma's Muslim Rohingyas&nbsp;– The New Boat People ]. Marwaan Macan-Markar. IPS. </ref> . 
+
+===Ethnic groups===. 
+{{Main|List of ethnic groups in Burma}}
+{{bar box
+|title=Ethnic Composition in Burma  (rough estimate)
+|titlebar=#ddd
+|width=30%
+|left1=ethnic group
+|right1=percent
+|float=left
+|bars=
+{{bar percent|[[Bamar]]|orange|68}}
+{{bar percent|[[Shan people|Shan]]|blue|9}}
+{{bar percent|[[Karen people|Karen]]|green|7}}
+{{bar percent|[[Rakhine people|Rakhine]]|yellow|3.5}}
+{{bar percent|[[Burmese Chinese|Chinese]]|purple|2.5}}
+{{bar percent|[[Mon people|Mon]]|red|2}}
+{{bar percent|[[Jingpo people|Kachin]]|black|1.5}}
+{{bar percent|[[Chin people|Chin]]|brown|1}}
+{{bar percent|[[Burmese Indians|Indians]]|violet|1.25}}
+{{bar percent|[[Karenni|Kayah]]|lime|0.75}}
+{{bar percent|Other groups|cyan|4.5}}
+}} . 
+
+[[File:Karen Padaung Girl Portrait.jpg|thumb|upright|A girl from the [[Kayan (Burma)|Padaung]] minority, one of the many ethnic groups that make up Burma's population.]] . 
+
+Burma is home to four major language families: [[Sino-Tibetan languages|Sino-Tibetan]], [[Tai–Kadai languages|Tai–Kadai]], [[Austro-Asiatic languages|Austro-Asiatic]], and [[Indo-European languages|Indo-European]]. <ref>{{cite web|url=http://www.ethnologue.com/show_country.asp?name=MM |title=Languages of Myanmar |accessdate=14 July 2006 |last=Gordon |first=Raymond G., Jr. |year=2005 |publisher=SIL International}}</ref> Sino-Tibetan languages are most widely spoken. They include [[Burmese language|Burmese]], [[Karen people|Karen]], [[Jingpo people|Kachin]], [[Chin people|Chin]], and Chinese. The primary Tai–Kadai language is [[Shan language|Shan]]. [[Mon language|Mon]], [[Palaung language|Palaung]], and [[Va people|Wa]] are the major [[Austroasiatic]] languages spoken in Burma. The two major Indo-European languages are [[Pāli|Pali]], the liturgical language of Theravada Buddhism, and English. <ref name="ethno">{{cite web|url=http://www.ethnologue.com/show_family.asp?subid=90150 |title=Language Family Trees: Sino-Tibetan |accessdate=9 July 2006 |last=Gordon |first=Raymond G., Jr. |year=2005 |work=Ethnologue: Languages of the World, Fifteenth edition |publisher=SIL International}}</ref> . 
+
+According to the [[UNESCO]] Institute of Statistics, Burma's official [[literacy rate]] as of 2000 was 89.9%. <ref>{{cite web|url=http://www.uis.unesco.org/TEMPLATE/html/Exceltables/education/Literacy_Regional_April2006.xls |title=Adult (15+) Literacy Rates and Illiterate Population by Region and Gender for |accessdate=13 July 2006 |year=2006 |month=April |format=XLS |publisher=UNESCO Institute of Statistics}}</ref> Historically, Burma has had high literacy rates. To qualify for [[least developed country]] status by the UN in order to receive debt relief, Burma lowered its official literacy rate from 78.6% to 18.7% in 1987. <ref>{{cite book | editor=Robert I Rotberg | year=1998 | title=Burma: Prospects for a Democratic Future }}</ref> . 
+
+Burma is ethnically diverse. The government recognises [[List of ethnic groups in Burma|135 distinct ethnic groups]]. While it is extremely difficult to verify this statement, there are at least 108 different ethnolinguistic groups in Burma, consisting mainly of distinct Tibeto-Burman peoples, but with sizeable populations of [[Tai–Kadai-speaking peoples|Tai–Kadai]], Hmong–Mien, and Austroasiatic (Mon–Khmer) peoples. <ref name="ethnologue_myanmar">{{cite web|url=http://www.ethnologue.com/show_country.asp?name=MM |title=Languages of Myanmar |accessdate=13 January 2007 |last=Gordon |first=Raymond G., Jr. |year=2005 |work=Ethnologue: Languages of the World, Fifteenth edition |publisher=SIL International}}</ref> The [[Bamar]] form an estimated 68% of the population. <ref name="statedept">{{cite web |url=http://www.state.gov/r/pa/ei/bgn/35910.htm |title=Background Note: Burma |accessdate =7 July 2006 |year=2005 |month=August |work=[[Bureau of East Asian and Pacific Affairs]] |publisher=[[U.S. Department of State]]}}</ref> 10% of the population are [[Shan people|Shan]]. <ref name="statedept"/> The [[Karen people|Kayin]] make up 7% of the population. <ref name="statedept"/> The [[Rakhine people]] constitute 4% of the population. [[Burmese Chinese|Overseas Chinese]] form approximately 3% of the population. <ref name="statedept"/><ref>{{cite book | author=Mya Than | editor=Leo Suryadinata | year=1997 | title=Ethnic Chinese As Southeast Asians | id=ISBN}}</ref> Burma's ethnic minority groups prefer the term "ethnic nationality" over "ethnic minority" as the term "minority" furthers their sense of insecurity in the face of what is often described as "Burmanisation"--the proliferation and domination of the dominant Bamar culture over minority cultures.  . 
+
+[[Mon people|Mon]], who form 2% of the population, are ethno-linguistically related to the [[Khmer people|Khmer]]. <ref name="statedept"/> [[Burmese Indians|Overseas Indians]] comprise 2%. <ref name="statedept"/> The remainder are [[Jingpo peopole|Kachin]], [[Chin people|Chin]], [[Anglo-Indian]]s and other ethnic minorities. Included in this group are the [[Anglo-Burmese]]. Once forming a large and influential community, the Anglo-Burmese left the country in steady streams from 1958 onwards, principally to Australia and the U.K.. Today, it is estimated that only 52,000 Anglo-Burmese remain in the country. There are 110,000 Burmese [[refugee]]s in Thai border camps. <ref>[http://search.japantimes.co.jp/cgi-bin/nn20090218f1.html Myanmar refugees to try resettling]. The Japan Times Online. 18 February 2009. </ref> . 
+
+89% of the country's population are Buddhist, according to a report on ABC World News Tonight in May 2008 and the Buddha Dharma Education Association. <ref>{{cite web | url = http://www.buddhanet.net/e-learning/buddhistworld/burma-txt.htm | title = Buddhanet.net | accessdate =17 February 2011}}</ref> . 
+
+==Culture==. 
+{{Main|Culture of Burma}} . 
+
+[[File:Burmese Ramayana dance.jpg|thumb|left|upright|Rama (Yama) and Sita (Me Thida) in the Burmese version of the [[Ramayana]], [[Yama Zatdaw]].]] . 
+
+A diverse range of indigenous cultures exist in Burma, the majority culture is primarily [[Buddhism in Burma|Buddhist]] and [[Bamar]]. Bamar culture has been influenced by the cultures of neighbouring countries. This is manifested in its language, cuisine, music, dance and theatre. The arts, particularly literature, have historically been influenced by the local form of [[Theravada]] [[Buddhism]]. Considered the national epic of Burma, the ''[[Yama Zatdaw]]'', an adaptation of India's ''[[Ramayana]]'', has been influenced greatly by Thai, [[Mon people|Mon]], and [[Republic of India|Indian]] versions of the play. <ref>{{cite web|url=http://www.goldenlandpages.com/hotspots/rama/rama.htm |title=Ramayana in Myanmar's heart |accessdate=13 July 2006 |date=13 September 2003 |publisher=Goldenland Pages}}</ref> Buddhism is practised along with [[nat (spirit)|nat worship]] which involves elaborate rituals to propitiate one from a pantheon of 37 nats. <ref>{{cite book | first=R.C. | last=Temple| year=1906 | title=The Thirty-seven Nats-A Phase of Spirit-Worship prevailing in Burma}}</ref><ref>{{cite web
+|url=http://myanmartravelinformation.com/mti-myanmar-religion/nats.htm
+|title=The Worshipping of Nats – The Special Festival of Mount Popa
+|publisher=Myanmar Travel Information
+|archiveurl=http://web.archive.org/web/20060623011500/http://myanmartravelinformation.com/mti-myanmar-religion/nats.htm
+|archivedate=23 June 2006
+|accessdate=10 January 2012}}</ref> . 
+
+[[File:IMG Mohinga.JPG|thumb|[[Mohinga]], rice noodles in fish soup, is widely considered to be Burma's national dish.]]
+In a traditional village, the monastery is the centre of cultural life. Monks are venerated and supported by the lay people. A novitiation ceremony called [[shinbyu]] is the most important [[coming of age]] events for a boy, during which he enters the monastery for a short period of time. <ref name="kmc">{{cite book |author=Khin Myo Chit |authorlink=Khin Myo Chit |year=1980 |title=Flowers and Festivals Round the Burmese Year }}</ref> All male children in Buddhist families are required to be a novice (beginner for Buddhism) before the age of twenty and to be a monk after the age of twenty. Girls have ear-piercing ceremonies ([[File:Nathwin.gif]]) at the same time. <ref name="kmc" /> Burmese culture is most evident in villages where local festivals are held throughout the year, the most important being the pagoda festival. <ref name="Myam-ma">{{cite book |author=Tsaya |year=1886 |title=Myam-ma, the home of the Burman |publisher=Thacker, Spink and Co. |location=Calcutta |pages=36–37}}</ref><ref name="sy">{{cite book |author=Shway Yoe |year=1882|title=The Burman – His Life and Notions |publisher=Norton Library 1963 |location=New York |pages=211–216, 317–319}}</ref> Many villages have a guardian nat, and superstition and taboos are commonplace. 
+[[File:Thingyan, Yangon, Myanmar 2.jpg|right|thumb|220px|Thingyan festival, the Burmese New Year]]
+British colonial rule also introduced Western elements of culture to Burma. Burma's educational system is modelled after that of the United Kingdom. Colonial architectural influences are most evident in major cities such as [[Yangon]]. <ref>{{cite news |first=Steven |last=Martin |url=http://news.bbc.co.uk/2/hi/asia-pacific/3578993.stm |title=Burma maintains bygone buildings |publisher=BBC News |date=March 2004 |accessdate=9 July 2006 }}</ref> Many ethnic minorities, particularly the [[Karen people|Karen]] in the southeast, and the Kachin and [[Chin (people)]] who populate the north and north-east, practice Christianity. <ref>{{cite book |url=http://www.archive.org/details/TheSilkenEast |title=The Silken East – A Record of Life and Travel in Burma |first=V. C.|last=Scott O'Connor |year=1904 |publisher=Kiscadale |location=Scotland 1993 |page=32}}</ref> According to CIA World Factbook, the Burman population is 68%, and the Ethnic groups comprise of 32%. However, the exiled leaders and organisations claims that Ethnic population is 40% which is implicitly contrasted with CIA report (official U.S report).  . 
+
+===Language===. 
+{{Main|Languages of Burma}}
+[[Burmese language|Burmese]], the mother tongue of the Bamar and official language of Burma, is related to [[Tibetan language|Tibetan]] and to the Chinese languages. <ref name="ethno"/> It is written in a [[Burmese script|script]] consisting of circular and semi-circular letters, which were adapted from the [[Mon language|Mon script]], which in turn was developed from a southern Indian script in the 8th century. The earliest known inscriptions in the Burmese script date from the 11th century. It is also used to write [[Pāli|Pali]], the sacred language of [[Theravada Buddhism]], as well as several ethnic minority languages, including Shan, several Karen dialects, and Kayah (Karenni), with the addition of specialised characters and [[diacritic]]s for each language. <ref>{{cite web |url=http://lwinmoe.friendsofburma.org/doc/myanmar_extension.pdf |title=Proposal for encoding characters for Myanmar minority languages in the UCS |accessdate=9 July 2006 |date=2 April 2006 |format=PDF |publisher=International Organization for Standardization}}</ref> The Burmese language incorporates widespread usage of [[honorific]]s and is age-oriented. <ref name="Myam-ma" /> Burmese society has traditionally stressed the importance of education. In villages, secular schooling often takes place in [[monastery|monasteries]]. Secondary and tertiary education take place at government schools.  . 
+
+===Religion===. 
+{{Main|Religion in Burma|Buddhism in Burma|Hinduism in Burma|Christianity in Burma|Islam in Burma|History of the Jews in Burma}}
+[[File:Young monk.jpg|thumb|upright|Members of the [[Sangha|Buddhist monkhood]] are venerated throughout Burma, which is one of the most predominantly [[Theravada|Theravada Buddhist]] countries in the world.]]
+{{bar box
+|title=Religion in Burma
+|titlebar=#ddd
+|width=30%
+|left1=religion
+|right1=percent
+|float=left
+|bars=
+{{bar percent|[[Buddhism]]|orange|89}}
+{{bar percent|Christianity|blue|4}}
+{{bar percent|Islam|green|4}}
+{{bar percent|Others including [[Atheism]], [[Animism]] and [[Chinese folk religion]]|pink|2}}
+{{bar percent|[[Hinduism]]|yellow|1}}
+}} . 
+
+Many religions are practised in Burma. Religious edifices and orders have been in existence for many years. Festivals can be held on a grand scale. The Christian and Muslim populations do, however, face religious persecution and it is hard, if not impossible, for non-Buddhists to join the army or get government jobs, the main route to success in the country. <ref>"Ethnic and Religious Diversity: Myanmar's Unfolding Nemesis", Matthews, Bruce, Institute of South East Asian Studies, Visiting Researcher Series, Volume 2001, No. 3. 2001. </ref> Such persecution and targeting of civilians is particularly notable in Eastern Burma, where over 3000 villages have been destroyed in the past ten years. <ref>{{cite web |url=http://tbbc.org/resources.html#reports |title=Internal Displacement in Eastern Burma 2006 Survey |accessdate=4 February 2007 |author=Thailand Burma Border Consortium |year=2007| archiveurl=http://web.archive.org/web/20070515121040/http://www.tbbc.org/resources.html |archivedate=15 May 2007}}</ref><ref name=priestly>{{cite news |first=Harry |last=Priestly |url=http://www.irrawaddy.org/article.php?art_id=5380 |title=The Outsiders |publisher=[[The Irrawaddy]] |date=17 January 2006 |accessdate=7 July 2006}}</ref><ref>{{cite web|url=http://isrc.payap.ac.th/document/papers/paper23.pdf |title=The Encounter of Missionary Christianity and Resurgent Buddhism in Post-colonial Myanmar |accessdate=14 July 2006 |author=Samuel Ngun Ling |year=2003 |format=PDF |publisher=Payap University |archiveurl=http://web.archive.org/web/20060302235658/http://isrc.payap.ac.th/document/papers/paper23.pdf |archivedate=2 March 2006}}</ref> More than 200,000 [[Rohingya people|Rohingya]] Muslims have settled in Bangladesh, to escape persecution, over the past 20 years. <ref>[http://news.bbc.co.uk/2/hi/asia-pacific/7019882.stm Burmese exiles in desperate conditions]. BBC News. 29 September 2007. </ref> . 
+
+89% of the population embraces [[Buddhism]] (mostly [[Theravada]]). Other religions are practiced largely without obstruction, with the notable exception of some ethnic minorities such as the Muslim [[Rohingya people]], who have continued to have their citizenship status denied and therefore do not have access to education, and Christians in Chin State. <ref>{{cite web |url=http://www.state.gov/g/drl/rls/irf/2007/90131.htm |title=Burma-International Religious Freedom Report 2007 |publisher=U.S. Department of State}}</ref> 4 percent of the population practices Christianity; 4 percent, Islam; 1 percent, traditional [[animism|animistic]] beliefs; and 2 percent follow other religions, including [[Mahayana Buddhism]], [[Hinduism]], [[East Asian religions]] and the [[Bahá'í Faith]]. <ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html#People CIA Factbook – Burma]. </ref><ref>{{cite web |url=http://www.state.gov/g/drl/rls/irf/2007/90131.htm |title=International Religious Freedom Report 2007 – Burma |publisher=State.gov |accessdate=17 April 2010}}</ref><ref>{{cite web |url=http://www.state.gov/r/pa/ei/bgn/35910.htm |title=Bureau of East Asian and Pacific Affairs – Background Note: Burma |publisher=State.gov |accessdate=17 April 2010}}</ref> However, according to a [[U.S. State Department]]'s 2010 international religious freedom report, official statistics are alleged to underestimate the non-Buddhist population. Independent researchers put the Muslim population at 6 to 10% of the population. A tiny Jewish community in Rangoon had a synagogue but no resident rabbi to conduct services. <ref>{{cite web |url=http://www.state.gov/g/drl/rls/irf/2010/148859.htm |title=Burma—International Religious Freedom Report 2010 |publisher=U.S. Department of State |date=17 November 2010 |accessdate=22 February 2011}}</ref> . 
+
+===Units of measure===. 
+{{Main|Burmese units of measurement}}
+Burma is one of three countries that still predominantly uses a non-metric system of measure, according to the CIA Factbook. <ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/appendix/print_appendix-g.html |title=The World Factbook, Appendix G: Weights and Measures |year=2010 |work=Web Pages |publisher=Central Intelligence Agency |accessdate=10 May 2010}}</ref>  The common units of measure are unique to Burma, but the government web pages use both imperial units<ref>{{cite web |url=http://www.moai.gov.mm/index.php?option=com_content&view=category&layout=blog&id=16&Itemid=2 |title=Ministry of Agriculture and Information |date=2009-2010 |work=Web Page |publisher=Myanmar Agriculture |accessdate=10 May 2010}}</ref> and metric units. <ref>{{cite web |url=http://www.mofa.gov.mm/aboutmyanmar/geography.html |title=About Myanmar : Geography  |year=2009 |work=Web Page |publisher=Ministry of Foreign Affairs |accessdate=10 May 2010}}</ref> . 
+
+==Education==. 
+{{Main|Education in Burma}}
+[[File:MCbuilding.jpg|thumb|[[Yangon University of Medicine 1]]]] . 
+
+The educational system of Burma is operated by the government agency, the Ministry of Education. Universities and professional institutes from upper Burma and lower Burma are run by two separate entities, the Department of Higher Education of Upper Burma and the Department of Higher Education of Lower Burma. Headquarters are based in Yangon and Mandalay respectively. The education system is based on the United Kingdom's system, due to nearly a century of British and Christian presences in Burma. Nearly all schools are government-operated, but there has been a recent increase in privately funded English language schools. Schooling is compulsory until the end of elementary school, probably about 9 years old, while the compulsory schooling age is 15 or 16 at international level.  . 
+
+There are 101 universities, 12 institutes, 9 degree colleges and 24 colleges in Burma, a total of 146 higher education institutions. <ref>Chronicle of National Development Comparison Between Period Preceding 1988 and after (up to 31 December 2006). </ref>
+[[File:Students, Hakha, Chin State, Myanmar.jpg|thumb|left|Students on their way to school, [[Hakha]], [[Chin State]], Burma]]
+There are 10 Technical Training Schools, 23 nursing training schools, 1 sport academy and 20 midwifery schools.  . 
+
+There are 2047 Basic Education High Schools, 2605 Basic Education Middle Schools, 29944 Basic Education Primary Schools and 5952 Post Primary Schools. 1692 multimedia classrooms exist within this system.  . 
+
+There are four international schools which are acknowledged by WASC and College Board – [[The International School Yangon]] (ISY), [[Crane International School Yangon]] (CISM), [[Yangon International School]] (YIS) and [[Yangon International Educare Center|International School of Myanmar]] (ISM) in Yangon.  . 
+
+==Media==. 
+{{Main|Media of Burma}}
+[[Image:Blethrow Inle3.JPG|thumb|Stilt houses at Lake Inle, Burma]] . 
+
+Due to Burma's political climate, there are not many media companies in relation to the country's population, although a certain number exists. Some are privately owned, but all programming must meet with the approval of the censorship board.  . 
+
+Burma is the primary subject of a 2007 graphic novel titled ''[[Chroniques Birmanes]]'' by [[Quebec City|Québécois]] author and animator, [[Guy Delisle]]. The graphic novel was translated into English under the title ''[[Burma Chronicles]]'' in 2008. In 2009, a documentary about Burmese [[videojournalist]]s called ''[[Burma VJ]]'' was released. <ref>{{cite web |url=http://burmavjmovie.com/ |title=Burma VJ&nbsp;– Academy Award Nominee&nbsp;– Best Documentary Feature |publisher=Burmavjmovie.com |accessdate=17 April 2010}}</ref> This film was nominated for [[Academy Award for Best Documentary Feature|Best Documentary Feature]] at the [[82nd Academy Awards|2010 Academy Awards]]. <ref>{{cite web |url=http://dannyfisher.org/2010/02/02/burma-vj-nominated-for-a-2010-academy-award-for-best-documentary-feature/ |title=Burma VJ Nominated for the 2010 Academy Award for Best Documentary Feature " Rev. Danny Fisher |publisher=Dannyfisher.org |date=2 February 2010 |accessdate=17 April 2010}}</ref>
+{{clear}} . 
+
+==See also==. 
+{{satop|Geography|Eurasia|Asia|Southeast Asia|ASEAN|Burma}}
+{{clear}} . 
+
+==Notes==. 
+{{Reflist|colwidth=30em}} . 
+
+==References==. 
+* {{cite web | last=Cooler | first=Richard M. | title=The Art and Culture of Burma | year=2002 | url=http://www.seasite.niu.edu/burmese/cooler/BurmaArt_TOC.htm | publisher=Northern Illinois University}}
+* {{cite book | last=Charney | first=Michael W. | title=History of Modern Burma | year=1999 |publisher=Cambridge University Press| }}
+* {{cite book | last=Hall | first=D.G.E. | title=Burma | edition=3rd | year=1960 |publisher=Hutchinson University Library| isbn=978-1406735031}}
+* {{cite book | last=Htin Aung | first=Maung | title=A History of Burma | publisher=Cambridge University Press | location=New York and London | year=1967}}
+* {{citation  | last=Hudson | first=Bob | title=A Pyu Homeland in the Samon Valley: a new theory of the origins of Myanmar's early urban system| url=http://acl.arts.usyd.edu.au/~hudson/BH2005Jan.pdf | journal= Myanmar Historical Commission Golden Jubilee International Conference | volume= | issue=| pages= | date=March 2005}}
+* {{cite book | last= Lieberman | first= Victor B. | title= Strange Parallels: Southeast Asia in Global Context, c. 800–1830, volume 1, Integration on the Mainland | year=2003 | publisher=Cambridge University Press | isbn=978-0-521-80496-7}}
+* {{cite book | last=Moore | first=Elizabeth H. | title=Early Landscapes of Myanmar | year=2007 | publisher=River Books | location=Bangkok | isbn=974-9863313}}
+* {{cite book | last=Myint-U | first=Thant | title=The River of Lost Footsteps--Histories of Burma | year=2006 | publisher=Farrar, Straus and Giroux | isbn=978-0-374-16342-6, 0-374-16342-1}} . 
+
+==External links==. 
+{{Sister project links}}
+; Government
+*[http://www.myanmar.gov.mm/ myanmar.gov.mm]
+*[https://www.cia.gov/library/publications/world-leaders-1/world-leaders-b/burma.html Chief of State and Cabinet Members]
+; General information
+*{{CIA World Factbook link|bm|Burma}}
+*[http://ucblibraries.colorado.edu/govpubs/for/myanmar.htm Burma] from ''UCB Libraries GovPubs''
+*{{wikiatlas|Myanmar}}
+*{{Wikitravel|Myanmar}}
+*[http://www.burmalibrary.org/ Online Burma/Myanmar Library: Classified and annotated links to more than 17,000 full-text documents on Burma/Myanmar]
+*[http://www.pbs.org/wnet/wideangle/episodes/eyes-of-the-storm/turning-points-in-burmese-history/5363/ Interactive timeline of turning points in Burmese history] . 
+
+{{Burma (Myanmar) topics}}
+{{Navboxes
+|title = Geographic locale
+|list =
+{{Countries and territories of Southeast Asia}}
+{{Countries and Territories of South Asia}}
+{{Austronesian-speaking}}
+}}
+{{Navboxes
+|title = International membership and history
+|list =
+{{Association of Southeast Asian Nations (ASEAN)}}
+{{East Asia Summit (EAS)}}
+{{Countries of Asia}}
+}}
+<!--Metadata-->
+{{Coord|22|N|96|E|type:country_region:MM|display=title}} . 
+
+[[Category:Burma| ]]
+[[Category:Countries of the Indian Ocean]]
+[[Category:Former British colonies]]
+[[Category:Former socialist republics]]
+[[Category:Least developed countries]]
+[[Category:Member states of the Association of Southeast Asian Nations]]
+[[Category:Military dictatorship]]
+[[Category:Republics]]
+[[Category:Southeast Asian countries]]
+[[Category:States and territories established in 1948]]
+[[Category:Member states of the United Nations]]

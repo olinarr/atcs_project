@@ -1,0 +1,97 @@
+Over 80% of Australian adults engage in gambling of some kind which is the highest rate of gambling in the world. <ref name="bbc070130">Bryant, Nick  [http://news.bbc.co.uk/2/hi/asia-pacific/6313083.stm "Australia in thrall of gambling mania"], ''[[BBC]]'', 30 January 2007</ref> . 
+
+In 2007-08 the states collected about $3 billion from [[slot machines|poker machines]], and $4.9 billion from all forms of gambling, accounting for 9.1% of their total revenue. <ref name="smh100226">Saulwick, Jacob  [http://www.smh.com.au/national/breaking-the-political-addiction-to-pokies-20100226-p95c.html "Breaking the political addiction to pokies"], ''[[Sydney Morning Herald]]'', 27 February 2010</ref>
+The NSW government receives about $1 billion from poker machines, and $1.6 billion from all forms of gambling. 
+<ref name="smh100226" /> . 
+
+==Regulatory authorities==. 
+Since the introduction of new gambling services, including online gambling, the Commonwealth has taken more active role in the regulation of gambling, but Australian gambling industry is also regulated by State authorities:<ref>[http://www.aph.gov.au/library/intguide/sp/gambling_ebrief.htm Parliament Library: Gambling Policy and Regulation]</ref>
+*Australian Capital Territory - ACT Racing and Gambling Commission
+*New South Wales - NSW Department of Gaming and Racing
+*Northern Territory - Racing and Gaming Authority
+*Queensland - Queensland Office of Gaming Regulation
+*South Australia - Gaming Supervisory Authority
+*Tasmania - Tasmanian Gaming Commission (supported by the Gaming Operations Branch of the Tasmanian Department of Treasury and Finance)
+*Victoria - Victorian Casino and Gaming Authority . 
+
+==Online gambling==. 
+The Interactive Gambling Act (2001) was passed by the Australian Commonwealth Parliament on 28 June 2001. <ref name = "Assent">[http://www.findlaw.com.au/articles/478/interactive-gambling-act-receives-assent.aspx Interactive Gambling Act Receives Assent]</ref> It received assent on July 11, 2001<ref>[http://www.comlaw.gov.au/Series/C2004A00851 Interactive Gambling Act 2001: Compilation]</ref> . 
+
+The IGA is targeted at online gambling operators and makes it an offense for them to offer ‘real-money’ online interactive gambling to residents of Australia. It also makes it illegal for online gambling operators to advertise ‘real-money’ interactive gambling services (such as online poker and casino) to Australian citizens. <ref name = "Assent"></ref> . 
+
+Accessing and using the interactive gambling services is not an offence. It is also allowed to companies based in Australia to offer their gambling services to gamblers located outside Australia with the exception of those countries that were called 'designated countries'. <ref>[http://apo.org.au/research/review-interactive-gambling-act-2001 Review of the Interactive Gaming Act 2001]</ref> . 
+
+== Taxation laws on gambling in Australia ==. 
+Gamblers' winnings in Australia are not taxed. There are 3 main reasons for that:
+*Gambling is not considered a profession, it's treated as a hobby or recreational activity. 
+*The Australian government views gains from gambling activities not as income, but as a result of good luck. Even if someone wins big, they also lose a lot in other gambling sessions. 
+*The government taxes gambling operators instead. <ref>[http://sites.google.com/site/eurekafreebets/articles/taxationandgamblinginaustralia Gambling Taxation Overview]</ref> . 
+
+Taxation of gambling operators in Australia differs from state to state and different gambling services are taxed in a different way. There are taxes on the turnover, on player loss and net profit. As gambling operators need to obtain a license to offer their services, certain fees must also be paid at this stage of gambling business development. <ref name ="gambling taxes"></ref> . 
+
+{| class="wikitable"
+. |-
+|+ Major forms of gambling taxation by gambling type <ref name ="gambling taxes">[http://www.austgamingcouncil.org.au/images/pdf/eLibrary/2340.pdf Australian Gaming Council: Gamblng Taxes]</ref> . 
+
+. |-
+! Forms of taxation !! Gambling Activity
+. |-
+| Turnover tax || Bookmakers (racing)
+. |-
+|  || Bookmakers (sports betting)
+. |-
+|  || Totalisator wagering on racing
+. |-
+|  || Lottery subscriptions
+. |-
+|  || Draw card machines
+. |-
+|  || Keno
+. |-
+||| 
+. |-
+|Tax on player loss || Totalisator wagering on racing
+. |-
+|  || Sports betting
+. |-
+|  || Poker machines in hotels, clubs, casinos
+. |-
+|  || Casinos
+. |-
+|  || TAB sports betting
+. |-
+|  || Keno
+. |-
+| ||  
+. |-
+| Net profits tax  || Poker machines 
+. |-
+|  || Off-course totalisator investment
+. |-
+|  || 
+. |-
+| Licence Fees  || Casinos
+. |-
+|  || Poker machines 
+. |-
+|  || Lotteries
+. |-
+|  || Racing
+. |-
+|  || Bookmakers
+. |-
+|  || Sports betting 
+. |-
+|  || Minor gambling (bingo, raffles)  
+|} . 
+
+== See also ==. 
+*[[Australian Taxation Office]]
+*[[Gambling]] . 
+
+==References==. 
+<references/>
+{{Use dmy dates|date=January 2011}} . 
+
+{{DEFAULTSORT:Gambling In Australia}}
+[[Category:Gambling in Australia]]

@@ -1,0 +1,152 @@
+{{Infobox Treaty
+| name                = Comprehensive Nuclear Test-Ban Treaty (CTBT)
+| long_name           =
+| image_width         = 175px
+| caption             =
+| type                =
+| date_drafted        =
+| date_signed         = 10 September 1996
+| location_signed     = [[New York City]]
+| date_sealed         =
+| date_effective      = Not in force
+| condition_effective = 180 days after it is ratified by {{Collapsible list|status=uncollapsed|titlestyle=font-weight:normal; background:transparent; text-align:left;|title=all 44 Annex 2 countries| [[Algeria]], [[Argentina]], [[Australia]], [[Austria]], [[Bangladesh]], [[Belgium]], [[Brazil]], [[Bulgaria]], [[Canada]], [[Chile]], [[China]], [[Colombia]], [[Democratic People's Republic of Korea]], [[Egypt]], [[Finland]], [[France]], [[Germany]], [[Hungary]], [[India]], [[Indonesia]], [[Iran (Islamic Republic of)]], [[Israel]], [[Italy]], [[Japan]], [[Mexico]], [[Netherlands]], [[Norway]], [[Pakistan]], [[Peru]], [[Poland]], [[Romania]], [[Republic of Korea]], [[Russian Federation]], [[Slovakia]], [[South Africa]], [[Spain]], [[Sweden]], [[Switzerland]], [[Turkey]], [[Ukraine]], [[United Kingdom of Great Britain and Northern Ireland]], [[United States of America]], [[Vietnam]], [[Zaire]]}}
+| date_expiration     =
+| signatories         = [[List of parties to the Comprehensive Nuclear-Test-Ban Treaty|182]]
+| ratifiers           = [[List of parties to the Comprehensive Nuclear-Test-Ban Treaty|157]] (states that need to take further action for the treaty to enter into force: China, Egypt, India, Iran, Israel, North Korea, Pakistan, United States)
+| depositor           =[[Secretary-General of the United Nations]]
+| language            =
+| languages           =Arabic, Chinese, English, French, Russian and Spanish 
+| website             = http://www.ctbto.org/
+| wikisource          =
+}}
+[[Image:CTBT Participation.svg|right|400px|thumb| Participation in the Comprehensive Nuclear-Test-Ban Treaty {{Col-begin}}
+{{Col-2}} . 
+
+{{legend|#5050ff|Annex 2, signed and ratified}}
+{{legend|#dcdc00|Annex 2, signed}}
+{{legend|#ff5151|Annex 2, non-signatory}}
+{{Col-2}}
+{{legend|#000080|Not Annex 2, signed and ratified}}
+{{legend|#807f00|Not Annex 2, signed}}
+{{legend|#800000|Not Annex 2, non-signatory}} . 
+
+{{Col-end}}
+]]
+The '''Comprehensive Nuclear-Test-Ban Treaty (CTBT)''' bans all [[nuclear weapon|nuclear]] explosions in all environments, for military or civilian purposes. It was adopted by the [[United Nations General Assembly]] on 10 September 1996<ref name="un.org">{{cite web|url=http://www.un.org/documents/ga/res/50/ares50-245.htm|title=Resolution adopted by the general assembly:50/245.  Comprehensive Nuclear-Test-Ban Treaty|date=17 September 1996|accessdate=3 December 2011|work=[[United Nations]]}}</ref> but it has not entered into force as of 2012.  . 
+
+==Status==. 
+{{further|List of parties to the Comprehensive Nuclear-Test-Ban Treaty}}
+The Treaty was adopted by the [[United Nations General Assembly]] on 10 September 1996. <ref name=untc/> It opened for signature in New York on 24 September 1996,<ref name=untc>United Nations Treaty Collection (2009).  "[http://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&id=488&chapter=26&lang=en Comprehensive Nuclear-Test-Ban Treaty]".  Accessed 23 August 2009. </ref> when it was signed by 71 States, including five of the eight then [[List of states with nuclear weapons|nuclear-capable states]]. As of February 2012, 157 states have [[Ratification#Ratification of an international treaty|ratified]] the CTBT and another 25 states have signed but not ratified it. <ref name=status>{{cite web|work=[[Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization]]|year=2011|url=http://www.ctbto.org/the-treaty/status-of-signature-and-ratification/|title=Status of Signature and Ratification|accessdate=20 September 2011}}</ref><ref>{{Citation |author=David E. Hoffman
+ |publication-date=1 November 2011 |title=Supercomputers offer tools for nuclear testing — and solving nuclear mysteries
+ |newspaper=[[The Washington Post]] |work=National |url=http://www.washingtonpost.com/national/national-security/supercomputers-offer-tools-for-nuclear-testing--and-solving-nuclear-mysteries/2011/10/03/gIQAjnngdM_story.html?wpisrc=nl_tech
+ |accessdate=2 November 2011 }}<br>''In this news article, the number of states ratifying was reported as 154. </ref> . 
+
+The treaty will enter into force 180 days after the 44 states listed in Annex 2 of the treaty have ratified it. These "Annex 2 states" are states that participated in the CTBT’s negotiations between 1994 and 1996 and possessed nuclear power reactors or research reactors at that time. <ref>{{cite web|url=http://www.ctbto.org/press-centre/highlights/2008/the-russian-federations-support-for-thecomprehensive-nuclear-test-ban-treaty/14-october-2008-page-2/?textonly=1|title=The Russian Federation's support for the Comprehensive Nuclear-Test-Ban Treaty|work=[[CTBTO Preparatory Commission]]|year=2008|accessdate=4 December 2011}}</ref> As of 7 December 2011, eight Annex 2 states have not ratified the treaty: [[People's Republic of China|China]], [[Egypt]], [[Iran]], [[Israel]] and the [[United States]] have signed but not ratified the Treaty; [[India]], [[North Korea]] and [[Pakistan]] have not signed it.  In 1998 India said it would only sign the treaty if the United States presented a schedule for eliminating its nuclear stockpile, a condition the United States rejected. <ref>{{cite web|last=Enver|first=Masud|title=Rebuffed by U.S., India, Pakistan Storm Nuclear Club|url=http://www.twf.org/News/Y1998/19980601.html|publisher=The Wisdom Fund|accessdate=8 January 2012}}</ref> . 
+
+==Obligations==. 
+(Article I):<ref>{{cite web|url=http://www.ctbto.org/fileadmin/content/treaty/treaty_text.pdf|title=Comprehensive Nuclear-Test-Ban Treaty CTBTO|accessdate=4 December 2011|work=[[CTBTO Preparatory Commission]]}}</ref>
+#Each State Party undertakes not to carry out any [[nuclear weapon]] test explosion or any other nuclear explosion, and to prohibit and prevent any such nuclear explosion at any place under its jurisdiction or control. 
+#Each State Party undertakes, furthermore, to refrain from causing, encouraging, or in any way participating in the carrying out of any nuclear weapon test explosion or any other nuclear explosion.  . 
+
+==History==. 
+Arms control advocates had campaigned for the adoption of a treaty banning all nuclear explosions since the early 1950s, when public concern was aroused as a result of radioactive fall-out from atmospheric nuclear tests and the escalating arms race. Over 50 nuclear explosions were registered between 16 July 1945, when the first nuclear explosive test was conducted by the United States at [[White Sands Missile Range]] near [[Alamogordo, New Mexico]], and 31 December 1953. [[Prime Minister of India|Prime Minister]] [[Jawaharlal Nehru|Nehru]] of India voiced the heightened international concern in 1954, when he proposed the elimination of all nuclear test explosions worldwide. However, within the context of the [[Cold War]], skepticism about the capability to verify compliance with a comprehensive nuclear test ban treaty posed a major obstacle to any agreement.  . 
+
+===Partial Test Ban Treaty, 1963===. 
+Limited success was achieved with the signing of the [[Partial Test Ban Treaty]] in 1963, which banned nuclear tests in the atmosphere, underwater and in space. Neither France nor China signed the PTBT. However, the treaty was still ratified by the United States after a 80 to 19 vote in the [[United States Senate]]. <ref>{{cite web|url=http://www.upi.com/Audio/Year_in_Review/Events-of-1963/University-of-Alabama/12295509434394-4/#title|title=1963 Year In Review|work=UPI.com|accessdate=3 December 2011|year=1963}}</ref> . 
+
+===Nuclear Non-proliferation Treaty, 1968===. 
+A major step towards [[nuclear proliferation|non-proliferation]] of nuclear weapons came with the signing of the [[Nuclear Non-proliferation Treaty]] (NPT) in 1968. Under the NPT, non-nuclear weapon states were prohibited from, inter alia, possessing, manufacturing or acquiring nuclear weapons or other nuclear explosive devices. All signatories, including nuclear weapon states, were committed to the goal of total [[nuclear disarmament]]. However, India, Pakistan and Israel have declined to ratify the NPT on grounds that such a treaty is fundamentally discriminatory as it places limitations on states that do not have nuclear weapons while making no efforts to curb weapons development by declared nuclear weapons states.  . 
+
+===Negotiations for the CTBT===. 
+Given the political situation prevailing in the subsequent decades, little progress was made in nuclear disarmament until the end of the [[Cold War]] in 1991. Parties to the PTBT held an amendment conference that year to discuss a proposal to convert the Treaty into an instrument banning all nuclear-weapon tests; with strong support from the UN General Assembly, negotiations for a comprehensive test-ban treaty began in 1993.  . 
+
+===Adoption of the CTBT, 1996===. 
+Intensive efforts were made over the next three years to draft the Treaty text and its two annexes. However, the [[Conference on Disarmament]], in which negotiations were being held, did not succeed in reaching consensus on the adoption of the text. Under the direction of Prime Minister [[John Howard]] and Foreign Minister [[Alexander Downer]], [[Australia]] then sent the text to the [[United Nations General Assembly]] in [[New York]], where it was submitted as a draft resolution. <ref>{{cite web|title=Comprehensive nuclear-test-ban treaty : draft resolution|url=http://unbisnet.un.org:8080/ipac20/ipac.jsp?session=X204697124L65.19785&profile=bibga&uri=full=3100001~!396802~!33&ri=1&aspect=power&menu=search&source=~!horizon#focus|accessdate=3 December 2011|date=6 September 1996|work=[[United Nations]]}}</ref> On 10 September 1996, the Comprehensive Test-Ban Treaty (CTBT) was adopted by a large majority, exceeding two-thirds of the General Assembly's Membership. <ref name="un.org"/> . 
+
+===US ratification of the CTBT===. 
+The US has signed the CTBT, but not ratified it. There is ongoing debate whether or not the US should ratify the CTBT.  . 
+
+The United States has stated that its ratification of the CTBT is conditional upon: . 
+
+{{cquote|
+:A: The conduct of a [[Stockpile stewardship|Science Based Stockpile Stewardship Program]] to ensure a high level of confidence in the safety and reliability of nuclear weapons in the active stockpile, including the conduct of a broad range of effective and continuing experimental programs.  . 
+
+:B: The maintenance of modern nuclear laboratory facilities and programs in theoretical and exploratory nuclear technology which will attract, retain, and ensure the continued application of our human scientific resources to those programs on which continued progress in nuclear technology depends.  . 
+
+:C:The maintenance of the basic capability to resume nuclear test activities prohibited by the CTBT should the United States cease to be bound to adhere to this treaty.  . 
+
+:D: Continuation of a comprehensive research and development program to improve our treaty monitoring capabilities and operations.  . 
+
+:E: The continuing development of a broad range of intelligence gathering and analytical capabilities and operations to ensure accurate and comprehensive information on worldwide nuclear arsenals, nuclear weapons development programs, and related nuclear programs.  . 
+
+:F: The understanding that if the President of the United States is informed by the Secretary of Defense and the Secretary of Energy (DOE) -- advised by the Nuclear Weapons Council, the Directors of DOE's nuclear weapons laboratories and the Commander of the U.S. Strategic Command -- that a high level of confidence in the safety or reliability of a nuclear weapon type which the two Secretaries consider to be critical to the U.S. nuclear deterrent could no longer be certified, the President, in consultation with Congress, would be prepared to withdraw from the CTBT under the standard "supreme national interests" clause in order to conduct whatever testing might be required. <ref>{{cite web|url=http://www.history.navy.mil/library/online/nucweps%20test%20ban.htm#stockpile|work=Congressional Research Service, The Library of Congress (US)|author=Jonathan Medalia|date=2 June 2005|accessdate=4 December 2011|title=Nuclear Weapons: Comprehensive Test Ban Treaty}}</ref>
+}} . 
+
+Proponents of ratification claim that it would : . 
+
+# Establish an international norm that would push other nuclear-capable countries like North Korea, Pakistan, and India to sign. 
+# Constrain worldwide nuclear proliferation by vastly limiting a country's ability to make nuclear advancements that only testing can ensure. 
+# Not compromise US national security because the [[Stockpile stewardship|Science Based Stockpile Stewardship Program]] serves as a means for maintaining current US nuclear capabilities without physical detonation.  . 
+
+Opponents of ratification claim that: 
+# The treaty is unverifiable and that others nations could easily cheat. 
+# The ability to enforce the treaty was dubious
+# The U.S. nuclear stockpile would not be as safe or reliable in the absence of testing. 
+# The benefit to nuclear nonproliferation was minimal. <ref>http://adamvn1.wordpress.com/tag/ctbt/ Kathleen Bailey and Robert Barker, “Why the United States Should Unsign the Comprehensive Test Ban Treaty and Resume Nuclear Testing,” Comparative Strategy 22 (2003): 131</ref> . 
+
+On 13 October 1999, the [[United States Senate]] rejected ratification of the CTBT. President [[Barack Obama]] stated during his 2008 election campaign that "As president, I will reach out to the Senate to secure the ratification of the CTBT at the earliest practical date."<ref>{{cite web|url=http://www.sciam.com/article.cfm?id=nuclear-testing-is-an-acceptable-risk|title=Nuclear Testing Is an Acceptable Risk for Arms Contro|work=[[Scientific American]]|date=March 2009|accessdate=4 December 2011}}</ref> . 
+
+An article in Bulletin of the Atomic Scientists describes how a North Korean underground nuclear test on May 25, 2009 was detected and the source located by GPS satellites.  The authors suggest that the effectiveness of GPS satellites for detecting nuclear explosions enhances the ability to verify compliance to the Comprehensive Nuclear Test Ban Treaty, giving the United States more reason to ratify it. <ref>{{cite web|url=http://www.thebulletin.org/web-edition/op-eds/new-way-to-detect-secret-nuclear-tests-gps|author=Park, J., Grejner-Brzezinska, D., von Frese, R.|title=A new way to detect secret nuclear tests: GPS|work=Bulletin of the Atomic Scientists|date=18 August 2011}}</ref> . 
+
+===Monitoring of the CTBT===. 
+[[geophysics|Geophysical]] and other technologies are used to monitor for compliance with the Treaty: [[forensic seismology]], [[hydrophone|hydroacoustics]], [[infrasound]], and [[radionuclide]] monitoring. The technologies are used to monitor the underground, the waters and the atmosphere for any sign of a nuclear explosion. Statistical theories and methods are integral to CTBT monitoring
+providing confidence in verification analysis. Once the Treaty enters into force, on site inspection will be provided for where concerns about compliance arise.  . 
+
+The [[Comprehensive Test Ban Treaty Organization Preparatory Commission|Preparatory Commission]] for the [[Comprehensive Test Ban Treaty Organization]] (CTBTO), an international organization headquartered in [[Vienna]], [[Austria]], was created to build the verification regime, including establishment and provisional operation of the network of monitoring stations, the creation of an international data centre, and development of the On Site Inspection capability.  . 
+
+The monitoring network consists of 337 facilities located all over the globe. As of September 2009, close to 250 facilities have been certified. The monitoring stations register data that is transmitted to the international data centre in Vienna for processing and analysis.. The data are sent to states that have signed the Treaty. <ref>{{cite web|url=http://www.ctbto.org/press-centre/press-releases/2009/us-nuclear-security-administrator-dagostinovisits-the-ctbto/|title=US nuclear security administrator dagostino visits the CTBTO|accessdate=4 December 2011|date=15 September 2009|work=[[CTBTO Preparatory Commission]]}}</ref> . 
+
+==See also==. 
+{{commons category|Comprehensive Nuclear-Test-Ban Treaty}}
+* [[Comprehensive Nuclear-Test-Ban Treaty Organization]]
+* [[Comprehensive Nuclear-Test-Ban Treaty Organization Preparatory Commission]]
+* [[National Technical Means]]
+* [[Nuclear proliferation]]
+* [[Nuclear disarmament]]
+* [[Nuclear weapon]]
+* [[Nuclear warfare]]
+* [[Nuclear-free zone]]
+* [[Global Security Institute]]
+* [[Partial Nuclear Test Ban Treaty]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+*[http://www.ctbto.org/fileadmin/content/treaty/treatytext.tt.html Full text of the treaty]
+*For official news releases and information on the treaty see{{spaced ndash}}http://www.ctbto.org
+*Two articles from the March/April ''Bulletin of the Atomic Scientists'' cover the state of play regarding the CTBT: Keith Hansen, "Forecasting the future" and Trevor Findlay & Andreas Persbo, "Watching the world."
+*[http://svaradarajan.blogspot.com/1999/10/test-ban-test-us-rejection-has.html The Test Ban Test: U.S. Rejection has Scuttled the CTBT]
+*[http://www.abc.net.au/news/newsitems/200602/s1577409.htm US conducts subcritical nuclear test] ABC News, February 24, 2006
+*[http://www.ippnw.org/NukeNPTPrepCom2003EPWs.html International Physicians for the Prevention of Nuclear War, 1991]
+*[http://www.armscontrol.org/factsheets/ctbtissue.asp Daryl Kimball and Christine Kucia, Arms Control Association, 2002]
+* [http://www.fas.org/faspir/2001/v54n1/weapons.html "Low-Yield Earth Penetrating Nuclear Weapons"]
+* [http://www.fas.org/nuke/control/ctbt/text/ctbt_report.html General John M. Shalikashvili, Special Advisor to the President and the Secretary of State for the Comprehensive Test Ban Treaty]
+* [http://www.nrdc.org/nuclear/acato.asp Christopher Paine, Senior Researcher with NRDC's Nuclear Program, 1999]
+* [http://www.fas.org/nuke/control/ctbt/news/fs_991008_whyctbt.html Fact Sheet released by the Bureau of Arms Control]
+* [http://blogcritics.org/archives/2008/07/18/203804.php Obama or McCain Can Finish Journey to Nuclear Test Ban Treaty]
+* For the number of nuclear explosions conducted in various parts of the globe from 1954-1998 see{{spaced ndash}}http://blip.tv/file/1662914/ . 
+
+{{Nuclear weapons limitation treaty}} . 
+
+[[Category:Comprehensive Nuclear-Test-Ban Treaty|*]]
+[[Category:Arms control treaties]]
+[[Category:Non-proliferation treaties]]
+[[Category:Nuclear weapons policy]]
+[[Category:Foreign relations of India]]
+[[Category:Foreign relations of Pakistan]]
+[[Category:106th United States Congress]]
+[[Category:Treaties concluded in 1996]]
+[[Category:Articles with images not understandable by color blind users]]
+[[Category:Treaties not entered into force]]
+[[Category:Nuclear tests]]

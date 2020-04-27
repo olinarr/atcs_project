@@ -1,0 +1,423 @@
+{{Infobox nukes
+| country_name=[[United States]]
+| image_location=United States (orthographic projection).svg
+| program_start=21 October 1939
+| first_test=16 July 1945
+| first_fusion=1 November 1952
+| last_test=23 September 1992
+| largest_yield='''15 [[TNT equivalent|Mt]]''' (1 March 1954)
+| total_tests='''1,054''' detonations
+| peak_stockpile='''31,255''' warheads (1967)<ref>http://www.defense.gov/npr/docs/10-05-03_Fact_Sheet_US_Nuclear_Transparency__FINAL_w_Date.pdf</ref>
+| current_stockpile='''5,113''' total<ref name="mohammed20100503"/><ref name="capaccio20100503"/>
+| maximum_range='''{{Convert|13000|km|0|abbr=on|sigfig=2}}''' (land)<br />'''{{Convert|12000|km|0|abbr=on|sigfig=2}}''' (sub)
+| NPT_signatory='''Yes''' (1968, one of five recognized powers)
+| annual budget='''$35,100,000,000'''
+}} . 
+
+{{nuclear weapons}} . 
+
+The [[United States]] was the first country to develop [[nuclear weapon]]s, and is the only country to have used them in warfare, with the separate [[Atomic bombings of Hiroshima and Nagasaki|bombings]] of [[Hiroshima]] and [[Nagasaki]] in [[World War II]]. Before and during the [[Cold War]] it conducted over a thousand [[Nuclear testing|nuclear tests]] and developed many long-range weapon delivery systems. <ref>According to Carey Sublette's [http://nuclearweaponarchive.org/Usa/Tests/index.html Nuclear Weapon Archive], the United States "conducted (by official count) 1054 nuclear tests" between 1945 and 1992. </ref>  . 
+
+Until November 1962, the vast majority of the U.S. tests were above-ground; after the acceptance of the [[Partial Test Ban Treaty]] all testing was regulated underground, in order to prevent the dispersion of [[nuclear fallout]]. Between 1940 and 1996, the U.S. spent at least ${{Format price|{{Inflation|US|5821000000000|1996|r=3}}}} in present day terms{{Inflation-fn|US}} on nuclear weapons development. <ref name="brook">Brookings Institution, "Estimated Minimum Incurred Costs of U.S. Nuclear Weapons Programs, 1940-1996", at http://www.brook.edu/fp/projects/nucwcost/figure1.htm</ref> As of February 2006, over [[United States dollar|$]]1.2 billion in compensation was paid to U.S. citizens exposed to nuclear hazards as a result of the U.S. nuclear weapons program, and by 1998 at least $759 million was paid to the [[Marshall Islands|Marshallese Islanders]] in compensation for their exposure to U.S. nuclear testing. <ref name="Brookings"/><ref name="usdoj">"Radiation Exposure Compensation System Claims to Date Summary of Claims Received", updated regularly at http://www.usdoj.gov/civil/omp/omi/Tre_SysClaimsToDateSum.pdf</ref> . 
+
+The United States currently maintains an arsenal of 8,000 warheads<ref name="mohammed20100503"/><ref name="capaccio20100503"/> and facilities for their construction and [[Nuclear weapon design|design]], though many of the Cold War facilities have since been deactivated and are sites for [[environmental remediation]].  . 
+
+==Development history==. 
+===Manhattan Project===. 
+{{Main|Manhattan Project}}
+[[File:Trinity shot color.jpg|right|thumb|The "[[Trinity test|Trinity]]" explosion was the first nuclear weapon ever tested.]] . 
+
+The United States of America first began developing nuclear weapons during [[World War II]] under the order of [[President of the United States|President]] [[Franklin Roosevelt]] in 1939, motivated by the fear that they were engaged in a race with [[Nazi Germany]] to develop [[German nuclear energy project|such a weapon]]. After a slow start under the direction of the [[National Institute of Standards and Technology|National Bureau of Standards]], at the urging of [[United Kingdom|British]] scientists and American administrators the program was put under the [[Office of Scientific Research and Development]], where in 1942 it was officially transferred under the auspices of the [[United States Army|U.S. Army]] and became known as the [[Manhattan Project]], an American, British and [[Canada|Canadian]] joint venture. Under the direction of [[General (United States)|General]] [[Leslie Groves]], over thirty different sites were constructed for the research, production, and testing of components related to bomb making. These included the scientific laboratory [[Los Alamos National Laboratory|Los Alamos]] (in [[New Mexico]]), under the direction of physicist [[Robert Oppenheimer]], a [[plutonium]] production facility, [[Hanford Site|Hanford]] (in [[Washington (U.S. state)|Washington]]), and a [[Enriched uranium|uranium enrichment]] facility, [[Oak Ridge National Laboratory|Oak Ridge]] (in [[Tennessee]]).  . 
+
+By investing heavily both in breeding plutonium in early [[nuclear reactor]]s, and in both the electromagnetic and gaseous diffusion enrichment processes for the production of [[uranium-235]], the United States was able by mid-1945 to develop three usable weapons. A plutonium-[[Nuclear weapon design|implosion design]] weapon was tested on 16 July 1945 ("[[Trinity test|Trinity]]"), with around a 20 [[kiloton]] yield. On the orders of President [[Harry S. Truman]], on 6 August of the same year a uranium-[[Nuclear weapons design|gun design]] bomb ("[[Little Boy]]") was [[Atomic bombings of Hiroshima and Nagasaki|used against]] the city of [[Hiroshima, Japan]], and on 9 August a plutonium-implosion design bomb ("[[Fat Man]]") was used against the city of [[Nagasaki, Nagasaki|Nagasaki]], [[Japan]]. The two weapons killed approximately 250,000 Japanese civilians outright, and thousands more have died over the years from [[radiation sickness]] and related [[cancer]]s.  . 
+
+===During the Cold War===. 
+Between 1945 and 1990, more than 70,000 total warheads were developed, in over 65 different varieties, ranging in yield from around .01 kilotons (such as the man-portable [[Davy Crockett (nuclear device)|Davy Crockett shell]]) to the 25 megaton [[B41 nuclear bomb|B41 bomb]]. <ref name="Brookings">Brookings Institution, "50 Facts About Nuclear Weapons", at http://www.brook.edu/FP/PROJECTS/NUCWCOST/50.HTM</ref> . 
+
+Between 1940 and 1996, the U.S. spent at least ${{Format price|{{Inflation|US|5821000000000|1996|r=3}}}} in present day terms{{Inflation-fn|US}} on nuclear weapons development. Over half was spent on building delivery mechanisms for the weapon. ${{Format price|{{Inflation|US|365000000000|1996|r=3}}}} in present day terms was spent on [[Radioactive waste|nuclear waste]] management and environmental remediation. <ref name="brook" /> . 
+
+===Post–Cold War===. 
+After the end of the [[Cold War]] following the [[History of the Soviet Union (1985–1991)#Yeltsin and the dissolution of the USSR|dissolution]] of the [[Soviet Union]] in 1991, the U.S. nuclear program was heavily curtailed, halting its program of nuclear testing, ceasing in the production of new nuclear weapons, and reducing its stockpile by half by the mid-1990s under President [[Bill Clinton]]. Many of its former nuclear facilities were shut down, and their sites became targets of extensive environmental remediation. Much of the former efforts towards the production of weapons became involved in the program of [[stockpile stewardship]], attempting to predict the behavior of aging weapons without using full-scale nuclear testing. Increased funding also was put into anti-[[nuclear proliferation]] programs, such as helping the states of the former Soviet Union eliminate their former nuclear sites, and assist [[Russia]] in their efforts to inventory and secure their inherited nuclear stockpile. As of February 2006, over [[United States dollar|$]]1.2 billion were paid under the [[Radiation Exposure Compensation Act]] of 1990 to U.S. citizens exposed to nuclear hazards as a result of the U.S. nuclear weapons program, and by 1998 at least $759 million was paid to the [[Marshall Islands|Marshallese Islanders]] in compensation for their exposure to U.S. nuclear testing, and over $15 million was paid to the [[Politics of Japan|Japanese government]] following the exposure of its citizens and food supply to [[nuclear fallout]] from the 1954 [[Bravo test|"Bravo" test]]. <ref name="Brookings"/><ref name="usdoj" /> . 
+
+In 1998, the country spent an estimated total of $35,100,000,000 on its nuclear weapons and weapons -related programs. <ref>[http://www.brookings.edu/projects/archive/nucweapons/50.aspx 50 Facts About U.S. Nuclear Weapons - Brookings Institution]</ref> . 
+
+During the presidency of [[George W. Bush]], and especially after the 11 September [[Terrorism|terrorist]] [[September 11, 2001 attacks|attacks]] of 2001, rumors have circulated in major news sources that the U.S. has been considering design of new nuclear weapons ("bunker-busting nukes"), and potentially the resumption of nuclear testing for reasons of stockpile stewardship, and non-nuclear missile defense has received additional funding as well. Statements by the U.S. government in 2004, however, imply that by 2012 the arsenal will drop to around 5,500 total warheads. <ref>{{cite journal |first=Robert S. |last=Norris |coauthors=[[Hans M. Kristensen]] |month=September/October |year=2007 |title=The U.S. stockpile, today and tomorrow |url=http://thebulletin.metapress.com/content/3605g0m20h18877w/fulltext.pdf |journal=[[Bulletin of the Atomic Scientist]] |volume=63 |issue=5 |pages=60–63 |doi=10.2968/063005013 |accessdate=5 May 2009}} {{dead link|date=November 2010}}</ref> According to recent reports, much of that reduction was already accomplished by January 2008. <ref name="USforces2008">{{cite journal |first=Robert S. |last=Norris |coauthors=[[Hans M. Kristensen]] |month=March/April |year=2008 |title=U.S. nuclear forces, 2008 |url=http://thebulletin.metapress.com/content/pr53n270241156n6/fulltext.pdf |journal=[[Bulletin of the Atomic Scientists]] |volume=64 |issue=1 |pages=50–53 |doi=10.2968/064001012 |accessdate=5 May 2009}} {{dead link|date=November 2010}}</ref> . 
+
+==Nuclear weapons testing==. 
+{{Main|Nuclear weapons testing}}
+{{See also|List of nuclear weapons tests of the United States}}
+[[File:Exercise Desert Rock I (Buster-Jangle Dog) 002.jpg|right|thumb|The U.S. conducted hundreds of [[Nuclear testing|nuclear tests]] at the [[Nevada Test Site]].]] . 
+
+Between 16 July 1945 and 23 September 1992, the United States maintained a program of vigorous [[nuclear testing]], with the exception of a moratorium between November 1958 and September 1961. A total of (by official count) 1,054 nuclear tests and two nuclear attacks were conducted, with over 100 of them taking place at sites in the [[Pacific Ocean]], over 900 of them at the [[Nevada]] [[Nevada Test Site|Test Site]], and ten on miscellaneous sites in the United States ([[Alaska]], [[Colorado]], [[Mississippi]], and [[New Mexico]]). <ref>Carey Sublette, "Gallery of U.S. Nuclear Tests", online at http://nuclearweaponarchive.org/Usa/Tests/</ref> Until November 1962, the vast majority of the U.S. tests were atmospheric (that is, above-ground); after the acceptance of the [[Partial Test Ban Treaty]] all testing was regulated underground, in order to prevent the dispersion of [[nuclear fallout]].  . 
+
+The U.S. program of atmospheric nuclear testing exposed a number of the population to the hazards of fallout. Estimating exact numbers, and the exact consequences, of people exposed has been medically very difficult, with the exception of the high exposures of Marshallese Islanders and Japanese fisherman in the case of the [[Castle Bravo]] incident in 1954. A number of groups of U.S. citizens&nbsp;— especially farmers and inhabitants of cities downwind of the Nevada Test Site and U.S. military workers at various tests&nbsp;— have sued for compensation and recognition of their exposure, many successfully. The passing of the [[Radiation Exposure Compensation Act]] of 1990 allowed for a systematic filing of compensation claims in relation to testing as well as those employed at nuclear weapons facilities. As of June 2009 over $1.4 billion dollars total has been given in compensation, with over $660 million going to "[[downwinders]]". <ref>[http://www.usdoj.gov/civil/omp/omi/Tre_SysClaimsToDateSum.pdf Radiation Exposure Compensation System: Claims to Date Summary of Claims Received by 06/11/2009]</ref> . 
+
+A few notable U.S. nuclear tests include:
+[[File:Crossroads baker explosion.jpg|right|thumb|Shot "Baker" of [[Operation Crossroads]] (1946) was the first underwater nuclear explosion.]]
+* The [[Trinity test|Trinity]] test on 16 July 1945, was the first-ever test of a nuclear weapon (yield of around 20 kt). 
+* The [[Operation Crossroads]] series in July 1946, was the first postwar test series and one of the largest military operations in U.S. history. 
+* The [[Operation Greenhouse]] shots of May 1951 included the first [[boosted fission weapon]] test ("Item") and a scientific test which proved the feasibility of thermonuclear weapons ("George"). 
+* The [[Ivy Mike]] shot of 1 November 1952, was the first full test of a [[Teller-Ulam design]] "staged" hydrogen bomb, with a yield of 10 megatons. It was not a deployable weapon, however&nbsp;— with its full [[cryogenic]] equipment it weighed some 82 tons. 
+* The [[Castle Bravo]] shot of 1 March 1954, was the first test of a deployable (solid fuel) thermonuclear weapon, and also (accidentally) the largest weapon ever tested by the United States (15 megatons). It was also the single largest U.S. radiological accident in connection with nuclear testing. The unanticipated yield, and a change in the weather, resulted in [[nuclear fallout]] spreading eastward onto the inhabited [[Rongelap Atoll|Rongelap]] and [[Rongerik Atoll|Rongerik]] atolls, which were soon evacuated. Many of the [[Marshall Islands]] natives have since suffered from [[Congenital disorder|birth defects]] and have received some compensation from the [[Federal government of the United States|federal government]]. A [[Japan]]ese fishing boat, the ''[[Daigo Fukuryū Maru|Fifth Lucky Dragon]]'', also came into contact with the fallout, which caused many of the crew to grow ill; one eventually died. 
+* Shot Argus I of [[Operation Argus]], on 27 August 1958, was the first detonation of a nuclear weapon in [[outer space]] when a 1.7-kiloton warhead was detonated at 200 kilometers' altitude during a series of [[high altitude nuclear explosion]]s. 
+* Shot Frigate Bird of [[Operation Dominic I and II|Operation Dominic I]] on 6 May 1962, was the only U.S. test of an operational [[ballistic missile]] with a live nuclear warhead (yield of 600 kilotons), at [[Christmas Island]]. In general, missile systems were tested without live warheads and warheads were tested separately for safety concerns. In the early 1960s, however, there mounted technical questions about how the systems would behave under combat conditions (when they were "mated", in military parlance), and this test was meant to dispel these concerns. However, the warhead had to be somewhat modified before its use, and the missile was only a [[Submarine-launched ballistic missile|SLBM]] (and not an [[Intercontinental ballistic missile|ICBM]]), so by itself it did not satisfy all concerns. <ref>{{cite book |first=Donald A. |last=MacKenzie |authorlink=Donald A. MacKenzie |year=1993 |title=Inventing Accuracy: A Historical Sociology of Nuclear Missile Guidance |location=[[Cambridge, Massachusetts]] |publisher=[[MIT Press]] |isbn=978-0-262-63147-1|pages=[http://books.google.com/books?id=QymEXZIWEe8C&pg=PA343 343–344]}}</ref>
+* Shot [[Sedan (nuclear test)|Sedan]] of [[Operation Storax]] on 6 July 1962 (yield of 104 kilotons), was an attempt at showing the feasibility of using nuclear weapons for "civilian" and "peaceful" purposes as part of [[Operation Plowshare]]. In this instance, a 1280-feet-in-diameter and 320-feet-deep [[Subsidence crater|crater]] was created at the Nevada Test Site.  . 
+
+==Delivery systems==. 
+{{Main|Nuclear weapons delivery}}
+[[File:Fat man.jpg|right|thumb|Early weapons models, such as the "[[Fat Man]]" bomb, were extremely large and difficult to use.]] . 
+
+The original weapons ("[[Little Boy]]" and "[[Fat Man]]") developed by the United States during the [[Manhattan Project]] were relatively large (the latter had a diameter of 5&nbsp;feet) and heavy (around 5 tons each) weapons which required specially modified bomber planes to be adapted for their bombing missions against Japan, each of which could only carry one such weapon and only within a limited range. After these initial weapons, a considerable amount of money and research was conducted towards the goal of standardizing ("G.I. proofing") nuclear warheads (so that they did not require highly specialized experts to assemble them before use, as in the case with the idiosyncratic wartime devices) and miniaturization of the warheads for use in more variable delivery systems.  . 
+
+Through the aid of brainpower acquired through [[Operation Paperclip]] at the tail end of the European branch of [[World War II]], the United States was able to embark on an ambitious program in [[rocket]]ry. One of the first products of this was the development of rockets capable of holding nuclear warheads. The [[MGR-1 Honest John]] was the first of such weapons, developed in 1953 as a surface-to-surface missile with a 15&nbsp;mile/25&nbsp;kilometer maximum range. Because of their limited range, their potential use was heavily constrained (they could not, for example, threaten [[Moscow]] with an immediate strike).  . 
+
+[[File:MGR-1 Honest John rocket.jpg|right|thumb|The [[MGR-1 Honest John]] was the first nuclear-tipped [[rocket]] developed by the U.S. in 1953.]]
+[[File:Convair B-36 Peacemaker.jpg|right|thumb|The B-36 Peacemaker in flight]] . 
+
+Development of long-range bombers, such as the [[B-29 Superfortress]], during World War II was continued during the [[Cold War]] period. In 1946, the [[Convair B-36| Convair B-36 Peacemaker]] was the first purpose-built nuclear bomber, it served with the USAF until 1959. The [[B-52 Stratofortress]] in particular was able by the mid-1950s to carry a wide arsenal of nuclear bombs, each with different capabilities and potential use situations. Starting in 1946, the U.S. based its initial deterrence force on the [[Strategic Air Command]], which, by the late 1950s maintained a number of nuclear-armed bombers in the sky at all times, prepared to receive orders to attack the USSR whenever needed. This system was, however, tremendously expensive, both in terms of natural and human resources, and raised the possibility of an accidental nuclear war.  . 
+
+During the 1950s and 1960s, elaborate computerized early warning systems such as [[Defense Support Program]] were developed to detect incoming Soviet attacks and to coordinate response strategies. During this same period, [[intercontinental ballistic missile]] (ICBM) systems were developed which could deliver a nuclear payload across vast distances, allowing the U.S. to house nuclear forces capable of hitting the Soviet Union in the [[Midwestern United States|American Midwest]]. Shorter-range weapons, including small "tactical" weapons, were fielded in [[Europe]] as well, including [[nuclear artillery]] and man-portable [[Special Atomic Demolition Munition]]. The development of [[submarine launched ballistic missile]] (SLBM) systems allowed for hidden [[nuclear submarines]] to covertly launch missiles at distant targets as well, making it virtually impossible for the Soviet Union to successfully launch a [[first strike]] attack against the United States which would not guarantee a deadly response.  . 
+
+Improvements in warhead miniaturization in the 1970s and 1980s allowed for the development of MIRVs&nbsp;— missiles which could carry multiple warheads, each of which could be separately targetable. The question of whether these missiles should be based on constantly rotating train tracks (so as to avoid being easily targeted by opposing Soviet missiles) or based in heavily fortified silos (to possibly withstand a Soviet attack) was a major political controversy in the 1980s (eventually the silos won out). MIRVed systems allowed the U.S. to make the Soviet missile defense economically unfeasible, as each offensive missile would require between three and ten defensive missiles to counter.  . 
+
+Additional developments in weapons delivery included [[cruise missile]] systems, which allowed a plane to fire a long-distance, low-flying nuclear-tipped missile towards a target from a relatively comfortable distance. This innovation would make missile defense additionally difficult, if not impossible.  . 
+
+[[File:Nuclear weapon size chart.jpg|center|Comparing the size of U.S. nuclear weapons over time.]] . 
+
+The current delivery systems of the U.S. makes virtually any part of the Earth's surface within the reach of its nuclear arsenal. Though its land-based missile systems have a maximum range of 10,000&nbsp;kilometers (less than worldwide), its submarine-based forces extend its reach from a coastline 12,000&nbsp;kilometers inland. Additionally, [[Aerial refueling|in-flight refueling]] of long-range bombers and the use of [[aircraft carrier]]s extends the possible range virtually indefinitely.  . 
+
+==Accidents==. 
+{{unreferenced section|date=October 2011}} . 
+
+{{Main|Nuclear and radiation accidents}}
+[[File:Bravo fallout2.png|right|thumb|The [[Castle Bravo]] [[Nuclear fallout|fallout]] plume spread dangerous levels of radioactive material over an area over {{convert|100|mi|km}} long, including inhabited islands, in the largest single U.S. nuclear accident.]] . 
+
+The United States nuclear program has, since its inception, suffered from a number of accidents of varying forms, ranging from single-casualty research experiments (such as that of [[Louis Slotin]] during the [[Manhattan Project]]), to the [[nuclear fallout]] dispersion of the [[Castle Bravo]] shot in 1954, to the accidental dropping of nuclear weapons from aircraft ("[[Broken Arrow (nuclear)|broken arrows]]"). How close any of these accidents came to being "major" nuclear disasters is a matter of technical and scholarly debate and interpretation.  . 
+
+Weapons accidentally dropped by the United States include incidents near [[Atlantic City, New Jersey|Atlantic City]], [[New Jersey]] (1957), [[Savannah, Georgia]] (1958) (see [[Tybee Bomb]]), [[Goldsboro, North Carolina]] (1961), off the coast of [[Okinawa]] (1965), in the sea near [[Palomares, Almería|Palomares]], [[Spain]] (1966, see [[1966 Palomares B-52 crash]]), and near [[Thule Air Base]], [[Greenland]] (1968) (see [[1968 Thule Air Base B-52 crash]]). In some of these cases (such as Palomares), the explosive system of the fission weapon discharged, but did not trigger a [[nuclear chain reaction]] (safety features prevent this from easily happening), but did disperse hazardous nuclear materials across wide areas, necessitating expensive cleanup endeavors. Eleven American nuclear warheads are thought <ref name="Brookings"/> to be lost and unrecovered, primarily in [[submarine]] accidents.  . 
+
+The nuclear testing program resulted in a number of cases of fallout dispersion onto populated areas. The most significant of these was the ''Castle Bravo'' test, which spread radioactive ash over an area of over one hundred square miles, including a number of populated islands. The populations of the islands were evacuated but not before suffering radiation burns. They would later suffer long-term effects, such as birth defects and increased cancer risk. There were also instances during the nuclear testing program in which soldiers were exposed to overly high levels of radiation, which grew into a major scandal in the 1970s and 1980s, as many soldiers later suffered from what were claimed to be diseases caused by their exposures.  . 
+
+Many of the former nuclear facilities (see next section) produced significant environmental damages during their years of activity, and since the 1990s have been [[Superfund]] sites of cleanup  and environmental remediation. The [[Radiation Exposure Compensation Act]] of 1990 allows for U.S. citizens exposed to radiation or other health risks through the U.S. nuclear program to file for compensation and damages.  . 
+
+==Development agencies==. 
+[[File:US Atomic Energy Commission logo.jpg|thumb|right|The [[United States]] [[United States Atomic Energy Commission|Atomic Energy Commission]] (1946-1974) managed the U.S. nuclear program after the [[Manhattan Project]].]]
+The initial U.S. nuclear program was run by the [[National Institute of Standards and Technology|National Bureau of Standards]] starting in 1939 under the edict of [[President of the United States|President]] [[Franklin Delano Roosevelt]]. Its primary purpose was to delegate research and dispense of funds. In 1940 the [[National Defense Research Committee]] (NDRC) was established, coordinating work under the Committee on Uranium among its other wartime efforts. In June 1941, the [[Office of Scientific Research and Development]] (OSRD) was established, with the NDRC as one of its subordinate agencies, which enlarged and renamed the Uranium Committee as the [[S-1 Uranium Committee|Section on Uranium]]. In 1941, NDRC research was placed under direct control of [[Vannevar Bush]] as the OSRD S-1 Section, which attempted to increase the pace of weapons research. In June 1942, the [[United States Army Corps of Engineers|U.S. Army Corps of Engineers]] took over the project to develop atomic weapons, while the OSRD retained responsibility for scientific research. <ref>{{cite web|url=http://www.amphilsoc.org/library/mole/s/smythoverview.htm |title=Henry DeWolf Smyth Papers, American Philosophical Society |publisher=Amphilsoc.org |date= |accessdate=2009-06-21|archiveurl = http://web.archive.org/web/20080511094050/http%3A//www.amphilsoc.org/library/mole/s/smythoverview.htm |archivedate = May 11, 2008|deadurl=yes}}</ref> . 
+
+This was the beginning of the [[Manhattan Project]], run as the Manhattan Engineering District (MED), an agency under military control which was in charge of developing the first atomic weapons. After [[World War II]], the MED maintained control over the U.S. arsenal and production facilities and coordinated the [[Operation Crossroads]] tests. In 1946 after a long and protracted debate, the [[Atomic Energy Act of 1946|Atomic Energy Act]] was passed, creating the [[United States Atomic Energy Commission|Atomic Energy Commission]] (AEC) as a civilian agency which would be in charge of the production of nuclear weapons and research facilities, funded through Congress, with oversight provided by the Joint Committee on Atomic Energy. The AEC was given vast powers of control over secrecy, research, and money, and could seize lands with suspected uranium deposits. Along with its duties towards the production and regulation of nuclear weapons, it additionally was in charge of stimulating development in civilian nuclear power while also regulating its safety uses. The full transference of activities was finalized in January 1947. <ref>{{cite web|url=http://www.ch.doe.gov/html/site_info/atomic_energy.htm |title=DOE Office of Science&nbsp;— Chicago Office |publisher=Ch.doe.gov |date= |accessdate=2009-06-21}}</ref> . 
+
+In 1975, following the "energy crisis" of the early 1970s and public and congressional discontent with the AEC (in part because of the impossibility to be both a producer and a regulator), it was disassembled into component parts as the Energy Research and Development Administration (ERDA), which assumed most of the AEC's former production, coordination, and research roles, and the [[Nuclear Regulatory Commission]], which assumed its civilian regulation activities. <ref>{{cite web|url=http://www.ch.doe.gov/html/site_info/energy_research.htm |title=DOE Office of Science&nbsp;— Chicago Office |publisher=Ch.doe.gov |date= |accessdate=2009-06-21}}</ref> . 
+
+ERDA was short-lived, however, and in 1977 the U.S. nuclear weapons activities were reorganized under the [[United States Department of Energy|Department of Energy]],<ref>{{cite web|url=http://www.ch.doe.gov/html/site_info/department_energy.htm |title=DOE Office of Science&nbsp;— Chicago Office |publisher=Ch.doe.gov |date=2004-04-01 |accessdate=2009-06-21}}</ref> which currently maintains such responsibilities through the semi-autonomous [[National Nuclear Security Administration]] today. Some functions have also been taken over or shared by the [[United States Department of Homeland Security|Department of Homeland Security]] in 2002. The already-built weapons themselves are in the control of the [[United States Strategic Command|Strategic Command]], which is part of the [[United States Department of Defense|Department of Defense]].  . 
+
+In general, these agencies served to coordinate research and build sites. They generally operated their sites through contractors, however, both private and public (for example, [[Union Carbide]], a private company, ran [[Oak Ridge National Laboratory]] for many decades; the [[University of California]], a public educational institution, has run the [[Los Alamos National Laboratory|Los Alamos]] and [[Lawrence Livermore National Laboratory|Lawrence Livermore]] laboratories since their inception, and will joint-manage Los Alamos with the private company [[Bechtel]] as of its next contract). Funding was received both through these agencies directly, but also from additional outside agencies, such as the Department of Defense. Each branch of the military also maintained its own nuclear-related research agencies (generally related to delivery systems).  . 
+
+==Weapons production complex==. 
+This table is not comprehensive, as numerous facilities throughout the United States have contributed to its nuclear weapons program. It includes the major sites related ''primarily'' to the U.S. weapons program (past and present), their basic site functions, and their current status of activity. Not listed are the many bases and facilities at which nuclear weapons have been deployed. In addition to deploying weapons on its own soil, during the [[Cold War]] the United States also stationed nuclear weapons in 27 foreign countries and territories, including [[Okinawa]], [[Japan]] (during the occupation immediately following WWII)), [[Greenland]], [[Germany]], [[Taiwan]], and [[French Morocco]] then [[Morocco|independent Morocco]]. <ref>{{cite web|publisher=National Security Archive|date=1999-10-20|title=United States Secretly Deployed Nuclear Bombs In 27 Countries and Territories During Cold War|url=http://www.gwu.edu/~nsarchiv/news/19991020/index.html|accessdate=2006-08-06}}</ref> . 
+
+{| class="wikitable" style="background:white;"
+. |- style="background:#efefef;"
+! Site name
+! Location
+! Function
+! Status
+. |-
+||[[Los Alamos National Laboratory]]
+||[[Los Alamos, New Mexico|Los Alamos]], [[New Mexico]]
+||Research, Design, Pit Production
+||Active
+. |-
+||[[Lawrence Livermore National Laboratory]]
+||[[Livermore, California|Livermore]], [[California]]
+||Research and design
+||Active
+. |-
+||[[Sandia National Laboratories]]
+||[[Livermore, California|Livermore]], [[California]]; [[Albuquerque, New Mexico|Albuquerque]], [[New Mexico]]
+||Research and design
+||Active
+. |-
+||[[Hanford Site]]
+||[[Richland, Washington]]
+||Material production ([[Plutonium]])
+||Not active, [[environmental remediation|remediation]]
+. |-
+||[[Oak Ridge National Laboratory]]
+||[[Oak Ridge, Tennessee|Oak Ridge]], [[Tennessee]]
+||Material production ([[Uranium-235]], fusion fuel), research
+||Active to some extent
+. |-
+||[[Y-12 National Security Complex]]
+||[[Oak Ridge, Tennessee|Oak Ridge]], [[Tennessee]]
+||Component fabrication, [[stockpile stewardship]], [[uranium]] storage
+||Active
+. |-
+||[[Nevada Test Site]]
+||Near [[Las Vegas, Nevada|Las Vegas]], [[Nevada]]
+||[[Nuclear testing]] and [[nuclear waste]] disposal
+||No nuclear tests since 1992, engaged in waste disposal
+. |-
+||[[Yucca Mountain nuclear waste repository|Yucca Mountain]]
+||[[Nevada Test Site]]
+||Waste disposal (primarily power reactor)
+||Pending
+. |-
+||[[Waste Isolation Pilot Plant]]
+||East of [[Carlsbad, New Mexico|Carlsbad]], [[New Mexico]]
+||Radioactive waste from nuclear weapons production
+||Active
+. |-
+||[[Pacific Proving Grounds]]
+||[[Marshall Islands]]
+||Nuclear testing
+||Not active, last test in 1962
+. |-
+||[[Rocky Flats Plant]]
+||Near [[Denver, Colorado|Denver]], [[Colorado]]
+||Components fabrication
+||Not active, [[environmental remediation|remediation]]
+. |-
+||[[Pantex]]
+||[[Amarillo, Texas|Amarillo]], [[Texas]]
+||Weapons assembly, disassembly, pit storage
+||Active, esp. disassembly
+. |-
+||[[Fernald Feed Materials Production Center|Fernald Site]]
+||Near [[Cincinnati, Ohio|Cincinnati]], [[Ohio]]
+||Material fabrication ([[Uranium-235]])
+||Not active, [[environmental remediation|remediation]]
+. |-
+||[[Paducah Gaseous Diffusion Plant|Paducah Plant]]
+||[[Paducah, Kentucky|Paducah]], [[Kentucky]]
+||Material production ([[Uranium-235]])
+||Active (commercial use)
+. |-
+||[[Portsmouth Gaseous Diffusion Plant|Portsmouth Plant]]
+||Near [[Portsmouth, Ohio|Portsmouth]], [[Ohio]]
+||Material fabrication ([[Uranium-235]])
+||Active, (centrifuge), but not for weapons production
+. |-
+||[[Kansas City Plant]]
+||[[Kansas City, Missouri|Kansas City]], [[Missouri]]
+||Component production
+||Active
+. |-
+||[[Mound Laboratories|Mound Plant]]
+||[[Miamisburg, Ohio|Miamisburg]], [[Ohio]]
+||Research, component production, [[Tritium]] purification
+||Not active, [[environmental remediation|remediation]]
+. |-
+||[[Pinellas Plant]]
+||[[Largo, Florida|Largo]], [[Florida]]
+||Manufacture of electrical components
+||Active, but not for weapons production
+. |-
+||[[Savannah River Site]]
+||Near [[Aiken, South Carolina|Aiken]], [[South Carolina]]
+||Material production ([[Plutonium]], [[Tritium]])
+||Active (limited operation), [[environmental remediation|remediation]]
+. |-
+| colspan="4" style="text-align:center;"|[[File:US nuclear sites map.svg|550px|Map of major nuclear sites in the [[Continental United States|contiguous U.S.]] Grayed-out sites are not currently active.]]
+|} . 
+
+==Proliferation==. 
+{{Main|Nuclear proliferation}}
+Early on in the development of its nuclear weapons, the United States relied in part on information-sharing with both the [[United Kingdom]] and [[Canada]], as codified in the [[Quebec Agreement]] of 1943. These three parties agreed not to share nuclear weapons information with other countries without the consent of the others, an early attempt at [[Nuclear proliferation|nonproliferation]]. After the development of the first nuclear weapons during [[World War II]], though, there was much debate within the political circles and public sphere of the United States about whether or not the country should attempt to maintain a [[monopoly]] on [[nuclear technology]], or whether it should undertake a program of information sharing with other nations (especially its former ally and likely competitor, the [[Soviet Union]]), or submit control of its weapons to some sort of international organization (such as the [[United Nations]]) who would use them to attempt to maintain [[world peace]]. Though fear of a [[nuclear arms race]] spurred many politicians and scientists to advocate some degree of international control or sharing of nuclear weapons and information, many politicians and members of the military believed that it was better in the short term to maintain high standards of nuclear [[secrecy]] and to forestall a Soviet bomb as long as possible (and they did not believe the USSR would actually submit to international controls in good faith).  . 
+
+[[File:Atoms for Peace stamp.jpg|right|frame|The [[Atoms for Peace]] program distributed nuclear technology, materials, and know-how to many less technologically advanced countries.]] . 
+
+Since this path was chosen, the United States was, in its early days, essentially an advocate for the prevention of [[nuclear proliferation]], though primarily for the reason originally of self-preservation. A few years after the USSR detonated its first weapon in 1949, though, the U.S. under President [[Dwight D. Eisenhower]] sought to encourage a program of sharing nuclear information related to civilian [[nuclear power]] and [[nuclear physics]] in general. The [[Atoms for Peace]] program, begun in 1953, was also in part political: the U.S. was better poised to commit various scarce resources, such as [[enriched uranium]], towards this peaceful effort, and to request a similar contribution from the Soviet Union, who had far fewer resources along these lines; thus the program had a strategic justification as well, as was later revealed by internal memos. This overall goal of promoting civilian use of nuclear energy in other countries, while also preventing weapons dissemination, has been labeled by many critics as contradictory and having led to lax standards for a number of decades which allowed a number of other nations, such as [[India]], to profit from [[dual-use technology]] (purchased from nations other than the U.S.).  . 
+
+The United States is one of the five "nuclear weapons states" permitted to maintain a nuclear arsenal under the [[Nuclear Non-Proliferation Treaty]], of which it was an original signatory on 1 July 1968 (ratified 5 March 1970).  . 
+
+The [[Nunn-Lugar Cooperative Threat Reduction|Cooperative Threat Reduction]] program of the [[Defense Threat Reduction Agency]] was established after the breakup of the Soviet Union in 1991 to aid former Soviet bloc countries in the inventory and destruction of their sites for developing nuclear, chemical, and biological weapons, and their methods of delivering them (ICBM silos, long range bombers, etc.). Over $4.4 billion has been spent on this endeavor to prevent purposeful or accidental proliferation of weapons from the former Soviet arsenal. <ref>[http://www.dtra.mil/press_resources/fact_sheets/display.cfm?fs=ctr] {{Dead link|date=May 2008}}</ref> . 
+
+After [[India]] and [[Pakistan]] tested nuclear weapons in 1998, President [[Bill Clinton]] imposed [[economic sanctions]] on the countries. In 1999, however, the sanctions against India were lifted; those against Pakistan were kept in place as a result of the military government which had taken over. Shortly after the [[September 11, 2001 attacks|September 11 attacks]] in 2001, President [[George W. Bush]] lifted the sanctions against Pakistan as well, in order to get the Pakistani government's help as a conduit for US and NATO forces for [[War in Afghanistan (2001–present)|operations in Afghanistan]].  . 
+
+The U.S. government has officially taken a silent policy towards the nuclear weapons ambitions of the state of [[Israel]], while being exceedingly vocal against proliferation of such weapons in the countries of [[Iran]] and [[North Korea]]. The same critics point out the fact that it is violating its own non-proliferation treaties in the pursuit of so-called [[nuclear bunker buster]]s. The [[2003 invasion of Iraq]] by the U.S. was done, in part, on accusations of weapons development, and the [[George W. Bush administration|Bush administration]] has said that its policies on proliferation were responsible for the [[Libya]]n [[Politics of Libya|government]]'s agreement to abandon its nuclear ambitions. <ref>{{cite web|url=http://georgewbush-whitehouse.archives.gov/news/releases/2003/12/20031219-9.html |title=President Bush: Libya Pledges to Dismantle WMD Programs |publisher=Georgewbush-whitehouse.archives.gov |date=2003-12-19 |accessdate=2009-06-21}}</ref> . 
+
+IAEA proposed 2005 a ban on fissile material that would greatly limit the production of weapons of mass destruction. 147 countries voted for this proposal but the United States voted against.  . 
+
+==International relations and nuclear weapons==. 
+In 1958, the United States Air Force had considered a plan to drop nuclear bombs on [[China]] during a confrontation over [[Taiwan]]  but it was overruled, previously secret documents showed after they were declassified due to the [[Freedom of Information Act]] in April 2008. The plan included an initial plan to drop 10-15 kiloton bombs on airfields in Amoy (now called [[Xiamen]]) in the event of a Chinese blockade against Taiwan's Offshore Islands. <ref>{{cite web|author=Apr 30, 2008 |url=http://afp.google.com/article/ALeqM5jujIhYgbkZqmcHmmcXzVQiivkwVA |title=US Air Force planned nuclear strike on China over Taiwan: report |publisher=Afp.google.com |date=2008-04-30 |accessdate=2009-06-21}}</ref> . 
+
+==Occupational illness==. 
+The Energy Employees Occupational Illness Compensation Program (EEOICP) began on July 31, 2001. The program provides compensation and health benefits to Department of Energy nuclear weapons workers (employees, former employees, contractors and subcontractors) as well as compensation to certain survivors if the worker is already deceased. <ref>[http://www.dol.gov/owcp/energy/index.htm Energy Employees Occupational Illness Compensation Program]</ref>  As of August 14, 2010, the program had already identified 45,799 civilians who lost their health (including 18,942 who developed cancer) due to exposure to radiation and toxic substances while producing  nuclear weapons for the United States. <ref>[http://www.dol.gov/owcp/energy/regs/compliance/weeklystats.htm EEOICPA Combined Program Statistics]</ref> . 
+
+==Status as of 2006== . 
+
+As of 2006, the United States was believed to maintain an arsenal of around 9,960 intact warheads, of which 5,735 were considered active or operational, and of these only a certain number were deployed at any given time. These broke down into 5,021 "strategic" warheads, 1,050 of which were deployed on land-based missile systems (all on [[Minuteman missile|Minuteman]] ICBMs), 1,955 on bombers ([[B-52 Stratofortress|B-52]], [[B-1 Lancer|B-1B]], and [[B-2 Spirit|B-2]]), and 2,016 on submarines ([[Ohio class submarine|''Ohio'' class]]), according to a 2006 report by the [[Natural Resources Defense Council]]. <ref>{{cite journal |first=Robert S. |last=Norris |coauthors=[[Hans M. Kristensen]] |month=January/February |year=2006 |title=U.S. nuclear forces, 2006  |url=http://thebulletin.metapress.com/content/j8v4421j728q2v76/fulltext.pdf |journal=[[Bulletin of the Atomic Scientists]] |volume=62 |issue=1 |pages=68–71 |doi=10.2968/062001020 |accessdate=5 May 2009}} {{dead link|date=November 2010}}</ref> Of 500 "[[tactical nuclear weapon|tactical]]" "nonstrategic" weapons, around 100 are [[BGM-109 Tomahawk|Tomahawk cruise missiles]] and 400 are [[B61 nuclear bomb|B61 bombs]]. A few hundred of the B61 bombs are located at seven bases in six European [[NATO]] countries ([[Belgium]],<ref name="09BERLIN1433">{{cite web
+| first = Philip D. 
+| last = Murphy
+| title = NATIONAL SECURITY ADVISOR HEUSGEN ON AFGHANISTAN, MIDDLE EAST, IRAN, DETAINEES, RUSSIA, NUKES AND BALKANS
+| url = http://cablegate.wikileaks.org/cable/2009/11/09BERLIN1433.html#par8
+| archiveurl = http://www.webcitation.org/5udZJ4Ro6
+| work = [[Cablegate]]
+| publisher = [[Wikileaks]]
+| date = 12 November 2009
+| archivedate = 30 November 2010
+| accessdate = 30 November 2010
+| quote = a withdrawal of nuclear weapons from Germany and perhaps from Belgium and the Netherlands could make it very difficult politically for Turkey to maintain its own stockpile
+}}</ref> [[Germany]],<ref name=09BERLIN1433/> [[Italy]], the [[Netherlands]],<ref name=09BERLIN1433/> [[Turkey]]<ref name=09BERLIN1433/> and the [[United Kingdom]]), the only such weapons in forward deployment. <ref>{{cite web|publisher=Natural Resources Defense Council|title=United States Still Deploys Some 480 nuclear weapon in Europe, report finds|date=February 9, 2005|accessdate=2006-08-06|url=http://www.nrdc.org/media/pressReleases/050209.asp}}</ref><ref>{{cite web|publisher=Federation of American Scientists|title=United States Removes Nuclear Weapons From German Base, Documents Indicate|accessdate=2007-07-10|url=http://www.fas.org/blog/ssp/2007/07/united_states_removes_nuclear.php}}</ref> The United States has considered withdrawing these nuclear weapons. <ref name=Zaman>"[http://www.todayszaman.com/tz-web/news-206266-report-us-considers-withdrawing-nuclear-bombs-from-turkey.html Report: US considers withdrawing nuclear bombs from Turkey]," [[Today's Zaman]]. April 03, 2010. </ref> According to one source, the quantity of the B61 nuclear bombs is 200 in five of the six countries (excluding the United Kingdom), including 80 bombs deployed at the [[Incirlik Air Base]] in Turkey. <ref name=Zaman/> . 
+
+Around 4,225 warheads have been removed from deployment but have remained stockpiled as a "responsible reserve force" on inactive status. Under the May 2002 Treaty on Strategic Offensive Reductions ("SORT"), the U.S. pledged to reduce its stockpile to 2,200 operationally deployed warheads by 2012, and in June 2004 the [[United States Department of Energy|Department of Energy]] announced that "almost half" of these warheads would be retired or dismantled by then. <ref>{{cite web|url=http://www.nti.org/e_research/profiles/USA/index.html|title=Country Overview: United States: Profile|publisher=Nuclear Threat Initiative|month=May | year=2006|accessdate=2006-08-06}}</ref> . 
+
+A 2001 [[nuclear posture review]] published by the [[George W. Bush administration|Bush administration]] called for a reduction in the amount of time needed to test a nuclear weapon, and for discussion on possible development in new nuclear weapons of a low-yield, "bunker-busting" design (the [[Nuclear bunker buster|Robust Nuclear Earth Penetrator]]). Work on such a design had been banned by [[United States Congress|Congress]] in 1994, but the banning law was repealed in 2003 at the request of the [[United States Department of Defense|Department of Defense]]. The [[United States Air Force|Air Force]] [[Air Force Research Laboratory|Research Laboratory]] researched the concept, but the [[United States Congress]] canceled funding for the project in October 2005 at the [[National Nuclear Security Administration]]'s request. According to [[Fred T. Jane]]'s [[Jane's Information Group|Information Group]], the program could still continue in 2006 under a new name.  . 
+
+In 2006, the Bush administration also proposed the [[Reliable Replacement Warhead]] program and initiated its design and development.  The program, intended to produce a simple, reliable, long-lasting, and low-maintenance future nuclear force for the United States, encountered opposition due to the obligations of the United States under Article VI of the [[Nuclear Non-Proliferation Treaty]], which the United States has signed, ratified, and is bound by, and which obligates the five nuclear weapons states who are bound by it (of which the United States is such a state) to work in good faith towards [[nuclear disarmament]].  . 
+
+The Reliable Replacement Warhead was designed to replace the aging W76 warhead currently in a life-extension program. It was to incorporate a well-tested and verified primary SKUA9 and a new fusion secondary. The device would be built much much more robustly than its predecessors and should require longer periods between service and replacement. It will use [[insensitive high explosive]]s, which are virtually impossible to detonate without the right mechanism. The new insensitive explosives can hit a concrete wall at Mach 4 and still not detonate. The device would also use a heavy [[radiation protection|radiation case]] for reliability. Since this weapon will supposedly never be tested via detonation, as has every weapon presently in the US arsenal, some fear that either the weapon will not be reliable, or will require testing to confirm its reliability, breaking the [[moratorium (law)|moratorium]] that has been observed by the recognized [[nuclear powers]] (the recognized nuclear powers include the US, Russia, the UK, the PRC, and France; they do not include the generally-recognized but undeclared Israel, nor the declared but unrecognized India, Pakistan, and North Korea) and was disliked by several elements of the Bush Administration, who believed nuclear tests ought to be conducted routinely; indeed, the Reliable Replacement Warhead was seen as the first step in the implementation of the US nuclear weapons laboratories' plan, called "[[Complex 2030]]", to rebuild dismantled nuclear weapons infrastructure so as to ensure that nuclear weapon design continues to be a field of research in the US through the mid-point of the 21st century.  . 
+
+In 2005 the U.S. revised its declared nuclear political strategy, the [[Doctrine for Joint Nuclear Operations]], to emphasize the possibility of the use of nuclear weapons preemptively against an adversary possessing [[weapons of mass destruction]] or overwhelming conventional forces. Whether the [[Single Integrated Operational Plan]] ("SIOP") has been revised accordingly is uncertain, but possible.  . 
+
+==Current status==<!-- This section is linked from [[Minuteman (missile)]] -->
+[[File:US nuclear warheads 1945-2002 graph.png|right|thumb|U.S. nuclear warhead stockpile, 1945-2002.]] . 
+
+The United States is one of the five recognized nuclear powers under the [[Nuclear Non-Proliferation Treaty]] ("NPT"). {{As of|2009|09}} it possessed 5,113 warheads operationally deployed, in active reserve, or held in inactive storage. This figure compares to a peak of 31,225 total warheads in 1967 and 22,217 in 1989, and does not include "several thousand" warheads that have been retired and scheduled for dismantlement. <ref name="mohammed20100503">{{cite news
+| title = U.S. says nuclear arsenal includes 5,113 warheads
+| url = http://www.reuters.com/article/idUSTRE64251X20100503?feedType=RSS&feedName=topNews
+| newspaper = Reuters
+| date = 2010-05-03
+| accessdate = 2010-05-03
+| author =  Arshad Mohammed and Phil Stewart
+}}</ref><ref name="capaccio20100503">{{cite news
+| title = U.S. Discloses Arsenal of 5,113 Nuclear Warheads
+| url = http://www.businessweek.com/news/2010-05-03/u-s-discloses-arsenal-of-5-113-nuclear-warheads-update1-.html
+| newspaper = Bloomberg
+| date = 2010-05-03
+| accessdate = 2010-05-03
+| author =  Anthony Capaccio and Viola Gienger
+}}</ref> . 
+
+In 2009 and 2010, the administration of [[Obama administration|Barack Obama]] declared policies that would invalidate the Bush-era policy for use of nuclear weapons and its motions to develop new ones. First, in a prominent [[Barack Obama speech in Prague, 2009|2009 speech]], U.S. president [[Barack Obama]] outlined a goal of "a world without nuclear weapons". <ref>{{cite news|url=http://www.independent.co.uk/news/world/politics/obama-sets-goal-of-world-without-nuclear-weapons-1661727.html |title=Obama sets goal of world without nuclear weapons&nbsp;— World Politics, World |publisher=The Independent |date= 3 April 2009|accessdate=2009-06-21 | location=London}}</ref> To that goal, U.S. President [[Barack Obama]] and Russian President [[Dmitry Medvedev]] signed a [[new START]] treaty on April 8, 2010 to reduce the number of active nuclear weapons from 2,200 to 1,550. <ref>{{cite news|url=http://www.npr.org/templates/story/story.php?storyId=106292556 |title=U.S., Russia Agree To Pursue Nuclear Reduction}}</ref><ref>{{cite news
+| title = Obama, Medvedev sign treaty to reduce nuclear weapons
+| author = Michael D. Shear
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2010/04/08/AR2010040801677.html
+| newspaper = The Washington Post
+| date = 8 April 2010
+| accessdate = 9 April 2010
+}}</ref> That same week Obama also revised U.S. policy on the use of nuclear weapons in a [[Nuclear Posture Review]] required of all presidents, declaring for the first time that the U.S. would not use nuclear weapons against nonnuclear, NPT-compliant states. The policy also renounces development of any new nuclear weapons. <ref>{{cite news
+| title = Obama Limits When U.S. Would Use Nuclear Arms
+| author = David E. Sanger
+| author2 = Peter Baker
+| url = http://www.nytimes.com/2010/04/06/world/06arms.html
+| newspaper = New York Times
+| date = 5 April 2010
+| accessdate = 8 April 2010
+}}</ref> . 
+
+Momentum of the new era slowed and hard realities resurfaced in 2011, and no new breakthroughs occurred. The multilateral nuclear arms control agenda is stymied. The [[CTBT]] is no closer to ratification than when President Obama came into office. The [[FMCT]] negotiations remain stuck, and there is no indication that success is in the offing. 2011 has been more difficult and less hopeful than the recent past. <ref>{{cite web |url=http://bos.sagepub.com/content/68/1/20.full |title=Nuclear weapons 2011: Momentum slows, reality returns |author=Steven E. Miller |date=January/February 2012 (vol. 68 no. 1) |work=Bulletin of the Atomic Scientists }}</ref>  . 
+
+The Obama Administration, in its release of the 2012 defense budget, included plans to modernize, as well as maintain, the nation's nuclear weapons arsenal. <ref>{{cite web |url=http://www.fas.org/blog/ssp/2011/02/nuclearbudget.php |title=The Nuclear Weapons Modernization Budget |author=Hans Kristensen |date=17 February 2011 |work=FAS Strategic Security Blog |publisher=[[Federation of American Scientists]] |accessdate=23 February 2011}}</ref> . 
+
+== United States strategic nuclear weapons arsenal ==. 
+<!-- Please do not change this section heading - it is linked to from other articles --> . 
+
+<!-- This table was copied from [[New START]] article -->
+{| class="wikitable" style="text-align:center"
+|+ Operational American strategic nuclear forces, 2009<ref name="us2009">[http://thebulletin.metapress.com/content/f64x2k3716wq9613/fulltext.pdf - US Nuclear Forces 2009]</ref>
+. |- class="hintergrundfarbe8"
+!
+!style="width:30em"|Delivery Vehicles
+!style="width:30em"|Warheads
+. |-
+| [[Minuteman III]] [[W78]]/Mk12A
+| 250
+| 350
+. |-
+| Minuteman III [[W87]]/Mk21
+| 200
+| 200
+. |- style="background:#DDDDDD"
+! ICBM (total) || 450 || 550
+. |-
+| [[UGM-133 Trident II|UGM-133A]] Trident II D-5 [[W76|W76-0]]/Mk4
+| rowspan="3"|288
+| 718
+. |-
+| [[UGM-133 Trident II|UGM-133A]] Trident II D-5 W76-1/Mk4A
+| 50
+. |-
+| [[UGM-133 Trident II|UGM-133A]] Trident II D-5 [[W88]]/Mk5
+| 384
+. |-style="background:#DDDDDD"
+! SLBM (total) || 288 || 1,152
+. |-
+| [[B-2]]
+| 20
+| na
+. |-
+| [[B-52H]]
+| 93
+| na
+. |-
+| [[B61 nuclear bomb|B61]]-7
+| na
+| 150
+. |-
+| B61-11
+| na
+. |-
+| [[B83 nuclear bomb|B83]]
+| na
+. |-
+| [[ALCM|ALCM/W80]]-1
+| na
+| 350
+. |-style="background:#DDDDDD"
+! Bomber force (total) || 113 || 500
+. |-
+! Strategic forces (total) || 851 || 2,200
+. |-
+|}<!-- this table was copied from [[New START]] article --> . 
+
+==See also==. 
+{{wikinews|US to reduce nuclear weapons arsenal}}
+* [[United States and weapons of mass destruction]]
+* [[History of nuclear weapons]]
+* [[National Security Strategy of the United States]]
+* [[United States Strategic Command]]
+* [[List of nuclear tests]]
+* [[Nuclear-free zone]]
+* [[Global Security Institute]]
+* [[Anti-nuclear movement in the United States]] . 
+
+==Notes==. 
+{{Reflist|2}} . 
+
+==References==. 
+* Hacker, Barton C. ''Elements of Controversy: The Atomic Energy Commission and Radiation Safety in Nuclear Weapons Testing, 1947-1974.'' Berkeley, CA: University of California Press, 1994. ISBN 978-0-520-08323-3
+* Hansen, Chuck. ''U.S. Nuclear Weapons: The Secret History.'' Arlington, TX: Aerofax, 1988. ISBN 978-0-517-56740-1
+* [[Donald A. MacKenzie|MacKenzie, Donald A.]] ''Inventing Accuracy: A Historical Sociology of Nuclear Missile Guidance.'' Cambridge, MA: MIT Press, 1990. ISBN 978-0-262-13258-9
+* Schwartz, Stephen I. ''Atomic Audit: The Costs and Consequences of U.S. Nuclear Weapons.'' Washington, D.C.: Brookings Institution Press, 1998. http://www.brook.edu/FP/PROJECTS/NUCWCOST/WEAPONS.HTM ISBN 978-0-8157-7773-1
+* Weart, Spencer R. ''Nuclear Fear: A History of Images.'' Cambridge, MA: Harvard University Press, 1985. ISBN 978-0-674-62835-9
+* Biello,David."A Need for New Warheads?" Scientific American, November 2007 . 
+
+==External links==. 
+{{External links|date=June 2011}}
+* Video archive of [http://sonicbomb.com/modules.php?name=Content&pa=showpage&pid=109 US Nuclear Testing] at [http://www.sonicbomb.com sonicbomb.com]
+* [http://thebulletin.metapress.com/content/j8v4421j728q2v76/fulltext.pdf U.S. Nuclear Forces 2006] Robert S. Norris and Hans M. Kristensen [http://thebulletin.org Bulletin of the Atomic Scientists], January/February 2006
+* [http://www.nti.org/e_research/profiles/USA/index.html Nuclear Threat Initiative: United States]
+* [http://www.nrdc.org/nuclear/nudb/dafig9.asp NDRC's data on the US Nuclear Stockpile, 1945-2002]
+* [http://www.globalsecurity.org/wmd/ GlobalSecurity.org], esp. [http://www.globalsecurity.org/wmd/facility/index.html facilities], [http://www.globalsecurity.org/wmd/systems/index.html forces], and [http://www.globalsecurity.org/wmd/ops/index.html operations]
+* [http://nuclearweaponarchive.org/ Nuclear Weapons Archive], esp. [http://nuclearweaponarchive.org/Usa/Tests/index.html nuclear tests] and [http://nuclearweaponarchive.org/Usa/Weapons/index.html U.S. Arsenal, Past and Present]
+* [http://www.greenpeace.org.uk/contentlookup.cfm?CFID=3094473&CFTOKEN=91124583&ucidparam=20051005115224 US Doctrine for Joint Nuclear Operations]
+* [http://www.greenpeace.org.uk/contentlookup.cfm?CFID=3094473&CFTOKEN=91124583&ucidparam=20051005115403 Comment matrix on Doctrine for Joint Nuclear Operations]
+* [http://www.lasg.org/sites/siteoverview.htm Snapshot of the U.S. Nuclear Weapons Complex, April 2004] by the [[Los Alamos Study Group]]
+* [http://skeptically.org/onwars/id7.html 20 Mishaps That Might Have Started Accidental Nuclear War] A somewhat chilling list of the closest calls so far. 
+* [http://www.cdi.org/Issues/NukeAccidents/accidents.htm US Nuclear Weapons Accidents] list published by the Center for Defense Information (  [http://www.cdi.org/ CDI])
+* [http://www.cnn.com/2007/WORLD/europe/02/10/putin.us.ap/index.html Putin: U.S. pushing others into nuclear ambitions] (February 2007)
+* [http://news.bbc.co.uk/2/hi/americas/6414197.stm New nuclear warhead design for US]
+* [http://www.iht.com/articles/ap/2007/03/03/america/NA-GEN-US-New-Warheads.php U.S. government settles on design for new nuclear warheads]
+* [http://alsos.wlu.edu/qsearch.aspx?browse=warfare/U.S.%20Nuclear%20Weapons%20Programs Annotated bibliography of U. S. nuclear weapons programs from the Alsos Digital Library for Nuclear Issues]
+* [http://fr.jpost.com/servlet/Satellite?cid=1171894558959&pagename=JPost/JPArticle/ShowFull US announces plans to build new nuclear warheads]
+* [http://www.ifri.org/downloads/prolif_11_Potter.pdf Trends in U.S. Nuclear Policy] - analysis by William C. Potter, IFRI Proliferation Papers n°11, 2005
+* [http://www.iss.europa.eu/nc/actualites/actualite/browse/2/article/us-nuclear-strategy-after-the-2008-presidential-elections/ US Nuclear Strategy After the 2008 Presidential Elections], Analysis by Calin Trenkov-Wermuth, August 2008, [[European Union Institute for Security Studies]]
+* [http://alsos.wlu.edu/qsearch.aspx?browse=warfare/U.S.%Nuclear%Weapons%Programs Annotated bibliography for U.S. nuclear weapons programs from the Alsos Digital Library for Nuclear Issues] . 
+
+{{Manhattan Project}}
+{{US military navbox}}
+{{U.S. anti-nuclear}} . 
+
+[[Category:Nuclear weapons of the United States|*]]
+[[Category:Nuclear weapons program of the United States]]

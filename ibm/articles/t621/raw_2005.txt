@@ -1,0 +1,105 @@
+{{About|the Soviet hydrogen bomb|the Bride album |Tsar Bomba (album)}}
+{{Infobox weapon
+| name    = AN602
+| image   = [[File:Tsar photo11.jpg]]
+| caption = The Tsar Bomba [[mushroom cloud]] seen from a distance of 160 km.  The crown of the cloud is 56 km high at the time of the picture. 
+| origin  = Soviet Union
+| type    = [[Teller-Ulam design|Thermonuclear weapon]]
+<!-- Type selection -->
+| is_explosive    = yes
+| designer        = Julii Borisovich Khariton, Andrei Sakharov, Victor Adamsky, Yuri Babayev, Yuri Smirnov, and Yuri Trutnev
+| design_date     = 
+| manufacturer    = 
+| unit_cost       = 
+| production_date = 
+| number          = 1 (plus one mock bomb)
+| weight          = {{convert|27000|kg|lb}}
+| length          = {{convert|8|m|ft}}
+| part_length     = 
+| width           = 
+| height          = 
+| diameter        = {{convert|2.1|m|ft}}
+| Location        = [Coordinates:|Geographic_coordinate_system] {{Coord|73|51|0|N|54|30|0|E}}
+<!-- Explosive specifications -->
+| filling        = 
+| filling_weight = 
+| detonation     = 
+| yield          = {{convert|50|MtonTNT|lk=in}} 
+}}
+{{Coord|73|48|26|N|54|58|54|E|display=title}} . 
+
+'''Tsar Bomba''' ({{lang-ru|Царь-бомба}}) is the [[nickname]] for the AN602 [[hydrogen bomb]], the most powerful [[nuclear weapon]] ever detonated. It was also referred to as '''Kuz'kina Mat'''' ({{lang-ru|Кузькина мать}}, [[Kuzka's mother]]), potentially referring to [[Nikita Khruschev]]'s promise to show the U.S. a "Kuz'kina Mat'" at the 1960 UN General Assembly. The famous Russian idiom, which has been problematic for translators, equates roughly with the English “We’ll show you!” in this usage meaning "something that has not been seen before". <ref>{{cite web|title=Prominent Russians: Nikita Khrushchev|url=http://russiapedia.rt.com/prominent-russians/leaders/nikita-khrushchev/|publisher=Russia Today|accessdate=4 December 2011}}</ref>
+Developed by the [[Soviet Union]], the bomb was originally designed to have a [[Nuclear weapon yield|yield]] of about {{convert|100|MtonTNT|lk=in}}, but the yield was reduced to 50 megatons in order to reduce [[nuclear fallout]]. This attempt was successful, as it was one of the cleanest (relative to its yield) nuclear bombs ever detonated. Only one bomb of this type was ever built and it was tested on October 30, 1961, in the [[Novaya Zemlya]] [[archipelago]]. <ref name="Sakharov memoirs">{{cite book|last=Sakharov|first=Andrei|authorlink=Andrei Sakharov|title=Memoirs|publisher=[[Alfred A. Knopf]]|year=1990|location=New York|pages=215–225|isbn=0-679-73595-X}}</ref><ref>{{cite journal |url=http://www.princeton.edu/~globsec/publications/pdf/13_1-2khalturin%20NZ%201-42%20.pdf |title=A Review of Nuclear Testing by the Soviet Union at Novaya Zemlya, 1955–1990 |first=Vitaly I. |last=Khalturin |coauthors=Rautian, Tatyana G.; Richards, Paul G.; Leith, William S. |journal=Science and Global Security |volume=13 |issue=1 |year=2005 |pages=1–42 |doi=10.1080/08929880590961862 |accessdate = 2006-10-14 |archiveurl = http://web.archive.org/web/20060908073452/http://www.princeton.edu/~globsec/publications/pdf/13_1-2khalturin+NZ+1-42+.pdf  |archivedate = 2006-09-08}}</ref> . 
+
+The remaining bomb casings are located at the Russian Atomic Weapon Museum, [[Sarov]] (Arzamas-16), and the Museum of Nuclear Weapons, All-Russian Research Institute of Technical Physics, Snezhinsk (Chelyabinsk-70).  Neither of these casings has the same antenna configuration as the device that was tested.  . 
+
+Many names are attributed to the Tsar Bomba in the literature: Project 7000; product code 202 (Izdeliye 202); article designations RDS-220 (РДС-220), RDS-202 (РДС-202), RN202 (PH202), AN602 (AH602); codename Vanya; nicknames Big Ivan, Tsar Bomba, Kuzkina Mat'. The term "Tsar Bomba" was coined in an analogy with two other massive Russian objects: the ''[[Tsar Bell|Tsar Kolokol]]'' (Tsar Bell), the world's largest bell, and the ''[[Tsar Cannon|Tsar Pushka]]'' (Tsar Cannon), the world's largest [[cannon]]. The [[Central Intelligence Agency|CIA]] denoted the test as "JOE 111". <ref>Central Intelligence Agency, National Intelligence Estimate 11-2A-62, [http://www.foia.cia.gov/docs/DOC_0000843187/DOC_0000843187.pdf "Soviet Atomic Energy Program"], (16 May 1962), page 13. </ref> . 
+
+==Design==. 
+[[File:Ivan bomb.png|thumb|Site of the detonation]]
+[[File:Tsar Bomba Revised.jpg|thumb|A Tsar Bomba-type casing on display at [[Sarov]]]]
+The Tsar Bomb was a three-stage [[Teller–Ulam design]] hydrogen bomb with a [[nuclear weapon yield|yield]] of 50 [[TNT equivalent|megatons]] (Mt). <ref>  . 
+
+The yield of the test has been estimated between {{convert|50|and|57|MtonTNT}} by different sources over time. Today all Russian sources use 50 megatons as the official figure. See the section "Was it 50 Megatons or 57?" at {{cite web|url=http://www.nuclearweaponarchive.org/Russia/TsarBomba.html|title=The Tsar Bomba ("King of Bombs")|accessdate=2005-01-01-2006}}</ref> This is equivalent to 1,400 times the combined power of the bombs that [[Atomic bombings of Hiroshima and Nagasaki|destroyed Hiroshima and Nagasaki]],<ref>DeGroot, Gerard J. ''The Bomb: A Life''. Cambridge, Mass.: [[Harvard University Press]], 2005. p. 254. </ref> 10 times the combined power of all the explosives used in WWII, or one quarter of the estimated yield of the [[1883 eruption of Krakatoa]]. A three-stage H-bomb uses a [[fission bomb]] primary to compress a thermonuclear secondary, as in most H-bombs, and then uses energy from the resulting explosion to compress a much larger additional thermonuclear stage. There is evidence that the Tsar Bomba had a number of third stages rather than a single very large one. <ref name="Nuclearweaponarchive.com">{{cite web|url=http://www.nuclearweaponarchive.org/Russia/TsarBomba.html|title=Tsar Bomba|publisher=Nuclear Weapon Archive|accessdate=2007-11-03}}</ref> . 
+
+The initial three-stage design was capable of yielding the power of approximately 100 Mt, but would have caused too much radioactive fallout. To limit fallout, the third stage and possibly the second stage had a [[lead]] [[Teller-Ulam design|tamper]] instead of a [[uranium-238]] fusion tamper (which greatly amplifies the reaction by fissioning uranium atoms with fast neutrons from the fusion reaction). This eliminated [[fast fission]] by the fusion-stage neutrons, so that approximately 97% of the total energy resulted from fusion alone (as such, it was one of the "cleanest"  nuclear bombs ever created, generating a very low amount of fallout relative to its yield). There was a strong incentive for this modification since most of the fallout from a test of the bomb would have ended up on populated Soviet territory. <ref name="Nuclearweaponarchive.com"/><ref name="Adamsky and Smirnov">{{cite journal|last=Adamsky|first=Viktor|coauthors=Yuri Smirnov|title=Moscow's Biggest Bomb: the 50-Megaton Test of October 1961|journal=Cold War International History Project Bulletin|issue=4|pages=3, 19–21|date=Fall 1994|url=http://www.wilsoncenter.org/topics/pubs/ACF1B7.pdf|format=PDF|accessdate=2011-10-07}}</ref> . 
+
+The components were designed by a team of physicists headed by [[USSR Academy of Sciences|Academician]] [[Yulii Borisovich Khariton]] and including [[Andrei Sakharov]], [[Victor Adamsky]], [[Yuri Babayev]], [[Yuri Smirnov]], and [[Yuri Trutnev (scientist)|Yuri Trutnev]]. Shortly after the Tsar Bomba was detonated, Sakharov began speaking out against [[nuclear weapon]]s, which culminated in his becoming a [[Soviet dissidents|dissident]]. <ref name="Sakharov memoirs"/><ref name="Adamsky and Smirnov"/> . 
+
+==Test==. 
+Tsar Bomb was flown to its test site by a specially modified [[Tupolev Tu-95|Tu-95V]] release plane, flown by Major [[Andrei Durnovtsev]]. Taking off from an airfield in the [[Kola Peninsula]], the release plane was accompanied by a [[Tu-16]] observer plane that took air samples and filmed the test. Both aircraft were painted with a [[Anti-flash white|special reflective white paint]] to limit heat damage.  . 
+
+The bomb, weighing 27 [[tonne]]s, was so large ({{convert|8|m|ft}} long by {{convert|2|m|ft}} in diameter) that the Tu-95V had to have its bomb bay doors and fuselage [[fuel tank]]s removed. The bomb was attached to an 800 kilogram  [[parachute]], which gave the release and observer planes time to fly about {{convert|45|km|mi}} away from [[ground zero]].  When detonation occurred the Tu-95V fell one kilometer from its previous altitude due to the [[shock wave]] of the bomb.  . 
+
+[[File:Tsar01.jpg|thumb|The Tsar Bomba's fireball, about {{convert|8|km|mi}} in diameter, was prevented from touching the ground by the shock wave, but nearly reached the {{convert|10.5|km|mi}} altitude of the deploying [[Tupolev Tu-95|Tu-95]] bomber.]]
+The Tsar Bomb detonated at 11:32 on October 30, 1961 over the [[Mityushikha Bay]] nuclear testing range (Sukhoy Nos Zone C), north of the [[Arctic Circle]] on [[Novaya Zemlya]] Island in the Arctic Sea. The bomb was dropped from an altitude of {{convert|10.5|km|mi}}; it was designed to detonate at a height of {{convert|4|km|mi}} over the land surface ({{convert|4.2|km|mi}} over sea level) by [[barometric]] sensors. <ref name="Sakharov memoirs"/><ref name="Nuclearweaponarchive.com"/><ref name="Adamsky and Smirnov"/> . 
+
+The original, November 1961 A.E.C. estimate of the yield was 55–60&nbsp;Mt, but since 1991 all Russian sources have stated its yield as 50&nbsp;Mt. [[Nikita Khrushchev|Khrushchev]] warned in a filmed speech to the Communist Parliament of the existence of a 100&nbsp;Mt bomb (technically the design was capable of this yield). Although simplistic [[effects of nuclear explosions|fireball]] calculations predicted the fireball would impact the ground, the bomb's own shock wave reflected back and prevented this. <ref name="nuclearweaponarchive"/> The fireball reached nearly as high as the altitude of the release plane and was seen almost {{convert|1000|km|mi}} from ground zero. The subsequent [[mushroom cloud]] was about {{convert|64|km|mi}} high (nearly eight times the height of [[Mount Everest]]), which meant that the cloud was well inside the [[mesosphere]] when it peaked. The base of the cloud was {{convert|40|km|mi}} wide. All buildings in the village of [[Severny Island|Severny]] (both wooden and brick), located {{convert|55|km|mi}} from ground zero within the [[Sukhoy Nos]] test range, were completely destroyed. In districts hundreds of kilometers from ground zero, wooden houses were destroyed, stone ones lost their roofs, windows and doors; and radio communications were interrupted for almost one hour. One participant in the test saw a bright flash through dark goggles and felt the effects of a thermal pulse even at a distance of {{convert|270|km|mi}}. The heat from the [[explosion]] could have caused [[Burn|third-degree burns]] {{convert|100|km|mi|abbr=on}} away from [[ground zero]]. A shock wave was observed in the air at [[Dikson (urban-type settlement)|Dikson settlement]] {{convert|700|km|mi}} away; windowpanes were partially broken to distances of {{convert|900|km|mi}}. [[Atmospheric focusing]] caused blast damage at even greater distances, breaking windows in Norway and Finland. The [[Seismic wave|seismic shock]] created by the detonation was measurable even on its third passage around the Earth. <ref>E. Farkas, "Transit of Pressure Waves through New Zealand from the Soviet 50 Megaton Bomb Explosion" ''[[Nature (journal)|Nature]]'' 4817 (24 February 1962): 765–766. </ref> Its [[body wave magnitude|seismic body wave magnitude]] was about 5 to 5.25. <ref name="nuclearweaponarchive">{{cite web|url=http://www.nuclearweaponarchive.org/Russia/TsarBomba.html|title=The Tsar Bomba ("King of Bombs")|quote=Despite being exploded in the atmosphere, it generated substantial seismic signals. According to a bulletin of the U.S. Geological Survey it had seismic magnitude mb = 5.0 to 5.25. ... from fireball radius scaling laws, one would expect the fireball to reach down and engulf the ground ... In fact, the shock wave reaches the ground ... and bounces upward, striking the bottom of the fireball, ... preventing actual contact with the ground.|accessdate=2010-10-10}}</ref> The energy yield was around 7.1 on the [[Richter scale]] but, since the bomb was detonated in air rather than underground, most of the energy was not converted to seismic waves. The device was trillions of times more powerful per unit volume in comparison to the material in the sun's fusion core (about 25% of the sun's radius) and it would take about 10 million years for an equivalent volume of the sun's core to produce the same amount of energy as came from within the bomb's casing. The TNT equivalent of the 50&nbsp;Mt test could be represented by a cube of TNT 312 metres on a side, approximately the height of the [[Eiffel Tower]].  . 
+
+==Analysis==. 
+The Tsar Bomba is the single most [[Power (physics)|physically powerful]] device ever used by man, though its size and weight precluded a successful delivery in case of a real war. <ref>{{cite web|url=http://english.pravda.ru/russia/history/17-09-2009/109339-tsar_bomba-0|title=Tsar Bomba's Blast Wave Orbited Earth Three Times in 1961 |accessdate=2009-09-24 |date=2009-09-24 |publisher=Pravda.ru}}</ref> By contrast, the largest [[weapon]] ever produced by the United States, the now-decommissioned [[B41 nuclear bomb|B41]], had a predicted maximum yield of 25&nbsp;Mt, and the largest nuclear device ever tested by the US ([[Castle Bravo]]) yielded 15&nbsp;Mt (this was due to an unexpected runaway [[Isotopes of lithium#Lithium-7|lithium-7]] reaction; the design yield was approximately 5&nbsp;Mt). The largest weapons deployed by the Soviet Union were also around 25&nbsp;Mt, as in the [[SS-18]] Mod. 2 [[ICBM]] warheads.  . 
+
+The weight and size of the Tsar Bomba limited the range and speed of the specially modified bomber carrying it and ruled out its delivery by an [[intercontinental ballistic missile|ICBM]] (although on December 24, 1962, a 50 Mt ICBM warhead developed by [[Chelyabinsk-70]] was detonated at 24.2 Mt to reduce fallout). <ref>[http://www.atomicforum.org/russia/russiantesting.html Atomic Forum; Russian Nuclear Testing Summary] {{Dead link|date=June 2011}} {{Wayback|url=http://www.atomicforum.org/russia/russiantesting.html|title=Russian Nuclear Testing Summary|date=20071224164107}}</ref>  In terms of physical destructiveness, much of its high yield was inefficiently radiated upwards into space. It has been estimated that detonating the original 100 Mt design would have released fallout amounting to about 25 percent of all fallout emitted since the invention of nuclear weapons. <ref>[http://nuclearweaponarchive.org/Russia/Sovwarhead.html The Nuclear Weapon Archive: Soviet Nuclear Weapons]</ref> Hence, the Tsar Bomba was an impractically powerful weapon. It was decided that such a test blast would create too great a risk of nuclear fallout and a near certainty that the release plane would be unable to reach safety before detonation. <ref>{{cite web|url=http://www.atomicforum.org/russia/tsarbomba.html |title=Tsar Bomba|accessdate=2007-11-03|publisher=Atomic Forum}} {{Dead link|date=June 2011}} {{Wayback|url=http://www.atomicforum.org/russia/tsarbomba.html|title=Tsar Bomba - The King of Bombs|date=20070104094347}}</ref> . 
+
+The Tsar Bomba was the culmination of a series of [[nuclear weapon yield|high-yield]] [[Nuclear weapon design|thermonuclear weapons]] designed by the USSR and USA during the 1950s (examples include the [[Mark 17 nuclear bomb|Mark-17]]<ref>[http://www.globalsecurity.org/wmd/systems/mk17.htm GlobalSecurity.org: Mark 17]</ref> and [[B41 nuclear bomb|B41]]). Such bombs were designed because:
+* The nuclear bombs of the day were large and heavy, regardless of yield, and could only be delivered by [[strategic bomber]]s. Hence yield was subject to dramatic [[economies of scale]];
+* It was feared that many bombers would fail to reach their targets because their size and low speed made detection and interception easy. Hence maximizing the [[firepower]] carried by any single bomber was considered vital;
+* Prior to [[spy satellite|satellite]] intelligence, each side lacked precise knowledge of the location of the other's military and industrial facilities;
+* A bomb dropped without benefit of advanced [[inertial navigation system]]s could easily miss its intended target. Parachute retardation would only worsen the bomb's accuracy. 
+Thus certain bombs were designed to destroy an entire large city even if dropped five to ten kilometres from its centre. This objective meant that yield and effectiveness were positively correlated, at least up to a point. However, the advent of [[ICBM]]s accurate to 500 metres or better made such a design philosophy obsolete. Subsequent nuclear weapon design in the 1960s and 1970s focused primarily on increased accuracy, miniaturization, and safety. The standard practice for many years has been to employ multiple smaller [[warhead]]s ([[Multiple independently targetable reentry vehicle|MIRV]]s) to "[[Carpet bombing|carpet]]" an area, resulting in greater ground damage.  . 
+
+A discussion about the political uses for the creation of a super-bomb became a reason for the ideological divergence of [[Andrei Sakharov]] and [[Nikita Khrushchev]], as [[Nikita Khrushchev]] disagreed with the project of placing fifty 500 Mt bombs along the US marine border, to stop an armament race and to continue democratic reforms in the Soviet Union<ref>[http://www.regnum.ru/news/1450687.html Valentin Falin: Why Sakharov suggested to surround the USA by tsar-bombs?]</ref> {{Citation needed|date=February 2012}}.  . 
+
+==Films==. 
+[[File:Tsar Bomba Paris.png|thumb|350px|Zone of total destruction of the Tsar Bomba (as an example – over a map of Paris): red circle = total destruction (radius {{convert|35|km|mi}}), yellow circle = fireball (radius {{convert|3.5|km|mi}}).]]
+*Footage from a Soviet documentary about the bomb is featured in ''[[Trinity and Beyond|Trinity and Beyond: The Atomic Bomb Movie]]'' (Visual Concept Entertainment, 1995), where it is referred to as the ''Russian monster bomb''. <ref>"[http://nuclearweaponarchive.org/News/VCE.html Trinity and Beyond: The Atomic Bomb Movie]." ''Nuclear Weapon Archive,'' 15 August 1999. </ref> The movie states that the Tsar Bomba project broke the voluntary [[Moratorium (law)|moratorium]] on nuclear tests. In fact Soviets restarted their tests and broke the unilateral voluntary moratorium two months before Tsar Bomba, and since the moratorium was unilateral there was no multilateral legal obstacle (earlier the U.S. also declared a one year unilateral moratorium on nuclear tests and as that year expired the US had already announced that it considered itself free to resume testing without further notice but had not resumed tests until the aftermath of Tsar Bomba). <ref name="Sherman, Robert 2008">Sherman, Robert. "[http://www.fas.org/nuke/control/ctbt/chron1.htm Comprehensive Test Ban Treaty Chronology]." ''[[Federation of American Scientists]],'' May 30, 2008. </ref>
+*A one hour episode of the [[PBS]] documentary series ''[[Secrets_of_the_Dead#Season_10_.282010-2011.29|Secrets of the Dead]]'' &nbsp;– "World's Biggest Bomb" (2011; Blink Films & [[WNET]])&nbsp;– chronicles the events leading to the detonations of [[Castle Bravo]] and the Tsar Bomba.  . 
+
+==See also==. 
+*[[Father of all bombs]]
+*[[GBU-43/B Massive Ordnance Air Blast bomb|Mother of all bombs]]
+*[[Soviet atomic bomb project]]
+*[[Tsar Bell]]
+*[[Tsar Cannon]]
+*[[Tsar Tank]] . 
+
+==References==. 
+{{Reflist|colwidth=33em}} . 
+
+==External links==. 
+{{Commons}}
+*[http://www.nuclearweaponarchive.org/Russia/TsarBomba.html ''Tsar Bomba'' at Carey Sublette's NuclearWeaponArchive.org]
+*Video of the [http://sonicbomb.com/modules.php?name=Content&pa=showpage&pid=90 ''Tsar Bomba delivery, blast and cloud''] at [http://sonicbomb.com/modules.php?name=Content&pa=showpage&pid=39 Sonicbomb.com]
+*[http://www.youtube.com/watch?v=tlVPYsix9Z4 Tsar Bomb – The biggest bomb ever]
+*[http://maps.google.com/?ie=UTF8&ll=73.807093,54.981766&spn=0.005852,0.037594&t=h&z=15&lci=lmc:wikipedia_en Google Maps] . 
+
+[[Category:1961 in science]]
+[[Category:1961 in military history]]
+[[Category:1961 in the Soviet Union]]
+[[Category:Cold War weapons of the Soviet Union]]
+[[Category:Novaya Zemlya]]
+[[Category:Russian inventions]]
+[[Category:Soviet inventions]]
+[[Category:Soviet nuclear explosive tests]]
+[[Category:Nuclear bombs of the Soviet Union]]
+[[Category:Superbombs]]

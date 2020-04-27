@@ -1,0 +1,66 @@
+[[Image:Schopenhauer.jpg|thumb|right|[[Arthur Schopenhauer]] (1788–1860), famous exponent of the antinatalist position]]
+'''Antinatalism''' is a [[philosophy|philosophical]] position that assigns a negative [[value judgment|value]] to [[birth]], standing in opposition to [[natalism]]. It has been advanced by figures such as [[Arthur Schopenhauer]]. <ref>{{cite web|url=http://www.goodreads.com/quotes/tag/antinatalism | title=Quotes About Antinatalism}}</ref> Groups that encourage antinatalism, or pursue antinatalist policies, include the [[Voluntary Human Extinction Movement]] and the [[Club of Rome]].  . 
+
+== Arguments for antinatalism ==. 
+Some supporters of the antinatalist position assert that [[Population decline#Efforts to encourage declining populations|antinatalist policies]] could solve problems such as [[overpopulation]], [[famine]],<ref>Dixon, Brian, E. (28 April 2008) ''In food crisis, family planning helps ''</ref> and depletion of [[Non-renewable resource|non-renewable resources]]. <ref name="Meadows">Meadows, Donella (1993): ''Die neuen Grenzen des Wachstums: die Lage der Menschheit: Bedrohung und Zukunftschancen. Stuttgart: Dt. Verl.-Anst. ISBN 3-421-06626-4</ref> Some countries, such as [[Demographics of India|India]] and [[One-child policy|China]], have policies aimed at reducing the number of children per family, in an effort to curb serious overpopulation concerns and heavy strain on national resources, although these policies cannot be interpreted as discouraging all birth in general. <ref>Heinz Werner Wessler (30. Januar 2007): ''Indien – eine Einführung: Herausforderungen für die aufstrebende asiatische Großmacht im 21. Jahrhundert. Bundeszentrale für politische Bildung</ref> [[Paul R. Ehrlich|Paul Ehrlich]], in his book ''[[The Population Bomb]]'', argued that rapidly increasing population would soon create a crisis, and advocated coercive antinatalist policies on a global level in order to avert a [[Malthusian catastrophe]]. Although no crisis occurred in the timeframe he expected (his predictions, coming in 1968, anticipated disaster by the late eighties), he stands by the book and maintains that without future depopulation efforts the problem will worsen. <ref name="popbombrev">{{cite journal |author1=Paul R. Ehrlich |author2=Anne H. Ehrlich |title=The Population Bomb Revisited |url=http://fragette.free.fr/demography/The_Population_Bomb_Revisited.pdf |journal=Electronic Journal of Sustainable Development |year=2009 |volume= 1(3) |pages=63–71 |accessdate=2010-02-01}}</ref> . 
+
+Other proponents of antinatalism appeal to [[ethics]]; [[David Benatar]], for example, argues from the [[hedonistic imperative|hedonistic]] premise that the infliction of harm is morally wrong and to be avoided. He argues that the birth of a new person always entails nontrivial harm to that person, and therefore there is a [[moral imperative]] not to [[procreate]]. <ref name="benatar">{{cite book |doi=10.1093/acprof:oso/9780199296422.001.0001 | last = Benatar | first = David | title = Better Never to Have Been | publisher = Oxford University Press, USA | location = | year = 2006 | isbn = 9780199296422 }}</ref> . 
+
+== Criticism of antinatalism ==. 
+* Criticism of antinatalism may come from views that hold value in bringing [[potential future person]]s into existence, but there are also views holding that there is no such obligation. <ref name=warren1977>''Do Potential People Have Moral Rights?'' By Mary Anne Warren. Canadian Journal of Philosophy. Vol. 7, No. 2 (Jun., 1977), pp. 275-289 [http://www.jstor.org/stable/40230690]</ref>.  . 
+
+== See also ==. 
+{{div col|cols=2}}
+* [[Childfree]]
+* [[National Alliance for Optional Parenthood]]
+* [[Population control]] in order to decrease [[population growth]]
+* [[Voluntary Human Extinction Movement]]
+* [[Natalism]], the counterpoint to antinatalism
+* [[Nietzschean affirmation]], a contrasting stance in favor of [[life]], by a one-time follower of Schopenhauer
+* [[Shakers]]
+* [[Catharism]]
+* [[Greek Gospel of the Egyptians]]
+* [[Extinction]]
+* [[Utilitarianism#Negative|Negative Utilitarianism]]
+* [[Abolitionism_%28bioethics%29|Abolitionism]]
+* [[Discovery Communications headquarters hostage crisis]]
+{{div col end}} . 
+
+==References==. 
+{{reflist|2}} . 
+
+==Further reading==. 
+{{refbegin}}
+* Morgan, Philip and Berkowitz King, Rosalind, "Why Have Children in the 21st Century? Biological Predisposition, Social Coercion, Rational Choice", ''European Journal of Population'' 17: 3–20, 2001
+*{{cite news
+ | first =Mark 
+ | last = Steyn
+ | authorlink = 
+ | author = 
+ | coauthors = 
+ | title = Children? Not if you love the planet
+ | url = http://www.ocregister.com/opinion/child-birth-homeless-1942317-year-percent
+ | format = 
+ | work = [[Orange County Register]]
+ | publisher = 
+ | location = Santa Ana, California
+ | id = 
+ | pages = 
+ | page = 
+ | date =  December 14, 2007
+ | accessdate = 2008-04-29
+ | language = 
+ | quote = 
+ | archiveurl = 
+ | archivedate = 
+ }}
+{{Refend}} . 
+
+== External links ==. 
+{{Wikisource|On the Sufferings of the World}}
+*[http://www.alcor.org/magazine/2011/01/14/non-existence-is-hard-to-do/ Non-existence is hard to do] . 
+
+{{Schopenhauer}} . 
+
+[[Category:Antinatalism]]
+[[Category:Ethical theories]]

@@ -1,0 +1,412 @@
+{{Infobox economist
+| name = Friedrich August von Hayek
+| school_tradition = [[Austrian School]]
+| color = firebrick
+| image = Friedrich_Hayek_portrait.jpg
+| image_size = 200px
+| caption =
+| birth_date = {{Birth date|1899|05|08|df=y}}
+| birth_place = [[Vienna]], [[Austria-Hungary]]
+| death_date = {{Death date and age|1992|03|23|1899|05|08|df=y}}
+| death_place = [[Freiburg]], [[Germany]]
+| nationality = [[United Kingdom|British]] (Naturalized in 1938; formerly was Austrian)
+| institution = [[University of Freiburg]] (1962–1968)<br />[[University of Chicago]] (1950–1962)<br />[[London School of Economics]] (1931–1950)
+| field = [[Economics]], [[political science]], [[law]], [[philosophy]], [[psychology]]
+| alma_mater = [[University of Vienna]]<small> ([[Dr. jur.]] 1921, [[Dr. rer. pol]] 1923)</small>
+| influences = [[Friedrich von Wieser|Wieser]]{{·}}[[Carl Menger|Menger]]{{·}}[[Ernst Mach|Mach]]{{·}}[[Eugen von Böhm-Bawerk|Böhm-Bawerk]]{{·}}[[Ludwig von Mises|Mises]]{{·}}[[Bernard Mandeville|Mandeville]]{{·}}[[Ludwig Wittgenstein|Wittgenstein]]{{·}}[[Edmund Burke|Burke]]{{·}}[[John Stuart Mill|Mill]]{{·}}[[Alexis de Tocqueville|Tocqueville]]{{·}}[[Karl Popper|Popper]]
+| opposed = [[John Maynard Keynes|Keynes]]{{·}}[[Piero Sraffa|Sraffa]]{{·}}[[Nicholas Kaldor|Kaldor]]
+| influenced = [[Milton Friedman|Friedman]]{{·}}[[Karl Popper|Popper]]{{·}}[[Ronald Coase|Coase]]{{·}}[[John Hicks|Hicks]]{{·}}[[Vernon L. Smith|V. Smith]]{{·}}[[Margaret Thatcher|Thatcher]]{{·}}[[Ron Paul|Paul]]{{·}}[[Ronald Reagan|Reagan]]{{·}}[[Abba Lerner|Lerner]]{{·}}[[Murray Rothbard|Rothbard]]
+| contributions = [[Economic calculation problem]], [[Catallactics|catallaxy]], [[extended order]], [[dispersed knowledge]], [[price signal]], [[spontaneous order]], [[Hebbian theory]]
+| awards = [[Nobel Memorial Prize in Economic Sciences]] (1974)<br />[[Presidential Medal of Freedom]] (1991)
+| signature = Friedrich von Hayek signature.gif
+| repec_prefix = | repec_id =
+}}
+'''Friedrich August Hayek''' [[Order of the Companions of Honour|CH]] ({{IPA-de|ˈfʁiːdʁɪç ˈaʊ̯ɡʊst ˈhaɪ̯ɛk}}) (8 May 1899{{spaced ndash}}23 March 1992), born in [[Austria-Hungary]] as '''Friedrich August von Hayek''', was an [[economist]] and [[philosopher]] best known for his defense of [[classical liberalism]] and [[free market|free-market]] [[capitalism]] against [[socialism|socialist]] and [[collectivism|collectivist]] thought. In 1974, Hayek shared the [[Nobel Memorial Prize in Economic Sciences]] (with his political rival, [[Gunnar Myrdal]]) for his "pioneering work in the [[monetary policy|theory of money]] and [[Business cycle|economic fluctuations]] and... penetrating analysis of the interdependence of economic, social and institutional phenomena".  He considered the efficient allocation of capital to be the most important factor leading to sustainable and optimal GDP growth, and warned of harms from monetary authority manipulation of interest rates.  Interest rates should be set naturally by equilibrium between consumption of goods or capital stock. <ref>{{cite web|url=http://nobelprize.org/nobel_prizes/economics/laureates/1974/index.html|title=The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 1974|author=[[Nobel Memorial Prize in Economic Sciences|Bank of Sweden]]|year=1974}}</ref>  . 
+
+Hayek is considered to be a major economist and political philosopher of the twentieth century. <ref>{{cite web|url=http://www.cambridge.org/gb/knowledge/isbn/item1157472/?site_locale=en_GB|title=The Cambridge Companion to Hayek |author=[[Cambridge University Press]]|quote= [He was] almost certainly the most consequential thinker of the mainstream political right in the twentieth century. It is just possible that he was the most consequential twentieth century political thinker, right or left, period.}}</ref><ref>Steven Pressman, ''Fifty major economists'' (2nd edition), Routledge, 2006, p. viii</ref> Along with his mentor [[Ludwig von Mises]], he was an important contributor to the [[Austrian school]] of economic thought. Hayek's account of how [[price signal|changing prices communicate information]] which enable individuals to coordinate their plans is widely regarded as an important achievement in [[economics]]. <ref>{{Cite journal | last = Skarbek | first = David | title = F. A. Hayek's Influence on Nobel Prize Winners | journal = Review of Austrian Economics | volume = 22 | month = March |year = 2009 | url = http://www.davidskarbek.com/uploads/HayeksInfluence.pdf | issue = 1 }}</ref> He also contributed to the fields of [[systems thinking]], [[jurisprudence]], [[neuroscience]] and the history of ideas.  . 
+
+Hayek served in [[World War I]] and said that his experience in the war and his desire to help avoid the mistakes that had led to the war (see below) led him to his career. Hayek lived in Austria, Great Britain, the United States and Germany, and became a British subject in 1938. He spent most of his academic life at the [[London School of Economics]] (LSE), the [[University of Chicago]], and the [[University of Freiburg]].  . 
+
+In 1984, he was appointed as a member of the [[Order of the Companions of Honour]] by Queen [[Elizabeth II]] on the advice of Prime Minister [[Margaret Thatcher]] for his "services to the study of economics."<ref name="Ebenstein"/> He also received the US [[Presidential Medal of Freedom]] in 1991 from president [[George H. W. Bush]]. <ref>{{cite web|url=http://bushlibrary.tamu.edu/research/public_papers.php?id=3642&year=&month=|title=Remarks on Presenting the Presidential Medal of Freedom Awards|author=[[George H. W. Bush]]|date=1991-11-18}}</ref> In 2011, his article ''[[The Use of Knowledge in Society]]'' was selected as one of the top 20 articles published in the [[American Economic Review]] during its first 100 years. <ref name="top">Arrow, Kenneth J., B. Douglas Bernheim, Martin S. Feldstein, Daniel L. McFadden, James M. Poterba, and Robert M. Solow. 2011. "100 Years of the American Economic Review: The Top 20 Articles." American Economic Review, 101(1): 1–8. </ref> . 
+
+==Early life==. 
+Hayek was born in [[Vienna]] (then the capital of Austria-Hungary), and was the son of [[August von Hayek|a doctor]] in the municipal health service. Hayek's grandfathers were prominent academics working in the fields of statistics and biology. His paternal line had been raised to the ranks of the [[Bohemian nobility]] for its services to the state. <ref>http://www.archive.org/stream/genealogischest00vongoog#page/n323/mode/2up</ref> Similarly, a generation before his maternal forebears had also been raised to the lower noble rank. However, after 1919 titles of nobility were banned by law in Austria, and the "von Hayek" family became simply the Hayek family. Hence, after 1919, Hayek's legal name became "Friedrich Hayek", not "Friedrich von Hayek". Hayek's father turned his work on regional botany into a highly esteemed botanical treatise, continuing the family's scholarly traditions.{{Citation needed|date=October 2010}} . 
+
+On his mother's side, Hayek was second-cousin to the philosopher [[Ludwig Wittgenstein]]. His mother often played with Wittgenstein's sisters, and had known Ludwig well. As a result of their family relationship, Hayek became one of the first to read Wittgenstein's ''[[Tractatus Logico-Philosophicus]]'' when the book was published in its original German edition in 1921. Although Hayek only met Wittgenstein on a few occasions, Hayek said that Wittgenstein's philosophy and methods of analysis had a profound influence on his own life and thought. <ref>Ebenstein, p. 245</ref> In his later years, Hayek recalled a discussion of philosophy with Wittgenstein, when both were officers during World War I. <ref>''Hayek on Hayek: an autobiographical dialogue'', By Friedrich August Hayek, Routledge, 1994, page 51</ref> After Wittgenstein's death, Hayek had intended to write a biography of Wittgenstein and worked on collecting family materials, and he later assisted biographers of Wittgenstein. <ref>''Young Ludwig: Wittgenstein's life'', 1889–1921, Brian McGuinness, Oxford University Press, 2005 Page xii</ref> . 
+
+At his father's suggestion as a teenager, Hayek read the genetic and evolutionary works of [[Hugo de Vries]] and the philosophical works of [[Ludwig Feuerbach]]. <ref>{{cite web|url=http://www.archive.org/details/nobelprizewinnin00haye |title=UCLA Oral History 1978 Interviews with Friedrich Hayek, pp. 32–38 |publisher=Archive.org |date=2001-03-10 |accessdate=2011-09-14}}</ref> In school Hayek was much taken by one instructor's lectures on [[Aristotle's ethics]].  . 
+
+In 1917, he joined an artillery regiment in the [[Austro-Hungarian Army]] and fought on the Italian front. Much of Hayek's combat experience was spent as a spotter in an aeroplane. He survived the war without serious injury and was decorated for bravery.  . 
+
+Hayek then decided to pursue an academic career, determined to help avoid the mistakes that had led to the war. Hayek said about his experience: "The decisive influence was really World War I. It's bound to draw your attention to the problems of political organization." He vowed to work for a better world. <ref>{{cite web|url=http://www.pbs.org/wgbh/commandingheights/shared/minitext/tr_show01.html |title=Commanding Heights : Episode 1 &#124; on PBS |publisher=Pbs.org |date=1929-10-24 |accessdate=2011-09-14}}</ref> . 
+
+==Education and career==. 
+At the [[University of Vienna]], he earned [[doctorate]]s in law and political science in 1921 and 1923 respectively, and he also studied [[philosophy]], [[psychology]], and economics. For a short time, when the University of Vienna closed, Hayek studied in [[Constantin von Monakow]]'s Institute of Brain Anatomy, where Hayek spent much of his time [[staining]] brain cells. Hayek's time in Monakow's lab, and his deep interest in the work of [[Ernst Mach]], inspired Hayek's first intellectual project, eventually published as ''The Sensory Order'' (1952). It located connective learning at the physical and neurological levels, rejecting the "sense data" associationism{{Clarify|date=April 2011}} of the [[empiricists]] and [[logical positivism|logical positivists]]. Hayek presented his work to the private seminar he had created with [[Herbert Furth]] called [[the Geistkreis]]. <ref>[http://mises.org/journals/qjae/pdf/qjae6_2_2.pdf "The Viennese Connection: Alfred Schutz and the Austrian School" by Peter Kurrild-Klitgaard.]</ref> . 
+
+During his years at the University of Vienna, [[Carl Menger]]'s work on the explanatory strategy of social science and [[Friedrich von Wieser]]'s commanding presence in the classroom left a lasting influence on Hayek. <ref>{{cite web|url=http://www.archive.org/details/nobelprizewinnin00haye |title=UCLA Oral History 1978 Interviews with Friedrich Hayek |publisher=Archive.org |date=2001-03-10 |accessdate=2011-09-14}}</ref> Upon the completion of his examinations, Hayek was hired by Ludwig von Mises on the recommendation of Wieser as a specialist for the Austrian government working on the legal and economic details of the [[Treaty of Saint Germain]]. Between 1923 and 1924 Hayek worked as a research assistant to Prof. [[Jeremiah Jenks]] of [[New York University]], compiling macroeconomic data on the American economy and the operations of the U.S. Federal Reserve. <ref>A. J. Tebble, ''F.A. Hayek'', Continuum International Publishing Group, 2010, p. 4-5</ref> . 
+
+{{Austrian School sidebar}}
+Initially sympathetic to Wieser's [[democratic socialism]], Hayek's economic thinking shifted away from socialism and toward the classical liberalism of Carl Menger after reading Ludwig von Mises' book ''Socialism''. It was sometime after reading ''Socialism'' that Hayek began attending Ludwig von Mises' private seminars, joining several of his university friends, including [[Fritz Machlup]], Alfred Schutz, Felix Kaufmann,and Gottfried Haberler, who were also participating in Hayek's own, more general, private seminar. It was during this time that he also encountered and befriended noted political philosopher [[Eric Voegelin]], with whom he retained a long-standing relationship. <ref>Federici, Michael. ''Eric Voegelin: The Restoration of Order'', ISI Books, 2002, p. 1</ref> . 
+
+With the help of Mises, in the late 1920s Hayek founded and served as director of the [[Austrian Institute for Business Cycle Research]], before joining the faculty of the London School of Economics (LSE) in 1931 at the behest of [[Lionel Robbins]]. Upon his arrival in London, Hayek was quickly recognized as one of the leading economic theorists in the world, and his development of the economics of processes in time and the coordination function of prices inspired the ground-breaking work of [[John Hicks]], [[Abba Lerner]], and many others in the development of modern microeconomics. <ref>{{cite web|last=Baxendale |first=Toby |url=http://www.cobdencentre.org/2010/07/the-battle-of-the-letters/ |title=The Battle of the Letters: Keynes v Hayek 1932, Skidelsky v Besley 2010 |publisher=The Cobden Centre |date=2010-10-25 |accessdate=2011-09-14}}</ref> . 
+
+In 1932, Hayek suggested that private investment in the public markets was a better road to wealth and economic coordination in Britain than government spending programs, as argued in a letter he co-signed with Lionel Robbins and others in an exchange of letters with [[John Maynard Keynes]] in ''[[The Times]].''<ref>http://thinkmarkets.files.wordpress.com/2010/06/keynes-hayek-1932-cambridgelse.pdf</ref><ref>Malcolm Perrine McNair, Richard Stockton Meriam, ''Problems in business economics'', McGraw-Hill, 1941, p. 504</ref> The global [[Great Depression]] formed a crucial backdrop against which Hayek formulated his positions, especially in opposition to the views of Keynes. <ref>{{cite web|url=http://www.thefreemanonline.org/featured/friedrich-a-hayek-a-centenary-appreciation/# |title=Friedrich A. Hayek: A Centenary Appreciation &#124; The Freeman &#124; Ideas On Liberty |publisher=Thefreemanonline.org |date= |accessdate=2011-09-14}}</ref> . 
+
+Economists who studied with Hayek at the LSE in the 1930s and the 1940s include [[Arthur Lewis (economist)|Arthur Lewis]], [[Ronald Coase]], [[John Kenneth Galbraith]], Abba Lerner, [[Nicholas Kaldor]], [[George Shackle]], [[Thomas Balogh]], [[Vera Smith]], [[L. K. Jha]], [[Arthur Seldon]], [[Paul Rosenstein-Rodan]], and [[Oskar Lange]]. <ref>J. K. Galbraith, "Nicholas Kaldor Remembered," in Nicholas Kaldor and Mainstream Economics: Confrontation or Convergence?, New York: St. Martin's Press. </ref><ref>{{cite web|url=http://nobelprize.org/nobel_prizes/economics/laureates/1979/lewis-autobio.html |title=Sir Arthur Lewis Autobiography |publisher=Nobelprize.org |date= |accessdate=2011-09-14}}</ref><ref>{{Cite book| last = Ebenstein | first = Alan | title = Friedrich Hayek: a biography | place = Palgrave, New York | publisher = University Of Chicago Press | year = 2001 | volume = | edition = 1st
+| page = | pages = 62, 248, 284 | url = | doi = | id = | isbn = 978-0312233440| postscript = <!--None-->}}</ref> Hayek also taught or tutored all sorts of other L.S.E. students, including [[David Rockefeller]]. <ref>[http://www.mskousen.com/Speeches/rockefeller.html Interview with David Rockefeller]{{dead link|date=September 2011}}</ref> . 
+
+Unwilling to return to Austria after the [[Anschluss]] brought it under the control of [[Nazi Germany]] in 1938, Hayek remained in Britain and became a [[British subject]] in 1938. He held this status for the remainder of his life, but he did not live in Great Britain after 1950. He lived in the United States from 1950 to 1962 and then mostly in Germany but also briefly in Austria. <ref>Samuel Brittan, '[http://www.oxforddnb.com/view/article/51095 Hayek, Friedrich August (1899–1992)]', Oxford Dictionary of National Biography, Oxford University Press, 2004, accessed 28 April 2009. </ref> . 
+
+===''The Road to Serfdom''===. 
+{{Main|The Road to Serfdom}}
+Hayek was concerned about the general view in Britain's academia that [[fascism]] was a [[capitalist]] reaction to socialism and ''The Road to Serfdom'' arose from those concerns. It was written between 1940 and 1943. The title was inspired by the French classical liberal thinker [[Alexis de Tocqueville]]'s writings on the "road to servitude". <ref>Ebenstein, p. 116. </ref> It was first published in Britain by [[Routledge]] in March 1944 and was quite popular, leading Hayek to call it "that unobtainable book," also due in part to wartime paper rationing. <ref>Ebenstein, p. 128. </ref> When it was published in the United States by the University of Chicago in September of that year, it achieved greater popularity than in Britain. <ref>A. J. Tebble, ''F.A. Hayek'', Continuum International Publishing Group, 2010, p. 8</ref> At the arrangement of editor [[Max Eastman]], the American magazine ''[[Reader's Digest]]'' also published an abridged version in April 1945, enabling ''The Road to Serfdom'' to reach a far wider audience than academics.  . 
+
+{{Liberalism sidebar|width=22em}}
+The [[Libertarianism|libertarian]] economist [[Walter Block]] observed critically that while ''The Road to Serfdom'' is "a war cry against [[centrally-planned economy|central planning]]," it offers lukewarm support for a free market system and ''[[laissez-faire]]'' capitalism,<ref name=blockserfdom/> with Hayek even going so far as to say that "probably nothing has done so much harm to the liberal cause as the wooden insistence of some liberals on certain rules of thumb, above all of the principle of laissez-faire capitalism". <ref>Hayek, ''The Constitution of Liberty'' (University Chicago Press, 1960), pp. 502–3</ref> In the book, Hayek writes that the government has a role to play in the economy through the [[monetary system]], work-hours regulation, and institutions for the flow of proper information. These are contentions associated with the point of view of [[ordoliberalism]].  . 
+
+Through analysis of this and many other of Hayek's works, Block asserts, "in making the case against socialism, Hayek was led into making all sort of compromises with what otherwise appeared to be his own philosophical perspective – so much so, that if a system was erected on the basis of them, it would not differ too sharply from what this author explicitly opposed."<ref name=blockserfdom>{{Cite journal | last = Block | first = Walter | authorlink = Walter Block
+ | title = Hayek's Road to Serfdom | journal = [[Journal of Libertarian Studies]] | volume = 12
+ | issue = 2 | pages = 339–365 | publisher = [[Center for Libertarian Studies]] | location =
+ | year = 1996 | url = http://mises.org/journals/jls/12_2/12_2_6.pdf | accessdate = 2010-02-17}}</ref> . 
+
+===Chicago===. 
+In 1950, Hayek left the London School of Economics for the University of Chicago, becoming a professor in the [[Committee on Social Thought]]. Hayek's first class at Chicago was a faculty seminar on the philosophy of science attended by many of the University's most notable scientists of the time, including [[Enrico Fermi]], [[Sewall Wright]] and [[Leó Szilárd]]. During his time at Chicago, Hayek worked on the philosophy of science, economics, political philosophy, and the history of ideas. Hayek's economic notes from this period have yet to be published. He did not become part of the [[Chicago School of Economics]], but his recognition of the impact that demand and velocity had on money were a fundamental influence on it. <ref>F. A. Hayek, ''Hayek On Hayek: An Autobiographical Dialogue'' (Liberty Fund, 2008) p. 128. </ref>
+It can be noted that he never taught at the Economics Department which unwaveringly refused him access. <ref>{{cite book|last=Screpanti Zamani|first=Ernesto Stefano|title=An Outline of the History of Economic Thought|year=2005|publisher=Oxford|page=498}}</ref> . 
+
+After editing a book on [[John Stuart Mill]]'s letters he planned to publish two books on the liberal order, ''[[The Constitution of Liberty]]'' and "The Creative Powers of a Free Civilization" (eventually the title for the second chapter of ''The Constitution of Liberty''). <ref>Ebenstein, p. 195. </ref> He completed ''The Constitution of Liberty'' in May 1959, with publication in February 1960. Hayek was concerned "with that condition of men in which coercion of some by others is reduced as much as is possible in society". <ref>F. A. Hayek, ''The Constitution of Liberty'' (London: Routledge & Kegan Paul, 1960), p. 11. </ref> Hayek was disappointed that the book did not receive the same enthusiastic general reception as ''The Road to Serfdom'' had sixteen years before. <ref>Ebenstein, p. 203. </ref> . 
+
+===Freiburg, California, and Salzburg===. 
+From 1962 until his retirement in 1968, he was a professor at the [[Albert Ludwigs University of Freiburg|University of Freiburg]], West Germany, where he began work on his next book, ''[[Law, Legislation and Liberty]]''. Hayek regarded his years at Freiburg as "very fruitful". <ref>Ebenstein, p. 218. </ref> Following his retirement, Hayek spent a year as a visiting professor of philosophy at the [[University of California, Los Angeles]], where he continued work on ''Law, Legislation and Liberty'', teaching a graduate seminar by the same name and another on the philosophy of social science. Primary drafts of the book were completed by 1970, but Hayek chose to rework his drafts and finally brought the book to publication in three volumes in 1973, 1976 and 1979.  [[Charles Koch]] invited Hayek to serve as the [[Institute for Humane Studies]] – then based in Menlo Park, California – “distinguished senior scholar” in preparation for its first conference on Austrian economics, to be held in June 1974.  Hayek initially declined the offer, but accepted the position after Koch convinced him that he would receive Social Security and Medicare benefits. <ref>http://www.thenation.com/article/163672/charles-koch-friedrich-hayek-use-social-security</ref> . 
+
+He became professor at the [[University of Salzburg]] from 1969 to 1977; he then returned to Freiburg, where he spent the rest of his days. When Hayek left Salzburg in 1977, he wrote, "I made a mistake in moving to Salzburg". The economics department was small, and the library facilities were inadequate. <ref>Ebenstein, p. 254. </ref> . 
+
+===Nobel laureate===. 
+On 9 October 1974, it was announced that Hayek would be awarded the [[Nobel Memorial Prize in Economics]], along with Swedish socialist economist [[Gunnar Myrdal]]. The reasons for the two of them winning the prize are described in the Nobel committee's press release. <ref name="Economics Prize For Works In Economic Theory And Inter-Disciplinary Research">{{cite web|url=http://nobelprize.org/nobel_prizes/economics/laureates/1974/press.html |title=The Prize in Economics 1974 - Press Release |publisher=Nobelprize.org |date=1974-10-09 |accessdate=2011-09-14}}</ref> He was surprised at being given the award and believed that he was given it with Myrdal in order to balance the award with someone from the opposite side of the political spectrum. <ref name="Ref-1">Ebenstein, p. 263. </ref> . 
+
+During the Nobel ceremony in December 1974, Hayek met the Russian dissident [[Aleksandr Solzhenitsyn]]. Hayek later sent him a Russian translation of ''The Road to Serfdom''. <ref name="Ref-1"/> Although he spoke at his award speech of apprehension about the danger the authority of the prize would lend to an economist,<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/economics/laureates/1974/hayek-speech.html |title=Friedrich August von Hayek – Banquet Speech |publisher=Nobelprize.org |date=1974-12-10 |accessdate=2011-09-14}}</ref> the prize brought much greater public awareness of Hayek and has been described by his biographer as "the great rejuvenating event in his life". <ref>Ebenstein, p. 261. </ref> . 
+
+===''The Denationalization of Money''===. 
+In 1976, in a paper on ''[[The Denationalization of Money]]'',<ref>Hayek, [http://mises.org/books/denationalisation.pdf ''Denationalization of Money'']</ref> Hayek advocated that rather than re-instituting a government-mandated gold standard, a free market in money be allowed to develop, with issuers of money competing with each other to produce the best, most stable and healthy currency.  . 
+
+This sparked an entire school of thought within economics, [[Free Banking]], with banks not being banned from having [[fractional reserve banking|fractional reserves]] as Rothbard advocated, but instead being free to experiment and discover the best method of conducting business. Economists including [[Richard Timberlake]], [[George Selgin]], [[Lawrence White]], and [[Steven Horwitz]] are part of this school of thought.{{citation needed|date=December 2010}} . 
+
+==Later years==. 
+===United Kingdom politics===. 
+{{Libertarianism sidebar |width=22em}}
+In February 1975, Margaret Thatcher was elected leader of the British Conservative Party. The Institute of Economic Affairs arranged a meeting between Hayek and Thatcher in London soon after. <ref>Richard Cockett, ''Thinking the Unthinkable. Think-Tanks and the Economic Counter-Revolution, 1931–1983'' (Fontana, 1995), pp. 174–6. </ref> During Thatcher's only visit to the [[Conservative Research Department]] in the summer of 1975, a speaker had prepared a paper on why the "middle way" was the pragmatic path the Conservative Party should take, avoiding the extremes of left and right. Before he had finished, Thatcher "reached into her briefcase and took out a book. It was Hayek's ''The Constitution of Liberty''. Interrupting our pragmatist, she held the book up for all of us to see. 'This', she said sternly, 'is what we believe', and banged Hayek down on the table". <ref>John Ranelagh, ''Thatcher's People: An Insider's Account of the Politics, the Power, and the Personalities'' (Fontana, 1992), p. ix. </ref> . 
+
+In 1977, Hayek was critical of the [[Lib-Lab pact#1977|Lib-Lab pact]], in which the British Liberal Party agreed to keep the British Labour government in office. Writing to ''The Times'', Hayek said, "May one who has devoted a large part of his life to the study of the history and the principles of liberalism point out that a party that keeps a socialist government in power has lost all title to the name 'Liberal'. Certainly no liberal can in future vote 'Liberal'". <ref>"Letters to the Editor: Liberal pact with Labour", ''The Times'' (31 March 1977), p. 15. </ref> Hayek was criticised by Liberal politicians [[Gladwyn Jebb, 1st Baron Gladwyn|Lord Gladwyn]] and [[Andrew Phillips, Baron Phillips of Sudbury|Andrew Phillips]], who both claimed that the purpose of the pact was to discourage socialist legislation.  . 
+
+Lord Gladwyn pointed out that the [[Free Democratic Party (Germany)|German Free Democrats]] were in coalition with the [[Social Democratic Party of Germany|German Social Democrats]]. <ref>"Letters to the Editor: Liberal pact with Labour", ''The Times'' (2 April 1977), p. 15. </ref> Hayek was defended by Professor [[Antony Flew]] who stated that the German Social Democrats, unlike the British Labour Party, had, since the late 1950s, abandoned public ownership of the means of production, distribution and exchange and had instead embraced the [[social market economy]]. <ref>"Letters to the Editor: German socialist aims", ''The Times'' (13 April 1977), p. 13. </ref> . 
+
+In 1978, Hayek came into conflict with the Liberal Party leader, [[David Steel]], who claimed that liberty was possible only with "social justice and an equitable distribution of wealth and power, which in turn require a degree of active government intervention" and that the Conservative Party were more concerned with the connection between liberty and private enterprise than between liberty and democracy. Hayek claimed that a limited democracy might be better than other forms of limited government at protecting liberty but that an unlimited democracy was worse than other forms of unlimited government because "its government loses the power even to do what it thinks right if any group on which its majority depends thinks otherwise".  . 
+
+Hayek stated that if the Conservative leader had said "that free choice is to be exercised more in the market place than in the ballot box, she has merely uttered the truism that the first is indispensable for individual freedom while the second is not: free choice can at least exist under a dictatorship that can limit itself but not under the government of an unlimited democracy which cannot". <ref>"Letters to the Editor: The dangers to personal liberty", ''The Times'' (11 July 1978), p. 15. </ref> . 
+
+===Influence on central European politics===. 
+US President [[Ronald Reagan]] at his time listed Hayek as among the two or three people who most influenced his philosophy, and welcomed Hayek to the White House as a special guest. <ref>Martin Anderson, "Revolution" (Harcourt Brace Jovanovich, 1988), p. 164</ref> In the 1970s and 1980s, the writings of Hayek were also a major influence on many of the leaders of the "velvet" revolution in [[Central Europe]] during the collapse of the old [[Soviet Empire]]. Here are some supporting examples: . 
+
+<blockquote>
+<p>There is no figure who had more of an influence, no person had more of an influence on the intellectuals behind the Iron Curtain than Friedrich Hayek. His books were translated and published by the underground and black market editions, read widely, and undoubtedly influenced the climate of opinion that ultimately brought about the collapse of the Soviet Union. </p> . 
+
+<p>—[[Milton Friedman]]* (Hoover Institution)</p>
+</blockquote> . 
+
+<blockquote>
+<p>The most interesting among the courageous dissenters of the 1980s were the classical liberals, disciples of F. A. Hayek, from whom they had learned about the crucial importance of economic freedom and about the often-ignored conceptual difference between liberalism and democracy. <ref>Andrzy Walicki, “Liberalism in Poland”, Critical Review, Winter, 1988, p.&nbsp;9. </ref></p> . 
+
+<p>—[[Andrzej Walicki]]* (History, Notre Dame)</p>
+</blockquote> . 
+
+<blockquote>
+<p>[[Estonian Prime Minister]] [[Mart Laar]] came to my office the other day to recount his country’s remarkable transformation. He described a nation of people who are harder-working, more virtuous – yes, more virtuous, because the market punishes immorality – and more hopeful about the future than they’ve ever been in their history. I asked Mr. Laar where his government got the idea for these reforms. Do you know what he replied? He said, "We read Milton Friedman and F. A. Hayek."<ref>Dick Armey, "Address at the Dedication of the Hayek Auditorium", [[Cato Institute]], Washington, D.C., May 9, 1995. </ref>
+</p> . 
+
+<p>—U.S. Representative Dick Armey</p>
+</blockquote> . 
+
+<blockquote>
+<p>I was 25 years old and pursuing my doctorate in economics when I was allowed to spend six months of post-graduate studies in Naples, Italy. I read the Western economic textbooks and also the more general work of people like Hayek. By the time I returned to Czechoslovakia, I had an understanding of the principles of the market. In 1968, I was glad at the political liberalism of the Dubcek Prague Spring, but was very critical of the Third Way they pursued in economics. <ref>Vaclav Klaus, “No Third Way Out: Creating a Capitalist Czechoslovakia”, Reason, 1990, (June): 28–31. </ref>
+</p> . 
+
+<p>—[[Vaclav Klaus]] (President of the Czech Republic)</p>
+</blockquote> . 
+
+===Recognition===. 
+In 1980, Hayek, a non-practicing [[Roman Catholic]],<ref name=sallas/><ref>{{cite web|url=http://www.cato.org/events/transcripts/010508et.pdf |title=CATO INSTITUTE BOOK FORUM – FRIEDRICH HAYEK: A BIOGRAPHY|format=PDF |date=2001-05-08|accessdate=2011-09-14}}</ref> was one of twelve Nobel laureates to meet with [[Pope John Paul II]], "to dialogue, discuss views in their fields, communicate regarding the relationship between [[Catholicism]] and science, and 'bring to the Pontiff's attention the problems which the Nobel Prize Winners, in their respective fields of study, consider to be the most urgent for contemporary man.'"<ref>Ebenstein, p. 301. </ref> . 
+
+In 1984, he was appointed as a member of the Order of the Companions of Honour (CH) by Queen [[Elizabeth II of the United Kingdom]] on the advice of the British Prime Minister Margaret Thatcher for his "services to the study of economics". <ref name="Ebenstein">Alan O. Ebenstein. (2003) Friedrich Hayek: A biography. p.305. University of Chicago Press, 2003</ref> Hayek had hoped to receive a [[baronet]]cy, and after he was awarded the CH he sent a letter to his friends requesting that he be called the English version of Friedrich (Frederick) from now on. After his 20 min audience with the Queen, he was "absolutely besotted" with her according to his daughter-in-law, Esca Hayek. Hayek said a year later that he was "amazed by her. That ease and skill, as if she'd known me all my life". The audience with the Queen was followed by a dinner with family and friends at the [[Institute of Economic Affairs]]. When, later that evening, Hayek was dropped off at the [[Reform Club]], he commented: "I've just had the happiest day of my life". <ref>Ebenstein, p. 305. </ref> . 
+
+In 1991, US President George H. W. Bush awarded Hayek the Presidential Medal of Freedom, one of the two highest civilian awards in the United States, for a "lifetime of looking beyond the horizon". Hayek died in 1992 in [[Freiburg]], Germany, and was buried in the Neustift am Wald cemetery in the northern outskirts of Vienna. <ref>Ebenstein, p. 317. </ref> In 2011 his article [[The Use of Knowledge in Society]] was selected as one of the top 20 articles published in the American Economic Review during its first 100 years. <ref name="top" /> . 
+
+==Work==. 
+===The business cycle===. 
+{{Main|Austrian business cycle theory}}
+Hayek's principal investigations in economics concerned [[Capital (economics)|capital]], money, and the business cycle. Mises had earlier applied the concept of [[marginal utility]] to the value of money in his ''[[Theory of Money and Credit]]'' (1912), in which he also proposed an explanation for "industrial fluctuations" based on the ideas of the old [[British Currency School]] and of Swedish economist [[Knut Wicksell]]. Hayek used this body of work as a starting point for his own interpretation of the business cycle, elaborating what later became known as the "[[Austrian Theory of the Business Cycle]]". In his ''Prices and Production'' (1931), Hayek argued that the business cycle resulted from the [[central bank]]'s [[inflation]]ary [[Credit cycle|credit expansion]] and its transmission over time, leading to a capital misallocation caused by the artificially low [[interest rate]]s. Hayek claimed that "the past instability of the market economy is the consequence of the exclusion of the most important regulator of the market mechanism, money, from itself being regulated by the market process." . 
+
+In accordance with arguments outlined in his essay ''The Use of Knowledge in Society'', he argued that a monopolistic governmental agency like a central bank can neither possess the relevant information which should govern supply of money, nor have the ability to use it correctly. <ref>{{cite book |title=The Collected Works of F.A. Hayek |last=Hayek |first=Friedrich |year=1989 |publisher=University of Chicago Press |isbn=978-0-226-32097-7 |page=202 }}</ref> . 
+
+In 1929, Lionel Robbins assumed the helm of the London School of Economics (LSE). Eager to promote alternatives to what he regarded as the narrow approach of the school of economic thought that then dominated the English-speaking academic world (centered at the [[University of Cambridge]] and deriving largely from the work of [[Alfred Marshall]]), Robbins invited Hayek to join the faculty at LSE, which he did in 1931. According to Nicholas Kaldor, Hayek's theory of the time-structure of capital and of the business cycle initially "fascinated the academic world" and appeared to offer a less "facile and superficial" understanding of [[macroeconomics]] than the Cambridge school's. <ref name="Kaldor1942">{{cite journal | author=Nicholas Kaldor | title=Professor Hayek and the Concertina-Effect | journal=Economica | volume=9 | year=1942 | pages =359–382 | jstor=2550326 | doi=10.2307/2550326 | issue=36}}</ref> . 
+
+Also in 1931, Hayek critiqued Keynes's ''[[A Treatise on Money|Treatise on Money]]'' (1930) in his "Reflections on the pure theory of Mr. J. M. Keynes"<ref>F. A. Hayek, [http://mises.org/daily/2474 "Reflection on the pure theory of money of Mr. J. M. Keynes,"] ''Economica'', '''11''', S. 270-95 (1931). </ref> and published his lectures at the LSE in book form as ''Prices and Production''. <ref>F. A. Hayek, [http://mises.org/books/pricesproduction.pdf ''Prices and Production''], (London: Routledge, 1931). </ref> Unemployment and idle resources are, for Keynes, caused by a lack of effective demand; for Hayek, they stem from a previous, unsustainable episode of easy money and artificially low interest rates.  . 
+
+Hayek's argument is based on [[Eugen von Böhm-Bawerk|Böhm-Bawerk]]'s concept of the "average period of production."<ref>See the chapter [http://books.google.com/books?id=fkVHIn8y8qkC&pg=PA7 "The collaboration with Keynes and the controversy with Hayek,"], Heinz D. Kurz and Neri Salvadori, "Piero Sraffa's contributions to economics," in ''Critical Essays on Piero Sraffa's Legacy in Economics'', ed. H. D. Kurz, (Cambridge: Cambridge University Press, 2000), pp. 3–24. ISBN 9780521580892</ref> . 
+
+====Criticisms====. 
+Keynes asked his friend [[Piero Sraffa]] to respond publicly to Hayek's challenge; instead of formulating an alternative theory, Sraffa elaborated on the logical inconsistencies of Hayek's argument, especially concerning the effect of inflation-induced "forced savings" on the capital sector and about the definition of a "natural" interest rate in a growing economy. <ref>P. Sraffa, [http://www.jstor.org/stable/2223735 "Dr. Hayek on Money and Capital,"] ''Economic Journal'', '''42''', S. 42-53 (1932). </ref> Others who responded negatively to Hayek's work on the business cycle included John Hicks, [[Frank Knight]], and [[Gunnar Myrdal]]. <ref name="Caldwell-criticism">Bruce Caldwell, ''Hayek's Challenge: An Intellectual Biography of F. A. Hayek'' (Chicago: University of Chicago Press, 2004), p. 179. ISBN 0226091937</ref> . 
+
+Hayek continued his research on monetary and capital theory, revising his theories of the relations between credit cycles and capital structure in ''Profits, Interest and Investment'' (1939) and ''The Pure Theory of Capital'' (1941), but his reputation as an economic theorist had by then fallen so much that those works were largely ignored, except for scathing critiques by Nicholas Kaldor. <ref name="Kaldor1942"/><ref name="Kaldor1939">{{cite journal | author=Nicholas Kaldor | title=Capital Intensity and the Trade Cycle| journal=Economica| volume=6 | issue=21 | year=1939 | pages=40–66 | doi=10.2307/2549077 }}</ref> Lionel Robbins himself, who had embraced the Austrian theory of the business cycle in ''The Great Depression'' (1934), later regretted having written that book and accepted many of the Keynesian counter-arguments. <ref name="Garrison">[[Roger Garrison|R. W. Garrison]], [http://www.auburn.edu/~garriro/amagi.htm "F. A. Hayek as 'Mr. Fluctooations:' In Defense of Hayek's 'Technical Economics'"], ''Hayek Society Journal'' (LSE), '''5'''(2), 1 (2003). </ref> . 
+
+Hayek never produced the book-length treatment of "the dynamics of capital" that he had promised in the ''Pure Theory of Capital''.  After 1941, he continued to publish works on the economics of information, political philosophy, the theory of law, and psychology, but seldom on macroeconomics. At the University of Chicago, Hayek was not part of the economics department and did not influence the rebirth of neoclassical theory which took place there (see [[Chicago school of economics]]). When, in 1974, he shared the Nobel Memorial Prize in Economics with [[Gunnar Myrdal]], the latter complained about being paired with an "ideologue". [[Milton Friedman]] declared himself "an enormous admirer of Hayek, but not for his economics. I think ''Prices and Production'' is a very flawed book. I think his [''Pure Theory of Capital''] is unreadable. On the other hand, ''The Road to Serfdom'' is one of the great books of our time."<ref name="Garrison" /> . 
+
+:''"Your greatest danger is the probable practical failure of the application of your philosophy in the United States."'' - [[John Maynard Keynes]] in a letter to Hayek. <ref>
+{{cite book
+|last=Hoover
+|first=Kenneth R. 
+|title=Economics as Ideology
+|publisher=[[Rowman & Littlefield]]
+|year=2008
+|location=[[Lanham, Maryland]]
+|page=152
+|isbn=0742531139
+}}
+</ref> . 
+
+===The economic calculation problem===. 
+{{Main|Economic calculation problem}}
+Hayek was one of the leading academic critics of collectivism in the 20th century. Hayek argued that all forms of collectivism (even those theoretically based on voluntary cooperation) could only be maintained by a central authority of some kind. In Hayek's view, the central role of the state should be to maintain the [[rule of law]], with as little arbitrary intervention as possible. In his popular book, ''[[The Road to Serfdom]]'' (1944) and in subsequent academic works, Hayek argued that socialism required central economic planning and that such planning in turn leads towards [[totalitarianism]]. Hayek posited that a central planning authority would have to be endowed with powers that would impact and ultimately control social life, because the knowledge required for central planning an economy is inherently decentralized, and would need to be brought under control.  . 
+
+Building on the earlier work of Ludwig von Mises and others, Hayek also argued that while in centrally planned economies an individual or a select group of individuals must determine the distribution of resources, these planners will never have enough information to carry out this allocation reliably. This argument, first proposed by [[Max Weber]], says that the efficient exchange and use of resources can be maintained only through the [[price]] mechanism in free markets (see [[economic calculation problem]]).  . 
+
+In ''The Use of Knowledge in Society'' (1945), Hayek argued that the price mechanism serves to share and synchronize local and personal knowledge, allowing society's members to achieve diverse, complicated ends through a principle of spontaneous [[self-organization]]. He used the term [[catallaxy]] to describe a "self-organizing system of voluntary co-operation." Hayek's research into this argument was specifically cited by the Nobel Committee in its press release awarding Hayek the Nobel prize. <ref name="Economics Prize For Works In Economic Theory And Inter-Disciplinary Research"/> . 
+
+Hayek also wrote that the state has a role to play in the economy, and specifically, in creating a "safety net". He wrote, "There is no reason why, in a society which has reached the general level of wealth ours has, the first kind of security should not be guaranteed to all without endangering general freedom; that is: some minimum of food, shelter and clothing, sufficient to preserve health. Nor is there any reason why the state should not help to organize a comprehensive system of social insurance in providing for those common hazards of life against which few can make adequate provision."<ref>{{cite news| url=http://voices.washingtonpost.com/ezra-klein/2010/07/hayek_on_social_insurance.html | work=The Washington Post | title=Hayek on Social Insurance}}</ref> . 
+
+===Spontaneous order===. 
+{{Main|Spontaneous order}}
+Hayek viewed the [[free price system]] not as a conscious invention (that which is intentionally designed by man),but as spontaneous order or what he referred to as "that which is the result of human action but not of human design". Thus, Hayek put the ''price mechanism'' on the same level as, for example, language.  . 
+
+Hayek attributed the birth of civilization to [[private property]] in his book ''[[The Fatal Conceit]]'' (1988). He explained that [[price signals]] are the only means of enabling each economic decision maker to communicate [[tacit knowledge]] or dispersed knowledge to each other, in order to solve the economic calculation problem.  . 
+
+===Investment and choice===. 
+Perhaps more fully than any other economist, Hayek investigated the [[choice theory]] of investment. He examined the inter-relations between ''non-permanent'' production goods and "latent" or potentially economic ''permanent'' resources – building on the choice theoretical insight that, "processes that take more time will evidently not be adopted unless they yield a greater return than those that take less time."<ref>''The Pure Theory of Capital'' ([http://mises.org/books/puretheory.pdf pdf]), Chicago: University of Chicago Press, 1941/2007 (Vol. 12 of the Collected Works): p. 90. </ref> . 
+
+Hayek's work on the [[microeconomics]] of the choice theoretics of investment, non-permanent goods, ''potential'' permanent resources, and ''economically-adapted'' permanent resources mark a central dividing point between his work in areas of [[macroeconomics]] and that of most all other economists. Hayek's work on the macroeconomic subjects of [[central planning]], trade cycle theory, the division of knowledge, and entrepreneurial adaptation especially, differ greatly from the opinions of macroeconomic "Marshallian" economists in the tradition of John Maynard Keynes and the microeconomic "[[Léon Walras|Walrasian]]" economists in the tradition of Abba Lerner.  . 
+
+===Social and political philosophy===. 
+In the latter half of his career Hayek made a number of contributions to [[social philosophy|social]] and [[political philosophy]], which he based on his views on the limits of human knowledge,<ref>{{cite web|author=|url=http://www.econlib.org/library/Essays/hykKnw1.html |title=The Use of Knowledge in Society – A selected essay reprint |publisher=Econlib.org |date= |accessdate=2011-09-14}}</ref> and the idea of ''spontaneous order'' in social institutions. He argues in favor of a society organized around a market order, in which the apparatus of state is employed almost (though not entirely) exclusively to enforce the legal order (consisting of abstract rules, and not particular commands) necessary for a market of free individuals to function. These ideas were informed by a moral philosophy derived from [[epistemological]] concerns regarding the inherent limits of human knowledge. Hayek argued that his ideal individualistic, free-market polity would be self-regulating to such a degree that it would be 'a society which does not depend for its functioning on our finding good men for running it'. <ref>Individualism and Economic Order, p. 11</ref> . 
+
+Hayek disapproved strongly of the notion of '[[social justice]]'. He compared the market to a game in which 'there is no point in calling the outcome just or unjust'<ref>"The Mirage of Social Justice", chap. 10</ref> and argued that 'social justice is an empty phrase with no determinable content';<ref name=hayek1948ch12>"The Mirage of Social Justice", chap. 12</ref> likewise 'the results of the individual's efforts are necessarily unpredictable, and the question as to whether the resulting distribution of incomes is just has no meaning.'<ref>"The Constitution of Liberty", chap. 6</ref> He regarded any attempt by government to redistribute income or capital as an unacceptable intrusion upon individual freedom: 'the principle of distributive justice, once introduced, would not be fulfilled until the whole of society was organized in accordance with it. This would produce a kind of society which in all essential respects would be the opposite of a free society. <ref name=hayek1948ch12 /> . 
+
+With regard to a safety net, Hayek's statements are mixed. On the one hand, he was prepared to tolerate "some provision for those threatened by the extremes of indigence or starvation, be it only in the interest of those who require protection against acts of desperation on the part of the needy."<ref>"The Constitution of Liberty", chap. 19</ref> On the other hand, as referenced above in the section on "The economic calculation problem", Hayek wrote that "there is no reason why... the state should not help to organize a comprehensive system of social insurance." . 
+
+===Philosophy of science===. 
+In his [[philosophy of science]], which has much in common with that of his good friend [[Karl Popper]], Hayek was highly critical of what he termed ''[[scientism]]'': a false understanding of the methods of science that has been mistakenly forced upon the social sciences, but that is contrary to the practices of genuine science. Usually, scientism involves combining the philosophers' ancient demand for demonstrative justification with the associationists' false view that all scientific explanations are simple two-variable linear relationships. Hayek points out that much of science involves the explanation of complex multivariable and nonlinear phenomena, and the social science of economics and undesigned order compares favourably with such complex sciences as Darwinian biology. These ideas were developed in ''The Counter-Revolution of Science: Studies in the Abuse of Reason'', 1952 and in some of Hayek's later essays in the philosophy of science such as "Degrees of Explanation" and "The Theory of Complex Phenomena".  . 
+
+===Psychology===. 
+In ''The Sensory Order: An Inquiry into the Foundations of Theoretical Psychology'' (1952), Hayek independently developed a "[[Hebbian learning]]" model of learning and memory{{spaced ndash}}an idea which he first conceived in 1920, prior to his study of economics. Hayek's expansion of the "Hebbian synapse" construction into a global brain theory has received continued attention <ref>Gerald Edelman, Neural Darwinism, 1987, p. 25</ref><ref>Joaquin Fuster, Memory in the Cerebral Cortex: An Empirical Approach to Neural Networks in the Human and Nonhuman Primate. Cambridge: [[MIT Press]], 1995, p. 87</ref><ref>Joaquin Fuster, Memory in the Cerebral Cortex: An Empirical Approach to Neural Networks in the Human and Nonhuman Primate. Cambridge: MIT Press, 1995, p. 88</ref><ref>Joauin Fuster, “Network Memory”, Trends in Neuroscience, 1997. Vol. 20, No. 10. (Oct .): 451–459. </ref> in neuroscience, [[cognitive science]], computer science, behavioural science, and [[evolutionary psychology]], by scientists such as Edelman, and Fuster.  . 
+
+==Influence and recognition==. 
+Hayek's influence on the development of economics is widely acknowledged. Hayek is the second-most frequently cited economist (after [[Kenneth Arrow]]) in the Nobel lectures of the prize winners in economics, particularly since his lecture was critical of the field of orthodox economics and neo-classical modelization. A number of [[Nobel Laureates]] in economics, such as [[Vernon L. Smith|Vernon Smith]] and [[Herbert Simon]], recognize Hayek as the greatest modern economist.{{Citation needed|date=August 2011}} Another Nobel winner, [[Paul Samuelson]] believes that Hayek was worthy of his award but nevertheless claims that "there were good historical reasons for fading memories of Hayek within the mainstream last half of the twentieth century economist fraternity. In 1931, Hayek's ''Prices and Production'' had enjoyed an ultra-short Byronic success. In retrospect hindsight tells us that its mumbo-jumbo about the period of production grossly misdiagnosed the macroeconomics of the 1927–1931 (and the 1931–2007) historical scene". <ref>[http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6V8F-4SXH9WK-2-1&_cdi=5869&_user=10&_orig=browse&_coverDate=01%2F31%2F2009&_sk=999309998&view=c&wchp=dGLbVtz-zSkWb&_valck=1&md5=315883b6b470270d5a44f2c6211f5ad4&ie=/sdarticle.pdf]</ref> Despite this comment, Samuelson spent the last 50 years of his life obsessed with the problems of capital theory identified by Hayek and Böhm-Bawerk, and Samuelson flatly judged Hayek to have been right and his own teacher, [[Joseph Schumpeter]], to have been wrong on the central economic question of the 20th century, the feasibility of socialist economic planning in a production goods dominated economy. <ref>The collected scientific papers of Paul A. Samuelson, Volume 5, p. 315. </ref> . 
+
+Hayek is widely recognized for having introduced the time dimension to the equilibrium construction and for his key role in helping inspire the fields of [[growth theory]], [[information economics]], and the theory of spontaneous order. The "informal" economics presented in Milton Friedman's massively influential popular work ''[[Free to Choose]]'' (1980), is explicitly Hayekian in its account of the price system as a system for transmitting and coordinating knowledge. This can be explained by the fact that Friedman taught Hayek's famous paper "The Use of Knowledge in Society" (1945) in his graduate seminars.  . 
+
+In 1944 he was elected as a Fellow of the [[British Academy]],<ref>Fritz Machlup, ''Essays on Hayek'', Routledge, 2003. p 14. </ref> after he was nominated for membership by Keynes. <ref>Sylvia Nasar, ''Grand Pursuit: The Story of Economic Genius'', Simon and Schuster, 2011, p. 402</ref> . 
+
+Harvard economist and former Harvard University President [[Lawrence Summers]] explains Hayek's place in modern economics: "What's the single most important thing to learn from an economics course today? What I tried to leave my students with is the view that the invisible hand is more powerful than the [un]hidden hand. Things will happen in well-organized efforts without direction, controls, plans. That's the consensus among economists. That's the Hayek legacy."<ref>Lawrence Summers, quoted in ''The Commanding Heights: The Battle Between Government and the Marketplace that Is Remaking the Modern World'', by Daniel Yergin and Joseph Stanislaw. New York: Simon & Schuster. 1998, pp. 150–151. </ref> . 
+
+By 1947, Hayek was an organizer of the [[Mont Pelerin Society]], a group of classical liberals who sought to oppose what they saw as socialism in various areas. He was also instrumental in the founding of the [[Institute of Economic Affairs]], the free-market think tank that inspired [[Thatcherism]].  . 
+
+Hayek had a long-standing and close friendship with philosopher of science Karl Popper, also from Vienna. In a letter to Hayek in 1944, Popper stated, "I think I have learnt more from you than from any other living thinker, except perhaps [[Alfred Tarski]]." (See Hacohen, 2000). Popper dedicated his ''Conjectures and Refutations'' to Hayek. For his part, Hayek dedicated a collection of papers, ''Studies in Philosophy, Politics, and Economics'', to Popper and, in 1982, said that "ever since his ''Logik der Forschung'' first came out in 1934, I have been a complete adherent to his general theory of methodology."<ref>See Weimer and Palermo, 1982</ref> Popper also participated in the inaugural meeting of the Mont Pelerin Society. Their friendship and mutual admiration, however, do not change the fact that there are important differences between their ideas. <ref>See Birner, 2001, and for the mutual influence they had on each other's ideas on evolution, Birner 2009</ref> . 
+
+Hayek also played a central role in Milton Friedman's intellectual development: "My interest in public policy and political philosophy was rather casual before I joined the faculty of the University of Chicago. Informal discussions with colleagues and friends stimulated a greater interest, which was reinforced by Friedrich Hayek's powerful book The Road to Serfdom, by my attendance at the first meeting of the Mont Pelerin Society in 1947, and by discussions with Hayek after he joined the university faculty in 1950. In addition, Hayek attracted an exceptionally able group of students who were dedicated to a libertarian ideology. They started a student publication, The New Individualist Review, which was the outstanding libertarian journal of opinion for some years. I served as an adviser to the journal and published a number of articles in it...."<ref>Milton & Rose Friedman, Two Lucky People: Memoirs, (U. of Chicago Press), 1998. p. 333</ref> . 
+
+Hayek's greatest intellectual debt was to Carl Menger, who pioneered an approach to social explanation similar to that developed in Britain by [[Bernard Mandeville]] and the Scottish moral philosophers in the [[Scottish Enlightenment]]. He had a wide-reaching influence on contemporary economics, politics, philosophy, sociology, psychology and anthropology. For example, Hayek's discussion in ''The Road to Serfdom'' (1944) about truth, falsehood and the use of language influenced some later opponents of [[postmodernism]]. <ref>e.g., Wolin 2004</ref> . 
+
+Hayek's work on price theory has been central to the thinking of [[Jimmy Wales]] about how to manage the [[Wikipedia]] project. <ref>Katherine Mangu-Ward: [http://www.reason.com/news/show/119689.html ''Wikipedia and Beyond. Jimmy Wales' sprawling vision'', June 2007]</ref> . 
+
+The Republican congressman for Texas's 14th district, [[Ron Paul]], is a devout follower of the Austrian School.  . 
+
+===Hayek and conservatism===. 
+Hayek received new attention in the 1980s and 1990s with the rise of conservative governments in the United States, United Kingdom, and Canada. After winning the [[United Kingdom general election, 1979]], Margaret Thatcher appointed [[Keith Joseph]], the director of the Hayekian [[Centre for Policy Studies]], as her secretary of state for industry in an effort to redirect parliament's economic strategies. Likewise, [[David Stockman]], Ronald Reagan's most influential financial official in 1981 was an acknowledged follower of Hayek. <ref>Kenneth R. Hoover, ''Economics as Ideology: Keynes, Laski, Hayek, and the Creation of Contemporary Politics'' (2003), p. 213</ref> . 
+
+Hayek wrote an essay, "Why I Am Not a Conservative"<ref>{{cite web |title=Why I Am Not a Conservative |publisher=LewRockwell.com |date= |accessdate=2011-10-12 |url=http://www.lewrockwell.com/orig6/hayek1.html}}</ref> (included as an appendix to ''The Constitution of Liberty''), in which he disparaged [[conservatism]] for its inability to adapt to changing human realities or to offer a positive political program, remarking, "Conservatism is only as good as what it conserves". Although he noted that modern day conservatism shares many opinions on economics with classic liberals, particularly a belief in the free market, he believed it's because conservatism wants to "stand still," whereas [[classical liberalism|liberalism]] embraces the free market because it "wants to go somewhere". Hayek identified himself as a classical liberal but noted that in the United States it had become almost impossible to use "liberal" in its original definition, and the term "[[libertarianism|libertarian]]" has been used instead.  . 
+
+However, for his part, Hayek found this term "singularly unattractive" and offered the term "Old [[British Whig Party|Whig]]" (a phrase borrowed from [[Edmund Burke]]) instead. In his later life, he said, "I am becoming a Burkean Whig." However, Whiggery as a political doctrine had little affinity for classical political economy, the tabernacle of the Manchester School and William Gladstone. <ref>E. H. H. Green, ''Ideologies of Conservatism. Conservative Political Ideas in the Twentieth Century'' (Oxford: Oxford University Press, 2004), p. 259. </ref> His essay has served as an inspiration to other liberal-minded economists wishing to distinguish themselves from conservative thinkers, for example [[James M. Buchanan]]'s essay "Why I, Too, Am Not a Conservative: The Normative Vision of Classical Liberalism".  . 
+
+A common term in much of the world for what Hayek espoused is "[[neoliberalism]]". A British scholar, [[Samuel Brittan]], concluded in 2010, "Hayek's book [''The Constitution of Liberty''] is still probably the most comprehensive statement of the underlying ideas of the moderate free market philosophy espoused by neoliberals."<ref name="brittan">Samuel Brittan, "The many faces of liberalism," [http://www.ft.com/cms/s/2/529c55fe-06df-11df-b058-00144feabdc0.html ft.com], January 22, 2010]</ref> Brittan adds that although Plant (2009) comes out in the end against Hayek's doctrines, Plant gives ''The Constitution of Liberty'' a "more thorough and fair-minded analysis than it has received even from its professed adherents."<ref name="brittan" /> . 
+
+In ''Why F A Hayek is a Conservative'',<ref>"Why F A Hayek is a Conservative" Eamonn Butler and Madsen Pirie (eds) ''Hayek on the Fabric of Human Society'' (Adam Smith Institute, 1987)</ref> British policy analyst [[Madsen Pirie]] believes Hayek mistakes the nature of the conservative outlook. Conservatives, he says, are not averse to change – but like Hayek, they are highly averse to change being imposed on the social order by people in authority who think they know how to run things better. They wish to allow the market to function smoothly and give it the freedom to change and develop. It is an outlook, says Pirie, that Hayek and conservatives both share.  . 
+
+==Personal life==. 
+In August 1926, Hayek married Helen Berta Maria von Fritsch, a secretary at the civil service office where Hayek worked. They had two children together. <ref>Ebenstein, p. 44. </ref> Friedrich and Helen divorced in July 1950 and he married Helene Bitterlich<ref>Ebenstein, p. 169. </ref> just a few weeks later, moving to Arkansas in order to take advantage of permissive divorce laws. <ref>Ebenstein, p. 155. </ref> . 
+
+==Legacy and honours==. 
+Even after his death, Hayek's intellectual presence is noticeable, especially in the universities where he had taught: the London School of Economics, the University of Chicago, and the University of Freiburg. A number of tributes have resulted, many posthumous:
+* A student-run group at the LSE [[Hayek Society]], was established in 1996 in his honor. 
+* At [[Oxford University]], the Oxford Libertarian Society was previously known as the Hayek Society.{{Citation needed|date=September 2010}}
+* The [[Cato Institute]] named its lower level auditorium after Hayek, who had been a Distinguished Senior Fellow at Cato during his later years. 
+* Also, the auditorium of the school of economics in [[Universidad Francisco Marroquín]] in [[Guatemala]] is named after him. 
+* The Hayek Fund for Scholars<ref>{{cite web|url=http://www.theihs.org/ContentDetails.aspx?id=516 |title=Hayek Fund for Scholars &#124; Institute For Humane Studies |publisher=Theihs.org |date= |accessdate=2011-09-14}}</ref> of the [[Institute for Humane Studies]] provides financial awards for academic career activities of graduate students and untenured faculty members. 
+* The [[Ludwig von Mises Institute]] holds a lecture named after Hayek every year at its Austrian Scholars Conference and invites notable academics to speak about subjects relating to Hayek's contributions to the Austrian School. 
+* [[George Mason University]] has an economics essay award named in honor of Hayek. 
+* Hayek was awarded honorary degrees from [[Rikkyo University]], University of Vienna, and University of Salzburg. 
+* Hayek has an investment portfolio named after him. The Hayek Fund<ref>{{cite web|url=http://www.hayekfund.com |title=Hayekfund.com |publisher=Hayekfund.com |date= |accessdate=2011-09-14}}</ref> invests in corporations who financially support free market public policy organizations . 
+
+===Alleged support of Pinochet===. 
+Hayek visited Chile a handful of times in the 1970s and 1980s during the government of general [[Augusto Pinochet]] and accepted being named Honorary Chairman of the "Centro de Estudios Públicos", the think tank formed by the economists who transformed Chile into a free market economy.  . 
+
+Asked about liberal, non-democratic rule by a Chilean interviewer, Hayek is translated from German to Spanish to English as having said, "As long term institutions, I am totally against dictatorships. But a dictatorship may be a necessary system for a transitional period. [...] Personally I prefer a liberal dictator to democratic government lacking liberalism. My personal impression – and this is valid for South America – is that in Chile, for example, we will witness a transition from a dictatorial government to a liberal government."<ref name=sallas>[http://www.fahayek.org/index.php?option=com_content&task=view&id=121 Friedrich von Hayek, Leader and Master of Liberalism] Renée Sallas, "El Mercurio" (p. D8–D9), 12 April 1981, Santiago de Chile</ref><ref>Greg Grandin, professor of history, New York University, [http://books.google.com/books?id=t5itdZ7oycUC&pg=PA172&lpg=PA172&dq=greg+grandin+hayek&source=bl&ots=yJzrb3YduJ&sig=GonAv6w1wQiM5vdwBknys97PZEY&hl=en#v=onepage&q=&f=false ''Empire's Workshop: Latin America, the United States, and the Rise of the New Imperialism]'', pp. 172,173, Metropolitan, 2006, ISBN 0-8050-7738-3. </ref><<ref>Dan Avnôn, [http://books.google.com/books?id=E6TmN-9qAmQC ''Liberalism and its Practice]'', p. 56, Routledge, 1999, ISBN 0-415-19354-0. </ref> . 
+
+Hayek, of course, had lived his early life under the mostly liberal, but mostly non-democratic, rule of the Austro-Hungarian Emperor, and Hayek had seen democracy descend into illiberal tyranny in a host of Central and Eastern European countries. By 1990, Chile had fulfilled Hayek's prediction by transitioning to a democratic state as established in the 1980 [[Constitution of Chile]] approved during the Pinochet regime.  . 
+
+"Of course," writes Grandin, "the thousands executed and tens of thousands tortured by Pinochet's regime weren't talking."<ref>Grandin, Greg. Empire's Workshop: Latin America, The United States, and the Rise of the New Imperialism, pp.172,173, Metropolitan,2006. </ref> Hayek recommended liberal economic reforms similar to Chile's for the Keynesian economy in the United Kingdom to Prime Minister Margaret Thatcher. <ref>[[Naomi Klein]], [http://books.google.com/books?id=jrTK1TcMPBsC ''The Shock Doctrine: The Rise of Disaster Capitalism''], pp. 164–169, Macmillan, 2008, ISBN 0-312-42799-9
+. </ref> . 
+
+==Selected bibliography==. 
+{{Main|Friedrich Hayek bibliography}}
+* ''Monetary Theory and the Trade Cycle'', 1929. 
+* ''Prices and Production'', 1931. 
+* ''Profits, Interest and Investment: And other essays on the theory of industrial fluctuations'', 1939. 
+* ''[[The Road to Serfdom]]'', 1944. 
+* ''[[Individualism and Economic Order]]'', 1948. 
+* ''The Counter-revolution of Science: Studies on the Abuse of Reason'', 1952. 
+* ''[[The Constitution of Liberty]]'', 1960, ''...: The Definitive Edition'', 2011. [http://www.press.uchicago.edu/ucp/books/book/chicago/C/bo9253956.html Description] and [http://books.google.com/books?id=SrAJFwL1j0YC&printsec=find&pg=PR7=#v=onepage&q&f=false preview]. 
+* ''[[Law, Legislation and Liberty]]'' (3 volumes)
+::Volume I. ''Rules and Order'', 1973. <ref>{{cite book|url=http://books.google.com/?id=UunDsFD25fYC&printsec=frontcover#v=onepage&q&f=false |title=Law, Legislation and Liberty, Volume ... – Google Books |publisher=Books.google.com |date=1978-02-15 |accessdate=2011-09-14|isbn=9780226320861}}</ref>
+::Volume II. ''The Mirage of Social Justice'', 1976. <ref>{{cite book|url=http://books.google.com/?id=qq6p11NPdOoC&printsec=frontcover#v=onepage&q&f=false |title=Law, Legislation and Liberty, Volume ... – Google Books |publisher=Books.google.com |date=1978-10-15 |accessdate=2011-09-14|isbn=9780226320830}}</ref>
+::Volume III. ''The Political Order of a Free People'', 1979. <ref>http://books.google.com/books?id=0HzIUyFkwlYC&printsec=frontcover&dq=law+legislation+and+liberty+hayek&source=bl&ots=0pQBWX4oBe&sig=rjIlbP9uRDe5hAQyHr21EMyAOYI&hl=en&ei=lURgTN6mOcaAlAfT-eiZCA&sa=X&oi=book_result&ct=result&resnum=9&ved=0CEMQ6AEwCA#v=onepage&q&f=false</ref>
+* ''[[The Fatal Conceit]]: The Errors of Socialism'', 1988.  . 
+
+==See also==. 
+* [[Constructivist epistemology]]
+* ''[[Fear the Boom and Bust]]'' – a 2010 hip-hop style music video produced by the [[Mercatus Center]] in which Keynes and Hayek take part in a rap battle
+* [[Global financial system]] – describes the financial system consisting of institutions and regulators that act on the international level
+* [[History of economic thought]]
+* [[Liberalism in Austria]]
+* [[Stockholm school (economics)]] – the school of economic thought whose antithesis is the gold standard centered Austrian School of Economics . 
+
+==Notes==. 
+{{Reflist|30em}} . 
+
+==Bibliography==. 
+* Birner, Jack, 2001, "The mind-body problem and social evolution," CEEL Working Paper 1-02. 
+* Birner, Jack, and Rudy van Zijp, eds., ''Hayek: Co-ordination and Evolution: His legacy in philosophy, politics, economics and the history of ideas'' (1994)
+* Birner, Jack, 2009, "From group selection to ecological niches. Popper's rethinking of evolutionary theory in the light of Hayek's theory of culture", in S. Parusnikova & R.S. Cohen (eds.), Rethinking Popper, Boston Studies in the Philosophy of Science Vol. 272, Springer 2009
+* Boettke, Peter J. (1995). "Hayek's the Road to Serfdom Revisited: Government Failure in the Argument against Socialism," ''Eastern Economic Journal'' Vol. 21, No. 1 (Winter, 1995), pp.&nbsp;7–26 [http://www.jstor.org/stable/40325611 in JSTOR]
+* Brittan, Samuel "Hayek, Friedrich August (1899–1992)", ''Oxford Dictionary of National Biography,'' (2006) [http://www.oxforddnb.com/view/article/51095 online]
+* Caldwell, Bruce, 2005. ''Hayek's Challenge: An Intellectual Biography of F.A. Hayek''. 
+* Caldwell, Bruce, 1997. "Hayek and Socialism," ''Journal of Economic Literature'' Vol. 35, No. 4 (Dec., 1997), pp.&nbsp;1856–1890 [http://www.jstor.org/stable/2729881 in JSTOR]
+* Cohen, Avi J. "The Hayek/Knight Capital Controversy: the Irrelevance of Roundaboutness, or Purging Processes in Time?" ''History of Political Economy'' 2003 35(3): 469–490. Issn: 0018-2702 Fulltext: online in Project Muse, Swetswise and Ebsco
+* Doherty, Brian. 2007. ''Radicals for Capitalism: A Freewheeling History of the Modern American Libertarian Movement''
+* Ebeling, Richard M., [http://www.thefreemanonline.org/from-the-president/f-a-hayek-and-the-road-to-serfdom-a-sixtieth-anniversary-appreciation/ "F. A. Hayek and ''The Road to Serfdom'': A Sixtieth Anniversary Appreciation"] (''The Freeman'', March 2004)
+* Ebeling, Richard M., [http://mises.org/daily/638/FA-Hayek-A-Biography "F. A. Hayek: A Biography"] (Ludwig von Mises Institute, March 26, 2001)
+* Ebeling, Richard M., [http://www.thefreemanonline.org/featured/friedrich-a-hayek-a-centenary-appreciation/ "Friedrich A. Hayek: A Centenary Appreciation"] (''The Freeman'', May 1999)
+* Ebenstein, Alan O., 2001. '' Friedrich Hayek: A Biography''. 
+* Frowen, S. ed., (1997) ''Hayek: economist and social philosopher''
+* Gamble, Andrew. (1996) ''The Iron Cage of Liberty'', an analysis of Hayek's ideas
+* Goldsworthy, J D, [http://www.austlii.edu.au/au/journals/SydLawRw/1986/3.html "Hayek's Political and Legal Philosophy: An Introduction"] [1986] SydLawRw 3; (1986) 11(1) Sydney Law Review 44
+* Gray, John, 1998. ''Hayek on Liberty''. 
+* Hacohen, Malachi, 2000. ''Karl Popper: The Formative Years, 1902–1945''. 
+* Horwitz, Steven. "Friedrich Hayek, Austrian Economist." ''Journal of the History of Economic Thought'' 2005 27(1): 71–85. Issn: 1042-7716 Fulltext: in Swetswise, Ingenta and Ebsco
+* Hayek, Friedrich August, 1948. ''[http://books.google.com/books?id=q1jn5nE3tsYC Individualism and economic order]''. University of Chicago Press, ISBN 978-0-226-32093-9. 
+* Issing, O. (1999) ''Hayek, currency competition and European monetary union''
+* Kasper, Sherryl, 2002, ''The Revival of Laissez-Faire in American Macroeconomic Theory: A Case Study of Its Pioneers''. Chpt. 4. 
+* Kley, Roland, 1994. ''Hayek's Social and Political Thought''. Oxford Univ. Press. 
+* Muller, Jerry Z., 2002. ''The Mind and the Market: Capitalism in Western Thought''. Anchor Books. 
+* Pavlík, Ján. 2004 [http://nb.vse.cz/kfil/pavlik.htm nb.vse.cz]. ''F. A. von Hayek and The Theory of Spontaneous Order.'' Professional Publishing 2004, Prague, [http://www.profespubl.cz/index_soubory/hayek.htm profespubl.cz]. 
+* Plant, Raymond. ''The Neo-liberal State'' (2009) Oxford University Press, 312 pages
+* Rosenof, Theodore. "Freedom, Planning, and Totalitarianism: The Reception of F. A. Hayek's Road to Serfdom," ''Canadian Review of American Studies'' (1974)
+* [[Paul Samuelson|Samuelson, Paul A.]], 2009. "A Few Remembrances of Friedrich von Hayek (1899–1992)," ''Journal of Economic Behavior & Organization'', 69(1), pp.&nbsp;1–4. Reprinted at J. Bradford DeLong [http://delong.typepad.com/egregious_moderation/2009/01/paul-samuelson-2009-a-few-remembrances-of-friedrich-von-hayek-18991992.html <eblog.]
+* Samuelson, Richard A. "Reaction to the Road to Serfdom." ''Modern Age'' 1999 41(4): 309–317. Issn: 0026-7457 Fulltext: in Ebsco
+* Shearmur; Jeremy, 1996. ''Hayek and after: Hayekian Liberalism as a Research Programme''. Routledge. 
+* Tebble, Adam James, 2009. "Hayek and social justice: a critique", ''Critical Review of International Social and Political Philosophy'', 12 (4):581-604. 
+* Tebble, Adam James, 2010. ''Hayek'', Continuum. 
+* Touchie, John, 2005. ''Hayek and Human Rights: Foundations for a Minimalist Approach to Law''. Edward Elgar. 
+* Vanberg, V. (2001). "Hayek, Friedrich A von (1899–1992)," ''[[International Encyclopedia of the Social & Behavioral Sciences]]'', pp.&nbsp;6482–6486. [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B7MRM-4MT09VJ-12W&_rdoc=50&_hierId=151000072&_refWorkId=21&_explode=151000072&_fmt=summary&_orig=na&_docanchor=&_idxType=SC&view=c&_ct=148&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=694b75be2c8c99e03874335b254ddae9 sciencedirect.com]
+* Vernon, Richard. "The 'Great Society' and the 'Open Society': Liberalism in Hayek and Popper." ''Canadian Journal of Political Science'' 1976 9(2): 261–276. Issn: 0008-4239 Fulltext: in Jstor
+* Wapshott, Nicholas. ''Keynes Hayek: The Clash That Defined Modern Economics'' (W.W. Norton & Company; 20111) 382 pages; covers the debate with Keynes in letters, articles, conversation, and by the two economists' disciples. 
+* Weimer, W., and Palermo, D., eds., 1982. ''Cognition and the Symbolic Processes''. Lawrence Erlbaum Associates. Contains Hayek's essay, "''The Sensory Order'' after 25 Years" with "Discussion."
+* Wolin, R. 2004. ''The Seduction of Unreason: The Intellectual Romance with Fascism from Nietzsche to Postmodernism.'' [[Princeton University Press]], Princeton.  . 
+
+===Primary sources===. 
+* Hayek, Friedrich. ''The collected works of F. A. Hayek,'' ed. [[W. W. Bartley]] and others (1988–)
+* Hayek, Friedrich. ''Studies on the Abuse and Decline of Reason: Text and Documents'' edited by Bruce Caldwell ([[University of Chicago Press]]; 2010) 331 pages; essays in opposition to positivism.  . 
+
+==External links==. 
+{{External links|date=February 2012}}
+{{Wikiquote}}
+* [http://www.mises.org/content/hayekbio.asp Biography of F. A. Hayek (1899–1992)] and [http://mises.org/articles.aspx?AuthorId=126 papers] at the [[Ludwig von Mises Institute]]
+* [http://www.oac.cdlib.org/findaid/ark:/13030/kt8z09q3kw/ The Mont Pèlerin Society Records] at the [http://www.hoover.org/library-and-archives Hoover Institution Archives]. 
+* [http://www.archive.org/details/nobelprizewinnin00haye UCLA Oral History 1983 Interviews with Friedrich Hayek], [http://mises.org/books/hayek_oral_history.pdf transcript]
+* [http://nobelprize.org/nobel_prizes/economics/laureates/1974/hayek-lecture.html The Pretence of Knowledge] 1974 lecture at [[NobelPrize.org]]
+* [http://www.hayek.ufm.edu The Hayek Interviews]
+* [http://www.TheHayekProphecies.com The Hayek Prophecies]
+* [http://www.hayek.de Friedrich A. von Hayek-Gesellschaft e. V.] (German language)
+* [http://ideas.repec.org/e/pv08.html Profile] and [http://econpapers.repec.org/RAS/pv08.htm Papers] at [[Research Papers in Economics]]/RePEc
+* [http://www.econlib.org/library/Enc/bios/Hayek.html Friedrich Hayek] at [[Econlib]]
+* [http://www.adamsmith.org/f-a-hayek/ F A Hayek] at the [[Adam Smith Institute]]
+* {{Worldcat id|lccn-n80-126331}}
+* {{IMDb name|2613098}}
+* {{C-SPAN|friedrichvonhayek}}
+* [http://www.hayekcenter.org Taking Hayek Seriously]
+* [http://reason.com/hayekint.shtml "The Road from Serfdom"], Thomas W. Hazlett, ''[[Reason (magazine)|Reason]]'', July 1992, includes his 1977 interview with Hayek
+* [http://www.fahayek.org/index.php?option=com_content&task=view&id=46 "Why I Am Not a Conservative"], F.A. Hayek, in ''The Constitution of Liberty'' (Chicago: The University of Chicago Press, 1960)
+* [http://www.mises.org/TRTS.htm Mises.org The Road to Serfdom in cartoons] – The cartoon-booklet version. 
+* [http://www.youtube.com/watch?v=sRS-Ft3uEz8 The Road to Serfdom in cartoons] – The cartoon-booklet version as a video. 
+* {{dmoz|Science/Social_Sciences/Economics/Schools_of_Thought/Austrian_School/People/Hayek,_F._A|F.A Hayek}}
+*[http://www.booknotes.org/Watch/164172-1/Alan+Ebenstein.aspx ''Booknotes'' interview with Alan Ebenstein on ''Friedrich Hayek: A Biography'', July 8, 2001.] . 
+
+{{Nobel laureates in economics}}
+{{macroeconomics-footer}}
+{{Austrian economists}}
+{{History of economic thought}} . 
+
+{{Persondata
+|NAME = Hayek, Friedrich August von
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = Austrian (later British) economist and political philosopher; Nobel Memorial Prize winner; professor; Austrian school member; supported free markets and liberal democracy; anti-Marxist
+|DATE OF BIRTH = {{Birth date|1899|5|8|mf=y}}
+|PLACE OF birth_date = Vienna, Austria-Hungary (now Austria)
+|DATE OF DEATH = {{Death date|1992|3|23|mf=y}}
+|PLACE OF death_date = Freiburg, Baden-Württemberg, Germany
+|PLACE OF BIRTH= Vienna, Austria-Hungary
+|PLACE OF DEATH= Freiburg, Germany
+}}
+{{DEFAULTSORT:Hayek, Friedrich}}
+[[Category:1899 births]]
+[[Category:1992 deaths]]
+[[Category:People from Vienna]]
+[[Category:20th-century philosophers]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Austrian economists]]
+[[Category:Austrian philosophers]]
+[[Category:Bohemian nobility]]
+[[Category:Austrian School economists]]
+[[Category:Austrian libertarians]]
+[[Category:Austrian anti-communists]]
+[[Category:Austrian Nobel laureates]]
+[[Category:Austro-Hungarian military personnel of World War I]]
+[[Category:British economists]]
+[[Category:British libertarians]]
+[[Category:Classical liberals]]
+[[Category:British Nobel laureates]]
+[[Category:Conservatism in the United States]]
+[[Category:Libertarian historians]]
+[[Category:Libertarian economists]]
+[[Category:Heterodox economists]]
+[[Category:Historians of economic thought]]
+[[Category:Members of the Order of the Companions of Honour]]
+[[Category:Mont Pelerin Society members]]
+[[Category:Naturalised citizens of the United Kingdom]]
+[[Category:Nobel laureates in Economics]]
+[[Category:New York University faculty]]
+[[Category:People associated with the London School of Economics]]
+[[Category:Philosophers of law]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Recipients of the Pour le Mérite (civil class)]]
+[[Category:20th-century Austrian people]]
+[[Category:University of Chicago faculty]]
+[[Category:University of Freiburg faculty]]
+[[Category:University of Vienna alumni]]
+[[Category:Austrian people of Moravian-German descent]]

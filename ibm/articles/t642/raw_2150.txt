@@ -1,0 +1,445 @@
+'''Abortion in the United States''' has been legal in every state since the 1973 [[United States Supreme Court|Supreme Court]] decision ''[[Roe v. Wade]]''. Prior to "''Roe''", the legality of abortion was decided by the states; it was illegal in 30 states and legal under certain cases in 20 states. ''Roe'' established that "the right of personal privacy includes the abortion decision, but that this right is not unqualified, and must be considered against important state interests in regulation.". <ref>''Roe v. Wade'', {{ussc|source=j|410|113|1973|pin=154}} "We, therefore, conclude that the right of personal privacy includes the abortion decision, but that this right is not unqualified, and must be considered against important state interests in regulation."</ref> . 
+
+''Roe'' established a "trimester" system of increasing state interest in the life of the fetus corresponding to the fetus's increasing "viability" (likelihood of survival outside the uterus) over the course of a pregnancy, such that states were prohibited from banning abortion early in pregnancy but allowed to impose increasing restrictions or outright bans later in pregnancy. That decision was modified by the 1992 case ''[[Planned Parenthood v. Casey]]'', which upheld the "central holding" in ''Roe'' that there is a fundamental right to privacy encompassing the decision about abortion, but replacing the trimester system with the point of fetal viability (whenever it may occur) as defining a state's right to override the woman's autonomy. ''Casey'' also lowered the legal standard to which states would be held in justifying restrictions imposed on a woman's rights; ''Roe'' had held this to be "[[strict scrutiny]]" - the traditional Supreme Court test for impositions upon fundamental Constitutional rights - whereas ''Casey'' created a new standard referring to "[[undue burden]]", specifically to balance the state's and the woman's interests in the case of abortion.  . 
+
+Before ''[[Roe v. Wade]]'', abortion was legal in several areas of the country, but that decision imposed a uniform framework for state legislation on the subject, and established a minimal period during which abortion must be legal (under greater or lesser degrees of restriction throughout the pregnancy). That basic framework, modified in ''Casey'', remains nominally in place, although the effective availability of abortion varies significantly from state to state. Abortion remains one of the most controversial topics in United States culture and politics.  . 
+
+==Terminology==. 
+In medical terms, the word ''[[abortion]]'' refers to any [[pregnancy]] that does not end in a live birth, and therefore can refer to a [[miscarriage]] or a premature birth that does not result in a live infant. Such events are often called [[spontaneous abortion]]s if they occur before 20 weeks of gestation. In common parlance, however, abortion is used to mean "induced abortion" of an [[embryo]] or [[fetus]] at any point in pregnancy, and this is also how the term is used in a legal sense. <ref>According to the Supreme Court's decision in ''[[Roe v. Wade]]'':
+:"(a) For the stage prior to approximately the end of the first trimester, the abortion decision and its effectuation must be left to the medical judgment of the pregnant woman's attending physician. 
+:"(b) For the stage subsequent to approximately the end of the first trimester, the State, in promoting its interest in the health of the mother, may, if it chooses, regulate the abortion procedure in ways that are reasonably related to maternal health. 
+:"(c) For the stage subsequent to viability, the State in promoting its interest in the potentiality of human life may, if it chooses, regulate, and even proscribe, abortion except where it is necessary, in appropriate medical judgment, for the preservation of the life or health of the mother."
+Likewise, ''Black's Law Dictionary'' defines abortion as "knowing destruction" or "intentional expulsion or removal."</ref> . 
+
+==History==. 
+===Abortion before ''Roe''===. 
+[[Image:Map of US abortion laws pre-1973.svg|thumb|250px|right|Abortion laws in the U.S. prior to ''Roe.'' {{legend|#ED1C24|Illegal. (30) }}
+{{legend|#6F3198|Legal in case of rape (1) }}
+{{legend|#2F3699|Legal in case of danger to woman's health (2) }}
+{{legend|#22B14C|Legal in case of danger to woman's health, rape or incest, or likely damaged fetus (13) }}
+{{legend|#FFF200|Legal on request (4) }}]]
+There were few laws on abortion in the United States at the time of independence, except the English [[common law]] adopted into [[United States law]] by Acts of Reception, which held abortion to be legally acceptable if occurring before [[quickening (medical)|quickening]]. [[James Wilson]], a framer of the [[United States Constitution|U.S. Constitution]], explained as follows: . 
+
+{{cquote|With consistency, beautiful and undeviating, human life, from its commencement to its close, is protected by the common law. In the contemplation of law, life begins when the infant is first able to stir in the womb. By the law, life is protected not only from immediate destruction, but from every degree of actual violence, and, in some cases, from every degree of danger. <ref>[[James Wilson]], "[http://teachingamericanhistory.org/library/index.asp?document=831 Of the Natural Rights of Individuals]" (1790-1792). Also see William Blackstone, [http://press-pubs.uchicago.edu/founders/documents/amendIXs1.html Commentaries] (1765): "Life&nbsp;...begins in contemplation of law as soon as an infant is able to stir in the mother's womb."</ref>}} . 
+
+Various statutes against abortion began to appear in the 1820s. In 1821, [[Connecticut]] passed a statute targeting [[apothecary|apothecaries]] who sold poisons to women for purposes of abortion, and [[New York]] made post-quickening abortions a felony and pre-quickening abortions a misdemeanor eight years later. It is sometimes argued that the early American abortion statutes were motivated not by ethical concerns about abortion but by worry about the safety of the procedure; however, some legal theorists believe that this theory is inconsistent with the fact that abortion was punishable regardless of whether any harm befell the pregnant woman and the fact that many of the early statutes punished not only the doctors or abortionists, but also punished the women who hired them. <ref>Suzanne M. Alford, [http://www.law.duke.edu/shell/cite.pl?52+Duke+L.+J.+1011 Is Self-Abortion a Fundamental Right?], 52 Duke Law Journal 1011. </ref> . 
+
+The criminalization movement accelerated during the 1860s, and by 1900 abortion was largely illegal in every state. Some states did include provisions allowing for abortion in limited circumstances, generally to protect the woman's life or pregnancies due to rape or incest. Abortions continued to occur, however, and increasingly became readily available. In the 1930s, licensed physicians performed an estimate 800,000 abortions a year. <ref>{{cite book|last=Boyer|first=Ed. by Paul S.|title=The Oxford companion to United States history|year=2006|publisher=Oxford Univ. Press|location=Oxford|isbn=978-0-19-508209-8|pages=3}}</ref>  Illegal abortions were often unsafe, sometimes resulting in death, as in the case of [[Gerri Santoro]] of Connecticut in 1964.  . 
+
+Some activist groups developed their own skills to provide abortions to women who could not obtain them elsewhere. As an example, in Chicago, a group known as "[[Jane Collective|Jane]]" operated a floating abortion clinic throughout much of the 1960s. Women seeking the procedure would call a designated number and be given instructions on how to find "Jane". <ref>{{cite web
+|url = http://www.cwluherstory.org/something-real-jane-and-me-memories-and-exhortations-of-a-feminist-ex-abortionist.html
+|title = Something Real: Jane and Me. Memories and Exhortations of a Feminist Ex-Abortionist
+|author = Johnson, Linnea
+|publisher = [http://www.cwluherstory.org CWLU Herstory Project]
+|accessdate = 2010-05-23
+}}</ref> . 
+
+In 1965, following the Supreme Court’s decision in ''[[Griswold v. Connecticut]]'' declaring a constitutional right to contraceptives, the [[American College of Obstetricians and Gynecologists]] (ACOG) issued a [[Beginning of pregnancy controversy#How the Controversy Began|medical bulletin]] accepting a recommendation from 6 years earlier which clarified that conception is implantation, not fertilization. This had the consequence of categorizing [[birth control]] methods that prevented implantation as [[contraceptives]], not [[abortifacients]].  . 
+
+In 1967, [[Colorado]] became the first state to legalize abortion in cases of rape, incest, or in which pregnancy would lead to permanent physical [[disability]] of the woman. Similar laws were passed in [[California]], [[Oregon]], and [[North Carolina]]. In 1970, New York repealed its 1830 law and allowed abortions up to the 24th week of pregnancy. Similar laws were soon passed in [[Alaska]], [[Hawaii]], and [[Washington (U.S. state)|Washington]]. A law in [[Washington, DC]], which allowed abortion to protect the life or health of the woman, was challenged in the [[Supreme Court of the United States|Supreme Court]] in 1971 in ''[[United States v. Vuitch]]''. The court upheld the law, deeming that "health" meant "psychological and physical well-being," essentially allowing abortion in Washington, DC. By the end of 1972, 13 states had a law similar to that of Colorado, while [[Mississippi]] allowed abortion in cases of rape or incest only and [[Alabama]] and [[Massachusetts]] allowed abortions only in cases where the womans's physical health was endangered. In order to obtain abortions during this period, women would often travel from a state where abortion was illegal to states where it was legal.  . 
+
+===''Roe v. Wade''===. 
+{{Main|Roe v. Wade}}
+[[Image:USSC justice group photo-1973 current.jpg|thumb|right|350px|The [[United States Supreme Court]] membership in 1973.]]
+In deciding ''[[Roe v. Wade]]'', the Supreme Court ruled that a [[Texas]] statute forbidding abortion except when necessary to save the life of the mother was unconstitutional. The Court arrived at its decision by concluding that the issue of abortion and abortion rights falls under the [[Privacy laws of the United States|right to privacy]]. In its opinion it listed several landmark cases where the court had previously found a right to privacy implied by the Constitution. The Court did not recognize a right to abortion in all cases: . 
+
+<blockquote>State regulation protective of fetal life after viability thus has both logical and biological justifications. If the State is interested in protecting fetal life after viability, it may go so far as to proscribe abortion during that period, except when it is necessary to preserve the life or health of the mother. <ref>''Roe v. Wade'', [http://laws.findlaw.com/us/410/113.html 410 U.S. 113] (1972). Findlaw.com.  Retrieved 2011-04-14. </ref></blockquote> . 
+
+The Court held that a right to privacy existed and included the right to have an abortion. The court found that a mother had a right to abortion until viability, a point to be determined by the abortion doctor.  After viability a woman can obtain an abortion for health reasons, which the Court defined broadly to include psychological well-being.  . 
+
+A central issue in the ''Roe'' case (and in the wider abortion debate in general) is whether human life or personhood begins at conception, birth, or at some point in between. The Court declined to make an attempt at resolving this issue, noting: "We need not resolve the difficult question of when life begins.  When those trained in the respective disciplines of medicine, philosophy, and theology are unable to arrive at any consensus, the judiciary, at this point in the development of man's knowledge, is not in a position to speculate as to the answer." Instead, it chose to point out that historically, under English and American [[common law]] and statutes, "the unborn have never been recognized&nbsp;...as persons in the whole sense" and thus the fetuses are not legally entitled to the protection afforded by the right to life specifically enumerated in the Fourteenth Amendment. So rather than asserting that human life begins at any specific point, the court simply declared that the State has a "compelling interest" in protecting "potential life" at the point of viability.  . 
+
+====Jane Roe and Mary Doe====. 
+"Jane Roe" of the landmark ''Roe v. Wade'' lawsuit, whose real name is [[Norma McCorvey]], is now a [[pro-life]] advocate. McCorvey writes that she never had the abortion and became the "pawn" of two young and ambitious lawyers who were looking for a plaintiff who they could use to challenge the [[Texas]] state law prohibiting abortion. However, attorney Linda Coffee says she doesn't remember McCorvey having any hesitancy about wanting an abortion. <ref>[http://www.priestsforlife.org/testimony/mccorveycanoscheidlerinterview.htm An Interview with Norma McCorvey]. Ann Scheidler, Chicago Pro-life Action League. April 20, 1996. </ref> . 
+
+"Mary Doe" of the companion ''Doe v. Bolton'' lawsuit, the mother of three whose real name is Sandra Cano, maintains that she never wanted or had an abortion and that she is "ninety-nine percent certain that <nowiki>[she]</nowiki> did not sign" the affidavit to initiate the suit. <ref>[http://www.eadshome.com/DoeAffidavit.htm Affidavit of Sandra Cano]. January 2, 2005. </ref> . 
+
+===Later judicial decisions===. 
+In the 1992 case of ''[[Planned Parenthood v. Casey]]'', the Court abandoned ''Roe's'' strict trimester framework. <ref>''Planned Parenthood v. Casey'', {{ussc|source=j|505|833|1992|pin=878}}, "(b) We reject the rigid trimester framework of ''Roe v. Wade''. To promote the State's profound interest in potential life, throughout pregnancy the State may take measures to ensure that the woman's choice is informed, and measures designed to advance this interest will not be invalidated as long as their purpose is to persuade the woman to choose childbirth over abortion. These measures must not be an undue burden on the right."</ref> Instead adopting the standard of [[undue burden]] for evaluating state abortion restrictions,<ref>''Planned Parenthood v. Casey'', {{ussc|source=j|505|833|1992|pin=878}}, "(a) To protect the central right recognized by ''Roe v. Wade'' while at the same time accommodating the State's profound interest in potential life, we will employ the undue burden analysis as explained in this opinion. An undue burden exists, and therefore a provision of law is invalid, if its purpose or effect is to place a substantial obstacle in the path of a woman seeking an abortion before the fetus attains viability."</ref> but reemphasized the right to abortion as grounded in the general sense of liberty and privacy protected under the [[United States Constitution|constitution]]: "Constitutional protection of the woman's decision to terminate her pregnancy derives from the [[Fourteenth Amendment to the United States Constitution#Due Process Clause|Due Process Clause]] of the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]]. It declares that no State shall "deprive any person of life, liberty, or property, without due process of law." The controlling word in the cases before us is "liberty."<ref>''Planned Parenthood v. Casey'', {{ussc|source=j|505|833|1992|pin=846}}</ref> . 
+
+The Supreme Court continues to grapple with cases on the subject. On April 18, 2007 it issued a ruling in the case of ''[[Gonzales v. Carhart]]'', involving a federal law entitled the [[Partial-Birth Abortion Ban Act|Partial-Birth Abortion Ban Act of 2003]] which President [[George W. Bush]] had signed into law. The law banned [[intact dilation and extraction]], which opponents of abortion rights referred to as "partial-birth abortion," and stipulated that anyone breaking the law would get a prison sentence up to 2.5 years. The United States Supreme Court upheld the 2003 ban by a narrow majority of 5-4, marking the first time the Court has allowed a ban on any type of abortion since 1973. The swing vote, which came from moderate justice Anthony Kennedy, was joined by Justices [[Antonin Scalia]], [[Clarence Thomas]], and the two recent appointees, [[Samuel Alito]] and Chief Justice [[John G. Roberts|John Roberts]].  . 
+
+==Current legal situation==. 
+===Nationwide===. 
+Since 1995, led by Congressional [[United States Republican Party|Republicans]], the [[United States House of Representatives|U.S. House of Representatives]] and [[United States Senate|U.S. Senate]] have moved several times to pass measures banning the procedure of [[intact dilation and extraction]], also commonly known as partial birth abortion. After several long and emotional debates on the issue, such measures passed twice by wide margins, but [[President of the United States|President]] [[Bill Clinton]] [[veto]]ed those bills in April 1996 and October 1997 on the grounds that they did not include health exceptions. Congressional supporters of the bill argue that a health exception would render the bill unenforceable, since the ''[[Doe v. Bolton]]'' decision defined "health" in vague terms, justifying any motive for obtaining an abortion. Subsequent Congressional attempts at overriding the veto were unsuccessful.  . 
+
+On October 2, 2003, with a vote of 281-142, the [[United States House of Representatives|House]] again approved a measure banning the procedure, called the ''[[Partial-Birth Abortion Ban Act]]''. Through this legislation, a doctor could face up to two years in prison and face civil lawsuits for performing such an abortion. A woman who undergoes the procedure cannot be prosecuted under the measure. The measure contains an exemption to allow the procedure if the woman's life is threatened. On October 21, 2003, the [[United States Senate]] passed the same bill by a vote of 64-34, with a number of Democrats joining in support. The bill was signed by President [[George W. Bush]] on November 5, 2003, but a federal judge blocked its enforcement in several states just a few hours after it became public law. The Supreme Court upheld the nationwide ban on the procedure in the case ''[[Gonzales v. Carhart]]'' on April 18, 2007, signaling a substantial change in the Court's approach to abortion law. <ref name="nyt-greenhouse">{{cite news | first = Linda | last = Greenhouse | authorlink = Linda Greenhouse | work = [[New York Times]] | title = Justices Back Ban on Method of Abortion | date = April 19, 2007 | accessdate = January 3, 2010 | url = http://www.nytimes.com/2007/04/19/washington/19scotus.html}}</ref> The 5-4 ruling said the ''Partial Birth Abortion Ban Act'' does not conflict with previous Court decisions regarding abortion.  . 
+
+The current judicial interpretation of the [[United States Constitution|U.S. Constitution]] regarding [[abortion]] in the [[United States]], following the [[Supreme Court of the United States]]'s 1973 landmark decision in ''[[Roe v. Wade]]'', and subsequent companion decisions, is that abortion is legal but may be restricted by the states to varying degrees. States have passed laws to restrict late term abortions, require parental notification for minors, and mandate the disclosure of abortion risk information to patients prior to the procedure. <ref>[http://www.lawserver.com/abortion Interactive maps comparing U.S. abortion restrictions by state], LawServer</ref> . 
+
+The key, deliberated article of the [[United States Constitution|U.S. Constitution]] is the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]], which states that {{cquote|All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws. <ref>{{cite web|title=The Constitution of the United States of America: As Amended|url=http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_documents&docid=f:hd050.pdf|date=2007-07-25|accessdate=2009-02-17}}</ref>}} . 
+
+The official report of the U.S. Senate Judiciary Committee, issued in 1983 after extensive hearings on the [[Human Life Amendment]] (proposed by Senators [[Orrin Hatch]] and [[Thomas Eagleton]]), stated what substantially remains true today: . 
+
+{{cquote|Thus, the [Judiciary] Committee observes that no significant legal barriers of any kind whatsoever exist today in the United States for a mother to obtain an abortion for any reason during any stage of her pregnancy. <ref>Report, Committee on the Judiciary, U.S. Senate, on Senate Joint Resolution 3, 98th Congress, 98-149, June 7, 1983, p. 6. </ref>}} . 
+
+One aspect of the legal abortion regime now in place has been determining when the [[fetus]] is "[[Fetal viability|viable]]" outside the womb as a measure of when the "life" of the fetus is its own (and therefore subject to being protected by the state). In the majority opinion delivered by the court in ''Roe v. Wade'', viability was defined as "potentially able to live outside the mother's womb, albeit with artificial aid. Viability is usually placed at about [[Prenatal Development|seven months]] (28 weeks) but may occur earlier, even at 24 weeks." When the court ruled in 1973, the then-current medical technology suggested that viability could occur as early as 24 weeks. Advances over the past three decades have allowed fetuses that are a few weeks less than 24 weeks old to survive outside the mother's womb. These scientific achievements, while life-saving for premature babies, have made the determination of being "viable" somewhat more complicated. As of 2006, the youngest child to survive a premature birth in the United States was [[Preterm birth#Notable preterm births|a girl born at the Baptist Hospital of Miami]] at 21 weeks and 6 days' [[gestational age]]. <ref>Baptist Hospital of Miami, [http://www.baptisthealth.net/vgn/images/portal/cit_449/59/45/73662064factsheetTaylorbaby.pdf Fact Sheet] (2006). </ref> . 
+
+Because of the split between federal and state law, legal access to abortion continues to vary somewhat by state. Geographic availability, however, varies dramatically, with 87 percent of U.S. counties having no [[abortion provider]]. <ref>{{cite web |url=http://www.prochoice.org/pubs_research/publications/downloads/about_abortion/access_abortion.pdf |format=PDF|title=Access to Abortion|year=2003 |accessdate=2007-06-17 |publisher=National Abortion Federation| archiveurl= http://web.archive.org/web/20070619183614/http://www.prochoice.org/pubs_research/publications/downloads/about_abortion/access_abortion.pdf| archivedate= 19 June 2007 <!--DASHBot-->| deadurl= no}}</ref> Moreover, due to the [[Hyde Amendment]], many [[Medicaid|state health programs]] do not cover abortions; currently 17 states (including [[California]], [[Illinois]] and [[New York]]) offer or require such coverage. <ref>[http://www.aclu.org/FilesPDFs/map.pdf "Public Funding for Abortion" (map)]</ref> . 
+
+The legality of abortion in the United States is frequently a major issue in nomination battles for the U.S. Supreme Court. However, nominees typically remain silent on the issue during their hearings, because it is an issue that may come before them as judges.  . 
+
+The [[Unborn Victims of Violence Act]], commonly known as "[[Laci Peterson|Laci]] and Conner's Law" was passed by Congress and signed into law by President Bush on April 1, 2004, allowing two charges to be filed against someone who kills a pregnant mother (one for the mother and one for the fetus). It specifically bans charges against the mother and/or doctor relating to abortion procedures. Nevertheless, it has generated much controversy among pro-choice advocates. They view it as a potential step in the direction of banning abortion.  . 
+
+===State-by-state legal status===. 
+{{Main|Abortion in the United States by state}} . 
+
+Various states have passed legislation on the subject of [[feticide]]. On March 6, 2006, [[Governor of South Dakota|South Dakota Governor]] [[Mike Rounds]] signed into law a [[Women's Health and Human Life Protection Act|pro-life statute]] which made performing abortions a felony, and that law was subsequently repealed in a November 7, 2006 referendum. <ref>Myers, Megan. [http://www.commondreams.org/headlines06/1108-02.htm "S.D. rejects abortion ban",] ''Argus Leader'', (2006-11-08). Retrieved 2007-01-23. </ref> On February 27, 2006, [[Mississippi]]’s House Public Health Committee voted to approve a ban on abortion, and that bill died after the House and Senate failed to agree on compromise legislation. <ref>MacIntyre, Krystal. "[http://jurist.law.pitt.edu/paperchase/2006/03/mississippi-abortion-ban-bill-fails-as.php Mississippi abortion ban bill fails as legislators miss deadline for compromise]", ''Jurist News Archive'' (2006-03-28). Retrieved 2007-01-23. </ref> Several states have enacted "trigger laws" which "would take effect if Roe v. Wade is overturned."<ref>Alford, Jeremy. [http://www.nytimes.com/2006/06/07/us/07abort.html "Louisiana Governor Plans To Sign Anti-Abortion Law"]. ''[[New York Times]]''. Section A; Column 3; National Desk; Pg. 18 June 7, 2006. Retrieved December 23, 2007. Quote: "Gov. Kathleen Babineaux Blanco's office said Tuesday that she would shortly sign into law a strict ban on abortion that would permit abortion only in the case where a woman's life was threatened by pregnancy. The bill, approved by both houses of the Legislature and sent to the governor on Monday, would go into effect only if the United States Supreme Court overturned Roe v. Wade&nbsp;...Eleven other states are considering similar measures. Six other states have bans, similar to the Louisiana bill, that would be put into effect by the end of Roe."</ref> [[North Dakota HB 1572]] or the ''Personhood of Children Act'', which passed the [[North Dakota House of Representatives]] on February 18, 2009, but was later defeated in the North Dakota Senate,
+aimed to allocate rights to "the pre-born, partially born", and if passed, would likely have been used to challenge ''Roe v. Wade''. <ref>[http://www.google.com/hostednews/afp/article/ALeqM5jLqlX6aWvaJs83NZDYSn54jVfwIw "US state's 'personhood' law would hit birth control: opponents"] 2009-02-18 ''AFP''</ref> On February 15, 2012, the [[Virginia House of Delegates]] passed House Bill 1 in a vote of 66-32, that effectively outlaws all Virginia abortions by declaring that the rights of persons apply from the moment sperm and egg unite. It also passed a second bill in a 63-36 vote, that requires women to have a transvaginal ultrasound before undergoing abortions. <ref>Lewis, Bob. The Associated Press, "Va. House GOP muscles through abortion curbs," Feb 15, 2012. http://www.google.com/hostednews/ap/article/ALeqM5jDJo6Rmjkz3zeWB0kts8PJRiTglQ?docId=e5acbabbd6f94f798144a59a25171086</ref> . 
+
+In addition, some states have been seeking to ban abortion by means of an amendment to the state constitution. Three such amendments have already reached the ballot for a vote. Colorado citizens voted on Amendment 48 on November 4, 2008, and it failed to pass, with 73.21% voting against it and 26.79% voting for it. <ref>Denver Post, “Amendment 48—Definition of a Person Election Results,” 2008. http://data.denverpost.com/election/results/amendment/2008/48-definition-of-person/</ref> A similar initiative, Amendment 62, made the Colorado ballot on November 2, 2010, where it failed against, this time 70.53% to 29.47%. <ref>Colorado Secretary of State, “Colorado Cumulative Report,” Nov 2, 2010. http://www.sos.state.co.us/pubs/electionresults2010/general/ColoradoReport.html</ref> On November 8, 2011 Initiative 26 appeared on the ballot, where it was defeated 57.87% to 42.13%. <ref>Associated Press, “Mississippi County Vote Results,” Nov 9, 2011. http://hosted.ap.org/dynamic/files/elections/2011/by_county/MS_Page_1108.html?SITE=AP&SECTION=POLITICS</ref>  All three of these amendments made it to the ballot through a citizen initiative process, as opposed to being referred to the ballot by their state legislatures.  . 
+
+These amendments, dubbed “personhood amendments,” have so far contained far-reaching language that beyond simply banning abortion. They define personhood as beginning from the moment of conception and/or fertilization, which would potentially outlaw forms of birth control that involve destroying the fetus, in addition to potentially banning in-vitro fertilization. The umbrella organization Personhood USA, based in Colorado and founded by Keith Mason, was responsible for getting Amendments 48 and 62 onto the ballot in Colorado. <ref>Armstrong, Ari and Diana Hsieh. “The ‘Personhood’ Movement is Anti-Life: Why It Matters that Rights Begin at Birth, Not Conception,” August 31, 2010. http://www.seculargovernment.us/docs/a62.pdf</ref> They plan to get another amendment onto the ballot in 2012, this time with slightly revised wording composed by legal analyst Gualberto Garcia Jones. Personhood USA also plans on pushing for such amendments in Montana and Oregon. <ref>Huffington Post, “Personhood USA, Colorado-Based Anti-Choice Group, Announces 3rd Try at Colo. Personhood Amendment,” Nov 21, 2011. http://www.huffingtonpost.com/2011/11/21/personhood-usa-colorado-b_n_1105079.html</ref> . 
+
+Voter opposition to these ballot initiatives has proven to be far stronger than the support, despite the fact that American citizens poll as being much more evenly divided on the issue of abortion.  . 
+
+Other states are considering personhood amendments banning abortion, some through legislative methods and others through citizen initiative campaigns. Among these states are Florida, Ohio, Georgia, Texas, and Arkansas. <ref>Think Progress Health, “Personhood May Appear on Arkansas Ballot,” Nov 3, 2011. http://thinkprogress.org/health/2011/11/03/361040/personhood-amendment-may-appear-on-arkansas-ballot/</ref><ref>Samuel, Stephanie. The Christian Post, “DNC Chair: Personhood Amendment is ‘Extreme and Radical’,” Nov 4, 2011. http://www.christianpost.com/news/dnc-chair-personhood-amendment-is-extreme-and-radical-60582/</ref><ref>GPB News, “Georgia Has ‘Personhood’ Bills,” Nov 18, 2011. http://www.gpb.org/news/2011/11/18/georgia-has-personhood-bills</ref> . 
+
+==Statistics==. 
+{{Main|Abortion statistics in the United States}} . 
+
+Because reporting of abortions is not mandatory, statistics are of varying reliability. The [[Centers For Disease Control]] (CDC)<ref>[http://www.cdc.gov/reproductivehealth/Data_Stats/Abortion.htm]</ref> regularly compiles these statistics.  . 
+
+[[File:Number of Abortions in US (2005).gif|left|'''Chart source''': CDC, 2005]]
+{{-}} . 
+
+===Number of abortions in United States=== . 
+
+According to the Centers for Disease Control (CDC), since 1973, roughly 50 million legal induced abortions have been performed in the United States. <ref>[http://www.guttmacher.org/pubs/fb_induced_abortion.html Facts on Induced Abortion in the United States]</ref> . 
+
+[[File:Combined abortion ratio.png|thumb|right|250px|Histogram of the reported abortion rate per 1,000 live births in 2005 for residents in each of the United States except California, Florida, New Hampshire, and Louisiana<ref name="CDC paper">{{cite web|url=http://www.cdc.gov/mmwr/PDF/ss/ss5713.pdf|title=Abortion Surveillance — United States, 2005|date=2008-11-28|accessdate=2009-01-21|author=Centers for Disease Control and Prevention| archiveurl= http://web.archive.org/web/20090122180019/http://www.cdc.gov/mmwr//pdf/ss/ss5713.pdf| archivedate= 22 January 2009 <!--DASHBot-->| deadurl= no}}</ref>]] . 
+
+===Mifepristone/RU-486=== . 
+
+The use of the [[abortifacient]] [[Mifepristone]] is reported by the [[Centers for Disease Control and Prevention]] as a [[Medical abortion|"medical (nonsurgical) procedures"]] in the [[abortion surveillance reports]]. Medical nonsurgical abortions voluntarily reported to the [[Centers for Disease Control and Prevention|CDC]] by 47 states (excluding [[California]], [[Louisiana]], and [[New Hampshire]])
+as a percentage of total abortions in the United States have increased every year since the approval of [[Mifepristone]]: 1.0% in 2000, 2.9% in 2001, 5.2% in 2002, 7.9% in 2003, 9.3% in 2004, 9.9% in 2005, 10.6% in 2006, 13.1% in 2007, (15.9% of those at less than 9 weeks gestation). <ref>{{cite journal |author=Pazol, Karen; Gamble, Sonya B.; Parker, Wilda Y.; Cook, Douglas A.; Zane, Suzanne B.; Hamdan, Saeed; Centers for Disease Control and Prevention (CDC) |date=November 27, 2009 |title=Abortion surveillance--United States, 2006 |journal=MMWR Surveill Summ |volume=58 |issue=8 |pages=1–35 |url=http://www.cdc.gov/mmwr/PDF/ss/ss5808.pdf |accessdate=2010-06-11 |pmid=19940837}}</ref> A [[Guttmacher Institute]] survey of abortion providers estimated that medical nonsurgical abortions accounted for 13% of total abortions in the [[United States]] in 2005. <ref>{{cite journal |author=Jones, Rachel K.; Zolna, Mia R. S.; Henshaw, Stanley K.; Finer, Lawrence B. |date=March 2008 |title=Abortion in the United States: incidence and access to services, 2005 |journal=Perspect Sex Reprod Health |volume=40 |issue=1 |pages=6–16 |doi=10.1363/4000608 |pmid=18318867 |url=http://www3.interscience.wiley.com/cgi-bin/fulltext/119422493/PDFSTART |accessdate=2010-06-11}}</ref> . 
+
+===Abortions and ethnicity===. 
+Abortion rates are much more common among minority women in the U.S. In 2000-2001, the rates among black and Hispanic women were 49 per 1,000 and 33 per 1,000, respectively, vs. 13 per 1,000 among non-Hispanic white women. Note that this figure includes all women of reproductive age, including women that are not pregnant. In other words, these abortion rates reflect the rate at which U.S. women of reproductive age have an abortion each year. <ref>Guttmacher.org [http://web.archive.org/web/20080311171704/http://www.guttmacher.org/in-the-know/characteristics.html Get "In the Know": Questions About Pregnancy, Contraception and Abortion]</ref> . 
+
+In 2004, the rates of abortion by ethnicity in the U.S. were 50 abortions per 1,000 black women, 28 abortions per 1,000 Hispanic women, and 11 abortions per 1,000 white women. <ref>[http://www.time.com/time/health/article/0,8599,1843717,00.html Abortion Rate Falls, But Not Equally for All Women], Time magazine, September 23, 2008</ref> . 
+
+=== Reasons for abortions ===. 
+Another study, in '''1998''', revealed that in '''1987-1988''' women reported the following as their primary reasons for choosing an abortion:<ref>Bankole et al., [http://www.guttmacher.org/pubs/journals/2411798.html "Reasons Why Women Have Induced Abortions: Evidence from 27 Countries"], International Family Planning Perspectives (1998). Also see Lawrence B. Finer, Lori F. Frohwirth, Lindsay A. Dauphinee, Susheela Singh, and Ann M. Moore, [http://www.guttmacher.org/pubs/journals/3711005.pdf "Reasons U.S. Women Have Abortions: Quantitative and Qualitative Perspectives"], Perspectives on Sexual and Reproductive Health, 37(3):110-118 (September 2005). </ref> . 
+
+* 25.9% Want to postpone childbearing
+* 21.3% Cannot afford a [[baby]]
+* 14.1% Has relationship problem or partner does not want pregnancy
+* 12.2% Too young; parent(s) or other(s) object to pregnancy
+* 10.8% Having a [[child]] will disrupt [[education]] or [[employment|job]]
+* 7.9% Want no (more) [[child]]ren
+* 3.3% Risk to [[fetal]] health
+* 2.8% Risk to [[maternal]] health
+* 2.1% Other . 
+
+According to a '''1987''' study that included specific data about [[late term abortion|late abortions]] (i.e. abortions “at 16 or more weeks' gestation”),<ref>Aida Torres and Jacqueline Darroch Forrest, "Why Do Women Have Abortions", Family Planning Perspectives, 20 (4) Jul/Aug 1988, pp 169-176 (The bimonthly research journal of The Alan Guttmacher Institute): "Some 42 facilities were originally invited to participate in the study; these include six at which a relatively large number of late abortions (those at 16 or more weeks' gestation) were performed."</ref> women reported that various reasons contributed to their having a late abortion: . 
+
+* 71% Woman didn't recognize she was pregnant or misjudged gestation
+* 48% Woman found it hard to make arrangements for abortion
+* 33% Woman was afraid to tell her partner or parents
+* 24% Woman took time to decide to have an abortion
+* 8% Woman waited for her relationship to change
+* 8% Someone pressured woman not to have abortion
+* 6% Something changed after woman became pregnant
+* 6% Woman didn't know timing is important
+* 5% Woman didn't know she could get an abortion
+* 2% A fetal problem was diagnosed late in pregnancy
+* 11% Other.  . 
+
+In '''2000''', cases of rape or incest accounted for 1% of abortions. <ref>[[Guttmacher Institute]],[http://www.infoplease.com/ipa/A0904509.html "Induced Abortion Facts in Brief"] (2002) (13,000 out of 1.31 million abortions in 2000 were on account of rape or incest). Retrieved via InfoPlease 2007-01-07. </ref> . 
+
+A '''2004''' study by the [[Guttmacher Institute]] reported that women listed the following amongst their reasons for choosing to have an abortion: <ref>[http://www.guttmacher.org/pubs/journals/3711005.pdf Reasons U.S. Women Have Abortions: Quantitative and Qualitative Perspectives] Guttmacher Institute, page 113]</ref> . 
+
+* 74% Having a baby would dramatically change my life
+* 73% Can’t afford a baby now
+* 48% Don’t want to be a single mother or having relationship problems
+* 38% Have completed my childbearing
+* 32% Not ready for a(nother) child
+* 25% Don’t want people to know I had sex or got pregnant
+* 22% Don’t feel mature enough to raise a(nother) child
+* 14% Husband or partner wants me to have an abortion
+* 13% Possible problems affecting the health of the fetus
+* 12% Concerns about my health
+* 6% Parents want me to have an abortion
+* 1% Was a victim of rape
+* less than 0.5% Became pregnant as a result of incest . 
+
+===When women have abortions (by gestational age)===. 
+[[Image:US abortion by gestational age 2004 histogram.svg|left|thumb|Abortion in the United States by gestational age, 2004. (Data source: Centers for Disease Control and Prevention)]]
+{{-}} . 
+
+===Maternal death===. 
+By US statistics risk of [[maternal death]] by abortion is lower than childbirth through at least 21 weeks' gestation. <ref name="bartlett">{{cite journal |author=Bartlett LA, Berg CJ, Shulman HB, ''et al.'' |title=Risk factors for legal induced abortion-related mortality in the United States |journal=Obstet Gynecol |volume=103 |issue=4 |pages=729–37 |year=2004 |month=April |pmid=15051566 |doi=10.1097/01.AOG.0000116260.81570.60 |url=}}</ref><ref name="emedicine">{{cite web | publisher = [[eMedicine]] | title = Elective Abortion | date = May 27, 2010 | accessdate = June 1, 2010 | first = Suzanne | last = Trupin | quote = At every gestational age, elective abortion is safer for the mother than carrying a pregnancy to term. | url = http://emedicine.medscape.com/article/252560-overview}}</ref> . 
+
+==Public opinion==. 
+{{See also|Societal attitudes towards abortion}}
+Generally speaking, in the United States induced abortions become more controversial the later they are performed into the pregnancy.  . 
+
+[[The Gallup Organization|Gallup]] notes that abortion attitudes are shifting. Gallup declared in May 2010 that more Americans identifying as "pro-life" is "the new normal", while also noting that there had been no increase in opposition to abortion. It suggested that political polarization may have prompted more Republicans to call themselves "pro-life."<ref>[http://www.gallup.com/poll/128036/New-Normal-Abortion-Americans-Pro-Life.aspx The New Normal on Abortion: Americans More "Pro-Life"]</ref> The terms "pro-choice" and "pro-life" do not always reflect a political view or fall along a binary; in one [[Public Religion Research Institute]] poll, seven in ten Americans described themselves as "pro-choice" while almost two-thirds described themselves as "pro-life."<ref>{{Cite web |url=http://publicreligion.org/research/2011/06/committed-to-availability-conflicted-about-morality-what-the-millennial-generation-tells-us-about-the-future-of-the-abortion-debate-and-the-culture-wars/ |publisher=Public Religion Research Institute |title=Committed to Availability, Conflicted about Morality: What the Millennial Generation Tells Us about the Future of the Abortion Debate and the Culture Wars |date=June 9, 2011}}</ref> . 
+
+<center>
+{| class="wikitable" border="1" cellpadding="2"
+! width="225" | Date of poll
+! width="50" | Pro-life
+! width="50" | Pro-choice
+! width="50" | Mixed / neither
+! width="100" | Don't know what terms mean
+! width="50" | No opinion
+. |- align="center"
+| 2011, May 5–8 || 45% || 49% || 3% || 2% || 2%
+. |- align="center"
+| 2010, March 26–28 || 46% || 45% || 4% || 2% || 3%
+. |- align="center"
+| 2009, November 20–22 || 45% || 48% || 2% || 2% || 3%
+. |- align="center"
+| 2009, May 7–10 || 51% || 42% || - || 0 || 7%
+. |- align="center"
+| 2008, September 5–7 || 43% || 51% || 2% || 1% || 3%
+|}
+</center> . 
+
+===By gender, party, and region===. 
+A January 2003 [[CBS News]]/''[[New York Times]]'' poll examined whether Americans thought abortion should be legal or not, and found variations in opinion which depended upon [[List of political parties in the United States|party affiliation]] and the region of the country. <ref name=cbspoll>"[http://www.cbsnews.com/stories/2003/01/22/opinion/polls/main537570.shtml Poll: Strong Support For Abortion Rights]" (January 22, 2003). ''CBS News.'.' Retrieved January 11, 2007. </ref> The [[margin of error]] is +/- 4% for questions answered of the entire sample ("overall" figures) and may be higher for questions asked of subgroups (all other figures). <ref name=cbspoll/>
+<center>
+{| class="wikitable"
+. |- style="background:#a0d0ff;"
+!|Group||Generally available!!Available, but with stricter limits than now!!Not permitted
+. |-
+|width=120|Overall||39%||38%||22%
+. |-
+|width=120|Women||37%||37%||24%
+. |-
+|width=120|Men||40%||40%||20%
+. |-
+|width=120|[[Democratic Party (United States)|Democrats]]||43%||35%||21%
+. |-
+|width=120|[[Republican Party (United States)|Republicans]]||29%||41%||28%
+. |-
+|width=120|[[Independent (voter)|Independents]]||42%||38%||18%
+. |-
+|width=120|[[Northeastern United States|Northeasterners]]||48%||31%||19%
+. |-
+|width=120|[[Midwestern United States|Midwesterners]]||34%||40%||25%
+. |-
+|width=120|[[Southern United States|Southerners]]||33%||41%||25%
+. |-
+|width=120|[[Western United States|Westerners]]||43%||40%||16%
+|}
+</center> . 
+
+===By trimester of pregnancy===. 
+<!-- This section is linked from [[Roe v. Wade]] -->
+A [[CNN]]/''[[USA Today]]''/[[Gallup poll]] in January 2003 asked about the legality of abortion by [[wiktionary:trimester|trimester]], using the question, "Do you think abortion should generally be legal or generally illegal during each of the following stages of pregnancy?" <ref name="pollingreport">''[http://www.pollingreport.com/abortion.htm The Polling Report].'' (2008). Retrieved 2008-09-10. </ref> This same question was also asked by Gallup in March 2000 and July 1996. <ref name="gallup1">{{Cite web |url=http://www.gallup.com/poll/1576/abortion.aspx |title=Abortion |accessdate=2010-05-13 |work= Gallup Poll |publisher=Gallup.com |pages=2 | archiveurl= http://web.archive.org/web/20100513041002/http://www.gallup.com/poll/1576/Abortion.aspx| archivedate= 13 May 2010 <!--DASHBot-->| deadurl= no}}</ref><ref>See Saad, "[http://www.gallup.com/poll/3016/Americans-Walk-Middle-Road-Abortion.aspx Americans Walk the Middle Road on Abortion]," The Gallup Poll Monthly (April 2000); [http://web.archive.org/web/20061012170440/http://www.frtl.org/abortion/gallup+poll+topics.htm Gallup Poll Topics] from Florida Right to Life. Retrieved 2007-01-12. </ref> Polls indicates general support of abortion during the first trimester although support drops dramatically for abortion during the second and third trimester.  . 
+
+<CENTER>
+{| class="wikitable"
+. |- style="background:#a0d0ff;"
+|
+| rowspan="”1”" colspan="2" style="text-align:CENTER;"|2011 Poll
+| colspan="2" align="”CENTER”"|2003 Poll
+| rowspan="”1”" colspan="2" style="text-align:CENTER;"|2000 Poll
+| rowspan="”1”" colspan="2" style="text-align:CENTER;"|1996 Poll
+. |-
+| || Legal|| Illegal || Legal || Illegal
+| Legal|| Illegal || Legal || Illegal
+. |-
+| First trimester || 62%|| 29% || 66%|| 35% || 66% || 31%|| 64%|| 30%
+. |-
+| Second trimester|| 24%|| 71% || 25%|| 68% || 24% || 69%|| 26%|| 65%
+. |-
+| Third trimester || 10%|| 86% || 10%|| 84% || 8% || 86%|| 13%|| 82%
+|}
+</CENTER> . 
+
+===By circumstance or reasons===. 
+According to Gallup's long-time polling on abortion, the majority of Americans are neither strictly Pro-Life or Pro-Choice; it depends upon circumstances.  Gallup polling from 1996 to 2009 consistently reveals that when asked the question, "Do you think abortions should be legal under any circumstances, legal only under certain circumstances, or illegal in all circumstances?", Americans repeatedly answer 'legal only under certain circumstances'.  According to the poll, in any given year 48-57% say legal only under certain circumstances (for 2009, 57%), 21-34% say legal under any circumstances (for 2009, 21%), and 13-19% illegal in all circumstances (for 2009, 18%), with 1-7% having no opinion (for 2009, 4%). <ref name="gallup1"/> . 
+
+"''Do you think abortions should be legal under any circumstances, legal only under certain circumstances, or illegal in all circumstances?''"
+<center>
+{| class="wikitable"
+. |-
+! width="125" |
+! width="100" | Legal under any circumstances
+! width="100" | Legal only under certain/few circumstances
+! width="100" | Illegal in all circumstances
+! width="100" | No opinion
+. |-align="center"
+| 2011 May 5–8 || 27% || 49% || 22% || 3%
+. |-align="center"
+| 2009 Jul 17-19 || 21% || 57% || 18% || 4%
+. |-align="center"
+| 2009 May 7–10 || 22% || 53% || 23% || 2%
+. |-align="center"
+| 2008 May 8–11 || 28% || 54% || 18% || 2%
+. |-align="center"
+| 2007 May 10–13 || 26% || 55% || 17% || 1%
+. |-align="center"
+| 2006 May 8–11 || 30% || 53% || 15% || 2%
+|}
+</center> . 
+
+According to the aforementioned poll,<ref name="gallup1"/> Americans differ drastically based upon situation of the pregnancy, suggesting they do not support unconditional abortions.  Based on two separate polls taken May 19–21, 2003, of 505 and 509 respondents respectively, Americans stated their approval for abortion under these various circumstances: . 
+
+<CENTER>
+{| class="wikitable"
+. |-
+! Poll Criteria !! Total !! Poll A !! Poll B
+. |-
+| When the woman's life is endangered || 78% || 82% || 75%
+. |-
+| When the pregnancy was caused by rape or incest || 65% || 72% || 59%
+. |-
+| When the child would be born with a life-threatening illness || 54% || 60% || 48%
+. |-
+| When the child would be born mentally disabled || 44% || 50% || 38%
+. |-
+| When the woman does not want the child for any reason || 32% || 41% || 24%
+|}
+</CENTER> . 
+
+Another separate trio of polls taken by Gallup in 2003, 2000, and 1996,<ref name="gallup1"/> revealed public support for abortion as follows for the given criteria: . 
+
+<CENTER>
+{| class="wikitable"
+. |-
+! Poll criteria !! 2003 Poll !! 2000 Poll !! 1996 Poll
+. |-
+| When the woman's life is endangered || 85% || 84% || 88%
+. |-
+| When the woman's physical health is endangered || 77% || 81% || 82%
+. |-
+| When the pregnancy was caused by rape or incest || 76% || 78% || 77%
+. |-
+| When the woman's mental health is endangered || 63% || 64% || 66%
+. |-
+| When there is evidence that the baby may be physically impaired || 56% || 53% || 53%
+. |-
+| When there is evidence that the baby may be mentally impaired || 55% || 53% || 54%
+. |-
+| When the woman or family cannot afford to raise the child || 35% || 34% || 32%
+|}
+</CENTER> . 
+
+Gallup furthermore established public support for many issues supported by the Pro-Life community and opposed by the Pro-Choice community<ref name="gallup1"/>: . 
+
+<CENTER>
+{| class="wikitable"
+. |-
+! Legislation !! 2003 Poll !! 2000 Poll !! 1996 Poll
+. |-
+| A law requiring doctors to inform patients about alternatives to abortion before performing the procedure || 88% || 86% || 86%
+. |-
+| A law requiring women seeking abortions to wait 24 hours before having the procedure done || 78% || 74% || 73%
+|} . 
+
+{| class="wikitable"
+. |-
+! Legislation !! 2005 Poll !! 2003 Poll !! 1996 Poll !! 1992 Poll
+. |-
+| A law requiring women under 18 to get parental consent for any abortion || 69% || 73% || 74% || 70%
+. |-
+| A law requiring that the husband of a married woman be notified if she decides to have an abortion || 64% || 72% || 70% || 73%
+|}
+</CENTER> . 
+
+An October 2007 [[CBS News]] poll explored under what circumstances Americans believe abortion should be allowed, asking the question, "What is your personal feeling about abortion?" The results were as follows:<ref name="pollingreport" />
+<center>
+{| class="wikitable"
+. |- style="background:#a0d0ff;"
+!|Permitted in all cases!!Permitted, but subject to greater restrictions than it is now!!Only in cases such as rape, incest, or to save the woman's life!!Only permitted to save the woman's life||Never||Unsure
+. |-
+|width=120| 26%||16%||34%||16%||4%||4%
+|}
+</center> . 
+
+===Additional polls===. 
+[[Image:USA Gallup abortion opinion poll.jpg|right|thumb|250px|Results of Gallup opinion poll in USA since 1975 - legal restriction of abortion<ref>[http://www.gallup.com/poll/1576/Abortion.aspx Abortion<!-- Bot generated title -->]</ref>]]
+*A June 2000 ''[[Los Angeles Times]]'' survey found that, although 57% of polltakers considered abortion to be murder, half of that 57% believed in allowing women access to abortion. The survey also found that, overall, 65% of respondents did not believe abortion should be legal after the first trimester, including 72% of women and 58% of men. Further, the survey found that 85% of Americans polled supported abortion in cases of risk to a woman's physical health, 54% if the woman's mental health was at risk, and 66% if a congenital abnormality was detected in the fetus. <ref>Rubin, Allisa J. (June 18, 2000). "[http://pqasb.pqarchiver.com/latimes/access/55304043.html?dids=55304043:55304043&FMT=ABS&FMTS=ABS:FT&type=current&date=Jun+18%2C+2000&author=ALISSA+J.+RUBIN&pub=Los+Angeles&edition=&startpage=1&desc=Americans+Narrowing+Support+for+Abortion Americans Narrowing Support for Abortion]." ''Los Angeles Times.'.' Retrieved January 11, 2007. </ref>
+*A July 2002 Public Agenda poll found that 44% of men and 42% of women thought that "abortion should be generally available to those who want it", 34% of men and 35% of women thought that "abortion should be available, but under stricter than limits it is now", and 21% of men and 22% of women thought that "abortion should not be permitted". <ref name="publicagenda1" />
+*A January 2003 [[ABC News]]/''[[Washington Post]]'' poll also examined attitudes towards abortion by gender. In answer to the question, "On the subject of abortion, do you think abortion should be legal in all cases, legal in most cases, illegal in most cases or illegal in all cases?", 25% of women responded that it should be legal in "all cases", 33% that it should be legal in "most cases", 23% that it should be illegal in "most cases", and 17% that it should be illegal in "all cases". 20% of men thought it should be legal in "all cases", 34% legal in "most cases", 27% illegal in "most cases", and 17% illegal in "all cases". <ref name="publicagenda1">Public Agenda Online. (2006). [http://www.publicagenda.org/issues/pcc_detail.cfm?issue_type=abortion&list=9 Men and women hold similar views on the legality of abortion]{{Dead link|date=April 2010}}. Retrieved January 11, 2006. </ref>
+*Most Fox News viewers favor both parental notification as well as parental consent, when a minor seeks an abortion. A [[Fox News]] poll in 2005 found that 78% of people favor a notification requirement, and 72% favor a consent requirement. <ref>[http://www.foxnews.com/projects/pdf/poll_042705.pdf FOX News/Opinion Dynamics Poll]. April 25–26, 2005: "Do you think a female under age 18 should be required by state law to notify at least one parent or guardian before having an abortion?" 78% yes, 17% no. "Do you think a female under age 18 should be required by state law to get permission or consent from at least one parent or guardian before having an abortion?" 72% yes, 22% no. </ref>
+*An April 2006 [[Harris Interactive|Harris]] poll on ''[[Roe v. Wade]]'', asked, "In 1973, the U.S. Supreme Court decided that states' laws which made it illegal for a woman to have an abortion up to three months of pregnancy were unconstitutional, and that the decision on whether a woman should have an abortion up to three months of pregnancy should be left to the woman and her doctor to decide. In general, do you favor or oppose this part of the U.S. Supreme Court decision making abortions up to three months of pregnancy legal?", to which 49% of respondents indicated favor while 47% indicated opposition. The Harris organization has concluded from this poll that "49 percent now support Roe vs. Wade."<ref>Harris Interactive, (2006-05-04). "[http://www.harrisinteractive.com/harris_poll/index.asp?PID=659 Support for Roe vs. Wade Declines to Lowest Level Ever]." Retrieved 2007-01-04. Pro-life activists have disputed whether the Harris poll question is a valid measure of public opinion about Roe's overall decision, because the question focuses only on the first three months of pregnancy.  See Franz, Wanda. [http://www.nrlc.org/news/2007/NRL06/PresidentColumn.html "The Continuing Confusion About Roe v. Wade"], ''NRL News'' (June 2007). Also see Adamek, Raymond. [http://links.jstor.org/sici?sici=0033-362X%28197823%2942%3A3%3C411%3AAP%3E2.0.CO%3B2-5&size=LARGE&origin=JSTOR-enlargePage "Abortion Polls"], ''[[Public Opinion Quarterly]]'', Vol. 42, No. 3 (Autumn, 1978), pp. 411-413. </ref>
+*Two polls were released in May 2007 asking Americans "With respect to the abortion issue, would you consider yourself to be pro-choice or pro-life?" May 4 through 6th, a CNN poll found 45% said pro-choice and 50% said pro-life. <ref>[http://i.a.cnn.net/cnn/2007/images/05/09/rel6e.pdf CNN Opinion Research Poll], (2007-05-09). Retrieved 2007-05-27. </ref> Within the following week, a Gallup poll found 50% responding pro-choice and 44% pro-life. <ref>[http://www.gallup.com/poll/1576/Abortion.aspx "Abortion"] ''The Gallup Poll'' (5/21/2007) Retrieved 2007-05-28. </ref> . 
+
+===Partial birth abortion===. 
+{{See also|Partial-Birth Abortion Ban Act}}
+"Partial-Birth" abortion is a non-medical term for a procedure called [[intact dilation and extraction]] used by those who oppose the procedure due to the opinion that the fetus has developed.  A [[Rasmussen Reports]] poll four days after the Supreme Court's opinion in ''[[Gonzales v. Carhart]]'' found that 40% of respondents "knew the ruling allowed states to place some restrictions on specific abortion procedures." Of those who knew of the decision, 56% agreed with the decision and 32% were opposed. <ref>[http://www.rasmussenreports.com/2007/April%20Dailies/partialBirthAbortion.htm Most Who Know of Decision Agree With Supreme Court on Partial Birth Abortion] ''Rasmussen Reports''. April 22, 2007. Retrieved on April 26, 2007</ref> An ABC poll from 2003 found that 62% of respondents thought "partial-birth abortion" should be illegal; a similar number of respondents wanted an exception "if it would prevent a serious threat to the woman's health." Additional polls from 2003 found between 47&ndash;70% in favor of banning this type of abortion and between 25&ndash;40% opposed. <ref>[http://www.pollingreport.com/abortion.htm Abortion and Birth Control]. ''PollingReports.com'.' Retrieved April 26, 2007. </ref> . 
+
+Gallup has repeatedly queried the American public on this issue, as seen on its 'Abortion' page<ref name="gallup1"/>: . 
+
+<CENTER>
+{| class="wikitable"
+. |-
+! Legislation !! 2003 !! 2000 !! 2000 !! 2000 !! 1999 !! 1998 !! 1997 !! 1996
+. |-
+| A law which would make it illegal to perform a specific abortion procedure conducted in the last six months (or second and/or third trimester) of pregnancy known by some opponents as a "partial birth abortion," except in cases necessary to save the life of the mother || 70% || 63% || 66% || 64% || 61% || 61% || 55% || 57%
+|}
+</CENTER> . 
+
+==Abortion financing==. 
+The cost of an abortion varies depending on factors such as location, facility, timing, and type of procedure. In 2005, a nonhospital abortion at 10 weeks’ gestation ranged from $90 to $1,800 (average: $430), whereas an abortion at 20 weeks’ gestation ranged from $350 to $4,520 (average: $1,260). Costs are higher for a medical abortion than a first-trimester surgical abortion.  . 
+
+===Medicaid===. 
+* Federal law requires that states cover abortions under Medicaid in the event of rape, incest, and life endangerment, but bans the use of federal Medicaid funds for any other abortions. 
+* Based on these restrictions, 32 states and DC fund abortions through Medicaid only in the cases of rape, incest, or life endangerment. SD covers abortions only in the cases of life endangerment, which does not comply with federal requirements under the [[Hyde Amendment]]. IN, UT and WI have expanded coverage to women whose physical health is jeopardized, and IA, MS, UT and VA also include fetal abnormality cases. 
+* Seventeen states (AK, AZ, CA, CT, HI, IL, MD, MA, MN, MT, NJ, NM, NY, OR, VT, WA, WV) use their own funds to cover all or most “medically necessary” abortions sought by low-income women under Medicaid.  . 
+
+===Private insurance===. 
+* Five states (ID, KY, MO, ND, OK) restrict insurance coverage of abortion services in private plans: OK limits coverage to life endangerment, rape or incest circumstances; and the other four states limit coverage to cases of life endangerment. 
+* Twelve states (CO, IL, KY, MA, MS, NE, ND, OH, PA, RI, SC, VA) restrict abortion coverage in insurance plans for public employees, with CO and KY restricting insurance coverage of abortion under any circumstances. 
+* U.S. laws also ban federal funding of abortions for Federal employees and their dependents, Native Americans covered by the Indian Health Service, military personnel and their dependents, and women with disabilities covered by Medicare. <ref>{{cite web |url=http://www.kff.org/womenshealth/upload/3269-02.pdf |format=PDF|title=Women's Health Policy Facts|year=2008 |accessdate=2009-01-02 |publisher=The Henry J. Kaiser Family Foundation}}</ref> . 
+
+==Positions of U.S. political parties==. 
+Though members of both major political parties come down on either side of the issue, the [[Republican Party (United States)|Republican Party]] is often seen as being [[pro-life]], since the official party platform opposes abortion and considers unborn children to have an inherent right to life. [[Republicans for Choice]] represents the minority of that party. In 2006 pollsters found that 9% of Republicans favor the availability of abortion in most circumstances. <ref name="zogby1">http://www.zogby.com/search/ReadNews.dbm?ID=1060</ref> Of Republican National Convention delegates in 2004, 13% believed that abortion should be generally available, and 38% believed that it should not be permitted. The same poll showed that 17% of all Republican voters believed that abortion should be generally available to those who want it, while 38% believed that it should not be permitted. <ref>{{cite news| url=http://www.nytimes.com/packages/html/politics/20040829_gop_poll/2004_gop_results.pdf | work=The New York Times}}</ref> . 
+
+The [[Democratic Party (United States)|Democratic Party]] platform considers abortion to be a woman's right. [[Democrats for Life of America]] represents the minority of that party. In 2006 pollsters found that 74% of Democrats favor the availability of abortion in most circumstances. <ref name="zogby1"/> However, a [[Zogby International]] poll in 2004 found that 43% of all Democrats believed that abortion "destroys a human life and is manslaughter."<ref>{{cite web |url=http://www.zogby.com/soundbites/ReadClips.dbm?ID=6982 |work=Zogby International |title=New National Abortion Poll Shows Majority of Americans are Pro-Life |date=16 January 2004 |archiveurl=http://web.archive.org/web/20041205031117/http://www.zogby.com/Soundbites/ReadClips.dbm?ID=6982 |archivedate=2004-12-05 |accessdate=2011-06-29}}</ref> Of Democratic National Convention delegates in 2004, 75% believed that abortion should be generally available, and 2% believed that abortion should not be permitted. The same poll showed that 49% of all Democratic voters believed that abortion should be generally available to those who want it, while 13% believed that it should not be permitted. <ref>{{cite news| url=http://www.nytimes.com/packages/html/politics/20040724poll/20040724_delegates_poll_results.pdf | work=The New York Times}}</ref> . 
+
+The U.S. [[Green Party (United States)|Green Party]] supports abortion as a woman's right.  . 
+
+The U.S. [[Libertarian Party (United States)|Libertarian Party]] takes no position on abortion, but the Party opposes any government funding of abortion.  . 
+
+In the United States the abortion issue has become deeply politicized: in 2002, 84% of state [[United States Democratic Party|Democratic]] platforms supported the right to having an abortion while 88% of state [[United States Republican Party|Republican]] platforms opposed it. This divergence also led to [[Christian Right]] organizations like [[Christian Voice (USA)|Christian Voice]], [[Christian Coalition of America|Christian Coalition]] and [[Moral Majority]] having an increasingly strong role in the Republican Party. This opposition has been extended under the Foreign Assistance Act: in 1973 [[Jesse Helms]] introduced an amendment banning the use of aid money to promote abortion overseas, and in 1984 the [[Mexico City Policy]] prohibited financial support to any overseas organization that performed or promoted abortions. The "Mexico City Policy" was revoked by [[Bill Clinton|President Bill Clinton]] and subsequently reinstated by [[George W. Bush|President George W. Bush]]. President [[Barack Obama]] immediately overruled this policy by Executive Order on January 23, 2009. <ref>{{cite web|url=http://www.lifesitenews.com/ldn/2009/jan/09012010.html|title=Obama to Immediately Abolish Mexico City Policy, Likely Fund Embryo Research, Aides Confirm|date=2009-01-20|accessdate=2009-01-21|author=Gilbert, Kathleen| archiveurl= http://web.archive.org/web/20090122203653/http://www.lifesitenews.com/ldn/2009/jan/09012010.html| archivedate= 22 January 2009 <!--DASHBot-->| deadurl= no}}</ref> . 
+
+The official platforms of the [[List of political parties in the United States#Major parties|major political parties]] in the US are as follows: . 
+
+===The U.S. Republican Party===. 
+* 2008: "Faithful to the first guarantee of the Declaration of Independence, we assert the inherent dignity and sanctity of all human life and affirm that the unborn child has a fundamental individual right to life which cannot be infringed. We support a human life amendment to the Constitution, and we endorse legislation to make clear that the Fourteenth Amendment’s protections apply to unborn children. We oppose using public revenues to promote or perform abortion and will not fund organizations which advocate it. We support the appointment of judges who respect traditional family values and the sanctity and dignity of innocent human life..."<ref>[http://www.gop.com/2008Platform/Values.htm#5 GOP party platform 2008]</ref>
+* 2004: "As a country, we must keep our pledge to the first guarantee of the Declaration of Independence. That is why we say the unborn child has a fundamental individual right to life which cannot be infringed. We support a human life amendment to the Constitution and we endorse legislation to make it clear that the Fourteenth Amendment’s protections apply to unborn children. Our purpose is to have legislative and judicial protection of that right against those who perform abortions. We oppose using public revenues for abortion and will not fund organizations which advocate it. We support the appointment of judges who respect traditional family values and the sanctity of innocent human life." <ref>[http://web.archive.org/web/20080508160456/http://www.gop.com/media/2004platform.pdf GOP party platform 2004], p.84. </ref>
+* 2000: "Ban abortion with Constitutional amendment. We say the unborn child has a fundamental right to life. We support a human life amendment to the Constitution and we endorse legislation that the [[Fourteenth Amendment to the United States Constitution|14th Amendment]]’s protections apply to unborn children. Our purpose is to have legislative and judicial protection of that right against those who perform abortions. We oppose using public revenues for abortion and will not fund organizations which advocate it. We support the appointment of judges who respect the sanctity of innocent human life." <ref name="ReferenceA">Republican Platform adopted at GOP National Convention August 12, 2000. </ref>
+* 2000: "Alternatives like adoption, instead of punitive action. Our goal is to ensure that women with problem pregnancies have the kind of support, material and otherwise, they need for themselves and for their babies, not to be punitive towards those for whose difficult situation we have only compassion. We oppose abortion, but our pro-life agenda does not include punitive action against women who have an abortion. We salute those who provide alternatives to abortion and offer adoption services." <ref name="ReferenceA"/> . 
+
+===The U.S. Democratic Party===. 
+*2008: "The Democratic Party strongly and unequivocally supports [[Roe v. Wade]] and a woman's right to choose a safe and legal abortion, regardless of ability to pay, and we oppose any and all efforts to weaken or undermine that right.The Democratic Party also strongly supports access to affordable family planning services and comprehensive age-appropriate sex education which empower people to make informed choices and live healthy lives. We also recognize that such health care and education help reduce the number of [[unintended pregnancies]] and thereby also reduce the need for abortions. The Democratic Party also strongly supports a woman's decision to have a child by ensuring access to and availability of programs for pre and post natal health care, parenting skills, income support, and caring adoption programs." <ref name="Dem 2008">''Dem Party Platform's New Abortion Language'', [http://web.archive.org/web/20080822005913/http://www.cbn.com/CBNnews/426142.aspx Dem Platform's New Abortion Language] (2008). cbn.com. Retrieved 2008-08-13. </ref>
+*2004: "Support right to choose even if mother cannot pay. Because we believe in the privacy and equality of women, we stand proudly for a woman's right to choose, consistent with [[Roe v. Wade]], and regardless of her ability to pay. We stand firmly against Republican efforts to undermine that right. At the same time, we strongly support family planning and adoption incentives. Abortion should be safe, legal, and rare." <ref>The Democratic Platform for America, p.36 July 10, 2004. </ref>
+*2000: "Choice is a fundamental, constitutional right. Democrats stand behind the right of every woman to choose. We believe it is a constitutional liberty. This year’s Supreme Court ruling show us that eliminating a woman’s right to choose is only one justice away. Our goal is to make abortion more rare, not more dangerous. We support contraceptive research, family planning, comprehensive family life education, and policies that support healthy childbearing." <ref>Democratic National Platform August 15, 2000. </ref> . 
+
+==Effects of legalization==. 
+The risk of death due to legal abortion has fallen considerably since legalization in 1973, due to increased physician skills, improved medical technology, and earlier termination of pregnancy. <ref name="BeforeAfter" />  From 1940 through 1970, deaths of pregnant women during abortion fell from nearly 1,500 to a little over 100. <ref name="BeforeAfter">[http://jama.ama-assn.org/content/268/22/3231.short "Induced termination of pregnancy before and after Roe v. Wade"], JAMA, 12/9/92, vol. 208, no. 22, p. 3231-3239. </ref> According to the Centers for Disease Control, the number of women who died in 1972 from illegal abortion was thirty-nine (39). <ref>Lilo T. Strauss, M.A., Joy Herndon, M.S., Jeani Chang, M.P.H., Wilda Y. Parker
+Sonya V. Bowens, M.S., Suzanne B. Zane, D.V.M., Cynthia J. Berg, M.D., [http://www.cdc.gov/mmwr/preview/mmwrhtml/ss5309a1.htm Abortion Surveillance --- United States], 2001 (Table 19). </ref> In 1960, Dr. Mary Calderone, a former director of Planned Parenthood, said: . 
+
+{{cquote|Abortion is no longer a dangerous procedure. This applies not just to therapeutic abortions as performed in hospitals but also to so-called illegal abortions as done by physician. In 1957 there were only 260 deaths in the whole country attributed to abortions of any kind&nbsp;...90 percent of all illegal abortions are presently being done by physicians&nbsp;...Whatever trouble arises usually arises from self-induced abortions, which comprise approximately 8 percent, or with the very small percentage that go to some kind of non-medical abortionist... <ref>{{cite journal | author = Calderone Mary S | title = Illegal Abortion as a Public Health Problem | journal = American Journal of Public Health | volume = 50 | page = 948| year = 1960 | pmc=1373382 | pmid=13806906}}</ref>}}
+The [[Roe effect]] is an hypothesis which suggests that since supporters of abortion rights cause the erosion of their own political base by having fewer children, the practice of abortion will eventually lead to the restriction or illegalization of abortion. The [[legalized abortion and crime effect]] is another controversial theory that posits legal abortion reduces crime, because unwanted children are more likely to become criminals.  . 
+
+Since Roe v Wade, there have been numerous attempts to reverse the decision. In the 2011 election season, Mississippi placed an amendment on the ballot that redefine how the state viewed abortion. The personhood amendment defined personhood as "every human being from the moment of fertilization, cloning or the functional equivalent thereof". If passed, it would have been impossible to get an abortion in the state. <ref name="Mississippi and Personhood">{{cite news| url=http://www.huffingtonpost.com/2011/11/08/mississippi-personhood-amendment_n_1082546.html | work=Huffington Post | title=Mississippi 'Personhood' Amendment Vote Fails | date=November 8, 2011}}</ref> . 
+
+==See also==. 
+*[[:Category:Abortion by country|Abortion by country]]
+*[[Abortion and religion]]
+*[[Catholic Church and abortion in the United States]] . 
+
+==Notes and references==. 
+{{Reflist|2}} . 
+
+==External links==. 
+*[http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&vol=410&invol=113 Full Text of ''Roe v. Wade'' Decision]
+*[http://www.lawserver.com/abortion Interactive maps comparing U.S. abortion restrictions by state]
+*[http://www.guttmacher.org/statecenter/spibs/spib_PLTA.pdf State Policies on Later-Term Abortions]
+*[http://www.plannedparenthood.org/health-topics/abortion-4260.asp Planned Parenthood: Abortion] . 
+
+{{Social Policy in the United States|state=autocollapse}}
+{{United States topics}}
+{{North America topic|Abortion in}}
+{{Abortion}} . 
+
+{{DEFAULTSORT:Abortion In The United States}}
+[[Category:Abortion in the United States|*]]

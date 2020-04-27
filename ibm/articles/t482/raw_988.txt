@@ -1,0 +1,436 @@
+{{About|the chemical compound|other uses|Nicotine (disambiguation)}}
+{{Drugbox| Verifiedfields = changed
+| verifiedrevid = 420440849
+| IUPAC_name = 3-[(2''S'')-1-methylpyrrolidin-2-yl]pyridine
+| image = Nicotine.svg
+| width = 177px
+| image2 = Nicotine-3D-vdW.png . 
+
+<!--Clinical data-->
+| tradename = Nicorette, Nicotrol
+| Drugs.com = {{drugs.com|monograph|nicotine}}
+| pregnancy_US = D
+| legal_AU = Unscheduled
+| legal_UK = Unscheduled
+| legal_US = Unscheduled, but age restricted. 
+| dependency_liability = Medium to high
+| routes_of_administration = '''[[Tobacco smoking|smoked]]''' (as smoking tobacco, mapacho, etc.), '''[[Insufflation (medicine)|insufflate]]d''' (as tobacco snuff or nicotine nasal spray), '''[[Chewing|chewed]]''' (as nicotine gum, tobacco gum or chewing tobacco), '''[[Nicotine patch|transdermal]]''' (as nicotine patch, nicogel or topical tobacco paste), '''intrabuccal''' (as dipping tobacco, snuffs, [[dissolvable tobacco]] or creamy snuff), '''[[vaporized]]''' (as electronic cigarette, etc.), '''directly inhaled''' (as nicotine inhaler), '''oral''' (as nicotini), '''[[buccal]]''' (as snus) . 
+
+<!--Pharmacokinetic data-->
+| bioavailability = 20 to 45% (oral)
+| metabolism = hepatic
+| elimination_half-life = 2 hours . 
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 54-11-5
+| ATC_prefix = N07
+| ATC_suffix = BA01
+| ATC_supplemental = {{ATCvet|P53|AX13}}
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 17688
+| PubChem = 942
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00184
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 80863
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6M3C89ZY6R
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03365
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 3 . 
+
+<!--Chemical data-->
+| C=10 | H=14 | N=2
+| molecular_weight = 162.26 g/mol
+| smiles = n1cc(ccc1)[C@H]2N(C)CCC2
+| InChI = 1/C10H14N2/c1-12-7-3-5-10(12)9-4-2-6-11-8-9/h2,4,6,8,10H,3,5,7H2,1H3/t10-/m0/s1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H14N2/c1-12-7-3-5-10(12)9-4-2-6-11-8-9/h2,4,6,8,10H,3,5,7H2,1H3/t10-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SNICXCGAKADSCV-JTQLQIEISA-N
+| density = 1.01
+| melting_point = -79
+| boiling_point = 247
+}}
+'''Nicotine''' is an [[alkaloid]] found in the [[nightshade]] family of plants (''[[Solanaceae]]'') that constitutes approximately 0.6–3.0% of the dry weight of [[tobacco]],<ref name="acs">{{cite web |url=http://pubs.acs.org/cgi-bin/abstract.cgi/jafcau/1999/47/i08/abs/jf990089w.html |title=Determination of the Nicotine Content of Various Edible Nightshades (Solanaceae) and Their Products and Estimation of the Associated Dietary Nicotine Intake |work= |accessdate=2008-10-05}}</ref><ref>{{cite web |url=http://dccps.nci.nih.gov/tcrb/monographs/9/m9_3.PDF |format=PDF|title=Smoking and Tobacco Control Monograph No. 9}}</ref> with [[biosynthesis]] taking place in the roots and accumulation occurring in the leaves. It functions as an [[Plant defense against herbivory|antiherbivore chemical]] with particular specificity to insects; therefore nicotine was widely used as an [[insecticide]] in the past,<ref>{{Cite book
+  | last = Rodgman
+  | first = Alan
+  | last2 = Perfetti
+  | first2 = Thomas A. 
+  | title = The chemical components of tobacco and tobacco smoke
+  | place = Boca Raton, FL
+  | publisher = CRC Press
+  | year = 2009
+  | url = http://lccn.loc.gov/2008018913
+  | isbn = 1-4200-7883-6
+  | postscript = <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}
+ }}</ref><ref>[http://www.coopext.colostate.edu/4DMG/VegFruit/organic.htm Some Pesticides Permitted in Organic Gardening]</ref> and currently nicotine analogs such as [[imidacloprid]] continue to be widely used.  . 
+
+In low concentrations (an average [[cigarette]] yields about 1&nbsp;mg of absorbed nicotine), the substance acts as a [[stimulant]] in [[mammal]]s and is the main factor responsible for the dependence-forming properties of [[tobacco smoking]]. According to the [[American Heart Association]], nicotine [[Substance use disorder|addiction]] has historically been one of the hardest addictions to break, while the pharmacological and behavioral characteristics that determine tobacco addiction are similar to those  determining addiction to  [[heroin]] and [[cocaine]]. The nicotine content of popular American-brand cigarettes has slowly increased over the years, and one study found that there was an average increase of 1.6% per year between the years of 1998 and 2005. This was found for all major market categories of cigarettes. <ref>{{cite journal
+ | title = Trends in nicotine yield in smoke and its relationship with design characteristics among popular US cigarette brands, 1997–2005
+ | journal = Tobacco Control
+ | volume = 16
+ | issue = 5
+ | pages = e5
+ | year = 2007
+ | pmid = 17897974
+ | doi = 10.1136/tc.2006.019695
+ | author1 = Connolly, G. N
+ | author2 = Alpert, H. R
+ | author3 = Wayne, G. F
+ | author4 = Koh, H
+ | pmc = 2598548}}</ref> . 
+
+Research in 2011 has found that nicotine inhibits chromatin-modifying enzymes (class I and II histone deacetylases) which increases the ability of [[cocaine]] to cause an [[addiction]]. <ref>[http://stm.sciencemag.org/content/3/107/107ps43 sciencemag.org - Epigenetics of Nicotine: Another Nail in the Coughing]</ref> . 
+
+== History and name ==. 
+Nicotine is named after the tobacco plant ''[[Nicotiana tabacum]],'' which in turn is named after [[Jean Nicot|Jean Nicot de Villemain]], [[France|French]] ambassador in [[Portugal]], who sent tobacco and seeds from [[Brazil]] to [[Paris]] in 1560 and promoted their medicinal use. Nicotine was first isolated from the tobacco plant in 1828 by physician Wilhelm Heinrich Posselt and chemist Karl Ludwig Reimann of [[Germany]], who considered it a poison. <ref>W. Posselt and L. Reimann (1828) [http://books.google.com/books?id=cgkCAAAAYAAJ&pg=RA1-PA138#v=onepage&q&f=false "Chemische Untersuchung des Tabaks und Darstellung eines eigenthümlich wirksamen Prinzips dieser Pflanze"] (Chemical investigation of tobacco and preparation of a characteristically active constituent of this plant), Geiger's ''Magazin für Pharmacie'', volume 6, number 24, pages 138-161. </ref><ref>{{cite journal
+ | title = "Nicotine psychopharmacology", research contributions to United States and global tobacco regulation: A look back and a look forward
+ | journal = Psychopharmacology
+ | volume = 184
+ | issue = 3–4
+ | pages = 286–291
+ | year = 2006
+ | url =  http://www.springerlink.com/content/75462q6mq88g4575/fulltext.pdf
+ | doi = 10.1007/s00213-006-0308-4
+ | pmid = 16463054
+ | last1 = Henningfield
+ | first1 = JE
+ | last2 = Zeller
+ | first2 = M
+ | author1 = Henningfield, Jack E
+ | author2 = Zeller, Mitch}}</ref> Its chemical [[empirical formula]] was described by Melsens in 1843,<ref>{{cite journal
+ | title = Über das Nicotin
+ | author = Melsens
+ | journal = [[Journal für Praktische Chemie]]
+ | volume = 32
+ | issue = 1
+ | pages = 372–377
+ | year = 1844
+ | url =
+ | doi = 10.1002/prac.18440320155}}</ref> its structure was
+discovered by [[Adolf Pinner]] and [[Richard Wolffenstein (chemist)|Richard Wolffenstein]] in 1893, and it was first synthesized by A. Pictet and Crepieux in 1904. <ref>[http://medicolegal.tripod.com/toxicchemicals.htm Comptes rendus, 1903, 137, p 860]</ref> . 
+
+== Chemistry ==. 
+Nicotine is a [[hygroscopy|hygroscopic]], oily liquid that is [[miscible]] with [[water (molecule)|water]] in its [[base (chemistry)|base]] form. As a [[nitrogenous base]], nicotine forms [[salt]]s with [[acid]]s that are usually solid and water soluble. Nicotine easily penetrates the [[skin]]. As shown by the physical data, [[Freebase (chemistry)|free base]] nicotine will burn at a temperature below its boiling point, and its vapors will combust at {{convert|308|K|C F}} in air despite a low [[vapor pressure]].  Because of this, most of the nicotine is burned when a cigarette is smoked; however, enough is inhaled to cause pharmacological effects.  . 
+
+== Optical activity ==. 
+Nicotine is [[optically active]], having two [[enantiomer]]ic forms. The naturally occurring form of nicotine is [[levorotatory]] with a [[specific rotation]] of [α]<sub>D</sub> = –166.4° ((&minus;)-nicotine). The [[dextrorotatory]] form, (+)-nicotine is physiologically less active than (–)-nicotine. (&minus;)-nicotine is more toxic than (+)-nicotine. <ref>{{cite book|last=Gause|first=G. F.|title=Optical Activity and Living Matter|url=http://www.archive.org/stream/opticalactivityl00gauz/opticalactivityl00gauz_djvu.txt|editor=Luyet, B. J.|publisher=Biodynamica|location= Normandy, Missouri |year=1941|chapter=Chapter V: Analysis of various biological processes by the study of the differential action of optical isomers|volume=2|series= A series of monographs on general physiology}}</ref> The salts of (+)-nicotine are usually dextrorotatory.  . 
+
+==Pharmacology==. 
+===Pharmacokinetics=== . 
+
+[[File:Side effects of nicotine.png|thumb|280px|Side effects of nicotine. <ref>References and comments are found in [[Commons:File:Side effects of nicotine.png#References|image description in Commons]]. </ref>]]
+As nicotine enters the body, it is distributed quickly through the [[blood]]stream and crosses the [[blood-brain barrier]] reaching the [[Human brain|brain]] within 10–20 seconds after inhalation. <ref name="Le Houezec-2003">{{Cite journal | last1 = Le Houezec | first1 = J. | title = Role of nicotine pharmacokinetics in nicotine addiction and nicotine replacement therapy: a review | journal = Int J Tuberc Lung Dis | volume = 7 | issue = 9 | pages = 811–9 | month = Sep | year = 2003 | pmid = 12971663 }}</ref> The [[elimination half-life]] of nicotine in the body is around two hours. <ref>{{cite journal|last=Benowitz NL, Jacob P 3rd, Jones RT, Rosenberg J|year=1982|title=Interindividual variability in the metabolism and cardiovascular effects of nicotine in man|journal= J Pharmacol Exp Ther|volume=221|issue=2|pages=368–72|pmid=7077531|first1=NL|last2=Jacob P|first2=3rd|last3=Jones|first3=RT|last4=Rosenberg|first4=J}}</ref> . 
+
+The amount of nicotine absorbed by the body from smoking depends on many factors, including the types of tobacco, whether the smoke is inhaled, and whether a filter is used. For [[chewing tobacco]], [[dipping tobacco]], [[snus]] and [[Snuff (tobacco)|snuff]], which are held in the mouth between the lip and gum, or taken in the nose, the amount released into the body tends to be much greater than smoked tobacco.{{Clarify|Say how much for each?|date=July 2011}}{{Citation needed|date=October 2011}} Nicotine is [[metabolized]] in the [[liver]] by [[cytochrome P450]] enzymes (mostly [[CYP2A6]], and also by [[CYP2B6]]).  A major metabolite is [[cotinine]].  . 
+
+Other primary metabolites include nicotine ''N'''-oxide, nornicotine, nicotine isomethonium ion, 2-hydroxynicotine and nicotine glucuronide. <ref name=hukkanen2005>{{cite journal|last=Hukkanen J, Jacob P 3rd, Benowitz NL. |title=Metabolism and Disposition Kinetics of Nicotine|journal=Pharmacol Rev. |year= 2005 |month= March |volume=57|issue=1|pages=79–115|pmid=15734728|url=http://pharmrev.aspetjournals.org/cgi/content/full/57/1/79|doi=10.1124/pr.57.1.3|first1=J|last2=Jacob P|first2=3rd|last3=Benowitz|first3=NL}}</ref> Under some conditions, other substances may be formed such as [[myosmine]]. <ref>http://chromatographyonline.findanalytichem.com/lcgc/News/The-danger-of-third-hand-smoke/ArticleStandard/Article/detail/713385</ref> . 
+
+[[Glucuronidation]] and oxidative metabolism of nicotine to cotinine are both inhibited by [[menthol]], an additive to [[Menthol cigarettes|mentholated cigarettes]], thus increasing the half-life of nicotine ''in vivo''. <ref>{{cite journal|last=Benowitz NL, Herrera B, Jacob P 3rd.|year=2004|title=Mentholated Cigarette Smoking Inhibits Nicotine Metabolism |journal=J Pharmacol Exp Ther|volume=310|issue=3|pages=1208–15|pmid=15084646|url=http://jpet.aspetjournals.org/cgi/content/abstract/310/3/1208|doi=10.1124/jpet.104.066902|first1=NL|last2=Herrera|first2=B|last3=Jacob P|first3=3rd}}</ref> . 
+
+===Detection of use===. 
+==== Medical detection ==== . 
+
+Nicotine can be quantified in blood, plasma, or urine to confirm a diagnosis of poisoning or to facilitate a medicolegal death investigation. Urinary or salivary cotinine concentrations are frequently measured for the purposes of pre-employment and health insurance medical screening programs. Careful interpretation of results is important, since passive exposure to cigarette smoke can result in significant accumulation of nicotine, followed by the appearance of its metabolites in various body fluids. <ref>Benowitz NL, Hukkanen J, Jacob P. Nicotine chemistry, metabolism, kinetics and biomarkers. Handb. Exp. Pharmacol. 192: 29-60, 2009. </ref><ref>R. Baselt, ''Disposition of Toxic Drugs and Chemicals in Man'', 8th edition, Biomedical Publications, Foster City, CA, 2008, pp. 1103-1107. </ref> Nicotine use is not regulated in competitive sports programs, yet the drug has been shown to have a significant beneficial effect on athletic endurance in subjects who have not used nicotine before. <ref>{{cite journal |author = Mündel, T. and Jones, D. A.|title = Effect of transdermal nicotine administration on exercise endurance in men|journal = Exp Physiol|year = 2006|volume = 91 |pmid = 16627574 |issue = 4| pages = 705–713 |doi = 10.1113/expphysiol.2006.033373 |unused_data = PMID 16627574}}</ref> . 
+
+===Pharmacodynamics===. 
+Nicotine acts on the [[nicotinic acetylcholine receptor]]s, specifically the [[ganglion type nicotinic receptor]] and one [[Alpha-4 beta-2 nicotinic receptor|CNS nicotinic receptor]]. The former is present in the [[adrenal medulla]] and elsewhere, while the latter is present in the [[central nervous system]] (CNS). In small concentrations, nicotine increases the activity of these receptors. Nicotine also has effects on a variety of other neurotransmitters through less direct mechanisms.  . 
+
+====In the central nervous system==== . 
+
+[[File:NicotineDopaminergic WP1602.png|thumb|right|Effect of nicotine on dopaminergic neurons]]
+By binding to [[nicotinic acetylcholine receptor]]s, nicotine increases the levels of several [[neurotransmitter]]s - acting as a sort of "volume control". It is thought that increased levels of [[dopamine]] in the [[reward circuit]]s of the [[Human brain|brain]] are responsible for the apparent [[euphoria (emotion)|euphoria]] and [[Relaxation (psychology)|relaxation]], and addiction caused by nicotine consumption. Nicotine has a higher affinity for [[acetylcholine]] receptors in the brain than those in [[skeletal muscle]], though at toxic doses it can induce contractions and respiratory paralysis. <ref>Katzung, Bertram G. Basic & Clinical Pharmacology (Basic and Clinical Pharmacology). New York: McGraw-Hill Medical, 2006. pages 99-105. </ref> Nicotine's selectivity is thought to be due to a particular amino acid difference on these receptor subtypes. <ref>{{cite journal | last1 = Xiu | first1 = Xinan | last2 = Puskar | first2 = Nyssa L. | last3 = Shanata | first3 = Jai A. P. | last4 = Lester | first4 = Henry A. | last5 = Dougherty | first5 = Dennis A. | year = 2009 | title = Nicotine Binding to Brain Receptors Requires a Strong Cation-π Interaction | journal = Nature | volume = 458 | issue = 7237| pages = 534–537 | pmid = 19252481 | pmc = 2755585 | doi=10.1038/nature07768}}</ref> . 
+
+Tobacco smoke contains [[anabasine]], [[anatabine]], and [[nornicotine]].{{Citation needed|date=January 2012}} It also contains the [[monoamine oxidase inhibitor]]s [[Harmala alkaloid|harman]] and norharman. <ref name=pmid15582589>{{cite journal |author=Herraiz T, Chaparro C |title=Human monoamine oxidase is inhibited by tobacco smoke: beta-carboline alkaloids act as potent and reversible inhibitors |journal=Biochem. Biophys. Res. Commun. |volume=326 |issue=2 |pages=378–86 |year=2005 |pmid=15582589 |doi=10.1016/j.bbrc.2004.11.033 }}</ref> These [[beta-carboline]] compounds significantly decrease [[MAO]] activity in smokers. <ref name="pmid15582589"/><ref name="pmid9549600">{{cite journal |author=Fowler JS, Volkow ND, Wang GJ, ''et al.'' |title=Neuropharmacological actions of cigarette smoke: brain monoamine oxidase B (MAO B) inhibition |journal=J Addict Dis |volume=17 |issue=1 |pages=23–34 |year=1998 |pmid=9549600 |doi= 10.1300/J069v17n01_03 }}</ref> MAO [[enzyme]]s break down [[monoamine|monoaminergic neurotransmitters]] such as [[dopamine]], [[norepinephrine]], and [[serotonin]]. It is thought that the powerful interaction between the MAOI's and the nicotine is responsible for most of the addictive properties of tobacco smoking. <ref name="pmid14592678">{{cite journal |author=Villégier AS, Blanc G, Glowinski J, Tassin JP |title=Transient behavioral sensitization to nicotine becomes long-lasting with monoamine oxidases inhibitors |journal=Pharmacol. Biochem. Behav. |volume=76 |issue=2 |pages=267–74 |year=2003 |month=September |pmid=14592678 |doi= 10.1016/S0091-3057(03)00223-5|url=}}</ref> The addition of five minor tobacco alkaloids increases nicotine-induced hyperactivity, sensitization and intravenous self-administration in rats. <ref>{{cite journal | year = 2006| title = Monoamine Oxidase Inhibitors Allow Locomotor and Rewarding Responses to Nicotine | url =http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=6382912 | journal = Nature | doi=10.1038/sj.npp.1300987 | volume=31 | issue=8 | last1 = Villégier | first1 = Anne-Sophie | last2 = Salomon | first2 = Lucas | last3 = Granon | first3 = Sylvie | last4 = Changeux | first4 = Jean-Pierre | last5 = Belluzzi | first5 = James D | last6 = Leslie | first6 = Frances M | last7 = Tassin | first7 = Jean-Pol | pages = 1704}}</ref> . 
+
+Chronic nicotine exposure via tobacco smoking [[up-regulation|up-regulates]] [[Alpha-4 beta-2 nicotinic receptor|alpha4beta2]]* nAChR in [[cerebellum]] and [[brainstem]] regions<ref name="pmid17997038">{{cite journal |author=Wüllner U, Gündisch D, Herzog H, ''et al.'' |title=Smoking upregulates alpha4beta2* nicotinic acetylcholine receptors in the human brain |journal=Neurosci. Lett. |volume=430 |issue=1 |pages=34–7 |year=2008 |pmid=17997038 |doi=10.1016/j.neulet.2007.10.011 |url= |last12=Schmaljohann |first12=J}}</ref><ref name="pmid18174175">{{cite journal |author=Walsh H, Govind AP, Mastro R, ''et al.'' |title=Up-regulation of nicotinic receptors by nicotine varies with receptor subtype |journal=J. Biol. Chem. |volume=283 |issue=10 |pages=6022–32 |year=2008 |pmid=18174175 |doi=10.1074/jbc.M703432200 |url=}}</ref> but not [[Habenula|habenulopeduncular]] structures. <ref name="pmid14560040">{{cite journal |author=Nguyen HN, Rasmussen BA, Perry DC |title=Subtype-selective up-regulation by chronic nicotine of high-affinity nicotinic receptors in rat brain demonstrated by receptor autoradiography |journal=J. Pharmacol. Exp. Ther. |volume=307 |issue=3 |pages=1090–7 |year=2003 |pmid=14560040 |doi=10.1124/jpet.103.056408 |url=}}</ref> Alpha4beta2 and alpha6beta2 receptors, present in the [[ventral tegmental area]], play a crucial role in mediating the reinforcement effects of nicotine. <ref name="pmid19020025">{{cite journal |author=Pons S, Fattore L, Cossu G, ''et al.'' |title=Crucial role of α4 and α6 nicotinic acetylcholine receptor subunits from ventral tegmental area in systemic nicotine self-administration |journal=J. Neurosci. |volume=28 |issue=47 |pages=12318–27 |year=2008 |month=November |pmid=19020025 |doi=10.1523/JNEUROSCI.3918-08.2008 |url= |pmc=2819191}}</ref> . 
+
+====In the sympathetic nervous system====. 
+Nicotine also activates the [[sympathetic nervous system]],<ref>{{cite journal |author=Yoshida T, Sakane N, Umekawa T, Kondo M |title=Effect of nicotine on sympathetic nervous system activity of mice subjected to immobilization stress |journal=Physiol Behav. |volume=55 |issue=1 |pages=53–7 |year=1994 |month=Jan |pmid=8140174 |url=http://linkinghub.elsevier.com/retrieve/pii/0031-9384(94)90009-4 |doi=10.1016/0031-9384(94)90009-4}}</ref> acting via [[splanchnic nerves]] to the adrenal medulla, stimulates the release of epinephrine. Acetylcholine released by preganglionic sympathetic fibers of these nerves acts on nicotinic acetylcholine receptors, causing the release of epinephrine (and norepinephrine) into the [[bloodstream]]. Nicotine also  has an affinity for [[melanin]]-containing tissues due  to its precursor function in melanin synthesis or due to the irreversible binding of melanin and nicotine. This has been suggested to underlie the increased [[nicotine dependence]] and lower [[smoking cessation]] rates in darker pigmented individuals. <ref>King G, Yerger VB, Whembolua GL, Bendel RB, Kittles R, Moolchan ET. Link between facultative melanin and tobacco use among African Americans.(2009). Pharmacol Biochem Behav. 92(4):589-96. {{doi|10.1016/j.pbb.2009.02.011}} PMID 19268687</ref> . 
+
+[[File:NicotineChromaffinCells WP1603.png|thumb|right|Effect of nicotine on chromaffin cells]] . 
+
+====In adrenal medulla====. 
+By binding to [[ganglion type nicotinic receptor]]s in the adrenal medulla nicotine increases flow of [[adrenaline]] (epinephrine), a stimulating [[hormone]] and neurotransmitter. By binding to the receptors, it causes cell depolarization and an influx of [[calcium]] through voltage-gated calcium channels. Calcium triggers the [[exocytosis]] of [[Chromaffin cell|chromaffin granules]] and thus the release of [[epinephrine]] (and norepinephrine) into the [[bloodstream]]. The release of [[epinephrine]] (adrenaline) causes an increase in [[heart rate]], [[blood pressure]] and [[breathing|respiration]], as well as higher [[blood glucose]] levels. <ref name="Marieb" >{{cite book | author = Elaine N. Marieb and Katja Hoehn | title = Human Anatomy & Physiology (7th Ed.) | publisher = Pearson | pages = ? | year = 2007 | isbn = 0-8053-5909-5}}</ref> . 
+
+Nicotine is the natural product of tobacco, having a half-life of 1 to 2 hours. [[Cotinine]] is an active metabolite of nicotine that remains in the blood for 18 to 20 hours, making it easier to analyze due to its longer half-life. <ref>[http://web.mit.edu/murj/www/v08/v08-Reports/v08-r2.pdf ''Detection of Cotinine in Blood Plasma by HPLC MS/MS''], MIT Undergraduate Research Journal, Volume 8, Spring 2003, Massachusetts Institute of Technology</ref> . 
+
+==Psychoactive effects==. 
+Nicotine's [[Mood (psychology)|mood]]-altering effects are different by report: in particular it is both a stimulant and a relaxant. <ref>[http://www.ti.ubc.ca/pages/letter21.htm ''Effective Clinical Tobacco Intervention''], Therapeutics Letter, issue 21, September–October 1997, University of British Columbia</ref> First causing a release of [[glucose]] from the liver and [[epinephrine]] (adrenaline) from the [[adrenal medulla]], it causes [[stimulation]]. Users report feelings of [[Relaxation (psychology)|relaxation]], sharpness, [[calmness]], and [[alertness]]. <ref>Gilbert Lagrue, François Lebargy, Anne Cormier, "From nicotinic receptors to smoking dependence: therapeutic prospects" ''Alcoologie et Addictologie'' Vol. : 23, N° : 2S, juin 2001, pages 39S - 42</ref> Like any stimulant, it may very rarely cause the often catastrophically uncomfortable [[neuropsychiatric]] effect of [[akathisia]]. By reducing the [[appetite]] and raising the [[metabolism]], some smokers may [[weight loss|lose weight]] as a consequence. <ref>Jean-Claude Orsini, "Dependence on tobacco smoking and brain systems controlling glycemia and appetite" ''Alcoologie et Addictologie'' Vol. : 23, N° : 2S, juin 2001, pages 28S - 36S</ref><ref>[http://uninews.unimelb.edu.au/articleid_1898.html Smokers lose their appetite : Media Releases : News : The University of Melbourne<!-- Bot generated title -->]</ref> . 
+
+When a [[cigarette]] is smoked, nicotine-rich blood passes from the [[Human lung|lung]]s to the [[Human brain|brain]] within seven seconds and immediately stimulates the release of many chemical messengers including [[acetylcholine]], [[norepinephrine]], [[epinephrine]], [[vasopressin]], [[arginine]], [[dopamine]], [[autocrine agents]], and [[beta-endorphin]]. <ref>''[http://www.bodybuilding.com/fun/par16.htm Chemically Correct: Nicotine]'', Andrew Novick</ref>  This release of neurotransmitters and hormones is responsible for most of nicotine's effects. Nicotine appears to enhance [[attention|concentration]]<ref name="rusted">{{cite journal|last=Rusted|first=J|coauthors=Graupner, O'Connell, Nicholls|date=1994-05-05|title=Does nicotine improve cognitive function?|journal=Psychopharmacology|publisher=Springer-Verlag|issue=115|pages=547–549|url=http://www.springerlink.com/content/75034q53031260j8/?p=afde608485604678839ab0e950be77f9&pi=0|accessdate=2008-11-15}}</ref> and memory due to the increase of [[acetylcholine]].{{Citation needed|date=July 2011}} It also appears to enhance [[alertness]] due to the increases of [[acetylcholine]] and [[norepinephrine]].{{Citation needed|date=July 2011}} [[Arousal]] is increased by the increase of [[norepinephrine]].{{Citation needed|date=July 2011}} [[Pain]] is reduced by the increases of [[acetylcholine]] and beta-endorphin. [[Anxiety]] is reduced by the increase of [[beta-endorphin]]. Nicotine also extends the duration of positive effects of dopamine<ref>http://chronicle.uchicago.edu/020328/nicotine.shtml</ref> and increases sensitivity in brain reward systems. <ref name=Kenny>{{cite journal |author=Kenny PJ, Markou A |title=Nicotine self-administration acutely activates brain reward systems and induces a long-lasting increase in reward sensitivity |journal=Neuropsychopharmacology |volume=31 |issue=6 |pages=1203–11 |year=2006 |month=Jun |pmid=16192981 |doi=10.1038/sj.npp.1300905 |url=http://www.nature.com/npp/journal/v31/n6/full/1300905a.html}}</ref> Most cigarettes (in the smoke inhaled) contain 1 to 3 milligrams of nicotine. <ref>[http://www.erowid.org/chemicals/nicotine/nicotine_dose.shtml Erowid Nicotine Vault : Dosage<!-- Bot generated title -->]</ref> . 
+
+Research suggests that, when smokers wish to achieve a stimulating effect, they take short quick puffs, which produce a low level of blood nicotine. <ref>{{cite book
+| last = Einstein
+| first = Stanley
+| authorlink = Stanley Einstein
+| title = Drug and Alcohol Use: Issues and Factors
+| publisher = [[Springer Science+Business Media|Springer]]
+| year = 1989
+| pages = 101–118
+| isbn = 0-306-41378-7
+}}</ref> This stimulates [[action potential|nerve transmission]]. When they wish to relax, they take deep puffs, which produce a high level of blood nicotine, which depresses the passage of [[nerve impulses]], producing a mild sedative effect. At low doses, nicotine potently enhances the actions of [[norepinephrine]] and [[dopamine]] in the brain, causing a drug effect typical of those of [[psychostimulants]]. At higher doses, nicotine enhances the effect of [[serotonin]] and [[opiate]] activity, producing a calming, [[analgesic|pain-killing]] effect. Nicotine is unique in comparison to most [[drug]]s, as its profile changes from [[stimulant]] to [[sedative]]/[[pain killer]] in increasing [[Dose (biochemistry)|dosage]]s and use.  . 
+
+Technically, nicotine is not significantly addictive, as nicotine administered alone does not produce significant reinforcing properties. <ref name="pmid16177026">{{cite journal |author=Guillem K, Vouillac C, Azar MR, ''et al.'' |title=Monoamine oxidase inhibition dramatically increases the motivation to self-administer nicotine in rats |journal=J. Neurosci. |volume=25 |issue=38 |pages=8593–600 |year=2005 |month=September |pmid=16177026 |doi=10.1523/JNEUROSCI.2139-05.2005 |url=}}</ref> However, after coadministration with an [[MAOI]], such as those found in tobacco, nicotine produces significant behavioral sensitization, a measure of addiction potential. This is similar in effect to [[amphetamine]]. <ref name="pmid14592678"/> . 
+
+[[Nicotine gum]], usually in 2-mg or 4-mg doses, and [[nicotine patches]] are available, as well as [[smokeless tobacco]], nicotine lozenges and [[electronic cigarettes]]. 
+[[Image:Nicoderm.JPG||thumb|right|A 21 mg patch applied to the left arm. The [[Cochrane Collaboration]] finds that NRT increases a quitter's chance of success by 50 to 70%. <ref name=CD000146>{{cite web|author=Stead LF, Perera R, Bullen C, Mant D, Lancaster T.|title=Nicotine replacement therapy for smoking cessation|url=http://www2.cochrane.org/reviews/en/ab000146.html|publisher=Cochrane Database of Systematic Reviews Art. No.: CD000146|year=2008|issue=1|doi=10.1002/14651858.CD000146.pub3|accessdate=May 22, 2010}}</ref> But in 1990, researchers found that 93% of users returned to smoking within six months. <ref>{{cite news|author=Millstone, Ken|title=Nixing the patch: Smokers quit cold turkey|url=http://jscms.jrn.columbia.edu/cns/2007-02-13/millstone-coldturkeyquitters.html|date=February 13, 2007|publisher=Columbia.edu News Service|accessdate=May 23, 2010}}</ref>]] . 
+
+==Dependence and withdrawal==. 
+{{See also|Smoking cessation}}
+Modern [[research]] shows that nicotine acts on the brain to produce a number of effects. Specifically, research examining its addictive nature has been found to show that nicotine activates the [[Mesolimbic pathway]] ("reward system") —the circuitry within the brain that regulates feelings of pleasure and euphoria. <ref>[http://www.nida.nih.gov/researchreports/nicotine/nicotine2.html NIDA - Research Report Series - Tobacco Addiction - Extent, Impact, Delivery, and Addictiveness<!-- Bot generated title -->]</ref> . 
+
+[[Dopamine]] is one of the key [[neurotransmitters]] actively involved in the brain. Research shows that by increasing the levels of dopamine within the reward circuits in the brain, nicotine acts as a chemical with intense addictive qualities. In many studies it has been shown to be more addictive than [[cocaine]] and [[heroin]]. <ref>{{cite news| url=http://www.nytimes.com/1994/08/02/science/is-nicotine-addictive-it-depends-on-whose-criteria-you-use.html | work=The New York Times | first=Philip J. | last=Hilts | title=Is Nicotine Addictive? It Depends on Whose Criteria You Use | date=1994-08-02}}</ref><ref>{{cite news| url=http://www.nytimes.com/1987/03/29/magazine/nicotine-harder-to-kickthan-heroin.html | work=The New York Times | first=Sandra | last=Blakeslee | title=NICOTINE: HARDER TO KICK...THAN HEROIN | date=1987-03-29}}</ref><ref>http://www1.umn.edu/perio/tobacco/nicaddct.html</ref> Like other physically addictive drugs, [[nicotine withdrawal]] causes down-regulation of the production of dopamine and other stimulatory neurotransmitters as the brain attempts to compensate for artificial stimulation. As dopamine regulates the sensitivity of nicotinic acetylcholine receptors decreases. To compensate for this compensatory mechanism, the brain in turn upregulates the number of receptors, [[convoluting]] its regulatory effects with compensatory mechanisms meant to counteract other compensatory mechanisms. An example is the increase in [[norepinephrine]], one of the successors to dopamine, which inhibit reuptake of the [[glutamate receptors]],<ref>http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WN4-4CCGGN1-9P&_user=10&_coverDate=11%2F30%2F1984&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1520587233&_rerunOrigin=scholar.google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=5e43884bdf1f204eb2356e02096708bc&searchtype=a</ref> in charge of memory and cognition. The net effect is an increase in reward pathway sensitivity, the opposite of other addictive drugs such as cocaine and heroin, which reduce reward pathway sensitivity. <ref name=Kenny/> This neuronal brain alteration can persist for months after administration ceases.  . 
+
+A study found that nicotine exposure in adolescent mice retards the growth of the dopamine system, thus increasing the risk of substance abuse during adolescence. <ref>{{cite journal |author=Nolley EP, Kelley BM |title=Adolescent reward system perseveration due to nicotine: studies with methylphenidate |journal=Neurotoxicol Teratol |volume=29 |issue=1 |pages=47–56 |year=2007 |pmid=17129706 |doi=10.1016/j.ntt.2006.09.026 }}</ref> . 
+
+===Immunology prevention=== . 
+
+Because of the severe addictions and the harmful effects of smoking, vaccination protocols have been developed. The principle is under the premise that if an antibody is attached to a nicotine molecule, it will be prevented from diffusing through the [[capillaries]], thus making it less likely that it ever affects the brain by binding to [[nicotinic acetylcholine receptors]].  . 
+
+These include attaching the nicotine molecule to a [[hapten]] such as [[Keyhole limpet hemocyanin]] or a safe modified bacterial toxin to elicit an active immune response. Often it is added with [[bovine serum albumin]].  . 
+
+Additionally, because of concerns with the unique immune systems of individuals being liable to produce antibodies against endogenous hormones and over the counter drugs, [[monoclonal antibodies]] have been developed for short term passive immune protection. They have half-lives varying from hours to weeks. Their half-lives depend on their ability to resist degradation from [[pinocytosis]] by [[epithelial cells]]. <ref>Peterson, Eric C., and Michael Owens. "Designing Immunotherapies to thwart drug abuse." Molecular Interventions June 2009: 119-23. Print. </ref> {{Citation needed|date=October 2011}} . 
+
+==Toxicology==. 
+{{See also|Nicotine poisoning}}
+{| class="wikitable" style="float:right; margin:0em 0em 0em 1em"
+! style="background:#FF9900"|[[NFPA 704]]
+. |-
+| align="left"|{{NFPA 704|Health = 4|Flammability = 1|Reactivity = 0|}}
+. |-
+|}
+The {{LD50}} of nicotine is 50&nbsp;mg/kg for [[rat]]s and 3&nbsp;mg/kg for [[mouse|mice]]. 40–60&nbsp;mg (0.5-1.0&nbsp;mg/kg) can be a lethal dosage for adult humans. <ref>{{cite journal |author=Okamoto M, Kita T, Okuda H, Tanaka T, Nakashima T |title=Effects of aging on acute toxicity of nicotine in rats |journal=Pharmacol Toxicol. |volume=75 |issue=1 |pages=1–6 |year=1994 |month=Jul |pmid=7971729 |doi=10.1111/j.1600-0773.1994.tb00316.x
+}}</ref><ref>[http://www.inchem.org/documents/pims/chemical/nicotine.htm#PartTitle:7.%20TOXICOLOGY IPCS INCHEM]</ref> Nicotine therefore has a high [[toxicity]] in comparison to many other alkaloids such as [[cocaine]], which has an LD<sub>50</sub> of 95.1&nbsp;mg/kg when administered to mice. It is unlikely that a person would overdose on nicotine through smoking alone, although overdose can occur through combined use of nicotine patches or nicotine gum and cigarettes at the same time. <ref>http://learn.genetics.utah.edu/content/addiction/drugs/overdose.html</ref> Spilling a high concentration of nicotine onto the skin can cause intoxication or even death, since nicotine readily passes into the bloodstream following dermal contact. <ref>{{cite journal |author=Lockhart LP |title=Nicotine poisoning |journal=Br Med J |volume=1 |issue= 3762|pages=246–7 |year=1933 |doi=10.1136/bmj.1.3762.246-c}}</ref> . 
+
+Historically, nicotine has not been regarded as a [[carcinogen]] and the [[International Agency for Research on Cancer|IARC]] has not evaluated nicotine in its standalone form and assigned it to an official carcinogen group. While no epidemiological evidence supports that nicotine alone acts as a carcinogen in the formation of human cancer, research over the last decade has identified nicotine's [[carcinogenic]] potential in animal models and cell culture. <ref>Hecht SS. Tobacco smoke carcinogens and lung cancer. J Natl Cancer Inst 1999;91:1194-210. </ref> <ref>Wu WK, Cho CH. The pharmacological actions of nicotine on the gastrointestinal tract. J Pharmacol Sci 2004;94:348-58. </ref> Nicotine has been noted to directly cause cancer through a number of different mechanisms such as the activation of [[MAP Kinases]]. <ref>Chowdhury P, Udupa KB. Nicotine as a mitogenic stimulus for pancreatic acinar cell proliferation. World J Gastroenterol 2006;12:7428-32. </ref> Indirectly, nicotine increases [[Nicotinic acetylcholine receptor|cholinergic]] signalling (and [[adrenergic signalling]] in the case of colon cancer<ref>Wong HP, Yu L, Lam EK, Tai EK, Wu WK, Cho CH. Nicotine promotes colon tumor growth and angiogenesis through beta-adrenergic activation. Toxicol Sci 2007;97:279-87. </ref>), thereby impeding apoptosis ([[programmed cell death]]), promoting tumor growth, and activating [[growth factors]] and cellular [[mitogenic]] factors such as [[5-LOX]], and [[EGF]]. Nicotine also promotes cancer growth by stimulating [[angiogenesis]] and [[neovascularization]]. <ref>Natori T, Sata M, Washida M, Hirata Y, Nagai R, Makuuchi M. Nicotine enhances neovascularization and promotes tumor growth. Mol Cells 2003;16:143-6. </ref><ref>Ye YN, Liu ES, Shin VY, Wu WK, Luo JC, Cho CH. Nicotine promoted colon cancer growth via epidermal growth factor receptor, c-Src, and 5-lipoxygenase-mediated signal pathway. J Pharmacol Exp Ther 2004;308:66-72. </ref> In one study, nicotine administered to mice with tumors caused increases in tumor size (twofold increase), [[metastasis]] (nine-fold increase), and tumor recurrence (threefold increase). <ref name="plosone.org">http://www.plosone.org/article/info:doi/10.1371/journal.pone.0007524</ref> . 
+
+Though the [[Teratogenesis|teratogenic]] properties of nicotine may or may not yet have been adequately researched, women who use [[nicotine gum]]  and patches during the early stages of pregnancy face an increased risk of having babies with birth defects, according to a study of around 77,000 pregnant women in Denmark. The study found that women who use nicotine-replacement therapy in the first 12 weeks of pregnancy have a 60% greater risk of having babies with birth defects, compared to women who are non-smokers.{{citation needed|date=November 2011}} . 
+
+Effective April 1, 1990, the Office of Environmental Health Hazard Assessment (OEHHA) of the [[California Environmental Protection Agency]]  added nicotine to the list of chemicals known to the state to cause developmental toxicity, for the purposes of Proposition 65. <ref>http://oehha.ca.gov/prop65/prop65_list/files/P65single121809.pdf</ref> . 
+
+== Therapeutic uses ==. 
+The primary therapeutic use of nicotine is in treating nicotine dependence in order to eliminate [[smoking]] with the damage it does to health. Controlled levels of nicotine are given to patients through gums, dermal patches, lozenges, electronic/substitute cigarettes or nasal sprays in an effort to wean them off their dependence.  . 
+
+However, in a few situations, smoking has been observed to apparently be of therapeutic value. 
+These are often referred to as "Smoker’s Paradoxes". <ref name="cohen">
+{{cite journal
+  | last = Cohen
+  | first = David J. 
+  | authorlink =
+  | coauthors = Michel Doucet, Donald E. Cutlip, Kalon K.L. Ho, Jeffrey J. Popma, Richard E. Kuntz
+  | title = Impact of Smoking on Clinical and Angiographic Restenosis After Percutaneous Coronary Intervention
+  | journal = Circulation
+  | volume = 104
+  | issue = 7
+  | page = 773
+  | year = 2001
+  | url = http://www.data-yard.net/34/circulation_2001_104_773.htm
+  | doi = 10.1161/hc3201.094225
+  | accessdate = 2006-11-06
+  | pmid = 11502701
+  | pages = 773–8}}
+</ref> Although in most cases the actual mechanism is understood only poorly or not at all, it is generally believed that the principal beneficial action is due to the nicotine administered, and that  administration of nicotine without smoking may be as beneficial as smoking, without the higher risk to health due to [[tar (tobacco residue)|tar]] and other ingredients found in [[tobacco]].  . 
+
+For instance, recent studies suggest that smokers require less frequent repeated [[revascularization]] after [[percutaneous coronary intervention]] (PCI). <ref name="cohen"/> Risk of [[ulcerative colitis]] has been frequently shown to be reduced by smokers on a dose-dependent basis; the effect is eliminated if the individual stops smoking. <ref name="ohcm">Longmore, M., Wilkinson, I., Torok, E. Oxford Handbook of Clinical Medicine (Fifth Edition) p. 232</ref><ref>
+{{cite journal |author=Green JT, Richardson C, Marshall RW, ''et al.'' |title=Nitric oxide mediates a therapeutic effect of nicotine in ulcerative colitis |journal=Aliment Pharmacol Ther. |volume=14 |issue=11 |pages=1429–34 |year=2000 |month=Nov |pmid=11069313  |url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0269-2813&date=2000&volume=14&issue=11&spage=1429 |doi=10.1046/j.1365-2036.2000.00847.x}}</ref>
+Smoking also appears to interfere with development of [[Kaposi's sarcoma]] in patients with HIV,[http://jnci.oxfordjournals.org/content/94/22/1712.full]. <ref>cite JNCI J Natl Cancer Inst (2002) 94 (22): 1712-1718. 
+{{cite news
+  | title = Smoking Cuts Risk of Rare Cancer
+  | publisher =   UPI
+ | date = March 29, 2001
+  | url = http://www.data-yard.net/10b/kaposi.htm
+  | accessdate = 2006-11-06}}
+</ref> . 
+
+Nicotine reduces the chance of [[breast cancer]] among women carrying the very high risk [[BRCA1|BRCA]] gene,<ref>
+{{cite news
+  | last = Recer
+  | first = Paul
+  | title = Cigarettes May Have an Up Side
+  | agency =   Associated Press
+  | date = May 19, 1998
+  | url = http://www.forces.org/evidence/files/brea.htm
+  | accessdate = 2006-11-06}}
+</ref>
+[[preeclampsia]],<ref>
+{{cite journal
+  | last = Lain
+  | first = Kristine Y. 
+  | authorlink =
+  | coauthors = Robert W. Powers, Marijane A. Krohn, Roberta B. Ness, William R. Crombleholme, James M. Roberts
+  | title = Urinary cotinine concentration confirms the reduced risk of preeclampsia with tobacco exposure
+  | journal = American Journal of Obstetrics and Gynecology
+  | volume = 181
+  | issue = 5
+  | pages = 908–14
+  | month = Nov | year = 1991
+  | url = http://www.data-yard.net/2/13/ajog.htm
+  | doi =10.1016/S0002-9378(99)70107-9
+  | pmid = 10561644
+  | accessdate = 2006-11-06}}
+</ref>
+and [[atopy|atopic disorder]]s such as [[allergic asthma]]. <ref>
+{{cite journal
+  | last = Hjern
+  | first = A
+  | authorlink =
+  | coauthors = Hedberg A, Haglund B, Rosen M
+  | title = Does tobacco smoke prevent atopic disorders? A study of two generations of Swedish residents
+  | journal = Clin Exp Allergy
+  | volume = 31
+  | issue = 6
+  | pages = 908–14
+  | publisher =
+  | month = June | year = 2001
+  | url = http://www.data-yard.net/30/asthma.htm
+  | doi = 10.1046/j.1365-2222.2001.01096.x
+  | pmid = 11422156
+  | accessdate = 2006-11-06}}</ref>
+A plausible mechanism of action in these cases may be nicotine acting as an [[Inflammation|anti-inflammatory agent]], and interfering with the inflammation-related disease process, as nicotine has vasoconstrictive effects. <ref name=sciam>{{cite journal | author=Lisa Melton | title=Body Blazes | journal=Scientific American | month=June | year=2006 | page=24 | url=http://www.sciam.com/article.cfm?chanID=sa006&colID=5&articleID=00080902-A2CF-146C-9D1E83414B7F0000}}</ref> . 
+
+Tobacco smoke has been shown to contain compounds capable of inhibiting [[monoamine oxidase]], which is responsible for the degradation of dopamine in the human brain. When dopamine is broken down by MAO-B, neurotoxic by-products are formed, possibly contributing to Parkinson's and Alzheimers disease. <ref>
+{{cite journal
+  | last = Fratiglioni
+  | first = L
+  | authorlink =
+  | coauthors = Wang HX
+| title = Smoking and Parkinson's and Alzheimer's disease: review of the epidemiological studies
+  | journal = Behav Brain Res
+  | volume = 113
+  | issue = 1–2
+  | pages = 117–20
+  |month=Aug | year=2000
+  | pmid = 10942038
+  | doi = 10.1016/S0166-4328(00)00206-0}}
+</ref>
+Many such papers regarding Alzheimer's disease<ref>
+{{cite web
+  | last = Thompson
+  | first = Carol
+  | title = Alzheimer's disease is associated with non-smoking
+  | url = http://www.forces.org/evidence/carol/carol16.htm
+  | accessdate =2006-11-06}}
+</ref>
+and Parkinson's Disease<ref>
+{{cite web
+  | last = Thompson
+  | first = Carol
+  | title = Parkinson's disease is associated with non-smoking
+  | url = http://www.forces.org/evidence/carol/carol36.htm
+  | accessdate =2006-11-06}}
+</ref>
+have been published. While tobacco smoking is associated with an increased risk of alzheimer's disease,<ref name="pmid19105840">{{cite journal |author=Peters R, Poulter R, Warner J, Beckett N, Burch L, Bulpitt C |title=Smoking, dementia and cognitive decline in the elderly, a systematic review |journal=BMC Geriatr |volume=8 |issue= |pages=36 |year=2008 |pmid=19105840 |pmc=2642819 |doi=10.1186/1471-2318-8-36 |url=}}</ref> there is evidence that nicotine itself has the potential to prevent and treat alzheimer's disease. <ref name="pmid19184661">{{cite journal |author=Henningfield JE, Zeller M |title=Nicotine psychopharmacology: policy and regulatory |journal=Handb Exp Pharmacol |volume= |issue=192 |pages=511–34 |year=2009 |pmid=19184661 |doi=10.1007/978-3-540-69248-5_18 |url=}}</ref>
+Nicotine has been shown to delay the onset of Parkinson's disease in studies involving monkeys and humans. <ref>
+{{cite web
+  | last = DeNoon
+  | first = Daniel
+  | title = Nicotine Slows Parkinson's Disease
+  | date = 2006-08-11
+  | url = http://www.webmd.com/parkinsons-disease/news/20060811/nicotine-slows-parkinsons-disease
+  | accessdate = 2009-12-27}}
+</ref><ref>
+{{cite web
+  | last = Peck
+  | first = Peggy
+  | title = Smoking Significantly Increases Risk of Alzheimer's Disease Among Those Who Have No Genetic Predisposition
+  | date = 2002-07-25
+  | url = http://www.nutraingredients.com/Research/More-vitamin-B6-linked-to-lower-Parkinson-s-risk
+  | accessdate = 2009-12-27}}
+</ref><ref>
+{{cite news
+  | last = Fox
+  | first = Maggie
+  | title = Nicotine may ease Parkinson's symptoms: U.S. study
+  | date = 2007-10-24
+  | url = http://www.reuters.com/article/idUSN2431402020071024
+  | accessdate = 2009-12-27
+| work=Reuters}}
+</ref> A study has shown a protective effect of nicotine itself on neurons due to nicotine activation of α7-nAChR and the PI3K/Akt pathway which inhibits [[apoptosis-inducing factor]] release and mitochondrial translocation, [[cytochrome c]] release and [[caspase 3]] activation. <ref>J Neurochem. 2011 Sep 2. doi: 10.1111/j.1471-4159.2011.07466.x. </ref> . 
+
+Recent studies have indicated that nicotine can be used to help adults suffering from [[autosomal dominant nocturnal frontal lobe epilepsy]].  The same areas that cause seizures in that form of [[epilepsy]] are responsible for processing nicotine in the brain. <ref>{{cite web |url=http://www.cnsforum.com/commenteditem/3c5dccdc-27fb-4b80-9516-ab81e3e4ea6c/default.aspx |title=Nicotine as an antiepileptic agent in ADNFLE: An n-of-one study}}</ref> . 
+
+Studies suggest a correlation between smoking and [[schizophrenia]], with estimates near 75% for the proportion of schizophrenic patients who smoke. Although the nature of this association remains unclear, it was recently argued that the increased level of smoking in schizophrenia may be due to a desire to [[self-medication|self-medicate]] with nicotine. <ref>{{cite journal |author=de Leon J, Tracy J, McCann E, McGrory A, Diaz FJ |title=Schizophrenia and tobacco smoking: a replication study in another US psychiatric hospital |journal=Schizophr Res. |volume=56 |issue=1–2 |pages=55–65 |year=2002 |month=Jul |pmid=12084420 |url=http://linkinghub.elsevier.com/retrieve/pii/S092099640100192X |doi=10.1016/S0920-9964(01)00192-X}}</ref><ref>{{cite journal |author=de Leon J, Dadvand M, Canuso C, White AO, Stanilla JK, Simpson GM |title=Schizophrenia and smoking: an epidemiological survey in a state hospital |journal=Am J Psychiatry |volume=152 |issue=3 |pages=453–5 |year=1995 |month=Mar |pmid=7864277 |url=http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=7864277}}</ref> More recent research has found that mildly dependent users got some benefit from nicotine, but not those who were highly dependent. <ref>{{cite journal |author=Aguilar MC, Gurpegui M, Diaz FJ, de Leon J |title=Nicotine dependence and symptoms in schizophrenia: naturalistic study of complex interactions |journal=Br J Psychiatry |volume=186 |issue= 3|pages=215–21 |year=2005 |month=Mar |pmid=15738502 |doi=10.1192/bjp.186.3.215 }}</ref> All of these studies are based only on observation, and no interventional (randomized) studies have been done. Research on nicotine as administered through a patch or gum is ongoing.  . 
+
+Nicotine appears to improve [[ADHD]] symptoms. Some studies are focusing on benefits of nicotine therapy in adults with ADHD. <ref>{{cite web |url=http://adam.about.com/reports/000030_1.htm|title=Attention-Deficit Hyperactivity Disorder|accessdate=21 September 2009}}</ref> . 
+
+While acute/initial nicotine intake causes activation of nicotine receptors, chronic low doses of nicotine use leads to desensitisation of nicotine receptors (due to the development of tolerance) and results in an antidepressant effect, with research showing low dose nicotine  patches being an effective treatment of [[major depressive disorder]] in non-smokers. <ref name="pmid20965579">{{cite journal |author=Mineur YS, Picciotto MR |title=Nicotine receptors and depression: revisiting and revising the cholinergic hypothesis |journal=Trends Pharmacol. Sci. |volume=31 |issue=12 |pages=580–6 |year=2010 |month=December |pmid=20965579 |pmc=2991594 |doi=10.1016/j.tips.2010.09.004 |url=}}</ref> . 
+
+Nicotine (in the form of chewing gum or a transdermal patch) is being explored as an experimental treatment for [[OCD]]. Small studies show some success, even in otherwise treatment-refractory cases. <ref name="pmid15610960">{{cite journal |author=Pasquini M, Garavini A, Biondi M |title=Nicotine augmentation for refractory obsessive-compulsive disorder. A case report |journal=Prog. Neuropsychopharmacol. Biol. Psychiatry |volume=29 |issue=1 |pages=157–9 |year=2005 |month=January |pmid=15610960 |doi=10.1016/j.pnpbp.2004.08.011 |url=}}</ref><ref name="pmid15610934">{{cite journal |author=Lundberg S, Carlsson A, Norfeldt P, Carlsson ML |title=Nicotine treatment of obsessive-compulsive disorder |journal=Prog. Neuropsychopharmacol. Biol. Psychiatry |volume=28 |issue=7 |pages=1195–9 |year=2004 |month=November |pmid=15610934 |doi=10.1016/j.pnpbp.2004.06.014 |url=}}</ref><ref name="pmid11822995">{{cite journal |author=Tizabi Y, Louis VA, Taylor CT, Waxman D, Culver KE, Szechtman H |title=Effect of nicotine on quinpirole-induced checking behavior in rats: implications for obsessive-compulsive disorder |journal=Biol. Psychiatry |volume=51 |issue=2 |pages=164–71 |year=2002 |month=January |pmid=11822995 |doi= 10.1016/S0006-3223(01)01207-0|url=http://linkinghub.elsevier.com/retrieve/pii/S0006322301012070}}</ref> . 
+
+The relationship between smoking and inflammatory bowel disease is now firmly established but remains a source of confusion among both patients and doctors. It is negatively associated with ulcerative colitis but positively associated with Crohn's disease. In addition, it has opposite influences on the clinical course of the two conditions with benefit in ulcerative colitis but a detrimental effect in Crohn's disease. <ref>Thomas GA. Rhodes J. Green JT. Richardson C."Role of smoking in inflammatory bowel disease: implications for therapy. [Review] [72 refs]"  ''Postgraduate Medical Journal.'' 76(895):273-9, 2000 May. </ref><ref>Rubin DT. Hanauer SB."Smoking and inflammatory bowel disease. [Review] [73 refs]"  ''European Journal of Gastroenterology & Hepatology''. 12(8):855-62, 2000 Aug. </ref> . 
+
+==Research as a potential basis for an antipsychotic agent==. 
+When the metabolites of nicotine were isolated and their effect on first the animal brain and then the human brain in people with schizophrenia were studied, it was shown that the effects helped with cognitive and negative symptoms of schizophrenia. Therefore, the nicotinergic agents, as antipsychotics which do not contain nicotine but act on the same receptors in the brain are showing promise as adjunct antipsychotics in early stages of FDA studies on schizophrenia. 
+The [[prepulse inhibition]] (PPI) is a phenomenon in which a weak prepulse attenuates the response to a subsequent startling stimulus. Therefore, PPI is believed to have face, construct, and predictive validity for the PPI disruption in schizophrenia, and it is widely used as a model to study the neurobiology of this disorder and for screening antipsychotics. <ref>{{cite journal|last=Suemaru K, Kohnomi S, Umeda K, Araki H.|year=2008|title=Alpha7 nicotinic receptor agonists have reported to reverse the PPI disruption|journal=Nihon Shinkei Seishin Yakurigaku Zasshi|volume=28|issue=3|pages=121–6|pmid=18646597|language=Japanese|first1=K|last2=Kohnomi|first2=S|last3=Umeda|first3=K|last4=Araki|first4=H}}</ref>
+Additionally, studies have shown{{Weasel-inline|date=January 2012}}<!--where is the URL? damn copyright....(most likely)--> that there are genes predisposing people with schizophrenia to nicotine use. <ref>{{cite journal | last1 = De Luca | first1 = V | last2 = Wong | first2 = AH | last3 = Muller | first3 = DJ | last4 = Wong | first4 = GW | last5 = Tyndale | first5 = RF | last6 = Kennedy | first6 = JL. | author-separator =, | author-name-separator= | year = 2004 | title = Evidence of association between smoking and alpha7 nicotinic receptor subunit gene in schizophrenia patients | url = | journal = Neuropsychopharmacology | volume = 29 | issue = 8| pages = 1522–6 | pmid = 15100704 | doi=10.1038/sj.npp.1300466}}</ref> . 
+
+Therefore with these factors taken together the heavy usage of cigarettes and other nicotine related products among people with schizophrenia may be explained and novel antipsychotic agents developed that have these effects in a manner that is not harmful and controlled and is a promising arena of research for schizophrenia.  . 
+
+== See also ==. 
+[[File:Nicotin 8338.JPG|thumb|right|300px|A model of a nicotine molecule]]
+*''[[Nicotiana]]''
+**''[[Nicotiana rustica]]''
+***[[Mapacho]]
+**''[[Nicotiana tabacum]]''
+***[[Tobacco]]
+****[[Tobacco products]]
+*[[Nicotinic acid]] (Niacin)
+*[[Drug addiction]]
+*[[Tobacco cessation]]
+**[[Chantix]]
+**[[Zyban]]
+**[[Nicogel]]
+**[[Nicotini]]
+**[[NicVAX]]
+**[[Nicotine gum]]
+**[[Nicotine patch]]
+**[[Nicotine inhaler]]
+**[[Nicotine nasal spray]]
+**[[Snus]]
+**[[Electronic Cigarette]] . 
+
+*[[Psychoactive drug]]
+*[[Drug Discovery and Development: Nicotinic Acetylcholine Receptor Agonists]]
+*[[Nicotinic receptor]]
+[http://www.nature.com/nrgastro/journal/v2/n11/full/ncpgasthep0316.html Mechanisms of Disease: nicotine—a review of its actions in the context of gastrointestinal disease] . 
+
+==References==. 
+{{Reflist|colwidth=35em}} . 
+
+== Further reading ==. 
+* {{Cite journal |author=Bilkei-Gorzo A, Rácz I, Michel K, Darvas M, Rafael Maldonado López, Zimmer A.|title=A common genetic predisposition to stress sensitivity and stress-induced nicotine craving|journal=Biol. Psychiatry |year=2008 |volume=63 |pages= 164–71 |pmid=17570348 |doi=10.1016/j.biopsych.2007.02.010 |issue=2}}
+* {{Cite journal |author=Willoughby JO, Pope KJ, Eaton V |title=Nicotine as an antiepileptic agent in ADNFLE: an N-of-one study |journal=Epilepsia |volume=44 |issue=9 |pages=1238–40 |year=2003 |month=Sep |pmid=12919397 |url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0013-9580&date=2003&volume=44&issue=9&spage=1238 |doi=10.1046/j.1528-1157.2003.11903.x}}
+* {{Cite journal |author=Minna JD |title=Nicotine exposure and bronchial epithelial cell nicotinic acetylcholine receptor expression in the pathogenesis of lung cancer |journal=J Clin Invest. |volume=111 |issue=1 |pages=31–3 |year=2003 |month=Jan |pmid=12511585 |pmc=151841 |doi=10.1172/JCI17492 }}
+* {{Cite journal |author=[[James Fallon|Fallon JH]], Keator DB, Mbogori J, Taylor D, Potkin SG |title=Gender: a major determinant of brain response to nicotine |journal=Int J Neuropsychopharmacol. |volume=8 |issue=1 |pages=17–26 |year=2005 |month=Mar |pmid=15579215 |doi=10.1017/S1461145704004730 |url=http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=282494}}
+* {{Cite journal |author=West KA, Brognard J, Clark AS, ''et al.'' |title=Rapid Akt activation by nicotine and a tobacco carcinogen modulates the phenotype of normal human airway epithelial cells |journal=J Clin Invest. |volume=111 |issue=1 |pages=81–90 |year=2003 |month=Jan |pmid=12511591 |pmc=151834 |doi=10.1172/JCI16147 }}
+* [http://www.nida.nih.gov/researchreports/nicotine/nicotine.html National Institute on Drug Abuse]
+*[http://www.erowid.org/plants/tobacco/tobacco.shtml Erowid information on tobacco] . 
+
+==External links==. 
+{{commons category|Nicotine}}
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=NCT Nicotine bound to proteins] in the [[Protein Data Bank|PDB]]
+*[http://www.howstuffworks.com/nicotine.htm Description of nicotine mechanisms]
+*[http://www.erowid.org/chemicals/nicotine/nicotine_data_sheet1.shtml Erowid Nicotine Vault : Nicotine Material Safety Data Sheet]
+*[http://stopsmoking.jamiesviews.com Tips to Controlling Your Urge to Smoke ] . 
+
+{{Addiction}}
+{{Drug use}}
+{{Stimulants}}
+{{Antiaddictives}}
+{{Cholinergics}}
+{{Cigarettes}} . 
+
+[[Category:Alkaloids]]
+[[Category:Nicotinic agonists]]
+[[Category:Neurotoxins]]
+[[Category:Plant toxin insecticides]]
+[[Category:Pyridines]]
+[[Category:Pyrrolidines]]
+[[Category:Stimulants]]
+[[Category:Tobacco]]
+[[Category:Smoking]]

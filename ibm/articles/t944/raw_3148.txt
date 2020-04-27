@@ -1,0 +1,57 @@
+{{SCOTUSCase 
+  |Litigants=United States v. Eichman
+  |ArgueDate=May 14
+  |ArgueYear=1990
+  |DecideDate=June 11
+  |DecideYear=1990
+  |FullName=[[United States]] v. Shawn Eichman et al. 
+  |USVol=496
+  |USPage=310
+  |Citation=
+  |Prior=Consolidation of United States v. Eichman (D.D.C.), 731 F.Supp. 1123 (1990) and United States v. Haggerty (W.D.Wash), 731 F.Supp. 415 (1990)
+  |Subsequent=
+  |Holding=The government's interest in preserving the flag as a symbol did not outweigh the individual right to disparage that symbol through expressive conduct. 
+  |SCOTUS=1988-1990
+  |Majority=Brennan
+  |JoinMajority=Marshall, Blackmun, Scalia, Kennedy
+  |Dissent=Stevens
+  |JoinDissent=Rehnquist, White, O'Connor
+  |LawsApplied=[[First Amendment to the United States Constitution|U.S. Const. amend. I]]
+}}
+'''''United States v. Eichman''''', [[Case citation|496 U.S. 310]] (1990) was a [[Supreme Court of the United States|United States Supreme Court]] case that invalidated a federal law against [[flag desecration]] as violative of [[free speech]] under the [[First Amendment to the United States Constitution|First Amendment]] to the [[United States Constitution|Constitution]]. It was argued together with the case ''[[United States v. Haggerty]]''.  It built on the opinion handed down in the Court's 1989 decision in ''[[Texas v. Johnson]]'', which invalidated on First Amendment grounds a Texas state statute banning flag-burning. 
+__TOC__ . 
+
+==Subsequent actions==. 
+On remand, the Eichman case was dismissed, as those defendants had only been charged with flag desecration. However, the Haggerty case had an additional charge of destruction of government property, as the burned flag was alleged to have been stolen from Seattle's Capitol Hill Post Office. To that charge, all four Seattle defendants pled guilty and were fined. Garza and Strong (who had prior convictions) served 3 days in jail each.  . 
+
+When Republicans retook control of Congress for the [[104th United States Congress|104th session]], the [[Flag Desecration Amendment]] was first proposed, which would grant the federal government the authority to proscribe flag burning. A resolution for this Amendment passed the House in every session from the 104th until the 109th Congress, but never got past the Senate (in the most recent vote, passage in the Senate failed by one vote), and has not been considered since the 109th Congress.  . 
+
+==See also==. 
+* [[Flag desecration]]
+**''[[Street v. New York]]''
+**''[[Texas v. Johnson]]''
+**[[Flag Protection Act]]
+**[[Flag Desecration Amendment]] . 
+
+==External links==. 
+*{{caselaw source
+ |case=''United States v. Eichman'', 496 U.S. 310 (1990) 
+ |findlaw=http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&vol=496&invol=310
+|justia=http://supreme.justia.com/us/496/310/case.html
+ |other_source1=Esquilax
+ |other_url1=http://www.esquilax.com/flag/eichman.html
+}}
+*[http://www.oyez.org/cases/1980-1989/1989/1989_89_1433/ US vs. Eichman] audio recording of oral argument, May 14, 1990
+*[http://www.firstamendmentcenter.org/faclibrary/case.aspx?case=US_v_Eichman First Amendment Library entry] on ''Eichman v. United States''
+*[http://www.firstamendmentcenter.org/faclibrary/case.aspx?case=Street_v_NY ''Street v. New York'']
+*[http://www.firstamendmentcenter.org/faclibrary/case.aspx?case=TX_v_Johnson ''Texas v. Johnson''] . 
+
+{{US1stAmendment|speech|state=expanded}} . 
+
+{{DEFAULTSORT:United States V. Eichman}}
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]
+[[Category:United States free speech case law]]
+[[Category:1990 in United States case law]]
+[[Category:Flag controversies in the United States]]
+[[Category:Cases related to the American Civil Liberties Union]]

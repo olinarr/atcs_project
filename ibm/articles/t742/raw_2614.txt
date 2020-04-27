@@ -1,0 +1,509 @@
+{{about|gun violence in the United States|gun violence globally |Gun violence}}
+[[File:McKinleyAssassination.jpg|thumb|1901 assassination of President [[William McKinley]] by [[Leon Czolgosz]], using a revolver, at the [[Pan-American Exposition]] reception in [[Buffalo, New York]]. McKinley died eight days later from his wounds.]]
+'''[[Gun violence]] in the United States''' is an intensely debated political issue in the [[United States]]. Gun-related violence is most common in poor urban areas and in conjunction with gang violence, often involving juveniles or young adults. <ref name="Bjerregaard">
+{{cite journal
+ |author=Bjerregaard, Beth, Alan J. Lizotte
+ |year=1995
+ |title=Gun Ownership and Gang Membership
+ |journal=[[Journal of Criminal Law and Criminology]]
+ |volume=86 |issue=1 |pages=37–58
+ |id={{NCJ|162688}}
+ |doi=10.2307/1143999
+ |publisher=The Journal of Criminal Law and Criminology (1973-), Vol. 86, No. 1
+ |jstor=1143999
+}}</ref><ref name="wright">
+{{cite journal
+ |author=Wright, James D., Joseph F. Sheley, and M. Dwayne Smith
+ |year=1993 
+ |title=Kids, Guns, and Killing Fields
+ |journal=[[Society (journal)|Society]]
+ |volume=30 |issue=1
+ |id={{NCJ|140211}}
+}}</ref> Gun violence is not new in the United States, with the [[assassination]]s of President [[Abraham Lincoln]] in 1865, and of Presidents [[James Garfield]], [[William McKinley]], and [[John F. Kennedy]]. High profile gun violence incidents, such as the assassinations of [[Robert F. Kennedy]], [[Martin Luther King, Jr.]], and, more recently, the [[Columbine High School massacre]], the [[Beltway sniper attacks]], the [[Virginia Tech massacre]], and the [[2011 Tucson shooting]], have fueled debate over [[gun politics|gun policies]]. <ref name="rushefsky">
+{{cite book
+ |author=Rushefsky, Mark E. 
+ |year=2002
+ |chapter=Chapter 7: Criminal Justice: To Ensure Domestic Tranquility
+ |title=Public Policy in the United States: At the Dawn of the Twenty-First Century
+ |publisher=[[M.E. Sharpe]]
+ |isbn=076560647X
+}}</ref> . 
+
+There were 52,447 deliberate and 23,237 accidental non-fatal gunshot injuries in the United States during 2000. <ref name="WISQARS">
+{{cite web
+ |url=http://webappa.cdc.gov/sasweb/ncipc/nfirates2000.html
+ |title=WISQARS Nonfatal Injury Reports
+ |publisher=[[National Center for Injury Prevention and Control]]
+ |accessdate=2006-11-10
+}}</ref> The majority of gun-related deaths in the United States are suicides,<ref>
+{{cite web
+ |year=2003
+ |title=10 Leading Causes of Injury Death by Age Group Highlighting Violence-Related Injury Deaths, United States
+ |url=ftp://ftp.cdc.gov/pub/ncipc/10LC-2003/PDF/10lc-violence.pdf
+ |work=National Vital Statistics System
+ |publisher=[[National Center for Health Statistics]], [[Center for Disease Control|CDC]]
+}}</ref> with 17,352 (55.6%) of the total 31,224 firearm-related deaths in 2007 due to suicide, while 12,632 (40.5%) were homicide deaths. <ref>{{cite journal |url=http://www.cdc.gov/NCHS/data/nvsr/nvsr58/nvsr58_19.pdf |journal=National Vital Statistics Reports |title=Deaths: Final Data for 2007 |volume=58(19) |last=Xu |first=Jiaquan |coauthors=Kenneth D. Kochanek, Sherry L. Murphy, Betzaida Tejada-Vera |date=2010-05-20 |publisher=CDC |format=PDF |pages=11 |accessdate=2011-04-07}}</ref>  . 
+
+Policies at the [[Federal government of the United States|Federal]], state, and local levels have attempted to address gun violence through a variety of methods, including restricting firearms purchasing by youths and other "at-risk" populations, setting waiting periods for firearm purchases, establishing gun "buy-back" programs, targeted law enforcement and policing strategies, stiff sentencing of gun law violators, education programs for parents and children, and community-outreach programs. Research has found some policies such as gun "buy-back" programs are ineffective, while [[Boston]]'s [[Operation Ceasefire]], a gang violence abatement and intervention strategy, has been effective. <ref name="NAS-exec">
+{{cite book
+ |author=Committee on Law and Justice
+ |year=2004
+ |chapter=Executive Summary
+ |chapterurl=http://www.nap.edu/books/0309091241/html/1.html
+ |title=Firearms and Violence: A Critical Review
+ |publisher=[[National Academy of Science]]
+ |isbn=
+}}</ref> Gun policies are also highly influenced by debates over the interpretation of the [[Second Amendment to the United States Constitution]], and in 2008, the U.S. Supreme Court took a position for the first time on this issue in ''[[District of Columbia v. Heller]]'', holding that the second amendment secures an individual right to own firearms. <ref>For more on ''Heller'' see the main article. </ref> . 
+
+== Suicides involving firearms ==. 
+Some research shows an association between household firearm ownership and gun [[suicide]] rates,<ref name="NAS-exec"/><ref>
+{{cite journal
+ |doi=10.1056/NEJM199208133270705
+ |author=Kellermann, A.L., F.P. Rivara, G. Somes, ''et al.''
+ |year=1992
+ |title=Suicide in the home in relation to gun ownership
+ |journal=[[New England Journal of Medicine]]
+ |volume=327 |pages=467–472
+ |pmid=1308093
+ |issue=7
+}}</ref> while other research indicates no such association between firearm ownership and gun suicide rates. <ref name="Miller_Hemenway">
+{{cite book
+ |author=Miller, Matthew and Hemenway, David
+ |title=Firearm Prevalence and the Risk of Suicide: A Review
+ |url= http://www.hcs.harvard.edu/~epihc/currentissue/Fall2001/miller.htm
+ |publisher=Harvard Health Policy Review
+ |year=2001 |page=2
+ |quote=One study found a statistically significant relationship between gun ownership levels and suicide rate across 14 developed nations (e.g. where survey data on gun ownership levels were available), but the association lost its statistical significance when additional countries were included. 
+}}</ref> During the 1980s and early 1990s, there was a strong upward trend in adolescent suicides with a gun,<ref name="cook2000-ch2">
+{{cite book
+ |author=Cook, Philip J., Jens Ludwig
+ |year=2000
+ |chapter=Chapter 2 
+ |title=Gun Violence: The Real Costs
+ |publisher=[[Oxford University Press]]
+ |isbn=0-19-513793-0
+}}</ref> as well as a sharp overall increase in a suicides among those age 75 and over. <ref>
+{{cite book
+ |author=Ikeda, Robin M., Rachel Gorwitz, Stephen P. James, Kenneth E. Powell, James A. Mercy
+ |year=1997
+ |title=Fatal Firearm Injuries in the United States, 1962-1994: Violence Surveillance Summary Series, No. 3
+ |publisher=[[National Center for Injury and Prevention Control]]
+}}</ref> In the United States, firearms remain the most common method of suicide, accounting for 50.7% of all suicides committed during 2006. <ref>
+{{cite web
+ |url=http://www.suicidology.org/c/document_library/get_file?folderId=228&name=DLFE-142.pdf
+ |title=U.S.A. Suicide: 2006 Official Final Data
+ |publisher=[[American Association of Suicidology]]
+}}</ref> . 
+
+Research also indicates no association ''vis-à-vis'' safe-storage laws of guns that ''are'' owned, and gun suicide rates, and studies that attempt to link gun ownership to likely victimology often fail to account for the presence of guns owned by other people. <ref name="kleck-2004">
+{{cite journal
+ |author=Kleck, Gary
+ |title=Measures of Gun Ownership Levels of Macro-Level Crime and Violence Research
+ |url=http://www.hawaii.edu/hivandaids/Measures_of_Gun_Ownership_Levels_for_Macro-Level_Crime_and_Violence_Research.pdf
+ |journal=[[Journal of Research in Crime and Delinquency]]
+ |year=2004 |volume=41 |pages=3–36
+ |id={{NCJ|203876}}
+ |doi=10.1177/0022427803256229
+ |quote=Studies that attempt to link the gun ownership of individuals to their experiences as victims (e.g., Kellermann, et al. 1993) do not effectively determine how an individual's risk of victimization is affected by gun ownership by other people, especially those not living in the gun owner's own household. 
+}}</ref><ref name=autogenerated2>
+{{cite journal
+ |author=Lott, John, John E. Whitley
+ |year=2001 
+ |title=Safe-Storage Gun Laws: Accidental Deaths, Suicides, and Crime
+ |url=http://johnrlott.tripod.com/whitney.pdf
+ |journal=[[Journal of Law and Economics]]
+ |volume=44 |issue=2 |pages=659–689
+ |doi=10.1086/338346
+ |quote=It is frequently assumed that safe-storage laws reduce accidental gun deaths and total suicides.  We find no support that safe-storage laws reduce either juvenile accidental gun deaths or suicides. 
+}}</ref>  Researchers have shown that ''safe-storage laws'' do not appear to affect gun suicide rates or juvenile accidental gun death. <ref name="kleck-2004"/><ref name=autogenerated2/> . 
+
+== Violent crime related to guns ==. 
+{{main|Crime in the United States}} . 
+
+=== Homicides === 
+[[File:Ushomicidesbyweapon.svg|thumb|right|325px|Homicides by weapon type, 1976-2004. Gun-involved homicides have increased since falling to a low in 1999. <ref>{{cite web |url=http://bjs.ojp.usdoj.gov/content/homicide/weapons.cfm |title=Homicide trends in the U.S. - Weapons used |publisher=[[Bureau of Justice Statistics]]}}</ref>]]
+[[File:Homoffendersbyage.svg|thumb|right|325px|Homicide offenders by age, 1976 - 2004. <ref name="bjs-age">{{cite web |url=http://www.ojp.usdoj.gov/bjs/homicide/teens.htm |title=Homicide trends in the U.S. - Age trends |publisher=[[Bureau of Justice Statistics]]}}</ref>]]
+[[File:DChomicides.jpg|thumb|right|325px|Gun and overall homicides in [[Washington, D.C.]] are concentrated in crime hot spots located in neighborhoods (including [[Shaw, Washington, D.C.|Shaw]], [[Sursum Corda Cooperative|Sursum Corda]], [[Trinidad, Washington, D.C.|Trinidad]], [[Anacostia]], and [[Congress Heights]]) with [[Socioeconomics|socio-economic]] disadvantage, while homicide is rare in other neighborhoods.]] . 
+
+While people during the 19th century were concerned about violent crime, it often took the form of [[riot]]s and other forms of [[Civil disorder|disorder]] in cities. <ref name="friedman-ch8">
+{{cite book
+ |author=Friedman, Lawrence M. 
+ |year=1993
+ |chapter=Chapter 8: Lawful Law and Lawless Law: Forms of American Violence
+ |title=Crime and Punishment in American History
+ |publisher=[[Basic Books]]
+ |isbn=0-465-01461-5
+}}</ref> Gun violence, however, sometimes played a role in these riots (see [[Haymarket riot]]). Homicide rates in cities such as [[Philadelphia]] were significantly lower than in modern times. <ref>
+{{cite book
+ |author=Lane, Roger
+ |year=1999
+ |title=Violent Death in the City: Suicide, Accident, and Murder in Nineteenth-Century Philadelphia
+ |publisher=[[Ohio State University Press]]
+ |isbn=0-8142-5021-1
+}}</ref>  . 
+
+During the 1980s and early 1990s, homicide rates surged in cities across the United States (see graphs at right). <ref>
+{{cite web
+ |author=Fox, James Alan, Marianne W. Zawitz
+ |year=
+ |title=Homicide trends in the United States
+ |url=http://www.ojp.usdoj.gov/bjs/homicide/homtrnd.htm#contents
+ |publisher=[[Bureau of Justice Statistics]]
+}}</ref> Handgun homicides accounted for nearly all of the overall increase in the homicide rate, from 1985 to 1993, while homicide rates involving other weapons declined during that time frame. <ref name="NAS-ch3">
+{{cite book
+ |author=Committee on Law and Justice
+ |year=2004
+ |chapter=Chapter 3
+ |title=Firearms and Violence: A Critical Review
+ |url=http://www.nap.edu/books/0309091241/html/53.html
+ |publisher=[[National Academy of Science]]
+ |isbn=0309091241
+}}</ref>  The rising trend in homicide rates during the 1980s and early 1990s was most pronounced among youths and [[Hispanic]] and [[African American]] males in the United States, with the injury and death rates tripling for black males aged 13 through 17 and doubling for black males aged 18 through 24. <ref name="cook2000-ch2"/><ref name="bjs-age"/> The rise in [[crack cocaine]] use in cities across the United States is often cited as a factor for increased gun violence among youths during this time period. <ref>
+{{cite journal
+ |author=Cork, Daniel
+ |year=1999
+ |title=Examining Time-Space Interaction in City-Level Homicide Data: Crack Markets and the Diffusion of Guns Among Youth
+ |journal=[[Journal of Quantitative Criminology]]
+ |volume=15 |pages=379–406
+ |doi=10.1023/A:1007540007803
+ |id={{NCJ|180974}}
+ |issue=4
+}}</ref><ref>
+{{cite conference
+ |author=Grogger, Jeff, Mike Willis
+ |year=1998
+ |title=The Introduction of Crack Cocaine and the Rise of Urban Crime Rates
+ |booktitle=National Bureau of Economic Research Working Paper No. 6352
+ |publisher=[[National Bureau of Economic Research]]
+}}</ref><ref>
+{{cite journal
+ |author=Blumstein, Alfred 
+ |year=1995
+ |title=Youth Violence, Guns and the Illicit-Drug Industry
+ |journal=[[Journal of Criminal Law and Criminology]]
+ |volume=86 |issue=1 |pages=10–36
+ |doi=10.2307/1143998
+ |id={{NCJ|162687}}
+ |publisher=The Journal of Criminal Law and Criminology (1973-), Vol. 86, No. 1
+ |jstor=1143998
+}}</ref>  . 
+
+Gun-related homicide rates in the United States are twenty to thirty-five times higher than they are in countries that are economically and politically similar to it. Higher rates are found in developing countries and those with political instability. <ref name="NAS-ch3"/><ref>
+{{cite journal
+ |author=Krug, E.G, K.E. Powell, L.L. Dahlberg
+ |year=1998
+ |title=Firearm-related deaths in the United States and 35 other high- and upper-middle income countries
+ |journal=[[International Journal of Epidemiology]]
+ |volume=27 |pages=214–221
+ |doi=10.1093/ije/27.2.214
+|pmid=9602401
+ |issue=2
+}}</ref><ref name="unodc">
+{{cite web
+ |title=The Seventh United Nations Survey on Crime Trends and the Operations of Criminal Justice Systems (1998 - 2000)
+ |url=http://www.unodc.org/unodc/crime_cicp_survey_seventh.html
+  |publisher=[[United Nations Office on Drugs and Crime]]
+ |accessdate=2006-11-08
+|archiveurl = http://web.archive.org/web/20071112032040/http://www.unodc.org/unodc/crime_cicp_survey_seventh.html |archivedate = 2007-11-12}}</ref> . 
+
+Prevalence of homicide and violent crime is greatest in urban areas of the United States. In [[United States metropolitan area|metropolitan areas]], the homicide rate in 2005 was 6.1 per 100,000 compared with 3.5 in non-metropolitan [[county (US)|counties]]. <ref>
+{{cite web
+ |year=2005
+ |title=Crime in the United States by Community Type
+ |url=http://www.fbi.gov/ucr/05cius/data/table_02.html
+ |publisher=[[Federal Bureau of Investigation]]
+}}</ref> In U.S. cities with populations greater than 250,000, the mean homicide rate was 12.1 per 100,000. <ref>
+{{cite web
+ |year=2005
+ |title=Rate: Number of Crimes per 100,000 Inhabitants by Population Group
+ |url=http://www.fbi.gov/ucr/05cius/data/table_16.html
+ |publisher=[[Federal Bureau of Investigation]]
+}}</ref> According to FBI statistics, the highest per capita rates of gun-related homicides in 2005 were in D.C. (35.4/100,000), Puerto Rico (19.6/100,000), Louisiana (9.9/100,000), & Maryland (9.9/100,000) . <ref>
+{{cite web
+ |year=2005
+ |title=Murder, Types of Weapons Used Percent Distribution within Region
+ |url= http://www2.fbi.gov/ucr/05cius/data/table_05.html
+ |publisher=[[Federal Bureau of Investigation]]
+}}</ref> The Bureau of Justice statistics from 2004 do not include D.C or Puerto Rico. see {{cite web
+ |year=2004
+ |title=Gun violence in the United States by state
+ |url= http://en.wikipedia.org/wiki/Gun_violence_in_the_United_States_by_state
+ |publisher=[[Wikipedia]]
+}} . 
+
+Homicide rates among 18- to 24-year-olds have declined since 1993, but remain higher than they were prior to the 1980s. <ref name="bjs-age"/> In 2005, the 17 through 24 age group remains significantly overrepresented in violent [[crime statistics]], particularly homicides involving firearms. <ref>
+{{cite conference
+ |author=Butts, Jeffrey A., Howard N. Snyder
+ |date=November 2006
+ |title=Too Soon to Tell: Deciphering Recent Trends in Youth Violence
+ |booktitle=Issue Brief
+ |url=http://www.chapinhall.org/article_abstract.aspx?ar=1437&L2=61&L3=132
+ |publisher=[[Chapin Hall Center for Children]], [[University of Chicago]]
+}}</ref> In 2005, 17- through 19-year olds were 4.3% of the overall [[Demographics of the United States|population]] of the United States. <ref name="census">
+{{cite web
+ |title=American Fact Finder
+ |url=http://factfinder.census.gov
+ |publisher=[[United States Census Bureau]]
+}}</ref> This same age group accounted for 11.2% of those killed by firearm homicides. <ref name="fbi-table8">
+{{cite web
+ |year=2005
+ |title=Expanded Homicide Data Table 3, Murder Victims by Age by Weapon
+ |url=http://www.fbi.gov/ucr/05cius/offenses/expanded_information/data/shrtable_08.html
+}}</ref> This age group also accounted for 10.6% of all homicide offenses. <ref name="fbi-table3">
+{{cite web
+ |year=2005
+ |title=Expanded Homicide Data Table 3, Murder Offenders by Age, Sex, and Race
+ |url=http://www.fbi.gov/ucr/05cius/offenses/expanded_information/data/shrtable_03.html
+}}</ref> The 20- through 24-year-old age group accounted for 7.1% of the population,<ref name="census"/> while accounting for 22.5% of those killed by firearm homicides. <ref name="fbi-table8"/> The 20 through 24 age group also accounted for 17.7% of all homicide offenses. <ref name="fbi-table3"/> Those under age 17 are not overrepresented in homicide statistics. In 2005, 13- through 16-year-olds accounted for 6% of the overall population of the United States, but only accounted for 3.6% of firearm homicide victims,<ref name="fbi-table8"/> and 2.7% of overall homicide offenses. <ref name="fbi-table3"/> . 
+
+People with a [[criminal record]] are also more likely to die as homicide victims. <ref name="cook2000-ch2"/> Between 1990 and 1994, 75% of all homicide victims age 21 and younger in the city of [[Boston]] had a prior criminal record. <ref>
+{{cite journal
+ |author=Kennedy, David M., Anne M. Piehl, Anthony A. Braga
+ |year=1996
+ |title=Youth Violence in Boston: Gun Markets, Serious Youth Offenders, and a Use-Reduction Strategy
+ |journal=[[Law and Contemporary Problems]]
+ |volume=59 |issue=1 |pages=147–183
+ |id={{NCJ|162687}}
+ |doi=10.2307/1192213
+ |publisher=Law and Contemporary Problems, Vol. 59, No. 1
+ |jstor=1192213
+}}</ref> In [[Philadelphia]], the percentage of those killed in gun homicides that had prior criminal records increased from 73% in 1985 to 93% in 1996. <ref name="cook2000-ch2"/><ref>
+{{cite journal
+ |author=McGonigal, Michael D., John Cole, C. William Schwab, Donald R. Kauder, Michael F. Rotondo, Peter B. Angood
+ |year=1993
+ |title=Urban Firearm Deaths: A Five-Year Perspective
+ |journal=[[Journal of Trauma]]
+ |volume=35 |issue=4 |pages=532–536
+ |doi=10.1097/00005373-199310000-00006
+|pmid=8411275
+}}</ref> In [[Richmond, Virginia]], the risk of [[gunshot]] injury is 22 times higher for those males involved with crime. <ref>
+{{cite conference
+ |author=McLaughlin, Colleen R., Jack Daniel, Scott M. Riener, Dennis E. Waite, ''et al.''
+ |title=Factors Associated with Assault-Related Firearm Injuries in Male Adolescents
+ |booktitle=Working paper
+ |publisher=[[Virginia Department of Juvenile Justice]]
+}}</ref> . 
+
+In 2005, 75% of the 10,100 [[homicide]]s committed using firearms in the United States were committed using [[handgun]]s, compared to 4% with [[rifle]]s, 5% with [[shotgun]]s, and the rest with a type of firearm not specified. <ref>
+{{cite web
+ |year=2001–2005
+ |url=http://web.archive.org/web/20100412084914/http://www.fbi.gov/ucr/05cius/offenses/expanded_information/data/shrtable_07.html
+ |title=Expanded Homicide Data Table 7 - Murder Victims by Weapon
+ |publisher=[[Federal Bureau of Investigation]]
+}}</ref> Due to the lethal potential that a gun brings to a situation, the likelihood that a death will result is significantly increased when either the victim or the attacker has a firearm. <ref>
+{{cite book
+ |author=Cook, Philip J., Mark H. Moore
+ |year=1995
+ |chapter=Gun Control
+ |editor=Wilson, James Q., Joan Petersilia
+ |title=Crime
+ |publisher=[[Institute of Contemporary Studies Press]]
+}}</ref> The mortality rate for gunshot wounds to the [[heart]] is 84%, compared to 30% for people who sustain stab wounds to the heart. <ref>
+{{cite journal
+ |author=Asensio J.A., J. Murray, D. Demetriades, ''et al.''
+ |title=Penetrating cardiac injuries: A prospective study of variables predicting outcome
+ |journal=[[Journal of the American College of Surgery]]
+ |year=1998 |volume=186 |pages=24–34
+ |pmid=9449597
+ |doi=10.1016/S1072-7515(97)00144-0
+ |issue=1
+}}</ref> . 
+
+Approximately 6,500 homicides were committed using handguns in 1999; since there were roughly 70 million handguns, the chance of any particular gun being used in a homicide is very low. <ref name="NAS-ch4" /> . 
+
+{{see|Gun violence in the United States by state}} . 
+
+=== U.S. President assassinations and attempts ===. 
+Four U.S. presidents have been assassinated while in office.  Three of the incidents involved handguns and one involved a rifle. President [[Abraham Lincoln]] lived only a few hours after being hit in the head by a single .44-caliber handgun round fired by [[John Wilkes Booth]]. <ref name="Koller">
+{{cite book
+ |author=Koller, Larry
+ |year=1957
+ |title=Handguns
+ |page=4
+ |publisher=[[Random House]]
+}}</ref> President [[James A. Garfield]] was killed by [[Charles J. Guiteau]] using a .44-caliber handgun. President [[William McKinley]] was killed by two rounds fired from a .32-caliber [[revolver]]. <ref name="Koller" /> President [[John F. Kennedy]] was assassinated by [[Lee Harvey Oswald]] who used a [[bolt-action]] [[Carcano]] M1891/38 rifle in 6.5 x 52&nbsp;mm. <ref>[http://www.archives.gov/research/jfk/warren-commission-report/chapter-4.html Report of the President's Commission on the Assassination of President Kennedy, Chapter 4]</ref> . 
+
+Presidents [[Andrew Jackson]] and [[Harry S. Truman]] were uninjured during assassination attempts, as was President [[Gerald Ford]] in two separate attempts only a few weeks apart. <ref>
+{{cite book
+ |author=Ward, John William
+ |year=1962
+ |title=Andrew Jackson
+ |page=114
+ |publisher=[[Oxford University Press]]
+ |isbn=0195006992
+}}</ref><ref>
+{{cite book
+ |author=Donovan, Robert J. 
+ |year=1996
+ |title=Tumultuous Years
+ |page=291
+ |publisher=[[University of Missouri Press]]
+ |isbn=0393016196
+}}</ref><ref>
+{{cite book
+ |author=Winget, Mary Mueller
+ |year=2007
+ |title=Gerald R. Ford
+ |page=86
+ |publisher=[[Twenty-First Century Books]]
+ |isbn=0822515091
+}}</ref> President [[Ronald Reagan]] survived an assassination attempt after being shot by [[John Hinckley, Jr.]] with a [[Röhm (RG)|Röhm]] RG-14 .22-caliber revolver. <ref name="pbs attempt">
+{{cite news
+ |url=http://www.pbs.org/wgbh/amex/reagan/timeline/index_3.html
+ |title=Ronald Reagan's Life, 1979-1982
+ |accessdate=2008-01-14
+ |publisher=[[Public Broadcasting Service|PBS]]
+}}</ref>  Former President [[Theodore Roosevelt]] was shot and wounded during the 1912 presidential campaign. <ref>
+{{cite book
+ |author=Miller, Nathan
+ |year=1993
+ |title=Theodore Roosevelt
+ |page=530
+ |publisher=[[HarperCollins]]
+ |isbn=0688067840
+}}</ref> On February 15, 1933, Giuseppe Zangara attempted to assassinate [[Franklin Delano Roosevelt]] while the then President-elect was giving a speech in Miami, Florida. <ref>http://digital.library.miami.edu/gov/FDRAssn.html</ref> . 
+
+:''See also [[List of United States presidential assassination attempts and plots]]'' . 
+
+=== Other violent crime ===. 
+In the United States, a quarter of commercial [[robbery|robberies]] are committed with guns. <ref name="cook-1987">{{cite journal |author=Cook, Philip J. |title=Robbery Violence |journal=[[Journal of Criminal Law and Criminology]] |volume=70 |issue=2 |year=1987 |id={{NCJ|108118}}}}</ref> Robberies committed with guns are three times as likely to result in fatalities compared with robberies where other weapons were used,<ref name="cook-1987"/><ref>{{cite journal |author=Kleck, Gary, K. McElrath |title=The Effects of Weaponry on Human Violence |journal=[[Social Forces]] |volume=69 |pages=669–692 |year=1991 |id={{NCJ|134329}} |doi=10.2307/2579469 |issue=3 |publisher=Social Forces, Vol. 69, No. 3 |jstor=2579469}}</ref><ref name="zimring-1972">{{cite journal |author=Zimring, Franklin E. |title=The Medium is the Message: Firearm Caliber as a Determinant of Death from Assault |journal=[[Journal of Legal Studies]] |year=1972 |volume=1 |pages=97–123 |id={{NCJ|47874}} |doi=10.1086/467479}}</ref> with similar patterns in cases of family violence. <ref>{{cite journal |author=Saltzman, L., J.A. Mercy, ''et al.'' |title=Weapon Involvement and Injury Outcomes in Family and Intimate Assaults |journal=[[Journal of the American Medical Association]] |volume=267 |pages=3043–3047 |year=1992 |pmid=1588718 |doi=10.1001/jama.267.22.3043 |issue=22}}</ref> Criminologist [[Philip J. Cook]] hypothesizes that if guns were less available, criminals may likely commit the crime anyway but with less-lethal weapons. <ref name="cook2000-ch3">{{cite book |author=Cook, Philip J., Jens Ludwig |title=Gun Violence: The Real Costs |publisher=[[Oxford University Press]] |year=2000 |chapter=Chapter 3 |isbn=0-19-513793-0}}</ref>  He finds that the level of gun ownership in the 50 largest U.S. cities correlates with the rate of robberies committed with guns, but not overall robbery rates. <ref>{{cite journal |author=Cook, Philip J. |title=The Effect of Gun Availability on Robbery and Robbery Murder: A Cross-Section Study of Fifty Cities |journal=[[Policy Studies Review Annual]] |volume=3 |pages=743–781 |year=1979}}</ref><ref>{{cite book |author=Kleck, Gary |title=Targeting guns: Firearms and their control |publisher=[[Aldine de Gruyter]] |year=1997 |isbn=0202305694}}</ref> A significant number of homicides result as a by-product of another violent crime which escalates, with the offender going into the crime without a clear or sustained intent to kill or be killed. <ref name="zimring-1972"/><ref name="zimring-1997">{{cite book |author=Zimring, Franklin E., Gordon Hawkins |title=Crime Is Not the Problem: Lethal Violence in America |publisher=[[Oxford University Press]] |year=1997 |isbn=0195131053}}</ref> Overall robbery and [[assault]] rates in the United States are also comparable to other developed countries, such as Australia and [[Finland]], notwithstanding the much lower levels of gun ownership in those countries. <ref name="cook2000-ch3"/><ref name="zimring-1997"/>
+:''See also [[Assault with a deadly weapon]]'' . 
+
+== Gun ownership ==. 
+The [[General Social Survey]] (GSS) is a primary source for data on firearm ownership, with surveys periodically done by other organizations such as [[Harris Interactive]]. <ref>{{cite web |title=Gun Ownership: Two in Five Americans Live in Gun-Owning Households |url=http://www.harrisinteractive.com/harris_poll/index.asp?PID=234 |accessdate=2006-11-08 |publisher=[[Harris Interactive]]}}</ref> In 2004, 36.5% of Americans reported having a gun in their home and in 1997, 40% of Americans reported having a gun in their homes. At this time there were approximately 44 million gun owners in the United States. This means that 25 percent of all adults owned at least one firearm. These owners possessed 192 million firearms, of which 65 million were handguns. <ref>P.J. Cook and J. Ludwig, Guns in America: Results of a Comprehensive National Survey on Firearms Ownership and Use, Summary Report, Washington, DC: Police Foundation, 1997. </ref> The number of American homes reporting have a gun in their homes is down from 46% as reported in 1989. <ref name="gss">{{cite web |url=http://gss.norc.org/ |title=GSS Cumulative Data Set (1972-2004) |author=General Social Survey}}</ref> Philip J. Cook suggests that increased numbers of female-headed households may be a factor in declining household ownership figures. <ref name="NAS-ch3"/> A National Survey on Private Ownership and Use of Firearms (NSPOF), conducted in 1994, indicates that Americans own 192 million guns, with 36% of these consisting of rifles, 34% handguns, 26% shotguns, and 4% of other types of long guns. <ref name="nspof">{{cite web |url=http://www.ncjrs.gov/pdffiles/165476.pdf |title=National Survey on Private Ownership and Use of Firearms |date=May 1997 |publisher=[[National Institute of Justice]]}}</ref> Most firearm owners own multiple firearms, with the NSPOF survey indicating 25% of adults own firearms. <ref name="nspof"/> In the United States, 11% of households report actively being involved in [[hunting]],<ref name="gss"/> with the remaining firearm owners having guns for self-protection and other reasons. Throughout the 1970s and much of the 1980s, the rate of gun ownership in the home ranged from 45-50%. <ref name="gss"/> Gun ownership also varies across geographic regions, ranging from 25% rates of ownership in the [[Northeastern United States]] to 60% rates of ownership in the [[East South Central States]]. <ref name="azrael-2004">{{cite journal |title=State and Local Prevalence of Firearms Ownership Measurement, Structure, and Trends |author=Azrael, Deborah, Philip J. Cook, Matthew Miller |journal=[[Journal of Quantitative Criminology]] |year=2004 |volume=20 |issue=1 |pages=43–62 |id={{NCJ|205033}} |doi=10.1023/B:JOQC.0000016699.11995.c7}}</ref> The GSS survey and other proxy measures of gun ownership do not provide adequate macro-level detail to allow conclusions on the relationship between overall firearm ownership and gun violence. <ref name="NAS-ch3"/> Criminologist [[Gary Kleck]] compared various survey and proxy measures and found no correlation between overall firearm ownership and gun violence. <ref name="kleck-2004"/> . 
+
+=== Self-protection ===. 
+Between 1987 and 1990, David McDowall found that guns were used in defense during a crime incident 64,615 times annually. <ref name="mcdowall">{{cite journal |title=The Incidence of Defensive Firearm Use by US Crime Victims, 1987 through 1990 |author=McDowall, David, Brian Wiersema |journal=[[American Journal of Public Health]] |year=1994 |volume=84 |pages=1982–1984 |pmid=7998641 |doi=10.2105/AJPH.84.12.1982 |issue=12 |pmc=1615397}}</ref> This equates to two times out of 1,000 incidents (0.2%) that occurred in this time frame. <ref name="mcdowall"/> For violent crimes ([[assault]], [[robbery]], and [[rape]]), guns were used 0.83% of the time in self-defense. <ref name="mcdowall"/> Of the times that guns were used in self-defense, 71% of the crimes were committed by strangers, with the rest of the incidents evenly divided between offenders that were acquaintances or persons well-known to the victim. <ref name="mcdowall"/> Of all incidents where a gun was used for self-defense, victims shot at the offender 28% of the time. <ref name="mcdowall"/> In 20% of the self-defense incidents, the guns were used by [[police officer]]s. <ref name="mcdowall"/> During this same time period, 1987 and 1990, there were 46,319 gun homicides,<ref>{{cite book |title=Uniform Crime Reports, 1987-1990 |publisher=[[Federal Bureau of Investigation]]}}</ref> and the [[National Crime Victimization Survey]] estimates that 2,628,532 nonfatal crimes involving guns occurred. <ref name="mcdowall"/> . 
+
+The findings of the McDowall's study for the ''[[American Journal of Public Health]]'' contrast with the findings of a 1993 study by [[Gary Kleck]], who finds that as many as 2.45 million crimes are thwarted each year in the United States, and in most cases, the potential victim never fires a shot in these cases where firearms are used constructively for self-protection. <ref name=autogenerated3>{{cite book |title=Guns, Crime, and Freedom |publisher=[[Regnery Publishing]] |author= LaPierre, Wayne |year=1994 |page=23 |isbn=0895264773}}</ref> The results of the Kleck studies have been cited many times in scholarly and popular media. <ref>{{cite journal |title=Firearms and the killing threshold (Letter) |author=Suter, E.A. |journal=[[New England Journal of Medicine]] |year=1992 |volume=326 |pages=1159 |pmid=1552925 |issue=17 | doi = 10.1056/NEJM199204233261712 }}</ref><ref>{{cite journal |title=The value of civilian handgun possession as a deterrent to crime or a defense against crime |author=Kates, D.B. |journal=[[American Journal of Criminal Law]] |year=1991 |volume=18 |pages=113–167 |id={{NCJ|132948}}}}</ref><ref>{{cite news |title=Go ahead, make our day |publisher=[[The New Republic]] |date=February 22, 1988 |pages=7–9}}</ref><ref>{{cite news |title=Do guns save lives? |publisher=[[Time Magazine]] |date=August 12, 1988 |pages=25–26}}</ref><ref>{{cite news |title=Are we "a nation of cowards"? |publisher=[[Newsweek]] |date=November 15, 1993 |pages=93–94}}</ref><ref>{{cite journal |title=Hold your fire: gun control won't stop rising violence |author=Kopel, D.B. |publisher=Policy Review |year=1993 |volume=63 |pages=58–65 |id={{NCJ|153748}}}}</ref><ref name="medlit">{{cite web |url=http://teapot.usask.ca/cdn-firearms/Suter/med-lit.html |title=Guns in the Medical Literature - A Failure of Peer Review |author=Edgar A. Suter, MD}}</ref> . 
+
+McDowall cites methodological issues with the Kleck studies, stating that Kleck used a very small [[sampling (statistics)|sample size]] and did not confine self-defense to attempted victimizations where physical attacks had already commenced. <ref name="mcdowall"/> The former criticism, however, is inaccurate — Kleck's survey with Marc Gertz in fact used the largest sample size of any survey that ever asked respondents about defensive gun use — 4,977 cases, far more than is typical in national surveys. <ref>
+{{cite journal
+ |author=Kleck and Gertz
+ |year=1995
+ |title=Armed resistance to crime
+ |journal=[[Journal of Criminal Law and Criminology]]
+ |volume=86 |issue=1 |pages=150–187 [162]
+ |doi=10.2307/1144004
+ |author2=Gertz, Marc
+ |publisher=The Journal of Criminal Law and Criminology (1973-), Vol. 86, No. 1
+ |jstor=1144004
+}}</ref>  A study of gun use in the 1990s, by [[David Hemenway]] at the [[Harvard University|Harvard]] Injury Control Research Center, found that criminal use of guns is far more common than self-defense use of guns. <ref name="hemenway-2000">{{cite journal |author=Hemenway, D., D. Azrael, M. Miller |title=Gun use in the United States: results from two national surveys |year=2000 |journal=[[Injury Prevention]] |volume=6 |pages=263–267 |pmid=11144624 |doi=10.1136/ip.6.4.263 |issue=4 |pmc=1730664}}</ref> By the Kleck study, however, most successful preventions of victimizations are accomplished without a shot being fired, which are not counted as a self-defense firearm usage by either the Hemenway or McDowall studies. <ref name="mcdowall"/><ref name=autogenerated3 /><ref name="hemenway-2000"/> Hemenway, however, also argues that the Kleck figure is inconsistent with other known statistics for crime, citing that Kleck's figures apparently show that guns are many times more often used for self-defense in burglaries, than there are incidents of bulgaries of properties containing gun owners with awake occupants. <ref name="hemenway-1997">{{cite journal |author=Hemenway, D. |title=The Myth of Millions of Self-Defense Gun Uses |year=1997 |journal=[[Chance (magazine)|Chance]] |volume=10 }}</ref> Hemenway concludes that under reasonable assumptions of random errors in sampling, because of the rarity of the event, the 2.5 million figure should be considered only as the top end of a 0-2.5 million [[confidence interval]], suggesting a highly unreliable result that is likely a great overestimate, with the true figure at least 10 times less.  . 
+
+== Public policy ==. 
+{{main|Gun politics in the United States}}
+Public policy as related to preventing gun violence is an ongoing political and social debate regarding both the restriction and availability of firearms within the United States. Policy at the Federal level is/has been governed by the Second Amendment, National Firearms Act, Gun Control Act of 1968, Firearm Owners Protection Act, Brady Handgun Violence Prevention Act, Violent Crime Control and Law Enforcement Act, and the Domestic Violence Offender Act. Gun policy in the United States has been revised many times with acts such as the Firearm Owners Protection Act, which loosened provisions for gun  sales while also strengthening automatic firearms law. <ref>{{cite web|url=http://thomas.loc.gov/cgi-bin/bdquery/z?d099:HR04332: |title=Library of Congress Record |publisher=Library of Congress}}</ref>
+Recently at the local and state level, gun laws such as handgun bans have been overturned by the Supreme Court in cases such as District of Columbia v. Heller and McDonald v. Chicago, these cases hold that an individual person has a right to possess a firearm for legitimate purposes, Columbia v. Heller only addressed the issue on Federal enclaves, while McDonald v Chicago addressed the issue as relating to the individual states. <ref>{{cite news | title = Justices to Decide if State Gun Laws Violate Rights | first = Robert | last = Barnes | url = http://www.washingtonpost.com/wp-dyn/content/article/2009/09/30/AR2009093001723.html | newspaper = [[The Washington Post]] | date = 2009-10-01 |quote = the 5 to 4 opinion in District of Columbia v. Heller did not address the question of whether the Second Amendment extends beyond the federal government and federal enclaves such as Washington. | accessdate = 2010-02-19}}</ref>  . 
+
+Gun control proponents often cite the relatively high number of homicides committed with firearms as reason to support stricter gun control laws. <ref>{{cite journal |doi=10.1056/NEJM199112053252311 |title=Firearms and the killing threshold. (Editorial) |author=Kassirer, Jerome P. |journal=[[New England Journal of Medicine]] |year=1991 |volume=325 |issue=23 |pages=1647–1651 |pmid=1944455}}</ref> [[Firearm case law in the United States|Firearm laws]] are a subject of great debate in the United States, with firearms also widely used for recreational purposes, and for personal protection. <ref name="NAS-exec"/> Gun rights advocates cite the use of firearms for self-protection and to deter violent crime as reasons why more guns can reduce crime. <ref>{{cite journal |author=Baker, James Jay |title=Second amendment message in Los Angeles |journal=[[American Rifleman]] |date=July 1992 |pages=32–34}}</ref><ref name="hpcomm13">{{cite web |url=http://www.haciendapub.com/comm13.html |title=The Second Amendment - Reaching a Consensus as an Individual Right |author=Miguel A. Faria, Jr., MD}}</ref><ref name="hpedcor12">{{cite web |url=http://www.haciendapub.com/edcor12.html |title=Guns and Violence |author=Miguel A. Faria, Jr., MD}}</ref> Gun rights advocates also say criminals are the least likely to obey firearms laws, and so limiting access to guns by law-abiding people makes them more vulnerable to armed criminals. <ref name="mcdowall"/> . 
+
+=== Access to firearms ===. 
+[[File:S&W 60 3in.jpg|thumb|right|175px|The most common type of gun confiscated by [[police]] and traced by the [[Bureau of Alcohol, Tobacco, Firearms and Explosives|ATF]] are [[.38 special]] revolvers, such as this Smith and Wesson Model 60 .38 Special revolver with a 3-inch barrel. <ref name=autogenerated1>{{cite book |title=Guns, Crime, and Freedom |publisher=[[Regnery Publishing]] |author= LaPierre, Wayne |year=1994 |page=58 |isbn=0895264773}}</ref>]] . 
+
+U.S. policy aims to maintain the right of legitimate users to own most types of firearms, while restricting access to firearms by those individuals in high risk groups. <ref name="cook2000-ch3"/> Gun dealers in the United States are prohibited from selling handguns to those under the age of 21, and [[long gun]]s to those under the age of 18. <ref name="cook2000-ch3"/> There are also restrictions on selling guns to out-of-state residents. <ref name="cook2000-ch3"/>  . 
+
+Assuming access to guns, the top ten types of guns involved in crime in the U.S. show a definite trend in favoring handguns over long guns. The top ten guns used in crime, as reported by the ATF in 1993, included the [[Smith & Wesson]] .38 Special and .357 revolvers; [[Raven Arms MP-25|Raven Arms]] .25 caliber, [[Raven Arms MP-25|Davis]] P-380 .380 caliber, [[Ruger MK II|Ruger]] .22 caliber, [[Raven Arms MP-25|Lorcin]] L-380 .380 caliber, and Smith & Wesson semi-automatic handguns; [[Mossberg 500|Mossberg]] and [[Remington Arms|Remington]] 12 gauge shotguns; and the [[Intratec TEC-DC9|Tec DC-9]]. <ref name=autogenerated1 /> An earlier 1985 study of 1,800 incarcerated felons showed that criminals prefer revolvers and other non-semi-automatic firearms over semi-automatic firearms. <ref>{{cite book |title=ARMED AND CONSIDERED DANGEROUS: A Survey of Felons and their Firearms |publisher=[[Aldine de Gruyter]] |author= James D. Wright and Peter H. Rossi |year=1986 |isbn=0202305430}}</ref> In [[Pittsburgh]], a change in preferences towards pistols occurred in the early 1990s, coinciding with the arrival of crack cocaine and rise of violent youth gangs. <ref name="cohen-2002">{{cite conference|title=Guns and Youth Violence: An Examination of Crime Guns in One City |booktitle=Final report |author=Cohen, Jacqueline, Wilpen Gorr, Piyusha Singh |publisher=[[National Institute of Justice]]/[[Carnegie Mellon University]] |url=http://www.heinz.cmu.edu/wpapers/retrievePDF?id=2002-46 |date=December 2002}}</ref> Background checks in California, during 1998 to 2000, resulted in 1% of sales being initially denied. <ref name="wright2005">{{cite journal |author=Wright, M.A., G.J. Wintemute, B E Claire |title=People and guns involved in denied and completed handgun sales |journal=[[Injury Prevention]] |volume=11 |pages=247–250 |year=2005 |pmid=16081756 |doi=10.1136/ip.2005.008482 |issue=4 |pmc=1730243}}</ref> The types of guns most often denied included semiautomatic pistols with short barrels and of medium caliber. <ref name="wright2005"/> . 
+
+Among [[Juvenile (law)|juveniles]] (for example, minors under the age of 16, 17, or 18, depending on legal jurisdiction) serving in correctional facilities, 86% owned a gun at some point, with 66% acquiring their first gun by age 14. <ref name="wright"/> There is also a tendency for juvenile offenders to own many firearms, with 65% owning three or more. <ref name="wright"/> Juveniles most often acquire guns from family, friends, [[Illegal drug trade|drug dealers]], and street contacts. <ref name="wright"/> Inner-city youths cite "self-protection from enemies" as the top reason for carrying a gun. <ref name="wright"/> In [[Rochester, New York]], 22% of young males have carried a firearm illegally, though most for only a short period of time. <ref name="lizotte-1997">{{cite journal |title=Patterns of Illegal Gun Carrying Among Urban Young Males |author=Lizotte, Alan J., Gregory J. Howard, Marvin D. Krohn, Terence P. Thornberry |year=1997 |journal=[[Valparaiso University Law Review]] |volume=31 |issue=2}}</ref> There is little overlap between legal gun ownership and illegal gun carrying among youths. <ref name="lizotte-1997"/> . 
+
+=== Firearms market ===. 
+[[File:Firearmsources.svg|thumb|right|250px|Source of firearms possessed by Federal inmates, 1997<ref>{{cite web |url=http://www.ojp.usdoj.gov/bjs/pub/pdf/ffo98.pdf |title=Federal Firearm Offenders, 1992-98 |publisher=[[Bureau of Justice Statistics]]}}</ref>]]
+[[File:Atf ffl check.jpg|thumb|right|250px|[[Bureau of Alcohol, Tobacco, Firearms and Explosives|ATF]] inspector at a federally licensed gun dealer]]
+Policy that is targeted at the supply side of the firearms market is based on limited research, with this an active area of ongoing research. <ref name="NAS-exec"/> One important consideration is that only 60-70% of firearms sales in the United States are transacted through federally licensed firearm dealers, with the remainder taking place in the "secondary market."<ref name="cook-1995">{{cite journal |author=Cook, Philip J., S.Molliconi, T.B. Cole |title=Regulating Gun Markets |journal=[[Journal of Criminal Law and Criminology]] |year=1995 |volume=86 |pages=59–92 |id={{NCJ|162689}} |doi=10.2307/1144000 |issue=1 |publisher=The Journal of Criminal Law and Criminology (1973-), Vol. 86, No. 1 |jstor=1144000}}</ref><ref>{{cite book |author=Cook, Philip J., Jens Ludwig |title=Guns in America: Results of a Comprehensive Survey of Gun Ownership and Use |year=1996 |publisher=[[Police Foundation]]}}</ref> Most sales to youths and convicted felons take place in the "secondary market," in which previously-owned firearms are transferred by unlicensed individuals. <ref>{{cite book |author=Wright, James D., Peter H. Rossi |title=Armed and Considered Dangerous: A Survey of Felons and Their Firearms |publisher=[[Aldine de Gruyter]] |year=1994 |isbn=0202305430}}</ref><ref>{{cite journal |author=Ash, Peter, Arthur L. Kellermann, et al. |title=Gun Acquisition and Use by Juvenile Offenders |year=1996 |journal=[[Journal of the American Medical Association]] |volume=275 |issue=22 |pages=1754–1758 |pmid=8637174 |doi=10.1001/jama.275.22.1754}}</ref> Access to "secondary markets" is generally less convenient and involves such risks as the gun perhaps having been used previously in a homicide. <ref name="cook2000-ch9">{{cite book |author=Cook, Philip J., Jens Ludwig |title=Gun Violence: The Real Costs |publisher=[[Oxford University Press]] |year=2000 |chapter=Chapter 9 |isbn=0-19-513793-0}}</ref> Unlicensed private sellers are permitted by law to sell privately-owned guns at gun shows, or at private locations, in 24 states (as of 1998). <ref>{{cite book |author=Boston T. Party (Kenneth W. Royce) |title=Boston on Guns & Courage |publisher=[[Javelin Press]] |year=1998 |pages=3:15 |isbn=1888766042}}</ref> Regulations that limit the number of handgun sales in the primary, regulated market to [[One handgun a month law|one handgun a month]] per customer have been shown to be effective at reducing illegal gun trafficking by reducing the supply into the "secondary market."<ref>{{cite journal |author=Weil, Douglas S., Rebecca C. Knox |title=Effects of Limiting Handgun Purchases on Interstate Transfer of Firearms |journal=[[Journal of the American Medical Association]] |volume=275 |issue=22 |pages=1759–1761 |year=1996 |pmid=8637175 |doi=10.1001/jama.275.22.1759}}</ref> [[Tax]]es on firearms and [[ammunition]] purchases are another means for government to influence the primary market. <ref name="NAS-ch4">{{cite book |title=Firearms and Violence: A Critical Review |year=2004 |publisher=[[National Academy of Science]] |author=Committee on Law and Justice |chapter=Chapter 4 |url=http://www.nap.edu/books/0309091241/html/72.html |isbn=0309091241}}</ref>  . 
+
+Federally licensed firearm dealers in the primary (new and used gun) market are regulated by the [[Bureau of Alcohol, Tobacco, Firearms and Explosives|Bureau of Alcohol, Tobacco, Firearms, and Explosives]] (ATF). Firearm manufacturers are required to put [[serial number]]s on all new firearms. This allows the ATF to trace guns involved in crimes back to their last [[Federal Firearms License]] (FFL) reported change of ownership transaction, although not past the first private sale involving any particular gun. A report by the ATF released in 1999, found that 0.4% of federally-licensed dealers sold half of the guns used criminally in 1996 and 1997. <ref name="rushefsky"/><ref name="butterfield">{{cite news |author=Butterfield, Fox |title=Gun Flows to Criminals Laid to Tiny Fraction of Dealers |publisher=[[The New York Times]] |date=July 1, 1999}}</ref> This is sometimes done through "[[straw purchase]]s."<ref name="rushefsky"/> State laws, such as those in [[Virginia]] and [[California]], that restrict the number of gun purchases in a month may help stem such "straw purchases."<ref name="rushefsky"/> An estimated 500,000 guns are also [[theft|stolen]] each year, allowing them to get into the hands of prohibited users. <ref name="NAS-ch4"/><ref name="cook-1995"/> During the ATF's [[Youth Crime Gun Interdiction Initiative]] (YCGII), which involved expanded tracing of firearms recovered by law enforcement agencies,<ref name="ycgii">{{cite web |url=http://www.atf.gov/firearms/ycgii/ |title=Youth Crime Gun Interdiction Initiative (1998) |publisher=[[Bureau of Alcohol, Tobacco, Firearms and Explosives]]}}</ref> only 18% of guns used criminally that were recovered in 1998 were in possession of the original owner. <ref name="cook-2001">{{cite journal |author=Cook, Philip J., Anthony A. Braga |title= Comprehensive firearms tracing: Strategic and investigative uses of new data on firearms markets |journal=[[Arizona Law Review]] |volume=43 |pages=277–309 |year=2001}}</ref> Guns recovered by police during criminal investigations often have been previously sold by legitimate retail sales outlets to legal owners and then diverted to criminal use over elapsed times ranging from just a few months to just a few years,<ref name="cook-2001"/><ref>{{cite journal |author=Kennedy, D.M., A.A. Braga, A.M. Piehl |year=1996 |title=Youth violence in Boston: Gun markets, serious youth offenders, and a use-reduction strategy |journal=[[Law and Contemporary Problems]] |volume=59 |pages=147–196 |id={{NCJ|169549}} |doi=10.2307/1192213 |issue=1 |publisher=Law and Contemporary Problems, Vol. 59, No. 1 |jstor=1192213}}</ref><ref>{{cite journal |author=Wachtel, J. |year=1998 |title=Sources of crime guns in Los Angeles, California |journal=[[Policing: an International Journal of Police Strategies and Management]] |volume=21 |pages=220–239 |id={{NCJ|174254}} |doi=10.1108/13639519810220127 |issue=2}}</ref> which makes them relatively new compared with firearms in general circulation. <ref name="NAS-ch4"/><ref>{{cite book |author=Pierce, G.L., A.A. Braga, C. Koper, J. McDevitt, D. Carlson, J. Roth, A. Saiz |year=2001 |title=The Characteristics and Dynamics of Gun Markets: Implications for a Supply-Side Enforcement Strategy (Final Report) |publisher=[[Center for Criminal Justice Policy Research]], [[Northeastern University]] and the [[National Institute of Justice]] |url=http://www.ncjrs.gov/pdffiles1/nij/grants/208079.pdf}}</ref> . 
+
+=== Federal legislation ===. 
+{{main|Gun law in the United States}}
+The first Federal legislation related to firearms was the [[Second Amendment to the United States Constitution|Second Amendment]], ratified in 1791. For 143 years, this was the only major Federal legislation regarding firearms. The next Federal firearm legislation was the [[National Firearms Act]] of 1934. This Act created regulations for the sale of firearms, established [[Excise tax in the United States|taxes]] on their sale, and required registration of some types of firearms such as [[machine gun]]s. <ref>{{cite book |author=Friedman, Lawrence M. |title=Crime and Punishment in American History |year=1993 |publisher=[[Basic Books]] |isbn=0-465-01461-5 |page=267}}</ref> . 
+
+In the aftermath of the Robert F. Kennedy and Martin Luther King Jr. assassinations, the [[Gun Control Act of 1968]] was enacted. This Act regulated gun commerce, restricting [[mail order]] sales, and allowing shipments only to licensed firearm dealers. The Act also prohibited [[felony|felons]], those under [[indictment]], [[fugitive]]s, [[Alien (law)|illegal aliens]], [[narcotics|drug]] users, those [[Military discharge|dishonorably discharged]] from the [[Military of the United States|military]], and those in [[Psychiatric hospital|mental institutions]] from owning guns. <ref name="cook2000-ch3"/> The law also restricted importation of [[Saturday night special]]s and other types of guns, and limited the sale of [[automatic weapon]]s and [[semi-automatic weapon]]s conversion kits. <ref name="rushefsky"/> . 
+
+The [[Firearm Owners Protection Act]], also known as the McClure-Volkmer Act, was passed in 1986. It changed some restrictions in the 1968 Act, allowing federally-licensed gun dealers, as well as individual unlicensed private sellers, to sell at [[gun show]]s, while continuing to require licensed gun dealers to require background checks. <ref name="rushefsky"/> The 1986 Act also restricted the Bureau of Alcohol, Tobacco, and Firearms from conducting repetitive inspections, reduced the amount of recordkeeping required of gun dealers, raised the burden of proof for convicting gun law violators, and changed restrictions on convicted [[Felony|felons]] from owning firearms. <ref name="rushefsky"/> . 
+
+In the years following the passage of the Gun Control Act of 1968, people buying guns were required to show [[Identity document|identification]] and sign a statement affirming that they were not in any of the prohibited categories. <ref name="cook2000-ch3"/> Many [[U.S. state|states]] enacted [[background check]] laws that went beyond the federal requirements. <ref>{{cite journal |author=Cook, Philip J., James Blose |title=State Programs for Screening Handgun Buyers |journal=[[Annals of the American Academy of Political and Social Science]] |year=1981 |volume=May 1981 |pages=80–91 |id={{NCJ|79101}} |doi=10.1177/000271628145500108}}</ref> The [[Brady Handgun Violence Prevention Act]] passed by [[Congress of the United States|Congress]] in 1993 imposed a waiting period before the purchase of a handgun, allowing a background check. <ref>The Brady Act did not require background checks, but mandates the waiting period so that background checks can be done. The background check provision has been challenged on grounds that it violates the [[Tenth Amendment to the United States Constitution|Tenth Amendment]] of the [[Constitution of the United States]]. In the 1997 case, ''[[Printz v. United States]]'', the Supreme Court voided that part of the Brady Act. (Rushefsky, 2002)</ref> The Brady Act also required the establishment of a national system to provide instant criminal background checks, with checks to be done by firearms dealers. <ref>{{cite web |url=http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=103_cong_bills&docid=f:h1025enr.txt.pdf |title=Brady Handgun Violence Prevention Act |publisher=[[Congress of the United States]]/[[Government Printing Office]]}}</ref> The Brady Act only applied to people who bought guns from licensed dealers, whereas most felons buy guns from a [[black market]]. <ref name=autogenerated4>[http://www.emeraldinsight.com/Insight/ViewContentServlet?Filename=Published/EmeraldFullTextArticle/Pdf/1810210201.pdf Emerald: Article Request<!-- Bot generated title -->]</ref><ref name=autogenerated4 /> Restrictions, such as waiting periods, are opposed by many, who argue that they impose costs and inconveniences on legitimate gun purchasers, such as hunters. <ref name="NAS-ch4"/> . 
+
+[[File:AK47.jpg|thumb|250px|right|Semi-automatic versions of the [[AK-47]] [[assault rifle]] were affected under the 1994 ban.]] . 
+
+The [[Violent Crime Control and Law Enforcement Act]], enacted in 1994, included the [[Federal Assault Weapons Ban]], and was a response to public concern over [[mass murder|mass shootings]]. <ref name="roth">{{cite book |url=http://www.ncjrs.gov/pdffiles1/173405.pdf |title=Impacts of the 1994 Assault Weapons Ban: 1994–96 |author=Roth, Jeffrey A., Christopher S. Koper |year=1999 |publisher=[[National Institute of Justice]]}}</ref> This provision prohibited the manufacture and importation of some semiautomatic firearms that exhibitied military style features such as a folding stock, pistol grip and flash suppressor, as well as [[Magazine (firearms)|magazines]] holding more than ten rounds. <ref name="roth"/> A [[grandfather clause]] was included that allowed firearms manufactured before 1994 to remain legal. A short-term evaluation by [[University of Pennsylvania]] criminologists, [[Christopher S. Koper]] and [[Jeffrey A. Roth]], did not find any clear impact of this legislation on gun violence. <ref name="koper">{{cite journal |author=Koper, Christopher S., Jeffrey A. Roth |year=2001 |title=The impact of the 1994 federal assault weapon ban on gun markets: An assessment of short-term primary and secondary market effects |journal=[[Journal of Quantitative Criminology]] |volume=18 |issue=3 |pages=239–266 |id={{NCJ|196844}} |doi=10.1023/A:1016055919939}}</ref> Given the short study time period of the evaluation, the [[United States National Academy of Sciences|National Academy of Sciences]] also advised caution in drawing any conclusions. <ref name="NAS-ch4"/> In September 2004, the assault weapon ban expired, with its [[sunset clause]]. <ref>{{cite news |url=http://www.usatoday.com/news/washington/2004-09-12-weapons-ban_x.htm |title=Federal ban on assault weapons expires |author=Lawrence, Jill |publisher=[[USA Today]] |date=September 12, 2004}}</ref> . 
+
+The [[Domestic Violence Offender Gun Ban]], '' 'the Lautenberg Amendment' '', prohibited anyone previously convicted of a misdemeanor crime of [[domestic violence]] from owning a firearm. <ref>This was [[ex post facto]], in the opinion of then-representative [[Bob Barr]], [http://commdocs.house.gov/committees/judiciary/hju58106.000/hju58106_0f.htm] House of Representatives, Subcommittee on Crime, Committee on the Judiciary, March 5, 1997</ref> It also banned shipment, transport, ownership and use of guns or ammunition by individuals convicted of [[misdemeanor]] or [[felony]] domestic violence. This law also outlawed the sale or gift of a firearm or ammunition to such a person. It was passed in 1996, and became effective in 1997. Some opponents believe that the law conflicts with the [[right to arms|right to keep and bear arms]] protected by the [[Second Amendment to the United States Constitution]], and this law has modified the Second Amendment to a revocable privilege from a fundamental protection. Opponents of this law tend to describe the law by the name "''the Lautenberg Amendment.''" The law applies to everyone, including police officers and military personnel, and can cause difficulties by prohibiting active duty military and police from carrying guns, due to prior civilian misdemeanor convictions. <ref>{{cite web | last = | first = | authorlink = | title = Domestic Violence Offender Gun Ban Fact Sheet | work = | publisher = National Center for Women & Policing | date = | url = http://www.womenandpolicing.org/gunban.asp | format = [[Active Server Pages|asp]] | accessdate = 2007-02-05 }}</ref><!--we need a better source here--> . 
+
+In the immediate aftermath of [[Hurricane Katrina]], police and National Guard units in New Orleans confiscated firearms from private citizens in an attempt to prevent violence. In reaction, [[United States Congress|Congress]] passed the [[Disaster Recovery Personal Protection Act of 2006]] in the form of an amendment to [[United States Department of Homeland Security|Department of Homeland Security]] Appropriations Act, 2007. Section 706 of the Act prohibits federal employees and those receiving federal funds from confiscating legally-possessed firearms during a disaster. <ref>{{cite web |url=http://thomas.loc.gov/cgi-bin/cpquery/R?cp109:FLD010:@1(hr699)|title=House Report 109-699 - Making Appropriations For The Department Of Homeland Security For The Fiscal Year Ending September 30, 2007, And For Other Purposes |publisher=[[The Library of Congress]] - THOMAS Home - Bills, Resolutions}}</ref> . 
+
+=== State legislation ===. 
+{{main|Gun (Firearm) laws in the United States (by state)}} . 
+
+==== Right-to-carry ====. 
+Right-to-carry laws expanded in the 1990s as homicide rates from gun violence in the United States increased, largely in response to incidents such as the [[Luby's massacre]] of 1991 in Texas which directly resulted in the passage of a ''[[carrying concealed weapon]],'' or ''CCW'', law in Texas in 1995. <ref>{{cite web |url=http://www.chron.com/content/chronicle/nation/guns/part2/gunside1.html |work=[[San Antonio Express-News]] |title=Guns in America, Part II |accessdate=2006-11-15}} {{Dead link|date=April 2012|bot=H3llBot}}</ref>
+As Rorie Sherman, staff reporter for the ''National Law Journal'' wrote in an article published on April 18, 1994, "It is a time of unparalleled desperation about crime. But the mood is decidedly 'I'll do it myself' and 'Don't get in my way.'"<ref>{{cite book |author= LaPierre, Wayne |title=Guns, Crime, and Freedom |publisher=[[Regnery Publishing]] |year=1994 |page=98 |isbn= 0895264773}}</ref>  . 
+
+The result was laws that permitted persons to carry firearms openly, known as ''[[open carry]]'', often without any permit required, in 22 states by 1998. <ref>{{cite book |title=Boston on Guns & Courage |year=1998 |publisher=[[Javelin Press]] |author=Boston T. Party (Kenneth W. Royce) |chapter=Chapter 3 | pages=3:15 |isbn=1888766042}}</ref> Laws that permitted persons to carry concealed [[handgun]]s, sometimes termed a ''concealed handgun license'', ''CHL'', or ''concealed pistol license'', ''CPL'' in some jurisdictions instead of ''CCW'', existed in 34 states in the United States by 2004. <ref name="NAS-exec"/> Since then, the number of states with CCW laws has increased; {{as of|2012|lc=y}}, 49 states have some form of CCW laws on the books. <ref>{{cite web |url=http://www.kare11.com/news/article/944700/14/Conceal-and-carry-begins-in-Wisconsin |title='Conceal and carry' begins in Wisconsin |date=November 1, 2011 |publisher=[[KARE]] |agency=[[Associated Press]]}}</ref> . 
+
+Economist [[John Lott]] has argued that right-to-carry laws create a perception that more potential crime victims might be carrying firearms, and thus serve as a [[Deterrence (psychological)|deterrent]] against crime. <ref name="lott-1997">{{cite journal |author=Lott, Jr., John R., David B. Mustard |title=Crime, Deterrence, and Right-to-Carry Concealed Handguns |journal=[[Journal of Legal Studies]] |volume=26 |issue=1 |year=1997 |pages=1–68 |id={{NCJ|174718}} |doi=10.1086/467988}}</ref> Lott's study has been criticized for not adequately controlling for other factors, including other state laws also enacted, such as [[Florida]]'s laws requiring background checks and waiting period for handgun buyers. <ref name="black">{{cite journal |author=Black, Dan, Daniel Nagin |title=Do 'Right to Carry' Laws Reduce Violent Crime? |journal=[[Journal of Legal Studies]] |volume=27 |issue=1 |pages=209–219 |year=1998 |id={{NCJ|177169}} |doi=10.1086/468019}}</ref> When Lott's data was re-analyzed by some researchers, the only statistically significant effect of concealed-carry laws found was an increase in [[assault]]s,<ref name="black"/> with similar findings by Jens Ludwig. <ref>{{cite journal |author=Ludwig, Jens |title=Concealed-Gun-Carrying Laws and Violent Crime: Evidence from State Panel Data |journal=[[International Review of Law and Economics]] |volume=18 |pages=239–254 |year=1998 |doi=10.1016/S0144-8188(98)00012-X |issue=3}}</ref> Since concealed-carry permits are only given to adults, Philip J. Cook suggests that analysis should focus on the relationship with adult and not [[Juvenile (law)|juvenile]] gun incident rates. <ref name="cook2000-ch3"/> He finds no [[statistical significance|statistically significant]] effect. <ref name="cook2000-ch3"/> The [[National Academy of Science]] has found no evidence that shows right-to-carry laws have an impact, either way, on rates of [[violent crime]]. <ref name="NAS-exec"/> NAS suggests that new analytical approaches and datasets at the county or local level are needed to evaluate adequately the impact of right-to-carry laws. <ref name="NAS-ch6">{{cite book |title=Firearms and Violence: A Critical Review |year=2004 |publisher=[[National Academy of Science]] |author=Committee on Law and Justice |chapter=Chapter 6 |url=http://www.nap.edu/books/0309091241/html/120.html |isbn=0309091241}}</ref> . 
+
+==== Child Access Prevention (CAP) ====. 
+Child Access Prevention (CAP) laws, enacted by many states, require parents to store firearms safely, to minimize access by children to guns, while maintaining ease of access by adults. <ref name="NBER">{{cite book |author=DeSimone, Jeff, Sara Markowitz |chapter=The Effect of Child Access Prevention Laws on Non-Fatal Gun Injuries |title=NBER Working Paper No. 11613 |date=September 2005 |publisher=[[National Bureau of Economic Research]] |url=http://www.nber.org/papers/W11613}}</ref> CAP laws hold gun owners [[Legal liability|liable]] should a child gain access to a loaded gun that is not properly stored. <ref name="NBER"/>  Statistics from the [[Centers for Disease Control and Prevention]] showed that, on average, one child died every three days in accidental incidents in the United States from 2000 to 2005. <ref>{{cite news |first= |last= |authorlink= |coauthors= |title=Boy finds forgotten gun, accidentally shoots self in head |url= |quote=http://edition.cnn.com/2009/US/04/21/forgotten.gun/index.html?eref=edition |work=[[CNN]] |date=April 21, 2009 |accessdate=2009-04-22 }}</ref>  In most states, CAP law violations are considered [[misdemeanor]]s. <ref name="NBER"/> [[Florida]]'s CAP law, enacted in 1989, permits [[felony]] prosecution of violators. <ref name="NBER"/> Research indicates that CAP laws are correlated with a reduction in unintentional gun deaths by 23%,<ref>{{cite journal |author=Cummings, Peter, David C. Grossman, Frederick P. Rivara, Thomas D. Koepsell |title=State Gun Safe Storage Laws and Child Mortality Due to Firearms |journal=[[Journal of the American Medical Association]] |year=1997 |volume=278 |issue=13 |pages=1084–1086 |pmid=9315767 |doi=10.1001/jama.278.13.1084}}</ref> and gun suicides among those aged 14 through 17 by 11%. <ref>{{cite journal |author=Webster, Daniel, John Vernick, ''et al.'' |title=Association between Youth-Focused Firearm Laws and Youth Suicides |journal=[[Journal of the American Medical Association]] |year=2004 |volume=292 |issue=5 |pages=594–601 |pmid=15292085 |doi=10.1001/jama.292.5.594}}</ref> A study by [[John Lott|Lott]] did not detect a relationship between CAP laws and accidental gun deaths or suicides among those age 19 and under between 1979 and 1996. <ref name=autogenerated2 /> The [[National Bureau of Economic Research]] has found that CAP laws are correlated with a reduction of non-fatal gun injuries among both children and adults by 30-40%. <ref name="NBER"/> Research also indicates that CAP laws are most highly correlated with reductions of non-fatal gun injuries in states where violations are considered felonies, whereas in states that consider violations as misdemeanors, the potential impact of CAP laws is not statistically significant. <ref>{{cite journal |author=Webster, D.W., M. Starnes |title=Reexamining the association between child access prevention gun laws and unintentional shooting deaths of children |journal=[[Pediatrics (journal)|Pediatric]] |year=2000 |volume=106 |issue=6 |pages=1466–1469 |pmid=11099605 |doi=10.1542/peds.106.6.1466}}</ref> All of these studies are correlational, and do not account for other potential contributing factors.  . 
+
+=== Local restrictions ===. 
+Some local jurisdictions in the United States have more restrictive laws, such as [[Washington, D.C.]]'s [[Firearms Control Regulations Act of 1975]], which banned residents from owning handguns, and required permitted firearms be disassembled and locked with a trigger lock. On March 9, 2007, a [[Parker v. District of Columbia|U.S. Appeals Court]] ruled the Washington, D.C. handgun ban unconstitutional. <ref>[http://www.bloomberg.com/apps/news?pid=20601103&sid=azTOCL.ZiDGM&refer=us ''"Federal Appeals Court Strikes Down D.C. Handgun Ban"''] Bloomberg News, March 9, 2007</ref> The appeal of that case later led to the [[Supreme Court]]'s ruling in [[District of Columbia v. Heller]] that D.C.'s ban was unconstitutional under the [[Second Amendment to the U.S. Constitution|Second Amendment]].  . 
+
+[[New York City]] is also known for its strict gun control laws. Despite local laws, guns are often trafficked into cities from other parts of the United States, particularly the southern states. <ref name="butterfield"/><ref>{{cite book |author=Wintemute, Garen |chapter=Guns and Gun Violence |title=The Crime Drop in America |editor=Blumstein, Alfred, Joel Wallman |publisher=[[Cambridge University Press]] |year=2000}}</ref> Results from the ATF's Youth Crime Gun Interdiction Initiative indicate that the percentage of imported guns involved in crimes is tied to the stringency of local firearm laws. <ref name="ycgii"/> . 
+
+== Prevention programs ==. 
+Violence prevention and [[educational program]]s have been established in many [[school]]s and communities across the United States. These programs aim to change personal behavior of both [[children]] and their [[parent]]s, encouraging children to stay away from guns, ensure parents store guns safely, and encourage children to [[dispute resolution|solve disputes]] without resorting to violence. <ref name="hardy">{{cite journal |author=Hardy, Marjorie S. |title=Behavior-Oriented Approaches to Reducing Gun Violence |journal=[[The Future of Children]] |publisher=[[Woodrow Wilson School]] / [[The Brookings Institution]] |year=2002 |volume=12 |issue=2 |pages=101–118 |id={{NCJ|196785}}}}</ref> Programs aimed at altering [[behavior]] range from passive (requiring no effort on part of the individual) to active (supervising children, or placing a [[trigger lock]] on a gun). <ref name="hardy"/> The more effort required of people, the more difficult it is to implement a [[Crime prevention|prevention]] strategy. <ref>{{cite book |author=Christophersen, E.R. |chapter=Improving compliance in childhood injury control |title=Developmental aspects of health compliance behavior |publisher=[[Lawrence Erlbaum Associates]] |year=1993 |pages=219–231}}</ref><ref>{{cite journal |author=Williams, A.F. |title=Passive and active measures for controlling disease and injury |journal=[[Health Psychology]] |year=1982 |volume=1 |pages=399–409 |pmid=11586556 |doi=10.1037/h0090242 |last2=Farrell |first2=RJ |last3=Kelly |first3=CP |issue=3}}</ref> Prevention strategies focused on modifying the situational environment and the firearm itself may be more effective. <ref name="hardy"/> Empirical [[evaluation]] of gun violence prevention programs has been limited. <ref name="NAS-exec"/> Of the evaluations that have been done, results indicate such programs have minimal effectiveness. <ref name="hardy"/> . 
+
+=== The 1-866-SPEAK-UP  Hotline ===. 
+SPEAK UP is a national youth violence prevention initiative created by [[The Center to Prevent Youth Violence]],<ref>{{cite web|title=The Center to Prevent Youth Violence|url=http://www.cpyv.org|accessdate=29 August 2011}}</ref> which provides young people with tools to improve the safety of their schools and communities. The SPEAK UP program features the first-ever, anonymous, national hot-line for young people to report threats of violence in their communities or at school. The [[1-866-SPEAK-UP]] hot-line is the only national hot-line for students to anonymously report weapon threats 24-hours-a-day, seven-days-a-week.  The hot-line is operated in accordance with a rigid protocol developed in collaboration with national education and law enforcement authorities, including the FBI.  Trained counselors, with instant access to translators for 140 languages, collect information from callers and then immediately report the threat to appropriate school and law enforcement officials. The counselors also have access to an extensive database of local, city, and state referral sources, which they can offer callers who call with issues unrelated to youth violence.  Since its launch in 2002, the hotline has received over 38,000 calls from youth nationwide. <ref>http://www.paxusa.org/speakup/about.html</ref><ref>{{cite web|url=http://www.cpyv.org/programs/what-is-speak-up/|title=What is SPEAK UP?|accessdate=29 August 2011}} {{Dead link|date=April 2012|bot=H3llBot}}</ref> . 
+
+=== Gun safety parent counseling ===. 
+One of the most widely used parent counseling programs is Steps to Prevent Firearm Injury program (STOP), which was developed in 1994 by the [[Brady Center to Prevent Gun Violence]]. <ref name="hardy"/> STOP was superseded by STOP 2 in 1998, which has a broader focus including more communities and health care providers. <ref name="hardy"/> STOP has been evaluated and found not to have a significant effect on gun ownership or firearm storage practices by inner-city parents. <ref>{{cite journal |author=Oatis, Pamela J., Nancy M. Fenn Buderer, Peter Cummings, Rosemarie Fleitz |title=Pediatric practice based evaluation of the Steps to Prevent Firearm Injury program |journal=[[Injury Prevention]] |volume=5 |issue=1 |year=1999 |pages=48–52 |pmid=10323570 |doi=10.1136/ip.5.1.48 |pmc=1730460}}</ref> Marjorie S. Hardy suggests further evaluation of STOP is needed, as this evaluation had a limited sample size and lacked a control group. <ref name="hardy"/> . 
+
+=== Children ===. 
+Prevention programs geared towards children have also not been greatly successful. <ref name="hardy"/> Many inherent challenges arise when working with children, including their tendency to perceive themselves as invulnerable to injury,<ref>{{cite journal |author=Benthin, A., P. Slovic, H. Severan |title=A psychometric study of adolescent risk perception |journal=[[Journal of Adolescence]] |year=1993 |volume=16 |pages=153–168 |doi=10.1006/jado.1993.1014 |pmid=8376640 |issue=2}}</ref> limited ability to apply lessons learned,<ref name="hyson">{{cite journal |author=Hyson, M.C., G.G. Bollin |title=Children's appraisal of home and neighborhood risks: Questions for the 1990s |journal=[[Children's Environments Quarterly]] |year=1990 |volume=7 |issue=3 |pages=50–60}}</ref><ref>{{cite journal |author=Coppens, N.M. |title=Cognitive development and locus of control as predictors of preschoolers' understanding of safety and prevention |journal=[[Journal of Applied Developmental Psychology]] |year=1985 |volume=6 |pages=43–55 |doi=10.1016/0193-3973(85)90015-2}}</ref> their innate curiosity,<ref name="hyson"/> and [[peer pressure]].  . 
+
+The goal of gun safety programs, usually administered by local firearms dealers and shooting clubs, is to teach older children and adolescents how to handle firearms safely. <ref name="hardy"/> There has been no systematic evaluation of the effect of these programs on children. <ref name="hardy"/> For adults, no positive effect on gun storage practices has been found as a result of these programs. <ref>{{cite conference |author=Cook, P.J., J. Ludwig |title=Guns in America: National survey on private ownership and use of firearms |booktitle=Research in Brief |publisher=[[National Institute of Justice]] |date=May 1997 |url=http://www.ncjrs.gov/pdffiles/165476.pdf}}</ref><ref>{{cite journal |author=Hemenway, D., S. Solnek, D.R. Azrael |title=Firearm training and storage |journal=[[Journal of the American Medical Association]] |year=1995 |volume=273 |issue=1 |pages=46–50 |pmid=7996649 |doi=10.1001/jama.273.1.46}}</ref> Also, researchers have found that gun safety programs for children may likely increase a child's interest in obtaining and using guns, which they cannot be expected to use safely all the time, even with training. <ref>{{cite book |author=Wilson, M.H., S.P. Baker, S.P. Teret, ''et al.'' |title=Saving children: A guide to injury prevention |publisher=[[Oxford University Press]] |year=1991}}</ref> . 
+
+One approach taken is gun avoidance, such as when encountering a firearm at a neighbor's home. The [[Eddie Eagle]] Gun Safety Program, administered by the [[National Rifle Association]] (NRA), is geared towards younger children from pre-[[kindergarten]] to sixth grade, and teaches kids that real guns are not toys by emphasizing a "just say no" approach. <ref name="hardy"/> The Eddie Eagle program is based on training children in a four-step action to take when they see a firearm: (1) Stop! (2) Don't touch! (3) Leave the area. (4) Go tell an adult. Materials, such as coloring books and posters, back the lessons up and provide the repetition necessary in any child-education program. The ineffectiveness of the "just say no" approach promoted by the NRA's Eddie the Eagle program was highlighted in an investigative piece by ABC's Diane Sawyer in 1999.[http://abcnews.go.com/video/playerIndex?id=7282623] Sawyer's piece was based on academic studies conducted by Dr. Marjorie Hardy, assistant professor of psychology at Muhlenberg College in Allentown, Pennsylvania. [http://www.parents.com/kids/teens/violence/is-there-a-gun-in-the-house/?page=3] Dr. Hardy's study tracked the behavior of elementary age schoolchildren who spent a day learning the Eddie the Eagle four-step action plan from a uniformed police officer. The children were then placed into a playroom which contained a hidden gun. When the children found the gun, they did not run away from the gun, but rather, they inevitably played with it, pulled the trigger while looking into the barrel, or aimed the gun at a playmate and pulled the trigger. The study concluded that children's natural curiosity was far more powerful than the parental admonition to "Just say no". [http://ceep.crc.uiuc.edu/pubs/ivpaguide/appendix/patten-sayingno.pdf] . 
+
+Some [[gun control]] advocacy groups have developed their own programs, such as Straight Talk about Risks (STAR), administered by the [[Brady Center to Prevent Gun Violence]], and Hands without Guns, run by the Joshua Horwitz Educational Fund to End Handgun Violence. <ref name="hardy"/> . 
+
+=== Community programs ===. 
+Programs targeted at entire [[community|communities]], such as community revitalization, after-school programs, and [[Public service announcement|media campaigns]], may be more effective in reducing the general level of violence that children are exposed to. <ref>{{cite journal |author=[[Group for the Advancement of Psychiatry]], Committee on Preventative Psychiatry |title=Violent behavior in children and youth: Preventative intervention from a psychiatric perspective |journal=[[Journal of the American Academy of Child and Adolescent Psychiatry]] |year=1999 |volume=38 |issue=3 |pages=235–241 |doi=10.1097/00004583-199903000-00008}}</ref><ref>{{cite book |author=Arrendondo, S., T. Aultman-Bettride, T.P. Johnson, ''et al.'' |title=Preventing youth handgun violence: A national study with trends and patterns for the state of Colorado |publisher=[[Center for the Study and Prevention of Violence]] |year=1999}}</ref> Community-based programs that have specifically targeted gun violence include Safe Kids/Healthy Neighborhoods Injury Prevention Program in [[New York City]],<ref>{{cite journal |author=Davidson, L.L., M S Durkin, L Kuhn, P O'Connor, B Barlow, M C Heagarty |title=The impact of the Safe Kids/Healthy Neighborhoods Injury Prevention Program in Harlem, 1988 through 1991 |journal=[[American Journal of Public Health]] |year=1994 |volume=84 |issue=4 |pages=580–586 |pmid=8154560 |doi=10.2105/AJPH.84.4.580 |pmc=1614780}}</ref><ref>{{cite journal |author=Klassen, T.P., I.M. MacKay, A.W. Moher, A. I. Jones |title=Community-based prevention interventions |journal=[[The Future of Children]] |volume=10 |issue=1 |pages=83–110 |year=2000 |doi=10.2307/1602826 |publisher=The Future of Children, Vol. 10, No. 1 |jstor=1602826}}</ref> and Safe Homes and Havens in [[Chicago]]. <ref name="hardy"/> Evaluation of such community-based programs is difficult, due to many confounding factors and the multifaceted nature of such programs. <ref name="hardy"/> . 
+
+== Intervention programs ==. 
+[[Sociology|Sociologist]] James D. Wright suggests that to convince inner-city youths not to carry guns "requires convincing them that they can survive in their neighborhood without being armed, that they can come and go in peace, that being unarmed will not cause them to be victimized, intimidated, or slain."<ref name="wright"/> Intervention programs, such as [[CeaseFire (organization)|CeaseFire Chicago]], [[Operation Ceasefire]] in [[Boston]] and [[Project Exile]] in [[Richmond, Virginia]] during the 1990s, have been shown to be effective. <ref name="NAS-exec"/><ref>{{cite journal |author=Braga, Anthony A., David M. Kennedy, Elin J. Waring, Anne M. Piehl |title=Problem-Oriented Policing, Deterrence, and Youth Violence: An Evaluation of Boston's Operation Ceasefire |journal=[[Journal of Research in Crime and Delinquency]] |volume=38 |issue=3 |year=2001 |id={{NCJ|189562}}}}</ref> Other intervention strategies, such as gun "buy-back" programs have been demonstrated to be ineffective. <ref name="NAS-ch4"/> . 
+
+=== Gun "buy-back" programs ===. 
+Gun "buy-back" programs are a strategy aimed at influencing the firearms market by taking guns "off the streets". <ref name="NAS-ch4"/> Gun "buy-back" programs have been shown to be ineffective,<ref>{{cite journal |author=Callahan, C.M., F.P. Rivara, T.D. Koepsell |year=1994 |title=Money for guns: Evaluation of the Seattle gun "buy-back" program |journal=[[Public Health Reports]] |volume=109 |pages=472–477 |pmid=8041845 |issue=4 |pmc=1403522}}</ref><ref>{{cite book |author=Rosenfeld, R. |year=1996 |chapter=Gun buy-backs: Crime control or community mobilization? |editor=M.R. Plotkin |title=Under Fire: Gun Buy-Backs, Exchanges, and Amnesty Programs |publisher=[[Police Executive Research Forum]] |id={{NCJ|161877}}}}</ref> with the [[United States National Academy of Sciences|National Academy of Sciences]] citing theory underlying these programs as "badly flawed."<ref name="NAS-ch4"/> Guns surrendered tend to be those least likely to be involved in crime, such as old, [[Firearm malfunction|malfunctioning]] guns with little resale value, muzzleloading or other blackpowder guns, antiques chambered for obsolete cartridges that are no longer commercially manufactured or sold, or guns that individuals [[inheritance|inherit]] but have little value in possessing. <ref>{{cite book |author=Kennedy, David M., Anne M. Piehl, Anthony A. Braga |year=1996 |chapter=Gun buy-backs: Where do we stand and where do we go? |editor=M.R. Plotkin |title=Under Fire: Gun Buy-Backs, Exchanges, and Amnesty Programs |publisher=[[Police Executive Research Forum]] |id={{NCJ|161877}}}}</ref> Other limitations of gun "buy-back" programs include the fact that it is relatively easy to obtain gun replacements, often of better guns than were relinquished in the "buy-back."<ref name="NAS-ch4"/> Also, the number of handguns used in crime (approximately 7,500 per year) is very small compared to the approximately 70 million handguns in the United States (i.e., 0.011%). <ref name="NAS-ch4"/> . 
+
+"Gun Bounty" programs launched in several Florida cities have shown more promise.  These programs involve cash rewards for anonymous tips about illegal weapons that leads to an arrest and a weapons charge. Since its inception May 2007, the Miami program led to 264 arrests, confiscation of 432 guns owned illegally and $2.2 million in drugs, as well as solved several murder and burglary cases. <ref>{{cite news|title=County Gun Buy Back Program Touted as a Success|url=http://cbs4.com/local/gun.bounty.program.2.1718353.html  | accessdate=June 1, 2010 | date=2010-05-26}}</ref> . 
+
+=== Operation Ceasefire ===. 
+In 1995, [[Operation Ceasefire]] was established as a strategy for stemming the epidemic of youth gun violence in Boston. Violence was particularly concentrated in poor, inner-city neighborhoods including [[Roxbury, Massachusetts|Roxbury]], [[Dorchester, Massachusetts|Dorchester]], and [[Mattapan]]. <ref name="kennedy">{{cite book |author=Kennedy, David M., Anthony A. Braga, Anne M. Piehl |title=Reducing Gun Violence: The Boston Gun Project's Operation Ceasefire |year=2001 |url=http://www.ncjrs.gov/pdffiles1/nij/188741.pdf}}</ref> There were 22 youths (under the age of 24) killed in Boston in 1987, with that figure rising to 73 in 1990. <ref name="kennedy"/> Operation Ceasefire entailed a [[problem-oriented policing]] approach, and focused on specific places that were crime hot spots—two strategies that when combined have been shown to be quite effective. <ref>{{cite journal |author=Braga, Anthony A., David L. Weisburd, ''et al.'' |year=1999 |title=Problem-oriented policing in violent crime places: A randomized controlled experiment |journal=[[Criminology (journal)|Criminology]] |volume=7 |pages=541–580 |id={{NCJ|178770}} |doi=10.1111/j.1745-9125.1999.tb00496.x |issue=3}}</ref><ref>{{cite journal |author=Weisburd, D., L. Green |year=1995 |title=Policing drug hot spots: The Jersey City drug market analysis experiment |journal=[[Justice Quarterly]] |volume=12 |pages=711–735 |id={{NCJ|167667}} |doi=10.1080/07418829500096261 |issue=4}}</ref><ref>{{cite journal |author=Sherman, L.W., D. Rogan |year=1995 |title=Effects of gun seizures on gun violence: "Hot spots" patrol in Kansas City |journal=[[Justice Quarterly]] |volume=12 |issue=4 |pages=673–694 |id={{NCJ|167665}} |doi=10.1080/07418829500096241}}</ref> Particular focus was placed on two elements of the gun violence problem, including illicit gun trafficking<ref>{{cite journal |author=Braga, Anthony A., Glenn L. Pierce |title=Disrupting Illegal Firearms Markets in Boston: The Effects of Operation Ceasefire on the Supply of New Handguns to Criminals |journal=[[Criminology and Public Policy]] |volume=4 |issue=4 |year=2005 |id={{NCJ|212303}}}}</ref> and [[gang violence]]. <ref name="kennedy"/> Within two years of implementing Operation Ceasefire in Boston, the number of youth homicides dropped to ten, with only one handgun-related youth homicide occurring in 1999 and 2000. <ref name="rushefsky"/> The Operation Ceasefire strategy has since been replicated in other cities, including [[Los Angeles]]. <ref>{{cite book |author=National Institute of Justice |title=Research Report: Reducing Gun Violence - Operation Ceasefire in Los Angeles |date=February 2005 |url=http://www.ncjrs.gov/pdffiles1/nij/192378.pdf}}</ref> . 
+
+=== Project Exile ===. 
+[[File:Psnlogo.jpg|thumb|right|120|Federally-supported gun violence intervention program]]
+[[Project Exile]], conducted in Richmond, Virginia during the 1990s, was a coordinated effort involving federal, state, and local officials that targeted gun violence. The strategy entailed [[prosecution]] of gun violations in Federal courts, where [[sentencing guidelines]] were tougher. Project Exile also involved outreach and education efforts through media campaigns, getting the message out about the crackdown. <ref name="raphael">{{cite book |author=Raphael, Stephen, Jens Ludwig |chapter=Prison Sentence Enhancements: The Case of Project Exile |title=Evaluating Gun Policy: Effects on Crime and Violence |editor=Ludwig, Jens, Philip I. Cook |publisher=[[Brookings Institution Press]] |year=2003 |id={{NCJ|203345}}}}</ref> Project Exile was evaluated and shown to be effective, however researchers also point out that Richmond might have experienced declining homicide trends anyway during the evaluation period, owing to overall national trends. <ref name="raphael"/> . 
+
+=== Project Safe Neighborhoods ===. 
+[[Project Safe Neighborhoods]] (PSN) is a national strategy for reducing gun violence that builds on the strategies implemented in Operation Ceasefire and [[Project Exile]]. <ref>{{cite web |url=http://www.ojp.usdoj.gov/BJA/html/PSNFactS.pdf |title=Project Safe Neighborhoods - Fact Sheet |author=U.S. Department of Justice |date=May 13, 2003}}</ref> PSN was established in 2001, with support from the [[George W. Bush administration|Bush administration]], channelled through the [[United States Attorney|United States Attorney's Offices]] in the [[United States Department of Justice]]. The [[Federal government of the United States|Federal government]] has spent over [[United States dollar|US$]]1.5 billion since the program's inception on the hiring of [[prosecutor]]s, and providing assistance to state and local jurisdictions in support of training and community outreach efforts. <ref>{{cite web |url=http://www.psn.gov/about/faqs.html |title=Project Safe Neighborhoods: FAQs |publisher=[[U.S. Department of Justice]]}}</ref><ref name="NAS-ch9">{{cite book |title=Firearms and Violence: A Critical Review |year=2004 |publisher=[[National Academy of Science]] |author=Committee on Law and Justice |chapter=Chapter 9 |isbn=0309091241}}</ref> . 
+
+== Research limitations ==. 
+In the United States, [[research]] into firearms and violent crime is fraught with difficulties, associated with limited [[data]] on gun ownership and use,<ref name="azrael-2004"/> firearms markets, and aggregation of crime data. <ref name="NAS-exec"/> Research studies into gun violence have primarily taken one of two approaches: [[case-control]] studies and [[social ecology]]. <ref name="NAS-exec"/> Gun ownership is usually determined through [[statistical survey|surveys]], [[Proxy (statistics)|proxy]] variables, and sometimes with [[Mass production|production]] and [[import]] figures. In statistical analysis of homicides and other types of crime which are rare events, these data tend to have [[poisson distribution]]s, which also presents methodological challenges to researchers. With data aggregation, it is difficult to make inferences about individual behavior. <ref name="NAS-ch1">{{cite book |title=Firearms and Violence: A Critical Review |year=2004 |publisher=[[National Academy of Science]] |author=Committee on Law and Justice |chapter=Chapter 1 |url=http://www.nap.edu/books/0309091241/html/11.html |isbn=0309091241}}</ref> This problem, known as [[ecological fallacy]], is not always handled properly by researchers, leading some to jump to conclusions that their data do not necessarily support. <ref name="NAS-ch2">{{cite book |title=Firearms and Violence: A Critical Review |year=2004 |publisher=[[National Academy of Science]] |author=Committee on Law and Justice |chapter=Chapter 2 |url=http://www.nap.edu/books/0309091241/html/19.html |isbn=0309091241}}</ref> . 
+
+== See also ==. 
+* [[Crime in the United States]]
+* [[Gun politics in the United States]] . 
+
+== Notes and references ==. 
+{{reflist|2}} . 
+
+== External links ==. 
+* [http://www.ncjrs.gov/App/Topics/Topic.aspx?topicid=87 Gun violence] - National Criminal Justice Reference Service (NCJRS) . 
+
+{{good article}} . 
+
+{{DEFAULTSORT:Gun Violence In The United States}}
+[[Category:Crime in the United States]]
+[[Category:Gun politics in the United States]]

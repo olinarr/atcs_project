@@ -1,0 +1,76 @@
+'''''Information wants to be free''''' is a slogan of [[technology]] [[activist]]s  invoked against limiting access to information. According to criticism of intellectual property rights, the system of governmental control of exclusivity is in conflict with the development of a public domain of information. <ref name="R. Polk Wagner">{{citation | url = http://www.law.upenn.edu/fac/pwagner/wagner.control.pdf | title = Information wants to be free: intellectual property and the mythologies of control | type = essay | first = R Polk | last = Wagner | publisher = University of Pennsylvania | format = [[PDF]]}}. </ref> . 
+
+==History==. 
+The iconic phrase is attributed to [[Stewart Brand]]. <ref name="R. Polk Wagner"/> who, in the late [[1960s]], founded the [[Whole Earth Catalog]] and argued that technology could be liberating rather than oppressing. <ref name="Ronald J. Baker">{{citation | url = http://books.google.com/books?id=O5E_k2u7enkC&lpg=PA80&dq=information%20wants%20to%20be%20free&pg=PA80#v=onepage&q=information%20wants%20to%20be%20free&f=false | title = Mind over matter: why intellectual capital is the chief source of wealth | first = Ronald J | last = Baker | page = 80}}. </ref> The earliest recorded occurrence of the expression was at the first [[The Hackers Conference|Hackers' Conference]] in 1984. Brand told [[Steve Wozniak]]:<ref>{{citation | url = http://www.edge.org/documents/archive/edge338.html | journal = Edge | number = 338 | accessdate = 2011-04-23}}. </ref> . 
+
+{{quote |On the one hand information wants to be expensive, because it's so valuable.  The right information in the right place just changes your life.  On the other hand, information wants to be free, because the cost of getting it out is getting lower and lower all the time.  So you have these two fighting against each other. <ref name = "clarke">{{citation | first = Roger | last = Clarke | title = Information Wants to be Free | url = http://www.rogerclarke.com/II/IWtbF.html}}. </ref>}} . 
+
+Brand's conference remarks are transcribed in the ''[[Whole Earth Review]]'' (May 1985, p.&nbsp;49) and a later form appears in his ''The Media Lab: Inventing the Future at MIT'':<ref>{{citation | authorlink = Stewart Brand | first = Stewart | last = Brand | title = The Media Lab: Inventing the Future at MIT | publisher = Viking Penguin | year = 1987 | ISBN = 0-14-009701-5 | page = 202}}. </ref> . 
+
+{{quote |Information Wants To Be Free.  Information also wants to be expensive.  ...That tension will not go away. <ref name="clarke"/>}} . 
+
+According to historian Adrian Johns, the slogan expresses a view that had already been articulated in the mid 20th century by [[Norbert Wiener]], [[Michael Polanyi]] and [[Arnold Plant]], who advocated the free communication of scientific knowledge, and specifically criticized the [[patent]] system. <ref>{{citation | last = Johns | first = Adrian | title = Piracy. The Intellectual Property Wars from Gutenberg to Gates | publisher = The University of Chicago Press | year = 2009 | ISBN = 978-0-226-40118-8 | page = 429 | quote = We still live amid the legacies of these mid-century debates about science and society. We inherit their terms, and the culture of science that shapes our world is the one left to us by them. If we think ‘information wants to be free,’ then we voice a sentiment championed by Wiener, Polanyi and Plant}}</ref> . 
+
+At the 2008 [[RSA Conference]], Brand's original slogan was complemented by a [[pessimism|pessimistic]] expectation of [[Software bug|bug]] infestation in programming: . 
+
+{{quote |Information Wants To Be Free, and Code Wants To Be Wrong. <ref>{{citation | url = http://www.grc.com/sn/SN-141.htm | title = Security Now! | type = transcript | chapter = Episode #141 | publisher = GRC}}</ref>}} . 
+
+==Gratis versus Libre==. 
+{{Main|Gratis versus Libre}}
+The various forms of the original statement are ambiguous: the slogan can be used to argue the benefits of propertied information, of liberated/free/open information, or of both. It can be taken merely as an expression of an amoral fact of information-science: once information has passed to a new location outside of the source's control there is no way of ensuring it is not propagated further, and therefore will naturally tend towards a state where that information is widely distributed.  Much of its force is due to the [[pathetic fallacy|anthropomorphic metaphor]] that imputes desire to [[information]].  In 1990 [[Richard Stallman]] restated the concept but without the anthropomorphization: . 
+
+{{quote |I believe that all generally useful information should be free. By 'free' I am not referring to price, but rather to the freedom to copy the information and to adapt it to one's own uses... When information is generally useful, redistributing it makes humanity wealthier no matter who is distributing and no matter who is receiving. <ref name ="denning">{{citation | authorlink = Dorothy E. Denning | first = Dorothy E | last = Denning | contribution = Concerning Hackers Who Break into Computer Systems | title = Proceedings of the 13th National [[Computer Security]] Conference | place = Washington, DC | date = October, 1990 | pages = 653–64 | url = http://www.cs.georgetown.edu/~denning/hackers/Hackers-NCSC.txt | publisher = Georgetown}}. </ref>}} . 
+
+Stallman's reformulation incorporated a political stance into Brand's [[Value judgment|value-neutral]] observation of social trends.  . 
+
+==Cyberpunks==. 
+Brand's [[attribution]] of will to an abstract human construct ([[information]]) has been adopted within a branch of the [[Cyberpunk]] movement, whose members espouse a particular political ([[Anarchist]]) viewpoint. The construction of the statement takes its meaning beyond the simple judgmental observation, "Information '''should''' be free" by acknowledging that the internal force or [[entelechy]] of [[information]] and [[knowledge]] makes it essentially incompatible with notions of [[proprietary software]], [[copyright]]s, [[patent]]s, [[subscription service]]s, etc. Information is dynamic, ever-growing and evolving and cannot be contained within (any) [[ideological]] structure.{{Citation needed|date=July 2011}} . 
+
+According to this philosophy, [[Hacker (computer security)|hackers]], [[Software cracking|cracker]]s, and [[phreaker]]s are liberators of information which is being held [[hostage]] by agents demanding money for its release. Other participants in this network include [[Cypherpunks]] who educate people to use [[public-key cryptography]] to protect the privacy of their messages from corporate or governmental snooping and [[programmer]]s who write free software and [[open source]] [[code]]. Still others create [[Free-Net]]s allowing users to gain access to computer resources for which they would otherwise need an account. They might also break copyright law etc. by swapping music, movies, or other copyrighted materials over the [[Internet]].{{Citation needed|date=July 2011}} . 
+
+[[Bradley Manning]] is alleged to have said "Information should be free" to [[Adrian Lamo]] when explaining a rationale for US government documents to be released to [[WikiLeaks]].  The narrative goes on with Manning wondering if he is a "'hacker', 'cracker', 'hacktivist', 'leaker' or what". <ref>{{cite web |url= http://nymag.com/news/features/bradley-manning-2011-7/index6.html |title=How Bradley Manning Became One of the Most Unusual Revolutionaries in American History |author=[[Steve Fishman]] |work=[[New York Magazine]] |date=3 July 2011 |accessdate=4 July 2011}}</ref> . 
+
+==Literary usage==. 
+In the [[Ken Macleod|Fall Revolution]] series of science-fiction books, anarchist sci-fi author [[Ken Macleod]] riffs and puns on the expression by writing about entities composed of information actually "wanting", as in desiring, freedom and the scheming of several human characters with differing political and ideological agenda, to facilitate or disrupt these entities' quest for freedom.  . 
+
+In the cyberpunk world of [[Technological singularity|post-singularity]] transhuman culture by [[Charles Stross]], described in his books like ''[[Accelerando (novel)|Accelerando]]'' and ''[[Singularity Sky]]'', the wish of information to be free is a law of nature. <ref name="accelerando">{{citation | url = http://trashotron.com/agony/reviews/2005/stross-accelerando.htm | title = Stross Accelerando | publisher = Trashotron | accessdate = 2011-04-23 | type = review | year = 2005}}. </ref><ref name= "Singularity Sky">{{citation | last = Stross | first = Charles | date = 2010-04-01 | url = http://heliologue.com/2010/04/01/singularity-sky/ | title = Singularity Sky | A Modest Construct | publisher = Heliologue | accessdate = 2011-04-23}}. </ref> . 
+
+==See also==. 
+{{Refbegin|2}}
+*[[2600: The Hacker Quarterly]]
+*[[Crypto-anarchism]]
+*[[Cypherpunk]]
+*[[Free content]]
+*[[Free culture movement]]
+*[[Freedom of information]]
+*[[Free Haven Project]]
+*[[Freenet]]
+*[[Free software]]
+*[[Hacktivism]]
+*[[Hacktivismo]]
+*[[Horror vacui (physics)]]
+*[[Information activist]]
+*[[Internet censorship]]
+*[[Internet privacy]]
+*[[Netsukuku]]
+*[[Openness]]
+*[[Portable Tor]]
+*[[Streisand effect]]
+*[[Tor (anonymity network)]]
+*[[Tor-ramdisk]]
+*[[Transparency (humanities)|Transparency]]
+{{Refend}} . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+*[http://www.fiu.edu/~mizrachs/cybpol.html Does the cyberpunk movement represent a political resistance?]
+*[http://www.anu.edu.au/people/Roger.Clarke/II/IWtbF.html Roger Clarke]
+{{Use dmy dates|date=July 2011}} . 
+
+{{DEFAULTSORT:Information Wants To Be Free}}
+[[Category:English phrases]]
+[[Category:Free content]]
+[[Category:Open content]]
+[[Category:Adages]]

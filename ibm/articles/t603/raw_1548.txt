@@ -1,0 +1,370 @@
+The '''Committee on Appropriations''' is a [[United States House of Representatives committees|committee]] of the [[United States House of Representatives]].  It is in charge of setting the specific [[expenditure]]s of [[money]] by the [[government]] of the [[United States]].  As such, it is one of the most powerful of the committees, and its members are seen as influential.  . 
+
+==History ==. 
+The [[United States Constitution|constitutional]] basis for the Appropriations Committee comes from [[Article One of the United States Constitution|Article one]], Section nine, Clause seven of the U.S. Constitution, which states that:
+:No money shall be drawn from the treasury, but in consequence of appropriations made by law; and a regular statement and account of receipts and expenditures of all public money shall be published from time to time.  . 
+
+This clearly delegated the power of appropriating money to Congress, but was vague beyond that.  Originally, the power of appropriating was taken by the [[U.S. House Committee on Ways and Means|Committee on Ways and Means]], but the [[United States Civil War]] placed a large burden on the Congress, and at the end of that conflict, a reorganization occurred.  . 
+
+The Committee was created on December 11, 1865, when the House separated the tasks of the Committee on Ways and Means into three parts. <ref name="about">{{cite web|url=http://appropriations.house.gov/About/|accessdate=25 February 2012|title=About the Committee|publisher=house.gov}}</ref> The passage of legislation affecting [[tax]]es remained with Ways and Means.  The power to regulate [[bank]]ing was transferred to the [[U.S. House Committee on Banking and Commerce|Committee on Banking and Commerce]].  The power to appropriate money—to control the federal pursestrings—was given to the newly-created Appropriations Committee.  . 
+
+At the time of creation the membership of the committee stood at nine; it currently has 50 members. <ref name="about" />  The power of the committee has only grown since its founding; many of its members and chairmen have gone on to even higher posts.  For example, four of them--[[Samuel Randall]] ([[Democratic Party of the United States|D]]-[[Pennsylvania|PA]]), [[Joseph Gurney Cannon|Joseph Cannon]] ([[Republican Party of the United States|R]]-[[Illinois|IL]]), [[Joseph Byrns]] (D-[[Tennessee|TN]]) and [[Nancy Pelosi]] (D-[[California|CA]])--have gone on to become the [[Speaker of the United States House of Representatives|Speaker of the House]], and one, [[James Garfield]], has gone on to become [[President of the United States|President]].   . 
+
+The root of the Committee's power is its ability to disburse funds, and thus as the federal [[budget]] has risen, so has the power of the Appropriations Committee.  The first budget of the U.S., in 1789, was for [[United States dollar|$]]639,000—a hefty sum for the time, but a much smaller amount relative to the [[Economics|economy]] than the federal budget would later become.  By the time the Appropriations committee was founded, the Civil War and [[inflation]] had raised expenditures to roughly $1.3 billion, increasing the clout of Appropriations.  Expenditures continued to follow this pattern—rising sharply during [[war]]s before settling down—for over 100 years.  . 
+
+Another important development for Appropriations occurred in the presidency of [[Warren G. Harding]].  Harding was the first President to deliver a budget proposal to Congress (see [[United States budget process]]).   . 
+
+In the early 1970s, the Appropriations committee faced a crisis.  President [[Richard Nixon]] began "impounding" funds, not allowing them to be spent, even when Congress had specifically appropriated money for a cause.  This was essentially a [[line-item veto]].  Numerous court cases were filed by outraged [[interest group]]s and members of Congress.  Eventually, the sense that Congress needed to regain control of the budget process led to the adoption of the [[Congressional Budget and Impoundment Control Act of 1974]], which finalized the budget process in its current form.  . 
+
+==Role ==. 
+The Appropriations committee is widely recognized by [[political science|political scientists]] as one of the "power committees," since it holds the power of the purse.  Openings on the Appropriations committee are often hotly demanded, and are doled out as rewards.  It is one of the exclusive committees of the House, meaning its members typically sit on no other committee. Under House Rules, an exception to this is that five Members of the Appropriations Committee must serve on the House Budget Committee—three for the Majority and two for the Minority. Much of the power of the committee comes from the inherent utility of controlling spending.  Its subcommittee chairmen are often called "Cardinals" because of the power they wield over the budget.  . 
+
+Since Congress is [[election|elected]] from single-member districts, how well the member secures rewards for his or her district is one of the best indicators as to whether or not he or she will be reelected.  One way to achieve popularity in one's district is to bring it federal spending, thus creating jobs and raising economic performance.  This type of spending is often derided by critics as [[pork barrel spending]], while those who engage in it generally defend it as necessary and appropriate expenditure of government funds.  The members of the Appropriations committee can do this better than most, and as such the appointment is regarded as a plus. This help can also be directed towards other members, increasing the stature of committee members in the House and helping them gain support for leadership positions or other honors.  . 
+
+The committee tends to be less partisan than other committees or the House overall. While the minority party will offer amendments during committee consideration, appropriations bills often get significant bipartisan support, both in committee and on the House floor. This atmosphere can be attributed to the fact that all committee members have a compelling interest in ensuring legislation will contain money for their own districts.  Conversely, because members of this committee can easily steer money to their home districts, it is considered very difficult to unseat a member of this committee at an election—especially if he or she is a "Cardinal." . 
+
+In addition, the ability to appropriate money is useful to [[lobbyist]]s and [[interest group]]s; as such, being on Appropriations makes it easier to collect campaign contributions (see [[campaign finance]]).  . 
+
+==Members, 112th Congress==. 
+{| class=wikitable
+! Majority
+! Minority
+. |-
+| {{party shading/Republican}} valign=top |
+* [[Hal Rogers]], Kentucky, ''Chairman''
+* [[C.W. Bill Young]], Florida
+* [[Jerry Lewis (California politician)|Jerry Lewis]], California
+* [[Frank Wolf]], Virginia
+* [[Jack Kingston]], Georgia
+* [[Rodney Frelinghuysen]], New Jersey
+* [[Tom Latham]], Iowa
+* [[Robert Aderholt]], Alabama
+* [[Jo Ann Emerson]], Missouri
+* [[Kay Granger]], Texas
+* [[Mike Simpson]], Idaho
+* [[John Culberson]], Texas
+* [[Ander Crenshaw]], Florida
+* [[Denny Rehberg]], Montana
+* [[John Carter (Texas)|John Carter]], Texas
+* [[Rodney Alexander]], Louisiana
+* [[Ken Calvert]], California
+* [[Jo Bonner]], Alabama
+* [[Steve LaTourette]], Ohio
+* [[Tom Cole]], Oklahoma
+* [[Jeff Flake]], Arizona
+* [[Mario Diaz-Balart]], Florida
+* [[Charlie Dent]], Pennsylvania
+* [[Steve Austria]], Ohio
+* [[Cynthia Lummis]], Wyoming
+* [[Tom Graves (politician)|Tom Graves]], Georgia 
+* [[Kevin Yoder]], Kansas
+* [[Steve Womack]], Arkansas
+* [[Alan Nunnelee]], Mississippi
+| {{party shading/Democratic}} valign=top |
+* [[Norman D. Dicks]], Washington, ''Ranking Member''
+* [[Marcy Kaptur]], Ohio
+* [[Pete Visclosky]], Indiana
+* [[Nita Lowey]], New York
+* [[José Enrique Serrano|José Serrano]], New York
+* [[Rosa DeLauro]], Connecticut
+* [[Jim Moran]], Virginia
+* [[John Olver]], Massachusetts
+* [[Ed Pastor]], Arizona
+* [[David Price (U.S. politician)|David Price]], North Carolina
+* [[Maurice Hinchey]], New York
+* [[Lucille Roybal-Allard]], California
+* [[Sam Farr]], California
+* [[Jesse Jackson, Jr.]], Illinois
+* [[Chaka Fattah]], Pennsylvania
+* [[Steve Rothman]], New Jersey
+* [[Sanford Bishop]], Georgia
+* [[Barbara Lee]], California
+* [[Adam Schiff]], California
+* [[Mike Honda]], California
+* [[Betty McCollum]], Minnesota
+|} . 
+
+Sources:
+* Resolutions electing Republican members ({{USBill|112|HRes|6}})
+* Resolutions electing Democratic members ({{USBill|112|HRes|7}}, {{USBill|112|HRes|31}}) . 
+
+===Committee reorganization during the 110th Congress===. 
+In 2007, the number of subcommittees was expanded to 12 in 2007 at the start of the [[110th United States Congress|110th Congress]].  This reorganization, developed by Chairman David Obey and his Senate counterpart, Robert Byrd, for the first time provided for common subcommittee structures between both houses, a move that both chairmen hope will allow Congress to "complete action on each of the government funding on time for the first time since 1994."<ref>http://appropriations.house.gov/News/pr_070104.shtml Senate, House Appropriations Set Subcommittee Plans for New Congress</ref> . 
+
+The new structure adds a new Subcommittee on Financial Services and General Government, and transfers jurisdiction over Legislative Branch appropriations from the full committee to the newly reinstated Legislative Branch Subcommittee, which last existed during the [[108th United States Congress|108th Congress]].  . 
+
+==Subcommittees==. 
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member
+. |-
+| [[United States House Appropriations Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies|Agriculture, Rural Development, Food and Drug Administration, and Related Agencies]]
+| [[Jack Kingston]], (R-GA)
+| [[Sam Farr]] (D-CA)
+. |-
+| [[United States House Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies|Commerce, Justice, Science, and Related Agencies]]
+| [[Frank Wolf]] (R-VA)
+| [[Chaka Fattah]] (D-PA)
+. |-
+| [[United States House Appropriations Subcommittee on Defense|Defense]]
+| [[C.W. Bill Young]] (R-FL)
+| [[Norm Dicks]] (D-WA)<ref>http://thehill.com/homenews/house/134037-rep-dicks-gets-to-keep-two-top-slots-on-spending-panel</ref>
+. |-
+| [[United States House Appropriations Subcommittee on Energy and Water Development|Energy and Water Development]]
+| [[Rodney Frelinghuysen]] (R-NJ)
+| [[Pete Visclosky]] (D-IN)
+. |-
+| [[United States House Appropriations Subcommittee on Financial Services and General Government|Financial Services and General Government]]
+| [[Jo Ann Emerson]] (R-MO)
+| [[José Enrique Serrano|José Serrano]] (D-NY)
+. |-
+| [[United States House Appropriations Subcommittee on Homeland Security|Homeland Security]]
+| [[Robert Aderholt]] (R-AL)
+| [[David Price (American politician)|David Price]] (D-NC)
+. |-
+| [[United States House Appropriations Subcommittee on Interior, Environment, and Related Agencies|Interior, Environment, and Related Agencies]]
+| [[Mike Simpson]] (R-ID)
+| [[Jim Moran]] (D-VA)
+. |-
+| [[United States House Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies|Labor, Health and Human Services, Education, and Related Agencies]]
+| [[Dennis Rehberg]] (R-MT)
+| [[Rosa DeLauro]] (D-CT)
+. |-
+| [[United States House Appropriations Subcommittee on the Legislative Branch|Legislative Branch]]
+| [[Ander Crenshaw]] (R-FL)
+| [[Mike Honda]] (D-CA)
+. |-
+| [[United States House Appropriations Subcommittee on Military Construction, Veterans Affairs, and Related Agencies|Military Construction, Veterans Affairs, and Related Agencies]]
+| [[John Culberson]] (R-TX)
+| [[Sanford Bishop]] (D-GA)
+. |-
+| [[United States House Appropriations Subcommittee on State, Foreign Operations, and Related Programs|State, Foreign Operations, and Related Programs]]
+| [[Kay Granger]] (R-TX)
+| [[Nita Lowey]] (D-NY)
+. |-
+| [[United States House Appropriations Subcommittee on Transportation, Housing and Urban Development, and Related Agencies|Transportation, Housing and Urban Development, and Related Agencies]]
+| [[Tom Latham]] (R-IA)
+| [[John Olver]] (D-MA)
+. |-
+|} . 
+
+==Chairmen, 1865-present==. 
+{| class=wikitable
+! colspan=2 | Chairman
+! Party
+! State
+! Years
+{{American politics/party colours/Republican/row}}
+| [[Thaddeus Stevens]]
+| [[United States Republican Party|Republican]]
+| [[Pennsylvania]]
+| 1865–1868
+{{American politics/party colours/Republican/row}}
+| [[Elihu B. Washburne]]
+| Republican
+| [[Illinois]]
+| 1868–1869
+{{American politics/party colours/Republican/row}}
+| [[Henry L. Dawes]]
+| Republican
+| [[Massachusetts]]
+| 1869–1871
+{{American politics/party colours/Republican/row}}
+| [[James A. Garfield]]
+| Republican
+| [[Ohio]]
+| 1871–1875
+{{American politics/party colours/Democratic/row}}
+| [[Samuel J. Randall]]
+| [[United States Democratic Party|Democratic]]
+| [[Pennsylvania]]
+| 1875–1876
+{{American politics/party colours/Democratic/row}}
+| [[William S. Holman]]
+| Democratic
+| [[Indiana]]
+| 1876–1877
+{{American politics/party colours/Democratic/row}}
+| [[John D. C. Atkins]]
+| Democratic
+| [[Tennessee]]
+| 1877–1881
+{{American politics/party colours/Republican/row}}
+| [[Frank Hiscock]]
+| Republican
+| [[New York]]
+| 1881–1883
+{{American politics/party colours/Democratic/row}}
+| [[Samuel J. Randall]]
+| Democratic
+| [[Pennsylvania]]
+| 1883–1889
+{{American politics/party colours/Republican/row}}
+| [[Joseph G. Cannon]]
+| Republican
+| [[Illinois]]
+| 1889–1891
+{{American politics/party colours/Democratic/row}}
+| [[William S. Holman]]
+| Democratic
+| [[Indiana]]
+| 1891–1893
+{{American politics/party colours/Democratic/row}}
+| [[Joseph D. Sayers]]
+| Democratic
+| [[Texas]]
+| 1893–1895
+{{American politics/party colours/Republican/row}}
+| [[Joseph G. Cannon]]
+| Republican
+| [[Illinois]]
+| 1895–1903
+{{American politics/party colours/Republican/row}}
+| [[James A. Hemenway]]
+| Republican
+| [[Indiana]]
+| 1903–1905
+{{American politics/party colours/Republican/row}}
+| [[James Albertus Tawney]]
+| Republican
+| [[Minnesota]]
+| 1905–1911
+{{American politics/party colours/Democratic/row}}
+| [[John J. Fitzgerald]]
+| Democratic
+| [[New York]]
+| 1911–1917
+{{American politics/party colours/Democratic/row}}
+| [[J. Swagar Sherley]]
+| Democratic
+| [[Kentucky]]
+| 1917–1919
+{{American politics/party colours/Republican/row}}
+| [[James W. Good]]
+| Republican
+| [[Iowa]]
+| 1919–1921
+{{American politics/party colours/Republican/row}}
+| [[Martin B. Madden]]
+| Republican
+| [[Illinois]]
+| 1921–1928
+{{American politics/party colours/Republican/row}}
+| [[Daniel R. Anthony, Jr.]]
+| Republican
+| [[Kansas]]
+| 1928–1929
+{{American politics/party colours/Republican/row}}
+| [[William R. Wood (Indiana)|William R. Wood]]
+| Republican
+| [[Indiana]]
+| 1929–1931
+{{American politics/party colours/Democratic/row}}
+| [[Joseph W. Byrns]]
+| Democratic
+| [[Tennessee]]
+| 1931–1933
+{{American politics/party colours/Democratic/row}}
+| [[James P. Buchanan]]
+| Democratic
+| [[Texas]]
+| 1933–1937
+{{American politics/party colours/Democratic/row}}
+| [[Edward T. Taylor]]
+| Democratic
+| [[Colorado]]
+| 1937–1941
+{{American politics/party colours/Democratic/row}}
+| [[Clarence Cannon]]
+| Democratic
+| [[Missouri]]
+| 1941–1947
+{{American politics/party colours/Republican/row}}
+| [[John Taber]]
+| Republican
+| [[New York]]
+| 1947–1949
+{{American politics/party colours/Democratic/row}}
+| [[Clarence Cannon]]
+| Democratic
+| [[Missouri]]
+| 1949–1953
+{{American politics/party colours/Republican/row}}
+| [[John Taber]]
+| Republican
+| [[New York]]
+| 1953–1955
+{{American politics/party colours/Democratic/row}}
+| [[Clarence Cannon]]
+| Democratic
+| [[Missouri]]
+| 1955–1964
+{{American politics/party colours/Democratic/row}}
+| [[George H. Mahon]]
+| Democratic
+| [[Texas]]
+| 1964–1979
+{{American politics/party colours/Democratic/row}}
+| [[Jamie L. Whitten]]
+| Democratic
+| [[Mississippi]]
+| 1979–1993
+{{American politics/party colours/Democratic/row}}
+| [[William H. Natcher]]
+| Democratic
+| [[Kentucky]]
+| 1993–1994
+{{American politics/party colours/Democratic/row}}
+| [[David R. Obey]]
+| Democratic
+| [[Wisconsin]]
+| 1994–1995
+{{American politics/party colours/Republican/row}}
+| [[Bob Livingston]]
+| Republican
+| [[Louisiana]]
+| 1995–1999
+{{American politics/party colours/Republican/row}}
+| [[C.W. Bill Young]]
+| Republican
+| [[Florida]]
+| 1999–2005
+{{American politics/party colours/Republican/row}}
+| [[Jerry Lewis (California politician)|Jerry Lewis]]
+| Republican
+| [[California]]
+| 2005–2007
+{{American politics/party colours/Democratic/row}}
+| [[David R. Obey]]
+| Democratic
+| [[Wisconsin]]
+| 2007–2011
+{{American politics/party colours/Republican/row}}
+| [[Hal Rogers]]
+| Republican
+| [[Kentucky]]
+| 2011–present
+|} . 
+
+==See also==. 
+* [[United States Senate Committee on Appropriations]] . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+* [http://appropriations.house.gov Committee on Appropriations], U.S. House of Representatives
+* [http://democrats.appropriations.house.gov/images/stories/pdf/House_Approps_Concise_History.pdf A Concise History of the House of Representatives Committee on Appropriations] (Dec. 2010)
+* [http://assets.opencrs.com/rpts/RL31572_20110308.pdf Appropriations Subcommittee Structure: History of Changes from 1920 to 2011] by [[Congressional Research Service]]. 
+* [http://www.researchamerica.org/ Research!America]  . 
+
+{{USCongressCommittees}}
+{{House Appropriations Chairmen}} . 
+
+{{DEFAULTSORT:United States House Committee On Appropriations}}
+[[Category:United States federal budgets|House Committee on Appropriations]]
+[[Category:Committees of the United States House of Representatives|Appropriations]]
+[[Category:United States federal appropriations legislation]]
+[[Category:1865 establishments in the United States]]
+[[Category:Organizations established in 1865]]

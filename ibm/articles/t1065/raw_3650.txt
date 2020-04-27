@@ -1,0 +1,130 @@
+{{Cleanup|date=September 2007}} . 
+
+'''Democracy promotion''', which can also be referred to as '''democracy assistance''', or '''democracy building''', is a strand of foreign policy adopted by governments and international organizations that seek to support the spread of [[democracy]] as a [[political system]] around the world.  . 
+
+==Introduction==. 
+The precise definition of democracy promotion has been debated for more than twenty-five years. The multiplicity of terms used is a manifestation of the plurality of opinions and approaches taken by international actors, be they governments, [[NGO]]s or other third parties. For example, the term 'promotion' itself can be seen by some as too intrusive, or implying outside interference, whilst 'support' can be seen by some as more benign but, by others, as insufficiently assertive. These days the differences tend to divide into two main camps: those who see it as a political process on the one hand and those who see it as a developmental process on the other (see [[international relations]] and [[development aid]] for context). <ref>Thomas Carothers, 'Democracy Assistance: Political vs. Developmental', in Journal of Democracy vol.20, no.1, January 2009</ref> . 
+
+{{Quote box
+ |title =
+ |quote = This basic division between the political and developmental approaches has existed inchoately in the field of democracy support for many years. It has come into sharper relief during this decade, as democracy-aid providers face a world increasingly populated by countries not conforming
+to clear or coherent political transitional paths. [...] Some adherents of the developmental approach criticize the political approach as too easily turning confrontational vis-à-vis “host” governments and producing unhelpful counterreactions. Some adherents of the political approach, meanwhile, fault the developmental approach for being too vague and unassertive in a world where many leaders have learned to play a reform game with the international community, absorbing significant amounts of external political aid while avoiding genuine democratization. 
+ |source = [[Thomas Carothers]], 'Democracy Assistance: Political vs. Developmental', in Journal of Democracy vol.20, no.1, January 2009 pp.5–6
+ |align =
+ |width =
+ |border =
+ |fontsize =
+ |bgcolor =
+ |style =
+ |title_bg =
+ |title_fnt =
+ |tstyle =
+ |qalign =
+ |qstyle =
+ |quoted = true
+ |salign =
+ |sstyle =
+}} . 
+
+At least part of the problem lies in the absence of a consensus on what [[democracy]] constitutes. Indeed, the late Professor W.B. Gallie pointed to the impossibility of finding a firm solution to such a question, by including democracy in a list of '[[essentially contested concepts]]'. <ref>Gallie (1956a), passim. Kekes (1977, p.71)</ref> To date, the disagreement over definitions has seen some actors focus on supporting technical systems of democratic governance (elections, government structures and the like), while others take the bottom-up approach of promoting citizen participation and building strong civil and political society to prepare the ground on which systems of government can then be planted.  . 
+
+Much experience has been gained in the last twenty years. After the fall of the [[Iron Curtain]] in 1989, there was a wave of democratic transitions in former [[communist]] states, particularly in Central and Eastern Europe. According to [[Freedom House]], the number of democracies has increased from 41 of 150 in 1974 existing states to 123 of 192 states in 2006<ref name=ODI>Lise Rakner, Alina Rocha Menocal and Verena Fritz (2008) http://www.odi.org.uk/resources/details.asp?id=1344&title=international-democracy-assistance-lessons-learned-can-donors-better-support-democratic-processes Assessing international democracy assistance: Key lessons and challenges] London: [[Overseas Development Institute]]</ref> (for Freedom House's most recent [http://www.freedomhouse.org/template.cfm?page=363&year=2007 data]). However, the pace of transition has slowed considerably since the beginning of the twenty-first century, which has encouraged some to ponder the question of whether democracy, far from advancing, may actually be under threat. <ref>Azar Gat, The Return of Authoritarian Great Powers, in Foreign Affairs, July–August 2007, [http://www.foreignaffairs.com/articles/62644/azar-gat/the-return-of-authoritarian-great-powers]</ref> In recent years, scholars have been pointing to a so-called [[democratic deficit]] in countries where democratic systems already exist, including Britain, the USA and the European Union. <ref>Saskia Sassen, Globalisation, the State and Democratic Deficit, Open Democracy, 18 July 2007, [http://www.opendemocracy.net/article/globalisation_liberal_state_democratic_deficit]; Patrice de Beer, France and Europe: the Democratic Deficit Exposed, Open Democracy, 4 June 2006, [http://www.opendemocracy.net/democracy-europe_constitution/democractic_deficit_3610.jsp]</ref> . 
+
+The perceived challenge currently facing democracy around the world, both in countries where it is already at the core of the system of governance and in those where it is not, is encouraging academics and practitioners alike to re-evaluate what it means to promote, support or assist democracy in the post-[[Cold War]] situation. <ref>Christopher Hobson & Milja Kurki, Democracy and democracy-support: a new era, Open Democracy, 20 March 2009, [http://www.opendemocracy.net/article/idea/democracy-and-democracy-support-a-new-era]</ref> . 
+
+Among the reasons for supporting democracy include the belief that countries with a democratic system of governance are less likely to go to war, are likely to be economically better off and socially more harmonious. <ref>see Peter Burnell, From Evaluating Democracy Assistance to Appraising Democracy Promotion, Political Studies Association, Political Studies 2008 VOL 56</ref> . 
+
+==Key actors==. 
+Whilst support for human rights and the provision of disaster relief programmes have been around for many years, the trend of including support for democracy in [[international aid]] programmes is more recent. The United States Agency for International Development became the first major bilateral donor to include democracy as part of its portfolio when it launched its Democracy Initiative in 1990. <ref>[http://www.usaid.gov/policy/ads/200/demgov/demogov.pdf USAID Policy: Democracy and Governance, November 1991]</ref> . 
+
+Some of the most important government bodies active in this field are the [[United States Agency for International Development]] ([[USAID]])[http://www.usaid.gov/], the UK's [[Department for International Development]](DFID)[http://www.dfid.gov.uk/] and the [[Swedish International Development Cooperation Agency]] (SIDA)[http://www.sida.se/English/]. The [[European Commission]] also has a number of instruments that support democratic governance beyond its borders, at the core of which lies the [[European Instrument for Democracy and Human Rights (EIDHR)]], administered by the [[EUROPEAID]] Directorate General [http://ec.europa.eu/europeaid/index_en.htm]. The [[United Nations Development Program]] has an extensive program of work on Democratic Governance. <ref>[http://www.beta.undp.org/undp/en/home/ourwork/democraticgovernance/overview.html Democratic Governance]</ref> . 
+
+The debate over the existence of a demonstrable link between democracy and development remains inconclusive: in other words, does democracy encourage the [[Economic development|economic]] or [[social development]] of a country, or vice versa?<ref>Democracy in Development: How can both processes mutually reinforce each other?, European Centre for Development Policy Management, October 2009</ref> . 
+
+This difference in focus can be seen in the reasons given by the government bodies mentioned above for their support for democracy abroad. Consider first the USAID approach: . 
+
+{{Quote box
+ |title =
+ |quote = The process of governing is most legitimate when it is infused with democratic principles such as transparency, pluralism, citizen involvement in decision-making, representation, and accountability. Citizens lose confidence in a government that is unable to deliver basic service; therefore, the degree to which a government is able to carry out its functions at any level is often a key determinant of a country’s ability to sustain democratic reform. USAID is particularly concerned with democratic governance—that is, the political dimensions of the public management process. 
+ |source = USAID, http://www.usaid.gov/our_work/democracy_and_governance/technical_areas/governance/index.html
+ |align =
+ |width =
+ |border =
+ |fontsize =
+ |bgcolor =
+ |style =
+ |title_bg =
+ |title_fnt =
+ |tstyle =
+ |qalign =
+ |qstyle =
+ |quoted = true
+ |salign =
+ |sstyle =
+}} . 
+
+The UK's DFID is readier to assert the link between democracy and development. In a report published under the title 'Making Democracy Work for the Elimination of Poverty', DFID asserts that 'democracy gives poor people an opportunity to improve their lot.'<ref>DFID issues paper, Making Democracy Work for the Elimination of Poverty, [http://www.dfid.gov.uk/Documents/publications/election.pdf]</ref> Similarly, Swedish SIDA states that, 'poverty is not just about a lack of food, water or a roof over your head. Being poor also implies suffering from a lack of power and choice.'<ref>SIDA, Democracy, human rights and equality used to combat poverty, 18 June 2009, [http://www.sida.se/English/About-us/How-we-operate/Important-Areas-of-Development/Democracy-human-rights-and-equality/]</ref> . 
+
+This work is supported by numerous national and international [[civil society]] organisations (CSOs), NGOs and [[think tanks]], either on the ground in countries receiving donor aid, or in national capitals lobbying for more support to be given for democracy promotion. Some of the most prolific American CSOs include the [[National Endowment for Democracy]], the [[Carnegie Endowment for International Peace]], the [[National Democratic Institute for International Affairs]], the [[International Republican Institute]] and [[Freedom House]]. The [[Westminster Foundation for Democracy]], the [[Netherlands Institute for Multiparty Democracy]] and long-established German political foundations such as the [[Heinrich Böll Foundation]] and the [[Konrad Adenauer Foundation]], among others, are building capacity in Europe. A number of such CSOs co-ordinate their activities at a [[EU]] level under umbrella organisations such as the European Network of Political Foundations (ENoP) ([http://www.european-network-of-political-foundations.eu/cms/index.php/eng]) and the European Partnership for Democracy (EPD) ([http://www.eupd.eu]) . 
+
+===Key features of democracy promotion===. 
+In a report commissioned by Irish Aid, Researchers at the [[Overseas Development Institute]] have studied five areas of democracy promotion and identified eight key lessons learned and challenges that remained. <ref name=ODI/> . 
+
+The five areas consisted of:
+# elections and electoral processes
+# political parties
+# judicial reform
+# civil society
+# the media . 
+
+The eight key lessons were:<ref name=ODI/>
+# The impetus for democratization must come from within – while external factors play an important role, the [[Iraq War of 2003|Iraq war]] is cited as an example as to why democracy cannot be imposed from the outside
+# Donors should not rely on an idealized blueprint of democracy – promotion should be done with sensitivity to the context, rather than dogmatically sticking to a model not even mature northern democracies can be said to have fully achieved
+# Donors should do more to strengthen accountability – despite great efforts, strong man politics dominates many fledgeling democracies and more needs to be done to strengthen and enforce laws and independent institutions governing executive powers and duties
+# Donors should work with actors outside the donor ‘comfort zone’ – more should be done to engaged marginalised groups (e.g. rural communities) or groups considered too militant or political, such as trade unions, faith based groups, etc. 
+# Importance of balancing different donor goals and improving policy coherence – democracy promotion is but one part of the ‘[[good governance]]’ and [[International development|development]] agenda, as well as influenced by foreign policy goals, and these may not all be mutually enforcing (Rwanda is cited as an example where the media was promoted but then played a crucial role in the [[Rwanda genocide|genocide]])
+# Donors should come to terms with the contradictions between the long-term nature of democracy-building and the need for results
+# The sustainability of many interventions needs to be addressed
+# More meso- and macro-level evaluations of democratization assistance are needed – broad assessments of experience to date is needed and greater efforts should be made to share best practices.  . 
+
+==See also==. 
+*[[American democracy promotion in the Middle East and North Africa]] . 
+
+==Further reading==. 
+* {{cite journal|last1=Bollen|first1=Kenneth|authorlink1=Kenneth Bollen|last2=Paxton|first2=Pamela|last3=Morishima|first3=Rumi|year=2005|title=Assessing international evaluations: An example from USAID’s Democracy&nbsp;and&nbsp;Governance Programs|journal=American Journal of Evaluation|volume=26|number=2|pages=189–203|ref=harv|url=http://www.irss.unc.edu/odum/content/pdf/Bollen_Paxton_Morishima2005AJE.pdf|format=pdf|doi=10.1177/1098214005275640|month=June
+|id=Evaluation performed on behalf of the [[Social Science Research Council]] (SSRC), at the request of and with funding from the Strategic and Operational Research Agenda (SORA) of [[USAID]] (Office of Democracy and Governance in the Bureau for Democracy, Conflict, and Humanitarian Assistance), according to the {{harvtxt|National Research Council|2008|p=28}}}} . 
+
+* [[Thomas Carothers]], ''Critical Mission: Essays on Democracy Promotion'', Washington, DC: Carnegie Endowment for International Peace, 2004, ISBN 0-87003-209-7 . 
+
+* Nicolas Guilhot, ''The Democracy Makers: Human Rights and International Order'', New York: Columbia University Press, 2005, ISBN 0-231-13124-0 . 
+
+* {{cite book
+|first=Committee on Evaluation of USAID Democracy&nbsp;Assistance Programs
+|last=National Research Council
+|authorlink=United_States_National_Research_Council
+|title=Improving democracy&nbsp;assistance: Building knowledge through evaluations and research|editor-first=Jack&nbsp;A|editor-last=Goldstone|editor-link=Jack A. Goldstone|pages=xvi+336|dimensions=6 x 9 inches|year=2008|isbn=0-309-11736-4, ISBN 978-0-309-11736-4|url=http://www.nap.edu/catalog/12164.html|id=[http://download.nap.edu/cart/download.cgi?&record_id=12164&free=1  Free PDF-formatted complete  report]|ref=harv }} . 
+
+* {{cite book|title=Freedom from oppression: Government communication on Swedish democracy&nbsp;support |month=26 September|year=2008|first=Ministry for Foreign Affairs|last=Sweden|url=http://www.sweden.gov.se/download/5013cca7.pdf?major=1&minor=116271&cn=attachmentPublDuplicator_0_attachment |format=pdf|isbn=978-91-7496-395-3 |publisher=Department for Development Policy and the Press and Communication Department, Ministry for Foreign Affairs |ref=harv}} . 
+
+* {{cite book|title=Change for freedom: Policy for democratic development and human rights in Swedish development cooperation, 2010-2014|month=21 January|year=2010|first=Ministry for Foreign Affairs|last=Sweden|url=http://www.sweden.gov.se/download/14dceded.pdf?major=1&minor=143233&cn=attachmentPublDuplicator_0_attachment|format=pdf|isbn=978 91-7496-422-6|publisher=Department for Development Policy and the Press and Communication Department, Ministry for Foreign Affairs|ref=harv}} . 
+
+* {{cite book|last=Thiel|first=Rainer|chapter= U.S. democracy&nbsp;assistance in the Polish liberalization process 1980-1989 (Chapter 6)|title=Nested games of external democracy&nbsp;promotion: The United&nbsp;States and the Polish liberalization 1980-1989|year=2010|url=http://books.google.com/books?id=AbmPRK8hK3wC&q=Kahn#v=snippet&q=Kahn&f=false|pages=179–235, especially 204 and 231|isbn=978-3-531-17769-4|publisher=VS&nbsp;Verlag|ref=harv}} . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+* [http://opendemocratic.org OpenDemocratic] - Platform for democratic political parties for any country
+* Michael McFaul, [http://www.twq.com/05winter/docs/05winter_mcfaul.pdf Democracy Promotion as a World Value], THE WASHINGTON QUARTERLY, WINTER 2004–05
+* Paula J. campay and Thomas Carothers, [http://www.foreignaffairs.org/20030501faresponse11226/paula-j-dobriansky-thomas-carothers/democracy-promotion.html Democracy Promotion], Foreign Affairs, May/June 2003
+* [[Thomas Carothers]], [http://www.carnegieendowment.org/publications/index.cfm?fa=view&id=18070 The Backlash Against Democracy Promotion], Foreign Affairs, March/April 2006
+* [[Thomas Carothers]], [http://www.washingtonpost.com/wp-dyn/content/article/2007/09/13/AR2007091302241.html Repairing Democracy Promotion], Washington Post, Friday, September 14, 2007
+* Paula J. Dobriansky, Under Secretary for Global Affairs, [http://usinfo.state.gov/dhr/Archive_Index/Dobriansky_on_Democracy_Promotion.html Strategies on Democracy Promotion], Remarks to the Hudson Institute, 2005
+* Paul J. Saunders and Morton H. Halperin, [http://www.cfr.org/publication/10784/ Democracy Promotion as Policy], Online Debate at Council for Foreign Relations, May–June 2006
+* Project on Middle East Democracy, [http://www.pomed.org], nonprofit committed to strengthen U.S. support for genuine democracies in the Middle East
+* Jörn Grävingholt, Julia Leininger, Oliver Schlumberger: [http://www.die-gdi.de/CMS-Homepage/openwebcms3_e.nsf/(ynDK_contentByKey)/ANES-7QAH6E?Open&nav=expand:Publications;active:Publications\ANES-7QAH6E The Three Cs of Democracy Promotion Policy: Context, Consistency and Credibility], Bonn: Deutsches Institut für Entwicklungspolitik /German Development Institute, (Briefing Paper 1/2009)
+* Braathen, Einar; Henningsen, Erik; Holm-Hansen, Jørn and David Jordhus-Lier: [http://blog.nibrinternational.no/#post10 The Dilemmas of Democracy Support], ''The NIBR International Blog'' 19.02.2010.  . 
+
+{{DEFAULTSORT:Democracy Promotion}}
+[[Category:Democracy]]
+[[Category:International relations]]

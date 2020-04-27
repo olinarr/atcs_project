@@ -1,0 +1,686 @@
+{{Multiple issues|citation style = November 2011|tone = August 2008|refimprove = September 2010}} . 
+
+'''Democratic peace theory''' (or simply the "democratic peace") is the theory that [[democracy|democracies]] don't go to [[war]] with each other. <ref>Michael Doyle in his pioneering work, "Kant, Liberal Legacies, and Foreign Affairs", Philosophy and Public Affairs (1983) 205, 207-208, applied the theory to what he called "Liberal states" which he defined as "States with some form of representative democracy, a market economy based on private property rights, and constitutional protections of civil and political rights." The theory is sometimes called the "Liberal peace theory" For example, Clemens Jr., Walter C. Complexity Theory as a Tool for Understanding and Coping with Ethnic Conflict and Development Issues in Post-Soviet Eurasia. International Journal of Peace Studies.[http://www.gmu.edu/academic/ijps/vol7_2/Clemens.htm]</ref> How well the theory matches reality depends a great deal on one's definition of "democracy" and "war". <ref>[http://www.hawaii.edu/powerkills/DP.CHART.V19.JPG Rummel's chart]</ref> For example,  . 
+
+Some have preferred terms like "mutual democratic pacifism"<ref name=flawed-logic>[http://www.mendeley.com/research/the-flawed-logic-of-democratic-peace-theory/]</ref> or "inter-democracy nonaggression hypothesis" for the theory, to clarify that it is not the [[peace]] itself that is democratic, but rather the countries involved. <ref>[[Daniele Archibugi]], [http://press.princeton.edu/titles/8737.html The Global Commonwealth of Citizens. Toward Cosmopolitan Democracy], Princeton University Press, [[Princeton, New Jersey|Princeton]], 2008</ref> . 
+
+Among proponents of the theory, several explanations have been offered for it: 
+*that democratic leaders must answer to the voters for war, and therefore have an incentive to seek alternatives;
+*that such statesmen have practice settling matters by discussion, not by arms, and do the same in foreign policy;
+*that democracies view non-democracies or their people as threatening, and go to war with them over issues which would have been settled peacefully between democracies;
+*that democracies tend to be wealthier than other countries, and the wealthy tend to avoid war, having more to lose. 
+*:Physicist turned historian [[Spencer R. Weart]] disagrees with this, saying, "It is not because of their advanced economic development--wealthy countries fight wars about as often as poor ones."<ref name=weart>[http://www.hawaii.edu/powerkills/WEART.CHAP.HTM]</ref> . 
+
+Among those who dispute the theory, there are also several opinions: that the claim is a statistical artifact, explicable by chance; and that definitions of democracy and war can be deliberately cherry-picked to show a pattern that may not be there.  . 
+
+==History==. 
+[[Image:Immanuel Kant (painted portrait).jpg|125px|thumb|left|Immanuel Kant]]
+Although the philosophical idea has circulated since [[Immanuel Kant]] and [[Thomas Paine]], it was not scientifically evaluated until the 1960s. Kant foreshadowed the theory in his essay ''[[Perpetual Peace]]'' written in 1795, although he thought that a world with only constitutional republics was only one of several necessary conditions for a perpetual peace. Kant's theory was that a majority of the people would never vote to go to war, unless in self-defense. Therefore, if all nations were republics, it would end war, because there would be no aggressors. In earlier but less cited works, Thomas Paine made similar or stronger claims about the peaceful nature of republics. Paine wrote in "Common Sense"  in 1776: "The Republics of Europe are all (and we may say always) in peace." Paine argued that kings would go to war out of pride in situations where republics would not. <ref>Jack S. Levy, William R. Thompson, ''Causes of War'' (John Wiley & Sons, 2011); Thomas Paine, The Complete Writings of Thomas Paine, ed. Philip S. Foner (The Citadel Press: New York, 1945), p. 27. </ref> . 
+
+[[Dean Babst]], a criminologist, was the first to do statistical research on this topic. He wrote an academic paper supporting the theory in 1964 in ''Wisconsin Sociologist''; he published a slightly more popularized version, in 1972, in the trade journal ''Industrial Research''. Both versions initially received little attention.  . 
+
+Melvin Small and J. David Singer (1976: 50—69) responded; they found an absence of wars between democratic states with two "marginal exceptions", but denied that this pattern had statistical significance. This paper was published in the ''Jerusalem Journal of International Relations'' which finally brought more widespread attention to the theory, and started the academic debate. A 1983 paper by Michael Doyle contributed further to popularizing the theory. [[R. J. Rummel|Rudolph J. Rummel]] was another early researcher and drew considerable lay attention to the subject in his later works.  . 
+
+Maoz & Abdolali (1989) extended the research to lesser conflicts than wars. Bremer (1992) and Maoz & Russett (1993) found the correlation between democracy and peacefulness remained significant after controlling for many possible confounding variables. This moved the theory into the mainstream of social science. Supporters of [[realism in international relations]] and others responded by raising many new objections. Other researchers attempted more systematic explanations of how democracy might cause peace (Köchler 1995), and of how democracy might also affect other aspects of foreign relations such as alliances and collaboration (Ray 2003).  . 
+
+There have been numerous further studies in the field since these pioneering works. <ref>See the [http://www.hawaii.edu/powerkills/BIBLIO.HTML bibliography] on Rummel's website. Rummel is partisan, and the bibliography lacks some recent papers, but is nonetheless one of the better introductions to the subject. </ref> Most studies have found some form of democratic peace exists, although neither methodological disputes nor doubtful cases are entirely resolved (Kinsella 2005).  . 
+
+==Definitions==. 
+Research on the democratic peace theory has to define "democracy" and "peace" (or, more often, "war"). Similarly, the main criticism contends that the theory is an example of equivocation, particularly, the [[No true Scotsman]] fallacy.  . 
+
+===Defining democracy===. 
+Democracies have been defined differently by different theorists and researchers; this accounts for some of the variations in their findings. Some examples:  . 
+
+Small and Singer (1976) define democracy as a nation that (1) holds periodic elections in which the opposition parties are as free to run as government parties, (2) allows at least 10% of the adult population to vote, and (3) has a parliament that either controls or enjoys parity with the executive branch of the government.  . 
+
+Doyle (1983) requires (1) that "liberal régimes" have market or private property economics, (2) they have policies that are internally sovereign, (3) they have citizens with juridical rights, and (4) they have representative governments. Either 30% of the adult males were able to vote or it was possible for every man to acquire voting rights as by attaining enough property. He allows greater power to hereditary monarchs than other researchers; for example, he counts the rule of [[Louis-Philippe of France]] as a liberal régime.  . 
+
+Ray (1995) requires that at least 50% of the adult population is allowed to vote and that there has been at least one peaceful, constitutional transfer of executive power from one independent political party to another by means of an election. This definition excludes long periods often viewed as democratic. For example, the United States until 1800, India from independence until 1979, and Japan until 1993 were all under one-party rule, and thus would not be counted under this definition (Ray 1995, p.&nbsp;100).  . 
+
+Rummel (1997) states that "By democracy is meant liberal democracy, where those who hold power are elected in competitive elections with a secret ballot and wide franchise (loosely understood as including at least 2/3 of adult males); where there is freedom of speech, religion, and organization; and a constitutional framework of law to which the government is subordinate and that guarantees equal rights." . 
+
+====Non-binary classifications====. 
+The above definitions are binary, classifying nations into either democracies or nondemocracies. Many researchers have instead used more finely grained scales. One example is the [[Polity data series]] which scores each state on two scales, one for democracy and one for autocracy, for each year since 1800; as well as several others. <ref>Other such rankings have made by Steve Chan and by Ze'ev Maoz (Maoz 1997). See also {{cite web | title=Conflict Data Set | work=Stockholm International Peace Research Institute | url=http://www.sipri.org/contents/conflict/conflictdatasets.html| accessdate=October 3, 2005 | archiveurl = http://web.archive.org/web/20050117203955/http://www.sipri.org/contents/conflict/conflictdatasets.html| archivedate = January 17, 2005}} and {{cite web | title=Data| work=Peter D. Watson Center for Conflict and Cooperation| url=http://www.watson.rochester.edu/resources/data.html| accessdate=October 3, 2005 }}</ref> The use of the Polity Data has varied. Some researchers have done correlations between the democracy scale and belligerence; others have treated it as a binary classification by (as its maker does) calling all states with a high democracy score and a low autocracy score democracies; yet others have used the difference of the two scores, sometimes again making this into a binary classification (Gleditsch 1992).  . 
+
+====Young democracies====. 
+Several researchers have observed that many of the possible exceptions to the democratic peace have occurred when at least one of the involved democracies was very young. Many of them have therefore added a qualifier, typically stating that the peacefulness apply to democracies older than three years (Doyle 1983), (Russett 1993), (Rummel 1997), (Weart 1998). Rummel (1997) argues that this is enough time for "democratic procedures to be accepted, and democratic culture to settle in." Additionally, this may allow for other states to actually come to the recognition of the state as a democracy.  . 
+
+Mansfield and Snyder (2002, 2005), while agreeing that there have been no wars between mature liberal democracies, state that countries in transition to democracy are especially likely to be involved in wars. They find that democratizing countries are even more warlike than stable democracies, stable autocracies or even countries in transition towards autocracy. So, they suggest caution in eliminating these wars from the analysis, because this might hide a negative aspect of the process of democratization. <ref>See (Owen 2005) for an online description. </ref> A reanalysis of the earlier study's statistical results {{Harvard citation|Braumoeller|2004}} emphasizes that the above relationship between democratization and war can only be said to hold for those democratizing countries where the executive lacks sufficient power, independence, and institutional strength. A review {{Harvard citation|Ray|2003}} cites several other studies finding that the increase in the risk of war in democratizing countries happens only if many or most of the surrounding nations are undemocratic. If wars between young democracies are included in the analysis, several studies and reviews still find enough evidence supporting the stronger claim that all democracies, whether young or established, go into war with one another less frequently (Ray 1998), (Ray 2003), {{Harvard citation|Hegre|2004}}, while some do not {{Harvard citation|Schwartz|Skinner|2002}}.  . 
+
+===Defining war===. 
+Quantitative research on international wars usually define war as a military conflict with more than 1000 killed in battle in one year. This is the definition used in the [[Correlates of War|Correlates of War Project]] which has also supplied the data for many studies on war. It turns out that most of the military conflicts in question fall clearly above or below this threshold (Ray 1995, p.&nbsp;103).  . 
+
+Some researchers have used different definitions. For example, Weart (1998) defines war as more than 200 battle deaths. Russett (1993, p.&nbsp;50), when looking at Ancient Greece, only requires some real battle engagement, involving on both sides forces under state authorization.  . 
+
+Militarized Interstate Disputes (MIDs), in the Correlates of War Project classification, are lesser conflicts than wars. Such a conflict may be no more than military display of force with no battle deaths. MIDs and wars together are "militarized interstate conflicts" or MICs. MIDs include the conflicts that precede a war; so the difference between MIDs and MICs may be less than it appears.  . 
+
+[[Statistical analysis]] and concerns about [[Degrees of freedom (statistics)|degrees of freedom]] are the primary reasons for using MID's instead of actual wars. Wars are relatively rare. An average ratio of 30 MIDs to one war provides a richer statistical environment for analysis. <ref>[http://home.ku.edu.tr/~mmousseau/Mous_Shi_JPR_Nov99.pdf ''Reverse Causality'', Mosseau and Shi, 1999]</ref> . 
+
+===Monadic vs. Dyadic peace===. 
+Most research is regarding the ''dyadic'' peace, that democracies do not fight one another. Very few researchers have supported the ''monadic'' peace, that democracies are more peaceful in general. There are some recent papers that find a slight monadic effect. Müller and Wolff (2004), in listing them, agree "that democracies on average might be slightly, but not strongly, less warlike than other states," but general "monadic explanations is neither necessary nor convincing". They note that democracies have varied greatly in their belligerence against non-democracies.  . 
+
+==Possible exceptions==. 
+Many scholars support the democratic peace on probabilistic grounds: since many wars have been fought since democracies first arose, we might expect a proportionate number of wars to have occurred between democracies, if democracies fought each other as freely as other pairs of states; but the number is much less than might be expected. <ref>Bremer (1992, 1993); Gelditsch (1992), Doyle (1983)</ref> . 
+
+Historically, cases commonly cited as exceptions include the [[Sicilian Expedition]], the [[Spanish-American War]], the [[Continuation War]] and more recently the [[Kargil War]]. <ref>http://users.erols.com/mwhite28/demowar.htm</ref> Doyle (1983) cites the [[Paquisha War]] and the Lebanese air force's intervention in the [[Six Day War]]. The data set Bremer (1993) was using showed one exception, the [[French-Thai War]] of 1940; Gleditsch (1995) sees the (somewhat technical - no military action was taken) state of war between [[Finland]] and [[UK]] during [[World War II]], as a special case, which should probably be treated separately: an incidental state of war between democracies during large multi-polar wars. (Gowa 1999) (Maoz 1997, p.&nbsp;165). Page Fortna (2004) discusses the 1974 [[Turkish invasion of Cyprus]] and the [[Kargil War]] as exceptions, finding the latter to be the most significant. However, the status of these countries as being truly democratic is a matter of debate.  . 
+
+One advocate of the democratic peace explains that his reason to choose a definition of democracy sufficiently restrictive to exclude ''all'' wars between democracies are what "might be disparagingly termed ''public relations''": students and politicians will be more impressed by such a claim than by claims that wars between democracies are less likely. {{Harvard citation|Ray|1998|p = 89}} . 
+
+==Statistical difficulties due to newness of democracy==. 
+[[Image:Number of nations 1800-2003 scoring 8 or higher on Polity IV scale.png|thumb|right|350px|Number of nations 1800-2003 scoring 8 or higher on [[Polity data series|Polity IV scale]]. There have been no wars and in Wayman's (2002) listing of interliberal MIDs no conflict causing any battle deaths between these nations.]] . 
+
+One problem with the research on wars is that, as the [[Realism in international relations|Realist]] Mearsheimer (1990, p.&nbsp;50) put it, "democracies have been few in number over the past two centuries, and thus there have been few opportunities where democracies were in a position to fight one another". Especially if using a strict definition of democracy, as by those finding no wars. Democracies have been very rare until recently. Even looser definitions of democracy, such as Doyle's, find only a dozen democracies before the late nineteenth century, and many of them short-lived or with limited franchise (Doyle 1983), (Doyle 1997, p.&nbsp;261). [[Freedom House]] finds no independent state with [[universal suffrage]] in 1900. <ref>Freedom House. 1999. "Democracy’s Century: A Survey of Global Political Change in the 20th Century."</ref> . 
+
+Wayman (1998), a supporter of the theory, states that "If we rely solely on whether there has been an inter-democratic war, it is going to take many more decades of peace to build our confidence in the stability of the democratic peace".  . 
+
+===Studying lesser conflicts===. 
+Many researchers have reacted to this limitation by studying lesser conflicts instead, since they have been far more common. There have been many more MIDs than wars; the Correlates of War Project counts several thousand during the last two centuries. A review {{Harvard citation|Ray|2003}} lists many studies that have reported that democratic pairs of states are less likely to be involved in MIDs than other pairs of states.  . 
+
+Another study {{Harvard citation|Hensel|Goertz|Diehl|2000}} finds that after both states have become democratic, there is a decreasing probability for MIDs within a year and this decreases almost to zero within five years.  . 
+
+When examining the inter-liberal MIDs in more detail, one study {{Harvard citation|Wayman|2002}} finds that they are less likely to involve third parties, and that the target of the hostility is less likely to reciprocate, if the target reciprocates the response is usually proportional to the provocation, and the disputes are less likely to cause any loss of life. The most common action was "Seizure of Material or Personnel".  . 
+
+Studies find that the probability that disputes between states will be resolved peacefully is positively affected by the degree of democracy exhibited by the lesser democratic state involved in that dispute. Disputes between democratic states are significantly shorter than disputes involving at least one undemocratic state. Democratic states are more likely to be amenable to third party mediation when they are involved in disputes with each other {{Harvard citation|Ray|2003}}.  . 
+
+In international crises that include the threat or use of military force, one study finds that if the parties are democracies, then relative military strength has no effect on who wins. This is different from when nondemocracies are involved. These results are the same also if the conflicting parties are formal allies {{Harvard citation|Gelpi|Griesdorf|2001}}. Similarly, a study of the behavior of states that joined ongoing militarized disputes reports that power is important only to autocracies: democracies do not seem to base their alignment on the power of the sides in the dispute {{Harvard citation|Werner|Lemke|1997}}.  . 
+
+==Conflict initiation==. 
+Most studies have looked only at who is involved in the conflicts and ignored the question of who initiated the conflict. In many conflicts both sides argue that the other side was initiator. Several researchers, as described in (Gleditsch, Christiansen & Hegre 2004), have argued that studying conflict initiation is of limited value, because existing data about conflict initiation may be especially unreliable. Even so, several studies have examined this. Reiter and Stam (2003) argue that autocracies initiate conflicts against democracies more frequently than democracies do against autocracies. Quackenbush and Rudy (2006), while confirming Reiter and Stam's results, find that democracies initiate wars against nondemocracies more frequently than nondemocracies do to each other. Several following studies (Peceny & Beer 2003), (Peceny & Butler 2004), (Lai & Slater 2006) have studied how different types of autocracies with different institutions vary regarding conflict initiation. Personalistic and military dictatorships may be particularly prone to conflict initiation, as compared to other types of autocracy such as [[Single-party state|one party]] states, but also more likely to be targeted in a war having other initiators.  . 
+
+==Internal violence and genocide==. 
+Most of this article discusses research on relations between states. However, there is also evidence that democracies have less internal systematic violence. For instance, one study finds that the most democratic and the most authoritarian states have few [[civil war]]s, and intermediate regimes the most. The probability for a civil war is also increased by political change, regardless whether toward greater democracy or greater autocracy. Intermediate regimes continue to be the most prone to civil war, regardless of the time since the political change. In the long run, since intermediate regimes are less stable than autocracies, which in turn are less stable than democracies, durable democracy is the most probable end-point of the process of [[democratization]] {{Harvard citation|Hegre|Ellington|Gates|Gleditsch|2001}}. Abadie (2004) study finds that the most democratic nations have the least terrorism. Harff (2003) finds that [[genocide]] and [[politicide]] are rare in democracies. Rummel (1997) finds that the more democratic a regime, the less its [[democide]]. He finds that democide has killed six times as many people as battles.  . 
+
+Davenport and Armstrong (2004) lists several other studies and states: "Repeatedly, democratic political systems have been found to decrease political bans, censorship, torture, disappearances and mass killing, doing so in a linear fashion across diverse measurements, methodologies, time periods, countries, and contexts." It concludes: "Across measures and methodological techniques, it is found that below a certain level, democracy has no impact on human rights violations, but above this level democracy influences repression in a negative and roughly linear manner." Davenport and Armstrong (2003) states that thirty years worth of statistical research has revealed that only two variables decrease human rights violations: political democracy and economic development.  . 
+
+==Explanations ==. 
+These theories have traditionally been categorized into two groups: explanations that focus on democratic norms and explanations that focus on democratic
+political structures {{Harvard citation|Gelpi|Griesdorf|2001}}, {{Harvard citation|Braumoeller|1997}}. Note that they usually are meant to be explanations for little violence between democracies, not for a low level of internal violence in democracies.  . 
+
+Several of these mechanisms may also apply to countries of similar systems. The book ''[[Never at War]]'' finds evidence for an oligarchic peace. One example is the [[Polish-Lithuanian Commonwealth]], in which the [[Sejm]] resisted and vetoed most royal proposals for war,<ref>For a description, see {{cite book|title=The northern wars: war, state and society in northeastern Europe, 1558-1721 |first=Robert I.|last= Frost|publisher=Longman's|location= Harlow, England; New York|isbn=0582064295}} 2000. Especially Pp. 9-11, 114, 181, 323. </ref> like those of [[Władysław IV Vasa]].  . 
+
+===Democratic norms===. 
+One example from the first group is that liberal democratic culture may make the leaders accustomed to negotiation and compromise {{Harvard citation|Weart|1998}}, (Müller & Wolff 2004). Another that a belief in human rights may make people in democracies reluctant to go to war, especially against other democracies. The decline in colonialism, also by democracies, may be related to a change in perception of non-European peoples and their rights {{Harvard citation|Ravlo|Gleditsch|2000}}.  . 
+
+Bruce Russett (1993, p.&nbsp;5-11, 35, 59-62, 73-4) also argues that the democratic culture affects the way leaders resolve conflicts. In addition, he holds that a social norm emerged toward the end of the nineteenth century; that democracies should not fight each other, which strengthened when the democratic culture and the degree of democracy increased, for example by widening the franchise. Increasing democratic stability allowed partners in foreign affairs to perceive a nation as reliable democratic. The alliances between democracies during the two World Wars and the Cold War also strengthened the norms. He sees less effective traces of this norm in Greek antiquity.  . 
+
+[[Hans Köchler]] (1995) relates the question of transnational democracy to empowering the individual citizen by involving him, through procedures of [[direct democracy]], in a country's international affairs, and he calls for the restructuring of the United Nations Organization according to democratic norms. He refers in particular to the Swiss practice of [[participatory democracy]].  . 
+
+Mousseau (2000, 2005) argues that it is market-oriented development that creates the norms and values that explain both democracy and the peace. In less developed countries individuals often depend on social networks that impose conformity to in-group norms and beliefs, and loyalty to group leaders. When jobs are plentiful on the market, in contrast, as in market-oriented developed countries, individuals depend on a strong state that enforces contracts equally. Cognitive routines emerge of abiding by state law rather than group leaders, and, as in contracts, tolerating differences among individuals. Voters in marketplace democracies thus accept only impartial ‘liberal’ governments, and constrain leaders to pursue their interests in securing equal access to global markets and in resisting those who distort such access with force. Marketplace democracies thus share common foreign policy interests in the supremacy—and predictability—of international law over brute power politics, and equal and open global trade over closed trade and imperial preferences. When disputes do originate between marketplace democracies, they are less likely than others to escalate to violence because both states, even the stronger one, perceive greater long-term interests in the supremacy of law over power politics.  . 
+
+{{Harvard citation|Braumoeller|1997}} argues that liberal norms of conflict resolution vary because liberalism takes many forms. By examining survey results from the newly independent states of the former Soviet Union, the author demonstrates that liberalism in that region bears a stronger resemblance to 19th-century liberal nationalism than to the sort of universalist, Wilsonian liberalism described by democratic peace theorists, and that, as a result, liberals in the region are ''more,'' not less, aggressive than non-liberals.  . 
+
+===Democratic political structures===. 
+The case for institutional constraints goes back to Kant (1795), who wrote:
+:"[I]f the consent of the citizens is required in order to decide that war should be declared (and in this constitution it cannot but be the case), nothing is more natural than that they would be very cautious in commencing such a poor game, decreeing for themselves all the calamities of war. Among the latter would be: having to fight, having to pay the costs of war from their own resources, having painfully to repair the devastation war leaves behind, and, to fill up the measure of evils, load themselves with a heavy national debt that would embitter peace itself and that can never be liquidated on account of constant wars in the future" . 
+
+Democracy thus gives influence to those most likely to be killed or wounded in wars, and their relatives and friends (and to those who pay the bulk of the war taxes) Russett (1993, p.&nbsp;30). This monadic theory must, however, explain why democracies do attack non-democratic states. One explanation is that these democracies were threatened or otherwise were provoked by the non-democratic states. Doyle (1997, p.&nbsp;272) argued that the absence of a monadic peace is only to be expected: the same ideologies that cause liberal states to be at peace with each other inspire idealistic wars with the illiberal, whether to defend oppressed foreign minorities or avenge countrymen settled abroad. Doyle also notes (p.&nbsp;292) liberal states do conduct covert operations against each other; the covert nature of the operation, however, prevents the publicity otherwise characteristic of a free state from applying to the question . 
+
+Studies show that democratic states are more likely than autocratic states to win the wars. One explanation is that democracies, for internal political and economic reasons, have greater resources. This might mean that democratic leaders are unlikely to select other democratic states as targets because they perceive them to be particularly formidable opponents. One study finds that interstate wars have important impacts on the fate of political regimes, and that the probability that a political leader will fall from power in the wake of a lost war is particularly high in democratic states {{Harvard citation|Ray|1998}}.  . 
+
+As described in {{Harvard citation|Gelpi|Griesdorf|2001}}, several studies have argued that liberal leaders face institutionalized constraints that impede their capacity to mobilize the state’s resources for war without the consent of a broad spectrum of interests. Survey results that compare the attitudes of citizens and elites in the Soviet successor states are consistent with this argument {{Harvard citation|Braumoeller|1997}}. Moreover, these constraints are readily apparent to other states and cannot be manipulated by leaders. Thus, democracies send credible signals to other states of an aversion to using force. These signals allow democratic states to avoid conflicts with one another, but they may attract aggression from nondemocratic states. Democracies may be pressured to respond to such aggression—perhaps even preemptively—through the use of force. Also as described in {{Harvard citation|Gelpi|Griesdorf|2001}}, studies have argued that when democratic leaders do choose to escalate international crises, their threats are taken as highly credible, since there must be a relatively large public opinion for these actions. In disputes between liberal states, the credibility of their bargaining signals allows them to negotiate a peaceful settlement before mobilization.  . 
+
+An explanation based on [[game theory]] similar to the last two above is that the participation of the public and the open debate send clear and reliable information regarding the intentions of democracies to other states. In contrast, it is difficult to know the intentions of nondemocratic leaders, what effect concessions will have, and if promises will be kept. Thus there will be mistrust and unwillingness to make concessions if at least one of the parties in a dispute is a nondemocracy {{Harvard citation|Levy|Razin|2004}}.  . 
+
+The risk factors for certain types of state have, however, changed since Kant's time. In the quote above, Kant points to the lack of popular support for war - given that the populace will directly or indirectly suffer in the event of war - as a reason why republics will not tend to go to war. The number of American troops killed or maimed versus the number of Iraqi soldiers and civilians maimed and killed in the American-Iraqi conflict is indicative. This may explain the relatively great willingness of democratic states to attack weak opponents: the Iraq war was, initially at least, highly popular in the United States. The case of the [[Vietnam War]] might, nonetheless, indicate a tipping point where publics may no longer accept continuing attrition of their soldiers (even while remaining relatively indifferent to the much higher loss of life on the part of the populations attacked).  . 
+
+==Criticism ==. 
+There are several logically distinguishable classes of criticism. Note that they usually apply to no wars or few MIDs between democracies, not to little systematic violence in established democracies. (But see [[List of wars between democracies]].) . 
+
+===Statistical significance===. 
+Only one study {{Harvard citation|Schwartz|Skinner|2002}} appears to have argued that there have been as many wars between democracies as one would expect between any other couple of states. However, its authors include wars between young and dubious democracies, and very small wars.  . 
+
+Others {{Harvard citation|Spiro|1994}}, {{Harvard citation|Gowa|1999}}, {{Harvard citation|Small|Singer|1976}} state that, although there may be some evidence for democratic peace, the data sample or the time span may be too small to assess any definitive conclusions. For example, Gowa finds evidence for democratic peace to be insignificant before 1939, because of the too small number of democracies, and offers an alternate explanation for the following period (see the section on [[Democratic peace theory#Realist explanations|Realist Explanations]]). Gowa's use of statistics has been criticized, with several other studies and reviews finding different or opposing results {{Harvard citation|Gelpi|Griesdorf|2001}}, {{Harvard citation|Ray|2003}}. However, this can be seen as the longest-lasting criticism to the theory; as noted earlier, also some supporters {{Harvard citation|Wayman|1998}} agree that the statistical sample for assessing its validity is limited or scarce, at least if only full scale wars are considered.  . 
+
+According to one study, {{Harvard citation|Ray|2003}} which uses a rather restrictive definition of democracy and war, there were no wars between jointly democratic couples of states in the period from 1816 to 1992. Assuming a purely random distribution of wars between states, regardless of their democratic character, the predicted number of conflicts between democracies would be around ten. So, Ray argues that the evidence is statistically significant, but that it is still conceivable that, in the future, even a small number of inter-democratic wars would cancel out such evidence. <ref>The 1999 Kargil War, subsequent to the period considered, does satisfy the objective requirements for democracy and war set in Ray's study. </ref> . 
+
+===Definitions, methodology and data===. 
+Some authors criticize the definition of democracy by arguing that states continually reinterpret other states' regime types as a consequence of their own objective interests and motives, such as economic and security concerns {{Harvard citation|Rosato|2003}}. For example, one study {{Harvard citation|Oren|1995}} reports that Germany was considered a democratic state by Western opinion leaders at the end of the 19th century; yet in the years preceding World War I, when its relations with the United States, France and Britain started deteriorating, Germany was gradually reinterpreted as an autocratic state, in absence of any actual regime change. Shimmin {{Harvard citation|Shimmin|1999}} moves a similar criticism regarding the western perception of Milosevic's Serbia between 1989 and 1999. Rummel {{Harvard citation|Rummel|1999}} replies to this criticism by stating that, in general, studies on democratic peace do not focus on other countries' perceptions of democracy; and in the specific case of Serbia, by arguing that the limited credit accorded by western democracies to Milosevic in the early '90s did not amount to a recognition of democracy, but only to the perception that possible alternative leaders could be even worse.  . 
+
+Some democratic peace researchers have been criticized for ''post hoc'' reclassifying some specific conflicts as non-wars or political systems as non-democracies without checking and correcting the whole data set used similarly. Supporters and opponents of the democratic peace agree that this is bad use of statistics, even if a plausible case can be made for the correction (Bremer 1992), (Gleditsch 1995), (Gowa 1999). A military affairs columnist of the newspaper ''Asia Times'' has summarized the above criticism in a journalist's fashion describing the theory as subject to the [[no true Scotsman]] problem: exceptions are explained away as not being between "real" democracies or "real" wars. <ref>[http://www.atimes.com/atimes/Middle_East/HA31Ak01.html No true Scotsman fights a war] ''Asia Times'' 31 January 2006, by their military affairs columnist</ref> . 
+
+Some democratic peace researchers require that the executive result from a substantively contested election. This may be a restrictive definition: For example, the National Archives of the United States notes that "For all intents and purposes, [[George Washington]] was unopposed for election as President, both in 1789 and 1792". (Under the original provisions for the [[United States Electoral College|Electoral College]], there was no distinction between votes for President and Vice-President: each elector was required to vote for two distinct candidates, with the runner-up to be Vice-President. Every elector cast one of his votes for Washington,<ref>[http://www.archives.gov/federal-register/electoral-college/scores.html#1789], [http://www.archives.gov/federal-register/electoral-college/votes/1789_1821.html#1788]</ref> John Adams received a majority of the other votes; there were several other candidates: so the election for Vice President was contested.) . 
+
+Spiro (1994) made several other criticisms of the statistical methods used. Russett (1995) and a series of papers described by Ray (2003) responded to this, for example with different methodology.  . 
+
+Sometimes the datasets used have also been criticized. For example, some authors have criticized the Correlates of War data for not including civilian deaths in the battle deaths count, especially in civil wars {{Harvard citation|Sambanis|2001}}. Weeks and Cohen (2006) argue that most fishing disputes, which include no deaths and generally very limited threats of violence, should be excluded even from the list of military disputes. Gleditsch (2004) made several criticisms to the Correlates of War data set, and produced a revised set of data. Maoz and Russett (1993) made several criticisms to the Polity I and II data sets, which have mostly been addressed in later versions. These criticisms are generally considered minor issues.  . 
+
+===Other explanations===. 
+Some researchers, while accepting the empirical findings of democratic peace, have looked for alternate explanations other than simply the direct claim that democracy causes peace.  . 
+
+====Political similarity====. 
+One general criticism motivating research of different explanations is that actually the theory cannot claim that "democracy causes peace", because the evidence for democracies being, in general, more peaceful is very slight or non existent; it only can support the claim that "''joint'' democracy causes peace". According to Rosato (2003), this casts doubts on whether democracy is actually the cause because, if so, a monadic effect would be expected.  . 
+
+Perhaps the simplest explanation to such perceived anomaly (but not the one the Realist Rosato prefers, see the section on Realist explanations below) is that democracies are not peaceful to each other because they are democratic, but rather because they are ''similar''. This line of thought started with several independent observations of an "Autocratic Peace" effect, a reduced probability of war (obviously no author claims its absence) between states which are both non-democratic, or both highly so {{Harvard citation|Raknerud|Hegre|1997}}, {{Harvard citation|Beck|Jackman|1998}}, This has led to the hypothesis that democratic peace emerges as a particular case when analyzing a subset of states which are, in fact, similar {{Harvard citation|Werner|2000}}. Or, that similarity in general does not solely affect the probability of war, but only coherence of strong political regimes such as full democracies and stark autocracies.  . 
+
+Autocratic peace and the explanation based on political similarity is a relatively recent development, and opinions about its value are varied. Henderson (2002) builds a model considering political similarity, geographic distance and economic interdependence as its main variables, and concludes that democratic peace is a statistical artifact which disappears when the above variables are taken into account. Werner (2000) finds a conflict reducing effect from political similarity in general, but with democratic dyads being particularly peaceful, and noting some differences in behavior between democratic and autocratic dyads with respect to alliances and power evaluation. Beck, King and Zeng (2004) use neural networks to show two distinct low probability zones, corresponding to high democracy and high autocracy. <ref>Although not discussed in the text, the figure they show (Figure 2) suggests that the democratic peace is stronger. </ref> Petersen (2004) uses a different statistical model and finds that autocratic peace is not statistically significant, and that the effect attributed to similarity is mostly driven by the pacifying effect of joint democracy. Ray (2005) similarly disputes the weight of the argument on logical grounds, claiming that statistical analysis on "political similarity" uses a main variable which is an extension of "joint democracy" by linguistic redefinition, and so it is expected that the war reducing effects are carried on in the new analysis. Bennett (2006) builds a direct statistical model based on a triadic classification of states into "democratic", "autocratic" and "mixed". He finds that autocratic dyads have a 35% reduced chance of going into any type of armed conflict with respect to a reference mixed dyad. Democratic dyads have a 55% reduced chance. This effect gets stronger when looking at more severe conflicts; for wars (more than 1000 battle deaths), he estimates democratic dyads to have an 82% lower risk than autocratic dyads. He concludes that autocratic peace exists, but democratic peace is clearly stronger. However, he finds no relevant pacifying effect of political similarity, except at the extremes of the scale.  . 
+
+To summarize a rather complex picture, there are no less than four possible stances on the value of this criticism:
+# Political similarity, plus some complementary variables, explains everything. Democratic peace is a statistical artifact. Henderson subscribes to this view. 
+# Political similarity has a pacifying effect, but democracy makes it stronger. Werner would probably subscribe to this view. 
+# Political similarity in general has little or no effect, except at the extremes of the democracy-autocracy scale: a democratic peace and an autocratic peace exist separately, with the first one being stronger, and may have different explanations. Bennett holds this view, and Kinsella mentions this as a possibility
+# Political similarity has little or no effect and there is no evidence for autocratic peace. Petersen and Ray are among defendants of this view.  . 
+
+====Economic factors====. 
+[[Image:World GDP Capita 1-2003 A.D.png|thumb|right|350px|World [[GDP]]/capita 1-2003 AD. The increase in the number of democratic nations has occurred at the same time as the increase in economic wealth.]] . 
+
+A majority of researchers on the determinants of democracy agree that economic development is a primary factor which allows the formation of a stable and healthy democracy (Hegre, 2003; Weede, 2004). Thus, some researchers have argued that economic development also plays a factor in the establishment of peace.  . 
+
+Mousseau argues that a culture of contracting in advanced market-oriented economies may cause both democracy and peace (2000; 2002; 2003; 2005). These studies indicate that democracy, alone, is an unlikely cause of the democratic peace. A low level of market-oriented economic development may hinder development of liberal institutions and values. Hegre (2000) and Souva (2003) confirmed these expectations. Mousseau (2005) finds that democracy is a significant factor only when both democracies have levels of economic development well above the global median. In fact, the poorest 21% of the democracies studied, and the poorest 4-5% of current democracies, are significantly ''more'' likely than other kinds of countries to fight each other. Mousseau, Hegre & Oneal (2003) confirm that if at least one of the democracies involved has a very low level of economic development, democracy is ineffective in preventing war; however, they find that when also controlling for trade, 91% of all the democratic pairs had high enough development for the pacifying effect of democracy to be important during the 1885–1992 period and all in 1992. The difference in results of Mousseau (2005) and Mousseau, Hegre & Oneal (2003) may be due to sampling: Mousseau (2005) observed only neighboring states where poor countries actually can fight each other. In fact, fully 89% of militarized conflicts between less developed countries from 1920 and 2000 were among directly contiguous neighbors (Mousseau 2005:68-69). He argues that it is not likely that the results can be explained by trade: Because developed states have large economies, they do not have high levels of trade interdependence (2005:70 and footnote 5; Mousseau, Hegre & Oneal 2003:283). In fact, the correlation of developed democracy with trade interdependence is a scant 0.06 (Pearson's ''r'' - considered substantively no correlation by statisticians)(2005:77).  . 
+
+Both [[World War]]s were fought between countries which can be considered economically developed. Mousseau argues that both Germany and Japan - like the USSR during the Cold War and Saudi Arabia today - had state-managed economies and thus lacked his market norms (Mousseau 2002-03:29). Hegre (2003) finds that democracy is correlated with civil peace only for developed countries, and for countries with high levels of literacy. Conversely, the risk of civil war decreases with development only for democratic countries.  . 
+
+Gartzke (2005) argues that [[economic freedom]] (a quite different concept from Mousseau's market norms) or financial dependence (2007) explains the developed democratic peace, and these countries may be weak on these dimensions too. <ref>[http://www.freetheworld.com/release.html Economic Freedom of the World 2005]</ref> Rummel (2005) criticizes Gartzke's methodology and argues that his results are invalid. <ref>[http://freedomspeace.blogspot.com/2005/10/cato-and-gartzke-are-at-it-again.html Rummel's blog]</ref> . 
+
+Several studies find that democracy, more [[trade]] causing greater economic [[interdependence]], and membership in more [[intergovernmental organizations]] reduce the risk of war. This is often called the Kantian peace theory since it is similar to Kant's earlier theory about a perpetual peace; it is often also called "liberal peace" theory, especially when one focuses on the effects of trade and democracy. (The theory that [[free trade]] can cause peace is quite old and referred to as [[Cobdenism]].) Many researchers agree that these variables positively affect each other but each has a separate pacifying effect. For example, in countries exchanging a substantial amount of trade, economic interest groups may exist that oppose a reciprocal disruptive war, but in democracy such groups may have more power, and the political leaders be more likely to accept their requests. (Russett & Oneal 2001), {{Harvard citation|Lagazio|Russett|2004}}, {{Harvard citation|Oneal|Russett|2004}}. Weede (2004) argues that the pacifying effect of free trade and economic interdependence may be more important than that of democracy, because the former affects peace both directly and indirectly, by producing economic development and ultimately, democracy. Weede also lists some other authors supporting this view. However, some recent studies find no effect from trade but only from democracy {{Harvard citation|Goenner|2004}}, {{Harvard citation|Kim|Rousseau|2005}}.  . 
+
+None of the authors listed argues that free trade alone causes peace. Even so, the issue of whether free trade or democracy is more important in maintaining peace may have potentially significant practical consequences, for example on evaluating the effectiveness of applying economic sanctions and restrictions to autocratic countries.  . 
+
+It was Michael Doyle (1983, 1997) who reintroduced Kant's three articles into democratic peace theory. He argued that a pacific union of liberal states has been growing for the past two centuries. He denies that a pair of states will be peaceful simply because they are both liberal democracies; if that were enough, liberal states would not be aggressive towards weak non-liberal states (as the history of American relations with Mexico shows they are). Rather, liberal democracy is a necessary condition for international organization and hospitality (which are Kant's other two articles)&mdash;and all three are sufficient to produce peace. Other Kantians have not repeated Doyle's argument that all three in the triad must be present, instead stating that all three reduce the risk of war.  . 
+
+====Other explanations====. 
+Many studies, as those discussed in {{Harvard citation|Ray|1998}}, {{Harvard citation|Ray|2005}}, {{Harvard citation|Oneal|Russett|2004}}, supporting the theory have controlled for many possible alternative causes of the peace. Examples of factors controlled for are geographic distance, geographic contiguity, power status, alliance ties, militarization, economic wealth and economic growth, power ratio, and political stability. These studies have often found very different results depending on methodology and included variables, which has caused criticism. It should be noted that DPT does not state democracy is the only thing affecting the risk of military conflict. Many of the mentioned studies have found that other factors are also important. However, a common thread in most results is an emphasis on the relationship between democracy and peace.  . 
+
+Several studies have also controlled for the possibility of reverse causality from peace to democracy. For example, one study {{Harvard citation|Reuveny|Li|2003}} supports the theory of simultaneous causation, finding that dyads involved in wars are likely to experience a decrease in joint democracy, which in turn increases the probability of further war. So they argue that disputes between democratizing or democratic states should be resolved externally at a very early stage, in order to stabilize the system. Another study {{Harvard citation|Reiter|2001}} finds that peace does not spread democracy, but spreading democracy is likely to spread peace. A different kind of reverse causation lies in the suggestion that impending war could destroy or decrease democracy, because the preparation for war might include political restrictions, which may be the cause for the findings of democratic peace. However, this hypothesis has been statistically tested in a study {{Harvard citation|Mousseau|Shi|1999}} whose authors find, depending on the definition of the pre-war period, no such effect or a very slight one. So, they find this explanation unlikely. Note also that this explanation would predict a monadic effect, although weaker than the dyadic one.  . 
+
+Weart (1998) argues that the peacefulness appears and disappears rapidly when democracy appears and disappears. This in his view makes it unlikely that variables that change more slowly are the explanation. Weart, however, has been criticized for not offering any quantitative analysis supporting his claims (Ray, 2000).  . 
+
+Wars tend very strongly to be between neighboring states. Gleditsch (1995) showed that the average distance between democracies is about 8000 miles, the same as the average distance between all states. He believes that the effect of distance in preventing war, modified by the democratic peace, explains the incidence of war as fully as it can be explained.  . 
+
+====Realist explanations====. 
+Supporters of [[realism in international relations]] in general argue that not democracy or its absence, but considerations and evaluations of power, cause peace or war. Specifically, many realist critics claim that the effect ascribed to democratic, or liberal, peace, is in fact due to alliance ties between democratic states which in turn are caused, one way or another, by realist factors.  . 
+
+For example, Farber and Gowa (1995) find evidence for peace between democracies to be statistically significant only in the period from 1945 on, and consider such peace an artifact of the [[Cold War]], when the threat from the communist states forced democracies to ally with one another. Mearsheimer (1990) offers a similar analysis of the Anglo-American peace before 1945, caused by the German threat. Spiro (1994) finds several instances of wars between democracies, arguing that evidence in favor of the theory might be not so vast as other authors report, and claims that the remaining evidence consists of peace between allied states with shared objectives. He acknowledges that democratic states might have a somewhat greater tendency to ally with one another, and regards this as the only real effect of democratic peace. Rosato (2003) argues that most of the significant evidence for democratic peace has been observed after World War II; and that it has happened within a broad alliance, which can be identified with NATO and its satellite nations, imposed and maintained by American dominance (see [[Pax Americana]]). One of the main points in Rosato's argument is that, although never engaged in open war with another liberal democracy during the Cold War, the United States intervened openly or covertly in the political affairs of democratic states several times, for example in the [[Chilean coup of 1973]], the [[Operation Ajax|1953 coup in Iran]] and [[Operation PBSUCCESS|1954 coup in Guatemala]]; in Rosato's view, these interventions show the United States' determination to maintain an "imperial peace".  . 
+
+The most direct counter arguments to such criticisms have been studies finding peace between democracies to be significant even when controlling for "common interests" as reflected in alliance ties {{Harvard citation|Gelpi|Griesdorf|2001}}, {{Harvard citation|Ray|2003}}. Regarding specific issues, Ray (1998) objects that explanations based on the Cold War should predict that the Communist bloc would be at peace within itself also, but exceptions include the [[Soviet Invasion of Afghanistan]], the [[Cambodian-Vietnamese War]], and the [[Sino-Vietnamese War]]. Ray also argues that the external threat did not prevent conflicts in the Western bloc when at least one of the involved states was a nondemocracy, such as the [[Turkish Invasion of Cyprus]] (against Greek Junta supported Cypriot Greeks), the [[Falklands War]], and the [[Football War]]. Also, one study {{Harvard citation|Ravlo|Gleditsch|2000}} notes that the explanation "goes increasingly stale as the post-Cold War world accumulates an increasing number of peaceful dyad-years between democracies". Rosato's argument about American dominance has also been criticized for not giving supporting statistical evidence (Slantchev, Alexandrova & Gartzke 2005).  . 
+
+Some realist authors also criticize in detail the explanations given by supporters of democratic peace, pointing to supposed inconsistencies or weaknesses.  . 
+
+Rosato (2003) criticizes most explanations to how democracy might cause peace. Arguments based on normative constraints, he argues, are not consistent with the fact that democracies do go to war no less than other states, thus violating norms preventing war; for the same reason he refutes arguments based on the importance of public opinion. Regarding explanations based on greater accountability of leaders, he finds that historically autocratic leaders have been removed or punished more often than democratic leaders when they get involved in costly wars. Finally, he also criticizes the arguments that democracies treat each other with trust and respect even during crises; and that democracy might be slow to mobilize its composite and diverse groups and opinions, hindering the start of a war, drawing support from other authors. Another realist, Layne (1994) analyzes the crises and [[brinkmanship]] that took place between non-allied democratic great powers, during the relatively brief period when such existed. He finds no evidence either of institutional or cultural constraints against war; indeed, there was popular sentiment in favor of war on both sides. Instead, in all cases, one side concluded that it could not afford to risk that war at that time, and made the necessary concessions.  . 
+
+Rosato's objections have been criticized for claimed logical and methodological errors, and for being contradicted by existing statistical research (Kinsella 2005). Russett (1995) replies to Layne by re-examining some of the crises studied in his article, and reaching different conclusions; Russett argues that perceptions of democracy prevented escalation, or played a major role in doing so. Also, a recent study (Gelpi & Griesdorf 2001) finds that, while in general the outcome of international disputes is highly influenced by the contenders' relative military strength, this is not true if both contenders are democratic states; in this case the authors find the outcome of the crisis to be independent of the military capabilities of contenders, which is contrary to realist expectations. Finally, both the realist criticisms here described ignore new possible explanations, like the game-theoretic one discussed below. <ref>[http://poli.vub.ac.be/publi/orderbooks/myth/03Risse.pdf Democratic Peace – Warlike Democracies? A Social Constructivist Interpretation of the Liberal Argument]</ref> . 
+
+====Nuclear deterrent====. 
+A different kind of realist criticism (see {{Harvard citation|Jervis|2002}} for a discussion) is centered around the role of nuclear weapons in maintaining peace. In realist terms, this means that, in the case of disputes between nuclear powers, respective evaluation of power might be irrelevant because of [[Mutual assured destruction]] preventing both sides from foreseeing what could be reasonably called a "victory". The 1999 [[Kargil War]] between India and Pakistan has been cited as a counterexample to this argument (Page Fortna, 2004).  . 
+
+Some supporters of the democratic peace do not deny that realist factors are also important (Russett 1995). Research supporting the theory has also shown that factors such as alliance ties and major power status influence interstate conflict behavior {{Harvard citation|Ray|2003}}.  . 
+
+====The Role of Interdependence====. 
+[[Immanuel Wallerstein]] has argued that it is the global capitalist system that creates shared interests among the dominant parties, thus inhibiting potentially harmful belligerence. {{Citation needed|date=February 2007}} . 
+
+[[Toni Negri|Negri]] and [[Michael Hardt|Hardt]] take a similar stance, arguing that the intertwined network of interests in the global capitalism leads to the decline of individual [[Nation-state|nation states]], and the rise of a global [[Empire (book)|''Empire'']] which has no outside, and no external enemies. As a result, they write, "The era of imperialist, interimperialist, and anti-imperialist wars is over. (...) we have entered the era of minor and internal conflicts. Every imperial war is a civil war, a police action." (Hardt & Negri 2000).  . 
+
+===Limited consequences===. 
+The peacefulness may have various limitations and qualifiers and may not actually mean very much in the real-world.  . 
+
+Democratic peace researchers do in general not count as wars conflicts which do not kill a thousand on the battlefield; thus they exclude for example the bloodless [[Cod Wars]]. However, as noted earlier, research has also found a peacefulness between democracies when looking at lesser conflicts.  . 
+
+Democracies were involved in more colonial and imperialistic wars than other states during the 1816-1945 period. On the other hand, this relation disappears if controlling for factors like power and number of colonies. Liberal democracies have less of these wars than other states after 1945. This might be related to changes in the perception of non-European peoples, as embodied in the [[Universal Declaration of Human Rights]] (Ravlo & Glieditsch 2000).  . 
+
+Related to this is the human rights violations committed against [[Indigenous peoples|native people]], sometimes by liberal democracies. One response is that many of the worst crimes were committed by nondemocracies, like in the European colonies before the nineteenth century, in King [[Leopold II of Belgium]]'s privately owned [[Congo Free State]], and in [[Joseph Stalin]]'s [[Soviet Union]]. The United Kingdom abolished slavery in British territory in 1833, immediately after the [[Reform Act 1832]] had significantly enlarged the franchise. (Of course, the abolition of the slave trade had been enacted in 1807; and many DPT supporters would deny that the UK was a liberal democracy in 1833 when examining interstate wars.) . 
+
+Hermann and Kegley (1995) argue that interventions between democracies are more likely to happen than projected by an expected model. <ref name="Mar1995">{{cite journal
+| first = Margaret G. 
+| last = Hermann
+| authorlink =
+| coauthors = Charles W. Kegley, Jr. 
+| year =1995
+| month =
+| title = Military Intervention and The Democratic Peace
+| journal = International Interactions
+| volume =21
+| issue =1
+| pages =1–21
+| id =
+| url =
+| doi = 10.1080/03050629508434857
+| ref = harv
+}}</ref> They further argue (1996) that democracies are more likely to intervene in other liberal states than against countries that are non-democracies. <ref name="Mar1996">{{cite journal
+| first = Margaret G. 
+| last = Hermann
+| authorlink =
+| coauthors = Charles W. Kegley, Jr. 
+| year =1996
+| month =
+| title = How Democracies Use Intervention: A Neglected Dimension in Studies of the Democratic Peace
+| journal = Journal of Peace Research
+| volume =33
+| issue =3
+| pages =309–322
+| id =
+| url =
+| doi = 10.1177/0022343396033003005
+| ref = harv
+}}</ref> Finally, they argue that these interventions between democracies have been increasing over time and that the world can expect more of these interventions in the future. <ref name="Mar1995" /><ref name="Mar1996" /><ref>{{cite journal
+| first = Margaret G. 
+| last = Hermann
+| authorlink =
+| coauthors = Charles W. Kegley, Jr. 
+| year =1997
+| month = February
+| title = Putting Military Intervention into the Democratic Peace: A Research Note
+| journal = Comparative Political Studies
+| volume =30
+| issue =1
+| pages =78–107
+| id =
+| url =
+| doi = 10.1177/0010414097030001004
+| ref = harv
+}}</ref> The methodology used has been criticized and more recent studies have found opposing results (Gleditsch, Christiansen & Hegre 2004).  . 
+
+Rummel argues that the continuing increase in democracy worldwide will soon lead to an end to wars and [[democide]], possibly around or even before the middle of this century. <ref>[http://www.hawaii.edu/powerkills/DP.CLOCK.HTM Rummel's Power Kills website, viewed February 10, 2006]</ref> The fall of [[Communism]] and the increase in the number of democratic states were accompanied by a sudden and dramatic decline in total warfare, interstate wars, [[ethnic]] wars, [[revolutionary]] wars, and the number of [[refugees]] and [[displaced person]]s. <ref>{{cite web | title=Global Conflict Trends | work=Center for Systematic Peace | url=http://members.aol.com/CSPmgm/conflict.htm| accessdate=October 1, 2005 }}</ref> One report claims that the two main causes of this decline in warfare are the end of the Cold War itself and [[decolonization]]; but also claims that the three Kantian factors have contributed materially. <ref>[http://www.humansecurityreport.info/index.php?option=content&task=view&id=28&Itemid=63 Human Security Report 2005 p.148-150.]</ref> . 
+
+==Academic relevance and derived studies==. 
+<!-- Deleted image removed: [[Image:DP CHART V19.JPG|thumb|200px|left|Charts arguing in favor of DPT. showing research by [[R. J. Rummel]] and others. [http://www.hawaii.edu/powerkills/DP.CHART.V19.PDF High resolution PDF] ]] -->
+<!-- Deleted image removed: [[Image:DP BACKSIDE V 16.JPG|thumb|200px|right|<br /> [http://www.hawaii.edu/powerkills/DP.BACKSIDE.V.16.PDF High Resolution PDF] ]] --> . 
+
+Democratic peace theory is a well established research field with more than a hundred authors having published articles about it. <ref>{{cite web | author=Rummel, R. J | title=Democratic Peace Bibliography Version 3.0 | work=Freedom, Democracy, Peace; Power, Democide, and War | url=http://www.hawaii.edu/powerkills/BIBLIO.HTML | accessdate=October 2, 2005}}</ref> Several [[peer-reviewed]] studies mention in their introduction that most researchers accept the theory as an empirical fact. <ref>For example: [http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=332891] [http://www.ingentaconnect.com/content/pal/ip/2004/00000041/00000004/art00008] [https://mitpress.mit.edu/journals/pdf/jeea_2_1_1_0.pdf] [http://home.ku.edu.tr/~mmousseau/Mous_Shi_JPR_Nov99.pdf],[http://www.duke.edu/~gelpi/democratic.winners.pdf]. </ref> . 
+
+[[Imre Lakatos]] suggested that what he called a "progressive research program" is better than a "degenerative" one when it can explain the same phenomena as the "degenerative" one, but is also characterized by growth of its research field and the discovery of important novel facts. In contrast, the supporters of the "degenerative" program do not make important new empirical discoveries, but instead mostly apply adjustments to their theory in order to defend it from competitors. Some researchers argue that democratic peace theory is now the "progressive" program in international relations. According to these authors, the theory can explain the empirical phenomena previously explained by the earlier dominant research program, [[realism in international relations]]; in addition, the initial statement that democracies do not, or rarely, wage war on one another, has been followed by a rapidly growing literature on novel empirical regularities. {{Harvard citation|Ray|2003}}, {{Harvard citation|Chernoff|2004}}, {{Harvard citation|Harrison|2005}}.  . 
+
+Other examples are several studies finding that democracies are more likely to ally with one another than with other states, forming alliances which are likely to last longer than alliances involving nondemocracies {{Harvard citation|Ray|2003}}; several studies including {{Harvard citation|Weart|1998}} showing that democracies conduct diplomacy differently and in a more conciliatory way compared to nondemocracies; one study finding that democracies with [[proportional representation]] are in general more peaceful regardless of the nature of the other party involved in a relationship {{Harvard citation|Leblang|Chan|2003}}; and another study reporting that proportional representation system and decentralized territorial autonomy is positively associated with lasting peace in postconflict societies {{Harvard citation|Binningsbø|2005}}.  . 
+
+In [[The Lexus and the Olive Tree]], [[Thomas L. Friedman]] coins the "Golden Arches Theory of Conflict Prevention" - that no two countries that both have a [[McDonald's]] franchise would be likely to fight a war. The [[2008 South Ossetia war]], however, is a counterexample.  . 
+
+*[[Recalcitrant Interdependence]]. A proposed international relations concept that studies states that exist partially outside of the liberal consensus and how they effect it. The concept is dependent on Democratic Peace Theory. <ref>Potter, Robert (2011), 'Recalcitrant Interdependence', Thesis, Flinders University Pg 62</ref> . 
+
+==Influence==. 
+The democratic peace theory has been extremely divisive among [[political scientists]]. It is rooted in the [[Idealism (international relations)|idealist]] and [[classical liberalism|classical liberalist]] traditions and is opposed to the previously dominant theory of [[Realism (international relations)|realism]]. However, democratic peace theory has come to be more widely accepted and has in some democracies effected policy change. {{Citation needed|date=June 2009}} . 
+
+In the United States, presidents from both major parties have expressed support for the theory. In his 1994 [[State of the Union]] address, then-President [[Bill Clinton]], a member of the [[Democratic Party (United States)|Democratic Party]], said: "Ultimately, the best strategy to ensure our security and to build a durable peace is to support the advance of democracy elsewhere. Democracies don't attack each other."<ref>{{cite news | author=Clinton, Bill | title=1994 State Of The Union Address|url=http://www.washingtonpost.com/wp-srv/politics/special/states/docs/sou94.htm|accessdate=2006-01-22 | work=The Washington Post | date=2000-01-28}}</ref> In a 2004 press conference, then-President [[George W. Bush]], a member of the [[Republican Party (United States)|Republican Party]], said: "And the reason why I'm so strong on democracy is democracies don't go to war with each other. And the reason why is the people of most societies don't like war, and they understand what war means.... I've got great faith in democracies to promote peace. And that's why I'm such a strong believer that the way forward in the Middle East, the broader Middle East, is to promote democracy."<ref>{{cite web | title=President and Prime Minister Blair Discussed Iraq, Middle East|url=http://georgewbush-whitehouse.archives.gov/news/releases/2004/11/20041112-5.html| accessdate=October 3, 2005 }}</ref><ref>"History has taught us democracies don't war. Democracies -- you don't run for office in a democracy and say, please vote for me, I promise you war. (Laughter.) You run for office in democracies, and say, vote for me, I'll represent your interests; vote for me, I'll help your young girls go to school, or the health care you get improved." {{cite web | title=President Thanks U.S. and Coalition Troops in Afghanistan|url=http://georgewbush-whitehouse.archives.gov/news/releases/2006/03/20060301-3.html| accessdate=December 26, 2008 }}</ref> . 
+
+In a 1999 speech, [[Chris Patten]], the then-[[European Commissioner]] for External Relations, said: "Inevitable because the EU was formed partly to protect liberal values, so it is hardly surprising that we should think it appropriate to speak out. But it is also sensible for strategic reasons. Free societies tend not to fight one another or to be bad neighbours."<ref>{{cite web | title=Human Rights Discussion Forum; Speech by The Rt Hon Chris Patten, CH. Plenary Session Brussels - Charlemagne building - 30 November 1999 - SPEECH/99/193 | url=http://ec.europa.eu/comm/external_relations/news/patten/speech_99_193.htm| accessdate=August 19, 2006 }}</ref> The ''A Secure Europe in a Better World, European Security Strategy'' states: "The best protection for our security is a world of well-governed democratic states."<ref>{{cite web | title=A Secure Europe in a Better World: European Security Strategy. Brussels, 12 December 2003 | url=http://ec.europa.eu/comm/external_relations/us/intro/peace.htm| accessdate=August 19, 2006 }}</ref> [[Tony Blair]] has also claimed the theory is correct. <ref>[http://www.thedailyshow.com/video/index.jhtml?videoId=185185&title=Tony-Blair-Pt.-1 Interview] in ''[[The Daily Show with Jon Stewart]]'' 18 September 2008</ref> . 
+
+=== As justification for initiating war ===. 
+Some fear that the democratic peace theory may be used to justify wars against nondemocracies in order to bring lasting peace, in a ''democratic crusade'' (Chan 1997, p.&nbsp;59). [[Woodrow Wilson]] in 1917 asked Congress to declare war against Imperial Germany, citing Germany's sinking of American ships due to [[unrestricted submarine warfare]] and the [[Zimmermann telegram]], but also stating that "A steadfast concert for peace can never be maintained except by a partnership of democratic nations" and "The world must be made safe for democracy."<ref>[http://historymatters.gmu.edu/d/4943/ Wilson, T. Woodrow: ''Message to Congress'' April 2, 1917] Wilson's vision for the world after [[World War I]], his [[Fourteen Points]](1918), did not mention democracy, but in other aspects "sound almost as though Kant were guiding Wilson's writing hand." They included both Kant’s [[Cosmopolitanism|cosmopolitan]] law and pacific union. The third of the [[Fourteen Points]] specified the removal of economic barriers between peaceful nations; the fourteenth provided for the [[League of Nations]] (Russett 1993). </ref> [[R. J. Rummel]] is a notable proponent of war for the purpose of spreading democracy, based on this theory.  . 
+
+Some point out that the democratic peace theory has been used to justify the [[2003 Iraq War]], others argue that this justification was used only after the war had already started (Russett 2005). Furthermore, Weede (2004) has argued that the justification is extremely weak, because forcibly democratizing a country completely surrounded by non-democracies, most of which are full autocracies, as Iraq was, is at least as likely to increase the risk of war as it is to decrease it (some studies show that [[dyads]] formed by one democracy and one autocracy are the most warlike, and several find that the risk of war is greatly increased in democratizing countries surrounded by nondemocracies).{{Citation needed|date=June 2011}} According to Weede, if the United States and its allies wanted to adopt a rationale strategy of forced democratization based on democratic peace, which he still does not recommend, it would be best to start intervening in countries which border with at least one or two stable democracies, and expand gradually. Also, research shows that attempts to create democracies by using external force has often failed. Gleditsch, Christiansen and Hegre (2004) argue that forced democratization by interventionism may initially have partial success, but often create an unstable democratizing country, which can have dangerous consequences in the long run. Those attempts which had a permanent and stable success, like democratization in [[Allied-occupied Austria|Austria]], [[Bizone|West Germany]] and [[Occupied Japan|Japan]] after [[World War II]], mostly involved countries which had an advanced economic and social structure already, and implied a drastic change of the whole political culture. Supporting internal democratic movements and using diplomacy may be far more successful and less costly. Thus, the theory and related research, if they were correctly understood, may actually be an argument against a democratic crusade (Weart 1998), (Owen 2005), (Russett 2005).  . 
+
+OTHER FACTORS RELATED TO DEMOCRACIES BEING MORE PEACEFUL
+According to Azar Gat's, "War in Human Civilization" there are several related and independent factors that contribute to democratic societies being more peaceful than other forms of governments. 
+1. Wealth and Comfort:
+Increased prosperity in democratic societies has been associated with peace because civilians are less willing to endure hardship of war and military service due to a more luxurious life at home than in pre-modern times. Increased wealth has worked to decrease war through comfort (Gat, 597-598). 
+2. Metropolitan Service Society:
+The majority of army recruits come from the country side or factory workers. Many believe that these types of people are suited for war. But as technology progressed the army turned more towards advanced services in information that rely more on computerized data which urbanized people are recruited more for this service (Gat 600-602). 
+3. Sexual Revolution:
+The availability of sex due to the pill and women joining the labor market could be another factor that has led to less enthusiasm for men to go to war. Young men are more reluctant leave behind the pleasures of life for the rigors and chastity of the army (Gat 603- 604). 
+4. Fewer Young Males:
+There is greater life expectancy which leads to fewer young males. Young males are the most aggressive and the ones that join the army the most. With less younger males in developed societies could help explain more pacificity (Gat 604-605). 
+5. Fewer Children per Family:
+During pre modern times it was always hard for families to lose a child but in modern times it has become more difficult due to more families having only one or two children. It has become even harder for parents to risk the lost of a child in war. However, Gat recognizes that this argument is a difficult one because during pre modern times the life expectancy was not high for children and bigger families were necessary(Gat 605-606). 
+6. Women's Franchise:
+Women are less belligerent than men. Therefore women are less inclined to serious violence and do not support it as much as men do. In liberal democracies women have been able to influence the government by getting elected. Electing more women could have an effect on whether liberal democracies take a more aggressive approach on certain issues (Gat 606- 607). 
+7. Nuclear Weapons:
+Nuclear weapons could be the reason for not having a great power war. Many believe that a nuclear war would result in mutually assured destruction (MAD) which means that both countries involved in a nuclear war have the ability to strike the other until both sides are wiped out. This results in countries not wanting to strike the other for fear of being wiped out (608-609). 
+There are various factors in societies that also contribute to the Democratic Peace Theory.  . 
+
+Gat, Azar. “War in Human Civilization” New York: Oxford University Press, 2006.  . 
+
+==See also==. 
+* [[International relations theory]]
+* [[List of wars between democracies]]
+* [[Perpetual peace]]
+* [[World peace]] . 
+
+==Sources==. 
+<div style="font-size: 90%">
+{{Cite journal | last1=Abadie | given=Alberto |title=Poverty, Political Freedom, and the Roots of Terrorism| journal=NBER Working Paper Series | year=2004 | url=http://ksghome.harvard.edu/~.aabadie.academic.ksg/povterr.pdf | ref=harv | postscript=<!--None-->}} . 
+
+[[Daniele Archibugi|Archibugi, Daniele]]. [http://press.princeton.edu/titles/8737.html The Global Commonwealth of Citizens. Toward Cosmopolitan Democracy], Princeton University Press, [[Princeton, New Jersey|Princeton]] 2008.  . 
+
+Babst, Dean V. "Elective Governments&mdash;A Force For Peace." ''The Wisconsin Sociologist'' 3 (1, 1964): 9-14.  . 
+
+Babst, Dean V.. "A Force For Peace." ''Industrial Research'' (April 1972): 55-58.  . 
+
+{{cite journal | author=Beck, Nathaniel, Gary King, and Langche Zeng | title=Theory and Evidence in International Conflict: A Response to de Marchi, Gelpi, and Grynaviski | journal=American Political Science Review | year=2004 |volume=98 | pages= 379&ndash;389 | url=http://www.nyu.edu/classes/nbeck/q2/toe-resp.pdf|format=PDF | ref=harv | issue=2}}.  . 
+
+{{Cite journal | last1=Beck | given1=Nathaniel | surname2=Jackman | given2=Simon | title=Beyond Linearity by Default: Generalized Additive Models| journal=American Journal of Political Science | year=1998 |volume=42 | page=596&ndash;627 | ref=harv | postscript=<!--None-->}} . 
+
+{{cite journal | author=Beck, N., and Tucker R | title=Democracy and Peace: General Law or Limited Phenomenon?| publisher= Annual Meeting of the Midwest Political Science Association | year=1998 }} Link failed 22 January 2006.  . 
+
+{{cite journal | author=Bennett, Scott D. | year=2006| title=Toward a Continuous Specification of the Democracy-Autocracy Connection |journal=International Studies Quarterly |volume=50 |issue=2 |url=http://www.ingentaconnect.com/content/bpl/isqu/2006/00000050/00000002/art00004 | pages= 313&ndash;338| doi=10.1111/j.1468-2478.2006.00404.x | ref=harv }} . 
+
+{{Cite journal | last1=Binningsbø | given1=Helga Malmin |title=Consociational Democracy and Postconflict Peace. Will Power-Sharing Institutions Increase the Probability of Lasting Peace after Civil War? | journal=Paper prepared for presentation at the 13th Annual National Political Science Conference, Hurdalsjøen, Norway, 5–7 January 2005 | year=2005 | url=http://www.statsvitenskap.uio.no/konferanser/nfkis/cr/Binningsbo.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Braumoeller | given=Bear F | year= 2004 | title=Hypothesis Testing and Multiplicative Interaction Terms | journal=International Organization |volume=58 | page= 807&ndash;820 | url=http://www.people.fas.harvard.edu/~bfbraum/InteractionIO.pdf | format= | ref=harv | postscript=<!--None--> | issue=4}} {{Dead link|date=June 2010}} . 
+
+{{Cite journal | given=Bear F | year= 1997 | title=Deadly Doves: Liberal Nationalism and the Democratic Peace in the Soviet Successor States | journal=International Studies Quarterly |volume=41 | page= 375&ndash;402 | issue=3 | ref=harv | postscript=<!--None--> | jstor=2600789 | last1=Braumoeller | first1=B. F.}} . 
+
+{{cite journal|title=Dangerous Dyads: Conditions Affecting the Likelihood of Interstate War, 1816-1965|first=Stuart A.|last= Bremer|journal=The Journal of Conflict Resolution|issue= Vol. 36, No. 2. (Jun., 1992)|pages= 309–341.|year=1992|volume=36|doi=10.1177/0022002792036002005|ref=harv|jstor=174478}} . 
+
+{{cite journal|title=Democracy and Militarized Interstate Conflict, 1816-1965|first=Stuart A.|last= Bremer|journal=International Interactions|issue= Vol. 18, no. 3 (1993)|pages=231–249|ref=harv}} . 
+
+Brown, Michael E., Sean M. Lynn-Jones, and Steven E. Miller. ''Debating the Democratic Peace''. Cambridge, MA: MIT Press, 1996. ISBN 0-262-52213-6.  . 
+
+{{cite journal|first=Lars-Erik|last=Cederman|journal=American Political Science Review|issue= '''95''',1 March 2001|year =2001|title=Back to Kant: Reinterpreting the Democratic Peace as a Macrohistorical Learning Process|ref=harv}} . 
+
+{{cite journal|first= Steve|last= Chan|title=In Search of Democratic Peace: Problems and Promise|journal=Mershon International studies review|year= 1997|issue=47|doi= 10.2307/222803|volume= 41|pages= 59|publisher= Mershon International Studies Review, Vol. 41, No. 1|ref= harv|jstor= 222803}} . 
+
+{{Cite journal | given=Fred |title=The Study of Democratic Peace and Progress in International Relations | journal=International Studies Review |volume=6 |issue=1 |page= 1079&ndash;1760 | year=2004 | url=http://www.blackwell-synergy.com/links/doi/10.1111%2Fj.1079-1760.2004.00372.x | doi=10.1111/j.1079-1760.2004.00372.x | last1=Chernoff | first1=Fred | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Cohen | given1=Dara K. | surname2=Weeks | given2=Jessica |title=Red Herings? Fishing Disputes, Regime Type, and Interstate Conflict | journal= Presented at the Stanford International Relations Workshop | year=2006 | url=http://www.stanford.edu/group/ir_workshop/Fish-Paper-Working-03-06-06.pdf | format= | ref=harv | postscript=<!--None-->}} {{Dead link|date=June 2010}} . 
+
+{{Cite journal | last1=Davenport | given1=Christian | surname2=Armstrong II | given2=David A |title=Peace by Piece: Towards an Understanding of Exactly How Democracy Reduces State Repression| journal= Presented at the Midwest Political Science Association, 61st Annual Meeting, Chicago. April 3–6, 2003 | year=2003 | url=http://mpsa.indiana.edu/conf2003papers/1032021217.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Davenport | given1=Christian | surname2=Armstrong II | given2=David A |title=Democracy and the Violation of Human Rights: A Statistical Analysis from 1976 to 1996| journal= American Journal of Political Science |volume=48 |issue=3 | year=2004 | url=http://ajps.tamu.edu/articles/48.3.Davenport.ms30211.pdf | format= | ref=harv | postscript=<!--None--> }} {{Dead link|date=June 2010}} . 
+
+Davenport, Christian. 2007. "State Repression and the Domestic Democratic Peace." New York: Cambridge University Press.  . 
+
+Davoodi, Schoresch & Sow, Adama: [http://www.epu.ac.at/research/rp_1208.pdf Democracy and Peace in Zimbabwe] in: [[European University Center for Peace Studies|EPU]] Research Papers: Issue 12/08, Stadtschlaining 2008 . 
+
+{{cite journal|title=Kant, Liberal Legacies, and Foreign Affairs|first=Michael W.|last=Doyle|journal=Philosophy and Public Affairs|issue= Vol. 12, No. 3. (Summer, 1983)|pages= 205–235|year=1983a|volume=12|ref=harv|jstor=2265298}} . 
+
+{{cite journal|title=Kant, Liberal Legacies, and Foreign Affairs, Part 2|first=Michael W.|last=Doyle|journal=Philosophy and Public Affairs|issue= Vol. 12, No. 4. (Autumn, 1983)|pages=323–353|year=1983b|volume=12|ref=harv|jstor=2265377}} . 
+
+Doyle, Michael W. ''Ways of War and Peace''. New York: W.W. Norton, 1997. ISBN 0-393-96947-9.  . 
+
+Gartzke, Erik. (2007). "The Capitalist Peace". ''American Journal of Political Science'' 51(1):166-191.  . 
+
+{{Cite journal | last1=Gelpi | given1=Christopher F. | surname2=Griesdorf | given2=Michael | year= 2001 | title=Winners or Losers? Democracies in International Crisis, 1918–94 |journal=American Political Science Review |volume=95 |issue=3 | page= 633&ndash;647 | url=http://www.duke.edu/~gelpi/democratic.winners.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{cite book|last=George|first=Alexander L.|coauthors=Andrew Bennett|title=Case studies and theory development in the social sciences |location = Cambridge, Mass.|publisher= MIT Press|year =2005|isbn=0262572222}} . 
+
+{{cite journal | author=Gleditsch, Nils P. | title=Democracy and Peace | journal=Journal of Peace Research | year=1992 |volume=29 | pages= 369&ndash;376| doi=10.1177/0022343392029004001 |issue=4 | ref=harv | jstor=425538}} . 
+
+Gleditsch, Nils P. (1995). "Geography, democracy and peace". ''International Interactions'' 20:297–314 . 
+
+{{cite journal | author=Gleditsch, Nils Petter. Christiansen, Lene Siljeholm. Hegre, Håvard | year=2005| title=Democratic Jihad? Military Intervention and Democracy |journal=Paper prepared for the 45th Annual Convention of the International Studies Association, 17–20 March 2004|url=http://www.essex.ac.uk/ecpr/events/jointsessions/paperarchive/uppsala/ws21/Hegre.pdf |format=PDF | ref=harv}} . 
+
+{{Cite journal | given=Cullen F |title=Uncertainty of the Liberal Peace | journal=Journal of Peace Research |volume=41 |issue=5 | year=2004 | pages=589–605 | url=http://www.business.und.edu/goenner/research/Papers/LiberalPeaceV4.3.pdf | doi=10.1177/0022343304045977 | last1=Goenner | first1=C. F. | ref=harv | postscript=<!--None--> }} . 
+
+Gowa, Joanne. ''Ballots and Bullets: The Elusive Democratic Peace''. Princeton: Princeton University Press, 1999. ISBN 0-691-07022-9.  . 
+
+Hardt, Michael and Negri, Antonio. ''Empire''. Harvard University Press, Cambridge (MA), 2000. ISBN 0-674-00671-2.  . 
+
+{{Cite journal | given=Barbara | title=No Lessons Learned from the Holocaust? Assessing Risks of Genocide and Political Mass Murder since 1955 | journal=American Political Science Review |volume=97 |issue=1 | year=2003 | pages=57–73 | url=http://www.cidcm.umd.edu/inscr/genocide/HarffAPSR2003.pdf | doi=10.1017/S0003055403000522 | last1=Harff | first1=Barbara | format= | ref=harv | postscript=<!--None--> }} {{Dead link|date=June 2010}} . 
+
+{{Cite journal | given=Ewan |title=The Democratic Peace Research Program and System Level Analysis | journal=Journal of Peace Research March 2010 vol. 47 no. 2 155-165 | year=2010 | url=http://jpr.sagepub.com/content/47/2/155.abstract | format= | ref=harv | postscript=<!--None--> | doi=10.1177/0022343309356490 | last1=Harrison | first1=E. | volume=47 | issue=2 | pages=155–165 }} . 
+
+Hegre, Havard. 2000. “Development and the Liberal Peace: What does it Take to Be a Trading State?” Journal of Peace Research 37 (January 1):5–30.  . 
+
+{{Cite journal | last1=Hegre | given=Håvard | title=The Limits of the Liberal Peace | journal=Ph.D. Thesis, University of Oslo | year=2004 | url=http://www.prio.no/files/file45955_dissertationfinal.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Hegre | given1=Håvard | surname2=Ellington | given2=Tanja | surname3=Gates | given3=Scott |surname4=Gleditsch | given4=Nils Petter | title=Towards A Democratic Civil Peace? Opportunity, Grievance, and Civil War 1816-1992 | journal=American Political Science Review |volume=95 |issue=1 | year=2001 | page=33&ndash;48 | url=http://www.worldbank.org/research/conflict/papers/peace.htm | ref=harv | postscript=<!--None--> }} . 
+
+{{cite journal | author=Hegre, Håvard | title=Disentangling Democracy and Development as Determinants of Armed Conflict (required) | journal=Presented at the Annual Meeting of the International Studies Association | year=2003 | url=http://www.prio.no/files/file40692_ddcwwb.pdf?PHPSESSID=b8a30ac | ref=harv }} . 
+
+Henderson, Errol. (2002). ''Democracy and War, the End of an Illusion?'' Boulder: Lynne Reiner.  . 
+
+{{Cite journal | last1=Hensel | given1=Paul R. | surname2=Goertz | given2=Gary | surname3=Diehl | given3=Paul F. | title=The Democratice Peace and Rivalries | journal=Journal of Politics |volume=64 | page= 1173&ndash;88 | year=2000 | url=http://garnet.acns.fsu.edu/~phensel/Research/jop00.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{cite journal
+| first = Margaret G. 
+| last = Hermann
+| authorlink =
+| coauthors = Charles W. Kegley, Jr. 
+| year =1996
+| month = September
+| title = Ballots, a Barrier Against the Use of Bullets and Bombs: Democratization and Military Intervention
+| journal = Journal of Conflict Resolution
+| volume =40
+| issue =3
+| pages =436–460
+| id =
+| url =
+| doi = 10.1177/0022002796040003003
+| ref = harv
+}} . 
+
+{{cite journal
+| first = Margaret G. 
+| last = Hermann
+| authorlink =
+| coauthors = Charles W. Kegley, Jr. 
+| year =1998
+| month =June
+| title = The U.S. Use of Military Intervention to Promote Democracy: Evaluating the Record
+| journal = International Interactions
+| volume =24
+| issue =2
+| pages = 91–114. 
+| id =
+| url =
+| doi = 10.1080/03050629808434922
+| ref = harv
+}} . 
+
+{{cite journal
+| first = Margaret G. 
+| last = Hermann
+| authorlink =
+| coauthors = Charles W. Kegley, Jr. 
+| year =1995
+| month =
+| title = Military Intervention and The Democratic Peace
+| journal = International Interactions
+| volume =21
+| issue =1
+| pages =1–21
+| id =
+| url =
+| doi = 10.1080/03050629508434857
+| ref = harv
+}} . 
+
+{{cite journal
+| first = Margaret G. 
+| last = Hermann
+| authorlink =
+| coauthors = Charles W. Kegley, Jr. 
+| year =1996
+| month =
+| title = How Democracies Use Intervention: A Neglected Dimension in Studies of the Democratic Peace
+| journal = Journal of Peace Research
+| volume =33
+| issue =3
+| pages =309–322
+| id =
+| url =
+| doi = 10.1177/0022343396033003005
+| ref = harv
+}} . 
+
+{{cite journal
+| first = Margaret G. 
+| last = Hermann
+| authorlink =
+| coauthors = Charles W. Kegley, Jr. 
+| year =1997
+| month = February
+| title = Putting Military Intervention into the Democratic Peace: A Research Note
+| journal = Comparative Political Studies
+| volume =30
+| issue =1
+| pages =78–107
+| id =
+| url =
+| doi = 10.1177/0010414097030001004
+| ref = harv
+}} . 
+
+{{cite journal
+| first = Margaret G. 
+| last = Hermann
+| authorlink =
+| coauthors = Charles W. Kegley, Jr., Gregory A. Raymond
+| year =1998
+| month = Winter/Spring
+| title = The Rise and Fall of the Nonintervention Norm: Some Correlates and Potential Consequences
+| journal = The Fletcher Forum of World Affairs
+| volume =22
+| issue =1
+| pages =81–101
+| id =
+| url =
+| ref = harv
+}}
+* Hook, Steven W., ed. ''Democratic Peace in Theory and Practice'' (Kent State University Press; 2010) 320 pages
+* Huth, Paul K., et al. ''The Democratic Peace and Territorial Conflict in the Twentieth Century''. Cambridge University Press: 2003. ISBN 0-521-80508-2.  . 
+
+{{Cite journal | last1=Jervis | given=Robert | title=Theories of War in an Era of Leading-Power Peace | journal=American Political Science Review |volume=96 |issue=1 | year=2002 | pages=1–14 | url=http://www.uoregon.edu/~rmitchel/ir/readings/Jervis-APSR2002.pdf | format= | ref=harv | postscript=<!--None-->}} {{Dead link|date=June 2010}} . 
+
+{{Cite journal | given1=Hyung Min | surname2=Rousseau | given2=David L. | title=The Classical Liberals Were Half Right (or Half Wrong): New Tests of the ‘Liberal Peace’, 1960–88 | journal=Journal of Peace Research |volume=42 |issue=5 | year=2005 | pages=523–543 | url=http://www.albany.edu/rockefeller/pos/faculty_2/rousseau%20UAlbany/articles/RousseauJPRSep2005.pdf | doi=10.1177/0022343305056225 | last1=Kim | first1=H. M. | format= | ref=harv | postscript=<!--None--> }} {{Dead link|date=June 2010}} . 
+
+{{cite journal | author=Kant, Immanuel | title=Perpetual Peace: A Philosophical Sketch | year=1795 | url=http://www.mtholyoke.edu/acad/intrel/kant/kant1.htm }} . 
+
+{{Cite journal | last1=Kinsella | given=David |title=No Rest for the Demoratic Peace | journal=American Political Science Review |volume=99 | page= 453&ndash;457 | year=2005 | url=http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=332891 | ref=harv | postscript=<!--None--> }} . 
+
+{{cite book | last=Köchler | first=Hans | year= 1995| title=Democracy and the International Rule of Law: Propositions for an Alternative World Order | publisher= Springer | isbn=3-211-82764-1 }} . 
+
+{{Cite book | last1=Lagazio | given1=Monica | surname2=Russett | given2=Bruce | year= 2004 | chapter=A Neural Network Analysis of Militarized Disputes, 1885-1992: Temporal Stability and Causal Complexity | editor=Diehl, Paul | title=The Scourge of War: New Extensions on an Old Problem | url=http://www.press.umich.edu/pdf/047211395X-ch2.pdf | publisher=[[University of Michigan Press]] | ref=harv | postscript=<!--None--> | isbn=047211395X }} . 
+
+{{cite journal | author= Lai, Brian and Slater, Dan | title=Institutions of the Offensive: Domestic Sources of Dispute Initiation in Authoritarian Regimes, 1950–1992 | journal=American Journal of Political Science | year=2006 |volume=50 | pages= 113 | doi= 10.1111/j.1540-5907.2006.00173.x | ref= harv | issue=1}} . 
+
+{{cite journal|title= Kant or Cant: The Myth of the Democratic Peace
+|first=Christopher|last= Layne
+|journal=International Security|issue= Vol. 19, No. 2. (Autumn, 1994)|pages= 5–49|year=1994
+|volume= 19|doi= 10.2307/2539195|publisher= International Security, Vol. 19, No. 2|ref= harv|jstor=2539195}} . 
+
+{{Cite journal | last1=Leblang | given1=David | surname2=Chan | given2=Steve |title=Explaining Wars Fought by Established Democracies: Do Institutional Constraints Matter?| journal=Political Research Quarterly |volume=56 | page= 385&ndash;400 | year=2003 | url=http://www.prq.uncc.edu/December_2003abs.htm | ref=harv | postscript=<!--None--> }} {{Dead link|date=June 2010}} . 
+
+{{cite journal | author=Levy, Jack S. | title=Domestic politics and war | journal=Journal of Interdisciplinary History | year= 1988|volume=18 | pages= 653&ndash;73 | doi=10.2307/204819 |issue=4 | publisher=Journal of Interdisciplinary History, Vol. 18, No. 4 | ref=harv | jstor=204819}} . 
+
+{{Cite journal | last1=Levy | given1=Gilat | surname2=Razin | given2=Ronny | year= 2004 | title=It Takes Two: An Explanation for the Democratic Peace |journal=Journal of the European Economic Association |volume=2 |issue=1 | page= 1&ndash;29 | url=https://mitpress.mit.edu/journals/pdf/jeea_2_1_1_0.pdf | ref=harv | postscript=<!--None--> }} . 
+
+Lipson, Charles. ''Reliable Partners: How Democracies Have Made a Separate Peace''. Princeton University Press: 2003. ISBN 0-691-11390-4.  . 
+
+{{Cite journal | last1=Mansfield | given1=Edward D. | surname2=Snyder | given2=Jack | year= 2002 | title=Democratic Transitions, Institutional Strength, and War |journal=International Organization |volume=56 |issue=2 | page= 297&ndash;337 | url=http://www.people.fas.harvard.edu/~johnston/mansfield.pdf | ref=harv | postscript=<!--None-->}} . 
+
+{{cite book | last=Mansfield | first=Edward D. | coauthors=Snyder, Jack | year= 2005| title=Electing to Fight: Why Emerging Democracies Go to War | publisher= MIT Press | isbn=0-262-13449-7 }} . 
+
+{{cite journal|title=The Controversy over the Democratic Peace: Rearguard Action or Cracks in the Wall?|first= Zeev|last= Maoz|journal=International Security|issue= Vol. 22, No. 1. (Summer, 1997)|year=1997|pages= 162–198.|volume=22|doi=10.2307/2539333|publisher=International Security, Vol. 22, No. 1|ref=harv|jstor=2539333}} . 
+
+{{cite journal|title= Back to the Future: Instability in Europe after the Cold War
+|first=John J.|last= Mearsheimer
+|journal=International Security|issue= Vol. 15, No. 1. (Summer, 1990)|pages= 5–56|year=1990
+|volume= 15|doi= 10.2307/2538981|publisher= International Security, Vol. 15, No. 1|ref= harv|jstor=2538981}} . 
+
+{{Cite journal | last1=Mousseau | given1=Michael |title=Market Prosperity, Democratic Consolidation, and Democratic Peace | journal=Journal of Conflict Resolution|volume=44 |issue=4 | page= 472&ndash;507 | year=2000 | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Mousseau | given1=Michael |title=An Economic Limitation to the Zone of Democratic Peace and Cooperation| journal=International Interactions|volume=28 |issue=April | page= 137&ndash;164 | year=2002 | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Mousseau | given1=Michael |title=Market Civilization and its Clash with Terror| journal=International Security|volume=27 |issue=3 (Winter) | page= 5&ndash;29 | year=2002–03 | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Mousseau | given1=Michael |title=The Nexus of Market Society, Liberal Preferences, and Democratic Peace: Interdisciplinary Theory and Evidence | journal=International Studies Quarterly |volume=47 |issue=4 | page= 483&ndash;510 | year=2003 | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Mousseau | given1=Michael |title=Comparing New Theory with Prior Beliefs: Market Civilization and the Democratic Peace | journal=Conflict Management and Peace Science |volume=22 |issue=1 | page= 63&ndash;77 | year=2005 | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Mousseau | given1=Michael | surname2=Shi | given2=Yuhand |title=A Test for Reverse Causality in the Democratic Peace Relationship | journal=Journal for Peace Research |volume=36 |issue=6 | page= 639&ndash;663 | year=1999 | ref=harv | postscript=<!--None--> }} . 
+
+{{cite journal | author=Mousseau, Michael |coauthors= Håvard Hegre and John R. Oneal| title=How the Wealth of Nations Conditions the Liberal Peace| journal=European Journal of International Relations |volume=9 |issue=4 | page= 277&ndash;314 | year= 2003 | pages=277 | doi=10.1177/1354066103009002005 | ref=harv}} . 
+
+{{Cite journal | last1=Müller | given1=Harald | surname2=Wolff | given2=Jonas |title=Dyadic Democratic Peace Strikes Back | journal=Paper prepared for presentation at the 5th Pan-European International Relations Conference the Hague, September 9–11, 2004 | year=2004 | url=http://www.sgir.org/conference2004/papers/Mueller%20Wolff%20-%20Dyadic%20Democratic%20Peace%20Strikes%20Back.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{cite journal | author=Müller, Harald | title=The Antinomy of Democratic Peace | journal=International Politics | year=2004 |volume=41 | pages= 494&ndash;520 | url=http://www.ingentaconnect.com/content/pal/ip/2004/00000041/00000004/art00003 | doi=10.1057/palgrave.ip.8800089 | ref=harv | issue=4}} . 
+
+{{cite journal|title=Give Democratic Peace a Chance? How Liberalism Produces Democratic Peace
+|first=John M.|last= Owen
+|journal=International Security|issue= Vol. 19, No. 2. (Autumn, 1994)|pages= 87–125|year=1994
+|doi=10.2307/2539197|volume=19|publisher=International Security, Vol. 19, No. 2|ref=harv|jstor=2539197}} . 
+
+{{cite journal | author=Oneal, John R., and Bruce Russett | title=The Kantian Peace: The Pacific Benefits of Democracy, Interdependence, and International Organizations| journal=World Politics | year=1999 |volume=52 | pages= 1&ndash;37 | url=http://www.yale.edu/unsy/brussett/KantianPeaceWP.pdf| format= &ndash; <sup>[http://scholar.google.co.uk/scholar?hl=en&lr=&q=intitle%3AThe+Kantian+Peace%3A+The+Pacific+Benefits+of+Democracy%2C+Interdependence%2C+and+International+Organizations&as_publication=World+Politics&as_ylo=1999&as_yhi=1999&btnG=Search Scholar search]</sup> | ref=harv | issue=1 | doi=10.1017/S0043887100020013}} {{Dead link|date=June 2008}} . 
+
+{{Cite journal | last1=Oneal | given1=John R. | surname2=Russett | given2=Bruce |title=Causes of Peace: Democracy, Interdependence, and International Organizations, 1885-1992 | journal=Paper presented at the 2001 Annual Meeting of the American Political Science Association, San Francisco, CA | year=2001 | url=http://www.yale.edu/leitner/pdf/2001-13.pdf | format= | ref=harv | postscript=<!--None--> }} {{Dead link|date=June 2010}} . 
+
+{{Cite journal | last1=Oneal | given1=John R. | surname2=Russett | given2=Bruce |title=Rule of Three, Let it Be? When More Really Is Better | journal=Revised version of paper presented at the annual meeting of the Peace Science Society | year=2004 | url=http://www.saramitchell.org/russettoneal04.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{cite journal | author=Owen, John M., IV | year=2005| title=Iraq and the Democratic Peace | journal=Foreign Affairs | issue = Nov.–Dec. 2005|url=http://www.foreignaffairs.org/20051101fareviewessay84611/john-m-owen-iv/iraq-and-the-democratic-peace.html | ref=harv }} . 
+
+{{Cite journal | last1=Oren | given=Ido | year= 1995 | title=The Subjectivity Of The 'Democratic' Peace: Changing U.S. Perceptions Of Imperial Germany | journal=International Security |volume=20 |issue=2 | url=http://www.mtholyoke.edu/acad/intrel/oren.htm | ref=harv | postscript=<!--None-->}}
+* Page Fortna, Virginia (2004): ''Peace time: cease-fire agreements and the durability of peace''. Princeton, NJ: Princeton University Press.  . 
+
+{{cite journal | author=Peceny, Mark and Butler, Christopher K. | title=The Conflict Behavior of Authoritarian Regimes | journal=International Politics | year=2004 |volume=41 | pages= 565&ndash;581 | url=http://www.ingentaconnect.com/content/pal/ip/2004/00000041/00000004/art00006 | doi=10.1057/palgrave.ip.8800093 | ref=harv | issue=4}} . 
+
+{{cite journal | author=Peceny, Mark and Beer, Carolne C. | title=Peaceful Parties and Puzzling Personalists | journal=American Political Science Review | year=2003 |volume=97 | pages= 339&ndash;342 | doi= 10.1017/S0003055403000716 | ref=harv | issue=02 }} . 
+
+{{cite journal|first=Karen K. |last=Peterson |journal=Presented at "Journeys in world Politics," University of Iowa|year=2004|title=Laying to Rest the Autocratic Peace|ref=harv}} . 
+
+{{cite journal | author= Quackenbush, Stephen L. and Rudy, Michael | title=Evaluating the Monadic Democratic Peace | journal=Paper prepared for presentation at the Annual Meeting of the Midwest Political Science Association, Chicago, Illinois, April 20–23, 2006. | year=2006 | url=http://www.missouri.edu/~polswww/papers/monadic%20democratic%20peace_MPSA_.pdf |format=PDF | ref= harv}} . 
+
+{{Cite journal | last1=Raknerud | given1=Arvid | surname2=Hegre | given2=Havard |title=The Hazard of War: Reassessing the Evidence for the Democratic Peace | journal=Journal of Peace Research | year=1997 |volume=34 |issue=4 | page=385&ndash;404 | ref=harv | postscript=<!--None-->}} . 
+
+{{Cite journal | last1=Ravlo | given1=Hilde | surname2=Gleditsch | given2=Nils Peter |title=Colonial War and Globalization of Democratic Values | journal=Paper Presented to the Workshop on ‘Globalization and Armed Conflict’ at the Joint Session of Workshops, European Consortium for Political Research Copenhagen, 15–19 April 2000 | year=2000 | url=http://www.essex.ac.uk/ecpr/events/jointsessions/paperarchive/copenhagen/ws18/ngleditsch_p.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{cite book | author=Ray, James Lee | title=Democracy and International Conflict | publisher=University of South Carolina Press | year=1995 | isbn=1-57003-041-3 }} . 
+
+{{Cite journal | last1=Ray | given=James Lee | year= 1998 | title=Does Democracy Cause Peace? | journal=Annual Review of Political Science |volume=1 | page= 27&ndash;46 | url=http://www.mtholyoke.edu/acad/intrel/ray.htm | ref=harv | postscript=<!--None--> }} . 
+
+{{cite journal|first= James Lee|last= Ray|title=Democracy and Peace Through the Ages: According to Spencer Weart. Prepared for delivery at the annual meeting of the American Political Science Association, Washington DC, August 30-September 3, 2000 |year= 2000|ref= harv}} . 
+
+{{Cite book | last=Ray | given=James Lee | year= 2003 | chapter=A Lakatosian View of the Democratic Peace Research Program | editor=Colin and Miriam Fendius Elman | title=Progress in International Relations Theory | publisher=MIT Press | url=http://sitemason.vanderbilt.edu/files/g/gDf5Ty/6%20ray%20demo%20peace%20FIRST%20PROOFS.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Ray | given=James Lee | year= 2005 | title=Constructing Multivariate Analyses (of Dangerous Dyads) | journal=Conflict Management and Peace Science |volume=22 | page= 277&ndash;292 | url=http://sitemason.vanderbilt.edu/files/g/gDf5Ty/rayconstructingmultivaraite.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Reiter | given=D. |title=Does Peace Nature Democracy? | journal=Journal of Politics |volume=63 |issue=3 |page= 935&ndash;948 | year=2001 | url=http://www.ingentaconnect.com/content/bpl/jopo/2001/00000063/00000003/art00095 | format= | ref=harv | postscript=<!--None--> }} {{Dead link|date=June 2010}} . 
+
+{{cite journal | author= Reiter, Dan and Stam, Allan C. | title=Identifying the Culprit: Democracy, Dictatorship, and Dispute Initiation | journal=American Political Science Review | year=2003 |volume=97 | pages= 333&ndash;337 | doi= 10.1017/S0003055403000704 | ref= harv | issue= 02 }} . 
+
+{{Cite journal | last1=Reuveny | given1=Rafael | surname2=Li | given2=Quan |title=The Joint Democracy – Dyadic Conflict Nexus: A Simultaneous Equations Model| journal=Journal of Politics |volume=47 | page= 325&ndash;346 | year=2003 | url=http://polisci.la.psu.edu/faculty/li/research_papers/paper_files/jointdem_isq_2003.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Rosato | given=Sebastian | title=The Flawed Logic of Democratic Peace Theory | journal=American Political Science Review | year=2003 |volume=97 | page= 585&ndash;602 | ref=harv | postscript=<!--None-->}} . 
+
+{{cite journal | author=Rummel, Rudolph J. | title= Libertarianism and international violence | journal=Journal of Conflict Resolution | year=1983 |volume=27 |issue= | pages=27&ndash;72 | url= | doi=10.1177/0022002783027001002 | ref=harv}} . 
+
+{{Cite document | surname=Rummel | given=Rudolph J. | title=Power Kills: Democracy as a Method of Nonviolence | publisher=Transaction Publishers | year=1997 | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Rummel | given=Rudolph J., with Peace Magazine Editors | title=A Reply to Shimmin | journal=Peace Magazine | year=1999 |volume=15 |issue=5 | page=8 | url=http://www.peacemagazine.org/archive/v15n5p08.htm | ref=harv | postscript=<!--None-->}} . 
+
+{{cite book | author=Russett, Bruce | title=Grasping the Democratic Peace | publisher=Princeton University Press | year=1993 | isbn=0-691-03346-3 }} . 
+
+{{cite journal | author=Russett, Bruce | title=The Democratic Peace: And Yet It Moves | journal=International Security | month=October | year=1995 |volume=19 | pages=164–75 |issue=4 | ref=harv | jstor=2539124 | last2=Layne | first2=C. | last3=Spiro | first3=D. E. | last4=Doyle | first4=M. W.}} . 
+
+{{cite journal | author=Russett, B., and J.R. Oneal, and D. R. David | title=The Third Leg of the Kantian Tripod for Peace: International Organizations and Militarized Disputes, 1950–85 | journal=International Organization| year=1998 |volume=52 | pages= 441&ndash;467 | url=http://www.ingentaconnect.com/content/mitpress/io/1998/00000052/00000003/art00001 | doi=10.1162/002081898550626 | format= &ndash; <sup>[http://scholar.google.co.uk/scholar?hl=en&lr=&q=intitle%3AThe+Third+Leg+of+the+Kantian+Tripod+for+Peace%3A+International+Organizations+and+Militarized+Disputes%2C+1950%E2%80%9385&as_publication=International+Organization&as_ylo=1998&as_yhi=1998&btnG=Search Scholar search]</sup> | ref=harv | issue=3}} {{Dead link|date=April 2009}} . 
+
+Russett, Bruce &; Oneal, John R. (2001) ''Triangulating Peace: Democracy, Interdependence, and International Organizations''. W. W. Norton & Company. ISBN 0-393-97684-X.  . 
+
+{{Cite journal | given=Bruce |title=Bushwhacking the Democratic Peace | journal=International Studies Perspectives |volume=6 |issue=4 | page= 395 | year=2005 | url=http://www.blackwell-synergy.com/doi/abs/10.1111/j.1528-3577.2005.00217.x | doi=10.1111/j.1528-3577.2005.00217.x | last1=Russett | first1=Bruce | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Schwartz | given1=Thomas | surname2=Skinner | given2=Kiron K. | title=The Myth of the Democratic Peace | journal=Orbis |volume=46 |issue=1 |page= 159 | publisher=Foreign Policy Research Institute | year=2002 | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Shimmin | given=Kevin | title=Critique of R. J. Rummel's "Democratic Peace" Thesis | journal=Peace Magazine | year=1999 |volume=15 |issue=5 | page=6 | url=http://www.peacemagazine.org/archive/v15n5p06.htm | ref=harv | postscript=<!--None-->}} . 
+
+{{Cite journal | last1=Slantchev | given1=Branislav L. | surname2=Alexandrova | given2=Anna | surname3=Gartzke | given3=Erik |title=Probabilistic Causality, Selection Bias, and the Logic of the Democratic Peace| journal=American Political Science Review |volume=99 |issue=3 | page= 459&ndash;462 | year=2005 | url=http://polisci.ucsd.edu/~bslantch/published/pdf/bs010o01C.pdf | format= | ref=harv | postscript=<!--None--> }} {{Dead link|date=June 2010}} . 
+
+{{Cite journal | last1=Small | given1=Melvin | surname2=Singer | given2=David J. | title=The War Proneness of Democratic Regimes, 1816-1965|journal=Jerusalem Journal of International Relations|volume=1|year=1976|page=50&ndash;69 | ref=harv | postscript=<!--None-->}} . 
+
+{{cite journal|author=Souva, Mark | title=Institutional Similarity and Interstate Conflict|journal= International Interactions|volume=30| issue = 3|year=2004|pages=263&ndash;281 | doi=10.1080/03050620490492213|ref=harv}} . 
+
+{{cite journal|title= Give Democratic Peace a Chance? The Insignificance of the Liberal Peace
+|first=David E.|last= Spiro
+|journal=International Security|issue= Vol. 19, No. 2. (Autumn, 1994)|pages= 50–86|year=1994
+|volume= 19|doi= 10.2307/2539196|publisher= International Security, Vol. 19, No. 2|ref= harv|jstor=2539196}} . 
+
+{{Cite journal | last1=Terminski | given1=Bogumil |title=The Evolution of the Concept of Perpetual Peace in the History of Political-Legal Thought| journal=Perspectivas Internacionales| year=2010 |volume=10 |issue=1 | page=277&ndash;291 | ref=harv | postscript=<!--None-->}} . 
+
+{{Cite journal | last1=Wayman | given1=Frank |title=Incidence of Militarized Disputes Between Liberal States, 1816-1992| journal=Paper presented at the annual meeting of the International Studies Association, New Orleans, La., Mar. 23-27, 2002 | year=2002 | url=http://isanet.ccit.arizona.edu/noarchive/wayman.html | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Weede | given=Erich |title=The Diffusion of Prosperity and Peace by Globalization | journal=The Independent Review |volume=9 |issue=2 | year=2004 | url=http://www.independent.org/pdf/tir/tir_09_2_1_weede.pdf | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite document | surname=Weart | given=Spencer R. | title=Never at War | publisher=Yale University Press | year=1998 | ref=harv | postscript=<!--None--> }} . 
+
+{{Cite journal | last1=Werner | given1=Suzanne | surname2=Lemke | given2=Douglas |title=Opposites Do Not Attract: The Impact of Domestic Institutions, Power, and Prior Commitments on Alignment Choicesl| journal=International Studies Quarterly |volume=41 |issue=3 | page= 529&ndash;546 | year=1997 | url=http://www.ingentaconnect.com/content/bpl/isqu/1997/00000041/00000003/art00055 | format= | ref=harv | postscript=<!--None--> }} {{Dead link|date=June 2010}} . 
+
+{{Cite journal | last1=Werner | given=Suzanne | title=The Effect of Political similarity on the Onset of Militarized Disputes, 1816-1985 | journal=Political Science Quarterly |volume=53 |issue=2 | page= 343&ndash;374 | year=2000 | ref=harv | postscript=<!--None--> }}
+</div> . 
+
+==Notes==. 
+{{Reflist|colwidth=35em}}
+<!--text of notes is inline, not here. See appropriate section--> . 
+
+==External links==. 
+;Supportive
+* [http://www.hawaii.edu/powerkills/MIRACLE.HTM Rummell's website]
+* [http://paks.uni-duesseldorf.de/index-english.htm "Parliamentary Control of Security Policy" (paks)] Parliamentary Control of Military Security Policy in the EU-25 and the Iraq War 2003. A DFG funded research project at the Heinrich-Heine-University Düsseldorf, Germany . 
+
+;Critical
+* [http://www.hoover.org/publications/digest/3512216.html The Myth of Democratic Pacifism]
+* [http://baltimorechronicle.com/2006/041006Hickman.shtml The Missing Democratic Peace]
+* [http://users.erols.com/mwhite28/demowar.htm Democracies Do Not Make War on One Another ...or Do They?]
+{{international relations theories}} . 
+
+{{DEFAULTSORT:Democratic Peace Theory}}
+[[Category:Political science theories]]
+[[Category:International relations theory]]
+[[Category:Futurology]]
+[[Category:Political theories]]
+[[Category:Peace]]

@@ -1,0 +1,63 @@
+{{Infobox Court Case
+| name = Wilson v United Kingdom
+| court = European Court of Human Rights
+| image = Daily Mail clock, closeup.png
+| date decided = 
+| full name = Wilson and National Union of Journalists, Palmer and NURMTW, Doolan and others v United Kingdom
+| citations = [2002] [http://www.bailii.org/eu/cases/ECHR/2002/552.html ECHR 552], [2002] IRLR 568, (2002) 35 EHRR 20 (applications nos. 30668/96, 30671/96 and 30678/96)
+| judges = 
+| prior actions =  [1995] 2 AC 454; [1995] 2 All ER 100
+| subsequent actions = 
+| opinions = 
+| transcripts =
+| keywords = Union discrimination, freedom of association
+}} . 
+
+'''''Wilson v United Kingdom''''' [2002] [http://www.bailii.org/eu/cases/ECHR/2002/552.html ECHR 552] is a [[UK labour law]] and [[European labour law]] case concerning discrimination by employers against their workers who join and take action through trade unions. After a long series of appeals through the UK court system, the [[European Court of Human Rights]] held that [[ECHR article 11]] protects the fundamental right of people to join a trade union, engage in union related activities and take action as a last resort to protect their interests.  . 
+
+==Facts==. 
+Mr Wilson worked for the [[Daily Mail]] newspaper. The paper derecognised the [[National Union of Journalists]]. Pay was increased for workers who took individual contracts, instead of staying on terms negotiated through collective agreement. Mr Wilson chose not to shift to an individual contract. His salary was not increased as quickly as the rest of his colleagues.  . 
+
+Mr Palmer worked for the ports in Southampton. His employer offered him an individual contract, coupled with a 10 per cent pay increase, but on the condition that he would cease to be represented by the union, the [[National Union of Rail, Maritime and Transport Workers]]. Mr Palmer refused to move to an individual contract. Unlike the other workers, his pay was increased by 8.9 per cent, and did not benefits as others did from a private medical insurance plan. The company then derecognised the union.  . 
+
+Both parties, together with their union, complained that their right to take part in trade union activities was violated under UK law, and if not that UK law, in particular under the [[Trade Union and Labour Relations (Consolidation) Act 1992]] section 148(3) failed to comply with international standards, and the [[European Convention on Human Rights]] article 11.  . 
+
+==Judgment==. 
+===Court of Appeal===. 
+In the Court of Appeal Dillon LJ, Butler-Sloss LJ and Farquharson, LJ held<ref>See ''[[Associated Newspapers Ltd v Wilson]]'' [1995] 2 All ER 100</ref> that the employers' conduct had infringed the then effective [[Employment Protection (Consolidation) Act 1978]] s 23. The employers' action was intended to deter employees from being trade union members and such deterrence was a wholly foreseeable consequence.  . 
+
+===House of Lords===. 
+In the House of Lords, Lord Keith, Lord Bridge, Lord Browne-Wilkinson, Lord Slynn and Lord Lloyd overturned the Court of Appeal. <ref>See ''[[Associated Newspapers Ltd v Wilson]]'' [1995] 2 AC 454, [1995] 2 WLR 354</ref> They held that employers withholding a pay rise  from employees was not "action short of dismissal". It was an omission, and should be interpreted as such given the complex legislative history of the provision. Moreover, the Tribunal had never established that the employers' purpose was to deter its employees from joining a union or penalising them from membership. So the legislation here did not protect Wilson or Palmer’s activities.  . 
+
+Nicholas Underhill QC and Brian Napier acted for Associated Newspapers, and Patrick Elias QC and Nigel Giffin acted for Associated British Ports, while John Hendy QC and Jennifer Eady acted for Mr Wilson and Jeffrey Burke QC and Peter Clark acted for Mr Palmer.  . 
+
+===European Court of Human Rights===. 
+The European Court of Human Rights held that the effect of UK law was to allow employers to treat employees that were unprepared to renounce the right to consult a union less favourably. The use of financial incentives to induce employees to surrender union rights violated ECHR article 11, since it effectively frustrated the union’s ability to strive for protection of its members. Unions have the right to make representations to employers and ultimately take action to protect their interests.  . 
+
+{{quote|46.  The Court agrees with the Government that the essence of a voluntary system of collective bargaining is that it must be possible for a trade union which is not recognised by an employer to take steps including, if necessary, organising [[industrial action]], with a view to persuading the employer to enter into [[collective bargaining]] with it on those issues which the union believes are important for its members' interests. Furthermore, it is of the essence of the right to join a trade union for the protection of their interests that employees should be free to instruct or permit the union to make representations to their employer or to take action in support of their interests on their behalf. If workers are prevented from so doing, their freedom to belong to a trade union, for the protection of their interests, becomes illusory. It is the role of the State to ensure that trade union members are not prevented or restrained from using their union to represent them in attempts to regulate their relations with their employers.  . 
+
+47.  In the present case, it was open to the employers to seek to pre-empt any protest on the part of the unions or their members against the imposition of limits on voluntary collective bargaining, by offering those employees who acquiesced in the termination of collective bargaining substantial pay rises, which were not provided to those who refused to sign contracts accepting the end of union representation. The corollary of this was that United Kingdom law permitted employers to treat less favourably employees who were not prepared to renounce a freedom that was an essential feature of union membership. Such conduct constituted a disincentive or restraint on the use by employees of union membership to protect their interests. However, as the [[House of Lords]]' judgment made clear, domestic law did not prohibit the employer from offering an inducement to employees who relinquished the right to union representation, even if the aim and outcome of the exercise was to bring an end to collective bargaining and thus substantially to reduce the authority of the union, as long as the employer did not act with the purpose of preventing or deterring the individual employee simply from being a member of a trade union.  . 
+
+48.  Under United Kingdom law at the relevant time it was, therefore, possible for an employer effectively to undermine or frustrate a trade union's ability to strive for the protection of its members' interests. The Court notes that this aspect of domestic law has been the subject of criticism by the Social Charter's Committee of Independent Experts and the ILO's Committee on Freedom of Association (see paragraphs 32-33 and 37 above). It considers that, by permitting employers to use financial incentives to induce employees to surrender important union rights, the respondent State has failed in its positive obligation to secure the enjoyment of the rights under Article 11 of the Convention. This failure amounted to a violation of Article 11, as regards both the applicant trade unions and the individual applicants.}} . 
+
+==Significance==. 
+Having been found to stand in breach of international labour law standards in general, and [[ECHR art 11]] in particular, the UK government set about consulting on how to amend [[TULRCA 1992]] to comply with the judgment, but with the objective of changing the law no further than absolutely necessary to comply with the ruling. The result was the [[Employment Relations Act 2004]], which changed, in particular, TULRCA 1992 section 146 to stipulate that all "workers" were protected by the provisions on detriment for union membership and activities.  . 
+
+==See also==. 
+*''[[Demir and Baykara v Turkey]]'' [2008] [http://www.bailii.org/eu/cases/ECHR/2008/1345.html ECHR 1345] . 
+
+==Notes==. 
+{{refs|2}} . 
+
+==References==. 
+*[[KD Ewing]], 'The Implications of Wilson and Palmer' (2003) [http://ilj.oxfordjournals.org/cgi/content/abstract/32/1/1 32(1) Industrial Law Journal 1-22]  . 
+
+==External links==. 
+*[http://cmiskp.echr.coe.int/tkp197/view.asp?action=html&documentId=698431&portal=hbkm&source=externalbydocnumber&table=F69A27FD8FB86142BF01C1166DEA398649 ECtHR judgment] . 
+
+[[Category:United Kingdom labour case law]]
+[[Category:Article 11 of the European Convention on Human Rights]]
+[[Category:European Court of Human Rights cases involving the United Kingdom]]
+[[Category:Trade union case law]]
+[[Category:2002 in case law]]
+[[Category:2002 in the United Kingdom]]

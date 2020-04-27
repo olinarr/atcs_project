@@ -1,0 +1,216 @@
+{{About|the term that is used in philosophy||Naturalism (disambiguation)}}
+{{Irreligion Sidebar}} . 
+
+'''Naturalism''' commonly refers to the viewpoint that [[laws of nature]] (as opposed to [[supernatural]] ones) operate in the universe, and that nothing exists beyond the natural universe or, if it does, it does not affect the natural universe. <ref>Oxford English Dictionary Online [http://www.oed.com/ naturalism] 
+Subscription needed, possibly via a library. </ref> Followers of naturalism (naturalists) assert that natural laws are the rules that govern the structure and behavior of the natural universe, that the [[universe]] is a product of these laws. <ref>{{cite web |url=http://www.newadvent.org/cathen/10713a.htm |title=CATHOLIC ENCYCLOPEDIA: Naturalism |date=21 November 2009 |accessdate=6 March 2012 |quote=Naturalism is not so much a special system as a point of view or tendency common to a number of philosophical and religious systems; not so much a well-defined set of positive and negative doctrines as an attitude or spirit pervading and influencing many doctrines. As the name implies, this tendency consists essentially in looking upon nature as the one original and fundamental source of all that exists, and in attempting to explain everything in terms of nature. Either the limits of nature are also the limits of existing reality, or at least the first cause, [[cosmological argument|if its existence is found necessary]], has nothing to do with the working of natural agencies. All events, therefore, find their adequate explanation within nature itself. But, as the terms nature and natural are themselves used in more than one sense, the term naturalism is also far from having one fixed meaning. }}</ref> . 
+
+Philosopher [[Paul Kurtz]] argues that nature is best accounted for by reference to material principles. These principles include [[mass]], [[energy]], and other physical and chemical properties accepted by the [[scientific community]]. Further, this sense of naturalism holds that [[spirits]], [[deities]], and [[ghosts]] are not real and that there is no "[[Teleology|purpose]]" in nature. Such an absolute belief in naturalism is usually referred to as ''[[metaphysical naturalism]]'' (or ''philosophical naturalism''). <ref name=KurtzDistinction>Paul Kurtz, [http://www.secularhumanism.org/library/fi/kurtz_18_2.html Darwin Re-Crucified ''Darwin Re-Crucified: Why Are So Many Afraid of Naturalism?''] ''Free Inquiry''(Spring 1998), 17</ref> In contrast, assuming naturalism in working methods, without necessarily considering naturalism as an absolute truth with philosophical entailments, is called ''methodological naturalism''. <ref>{{cite web| url = http://www.stephenjaygould.org/ctrl/schafersman_nat.html| title = Naturalism is Today An Essential Part of Science| first = Steven D.| last = Schafersman|authorlink=Steven Schafersman| year=1996| quote= Methodological naturalism is the adoption or assumption of naturalism in scientific belief and practice without really believing in naturalism.}}</ref> . 
+
+[[Theism|Theists]] challenge the idea that nature is all there is. They believe in a god (or gods) that created nature.  Natural laws have a place in their theology; they describe the effects of so-called secondary causes (see [[#History|History]] section, below).  But, natural laws do not define nor limit the deity(ies), who is the primary cause.  . 
+
+In the 20th century, [[W.V. Quine]], [[George Santayana]], and other philosophers argued that the success of naturalism in science meant that scientific methods should also be used in philosophy. Science and philosophy are said to form a [[Continuum (theory)|continuum]], according to this view.  . 
+
+==Origins and history==. 
+The ideas and assumptions of philosophical naturalism were first seen in the works of the [[Ionia]]n [[Pre-Socratic philosophy|pre-Socratic philosophers]]. One such was [[Thales]], considered to be the father of science, as he was the first to give explanations of natural events without the use of supernatural causes. These early philosophers subscribed to principles of empirical investigation that strikingly anticipate naturalism. <ref>[[Jonathan Barnes]]'s introduction to Early Greek Philosophy (Penguin)</ref> . 
+
+The modern emphasis in methodological naturalism primarily originated in the ideas of medieval [[Scholasticism|scholastic]] thinkers during the [[Renaissance of the 12th century]]: . 
+
+:By the late Middle Ages the search for natural causes had come to typify the work of [[Christian]] [[natural philosopher]]s. Although characteristically leaving the door open for the possibility of direct divine intervention, they frequently expressed contempt for soft-minded contemporaries who invoked miracles rather than searching for natural explanations. The University of Paris cleric [[Jean Buridan]] (a. 1295-ca. 1358), described as "perhaps the most brilliant arts master of the Middle Ages," contrasted the philosopher’s search for "appropriate natural causes" with the common folk’s habit of attributing unusual astronomical phenomena to the supernatural. In the fourteenth century the natural philosopher [[Nicole Oresme]] (ca. 1320–82), who went on to become a Roman Catholic [[bishop]], admonished that, in discussing various marvels of nature, "there is no reason to take recourse to the heavens, the last refuge of the weak, or demons, or to our glorious God as if He would produce these effects directly, more so than those effects whose causes we believe are well known to us." . 
+
+:Enthusiasm for the naturalistic study of nature picked up in the sixteenth and seventeenth centuries as more and more Christians turned their attention to discovering the so-called [[first cause|secondary cause]]s that God employed in operating the world. The Italian Catholic [[Galileo Galilei]] (1564–1642), one of the foremost promoters of the new philosophy, insisted that nature "never violates the terms of the laws imposed upon her." <ref>[[Ronald L. Numbers]] (2003). "Science without God: Natural Laws and Christian Beliefs." In: When Science and Christianity Meet, edited by David C. Lindberg, Ronald L. Numbers. Chicago: University Of Chicago Press, p. 267. </ref> . 
+
+During the [[Age of Enlightenment|Enlightenment]], a number of [[philosophers]] including [[Francis Bacon]] and [[Voltaire]] outlined the philosophical justifications for removing appeal to supernatural forces from investigation of the natural world. Subsequent [[scientific revolution]]s would offer modes of explanation not inherently theistic for [[biology]], [[geology]], [[physics]], and other natural sciences.  . 
+
+[[Pierre Simon de Laplace]], when asked about the lack of mention of God in his work on [[celestial mechanics]], is said to have replied, "I had no need of that hypothesis."<ref>[[W. W. Rouse Ball|Rouse Ball, W. W.]] [1908] (2003) "[http://www.maths.tcd.ie/pub/HistMath/People/Laplace/RouseBall/RB_Laplace.html Pierre Simon Laplace (1749–1827)]", in ''A Short Account of the History of Mathematics'', 4th ed., Dover, ISBN 0-486-20630-0</ref> . 
+
+According to [[Steven Schafersman]], president of [[Texas Citizens for Science]], an advocacy group opposing [[creationism]] in public schools,<ref>{{cite news |title=The God curriculum  |url=http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2007/04/07/smcreate07.xml&page=2 |publisher=[[The Daily Telegraph|The Telegraph]] |date=July 4, 2007 |accessdate=2008-12-26 |location=London |first=Sally |last=Williams}}</ref> the progressive adoption of methodological naturalism—and later of metaphysical naturalism—followed the advances of science and the increase of its [[explanatory power]]. <ref>{{cite web| url = http://www.stephenjaygould.org/ctrl/schafersman_nat.html| title = Naturalism is Today An Essential Part of Science| first = Steven D.| last = Schafersman|authorlink=Steven Schafersman| year=1996| at= Section "The Origin of Naturalism and Its Relation to Science"| quote= Naturalism did not exist as a philosophy before the nineteenth century, but only as an occasionally adopted and non-rigorous method among natural philosophers. It is a unique philosophy in that it is not ancient or prior to science, and that it developed largely due to the influence of science.}}</ref> These advances also caused the diffusion of positions associated with metaphysical naturalism, such as [[existentialism]]. <ref>{{cite web| url = http://www.stephenjaygould.org/ctrl/schafersman_nat.html| title = Naturalism is Today An Essential Part of Science| first = Steven D.| last = Schafersman|authorlink=Steven Schafersman| year=1996| at= Section "The Origin of Naturalism and Its Relation to Science"| quote= Naturalism is almost unique in that it would not exist as a philosophy without the prior existence of science. It shares this status, in my view, with the philosophy of existentialism.}}</ref> . 
+
+The current usage of the term naturalism "derives from debates in America in the first half of the last century. The self-proclaimed ‘naturalists’ from that period included [[John Dewey]], [[Ernest Nagel]], [[Sidney Hook]] and [[Roy Wood Sellars]]." For them nature is the only reality.  There is no such thing as 'supernatural'.  The scientific method is to be used to investigate all reality, including the human spirit: “So understood, ‘naturalism’ is not a particularly informative term… The great majority of contemporary philosophers would happily… reject ‘supernatural’ entities, and allow that science is a possible route (if not necessarily the only one) to important truths about the ‘human spirit’.”<ref>Papineau, David [http://plato.stanford.edu/entries/naturalism/ "Naturalism"], in "The Stanford Encyclopedia of Philosophy"</ref> . 
+
+=== Etymology ===. 
+The term "methodological naturalism" for this approach is much more recent. According to [[Ronald Numbers]], it was coined in 1983 by Paul de Vries, a [[Wheaton College, Illinois|Wheaton College]] philosopher. De Vries distinguished between what he called "methodological naturalism," a disciplinary method that says nothing about God's existence, and "metaphysical naturalism," which "denies the existence of a transcendent God."<ref>[[Nick Matzke]]: [http://www.pandasthumb.org/archives/2006/03/on_the_origins.html On the Origins of Methodological Naturalism]. ''The Pandas Thumb'' (March 20, 2006)</ref> The term "methodological naturalism" had been used in 1937 by [[Edgar S. Brightman]] in an article in ''The Philosophical Review'' as a contrast to "naturalism" in general, but there the idea was not really developed to its more recent distinctions. <ref>[http://www.calvin.edu/archive/asa/200603/0501.html ASA March 2006 – Re: Methodological Naturalism]</ref> . 
+
+==Metaphysical naturalism== 
+{{Main|Metaphysical naturalism}} 
+Metaphysical naturalism, also called "ontological naturalism" and "philosophical naturalism", is a philosophical worldview and belief system that holds that there is nothing but natural elements, principles, and relations of the kind studied by the [[natural sciences]], i.e., those required to understand our physical environment by [[mathematical modeling]].  Methodological naturalism, on the other hand, refers exclusively to the methodology of science, for which metaphysical naturalism provides only one possible ontological foundation.  . 
+
+Metaphysical naturalism holds that all properties related to [[consciousness]] and the [[mind]] are reducible to, or [[supervene]] upon, nature.   Broadly, the corresponding theological perspective is [[religious naturalism]] or spiritual naturalism.  More specifically, metaphysical naturalism rejects the [[supernatural]] concepts and explanations that are part of many [[religions]].  . 
+
+==Methodological naturalism== 
+Methodological naturalism is concerned not with claims about what exists but with methods of learning what is nature.  It is strictly the idea that all scientific endeavors—all hypotheses and events—are to be explained and tested by reference to natural causes and events.  The genesis of nature, e.g., by an act of God, is not addressed.  This second sense of naturalism seeks only to provide a framework within which to conduct the scientific study of the laws of nature.  Methodological naturalism is a way of acquiring knowledge. It is a distinct system of thought concerned with a cognitive approach to reality, and is thus a [[epistemology|philosophy of knowledge]]. Studies by sociologist [[Elaine Howard Ecklund|Elaine Ecklund]] suggest that religious scientists do in fact apply methodological naturalism. They report that their religious beliefs affect the way they think about the implications, often moral, of their work, but not the way they practice science. <ref>[http://blog.beliefnet.com/roddreher/2010/04/science-vs-religion-what-do-scientists-say.html Belief Net, "What do scientists say"]</ref><ref>[http://www.amazon.com/Science-vs-Religion-Scientists-Really/dp/0195392981 Elaine Ecklund's book "Science versus Religion: What do scientists really think"]</ref> . 
+
+In a series of articles and books from 1996 onwards, [[Robert T. Pennock]] wrote using the term methodological naturalism to clarify that the [[scientific method]] confines itself to natural explanations without assuming the existence or non-existence of the supernatural, and is not based on dogmatic [[metaphysical naturalism]] as claimed by [[creationism|creationists]] and proponents of [[intelligent design]], in particular [[Phillip E. Johnson]]. Pennock's testimony as an expert witness<ref>[http://www.talkorigins.org/faqs/dover/day3am2.html Kitzmiller trial: testimony of Robert T. Pennock]</ref> at the [[Kitzmiller v. Dover Area School District]] trial was cited by the Judge in his ''Memorandum Opinion'' concluding that "Methodological naturalism is a "ground rule" of science today":<ref name=kitz>[[wikisource:Kitzmiller v. Dover Area School District/4:Whether ID Is Science#4. Whether ID is Science|Kitzmiller v. Dover: Whether ID is Science]]</ref>
+:"Expert testimony reveals that since the scientific revolution of the 16th and 17th centuries, science has been limited to the search for natural causes to explain natural phenomena.... While supernatural explanations may be important and have merit, they are not part of science." Methodological naturalism is thus "a self-imposed convention of science." It is a "ground rule" that "requires scientists to seek explanations in the world around us based upon what we can observe, test, replicate, and verify."<ref>Judge John E. Jones, III [http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover_decision2.html Decision of the Court] Expert witnesses were [[John F. Haught]], [[Robert T. Pennock]], and [[Kenneth R. Miller]].  Links in the original to specific testimony records have been deleted here. </ref> . 
+
+=== Robert T. Pennock ===. 
+Robert T. Pennock contends<ref name=lettuce>[[Robert T. Pennock]], [http://www.msu.edu/~pennock5/research/papers/Pennock_SupNatExpl.html Supernaturalist Explanations and the Prospects for a Theistic Science or "How do you know it was the lettuce?"]</ref> that as [[supernatural]] agents and powers "are above and beyond the natural world and its agents and powers" and "are not constrained by natural laws", only logical impossibilities constrain what a supernatural agent could not do, and "If we could apply natural knowledge to understand supernatural powers, then, by definition, they would not be supernatural". As the supernatural is necessarily a mystery to us, it can provide no grounds on which to judge scientific models. "Experimentation requires observation and control of the variables.... But by definition we have no control over supernatural entities or forces." Science does not deal with meanings; the closed system of scientific reasoning cannot be used to define itself. Allowing science to appeal to untestable supernatural powers would make the scientist's task meaningless, undermine the discipline that allows science to make progress, and "would be as profoundly unsatisfying as the ancient Greek playwright's reliance upon the ''[[deus ex machina]]'' to extract his hero from a difficult predicament." . 
+
+Naturalism of this sort says nothing about the existence or nonexistence of the supernatural, which by this definition is beyond natural testing. As a practical consideration, the rejection of supernatural explanations would merely be pragmatic, thus it would nonetheless be possible, for an ontological supernaturalist to espouse and practice methodological naturalism. For example, a scientist may believe in God, while practicing methodological naturalism in their scientific work. This position does not preclude knowledge that is somehow connected to the supernatural. Generally however, anything that can be scientifically examined and explained would not be supernatural, simply by definition.  . 
+
+=== Alvin Plantinga ===. 
+[[Alvin Plantinga]] is a Professor of Philosophy now at [[Calvin College]], a [[Christian]], and a well-known critic of naturalism.  He argues, in his [[evolutionary argument against naturalism]], that the probability that evolution has produced humans with [[Reliabilism|reliable true beliefs]], is low or inscrutable, unless their evolution was guided, for example, by God.  According to David Kahan of the [[University of Glasgow]], in order to understand how beliefs are warranted, a justification must be found in the context of [[supernatural]] theism, as in Plantinga's epistemology. <ref>{{cite web |url=http://www.giffordlectures.org/Browse.asp?PubID=TPWAPF&Cover=TRUE |title=Gifford Lecture Series - Warrant and Proper Function 1987-1988}}</ref><ref>{{cite web |first=Alvin |last=Plantinga |url=http://chronicle.com/article/Evolution-Shibboleths-and/64990/ |title=Evolution, Shibboleths, and Philosophers — Letters to the Editor |publisher=The Chronicle of Higher Education |date=11 April 2010 |quote=…I do indeed think that evolution functions as a contemporary shibboleth by which to distinguish the ignorant fundamentalist goats from the informed and scientifically literate sheep. <br><br>According to Richard Dawkins, ‘It is absolutely safe to say that, if you meet somebody who claims not to believe in evolution, that person is ignorant, stupid, or insane (or wicked, but I'd rather not consider that).’ Daniel Dennett goes Dawkins one (or two) further: ‘Anyone today who doubts that the variety of life on this planet was produced by a process of evolution is simply ignorant—inexcusably ignorant.’ You wake up in the middle of the night; you think, can that whole Darwinian story really be true? Wham! You are inexcusably ignorant. <br><br>I do think that evolution has become a modern idol of the tribe. But of course it doesn't even begin to follow that I think the scientific theory of evolution is false. And I don't.}}</ref><ref>{{cite book |first=Alvin |last=Plantinga |title=Warrant and Proper Function |location=Oxford |publisher=Oxford University Press |year=1993 isbn=0-19-507863-2 |at=Chap. 11}}</ref> ''(See also [[supernormal stimuli]]).''   . 
+
+Plantinga argues that together, naturalism and evolution provide an insurmountable “''defeater'' for the belief that our cognitive faculties are reliable”, i.e., a [[skeptical argument]] along the lines of Descartes' [[Evil demon]] or [[Brain in a vat]]. <ref name="Beilby2002">{{cite book |first=J.K. |last=Beilby |year=2002 |chapter=Introduction by Alvin Plantinga |title=Naturalism Defeated?: Essays on Plantinga's Evolutionary Argument Against Naturalism |series=Reference, Information and Interdisciplinary Subjects Series |location=Ithaca |publisher=Cornell University Press |isbn=978-0-8014-8763-7 |lccn=2001006111 |url=http://books.google.com/books?id=p40tc_T7-rMC&pg=PA1 |pages=1-2,10}}</ref> . 
+
+{{quotation|Take ''philosophical naturalism'' to be the belief that there aren't any supernatural entities--no such person as God, for example, but also no other supernatural entities, and nothing at all like God. My claim was that naturalism and contemporary evolutionary theory are at serious odds with one another--and this despite the fact that the latter is ordinarily thought to be one of the main pillars supporting the edifice of the former. (Of course I am ''not'' attacking the theory of evolution, or anything in that neighborhood; I am instead attacking the conjunction of ''naturalism'' with the view that human beings have evolved in that way. I see no similar problems with the conjunction of ''theism'' and the idea that human beings have evolved in the way contemporary evolutionary science suggests.) More particularly, I argued that the conjunction of naturalism with the belief that we human beings have evolved in conformity with current evolutionary doctrine… is in a certain interesting way self-defeating or self-referentially incoherent.|Alvin Plantinga|Naturalism Defeated?: Essays on Plantinga's Evolutionary Argument Against Naturalism|“Introduction”<ref name="Beilby2002"/>}} . 
+
+In response to the [[Kitzmiller v. Dover Area School District|Kitzmiller trial]], he noted that science will disregard any belief in a supernatural cause, with no regard for its popular appeal:<ref name="Plantinga2006"/> . 
+
+{{quotation|How does one tell which, if any, of these proposed constraints actually do hold for science?  And why should we think that methodological naturalism really does constrain science? And what does “science” really mean?
+<br><br>
+I don’t have the space to give a complete answer — as one says when he doesn’t know a complete answer — but the following seems sensible: The usual dictionary definitions suffice to give us the meaning of the term “science.” They suggest that this term denotes any activity that is:
+:(a) a systematic and disciplined enterprise aimed at finding out truth about our world, and<br>
+:(b) has significant empirical involvement. Any activity that meets these vague conditions counts as science. 
+But what about methodological naturalism and all the rest of those proposed constraints? Perhaps the following is the best way to think about the matter: There are many related enterprises, all scientific in that they satisfy (a) and (b). For each of those proposed constraints, there is an activity falling under (a) and (b), the aim of which is in fact characterized by that constraint. For each or at any rate many of the proposed constraints there is another activity falling under (a) and (b), the aim of which does not fall under that constraint. Further, when people propose that a given constraint pertains to science just as such, to all of science, so to speak, they are ordinarily really endorsing or recommending one or more of the activities the aim of which is characterized by that constraint. 
+<br><br>
+What are the advantages and disadvantages of doing science in accord with methodological naturalism? There is a good deal to be said on both sides here. For example, if you exclude the supernatural from science, then if the world or some phenomena within it are supernaturally caused — as most of the world’s people believe — you won’t be able to reach that truth scientifically. 
+<br><br>
+Observing methodological naturalism thus hamstrings science by precluding science from reaching what would be an enormously important truth about the world. It might be that, just as a result of this constraint, even the best science in the long run will wind up with false conclusions.|Alvin Plantinga|Science & Theology News|“Whether ID is science isn't semantics”<ref name="Plantinga2006">{{cite web |first=Alvin |last=Plantinga |url=http://www.stnews.org/Commentary-2690.htm |archiveurl=http://web.archive.org/web/20060927232952/http://www.stnews.org/Commentary-2690.htm |archivedate=September 27, 2006 |date=March 7, 2006 |publisher=Science & Theology News |title=Whether ID is science isn't semantics}}</ref>}} . 
+
+=== W. V. Quine ===. 
+{{main|Naturalized epistemology}}
+[[W. V. Quine]] describes naturalism as the position that there is no higher tribunal for truth than natural science itself. There is no better method than the scientific method for judging the claims of science, and there is neither any need nor any place for a "first philosophy", such as (abstract) [[metaphysics]] or [[epistemology]], that could stand behind and justify science or the scientific method.  . 
+
+Therefore, philosophy should feel free to make use of the findings of scientists in its own pursuit, while also feeling free to offer criticism when those claims are ungrounded, confused, or inconsistent. In this way philosophy becomes "continuous with" science. Naturalism is not a dogmatic belief that the modern view of science is entirely correct. Instead, it simply holds that science is the best way to explore the processes of the universe and that those processes are what modern science is striving to understand.  However, this Quinean Replacement Naturalism finds relatively few supporters among philosophers. <ref>[http://plato.stanford.edu/entries/epistemology-naturalized/ Stanford Encyclopedia of Philosophy: Naturalized Epistemology]</ref> . 
+
+=== Karl Popper ===. 
+[[Karl Popper]] equated naturalism with [[inductive reasoning|inductive]] theory of science. He rejected it based on his general critique of induction (see [[problem of induction]]), yet acknowledged its utility as means for inventing conjectures. 
+{{quotation|A naturalistic methodology (sometimes called an "inductive theory of science") has its value, no doubt....  I reject the naturalistic view: It is uncritical. Its upholders fail to notice that whenever they believe to have discovered a fact, they have only proposed a convention. Hence the convention is liable to turn into a dogma. This criticism of the naturalistic view applies not only to its criterion of meaning, but also to its idea of science, and consequently to its idea of empirical method.|Karl R. Popper|[[The Logic of Scientific Discovery]]|(Routledge, 2002), pp. 52–53, ISBN 0-415-27844-9.}}
+Popper instead proposed that science should adopt a methodology based on [[falsifiability]] for [[demarcation problem|demarcation]], because no number of experiments can ever prove a theory, but a single experiment can contradict one.  Popper holds that empirical theories are characterized by falsifiability.  . 
+
+== See also ==. 
+{{col-begin|width=auto}}
+{{col-break}}
+* [[Brights movement]]
+* [[Empiricism]]
+{{col-break}}
+* [[George Santayana]]
+* [[Internet Infidels]]
+* [[Materialism]]
+* [[Metaphysical naturalism]]
+{{col-break}}
+* [[Naturalism (literature)]]
+* [[Naturalistic pantheism]]
+* [[Physicalism]]
+{{col-break}}
+* [[Positivism]]
+* [[Religious Naturalism]]
+* [[Sea of Faith]]
+* [[Sociological naturalism]]
+* [[Supernaturalism]]
+{{col-end}} . 
+
+==Notes==. 
+{{reflist}} . 
+
+==References==. 
+*{{cite book
+| last = Audi
+| first = Robert
+| editor-last = Borchert
+| editor-first = Donald M. 
+| title = The Encyclopedia of Philosophy Supplement
+| year = 1996
+| publisher = Macmillan Reference
+| location = USA
+| pages = 372–374
+| chapter = Naturalism
+| ref = harv
+}}
+*{{cite book
+| last = Danto
+| first = Arthur C. 
+| editor-last = Edwords
+| editor-first = Paul
+| title = The Encyclopedia of Philosophy
+| year = 1967
+| publisher = The Macmillan Co. and The Free Press
+| location = New York
+| pages = 448–450
+| chapter = Naturalism
+| ref = harv
+}}
+*{{cite book
+| last = Kurtz
+| first = Paul
+| title = Philosophical Essays in Pragmatic Naturalism
+| year = 1990
+| publisher = Prometheus Books
+| ref = harv
+}}
+*{{cite book
+| last = Lacey
+| first = Alan R. 
+| editor-last = Honderich
+| editor-first = Ted
+| title = The Oxford Companion to Philosophy
+| year = 1995
+| publisher = Oxford University Press
+| pages = 604–606
+| chapter = Naturalism
+| ref = harv
+}}
+*{{cite book
+| last =Post
+| first =John F. 
+| editor-last = Audi
+| editor-first = Robert
+| title = The Cambridge Dictionary of Philosophy
+| year = 1995
+| publisher = Cambridge University Press
+| pages = 517–518
+| chapter = Naturalism
+| ref = harv
+}}
+*{{cite book
+|last=Sagan
+|first=Carl
+|authorlink=Carl Sagan
+|title=Cosmos
+|publisher=[[Random House]]
+|year=2002
+|isbn=978-0-375-50832-5
+|ref=harv
+}} . 
+
+==Further reading==. 
+* Mario De Caro and David Macarthur (eds) ''Naturalism in Question.'' Cambridge, Mass: Harvard University Press, 2004. 
+* Mario De Caro and David Macarthur (eds) ''Naturalism and Normativity.'' New York: Columbia University Press, 2010. 
+* Friedrich Albert Lange, ''The History of Materialism,'' London: Kegan Paul, Trench, Trubner & Co Ltd, 1925, ISBN 0-415-22525-6
+* David Macarthur, “Quinean Naturalism in Question,” Philo. vol 11, no. 1 (2008).  . 
+
+== External links ==. 
+=== Supportive ===. 
+* [http://www.naturalism.org/ naturalism.org]
+* [http://tupperwoods.com/nature-naturalist-jim-conrad/index.htm Naturalist Newsletter]<!-- Broken 2012-02-18 -->
+* [http://www.naturalism.org/center_for_naturalism.htm Center for Naturalism]
+* [http://www.infidels.org/library/modern/nontheism/naturalism/#method Naturalism: The Naturalistic Worldview]
+* [http://plato.stanford.edu/entries/naturalism/ Naturalism] David Papineau, The Stanford Encyclopedia of Philosophy
+* [http://the-brights.net/ The Brights] Illuminating and elevating the naturalistic worldview . 
+
+=== Neutral ===. 
+* [http://www.leaderu.com/offices/billcraig/docs/craig-taylor0.html The Craig-Taylor Debate]: Is The Basis Of Morality Natural Or Supernatural? William Lane Craig and Richard Taylor October 1993, Union College (Schenectady, New York)
+* [http://www.iep.utm.edu/n/naturali.htm Naturalism] Jon Jacobs, The Internet Encyclopedia of Philosophy . 
+
+=== Critical ===. 
+* [http://www.newadvent.org/cathen/10713a.htm Naturalism article in the Catholic Encyclopedia]
+* Dennis Polis, [http://xianphil.org/book_gsm.html ''God, Science and Mind: The Irrationality of Naturalism'']
+* {{cite journal | author=Alvin Plantinga | title=Naturalism Defeated | year=1994 | url=http://www.calvin.edu/academic/philosophy/virtual_library/articles/plantinga_alvin/naturalism_defeated.pdf }} (pdf)
+* A shorter version of [http://gotjustice.wordpress.com/2007/09/04/the-incompatibility-of-naturalism-and-reason-or-proof-of-the-supernatural/ C. S. Lewis' Dangerous Idea]
+* Philip Johnson's [http://www.arn.org/docs/johnson/pjdogma1.htm Evolution as Dogma: The Establishment of Naturalism] from ''[[First Things]]''
+* Robert A. Delfino's (2007) [http://www.metanexus.net/Magazine/tabid/68/id/10028/Default.aspx Replacing Methodological Naturalism] . 
+
+{{metaphysics}}
+{{philosophy of religion}}
+{{philosophy of science}}
+{{Philosophy topics}} . 
+
+{{DEFAULTSORT:Naturalism (Philosophy)}}
+[[Category:Epistemological theories]]
+[[Category:Metaphysical theories]]
+[[Category:Metatheory of science]]
+[[Category:Secularism]]
+[[Category:Atheism]]
+[[Category:Materialism]]
+[[Category:Naturalism (philosophy)| ]]
+[[Category:Metaphilosophy]]

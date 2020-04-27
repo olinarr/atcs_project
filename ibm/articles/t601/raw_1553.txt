@@ -1,0 +1,265 @@
+{{Economics sidebar}}
+'''Unemployment benefits''' are payments made by the [[sovereign state|state]] or other authorized bodies to [[unemployment|unemployed]] people. Benefits may be based on a compulsory para-governmental insurance system. Depending on the jurisdiction and the status of the person, those sums may be small, covering only basic needs (thus a form of basic [[welfare]]), or may compensate the lost time proportionally to the previous earned salary. They often are part of a larger [[social security]] scheme.  . 
+
+Unemployment benefits are generally given only to those registering as unemployed, and often on conditions ensuring that they seek work and do not currently have a job.  . 
+
+In some countries, a significant proportion of unemployment benefits are distributed by [[trade union|trade/labor unions]], an arrangement known as the [[Ghent system]].  . 
+
+==Argentina== . 
+
+In [[Argentina]], successive administrations have used a variety of passive and active labor market interventions to protect workers against the consequences of economic shocks and the government's key institutional response to combat the increase in poverty and unemployment created by the crisis was the launch of an active unemployment assistance program called Plan Jefas y Jefes de Hogar Desocupados (Program for Unemployed Heads of Households).  . 
+
+'''External links'''
+* [http://ftp.iza.org/dp3579.pdf] Unemployment Assistance and Transition to Employment in Argentina . 
+
+==Australia== . 
+
+{{Main|Social Security (Australia)}} . 
+
+In [[Australia]], social security benefits, including unemployment benefits, are funded through the income tax system. There is no compulsory national unemployment insurance fund. Rather, benefits are funded in the annual Federal Budget by the National Treasury and are administrated and distributed throughout the nation by the government agency, [[Centrelink]]. Benefit rates are indexed to the Consumer Price Index and are adjusted twice a year according to inflation or deflation.  . 
+
+There are two types of payment available to those experiencing unemployment. The first, called Youth Allowance, is paid to young people aged 16–20 (or 15, if deemed to meet the criteria for being considered 'independent' by Centrelink). Youth Allowance is also paid to full-time students aged 16–24, and to full-time Australian Apprenticeship workers aged 16–24. People aged below 18 who have not completed their High School education, are usually required to be in full-time education, undertaking an apprenticeship or doing training to be eligible for Youth Allowance. For single people under 18 years of age living with a parent or parents the basic rate is [[Australian dollar|A$]]91.60 per week. For over 18 to 20 years olds living at home this increases to A$110.15 per week. For those aged 18–20 not living at home the rate is A$167.35 per week. There are special rates for those with partners and/or children.  . 
+
+The second kind of payment is called Newstart Allowance and is paid to unemployed people over the age of 21 and under the pension eligibility age. To receive a Newstart payment, recipients must be unemployed, be prepared to enter into an Employment Pathway Plan (previously called an Activity Agreement) by which they agree to undertake certain activities to increase their opportunities for employment, be  Australian Residents and satisfy the income test (which limits weekly income to A$32 per week before benefits begin to reduce, until one's income reaches A$397.42 per week at which point no unemployment benefits are paid) and the assets test (an eligible recipient can have assets of up to A$161,500 if he or she owns a home before the allowance begins to reduce and $278,500 if he or she does do not own a home). The rate of Newstart allowance as at the 12th January 2010 for single people without children is A$228 per week, paid fortnightly. (This does not include supplemental payments such as Rent Assistance.) Different rates apply to people with partners and/or children.  . 
+
+The system in Australia is designed to support citizens no matter how long they have been unemployed. This has been criticised by some conservative commentators {{Who|date=June 2011}}, who allege that welfare generates a 'culture of welfare dependence' {{Citation needed|date=June 2011}}. In recent years the former [[Australian Liberal Party|Coalition]] government under [[John Howard]] has increased the requirements of the Activity Agreement, providing for controversial schemes such as [[Work for the Dole]], which requires that people on benefits for 6 months or longer work voluntarily for a community organisation regardless of whether such work increases their skills or job prospects. Since the [[Australian Labor Party|Labor]] government under [[Kevin Rudd]] was elected in 2008, the length of unemployment before one is required to fulfill the requirements of the Activity Agreement (which has been renamed the Employment Pathway Plan) has increased from six to twelve months. There are other options available as alternatives to the Work for the Dole scheme, such as undertaking part-time work or study and training, the basic premise of the Employment Pathway Plan being to keep the welfare recipient active and involved in seeking full-time work.  . 
+
+For people renting their accommodation, unemployment benefits are supplemented by Rent Assistance, which, for single people as at the 12th January, 2010, begins to be paid when the weekly rent is more than A$49.70. Rent Assistance is paid as a proportion of total rent paid (to be precise, 75 cents in the dollar over $49.70 up to the maximum). The maximum amount of rent assistance payable is A$55.90 per week, and is paid when the total weekly rent exceeds A$124.24 per week. Different rates apply to people with partners and/or children, or who are sharing accommodation.  . 
+
+In Australia, as in the United Kingdom, unemployment benefits are commonly referred to as "the dole"; to receive the benefit is to "be on the dole". "Dole" here is an archaic expression meaning "one's allotted portion", from the synonymous [[Old English]] word ''dāl''. <ref name="mw">[http://www.merriam-webster.com/dictionary/dole Merriam-Webster:  dole]</ref> . 
+
+'''External links'''
+* [http://www.centrelink.gov.au Centrelink web-site] . 
+
+==Canada==. 
+{{cleanup|section|date=September 2009}}
+In [[Canada]], the system now known as Employment Insurance was formerly called Unemployment Insurance. The name was changed in 1996, in order to alleviate perceived negative connotations. In 2011, Canadian workers pay premiums of 1.78%<ref>{{cite web |url= http://www.servicecanada.gc.ca/eng/ei/information/maximum2011.shtml |title= Services Canada - Information about Insurable Earnings}}</ref> of insured earnings in return for benefits if they lose their jobs. Employers contribute 1.4 times the amount of employee premiums. Since 1990, there is no government contribution to this fund. The amount a person receives and how long they can stay on EI varies with their previous salary, how long they were working, and the unemployment rate in their area. The EI system is managed by [[Service Canada]], a service delivery network reporting to the Minister of [[Human Resources and Social Development Canada]].  . 
+
+A bit over half of EI benefits are paid in Ontario and the Western provinces but EI is especially important in the Atlantic provinces, which have higher rates of unemployment. Many Atlantic workers are also employed in seasonal work such as fishing, forestry or tourism and go on EI over the winter when there is no work. There are special rules for fishermen making it easier for them to collect EI. EI also pays for [[Parental leave|maternity and parental leave]], [[compassionate care leave]], and illness coverage. The program also pays for retraining programs (EI Part II) through labour market agreements with the Canadian provinces.  . 
+
+An unemployment insurance program was first attempted in 1935 during the [[Great Depression]] by the government of [[R.B. Bennett]]. It was, however, ruled unconstitutional by the [[Supreme Court of Canada]] as unemployment was judged to be an insurance matter falling under provincial responsibility. After a constitutional amendment was agreed to by the provinces, a reference to "Unemployment Insurance" was added to the matters falling under federal authority under the [[Constitution Act, 1867]], and the first Canadian system was adopted in 1940. Because of these problems Canada was the last major Western country to bring in an employment insurance system. It was extended dramatically by [[Pierre Trudeau]] in 1971 making it much easier to get. The system was sometimes called the 10/42, because one had to work for 10 weeks to get benefits for the other 42 weeks of the year. It was also in 1971 that the UI program was first opened up to maternity and sickness benefits, for 15 weeks in each case.  . 
+
+The generosity of the Canadian UI program was progressively reduced after the adoption of the 1971 UI Act. At the same time, the federal government gradually reduced its financial contribution, eliminating it entirely by 1990. The EI system was again cut by the Progressive Conservatives in 1990 and 1993, then by the [[Liberal Party of Canada|Liberals]] in 1994 and 1996. Amendments made it harder to qualify by increasing the time needed to be worked, although seasonal claimants (who work long hours over short periods) turned out to gain from the replacement, in 1996, of weeks by hours to qualify. The ratio of beneficiaries to unemployed, after having stood at around 40 percent for many years, has recently reached close to 50% (end of 2009). <ref>{{cite web |url= http://www.hrsdc.gc.ca/eng/employment/ei/premium_rate/2010/index.shtml |title= 2010 Report of the Chief Actuary to the Employment Insurance Commission on the Employment Insurance Break-even Premium Rate and Maximum Insurable Earnings, Appendix III (Human Resources and Skills Development Canada, Oct. 2009)}}</ref> Many unemployed persons are not covered for benefits (e.g. the self-employed), while others may have exhausted their benefits or did not work long enough to qualify. However, it is noted that 80 percent of insured job-losers do initially receive EI benefits in Canada. The length of time one could take EI has also been cut repeatedly. The 1994 and 1996 changes contributed to a sharp fall in Liberal support in the Atlantic provinces in the [[Canadian federal election, 1997|1997 election]].  . 
+
+In 2001, the federal government increased parental leave from 10 to 35 weeks and allowed workers to take EI for compassionate care leave while caring for a dying relative. Total EI spending is projected at $22.7 billion for 2010 (figures in [[Canadian dollar]]s). <ref>{{cite web |url= http://www.hrsdc.gc.ca/eng/employment/ei/premium_rate/2010/index.shtml |title= 2010 Report of the Chief Actuary to the Employment Insurance Commission on the Employment Insurance Break-even Premium Rate and Maximum Insurable Earnings, section 7 (Human Resources and Skills Development Canada, Oct. 2009)}}</ref> . 
+
+A significant part of the federal fiscal surplus of the [[Jean Chrétien]] and [[Paul Martin]] years came from the EI system. Premiums were reduced much less than falling expenditures - producing, from 1994 onwards, EI surpluses of several billion dollars per year, which were added to general government revenue. <ref>{{cite web |url= http://www.actuaries.ca/members/publications/2007/207111e.pdf |title= A Look Back and A Way Forward: Actuarial Views on the Future of the Employment Insurance System, page 14(Canadian Institute of Actuaries, Nov. 2007)}}</ref> The cumulative EI surplus stood at $57 billion at March 31, 2008,<ref>{{cite web |url= http://www.tpsgc-pwgsc.gc.ca/recgen/pdf/49-eng.pdf |title= Public Accounts of Canada, 2008, page 4.16}}</ref> nearly four times the amount needed to cover the extra costs paid during a recession. <ref>{{cite web |url= http://www.actuaries.ca/members/publications/2007/207111e.pdf |title= A Look Back and A Way Forward: Actuarial Views on the Future of the Employment Insurance System, page 8(Canadian Institute of Actuaries, Nov. 2007)}}</ref> This drew criticism from Opposition parties and from business and labour groups, and has remained a recurring issue of the public debate. The [[Conservative Party of Canada|Conservative Party]], after voicing much the same criticism while in opposition,<ref>{{cite web |url= http://cmte.parl.gc.ca/Content/HOC/committee/381/huma/reports/rp1624652/humarp03/humarp03-e.pdf |title= RESTORING FINANCIAL GOVERNANCE AND ACCESSIBILITY IN THE EMPLOYMENT INSURANCE PROGRAM - Report of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities, page 59: DISSENTING OPINION, Conservative Party of Canada - Peter Van Loan, M.P., York-Simcoe - CPC HRSDC Critic - February 09, 2005}}</ref> chose not to recognize existing EI surpluses after [[Canadian federal election, 2006|being elected in 2006]]. Instead, the Conservative government adopted in 2008 and 2009 legislation freezing the EI surplus indefinitely and putting EI premiums on a pay-as-you-go basis, so that - starting in 2011 - they will fluctuate in line with changes in unemployment levels. <ref>{{cite web |url= http://www.parl.gc.ca/information/library/PRBpubs/prb0341-e.htm |title= Employment Insurance Premiums: In Search of a Genuine Rate-Setting Process, Library of Parliament, Parliamentary Information and Research Service}}</ref> On December 11, 2008, the [[Supreme Court of Canada]] rejected a court challenge launched against the federal government by two Quebec unions, who argued that EI funds had been misappropriated by the government. <ref>{{cite web |url= http://scc.lexum.umontreal.ca/en/2008/2008scc68/2008scc68.html |title= Text of judgment rendered by the Supreme Court of Canada on Employment Insurance surpluses - Confédération des syndicats nationaux v. Canada (Attorney General)}}</ref> . 
+
+'''External links'''
+* [http://www.mapleleafweb.com/features/employment-insurance-canada-history-structure-and-issues] History of UI in Canada, since  1930s
+* [http://www.servicecanada.gc.ca/eng/sc/ei/index.shtml] Canadian Government Site for EI
+* [http://www.servicecanada.gc.ca/eng/sc/ei/benefits/maternityparental.shtml] Canadian Government Site for Maternity and Parental Benefits
+* [http://www.parl.gc.ca/information/library/PRBpubs/prb0341-e.htm] Library of Parliament publication on EI premiums
+* [http://archives.cbc.ca/economy_business/employment/topics/3693/ CBC Digital Archives - On The Dole: Employment Insurance in Canada] . 
+
+==China==. 
+The level of benefit is set between the minimum wage and the minimum living allowance by individual [[Province (China)|provinces]], [[autonomous regions]] and [[Municipality (China)|municipalities]]{{Citation needed|date=September 2011}}.  . 
+
+==Greece==. 
+Unemployment benefits in Greece are administered through [[OAED]] (Labor Force Employment Organization) and are available only to laid-off salaried workers with full employment and social security payments during the previous two years.  The self-employed do not qualify, and neither do those with other sources of income.  The monthly benefit is fixed at the "55% of 25 minimum daily wages", and is currently 454 [[euro]]s per month, with a 10% increase for each under-age child. Recipients are eligible for at most 12 months; the exact duration depends on the collected number of ensema ''ένσημα'', that is social security payment coupons-stamps collected (id est days of work) during the 14 months before being laid off. <ref>(in Greek) [http://www.oaed.gr/Pages/SN_58.pg OAED Unemployment Benefits]</ref> . 
+
+==Ireland==. 
+People aged 18 and over and who are unemployed in  [[Republic of Ireland|Ireland]] can apply for either the '''Jobseeker's Allowance''' (''Liúntas do Lucht Cuardaigh Fostaíochta'') or the '''Jobseeker's Benefit''' (''Sochar do Lucht Cuardaigh Fostaíochta''). Both are paid by the [[Department of Social Protection]] and are nicknamed "the dole".  . 
+
+The standard payment is €188  per week. Payments can be increased if the unemployed has dependants. For each adult dependent, another €124.80  is added; and for each child dependent, another €29.80 is added.  . 
+
+There are more benefits available to unemployed people, usually on a special or specific basis. Benefits include the ''Rent Supplement'', the ''Mortgage Interest Supplement'', ''Fuel Allowance'' and the ''Smokeless Fuel Allowance'', among others. People on a low income (which includes those on JA/JB) are entitled to a Medical Card (although this must be applied for separately from the [[Health Service Executive]]) which provides free health care, optical care, dental care, aural care, and prescription drugs (as opposed to subsidised services like non medical-card holders).  . 
+
+To qualify for Jobseekers Allowance, claimants must satisfy the "Habitual Residence Condition": they must have been legally in the state (or the [[Common Travel Area]]) for two years or have another good reason (such as lived abroad and are returning to Ireland after become unemployed or deported). This condition does not apply to Jobseekers Benefit (which is based on Social Insurance payments).  . 
+
+More information on each benefit can be found here:
+*[http://www.citizensinformation.ie/categories/social-welfare/social-welfare-payments/unemployed-people/jobseekers-allowance Jobseeker's Allowance]
+*[http://www.citizensinformation.ie/categories/social-welfare/social-welfare-payments/unemployed-people/unemployment_benefit Jobseeker's Benefit] . 
+
+==Italy==. 
+{{Main|Unemployment benefits in Italy}}
+Unemployment benefits in [[Italy]] consists mainly in cash transfers based on [[contributions]] (''indennità di disoccupazione''), up to the 40 percent of the previous wages for up to seven months. Other measures are:
+* Redundancy Fund (''Cassa integrazione guadagni'', [[CIG]]): cash benefits provided as [[shock absorbers]] to those workers who are suspended or who work only for reduced time due to temporary difficulties of their factories, aiming to help the factories in financial difficulties, by relieving them from the costs of unused workforce
+* Solidarity Contracts (''Contratti di solidarietà''): in the same cases granting CIG benefits, companies can sign contracts with reduced work time, to avoid dismissing redundancy workers. The state will grant to those workers the 60 percent of the lost part of the wage. 
+* Mobility allowances (''Indennità di mobilità''),: if the Redundancy Fund does not allow the company to re-establish a good financial situation, the workers can be entitled to mobility allowances. Other companies are provided [[incentive]]s for employing them. 
+In the Italian unemployment insurance system all the measures are [[income]]-related, and they have an average [[decommodification]] level. The basis for entitlement is always [[employment]], with more specific conditions for each case, and the provider is quite always the state. An interesting feature worthy to be discussed is that the Italian system takes in consideration also the economic situation of the employers, and aims as well at relieving them from the costs of crisis.  . 
+
+==Japan==. 
+Unemployment benefits in Japan are called "unemployment insurance" and are closer to the US or Canadian "user pays" system than the taxpayer funded systems in place in countries such as Britain, New Zealand, or Australia. It is paid for by contributions by both the employer and employee. <ref>Tokyo Employment Service Center for Foreigners website [http://www.tfemploy.go.jp/en/spec/spec_1d.html For foreign nationals working in Japan] Retrieved on November 23rd 2010</ref> . 
+
+By law, workers ask their employer to enroll them. If they have been enrolled for at least 6 months and are fired or made redundant, leave the company at the end of their contract, or their contract is non-renewed, the now-unemployed worker will receive unemployment insurance. If a worker quit of their own accord they may have to wait between 1 to 3 months before receiving any payment.  . 
+
+The length of time that unemployed workers can receive benefits for depends on the age of the employee, and how long they were employed for. <ref>Nagoya International Center [http://www.nic-nagoya.or.jp/en/e/2010/09/09/unemployment-insurance-3/ Insurance] Retrieved on November 23rd 2010</ref> . 
+
+==New Zealand==. 
+{{Main|Social welfare in New Zealand}}
+In [[New Zealand]], the Unemployment Benefit provides income support for people who are looking for work or training for work. It is one of a number of benefits administered by [[Work and Income]], a service of the Ministry of Social Development.  . 
+
+To get this benefit, a person must meet the conditions and obligations specified in section 88A to 123D Social Security Act 1964. These conditions and obligations cover things such as age, residency staus, and availability to work. <ref>[http://www.workandincome.govt.nz/manuals-and-procedures/income_support/main_benefits/unemployment_benefit/unemployment_benefit.htm Unemployment Benefit] Manuals and Procedures - Work and Income website</ref>  . 
+
+The amount that is paid depends on things such as the person's age, income, marital status and whether they have children. It is adjusted annually on 1 April and in response to changes in legislature. Some examples of the maximum after tax weekly rate at 1 april 2011 are: 
+* $167.83 for a single person aged 20–24 years without children
+* $288.47 for a sole parent
+* $335.66 for a married, de-facto or civil union couple with or without children ($167.83 each). <ref>[http://www.workandincome.govt.nz/individuals/forms-and-brochures/benefit-rates-april-2011.html Work and Income Unemployment Benefit Rates]</ref> . 
+
+More information about this benefit and the amounts paid are the Work and Income website. <ref>[http://www.workandincome.govt.nz/individuals/a-z-benefits/unemployment-benefit.html Unemployment Benefit] Work and Income website</ref>  . 
+
+'''External links'''
+* [http://www.workandincome.govt.nz Work and Income web-site]
+* [http://www.legislation.govt.nz/act/public/1964/0136/latest/DLM359107.html Social Security Act 1964] . 
+
+==Sweden==. 
+{{Main|Unemployment benefits in Sweden}}
+[[Sweden]] uses the [[Ghent system]], under which a significant proportion of unemployment benefits are distributed by [[trade union|unions]]. Unemployment benefits are divided into a voluntary scheme with income related compensation up to a certain level and a comprehensive scheme that provides a lower level of basic support. The voluntary scheme requires a minimum of 12 months membership and a certain degree of employment during that time before any claims can be made. Employers pay a fee on top of the pre-tax income of their employees, which together with membership fees, fund the scheme (see [[Unemployment funds in Sweden]]).  . 
+
+The maximum unemployment benefit is (as of July 2007) [[SEK]] 680 per day. During the first 200 days the unemployed will receive 80 percent of his or her normal income during the last 12 months. From day 201-300 this goes down to 70 percent and from day 301-450 the insurance covers 65 percent of the normal income (only available for parents to children under the age of 18). In Sweden tax is paid on unemployment benefits, so the unemployed will get a maximum of about SEK 10,000 per month during the first 100 days (depending on the [[municipality]] tax rate). In other currencies this means a maximum of approximately £730, $1,650, or [[€]]1,100, each month after tax. Private insurance is also available, mainly through professional organizations, to provide income related compensation that otherwise exceeds the ceiling of the scheme. The comprehensive scheme is funded by tax.  . 
+
+==Saudi Arabia==. 
+[[Saudi Arabia]] is an economic [[welfare state]] with free medical care<ref>[http://www.mofa.gov.sa/Detail.asp?InSectionID=1516&InNewsItemID=1746 The Kingdom Of Saudi Arabia - A Welfare State]</ref> and unemployment benefits. <ref>[http://saudinf.com/main/h814.htm Social Services at Saudinf]</ref>  However, the country relies not on taxation but mainly [[oil]] revenues to maintain the social and economic services to its populace.  . 
+
+'''External links'''
+*[http://saudinf.com/main/h814.htm Social Services of Saudi Arabia] . 
+
+==United Kingdom==. 
+{{Main|Jobseeker's Allowance}} . 
+
+===Jobseeker's Allowance rates===. 
+JSA for a single person is changed annually, and at June 29, 2009 the maximum payable was [[£]]65.45 per week for a person aged over 25, £53.45 per week for a person aged 18–24. The rules for couples where both are unemployed are more complex, but a maximum of £102.75 per week is payable, dependent on age and other factors. Income-based JSA is reduced for people with savings of over £6,000, by a reduction of £1 per week per £250 of savings, up to £16,000. People with savings of over £16,000 are not able to get IB-JSA at all. <ref>Source: Benefit & Tax Credit Rates 2006 — © [[Citizens Advice Bureau]] (United Kingdom) and the [[Child Poverty Action Group]]</ref> The British system provides rent payments as part of a separate scheme called [[Housing Benefit]].  . 
+
+===History and etymology=== . 
+
+Unemployment benefits were first instituted in 1911. Ten years later over two million people were relying on the payments, as the United Kingdom experienced economic hardship after [[World War I]].  . 
+
+Unemployment benefit is commonly referred to as "the dole"; to receive the benefit is to "be on the dole". "Dole" here is an archaic expression meaning "one's allotted portion", from the synonymous [[Old English]] word ''dāl''. <ref name="mw">[http://www.merriam-webster.com/dictionary/dole Merriam-Webster:  dole]</ref> . 
+
+==United States== . 
+
+'''Unemployment compensation''' is money received from the United States and a state by a worker who has become unemployed through no fault of their own. In the United States, this compensation is classified as a type of social welfare benefit. According to the [[Internal Revenue Code]], these types of benefits are to be included in a taxpayer's gross income. <ref>{{cite web |title=Tax Topics - Topic 418 Unemployment Compensation |work=Internal Revenue Service |url=http://www.irs.gov/taxtopics/tc418.html }}</ref> . 
+
+=== Federal-state joint programs ===. 
+The idea of unemployment insurance in the United States originated in [[Wisconsin]] in 1932. <ref name="UNEMPLOY 213">{{cite book |last=Zimmerman |first=Joseph F. |title= '''''State and Local Government''''' |year= 1970 |publisher= [[Barnes & Noble]] |location=[[New York, New York]] |isbn= | pages=213}}</ref> In the [[United States]], there are 50 state '''unemployment insurance''' programs plus one each in the [[District of Columbia]], [[Puerto Rico]] and [[United States Virgin Islands]]. Through the [[Social Security Act]] of 1935, the [[federal government of the United States]] effectively encouraged the individual states to adopt unemployment insurance plans.  . 
+
+Unemployment insurance is a federal-state program jointly financed through federal and state employer payroll taxes (federal and state UI taxes). <ref name="LABOR UNEMPLOY">[http://workforcesecurity.doleta.gov/unemploy/uitaxtopic.asp U.S. Department of Labor: Employment & Training Administration: Unemployment Insurance Tax Topic]</ref> Generally, employers must pay both state and federal unemployment taxes if: . 
+
+::(1) they pay wages to employees totaling $1,500 or more in any quarter of a calendar year; or,<ref name="LABOR UNEMPLOY"/>
+::(2) they had at least one employee during any day of a week during 20 weeks in a calendar year, regardless of whether the weeks were consecutive. However, some state laws differ from the federal law. <ref name="LABOR UNEMPLOY"/> . 
+
+To facilitate this program, the U.S. Congress passed the [[Federal Unemployment Tax Act]] (FUTA), which authorizes the [[Internal Revenue Service]] (IRS) to collect an annual federal employer tax used to fund state workforce agencies. FUTA covers the costs of administering the Unemployment Insurance and Job Service programs in all states. In addition, FUTA pays one-half of the cost of extended unemployment benefits (during periods of high unemployment) and provides for a fund from which states may borrow, if necessary, to pay benefits. As originally established, the states paid the federal government. <ref name="LABOR UNEMPLOY"/> . 
+
+The FUTA tax rate was originally three percent of taxable wages collected from employers who employed at least four employees,<ref name="UNEMPLOY 182">{{cite book |last=Zimmerman |first=Joseph  F. |title= '''''State and Local Government'''''|year= 1970 |publisher= [[Barnes & Noble]] |location=[[New York, New York]] |isbn= | pages=182}}</ref> and employers could deduct up to 90 percent of the amount due if they paid taxes to a state to support a system of unemployment insurance which met Federal standards,<ref name="UNEMPLOY 213"/> but the rules have changed as follows. The FUTA tax rate is now, effective after June 30, 2011, 6.0 percent of taxable wages of employees who meet both the above and following criteria,<ref name="LABOR UNEMPLOY"/> and the taxable wage base is the first $7,000 paid in wages to each employee during a calendar year. <ref name="LABOR UNEMPLOY"/> Employers who pay the state unemployment tax on a timely basis receive an offset credit of up to 5.4 percent regardless of the rate of tax they pay their state. Therefore, the net FUTA tax rate is generally 0.6 percent (6.0 percent - 5.4 percent), for a maximum FUTA tax of $42.00 per employee, per year (.008 X $7,000 = $56.00). State law determines individual state unemployment insurance tax rates. <ref name="LABOR UNEMPLOY"/> In the United States, unemployment insurance tax rates use [[experience rating]]. <ref>http://ideas.repec.org/p/fth/lavape/9615.html</ref> . 
+
+Within the above constraints, the individual [[U.S. state|states]] and territories raise their own contributions and run their own programs. The federal government sets broad guidelines for coverage and eligibility, but states vary in how they determine benefits and eligibility.  . 
+
+Federal rules are drawn by the [[United States Department of Labor]], Employment and Training Administration. For most states, the maximum period for receiving benefits is 26 weeks. There is an extended benefit program (authorized through the Social Security Acts) that may be triggered by state economic conditions. Congress has often passed temporary programs to extend benefits during economic recessions. This was done with the Temporary Extended Unemployment Compensation (TEUC) program in 2002-2003, which has since expired,<ref>{{cite news |title= Temporary Extended Unemployment Compensation |work=Employment & Training Administration |publisher=U.S. Department of Labor |url= http://workforcesecurity.doleta.gov/unemploy/factsheetteuc.asp}}</ref> and remained in force through June 2, 2010, with the Extended Unemployment Compensation 2008 legislation. <ref>{{cite news |title=Emergency Unemployment Compensation 2008 (EUC) Program |work=Employment & Training Administration |publisher=U.S. Department of Labor |url= http://workforcesecurity.doleta.gov/unemploy/pdf/euc08.pdf }}</ref> In July, legislation that provides an extension of federal extended unemployment benefits through November was signed by the President. The extension restored unemployment benefits to the 2.3 million unemployed Americans who had run out of basic unemployment benefits. However, the current extensions in place expire on November 30 unless legislation is passed by Congress providing for an additional extension. Congress is considering extending the Temporary Extended Unemployment Compensation program again. <ref>{{cite news |title=Local officials awaiting federal unemployment benefits extension |work=Reno Gazette Journal |date=June 7, 2010 |url= http://www.rgj.com/article/20100607/BIZ/100607032/Local-officials-awaiting-federal-unemployment-benefits-extension }}</ref> . 
+
+The federal government lends money to the states for unemployment insurance when the states run short of funds. In general, this can happen when the unemployment rate is high. The need for loans can be exacerbated when a state cuts taxes and increases benefits. All loans must be repaid with interest.  . 
+
+Congressional actions to massively increase penalties for states incurring large debts for unemployment benefits led to state fiscal crises in the 1980s.{{Citation needed|date=October 2008}} . 
+
+Because it is a joint federal/state program run by the states, taxing business for the benefit of labor, the politics of unemployment insurance are very complex.  . 
+
+=== Macroeconomic function === . 
+
+To Keynesian economists the Unemployment Insurance (UI) program acts as an [[automatic stabilizer]]. When employment grows, UI program revenue rises through increased tax revenues while UI program spending falls as fewer workers are unemployed. This creates a surplus of funds for the UI program to draw upon during a recession. In a recession, UI tax revenue falls and UI program spending rises as more workers lose their jobs and receive UI benefits. The increased amount of UI payments to unemployed workers puts additional funds into the economy; however, the unemployment taxes accessed and collected from businesses serve to decrease employment.[citation needed] . 
+
+=== Eligibility and amount === . 
+
+Americans out of work who do not qualify for unemployment insurance include part-time, temporary, and self-employed workers.  There are five main reasons unemployment benefits would be declined: not being able or available to work, voluntary separation from work without a good cause, discharge connected to misconduct, refusal of suitable work, and unemployment resulting from a labor dispute. <ref>{{cite news |title=Unemployed Without Benefits: A Couple's Struggle |first=Kathy |last=Lohr |work=National Public Radio |date=January 14, 2009 |url=http://www.npr.org/templates/story/story.php?storyId=99170822 }}</ref><ref>http://utahstaffingcompanies.com/helpful-tips-for-employers/unemployment-benefits-eligibility/</ref> . 
+
+Generally, the worker must be unemployed through no fault of his/her own (generally through lay-offs).  The unemployed must also meet state requirements for wages earned or time worked during an established period of time (referred to as a “base period”) to be eligible for benefits. In most States, the base period is usually the first four out of the last five completed calendar quarters prior to the time that the claim is filed. <ref name="State Unemployment Benefits">[http://workforcesecurity.doleta.gov/unemploy/uifactsheet.asp State Unemployment Benefits] ''US Department of Labor''</ref> Unemployment benefits are based on reported covered quarterly earnings. The amount of earnings and the number of quarters worked are used to determine the length and value of the unemployment benefit. The average weekly payment is 36 percent of the individual's average weekly wage. <ref>{{cite news |title=Are unemployment benefits no longer temporary? |work=The Washington Post |date=March 9, 2010 |first=Fletcher, Michael A.; Hedgpeth, Dana |url=http://www.washingtonpost.com/wp-dyn/content/article/2010/03/08/AR2010030804927.html }}</ref> . 
+
+As a result of the [[American Recovery and Reinvestment Act]] passed by Congress in February 2009, many unemployed people can receive up to [[99ers|99 weeks]] of unemployment benefits; this may depend on State legislation.  . 
+
+=== Application process === . 
+
+It generally takes two weeks for benefit payments to begin, the first being a "waiting week", which is not reimbursed, and the second being the time lag between eligibility for the program and the first benefit actually being paid.  . 
+
+To begin a claim, the unemployed worker must apply for benefits through a state unemployment agency. <ref name="State Unemployment Benefits"/> In certain instances, the employer initiates the process. Generally, the certification includes affected person affirming that they are "able and available for work", the amount of any part-time earnings they may have had, and whether they are actively seeking work. These certifications are usually accomplished either over the Internet or via an interactive voice response telephone call, but in a few states may be by mail. After receiving an application, the state will notify the individual if they qualify and the rate they will receive every week. The state will also review the reason for  separation from employment.  Many states require the individual to periodically certify that the conditions of the benefits are still met.  . 
+
+=== Disqualification === . 
+
+If a worker's reason for separation from their last job is due to some reason other than a "lack of work,” a determination will be made about whether they are eligible for benefits. Generally, all determinations of eligibility for benefits are made by the appropriate State under its law or applicable federal laws. If a worker is disqualified or denied benefits, they have the right to file an appeal within an established time-frame. The State will advise a worker of his or her appeal rights. An employer may also appeal a determination if they do not agree with the State's determination regarding the employee's eligibility. <ref name="State Unemployment Benefits"/> . 
+
+===Measurement===. 
+==== Current data ==== . 
+
+Each Thursday, the [[United States Department of Labor|Department of Labor]] issues the ''Unemployment Insurance Weekly Claims Report''. <ref>http://www.dol.gov/opa/media/press/eta/ui/current.htm</ref> Its headline number is the seasonally adjusted estimate for the initial claims for unemployment for the previous week in the United States. This statistic, because of its timeliness, is an important indicator of the health of the labor market, and more broadly, the vigor of the overall economy.  . 
+
+==== UI outlook ====. 
+Twice a year, the Office of Management and Budget delivers an economic assessment of the unemployment insurance program as it relates to budgetary issues. <ref name="UI Outlook: Overview">[http://workforcesecurity.doleta.gov/unemploy/content/prez_budget.asp UI Outlook: Overview] ''US Department of Labor''</ref>  As it relates to the FY 2012 budget, the OMB reports that: the insured unemployment rate (IUR) is projected to average 3.6% in both FY 2011 and in FY 2012. State UI regular benefit outlays are estimated at $61 billion in FY 2011 and $64.3 billion in FY 2012, down somewhat from Midsession estimates. <ref name="UI Outlook: Overview"/>  Outlays from state trust fund accounts are projected to exceed revenues and interest income by $16.0 billion in FY 2011 and $15.1 billion in FY 2012. <ref name="UI Outlook: Overview"/> State trust fund account balances, net of loans, are projected to continue to fall, from -$27.4 billion at the end of FY 2010 to -$62.7 billion at the end of FY 2013, before starting to grow again. <ref name="UI Outlook: Overview"/> Net balances are not projected to become positive again until well beyond FY 2016.  Up to 40 states are projected to continue borrowing heavily from the Federal Unemployment Account (FUA) over the next few years. <ref name="UI Outlook: Overview"/> The aggregate loan balance is projected to increase from $40.2 billion at the end of FY 2010 to a peak end-of-year balance of $68.3 billion in FY 2013. Due to the high volume of state loans and increased EB payments, FUA and EUCA are projected to borrow $26.7 billion from the general fund in FY 2011 and an additional $19.4 billion in FY 2012, with neither account projected to return to a net positive balance before 2016. <ref name="UI Outlook: Overview"/> The general fund advances must be repaid with interest. <ref name="UI Outlook: Overview"/> . 
+
+=== Economic rationale and issues===. 
+The fact that a compulsory government program and not the private market provides unemployment insurance can be explained using the concepts of [[adverse selection]] and [[moral hazard]].  . 
+
+====Adverse selection====. 
+Adverse selection refers to the fact that “workers who have the highest probability of becoming unemployed have the highest demand for unemployment insurance.”<ref name="UNEMPLOY 215">{{cite book |last=Rosen |first=Harvey S. |title= '''''Public Finance''''' |year= 2008 |publisher= [[McGraw-Hill/Irvin]] |location=[[New York, New York]] |isbn=978-0-07-351128-3 | pages=292}}</ref>  [[Adverse selection]] causes profit maximizing private insurance agencies to set high premiums for the insurance because there is a high likelihood they will have to make payments to the policyholder.  High premiums work to exclude many individuals who otherwise might purchase the insurance. “A compulsory government program avoids the [[adverse selection]] problem.  Hence, government provision of UI has the potential to increase efficiency.  However, government provision does not eliminate [[moral hazard]].”<ref name="UNEMPLOY 215"/> . 
+
+====Moral hazard====. 
+“At the same time, those workers who managed to obtain insurance might experience more unemployment otherwise would have been the case.”<ref name="UNEMPLOY 215"/>  The private insurance company would have to determine whether the employee is unemployed through no fault of their own, which is difficult to determine.  Incorrect determinations could result in the payout of significant amounts for fraudulent claims or alternately failure to pay legitimate claims.   This leads to the rationale that if government could solve either problem that government intervention would increase efficiency.  . 
+
+====Unemployment insurance effect on unemployment====. 
+In the [[Great Recession]], the “moral hazard” issue of whether Unemployment Insurance (UI)-- and specifically extending UI past the maximum 99 weeks—significantly encourages unemployment by discouraging workers from finding and taking jobs, has been expressed by Republican legislators. Conservative economist Robert Barro found UI raised the unemployment rate 2%. <ref>[http://online.wsj.com/article/SB10001424052748703959704575454431457720188.html The Folly of Subsidizing Unemployment] Robert Barro * Wall Street Journal * AUGUST 30, 2010</ref><ref name=Zuylen-Wood/> 
+Disagreeing with Barro's study were: Berkeley economist Jesse Rothstein—who found the “vast majority” of unemployment was due to “demand shocks” not “UI-induced supply reductions.”<ref name=Zuylen-Wood>[http://www.tnr.com/blog/jonathan-cohn/97971/would-extending-unemployment-benefits-increase-unemployment Would Extending Unemployment Benefits Increase Unemployment?] * Simon van Zuylen-Wood * November 30, 2011 * tnr.com</ref><ref>[http://www.brookings.edu/~/media/Files/Programs/ES/BPEA/2011_fall_bpea_papers/2011_fall_bpea_conference_rothstein.pdf Unemployment Insurance and Job Search in the Great Recession. Jesse Rothstein] September 9, 2011</ref>  A November report by the [[Congressional Budget Office]], found that even if UI benefits convince some unemployed to ignore job opening, these openings were quickly filled by new entrants into the labor market. <ref name=Zuylen-Wood/><ref>[http://www.cbo.gov/ftpdocs/124xx/doc12437/11-15-Outlook_Stimulus_Testimony.pdf Policies for Increasing Economic Growth and Employment] cbo.gov November 15, 2011</ref> A Survey of studies on Unemployment Insurances’s effect on employment by the Political Economy Research Institute found that unemployed who collected UI did not find themselves out of work longer than those who ''didn’t'' have unemployment benefits; and that unemployed workers did not search for work more or reduce their wage expectations once their benefits run out. <ref name=Zuylen-Wood/><ref>http://www.peri.umass.edu/236/hash/10dbb94dafa96d904bcaf546ee3b02a2/publication/456/ Unemployment Benefits and Work Incentives: The U.S. Labor Market in the Great Recession (revised), Howell, David R.; Azizoglu, Bert M.; Political Economy Research Institute, 3/21/2011</ref> . 
+
+One concern over unemployment insurance increasing unemployment is based on experience rating UI uses which can sometimes be imperfect.  That is, the cost to the employer in increased taxes is less than the benefits that would be paid to the employee upon layoff.  The firm in this instance believes that it is more cost effective to layoff the employee, causing more unemployment than under perfect experience rating. <ref name="UNEMPLOY 215"/> . 
+
+====Alternative policy====. 
+An alternative to unemployment insurance intended to reduce the moral hazard costs would introduce mandated individual saving accounts for workers to draw on after being laid off. The plan, by [[Martin Feldstein]] would pay any positive account balance at retirement to the employee. <ref>{{cite journal |last1= Feldstein |first1= Martin |year=2005 |title= Rethinking Social Insurance |journal=  NBER Working Papers 11250 |publisher= National Bureau of Economic Research, Inc |accessdate= April 20, 2011 }}   Feldman finds that the costs, loans to individuals when funds are exhausted and the forgiveness of negative account balances at retirement, of this program to the government would be less than the current unemployment insurance program.  The benefits of the program include providing the same level of protection to the unemployed while correcting a portion of the [[moral hazard]] problem {{cite journal |last1= Feldstein |first1= Martin |last2= Altman |first2= Daniel |year= 1998 |title= Unemployment Insurance Savings Accounts |journal= NBER Working Paper Series |volume= 6860 |publisher= National Bureau of Economic Research, Inc |accessdate= April 20, 2011 }}</ref> . 
+
+==== Effect on state budgets ==== . 
+
+Another issue with unemployment insurance relates to its effects on state budgets.  During recessionary time periods, the number of unemployed rises and they begin to start drawing benefits from the program.  The longer the recession lasts, depending on the state’s starting UI program balance, the quicker the state begins to run out of funds.  The recession that began in December 2007 and ended in June 2009 has significantly impacted state budgets.  According to The Council of State Governments, by March 18, 2011, 32 states plus the Virgin Islands had borrowed nearly $45.7 billion. The Labor Department estimates by the fourth quarter of 2013, as many as 40 states may need to borrow more than $90 billion to fund their unemployment programs and it will take a decade or more to pay off the debt. <ref>[http://knowledgecenter.csg.org/drupal/content/state-unemployment-insurance-trust-funds-march-2011-update Unemployment Insurance Trust Funds Update] ''Council of State Governments''</ref> . 
+
+==== Insurance funds==== . 
+
+Possible policy options for states to shore up the unemployment insurance funds include lowering benefits for recipients and/or raising taxes on businesses.  Kentucky took the approach of raising taxes and lowering benefits to attempt to balance its unemployment insurance program.  Starting in 2010, a claimant’s weekly benefits will decrease from 68% to 62% and the taxable wage base will increase from $8,000 to $12,000, over a ten year period.  These moves are estimated to save the state over $450 million. <ref>[http://migration.kentucky.gov/Newsroom/governor/20100615unempins.htm] ''Kentucky.gov''</ref> . 
+
+==== Taxing or exempting UI==== . 
+
+The argument for taxation of social welfare benefits is that they result in a realized gain for a taxpayer. The argument against taxation is that the benefits are generally less than the [[federal poverty level]].  . 
+
+Unemployment compensation has been taxable by the federal government since 1987. <ref name=scott>{{cite web |author=Scott, Christine |title=Taxation of Unemployment Benefits: Report for Congressional Research Service, The Library of Congress |work=Cornell University ILR School |date=January 14, 2005 |format=PDF |url= http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1224&context=key_workplace }}</ref> Code Section 85 deemed unemployment compensation included in gross income. <ref>{{cite web |url=http://supct.law.cornell.edu/uscode/html/uscode26/usc_sec_26_00000085----000-.html |title=Section 85 |work=Internal Revenue Service |publisher=Cornell University Law School }}</ref> Federal taxes are not withheld from unemployment compensation at the time of payment unless requested by the recipient using Form W-4V. <ref name=scott/><ref>{{cite web |title=Voluntary Withholding Request |work=Internal Revenue Service |date=August 2006 |url=http://www.irs.gov/pub/irs-pdf/fw4v.pdf |format=PDF }}</ref> 
+In 2003, Rep. [[Phil English|Philip English]] introduced legislation to repeal the taxation of unemployment compensation, but the legislation did not advance past [[United States House Committee on Ways and Means|committee]]. <ref name=scott/><ref>{{cite web |title=H.R. 798 (108th): Unemployment Tax Repeal Act of 2003 |work=United States Congress |publisher=govtrack.us |date=February 13, 2003 |url=http://www.govtrack.us/congress/bill.xpd?bill=h108-798 }}</ref> Most states with income tax consider unemployment compensation to be taxable. <ref name=scott/>
+Prior to 1987, unemployment compensation amounts were excluded from federal gross income. <ref>[http://www.taxlinks.com/rulings/1971/revrul71-425.htm "Revenue Ruling 71-425"]. ''Internal Revenue Service''. Taxlinks.com. </ref>
+For the US Federal [[tax year]] of 2009, as a result of the signing of the [[American Recovery and Reinvestment Act of 2009]] signed by [[Barack Obama]] on February 17, 2009 the first $2,400 worth of unemployment income received during the 'tax year' of 2009 will be exempted from being considered as taxable income on the Federal level, when American taxpayers file their 2009 IRS tax return paperwork in early 2010.  . 
+
+===Job sharing=== . 
+
+Employers have the option of reducing work hours to part-time for many employees instead of laying off some of them and retaining only full-time workers.  Employees in 18 states can then receive unemployment payments for the hours they are no longer working. <ref>[http://www.npr.org/templates/story/story.php?storyId=93581221 Companies Implement Part-Time Layoffs] by Curt Nickisch. Morning Edition, National Public Radio.  21 Aug 2008. </ref> . 
+
+==International Labour Convention==. 
+[[International Labour Organization]] has adopted the [[Employment Promotion and Protection against Unemployment Convention, 1988]] for promotion of [[employment]] against unemployment and [[social security]] including unemployment benefit.  . 
+
+==See also==. 
+* [[Job sharing]]
+* [[99ers]]
+* [[Unemployment]]
+* [[Unemployment extension]]
+* [[Social rights]]
+* [[Hartz concept]]
+* [[HIRE Act]]
+* [[Parental leave]]
+* [[Reserve army of labour]]
+* [[Labor power|Labour power]]
+* [[Compensation of employees]]
+* [[Lorenz curve]]
+* [[Social security]]
+* [[J. S. Woodsworth]]
+* [[Social insurance]]
+* [[Kurzarbeit]] . 
+
+==References==. 
+<references />
+* Bojas George J., ''Labor Economics'', Second edition, 2002, [[McGraw-Hill]].  . 
+
+== External links ==. 
+* [http://www.bls.gov/news.release/empsit.nr0.htm Government site: Latest month's unemployment rate report]
+* [http://www.servicelocator.org/ Government site: One-Stop Career Centers - in each state]
+* [http://finduslaw.com/california_unemployment_insurance_code Text of the California Unemployment Insurance Code]
+* [http://www.epinet.org/content.cfm/datazone_uicalc_index Economic Policy Institute] - To calculate the unemployment insurance benefits you might receive in the United States (based on <sup>2004</sup> rates)
+*[http://www.publicguardian.gov.uk/ Office of the Public Guardian]
+*[http://www.2minutequote.co.uk/guides/unemployment-insurance-am-i-eligible.php Guide to Unemployment Insurance Eligibility in the UK]
+*[http://www.quoteme4.co.uk/html/mortgage-payment-protection-insurance.php#compare Comparing UK Unemployment Insurance the essential elements you need to know] . 
+
+{{Employment}} . 
+
+[[Category:Unemployment|Benefits]]
+[[Category:Labour law]]
+[[Category:Social programs]]
+[[Category:Welfare economics]]
+[[Category:Social security]]

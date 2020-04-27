@@ -1,0 +1,77 @@
+{{Infobox organization
+|name         = Centre for Civil Society
+|image        = 
+|image_border = 
+|size         = <!-- default 200 -->
+|alt          = <!-- alt text; see [[WP:ALT]] -->
+|caption      = 
+|map          = <!-- optional -->
+|msize        = <!-- map size, optional, default 200px -->
+|malt         = <!-- map alt text -->
+|mcaption     = <!-- optional -->
+|abbreviation = CCS
+|motto        = 
+|formation    = 1997
+|extinction   = <!-- date of extinction, optional -->
+|type         = [[non-profit]]
+|status       = <!-- ad hoc, treaty, foundation, etc -->
+|purpose      = 
+|headquarters = 
+|location     = [[New Delhi]]
+|coords       = 
+|region_served =
+|membership   = 
+|language     = <!-- official languages -->
+|leader_title = <!-- position title for the leader of the org -->
+|leader_name  = <!-- name of leader -->
+|main_organ   = <!-- gral. assembly, board of directors, etc -->
+|parent_organization = <!-- if one -->
+|affiliations = <!-- if any -->
+|num_staff    = 
+|num_volunteers =
+|budget       = 
+|website      = [http://www.ccsindia.org/ccsindia/index.asp Official website]
+|remarks      =
+}} . 
+
+The '''Centre for Civil Society''' ('''CCS''') is a [[India]]n [[think tank]] and an independent, non-profit, research and educational organisation, established in 1997 and working towards improving the quality of life for all citizens of India by reviving and reinvigorating [[civil society]]. <ref>{{cite news |title=What an idea, Sirji!|url=http://www.financialexpress.com/news/what-an-idea-sirji/681129/0 |publisher=[[Financial Express]] |date=Sep 14, 2010 }}</ref> . 
+
+In 2004, CCS was awarded the inaugural [[Templeton Freedom Awards|Templeton Freedom Award]] for excellence in the ''[[Templeton_Freedom_Awards#Student_Outreach|Student Outreach]]'' category, followed by the award in ''Free Market Solutions to Poverty'' in 2005 and in ''Initiative in Public Relations'' category in 2009.  The award is given by the [[Atlas Economic Research Foundation]] using funding from the [[John Templeton Foundation]]. <ref>{{cite news |title= Templeton Prize For Indian Think-tanks |url=http://www.financialexpress.com/news/story/101052/ |publisher=Financial Express|date=Mar 11, 2004 }}</ref><ref>{{cite web |title=2004-2007 Templeton Freedom Award Winners |url=http://atlasnetwork.org/networknews/2007/11/2004-2007-templeton-freedom-award-winners/ |date= |publisher= }}</ref> . 
+
+==History== 
+The Centre for Civil Society (CCS) is an independent non-profit research and educational think-tank based in New Delhi. According to the Centre's website, it is committed to increasing opportunity, prosperity, and quality of life for every Indian by reinvigorating civil society and readjusting political society. <ref>[http://www.ccs.in/aboutus.asp About us] CCS website. </ref> CCS was founded in 1997 by Dr. Parth Shah, an economist and former Professor of Economics at the University of Michigan. <ref>{{cite news |title=Buffett and Gates Prod India’s Wealthy to Be More Philanthropic |url=http://www.nytimes.com/2011/03/25/business/global/25rupee.html |publisher=[[New York Times]]|date=March 24, 2011  }}</ref> Since then, CCS has built a reputation for rigor, innovation, and effectiveness. Across the spectrum, through research, proofs of concept, advocacy and outreach, the Centre has contributed to a changed climate of opinion around the country.{{citation needed|date=July 2011}} In 2007, it launched a "School Choice Campaign", which involves giving “education vouchers” to poor students to reimburse tuition fees. <ref>{{cite news |title=`Govt. should fund students, not schools'  |url=http://www.hindu.com/2007/03/30/stories/2007033011730400.htm |publisher=[[The Hindu]] |date=Mar 30, 2007 }}</ref> . 
+
+==Organisation==. 
+CCS researches and conducts activities in several policy areas, including:
+* Livelihood Studies
+* Good Governance
+* Community and Markets in Environmental Protection
+* Education Choice
+* Economic Freedom . 
+
+CCS has a small team of members who seek to spread the message of liberty and responsibility. Borrowing greatly from the philosophies of [[Ayn Rand]], the Centre says it strives to create the thinkers of tomorrow, and in such an effort targets college students for its programs, students who they identify as change agents.{{citation needed|date=July 2011}}  . 
+
+Research being a major department in CCS attracts a lot of attention from those in the Centre itself. Also people not only of Indian origin and nationality but also from abroad apply for such research.  . 
+
+CCS is also in association with luminaries such as [[Swaminathan Aiyar]], Sauvik Chakraverti and Subroto Roy.  . 
+
+Along with Parth J Shah, helping with the Centre's work are a "team" of libertarians. The "team", according to the Centre, comprises young intelligent individuals who contribute towards making liberty a household name in India.  With its head office in Hauz Khas, New Delhi, it holds its seminars regularly across India. The more famous of these seminars is Liberty & Society Seminar (From 2008 re-named to I,society & Public policy seminars).  . 
+
+==References==. 
+{{reflist|2}} . 
+
+== External links ==. 
+* [http://www.ccs.in/ Center for Civil Society Official site]
+* [http://www.ccs.in/policy.htm CCS Policy studies]
+* [http://www.schoolchoice.in School Choice India Campaign] . 
+
+{{DEFAULTSORT:Centre For Civil Society}}
+[[Category:Libertarian think tanks]]
+[[Category:Non-profit organisations based in India]]
+[[Category:Think tanks based in India]]
+[[Category:Libertarianism in India]]
+[[Category:Civil society]]
+[[Category:Organisations based in Delhi]]
+[[Category:Think tanks established in 1997]]
+[[Category:Civic and political organizations in India]]
+[[Category:Research organizations]]

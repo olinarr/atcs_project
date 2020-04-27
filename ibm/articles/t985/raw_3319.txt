@@ -1,0 +1,39 @@
+{{Liberalism sidebar}}
+'''Economic liberalism''' is the ideological belief in giving all people [[economic freedom]], and as such granting people with more basis to control their own lives and make their own mistakes. <ref name=Adams>Ian Adams, ''Political Ideology Today'' (Manchester: Manchester University Press, 2001), 20. </ref> It is an economic philosophy that supports and promotes individual [[liberty]] and choice in economic matters and [[private property]] in the means of production. Although economic liberalism can be supportive of government regulation to a certain degree, it tends to oppose government intervention in the [[free market]] when it inhibits free trade and open competition, however it can also lead to the support of government intervention in order to remove private [[monopoly]], as this limits the liberty of the poor. Economic liberalism emphasises that people should make their own choices with their money, so long as it doesn't infringe on the liberty of others.  . 
+
+Economic liberalism opposes [[economic planning]] as an alternative to the market mechanism. Economic liberalism contrasts with [[social liberalism]] as well as other economic orders such as [[mercantilism]], [[state capitalism]], [[socialism]], [[market socialism]],<ref>Brown, Wendy. Edgework: critical essays on knowledge and politics. Princeton University Press, 2005. p. 39</ref> and fascist economics ([[Corporatism]]). <ref>[[Sheldon Richman|Richman, Sheldon]], [http://www.econlib.org/library/Enc/Fascism.html "Fascism"], Concise Encyclopedia of Economics. </ref> . 
+
+Economic liberalism opposes government intervention on the grounds that the state often serves dominant business interests, distorting the market to their favor and thus leading to inefficient outcomes. [[Ordoliberalism]] and various schools of [[social liberalism]] based on classical liberalism include a broader role for the state, but do not seek to replace private enterprise and the free-market with public enterprise and economic planning. For example, a [[social market economy]] is a largely{{dubious|date=December 2011}} free-market economy based on a [[free price system]] and [[private property]], and includes government regulation to promote competitive markets and [[Social welfare|social welfare programs]] to address social inequalities that result from free-market outcomes. Economic liberalism also includes support for [[equality of opportunity]] (also known as [[social mobility]]), due to the belief that a lack of equality of opportunity will lead to an increase in private monopoly and therefore infringed liberty of individuals.  . 
+
+Theories in support of economic liberalism were developed in the [[Age of Enlightenment|Enlightenment]], and believed to be first fully formulated by [[Adam Smith]], which advocates minimal interference of government in a market economy, though it does not necessarily oppose the state's provision of a few basic [[public goods]] with what constitutes public goods originally being seen as very limited in scope. <ref>Eric Aaron, ''What's Right?'' (Dural, Australia: Rosenberg Publishing, 2003), 75. </ref> Smith claimed that if everyone is left to their own economic devices instead of being controlled by the state, then the result would be a harmonious and more equal society of ever-increasing prosperity. <ref>Adams, Ian. Political Ideology Today. Manchester U Press 2001. p 20</ref> This underpinned the move towards a [[capitalism|capitalist]] economic system in the late 18th century, and the subsequent demise of the [[mercantilism|mercantilist]] system.  . 
+
+[[Private property]] and individual [[contract]]s form the basis of classical economic liberalism. The early theory was based on the assumption that the economic actions of individuals are largely based on self-interest ([[invisible hand]]), and that allowing them to act without any restrictions will produce the best results ([[spontaneous order]]), provided that at least minimum standards of public information and justice exist, e.g., no-one should be allowed to coerce or steal.  . 
+
+While economic liberalism favors markets unfettered by the government, it maintains that the state has a legitimate role in providing [[public good]]s. <ref name="econlib">{{cite web|title=Adam Smith|publisher=econlib.org|url=http://www.econlib.org/library/Enc/bios/Smith.html}}</ref> For instance, Adam Smith argued that the state has a role in providing roads, canals, schools and bridges that cannot be efficiently implemented by private entities. However, he preferred that these goods should be paid proportionally to their consumption (e.g. putting a [[Toll road|toll]]). In addition, he advocated [[Free trade area|retaliatory tariff]]s to bring about free trade, and [[copyright]]s and [[patent]]s to encourage innovation. Robert Cox's further research highlighted the importance of innovation and its deeper implications on the free market. <ref name="econlib"/> . 
+
+Initially, the economic liberalism had to contend with the supporters of [[feudalism|feudal]] privileges for the wealthy, [[aristocracy|aristocratic]] traditions and the rights of [[Monarch|kings]] to run national economies in their own personal interests. By the end of the 19th century and the beginning of the 20th, these were largely defeated.  . 
+
+Today, economic liberalism is associated with [[social liberalism]], [[social democracy]],{{citation needed|date=December 2011}} [[classical liberalism]], "[[neoliberalism]]", "[[Propertarianism|propertarian]]" [[libertarianism]], and some schools of [[conservatism]].  . 
+
+==See also==. 
+*[[Capitalism]]
+*[[Classical liberalism]]
+*[[Constitutional economics]]
+*[[Economic freedom]]
+*[[Fiscal conservatism]]
+*[[List of countries by economic freedom]]
+*[[Market economy]]
+*[[Neoliberalism]]
+*[[Ordoliberalism]]
+*[[Private property]]
+*[[Rule of law]]
+*[[Social market economy]] . 
+
+==References==. 
+{{reflist}} . 
+
+{{DEFAULTSORT:Economic Liberalism}}
+[[Category:Classical liberalism]]
+[[Category:Economic theories]]
+[[Category:Economic liberalism| ]]
+[[Category:Liberalism]]

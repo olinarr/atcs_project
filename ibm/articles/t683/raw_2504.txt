@@ -1,0 +1,278 @@
+{{Infobox power station 
+| name               = Cape Wind
+| official_name      = 
+| image              = 
+| image_size         = 
+| image_caption      = 
+| image_alt          = 
+| location_map       = Massachusetts
+| location_map_width = 
+| location_map_text  = 
+| lat_d     = 41.542
+| lat_m     = 
+| lat_s     = 
+| lat_NS    = 
+| long_d    = -70.321
+| long_m    = 
+| long_s    = 
+| long_EW   = 
+| coordinates_type   = type:landmark
+| coordinates_display= inline,title
+| coordinates_ref    = 
+| country            = United States
+| location           = Horseshoe Shoal, [[Nantucket Sound]], [[Massachusetts]]
+| status             = Approved
+| construction_began = 
+| commissioned       = 
+| licence_expires    = 
+| decommissioned     = 
+| cost               = 
+| owner              = Cape Wind Associates
+| operator           = 
+| developer          = 
+| constructor        = 
+| wind_turbines      = 130 x 3.6&nbsp;MW<ref name="cape_wind_basics"/>
+| turbine_manu       = [[Siemens Wind Power]]
+| turbine_model      = 
+| hub_height         = {{convert|285|ft|m|abbr=on}}
+| rotor_diameter     = {{convert|364|ft|abbr=on}}
+| rated_wind_speed   = 
+| wind_farm_type     = 
+| offshore_area      = {{convert|24|sqmi|km2|0|abbr=on}}
+| offshore_depth     = 
+| offshore_distance  = 
+| installed_capacity = 
+| max_planned_cap    = 454
+| capacity_factor    = 
+| average_annual_gen = 
+| net_generation     = 
+| website            = 
+| as_of              = 
+| extra              = 
+}}
+The '''Cape Wind Project''' is an approved<ref name="ReuApprov">Krasny, Ros. [http://www.reuters.com/article/idUSTRE63R42X20100428?feedType=RSS&feedName=topNews Cape Wind, first U.S. offshore wind farm, approved] ''Reuters'', 28 April 2010. Retrieved 2 May 2010</ref><ref name="bglobeApprov">Jackson, Derrick Z. [http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2010/05/01/the_winds_of_change/ The winds of change] ''Boston Globe'', 1 May 2010. Retrieved 2 May 2010</ref> offshore [[wind farm]], on Horseshoe Shoal in [[Nantucket Sound]] off [[Cape Cod]] in the U.S. state of [[Massachusetts]], proposed by a private developer, Cape Wind Associates, the brainchild of Jim Gordon and a [[Limited Liability Company]] (LLC) set up as a joint business venture between [[Energy Management Inc]]. and Wind Management LLP. <ref>[http://www.cnn.com/2010/TECH/04/29/cape.wind.ceo.profile/?hpt=C2 (CNN) "The wind man who beat Cape Cod's elite"]</ref> Great controversy<ref>[http://www.boston.com/lifestyle/green/greenblog/2010/04/cape_wind_decision_expected_to.html Interior secretary approves Cape Wind, nation's first offshore wind farm]</ref> has surrounded the project, and if it moves forward on schedule, the wind farm may<ref>Bogo, Jennifer [http://www.popularmechanics.com/science/energy/solar-wind/texas-to-cape-wind "Texas to Cape Wind: You're Not First Yet"] "Popular Mechanics", 3 May 2010</ref> become the first [[offshore wind]] energy project in [[United States]] coastal waters. The project has been fought by the [[Alliance to Protect Nantucket Sound]], formed in 2001 to oppose the proposal because it will construct {{convert|400|ft|adj=on}} tall wind turbines in the middle of environmentally sensitive Nantucket Sound. <ref>{{cite web|url=http://org2.democracyinaction.org/o/6891/content_item/threats |title=Salsa Labs &#124; Ingredients for Organizing |publisher=Org2.democracyinaction.org |date=2011-08-24 |accessdate=2012-03-24}}{{dead link|date=March 2012}}</ref>
+The project is expected to cost $2.5 billion. <ref name="daley1">{{cite news| url=http://www.boston.com/lifestyle/green/articles/2010/10/10/cape_wind_backers_blew_right__by_cost/ | work=The Boston Globe | first=Beth | last=Daley | title=Cape Wind backers blew right by cost | date=October 10, 2010}}</ref> . 
+
+==Plans==. 
+The footprint for the proposed project covers {{convert|24|sqmi|km2}}, and would be {{convert|4.8|mi}} from [[Mashpee, Massachusetts|Mashpee]], on the south coast of Cape Cod, and  {{convert|15.8|mi}} from the island town of [[Nantucket, Massachusetts|Nantucket]].  The project envisions 130&nbsp;horizontal-axis [[wind turbine]]s, each having a hub height of {{convert|285|ft|m}}. The blade diameter is {{convert|364|ft}}, with the lowest blade tip height at {{convert|75|ft}} and the top blade tip height at {{convert|440|ft}}. <ref>[http://www.capewind.org/FAQ-Category4-Cape+Wind+Basics-Parent0-myfaq-yes.htm#19 Cape Wind :: America's First Offshore Wind Farm on Nantucket Sound<!-- Bot generated title -->]</ref> The turbines would be sited between 4–11&nbsp;miles offshore depending on the shoreline.  At peak generation, the turbines will generate 454&nbsp;[[megawatt]]s (MW)<ref name="cape_wind_basics">{{cite web
+  |url=http://www.capewind.org/FAQ-Category4-Cape+Wind+Basics-Parent0-myfaq-yes.htm
+  |title=Cape Wind Basics
+  |accessdate=2009-12-27
+  |publisher=Cape Wind Associates
+}}</ref> of renewable electricity.  This is enough to meet the needs of 420,000 homes.  The project is expected to produce an average of 170 megawatts of electricity, about 75% of the average electricity demand for [[Cape Cod]], [[Martha's Vineyard]], and [[Nantucket]] island combined. <ref>{{cite web |title= Cape & Islands Electric Supply: Cape Wind Project Impact |date= October 31, 2002 |author= Salamone, Charlie |url= http://www.masstech.org/offshore/Meeting2/presentationsalamone1031.pdf }}</ref>  It could offset close to a million tons of carbon dioxide every year and should produce enough electricity to offset the consumption of {{convert|113|e6USgal|m3}} of oil annually. <ref name="capewind"> [http://www.capewind.org Cape Wind website]. Retrieved on 2009-05-12. </ref> . 
+
+Currently 45% of the Cape region's electricity comes from the nearby Canal Power Plant in [[Sandwich, Massachusetts|Sandwich]], which burns [[Residual fuel|bunker oil]] and [[natural gas]]. <ref> {{cite web
+ | url= http://www.mirant.com/our_business/where_we_work/canal.htm
+ | title= Canal Generating Plant
+ |date= |year= |month= |work= |publisher= [[Mirant Corporation]]
+ | accessdate= 2009-05-12 }} {{Dead link|date=October 2010|bot=H3llBot}}</ref><ref>
+{{cite news
+ | url= http://www.capecodonline.com/special/windfarm/reportwind4.htm
+ | title= Report: Wind farm could ease gas demand
+ | last= Leaning | first=  John | date= July 4, 2004 | work= [[Cape Cod Times]] |publisher=
+ | accessdate= 2009-05-12 }}</ref>  The Cape Wind proposal is distinct in that it would directly offset petroleum combustion, [[Electricity sector of the United States|unlike most of the United States]] where electrical power generation from oil is rare and [[coal power]] is more common.  . 
+
+Additionally, this project would decrease the amount of oil shipped to the [[Canal Generating Plant|Cape Cod power plant]]; fuel for this plant has been part of two major oil spills. The first was on December 15, 1976, when the tanker ''[[Argo Merchant]]'' ran aground southeast of Nantucket Island, Massachusetts spilling {{convert|7.7|e6USgal|m3}} of oil. <ref> {{cite web
+ | url= http://www.endgame.org/oilspills.htm
+ | title= Major Oil Spills
+ | last= Draffan | first= George |date= |year= |month= |work= | publisher= Endgame Research
+ | accessdate= 2009-05-12 }}</ref>  The second occurred in April 2003, when a Bouchard Company barge carrying oil for the [[Mirant]] Canal Generating Plant ran aground spilling {{convert|98,000|USgal|L}} of oil, which killed 450&nbsp;birds and shut down 100,000&nbsp;acres (400&nbsp;km²) of shell fishing beds. <ref> {{cite news
+ | url= http://www.southcoasttoday.com/daily/03-06/03-15-06/02topstories.htm
+ | title= Bouchard under fire for 'outrageous' actions
+ | last= LaPlante | first= Joseph R. 
+ |date= |year= |month= | work= [[The Standard-Times (New Bedford)|The Standard-Times]] |publisher=
+ | accessdate= 2009-05-12 }}</ref>
+[[File:Massachusetts wind resource map 50m 800.jpg|thumb|350px|The best wind resources in Massachusetts, by far, are offshore. The Cape Wind site is between [[Cape Cod]] to the north and the islands of [[Nantucket]], to the south, and  [[Martha's Vineyard]], to the west.]] . 
+
+== Approval process and current status == . 
+
+Because the proposed turbines are more than three miles (5 km) from shore, they are subject to federal jurisdiction.  However, near-shore infrastructure including roads and power cables make the project subject to state and local jurisdiction as well. <ref name="moves" />  All necessary state and local pre-construction approvals were obtained by 2009.  Major federal approvals were obtained May 17, 2010, with lease details, and construction and operation permits to be granted as the project proceeds.  . 
+
+Cape Wind must now finance and build its project, and find customers for the electricity it will produce.  On May 7, 2010, Cape Wind announced a [[power purchase agreement]] (PPA) with [[National Grid (USA)|National Grid]] to sell half the project's output (i.e. about 750&nbsp;million kW·h/year) for an initial price of 20.7&nbsp;¢/kW·h (later agreed at 18.7¢<ref name="dotprice">Dotson, Sharryn. [http://www.renewableenergyworld.com/rea/news/article/2010/10/changing-tides-in-offshore-wind Changing Tides in Offshore Wind] ''Power Engineering'', 13 October 2010. Retrieved: 14 October 2010. </ref>) — a price more than twice current retail rates. The deal is subject to approval by the [[Massachusetts Department of Public Utilities]] (PUC). <ref> {{cite news
+ | url= http://green.blogs.nytimes.com/2010/05/07/selling-cape-winds-future-wares/
+ | title= Selling Cape Wind’s Future Wares
+ | last= Wald | first= Matthew L. | date= May 7, 2010 | work= The New York Times |publisher=
+ | accessdate= 2010-05-08 }} </ref>
+In February 2012, [[NSTAR]] Utility agreed to a PPA equivalent of 129 MW capacity, a demand from PUC for allowing NSTAR and [[Northeast Utilities]] to complete a $4.8 billion merger. <ref name=quilt>Quilter, James. [http://www.windpowermonthly.com/news/1117411/Cape-Wind-proceed-129MW-NStar-PPA Cape Wind to proceed after 129MW NStar PPA] ''[[Windpower Monthly]]'', 16 February 2012. Accessed: 19 February 2012. </ref> . 
+
+The [[Alliance to Protect Nantucket Sound]] filed a lawsuit in June 2010, claiming the federal approvals violated the [[Endangered Species Act]], [[Migratory Bird Treaty Act]], and [[National Environmental Policy Act]]. <ref>{{cite web|url=http://www.indiancountrytoday.com/national/97173754.html |title=Native & American Indian News, Culture, Music, Art and More - Indian Country Today Media Network.com |publisher=Indiancountrytoday.com |date= |accessdate=2012-03-24}}</ref> . 
+
+===State and local history===. 
+At the state and local level, according to the Boston Globe, Cape Wind needed approval from the [[Cape Cod Commission]]; "a Chapter 91 license from the Department of Environmental Protection; a water quality certification from the state DEP; access permits from the Massachusetts Highway Department for work along state highways; a license from the Executive Office of Transportation for a railway crossing; orders of conditions from the Yarmouth and Barnstable Conservation Commissions; and road opening permits from Yarmouth and Barnstable."<ref>{{cite news| url=http://www.boston.com/news/local/breaking_news/2007/11/cape_wind_appea.html | work=The Boston Globe | title=Cape Wind appeals ruling that blocked wind farm in Nantucket Sound | date=November 21, 2007}}</ref> . 
+
+On May 11, 2005, the Massachusetts Energy Facilities Siting Board (MEFSB) approved the application to build the wind farm.  Opponents appealed the decision and on December 18, 2006 the Massachusetts Supreme Judicial Court upheld the decision. <ref>[http://www.capewind.org/news746.htm FAVORABLE CAPE WIND DECISION UPHELD BY SUPREME JUDICIAL COURT]</ref> . 
+
+In March 2007, the project received approval from Ian Bowles, the Massachusetts Secretary of Energy and Environmental Affairs, as required by the Massachusetts Environmental Policy Act (MEPA). <ref name="moves"> {{cite news
+ | url= http://www.boston.com/news/local/massachusetts/articles/2007/03/31/cape_wind_moves_on_to_federal_review/
+ | title= Cape Wind moves on to federal review
+ | last= Ebbert | first= Stephanie | date= March 31, 2007 | work= [[The Boston Globe]] |publisher=
+ | accessdate= 2009-05-12 }}</ref>  In October 2007, the [[Cape Cod Commission]] declined to approve Cape Wind without further study of the impact by the developers. <ref>{{cite news| url=http://www.boston.com/news/local/articles/2007/10/19/cape_cod_panel_denies_permit_for_wind_farm/ | work=The Boston Globe | title=Cape Cod panel denies permit for wind farm | date=October 19, 2007 | first1=Stephanie | last1=Ebbert}}</ref> . 
+
+On June 20, 2008, the Barnstable Superior Court dismissed four of five counts against the MEPA certificate that had been filed by opposition groups and the Town of Barnstable. The fifth count was not considered ripe for a ruling since the matter was still pending before a state agency. <ref>"Barnstable judge validates Cape Wind's MEPA Certificate", Nantucket Independent, 25 June 2008. </ref> . 
+
+On May 22, 2009, the Massachusetts Energy Facilities Siting Board<ref>[http://www.mass.gov/?pageID=eoeeasubtopic&L=3&L0=Home&L1=Energy%2C+Utilities+%26+Clean+Technologies&L2=Energy+Facilities+Siting+Board&sid=Eoeea ]{{dead link|date=March 2012}}</ref><ref>{{cite web|url=http://www.mass.gov/legis/laws/mgl/164-69h.htm |title=General Laws: CHAPTER 164, Section 69H |publisher=Mass.gov |date= |accessdate=2012-03-24}}</ref> issued a "Super Permit" to Cape Wind, overriding the Cape Cod Commission and obviating the need for any further state and local approvals. <ref>[http://www.capecodonline.com/apps/pbcs.dll/article?AID=/20090522/NEWS/90522009 Key Wind Farm Permits Approved] retrieved 4 June 2009</ref> . 
+
+On August 31, 2010, the Massachusetts Supreme Judicial Court ruled 4-2 that the state has the power to overrule community opposition and grant the Cape Wind project a suite of local permits it needs to start construction. <ref>{{cite news| url=http://www.boston.com/news/local/breaking_news/2010/08/hold_for_sjc_an.html?p1=News_links | work=The Boston Globe | first=Beth | last=Daley | title=SJC gives Cape Wind go-ahead to start construction | date=August 31, 2010}}</ref> . 
+
+On 28 December 2011, a ruling by "the Massachusetts Supreme Judicial Court gave its blessing to a novel power purchase agreement between Cape Wind and National Grid," as reported by the Boston Globe, and in so doing "the high court unanimously rejected criticisms by wind farm opponents of the state review’s of the agreement, under which National Grid will buy 50 percent of the wind farm’s power."<ref>{{cite news|url=http://articles.boston.com/2011-12-29/metro/30564121_1_controversial-offshore-wind-cape-wind-national-grid |title=Cape Wind buoyed as SJC allows utility deal |date=December 29, 2011| first1=Carolyn Y. |last1=Johnson |first2=John R.|last2=Ellement| work=The Boston Globe}}</ref> . 
+
+===Federal history===. 
+At the federal level, Cape Wind originally applied for a permit in 2001 under Section 10 of the Rivers and Harbors Act of 1899 with the [[US Army Corps of Engineers]].  The Army Corps eventually presented a draft [[Environmental Impact Statement]] (EIS). In a public comment period, many Federal agencies, local governments, and community groups found the draft EIS to have deficiencies.  Due to passage of the [[Energy Policy Act of 2005|2005 Energy Bill]], the regulatory authority for off-shore energy projects has been transferred from the Army Corps to the [[Minerals Management Service]] (MMS) within the [[U.S. Department of the Interior|Department of the Interior]].  Whereas Cape Wind had expected to obtain approval quickly from the Army Corps, this transfer of authority to the MMS delayed the project.  . 
+
+The MMS issued a Draft Environmental Impact Statement (DEIS) in January 2008, and a Final Environmental Impact Report (FEIR) in January 2009. <ref name=cwFEIS>[http://www.mms.gov/offshore/RenewableEnergy/CapeWind.htm MMS Cape Wind page] [http://www.boemre.gov/offshore/alternativeenergy/PDFs/FEIS/Cape%20Wind%20Energy%20Project%20FEIS.pdf report], ''[[Minerals Management Service]]'', January 2009. </ref> . 
+
+On January 4, 2010, U.S. Interior Secretary [[Ken Salazar]] called a meeting of principal parties to resolve remaining issues after the National Park Service ruled that Nantucket Sound is eligible to be listed on the [[National Register of Historic Places]] because of its cultural and spiritual significance to two Native American tribes. “After several years of review, it is now time to move the Cape Wind proposal to a final decision point. That is why I am gathering the principal parties together next week to consider the findings of the Keeper and to discuss how we might find a common-sense agreement on actions that could be taken to minimize and mitigate Cape Wind’s potential impacts on historic and cultural resources.  I am hopeful that an agreement among the parties can be reached by March&nbsp;1. If an agreement among the parties can’t be reached, I will be prepared to take the steps necessary to bring the permit process to conclusion. The public, the parties, and the permit applicants deserve certainty and resolution.”<ref>[http://interior.gov/news/09_News_Releases/010410.html Secretary Salazar Initiates Final Review of Cape Wind Proposal]</ref> . 
+
+On March 22, 2010, a hearing was held before the Advisory Council on Historic Preservation. Proponents and opponents of the plan delivered testimony during the hearing. The Council was to deliver their recommendations to Interior Secretary Salazar no later than April&nbsp;14, 2010. <ref name="Capecodonlinefate">{{cite news |url= http://www.capecodonline.com/apps/pbcs.dll/article?AID=/20100427/NEWS11/100429794 |title=Fate of Cape Wind Decided |date=April 27, 2010 |agency=Associated Press |accessdate=28 April 2010 |location=[[Washington D.C.]]}}</ref> . 
+
+On April 28, 2010, at a news conference in the [[Massachusetts Statehouse]] alongside governor [[Deval Patrick]], a supporter of the project, Secretary Salazar announced "I am approving the Cape Wind project." The Preferred Alternative of Horseshoe Shoal was selected by the Record of Decision. <ref>{{cite news| url=http://www.nytimes.com/2010/04/29/us/29wind.html | work=The New York Times | title=Regulators Approve First Offshore Wind Farm in U.S | first=Katharine Q. | last=Seelye | date=April 28, 2010}}</ref><ref>[http://news.bbc.co.uk/2/hi/americas/8649925.stm U.S. Secretary of the Interior Ken Salazar approves Cape Wind (BBC News)]</ref> . 
+
+The [[FAA]] cleared the construction of the wind farm on May 17, 2010 after raising concerns that the windmills could cause interference with radar system at nearby [[Otis Air Force Base]]. Cape Wind agreed to fix the base's current system to ensure that it would not be affected by the wind farm. <ref> {{cite news| url=http://www.nytimes.com/2010/05/18/us/18brfs-FAACLEARSWIN_BRF.html?partner=rss&emc=rss | work=The New York Times | title=Massachusetts: F.A.A. Clears Wind Farm | first=Katharine Q. | last=Seelye | date=May 17, 2010}}</ref> . 
+
+On October 6, 2010, Interior Secretary Salazar announced that a 28-year lease had been signed, which will cost Cape Wind an annual fee of $88,278 before construction, and a 2 to 7 percent variable operating fee during production, based on revenue from selling the energy. <ref>{{cite web|url=http://www.doi.gov/news/pressreleases/Secretary-Salazar-Promotes-Clean-Energy-Signs-Cape-Wind-Lease-at-AWEA-Conference.cfm |title=Secretary Salazar Promotes Clean Energy, Signs Cape Wind Lease at AWEA Conference |publisher=Doi.gov |date=2010-10-06 |accessdate=2012-03-24}}</ref><ref>{{cite news| url=http://www.boston.com/lifestyle/green/greenblog/2010/10/cape_wind_awarded_federal_leas.html | work=The Boston Globe | first=Beth | last=Daley | title=Cape Wind awarded federal lease | date=October 6, 2010}}</ref> . 
+
+On November 22, 2010, a 15 year [[Power Purchase Agreement]] between Cape Wind and the [[National Grid]] was signed for 50% of the electricity, at a price of 18.7¢/kWh,<ref name="cwppa">Vaughan, Ashley. [http://edition.cnn.com/2010/US/11/23/massachusetts.wind.farm/ Massachusetts OK power deal in another win for offshore wind project] ''[[CNN]]'', 23 November 2010. Retrieved: 23 November 2010. </ref> adding $1.50 a month to the electricity bill of an average home. <ref name="sctppa">Cassidy, Patrick. [http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/20101123/NEWS/11230310/1018/OPINION Cape Wind wins approval of deal to sell power] ''South Coast Today'', 23 November 2010. Retrieved: 23 November 2010. </ref> . 
+
+On January 7, 2011, Cape Wind announced that it had received permits from the U.S. [[Army Corps of Engineers]] and the U.S. [[Environmental Protection Agency]]. <ref>[http://www.capewind.org/news1174.htm Cape Wind Completes Permitting Process]</ref> . 
+
+On April 19, 2011, the Associated Press announced that the Bureau of Ocean Energy Management, Regulation and Enforcement granted its necessary approval for the project.  . 
+
+In Summer 2011, the [[Wampanoag people|Wampanoag Tribe]] of Gay Head (Aquinnah) filed a lawsuit against the federal government for allowing Cape Wind to move forward. <ref>{{cite news|last=Daley|first=Beth|title=Wampanoag tribe sues over Cape Wind|url=http://www.boston.com/lifestyle/green/greenblog/2011/07/wampanoag_tribe_sues_over_cape.html|publisher=Boston Globe|accessdate=12 July 2011}}</ref> Contradicting the Aquinnahs, the Pocasset Wampanoag Tribe had previously expressed support for the project. <ref>{{cite web|title=Head of Pocasset Wampanoag Tribe sends Salazar letter of support for Cape Wind|url=http://www.capecodtoday.com/blogs/index.php/2010/03/05/head-of-pocasset-wampanoag-tribe-sends-s?blog=53|publisher=Cape Cod Today|accessdate=12 July 2011}}</ref> . 
+
+On 28 October 2011, the [[United States Court of Appeals for the District of Columbia Circuit|U.S. Court of Appeals for the District of Columbia]] rejected the [[Federal Aviation Administration|Federal Aviation Administration's]] ruling that the Cape Wind project's turbines present 'no hazard' to aviation, overturning a vital clearance for the nation's first offshore wind farm. The court ordered the 'no hazard' determinations vacated and remanded back to the FAA. <ref>{{cite news|last=Lindsay|first=Jay|title=Associated Press|url=http://www.usatoday.com/money/industries/energy/story/2011-10-28/cape-wind-aviation-ruling/50977156/1|accessdate=17 January 2012|newspaper=USA Today|date=28 October 2011}}</ref> . 
+
+== Controversy ==. 
+The controversy surrounding Cape Wind has been focused on its proposed location in Nantucket Sound. <ref name=alliance>[http://org2.democracyinaction.org/o/6891/content_item/aboutus Alliance to Protect Nantucket Sound]{{dead link|date=March 2012}}</ref>  Many opponents of the project, including The [[Alliance to Protect Nantucket Sound]], are in favor of green, sustainable energy - just not in the location proposed by Cape Wind.  It is considered by some to be the right idea, in the wrong location. <ref name=alliance />  Because Cape Wind is positioning its project as a potential [[ecotourism]] destination, it has been criticized for disguising (or [[greenwashing]]) its industrial aspects. <ref>{{cite web|last=Cassidy |first=Chris |url=http://www.bostonherald.com/news/politics/view/20101030cape_wind_dont_be_tricked/srvc=home&position=also |title=Cape Wind: Don’t be tricked |publisher=BostonHerald.com |date=2010-10-30 |accessdate=2012-03-24}}</ref> . 
+
+Supporters of the project, led by the non-profit grassroots organization [[Clean Power Now]],<ref> [http://www.cleanpowernow.org/ Clean Power Now]. Retrieved on 2009-05-12. </ref> cite wind's ability to displace oil and gas consumption with clean, locally produced energy and claim the project is the best option for much needed new generating capacity in the region. It would supply 75% of the average electrical needs of Cape Cod and the Islands. The [[Massachusetts Audubon Society]] conditionally endorsed the project in March 2006 as safe for birds, but asked for further studies. <ref> {{cite news
+ | url= http://www.boston.com/news/local/massachusetts/articles/2006/03/29/audubon_review_supports_wind_farm/
+ | title= Audubon review supports wind farm
+ | last= Daley | first= Beth | date= March 29, 2006 | work= [[The Boston Globe]] |publisher=
+ | accessdate= 2009-05-12 }}</ref> . 
+
+Year round and summer residents expressed concerns over the location of the project: some claim that the project will ruin scenic views from people's private property as well as views from public property such as beaches (as the turbines will be only 4.8 miles from the shore <ref>{{cite web|url=http://org2.democracyinaction.org/o/6891/content_item/threats-view |title=Salsa Labs &#124; Ingredients for Organizing |publisher=Org2.democracyinaction.org |date=2011-08-24 |accessdate=2012-03-24}}{{dead link|date=March 2012}}</ref>) and therefore decrease property values, ruining popular areas for yachting, and other environmental problems.  The [[Alliance to Protect Nantucket Sound]] argue that [[Nantucket Sound]] is known worldwide for its wildlife and natural beauty. <ref> {{cite web
+ | url= http://www.saveoursound.org/site/PageServer?pagename=NantucketSound_TheSound
+ | title= Nantucket Sound | year= 2007 |work= | publisher= Alliance to Protect Nantucket Sound
+ | accessdate= 2009-05-12 }} {{Dead link|date=October 2010|bot=H3llBot}}</ref> and that the proposed wind farm would be located near shipping lanes. The Massachusetts Fishermen's Partnership (a combination of several fishing organizations) has also spoken out against the project. Local fishermen are also nearly unanimously against the project, citing the fact that for many of them, up to 60% of their annual income comes from catch caught on Horseshoe Shoals, which they claim would disappear and would have to be replaced by steaming to fishing grounds farther out to sea if the project is completed. <ref> {{cite news
+ | url= http://www.boston.com/news/local/breaking_news/2007/11/cape_wind_appea.html
+ | title= Cape Wind appeals ruling that blocked wind farm in Nantucket Sound
+ | last= Ebbert | first= Stephanie | date= November 21, 2007 | work= The Boston Globe |publisher=
+ | accessdate= 2009-05-12 }}</ref>  Some who oppose the project are concerned about the corporate privatization of public property, referring to Cape Wind as "the right project in the wrong place." Other opponents include some prominent individuals who normally support sustainable energy.  . 
+
+[[Walter Cronkite]] was the subject of controversy as well when he originally came out against the wind farm but then changed his opinion. <ref>[http://www.boston.com/news/local/articles/2003/08/29/cronkite_urges_full_review_of_wind_farm_proposal/ Cronkite urges full review of wind farm proposal]</ref>  Other opponents have included Sen. [[Ted Kennedy]],<ref>[http://www.cbsnews.com/stories/2003/06/26/sunday/main560595.shtml Storm Over Mass. Windmill Plan]</ref> Sen. [[John Kerry]], former Gov. [[Mitt Romney]], and businessman [[Bill Koch (businessman)|Bill Koch]],<ref>{{cite news |url= http://www.forbes.com/2006/09/21/koch-gordon-nantucket-biz_cz_td_06rich400_0921nantucket.html |title= Koch's New Fight |date= September 21, 2006 |author= Doyle, Tim |work=Forbes}}</ref> who has donated $1.5 million to the Alliance to Protect Nantucket Sound.  . 
+
+Proponents suggest that some of this opposition is motivated in part by ownership of real-estate on [[Nantucket]], [[Martha's Vineyard]] or the mainland and that it raises issues of [[environmental justice]]. [[Robert Kennedy, Jr.]], whose family's [[Kennedy Compound]] is within sight of the proposed wind farm, wrote an essay for the ''New York Times'' stating his support for wind power in general, but opposing this project. <ref> {{cite news
+ | url= http://select.nytimes.com/gst/abstract.html?res=FB0D1EF734550C758DDDAB0994DD404482
+ | title=  An Ill Wind Off Cape Cod
+ | last= Kennedy | first= Robert Jr. | authorlink= Robert Kennedy, Jr. 
+ | date= December 16, 2005 | work= [[The New York Times]] |publisher=
+ | accessdate= 2009-05-12 }}</ref>  This doesn't represent the view of most Massachusetts citizens: in a 2005 survey, 81% of adults supported the project, 61% of Cape Cod residents supported it, and only 14% of adults oppose it. <ref> {{cite web
+ | url= http://www.heartland.org/Article.cfm?artId=19667
+ | title= Cape Wind Has Powerful Critics, Supporters
+ | last= Conte | first= Frank
+ | date= September 1, 2006 | work= Budget & Tax News | publisher= [[The Heartland Institute]]
+ | accessdate= 2009-05-12 }}</ref> . 
+
+A recent book by Robert Whitcomb, Vice President and Editorial Page Editor of the ''[[Providence Journal]],'' and Wendy Williams argues that the fight over Cape Wind involves a powerful, privileged minority imposing their will on the majority. <ref name=autogenerated1> [http://www.renewableenergyaccess.com/rea/news/podcast?id=49667 The Saga Behind Cape Wind; Growing Opportunities in the Renewable Energy Sector]</ref> . 
+
+===2006 election===. 
+Cape Wind was an issue in the [[Massachusetts gubernatorial election, 2006|2006 election for Governor of Massachusetts]].  The winner, [[Democratic Party (United States)|Democrat]] [[Deval Patrick]], supported the project; his [[Republican Party (United States)|Republican]] opponent, former Lieutenant Governor [[Kerry Healey]], opposed it. <ref> {{cite news
+ | url= http://www.capecodtoday.com/news506.htm
+ | title= Patrick says Healey is blocking state's renewable energy growth
+ |author= |last= |first= |authorlink= |coauthors=
+ | date= Sep 09, 2006 | work= [[Cape Cod Today]] |publisher=
+ | accessdate= 2009-05-12 }}</ref><ref> {{cite web
+ | url= http://www.capecodtoday.com/blogs/index.php/Revolution <!-- Needs a link to a specific post. -->
+ | title= Renewable Energy Revolution
+ |author= |last= |first= |authorlink= |coauthors=
+ |date= |year= |month= | work= Cape Cod Today |publisher=
+ | accessdate= 2009-05-12 }}</ref> . 
+
+===Movies and TV===. 
+In 2003 a documentary film entitled ''[[Wind Over Water]]'' about the controversy over the Cape Wind Project was released. The film by journalist Ole Tangen Jr. chronicled the debate as it unfolded on the Cape. An independent production, the filmmaker interviewed subjects from both sides of the debate including Jim Gordon, the driving force behind Cape Wind and Isaac Rosen, then director of the [[Alliance to Protect Nantucket Sound]]. Focusing also on wind power in general, ''Wind Over Water'' features aerial footage of the offshore wind farm at [[Horns Rev]] in [[Denmark]] and footage from various [[wind farms]] in the U.S. On December&nbsp;6, 2003 the film made its world and [[Cape Cod]] premiere at the Lillie Auditorium in [[Woods Hole]].  . 
+
+Satirical news correspondent [[Jason Jones (actor)|Jason Jones]] of ''[[The Daily Show]]'' has also covered the Cape Wind project. <ref> {{cite web
+ | url= http://www.comedycentral.com/motherload/player.jhtml?ml_video=91140&is_large=true
+ | title= Nantucket
+ | last= Jones | first= Jason| authorlink= Jason Jones (actor)
+ | date= August 7, 2007 | work= [[The Daily Show]] |publisher=
+ | accessdate= 2009-05-12 }}</ref> . 
+
+A feature length documentary about the Cape Wind project, entitled ''Cape Spin: An American Power Struggle'', had pre-release screenings in the summer of 2011. <ref>{{cite web |url= http://www.wgbh.org/wcai/cape_wind_blog.cfm |title= Sean Corcoran's Cape Wind Blog |author= Corcoran, Sean |publisher= WCAI: Cape and Islands NPR Station }}</ref> . 
+
+===Books===. 
+Wendy Williams and Robert Whitcomb have recently written a book about the project's history called ''Cape Wind: Money, Celebrity, Class, Politics and the Battle for Our Energy Future on Nantucket Sound.''<ref>{{cite book
+  | last = Whitcomb
+  | first = Robert
+  | coauthors = Wendy M. Williams, Robert F. Whitcomb
+  | title = Cape Wind, Money, Celebrity, Class, Politics, and the Battle for Our Energy Future on Nantucket Sound
+  | publisher = Public Affairs
+  | date = 2007
+  | month = 05
+  | isbn = 9781586483975
+  | page = 326}}</ref>
+In an interview, one of the authors states that the fight over Cape Wind is a case of a "a very small group of people, with more money than most of us can possibly imagine, who decided from the very beginning [...] that they didn't want it there, it would upset their Martini time."<ref name=autogenerated1 /> . 
+
+===Public opinion survey results===. 
+A 2007 [[Opinion Research Corporation]] (ORC) survey of 600 state residents found that 93% [[Massachusetts]] residents agree that the state should be "a national leader in using cleaner and [[renewable energy]] on a large scale by moving ahead with offshore wind power" and other clean energy initiatives. This statement is supported by 78&nbsp;percent of those who live on the Cape and on the Islands. <ref name="sur"> [http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/08-15-2007/0004646292&EDATE= Survey: Leadership on Cape Wind, Other Clean Energy Solutions to Global Warming Seen as Path to New 'Massachusetts Miracle']</ref> . 
+
+The 2007 ORC survey also found that 84% of Massachusetts residents — including 58% of those who live on the Cape and on the Islands — explicitly support "the proposed Cape Wind offshore wind farm that would involve [[wind turbines]] being placed in Nantucket Sound about five and a half miles from the Town of Hyannis." (A June 2006 survey posed the same question and found 81% support statewide and 61% in Cape Cod/the Islands.)<ref name="sur" /> . 
+
+In 2007, 78% of Massachusetts residents surveyed — including 61% of those living on the Cape and on the Islands — support wind as the best energy resource to provide electricity to Cape Cod and the Islands. Statewide, the support for other alternatives was as follows: nuclear&nbsp;(10%); coal&nbsp;(4%); and other&nbsp;(5%). <ref name="sur" /> . 
+
+Clean renewable energy is widely supported over [[nuclear power]] in Massachusetts, including on the Cape and on the Islands. Massachusetts residents would prefer to see [[solar power]] (91%), more [[energy conservation]] (90%), and wind power (89%) used first before resorting to more nuclear power. On the Cape and on the Islands, the views were very similar, with strong support for wind power (75%); conservation&nbsp;(81%); and solar&nbsp;(84%). <ref name="sur" /> . 
+
+2007 survey results were based on telephone interviews conducted among a sample of 600 householders aged&nbsp;18 and over. Interviewing was completed by Opinion Research Corporation, for the Newton-based [[Civil Society Institute]],<ref name="sur"> http://www.civilsocietyinsitute.com</ref> during July and August 2007. <ref name="sur" /> . 
+
+During the November 4, 2008 election, 87% of voters in eleven Massachusetts towns on the south shore, near but not on the Cape, voted yes on Question&nbsp;4, a non-binding question that read: . 
+
+:"Should the state representative from this district be instructed to vote in favor of legislation that would support the development of Cape Wind in Nantucket Sound and other possible future onshore and offshore wind power developments in Massachusetts?" . 
+
+The measure was voted on by the towns of [[Braintree, Massachusetts|Braintree]], [[Holbrook, Massachusetts|Holbrook]], [[Randolph, Massachusetts|Randolph]], [[Cohasset, Massachusetts|Cohasset]], [[Hingham, Massachusetts|Hingham]], [[Hull, Massachusetts|Hull]], [[Marshfield, Massachusetts|Marshfield]], [[Scituate, Massachusetts|Scituate]], [[Hanover, Massachusetts|Hanover]], [[Norwell, Massachusetts|Norwell]], and [[Rockland, Massachusetts|Rockland]]. <ref> {{cite web
+ | url= http://www.capewind.org/modules.php?op=modload&name=News&file=article&sid=919
+ | title=  Cape Wind Wins 87% of Vote in Ballot Question
+ | date= November 6, 2008 |work= | publisher= Cape Wind Associates
+ | accessdate= 2009-05-12 }}</ref> . 
+
+A 2009 poll by the Cape Cod Chamber of Commerce showed 55% of its members oppose the project and 41% supported it. <ref>[http://www.saveoursound.org/site/News2?news_iv_ctrl=-1&amp;page=NewsArticle&amp;id=6757 Cape Cod Chamber Poll Finds 55% Opposed to Controversial Cape Wind Project]</ref> . 
+
+A 2010 poll by the Boston Globe said 69% of respondents supported Cape Wind, to 20% opposed.  Further questions about cost showed that half of respondents said they would not support paying higher prices for the project's electricity.  In general, however, many respondents said they would be in favor of paying higher rates if it meant getting electricity from cleaner sources.  Forty-two percent said they would be willing to pay more, while 7 percent were unsure. <ref>{{cite news| url=http://www.boston.com/news/politics/articles/2010/09/27/in_poll_edge_goes_to_sales_tax_cut/ | work=The Boston Globe | first=Alan | last=Wirzbicki | title=In poll, edge goes to sales tax cut | date=September 27, 2010}}</ref> . 
+
+===Cost===. 
+In 2010, the Massachusetts Attorney General's office estimates that Cape Wind will ultimately cost $2.5 billion.  Costs of the electricity generated by the project are estimated to be double the 2010 price of traditional [[Fossil fuel|fossil fuels]]. <ref name="daley1"/> . 
+
+==Other Cape Cod wind projects==. 
+According to a report in the ''Boston Globe'', May 24, 2006, Jay M. Cashman, owner of a large construction company that built part of the [[Big Dig (Boston, Massachusetts)|Big Dig]], proposed to build a $750&nbsp;million wind farm in [[Buzzards Bay]], about {{convert|20|mi|km}} west of the proposed Cape Wind site. The Cashman farm would be closer (2&nbsp;mi) to shore and would consist of 120&nbsp;turbines, each {{convert|450|ft|m}} tall. The projected generation capacity is 300&nbsp;MW. According to the ''Globe'', some opponents of the Cape Wind project have expressed interest in the Cashman plan. <ref>[http://www.boston.com/news/local/massachusetts/articles/2006/05/24/buzzards_bay_wind_farm_proposed/?page=full Buzzards Bay Wind Farm Proposed]</ref> In February, 2008, state law was amended removing a prohibition on the construction of electrical generating facilities within ocean sanctuaries. <ref>[http://www.buzzardsbay.org/windfarms.htm Proposed Wind Farms in Buzzards Bay]</ref> . 
+
+==See also==. 
+*[[Wind Power]]
+*[[NIMBY]]
+*[[Energy Policy Act of 2005]]
+* [[Alliance to Protect Nantucket Sound]] . 
+
+==References==. 
+{{Reflist|colwidth=30em}} . 
+
+==External links==. 
+* [http://www.capewind.org/ Cape Wind Project Page]
+* [http://www.saveoursound.org/ Alliance to Protect Nantucket Sound]
+* [http://www.cleanpowernow.org/ Clean Power Now] — a pro-project advocacy group
+* [http://capewind.whgrp.com/ Current conditions] — showing how much energy would be generated during the last hour
+* [http://www.nae.usace.army.mil/projects/ma/ccwf/deis.htm Draft Environmental Impact Statement] — Produced by the US Army Corps of Engineers
+* [http://www.windstop.org/ Windstop.org] anti-project advocacy group
+* [http://web.mit.edu/amostash/www/Capewind/ MIT] MIT Research on Stakeholder Participation in the Cape Wind Project
+* [http://nantucket.plumtv.com/stories/cape_wind_vs_save_our_sound/ Cape Wind and Mineral Management Services on Nantucket] — Produced by [[Plum TV]]
+* [http://www.wgbh.org/cainan/article?item_id=1484587 Cape Wind poll]
+* [http://www.washingtontimes.com/news/2008/sep/15/opinion-on-wind-turbines-shifting/ Opinion on wind turbines shifting]
+* [http://www.capewindmovie.com/ ''Cape Wind: The Fight for the Future of Power in America'']
+* [http://www.capewind.org/article47.htm List of Supporters] . 
+
+{{Wind power in the United States}} . 
+
+[[Category:Offshore wind farms]]
+[[Category:Nantucket, Massachusetts]]
+[[Category:Martha's Vineyard]]
+[[Category:Proposed wind farms in the United States]]
+[[Category:Political history of Massachusetts]]
+[[Category:Wind farms in Massachusetts|Wind]]
+[[Category:Buildings and structures in Nantucket County, Massachusetts]]

@@ -1,0 +1,49 @@
+{{Expert-subject-multiple|Business|Economics|date=September 2008}}
+'''Marketization''' (or '''Marketisation''') is the process that enables the state-owned enterprises to act like market-oriented firms. <ref>Rolph van der Hoeven, György Sziráczki. ''Lessons from Privatization.'' (1997). International Labour Organization. ISBN 9221094529 p.101</ref> This is achieved through reduction of state subsidies, [[deregulation]], organizational restructuring ([[Corporatization]]), [[decentralization]] and in some cases [[privatization]]. <ref>Sarah Vickerstaff. ''The Transformation of Labour Relations.'' (1998). Oxford University Press. ISBN 0198289790 p.63</ref> These steps, it is argued, will lead to the creation of a functioning market system.  . 
+
+==Aspects==. 
+===Marketized solutions of government and market externalities===. 
+Here the government seeks to solve market and government [[externality|externalities]] with market based [[solution]]s rather than government based regulations. Supporters argue that the market externality of [[pollution]] could be solved by the government selling pollution permits to individuals, [[Groups of people|groups]], and corporations thus allowing the market to "see" the information and "realize" the harm by allowing the market to transmit pollution [[cost]]s to [[society]].  . 
+
+===Marketizing of government agencies and branches===. 
+This is often described as "competitive federalism" or "limited government". Proponents argue that markets perform better than governments economically. Therefore, marketization seeks to make government agencies and branches compete with each other when government branches and agencies are absolutely necessary (i.e. remaining agencies and branches not privatized or liberalized away). For example, supporters argue that a [[voucher]] system for public education would make public schools compete with one another thus making them more accountable and efficient.  . 
+
+==Theory==. 
+Critics of [[globalization]], [[privatization]], and [[liberalization]] have deemed that it is unworkable without major [[government regulation]]s to balance the forces involved. They argue that marketization can result in [[market failure]].  . 
+
+Free Market thinkers like [[Friedrich Hayek|Hayek]], [[Friedman]] and [[von Mises]] believe markets can work with far less government regulation.  As they see it, the combination of liberalization, privatization, and marketization ensure that globalization fulfills the promises of peace, prosperity, and cooperation that its liberal scholars and philosophers have promised. Without marketization, supporters argue that government created externalities can distort the information available to the market which in turn makes the market not work as well as it could.  . 
+
+==Examples==. 
+[[Milton Friedman]] offers examples of what marketized government solutions can look like.  Friedman's proposed [[school voucher|education voucher]] system promotes competition between public schools (and private) thus creating a market based solution to educational issues.  . 
+
+==See also==. 
+*[[Deregulation]]
+*[[Privatization]]
+*[[Liberalization]]
+*[[Globalization]]
+*[[Capitalism]]
+*[[Free market]]
+*[[Classic liberalism]]
+*[[Milton Friedman]]
+*[[F.A. Hayek]] . 
+
+== References ==. 
+{{reflist|2}} . 
+
+== Further reading ==. 
+* ''Academic Entrepreneurialism and Its Related Concepts: A Review of the Literature'' by Hei-hang Hayes Tang; Published 2009, Research Studies in Education 7: 42-49;ISBN 9789628093502. 
+* ''Democracy, the Economy and the Marketisation of Education'' by Hugh Lauder; Published 1992, Victoria University Press; ISBN 0864732341. 
+* ''Globalization and Marketization in Education: A Comparative Study of Hong Kong and Singapore'' by Ka-Ho Mok, Jason Tan; Published 2004, Edward Elgar Publishing; ISBN 184376380X. 
+* ''Governance And Marketisation In Vocational And Continuing Education'' by Rudolf Husemann, Anja Heikkinen; Published 2004, Peter Lang Publishing, Incorporated; ISBN 3631505337. 
+* ''Marketisation of Governance: Critical Feminist Perspectives from the South'' by Viviene Taylor; Published 2000, SADEP, University of Cape Town; ISBN 0799220191. 
+* ''Marketization and Democracy: East Asian Experiences'' by Samantha Fay Ravich; Published 2000, Cambridge University Press; ISBN 052166165X. 
+* ''Marketisation of the Careers Service'' by Jane V.Helmsley Brown, Nicholas Foskett; Published 1998, University of Southampton, Centre for Research in Education Marketing; ISBN 0854326502. 
+* ''Marketization, Restructuring and Competition in Transition Industries of Central and Eastern Europe'' by Marvin R. Jackson, Wouter Biesbrouck; Published 1995, Avebury; ISBN 1859720471. 
+* ''Pluralism and Marketisation in the Health Sector: Meeting Health Needs in Contexts of Social Change in Low and Middle Income Countries'' by Gerald Bloom, Hilary Standing; Published 2001, Institute of Development Studies; ISBN 1858643619. 
+* ''Politics of Marketization in Rural China'' by Wei Pan; Published 2001, Rowman & Littlefield Publishers, Incorporated; ISBN 0847685721. 
+* ''Social Welfare and the Market: Papers from a Conference on Marketisation'' by Frances Millard; Published 1988, Suntory-Toyota International Centre for Economics and Related Disciplines; ISBN 0853281157. 
+* ''The Marketization of Social Security'' by John E. Dixon, Mark Hyde; Published 2001, Quorum/Greenwood; ISBN 1567203256. 
+* ''Understanding Marketisation Within the Chinese Information Sector'' by Doris Fischer;  Published 2003, Institut für Rundfunkökonomie (Institute for Broadcasting Economics, Cologne University); ISBN 3934156681.  . 
+
+[[Category:Macroeconomics]]
+[[Category:Markets (customer bases)]]

@@ -1,0 +1,7 @@
+<!-- EDIT BELOW THIS LINE -->
+The term [[First-person_shooter#Multiplayer|first-person shooter]] (FPS) describes a [[video game genre]] where players participate in weapon-based combat all in the first person, or from the perspective of their character.  One of the more notable features of FPS games is its compatibility for networked, then later online, [[multiplayer]] gaming, where players could bring their skills to a national and then later a global arena.  . 
+
+Officially, FPS all started with ''[[Wolfenstein 3D]]'' released by [[id Software]] in 1992. In the following year, ''[[Doom]]'' was released by yet again id Software, beyond more elaborate weapons, enemies, and stages, ''Doom'' featured the ability to stage multiplayer games that could be supported over a phone line or local area network. <ref>{{cite web|title=History of First Person Shooter (FPS) Games|url=http://www.freeinfosociety.com/article.php?id=128|publisher=The Free Information Society|accessdate=26 March 2012}}</ref> Along with the scenery and [[AI_in_video_games|AI]](artificial intelligence) performance <ref>{{cite journal|last=Morris|first=Sue|title=Co-Creative Media: Online Multiplayer Computer Game Culture|journal=SCAN {{!}} journal of media arts culture|year=2004|month=January|volume=1|issue=1|url=http://www.scan.net.au/scan/journal/print.php?j_id=1&journal_id=16</|accessdate=26 March 2012}}</ref>, ''Doom'' brought forth a new medium in which players could interact.  . 
+
+==References==. 
+<references />

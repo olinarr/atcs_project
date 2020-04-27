@@ -1,0 +1,68 @@
+{{About|the maintenance of one's personal health|a person's assessment of his/her own value and dignity|Self-esteem}} . 
+
+{{Interventions infobox |
+  Name        = {{PAGENAME}} |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9unlinked = |
+  MeshID      = D012648 |
+  OPS301      = |
+  OtherCodes  = |
+}}
+'''Self care''' is personal health maintenance. It is any activity of an individual, family or community, with the intention of improving or restoring health, or treating or preventing disease.  . 
+
+Self care includes all health decisions people (as individuals or consumers) make for themselves and their families to get and stay [[physical fitness|physically]] and [[mental health|mentally fit]].  Self care is [[physical exercise|exercising]] to maintain physical fitness and good mental health.  It is also [[Healthy diet|eating well]], [[self-medication|self-medicating]], practicing [[hygiene|good hygiene]] and avoiding health hazards such as [[smoking]] and [[drinking]] to prevent ill health. Self care is also taking care of minor ailments, long term conditions, or one’s own health after discharge from secondary and tertiary health care.  . 
+
+Individuals do self care, and experts and professionals support self care to enable individuals to do enhanced self care.  . 
+
+Self care support has crucial enabling value and considerable scope in developing countries with an already overburdened health care system. But it also has an essential role to play in affluent countries where people are becoming more conscious about their health and want to have a greater role in taking care of themselves.  . 
+
+To enable people to do enhanced self care, they can be supported in various ways and by different service providers.  . 
+
+== Self care support ==. 
+Self care support can include:
+* Self care information on [[Health information|health]] and human body systems, [[lifestyle (sociology)|lifestyle]], [[Physical exercise|physical activity]], or [[Nutrition|healthy eating]]
+* Support for the capture, management, interpretation, and reporting of [[Observations of Daily Living]] (ODLs)<ref name="RWJFe-primer3">[http://www.projecthealthdesign.org/media/file/E-primer_3.pdf Health in Everyday Living] Robert Wood Johnson Foundation primer</ref>, the tracking of trends, and the use of the resulting information as clues for self care action and decision making. 
+* Information prescriptions<ref name=IP>[http://www.informationprescription.info/ Website of an Information Prescripton Project in the UK]</ref> providing personalised information and instructions to enable an individual to self care and take control of their health
+* Self care and self monitoring devices and [[assistive technology]]<ref name=FAST>[http://www.fastuk.org/atforumactivities/involvement.php Website of the Foundation for Assistive Technology]</ref>
+* Self care skills and [[life skills]] training programmes and courses for people
+* Aid from spiritual care givers
+* Advice from [[occupational therapists]], [[pharmacist]]s, [[physiotherapists]] and [[Complementary therapies|complementary therapists]]
+* Self care [[Support group|support networks]] which can be face to face or [[Virtual community|virtual]], and made up of [[Peer group|peers]] or people who want to provide support to others or receive support and information from others.Including a self care Primer for provider/consumer convergence . 
+
+== Self care approaches ==. 
+Self care topics include:
+* [[General fitness training]]
+* [[Health]]
+* [[Hygiene]]
+* [[Life extension]]
+* [[Life skills]]
+* [[Nootropic]]s
+* [[Nutrition]]
+* [[Physical exercise]]
+* [[Sleep]]
+* [[Stress management]]
+* [[Vitamin]]s . 
+
+==References==. 
+{{reflist}} . 
+
+==See also==. 
+* [[Personal hygiene]]
+* [[Americans with Disabilities Act of 1990#Major life activities]]
+* [[Life skills]]
+* [[Executive functioning]]
+* [[Self-neglect]] . 
+
+== External links ==. 
+* [http://www.dh.gov.uk/en/Healthcare/Selfcare/index.htm Self Care in England]
+* [http://www.pagb.co.uk/pagb/primarysections/selfcare/selfcare.htm Self Care in the UK]
+* [http://www.expertpatients.nhs.uk/public/default.aspx Expert Patients Programme in England]
+* [http://www.asmi.com.au/Self-careInAustralia.pdf Self Care in Australia]
+* [http://www.healthylifestyles.com/Self-care: Learning a new way of living]
+* [http://self-care.by Self Care in Belarus]
+{{DEFAULTSORT:Self Care}} . 
+
+{{Health care}}
+[[Category:Self care| Self care]]

@@ -1,0 +1,375 @@
+[[Image:World energy consumption by type 2006.png|thumb|right|Schematic of the global sources of energy in 2006-2007]]
+[[Image:Energy-production-World2.png|thumb|right|Energy production from 1989 to 1999]] . 
+
+'''Energy development''' is the effort to provide sufficient [[primary energy]] sources and secondary [[energy forms]] for supply, cost, impact on [[air pollution]] and [[water pollution]], [[mitigation of climate change]] with [[renewable energy]].  . 
+
+Technologically advanced societies have become increasingly dependent on external energy sources for [[transportation]], the production of many manufactured goods, and the delivery of energy services. This energy allows people who can afford the cost to live under otherwise unfavorable climatic conditions through the use of [[HVAC|heating, ventilation, and/or air conditioning]]. Level of use of external energy sources differs across societies, as do the [[climate]], convenience, levels of [[traffic congestion]], [[pollution]] and availability of domestic energy sources.  . 
+
+==Renewable sources==. 
+{{Main|Renewable energy|Renewable energy commercialization}}
+[[Image:Alternative Energies.jpg|thumb|The [[wind]], [[Sun]], and [[biomass]] are three renewable energy sources]] . 
+
+Renewable energy is [[energy]] which comes from [[natural resource]]s such as [[sunlight]], [[wind]], [[rain]], [[tidal energy|tides]], and [[geothermal energy|geothermal heat]], which are [[Renewable resource|renewable]] (naturally replenished.) Renewable energy is an alternative to fossil fuels and nuclear power, and was commonly called ''alternative energy'' in the 1970s and 1980s. In 2008, about 19% of global final energy consumption came from renewables, with 13% coming from traditional [[biomass]], which is mainly used for [[heating]], and 3.2% from [[hydroelectricity]]. <ref name=r2010/> [[New renewable energy|New renewables]] (small hydro, modern biomass, wind, solar, geothermal, and biofuels) accounted for another 2.7% and are growing very rapidly. <ref name=r2010>[[REN21]] (2010). [http://www.ren21.net/globalstatusreport/REN21_GSR_2010_full.pdf Renewables 2010 Global Status Report] p. 15-16. </ref> The share of renewables in [[electricity generation]] is around 18%, with 15% of global electricity coming from hydroelectricity and 3% from new renewables. <ref name=r2010/><ref name="REN21-2007">[[REN21]] (2008). [http://www.ren21.net/pdf/RE2007_Global_Status_Report.pdf Global Status Report 2007] REN21 Secretariat, 51 pages. </ref> . 
+
+[[Wind power]] is growing at the rate of 30% annually, with a worldwide [[Installed wind power capacity|installed capacity]] of 158 [[gigawatt]]s (GW) in 2009,<ref name="greeninc.blogs.nytimes.com">Lars Kroldrup. [http://greeninc.blogs.nytimes.com/2010/02/15/gains-in-global-wind-capacity-reported/ Gains in Global Wind Capacity Reported] ''Green Inc.'', February 15, 2010. </ref><ref name=nine>[[REN21]] (2009). [http://www.ren21.net/pdf/RE_GSR_2009_update.pdf Renewables Global Status Report: 2009 Update] p. 9. </ref> and is widely used in [[Wind power in the European Union|Europe]], [[Wind power in China|Asia]], and the [[Wind power in the United States|United States]]. <ref name="Glob">[http://www.gwec.net/uploads/media/07-02_PR_Global_Statistics_2006.pdf Global wind energy markets continue to boom – 2006 another record year] (PDF). </ref> At the end of 2009, cumulative global [[photovoltaic]] (PV) installations surpassed 21 GW<ref name=jr2010>James Russell. [http://vitalsigns.worldwatch.org/vs-trend/record-growth-photovoltaic-capacity-and-momentum-builds-concentrating-solar-power Record Growth in Photovoltaic Capacity and Momentum Builds for Concentrating Solar Power] ''Vital Signs'', June 03, 2010. </ref><ref name=re>[[REN21]] (2009). [http://www.ren21.net/pdf/RE_GSR_2009_update.pdf Renewables Global Status Report: 2009 Update] p. 12. </ref><ref name=fif>[[REN21]] (2009). [http://www.ren21.net/pdf/RE_GSR_2009_update.pdf Renewables Global Status Report: 2009 Update] p. 15. </ref> and [[photovoltaic power stations|PV power stations]] are popular in [[Solar power in Germany|Germany]] and [[Solar power in Spain|Spain]]. <ref name="pvresources.com">[http://www.pvresources.com/en/top50pv.php World's largest photovoltaic power plants]</ref> [[Solar thermal power]] stations operate in the USA and Spain, and the largest of these is the 354 [[megawatt]] (MW) [[SEGS]] power plant in the [[Solar power plants in the Mojave Desert|Mojave Desert]]. <ref name="Solar Trough Power Plants">[http://www.osti.gov/accomplishments/pdf/DE00014520/DE00014520.pdf Solar Trough Power Plants] (PDF). </ref> The world's largest [[geothermal power]] installation is [[The Geysers]] in California, with a rated capacity of 750 MW. [[Ethanol fuel in Brazil|Brazil]] has one of the largest renewable energy programs in the world, involving production of [[ethanol fuel]] from sugar cane, and ethanol now provides 18% of the country's automotive fuel. <ref name="renewableenergyaccess.com">[http://www.renewableenergyaccess.com/rea/news/story?id=44896 America and Brazil Intersect on Ethanol]</ref> Ethanol fuel is also widely available in the USA.  . 
+
+[[Climate change]] concerns, coupled with [[Oil price increases since 2003|high oil prices]], [[peak oil]], and increasing government support, are driving increasing renewable energy legislation, incentives and [[renewable energy commercialization|commercialization]]. <ref name="UNEP">United Nations Environment Programme [http://sefi.unep.org/fileadmin/media/sefi/docs/publications/SEFI_Investment_Report_2007.pdf ''Global Trends in Sustainable Energy Investment 2007: Analysis of Trends and Issues in the Financing of Renewable Energy and Energy Efficiency in OECD and Developing Countries''] (PDF), p. 3. </ref> New government spending, regulation and policies helped the industry weather the [[global financial crisis]] better than many other sectors. <ref name=obama>[[Clean Edge]] (2009). [http://www.cleanedge.com/reports/pdf/Trends2009.pdf Clean Energy Trends 2009] pp. 1-4. </ref> Scientists have advanced a plan to power 100% of the world's energy with [[wind power|wind]], [[hydroelectricity|hydroelectric]], and [[solar power]] by the year 2030,<ref name=wws>Jacobson, M.Z. and Delucchi, M.A. (November 2009) [http://www.scientificamerican.com/article.cfm?id=a-path-to-sustainable-energy-by-2030 "A Plan to Power 100 Percent of the Planet with Renewables" (originally published as "A Path to Sustainable Energy by 2030")] ''Scientific American'' '''301'''(5):58-65</ref><ref>Jacobson, M.Z. (2009) [http://www.stanford.edu/group/efmh/jacobson/PDF%20files/ReviewSolGW09.pdf "Review of solutions to global warming, air pollution, and energy security"] ''Energy and Environmental Science'' '''2''':148-73 [http://dx.doi.org/10.1039/b809990c doi 10.1039/b809990c] (review.)</ref> recommending renewable energy subsidies and a price on carbon reflecting its cost for flood and related expenses.  . 
+
+While many renewable energy projects are large-scale, renewable technologies are also suited to [[rural]] and remote areas, where energy is often crucial in [[Human development (humanity)|human development]]. <ref>World Energy Assessment (2001). [http://www.undp.org/energy/activities/wea/drafts-frame.html Renewable energy technologies], p. 221. </ref> Globally, an estimated 3 million households get power from small [[solar PV]] systems. [[Micro-hydro]] systems configured into village-scale or county-scale mini-grids serve many areas. <ref name = re10>REN21 (2010). [http://www.ren21.net/globalstatusreport/REN21_GSR_2010_full.pdf Renewables 2010 Global Status Report] p. 12. </ref> More than 30 million rural households get lighting and cooking from [[biogas]] made in household-scale digesters. [[Biomass]] cookstoves are used by 160 million households. <ref name = re10/> . 
+
+===Wind=== . 
+
+{{See also|Wind power|List of onshore wind farms|List of offshore wind farms}}
+[[File:GlobalWindPowerCumulativeCapacity.png|thumb|right|Wind power: worldwide installed capacity <ref name="GWEC_Market">[http://www.gwec.net/index.php?id=180 GWEC, Global Wind Report Annual Market Update]</ref>]] . 
+
+Wind power harnesses the power of the wind to propel the blades of [[wind turbine]]s. These turbines cause the rotation of [[magnet]]s, which creates electricity. Wind towers are usually built together on [[wind farm]]s. [[Wind power]] is growing at the rate of 30% annually, with a worldwide [[Installed wind power capacity|installed capacity]] of 158 [[gigawatt]]s (GW) in 2009,<ref name="greeninc.blogs.nytimes.com"/><ref name="nine"/> and is widely used in [[Wind power in the European Union|Europe]], [[Wind power in China|Asia]], and the [[Wind power in the United States|United States]]. <ref name="Glob"/> . 
+
+At the end of 2010, worldwide [[nameplate capacity]] of wind-powered generators was 197 [[gigawatt]]s (GW). <ref name="wwea">
+ {{cite web
+  | publisher = [[World Wind Energy Association]]
+  | title = World Wind Energy Report 2010
+  | format = PDF
+  | work = Report
+  | date = February 2011
+  | url = http://www.wwindea.org/home/images/stories/pdfs/worldwindenergyreport2010_s.pdf
+  | accessdate = 8-August-2011}}</ref> Energy production was 430 TWh, which is about 2.5% of worldwide electricity usage. <ref name="wwea"/><ref name=wor>{{cite web|url=http://www.worldwatch.org/node/6102?emc=el&m=239273&l=5&v=ca5d0bd2df |title=Wind Power Increase in 2008 Exceeds 10-year Average Growth Rate |publisher=Worldwatch.org |date= |accessdate=2010-08-29}}</ref> Several countries have achieved relatively high levels of wind power penetration, such as 21% of stationary electricity production in [[Wind power in Denmark|Denmark]],<ref name="wwea"/> 18% in [[Wind power in Portugal|Portugal]],<ref name="wwea"/> 16% in [[Wind power in Spain|Spain]],<ref name="wwea"/> 14% in [[Wind power in Ireland|Ireland]]<ref>{{cite web |url=http://www.eirgrid.com/renewables/ |title=Renewables |publisher=eirgrid.com |accessdate=22 November 2010}}</ref> and 9% in [[Wind power in Germany|Germany]] in 2010. <ref name="wwea"/><ref name=ren212011>{{cite web |url=http://www.ren21.net/Portals/97/documents/GSR/GSR2011_Master18.pdf |title=Renewables 2011: Global Status Report |author=[[REN21]] |year=2011 |page=11 }}</ref> As of 2011, 83 countries around the world are using wind power on a commercial basis. <ref name=ren212011/> . 
+
+Many of the largest operational onshore wind farms are located in the USA. As of November 2010, the [[Roscoe Wind Farm]] is the largest onshore wind farm in the world, with a capacity of 781.5 [[Megawatt|MW]] of power, followed by the [[Horse Hollow Wind Energy Center]] (735.5 MW). As of November 2010, the [[Thanet Offshore Wind Project]] in [[United Kingdom]] is the largest offshore wind farm in the world at 300 [[Megawatt|MW]], followed by [[Horns Rev 2|Horns Rev II]] (209 MW) in Denmark.  . 
+
+===Hydroelectric=== . 
+
+[[File:Gordon Dam.jpg|thumb|right|The [[Gordon Dam]] in [[Tasmania]] is a large conventional dammed-hydro facility, with an installed capacity of up to {{nowrap|430 [[Megawatt|MW]]}}.]]
+{{Main|Hydroelectricity}} . 
+
+In hydro energy, the [[gravitation]]al descent of a river is compressed from a long run to a single location with a [[dam]] or a [[flume]]. This creates a location where concentrated [[pressure]] and [[Volumetric flow rate|flow]] can be used to turn [[turbine]]s or [[water wheel]]s, which drive a mechanical [[watermill|mill]] or an [[electric generator]]. <ref>http://www.worldbookonline.com/digitallibraries/livinggreen/article?id=ar836804&st=hydroelectric</ref> . 
+
+In some cases with [[hydroelectric dams]], there are unexpected results. One study shows that a hydroelectric dam in the Amazon has 3.6 times larger greenhouse effect per kW•h than electricity production from oil, due to large scale emission of [[methane]] from decaying organic material<ref>{{Cite news
+  | last = Graham-Rowe
+  | first = Duncan
+  | title = Hydroelectric power's dirty secret revealed
+  | newspaper = New Scientist
+  | pages =
+  | date = 2005-02-24
+  | url = http://www.newscientist.com/article.ns?id=dn7046}}</ref><!-- original reference [http://www.futurepundit.com/archives/002642.html] -->, though this is most significant as river valleys are initially flooded, and are of much less consequence for more boreal dams. <ref>{{Cite journal
+  | last1 = Tremblay
+  | first1 = Alain
+  | title = The issue of greenhouse gases from hydroelectric reservoirs: from boreal to tropical regions
+  | newspaper = Proceedings of the United Nations Symposium on Hydropower and Sustainable Development, Beijing, China, October 27–29, 2004
+  | pages = 11
+  | year = 2004
+  | first2 = Louis
+  | last2 = Varfalvy
+  | first3 = Charlotte
+  | last3 = Roehm
+  | first4 = Michelle
+  | last4 = Garneau
+  | url = http://www.un.org/esa/sustdev/sdissues/energy/op/hydro_tremblaypaper.pdf}}</ref>
+This effect applies in particular to dams created by simply flooding a large area, without first clearing it of vegetation. There are however investigations into [[damless hydro|underwater turbines]] that do not require a dam.  And [[pumped-storage hydroelectricity]] can use water [[reservoir]]s at different altitudes to store wind and solar power.  . 
+
+===Solar=== . 
+
+[[File:Nellis AFB Solar panels.jpg|thumb|[[Nellis Solar Power Plant]], the third largest [[Photovoltaics|photovoltaic]] power plant in North America.]]
+{{Main|Solar energy|Photovoltaics}} . 
+
+Solar power involves using [[solar cell]]s to convert [[sunlight]] into [[electricity]], using sunlight hitting solar thermal panels to convert sunlight to heat water or air, using sunlight hitting a [[parabolic mirror]] to heat water (producing [[steam]]), or using sunlight entering windows for [[passive solar]]  heating of a building. It would be advantageous to place solar panels in the regions of highest solar radiation. <ref>http://www.worldbookonline.com/digitallibraries/livinggreen/article?id=ar836713&st=solar+power
+</ref>  . 
+
+At the end of 2009, cumulative global [[photovoltaic]] (PV) installations surpassed 21 GW<ref name="jr2010"/><ref name="re"/><ref name="fif"/> and [[photovoltaic power stations|PV power stations]] are popular in [[Solar power in Germany|Germany]] and [[Solar power in Spain|Spain]]. <ref name="pvresources.com"/> [[Solar thermal power]] stations operate in the USA and Spain, and the largest of these is the 354 [[megawatt]] (MW) [[SEGS]] power plant in the [[Solar power plants in the Mojave Desert|Mojave Desert]]. <ref name="Solar Trough Power Plants"/> . 
+
+China is increasing worldwide silicon wafer capacity for photovoltaics to 2,000 metric tons by July 2008, and over 6,000 metric tons by the end of 2010. <ref>{{cite web
+ | url= http://www.suntech-power.com/News/tabid/99/Default.aspx?id=303&Module=597
+ | title= Suntech Announces Analyst and Investor Day Highlights
+ |author= |last= |first= |authorlink= |coauthors=
+ | date= 2007-12-11 |work= | publisher= Suntech Power
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-19 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref>  Significant international investment capital is flowing into China to support this opportunity. China is building large subsidized off-the-grid solar-powered cities in [[Huangbaiyu]] and [[Dongtan]] Eco City. Much of the design was done by Americans such as [[William McDonough]]. <ref>http://galenet.galegroup.com/servlet/SciRC?locID=cobb90289&bi=KE&bt=William+McDonough&c=2&t=2&ste=22&docNum=A182810130&st=b&tc=30&tf=0</ref> . 
+
+Many solar photovoltaic power stations have been built, mainly in Europe. <ref name="PV">Denis Lenardic. [http://www.pvresources.com/PVPowerPlants/Top50.aspx Large-scale photovoltaic power plants ranking 1 - 50] ''PVresources.com'', 2010. </ref> As of December 2011, the largest photovoltaic (PV) power plants in the world are the [[Golmud Solar Park]] (China, 200 MW), [[Sarnia Photovoltaic Power Plant]] (Canada, 97 MW), [[Montalto di Castro Photovoltaic Power Station]] (Italy, 84.2 MW), [[Finsterwalde Solar Park]] (Germany, 80.7 MW), [[Okhotnykovo Solar Park]] (Ukraine, 80&nbsp;MW), [[Lieberose Photovoltaic Park]] (Germany, 71.8&nbsp;MW), [[Rovigo Photovoltaic Power Plant]] (Italy, 70 MW), [[Olmedilla Photovoltaic Park]] (Spain, 60&nbsp;MW), and the [[Strasskirchen Solar Park]] (Germany, 54&nbsp;MW). <ref name="PV"/> . 
+
+===Agricultural biomass=== . 
+
+[[Image:Sugar cane leaves.jpg|left|thumb|[[Sugar cane]] residue can be used as a biofuel]] . 
+
+[[Biomass]] production involves using [[waste|garbage]] or other [[renewable energy|renewable]] resources such as [[Maize|corn]] or other [[vegetation]] to generate electricity. When garbage [[decomposition|decomposes]], the [[methane]] produced is captured in pipes and later burned to produce electricity. Vegetation and wood can be burned directly to generate energy, like fossil fuels, or processed to form [[alcohol]]s. [[Ethanol fuel in Brazil|Brazil]] has one of the largest renewable energy programs in the world, involving production of [[ethanol fuel]] from sugar cane, and ethanol now provides 18% of the country's automotive fuel. <ref name="renewableenergyaccess.com"/> Ethanol fuel is also widely available in the USA.  . 
+
+[[Vegetable oil]] is generated from sunlight, H<sub>2</sub>O, and CO<sub>2</sub> by plants.  It is safer to use and store than [[gasoline]] or [[Diesel fuel|diesel]] as it has a higher [[flash point]]. [[Straight vegetable oil]] works in diesel engines if it is heated first.  Vegetable oil can also be [[Transesterification|transesterified]] to make [[biodiesel]], which burns like normal diesel.  . 
+
+{{Refimprove section|date=April 2008}} . 
+
+===Geothermal=== . 
+
+{{Main|Geothermal power}} . 
+
+Geothermal energy harnesses the heat energy present underneath the [[Earth]]. Two wells are drilled.  One well injects water into the ground to provide water.  The hot [[rock (geology)|rocks]] heat the water to produce [[steam]]. The steam that shoots back up the other hole(s) is purified and is used to drive [[turbine]]s, which power [[electric generator]]s. When the water temperature is below the boiling point of water a binary system is used.  A low boiling point liquid is used to drive a turbine and generator in a closed system similar to a refrigeration unit running in reverse. There are also natural sources of geothermal energy: some can come from volcanoes, geysers, hot springs, and steam vents. <ref>Dovey, Karen. Energy Alternatives. Farmington Hills, Minassota: Lucent Books, 1962</ref> The world's largest [[geothermal power]] installation is [[The Geysers]] in California, with a rated capacity of 750 MW.  . 
+
+===Tidal=== . 
+
+{{Main|Tidal power}} . 
+
+Tidal power can be extracted from [[Moon]]-gravity-powered [[tide]]s by locating a [[water turbine]] in a tidal current, or by building impoundment pond dams that admit-or-release water through a turbine. The turbine can turn an [[electrical generator]], or a [[gas compressor]], that can then store energy until needed. Coastal tides are a source of clean, free, renewable, and sustainable energy. <ref>http://galenet.galegroup.com/servlet/SciRC?locID=cobb90289&bi=KE&bt=tidal+power&c=1&t=1&ste=21&docNum=CV2644151381&st=b&tc=31&tf=0</ref> . 
+
+== Fossil fuels ==. 
+[[Image:Moss Landing Power Plant p1270026.jpg|thumb|right|The [[Moss Landing Power Plant]] burns [[natural gas]] to produce electricity in [[California]].]]
+{{Main|Fossil fuel|Peak oil}} . 
+
+Fossil fuels sources burn [[coal]] or [[hydrocarbon]] fuels, which are the remains of the decomposition of plants and animals. There are three main types of fossil fuels: [[coal]], [[petroleum]], and [[natural gas]]. Another fossil fuel, [[liquefied petroleum gas]] (LPG), is principally derived from the production of natural gas. Heat from burning fossil fuel is used either directly for space heating and process heating, or converted to mechanical energy for vehicles, industrial processes, or electrical power generation.  . 
+
+[[Greenhouse gas]] emissions result from [[fossil fuel]]-based electricity generation.  Currently governments subsidize [[fossil fuel]]s by an estimated $500 billion a year. <ref name="sciencedaily1">''ScienceDaily.com'' (Apr. 22, 2010) [http://www.sciencedaily.com/releases/2010/04/100421133110.htm "Fossil-Fuel Subsidies Hurting Global Environment, Security, Study Finds"]</ref> . 
+
+== Nuclear ==. 
+{{Main|Nuclear power|Peak uranium}} . 
+
+=== Fission ===. 
+[[Image:Diablo canyon nuclear power plant.jpg|thumb|left|[[Diablo Canyon Power Plant]] Nuclear power station.]] . 
+
+[[Nuclear power plant|Nuclear power stations]] use [[nuclear fission]] to generate energy by the reaction of [[uranium]]-235 inside a [[nuclear reactor]]. The reactor uses uranium [[rod (shaft)|rod]]s, the atoms of which are split in the process of [[nuclear fission|fission]], releasing a large amount of energy. The process continues as a [[chain reaction]] with other [[atomic nucleus|nuclei]]. The energy heats water to create [[steam]], which spins a [[turbine]] generator, producing [[electricity]].  . 
+
+Depending on the type of fission fuel considered, estimates for existing supply at known usage rates varies from several decades for the currently popular Uranium-235 to thousands of years for uranium-238. At the present rate of use, there are (as of 2007) about [[Peak uranium|70 years left]] of known [[uranium-235]] reserves economically recoverable at a uranium price of US$ 130/kg. <ref name="wna75">{{cite web
+ | url= http://www.world-nuclear.org/info/inf75.html
+ | title= Supply of Uranium
+ | month= March | year= 2007 |work= | publisher= World Nuclear Association
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-18 }}</ref> The nuclear industry argue that the cost of fuel is a minor cost factor for fission power, more expensive, more difficult to extract sources of uranium could be used in the future, such as lower-grade ores, and if prices increased enough, from sources such as granite and seawater. <ref name="wna75"/>  Increasing the price of uranium would have little effect on the overall cost of nuclear power; a doubling in the cost of natural uranium would increase the total cost of nuclear power by 5 percent. On the other hand, if the price of natural gas was doubled, the cost of gas-fired power would increase by about 60 percent. <ref>{{cite web
+ | url= http://www.world-nuclear.org/info/inf02.html
+ | title= The Economics of Nuclear Power
+ |author= |last= |first= |authorlink= |coauthors=
+ | month= June | year= 2007 |work= | publisher= World Nuclear Association
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-18 }}</ref> . 
+
+Opponents on the other hand argue that the correlation between price and production is not linear, but as the ores' concentration becomes smaller, the difficulty (energy and resource consumption are increasing, while the yields are decreasing) of extraction rises very fast, and that the assertion that a higher price will yield more uranium is overly optimistic; for example a rough estimate predicts that the extraction of uranium from granite will consume at least 70 times more energy than what it will produce in a reactor. As many as eleven countries have depleted their uranium resources, and only Canada has mines left that produce better than 1% concentration ore. <ref>[http://www.energywatchgroup.org/fileadmin/global/pdf/EWG_Press_Uranium_29-11-2006.pdf Uranium Resources and Nuclear Energy]</ref> Seawater seems to be equally dubious as a source. <ref name="storm2">{{cite web
+ | url= http://www.stormsmith.nl/report20050803/Chap_2.pdf
+ | title= Nuclear Energy: the Energy Balance
+ | author= Jan Willem Storm van Leeuwen | coauthors= Philip Smith
+ | date= 2005-07-30 | format= PDF |work= |publisher=
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-18 }}</ref> . 
+
+[[Nuclear meltdown]]s and other reactor accidents, such as the [[Fukushima I nuclear accident]] (2011), [[Three Mile Island accident]] (1979) and the [[Chernobyl disaster]] (1986), have caused much public concern. Research is being done to lessen the known problems of current reactor technology by developing automated and [[Passive nuclear safety|passively safe]] reactors. Historically, however, coal and hydropower power generation have both been the cause of more deaths per energy unit produced than nuclear power generation. <ref>{{cite web
+ | url= http://ee.ucd.ie/erc/events/nuclear/Crawley.pdf
+ | title= Risks vs. Benefits in Energy Production
+ |author= Gary Crawley
+ |date= |year= |month= | format= PDF |work= | publisher= Science Foundation Ireland
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-18 }}</ref><ref>{{cite web
+ | url= http://www.theage.com.au/news/national/nuclear-power-cheaper-safer-than-coal-and-gas/2006/06/04/1149359609052.html
+ | title= Nuclear power 'cheaper, safer' than coal and gas
+ |author= Brendan Nicholson
+ |date= 2006-06-05 |work= |publisher= [[The Age]]
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-18 }}</ref> . 
+
+[[Nuclear proliferation]] is the spread of nuclear technology which may happen from nation to nation or through other [[black market]] channels, including nuclear power plants and related technology including [[nuclear weapon]]s.  . 
+
+The long-term [[radioactive waste]] storage problems of nuclear power have not been solved. Several countries have considered using underground repositories. Nuclear waste takes up little space compared to wastes from the chemical industry which remain toxic indefinitely. <ref name="wna04">{{cite web
+ | url= http://www.world-nuclear.org/info/inf04.html
+ | title= Waste Management in the Nuclear Fuel Cycle
+ |author= |last= |first= |authorlink= |coauthors=
+ | month= April | year= 2007 |work= | publisher= World Nuclear Association
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-18 }}</ref> Spent fuel rods are now stored in concrete casks close to the nuclear reactors. <ref>{{cite web
+ | url= http://www.wired.com/wired/archive/13.02/nuclear.html
+ | title= Nuclear Now!
+ | author= Peter Schwartz | coauthors= Spencer Reiss
+ | month= February | year= 2005 | publisher= [[Wired (magazine)|''Wired'']]
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-18 }}</ref> The amounts of waste could be reduced in several ways. Both [[nuclear reprocessing]] and [[breeder reactor]]s could reduce the amounts of waste. [[Subcritical reactor]]s or fusion reactors could greatly reduce the time the waste has to be stored. <ref>{{cite web
+ | url= http://www.world-nuclear.org/info/inf35.html
+ | title= Accelerator-driven Nuclear Energy
+ |author= |last= |first= |authorlink= |coauthors=
+ | month= August | year= 2003 |work= | publisher= World Nuclear Association
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-18 }}</ref> Subcritical reactors may also be able to do the same to already existing waste. The only long-term way of dealing with waste today is by geological storage.  . 
+
+At present, nuclear energy is in decline, according to a 2007 [[World Nuclear Industry Status Report]] presented by the [[Green party|Greens]]/[[European Free Alliance|EFA]] group in the [[European Parliament]]. The report outlines that the proportion of nuclear energy in power production has decreased in 21 out of 31 countries, with five fewer functioning nuclear reactors than five years ago. There are currently 32 nuclear power plants under construction or in the pipeline, 20 fewer than at the end of the 1990s. <ref>[http://www.greens-efa.org/cms/pressreleases/dok/206/206845.nuclear_energy@en.htm The Greens | European Free Alliance in the European Parliament - – Nuclear energy<!-- Bot generated title -->]</ref><ref>http://www.greens-efa.org/cms/topics/dokbin/206/206749.the_world_nuclear_industry_status_report@en.pdf</ref> . 
+
+Thorium can be used as fuel in a [[nuclear reactor]]. A thorium fuel cycle offers several potential advantages over a [[uranium fuel cycle]] including much [[Thorium#Occurrence|greater abundance]] on Earth, superior physical and nuclear properties of the fuel, enhanced [[nuclear proliferation|proliferation]] resistance, and reduced nuclear waste production. Nobel laureate [[Carlo Rubbia]] at [[CERN]] (European Organization for Nuclear Research), has worked on developing the use of thorium as an alternative to uranium in reactors.  Rubbia states that a tonne of thorium can produce as much energy as 200 tonnes of uranium, or 3,500,000 tonnes of coal. <ref name=Pritchard>[http://www.telegraph.co.uk/finance/comment/7970619/Obama-could-kill-fossil-fuels-overnight-with-a-nuclear-dash-for-thorium.html "Obama could kill fossil fuels overnight with a nuclear dash for thorium"], Evans-Pritchard, Ambrose. ''The Telegraph'', U.K. August 29, 2010</ref> One of the early pioneers of the technology was U.S. physicist [[Alvin Weinberg]] at [[Oak Ridge National Laboratory]] in Tennessee, who helped develop a working nuclear plant using liquid fuel in the 1960s.  . 
+
+{{Refimprove section|date=April 2008}} . 
+
+=== Fusion ===. 
+[[Fusion power]] could solve many of the problems of [[nuclear fission|fission power]] (the technology mentioned above) but, despite research having started in the 1950s, no commercial fusion reactor is expected before 2050. <ref>{{cite web
+ | url= http://www.iter.org/index.htm
+ | title= What is ITER?
+ |author= |last= |first= |authorlink= |coauthors=
+ |date= |year= |month= |work= |publisher= ITER International Fusion Energy Organization
+ |pages= |language= |doi= |archiveurl = http://web.archive.org/web/20071218134708/http://www.iter.org/index.htm <!-- Bot retrieved archive --> |archivedate = 2007-12-18 |quote=
+ | accessdate= 2008-01-18 }}</ref>  Many technical problems remain unsolved. Proposed fusion reactors commonly use [[deuterium]], an [[isotope]] of [[hydrogen]], as fuel and in most current designs also [[lithium]]. Assuming a fusion energy output equal to the current global output and that this does not increase in the future, then the known current lithium reserves would last 3000 years, lithium from sea water would last 60 million years, and a more complicated fusion process using only deuterium from sea water would have fuel for 150 billion years. <ref>{{cite web
+ | url= http://www.fusie-energie.nl/artikelen/ongena.pdf
+ |format=PDF| title= Energy for Future Centuries: Will fusion be an inexhaustible, safe and clean energy source?
+ | author= J. Ongena | coauthors= G. Van Oost
+ |date= |year= |month= |work= |publisher=
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-18 }}</ref> . 
+
+==Cost by source==. 
+{{See|Cost of electricity by source}}
+The following chart does not include the [[carbon pricing|external, weather-related costs of using fossil fuels.]] . 
+
+Large [[energy subsidies]] are present in many countries (Barker ''et al.'', 2001:567-568). <ref name=barker>{{cite web |year=2001 |title=Sectoral Costs and Ancillary Benefits of Mitigation. In: Climate Change 2001: Mitigation. Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change [B. Metz, ''et al''., Eds.] |publisher=Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A. |author=Barker, T., ''et al''. |url=http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm |accessdate=2010-01-10}}</ref> Currently governments subsidize [[fossil fuel]]s by $557 billion per year. <ref name="sciencedaily1"/><ref>Bloomberg New Energy Finance (July, 2010) [http://www.renewableenergyworld.com/rea/news/article/2010/07/fossil-fuel-subsidies-outpace-renewables "Fossil Fuel Subsidies Outpace Renewables "] ''RenewableEnergyWorld.com''</ref> Economic theory indicates that the optimal policy would be to remove coal mining and burning subsidies and replace them with optimal taxes. Global studies indicate that even without introducing taxes, subsidy and trade barrier removal at a sectoral level would improve efficiency and reduce environmental damage. Removal of these subsidies would substantially reduce GHG emissions and stimulate economic growth.  . 
+
+== Increased energy efficiency ==. 
+{{Main|Efficient energy use}}
+[[Image:Compact-Fluorescent-Bulb.jpg|thumb|upright=1.00|A spiral-type integrated [[compact fluorescent lamp]], which has been popular among North American consumers since its introduction in the mid 1990s. <ref>{{cite web|title=Philips Tornado Asian Compact Fluorescent | publisher=Philips | accessdate=2007-12-24 | url=http://www.lamptech.co.uk/Spec%20Sheets/Philips%20CFL%20Tornado.htm}}</ref>]] . 
+
+Efficient energy use, sometimes simply called energy efficiency, is the goal of efforts to reduce the amount of energy required to provide products and services. For example, [[building insulation|insulating a home]] allows a building to use less heating and cooling energy to achieve and maintain a comfortable temperature. Installing [[fluorescent lights]] or natural [[Skylight (window)|skylights]] reduces the amount of energy required to attain the same level of illumination compared to using traditional [[incandescent light bulbs]]. [[Compact fluorescent lights]] use two-thirds less energy and may last 6 to 10 times longer than incandescent lights.  Improvements in energy efficiency are most often achieved by adopting a more efficient technology or production process. <ref>[[Mark Diesendorf|Diesendorf, Mark]] (2007). ''[[Greenhouse Solutions with Sustainable Energy]]'', UNSW Press, p. 86. </ref>   . 
+
+There are various motivations to improve energy efficiency.  Reducing energy use reduces energy costs and may result in a financial cost saving to consumers if the energy savings offset any additional costs of implementing an energy efficient technology.  Reducing energy use is also seen as a key solution to the problem of reducing emissions.  According to the [[International Energy Agency]], improved energy efficiency in [[Energy efficient buildings|buildings]], industrial processes and [[Sustainable transportation|transportation]] could reduce the world's energy needs in 2050 by one third, and help control global emissions of greenhouse gases. <ref>{{cite web|author=Sophie Hebden |url=http://www.scidev.net/News/index.cfm?fuseaction=readNews&itemid=2929&language=1 |title=Invest in clean technology says IEA report |publisher=Scidev.net |date=2006-06-22 |accessdate=2010-07-16}}</ref>   . 
+
+Energy efficiency and [[renewable energy]] are said to be the ''twin pillars'' of sustainable energy policy. <ref>{{cite web|url=http://aceee.org/store/proddetail.cfm?CFID=2957330&CFTOKEN=50269931&ItemID=432&CategoryID=7 |title=The Twin Pillars of Sustainable Energy: Synergies between Energy Efficiency and Renewable Energy Technology and Policy |publisher=Aceee.org |date= |accessdate=2010-07-16 |archiveurl = http://web.archive.org/web/20080505041521/http://aceee.org/store/proddetail.cfm?CFID=2957330&CFTOKEN=50269931&ItemID=432&CategoryID=7 |archivedate = 2008-05-05}}</ref> In many countries energy efficiency is also seen to have a national security benefit because it can be used to reduce the level of energy imports from foreign countries and may slow down the rate at which domestic energy resources are depleted.  . 
+
+== Transmission ==. 
+[[Image:Pipeline-small image, seen from below.jpeg|thumb|right|An elevated section of the [[Trans-Alaska Pipeline System|Alaska Pipeline]].]]
+{{See also|Pipeline transport}} . 
+
+While new sources of energy are only rarely discovered or made possible by new [[technologies|technology]], [[distribution (business)|distribution]] technology continually evolves. <ref>[https://publicaffairs.llnl.gov/news/energy/content/international/United_States_Energy_2007.png U.S. Energy Utilization in 2007]</ref> The use of [[fuel cell]]s in cars, for example, is an anticipated delivery technology.{{Citation needed|date=August 2010}}  This section presents some of the more common delivery technologies that have been important to historic energy development. They all rely in some way on the energy sources listed in the previous section.  . 
+
+=== Water ===. 
+{{See|Water cycle|Pumped-storage hydroelectricity}}
+{{Expand section|date=August 2010}} . 
+
+=== Fossil fuels ===. 
+[[Shipping]] is a flexible delivery technology that is used in the whole range of energy development regimes from primitive to highly advanced.  Currently, [[coal]], [[petroleum]] and their derivatives are delivered by shipping via boat, [[Rail transport|rail]], or road. Petroleum and natural gas may also be delivered via [[pipeline transport|pipeline]] and coal via a [[Slurry pipeline]]. Refined hydrocarbon fuels such as [[gasoline]] and [[Liquified petroleum gas|LPG]] may also be delivered via [[aircraft]]. Natural gas pipelines must maintain a certain minimum pressure to function correctly. [[Ethanol]]'s corrosive properties make it harder to build ethanol pipelines. <!-- There are ethanol pipelines being built, so don't say it is impossible --> The higher costs of ethanol transportation and storage are often prohibitive. <ref>
+{{cite web
+ | url = http://www.ornl.gov/info/ornlreview/v40_1_07/article08.shtml
+ | title = Oak Ridge National Laboratory — Biomass, Solving the science is only part of the challenge
+ | accessdate = 2008-01-06
+}}</ref> . 
+
+=== Electricity ===. 
+[[Image:Electricalgrid.jpg|thumb|left|Electric Grid: Pilons and cables distribute power]] . 
+
+Electricity grids are the [[electrical network|networks]] used to [[Electric power transmission|transmit]] and [[Electricity distribution|distribute]] [[electric power|power]] from production source to end user, when the two may be hundreds of kilometres away.  Sources include electrical generation plants such as a [[nuclear reactor]], coal burning power plant, etc.  A combination of sub-stations, transformers, [[tower]]s, [[cable]]s, and [[piping]] are used to maintain a constant flow of electricity. Grids may suffer from transient [[Power blackout|blackout]]s and [[power outage|brownouts]], often due to weather damage. During certain extreme [[space weather]] events [[solar wind]] can interfere with transmissions. Grids also have a predefined [[carrying capacity]] or load that cannot safely be exceeded. When power requirements exceed what's available, failures are inevitable. To prevent problems, power is then rationed.  . 
+
+Industrialised countries such as [[Canada]], the [[United States|US]], and [[Australia]] are among the highest per capita consumers of electricity in the world, which is possible thanks to a widespread electrical distribution network. The US grid is one of the most advanced, although [[infrastructure]] maintenance is becoming a problem. [http://currentenergy.lbl.gov/ CurrentEnergy] provides a realtime overview of the electricity supply and demand for [[California]], [[Texas]], and the Northeast of the US. African countries with small scale electrical grids have a correspondingly low annual per capita usage of electricity. One of the most powerful power grids in the world supplies power to the state of [[Queensland]], Australia.  . 
+
+== Storage ==. 
+{{Main|Energy storage|grid energy storage}} . 
+
+Methods of energy storage have been developed, which transform electrical energy into forms of potential energy. A method of energy storage may be chosen on the basis of stability, ease of transport, ease of energy release, or ease of converting free energy from the natural form to the stable form.  . 
+
+===Chemical=== . 
+
+Some natural forms of energy are found in stable chemical compounds such as [[fossil fuel]]s. Most systems of chemical energy storage result from [[Biology|biological]] activity, which store energy in chemical bonds. Man-made forms of chemical energy storage include [[hydrogen]] fuel, [[Energy storage#Synthetic hydrocarbon fuel|synthetic hydrocarbon fuel]], [[battery (electricity)|batteries]] and [[explosive]]s such as [[cordite]] and [[dynamite]].  . 
+
+===Gravitational and hydroelectric===. 
+[[Dam]]s can be used to store energy, by using [[pumped-storage hydroelectricity]], excess energy to pump water into the reservoir. When electrical energy is required, the process is reversed. The water then turns a [[turbine]], generating electricity. [[Hydroelectric]] power is currently an important part of the world's energy supply, generating one-fifth of the world's electricity. <ref>{{cite web
+ | url= http://www.worldenergy.org/wec-geis/publications/reports/ser/overview.asp
+ | title= Survey of Energy Resources 2004 (link)
+ |author= |last= |first= |authorlink= |coauthors=
+ |date= |year= |month= |work= | publisher= World Energy Council
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-19 }}</ref> . 
+
+===Thermal===. 
+There are several technologies to [[Thermal energy storage|store heat]].  Thermal energy from the sun, for example, can be stored in a reservoir or in the ground for daily or seasonal use.  Thermal energy for cooling can be stored in ice. <ref name="ice-energy.com">http://ice-energy.com</ref> Many thermal power plants are set up near coal or oil fields. The thermal power plant is used since fuel is burnt to produce heat energy, which is converted into electrical energy . <ref name="ice-energy.com"/> . 
+
+===Compressed air ===. 
+Energy may also be stored in [[pressure|pressurized]] gases or alternatively in a [[vacuum]]. Compressed air, for example, may be used to operate vehicles and power tools. Large-scale [[compressed air energy storage]] facilities are used to smooth out demands on electricity generation by providing energy during peak hours and storing energy during off-peak hours. All storage systems save on generating capacity since primary energy sources only need to meet average consumption rather than peak consumption. <ref>{{cite web
+ | url= http://www.generalcompression.com/gc_summary.pdf
+ | title= Dispatchable Wind
+ |author= |last= |first= |authorlink= |coauthors=
+ | date= 2007-11-26 | format= PDF |work= | publisher= General Compression
+ |pages= |language= |doi= |archiveurl = http://web.archive.org/web/20080227092435/http://www.generalcompression.com/gc_summary.pdf <!-- Bot retrieved archive --> |archivedate = 2008-02-27 |quote=
+ | accessdate= 2008-01-19 }}</ref>
+A critical factor in design of compressed-air storage systems is the heat evolved during compression; a large amount of heat is given off when gases are compressed, and subsequent expansion requires the gas to resorb this heat. In spite of the large cyclic efficiency loss in simple schemes, compressed air storage has still been applied in electrical grid applications, where low-cost off-peak baseload energy can be stored for later release during peaks.  . 
+
+===Electrical capacitance===. 
+Electrical energy may be stored in [[capacitor]]s. Capacitors are often used to produce high intensity releases of energy (such as a camera's flash).  . 
+
+===Hydrogen===. 
+{{Main|Hydrogen economy}} . 
+
+Hydrogen can be manufactured at roughly 77 percent thermal efficiency by the method of steam reforming of natural gas. <ref>{{cite web
+ | url= http://cta.ornl.gov/data/index.shtml
+ | title= Transportation Energy Data Book (link)
+ |author= |last= |first= |authorlink= |coauthors=
+ |date= |year= |month= |work=
+ | publisher= [[United States Department of Energy|U.S. Dept. of Energy]]
+ |pages= |language= |doi= |archiveurl= |archivedate= |quote=
+ | accessdate= 2008-01-19 }}</ref> When manufactured by this method it is a derivative fuel like gasoline; when produced by electrolysis of water, it is a form of chemical energy storage as are storage [[battery (electricity)|batteries]], though hydrogen is the more versatile storage mode since there are two options for its conversion to useful work: (1) a [[fuel cell]] can convert the chemicals [[hydrogen]] and [[oxygen]] into water, and in the process, produce electricity, or (2) hydrogen can be burned (less efficiently than in a fuel cell) in an internal combustion engine.  . 
+
+=== Vehicles ===. 
+[[File:USEnergyFlow08-quads.png|thumb|right|Energy flow in the U.S., 2008]] . 
+
+==== Fossil fuels ==== . 
+
+[[Petroleum]], coal and natural gas are used to power most transportation and buildings.  . 
+
+==== Batteries ====. 
+:''Main articles'': [[battery (electricity)|battery]], [[battery electric vehicle]]''
+Batteries are used to store energy in a chemical form.  As an alternative energy, batteries can be used to store energy in [[battery electric vehicle]]s.  Battery electric vehicles can be charged from the grid when the vehicle is not in use.  Because the energy is derived from electricity, battery electric vehicles make it possible to use other forms of alternative energy such as [[wind]], [[Solar energy|solar]], [[Geothermal power|geothermal]], [[nuclear power|nuclear]], or [[hydroelectric]].  . 
+
+==== Compressed air ====. 
+[[Compressed air vehicle]]s would be propelled entirely or partly by energy stored in compressed air. However, cyclic efficiency is low since it is difficult to store the heat of compression and return it to the air during expansion. Certain specialized vehicles, for example, mine locomotives, have been built and used for many years.  . 
+
+==Sustainability==. 
+{{See also|Climate change mitigation|Carbon pricing}}
+[[Image:Energy-consumption-World2.png|thumb|right|Energy consumption from 1989 to 1999]] . 
+
+The [[environmental movement]] emphasizes [[sustainability]] of energy use and development.  [[Renewable energy]] is sustainable in its production; the available supply will not be diminished for the foreseeable future - millions or billions of years.  "Sustainability" also refers to the ability of the environment to cope with waste products, especially [[air pollution]].  Sources which have no direct waste products (such as wind, solar, and hydropower) are seen as ideal in this regard.  . 
+
+[[Fossil fuels]] such as [[petroleum]], [[coal]], and [[natural gas]] are not renewable.  For example, the timing of worldwide [[peak oil]] production is being actively debated but it has already happened in some countries.  Fossil fuels also make up the bulk of the world's current [[primary energy]] sources.  With global demand for energy growing, the need to adopt alternative energy sources is also growing.  Fossil fuels are also a major source of [[greenhouse gas]] emissions, leading to concerns about [[global warming]] if consumption is not reduced.  . 
+
+[[Energy conservation]] is an alternative or complementary process to energy development.  It reduces the demand for energy by using it more efficiently.  . 
+
+==Resilience==. 
+[[Image:Energy per capita.png|thumb|right|Energy consumption ''per capita'' (2001). Red hues indicate increase, green hues decrease of consumption during the 1990s.]] . 
+
+Some observers contend that the much talked about idea of “energy independence” is an unrealistic and opaque concept. They offer “energy resilience” as a more sensible goal and more aligned with economic, security and energy realities.  The notion of resilience in energy was detailed in the 1982 book [[Brittle Power]]: Energy Strategy for National Security. <ref>[http://www.natcapsolutions.org/publications_files/brittlepower.htm Brittle Power: Energy Plan for National Security.[[Amory B. Lovins]] and L. Hunter Lovins (1982).]</ref> The authors argued that simply switching to domestic energy would be no more secure inherently because the true weakness is the interdependent and vulnerable energy infrastructure of the United States. Key aspects such as gas lines and the electrical power grid are centralized and easily susceptible to major disruption.  They conclude that a “resilient energy supply” is necessary for both national security and the environment. They recommend a focus on energy efficiency and renewable energy that is more decentralized. <ref>[http://www.natcapsolutions.org/publications_files/FragileDomEnergy_AtlanticMonthly_Nov1983.pdf "The Fragility of Domestic Energy.” [[Amory B. Lovins]] and L. Hunter Lovins. Atlantic Monthly. November 1983.]</ref> . 
+
+More recently former [[Intel Corporation]] Chairman and CEO [[Andrew Grove]] has touted energy [[resilience]], arguing that complete independence is infeasible given the global market for energy. <ref>[http://www.american.com/archive/2008/july-august-magazine-contents/our-electric-future “Our Electric Future.” [[Andrew Grove]]. The American. July/August 2008.]</ref> He describes energy resilience as the ability to adjust to interruptions in the supply of energy. To this end he suggests the U.S. make greater use of electricity. <ref>{{cite web|url=http://www.american.com/archive/2008/july-august-magazine-contents/our-electric-future|title=An Electric Plan for Energy Resilience|author=[[Andrew Grove]] and Robert Burgelman|publisher=McKinsey Quarterly|date=December 2008|accessdate=2010-07-20}}</ref> Electricity can be produced from a variety of sources. A diverse energy supply will be less impacted by the disruption in supply of any one source. He reasons that another feature of electrification is that electricity is “sticky” – meaning the electricity produced in the U.S. is more likely to stay there because it cannot be transported overseas.  According to Grove, a key aspect of advancing electrification and energy resilience will be converting the U.S. automotive fleet from gasoline-powered to electric-powered. This, in turn, will require the modernization and expansion of the electrical power grid. As organizations such as the [[Reform Institute]] have pointed out, advancements associated with the developing [[smart grid]] would facilitate the ability of the grid to absorb vehicles en masse connecting to it to charge their batteries. <ref>[https://www.policyarchive.org/bitstream/handle/10207/16484/Electric_Car_Reform_Brief_FINAL_PDF_3-4-09.pdf?sequence=1 Resilience in Energy: Building Infrastructure Today for Tomorrow’s Automotive Fuel. Reform Institute. March 2009.]</ref> . 
+
+==Future==. 
+[[File:TPES outlook.jpg|thumb|World Primary Energy Outlook by EIA (as of 2011-06)]]
+[[Image:World energy consumption by region 1970-2025.png|thumb|right|An increasing share of world energy consumption is predicted to be used by developing nations. Source: EIA.]] . 
+
+Extrapolations from current knowledge to the future offer a choice of energy futures. <ref>[http://sapiens.revues.org/index70.html Mandil, C. (2008) “Our energy for the future”. ''S.A.P.I.EN.S.'' '''1''' (1) ]</ref> Some predictions parallel the [[Malthusian catastrophe]] hypothesis. Numerous are complex [[scientific modeling|models]] based [[scenario]]s as pioneered by ''[[Limits to Growth]]''. Modeling approaches offer ways to analyze diverse [[strategy|strategies]], and hopefully find a road to rapid and [[sustainable development]] of humanity. Short term [[energy crisis|energy crises]] are also a concern of energy development.  Some extrapolations lack plausibility, particularly when they predict a continual increase in oil consumption.  . 
+
+Energy production usually requires an energy investment. Drilling for oil or building a wind power plant requires energy. The fossil fuel ''resources'' (see above) that are left are often increasingly difficult to extract and convert. They may thus require increasingly higher energy investments. If the investment is greater than the energy produced, then the fossil resource is no longer an energy source. This means that a large part of the fossil fuel resources and especially the non-conventional ones cannot be used for energy production today. Such resources may still be exploited economically in order to produce raw materials for [[plastic]]s, [[fertilizer]]s or even transportation fuel but now more energy is consumed than produced. (They then become similar to ordinary ''mining'' reserves, economically recoverable but not net positive energy sources.) New technology may ameliorate this problem if it can lower the energy investment required to extract and convert the resources, although ultimately basic physics sets limits that cannot be exceeded.  . 
+
+Between 1950 and 1984, as the [[Green Revolution]] transformed [[agriculture]] around the globe, world grain production increased by 250%. The energy for the Green Revolution was provided by [[fossil fuels]] in the form of [[fertilizers]] (natural gas), [[pesticides]] (oil), and [[hydrocarbon]] fueled [[irrigation]]. <ref>[http://www.energybulletin.net/281.html Eating Fossil Fuels]</ref> The peaking of world hydrocarbon production ([[peak oil]]) may lead to significant changes, and require sustainable methods of production. <ref>[http://www.soilassociation.org/peakoil Peak Oil: the threat to our food security] retrieved 28 May 2009</ref> . 
+
+==See also==. 
+{{Portal box|Sustainable development|Energy}}
+{{Main|Outline of energy development}}
+<div style="-moz-column-count:2; column-count:2;">
+*[[Energy planning]]
+*[[Energy policy]]
+*[[Energy policy of the United States]]
+*[[Environmental concerns with electricity generation]]
+*[[Nuclear energy policy]]
+*[[Proposed future transport]]
+*[[Renewable energy commercialization]]
+*[[Relative cost of electricity generated by different sources]]
+*[[World energy resources and consumption]]
+</div> . 
+
+==References==. 
+{{Reflist}} . 
+
+==Sources==. 
+* Serra, J. "Alternative Fuel Resource Development", Clean and Green Fuels Fund, (2006). 
+* Bilgen, S. and K. Kaygusuz, ''Renewable Energy for a Clean and Sustainable Future'', Energy Sources 26, 1119 (2004). 
+*''Energy analysis of Power Systems'', UIC Nuclear Issues Briefing Paper 57 (2004). 
+* Silvestre, B. S., Dalcol, P. R. T. Geographical proximity and innovation: Evidences from the Campos Basin oil & gas industrial agglomeration — Brazil. Technovation (2009), doi:10.1016/j.technovation.2009.01.003 . 
+
+==Journals==. 
+* [http://www.tandf.co.uk/journals/titles/15567036.asp ''Energy Sources, Part A: Recovery, Utilization and Environmental Effects'']
+* [http://www.tandf.co.uk/journals/titles/15567249.asp ''Energy Sources, Part B: Economics, Planning and Policy'']
+* [http://www.tandf.co.uk/journals/titles/15435075.asp ''International Journal of Green Energy''] . 
+
+==External links==. 
+* [http://www.blm.gov/wo/st/en/prog/energy/renewable_energy/2012_priority_projects.html Bureau of Land Management 2012 Renewable Energy Priority Projects]
+* [https://energypedia.info Energypedia] - a wiki about renewable energies in the context of development cooperation
+* [http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=12794 Hidden Health and Environmental Costs Of Energy Production and Consumption In U.S. ]
+* [http://www.recabs.org/ RECaBS REcalculator] Interactive Renewable Energy Calculator — compare renewable energy to conventional energy sources . 
+
+{{Environmental technology}}
+{{Petroleum industry|state=collapsed}} . 
+
+{{DEFAULTSORT:Energy Development}}
+[[Category:Applied sciences]]
+[[Category:Energy policy]]
+[[Category:Energy development| ]]
+[[Category:Technology development]]

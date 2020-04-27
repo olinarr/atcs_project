@@ -1,0 +1,322 @@
+{{Redirect|IOC}}
+{{Use dmy dates|date=July 2011}}
+{{Refimprove|date=February 2010}} . 
+
+{{Infobox organization
+| name = Comité International Olympique<br/>International Olympic Committee
+| image = Olympic Rings.svg
+| size = 180px
+| motto = ''[[Olympic symbols#Motto|Citius, Altius, Fortius]]''
+| type = Sports federation
+| formation = {{Start date and years ago|1894|6|23|df=yes}}
+| headquarters = {{flagicon|Switzerland}} [[Lausanne]], [[Switzerland]]
+| membership = [[List of IOC country codes|204 National Olympic Committees]]
+| leader_title = President
+| leader_name = {{flagicon|Belgium}} [[Jacques Rogge]]
+| language = French, English, and host country's official language when necessary
+| website = [http://www.olympic.org/ www.Olympic.org]
+}} . 
+
+[[File:Siege cio.jpg|right|thumb|250px|The seat of the IOC in [[Lausanne]], [[Switzerland]]]] . 
+
+The '''International Olympic Committee''' (IOC) ([[French language|French]]: le '''Comité international olympique''') (CIO), is an international corporation based in [[Lausanne]], [[Switzerland]], created by [[Pierre de Coubertin]] on 23 June 1894 with [[Demetrios Vikelas]] as its first president. Today its membership consists of the 205 National Olympic Committees (though [[Kuwait Olympic Committee|Kuwait]] is suspended since 2010).  . 
+
+The IOC organizes the modern [[Olympic Games]] and [[Youth Olympic Games]], held in Summer and Winter, every four years. The first [[Summer Olympics]] organized by the International Olympic Committee were held in [[Athens]], Greece, in [[1896 Summer Olympics|1896]]; the first [[Winter Olympics]] were in [[Chamonix]], [[France]], in [[1924 Winter Olympics|1924]]. Until 1992, both Summer and Winter Olympics were held in the same year. After that year, however, the IOC shifted the Winter Olympics to the even years between Summer Games, to help space the planning of the two events two years apart from one another, and improve the financial balance of the IOC, that gets bigger income on Olympic years. The first Summer Youth Olympics were in [[Singapore]] in [[2010 Summer Youth Olympics|2010]] and the first Winter Youth Olympics were held in [[Innsbruck]] in [[2012 Winter Youth Olympics|2012]].  . 
+
+==Presentation==. 
+[[File:Stamps of Germany (DDR) 1985, MiNr Zusammendruck 2949.jpg|thumb|1985 [[German Democratic Republic]] stamp]] . 
+
+On 23 June 1894, the Olympic games were re-created as an international tournament by Pierre de Coubertin. The baron hoped to foster international communication and peace through the Olympic Games. The IOC is a parent organization intended to localize administration and authority for the Games, as well as to provide a single legal entity which owns [[copyrights]], trademarks, and other intangible properties associated with the Olympic games. For example, the Olympic logos, the design of the Olympic flag, the motto, creed, and anthem are all owned and administered by the IOC. Data, as in the recording, broadcasting, reproduction, exploitation and anything relating to the organization is also  the property of the IOC. There are other organizations which the IOC coordinates as well, which are collectively called the '''Olympic Movement'''. The IOC President is responsible for representing the IOC as a whole, and there are members of the IOC which represent the IOC in their respective countries.  . 
+
+===Original members of the International Olympic Committee===. 
+[[File:Baron Pierre de Coubertin.jpg|180px|thumb|[[Pierre de Coubertin]], founder of the International Olympic Committee and sometime President]] . 
+
+{| class="wikitable"
+!Member!! Country !! From !! Until !! Notes
+. |-
+| [[Mario Lucchesi-Palli]] || {{flagcountry|Kingdom of Italy|civil}} || 1894 || 1894 ||
+. |- 
+| [[Demetrios Vikelas]] || {{flagcountry|Kingdom of Greece|1863}} || 1894 || 1897 || President (1894–1896)
+. |-
+| [[Arthur Russell, 2nd Baron Ampthill]] || {{flagcountry|United Kingdom of Great Britain and Ireland}} || 1894 || 1898 ||
+. |-
+| Alexei de Butowski || {{flag|Russian Empire}} || 1894 || 1900 || 
+. |-
+| [[Leonard Cuff|Leonard A. Cuff]] || {{flag|New Zealand}} || 1894 || 1905 ||
+. |-
+| Charles Herbert || {{flagcountry|United Kingdom of Great Britain and Ireland}} || 1894 || 1906 ||
+. |-
+| [[José Benjamín Zubiaur]] || {{flag|Argentina}} || 1894 || 1907 ||
+. |-
+| [[Ferenc Kemény]] || {{flagicon|Austria-Hungary}} [[Austria-Hungary]] || 1894 || 1907 ||
+. |-
+| Ernest Callot || {{flag|France}} || 1894 || 1913 || Treasurer (1894–1895)
+. |-
+| [[Viktor Balck]] || {{flagicon|Sweden|1844}} [[Union between Sweden and Norway|Norway-Sweden]] || 1894 || 1921 || 
+. |-
+| [[William Milligan Sloane]] || {{flag|United States|1891}} || 1894 || 1924 ||
+. |-
+| Baron [[Pierre de Coubertin]] || {{flag|France}} || 1894 || 1925 || General Secretary (1894–1896), President (1896–1925)
+. |-
+| Jiří Stanislav Guth-Jarkovský || {{flagicon|Bohemia}} [[Kingdom of Bohemia|Bohemia]] ||1894 || 1943 || 
+|} . 
+
+==Presidents==. 
+{| width=90% class="wikitable"
+! width=1%  | No. 
+! width=10% | Name
+! width=6% | Origin
+! width=6%  | Date of birth/death
+! width=6%  | Took office 
+! width=6%  | Left office 
+! width=10%  | Notes
+. |-
+| align="center"| 1
+| align="left"| '''[[Demetrius Vikelas]]'''
+| align="center"| {{flagcountry|Kingdom of Greece}} 
+| align="center"| 15 February 1835<br>–<br>20 July 1908
+| align="center"| 1894 
+| align="center"| 1896
+| align="center"|
+. |-
+| align="center"| 2
+| align="left"| '''[[Pierre de Coubertin]]'''
+| align="center"| {{flag|France}} 
+| align="center"| 1 January 1863<br>–<br>2 September 1937
+| align="center"| 1896
+| align="center"| 1925
+| align="center"| Longest serving President<br />(29 years). 
+. |-
+| align="center"| —
+| align="left"| [[Godefroy de Blonay]]<br>(''acting'')
+| align="center"| {{flag|Switzerland}} 
+| align="center"| 25 July 1869<br>–<br>14 February 1937
+| align="center"| 1916 
+| align="center"| 1919
+| align="center"| 
+. |-
+| align="center"| 3
+| align="left"| '''[[Henri de Baillet-Latour]]'''
+| align="center"| {{flag|Belgium}} 
+| align="center"| 1 March 1876<br>–<br>6 January 1942
+| align="center"| 1925
+| align="center"| 1942
+| align="center"| Died in office. 
+. |-
+| align="center"| 4
+| align="left"| '''[[Sigfrid Edström|Johannes Sigfrid Edström]]'''
+| align="center"| {{flag|Sweden}} 
+| align="center"| 21 November 1870<br>–<br>18 March 1964
+| align="center"| 1942
+| align="center"| 1952
+| align="center"| 
+. |-
+| align="center"| 5
+| align="left"| '''[[Avery Brundage]]'''
+| align="center"| {{flag|United States}} 
+| align="center"| 28 September 1887<br>–<br>8 May 1975
+| align="center"| 1952
+| align="center"| 1972
+| align="center"| So far the only non-European member to hold the post. 
+. |-
+| align="center"| 6
+| align="left"| '''[[Michael Morris, 3rd Baron Killanin|Lord Killanin]]'''
+| align="center"| {{flag|Ireland}} 
+| align="center"| 30 July 1914<br>–<br>25 April 1999
+| align="center"| 1972
+| align="center"| 1980
+| align="center"| 
+. |-
+| align="center"| 7
+| align="left"| '''[[Juan Antonio Samaranch]]'''
+| align="center"| {{flag|Spain}} 
+| align="center"| 17 July 1920<br>–<br>21 April 2010
+| align="center"| 1980
+| align="center"| 2001
+| align="center"| Second longest serving President<br />(21 years). 
+. |-
+| align="center"| 8
+| align="left"| '''[[Jacques Rogge]]'''
+| align="center"| {{flag|Belgium}} 
+| align="center"| 2 May 1942<br>–<br>''Present''
+| align="center"| 2001
+| align="center"| scheduled for 2013
+| align="center"| Second Belgian to hold the post. 
+|}
+*''source: [http://www.olympic.org/en/content/The-IOC/The-IOC-Institution1/?NewsTab=0&Tab=3]'' . 
+
+==Mission and role==. 
+{{see|Olympic Charter}} . 
+
+The stated mission of the IOC is to promote [[Olympism]] throughout the world and to lead the Olympic Movement.{{cite web|title=Olympic Charter|url=http://olympic-museum.de/charter/olympiccharter_febr2010.pdf|work=Mission and role of the IOC|publisher=International Olympic Committee|accessdate=2011-09-20}} . 
+
+The IOC's role is to:<ref>cite web|title=Olympic Charter|url=http://olympic-museum.de/charter/olympiccharter_febr2010.pdf|work=Mission and role of the IOC|publisher=International Olympic Committee|accessdate=9/20/2011</ref> . 
+
+# Encourage and support the promotion of ethics in sport as well as education of youth through sport and to dedicate its efforts to ensuring that, in sport, the spirit of fair play prevails and violence is banned;
+# Encourage and support the organization, development and coordination of sport and sports competitions;
+# Ensure the regular celebration of the Olympic Games;
+# Cooperate with the competent public or private organizations and authorities in the endeavor to place sport at the service of humanity and thereby to promote peace;
+# Take action in order to strengthen the unity and to protect the independence of the Olympic Movement;
+# Act against any form of discrimination affecting the Olympic Movement;
+# Encourage and support the promotion of women in sport at all levels and in all structures with a view to implementing the principle of equality of men and women;
+# Lead the fight against doping in sporting
+# Encourage and support measures protecting the health of athletes;
+# Oppose any political or commercial abuse of sport and athletes;
+# Encourage and support the efforts of sports organizations and public authorities to provide for the social and professional future of athletes;
+# Encourage and support the development of sport for all;
+# Encourage and support a responsible concern for environmental issues, to promote sustainable development in sport and to require that the Olympic Games are held accordingly;
+# Promote a positive legacy from the Olympic Games to the host cities and host countries;
+# Encourage and support initiatives blending sport with culture and education;
+# Encourage and support the activities of the [[International Olympic Academy]] (IOA) and other institutions which dedicate themselves to Olympic education.  . 
+
+==Organization==. 
+===The IOC Session===. 
+The [[IOC Session]] is the general meeting of the members of the IOC, held once a year in which each member has one vote. It is the IOC’s supreme organ and its decisions are final.  . 
+
+Extraordinary Sessions may be convened by the President or upon the written request of at least one third of the members.  . 
+
+Among others, the powers of the Session are:
+* To adopt or amend the Olympic Charter. 
+* To elect the members of the IOC, the Honorary President and the honorary members. 
+* To elect the President, the Vice-Presidents and all other members of the IOC Executive Board. 
+* To elect the host city of the Olympic Games.  . 
+
+===The IOC Executive Board===. 
+The IOC Executive Board consists of the President, four Vice-Presidents and ten other members. All members of the IOC Executive Board are elected by the Session, in a secret ballot, by a majority of the votes cast. The IOC Executive Board assumes the general overall responsibility for the administration of the IOC and the management of its affairs.  . 
+
+The IOC Session elects, by secret ballot, the IOC President from among its members for a term of eight years renewable once for a term of four years. The current IOC President, Jacques Rogge, was re-elected for a second term that consists of four years on 9 October 2009. <ref>{{cite web |title=IOC re-elects President Jacques Rogge |url=http://www.olympic.org/en/content/Media/?articleNewsGroup=&articleId=73403 |publisher=Olympic.org |date=9 October 2009}}</ref> Former President [[Juan Antonio Samaranch]] has been elected Honorary President For Life.  . 
+
+==Honours==. 
+In addition to the Olympic medals for competitors, the IOC awards a number of other honours:
+* the IOC President's Trophy is the highest sports award given to athletes who have excelled in their sport and had an extraordinary career and created a lasting impact on their sport. 
+* the [[Pierre de Coubertin medal]] is awarded to athletes who demonstrate a special spirit of sportsmanship in Olympic events
+* the [[Olympic Cup]] is awarded to institutions or associations with a record of merit and integrity in actively developing the Olympic Movement
+* the [[Olympic Order]] is awarded to ''individuals'' for particularly distinguished contributions to the Olympic Movement, and superseded the Olympic Certificate.  . 
+
+==Museum==. 
+:''Main article: The [[Olympic Museum]]'' . 
+
+==Publications==<!-- target of redirect [[Olympic Review]], which really should have had an article of its own ... -->
+The IOC publishes ''Olympic Review'' and ''Revue Olympique'' since 1894. <ref>{{cite web | title = Olympic Review and Revue Olympique | work=AAFLA | url = http://www.aafla.org/5va/review_frmst.htm | accessdate =11 April 2006}}</ref> {{Clarify|date=February 2010}} . 
+
+==IOC members==. 
+{{See|List of members of the International Olympic Committee}}
+[[File:Albert Meyer 4 Olympia 1896.jpg|thumb|right|200px|The first IOC, at the 1896 Athens Games]]
+For most of its existence, the IOC was controlled by members who were co-opted, which means they were selected by other members. Countries that had hosted the Games were allowed two members, others one or none. When named, they became not representatives of their respective countries to the IOC, but rather the opposite, IOC members in their respective countries.  . 
+
+For a long time, members of royalty have been members of co-option, such as [[Prince Albert II of Monaco]], as have former athletes. These last 10 years, the composition has evolved, in order to get a better representation of the sports world. Members seats have been allocated specifically to athletes, International Federations leaders and National Olympic Committees leaders.  . 
+
+There are currently 106 members of the IOC.  . 
+
+===Membership===. 
+The total number of IOC members may not exceed 115. Each member of the IOC is elected for a term of eight years and may be re-elected for one or several further terms.  . 
+
+# A majority of members whose memberships are not linked to any specific function or office; their total number may not exceed 70; there may be no more than one such member national of any given country;
+# Active athletes, the total number of whom may not exceed 15, elected for eight years by their peers during the Olympic Games;
+# Presidents or persons holding an executive or senior leadership position within IFs, associations of IFs or other organizations recognized by the IOC, the total number of whom may not exceed 15;
+# Presidents or persons holding an executive or senior leadership position within NOCs, or world or continental associations of NOCs, the total number of whom may not exceed 15; there may be no more than one such member national of any given country within the IOC.  . 
+
+===Cessation of membership===. 
+The membership of IOC members ceases in the following circumstances:<ref>Source: Olympic Charter, in force as from 1 September 2004. </ref> . 
+
+# Resignation: any IOC member may cease their membership at any time by delivering his written resignation to the President. 
+# Non re-election: any IOC member ceases to be a member without further formality if they are not re-elected. 
+# Age limit: any IOC member ceases to be a member at the end of the calendar year during which they reach the age of 80. 
+# Failure to attend Sessions or take active part in IOC work for two consecutive years. 
+# Transfer of domicile or of main center of interests to a country other than the country which was theirs at the time of their election. 
+# Members elected as active athletes cease to be a member upon ceasing to be a member of the IOC Athletes’ Commission. 
+# Presidents and individuals holding an executive or senior leadership position within NOCs, world or continental associations of NOCs, IFs or associations of IFs or other organizations recognized by the IOC cease to be a member upon ceasing to exercise the function they were exercising at the time of their election. 
+# Expulsion: an IOC member may be expelled by decision of the Session if such member has betrayed their oath or if the Session considers that such member has neglected or knowingly jeopardized the interests of the IOC or acted in a way which is unworthy of the IOC.  . 
+
+==Olympic marketing==. 
+In the early 1980s, the Olympics were on the verge of bankruptcy when the IOC drafted a team to help market the event and the organization. <ref name=Supremo>{{cite web | url = http://www.china.org.cn/olympics/news/2008-08/06/content_16143673.htm | title = IOC Marketing Supremo: Smile, Beijing | date = 6 August 2008 | accessdate =23 February 2011 | publisher=china.org.cn}}</ref> In 1998, one of the members of that team, [[Michael Payne (executive)|Michael Payne]], became the first marketing director of the IOC. <ref name=Supremo/><ref>{{cite news | url = http://www.sportsbusinessdaily.com/Journal/Issues/Archive/SBJ-In-Depth/2005/07/How-The-IOC-Took-On-Nike-In-Atlanta.aspx | title = How the IOC took on Nike in Atlanta | date = 11 July 2005 | accessdate=23 February 2011 | publisher=[[Sports Business Journal]] | work=Sports Business Journal Daily}}</ref> During his 20 years with the IOC,<ref name=Supremo/> Payne created a multi-billion dollar marketing program for the organization which turned the Games around financially. <ref>{{cite web | url = http://www.sportinglife.com/others/news/story_get.cgi?STORY_NAME=others/05/02/14/manual_103457.html | title = London Bid 'Has Improved' | publisher=[[Sporting Life (magazine)|sportinglife.com]] | accessdate =23 February 2011}}</ref><ref>{{cite web | url = http://www.rte.ie/sport/2005/0214/olympics.html | publisher=[[RTÉ Sport]] | date = 14 February 2005 | accessdate =23 February 2011 | title = Boost for London's Olympic Bid}}</ref><ref>{{cite web | title = Payne – London 2012 to tap fountain of youth | url = http://www.sportbusiness.com/print-edition/payne-london-2012-tap-fountain-youth | date = 22 October 2008 | accessdate =23 February 2011 | publisher=Sportbusiness.com | first = Struan | last = Campbell}}</ref> . 
+
+===Revenue===. 
+The Olympic Movement generates revenue through five major programs. The International Olympic Committee (IOC) manages broadcast partnerships and the <abbr title="The Olympic Partner">TOP</abbr> worldwide sponsorship program. The Organizing Committees for the Olympic Games (OCOGs) manage domestic sponsorship, ticketing and licensing programs within the host country under the direction of the IOC. The Olympic Movement generated a total of more than US$4&nbsp;billion, €2.5 billion in revenue during the most recent Olympic [[quadrennium]] (2001–2004).  . 
+
+===Revenue distribution===. 
+The IOC distributes some of Olympic marketing revenue to organizations throughout the Olympic Movement to support the staging of the Olympic Games and to promote the worldwide development of sport. The IOC retains approximately 8% of Olympic marketing revenue for the operational and administrative costs of governing the Olympic Movement.  . 
+
+===The Organizing Committees of the Olympic Games (OCOGs)===. 
+The IOC provides <abbr title="The Olympic Partner">TOP</abbr> program contributions and Olympic broadcast revenue to the OCOGs to support the staging of the Olympic Games and Olympic Winter Games:
+* <abbr title="The Olympic Partner">TOP</abbr> Program Revenue to OCOGs; the two OCOGs of each Olympic quadrennium generally share approximately 50% of <abbr title="The Olympic Partner">TOP</abbr> program revenue and value-in-kind contributions, with approximately 30% provided to the summer OCOG and 20% provided to the winter OCOG. 
+* Broadcast Revenue to OCOGs; the IOC contributes 49% of the Olympic broadcast revenue for each Games to the OCOG. During the 2001–2004 Olympic quadrennium, the [[Salt Lake Organizing Committee for the Olympic and Paralympic Winter Games of 2002|Salt Lake 2002 Organizing Committee]] received US$443&nbsp;million, €395 million in broadcast revenue from the IOC, and the Athens 2004 Organizing Committee received US$732&nbsp;million, €690 million. 
+* Domestic Program Revenue to OCOGs; the OCOGs generate substantial revenue from the domestic marketing programs that they manage within the host country, including domestic sponsorship, ticketing and licensing.  . 
+
+===National Olympic Committees (NOCs)===. 
+The NOCs receive financial support for the training and development of Olympic teams, Olympic athletes and Olympic hopefuls. The IOC distributes <abbr title="The Olympic Partner">TOP</abbr> program revenue to each of the NOCs throughout the world. The IOC also contributes Olympic broadcast revenue to Olympic Solidarity, an IOC organization that provides financial support to NOCs with the greatest need.  . 
+
+The continued success of the <abbr title="The Olympic Partner">TOP</abbr> program and Olympic broadcast agreements has enabled the IOC to provide increased support for the NOCs with each Olympic quadrennium. The IOC provided approximately US$318.5&nbsp;million to NOCs for the 2001–2004 quadrennium.  . 
+
+===International Olympic Sports Federations (IFs)===. 
+The IOC is now the largest single revenue source for the majority of IFs, with its contributions of Olympic broadcast revenue that assist the IFs in the development of their respective sports worldwide. The IOC provides financial support from Olympic broadcast revenue to the 28 IFs of Olympic summer sports and the seven IFs of Olympic winter sports after the completion of the Olympic Games and the Olympic Winter Games, respectively.  . 
+
+The continually increasing value of Olympic broadcast partnership has enabled the IOC to deliver substantially increased financial support to the IFs with each successive Games. The seven winter sports IFs shared US$85.8&nbsp;million, €75 million in Salt Lake 2002 broadcast revenue. The contribution to the 28 summer sports IFs from Athens 2004 broadcast revenue has not yet been determined, but the contribution is expected to mark a significant increase over the US$190&nbsp;million, €150 million that the IOC provided to the summer IFs following Sydney 2000.  . 
+
+===Other organizations===. 
+The IOC contributes Olympic marketing revenue to the programs of various recognized international sports organizations, including the [[International Paralympic Committee]], and the [[World Anti-Doping Agency]] (WADA).  . 
+
+==Bidding to host the games==. 
+Countries [[Bids for Olympic Games|bidding to host]] the Summer Olympic Games or the Winter Olympic Games compete aggressively to have their bid accepted by the IOC. The IOC members, representing most of the member countries, vote to decide where the Games will take place. Members from countries which have cities bidding to host the games are excluded from the voting process, up until the point where their city drops out of the contest.  . 
+
+In recent years, the contest for the right to host the games has grown increasingly fierce and controversial. Allegations were leveled after the 1996 Olympics that Atlanta Committee for the Olympic Games (ACOG) organizers bribed members of the IOC to obtain the Olympic Games. However, ACOG documents were destroyed prior to a formal inquiry and the allegations remain unproven. In his defense, ACOG Chairman Billy Payne said "Atlanta's bidding effort included excessive actions, even thought processes, that today seem inappropriate but, at the time, reflected the prevailing practices in the selection process and an extremely competitive environment". In 2002, [[Salt Lake City]] was involved in a [[2002 Winter Olympic bid scandal|bribery scandal]] but earlier stories, reported by British journalists [[Vyv Simson]] and [[Andrew Jennings]],<ref>{{cite book |year=1992 |title=The Lord of The Rings. Power, Money and Drugs in the Modern Olympics |publisher=Shuster & Shuster |isbn=0-671-71122-9 |author=Simson & Jennings}}</ref> date back decades. Corruption in the IOC has been documented by numerous investigations. After the Salt Lake City scandal in which a number of IOC members were expelled following an extensive investigation, efforts were made to clamp down on abuses of the bid city process. More stringent rules were introduced and an advisory board of recently retired former athletes was set up. Critics of the organization believe more fundamental reform is required, for instance replacing the self-perpetuating system of delegate selection with a more democratic process.  . 
+
+Even legal attempts to sway the IOC to accept a city's bid can spark controversy, such as Beijing's [[2008 Summer Olympics bids|successful bid]] to host the [[2008 Summer Olympics]]. Several human rights organizations spoke out against the poor human rights condition of China, in conflict with the Olympic Charter of the IOC. <ref>http://multimedia.olympic.org/pdf/en_report_122.pdf "Olympic Charter, in force as from 7 July 2007", International Olympic Committee</ref> . 
+
+In an August 2007 interview on the Beijing 2008 website, IOC President Jacques Rogge said, the IOC "definitely would love to see the continents that have not yet organized the Games like Africa or Latin America do that in the future. I cannot tell you exactly when, but I will see it in my life... We believe in the near future we can determine the host country under this rotating system. As of now, we haven't set a timetable for starting this system". <ref>[http://www.gamesbids.com/cgi-bin/news/viewnews.cgi?category=1&id=1186417801 GamesBids.com – Olympic Bid News and Information Website<!-- Bot generated title -->]</ref> Rogge also said that he would like the IOC to give chance for the games to be held in [[Third World]] nations like [[Haiti]], Cambodia, and [[Cameroon]] within 2020 and beyond. <ref>[http://www.gamesbids.com/cgi-bin/news/viewnews.cgi?category=1&id=1186417801 GamesBids.com – Olympic Bid News and Information Website<!-- Bot generated title -->]</ref> . 
+
+==Controversies==. 
+{{expand section|date=October 2011}} . 
+
+===Salt Lake Bid Scandal===. 
+Scandal broke on 10 December 1998, when [[Switzerland|Swiss]] IOC member [[Marc Hodler]], head of the coordination committee overseeing the organization of the 2002 games, announced that several members of the IOC had taken bribes. Soon four independent investigations were underway: by the IOC, the USOC, the SLOC, and the [[United States Department of Justice]].  . 
+
+Before any of the investigations could even get under way both Welch and Johnson resigned their posts as the head of the SLOC. Many others soon followed. The Department of Justice filed charges against the two: fifteen charges of bribery and fraud. Johnson and Welch were eventually acquitted of all criminal charges in December 2003.  . 
+
+As a result of the investigation ten members of the IOC were expelled and another ten were sanctioned. <ref>{{cite web |url=http://www.deseretnews.com/oly/view/0,3949,35000108,00.html |title=Samaranch reflects on bid scandal with regret |work=2002 Winter Olympics coverage |publisher=Deseret News Archives |date=19 May 2001}}</ref> This was the first expulsion or sanction for corruption in the more than a century the IOC had existed. Although nothing strictly illegal had been done, it was felt that the acceptance of the gifts was morally dubious. Stricter rules were adopted for future bids and ceilings were put into place as to how much IOC members could accept from bid cities. Additionally new term and age limits were put into place for IOC membership, and fifteen former Olympic athletes were added to the committee.  . 
+
+In 2006, a report ordered by the [[Nagano]] region's governor said the Japanese city provided millions of dollars in an "illegitimate and excessive level of hospitality" to IOC members, including $4.4&nbsp;million spent on entertainment alone. <ref>[http://mdn.mainichi-msn.co.jp/sports/news/20060114p2a00m0sp003000c.html Mainichi Daily News ends its partnership with MSN, takes on new Web address<!-- Bot generated title -->]</ref> . 
+
+International groups attempted to pressure the IOC to reject Beijing's bid in protest of the state of [[human rights in the People's Republic of China]]. One Chinese dissident who expressed similar sentiments was arrested and sentenced to two years in prison for calling on the IOC to do just that at the same time that IOC inspectors were touring the city. <ref>{{cite news |title=Beijing opens itself up to Olympic inspectors |work=Chicago Sun-Times |date=25 February 2001 |first=Christopher |last=Bodeen |url=http://www.findarticles.com/p/articles/mi_qn4155/is_20010225/ai_n13899744}}</ref> [[Amnesty International]] expressed concern in 2006 regarding the Olympic Games to be held in China in 2008, likewise expressing concerns over the human rights situation. The second principle in the Fundamental Principles of [[Olympism]], [[Olympic Charter]] states that ''The goal of Olympism is to place sport at the service of the harmonious development of man, with a view to promoting a peaceful society concerned with the preservation of human dignity.''<ref>http://multimedia.olympic.org/pdf/en_report_122.pdf "Olympic Charter, in force as from 1 September 2004", International Olympic Committee</ref> Amnesty International considers the policies and practices of the People's Republic as failing to meet that principle, and urged the IOC to press China to immediately enact human rights reform. <ref>http://web.amnesty.org/library/index/engASA170462006?open&of=eng-CHN "People’s Republic of China: The Olympics countdown – failing to keep human rights promises" Amnesty International, 21 September 2006</ref> . 
+
+In August 2008, the IOC issued [[DMCA]] take down notices on [[2008 Tibetan unrest|Tibetan Protest videos]] of the Beijing Olympics hosted on YouTube. <ref>IOC backs off DMCA take-down for Tibet protest http://www.thestandard.com/news/2008/08/14/video-ioc-backs-dmca-take-down-tibet-protest</ref> YouTube and the Electronic Frontier Foundation (EFF) both pushed back against the IOC, which then withdrew their complaint.  . 
+
+In 2010, the International Olympic Committee was nominated for the [[Public Eye Awards]]. This award seeks to present "shame-on-you-awards to the nastiest corporate players of the year". <ref>http://www.publiceye.ch/en/nominations/ioc/</ref> . 
+
+===Women's ski jumping===. 
+The [[2010 Vancouver Winter Olympics]] saw controversy surrounding women's ski jumping. Ski jumping is the last remaining Olympic sport that bars women from competing. The International Olympic Committee (IOC) says the exclusion of women is not discrimination. President [[Jacques Rogge]] has insisted that the decision "was made strictly on a technical basis, and absolutely not on gender grounds." But female would-be Olympic competitors say they do not understand what that "technical basis" is and wonder if he was referring to their abilities. They point to American [[Lindsey Van]], who holds the world record for the single longest jump by anyone, male or female. Ironically, she broke the record flying from a jump built at Whistler for the [[Vancouver Olympics]]. They argued the numbers of top-level women ski jumpers are satisfactory too. When the IOC voted in 2006 not to add women's ski jumping, 83 competitors from 14 nations jumped at the top level, less universality than required to add a new event. But in the same year, women's ski cross claimed just 30 skiers from 11 nations. The committee added it. <ref>http://motherjones.com/media/2010/02/did-olympic-committee-discriminate-against-female-ski-jumpers</ref> . 
+
+==See also==. 
+* [[Association of International Olympic Winter Sports Federations]] (AIOWF)
+* [[Association of IOC Recognised International Sports Federations]] (ARISF)
+* [[Association of Summer Olympic International Federations]] (ASOIF)
+* [[International Paralympic Committee]]
+* [[International Academy of Sport Science and Technology]] (AISTS)
+* [[SportAccord]] . 
+
+==References==. 
+{{reflist|2}} . 
+
+==Further reading==. 
+* {{cite book |last= Chappelet |first= Jean-Loup |coauthors=Brenda Kübler-Mabbott |title= International Olympic Committee and the Olympic system: the governance of world sport |year= 2008 |publisher=Routledge |location= New York |isbn= 978-0-415-43167-5 }}
+* {{cite book |last= Lenskyj  |first= Helen Jefferson  |title= Inside the Olympic Industry: Power, Politics and Activism |year= 2000 |publisher= SUNY |location= New York 
+==External links==. 
+{{commons category|International Olympic Committee}}
+* [http://www.olympic.org/ Official IOC website]
+* [http://www.gamesbids.com/english/archives/past.shtml Overview of IOC-elections of hosting cities] . 
+
+{{Navboxes|list1=
+{{International Olympic Committee}}
+{{Association of National Olympic Committees}}
+{{International Sports Federations}}
+}}
+<!-- en-GB, -ise -->
+{{coord|46|31|5|N|6|35|49|E|type:landmark|display=title}} . 
+
+[[Category:International Olympic Committee| ]]
+[[Category:Olympics]]
+[[Category:Sports rules and regulations]]
+[[Category:International sports bodies based in Switzerland|Oly]]
+[[Category:Organisations based in Lausanne]]
+[[Category:1894 establishments]]
+[[Category:United Nations General Assembly observers]]

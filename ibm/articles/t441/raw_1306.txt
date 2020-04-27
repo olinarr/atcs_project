@@ -1,0 +1,683 @@
+{{Other uses}}
+{{Electoral systems}}
+A '''voting system''' or '''electoral system''' is a method by which [[voting|voters]] make a choice between options, often in an election or on a policy [[referendum]].  . 
+
+A voting system contains rules for valid voting, and how votes are counted and aggregated to yield a final result. 
+Since voting involves counting, it is [[algorithm]]ic in nature, and, since it involves polling the sentiments of a person, this represents affective data. Together, with the exception of [[proxy voting]], this corresponds to [[degree centrality|in-degree centrality]] in [[graph theory]] and [[social network analysis]], with votes as directed edges, and voters and candidates as nodes. <ref>http://polisci2.ucsd.edu/denemark/papers/all_centrality_is_local.pdf</ref>  Common voting systems are [[majority rule]], [[proportional representation]] or [[plurality voting]] with a number of variations and methods such as [[first-past-the-post]] or [[preferential voting]]. The study of formally defined voting systems is called '''''social choice theory''''' or '''''voting theory''''', a subfield of [[political science]], [[economics]], or [[mathematics]].  . 
+
+With majority rule, those who are unfamiliar with voting theory are often surprised that another voting system exists, or that disagreements may exist over the definition of what it means to be supported by a majority {{Citation needed|date=December 2011}}. Depending on the meaning chosen, the common "majority rule" systems can produce results that the majority does not support. If every election had only two choices, the winner would be determined using majority rule alone. However, when there are three or more options, there may not be a single option that is most liked or most disliked by a majority. A simple choice does not allow voters to express the ordering or the intensity of their feeling. Different voting systems may give very different results, particularly in cases where there is no clear majority preference.  . 
+
+==Aspects of voting systems==. 
+A voting system specifies the form of the ''[[ballot]]'', the set of allowable votes, and the ''tallying method'', an [[algorithm]] for determining the outcome. This outcome may be a single winner, or may involve multiple winners such as in the election of a [[legislative body]]. The voting system may also specify how voting power is distributed among the voters, and how voters are divided into subgroups ([[constituency|constituencies]]) whose votes are counted independently.  . 
+
+The real-world implementation of an election is generally ''not'' considered part of the voting system. For example, though a voting system specifies the ballot abstractly, it does not specify whether the actual physical ballot takes the form of a piece of paper, a punch card, or a [[electronic voting|computer display]]. A voting system also does not specify whether or how votes are kept secret, how to verify that votes are counted accurately, or who is [[enfranchisement|allowed to vote]]. These are aspects of the broader topic of elections and [[election system]]s.  . 
+
+The [[Electoral Reform Society]] is a political pressure group based in the United Kingdom, believed to be the oldest organisation concerned with electoral systems in the world. The Society advocates scrapping First Past the Post (FPTP) for all National and local elections arguing that the system is 'bad for voters, bad for government and bad for democracy'.  . 
+
+===The ballot===. 
+[[Image:Plurality ballot.svg|thumb|left|In a simple [[Plurality voting system|plurality]] ballot, the voter is expected to mark only one selection.]]
+Different voting systems have different forms for allowing the individual to express his or her vote. In [[ranked ballot]] or "preference" voting systems, such as [[Instant-runoff voting]], the [[Borda count]], or a [[Condorcet method]], voters order the list of options from most to least preferred. In [[range voting]], voters rate each option separately on a scale. In [[Plurality voting system|plurality voting]] (also known as "first-past-the-post"), voters select only one option, while in [[approval voting]], they can select as many as they want. In voting systems that allow "plumping", like [[cumulative voting]], voters may vote for the same candidate multiple times.  . 
+
+Some voting systems include additional choices on the ballot, such as [[write-in candidate]]s, a [[none of the above]] option, or a no confidence in that candidate option.  . 
+
+===Candidates===. 
+Some methods call for a [[primary election]] first to determine which candidates will be on the ballot.  . 
+
+===Weight of votes===. 
+{{Main|Weighted voting}}
+Many elections are held to the ideal of "one person, one vote," meaning that every voter's votes should be counted with equal weight. This is not true of all elections, however. [[Corporation|Corporate]] elections, for instance, usually weight votes according to the amount of stock each voter holds in the company, changing the mechanism to "one share, one vote". Votes can also be weighted unequally for other reasons, such as increasing the voting weight of higher-ranked members of an organization.  . 
+
+Voting weight is not the same thing as ''voting power''. In situations where certain groups of voters will all cast the same vote (for example, [[political party|political parties]] in a parliament), voting power measures the ability of a group to change the outcome of a vote. Groups may form [[coalition]]s to maximize voting power.  . 
+
+In some German states, most notably [[Kingdom of Prussia|Prussia]] and [[Kingdom of Saxony|Sachsen]], there was before 1918 a weighted vote system known as the [[Prussian three-class franchise]], where the electorate would be divided into three categories based on the amount of [[income tax]] paid. Each ''category'' would have equal voting power in choosing the electors. <ref>[[Ludwig Windthorst]], [http://www.h-net.org/~german/gtext/kaiserreich/windhorst.html Speech in Favor of Reforming the Prussian Suffrage], in the [[Prussian Landtag|Prussian House of Deputies]], 26 November 1873</ref> they are known as candidates . 
+
+===Status quo===. 
+Some voting systems are weighted in themselves, for example if a [[super majority]] is required to change the status quo. An extreme case of this is [[unanimous consent]], where changing the status quo requires the support of every voting member. If the decision is whether to accept a new member into an organization, failure of this procedure to admit the new member is called [[blackball (blacklist)|blackballing]].  . 
+
+A different mechanism that favors the status quo is the requirement for a [[quorum]], which ensures that the status quo remains if not enough voters participate in the vote. Quorum requirements often depend only on the total number of votes rather than the number of actual votes cast for the winning option; however, this can sometimes encourage dissenting voters to refrain from voting entirely to prevent a quorum.  . 
+
+===Constituencies===. 
+{{Main|Constituency}}
+Often the purpose of an election is to choose a legislative body made of multiple winners. This can be done by running a single election and choosing the winners from the same pool of votes, or by dividing up the voters into constituencies that have different options and elect different winners.  . 
+
+Some countries, like [[Israel]], fill their entire parliament using a single multiple-winner district (constituency), while others, like the [[Republic of Ireland]] or [[Belgium]], break up their national elections into smaller multiple-winner districts, and yet others, like the United States or the United Kingdom, hold only single-winner elections. The Australian [[bicameral]] Parliament has single-member electorates for the legislative body ([[lower house]]) and multi-member electorates for its [[Senate]] (upper house). Some systems, like the [[Additional member system]], embed smaller districts (constituencies) within larger ones.  . 
+
+The way constituencies are created and assigned seats can dramatically affect the results. Apportionment is the process by which states, regions, or larger districts are awarded seats, usually according to population changes as a result of a census. [[Redistricting]] is the process by which the borders of constituencies are redrawn once apportioned. Both procedures can become highly politically contentious due to the possibility of both [[malapportionment]], where there are unequal representative to population ratios across districts, and [[gerrymandering]], where electoral districts are manipulated for political gain. An example of this were the UK [[Rotten and pocket boroughs]], parliamentary constituencies that had a very small electorate - e.g. an abandoned town - and could thus be used by a patron to gain undue and unrepresentative influence within parliament. This was a feature of the unreformed House of Commons before the [[Great Reform Act of 1832]].  . 
+
+==Multiple-winner methods==. 
+[[Image:German federal election, 2005 - Final.png|thumb|250px|Seats won by each party in the [[German federal election, 2005|2005 German federal election]], an example of a proportional voting system.]]
+Most Western democracies use some form of multiple-winner voting system, with the United States and the United Kingdom being notable exceptions.  . 
+
+A vote with multiple winners, such as the election of a legislature, has different practical effects than a single-winner vote. Often, participants in a multiple winner election are more concerned with the overall composition of the legislature than exactly which candidates get elected. For this reason, many multiple-winner systems aim for proportional representation, which means that if a given party (or any other political grouping) gets X% of the vote, it should also get approximately X% of the seats in the legislature. Not all multiple-winner voting systems are proportional.  . 
+
+===Proportional methods===. 
+{{Main|Proportional representation}}
+Truly proportional methods make some guarantee of proportionality by making each winning option represent approximately the same number of voters. This number is called a ''quota''. For example, if the quota is 1000 voters, then each elected candidate reflects the opinions of 1000 voters, within a margin of error. This can be measured using the [[Gallagher Index]].  . 
+
+Most proportional systems in use are based on [[party-list proportional representation]], in which voters vote for parties instead of for individual candidates. <ref name="how-pr-works-holyoke">Douglas J. Amy, [http://www.mtholyoke.edu/acad/polit/damy/BeginnningReading/howprwor.htm "HOW PROPORTIONAL REPRESENTATION ELECTIONS WORK"], ''PR Library''</ref> For each quota of votes a party receives, one of their candidates wins a seat on the legislature. The methods differ in how the quota is determined or, equivalently, how the proportions of votes are rounded off to match the number of seats.  . 
+
+The methods of seat allocation can be grouped overall into [[highest averages method]]s and [[largest remainder method]]s. Largest remainder methods set a particular quota based on the number of voters, while highest averages methods, such as the [[Sainte-Laguë method]] and the [[d'Hondt method]], determine the quota indirectly by dividing the number of votes the parties receive by a sequence of numbers.  . 
+
+Independently of the method used to assign seats, party-list systems can be ''open list'' or ''closed list''. In an [[open list]] system, voters decide which candidates within a party win the seats. In a [[closed list]] system, the seats are assigned to candidates in a fixed order that the party chooses. The [[Mixed Member Proportional]] system is a mixed method that only uses a party list for a subset of the winners, filling other seats with the winners of regional elections, thus having features of open list and closed list systems.  . 
+
+In contrast to party-list systems, the [[Single Transferable Vote]] is a proportional representation system in which voters rank individual candidates in order of preference. Unlike party-list systems, STV does not depend on the candidates being grouped into political parties. Votes are transferred between candidates in a manner similar to [[instant runoff voting]], but in addition to transferring votes from candidates who are eliminated, excess votes are also transferred from candidates who already have a quota.  . 
+
+===Semi-proportional methods===. 
+An alternative method called Cumulative voting (CV) is a semi-proportional voting system in which each voter has ''n'' votes, where ''n'' is the number of seats to be elected (or, in some potential variants, a different number, e.g. 6 votes for each voter where there are 3 seats). Voters can distribute portions of their vote between a set of candidates, fully upon one candidate, or a mixture. It is considered a ''proportional'' system in allowing a united coalition representing a ''m/(n+1)'' fraction of the voters to be guaranteed to elect ''m'' seats of an ''n''-seat election. For example in a 3-seat election, 3/4 of the voters (if united on 3 candidates) can guarantee control over all three seats. (In contrast, [[plurality at large]], which allows a united coalition (majority) (50%+1) to control all the seats.) . 
+
+[[Image:Cumulative ballot.svg|thumb|left|This ballot design, used in cumulative voting, allows a voter to split his vote among multiple candidates.]] . 
+
+Cumulative voting is a common way of holding elections in which the voters have unequal voting power, such as in corporate governance under the "one share, one vote" rule. Cumulative voting is also used as a multiple-winner method, such as in elections for a corporate board.  . 
+
+Cumulative voting is not fully proportional because it suffers from the same [[spoiler effect]] of the [[plurality voting system]] without a run-off process. A group of like-minded voters divided among "too many" candidates may fail to elect any winners, or elect fewer than they ''deserve'' by their size. The level of proportionality depends on how well-coordinated the voters are.  . 
+
+[[Limited voting]] is a multi-winner system that gives voters fewer votes than the number of seats to be decided. The simplest and most common form of limited voting is [[Single Non-Transferable Vote]] (SNTV). It can be considered a special variation of cumulative voting where a full vote cannot be divided among more than one candidate. It depends on a statistical distributions of voters to smooth out preferences that CV can do by individual voters.  . 
+
+For example, in a 4-seat election a candidate needs 20% to guarantee election. A coalition of 40% can guarantee 2-seats in CV by perfectly splitting their votes as individuals between 2 candidates. In comparison, SNTV tends towards collectively dividing 20% between each candidate by assuming every coalition voter flipped a coin to decide which candidate to support with their single vote. This limitation simplifies voting and counting, at the cost of more uncertainty of results. 
+{{-}} . 
+
+===Non-proportional and semi-proportional methods===. 
+{{Main|Election by list}}
+Many multiple-winner voting methods are simple extensions of single-winner methods, without an explicit goal of producing a proportional result. Bloc voting, or ''[[plurality-at-large]]'', has each voter vote for ''N'' options and selects the top ''N'' as the winners. Because of its propensity for [[landslide victory|landslide victories]] won by a single winning slate of candidates, bloc voting is nonproportional. Two similar plurality-based methods with multiple winners are the [[Single Non-Transferable Vote]] or SNTV method, where the voter votes for only one option, and cumulative voting, described above. Unlike bloc voting, elections using the Single Nontransferable Vote or cumulative voting may achieve proportionality if voters use [[tactical voting]] or [[strategic nomination]].  . 
+
+Because they encourage proportional results without guaranteeing them, the Single Nontransferable Vote and cumulative voting methods are classified as ''semi-proportional''. Other methods that can be seen as semiproportional are ''mixed methods'', which combine the results of a plurality election and a party-list election (described below). [[Parallel voting]] is an example of a mixed method because it is only proportional for a subset of the winners.  . 
+
+==Single-winner methods==. 
+{{Main|Single-winner voting systems}}
+Single-winner systems can be classified based on their ballot type. In '''one vote''' systems, a voter picks one choice at a time. In '''ranked''' voting systems, each voter ranks the candidates in order of preference. In '''rated''' voting systems, voters give a score to each candidate.  . 
+
+===Single or sequential vote methods===. 
+[[Image:TRS ballot papers.svg|thumb|250px|right|An example of [[Two round system|runoff voting]]. Runoff voting involves two rounds of voting. Only two candidates continue to the second round.]]
+The most prevalent single-winner voting method, by far, is '''plurality''' (also called "'''first-past-the-post'''", "relative majority", or "winner-take-all"), where each voter votes for one choice, and the choice that receives the most votes wins, even if it receives less than a majority of votes.  . 
+
+Runoff methods hold multiple rounds of plurality voting to ensure that the winner is elected by a majority. [[Two-round system|Top-two runoff]] voting, the second most common method used in elections, holds a runoff election between the two highest polling options if there is no absolute majority (50% plus one). In [[elimination runoff]] elections, the weakest candidate(s) are eliminated until there is a majority.  . 
+
+A primary election process is also used as a two round runoff voting system. The two candidates or choices with the most votes in the open primary ballot progress to the general election. The difference between a runoff and an open primary is that a winner is never chosen in the primary, while the first round of a runoff can result in a winner if one candidate has over 50% of the vote.  . 
+
+In the [[Random ballot]] method, each voter votes for one option and a single ballot is selected at random to determine the winner. This is mostly used as a tiebreaker for other methods. 
+<br style="clear:both" /> . 
+
+===Ranked voting methods===. 
+{{Main|Preferential voting}}
+[[Image:Preferential ballot.svg|thumb|right|In a typical ranked ballot, a voter is instructed to place the candidates in order of preference.]]
+Also known as ''preferential voting methods'', these methods allow each voter to rank the candidates in order of preference. Often it is not necessary to rank all the candidates: unranked candidates are usually considered to be tied for last place. Some ranked ballot methods also allow voters to give multiple candidates the same ranking.  . 
+
+The most common ranked voting method is [[instant-runoff voting]] (IRV), also known as the "[[alternative vote]]" or simply preferential voting, which uses voters' preferences to simulate an elimination runoff election without multiple voting events. As the votes are tallied, the option with the fewest first-choice votes is eliminated. In successive rounds of counting, the next preferred choice still available from each eliminated ballot is transferred to candidates not yet eliminated. The least preferred option is eliminated in each round of counting until there is a majority winner, with all ballots being considered in every round of counting.  . 
+
+The Borda count is a simple ranked voting method in which the options receive points based on their position on each ballot. A class of similar methods is called [[positional voting system]]s.  . 
+
+Other ranked methods include [[Coombs' method]], [[Supplementary Vote|Supplementary voting]], [[Bucklin voting]], and [[Condorcet method]].  . 
+
+Condorcet methods, or ''pairwise methods'', are a class of ranked voting methods that meet the Condorcet criterion. These methods compare every option pairwise with every other option, one at a time, and an option that ''defeats'' every other option is the winner. An option defeats another option if a majority of voters rank it higher on their ballot than the other option.  . 
+
+These methods are often referred to collectively as ''Condorcet methods'' because the Condorcet criterion ensures that they all give the same result in most elections, where there exists a ''Condorcet winner''. The differences between Condorcet methods occur in situations where no option is undefeated, implying that there exists a cycle of options that defeat one another, called a Condorcet paradox or [[Smith set]]. Considering a generic Condorcet method to be an abstract method that does not resolve these cycles, specific versions of Condorcet that select winners even when no Condorcet winner exists are called ''Condorcet completion methods''.  . 
+
+A simple version of Condorcet is Minimax: if no option is undefeated, the option that is defeated by the fewest votes in its worst defeat wins. Another simple method is [[Copeland's method]], in which the winner is the option that wins the most pairwise contests, as in many [[round-robin tournament]]s.  . 
+
+The [[Kemeny-Young method]], the [[Schulze method]] (also known as "[[Schwartz sequential dropping]]", "[[cloneproof Schwartz sequential dropping]]" or the "[[beatpath method]]") and [[Ranked pairs]] are recently designed Condorcet methods that satisfy a large number of [[#Criteria in evaluating single winner voting systems|voting system criteria]]. These three Condorcet methods either fully rank, or can be used to fully rank, all the candidates from most popular to least popular.  . 
+
+===Rated voting methods===. 
+[[Image:Rated voting.png|thumb|left|On a rated ballot, the voter may rate each choice independently.]] . 
+
+Rated ballots allow even more flexibility than ranked ballots, but few methods are designed to use them. Each voter gives a score to each option; the allowable scores could be numeric (for example, from 0 to 100) or could be "[[Grade (education)|grade]]s" like A/B/C/D/F.  . 
+
+[[Image:Approval ballot.svg|thumb|right|On an Approval voting|An approval voting ballot does not require ranking or exclusivity.]]
+Rated ballots can be used for ranked voting methods, as long as the ranked method allows tied rankings. Some ranked methods assume that all the rankings on a ballot are distinct, but many voters would be likely to give multiple candidates the same rating on a rated ballot.  . 
+
+In [[range voting]], voters give numeric ratings to each option, and the option with the highest total or average score wins. In [[majority judgment]], similar ballots are used, but the winner is the candidate with the highest [[median]] score.  . 
+
+Approval voting, where voters may vote for as many candidates as they like, can be seen as an instance of range voting (or majority judgment) where the allowable ratings are 0 and 1. It has recently been studied by, among others [http://www.nyu.edu/gsas/dept/politics/faculty/brams/theory_to_practice.pdf Brams 2003] who notes that 'The chief reason for its nonadoption in public elections, and by some societies, seems to be a lack of key "insider" support.' . 
+
+There are variants within [[cumulative voting]].  In the points form, each voter has as many votes as there are choices, and can distribute those votes as desired: all on one choice or spread in any other pattern.  Cumulative voting is used in a number of communities as well as corporate boards.  It was examined and developed perhaps most thoroughly by [http://books.google.com/books?id=aRF7XdcCLq0C&q=inauthor:%22Lani+Guinier%22&dq=inauthor:%22Lani+Guinier%22&hl=en&ei=9i4FTbTjOISisAOZ_tWBDQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC4Q6AEwAQ Lani Guinier] (1994).  . 
+
+==Evaluating voting systems using criteria==. 
+In the real world, attitudes toward voting systems are highly influenced by the systems' impact on groups that one supports or opposes. This can make the objective comparison of voting systems difficult.  . 
+
+There are several ways to address this problem. Criteria can be defined mathematically, such that any voting system either passes or fails. This gives perfectly objective results, but their practical relevance is still arguable. Another approach is to define ideal criteria that no voting system passes perfectly, and then see how often or how close to passing various systems are over a large sample of simulated elections. This gives results which are practically relevant, but the method of generating the sample of simulated elections can still be arguably biased. A final approach is to create imprecisely defined criteria, and then assign a neutral body to evaluate each system according to these criteria. This approach can look at aspects of voting systems which the other two approaches miss, but both the definitions of these criteria and the evaluations of the methods are still inevitably subjective.  . 
+
+===Mathematical criteria===. 
+To compare systems fairly and independently of political ideologies, voting theorists use ''voting system criteria'', which define potentially desirable properties of voting systems mathematically.  . 
+
+It is impossible for one voting system to pass all criteria in common use. Economist [[Kenneth Arrow]] proved [[Arrow's impossibility theorem]], which demonstrates that several desirable features of voting systems are mutually contradictory. For this reason, someone implementing a voting system has to decide which criteria are important for the election.  . 
+
+Using criteria to compare systems does not make the comparison completely objective. For example, it is relatively easy to devise a criterion that is met by one's preferred voting method, and by very few other methods. Doing this, one can then construct a biased argument for the criterion, instead of arguing directly for the method. There is no ultimate authority on which criteria should be considered, but the following are some criteria that are accepted and considered to be desirable by many voting theorists: . 
+
+:'''Result criteria'''
+::'''Absolute''': Will a candidate always win who... 
+::* [[Majority criterion]]—... is ranked as the unique favorite by a majority of voters?
+::** [[Mutual majority criterion]] (MMC)—... is among a group of candidates ranked above all others by a majority of voters? This also implies the [[Majority loser criterion]]—if a majority of voters prefers every other candidate over a given candidate, then does that candidate not win? Therefore, of the systems listed, all pass neither or both criteria, except for Borda, which passes Majority Loser while failing Mutual Majority. 
+::* [[Condorcet criterion]]—... beats every other candidate in pairwise comparisons? (This implies the majority criterion, above)
+:::* '''Majority Condorcet criterion'''—... beats every other candidate in pairwise comparison ''by a majority of all voters''? (Any method that passes this passes the Condorcet criterion above. However, if some voters were indifferent between two candidates, one of them could be the Condorcet winner but not the Majority Condorcet winner.)
+::* [[Condorcet loser criterion]] (Cond. loser)—... is not the candidate who loses to every other candidate in pairwise comparisons?
+::'''Relative as nominees change''': Does the outcome never change ... 
+::* [[Independence of Smith-dominated alternatives]] (ISDA)—... if a Smith-dominated candidate is added or removed (assuming votes regarding the other candidates are unchanged)? Candidate C is Smith-dominated if there is some other candidate A such that C is beaten by A and every candidate B that is not beaten by A. Note that although this criterion is classed here as nominee-relative, it has a strong absolute component in excluding Smith-dominated candidates from winning. In fact, it implies all of the absolute criteria above. 
+::* [[Independence_of_irrelevant_alternatives|Independence of Irrelevant Alternatives]] (IIA)—... if a non-winning candidate is added or removed (assuming votes regarding the other candidates are unchanged)? For instance, plurality rule fails IIA; adding a candidate X can cause the winner to change from W to Y even though Y receives no more votes than before. 
+:::Note: IIA and ISDA are actually logically incompatible, but they are grouped in the same column because they have similar practical impact. 
+:::* [[Independence_of_irrelevant_alternatives#Local_independence|Local Independence of Irrelevant Alternatives]] (LIIA)—... if the alternative that would finish last is removed? (And could the alternative that finishes second fail to become the winner if the winner were removed?)
+::* [[Independence of clones criterion|Independence of Clone Alternatives]] (Cloneproof)—... if candidates similar to an existing candidate are added?
+::'''Relative as voters change''': If candidate W wins for one set of ballots, will W still always win if those ballots change... 
+::* [[Monotonicity criterion]] (Monotone)—... to rank W higher? (This also implies that you cannot cause a losing candidate to win by ranking him lower.)
+::* [[Consistency criterion]]—... by adding another set of ballots where W also wins?
+::** [[Participation criterion]]—Is voting honestly always better than not voting at all? (This is grouped with the distinct but similar Consistency Criterion in the table below. <ref>Consistency implies participation, but not vice versa. For example, range voting complies with participation and consistency, but median ratings satisfies participation and fails consistency. </ref>)
+::* [[Reversal symmetry]]—If individual preferences of each voter are inverted, does the original winner never win?
+:'''Election administration criteria''': Can the winner be calculated... 
+:* [[Polynomial time]] (Polytime)—... in a runtime that is polynomial in the number of candidates and linear in the number of voters?
+:** [[Resolvability criterion|Resolvable]]—... in almost all cases, without using any random processes such as flipping coins? That is, are exact ties, in which the winner could be one of two or more candidates, vanishingly rare in large elections?
+:* [[Voting machine#Vote-tabulation Technologies|Summability]] (Summable)—... by tallying ballots at each polling station separately and simply adding up the individual tallies? The amount of information necessary for such tallies is expressed as an [[Big O notation|order function]] of the number of candidates N. Slower-growing functions such as O(N) or O(N<sup>2</sup>) make for easier counting, while faster-growing functions such as O(N!) might make it harder to catch fraud by election administrators. 
+:'''Voter's criteria'''
+::'''Ballot model''': The voter have to state his choice in form of... 
+::* ... a [[Plurality voting_system#Ballot types|''single mark'']] choosing one single candidate (e.g. "A is my favorite candidate.")
+::* ... [[Approval voting#Ballot types|''approvals'']], i.e. a set of candidates the voter approves (e.g. "I approve candidates A, B and E.")
+::* ... a (strict) [[Preferential ballot#Ballot variations|''ranking'']], i.e. an list of candidates strictly ordered by the preferences of the voter (e.g. "A > B > E > D > H" or "I prefer A to B, B to E, E to D and D to H.")
+::* ... pairwise [[Relation (mathematics)#Relations over a set|''comparisons'']] (e.g. "A > B and E = H" or "I prefer A to B, and I think, E is equally capable as H, but I don't want to distinguish between A and E or A and H."). This is a generalized form of a ranking, so every voting system that can handle comparisons, also can be used if the ballots are rankings. 
+::* ... [[Range voting|''scores'']], i.e. the voter gives cardinal values within a certain range (e.g. 0-100) to each candidate (e.g. "A gets score 100, E gets 0, H 47, B 12 and D also 12")
+::... which therefore allows voters to choose whether to use... 
+::* [[Overvote|equal rankings]] (= ranks)— ... rank any two candidates equally at any position on the ballot? This can reduce the prevalence of spoiled ballots due to overvotes, and can give a less-dishonest alternative to some [[tactical voting]] strategies. 
+::* [[Preferential voting|later preferences]] (>2 ranks)—... indicate different levels of support (beyond the two levels of voted and unvoted) through ranking or rating candidates?
+::'''Strategy guarantees''': Can voters be sure that... 
+::* [[Later-no-harm criterion]] and Later-no-help criterion—... adding a later preference to a ballot will not harm/help any candidate already listed? Note that these criteria are not applicable to methods which do not allow later preferences; although such methods technically pass, they can be said to fail from a voter's perspective. <ref>Woodall, Douglas, Properties of Preferential Election Rules, [[Voting Matters]], [http://www.votingmatters.org.uk/ISSUE3/P5.HTM Issue 3, December 1994]</ref>
+::* Favorite Betrayal Criterion— ... they do not need to rank any other candidate above their favorite in order to obtain a result they prefer? <ref>Alex Small, “Geometric construction of voting methods that protect voters’ first choices,” arXiv:1008.4331 (August 22, 2010), http://arxiv.org/abs/1008.4331. </ref> . 
+
+Note on terminology: A criterion is said to be "weaker" than another when it is passed by more voting systems. Frequently, this means that the conditions for the criterion to apply are stronger. For instance, the majority criterion (MC) is weaker than the multiple majority criterion (MMC), because it requires that a single candidate, rather than a group of any size, should win. That is, any system which passes the MMC also passes the MC, but not vice versa; while any required winner under the MC must win under the MMC, but not vice versa. 
+====Compliance of selected systems (table)==== . 
+
+The following table shows which of the above criteria are met by several single-winner systems. 
+<!-- Each cell in the table has an invisible sort key at the start, like <span style="display:none">some digit</span>... 
+This is the correspondence between digits, colors, and meanings:
+1: bbffbb (yes)
+2: ddffdd (qualified yes)
+3: ffffff (NA, ambiguous, or yes/no)
+4: ffdddd (qualified no)
+5: ffbbbb (no) --> . 
+
+{| class="wikitable sortable" style="text-align:center"
+<!-- criteria set headers -->
+. |- style="font-size:110%;"
+! 
+! style="border-left: 2px solid #a0a0a0;" colspan=6|absolute 
+! style="border-left: 2px solid #a0a0a0;" colspan=2|nominee-<br>relative 
+! style="border-left: 2px solid #a0a0a0;" colspan=4|voter-relative 
+! style="border-left: 2px solid #a0a0a0;" colspan=3|adminis&shy;trative 
+! style="border-left: 2px solid #a0a0a0;" colspan=3|ballot allows... 
+! style="border-left: 2px solid #a0a0a0;" colspan=3|voter guarantees . 
+
+<!-- column sort headers -->
+. |- style="font-size:90%;"
+! sort<br>by: 
+! style="border-left: 2px solid #a0a0a0;" | !! !! !! !!
+! style="border-left: 2px solid #a0a0a0;" colspan=2 | !! 
+! style="border-left: 2px solid #a0a0a0;" | !! !! !!
+! style="border-left: 2px solid #a0a0a0;" | !! !!
+! style="border-left: 2px solid #a0a0a0;" | !! !!
+! style="border-left: 2px solid #a0a0a0;" align=center| !! !! . 
+
+<!-- criteria headers -->
+. |- style="font-size:90%;"
+! 
+! colspan=2 style="border-left: 2px solid #a0a0a0;" | [[Majority criterion|Major&shy;ity]]/<br>[[Mutual majority criterion|MMC]] 
+! colspan=2 | [[Condorcet criterion|Condorcet]]/<br>'''Majority <br>Condorcet''' 
+! [[Condorcet loser criterion|Cond. <br>loser]] 
+! style="border-left: 2px solid #a0a0a0;" colspan=2 | [[Independence of irrelevant alternatives|IIA]] or<br>[[Independence of Smith-dominated alternatives|ISDA]] 
+! [[Clone independence|Clone&shy;proof]] 
+! style="border-left: 2px solid #a0a0a0;" | [[Monotonicity criterion|Mono&shy;tone]] 
+! colspan=2| [[Consistency criterion|Consist&shy;ency]]/<br>[[Participation criterion|Particip&shy;ation]] 
+! [[Reversal symmetry|Rever&shy;sal<br>sym&shy;metry]] 
+! colspan=2 style="border-left: 2px solid #a0a0a0;" | [[Polynomial time|Poly&shy;time]]/<br>[[Resolvability criterion|Resolv&shy;able]] 
+! [[Voting machine#Vote-tabulation Technologies|Summ&shy;able]] 
+! style="border-left: 2px solid #a0a0a0;" | ballot <br>type 
+! = <br>ranks 
+! >2 <br>ranks 
+! style="border-left: 2px solid #a0a0a0;" colspan=2 align=center| [[Later-no-harm]]&shy;/<br>Later-no-help 
+! '''FBC:No<br>favorite<br>betrayal''' . 
+
+<!-- Methods -->
+. |-
+! [[Approval voting|Appro&shy;val]] <ref group=nb name=approvalrangecriteria>These criteria assume that all voters vote their true preference order. This is problematic for Approval and Range, where various votes are consistent with the same order. See [[Approval voting#Compliance with voting system criteria|approval voting]] for compliance under various voter models. </ref>
+| style="border-left: 2px solid #a0a0a0;" bgcolor=#ffffff| <span style="display:none">3</span>[[Majority criterion#Approval voting|Ambig.]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet criterion#Approval voting|No]]
+|bgcolor=#ddffdd| <span style="display:none">2</span>Strategic <br>yes<ref group=nb name=approvalnash>In Approval, Range, and Majority Judgment, if all voters have perfect information about each other's true preferences and use rational strategy, any Majority Condorcet or Majority winner will be strategically forced – that is, win in all of one or more [[strong Nash equilibrium|strong Nash equilibria]]. In particular if every voter knows that "A or B are the two most-likely to win" and places their "approval threshold" between the two, then the Condorcet winner, if one exists and is in the set {A,B}, will always win. These systems also satisfy the majority criterion in the weaker sense that any majority can force their candidate to win, if it so desires. (Laslier, J.-F. (2006) [http://halshs.archives-ouvertes.fr/docs/00/12/17/51/PDF/stratapproval4.pdf "Strategic approval voting in a large electorate,"] ''IDEP Working Papers'' No. 405 (Marseille, France: Institut D'Economie Publique).)</ref>
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet loser criterion#Approval voting|No]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb colspan=2| <span style="display:none">1</span>IIA
+|bgcolor=#ddffdd| <span style="display:none">1</span>Yes<br><ref group=nb name="ambiguous">The original [[Independence of clones criterion]] applied only to ranked voting methods. (T. Nicolaus Tideman, "Independence of clones as a criterion for voting rules", ''Social Choice and Welfare'' Vol. 4, No. 3 (1987), pp. 185–206.) Tideman notes that "in the spirit of independence of clones", "if there were two or more candidates who were so similar that every voter would rank them as tied if given the chance to rank them [...], then the number of perfect clones present would have no effect on whether the perfect clones were in the set of winning candidates under approval voting". So, Approval Voting satisfies this mathematical criterion by definition. However, there is some disagreement about whether considerations of the voter in the process of making up his vote could be tactically influenced by clones (in a way that a voter would dispossess a candidate of his approval when a clone of him is introduced) and whether the definition of clones have to be extended to these considerations additionally to the handling of actual votes. </ref>
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>O(N)
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffffbb| <span style="display:none">4</span>appro&shy;vals
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb align=center | <span style="display:none">5</span>No
+|style="border-left: 2px solid #ffbbbb;" bgcolor=#ffbbbb align=center| <span style="display:none">5</span>NA
+|bgcolor=#ddffdd| <span style="display:none">2</span><ref group=nb name=approvalLNH>Approval and Plurality do not allow later preferences. Technically speaking, this means that they pass the technical definition of the LNH criteria - if later preferences or ratings are impossible, then such preferences can not help or harm. However, from the perspective of a voter, these systems do not pass these criteria. Approval, in particular, encourages the voter to give the ''same'' ballot rating to a candidate who, in another voting system, would get a ''later'' rating or ranking. Thus, for approval, the practically meaningful criterion would be not "later-no-harm" but "same-no-harm" - something neither approval nor any other system satisfies. </ref> 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+. |-
+! [[Borda count]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb| <span style="display:none">5</span>[[Majority criterion#Borda count|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet criterion#Borda count|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb colspan=2| <span style="display:none">5</span>[[Independence of irrelevant alternatives#Borda count|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No <br>([[Strategic nomination|teaming]])  
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>[[Reversal symmetry#Instant-runoff voting|Yes]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>O(N) 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ddffdd| <span style="display:none">3</span>ranking
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb align=center| <span style="display:none">5</span>[[Later-no-harm criterion#Noncomplying methods|No]] 
+| bgcolor=#ffbbbb align=center| <span style="display:none">5</span>[[Later-no-harm criterion#Noncomplying methods|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+. |-
+! [[Copeland's method|Cope&shy;land]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|style="border-right: 2px solid #a0a0a0; border-top: 2px solid #a0a0a0; border-bottom: 2px solid #a0a0a0;" bgcolor=#ddffdd colspan=2| <span style="display:none">2</span>ISDA
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No <br>([[Strategic nomination|crowding]])  
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Consistency criterion#Copeland|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Participation criterion#Copeland|No]]
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+|bgcolor=#ddffdd| <span style="display:none">2</span>O(N<sup>2</sup>) 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ccffcc| <span style="display:none">2</span>ranking w/equality
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb align=center| <span style="display:none">5</span>[[Later-no-harm criterion#Noncomplying methods|No]] 
+|bgcolor=#ffbbbb align=center| <span style="display:none">5</span>[[Later-no-harm criterion#Noncomplying methods|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+. |-
+! [[Instant-runoff voting|IRV]] (AV)
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet criterion#Instant-runoff voting|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb colspan=2| <span style="display:none">5</span>[[Independence of irrelevant alternatives#Instant-runoff voting|No]]
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes  
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb| <span style="display:none">5</span>[[Monotonicity criterion#Instant-runoff voting and the Two-round system are not monotonic|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Consistency criterion#Instant-runoff voting|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Instant-runoff voting#Tennessee capital election|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Reversal symmetry#Instant-runoff voting|No]]  
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#ffbbbb| <span style="display:none">5</span>O(N!) <ref group=nb>The number of piles that can be summed from various precincts is [[Floor and ceiling functions|floor]]((e-1) N!) - 1. </ref> 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ddffdd| <span style="display:none">3</span>ranking
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb align=center| <span style="display:none">1</span>[[Later-no-harm criterion#Complying methods|Yes]] 
+|bgcolor=#bbffbb align=center| <span style="display:none">1</span>[[Later-no-harm criterion#Complying methods|Yes]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+. |-
+! [[Kemeny-Young method|Keme&shy;ny-Young]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|style="border-right: 2px solid #a0a0a0; border-top: 2px solid #a0a0a0; border-bottom: 2px solid #a0a0a0;" bgcolor=#ddffdd colspan=2| <span style="display:none">2</span>ISDA
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No <br>([[Strategic nomination|teaming]])  
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Consistency criterion#Kemeny.E2.80.93Young method|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Participation criterion#Kemeny.E2.80.93Young method|No]] 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb| <span style="display:none">5</span>No 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#ddffdd| <span style="display:none">2</span>O(N<sup>2</sup>) <br><ref group=nb>Each prospective Kemeny-Young ordering has score equal to the sum of the pairwise entries that agree with it, and so the best ordering can be found using the pairwise matrix. </ref> 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ccffcc| <span style="display:none">2</span>ranking<br>w/&shy;equality
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb align=center| <span style="display:none">5</span>[[Kemeny-Young method#Failed criteria for all Condorcet methods|No]] 
+| bgcolor=#ffbbbb align=center| <span style="display:none">5</span>[[Kemeny-Young method#Failed criteria for all Condorcet methods|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+. |-
+! [[Majority Judgment|Majority Judg&shy;ment]] <ref group=nb name=mjbucklin>Bucklin voting, with skipped and equal-rankings allowed, meets the same criteria as Majority Judgment; in fact, Majority Judgment may be conside#a0a0a0 a form of Bucklin voting. Without allowing equal rankings, Bucklin's criteria compliance is worse; in particular, it fails Independence of Irrelevant Alternatives, which for a ranked method like this variant is incompatible with the Majority Criterion. </ref>
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>[[Majority criterion#Majority Judgment|Yes]] 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet criterion#Majority Judgment|No]]
+| bgcolor=#ddffdd| <span style="display:none">2</span>Strategic <br>yes<ref group=nb name=approvalnash/>
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet loser criterion#Majority Judgment|No]]<br>
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb colspan=2| <span style="display:none">1</span>IIA
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffdddd| <span style="display:none">4</span>[[Consistency criterion#Majority Judgment|No]]<br><ref group=nb name=mjconsistency>Balinski and Laraki, Majority Judgment's inventors, point out that it meets a weaker criterion they call "grade consistency": if two electorates give the same rating for a candidate, then so will the combined electorate. Majority Judgment explicitly requires that ratings be expressed in a "common language", that is, that each rating have an absolute meaning. They claim that this is what makes "grade consistency" significant. MJ. Balinski M. and R. Laraki (2007) «A theory of measuring, electing and ranking». Proceedings of the National Academy of Sciences USA, vol. 104, no. 21, 8720-8725. </ref> 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Participation criterion#Majority Judgment|No]]
+|bgcolor=#ddffdd| <span style="display:none">2</span>[[Reversal symmetry#Majority Judgment|Depends]] <br><ref group=nb name=mjreversal>Majority judgment can actually pass or fail reversal symmetry depending on the rounding method used to find the median when there are even numbers of voters. For instance, in a two-candidate, two-voter race, if the ratings are converted to numbers and the two central ratings are averaged, then MJ meets reversal symmetry; but if the lower one is taken, it does not, because a candidate with ["fair","fair"] would beat a candidate with ["good","poor"] with or without reversal. However, for rounding methods which do not meet reversal symmetry, the odds of breaking it are comparable to the odds of an irresolvable (tied) result; that is, vanishingly small for large numbers of voters. </ref> 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>O(N) <ref group=nb>Majority Judgment is summable at order KN, where K, the number of ranking categories, is set beforehand. </ref> 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>scores<br><ref group=nb>In fact, Majority Judgment ballots use ratings expressed in "common language" rather than numbers, that is, that each rating have an absolute meaning. </ref> 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffdddd align=center| <span style="display:none">3</span>[[Later-no-harm criterion#Noncomplying methods|No]] <br><ref group=nb name=mjlnh>Majority judgment meets a related, weaker criterion: ranking an additional candidate below the median grade (rather than your own grade) of your favorite candidate, cannot harm your favorite. </ref> 
+|bgcolor=#bbffbb align=center| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+. |-
+! [[Minimax Condorcet|Mini&shy;max]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Mutual majority criterion#Minimax|No]]
+|bgcolor=#ddffdd| <span style="display:none">2</span>[[Minimax Condorcet#Example with Condorcet winner that is not elected winner_.28for pairwise opposition.29|Yes]]<br><ref group=nb name=minimaxvariant>A variant of Minimax that counts only pairwise opposition, not opposition minus support, fails the Condorcet criterion and meets later-no-harm. </ref> 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet loser criterion#Minimax|No]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb colspan=2| <span style="display:none">5</span>[[Independence of irrelevant alternatives#Minimax|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No <br>([[vote-splitting|spoilers]]) 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Consistency criterion#Minimax|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Participation criterion#Minimax|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Reversal symmetry#Minimax|No]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ddffdd| <span style="display:none">2</span>O(N<sup>2</sup>) 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ccffcc| <span style="display:none">2</span>ranking<br>w/&shy;equality
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffdddd align=center| <span style="display:none">4</span>[[Later-no-harm criterion#Complying methods|No]]
+|bgcolor=#ffdddd align=center| <span style="display:none">4</span><ref group=nb name=minimaxvariant/> 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+. |-
+! [[Plurality voting system|Plura&shy;lity]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Mutual majority criterion#Plurality|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet criterion#Plurality voting|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet loser criterion#Plurality voting|No]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb colspan=2| <span style="display:none">5</span>[[Independence of irrelevant alternatives#Plurality voting system|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No <br>([[vote-splitting|spoilers]]) 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Reversal symmetry#Plurality voting|No]] 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes  
+|bgcolor=#bbffbb| <span style="display:none">1</span>O(N) 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb| <span style="display:none">6</span>single mark
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No 
+|bgcolor=#ffbbbb align=center| <span style="display:none">5</span>No
+|style="border-left: 2px solid #ffbbbb;" bgcolor=#ffbbbb align=center| <span style="display:none">5</span>NA
+|bgcolor=#ddffdd| <span style="display:none">2</span><ref group=nb name=approvalLNH/>
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+. |-
+! [[Range voting]] <ref group=nb name=approvalrangecriteria/>
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb| <span style="display:none">5</span>[[Majority criterion#Range voting|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet criterion#Majority Judgment|No]]
+| bgcolor=#ddffdd| <span style="display:none">2</span>Strategic <br>yes<ref group=nb name=approvalnash/>
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Condorcet loser criterion#Range voting|No]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb colspan=2| <span style="display:none">1</span>IIA
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes  
+|bgcolor=#bbffbb| <span style="display:none">1</span>O(N) 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>scores
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb align=center| <span style="display:none">5</span>[[Later-no-harm criterion#Noncomplying methods|No]] 
+|bgcolor=#bbffbb align=center| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+. |-
+! [[Ranked pairs]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>[[Condorcet loser criterion#Ranked Pairs|Yes]]
+|style="border-right: 2px solid #a0a0a0; border-top: 2px solid #a0a0a0; border-bottom: 2px solid #a0a0a0;" bgcolor=#ddffdd colspan=2| <span style="display:none">2</span>ISDA
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Consistency criterion#Ranked pairs|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Participation criterion#Ranked pairs|No]] 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes  
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ddffdd| <span style="display:none">2</span>O(N<sup>2</sup>)
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ccffcc| <span style="display:none">2</span>ranking<br>w/&shy;equality
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb align=center| <span style="display:none">5</span>[[Later-no-harm criterion#Noncomplying methods|No]] 
+| bgcolor=#ffbbbb align=center| <span style="display:none">5</span>[[Later-no-harm criterion#Noncomplying methods|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+. |-
+! [[Two-round system|Runoff voting]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb colspan=2| <span style="display:none">5</span>[[Independence of irrelevant alternatives#Two-round system|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No <br>([[vote-splitting|spoilers]]) 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb| <span style="display:none">5</span>[[Monotonicity criterion#Instant-runoff voting and the Two-round system are not monotonic|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Participation criterion#Two-round system|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No  
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes  
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ddffdd| <span style="display:none">2</span>O(N) <ref group=nb>Once for each round. </ref> 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb| <span style="display:none">5</span>single mark <!--(per round)-->
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No 
+|bgcolor=#ffdddd| <span style="display:none">4</span>No <br><ref group=nb>Later preferences are only possible between the two candidates who make it to the second round. </ref> 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ddffdd align=center| <span style="display:none">2</span>[[Later-no-harm criterion#Complying methods|Yes]]
+| bgcolor=#ddffdd align=center| <span style="display:none">2</span><ref group=nb>That is, second-round votes cannot help or harm candidates already eliminated. </ref> 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+. |-
+! [[Schulze method|Schulze]]
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes
+|style="border-right: 2px solid #a0a0a0; border-top: 2px solid #a0a0a0; border-bottom: 2px solid #a0a0a0;" bgcolor=#ddffdd colspan=2| <span style="display:none">2</span>ISDA
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes  
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Consistency criterion#Schulze method|No]]
+|bgcolor=#ffbbbb| <span style="display:none">5</span>[[Participation criterion#Schulze method|No]] 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes  
+|bgcolor=#ddffdd| <span style="display:none">2</span>O(N<sup>2</sup>) 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ccffcc| <span style="display:none">2</span>ranking<br>w/&shy;equality
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|bgcolor=#bbffbb| <span style="display:none">1</span>Yes 
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#ffbbbb  align=center| <span style="display:none">5</span>[[Later-no-harm criterion#Noncomplying methods|No]] 
+|bgcolor=#ffbbbb align=center| <span style="display:none">5</span>[[Later-no-harm criterion#Noncomplying methods|No]] 
+|bgcolor=#ffbbbb| <span style="display:none">5</span>No
+. |-
+! [[Sortition|Random winner]]/<br>arbitrary winner <ref group=nb>Random winner: Uniformly randomly chosen candidate is winner. Arbitrary winner: some external entity, not a voter, chooses the winner. These systems are not, properly speaking, voting systems at all, but are included to show that even a horrible system can still pass some of the criteria. </ref>
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#99dd99 colspan=2| <span style="display:none">1</span>IIA
+|bgcolor=#dd9999| <span style="display:none">4</span>NA
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#dd9999| <span style="display:none">4</span>NA
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#dd9999| <span style="display:none">5</span>NA
+|bgcolor=#dd9999| <span style="display:none">5</span>NA
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#99dd99| <span style="display:none">1</span>Yes
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#77dd77| <span style="display:none">0</span>O(1)
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#dd9999| <span style="display:none">7</span>none
+|bgcolor=#dd9999| <span style="display:none">5</span>NA
+|bgcolor=#dd9999 align=center| <span style="display:none">5</span>NA 
+|style="border-left: 2px solid #dd9999;" bgcolor=#dd9999 align=center| <span style="display:none">5</span>NA 
+|bgcolor=#dd9999| <span style="display:none">5</span>
+|bgcolor=#99dd99| <span style="display:none">1</span>Yes
+. |-
+! [[Random ballot]] <ref group=nb>Random ballot: Uniformly random-chosen ballot determines winner. This and closely related systems are of mathematical interest because they are the only possible systems which are truly strategy-free, that is, your best vote will never depend on anything about the other voters. However, this system is not generally conside#a0a0a0 as a serious proposal for a practical method. </ref>
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#99dd99 colspan=2| <span style="display:none">1</span>IIA
+|bgcolor=#99dd99| <span style="display:none">1</span>Yes
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#99dd99| <span style="display:none">1</span>Yes
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#99dd99| <span style="display:none">1</span>Yes
+|bgcolor=#99dd99| <span style="display:none">1</span>Yes
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#99dd99| <span style="display:none">1</span>Yes
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#99dd99| <span style="display:none">1</span>O(N)
+|style="border-left: 2px solid #a0a0a0;" bgcolor=#dd9999| <span style="display:none">6</span>single mark
+|bgcolor=#dd9999| <span style="display:none">5</span>No
+|bgcolor=#dd9999 align=center| <span style="display:none">5</span>No 
+|style="border-left: 2px solid #dd9999;" bgcolor=#dd9999 align=center| <span style="display:none">5</span>NA 
+|bgcolor=#dd9999| <span style="display:none">5</span>NA
+|bgcolor=#99dd99| <span style="display:none">1</span>Yes
+|}
+<small>NA = not applicable. Ambig. = Ambiguous. Strategic yes: These systems do not meet the criterion directly, but do so in all [[Strong Nash equilibrium|strong Nash equilibria]]. </small> . 
+
+===Experimental criteria===. 
+It is possible to simulate large numbers of virtual elections on a computer and see how various voting systems compare in practical terms. Since such investigations are more difficult than simply proving that a given system does or does not satisfy a given mathematical criterion, results are not available for all systems. Also, these results are sensitive to the parameters of the model used to generate virtual elections, which can be biased either deliberately or accidentally.  . 
+
+One desirable feature that can be explored in this way is maximum voter satisfaction, called in this context minimum [[Bayesian regret]]. Such simulations are sensitive to their assumptions, particularly with regard to voter strategy, but by varying the assumptions they can give repeatable measures that bracket the best and worst cases for a voting system. <ref>Poundstone, William, ''Gaming the Vote: Why Elections Aren't Fair (and What We Can Do About It)'', Hill and Young, New York, 2008, p.239</ref> To date, the only such simulation to compare a wide variety of voting systems was run by a range-voting advocate and was not published in a peer-reviewed journal. <ref>Results are available in an appendix of his unpublished paper here: [http://math.temple.edu/~wds/homepage/rangevote.pdf]. </ref><ref>Poundstone, William, ''Gaming the Vote: Why Elections Aren't Fair (and What We Can Do About It)'', Hill and Young, New York, 2008, p.257: "Range voting is still largely a samizdat enterprise on the fringes of social choice theory. The most glaring example must be Smith's pivotal 2000 paper. It has never been published in a journal."</ref> It found that Range voting consistently scored as either the best system or among the best across the various conditions studied. <ref>Poundstone, William, ''Gaming the Vote: Why Elections Aren't Fair (and What We Can Do About It)'', Hill and Young, New York, 2008, p.240</ref> . 
+
+Another aspect which can be compared through such [[Monte Carlo method|Monte Carlo simulations]] is strategic vulnerability. According to the [[Gibbard-Satterthwaite theorem]], no voting system can be immune to [[tactical voting|strategic manipulation]] in all cases, but certainly some systems will have this problem more often than others. M. Balinski and R. Laraki, the inventors of the majority judgment system, performed such an investigation using a set of simulated elections based on the results from a poll of the [[2007 French presidential election]] which they had carried out using rated ballots. Comparing [[range voting]], [[Borda count]], [[plurality voting]], [[approval voting]] with two different absolute approval thresholds, [[Condorcet voting]], and [[majority judgment]], they found that range voting had the highest (worst) strategic vulnerability, while their own system majority judgment had the lowest (best). <ref>Balinski M. and R. Laraki (2007) «Election by Majority Judgement: Experimental Evidence». Cahier du Laboratoire d’Econométrie de l’Ecole Polytechnique 2007-28. Chapter in the book: «In Situ and Laboratory Experiments on Electoral Law Reform: French Presidential Elections», Edited by Bernard Dolez, Bernard Grofman and Annie Laurent. Springer, to appear in 2011. </ref> . 
+
+Balinski and Laraki also used the same data to investigate how likely it was that each of those systems, as well as [[Two-round system|runoff voting]], would elect a centrist. Opinions differ on whether this is desirable or not. Some argue that systems which favor centrists are better because they are more stable; others argue that electing ideologically purer candidates gives voters more choice and a better chance to retrospectively judge the relative merits of those ideologies; while Balinski and Laraki argue that both centrist and extremist candidates should have a chance to win, to prevent forcing candidates into taking either position. According to their model, plurality, runoff voting, and approval voting with a higher approval threshold tended to elect extremists (100%, 98%, and 94% of the time, respectively); majority judgement elected both centrists and extremists (56% extremists); and range, Borda, and approval voting with a lower approval threshold elected centrists (6%; 0.25%-13% depending on the number of candidates; and 6% extremists; respectively). <ref>Ibid. </ref> However, their model did not take into account voters' strategic reactions to the system used, such as "lesser of two evils" voting under plurality.  . 
+
+Simulated elections in a two-dimensional issue space can also be graphed to visually compare election methods; this illustrates issues like nonmonotonicity, clone-independence, and tendency to elect centrists vs extremists. <ref>These two-dimensional graphs are called Yee diagrams after their inventor, Ka-Ping Yee. His website includes [http://zesty.ca/voting/sim/ some sample graphs]. </ref> . 
+
+==="Soft" criteria===. 
+In addition to the above criteria, voting systems are judged using criteria that are not mathematically precise but are still important, such as simplicity, speed of vote-counting, the potential for fraud or disputed results, the opportunity for [[tactical voting]] or [[strategic nomination]], and, for multiple-winner methods, the degree of proportionality produced.  . 
+
+The New Zealand [[Royal Commission on the Electoral System]] listed ten criteria for their evaluation of possible [[Electoral reform in New Zealand|new electoral systems for New Zealand]]. These included fairness between political parties, effective representation of minority or special interest groups, political integration, effective voter participation and legitimacy.  . 
+
+==History==. 
+===Early democracy===. 
+Voting has been used as a feature of democracy since the 6th century BC, when democracy was introduced by the [[Athenian democracy]]. However, in Athenian democracy, voting was seen as the least democratic among methods used for selecting public officials, and was little used, because elections were believed to inherently favor the wealthy and well-known over average citizens. Viewed as more democratic were assemblies open to all citizens, and selection by lot (known as [[sortition]]), as well as rotation of office. One of the earliest recorded elections in Athens was a [[Plurality voting system|plurality vote]] that it was undesirable to "win": in the process called [[ostracism]], voters chose the citizen they most wanted to exile for ten years. Most elections in the early [[history of democracy]] were held using plurality voting or some variant, but as an exception, the state of [[Venice]] in the 13th century adopted the system we now know as approval voting to elect their Great Council. <ref name="mactutorhistory">{{cite web | author=J. J. O'Connor and E. F. Robertson | title=The history of voting | work=The MacTutor History of Mathematics Archive | url=http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/Voting.html | accessdate=October 12, 2005 }}</ref> . 
+
+The Venetians' system for [[Doge of Venice#Selection of the Doge|electing the Doge]] was a particularly convoluted process, consisting of five rounds of drawing lots (sortition) and five rounds of approval voting. By drawing lots, a body of 30 electors was chosen, which was further reduced to nine electors by drawing lots again. An [[electoral college]] of nine members elected 40 people by approval voting; those 40 were reduced to form a second electoral college of 12 members by drawing lots again. The second electoral college elected 25 people by approval voting, which were reduced to form a third electoral college of nine members by drawing lots. The third electoral college elected 45 people, which were reduced to form a fourth electoral college of 11 by drawing lots. They in turn elected a final electoral body of 41 members, who ultimately elected the Doge. Despite its complexity, the system had certain desirable properties such as being hard to game and ensuring that the winner reflected the opinions of both majority and minority factions. <ref name="dogeelection">{{cite web | author=Miranda Mowbray and Dieter Gollmann | title=Electing the Doge of Venice: Analysis of a 13th Century Protocol | url=http://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.html | accessdate=July 12, 2007 }}</ref> This process, with slight modifications, was central to the politics of the [[Republic of Venice]] throughout its remarkable lifespan of over 500 years, from 1268 to 1797.  . 
+
+[[Image:Jean Charles Borda.jpg|thumb|upright|left|[[Jean-Charles de Borda]], an early voting theorist]] . 
+
+===Foundations of voting theory===. 
+Voting theory became an object of academic study around the time of the [[French Revolution]]. <ref name="mactutorhistory" /> Jean-Charles de Borda proposed the Borda count in 1770 as a method for electing members to the [[French Academy of Sciences]]. His system was opposed by the [[Marquis de Condorcet]], who proposed instead the method of pairwise comparison that he had devised. Implementations of this method are known as Condorcet methods. He also wrote about the [[Condorcet paradox]], which he called the ''intransitivity of majority preferences''. <ref>{{cite web | author=J. J. O'Connor and E. F. Robertson | title=Marie Jean Antoine Nicolas de Caritat Condorcet | work=The MacTutor History of Mathematics Archive | url=http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Condorcet.html|accessdate=October 12, 2005 }}</ref> . 
+
+While Condorcet and Borda are usually credited as the founders of voting theory, recent research has shown that the philosopher [[Ramon Llull]] discovered both the Borda count and a pairwise method that satisfied the Condorcet criterion in the 13th century. The manuscripts in which he described these methods had been lost to history until they were rediscovered in 2001. <ref>{{cite journal | author=G. Hägele and F. Pukelsheim | title=Llull's writings on electoral systems | journal=Studia Lulliana | year=2001 | volume=3 | pages=3–38 | url=http://www.math.uni-augsburg.de/stochastik/pukelsheim/2001a.html }}</ref>
+[[Image:Condorcet.jpg|thumb|upright|The Marquis de Condorcet, another early voting theorist]]
+Later in the 18th century, the related topic of [[Apportionment (politics)|apportionment]] began to be studied. The impetus for research into fair apportionment methods came, in fact, from the [[United States Constitution]], which mandated that seats in the [[United States House of Representatives]] had to be allocated among the states proportionally to their population, but did not specify how to do so. <ref name=jm>{{cite web | author=Joseph Malkevitch | title=Apportionment | work=AMS Feature Columns | url=http://www.ams.org/featurecolumn/archive/apportion1.html |accessdate=October 13, 2005 }}</ref> A variety of methods were proposed by statesmen such as [[Alexander Hamilton]], [[Thomas Jefferson]], and [[Daniel Webster]]. Some of the apportionment methods discovered in the United States were in a sense rediscovered in Europe in the 19th century, as seat allocation methods for the newly proposed system of party-list proportional representation. The result is that many apportionment methods have two names: for instance, ''Jefferson's method'' is equivalent to the d'Hondt method, as is ''Webster's method'' to the [[Sainte-Laguë method]], while ''Hamilton's method'' is identical to the Hare largest remainder method. <ref name=jm/> . 
+
+The [[Single Transferable Vote]] system was devised by [[Carl Andrae]] in [[Denmark]] in 1855, and also in England by [[Thomas Hare (political scientist)|Thomas Hare]] in 1857. Their discoveries may or may not have been independent. STV elections were first held in Denmark in 1856, and in [[Tasmania]] in 1896 after its use was promoted by [[Andrew Inglis Clark]]. Party-list proportional representation was first implemented to elect European legislatures in the early 20th century, with Belgium implementing it first in 1899. Since then, proportional and semi-proportional methods have come to be used in almost all democratic countries, with most exceptions being former [[British Empire|British]] colonies. <ref>{{cite web | title=Proportional Voting Around the World | work=FairVote.org | url=http://www.fairvote.org/?page=53 | accessdate=October 13, 2005 }}</ref> . 
+
+===The single-winner revival===. 
+Perhaps influenced by the rapid development of multiple-winner voting methods, theorists began to publish new findings about single-winner methods in the late 19th century. This began around 1870, when [[William Robert Ware]] proposed applying STV to single-winner elections, yielding instant runoff voting. <ref>{{cite web | title=The History of IRV | work=FairVote.org | url=http://www.fairvote.org/irv/vt_lite/history.htm |accessdate=November 9, 2005 }}</ref> Soon, mathematicians began to revisit Condorcet's ideas and invent new methods for Condorcet completion. [[Edward J. Nanson]] combined the newly described instant runoff voting with the Borda count to yield a new Condorcet method called [[Nanson's method]]. [[Charles Dodgson]], better known as Lewis Carroll, published pamphlets on voting theory, focusing in particular on Condorcet voting. He introduced the use of [[Matrix (mathematics)|matrices]] to analyze Condorcet elections, though this, too, had already been done in some form in the then-lost manuscripts of Ramon Llull. He also proposed the straightforward Condorcet method known as [[Dodgson's method]] as well as a proportional multiwinner method based on [[proxy voting]].  . 
+
+Ranked voting systems eventually gathered enough support to be adopted for use in government elections. In Australia, IRV was first adopted in 1893, and continues to be used along with STV today. In the United States in the early-20th-century [[Progressive era]], various municipalities began to use Bucklin voting. Bucklin is no longer used in any government elections, and has even been declared unconstitutional in [[Minnesota]]. <ref>{{cite web | title=Municipal Voting System Reform: Overcoming the Legal Obstacles | author=Tony Anderson Solgård and Paul Landskroener | url=http://www2.mnbar.org/benchandbar/2002/oct02/voting.htm | work=Bench & Bar of Minnesota | accessdate=November 16, 2005 }}</ref> . 
+
+===Influence of game theory===. 
+After [[John von Neumann]] and others developed the mathematical field of [[game theory]] in the 1940s, new mathematical tools were available to analyze voting systems and strategic voting. One such tool was the idea of a [[strong Nash equilibrium]], based on the work of [[John Forbes Nash, Jr.|John Nash]] in the 1950s. This and similar methods led to significant new results that changed the field of voting theory. <ref name="mactutorhistory" />{{Request quotation|date=January 2011}} The use of mathematical criteria to evaluate voting systems was introduced when [[Kenneth Arrow]] showed in [[Arrow's impossibility theorem]] that certain intuitively desirable criteria were actually mutually contradictory, demonstrating the inherent limitations of voting theorems. Among the criteria Arrow considered desirable was one which requires the voting system to use ordinal (ranking) information; thus, as [[John Harsanyi]] pointed out, cardinal (rated) voting systems such as approval voting, range voting, and majority judgment can successfully meet all the other criteria. Arrow's theorem is easily the single most cited result in voting theory, and it inspired further significant results such as the [[Gibbard-Satterthwaite theorem]], which showed that strategic voting is unavoidable in certain common circumstances, for any deterministic voting system, whether cardinal or ordinal.  . 
+
+The use of game theory to analyze voting systems also led to discoveries about the emergent strategic effects of certain systems. [[Duverger's law]] is a prominent example of such a result, showing that plurality voting often leads to a [[two-party system]]. Further research into this and other game theory aspects of voting led [[Steven Brams]] and [[Peter Fishburn]] to formally define and promote the use of [[approval voting]] in 1977. While approval voting had been used before that, it had not been named or considered as an object of academic study, particularly because it violated the assumption made by most research that single-winner methods were based on cardinal preference rankings. <ref>Poundstone, William, ''Gaming the Vote'', p.198</ref> . 
+
+[[Public choice theory]], a field which uses economic modeling tools including game theory to study the behavior of politicians and voters, began to form in the 1950s, and was both influenced by and influential on voting theory.  . 
+
+===Post-1980 developments===. 
+Voting theory has come to focus on voting system criteria almost as much as it does on particular voting systems. Now, any description of a benefit or weakness in a voting system is expected to be backed up by a mathematically defined criterion. Recent research in voting theory has largely involved devising new criteria and new methods devised to meet certain criteria.  . 
+
+[[Political scientist]]s of the 20th century published many studies on the effects that the voting systems have on voters' choices and political parties,<ref>{{
+harvnb|Duverger|1954}}</ref><ref>{{
+harvnb|Rae|1971}}</ref><ref>{{
+harvnb|Taagapera|Shugart|1989}}</ref> and on political stability. <ref>{{
+harvnb|Hermens|1941}}</ref><ref>{{
+harvnb|Lijphart|1994}}</ref> A few scholars also studied what effects caused a nation to change for a particular voting system. <ref>{{
+harvnb|Lijphart|1985}}</ref><ref>{{
+harvnb|Lijphart|1992}}</ref><ref>{{
+harvnb|Rokkan|1970}}</ref><ref>{{
+harvnb|Rogowski|1987}}</ref><ref>{{
+harvnb|Boix|1999}}</ref><ref>Cox 1997, pp. 15-16</ref> One prominent current voting theorist is [[Nicolaus Tideman]], who formalized concepts such as [[strategic nomination]] and the [[spoiler effect]] in the [[independence of clones criterion]]. Tideman also devised the ranked pairs method, a Condorcet method that is not susceptible to [[clone (voting)|clones]]. Also, [[Donald G. Saari]] has brought renewed interest to the Borda count with the books he has published since 2001. Saari uses geometric models of positional voting systems to promote the Borda count.  . 
+
+The increased availability of computer processing has increased the practicality of using the Kemeny-Young, ranked pairs, and Schulze methods that fully rank all the choices from most popular to least popular.  . 
+
+The advent of the Internet has increased the interest in voting systems. Unlike many mathematical fields, voting theory is generally accessible enough to non-experts that new results can be discovered by amateurs, and frequently are.  . 
+
+The study of voting systems has influenced a new push for [[electoral reform]] beginning around the 1990s, with proposals being made to replace plurality voting in governmental elections with other methods. [[New Zealand]] adopted [[Mixed Member Proportional]] for [[Elections in New Zealand|Parliamentary elections]] in 1993 and [[Single Transferable Vote]] for some local elections in 2004 (see [[Electoral reform in New Zealand]]). After plurality voting was a key factor in the contested results of the [[2000 US presidential election]], various municipalities in the United States began to adopt [[instant-runoff voting]], although some of them subsequently returned to their prior system. The [[Canadian]] province of [[British Columbia]] held two unsuccessful referendums (in [[British Columbia electoral reform referendum, 2005|2005]] and [[British Columbia electoral reform referendum, 2009|2009]]) to adopt an [[BC-STV|STV]] system, and [[Ontario]], another Canadian province, held an unsuccessful referendum on October 10, 2007 on whether to adopt a Mixed Member Proportional system. An even wider range of voting systems is now seen in non-governmental organizations.  . 
+
+It has been argued that more in-depth and fine-tuned voting systems lie at the core of the development of [[e-democracy]],<ref>{{cite journal |accessdate=February 24, 2010 |url=http://www.informaworld.com/smpp/content~db=all~content=a911066517 |title=The Maturing Concept of E-Democracy: From E-Voting and Online Consultations to Democratic Value Out of Jumbled Online Chatter |publisher=[[Journal of Information Technology and Politics]] |date=April, 2009 |author=Martin Hilbert }}</ref> which consists of the digitization of democratic processes, including voting. <ref>Hilbert, Martin. "DIGITAL PROCESSES AND DEMOCRATIC THEORY: Dynamics, risks and opportunities that arise when democratic institutions meet digital information and communication technologies." open-access online book 2007 <http://www.martinhilbert.net/democracy.html></ref> Research is ongoing into the use of [[homomorphic encryption]] for making voting systems that are transparent and voter-verifiable without compromising ballot secrecy. However, others are skeptical of the security of computerized voting, and argue that only paper ballots (whether machine-printed and voter-verified, or even exclusively hand-marked) give a reliable audit trail.  . 
+
+==See also==. 
+* [[Nakamura number]]
+* [[Opinion poll]]
+* [[Proxy voting]]
+* [[Table of voting systems by nation]]
+* [[Vote counting system]]
+* [[Voting machine]]
+* [[Duverger's law]]
+* [[Micromega rule]]
+* [[Experimental political science]]
+* [[Leader election]] . 
+
+==References==. 
+{{Ibid|date=August 2011}} . 
+
+===Notes on systems comparison table===. 
+nb:
+<references group="nb" /> . 
+
+===General references===. 
+{{Refbegin}}
+* Arrow, Kenneth J. (1951, 2nd ed., 1963) ''[[Social Choice and Individual Values]]''. New Haven: Yale University Press. ISBN 0-300-01364-7
+* {{cite journal|doi=10.2307/2585577|last=Boix |first=Carles |year=1999 |url=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=159213 |title=Setting the Rules of the Game: The Choice of Electoral Systems in Advanced Democracies |journal=American Political Science Review |volume=93|issue=3 |pages=609–624 |ref=harv|jstor=2585577}}
+* {{cite book | editor-last=Colomer|editor-first=Josep M.|title=Handbook of Electoral System Choice | location=London and New York | publisher=[[Palgrave Macmillan]]| year=2004 | isbn= 9781403904546 |editor-link=Josep Colomer |ref=harv}}
+* {{cite web | last=Cranor |first=Lorrie | title=Vote Aggregation Methods | work=Declared-Strategy Voting: An Instrument for Group Decision-Making | url=http://lorrie.cranor.org/pubs/diss/node4.html | accessdate=October 3, 2005 |ref=harv }}
+* {{cite book | author=Farrell, David M. | title=Electoral Systems: A Comparative Introduction | location=New York | publisher=St. Martin's Press | year=2001 | isbn=0-333-80162-8 |ref=harv}}
+* [[Michael Dummett|Dummett, Michael]] (1997). ''Principles of Electoral Reform''. New York: Oxford University Press. ISBN 0-19-829246-5. 
+* {{cite book |last=Duverger |first=Maurice |year=1954 |title=Political Parties |location=New York |publisher=Wiley |ref=harv |isbn=0416683207}}
+* {{cite journal |last=Hermens |first=Ferdinand A. |year=1941 |title=Democracy or Anarchy? A Study of Proportional Representation |location=Notre Dame, Indiana |publisher=[[University of Notre Dame]] |ref=harv}}
+* [[Arend Lijphart|Lijphart, Arend]]
+** {{cite journal |year=1985 |title=The Field of Electoral Systems Research: A Critical Survey |last=Lijphart |journal=Electoral Studies |volume=4 |ref=harv}}
+** {{cite journal |doi=10.1177/0951692892004002005 |year=1992 |title=Democratization and Constitutional Choices in Czecho-Slovakia, Hungary and Poland, 1989-1991 |first1=A.  |last=Lijphart |journal=Journal of Theoretical Politics |volume=4 |issue=2 |pages=207–223 |ref=harv}}
+** {{cite book |year=1994  |last=Lijphart |title=Electoral Systems and Party Systems: A Study of Twenty-Seven Democracies, 1945-1990 |location=Oxford |publisher=Oxford University Press |isbn=0-19-828054-8 |ref=harv}}
+* Owen, Bernard, 2002. "Le système électoral et son effet sur la représentation parlementaire des partis: le cas européen." LGDJ. 
+* {{cite book |last=Rae |first=Douglas W. |year=1971 |title=The Political Consequences of Electoral Laws |location=New Haven |publisher=Yale University Press |ref=harv |isbn=0300015178}}
+* Reynolds, Andrew, Reilly, Benjamin and Ellis, Andrew, ''The New International IDEA Handbook of Electoral System Design'', International IDEA, Stockholm 2005. 
+* {{cite journal |last=Rogowski |first=Ronald |year=1987 |title=Trade and the Variety of Democratic Institutions |publisher=International Organization |journal= |volume=41 |pages=203–224 |ref=harv}}
+* {{cite journal |last=Rokkan |first=Stein |year=1970 |title=Citizens, Elections, Parties: Approaches to the Comparative Study of the Process of Development |location=Oslo |publisher=Universitetsforlaget |ref=harv}}
+* {{cite book |last1=Taagapera |first1=Rein |first2=Matthew S. |last2=Shugart |year=1989 |title=Seats and Votes: The Effects and Determinants of Electoral Systems''. |location=New Haven |publisher=Yale University Press |ref=harv}}
+{{Refend}} . 
+
+===References===. 
+{{Reflist|colwidth=35em}} . 
+
+==External links==. 
+*[http://works.bepress.com/josep_colomer/3/ Handbook of Electoral System Choice]
+*[http://www.aceproject.org ACE Electoral Knowledge Network] Site on electoral systems and management
+*[http://www.idea.int/publications/esd/index.cfm A handbook of electoral system Design]
+*[http://prsa.org.au Proportional Representation Society of Australia] Electoral reform NGO
+*[http://www.accuratedemocracy.com/ Accurate Democracy]: electoral and legislative voting rules
+*[http://wiki.electorama.com/wiki/Main_Page Electowiki] A wiki that focuses on voting theory
+*[http://theorem.ca/~mvcorks/code/voting_methods.html Evaluating Voting Methods] by Matt Corks<!-- Broken as of 20111205 -->
+*[http://www.openstv.org/ OpenSTV] Software for computing a variety of voting systems including IRV, STV, and Condorcet. 
+*[http://userfs.cec.wustl.edu/~rhl1/rbvote/ Ranked Ballot Voting Methods]: tutorial, evaluation, and calculator<!-- Broken as of 20111205 -->
+*[http://www.maa.org/editorial/knot/LiberalArts.html Student's Social Choice] by Alex Bogomolny. Illustrates various concepts of choice using [[Java applet]]s. 
+*[http://xaravve.trentu.ca/pivato/Teaching/voting.pdf Voting, Arbitration, and Fair Division] by Marcus Pivato<!-- Broken as of 20111205 -->
+*[http://bolson.org/voting/ Voting and Election Reform]: election calculator and other resources
+*[http://pj.freefaculty.org/Ukraine/PJ3_VotingSystemsEssay.pdf Voting Systems] by Paul E. Johnson. A textbook-style overview of voting methods and their mathematical properties. 
+*[http://www.electology.org/ The Center for Election Science]
+*[http://rangevoting.org/ Center for Range Voting]
+* [http://fairvote.org/ Center for Voting and Democracy] Advocates using IRV in the United States. 
+* [http://portal.acm.org/citation.cfm?id=383962.384044 Practical multi-candidate election system]
+* [http://www.electoral-reform.org.uk/ Electoral Reform Society] - Pushing to reform democracy in the United Kingdom
+{{DEFAULTSORT:Voting System}}
+[[Category:Voting systems| ]]
+[[Category:Electoral systems]]
+[[Category:Public choice theory]]
+[[Category:Psephology]]
+[[Category:Social choice theory]]
+[[Category:Voting system criteria|Voting system criteria]]
+[[Category:Elections|Voting systems]]

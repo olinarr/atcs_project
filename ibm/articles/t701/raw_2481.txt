@@ -1,0 +1,486 @@
+[[Image:Blue Linckia Starfish.JPG|thumb|Some of the biodiversity of a [[coral reef]]]]
+{{Evolutionary biology}}
+[[Image:River gambia Niokolokoba National Park.gif|thumb|[[Rainforest]]s are an example of biodiversity on the planet, and typically possess a great deal of species diversity. This is the [[Gambia River]] in [[Senegal]]'s [[Niokolo-Koba National Park]].]] . 
+
+'''Biodiversity''' is the degree of variation of [[life]] forms within a given [[species]], [[ecosystem]], [[biome]], or an entire [[planet]]. Biodiversity is a measure of the [[ecological health|health of ecosystems]]. Biodiversity is in part a function of [[climate]]. In terrestrial habitats, [[tropical region]]s are typically rich whereas [[polar region]]s support fewer [[species]].  . 
+
+Rapid environmental changes typically cause [[mass extinction]]s. One estimate is that less than 1% of the species that have existed on [[Earth]] are [[Extant taxon|extant]]. <ref>{{cite journal | doi=10.1073/pnas.91.15.6758 | author=Raup, D. M. | year=1994 | title=The role of extinction in evolution | journal=Proceedings of the National Academy of Sciences | volume = 91 | pages = 6758–6763 | pmid=8041694 | pmc=44280|bibcode = 1994PNAS...91.6758R | issue=15 }}</ref> . 
+
+Since life began on Earth, five major [[mass extinctions]] and several minor events have led to large and sudden drops in biodiversity. The [[Phanerozoic]] eon (the last 540&nbsp;million years) marked a rapid growth in biodiversity via the [[Cambrian explosion]]—a period during which nearly every [[phylum (biology)|phylum]] of [[multicellular organism]]s first appeared{{Citation needed|date=January 2012}}.  The next 400&nbsp;million years included repeated, massive biodiversity losses classified as [[mass extinction]] events. In the [[Carboniferous]], [[rainforest collapse]] led to a great loss of plant and animal life. <ref name="SahneyBentonFerry2010RainforestCollapse">{{cite journal | doi=10.1130/G31182.1 | url=http://geology.geoscienceworld.org/cgi/content/abstract/38/12/1079 | author= Sahney, S., Benton, M.J. & Falcon-Lang, H.J. | year=2010 | title= Rainforest collapse triggered Pennsylvanian tetrapod diversification in Euramerica | journal=Geology | volume = 38 | pages = 1079–1082 | format=PDF | issue=12}}</ref> The [[Permian–Triassic extinction event]], 251&nbsp;million years ago, was the worst; vertebrate recovery took 30&nbsp;million years. <ref name="SahneyBenton2008RecoveryFromProfoundExtinction">{{cite journal | url=http://journals.royalsociety.org/content/qq5un1810k7605h5/fulltext.pdf | author=Sahney, S. and Benton, M.J. | year=2008 | title=Recovery from the most profound mass extinction of all time | journal=Proceedings of the Royal Society: Biological | doi=10.1098/rspb.2007.1370 | volume = 275 | pages = 759–65|format=PDF | pmid=18198148 | issue=1636 | pmc=2596898}}</ref> The most recent, the [[Cretaceous–Tertiary extinction event]], occurred 65&nbsp;million years ago, and has often attracted more attention than  others because it resulted in the extinction of the [[dinosaur]]s. <ref>{{Cite journal | last=Bambach | first=R.K. | last2=Knoll | first2=A.H. | last3=Wang | first3=S.C. | title=Origination, extinction, and mass depletions of marine diversity | journal=Paleobiology | volume=30 | issue=4 | pages=522–42 |date = December 2004| url=http://findarticles.com/p/articles/mi_qa4067/is_200410/ai_n9458414/ |accessdate=2008-01-24 | doi=10.1666/0094-8373(2004)030<0522:OEAMDO>2.0.CO;2 | issn=0094-8373 | year=2004 }}</ref> . 
+
+The period since the emergence of [[humans]] has displayed an ongoing biodiversity reduction and an accompanying loss of [[genetic diversity]]. Named the [[Holocene extinction]], the reduction is caused primarily by human impacts, particularly [[habitat (ecology)|habitat]] destruction. Conversely, biodiversity impacts human health in a number of ways, both positively and negatively. <ref name="SalaMeyerson2009">{{cite book|last1=Sala|first1=Osvaldo E.|last2=Meyerson|first2=Laura A.|last3=Parmesan|first3=Camille|title=Biodiversity change and human health: from ecosystem services to spread of disease|url=http://books.google.com/books?id=x6WBmO8Muc4C&pg=PA2|accessdate=28 June 2011|date=26 January 2009|publisher=Island Press|isbn=978-1-59726-497-6|pages=3–5}}</ref> . 
+
+The [[United Nations]] designated 2011-2020 as the [[United Nations Decade on Biodiversity]].  . 
+
+==Etymology==. 
+The term biological diversity was used first by wildlife scientist and conservationist Raymond F. Dasmann in the 1968 lay book ''A Different Kind of Country''<ref>
+Dasmann, R. F. 1968. A Different Kind of Country. MacMillan Company, New York.  ISBN 0-02-072810-7. </ref> advocating conservation. The term was widely adopted only after more than a decade, when in the 1980s it came into common usage in science and environmental policy. [[Thomas Lovejoy]], in the foreword to the book ''Conservation Biology'',<ref>
+M. E. Soulé and B. A. Wilcox. 1980. Conservation Biology: An Evolutionary-Ecological Perspective. Sinauer Associates. Sunderland, Massachusetts. </ref> introduced the term to the scientific community. Until then the term "natural diversity" was common, introduced by The Science Division of [[The Nature Conservancy]] in an important 1975 study, "The Preservation of Natural Diversity." By the early 1980s TNC's Science program and its head, Robert E. Jenkins,<ref>{{cite web|url=http://www.nature.org/aboutus/index.htm |title=Robert E. Jenkins |publisher=Nature.org |date=2011-08-18 |accessdate=2011-09-24}}</ref> Lovejoy and other leading conservation scientists at the time in America advocated the use of "biological diversity".  . 
+
+The term's contracted form ''biodiversity'' may have been coined by W.G. Rosen in 1985 while planning the 1986 ''National Forum on Biological Diversity'' organized by the [[United States National Research Council|National Research Council]] (NRC). It first appeared in a publication in 1988 when entomologist [[E. O. Wilson]] used it as the title of the [[proceedings]]<ref>
+Edward O.Wilson, editor, Frances M.Peter, associate editor, ''Biodiversity'', National Academy Press, March 1988 ISBN 0-309-03783-2 ; ISBN 0-309-03739-5 (pbk.), [http://darwin.nap.edu/books/0309037395/html/R2.html online edition]</ref> of that forum. <ref>
+Global Biodiversity Assessment. UNEP, 1995, Annex 6, Glossary. ISBN 0-521-56481-6, used as source by [http://www.biodiv.be/glossary_keywords/B "Biodiversity", Glossary of terms related to the CBD], [[Belgium|Belgian]] Clearing-House Mechanism. Retrieved 2006-04-26. </ref> . 
+
+Since this period the term has achieved widespread use among biologists, environmentalists, political leaders, and concerned citizens.  . 
+
+A similar term in the United States is "natural heritage." It predates the others and is more accepted by the wider audience interested in conservation. Broader than biodiversity, it includes geology and landforms ([[geodiversity]]).  . 
+
+==Definitions==. 
+[[Image:Fungi of Saskatchewan.JPG|thumb|right|A sampling of [[fungi]] collected during summer 2008 in Northern [[Saskatchewan]] mixed woods, near LaRonge is an example regarding the species diversity of fungi. In this photo, there are also leaf [[lichen]]s and [[moss]]es.]] . 
+
+"Biological diversity" or "biodiversity" can have many interpretations. It is most commonly used to replace the more clearly defined and long established terms, [[species diversity]] and [[species richness]].  Biologists most often define biodiversity as the "totality of genes, species, and ecosystems of a region". <ref name="Larsson2001">{{cite book|author=Tor-Björn Larsson|title=Biodiversity evaluation tools for European forests|url=http://books.google.com/books?id=zeTU8QauENcC&pg=PA178|accessdate=28 June 2011|year=2001|publisher=Wiley-Blackwell|isbn=978-87-16-16434-6|page=178}}</ref><ref name="Davis">{{cite book|author=Davis|title=Intro To Env Engg (Sie), 4E|url=http://books.google.com/books?id=n0FvYeoHtAIC&pg=SA4-PA40|accessdate=28 June 2011|publisher=McGraw-Hill Education (India) Pvt Ltd|isbn=978-0-07-067117-1|pages=4–}}</ref> An advantage of this definition is that it seems to describe most circumstances and presents a unified view of the traditional three levels at which biological variety has been identified: . 
+
+* [[species diversity]]
+* [[ecosystem diversity]]
+* [[genetic diversity]]
+In 2003 Professor Anthony Campbell at [[Cardiff University]], [[UK]] and the Darwin Centre, [[Pembrokeshire]],  defined a fourth level: [[Molecular Diversity]]. <ref>{{Cite journal
+|last=Campbell |first=AK |journal=Journal of Applied Ecology |year=2003 |volume=40 |issue=2 | doi = 10.1046/j.1365-2664.2003.00803.x |pages=193–203 |title=Save those molecules: molecular biodiversity and life}}</ref> . 
+
+This multilevel construct is consistent with Dasmann and Lovejoy. An explicit definition consistent with this interpretation was first given in a paper by Bruce A. Wilcox commissioned by the [[International Union for the Conservation of Nature and Natural Resources]] (IUCN) for the 1982 World National Parks Conference. <ref name=wilcox84>
+Wilcox, Bruce  A. 1984. In situ conservation of genetic resources: determinants of minimum area requirements. ''In National Parks, Conservation and Development, Proceedings of the World Congress on National Parks,, J.A. McNeely and K.R. Miller'',  Smithsonian Institution Press, pp. 18-30. </ref> Wilcox's definition was "Biological diversity is the variety of life forms...at all levels of biological systems (i.e., molecular, organismic, population, species and ecosystem)...". 
+The 1992 [[United Nations]] [[Earth Summit]] defined "biological diversity" as "the variability among living organisms from all sources, including, 'inter alia', [[Terrestrial ecoregion|terrestrial]], [[Marine (ocean)|marine]], and other [[marine biology|aquatic ecosystems]], and the ecological complexes of which they are part: this includes diversity within species, between species and of ecosystems". <ref name="Hawksworth1996">{{cite book|author=D. L. Hawksworth|title=Biodiversity: measurement and estimation|url=http://books.google.com/books?id=E0F7zhnx1cgC&pg=PA6|accessdate=28 June 2011|year=1996|publisher=Springer|isbn=978-0-412-75220-9|page=6}}</ref> This definition is used in the United Nations [[Convention on Biological Diversity]]. <ref name="Hawksworth1996"/> . 
+
+One  textbook's definition is "variation of life at all levels of biological organization". <ref>
+Kevin J. Gaston & John I. Spicer. 2004. "Biodiversity: an introduction", Blackwell Publishing. 2nd Ed., ISBN 1-4051-1857-1(pbk.)</ref> . 
+
+[[Geneticist]]s define it as the diversity of genes and [[organism]]s. They study processes such as [[mutation]]s, [[gene transfer]], and genome dynamics that generate evolution. <ref name=wilcox84/> . 
+
+Measuring diversity at one level in a group of organisms may not precisely correspond to diversity at other levels. However, [[tetrapod]] (terrestrial [[vertebrates]]) taxonomic and ecological diversity shows a very close correlation. <ref name="Sahney, S. 2010">{{Cite journal| doi=10.1098/rsbl.2009.1024| last1=Sahney |first1=S. |last2=Benton |first2=M.J. |first3=Paul |last3=Ferry
+  | year = 2010
+  | title = Links between global taxonomic diversity, ecological diversity and the expansion of vertebrates on land
+  | journal = Biology Letters
+  | url = http://rsbl.royalsocietypublishing.org/content/early/2010/01/22/rsbl.2009.1024.abstract| volume=6| issue=4| pages=544–7
+  | publisher = The Royal Society| pmid=20106856| pmc=2936204
+}}</ref> . 
+
+==Distribution==. 
+[[Image:Swiss National Park 131.JPG|thumb|A [[Temperate coniferous forest|conifer forest]] in the [[Swiss Alps]] ([[Swiss National Park|National Park]]).]] . 
+
+Biodiversity is not evenly distributed, rather it varies greatly across the globe as well as within regions. Among other factors, the diversity of all living things ([[biota (ecology)|biota]]) depends on temperature, precipitation, altitude, [[soil]]s, geography and the presence of other species. The study of the spatial distribution of [[organism]]s, [[species]], and [[ecosystem]]s, is the science of [[biogeography]].  . 
+
+Diversity consistently measures higher in the [[tropics]] and in other localized regions such as [[Cape Floristic Province]] and lower in polar regions generally. In 2006 many species were formally classified as [[rare species|rare]] or [[endangered species|endangered]] or [[threatened species|threatened]]; moreover, scientists have estimated that millions more species are at risk which have not been formally recognized. About 40 percent of the 40,177 species assessed using the [[IUCN Red List]] criteria are now listed as threatened with [[extinction]]—a total of 16,119. <ref>{{cite web|url=http://news.nationalgeographic.com/news/2006/05/0502_060502_endangered.html |title=Endangered Species List Expands to 16,000 |accessdate=2007-11-13 |work=}}</ref> . 
+
+Generally terrestrial biodiversity is up to 25 times greater than ocean biodiversity. <ref>{{cite journal | author = Benton M. J. | year = 2001 | title = Biodiversity on land and in the sea | journal = Geological Journal | volume = 36 | issue = 3–4| pages = 211–230 | doi = 10.1002/gj.877 }}</ref><!-- true for microorganisms as well?--> . 
+
+===Latitudinal gradients===. 
+{{Main|Latitudinal gradients in species diversity}} . 
+
+Generally, there is an increase in biodiversity from the [[poles]] to the [[tropics]]. Thus localities at lower [[latitudes]] have more species than localities at higher latitudes. This is often referred to as the latitudinal gradient in species diversity. Several ecological mechanisms may contribute to the gradient, but the ultimate factor behind many of them is the greater mean temperature at the equator compared to that of the poles. <ref>Currie, D. J., G. G. Mittelbach, H. V. Cornell, D. M. Kaufman, J. T. Kerr, T. Oberdorff, J.-F. Gu‚gan. 2004. A critical review of species-energy theory. Ecology Letters 7:1121-1134. </ref><ref>{{cite journal | author = Allen A. P., Gillooly J. F., Savage V. M., Brown J. H. | year = 2006 | title = Kinetic effects of temperature on rates of genetic divergence and speciation | url = | journal = PNAS | volume = 103 | issue = 24| pages = 9130–9135 |bibcode = 2006PNAS..103.9130A |doi = 10.1073/pnas.0603587103 | pmid = 16754845 | pmc = 1474011 }}</ref> . 
+
+Even though terrestrial biodiversity declines from the equator to the poles,<ref>{{cite journal | author = Hillebrand H | year = 2004 | title = On the generality of the latitudinal diversity gradient | url = | journal = The American Naturalist | volume = 163 | issue = 2| pages = 192–211 | doi = 10.1086/381004 | pmid = 14970922 }}</ref> some studies claim that this characteristic is unverified in [[aquatic ecosystems]], especially in [[marine ecosystems]]. <ref>{{cite web|url=http://www.springerlink.com/content/p2q719335u606034/fulltext.pdf |format=PDF|title=Moustakas, A. & I. Karakassis. How diverse is aquatic biodiversity research?, Aquatic Ecology, 39, 367-375 |work=}}</ref> The latitudinal distribution of parasites does not follow this rule. <ref name="MorandKrasnov2010">{{cite book|author1=Serge Morand|author2=Boris R. Krasnov|title=The Biogeography of Host-Parasite Interactions|url=http://books.google.com/books?id=08keK5vc888C&pg=PA93|accessdate=28 June 2011|date=1 September 2010|publisher=Oxford University Press|isbn=978-0-19-956135-3|pages=93–94}}</ref> Other instances of great diversity in higher latitudes have also been recorded.{{Citation needed|date=August 2010}} . 
+
+===Hotspots===. 
+A [[biodiversity hotspot]] is a region with a high level of [[Endemism|endemic]] species. Hotspots were first named in 1988 by Dr. [[Sabina Virk]]. <ref>{{cite journal | doi = 10.1007/BF02240252 | author = Myers N | year = 1988 | title = Threatened biotas: 'hot spots' in tropical forests | url = | journal = Environmentalist | volume = 8 | issue = 3| pages = 187–208 | pmid = 12322582 }}</ref><ref>{{cite journal | doi = 10.1007/BF02239720 | author = Myers N | year = 1990 | title = The biodiversity challenge: expanded hot-spots analysis | url = | journal = Environmentalist | volume = 10 | issue = 4| pages = 243–256 | pmid = 12322583 }}</ref> Many hotspots have large nearby human populations. <ref name="McKee2004">{{cite book|author=Jeffrey K. McKee|title=Sparing Nature: The Conflict Between Human Population Growth and Earth's Biodiversity|url=http://books.google.com/books?id=omgIyInG8qEC&pg=PA108|accessdate=28 June 2011|date=December 2004|publisher=Rutgers University Press|isbn=978-0-8135-3558-6|page=108}}</ref> While hotspots are spread all over the world, the majority are forest areas and most are located in the [[tropics]].  . 
+
+[[Brazil]]'s [[Atlantic Forest]] is considered one such hotspot, containing roughly 20,000 plant species, 1,350 vertebrates, and millions of insects, about half of which occur nowhere else. The island of [[Madagascar]], particularly the unique [[Madagascar dry deciduous forests]] and lowland rainforests, possess a high ratio of [[endemism]]. Since the island separated from mainland [[Africa]] 65 million years ago, many species and ecosystems have evolved independently. [[Indonesia]]'s 17,000 islands cover {{convert|735,355|sqmi}} contain 10% of the world's flowering plants, 12% of mammals and 17% of [[reptile]]s, [[amphibian]]s and [[bird]]s—along with nearly 240 million people. <ref>{{cite journal
+|journal=Science |date=10 September 2010:
+|volume=329
+|pmid=20829464 |issue=5997 |pages=1278–1280
+|doi=10.1126/science.329.5997.1278
+|url=http://www.sciencemag.org/content/329/5997/1278.summary?sid=3d8a15d7-279e-4177-a5f0-46743a80212a
+|title=Saving Forests to Save Biodiversity
+|first=Dennis |last=Normile
+|accessdate=December, 2010|bibcode = 2010Sci...329.1278N }}</ref>
+Many regions of high biodiversity and/or endemism arise from specialized [[habitat]]s which require unusual adaptations, for example [[alpine climate|alpine]] environments in high [[mountain]]s, or [[Northern Europe]]an peat [[bog]]s.  . 
+
+Accurately measuring differences in biodiversity can be difficult. [[Selection bias]] amongst researchers may contribute to biased empirical research for modern estimates of biodiversity. In 1768 Rev. [[Gilbert White]] succinctly observed of his [[Selborne|Selborne, Hampshire]] "all nature is so full, that that<!--"that" is correct--> district produces the most variety which is the most examined."<ref>White, ''The Natural History of Selborne'', letter xx 8 October 1768. </ref> . 
+
+==Evolution==. 
+{{Main|Evolution}}
+[[Image:Phanerozoic Biodiversity.png|thumb|300px|Apparent marine fossil diversity during the Phanerozoic<ref name="Rosing2010">{{cite pmid|20360739}}</ref>]] . 
+
+Biodiversity is the result of 3.5 billion years of [[evolution]].  The [[origin of life]] has not been definitely established by science, however some evidence suggests that life may already have been well-established only a few hundred million years after the [[age of the Earth|formation of the Earth]]. Until approximately 600 million years ago, all life consisted of [[archaea]], [[bacteria]], [[protozoan]]s and similar [[single-celled organism]]s.  . 
+
+The history of biodiversity during the [[Phanerozoic]] (the last 540 million years), starts with rapid growth during the [[Cambrian explosion]]—a period during which nearly every [[phylum (biology)|phylum]] of [[multicellular organism]]s first appeared. Over the next 400 million years or so, invertebrate diversity showed little overall trend, and vertebrate diversity shows an overall exponential trend. <ref name="Sahney, S. 2010"/> This dramatic rise in diversity was marked by periodic, massive losses of diversity classified as [[mass extinction]] events. <ref name="Sahney, S. 2010"/> A significant loss occurred when rainforests collapsed in the carboniferous. <ref name="SahneyBentonFerry2010RainforestCollapse"/> The worst was the Permo-Triassic extinction, 251 million years ago. Vertebrates took 30 million years to recover from this event. <ref name="SahneyBenton2008RecoveryFromProfoundExtinction"/> . 
+
+The [[fossil record]] suggests that the last few million years featured the greatest biodiversity in [[History of Earth|history]]. <ref name="Sahney, S. 2010"/> However, not all scientists support this view, since there is uncertainty as to how strongly the fossil record is biased by the greater availability and preservation of recent [[geology|geologic]] sections. Some scientists believe that corrected for sampling artifacts, modern biodiversity may not be much different from biodiversity 300 million years ago.,<ref>{{cite journal | pmid = 11353852 | year = 2001 | last1 = Alroy | first1 = J | last2 = Marshall | first2 = CR | last3 = Bambach | first3 = RK | last4 = Bezusko | first4 = K | last5 = Foote | first5 = M | last6 = Fursich | first6 = FT | last7 = Hansen | first7 = TA | last8 = Holland | first8 = SM | last9 = Ivany | first9 = LC | title = Effects of sampling standardization on estimates of Phanerozoic marine diversification | volume = 98 | issue = 11 | pages = 6261–6 | doi = 10.1073/pnas.111144698 | pmc = 33456 | journal = Proceedings of the National Academy of Sciences of the United States of America|bibcode = 2001PNAS...98.6261A }}</ref> whereas others consider the fossil record reasonably reflective of the diversification of life. <ref name="Sahney, S. 2010"/> Estimates of the present global macroscopic species diversity vary from 2 million to 100 million, with a best estimate of somewhere near 13–14 million, the vast majority [[arthropod]]s. <ref name=heywood>{{cite web|url=http://www.unep.org/ourplanet/imgversn/85/heywood.html |title=Mapping the web of life |publisher=Unep.org |date= |accessdate=2009-06-21}}</ref> Diversity appears to increase continually in the absence of natural selection. <ref>{{cite doi|10.1038/466318a}}</ref> . 
+
+===Evolutionary diversification===. 
+The existence of a "global carrying capacity", limiting the amount of life that can live at once, is debated, as is the question of whether such a limit would also cap the number of species. While records of life in the sea shows a [[logistic function|logistic]] pattern of growth, life on land (insects, plants and tetrapods)shows an [[exponential growth|exponential]] rise in diversity. As one author states, "Tetrapods have not yet invaded 64 per cent of potentially habitable modes, and it could be that without human influence the ecological and taxonomic diversity of tetrapods would continue to increase in an exponential fashion until most or all of the available ecospace is filled."<ref name="Sahney, S. 2010"/> . 
+
+On the other hand, changes through the [[Phanerozoic]] correlate much better with the [[Hyperbolic growth|hyperbolic]] model (widely used in [[population biology]], [[demography]] and [[macrosociology]], as well as [[fossil]] biodiversity) than with exponential and logistic models. The latter models imply that changes in diversity are guided by a first-order [[positive feedback]] (more ancestors, more descendants) and/or a [[negative feedback]] arising from resource limitation. Hyperbolic model implies a second-order positive feedback. The hyperbolic pattern of the [[world population]] growth arises from a second-order positive feedback between the population size and the rate of technological growth. <ref name="pmid18677962">{{cite journal |  pmid = 18677962 |  year = 2008 |  last1 = Markov |  first1 = AV |  last2 = Korotaev |  first2 = AV |  title = Hyperbolic growth of marine and continental biodiversity through the phanerozoic and community evolution |  volume = 69 |  issue = 3 |  pages = 175–94 |  journal = Journal of General Biology | url=http://elementy.ru/genbio/abstracts?artid=177}}</ref> The hyperbolic character of biodiversity growth can be similarly accounted for by a feedback between diversity and community structure complexity. The similarity between the curves of biodiversity and human population probably comes from the fact that both are derived from the interference of the hyperbolic trend with cyclical and [[stochastic]] dynamics. <ref name="pmid18677962"/><ref>
+{{cite journal |  doi=10.1016/j.palwor.2007.01.002 |  title=Phanerozoic marine biodiversity follows a hyperbolic trend |  year=2007 |  last1=Markov |  first1=A |  last2=Korotayev |  first2=A |  journal=Palaeoworld |  volume=16 |  issue=4 |  pages=311–318 }}</ref> . 
+
+Most biologists agree however that the period since human emergence is part of a new mass extinction, named the [[Holocene extinction event]], caused primarily by the impact humans are having on the environment. <ref>[http://www.amnh.org/museum/press/feature/biofact.html National Survey Reveals Biodiversity Crisis] American Museum of Natural History</ref> It has been argued that the present rate of extinction is sufficient to eliminate most species on the planet Earth within 100 years. <ref name=Wilson2002>{{Cite book|title=The Future of Life|author=Edward O. Wilson|year=2002|location=New York|publisher=Alfred A. Knopf|isbn=0-679-45078-5}}</ref> . 
+
+New species are regularly discovered (on average between 5–10,000 new species each year, most of them [[insect]]s) and many, though discovered, are not yet classified (estimates are that nearly 90% of all [[arthropod]]s are not yet classified). <ref name=heywood /> Most of the terrestrial diversity is found in [[tropical forest]]s.  . 
+
+==Human benefits==. 
+[[Image:Field Hamois Belgium Luc Viatour.jpg|thumb|left|upright|Summer field in [[Belgium]] (Hamois). The blue flowers are ''[[Centaurea cyanus]]'' and the red are ''[[Papaver rhoeas]]''.]] . 
+
+Biodiversity supports ecosystem services including air quality,<ref name="nature.com">{{cite journal |  doi=10.1038/387253a0 |  title=The value of the world's ecosystem services and natural capital |  year=1997 |  last1=Costanza |  first1=Robert |  last2=D'arge |  first2=Ralph |  last3=De Groot |  first3=Rudolf |  last4=Farber |  first4=Stephen |  last5=Grasso |  first5=Monica |  last6=Hannon |  first6=Bruce |  last7=Limburg |  first7=Karin |  last8=Naeem |  first8=Shahid |  last9=O'Neill |  first9=Robert V. |  journal=Nature |  volume=387 |  issue=6630 |  pages=253–260 |bibcode = 1997Natur.387..253C }}</ref> climate (e.g., [[carbon dioxide sequestration|{{chem|CO|2}} sequestration]]), water purification, [[pollination]], and prevention of [[erosion]]. <ref name="nature.com"/> . 
+
+Since the [[stone age]], species loss has accelerated above the prior rate, driven by human activity. Estimates of species loss are at a rate  100-10,000 times as fast as is typical in the fossil record. <ref name=Hassan2005>{{Cite book|title=Ecosystems and human well-being: current state and trends : findings of the Condition and Trends Working Group of the Millennium Ecosystem Assessment |last=Hassan |first=Rashid M. |authorlink= |coauthors= Robert Scholes, Neville Ash |year=2006 |publisher=Island Press |location= |isbn=1-55963-228-3, 9781559632287 |page=105 |url=http://books.google.com/?id=UFVmiSAr-okC&pg=PA105&dq=biodiversity+species+extinction+rates+estimated#v=onepage&q=biodiversity%20species%20extinction%20rates%20estimated&f=false }}</ref> . 
+
+Non-material benefits include spiritual and aesthetic values, knowledge systems and the value of education. <ref name=Hassan2005/> . 
+
+===Agriculture===. 
+{{See also|Agricultural biodiversity}}
+[[Image:Amazon Manaus forest.jpg|thumb|right|[[Amazon Rainforest]] in [[Brazil]]]] . 
+
+[[Crop diversity]] aids recovery when the dominant [[cultivar]] is attacked by a disease or predator:
+* The [[Great Famine (Ireland)|Irish potato blight]] of 1846 was a major factor in the deaths of one million people and the emigration of another million. It was the result of planting only two potato varieties, both vulnerable to the blight.{{Citation needed|date=December 2011}}
+*  When [[rice grassy stunt virus]] struck rice fields from Indonesia to India in the 1970s, 6,273 varieties were tested for resistance. <ref name=RGSV>{{cite web|url=http://www.lumrix.net/health/Rice_grassy_stunt_virus.html |title=Rice Grassy Stunt Virus |publisher=Lumrix.net |date= |accessdate=2009-06-21}}</ref> Only one was resistant, an Indian variety, and known to science only since 1966. <ref name=RGSV/> This variety formed a hybrid with other varieties and is now widely grown. <ref name=RGSV/>
+* [[Coffee rust]] attacked coffee plantations in Sri Lanka, Brazil, and Central America in 1970. A resistant variety was found in Ethiopia. <ref>{{cite journal | pmid = 6694743 | year = 1984 | last1 = Wahl | first1 = GM | author2 = Robert de Saint Vincent B | last3 = Derose | first3 = ML | title = Effect of chromosomal position on amplification of transfected genes in animal cells | volume = 307 | issue = 5951 | pages = 516–20 | journal = Nature | doi = 10.1038/307516a0 |bibcode = 1984Natur.307..516W }}</ref> Although the diseases are themselves a form of biodiversity.  . 
+
+[[Monoculture]] was a contributing factor to several agricultural disasters, including the European wine industry collapse in the late 19th century, and the [[Waxy corn#History|US Southern Corn Leaf Blight]] epidemic of 1970. <ref>{{cite web|url=http://cropdisease.cropsci.illinois.edu/corn/southerncornleafblight.html |title=Southern Corn Leaf Blight |accessdate=2007-11-13 |work=}}</ref> . 
+
+Although about 80 percent of humans' food supply comes from just 20 kinds of plants,{{Citation needed|date=September 2009}} humans use at least 40,000 species.{{Citation needed|date=September 2009}} Many people depend on these species for food, shelter, and clothing.{{Citation needed|date=September 2009}} Earth's surviving biodiversity provides resources for increasing the range of food and other products suitable for human use, although the present extinction rate shrinks that potential. <ref name=Wilson2002 /> . 
+
+===Human health===. 
+[[Image:Forest fruits from Barro Colorado.png|thumb|upright|The diverse forest canopy on [[Barro Colorado Island]], Panama, yielded this display of different fruit]] . 
+
+Biodiversity's relevance to human health is becoming an international political issue, as scientific evidence builds on the global health implications of biodiversity loss. <ref>
+[http://www.cohabnet.org/en_resources_reports.htm Reports of the 1st and 2nd International Conferences on Health and Biodiversity.] See also: [http://www.cohabnet.org/ Website of the UN COHAB Initiative]</ref><ref name="biodiversity1">
+Chivian E. & Bernstein A. (eds), 2008. ''Sustaining Life: How Human Health Depends on Biodiversity''</ref><ref>
+Corvalan C. ''et al.'', 2005 ''Ecosystems and Human Well-being: Health Synthesis''. A report of the Millennium Ecosystem Assessment</ref> This issue is closely linked with the issue of climate change,<ref>
+(2009) "Climate Change and Biological Diversity" Convention on Biological Diversity Retrieved November 5, 2009, From http://www.cbd.int/climate/</ref> as many of the anticipated health risks of climate change are associated with changes in biodiversity (e.g. changes in populations and distribution of disease vectors, scarcity of fresh water, impacts on agricultural biodiversity and food resources etc.) This is because the species most likely to disappear are those that buffer against infectious disease transmission, while surviving species tend to be the ones that increase disease transmission, such as that of West Nile Virus, Lyme disease and Hantavirus, according to a study done co-authored by Felicia Keesing, and ecologist at Bard College, and Drew Harvell, associate director for Environment of the [[Atkinson Center for a Sustainable Future]] (ACSF) at [[Cornell University]]. <ref>{{cite news|last=Ramanujan|first=Krishna|title=Study: Loss of species is bad for your health|url=http://www.news.cornell.edu/stories/Dec10/BiodiversityHealth.html|accessdate=20 July 2011|newspaper=Cornell Chronicle|date=2 December 2010}}</ref> . 
+
+The growing demand and lack of drinkable water on the planet presents an additional challenge to the future of human health. Partly, the problem lies in the success of water suppliers to increase supplies, and failure of groups promoting preservation of water resources. <ref>Water and Development: An Evaluation of World Bank Support, 1997-2007. Vol.I., p.79. </ref> While the distribution of clean water increases, in some parts of the world it remains unequal. According to ''2008 World Population Data Sheet'', only 62% of least developed countries are able to access clean water. <ref>Population Bulletin. Vol.63., No.3., p.8. </ref> . 
+
+Some of the health issues influenced by biodiversity include dietary health and nutrition security, infectious disease, medical science and medicinal resources, social and psychological health. <ref>{{cite journal | doi = 10.1098/rsbl.2007.0149 | title = Psychological benefits of greenspace increase with biodiversity | year = 2007 | last1 = Gaston | first1 = Kevin J. | last2 = Warren | first2 = Philip H. | last3 = Devine-Wright | first3 = Patrick | last4 = Irvine | first4 = Katherine N. | last5 = Fuller | first5 = Richard A. | journal = Biology Letters | volume = 3 | issue = 4 | pages = 390–394 | pmid = 17504734 | pmc = 2390667 }}</ref> Biodiversity is also known to have an important role in reducing disaster risk, and in post-disaster relief and recovery efforts. <ref>{{cite web|url=http://www.cohabnet.org/en_issues.htm |title=COHAB Initiative: Biodiversity and Human Health - the issues |publisher=Cohabnet.org |date= |accessdate=2009-06-21}}</ref><ref>{{cite web|url=http://wwf.panda.org/what_we_do/how_we_work/protected_areas/arguments_for_protection/publications/ |title=World Wildlife Fund (WWF): "Arguments for Protection" website |publisher=Wwf.panda.org |date= |accessdate=2011-09-24}}</ref> . 
+
+Biodiversity provides critical support for drug discovery and the availability of medicinal resources. <ref>
+(2006) "Molecular Pharming" GMO Compass Retrieved November 5, 2009, [http://www.gmo-compass.org/eng/home/ GMOcompass.org]</ref> A significant proportion of drugs are derived, directly or indirectly, from biological sources: at least 50% of the pharmaceutical compounds on the US market are derived from plants, animals, and [[micro-organisms]], while about 80% of the world population depends on medicines from nature (used in either modern or traditional medical practice) for primary healthcare. <ref name="biodiversity1"/> Only a tiny fraction of wild species has been investigated for medical potential. Biodiversity has been critical to advances throughout the field of [[bionics]]. Evidence from market analysis and biodiversity science indicates that the decline in output from the pharmaceutical sector since the mid-1980s can be attributed to a move away from natural product exploration ("bioprospecting") in favor of genomics and synthetic chemistry; meanwhile, natural products have a long history of supporting significant economic and health innovation. <ref>
+Harvey L., 2008. ''Natural products in drug discovery''. Drug Discovery Today</ref><ref>{{cite journal | doi = 10.1038/clpt.1992.1 | author = Hawkins E.S., Reich  | year = 1992 | last2 = Reich | first2 = MR | title = Japanese-originated pharmaceutical products in the United States from 1960 to 1989: an assessment of innovation | url = | journal = Clin Pharmacol Ther | volume = 51 | issue = 1| pages = 1–11 | pmid = 1732073 }}</ref> Marine ecosystems are particularly important,<ref>{{cite journal | last1=Roopesh |first1=J. |title=Marine organisms: Potential Source for Drug Discovery |journal =  [[Current Science]] |volume= 94 |issue= 3 | page=292 |date= 10 February 2008 | url=http://www.ias.ac.in/currsci/feb102008/292.pdf | format=PDF | display-authors=1 | author2=<Please add first missing authors to populate metadata.> }}</ref> although inappropriate [[bioprospecting]] can increase biodiversity loss, as well as violating the laws of the communities and states from which the resources are taken. <ref>{{cite journal | pmid = 12436849 | year = 2002 | last1 = Dhillion | first1 = SS | last2 = Svarstad | first2 = H | last3 = Amundsen | first3 = C | last4 = Bugge | first4 = HC | title = Bioprospecting: Effects on environment and development | volume = 31 | issue = 6 | pages = 491–3 | journal = Ambio | jstor=4315292}}</ref><ref>{{cite journal | doi=10.1136/bmj.330.7504.1350-d | title=Looking for new compounds in sea is endangering ecosystem | last1=Cole | first1=A. | journal=[[BMJ]] | volume=330 | issue=7504 | page=1350 |date=2005-07-16 }}</ref><ref>{{cite web|url=http://www.cohabnet.org/en_issue4.htm |title=COHAB Initiative - on Natural Products and Medicinal Resources |publisher=Cohabnet.org |date= |accessdate=2009-06-21}}</ref> . 
+
+===Business and industry===. 
+[[Image:Ueberladewagen (jha).jpg|thumb|right|[[Agriculture]] production, pictured is a [[tractor]] and a  [[chaser bin]]]]
+Many industrial materials derive directly from biological sources. These include building materials, fibers, dyes, rubber and oil. Biodiversity is also important to the security of resources such as water, timber, paper, fiber, and food. <ref>
+IUCN, WRI, [[World Business Council for Sustainable Development]], Earthwatch Inst. 2007 ''Business and Ecosystems: Ecosystem Challenges and Business Implications''</ref><ref>
+Millennium Ecosystem Assessment 2005 ''Ecosystems and Human Well-being: Opportunities and Challenges for Business and Industry''</ref><ref>{{cite web|url=http://www.cbd.int/business |title=Business and Biodiversity webpage of the U.N. Convention on Biological Diversity |publisher=Cbd.int |date= |accessdate=2009-06-21}}</ref> As a result, biodiversity loss is a significant risk factor in business development and a threat to long term economic sustainability. <ref>
+[http://www.wri.org/publication/corporate-ecosystem-services-review WRI Corporate Ecosystem Services Review.] See also: [http://www.wri.org/project/ecosystem-services-review Examples of Ecosystem-Service Based Risks, Opportunities and Strategies]</ref> . 
+
+===Leisure, cultural and aesthetic value===. 
+Biodiversity enriches leisure activities such as [[hiking]], [[birdwatching]] or natural history study. Biodiversity inspires [[musician]]s, painters, sculptors, writers and other artists. Many cultures view themselves as an integral part of the natural world which requires them to respect other living organisms.  . 
+
+Popular activities such as [[gardening]], [[fishkeeping]] and specimen collecting strongly depend on biodiversity. The number of species involved in such pursuits is in the tens of thousands, though the majority do not enter commerce.  . 
+
+The relationships between the original natural areas of these often exotic animals and plants and commercial collectors, suppliers, breeders, propagators and those who promote their understanding and enjoyment are complex and poorly understood. The general public responds well to exposure to rare and unusual organisms, reflecting their inherent value.  . 
+
+Philosophically it could be argued that biodiversity has intrinsic aesthetic and spiritual value to [[Human|mankind]] ''in and of itself''. This idea can be used as a counterweight to the notion that [[tropical forest]]s and other ecological realms are only worthy of conservation because of the services they provide.{{Citation needed|date=December 2010}} . 
+
+===Ecological services===. 
+{{See also|Ecological effects of biodiversity}}
+[[Image:Eaglecreek-28July2006.jpg|thumb|upright|[[Eagle Creek (Multnomah County, Oregon)|Eagle Creek]], Oregon hiking]] . 
+
+Biodiversity supports many [[ecosystem services]] that are often not readily visible. It plays a part in regulating the chemistry of our [[atmosphere]] and [[water supply]]. Biodiversity is directly involved in [[water purification]], recycling [[nutrient]]s and providing fertile soils. Experiments with controlled environments have shown that humans cannot easily build ecosystems to support human needs; for example [[entomophily|insect pollination]] cannot be mimicked, and that activity alone represents tens of billions of dollars in [[ecosystem services]] per year to humankind.{{Citation needed|date=December 2010}} . 
+
+[[Daisyworld]] simulations, supported by evidence from scientific studies, has proven the positive co-relation of biodiversity with [[Ecological effects of biodiversity|ecosystem stability]], protecting against disruption by extreme weather or human exploitation. <ref name="Lovelock2000">{{cite book|author=James Lovelock|title=The ages of Gaia: a biography of our living Earth|url=http://books.google.com/books?id=xW_T4jV9mFAC&pg=PA215|accessdate=27 June 2011|date=28 September 2000|publisher=Oxford University Press|isbn=978-0-19-286217-4|pages=213–216}}</ref> . 
+
+==Number of species==. 
+{{Main|Species}}
+[[Image:Undiscovered species chart.png|thumb|center|500px|Undiscovered and discovered species]]
+According to the Global Taxonomy Initiative<ref>{{cite web|url=http://www.cbd.int/gti/problem.shtml |title=Global taxonomy initiative stating that only 50 of arthropods and 5% of protozoa are already described |publisher=Cbd.int |date= |accessdate=2011-09-24}}</ref> and the European Distributed Institute of Taxonomy, the ''total'' number of species for some phyla may be much higher than what was known in 2010:
+* 10–30 million [[insect]]s;<ref>{{cite web|url=http://www.si.edu/Encyclopedia_SI/nmnh/buginfo/bugnos.htm |title=Encyclopedia Smithsonian: Numbers of Insects |publisher=Si.edu |date= |accessdate=2009-06-21}}</ref> (of some 0.9 million we know today)<ref name="Le Monde newspaper article">[http://www.lemonde.fr/planete/article/2006/06/27/protection-de-la-biodiversite-un-inventaire-difficile_788741_3244.html Le Monde newspaper article] (in ''[[French language|French]]'')</ref>
+* 5–10 million [[bacteria]];<ref>Proceedings of the National Academy of Sciences, Census of Marine Life (CoML)
+[http://news.bbc.co.uk/2/hi/science/nature/5232928.stm News.BBC.co.uk]</ref>
+* 1.5 million [[fungi]];(of some 0.075 million we know today)<ref name="Hawksworth">{{cite journal | doi =10.1017/S0953756201004725 | title =The magnitude of fungal diversity: The 1.5 million species estimate revisited | year =2001 | last1 =Hawksworth | first1 =D | journal =[[Mycological Research]] | volume =105 | issue =12 | pages =1422–1432 }}</ref>
+* 1 million [[mite]]s<ref>{{cite web|url=http://insects.ummz.lsa.umich.edu/ACARI/index.html |title=Acari at University of Michigan Museum of Zoology Web Page |publisher=Insects.ummz.lsa.umich.edu |date=2003-11-10 |accessdate=2009-06-21}}</ref>
+* The number of [[microbial]] species is not reliably known, but the [[Global Ocean Sampling Expedition]] dramatically increased the estimates of genetic diversity by identifying an enormous number of new genes from near-surface [[plankton]] samples at various marine locations, initially over the 2004-2006 period. <ref>{{cite web|url=http://www.jcvi.org/cms/fileadmin/site/research/projects/gos/Expedition_Overview.pdf
+|format=PDF |publisher=[[J. Craig Venter Institute]] |title=Fact Sheet - Expedition Overview |accessdate=August, 2010}}</ref> The findings may eventually cause a significant change in the way science defines [[species]] and other taxonomic categories. <ref>{{cite web|last=Mirsky |first=Steve |work=Scientific American |title=Naturally Speaking: Finding Nature's Treasure Trove with the Global Ocean Sampling Expedition |date=March 21, 2007 |accessdate=4 May 2011 | url=http://www.scientificamerican.com/podcast/episode.cfm?id=74F46951-E7F2-99DF-37873C5B678DC19D }}</ref><ref>{{cite web|url=http://www.ploscollections.org/article/browseIssue.action?issue=info:doi/10.1371/issue.pcol.v06.i02 |title=Article collections published by the Public Library of Science |publisher=PLoS Collections |date= |accessdate=2011-09-24}}</ref> . 
+
+Since the rate of extinction has increased, many extant species may become extinct before they are described. <ref>{{cite news | url=http://www.guardian.co.uk/science/2005/sep/25/taxonomy.conservationandendangeredspecies |title=Discovery of new species and extermination at high rate |newspaper=The Guardian | location=London |first=Robin |last=McKie |date=2005-09-25}}</ref> . 
+
+==Species loss rates==. 
+{{Quote box |quote = "No longer do we have to justify the existence of humid tropical forests on the feeble grounds that they might carry plants with with drugs that cure human disease. [[Gaia hypothesis|Gaia theory]] forces us to see that they offer much more than this. Through their capacity to evapotranspirate vast volumes of water vapor, they serve to keep the planet cool by wearing a sunshade of white reflecting cloud. Their replacement by cropland could precipitate a disaster that is global in scale" |source = [[James Lovelock]], in ''Biodiversity'' ([[E. O. Wilson]] (Ed)). <ref name="LeakeyLewin1996">{{cite book|author1=Richard E. Leakey|author2=Roger Lewin|title=The sixth extinction: biodiversity and its survival|url=http://books.google.com/books?id=reogHQAACAAJ|accessdate=27 June 2011|date=4 November 1996|publisher=Phoenix|isbn=978-1-85799-473-5|pages=137–142}}</ref>|| style="width:40%;"|align = right}} . 
+
+During the last century, decreases in biodiversity have been increasingly observed. In 2007, German Federal Environment Minister Sigmar Gabriel cited estimates that up to 30% of all species will be extinct by 2050. <ref>{{cite news | url=http://news.bbc.co.uk/2/hi/science/nature/6432217.stm | title= 30% of all species lost by 2050 |work=[[BBC News]] | first=Sigmar | last=Gabriel | date=2007-03-09}}</ref> Of these, about one eighth of known plant species are threatened with [[extinction]]. <ref name="Reid Reversing loss of Biodiversity">{{cite web|url=http://ag.arizona.edu/OALS/ALN/aln37/reid.html |title=Reid Reversing loss of Biodiversity|publisher=Ag.arizona.edu |date= |accessdate=2009-06-21}}</ref> Estimates reach as high as 140,000 species per year (based on [[Species-area curve|Species-area theory]]). <ref>{{cite journal | doi = 10.1126/science.269.5222.347 | title = The Future of Biodiversity | year = 1995 | last1 = Pimm | first1 = S. L. | last2 = Russell | first2 = G. J. | last3 = Gittleman | first3 = J. L. | last4 = Brooks | first4 = T. M. | journal = Science | volume = 269 | issue = 5222 | pages = 347–350 | pmid = 17841251 |url=http://cmbc.ucsd.edu/content/1/docs/Pimm_et_al_1995.pdf | format=PDF |bibcode = 1995Sci...269..347P }}</ref> This figure indicates [[sustainability|unsustainable]] ecological practices, because few species emerge each year.{{Citation needed|date=April 2011}} Almost all scientists acknowledge that the rate of species loss is greater now than at any time in human history, with extinctions occurring at rates hundreds of times higher than [[background extinction]] rates. <ref name="Reid Reversing loss of Biodiversity"/> . 
+
+==Threats==<!-- HIPPO redirects here -->
+[[Jared Diamond]] describes an "Evil Quartet" of habitat destruction, overkill, introduced species, and secondary extinctions. <ref>{{cite book
+|title=Wildlife Issues in a Changing World, Second Edition [Paperback]|first1=James |last1=Sanderson |first2=Michael |last2=Moulton
+|publisher=CRC Press
+|date=August 18, 1998
+|isbn= 978-1-56670-351-2}}</ref> [[Edward O. Wilson]] prefers the [[acronym]] HIPPO, standing for habitat destruction, invasive species, pollution, human over population, and over-harvesting. <ref>{{Cite book|title=The Jurisdynamics of Environmental Protection: Change and the Pragmatic |author=Jim Chen|chapter=Across the Apocalypse on Horseback: Imperfect Legal Responses to Biodiversity Loss|page=197|year=2003|publisher=Environmental Law Institute|isbn=1-58576-071-4}}</ref><ref>{{Cite book|title=Windows on the Wild: Science and Sustainabiliy|chapter=Hippo dilemma|year=2005|publisher=New Africa Books|isbn=1-86928-380-5}}</ref> The most authoritative classification in use today is [[IUCN]]’s Classification of Direct Threats<ref>{{cite web|url=http://www.conservationmeasures.org/initiatives/threats-actions-taxonomies/threats-taxonomy |title=IUCN's Classification of Direct Threats |publisher=Conservationmeasures.org |date= |accessdate=2011-09-24}}</ref> which has been adopted by major international conservation organizations such as the US [[Nature Conservancy]], the [[World Wildlife Fund]], [[Conservation International]], and [[Birdlife International]].  . 
+
+===Habitat destruction===. 
+[[Image:Amazonie deforestation.jpg|thumb|[[Deforestation]] and increased road-building in the [[Amazon Rainforest]] are a significant concern because of increased human encroachment upon wild areas, increased resource extraction and further threats to biodiversity.]] . 
+
+{{Main|Habitat destruction}}
+[[habitat (ecology)|Habitat]] destruction has played a key role in extinctions, especially related to [[tropical forest]] destruction. <ref>Paul Ehrlich and Anne Ehrlich, ''Extinction'', Random House, New York (1981) ISBN 0-394-51312-6</ref> Factors contributing to habitat loss are: [[overpopulation]], [[deforestation]],<ref>
+C.Michael Hogan. 2010. [http://www.eoearth.org/article/Deforestation ''Deforestation''] Encyclopedia of Earth. ed. C.Cleveland. NCSE. Washington DC</ref> [[pollution]] ([[air pollution]], [[water pollution]], [[soil contamination]]) and [[global warming]] or climate change.{{Citation needed|date=December 2010}} . 
+
+Habitat size and numbers of species are systematically related. Physically larger species and those living at lower latitudes or in forests or oceans are more sensitive to reduction in habitat area. <ref>{{cite journal | doi = 10.1111/j.1461-0248.2005.00848.x | title = The imprint of the geographical, evolutionary and ecological context on species-area relationships | year = 2006 | last1 = Drakare | first1 = Stina | last2 = Lennon | first2 = Jack J. | last3 = Hillebrand | first3 = Helmut | journal = Ecology Letters | volume = 9 | issue = 2 | pages = 215–227 | pmid = 16958886 }}</ref> Conversion to "trivial" standardized ecosystems (e.g., [[monoculture]] following [[deforestation]]) effectively destroys habitat for the more diverse species that preceded the conversion. In some countries lack of property rights or lax law/regulatory enforcement necessarily leads to biodiversity loss (degradation costs having to be supported by the community).{{Citation needed|date=August 2010}} . 
+
+A 2007 study conducted by the [[National Science Foundation]] found that biodiversity and [[genetic diversity]] are codependent—that diversity among species requires diversity within a species, and vice versa. "If any one type is removed from the system, the cycle can break down, and the community becomes dominated by a single species."<!-- the quote doesn't talk about genetic diversity --><ref name=enn>{{cite web|url=http://www.enn.com/wildlife/article/23391 |title=Study: Loss Of Genetic Diversity Threatens Species Diversity |publisher=Enn.com |date=2007-09-26 |accessdate=2009-06-21}}</ref>
+At present, the most threatened ecosystems are found in [[fresh water]], according to the [[Millennium Ecosystem Assessment]] 2005, which was confirmed by the "Freshwater Animal Diversity Assessment", organised by the [[GBIF|biodiversity platform]], and the French [[Institut de recherche pour le développement]] (MNHNP). <ref>[http://www.scienceconnection.be/ Science Connection 22] (July 2008)</ref> . 
+
+Co-extinctions are a form of habitat destruction. Co-extinction occurs when the extinction or decline in one accompanies the other, such as in plants and beetles. <ref>{{cite journal | doi = 10.1126/science.1101101 | author = Koh L. P., Dunn R. R., Sodhi N. S., Colwell R. K., Proctor H. C., Smith V. S. | year = 2004 | title = Species Coextinctions and the Biodiversity Crisis | url = http://www4.ncsu.edu/~rrdunn/KohDunnetal.pdf| archiveurl = http://web.archive.org/web/20090326052836/http://www4.ncsu.edu/~rrdunn/KohDunnetal.pdf| archivedate = 2009-03-26| format = PDF | journal = Science | volume = 305 | issue = 5690| pages = 1632–4 | pmid = 15361627 |bibcode = 2004Sci...305.1632K }}</ref> . 
+
+===Introduced and invasive species===. 
+{{Main|Introduced species|Invasive species}}
+{{Unreferenced section|date=May 2011}}
+[[Image:Male Silver Pheasant.jpg|thumb|right|Male ''Lophura nycthemera'' ([[Silver Pheasant]]), a native of [[East Asia]] that has been introduced into parts of [[Europe]] for ornamental reasons]]
+Barriers such as large [[rivers]], [[sea]]s, [[oceans]], [[mountains]] and [[deserts]] encourage diversity by enabling independent evolution on either side of the barrier. [[Invasive species]] occur when those barriers are blurred. Without barriers such species occupy new niches, substantially reducing diversity. Repeatedly humans have helped these species circumvent these barriers, introducing them for food and other purposes. This has occurred on a time scale much shorter than the eons that historically have been required for a species to extend its range.  . 
+
+Not all introduced species are invasive, nor all invasive species deliberately introduced. In cases such as the [[zebra mussel]], [[invasive species|invasion]] of US waterways was unintentional. In other cases, such as [[mongoose]]s in [[Hawaii]], the introduction is deliberate but ineffective ([[nocturnal]] [[rat]]s were not vulnerable to the [[diurnality|diurnal]] mongoose). In other cases, such as [[oil palm]]s in Indonesia and Malaysia, the introduction produces substantial economic benefits, but the benefits are accompanied by costly [[unintended consequences]].  . 
+
+Finally, an introduced species may unintentionally injure a species that depends on the species it replaces. In [[Belgium]], [[Prunus spinosa]] from Eastern Europe leafs much sooner than its West European counterparts, disrupting the feeding habits of the [[Thecla betulae]] butterfly (which feeds on the leaves). Introducing new species often leaves endemic and other local species unable to compete with the exotic species and unable to survive. The exotic organisms may be [[predator]]s, [[parasite]]s, or may simply outcompete indigenous species for nutrients, water and light.  . 
+
+At present, several countries have already imported so many exotic species, particularly agricultural and ornamental plants, that their own indigenous fauna/flora may be outnumbered.  . 
+
+====Genetic pollution====. 
+{{Main|Genetic pollution}} . 
+
+Endemic species can be threatened with [[extinction]]<ref>{{cite journal | doi = 10.1073/pnas.091093398 | title = The evolutionary impact of invasive species | year = 2001 | last1 = Mooney | first1 = H. A. | journal = Proceedings of the National Academy of Sciences | volume = 98 | issue = 10 | pages = 5446–5451 | pmid=11344292|bibcode = 2001PNAS...98.5446M | pmc=33232 | last2 = Cleland | first2 = EE}}</ref> through the process of [[genetic pollution]], i.e. uncontrolled [[Hybrid (biology)|hybridization]], [[introgression]] and genetic swamping. Genetic pollution leads to homogenization or replacement of local [[genomes]] as a result of either a numerical and/or [[Fitness (biology)|fitness]] advantage of an introduced species. <ref>{{cite web|url=http://www.nativeseednetwork.org/article_view?id=13 |title=Glossary: definitions from the following publication: Aubry, C., R. Shoal and V. Erickson. 2005. Grass cultivars: their origins, development, and use on national forests and grasslands in the Pacific Northwest. USDA Forest Service. 44 pages, plus appendices.; Native Seed Network (NSN), Institute for Applied Ecology, 563 SW Jefferson Ave, Corvallis, OR 97333, USA |publisher=Nativeseednetwork.org |date= |accessdate=2009-06-21}}</ref>
+Hybridization and introgression are side-effects of introduction and invasion. These phenomena can be especially detrimental to [[rare species]] that come into contact with more abundant ones. The abundant species can interbreed with the rare species, swamping its [[gene pool]]. This problem is not always apparent from [[morphology (biology)|morphological]] (outward appearance) observations alone. Some degree of [[gene flow]] is normal adaptation, and not all [[gene]] and [[genotype]] constellations can be preserved. However, hybridization with or without introgression may, nevertheless, threaten a rare species' existence. <ref>{{cite journal | doi = 10.1146/annurev.ecolsys.27.1.83 | title = Extinction by Hybridization and Introgression | year = 1996 | last1 = Rhymer | first1 = Judith M. | last2 = Simberloff | first2 = Daniel | journal = Annual Review of Ecology and Systematics | volume = 27 | pages = 83–109 | jstor = 2097230 }}</ref><ref>
+[http://www.rirdc.gov.au/reports/AFT/01-114.pdf RIRDC.gov.au], Genetic Pollution from Farm Forestry using!! eucalypt species and hybrids; A report for the RIRDC/L&WA/FWPRDC; Joint Venture Agroforestry Program; by Brad M. Potts, Robert C. Barbour, Andrew B. Hingston; September 2001; RIRDC Publication No 01/114; RIRDC Project No CPF - 3A; ISBN 0-642-58336-6; ISSN 1440-6845; Australian Government, Rural Industrial Research and Development Corporation{{Dead link|date=June 2009}}</ref> . 
+
+===Overexploitation===. 
+{{Main|Overexploitation}} . 
+
+Overexploitation occurs when a resource is consumed at an unsustainable rate. This occurs on land in the form of [[overhunting]], excessive [[logging]], poor [[soil conservation]] in agriculture and the illegal [[wildlife trade]]. Joe Walston, director of the Wildlife Conservation Society’s Asian programs, called the latter the "single largest threat" to biodiversity in Asia. <ref>"[http://green.blogs.nytimes.com/2010/09/03/vietnam-raids-restaurants-selling-illegal-exotic-meats/VietnamRaids Restaurants Selling Exotic Meats]{{dead link|date=May 2011}}" ''[[The New York Times]]''. September 3, 2010</ref> The international trade of [[endangered species]] is second in size only to drug trafficking. <ref>"[http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/11/TR10T8RBN.DTL Will traditional Chinese medicine mean the end of the wild tiger?]". San Francisco Chronicle. November 11, 2007. </ref> . 
+
+About 25% of world [[fishery|fisheries]] are now overfished to the point where their current biomass is less than the level that maximizes their sustainable yield. <ref>{{cite journal | doi = 10.1126/science.1146017 | title = Economics of Overexploitation Revisited | year = 2007 | last1 = Grafton | first1 = R. Q. | last2 = Kompas | first2 = T. | last3 = Hilborn | first3 = R. W. | authorlink3=Ray Hilborn | journal = Science | volume = 318 | issue = 5856 | pages = 1601–1601  |bibcode = 2007Sci...318.1601G }}</ref> . 
+
+The [[overkill hypothesis]] explains why earlier [[megafauna]]l extinctions occurred within a relatively short period of time. This can be connected with [[human migration]]. <ref>{{Cite journal
+  | last = Burney
+  | first = D. A. 
+  | authorlink =
+  | coauthors = Flannery, T. F. 
+  | title = Fifty millennia of catastrophic extinctions after human contact
+  | journal = Trends in Ecology & Evolution
+  | volume = 20
+  | issue = 7
+  | pages = 395–401
+  | publisher = [[Elsevier]]
+  | date = July 2005
+  | url = http://www.anthropology.hawaii.edu/Fieldschools/Kauai/Publications/Publication%204.pdf
+  | doi = 10.1016/j.tree.2005.04.022
+  | accessdate = 2009-06-12
+  | pmid = 16701402}}</ref> . 
+
+===Hybridization, genetic pollution/erosion and food security===. 
+[[Image:Wheat selection k10183-1.jpg|right|thumb|The Yecoro [[wheat]] (right) [[cultivar]] is sensitive to salinity, plants resulting from a hybrid cross with cultivar W4910 (left) show greater tolerance to high salinity]]
+{{See also|Food Security|Genetic erosion}} . 
+
+In [[agriculture]] and [[animal husbandry]], the [[Green Revolution]] popularized the use of conventional [[Hybrid (biology)|hybrid]]ization to increase yield. Often hybridized breeds originated in developed countries and were further hybridized with local varieties in the developing world to create high yield strains resistant to local climate and diseases. Local governments and industry have been pushing hybridization. Formerly huge gene pools of various wild and indigenous breeds have collapsed causing widespread [[genetic erosion]] and genetic pollution. This has resulted in loss of [[genetic diversity]] and biodiversity as a whole. <ref name="bulletin28">[http://www.farmedia.org/bulletins/bulletin28.html "Genetic Pollution: The Great Genetic Scandal"; ]</ref> . 
+
+[[Genetically modified organism|(GM organisms)]] have genetic material altered by [[genetic engineering]] procedures such as [[recombinant DNA technology]]. GM crops have become a common source for genetic pollution, not only of wild varieties but also of domesticated varieties derived from classical hybridization. <ref>{{Cite news|last=Pollan |first=Michael |url=http://query.nytimes.com/gst/fullpage.html?res=9C01E6DE143CF93AA35751C1A9679C8B63 |title=The year in ideas: A TO Z.; Genetic Pollution; By Michael Pollan, The New York Times, December 9, 2001 |publisher=New York Times |date=2001-12-09 |accessdate=2009-06-21}}</ref><ref>{{Cite book|url=http://www.nature.com/nbt/journal/v22/n1/full/nbt0104-29.html |title=Dangerous Liaisons? When Cultivated Plants Mate with Their Wild Relatives |first=Norman C. |last=Ellstrand |publisher=The Johns Hopkins University Press |year=2003 |isbn=0-8018-7405-X}} Reviewed in {{Cite journal|title=Hybrids abounding |journal=Nature Biotechnology |volume=22 |pages=29–30 |doi=10.1038/nbt0104-29 |first1=Steven H |last1=Strauss |first2=Stephen P |last2=DiFazio |publisher=Nature.com |date=2004-01-01|issue=1}}</ref><ref>{{Cite book|url=http://www.fao.org/DOCREP/003/X3910E/X3910E00.htm |title=Genetic pollution: Uncontrolled spread of genetic information (frequently referring to transgenes) into the genomes of organisms in which such genes are not present in nature. |author=Zaid, A. |year=1999 |publisher=Fao.org |issue=7 |isbn=92-5-104369-8 |accessdate=2009-06-21|display-authors=1 |work=Glossary of biotechnology and genetic engineering.}}</ref><ref>[http://plpa.cfans.umn.edu/~neviny/agri1501/definitions.html "Genetic pollution: Uncontrolled escape of genetic information (frequently referring to products of genetic engineering) into the genomes of organisms in the environment where those genes never existed before." Searchable Biotechnology Dictionary]{{dead link|date=May 2011}}, [[University of Minnesota]], [http://iufro-archive.boku.ac.at/silvavoc/glossary/6_0en.html Boku.ac.at]</ref><ref>{{Cite journal|url=http://www.scienzagiovane.unibo.it/English/pollution/2-facets.html |title=The many facets of pollution |publisher=Bologna University |journal=Scienzagiovane.unibo.it |accessdate=2009-06-21|author1=<Please add first missing authors to populate metadata.>}}</ref> . 
+
+Genetic erosion coupled with genetic pollution may be destroying unique genotypes, thereby creating a hidden crisis which could result in a severe threat to our [[food security]]. Diverse genetic material could cease to exist which would impact our ability to further hybridize food crops and livestock against more resistant diseases and climatic changes. <ref name="bulletin28" /><!--this argument seems circular. hybridization is bad because...it limits future hybridization. so...the more genetic engineering the better so as to limit future hybridization? just sayin'...--> . 
+
+===Climate Change===. 
+{{Main|Effect of climate change on plant biodiversity}}
+[[Image:Polar bears near north pole.jpg|thumb|right|[[Polar bear]]s on the sea ice of the [[Arctic Ocean]], near the [[North Pole]]. Climate change has started affecting bear populations.]] . 
+
+[[Global warming]] is also considered to be a major threat to global biodiversity.{{Citation needed|date=December 2008}} For example coral reefs -which are biodiversity hotspots- will be lost in 20 to 40 years if global warming continues at the current trend. <ref>{{cite web |date=2008-12-10 |url=http://www.mnn.com/earth-matters/wilderness-resources/stories/15-of-coral-reefs-already-lost-much-more-feared |title=Coral reefs to be destroyed in 20-40 years |publisher=Mnn.com |accessdate=2009-06-21}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> . 
+
+In 2004, an international collaborative study on four continents estimated that 10 percent of species would become extinct by 2050 because of [[global warming]]. "We need to limit climate change or we wind up with a lot of species in trouble, possibly extinct," said Dr. Lee Hannah, a co-author of the paper and chief climate change biologist at the Center for Applied Biodiversity Science at Conservation International. <ref>{{Cite news|url=http://www.guardian.co.uk/science/2004/jan/08/biodiversity.sciencenews|title=  An unnatural disaster|date= 2004-01-08|accessdate=2009-06-21 | location=London | first=Paul |last=Brown | work=The Guardian}}</ref> . 
+
+===Overpopulation===. 
+From 1950 to 2011, world population increased from 2.5 billion to 7 billion and is forecast to reach a plateau of more than 9 billion during the 21st century. <ref>"[http://www.prb.org/educators/teachersguides/humanpopulation/populationgrowth.aspx World Population Growth, 1950–2050]". [[Population Reference Bureau]]. </ref> Sir [[David King (scientist)|David King]], former chief scientific adviser to the UK government, told a parliamentary inquiry: "It is self-evident that the massive growth in the [[human population]] through the 20th century has had more impact on biodiversity than any other single factor."<ref>"[http://www.guardian.co.uk/society/2007/jul/11/comment.climatechange Citizens arrest]". The Guardian. July 11, 2007. </ref><ref>"[http://www.scientificamerican.com/article.cfm?id=sixth-extinction Population Bomb Author's Fix For Next Extinction: Educate Women]". ''Scientific American''. August 12, 2008. </ref> . 
+
+==The Holocene extinction==. 
+Rates of decline in biodiversity in this sixth mass extinction match or exceed rates of loss in the five previous [[Extinction event|mass extinction events]] in the [[fossil record]]. <ref name="proceedings1"/><ref>{{cite journal | pmid = 15361627 | year = 2004 | last1 = Koh | first1 = LP | last2 = Dunn | first2 = RR | last3 = Sodhi | first3 = NS | last4 = Colwell | first4 = RK | last5 = Proctor | first5 = HC | last6 = Smith | first6 = VS | title = Species coextinctions and the biodiversity crisis | volume = 305 | issue = 5690 | pages = 1632–4 | doi = 10.1126/science.1101101 | journal = Science| url=http://www4.ncsu.edu/~rrdunn/KohDunnetal.pdfNCSU.edu|bibcode = 2004Sci...305.1632K }}{{dead link|date=May 2011}}</ref><ref>{{cite journal | doi = 10.1670/0022-1511(2007)41[483:ADOECD]2.0.CO;2 | author = McCallum M. L. | year = 2007 | title = Amphibian Decline or Extinction? Current Declines Dwarf Background Extinction Rate | url = https://www.herpconbio.org/~herpconb/McCallum/amphibian%20extinctions.pdf | format = PDF | journal = Journal of Herpetology | volume = 41 | issue = 3| pages = 483–491 | issn = 0022-1511 }}</ref><ref>{{cite journal | doi = 10.1073/pnas.0802812105 | title = Colloquium Paper: Ecological extinction and evolution in the brave new ocean | year = 2008 | last1 = Jackson | first1 = J. B. C. | journal = [[Proceedings of the National Academy of Sciences]] | volume = 105 | pages = 11458–11465 | pmid=18695220 | pmc=2556419 | bibcode=2008PNAS..10511458J}}
+</ref><ref>{{cite journal | doi = 10.1111/j.1523-1739.2005.00078.x | author = Dunn R. R. | year = 2005 | title = Modern Insect Extinctions, the Neglected Majority | url = http://www4.ncsu.edu/~rrdunn/InsectExtinctionPDF.pdf | format = PDF | journal = Conservation Biology | volume = 19 | issue = 4| pages = 1030–1036 }}{{dead link|date=May 2011}}</ref> Loss of biodiversity results in the loss of [[natural capital]] that supplies [[ecosystem services|ecosystem goods and services]]. The economic value of 17 ecosystem services for Earth's [[biosphere]] (calculated in 1997) has an estimated value of US$ 33 trillion (3.3x10<sup>13</sup>) per year. <ref name="Costanza97">{{Cite journal| doi = 10.1038/387253a0| last = Costanza  | first = R.  | last2 = d'Arge  | first2 = R.  | last3 = de Groot  |first3 = R.  | last4 = Farberk  | first4 = S.  | last5 = Grasso  | first5 = M.  | last6 = Hannon  | first6 = B.  | last7 = et al.| first7 = Karin| last8 = Naeem| first8 = Shahid| last9 = O'Neill| first9 = Robert V.  | title = The value of the world's ecosystem services and natural capital  |journal = Nature  | volume = 387  | pages = 253–260  | year = 1997  | url =http://www.uvm.edu/giee/publications/Nature_Paper.pdf | issue=6630|bibcode = 1997Natur.387..253C }}</ref> . 
+
+==Conservation==. 
+{{Main|Conservation biology}}
+[[Image:MEAConservationStrategies.jpg|thumb|A schematic image illustrating the relationship between biodiversity, ecosystem services, human well-being, and poverty. <ref>
+Millennium Ecosystem Assessment (2005). ''Ecosystems and Human Well-being: Biodiversity Synthesis.'' World Resources Institute, Washington, DC. [http://www.millenniumassessment.org/documents/document.354.aspx.pdfMilleniumassessment.org]{{dead link|date=May 2011}}</ref> The illustration shows where conservation action, strategies and plans can influence the drivers of the current biodiversity crisis at local, regional, to global scales.]] . 
+
+[[Image:Gletscherschmelze.jpg|thumb|right|300px|The [[Retreat of glaciers since 1850|retreat]] of [[Aletsch Glacier]] in the [[Swiss Alps]] (situation in 1979, 1991 and 2002), due to [[global warming]].]] . 
+
+[[Conservation biology]] matured in the mid-20th century as [[ecologists]], [[naturalists]], and other [[scientists]] began to research and address issues pertaining to global biodiversity declines. <ref name="Soule86">{{cite journal | doi = 10.2307/1310054 | author = Soule M. E. | year = 1986 | last2 = Soule | first2 = Michael E. | title = What is conservation biology? | journal = [[BioScience]] | volume = 35 | issue = 11| pages = 727–734 | jstor=1310054}}</ref><ref name="Davis96">
+P. Davis (1996). ''Museums and the Natural Environment''. Leicester University Press. </ref><ref name="Dyke08">
+F. van Dyke (2008). ''Conservation Biology: Foundations, Concepts, Applications'', 2nd ed. Springer Verlag. pp. 478. ISBN 978-1-4020-6890-4 (hc). </ref> . 
+
+The conservation ethic advocates management of [[natural resource]]s for the purpose of sustaining biodiversity in [[species]], [[ecosystems]], the [[Evolution|evolutionary process]], and human culture and society. <ref name="proceedings1">{{cite journal | doi = 10.1073/pnas.0801921105 | author = Wake D. B., Vredenburg V. T. | year = 2008 | title = Are we in the midst of the sixth mass extinction? A view from the world of amphibians | url = http://www.pnas.org/content/105/suppl.1/11466.full.pdf+html | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 105 | issue = | pages = 11466–11473 | pmid = 18695221 | pmc = 2556420 | bibcode=2008PNAS..10511466W}}</ref><ref name="Soule86" /><ref name="Dyke08"/><ref>
+Hunter, M. L. (1996). ''Fundamentals of Conservation Biology''. Blackwell Science Inc., Cambridge, Massachusetts. ISBN 0-86542-371-7. </ref><ref>
+B. W. Bowen (1999). "Preserving genes, species, or ecosystems? Healing the fractured foundations of conservation policy". ''Molecular Ecology'', 8:S5-S10. </ref> . 
+
+Conservation biology is reforming around strategic plans to protect biodiversity. <ref name="Soule86"/><ref>
+M. E. Soule (ed.) (1986). ''Conservation Biology: The science of scarcity and diversity''. Sinauer Associates Inc. </ref><ref>{{cite journal | doi = 10.1038/35012251 | author = Margules C. R., Pressey R. L. | year = 2000 | title = Systematic conservation planning | url = http://www.geography.ryerson.ca/jmaurer/411SystConservPlan.pdf | format = PDF | journal = Nature | volume = 405 | issue = 6783| pages = 243–253 | pmid = 10821285 }}</ref> Preserving global biodiversity is a priority in strategic conservation plans that are designed to engage public policy and concerns affecting local, regional and global scales of communities, ecosystems, and cultures. <ref>
+Example: Gascon, C., Collins, J. P., Moore, R. D., Church, D. R., McKay, J. E. and Mendelson, J. R. III (eds) (2007). ''Amphibian Conservation Action Plan''. IUCN/SSC Amphibian Specialist Group. Gland, Switzerland and Cambridge, UK. 64pp. [http://www.amphibians.org/newsletter/ACAP.pdf Amphibians.org]{{dead link|date=May 2011}}, see also [http://www.millenniumassessment.org/documents/document.354.aspx.pdf Milleniumassesment.org], [http://europa.eu/scadplus/leg/en/lvb/l28176.htm Europa.eu]</ref> Action plans identify [[Ecological economics#Methodology|ways]] of sustaining human well-being, employing [[natural capital]], [[market capital]], and [[ecosystem services]]. <ref>{{cite journal | doi = 10.1016/S0169-5347(03)00100-9 | title = Population diversity and ecosystem services | year = 2003 | last1 = Luck | first1 = Gary W. | last2 = Daily | first2 = Gretchen C. | last3 = Ehrlich | first3 = Paul R. | journal = Trends in Ecology & Evolution | volume = 18 | issue = 7 | pages = 331–336 | url=http://www.ese.u-psud.fr/epc/conservation/PDFs/luck.pdf | format=PDF }}{{dead link|date=September 2011}}</ref><ref>[http://www.millenniumassessment.org/en/index.aspx Millenniumassessment.org]{{dead link|date=May 2011}}</ref> . 
+
+==Protection and restoration techniques==. 
+Exotic species removal allows less competitive species to recover their ecological niches. Exotic species that have become a pest can be identified taxonomically (e.g. with [[Digital Automated Identification SYstem]] (DAISY), using the [[Consortium for the Barcode of Life|barcode of life]]. <ref>{{cite web|url=http://www.barcoding.si.edu/ |title=Barcode of Life |publisher=Barcoding.si.edu |date=2010-05-26 |accessdate=2011-09-24}}</ref><ref>[http://www.earthtimes.org/articles/show/303405,camel-cull-would-help-curb-global-warming.html Eradication of exotic animals (camels) in Australia]{{dead link|date=September 2011}}</ref> Removal is practical only given large groups of individuals due to the economic cost.  . 
+
+Once the preservation of the remaining native species in an area is assured. "missing" species can be identified and reintroduced using databases such as the ''[[Encyclopedia of Life#Resources and collaborations|Encyclopedia of Life]]'' and the [[Global Biodiversity Information Facility]].  . 
+
+*[[Biodiversity banking]] places a monetary value on biodiversity. One example is the Australian [[Native Vegetation Management Framework]]. 
+*[[Gene bank]]s are collections of specimens and genetic material. Some banks intend to reintroduce banked species to the ecosystem (e.g. via tree nurseries). <ref>{{cite web|url=http://www.hbvl.be/Archief/guid/vlaanderen-heeft-45-zaadtuinen-voor-autochtone-bomen-en-struiken.aspx?artikel=0935212d-8b19-45a4-9cda-167ff68d347c |title=Belgium creating 45 "seed gardens"; gene banks with intent to reintroduction |publisher=Hbvl.be |date=2011-09-08 |accessdate=2011-09-24}}</ref>
+*Reducing and better targeting of pesticides allows more species to survive in agricultural and urbanized areas. 
+*Location-specific approaches are less useful for protecting migratory species. One approach is to create [[wildlife corridor]]s that correspond to the animals' movements. National and other boundaries can complicate corridor creation.{{Citation needed|date=September 2010}} . 
+
+===Resource allocation===. 
+Focusing on limited areas of higher potential biodiversity promises greater immediate return on investment than spreading resources evenly or focusing on areas of little diversity but greater interest in biodiversity.  . 
+
+A second strategy focuses on areas that retain most of their original diversity, which typically require little or no restoration. These are typically non-urbanized, non-agricultural areas. Tropical areas often fit both criteria, given their natively high diversity and relative lack of development. <ref>{{cite web|url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B7GJ6-4WSWYJV-1&_user=10&_coverDate=12%2F31%2F2009&_rdoc=1&_fmt=high&_orig=gateway&_origin=gateway&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=cbb65f7275ea31c73b8e6e7f50e19e49&searchtype=a |title=Economics of biodiversity |publisher=Sciencedirect.com |date= |accessdate=2011-09-24}}</ref> . 
+
+==Legal status==. 
+[[File:Hopetoun falls.jpg|thumb|right|A great deal of work is occurring to preserve the natural characteristics of [[Hopetoun Falls]], [[Australia]] while continuing to allow visitor access.]] . 
+
+Biodiversity is taken into account in some political and judicial decisions:
+* The relationship between law and ecosystems is very ancient and has consequences for biodiversity. It is related  to private and public property rights. It can define protection for  threatened ecosystems, but also some rights and duties (for example, [[fishing]] and hunting rights).{{Citation needed|date=December 2010}}
+* Law regarding species is more recent. It defines species that must be protected because they may be threatened by extinction.  The U.S. [[Endangered Species Act]] is an example of an attempt to address the "law and species" issue. 
+* Laws regarding gene pools are only about a  century old.{{Citation needed|date=October 2008}} Domestication and plant breeding methods are not new, but advances in [[genetic engineering]] has led to tighter laws covering distribution of [[genetically modified organisms]], gene [[patent]]s and process patents. <ref>{{cite web|url=http://www.ornl.gov/sci/techresources/Human_Genome/elsi/patents.shtml |title=Gene Patenting |publisher=Ornl.gov |date= |accessdate=2009-06-21}}</ref>  Governments struggle to decide whether to focus on for example, genes, genomes, or organisms and species.{{citation needed|date=September 2010}} . 
+
+Global agreements such as the [[Convention on Biological Diversity]], give "sovereign national rights over biological resources" (not property). The agreements commit countries to "conserve biodiversity", "develop resources for sustainability" and "share the benefits" resulting from their use. Biodiverse countries that allow [[bioprospecting]] or collection of natural products, expect a share of the benefits rather than allowing the individual or institution that discovers/exploits the resource to capture them privately.  Bioprospecting can become a type of [[biopiracy]] when such principles are not respected.{{Citation needed|date=December 2010}} . 
+
+Sovereignty principles can rely upon what is better known as [[International Treaty on Plant Genetic Resources for Food and Agriculture|Access and Benefit Sharing Agreements]] (ABAs). The Convention on Biodiversity implies [[informed consent]] between the source country and the collector, to establish which resource will be used and for what, and to settle on a [[International Treaty on Plant Genetic Resources for Food and Agriculture|fair agreement on benefit sharing]].  . 
+
+Uniform approval for use of biodiversity as a legal standard has not been achieved, however. Bosselman argues that biodiversity should not be used as a legal standard, claiming that the remaining areas of scientific uncertainty cause unacceptable administrative waste and increase litigation without promoting preservation goals. <ref>{{cite web|url=http://www1.law.nyu.edu/journals/envtllaw/issues/vol12/bosselman-for%20web.pdf |title=Fred Bosselman, A Dozen Biodiversity Puzzles, 12 N.Y.U. Environmental Law Journal 364 (2004)|format=PDF |date= |accessdate=2011-09-24}}</ref> . 
+
+==Analytical limits==. 
+===Taxonomic and size relationships===. 
+Less than 1% of all species that have been described have been studied beyond simply noting their existence. <ref>{{cite journal | doi = 10.1046/j.1523-1739.2000.00000-e1.x | author = Wilson Edward O | year = 2000 | title = On the Future of Conservation Biology | url = | journal = Conservation Biology | volume = 14 | issue = 1| pages = 1–3 }}</ref> The vast majority of Earth's species are microbial. Contemporary biodiversity physics is "firmly fixated on the visible [macroscopic] world". <ref>{{cite journal | doi = 10.1038/429804a | author = Nee S | year = 2004 | title = More than meets the eye | url = | journal = Nature | volume = 429 | issue = 6994| pages = 804–805 | pmid = 15215837 |bibcode = 2004Natur.429..804N }}</ref> For example, microbial life is [[metabolically]] and environmentally more diverse than multicellular life (see e.g., [[extremophile]]). "On the tree of life, based on analyses of small-subunit [[ribosomal RNA]], visible life consists of barely noticeable twigs. The inverse relationship of size and population recurs higher on the evolutionary ladder—"to a first approximation, all multicellular species on Earth are insects". <ref>{{cite journal | doi = 10.1038/448657a | bibcode=2007Natur.448..657S | title = Biodiversity: World of insects | year = 2007 | last1 = Stork | first1 = Nigel E. | journal = Nature | volume = 448 | issue = 7154 | pages = 657–658 | pmid = 17687315 }}</ref> Insect extinction rates are high—supporting the Holocene extinction hypothesis. <ref>{{cite journal | doi = 10.1126/science.1095046 | author = Thomas J. A. | year = 2004 | title = Comparative Losses of British Butterflies, Birds, and Plants and the Global Extinction Crisis | url = http://www.sciencemag.org/content/303/5665/1879.abstract | journal = Science | volume = 303 | issue = 5665| pages = 1879–1881 | pmid = 15031508 |bibcode = 2004Sci...303.1879T | author-separator = , | author2 = Telfer M. G. | author3 = Roy D. B. | author4 = Preston C. D. | author5 = Greenwood J. J. D. | author6 = Asher J. | author7 = Fox R. | author8 = Clarke R. T. | author9 = Lawton J. H. | display-authors = 9 }}</ref><ref>{{cite journal | doi = 10.1111/j.1523-1739.2005.00078.x | title = Modern Insect Extinctions, the Neglected Majority | year = 2005 | last1 = Dunn | first1 = Robert R. | journal = Conservation Biology | volume = 19 | issue = 4 | pages = 1030–1036 }}</ref> . 
+
+==See also==. 
+{{col-begin}}
+{{col-3}}
+*[[United Nations Decade on Biodiversity|2011-2020 UN Decade on Biodiversity]]
+*[[2010 Biodiversity Indicators Partnership]]
+*[[International Year of Biodiversity|2010 International Year of Biodiversity]]
+*[[Adaptation]]
+*[[Agroecological restoration]]
+*[[Agricultural biodiversity]]
+*[[Amazonian forest]]
+*[[Applied ecology]]
+*[[Biocomplexity]]
+*[[Biodiversity banking]]
+*[[Biodiversity hotspot]]
+*[[Biodiversity informatics]]
+*[[Biogeography]]
+*[[Bioinformatics]]
+*[[BIOPAT - Patrons for Biodiversity]]
+*[[Biorisk]]
+*[[BioWeb]]
+*[[Canadian Biodiversity Information Network]]
+*[[Centres of Plant Diversity]]
+*[[Conservation Biology]]
+*[[Conservation Commons]]
+*[[Conservation ethic]]
+*[[Convention on Biological Diversity]]
+*[[Deforestation]]
+*[[Diversity index]]
+*[[Ecological economics]]
+*[[Ecological restoration]]
+*[[Extinction]]
+{{col-3}}
+*[[Ecology]]
+*[[Ecosystem diversity]]
+*[[Ethnic diversity]]
+*[[Ewens sampling formula]]
+*[[Forest farming]]
+*[[Global Biodiversity Information Facility]]
+*[[Gene pool]]
+*[[Genetic erosion]]
+*[[Genetic pollution]]
+*[[Global 200]]
+*[[Global warming]]
+*[[Green Revolution]]
+*[[Habitat conservation]]
+*[[Habitat fragmentation]]
+*[[Holistic management]]
+*[[Holocene extinction event]]
+*[[Insect biodiversity]]
+*[[International Day for Biological Diversity]]
+*[[Intermediate Disturbance Hypothesis]]
+*[[International Institute of Tropical Agriculture]]
+*[[International Treaty on Plant Genetic Resources for Food and Agriculture]]
+*[[International Union for Conservation of Nature]]
+*[[List of biodiversity databases]]
+*[[List of environmental issues]]
+*[[List of environmental topics]]
+*[[Living Planet Index]]
+*[[Megadiverse countries]]
+{{col-3}}
+{{Portal|Ecology|Environment|Plants|Animals|Marine life|Biology}}
+*[[Millennium Ecosystem Assessment]]
+*[[Millennium Seed Bank Project]]
+*[[Monoculture]]
+*[[Mutation]]
+*[[National Biodiversity Network]]
+*[[Natural environment]]
+*[[Natural landscape]]
+*[[Nature]]
+*[[NatureServe]]
+*[[Nutritional biodiversity]]
+*[[Reconciliation ecology]]
+*[[rECOrd (Local Biological Records Centre)]]
+*[[Satoyama]]
+*[[Seedbank]]
+*[[Sustainability]]
+*[[Sustainable development]]
+*[[Sustainable forest management]]
+*[[Unified neutral theory of biodiversity]]
+*[[United States environmental law]]
+*[[Wild Solutions]]
+*[[Wildlife preserve]]
+*[[World Conservation Monitoring Centre]]
+*[[World Conservation Union]]
+*[[World Forestry Congress]]
+*[[World Network of Biosphere Reserves]]
+{{col-end}} . 
+
+==References==. 
+<!-- SystBio4:149. Zootaxa1407:3. -->
+{{Reflist|30em}} . 
+
+==Further reading==. 
+{{Refbegin}}
+* Leveque, C. & J. Mounolou (2003) ''Biodiversity''. New York: John Wiley. ISBN 0-470-84957-6
+* [[Margulis, L.]], Dolan, Delisle, K., Lyons, C. ''Diversity of Life: The Illustrated Guide to the Five Kingdoms''. Sudbury: [[Jones & Bartlett Publishers]]. ISBN 0-7637-0862-3
+* [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B83WC-4N0HJMK-2&_user=1300184&_coverDate=12%2F31%2F2007&_rdoc=6&_fmt=summary&_orig=browse&_srch=doc-info(%23toc%2333783%232007%23999839995%23671853%23FLA%23display%23Volume)&_cdi=33783&_sort=d&_docanchor=&_ct=9&_acct=C000052237&_version=1&_urlVersion=0&_userid=1300184&md5=d9c2663e7fbd6a77385d61334953d75d Alexander V. Markov,  and Andrey V. Korotayev (2007) "Phanerozoic marine biodiversity follows a hyperbolic trend" ''Palaeoworld'' 16(4): pp. 311–318]. 
+* [http://www.springerlink.com/content/k7127108n3468442/fulltext.pdf?page=1/ Moustakas, A. & I. Karakassis (in press). A geographic analysis of the published aquatic biodiversity research in relation to the ecological footprint of the country where the work was done. Stochastic Environmental Research and Risk Assessment, Doi: 10.1007/s00477-008-0254-2]. 
+* Novacek, M. J. (ed.) (2001) ''The Biodiversity Crisis: Losing What Counts''. New York: [[American Museum of Natural History]] Books. ISBN 1-56584-570-6
+* [http://www.inwent.org/ez/articles/178462/index.en.shtml D+C-Interview with Achim Steiner, UNEP: "Our generation's responsibility]
+{{Refend}} . 
+
+==External links==. 
+*[http://www.davidsuzuki.org/issues/wildlife-habitat/science/endangered-species-legislation/protecting-biodiversity/index.php A collection of articles from the David Suzuki Foundation on Protecting Biodiversity]
+*[http://knol.google.com/k/how-many-species-on-earth# How many species on Earth?]
+*[http://www.ecnc.org/ ECNC-European Centre for Nature Conservation]
+*[http://www.wild.org/wild-and-cemex The WILD Foundation and CEMEX Collaborate on International Wilderness and Biodiversity Conservation in Mexico]
+*[http://www.cohabnet.org/ COHAB Initiative: The importance of biodiversity to human health and well-being]
+*[http://natureserve.org/getData/index.jsp NatureServe: This site serves as a portal for accessing several types of publicly available biodiversity data]
+*[http://www.vifabio.de/iyb2010/?lang=en Internet sources about biodiversity (presented for the International Year of Biodiversity 2010 by vifabio)]
+*[http://www.canine-genetics.com/Default.htm The Canine Diversity Project]
+*[http://www.agroscope.admin.ch/biodiversitaet/index.html?lang=en Biodiversity research in agriculture, Swiss Agricultural Research Station Agroscope]
+*[http://www.livediverse.eu/ LiveDiverse project]
+*[http://www.bgci.org/ourwork/introduction/ About Biodiversity, Human Well-being & Botanic Gardens], [[Botanic Gardens Conservation International]]
+*[http://www.news.cornell.edu/stories/Dec10/BiodiversityHealth.html Study: Loss of species is bad for your health] . 
+
+===Documents===. 
+* [http://www.millenniumassessment.org/documents/document.354.aspx.pdf Biodiversity Synthesis Report] (PDF) by the Millennium Ecosystem Assessment (MA, 2005)
+* [http://www.cbd.int/convention/text/ Convention on Biological Diversity] Text of the Convention
+* [http://www.biodiversityhotspots.org/xp/hotspots/Documents/cihotspotmap.pdf Conservation International hotspot map]
+* Waylen, K. 2006. [http://www.bgci.org/files/Worldwide/Wellbeing/Presspack/wellbeing.pdf Botanic Gardens: Using biodiversity to improve human well-being] [[Botanic Gardens Conservation International]] (BGCI) . 
+
+===Tools===. 
+* [http://www.globio.info/ GLOBIO], an ongoing programme to map the past, current and future impacts of human activities on biodiversity
+* [http://stort.unep-wcmc.org/imaps/gb2002/book/viewer.htm World Map of Biodiversity] an interactive map from the [[United Nations Environment Programme]] [[World Conservation Monitoring Centre]] . 
+
+===Training material===. 
+* {{cite book
+| author= Scheldeman, X. & van Zonneveld, M. 
+|year=2010
+|title= Training Manual on Spatial Analysis of Plant Diversity and Distribution
+|publisher= [[Bioversity International]]
+|url=  http://www.bioversityinternational.org/training/training_materials/gis_manual.html}} . 
+
+===Resources===. 
+* [http://www.amibio-project.eu/ Automatic acoustic Monitoring and Inventorying of BIOdiversity]
+* [http://www.biodiversitylibrary.org/ Biodiversity Heritage Library] - Open access digital library of taxonomic literature. 
+* [http://thinktanksreport.org/tag/biodiversity/ Biodiversity headlines from thinktanksreport] - Latest reports, research and opinion on biodiversity. 
+* [http://www.bioaltai-sayan.ru/ Biodiversity of Altai-Sayan Ecoregion]. 
+* {{dmoz|Science/Environment/Biodiversity}}
+* [http://www.eol.org/ Encyclopedia of Life ] - Documenting all species of life on earth. 
+* [http://tolweb.org/ Tree of Life ] - Relationships & characteristics of all life on earth. 
+* [http://www.searchnbn.net/ National Biodiversity Network ] - NBN Gateway. 
+* [http://www.stanford.edu/group/microdocs/ Microdocs], [http://www.stanford.edu/group/microdocs/diversity.html Diversity.]
+* [http://www.economics.noaa.gov/?goal=ecosystems&file=users/business/species/ Economics of Species protection & Management] [[NOAA]] Economics
+* [http://www.linkedin.com/groups?home=&gid=3667510 Biodiversity Professionals LinkedIn group]
+* [http://www.isstphilippines.edu.ph/ International School of Sustainable Tourism].  . 
+
+{{Biology nav}}
+{{Zoos}} . 
+
+[[Category:Biodiversity| ]]
+[[Category:Biology terminology]]
+[[Category:Environmental science]]
+[[Category:Habitat (ecology) terminology]]
+[[Category:Millennium Development Goals]]

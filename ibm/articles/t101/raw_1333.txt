@@ -1,0 +1,47 @@
+{{globalize|date=December 2011}}
+{{Discrimination sidebar}}
+'''Reverse discrimination''' is a term referring to [[discrimination]] against members of a dominant or majority group, including the city or state, or in favor of members of a minority or historically disadvantaged group. Groups may be defined in terms of [[Race (classification of human beings)|race]], [[gender]], [[ethnicity]], or other factors. This discrimination may seek to redress [[social inequalities]] where minority groups have been denied access to the same privileges of the majority group. In such cases it is intended to remove discrimination that minority groups may already face. Reverse discrimination may also be used to highlight the discrimination inherent in [[affirmative action]] programs.  . 
+
+The law in some countries, such as the UK, draws a distinction between Equality of Provision and Equality of Outcome, recognising that identical treatment may sometimes act to preserve inequality rather than eliminate it. Opponents of this distinction may label it as an example of positive discrimination.  . 
+
+==India==. 
+In India, among the limited positions for higher education, 50 percent are reserved.{{Citation needed|date=September 2011}} Reserved category candidates can select a position from the Open 50 percent if he or she has good merit. This results in further reverse discrimination of Open/General/Non Reserved candidates. Further, since there are no economic criteria in classifying Reservation, poorer sections of reserved class often remain poor whereas the affluent section reap benefits for successive generations.{{Citation needed|date=September 2011}} Also, the poorer sections of Open/General Category become devoid of access to higher education for even slightly low merit on competitive exams. The difference in merit on entrance exams is often very wide between the reserved and unreserved classes. In [[India]], the term is often used by citizens protesting against [[Reservation in India|reservation and quotas]]. <ref>Devanesan Nesiah. ''Discrimination With Reason? The Policy of Reservations in the United States, India and Malaysia''. 1997. [[Oxford University Press]]. 0195639839. </ref><ref>[http://www.hindu.com/2006/10/24/stories/2006102401031300.htm  Excess reservation will cause reverse discrimination, cautions Supreme Court]</ref><ref>R. Kent Greenawalt. ''Discrimination and Reverse Discrimination''. 1983. Knopf. ISBN 0-394-33577-5. </ref> . 
+
+==United Kingdom==. 
+UK law draws a distinction between Equality of Provision and Equality of Outcome, particularly in respect to disability rights. The [[Disability Discrimination Act 1995]] and the [[Equality Act 2010]] make it clear that treating two people identically may not be sufficient to guarantee that they have been treated equally in law if the task, physical environment or service does not offer them equality of outcome. The law provides for disabled people to request the provision of 'reasonable adjustments' to ensure that they are able to access employment, services and the built environment with the same potential as non-disabled people. 
+In November 2007, David Rosin, a former vice-president of the [[Royal College of Surgeons]] wrote in the magazine ''Hospital Doctor'': “It is time that someone spoke up concerning the reverse discrimination with respect to merit awards” and saying that "female and ethnic minority consultants are being given preferential treatment to meet artificial quotas". <ref>{{Cite news|url=http://www.timesonline.co.uk/tol/news/uk/health/article2890947.ece|title='Doctor's Revolt at Anti-White Bias' |publisher=[[The Times]]|date=2007-11-18|accessdate=2010-06-30 | location=London | first=Sarah-Kate | last=Templeton}}</ref> . 
+
+==See also==. 
+'''General'''
+* [[Affirmative action]]
+* [[Afrocentrism]]
+* [[White guilt]] . 
+
+'''Race'''
+* [[Color blindness (race)]]
+* [[Ricci v. DeStefano]]
+* [[Land reform in Zimbabwe]] (although directed towards a minority)
+* [[Black Economic Empowerment]] in [[South Africa]] . 
+
+'''Gender'''
+* [[All-women shortlists]]
+* [[Women and children first (saying)]] . 
+
+'''Other'''
+* [[Reservation in India]] . 
+
+==References==. 
+<!-- this 'empty' section displays references defined elsewhere -->
+{{reflist}} . 
+
+== Further reading ==. 
+* {{cite book|chapter=Reverse discrimination|pages=72&ndash;73|title=Philosophy: the basics|author=Nigel Warburton|edition=4th|publisher=Routledge|year=2004|isbn=0-415-32772-5|isbn13=9780415327725}}
+* {{cite book|title=Reverse discrimination in EC law|volume=64|series=European monographs|author=Alina Tryfonidou|publisher=Kluwer Law International|year=2009|isbn=90-411-2751-8|isbn13=9789041127518}}
+* {{cite book|title=Reverse discrimination: dismantling the myth|author=Fred L. Pincus|publisher=Lynne Rienner Publishers|year=2003|isbn=1-58826-203-0|isbn13=9781588262035}} . 
+
+==External links==. 
+*[http://www.cre.gov.uk/legal/rra_positive.html Positive action in employment] under the UK [[Race Relations Act]] . 
+
+[[Category:Definition of racism controversy]]
+[[Category:Discrimination]]
+[[Category:Affirmative action]]

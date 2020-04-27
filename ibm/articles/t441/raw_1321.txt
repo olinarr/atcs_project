@@ -1,0 +1,305 @@
+{{Electoral systems}}
+A '''nonpartisan blanket primary''' (also known as a '''qualifying primary''', '''top-two primary''', '''Louisiana primary''', '''Cajun primary''' or '''jungle primary''') is a [[primary election]] in which all [[candidate]]s for elected office run in the same primary regardless of [[political party]].  Under this system, the top two candidates who receive the most votes advance to the next round, as in a [[two-round system|runoff election]].  However, there is no separate nomination process for candidates before the first round, and parties cannot thin the field using their own internal processes (such as a [[political convention|convention]]). Similarly, it is entirely possible that two candidates of the same party could advance to the second round.  . 
+
+==Candidate party preference and ballot disclaimer==. 
+Because voters can vote in the first round for a candidate from any political party, the nonpartisan blanket primary has been compared to the original [[blanket primary]] used briefly in California, which in 2000 was ruled unconstitutional in ''[[California Democratic Party v. Jones]]'' because it forced political parties to associate with candidates they did not endorse. However, the nonpartisan blanket primary disregards party preference in determining the two candidates to advance to the [[general election]], and for that reason has been ruled ''facially'' constitutional by the Supreme Court in the 2008 decision ''Washington State Grange v. Washington State Republican Party''. <ref name="scotusblog.com">http://www.scotusblog.com/wp/wp-content/uploads/2008/03/06-713.pdf</ref>  . 
+
+Chief Justice Roberts concurred in the 2008 decision, "If the ballot is designed in such a manner that no reasonable voter would believe that the candidates listed there are nominees or members of, or otherwise associated with, the parties the candidates claimed to “prefer,” the I–872 primary system would likely pass constitutional muster." Each candidate for partisan office can state a political party that he or she prefers. Ballots also must feature a disclaimer to voters that candidate’s preference does not imply that the candidate is nominated or endorsed by the party, or that the party approves of or associates with that candidate. Ballots with candidate preference are now used statewide in Washington State and California.  . 
+
+==Use in Louisiana==. 
+Until recently, this format has only been used for regular elections in the [[U.S. state]] of [[Louisiana]]. There is a [[Two-round system|second round]] (runoff) between the top two candidates if no candidate wins a [[Majority|simple majority]] (more than half of the votes) in the first round of balloting. This happens more often with [[open seat]]s, as [[incumbent]]s more easily win majorities. The runoff constitutes the [[general election]] under Louisiana law even if the [[general election]] had two candidates of the same party, a phenomenon which frequently occurs. The only labels originally permitted under the [[Louisiana law]] were [[Democratic Party (United States)|Democrat]], [[Republican Party (United States)|Republican]], and [[Independent (politician)|No Party]]; however, {{As of|2008|lc=on}} the labels of any "registered political party" may be used. <ref>[http://www.sos.louisiana.gov/tabid/180/Default.aspx Political Party Registration]</ref> The primary has been used in statewide elections since 1975.  . 
+
+===In federal elections===. 
+The nonpartisan blanket primary was never used for presidential primaries in Louisiana because national party rules forbid it. It has been used for congressional elections from 1978 to the present, with a brief interruption from 2008-2010.  . 
+
+Starting in 1978, U.S. [[United States House elections, 1978|House]] and [[United States Senate elections, 1978|Senate elections]] were switched to the nonpartisan blanket primary format. Yet this system was held to be in violation of federal law when used for congressional elections in 1997 by the U.S. Supreme Court in ''[[Foster v. Love]]''. After the decision, Louisiana moved the congressional primary date to November and the run-off to December in order to keep the nonpartisan blanket format.  . 
+
+In May 2005, Louisiana passed a law moving the primary back to October, with provisions intended to follow federal law. In June 2006 Louisiana Governor [[Kathleen Blanco]] signed Senate Bill No. 18{{ref|1}} (later Act No. 560{{ref|3}}) into law, which took effect in 2008 and returned Congressional races to the closed primary system. However, in 2010 the legislature voted to revert federal elections back to the nonpartisan blanket primary system with the passage of House Bill 292, which was signed into law by Governor Bobby Jindal on June 25, 2010. <ref>[http://www.legis.state.la.us/billdata/byinst.asp?sessionid=10rs&billtype=HB&billno=292]</ref> . 
+
+Since Louisiana's primary is virtually identical to the Washington state primary system which has been upheld by the Supreme Court in 2008 in ''Washington State Grange v. Washington State Republican Party'', it thus remains constitutional. <ref name="scotusblog.com"/> . 
+
+==Use in Washington state==. 
+[[Washington state]], along with [[California]] and [[Alaska]], had a [[blanket primary]] system that allowed every voter to choose a candidate of any party for each position. This kind of system was ruled unconstitutional in ''[[California Democratic Party v. Jones]]'' in 2000 because it forced political parties to endorse candidates against their will. <ref name="scotusblog.com"/> . 
+
+The Washington State Legislature passed a new primary system in 2004, which would have created a nonpartisan blanket or "Top Two" primary system, with an Open primary as a backup, giving the Governor the option to choose. Although Secretary of State [[Sam Reed]] advocated the Top Two, on April 1, 2004 the Governor used the line-item veto to activate the Open primary instead. In response, Washington's [[Initiative 872]] was filed on January 8, 2004 by Terry Hunt from the Washington Grange, which proposed to create a nonpartisan blanket primary in that state. The measure passed with 59.8% of the vote (1,632,225 yes votes and 1,095,190 no votes) in 2004. <ref>[http://ballotpedia.org/wiki/index.php/Washington_Initiative_Measure_No._872_(2004) Ballotpedia]</ref> . 
+
+On March 18, 2008, the United States Supreme Court ruled in ''Washington State Grange v. Washington State Republican Party'' that Washington's [[Initiative 872]] was constitutionally permissible, because unlike the earlier blanket primary, it officially disregards party affiliation while allowing candidates to state their party preference. However, the court wanted to wait for more evidence before addressing the chief items in the complaint and remanded the decision back to the lower courts. <ref name="scotusblog.com"/> Since the 2008 decision Washington State implemented the Top two primary, which applies to federal, state and local elections, but not to presidential elections. <ref>http://www.sos.wa.gov/elections/Top2Primary.aspx</ref> . 
+
+There is no voter party registration in Washington. And there are no signature requirements for ballot access. Candidates are not restricted to stating a preference to an established major or minor party. The candidate, on the ballot, has up to 16 characters to describe the party that he or she prefers. <ref>Washington Secretary of State Top-Two FAQ http://wei.secstate.wa.gov/osos/en/Pages/Top2PrimaryFAQ.aspx</ref> Some candidates state a preference for an established major party, such as the Democratic Party or the Republican Party, while others use the ballot to send a message, such as Prefers No New Taxes Party or Prefers Salmon Yoga<ref>It's Called The Salmon Yoga Party: Tri City Herald (June 20, 2008) http://www.tri-cityherald.com/2008/06/20/218194/its-called-the-salmon-yoga-party.html</ref> Party. Since this is a "preference" and not a declaration of party membership, candidates can assert party affiliation without approval of the party itself, and even use alternate terms for a given party, such as Dino Rossi's 2008 stated preference for the "GOP Party"<ref>[[Washington_gubernatorial_election,_2008#Controversy_over_Rossi.27s_party_preference]]</ref>.  . 
+
+==Use in California==. 
+California's [[blanket primary]] system was ruled unconstitutional in ''[[California Democratic Party v. Jones]]'' in 2000 because it forced political parties to associate with candidates they did not endorse. Then in 2004, [[California Proposition 62 (2004)|Proposition 62]], an [[initiative]] to bring the nonpartisan blanket primary to California, failed with only 46% of the vote. However, [[California Proposition 14 (2010)|Proposition 14]], a nearly identical piece of legislation, passed on the June 2010 ballot with 53.7% of the vote. <ref>{{cite web |url=http://www.sos.ca.gov/elections/sov/2010-primary/pdf/2010-complete-sov.pdf |title=June 8, 2010, Primary Election Statement of Vote |format=PDF |publisher=[[California Secretary of State]] |date=2010-07-16 |accessdate=2010-08-21}}</ref> . 
+
+Under Proposition 14, statewide and congressional candidates in California, regardless of party preference, participate in the nonpartisan blanket primary, and the top two candidates advance to the general election. This does not affect the presidential primary, local offices, or non-partisan offices such as judges and the Superintendent of Public Instruction. <ref name="analysis">{{cite web |url=http://www.voterguide.sos.ca.gov/past/2010/primary/propositions/14/analysis.htm |title=Proposition 14 Analysis by the Legislative Analyst |work=California Statewide Direct Primary Election, Tuesday, June 8, 2010 Official Voter Information Guide |publisher=[[California Secretary of State]] |accessdate=2011-06-09}}</ref> . 
+
+==Use elsewhere in the United States==. 
+The plan is also used in [[Texas]] and some other states in special elections, but not primaries. A notable example involved former United States Senator [[Phil Gramm]], who in 1983 (while a member of the House of Representatives), after [[party switching|switching from the Democrat to the Republican Party]], resigned his seat as a Democrat on January 5, then ran as a Republican for his own vacancy in a [[special election]] held on February 12, and won rather handily.  . 
+
+[[Alaska]], like [[Washington state]] and [[California]], used the similar [[blanket primary]] until 2000, when it was ruled unconstitutional. <ref name="scotusblog.com"/> There was also an effort in [[Oregon]] to pass a similar law, but the [[Oregon Senate]] rejected it in May 2007{{ref|2}} and it failed in a November 2008 referendum. <ref>http://egov.sos.state.or.us/division/elections/results/2008G/index.html</ref> . 
+
+Likewise, other elections throughout the United States such as mayoral elections, local council elections, and school boards, etc. may operate as non-partisan or semi-non-partisan elections. Such examples include [[Mobile, Alabama]] city council and mayoral elections and the [[Fresno, California]] mayoral primary.  . 
+
+==Example results==. 
+===Louisiana governor's race, 1991===. 
+First Ballot, October 19, 1991 . 
+
+{| class="wikitable"
+| bgcolor=#cccccc | '''Candidate'''
+| bgcolor=#cccccc | '''Affiliation'''
+| bgcolor=#cccccc | '''Support'''
+| bgcolor=#cccccc | '''Outcome'''
+. |-
+. |-
+|bgcolor=#DDEEFF| [[Edwin Edwards]]
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 523,096 (33.8%)
+|bgcolor=#DDEEFF| Runoff
+. |-
+|bgcolor=#FFE8E8| [[David Duke]]
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 491,342 (31.7%)
+|bgcolor=#FFE8E8| Runoff
+. |-
+|bgcolor=#FFE8E8| [[Buddy Roemer]]
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 410,690 (26.5%)
+|bgcolor=#FFE8E8| Defeated
+. |-
+|bgcolor=#FFE8E8| [[Clyde Holloway]]
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 82,683 (5.3%)
+|bgcolor=#FFE8E8| Defeated
+. |-
+|bgcolor=#DDEEFF| Sam Jones
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 11,847 (0.8%)
+|bgcolor=#DDEEFF| Defeated
+. |-
+| [[Ed Karst]]
+| No Party
+| 9,663 (0.6%)
+| Defeated
+. |-
+|bgcolor=#DDEEFF| Fred Dent
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 7,835 (0.5%)
+|bgcolor=#DDEEFF| Defeated
+. |-
+|bgcolor=#FFE8E8| Anne Thompson
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 4,118 (0.3%)
+|bgcolor=#FFE8E8| Defeated
+. |-
+|bgcolor=#DDEEFF| Jim Crowley
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 4,000 (0.3%)
+|bgcolor=#DDEEFF| Defeated
+. |-
+|bgcolor=#DDEEFF| Albert Henderson Powell
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 2,053 (0.1%)
+|bgcolor=#DDEEFF| Defeated
+. |-
+|bgcolor=#DDEEFF| Ronnie Glynn Johnson
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 1,372 (0.1%)
+|bgcolor=#DDEEFF| Defeated
+. |-
+|bgcolor=#DDEEFF| Ken "Cousin Ken" Lewis
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 1,006 (0.1%)
+|bgcolor=#DDEEFF| Defeated
+|} . 
+
+Second Ballot, November 16, 1991 . 
+
+{| class="wikitable"
+| bgcolor=#cccccc | '''Candidate'''
+| bgcolor=#cccccc | '''Affiliation'''
+| bgcolor=#cccccc | '''Support'''
+| bgcolor=#cccccc | '''Outcome'''
+. |-
+|bgcolor=#DDEEFF| Edwin Edwards
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 1,057,031 (61.2%)
+|bgcolor=#DDEEFF| Elected
+. |-
+|bgcolor=#FFE8E8| David Duke
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 671,009 (38.8%)
+|bgcolor=#FFE8E8| Defeated
+|} . 
+
+Despite Republicans collectively attaining a majority of the support in the 1st ballot, the Democratic candidate Edwards won decisively on the second ballot. A factor in this seemingly anomalous result may have been [[Tactical manipulation of runoff voting|tactical voting]], which has been observed in some two-round electoral systems. On the other hand, a major contributor to Edwards' markedly increased vote may well have been the fact that Roemer endorsed Edwards prior to the second round. Additionally, Roemer had originally been elected to the governorship as a Democrat, having only changed his party affiliation in 1991. <ref>[http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000384 Biography of Roemer]</ref>  Under this system, party label is self-identifying, which means that David Duke was able to declare himself a Republican candidate without the consent of the Republican Party.  Edwin Edwards' win is most likely attributed to the fact that David Duke was a former Grand Wizard of the Ku Klux Klan, and thus was unpalatable to mainstream voters, in spite of allegations of corruption during Edwards' first three terms.  Evidence of this exists in the unofficial campaign slogan "Vote for the Lizard, not the Wizard." Another bumper sticker cited by the Wall Street Journal is: "Vote for the crook, it's important." <ref>http://www.opinionjournal.com/best/?id=110004262</ref> . 
+
+===Washington 17th district state legislator, 2010===. 
+First Ballot, August 17, 2010<ref>[http://vote.wa.gov/Elections/WEI/Results.aspx?ElectionID=36&JurisdictionTypeID=5&JurisdictionID=63419&ViewMode=Results Primary election results for Washington state, 2010]</ref> . 
+
+{| class="wikitable"
+| bgcolor=#cccccc | '''Candidate'''
+| bgcolor=#cccccc | '''Party Preference'''
+| bgcolor=#cccccc | '''Support'''
+| bgcolor=#cccccc | '''Outcome'''
+. |-
+|bgcolor=#DDEEFF| Scott Brumback
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 4,702 (20.55%)
+|bgcolor=#DDEEFF| Defeated
+. |-
+|bgcolor=#FFE8E8| Michele Strobel
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 8,053 (35.19%)
+|bgcolor=#FFE8E8| Runoff
+. |-
+|bgcolor=#FFE8E8| Norm Johnson
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 10,129 (44.26%)
+|bgcolor=#FFE8E8| Runoff
+|} . 
+
+Second Ballot November 2, 2010<ref name="vote.wa.gov">[http://vote.wa.gov/Elections/WEI/Results.aspx?ElectionID=37&JurisdictionTypeID=5&JurisdictionID=63419&ViewMode=Results General election results for Washington state, 2010]</ref> . 
+
+{| class="wikitable"
+| bgcolor=#cccccc | '''Candidate'''
+| bgcolor=#cccccc | '''Party Preference'''
+| bgcolor=#cccccc | '''Support'''
+| bgcolor=#cccccc | '''Outcome'''
+. |-
+|bgcolor=#FFE8E8| Michele Strobel
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 17,229 (47.5%)
+|bgcolor=#FFE8E8| Defeated
+. |-
+|bgcolor=#FFE8E8| Norm Johnson
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 19,044 (52.5%)
+|bgcolor=#FFE8E8| Elected
+|} . 
+
+In this race a three-way primary led to a two-way race between two members of the same party (Republicans) in the general election. With over 20% of the population voting for the Democrat and neither Republican winning close to a majority in the primary, both of the Republican candidates had to appeal to Democrats and other voters who did not support them in the first round. For example, incumbent Norm Johnson came out in favor of same-sex civil unions, moving to the left of challenger Michele Strobel, who opposed them. <ref>[http://seattletimes.nwsource.com/html/editorials/2012672963_edit20toptwo.html Seattle Times Editorial: Washington's top-two primary gets voters the better choice]</ref> . 
+
+===Washington state legislature, 2010 38th District State Senate=== . 
+
+First Ballot August 17, 2010<ref>Official Washington Results 2010 http://vote.wa.gov/Elections/WEI/Results.aspx?ElectionID=36&JurisdictionTypeID=5&JurisdictionID=63443&ViewMode=Results</ref> . 
+
+{| class="wikitable"
+| bgcolor=#cccccc | '''Candidate'''
+| bgcolor=#cccccc | '''Party Preference'''
+| bgcolor=#cccccc | '''Support'''
+| bgcolor=#cccccc | '''Outcome'''
+. |-
+|bgcolor=#DDEEFF| Nick Harper
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 7,193 (35.09 %)
+|bgcolor=#DDEEFF| Runoff
+. |-
+|bgcolor=#DDEEFF| Jean Berkey
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 6,591 (32.16%)
+|bgcolor=#DDEEFF| Defeated
+. |-
+|bgcolor=#FFE8E8| Rod Rieger
+|bgcolor=#FFE8E8| Conservative
+|bgcolor=#FFE8E8| 6,713 (32.75%)
+|bgcolor=#FFE8E8| Runoff
+|} . 
+
+Second Ballot November 2, 2010<ref>Official Washington Results http://vote.wa.gov/Elections/WEI/Results.aspx?ElectionID=37&JurisdictionTypeID=5&JurisdictionID=63443&ViewMode=Results</ref>
+{| class="wikitable"
+| bgcolor=#cccccc | '''Candidate'''
+| bgcolor=#cccccc | '''Party Preference'''
+| bgcolor=#cccccc | '''Support'''
+| bgcolor=#cccccc | '''Outcome'''
+. |-
+|bgcolor=#DDEEFF| Nick Harper
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 22,089 (59.73 %)
+|bgcolor=#DDEEFF| Elected
+. |-
+|bgcolor=#FFE8E8| Rod Rieger
+|bgcolor=#FFE8E8| Conservative
+|bgcolor=#FFE8E8| 14,892 (40.27 %)
+|bgcolor=#FFE8E8| Defeated
+|} . 
+
+In this case, tactical campaigning<ref>Labor and Lawyers Were Behind Sneak Attack on Berkey, PDC Says – Created Fake ‘Republican’ Campaign to Build Up Weak Opponent http://www.washingtonstatewire.com/home/5818-labor_and_lawyers_were_behind_sneak_attack_on_berkey_pdc_says_%E2%80%93_created_fake_%E2%80%98republican%E2%80%99_campaign_to_build_up_weak_opponent.htm</ref> sought to "Squeeze The Middle"<ref>Seattle Times November 2, 2010 Time for a do-over in the 38th Legislative District's Senate primary http://seattletimes.nwsource.com/html/opinion/2013328444_guest03vognild.html</ref> to attack the moderate incumbent Berkey and achieve a polarized primary result<ref>Seattle Times August 22, 2010 State Sen. Jean Berkey asks PDC to set aside election results http://seattletimes.nwsource.com/html/politicsnorthwest/2012744540_statesenjeanberkeyasks.html</ref> with subsequent uncompetitive runnoff election.  . 
+
+===Washington state US Senate race, 2010===. 
+First Ballot, August 17, 2010 (only top three votegetters listed)<ref>[http://vote.wa.gov/Elections/WEI/Results.aspx?RaceTypeCode=O&JurisdictionTypeID=1&ElectionID=36&ViewMode=Results Primary election results for Washington state, 2010]</ref> . 
+
+{| class="wikitable"
+| bgcolor=#cccccc | '''Candidate'''
+| bgcolor=#cccccc | '''Party Preference'''
+| bgcolor=#cccccc | '''Support'''
+| bgcolor=#cccccc | '''Outcome'''
+. |-
+|bgcolor=#DDEEFF| Patty Murray
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 670,284 (46.22%)
+|bgcolor=#DDEEFF| Runoff
+. |-
+|bgcolor=#FFE8E8| Clint Didier
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 185,034 (12.76%)
+|bgcolor=#FFE8E8| Defeated
+. |-
+|bgcolor=#FFE8E8| Dino Rossi
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 483,305 (33.33%)
+|bgcolor=#FFE8E8| Runoff
+|} . 
+
+Second Ballot November 2, 2010<ref name="vote.wa.gov"/> . 
+
+{| class="wikitable"
+| bgcolor=#cccccc | '''Candidate'''
+| bgcolor=#cccccc | '''Party Preference'''
+| bgcolor=#cccccc | '''Support'''
+| bgcolor=#cccccc | '''Outcome'''
+. |-
+|bgcolor=#DDEEFF| Patty Murray
+|bgcolor=#DDEEFF| Democratic
+|bgcolor=#DDEEFF| 1,314,930 (52.36%)
+|bgcolor=#DDEEFF| Elected
+. |-
+|bgcolor=#FFE8E8| Dino Rossi
+|bgcolor=#FFE8E8| Republican
+|bgcolor=#FFE8E8| 1,196,164 (47.64%)
+|bgcolor=#FFE8E8| Defeated
+|} . 
+
+In this race, the three leading candidates' competition resulted in a more moderate and popular Republican facing off against the incumbent Democrat, with a relatively close general election. Didier and Rossi were the two main Republicans vying to run against the incumbent Democratic Senator Patty Murray. Rossi had much greater name recognition, had narrowly lost two races for governor, and was favored by the party establishment. Didier had never run for elected office and was endorsed by Tea Party leaders Ron Paul and Sarah Palin. Didier might have been able to win the GOP nomination from Rossi in a closed primary that rewards candidates for appealing to the hardline of their base, but the more moderate Rossi was easily able to defeat Didier in the Top Two primary. While one might expect more Democrats in the Top Two primary to vote tactically for Didier, the Republican candidate who was doing much worse in polls against Murray, most Democrats seemed content voting for Murray. If any tactical voting occurred, it seemed to be on the Republican side, with the vast majority of the Republican voters choosing Rossi, perceived as a more electable candidate. In this case, the Top Two primary resulted in a more moderate Republican candidate running against the Democratic incumbent, and likely a much more competitive race than if the Tea Party candidate had run against Murray. <ref>[http://www.tri-cityherald.com/2010/06/27/1071546/didier-rossi-primary-captures.html Tri-City Herald: Didier, Rossi primary captures national attention]</ref> . 
+
+==Criticism==. 
+Critics of the nonpartisan blanket primary object to calling it an ''[[open primary]]'', and one judge in California even barred proponents from using the term in their advertisements.{{ref|4}}  Additionally, critics also note the strong possibility of two candidates from the same party advancing to the second round; this becomes increasingly likely when one party runs drastically fewer candidates than another and thus faces less [[vote-splitting]].  Under the nonpartisan blanket primary, a party with two candidates and only 41% popular support would beat a party with three candidates and 59% popular support if voters split their votes evenly amongst candidates for their own party. The results of one study comparing the results in Washington state between the 2004 (closed) and 2008 (top two) primaries, indicate that the top two primary reduced the likelihood of running against a same party candidate and it reduced the likelihood that a strong incumbent would face a challenger from his or her own party. <ref>http://pubchoicesoc.org/papers_2010/Beck_Henrickson.pdf{{Dead link|date=April 2011}}</ref> . 
+
+The nonpartisan aspect means that political parties cannot control which candidates are allowed to use the party name. Partisan primaries allow for one candidate from each party to advance to the general election; no other candidate may use the party name in their campaign.  . 
+
+In Washington State, major parties have resorted to an alternate process of party nomination for partisan legislative and county administrative positions<ref>http://www.wa-democrats.org/content/nominating-conventions</ref>. This ensures that one official party candidate will be in the primary, theoretically reducing the risk of intra-party vote splits. However, the law does not allow nominations or endorsements by interest groups, political action committees, political parties, labor unions, editorial boards, or other private organizations to be printed on the ballot<ref>Top 2 Primary: FAQs for Candidates http://www.sos.wa.gov/elections/faqcandidates.aspx</ref>.  . 
+
+The indication of party "preference" as opposed to party ''affiliation'' opens the door for candidates to misrepresent their leanings or otherwise confuse voters. In 2008, a Washington gubernatorial candidate indicated party preference as "G.O.P." instead of Republican. A public poll found that 25% of the public did not know that the two terms mean the same thing<ref>[[Washington gubernatorial election, 2008#Controversy over Rossi's party preference]]</ref>.  . 
+
+==See also==. 
+*[[Instant-runoff voting]] . 
+
+==References==. 
+{{reflist}}
+====Notes====. 
+<small>
+#{{note|1}} [http://legis.state.la.us/billdata/streamdocument.asp?did=405820 Senate Bill No. 18]
+#{{note|2}} [http://www.leg.state.or.us/07reg/pubs/senmh.html#pgfId-323031 Oregon Senate Bill Votes]
+#{{note|3}} [http://legis.state.la.us/billdata/byinst.asp?sessionid=06RS&billtype=SB&billno=18 SB18 - 2006 Regular Session (Act 560)]
+#{{note|4}} [http://www.yeson60.com/myths_vs__facts__proposition_62.html Myths vs. Facts: Proposition 62]
+</small> . 
+
+==External links==. 
+*[http://www.fivethirtyeight.com/2009/02/land-of-thousand-liebermans.html Land of a Thousand Liebermans] analysis by [[Nate Silver]] of ''[[FiveThirtyEight.com]]''
+*[http://roomfordebate.blogs.nytimes.com/2010/06/09/will-californias-top-two-primary-work/ Will California's 'Top Two' Primary Work?] New York Times provides six views on new California primary
+*[http://seattletimes.nwsource.com/html/editorials/2012672963_edit20toptwo.html Washington's top-two primary gets voters the better choice] Seattle Times editorial praising Top Two primary in Washington state 2010 elections
+*[http://azdailysun.com/news/opinion/mailbag/top-two-primary-worth-considering/article_615362ce-1f63-5292-98d1-a549b7a76049.html Top Two primary worth considering] advocating Top Two primary for Arizona
+*[http://articles.latimes.com/2009/feb/20/opinion/oe-hill20 Pros and cons of a top-two primary] LA Times presents two views on the Top Two primary
+*[http://www.stoptoptwo.org/ Stop Top Two] Free and Equal Elections Foundation, a coalition of independent and minority party activists opposing the Top Two primary . 
+
+[[Category:Louisiana elections]]
+[[Category:Voting systems]]
+[[Category:Elections in the United States]]

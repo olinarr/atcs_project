@@ -1,0 +1,187 @@
+The '''Fairness Doctrine''' was a policy of the United States [[Federal Communications Commission]] (FCC), introduced in 1949, that required the holders of [[broadcast license]]s to both present controversial issues of public importance and to do so in a manner that was, in the Commission's view, honest, equitable and balanced. The FCC decided to eliminate the Doctrine in 1987, and in August 2011 the FCC formally removed the language that implemented the Doctrine. <ref name="Finally">{{cite web|last=Boliek|first=Brooks|title=FCC finally kills off fairness doctrine|url=http://www.politico.com/news/stories/0811/61851.html|work=POLITICO|date=August 22, 2011}}</ref>  . 
+
+The Fairness Doctrine had two basic elements: It required broadcasters to devote some of their airtime to discussing controversial matters of public interest, and to air contrasting views regarding those matters. Stations were given wide latitude as to how to provide contrasting views: It could be done through news segments, public affairs shows, or editorials. The doctrine did not require equal time for opposing views but required that contrasting viewpoints be presented. <ref>
+{{cite news
+  | last = Rendall
+  | first = Steve
+  | coauthors =
+  | title = The Fairness Doctrine: How We Lost it, and Why We Need it Back
+  | work = Common Dreams
+  | pages =
+  | publisher = [[Fairness and Accuracy In Reporting]]
+  | date = 2005-02-12
+  | url = http://www.commondreams.org/views05/0212-03.htm
+  | accessdate = 2008-11-13}}
+</ref> . 
+
+The main agenda for the doctrine was to ensure that viewers were exposed to a diversity of viewpoints. In 1969 the [[Supreme Court of the United States|United States Supreme Court]] upheld the FCC's general ''right'' to enforce the Fairness Doctrine where channels were limited. But the courts did not rule that the FCC was ''obliged'' to do so. <ref name=RedLion>[http://www.epic.org/free_speech/red_lion.html ''Red Lion Broadcasting Co.'' v. ''FCC''], decided June 8, 1969, also at {{Ussc|395|367|1969}} (Excerpt from Majority Opinion, III A; Senate report cited in footnote 26). Justice [[William O. Douglas]] did not participate in the decision, but there were no concurring or dissenting opinions. </ref> The courts reasoned that the scarcity of the broadcast spectrum, which limited the opportunity for access to the airwaves, created a need for the Doctrine. However, the proliferation of cable television, multiple channels within cable, public-access channels, and the Internet have eroded this argument, since there are plenty of places for ordinary individuals to make public comments on controversial issues at low or no cost.  . 
+
+The Fairness Doctrine should not be confused with the [[Equal-time rule|Equal Time]] rule. The Fairness Doctrine deals with discussion of controversial issues, while the Equal Time rule deals only with political candidates.  . 
+
+==Origins==. 
+The 1949 FCC Commission Report served as the foundation for the Fairness Doctrine. It established two forms of regulation on broadcasters: to provide adequate coverage of public issues, and to ensure that coverage fairly represented opposing views. <ref>Jung, D.L. (1996), ''The Federal Communications Commission, the broadcast industry, and the fairness doctrine 1981-1987'', New York: University Press of America, Inc. </ref> The second rule required broadcasters to provide reply time to issue-oriented citizens. Broadcasters could therefore trigger Fairness Doctrine complaints without editorializing. The commission required neither of the Fairness Doctrine's obligations before 1949. Until then broadcasters had to satisfy only general “public interest” standards of the Communications Act. <ref>Donahue, H.(1988). ''The battle to control broadcast news''. Cambridge, Mass.: MIT Press</ref><ref>Report on Editorializing by Broadcast Licensees, 13 F.C.C. 1246 [1949])</ref> . 
+
+The doctrine remained a matter of general policy and was applied on a case-by-case basis until 1967, when certain provisions of the doctrine were incorporated into FCC regulations. <ref>Donald P. Mullally, "The Fairness Doctrine: Benefits and Costs", The Public Opinion Quarterly, Vol. 33, No. 4 (Winter, 1969-1970), p. 577</ref> . 
+
+== Application of the Doctrine by the FCC == . 
+
+In 1974, the Federal Communications Commission stated that the [[United States Congress|Congress]] had delegated it the power to mandate a system of "access, either free or paid, for person or groups wishing to express a viewpoint on a controversial public issue..." but that it had not yet exercised that power because licensed broadcasters had "voluntarily" complied with the "spirit" of the doctrine.  It warned that: {{cquote|Should future experience indicate that the doctrine [of 'voluntary compliance'] is inadequate, either in its expectations or in its results, the Commission will have the opportunity—and the responsibility—for such further reassessment and action as would be mandated. <ref>In the Matter of THE HANDLING OF PUBLIC ISSUES UNDER THE FAIRNESS DOCTRINE AND THE PUBLIC INTEREST STANDARDS OF THE COMMUNICATIONS ACT, 48 F.C.C.2d 1 (F.C.C. 1974)</ref>}}
+In one landmark case, the FCC argued that [[teletext]] was a new technology that created soaring demand for a limited resource, and thus could be exempt from the Fairness Doctrine. The Telecommunications Research and Action Center (TRAC) and Media Access Project (MAP) argued that teletext transmissions should be regulated like any other airwave technology, hence the Fairness Doctrine was applicable (and must be enforced by the FCC). In 1986, Judges [[Robert Bork]] and [[Antonin Scalia]] of the [[United States Court of Appeals for the District of Columbia Circuit]] concluded that the Fairness Doctrine did apply to teletext but that the FCC was not required to apply it. <ref>[http://www.altlaw.org/v1/cases/419289 ''Telecommunications Research and Action Center'' v. ''FCC'', 801 F.2d 501 (D.C. Cir. 1986)] retrieved on August 17, 2008</ref>&nbsp; In a 1987 case, ''[[Meredith Corporation|Meredith Corp.]] v. FCC'', two other judges on the same court declared that Congress did not mandate the doctrine and the FCC did not have to continue to enforce it. <ref>[http://www.altlaw.org/v1/cases/421421 ''Meredith Corp.'' v. ''FCC'', 809 F.2d 863 (D.C. Cir. 1987)], February 10, 1987, retrieved on August 17, 2008</ref> . 
+
+==Decisions of the United States Supreme Court== . 
+
+In ''[[Red Lion Broadcasting Co. v. FCC]]'', {{Ussc|395|367|1969}}, the U.S. Supreme Court upheld (by a vote of 8-0) the constitutionality of the Fairness Doctrine in a case of an on-air personal attack, in response to challenges that the doctrine violated the [[First Amendment to the U.S. Constitution]]. The case began when journalist [[Fred J. Cook]], after the publication of his ''Goldwater: Extremist of the Right'', was the topic of discussion by [[Billy James Hargis]] on his daily Christian Crusade radio broadcast on [[WGCB-TV|WGCB]] in [[Red Lion, Pennsylvania]]. Mr. Cook sued arguing that the Fairness Doctrine entitled him to free air time to respond to the personal attacks. <ref>Tom Joyce: [http://docs.newsbank.com/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:NewsBank:YDRB&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=0FAE0731EA2EE1CD&svc_dat=InfoWeb:aggregated4&req_dat=11ECDBF131F44C689BB0EDBA11D99EE0 “His call for a reply set up historic broadcast ruling; Fred J. Cook, whose book was attacked on Red Lion radio station WGCB in 1964, died recently at age 92.”] ''York Daily Record'' (Pennsylvania), May 6, 2003, retrieved on August 17, 2008</ref> . 
+
+Although similar laws are unconstitutional when applied to the press, the Court cited a [[United States Senate|Senate]] report (S. Rep. No. 562, 86th Cong., 1st Sess., 8-9 [1959]) stating that radio stations could be regulated in this way because of the limited public airwaves at the time. Writing for the Court, Justice [[Byron White]] declared:{{cquote|A license permits broadcasting, but the licensee has no constitutional right to be the one who holds the license or to monopolize a radio frequency to the exclusion of his fellow citizens. There is nothing in the First Amendment which prevents the Government from requiring a licensee to share his frequency with others.... It is the right of the viewers and listeners, not the right of the broadcasters, which is paramount. <ref name=RedLion />}}
+The Court warned that if the doctrine ever restrained speech, then its constitutionality should be reconsidered.  . 
+
+However, in the case of ''[[Miami Herald Publishing Co. v. Tornillo]]'', {{Ussc|418|241|1974}}, [[Chief Justice of the United States|Chief Justice]] [[Warren Burger]] wrote (for a unanimous court):{{cquote|Government-enforced right of access inescapably dampens the vigor and limits the variety of public debate.}}
+This decision differs from ''Red Lion'' v. ''FCC'' in that it applies to a newspaper, which, unlike a broadcaster, is unlicensed and can theoretically face an unlimited number of competitors.  . 
+
+In 1984, the Supreme Court ruled that Congress could not forbid editorials by non-profit stations that received grants from the [[Corporation for Public Broadcasting]] (''FCC v. [[League of Women Voters]] of California'', {{Ussc|468|364|1984}}). The Court's 5-4 majority decision by [[William J. Brennan, Jr.]] stated that while many now considered that expanding sources of communication had made the Fairness Doctrine's limits unnecessary: {{cquote|We are not prepared, however, to reconsider our longstanding approach without some signal from Congress or the FCC that technological developments have advanced so far that some revision of the system of broadcast regulation may be required. (footnote 11)}}
+After noting that the FCC was considering repealing the Fairness Doctrine rules on editorials and personal attacks out of fear that those rules might be "chilling speech", the Court added: {{cquote|Of course, the Commission may, in the exercise of its discretion, decide to modify or abandon these rules, and we express no view on the legality of either course. As we recognized in Red Lion, however, were it to be shown by the Commission that the fairness doctrine '[has] the net effect of reducing rather than enhancing' speech, we would then be forced to reconsider the constitutional basis of our decision in that case. (footnote 12)<ref>The quotation is from Section III C of ''Red Lion'' v. ''FCC'' {{Ussc|395|367|1969}}. Justice Brennan's opinion was joined by Justices [[Thurgood Marshall]], [[Harry Blackmun]], [[Lewis F. Powell, Jr.|Lewis Powell]] and [[Sandra Day O'Connor]]. Dissenting opinions were written or joined by Chief Justice [[Warren Burger]] and Justices [[William Rehnquist]], [[Byron White]] and [[John Paul Stevens]]</ref>}} . 
+
+== Revocation ==. 
+=== Basic doctrine ===. 
+In 1985, under FCC Chairman [[Mark S. Fowler]], a communications attorney who had served on Ronald Reagan's presidential campaign staff in 1976 and 1980, the FCC released a report stating that the doctrine hurt the public interest and violated [[free speech]] rights guaranteed by the [[First Amendment to the U.S. Constitution|First Amendment]].   . 
+
+In August 1987, under FCC Chairman [[Dennis R. Patrick]], the FCC abolished the doctrine by a 4-0 vote, in the ''Syracuse Peace Council'' decision, which was upheld by a panel of the Appeals Court for the D.C. Circuit in February 1989. <ref>[http://www.altlaw.org/v1/cases/421365 ''Syracuse Peace Council'' v. ''FCC'', 867 F.2d 654 (D.C. Cir. 1989)], retrieved on August 17, 2008</ref> The FCC suggested in ''Syracuse Peace Council'' that because of the many media voices in the marketplace, the doctrine be deemed unconstitutional, stating that: {{cquote|The intrusion by government into the content of programming occasioned by the enforcement of [the Fairness Doctrine] restricts the journalistic freedom of broadcasters ... [and] actually inhibits the presentation of controversial issues of public importance to the detriment of the public and the degradation of the editorial prerogative of broadcast journalists.}}   . 
+
+At the 4-0 vote, Chairman Patrick said,{{cquote|We seek to extend to the electronic press the same First Amendment guarantees that the print media have enjoyed since our country's inception. <ref>FCC Video, NBCUniversal (1987) ("Today we reaffirm our faith in the American people.  Our faith in their ability to distinguish between between fact and fiction without any help from government.") [http://www.nbcuniversalarchives.com/nbcuni/clip/5112536677_002.do "FCC 1987"; see Robert D. Hershey, Jr., F.C.C. Votes Down Fairness Doctrine in a 4-0 Decision, New York Times, August 5, 1987 [http://www.nytimes.com/1987/08/05/arts/fcc-votes-down-fairness-doctrine-in-a-4-0-decision.html]</ref>}} . 
+
+The FCC vote was opposed by members of Congress who said the FCC had tried to "flout the will of Congress" and the decision was "wrongheaded, misguided and illogical."<ref>Robert D. Hershey, Jr., F.C.C. Votes Down Fairness Doctrine in a 4-0 Decision, New York Times, August 5, 1987 [http://www.nytimes.com/1987/08/05/arts/fcc-votes-down-fairness-doctrine-in-a-4-0-decision.html]</ref>.  The decision drew political fire and tangling, where cooperation with Congress was at issue. <ref>Sandra Salmans, Regulator Unregulated: Dennis Patrick; At the FCC, Another Man Who Loves Free Markets. [http://www.nytimes.com/1987/09/20/business/regulator-unregulated-dennis-patrick-fcc-another-man-who-loves-free-markets.html]</ref> In June 1987, Congress attempted to preempt the FCC decision and codify the Fairness Doctrine,<ref>The Fairness in Broadcasting Act of 1987, S. 742 & H.R. 1934, 100th Cong., 1st Sess. (1987)</ref> but the legislation was vetoed by President [[Ronald Reagan]]. Another attempt to revive the doctrine in 1991 was stopped when President [[George H.W. Bush]] threatened another veto. <ref>Val E. Limburg, [http://www.museum.tv/archives/etv/F/htmlF/fairnessdoct/fairnessdoct.htm "Fairness Doctrine"], April 27, 2009, [[Museum of Broadcast Communications]]</ref> . 
+
+Fowler said in February 2009 that his work toward revoking the Fairness Doctrine under the Reagan Administration had been a matter of principle (his belief that the Doctrine impinged upon the First Amendment), not partisanship. Fowler described the White House staff raising concerns, at a time before the prominence of conservative talk radio and during the preeminence of the [[Big Three television networks]] and PBS in political discourse, that repealing the policy would be politically unwise. He described the staff's position as saying to Reagan: {{cquote|The only thing that really protects you from the savageness of the three networks{{mdash}}every day they would savage Ronald Reagan{{mdash}}is the Fairness Doctrine, and Fowler is proposing to repeal it!<ref name="Fowler-Levin;">[http://citadelcc.vo.llnwd.net/o29/network/Levin/MP3/levin02162009.mp3 The Mark Levin Show], February 16, 2009 (a 26-Megabyte [[MP3]] file), from about 17 minutes 15 seconds into the broadcast to 25 min. 45 sec. </ref>}}
+Instead, Reagan supported the effort and later vetoed the Democratic-controlled Congress's effort to make the doctrine law.  . 
+
+=== Corollary rules ===. 
+Two corollary rules of the doctrine, the [[personal attack rule]] and the "political editorial" rule, remained in practice until 2000. The "personal attack" rule applied whenever a person (or small group) was subject to a personal attack during a broadcast. Stations had to notify such persons (or groups) within a week of the attack, send them transcripts of what was said and offer the opportunity to respond on-the-air. The "political editorial" rule applied when a station broadcast editorials endorsing or opposing candidates for public office, and stipulated that the unendorsed candidates be notified and allowed a reasonable opportunity to respond.  . 
+
+The [[U.S. Court of Appeals for the D.C. Circuit]] ordered the FCC to justify these corollary rules in light of the decision to repeal the Fairness Doctrine. The FCC did not provide prompt justification and ultimately ordered their repeal in 2000.  . 
+
+== Reinstatement considered ==. 
+=== Support ===. 
+In February 2005, U.S. Representative [[Louise Slaughter]] ([[U.S. Democratic Party|Democrat]] of [[New York (state)|New York]]) and 23 co-sponsors introduced the Fairness and Accountability in Broadcasting Act (H.R. 501)<ref>[http://www.govtrack.us/congress/billtext.xpd?bill=h109-501 H.R. 501, Fairness and Accountability in Broadcasting Act (109th Congress, 1st Session)] (full text) from GovTrack.us, retrieved on November 13, 2008. </ref> in the 1st Session of the [[109th Congress]] of 2005-7 (when [[Republican Party (United States)|Republicans]] held a majority of both Houses). The bill would have shortened a station's license term from eight years to four, with the requirement that a license-holder cover important issues fairly, hold local public hearings about its coverage twice a year, and document to the FCC how it was meeting its obligations. <ref>[[Congressional Research Service]] summary of [http://www.govtrack.us/congress/bill.xpd?bill=h109-501&tab=summary  H.R. 501--109th Congress (2005): Fairness and Accountability in Broadcasting Act], GovTrack.us (database of federal legislation), retrieved on November 13, 2008</ref>  The bill was referred to committee, but progressed no further. <ref>[http://www.govtrack.us/congress/bill.xpd?bill=h109-501 Overview of H.R. 501 (109th Congress, 1st session)] from GovTrack.us, retrieved on November 14, 2008. </ref> . 
+
+In the same Congress, Representative [[Maurice Hinchey]] (another Democrat from New York) introduced legislation "to restore the Fairness Doctrine". H.R. 3302, also known as the "Media Ownership Reform Act of 2005" or MORA, had 16 co-sponsors in Congress. <ref>Summary at {{cite web|url=http://www.house.gov/hinchey/issues/mora.shtml|title=Media Ownership Reform Act of 2005|accessdate =2007-09-12 |archiveurl = http://web.archive.org/web/20070902141115/http://www.house.gov/hinchey/issues/mora.shtml <!-- Bot retrieved archive --> |archivedate = 2007-09-02}} - Full text at [http://www.thomas.gov/home/gpoxmlc109/h3302_ih.xml H.R. 3302 Media Ownership Reform Act of 2005] retrieved on August 17, 2008. </ref> . 
+
+In June 2007, Senator [[Dick Durbin|Richard Durbin]] (D-[[Illinois]]) said, "It's time to reinstitute the Fairness Doctrine,"<ref>Alexander Bolton, [http://thehill.com/leading-the-news/gop-preps-for-talk-radio-confrontation-2007-06-27.html GOP preps for talk radio confrontation] ''[[The Hill (newspaper)|TheHill.com]]'', June 27, 2007, retrieved on October 27, 2008</ref> an opinion shared by his Democratic colleague, Senator [[John Kerry]]  of [[Massachusetts]]. <ref>
+{{cite web
+  | author= John Eggerton
+  | title = Kerry Wants Fairness Doctrine Reimposed
+  | publisher = ''[[Broadcasting and Cable]]''
+  | date = June 27, 2007
+  | url = http://www.broadcastingcable.com/article/CA6456031.html
+  | accessdate = October 27, 2008 }} describing an interview on ''[[The Brian Lehrer Show]]'' on [[WNYC]] radio</ref> However, according to Marin Cogan of ''[[The New Republic]]'' in late 2008: {{cquote|Senator Durbin's press secretary says that Durbin has 'no plans, no language, no nothing. He was asked in a hallway last year, he gave his personal view'{{mdash}}that the American people were served well under the doctrine{{mdash}}'and it's all been blown out of proportion.'<ref>Marin Cogan, [http://www.tnr.com/politics/story.html?id=68d07041-7dbc-451d-a18a-752567145610 Bum Rush: Obama's secret plan to muzzle talk radio. Very, very secret], ''[[The New Republic]]'', December 3, 2008, retrieved on November 20, 2008</ref>}}
+On June 24, 2008, U.S. Representative [[Nancy Pelosi]] of [[San Francisco]], [[California]] (who had been elected [[Speaker of the U.S. House of Representatives|Speaker of the House]] in January 2007) told reporters that her fellow [[U.S. Democratic Party|Democratic]] Representatives did not want to forbid reintroduction of the Fairness Doctrine, adding "the interest in my caucus is the reverse."  When asked by John Gizzi of ''[[Human Events]]'', "Do you personally support revival of the 'Fairness Doctrine?'", the Speaker replied "Yes."<ref>{{cite web
+  | author = John Gizzi
+  | title = Pelosi Supports Fairness Doctrine
+  | publisher = ''[[Human Events]]''
+  | date=June 25, 2008
+  | url =http://www.humanevents.com/article.php?id=27185
+  | accessdate = October 27, 2008 }}</ref>
+On October 22, 2008, Senator [[Jeff Bingaman]] (Democrat of [[New Mexico]]) told a conservative talk radio host in [[Albuquerque, New Mexico]]: {{cquote|I would want this station and all stations to have to present a balanced perspective and different points of view. All I’m saying is that for many, many years we operated under a Fairness Doctrine in this country, and I think the country was well-served. I think the public discussion was at a higher level and more intelligent in those days than it has become since. <ref>{{cite web
+  | author = Pete Winn
+  | title = Democratic Senator Tells Conservative Radio Station He'd Re-impose Fairness Doctrine--on Them
+  | publisher = ''[[CNS News]]''
+  | date=October 22, 2008
+  | url=http://www.cnsnews.com/public/content/article.aspx?RsrcID=38008
+  | accessdate = October 28, 2008 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref>}}
+On December 15, 2008, U.S. Representative [[Anna Eshoo]] (Democrat of [[California]]) told [[Palo Alto Daily Post|The Daily Post]] in [[Palo Alto, California]] that she thought it should also apply to cable and satellite broadcasters. {{cquote|I’ll work on bringing it back. I still believe in it. It should and will affect everyone. <ref>{{cite web
+  | author = San Francisco Peninsula Press Club
+  | title = Rep. Eshoo to push for Fairness Doctrine
+  | publisher = San Francisco Peninsula Press Club
+  | date=DECEMBER 16, 2008
+  | url=http://sfppc.blogspot.com/2008/12/rep-eshoo-to-push-for-fairness-doctrine.html
+  | accessdate = December 15, 2008 }}</ref>}}
+On February 11, 2009, Senator Tom Harkin (Democrat of [[Iowa]]) told Press, "...we gotta get the Fairness Doctrine back in law again." Later in response to Press's assertion that "...they are just shutting down progressive talk from one city after another," Senator Harkin responded, "Exactly, and that's why we need the fair{{mdash}}that's why we need the Fairness Doctrine back."<ref>{{cite web
+  | author = Michael Calderon
+  | title = Sen. Harkin: 'We need the Fairness Doctrine back'
+  | publisher = ''[[Politico (newspaper)|Politico]]''
+  | date=February 11, 2009
+  | url=http://www.politico.com/blogs/michaelcalderone/0209/Sen_Harkin_We_need_the_Fairness_Doctrine_back_.html?showall
+  | accessdate = February 11, 2009 }}</ref>
+Former President [[Bill Clinton]] has also shown support for the Fairness Doctrine. During a February 13, 2009, appearance on the [[Mario Solis Marich]] radio show, Clinton said: {{cquote|Well, you either ought to have the Fairness Doctrine or we ought to have more balance on the other side, because essentially there's always been a lot of big money to support the right wing talk shows.}} 
+Clinton cited the "blatant drumbeat" against the stimulus program from conservative talk radio, suggesting that it doesn't reflect economic reality. <ref>{{cite web
+  | author = John Eggerton
+  | title = Bill Clinton Talks of Re-Imposing Fairness Doctrine or At Least "More Balance" in Media
+  | publisher = Broadcasting & Cable
+  | date=February 13, 2009
+  | url=http://www.broadcastingcable.com/article/174123-Bill_Clinton_Talks_of_Re_Imposing_Fairness_Doctrine_or_At_Least_More_Balance_in_Media.php
+  | accessdate = February 13, 2009 }}</ref> . 
+
+=== Opposition  ===. 
+The Fairness Doctrine has been strongly opposed by prominent [[Conservatism|conservative]]s and [[libertarians]] who view it as an attack on First Amendment rights and property rights. Editorials in ''[[The Wall Street Journal]]'' and ''[[The Washington Times]]'' in 2005 and 2008 said that Democratic attempts to bring back the Fairness Doctrine have been made largely in response to  conservative [[talk radio]]. <ref>
+{{cite web
+  | title = Rush to Victory
+  | publisher = ''[[The Wall Street Journal]]''
+  | date=April 4, 2005
+  | url=http://www.opinionjournal.com/columnists/dhenninger/?id=110006626
+  | accessdate = July 1, 2008 }}</ref><ref>{{cite web
+  | title = ‘Fairness’ is Censorship
+  | publisher = ''[[The Washington Times]]''
+  | date=June 17, 2008
+  | url=http://www.washingtontimes.com/news/2008/jun/17/fairness-is-censorship/
+  | accessdate = July 1, 2008 }}</ref> . 
+
+In 2007, Senator [[Norm Coleman]] (Republican, [[Minnesota]]) proposed an amendment to a defense [[appropriations bill]] that forbade the FCC from "using any funds to adopt a fairness rule."<ref>{{cite web |url=http://www.commondreams.org/archive/2007/07/14/2514/
+|title=Democrats Block Amendment to Prevent Fairness Doctrine
+|author=Frommer, Frederic J. 
+|date=July 14, 2007
+|publisher=[[Associated Press]]
+|accessdate =August 10, 2008}}</ref> It was blocked, in part on grounds that "the amendment belonged in the [[United States Senate Committee on Commerce, Science and Transportation|Commerce Committee]]'s jurisdiction".  . 
+
+In the same year, the Broadcaster Freedom Act of 2007 was proposed in the Senate by Senators Coleman with 35 co-sponsors (S.1748) and [[John Thune]] (R-SD) with 8 co-sponsors (S.1742)<ref>[http://www.opencongress.org/bill/110-s1742/show Broadcaster Freedom Act of 2007], Open Congress Foundation, retrieved on November 14, 2008</ref> and in the House by Republican Representative [[Mike Pence]] of [[Indiana]] with 208 co-sponsors (H.R. 2905). <ref>[http://www.opencongress.org/bill/110-h2905/show Broadcaster Freedom Act of 2007, introduced February 1, 2005, "To prevent the Federal Communications Commission from repromulgating the fairness doctrine"], Open Congress Foundation, retrieved on November 14, 2008</ref> It provided that: {{cquote|The Commission shall not have the authority to prescribe any rule, regulation, policy, doctrine, standard, or other requirement that has the purpose or effect of reinstating or repromulgating (in whole or in part) the requirement that broadcasters present opposing viewpoints on controversial issues of public importance, commonly referred to as the `Fairness Doctrine', as repealed in General Fairness Doctrine Obligations of Broadcast Licensees, 50 Fed. Reg. 35418 (1985). <ref>[http://www.govtrack.us/congress/billtext.xpd?bill=h110-2905  Text of H.R. 2905: Broadcaster Freedom Act of 2007], GovTrack.us, retrieved on November 14, 2008</ref>}}
+Neither of these measures came to the floor of either house.  . 
+
+On August 12, 2008, FCC Commissioner [[Robert M. McDowell]] stated that the reinstitution of the Fairness Doctrine could be intertwined with the debate over [[network neutrality]] (a proposal to classify network operators as [[common carrier]]s required to admit all Internet services, applications and devices on equal terms), presenting a potential danger that net neutrality and Fairness Doctrine advocates could try to expand content controls to the Internet. <ref>Jeff Poor, [http://www.businessandmedia.org/articles/2008/20080812160747.aspx "FCC Commissioner: Return of Fairness Doctrine Could Control Web Content"], August 13, 2008, Business & Media Institute</ref> It could also include "government dictating content policy". <ref>http://www.eyeblast.tv/Public/Video.aspx?rsrcID=34016 See also [http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-288134A1.pdf Commissioner McDowell's speech to the Media Institute] in January 2009. </ref>     The conservative [[Media Research Center]]'s Culture & Media Institute argued that the three main points supporting the Fairness Doctrine — media scarcity, liberal viewpoints being censored at a corporate level, and public interest — are all myths. <ref>[http://www.cultureandmedia.com/specialreports/2008/Fairness_Doctrine/CMI_FairnessDoctrine_Single.pdf Culture & Media Institute report on The Fairness Doctrine.] - accessed August 13, 2008. </ref> . 
+
+On February 16, 2009, Mark Fowler said: {{cquote|I believe as President Reagan did, that the electronic press{{mdash}}and you're included in that{{mdash}}the press that uses air and electrons, should be and must be as free from government control as the press that uses paper and ink, ''Period''. <ref name="Fowler-Levin;"/>}}
+In the [[111th Congress]] (January 2009 to January 2011), some members introduced the [[Broadcaster Freedom Act of 2009]] (S.34, S.62, H.R.226), to block reinstatement of the Doctrine.  On February 26, 2009, by a vote of 87-11, the Senate added that act as an amendment to the [[District of Columbia House Voting Rights Act of 2009]] (S.160),<ref>{{cite news |title=Senate Backs Amendment to Prevent Fairness Doctrine Revival |work=FOXNews.com |date=February 26, 2009 |url=http://www.foxnews.com/politics/2009/02/26/demint-tries-prevent-fairness-doctrine-revival/ }} {{Dead link|date=August 2010|bot=RjwilmsiBot}}</ref> [a bill which later passed the Senate 61-37, but not the House of Representatives]. <ref>{{cite news|url=http://www.washingtontimes.com/news/2009/feb/26/senate-votes-give-dc-full-house-vote/|title=Senate votes to give D.C. full House vote|last=Warren|first=Timothy|date=February 26, 2009|publisher=[[The Washington Times]]|accessdate=February 26, 2009}} The Senate roll call is [http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111&session=1&vote=00073 here]. </ref> The [[Associated Press]] reported that the vote on the Fairness Doctrine [[rider (legislation)|rider]] was: {{cquote|In part a response to conservative radio talk show hosts who feared that Democrats would try to revive the policy to ensure liberal opinions got equal time.}}
+The AP report went on to say that President Obama had no intention of reimposing the doctrine, but Republicans (led by Sen. [[Jim DeMint]], R-[[S. Carolina]]) wanted more in the way of a guarantee that the doctrine would not be reimposed. <ref>[http://www.breitbart.com/article.php?id=D96JF8V00&show_article=1 Senate bars FCC from revisiting Fairness Doctrine] The Associated Press, February 26, 2009</ref> . 
+
+===Suggested alternatives=== . 
+
+{{distinguish|Unfairness doctrine}} . 
+
+Media reform organizations such as [[Free Press (organization)|Free Press]] feel that a return to the Fairness Doctrine is not as important as setting stronger station ownership caps and stronger "public interest" standards enforcement (with funding from fines given to [[public broadcasting]]). <ref>[http://www.freepress.net/files/talk_radio.pdf "The Structural Imbalance of Talk Radio", Free Press, Center for American Progress]</ref> . 
+
+In June 2008, [[Barack Obama]]'s press secretary wrote that Obama (then a Democratic U.S. Senator from Illinois and candidate for President): {{cquote|Does not support reimposing the Fairness Doctrine on broadcasters ... [and] considers this debate to be a distraction from the conversation we should be having about opening up the airwaves and modern communications to as many diverse viewpoints as possible. That is why Sen. Obama supports media-ownership caps, [[network neutrality]], [[public broadcasting]], as well as increasing minority ownership of broadcasting and print outlets. <ref>John Eggerton, [http://www.broadcastingcable.com/article/CA6573406.html "Obama Does Not Support Return of Fairness Doctrine"], ''[[Broadcasting & Cable]]'', June 25, 2008, retrieved on October 30, 2008, citing an e-mail from Obama's press secretary, Michael Ortiz. </ref>}}
+In February 2009, a White House spokesperson said that President Obama continues to oppose the revival of the Doctrine. <ref>{{cite news |title=White House: Obama Opposes 'Fairness Doctrine' Revival |url=http://www.foxnews.com/politics/first100days/2009/02/18/white-house-opposes-fairness-doctrine/ |work=Fox News |date=February 18, 2009}}</ref> . 
+
+===Public opinion===. 
+In an August 13, 2008 telephone poll released by [[Rasmussen Reports]], 47% of 1,000 likely voters supported a government requirement that broadcasters offer equal amounts of liberal and conservative commentary, while 39% opposed such a requirement. In the same poll, 57% opposed and 31% favored requiring Internet [[web sites]] and [[bloggers]] that offer political commentary to present opposing points of view. By a margin of 71%-20% the respondents agreed that it is "possible for just about any political view to be heard in today’s media" (including the Internet, newspapers, [[cable TV]] and [[satellite radio]]), but only half the sample said they had followed recent news stories about the Fairness Doctrine closely. (The [[margin of error]] had a 95% chance of being within ± 3%.)<ref>[http://rasmussenreports.com/public_content/politics/general_politics/47_favor_government_mandated_political_balance_on_radio_tv 47% Favor Government Mandated Political Balance on Radio, TV], Rasmussen Reports press release, Thursday, August 14, 2008 and [http://rasmussenreports.com/public_content/politics/election_20082/pt_survey_toplines/august_2008/toplines_fairness_doctrine_august_13_2008 Toplines - Fairness Doctrine - August 13, 2008] (Questions and answers from the survey). </ref> . 
+
+==Formal revocation==. 
+In June 2011, the Chairman and a subcommittee chairman of the [[House Energy and Commerce Committee]], both Republicans, said that the FCC, in response to their requests, had set a target date of August 2011 for removing the Fairness Doctrine and other "outdated" regulations from the FCC's rulebook. <ref>Gautham Nagesh, [http://thehill.com/blogs/hillicon-valley/technology/168807-fcc-sets-august-target-for-striking-fairness-doctrine FCC sets August target for striking Fairness Doctrine], "Hillicon Valley" blog, ''[[The Hill (newspaper)|The Hill]]'', June 28, 2011, quoting Republican Representatives [[Fred Upton]] (R-Michigan), Chairman of the Energy & Commerce Committee, and [[Greg Walden]] (R-Oregon), Chairman of its Telecommunications Subcommittee. </ref> . 
+
+On August 22, 2011, the FCC formally voted to repeal the language that implemented the Fairness Doctrine, along with removal of more than eighty other rules and regulations, from the [[Federal Register]] following a White House executive order directing a "government-wide review of regulations already on the books", to eliminate unnecessary regulations. <ref name="Finally"/> . 
+
+==See also==. 
+{{portal|conservatism}}
+*[[False balance]]
+*[[Free speech]]
+*[[Media Freedom Project]]
+*[[Nakdi Report]]
+*[[Prior restraint]]
+*[[Accurate News and Information Act]] - Canadian equivalent . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==Further reading==. 
+*[[Fred W. Friendly]], ''The Good Guys, The Bad Guys and The First Amendment: free speech vs. fairness in broadcasting''  ([[Random House]], New York, 1976; ISBN 0-394-49725-2) — a history of the ''Red Lion'' case and the Fairness Doctrine.  . 
+
+==External links==. 
+* [http://bsalert.com/news/354/A_Primer_On_The_Fairness_Doctrine_How_We_Screwed_Up.html A primer on the Fairness Doctrine and how its absence now affects politics and culture in the media.]
+*[http://www.museum.tv/archives/etv/F/htmlF/fairnessdoct/fairnessdoct.htm Fairness Doctrine] by Val E. Limburg, from the [[Museum of Broadcast Communications]]
+*[http://www.pbs.org/now/politics/fairness.html Fairness Doctrine] from ''NOW'' on [[Public Broadcasting Service|PBS]]
+*[http://www.city-journal.org/html/17_2_media.html The Media Cornucopia] from ''[[City Journal (New York)|City Journal]]''
+*[http://ceasespin.org/cspin_important/cspin_important.html Important legislation for and against the Fairness Doctrine] from Ceasespin.org
+*[http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-288134A1.pdf Speech to the Media Institute] by FCC Commissioner [[Robert M. McDowell]] on January 28, 2009, outlining the likely practical and constitutional challenges of reviving a fairness or neutrality doctrine . 
+
+[[Category:Censorship of broadcasting in the United States]]
+[[Category:Legal history of the United States]]
+[[Category:United States communications regulation]]
+[[Category:Federal Communications Commission]]
+[[Category:Legal doctrines and principles]]

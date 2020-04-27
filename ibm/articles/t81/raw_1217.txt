@@ -1,0 +1,132 @@
+{{pp-protected|expiry=2012-06-27T04:03:29Z|small=yes}}
+{{About|the human condition}}
+{{copy edit|date=November 2011}}
+[[File:Star of life2.svg|thumb|upright|The [[Star of Life]].]] . 
+
+'''Health''' is the level of functional or metabolic efficiency of a living being. In [[human]]s, it is the general condition of a [[person]]'s mind, body and spirit, usually meaning to be free from [[illness]], [[injury]] or [[pain]] (as in “''good health''” or “''healthy''”). <ref>Merriam-Webster. [http://www.merriam-webster.com/dictionary/health ''Dictionnary - "Health"''], accessed 21 April 2011. </ref> The [[World Health Organization]] (WHO) defined health in its broader sense in 1946 as "a state of complete physical, mental, and social well-being and not merely the absence of disease or infirmity."<ref name="WHO definition">World Health Organization. 1946. [www.who.int/bulletin/archives/80(12)981.pdf ''WHO definition of Health''], Preamble to the Constitution of the World Health Organization as adopted by the International Health Conference, New York, 19–22 June 1946; signed on 22 July 1946 by the representatives of 61 States (Official Records of the World Health Organization, no. 2, p. 100) and entered into force on 7 April 1948. </ref><ref name="WHO constitution">World Health Organization. 2006. [http://www.who.int/governance/eb/who_constitution_en.pdf ''Constitution of the World Health Organization''] - ''Basic Documents'', Forty-fifth edition, Supplement, October 2006. </ref> Although this definition has been subject to controversy, in particular as having a lack of operational value and the problem created by use of the word "complete", it remains the most enduring. <ref>Callahan D. "The WHO definition of 'health'." ''The Hastings Center Studies'', 1(3), 1973 - http://www.jstor.org/pss/3527467</ref><ref>Jadad AR, O'Grady L. "How should health be defined?" ''BMJ'' 2008; 337:a2900 - http://www.bmj.com/cgi/content/full/337/dec10_1/a2900</ref> Classification systems such as the [[WHO Family of International Classifications]], including the [[International Classification of Functioning, Disability and Health]] (ICF) and the [[International Classification of Diseases]] (ICD), are commonly used to define and measure the components of health.  . 
+
+The maintenance and promotion of health is achieved through different combination of physical, [[mental health|mental]], and social well-being, together sometimes referred to as the ''“health triangle”''. <ref>Georgia State University. 1998. [http://www2.gsu.edu/~wwwche/ ''Health Triangle Slides'']. </ref><ref>Nutter S. 2003. ''The Health Triangle''. Anchor Points, Inc. </ref> The WHO's 1986 ''[[Ottawa Charter for Health Promotion]]'' furthered that health is not just a state, but also "a resource for everyday life, not the objective of living. Health is a positive concept emphasizing social and personal resources, as well as physical capacities."<ref>World Health Organization. 1986. [http://www.who.int/hpr/NPH/docs/ottawa_charter_hp.pdf ''Ottawa Charter for Health Promotion''], adopted at the First International Conference on Health Promotion, Ottawa, 21 November 1986 - WHO/HPR/HEP/95.1. </ref>  . 
+
+Systematic activities to prevent or cure health problems and promote good health in humans are delivered by [[health care provider]]s. Applications with regard to animal health are covered by the [[Veterinary medicine|veterinary sciences]]. The term "healthy" is also widely used in the context of many types of non-living organizations and their impacts for the benefit of humans, such as in the sense of [[healthy community design|healthy communities]], [[healthy city|healthy cities]] or [[healthy environment]]s. In addition to health care interventions and a person's surroundings, a number of other factors are known to influence the health status of individuals, including their background, lifestyle, and economic and social conditions; these are referred to as "determinants of health".  . 
+
+== Determinants of health ==. 
+{{See also|Social determinants of health|Risk factor}} . 
+
+Generally, the context in which an individual lives is of great importance on health status and quality of life. It is increasingly recognized that health is maintained and improved not only through the advancement and application of [[health science]], but also through the efforts and intelligent [[lifestyle (sociology)|lifestyle]] choices of the individual and society. According to the [[World Health Organization]], the main determinants of health include the social and economic environment, the physical environment, and the person's individual characteristics and behaviors. <ref name="The determinants of health">World Health Organization. [http://www.who.int/hia/evidence/doh/en/ ''The determinants of health.''] Geneva. Accessed 12 May 2011. </ref> . 
+
+More specifically, key factors that have been found to influence whether people are healthy or unhealthy include:<ref name="The determinants of health"/><ref>Public Health Agency of Canada. [http://www.phac-aspc.gc.ca/ph-sp/determinants/index-eng.php#evidence ''What Determines Health?''] Ottawa. Accessed 12 May 2011. </ref><ref name="Lalonde">Lalonde, Marc. [http://www.hc-sc.gc.ca/hcs-sss/alt_formats/hpb-dgps/pdf/pubs/1974-lalonde/lalonde_e.pdf "''A New Perspective on the Health of Canadians''."] Ottawa: Minister of Supply and Services; 1974. </ref>
+{{col-begin}}
+{{col-2}} 
+*Income and [[social status]]
+*Social support networks
+*[[Education]] and [[literacy]]
+*Employment/working conditions
+*[[Social environments]]
+*[[Environment (biophysical)|Physical environments]]
+{{col-2}} 
+*Personal health practices and coping skills
+*Healthy [[child development]]
+*[[Human biology|Biology]] and [[genetics]]
+*[[Healthcare|Health care services]]
+*[[Gender]]
+*[[Culture]]
+{{col-end}} 
+[[File:Smallpox eradication team.jpg|right|thumb|210px|[[Donald Henderson]] as part of the CDC's [[smallpox]] eradication team in 1966.]]
+An increasing number of studies and reports from different organizations and contexts examine the linkages between health and different factors, including lifestyles, environments, [[health care system|health care organization]], and [[health policy]] - such as the 1974 [[Lalonde report]] from Canada;<ref name="Lalonde"/> the [[Alameda County Study]] in California;<ref name="Housman & Dorman 2005">{{cite journal
+| last1 = Housman
+| first1 = Jeff
+| last2 = Dorman
+| first2 = Steve
+| title = The Alameda County Study: A Systematic, Chronological Review
+| journal = American Journal of Health Education
+| year = 2005
+| month = September/October
+| volume = 36
+| issue = 5
+| pages = 302–308
+| url = http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=EJ792845
+| accessdate = 27 December 2011
+| publisher = American Alliance for Health, Physical Education, Recreation and Dance
+| location = Reston, VA
+| format = PDF
+| issn = 1055-6699
+| id = ERIC document number EJ792845
+| ref = CITEREFHousmanDorman2005
+}}</ref> and the series of [[World Health Report]]s of the World Health Organization, which focuses on [[global health]] issues including access to health care and improving [[public health]] outcomes, especially in [[developing countries]]. <ref>World Health Organization. [http://www.who.int/whr/en/ ''The world health report'']. Geneva. </ref> . 
+
+The concept of the "''health field''", as distinct from [[medicine|medical care]], emerged from the Lalonde report from Canada. The report identified three interdependent fields as key determinants of an individual's health. These are:<ref name="Lalonde"/>
+* Lifestyle: the aggregation of personal decisions (i.e. over which the individual has control) that can be said to contribute to, or cause, illness or death;
+* Environmental: all matters related to health external to the [[human body]], and over which the individual has little or no control;
+* Biomedical: all aspects of health, physical and mental, developed within the human body as influenced by genetic make-up.  . 
+
+Focusing more on lifestyle issues and their relationships with functional health, data from the Alameda County Study suggested that people can improve their health via [[exercise]], enough [[sleep]], maintaining a healthy [[body weight]], limiting [[alcohol]] use, and avoiding [[smoking]]. <ref>{{Harvard citation no brackets | Housman | Dorman | 2005 | pp = 303–304}}. "The linear model supported previous findings, including regular exercise, limited alcohol consumption, abstinence from smoking, sleeping 7-8 hours a night, and maintenance of a healthy weight play an important role in promoting longevity and delaying illness and death." Citing {{cite pmid|7148802}}</ref> The ability to ''adapt'' and to ''self manage'' have been suggested as core components of human health. <ref>Huber M et al. [http://www.bmj.com/content/343/bmj.d4163.full "How should we define health?"] ''BMJ'' 2011;343 doi:10.1136/bmj.d4163 (Published 26 July 2011). Accessed 2 August 2011. </ref>  . 
+
+The environment is often cited as an important factor influencing the health status of individuals. This includes characteristics of the [[natural environment]], the [[built environment]], and the [[social environment]]. Factors such as clean [[water]] and [[air]], adequate [[house|housing]], and safe communities and [[road traffic safety|roads]] all have been found to contribute to good health, especially the health of infants and children. <ref name="The determinants of health"/><ref>UNESCO. [http://www.unesco.org/water/wwap/facts_figures/basic_needs.shtml ''The UN World Water Development Report: Facts and Figures - Meeting basic needs.''] Accessed 12 May 2011. </ref> Some studies have shown that a lack of neighborhood recreational spaces including natural environment leads to lower levels of personal satisfaction and higher levels of [[obesity]], linked to lower overall health and well being. <ref name="Fanny Price">Bjork J et al. [http://jech.bmj.com/cgi/content/abstract/62/4/e2 "Recreational Values of the Natural Environment in Relation to Neighborhood Satisfaction, Physical Activity, Obesity and Well being."] ''J Epidemiol Community Health'' 2008;62:e2</ref> This suggests the positive health benefits of natural space in urban neighborhoods should be taken into account in [[public policy]] and land use.  . 
+
+[[Genetics]], or inherited traits from parents, also play a role in determining the health status of individuals and populations. This can encompass both the [[genetic predisposition|predisposition]] to certain diseases and health conditions, as well as the habits and behaviors individuals develop through the lifestyle of their [[families]]. For example, genetics may play a role in the manner in which people cope with [[Stress (biology)|stress]], either mental, emotional or physical. (One difficulty in this is the [[nature versus nurture|debate]] over the relative strengths of genetics and other factors; interactions between genetics and environment may be of particular importance.) . 
+
+== Maintaining health ==. 
+Achieving and maintaining health is an ongoing process, shaped by both the evolution of [[health care]] knowledge and practices, as well as personal strategies and organized interventions for staying healthy.  . 
+
+=== Role of science in health ===. 
+{{Main|Health science|Health care}}
+[[File:Nieuws uit Indonesië, het werk van de Nederlandse dienst voor Volksgezondheid Weeknummer 46-21 - Open Beelden - 16742.ogv|thumb|210px|The Dutch Public Health Service provides medical care for the natives of the [[Dutch East Indies]], May 1946]]
+[[Health science]] is the branch of science focused on health. There are two main approaches to health science: the study and [[research]] of the [[body]] and health-related issues to understand how humans (and animals) function; and the application of that knowledge to improve health and to prevent and cure [[disease]]s and other physical and mental impairments. The science builds on many sub fields, including [[biology]], [[biochemistry]], [[physics]], [[epidemiology]], [[pharmacology]], [[medical sociology]], and others. Applied health sciences endeavor to better understand and improve human health through applications in areas such as [[health education]], [[biomedical engineering]], [[biotechnology]] and [[public health]].  . 
+
+Organized interventions to improve health based on the principles and procedures developed through the health sciences are delivered among practitioners trained in [[medicine]], [[nursing]], [[nutrition]], [[pharmacy]], [[social work]], [[psychology]], [[occupational therapy]],  [[physical therapy]] and other [[health care provider|health care professions]]. Clinical practitioners focus mainly on the health of individuals, while public health practitioners consider the overall health of communities and populations. [[Workplace wellness]] programs are increasingly adopted by companies for their value in improving the health and well-being of their employees, as are [[school health services]] to improve the health and well-being of children.  . 
+
+=== Role of public health ===. 
+{{Main|Public health}}
+{{See also|Global health}} . 
+
+[[File:NewZealand-Stamp-1933-Health.jpg|thumb|160px|right|Postage stamp, [[New Zealand]], 1933. Public health has been promoted - and depicted - in a wide variety of ways.]]
+Public health has been described as "the science and art of preventing disease, prolonging life and promoting health through the organized efforts and informed choices of society, organizations, public and private, communities and individuals."<ref>C.-E. A. Winslow. 1920. “The Untilled Fields of Public Health,” ''Science'', n.s. 51. </ref> It is concerned with threats to the overall health of a community based on [[population health]] analysis. The population in question can be as small as a handful of people or as large as all the inhabitants of several continents (for instance, in the case of a [[pandemic]]). Public health has many sub-fields, but typically includes the interdisciplinary categories of [[epidemiology]], [[biostatistics]] and [[health services]]. [[Environmental Health|Environmental health]], [[community health]], [[behavioral health]], and [[occupational health]], are also important areas of public health.  . 
+
+The focus of public health interventions is to prevent and manage diseases, injuries and other health conditions through surveillance of cases and the [[health promotion|promotion of healthy behaviors]], [[healthy community design|communities]], and (in aspects relevant to human health) [[environmental protection|environments]]. Its aim is preventing from happening or re-occurring health problems by implementing [[health education|educational programs]], developing [[health policy|policies]], administering services, and conducting [[research]]. <ref>Association of Schools of Public Health. [http://www.whatispublichealth.org/about/index.html ''What is Public Health?''] Retrieved 2010-06-24</ref> In many cases, treating a disease or controlling a [[pathogen]] can be vital to preventing it in others, such as during an [[outbreak]]. [[Vaccination]] programs and distribution of [[condom]]s to prevent the spread of [[communicable disease]]s are examples of common preventive public health measures, as are educational campaigns to promote vaccination and the use of condoms (including overcoming resistance to such).  . 
+
+Public health also takes various actions to limit the health disparities between different areas of the [[country]] and, in some cases, the [[continent]] or [[world]]. One issue is the access of individuals and communities to health care, in terms of financial, geographical or sociocultural constraints in access to and use of services.{{citation needed|date=November 2011}} Applications of the public health system include areas of [[maternal health|maternal]] and child health, health services administration, emergency response, and prevention and control of [[infectious disease|infectious]] and [[chronic disease]]s.  . 
+
+The great positive impact of public health programs is widely acknowledged. Due in part to the policies and actions developed through public health, the 20th century registered a decrease of the mortality rates in [[infants]] and [[child]]ren and a continual increase in [[life expectancy]] in most parts of the world. For example, it is estimated that the life expectancy has increased for Americans by thirty years since 1900,<ref>Association of Schools of Public Health. [http://www.whatispublichealth.org/impact/index.html ''Impact of Public Health''.] Retrieved 2010-06-24. </ref> and worldwide by six years since 1990. <ref>World Health Organization. [http://www.who.int/gho/mortality_burden_disease/life_tables/situation_trends_text/en/index.html ''Life expectancy at birth''], accessed 20 April 2011. </ref> . 
+
+===Self care strategies===. 
+{{Main|Self care}}
+{{See also|Chronic care management|Social relation|Stress management}}
+<!--[[File:Nanogreens-2.gif|thumb|Example of [[nanogreens]] from health and hygiene.]] -->
+[[File:Borch Lady washing hands.jpg|thumb|170px|A lady washing her hands c. 1655]]
+Personal health depends partially on the active, passive, and assisted cues people observe and adopt about their own health. These include personal actions for preventing or minimizing the effects of a disease, usually a chronic condition, through [[disease management (health)|integrative care]]. They also include personal [[hygiene]] practices to prevent infection and illness, such as [[bathing]] and [[washing hands]] with soap; [[oral hygiene|brushing and flossing teeth]]; storing, preparing and handling [[food safety|food safely]]; and many others. The information gleaned from personal [[Observations of Daily Living|observations of daily living]] - such as about sleep patterns, exercise behavior, nutritional intake, and environmental features - may be used to inform personal decisions and actions (''e.g.'', "I feel tired in the morning so I am going to try sleeping on a different pillow"), as well as clinical decisions and treatment plans (''e.g.'', a patient who notices his or her shoes are tighter than usual may be having exacerbation of left-sided heart failure, and may require diuretic medication to reduce fluid overload). <ref name="e-primer3">Robert Wood Johnson Foundation. 2008. [http://www.projecthealthdesign.org/media/file/E-primer_3.pdf ''Health in Everyday Living''.]</ref> . 
+
+Personal health also depends partially on the social structure of a person's life. The maintenance of strong [[social relation]]ships, [[volunteering]], and other social activities have been linked to positive mental health and even increased longevity. One American study among [[old age|seniors]] over age 70 found that frequent volunteering was associated with reduced risk of dying compared with older persons who did not volunteer, regardless of physical health status. <ref>Harris AHS, Thoresen CE. [http://www.chce.research.va.gov/docs/pdfs/pi_publications/Harris/2005_Harris_Thoresen_JHS.pdf "Volunteering is Associated with Delayed Mortality in Older People: Analysis of the Longitudinal Study of Aging."] ''Journal of Health Psychology'', 2005; 10(6): 739–752. </ref> Another study from Singapore reported that volunteering retirees had significantly better [[cognition|cognitive performance]] scores, fewer [[mood disorder|depressive symptoms]], and better mental well-being and life satisfaction than non-volunteering retirees. <ref>Schwingel A et al. [http://ageing.oxfordjournals.org/content/38/5/531.full?sid=0e08a961-ed89-4d70-b6c0-87d555c2ca77 "Continued work employment and volunteerism and mental well-being of older adults: Singapore longitudinal ageing studies."] ''Age and Ageing'', 2009; 38(5): 531-537. </ref> . 
+
+Prolonged [[psychological stress]] may negatively impact health, and has been cited as a factor in [[cognitive impairment]] with aging, depressive illness, and expression of disease. <ref>{{cite journal |author=McEwen BS |title=Protective and damaging effects of stress mediators: central role of the brain |journal=Dialogues Clin Neurosci |volume=8 |issue=4 |pages=367–81 |year=2006 |pmid=17290796 |doi= |url=}}</ref> [[Stress management]] is the application of methods to either reduce stress or increase tolerance to stress. [[Relaxation technique]]s are physical methods used to relieve stress. Psychological methods include [[cognitive therapy]], [[meditation]], and [[positive thinking]] which work by reducing response to stress. Improving relevant skills, such as [[problem solving]] and [[time management]] skills, reduces uncertainty and builds confidence, which also reduces the reaction to stress-causing situations where those skills are applicable.  . 
+
+==See also==. 
+{{Portal|Health and fitness}}
+{{Wikipedia books}}
+* [[Global burden of disease]]
+* [[Health care]]
+* [[Health care provider]]s
+* [[Health education]]
+* [[Health policy]]
+* [[Health systems]]
+* [[Health workforce]]
+* [[Primary health care]]
+* [[History of medicine]]
+* [[Nutrition]]
+* [[One Health]]
+* [[Vaccine controversy]] . 
+
+==References==. 
+{{Reflist}} . 
+
+==External links==. 
+{{Wiktionary}} {{Wikiquote}}
+* [http://www.who.int World Health Organization]
+* [http://www.nhs.uk UK National Health Service]
+* [http://www.hon.ch Health On the Net Foundation]
+* [http://stats.oecd.org/Index.aspx?DataSetCode=HEALTH OECD Health Statistics]
+* [http://ucblibraries.colorado.edu/govpubs/us/health.htm Health and Medical Information] from the University of Colorado
+* [http://ec.europa.eu/health-eu/ Health-EU Portal], public health portal of the European Union . 
+
+[[Category:Health| ]]
+[[Category:Personal life]]
+[[Category:Health promotion]]

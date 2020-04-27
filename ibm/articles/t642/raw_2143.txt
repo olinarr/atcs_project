@@ -1,0 +1,78 @@
+{{globalize/USA|date=June 2009}} . 
+
+'''Late termination of pregnancy '''('''TOP''')<ref>{{cite journal|last=Graham|first=RH|coauthors=Robson, SC, Rankin, JM|title=Understanding feticide: an analytic review.|journal=Social science & medicine (1982)|date=2008 Jan|volume=66|issue=2|pages=289–300|pmid=17920742}}</ref> or '''late-term abortions''' are [[abortion]]s which are performed during a later stage of [[pregnancy]]. Late-term abortions are [[Abortion in the United States#By trimester of pregnancy|more controversial]] than abortion in general because the [[fetus]] is more developed and sometimes [[Fetus#Viability|viable]].  . 
+
+==Definition==. 
+A late-term abortion often refers to an induced abortion procedure that occurs after the [[Gestational age|20th week]] of [[gestation]]. However, the exact point when a pregnancy becomes late-term is not clearly defined. Some sources define an abortion after 16 weeks as "late". <ref name="Torres">Torres, Aida and Forrest, Jacqueline Darroch. (1988). [http://www.holysmoke.org/fem/fem0543.htm Why Do Women Have Abortions]. ''Family Planning Perspectives, 20 (4)'', 169-176. Retrieved April 19, 2007. </ref><ref>Weihe, Pál, Steuerwald, Ulrike,  Taheri, Sepideh, Færø, Odmar, Veyhe, Anna Sofía, & Nicolajsen, Did. (2003). [http://www2.mst.dk/udgiv/publications/2003/87-7972-477-9/pdf/87-7972-478-7.pdf  The Human Health Programme in the Faroe Islands 1985-2001]. In ''AMAP Greenland and the Faroe Islands 1997-2001''. Danish Ministry of Environment. Retrieved April 19, 2007. </ref> Three articles published in 1998 in the same issue of the ''[[Journal of the American Medical Association]]'' could not agree on the definition. Two of the ''JAMA'' articles chose the 20th week of gestation to be the point where an abortion procedure would be considered late-term. <ref>Sprang, M.L, and Neerhof, M.G. (1998). [http://jama.ama-assn.org/cgi/content/full/280/8/744 Rationale for banning abortions late in pregnancy]. ''Journal of the American Medical Association, 280 (8),'' 744-747. <br />Grimes, D.A. (1998). [http://jama.ama-assn.org/cgi/content/full/280/8/747 The continuing need for late abortions]. ''Journal of the American Medical Association, 280 (8)'', 747-750. </ref> The third ''JAMA'' article chose the third trimester, or 27th week of gestation. <ref name="Jama2">Gans Epner, J.E., Jonas, H.S., Seckinger, D.L. (1998). [http://jama.ama-assn.org/cgi/content/full/280/8/724 Late-term abortion]. ''Journal of the American Medical Association, 280 (8)'', 724-729. </ref> . 
+
+The point at which an abortion becomes late-term is often related to the "[[Fetus#Viability|viability]]" (ability to survive outside the [[uterus]]) of the [[fetus]]. Sometimes late-term abortions are referred to as post-viability abortions. However, viability varies greatly among pregnancies. Nearly all pregnancies are viable after the 27th week, and no pregnancies are viable before the 21st week. Everything in between is a "[[wikt:grey area|grey area]]". <ref name="Jama2" /> . 
+
+==Incidence==. 
+[[Image:UK abortion by gestational age 2004 histogram.svg|thumb|[[Histogram]] of abortions by [[gestational age]] in [[England and Wales]] during 2004. Average is 9.5 weeks.]]
+[[Image:US abortion by gestational age 2004 histogram.svg|thumb|Abortion in the United States by gestational age, 2004. (Data source: Centers for Disease Control and Prevention)]] . 
+
+*'''Canada:''' During the year 2003, 6.5% of induced abortions were performed between 13 to 16 weeks, 2.2% between 17 to 20 weeks, and 0.8% over 20 weeks. This sample included procedures carried out in hospitals and clinics. <ref>Statistics Canada. (2003). [http://www.arcc-cdac.ca/StatsCan-gestation-times-1995-2003.xls Percentage distribution of induced abortions by gestation period]. Retrieved April 19, 2007. </ref>
+*'''England and Wales''': In 2005, 9% of abortions occurred between 13 to 19 weeks, while 1% occurred at or over 20 weeks. <ref>Government Statistical Service for the Department of Health. (July 4, 2006). [http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsStatistics/DH_4136852 Abortion statistics, England and Wales: 2005]. Retrieved May 10, 2007. </ref>
+* '''New Zealand''': In 2003, 2.03% of induced abortions were done between weeks 16 to 19, and 0.56% were done over 20 weeks. <ref>Statistics New Zealand. (January 31, 2005). '' [http://www2.stats.govt.nz/domino/external/pasfull/pasfull.nsf/web/Hot+Off+The+Press+Abortions+Year+ended+December+2004?open Demographic Trends 2004].'' Retrieved April 19, 2007. </ref>
+*'''Norway:''' In 2005, 2.28% of induced abortions were performed between 13 to 16 weeks, 1.24% of abortions between 17 and 20 weeks, and 0.20% over 21 weeks. <ref>Statistics Norway. (April 26, 2006). [http://www.ssb.no/abort_en/tab-2006-04-26-05-en.html Induced abortions, by period of gestation and the womans age. 2005]. Retrieved January 17, 2006. </ref>
+*'''Scotland:''' In 2005, 6.1% of abortions were done between 14 to 17 weeks, while 1.6% were performed over 18 weeks. <ref>ISD Scotland. (May 24, 2006). [http://www.isdscotland.org/isd/info3.jsp?pContentID=1919&p_applic=CCC&p_service=Content.show& Percentage of abortions performed in Scotland by estimated gestation]. Retrieved May 10, 2007. </ref>
+*'''Sweden:''' In 2005, 5.6% of abortions were carried out between 12 and 17 weeks, and 0.8% at or greater than 18 weeks. <ref>Nilsson, E., Ollars, B., & Bennis, M.. The National Board of Health and Welfare. (May 2006). [http://www.socialstyrelsen.se/NR/rdonlyres/A15D144C-EE18-4CA0-B141-48EED8D6F7B6/5496/Publ200506422.pdf Aborter 2005]. Retrieved May 10, 2007. </ref>
+*'''United States:'''  In 2003, from data collected in those areas that sufficiently reported [[gestational age]], it was found that 6.2% of abortions were conducted from 13 to 15 weeks, 4.2% from 16 to 20 weeks, and 1.4% at or after 21 weeks. <ref name="cdc2003">Strauss, L.T., Gamble, S.B., Parker, W.Y, Cook, D.A., Zane, S.B., & Hamdan, S. (November 24, 2006). [http://www.cdc.gov/mmwr/preview/mmwrhtml/ss5511a1.htm Abortion Surveillance - United States, 2003]. ''Morbidity and Mortality Weekly Report, 55 (11),'' 1-32. Retrieved May 10, 2007. </ref>  Because the [[Centers for Disease Control and Prevention|Centers for Disease Control and Prevention's]] annual study on abortion statistics does not calculate the exact gestational age for abortions performed past the 20th week, there are no precise data for the number of abortions performed after viability. <ref name="cdc2003" /> In 1997, the [[Guttmacher Institute]] estimated the number of abortions in the U.S. past 24 weeks to be 0.08%, or approximately 1,032 per year. <ref>Guttmacher Institute. (January 1997). [http://www.guttmacher.org/pubs/ib14.html The Limitations of U.S. Statistics on Abortion]. Retrieved April 19, 2007. </ref> . 
+
+== Reasons ==. 
+===United States===. 
+{{See also|Abortion in the United States#Reasons for abortions|l1=Reasons for abortions}} . 
+
+In 1987, the Alan Guttmacher Institute collected questionnaires from 1,900 women in the United States who came to clinics to have abortions. Of the 1,900 questioned, 420 had been pregnant for 16 or more weeks. These 420 women were asked to choose among a list of reasons they had not obtained the abortions earlier in their pregnancies.  The results were as follows:<ref name="Torres" /> . 
+
+{| class="wikitable" border="1"
+|
+71% Woman didn't recognize she was pregnant or misjudged gestation<br />
+48% Woman found it hard to make arrangements for abortion<br />
+33% Woman was afraid to tell her partner or parents<br />
+24% Woman took time to decide to have an abortion<br />
+8% Woman waited for her relationship to change<br />
+8% Someone pressured woman not to have abortion<br />
+6% Something changed after woman became pregnant<br />
+6% Woman didn't know timing is important<br />
+5% Woman didn't know she could get an abortion<br />
+2% A fetal problem was diagnosed late in pregnancy<br />
+11% Other
+|} . 
+
+==Legal restrictions==<!-- This section is linked from [[Intact dilation and extraction]] -->
+As of 1998, among the 152 most populous countries, 54 either banned abortion entirely or permitted it only to save the life of the pregnant woman. <ref name="Global">Anika Rahman, Laura Katzive and Stanley K. Henshaw. [http://www.guttmacher.org/pubs/journals/2405698.pdf  A Global Review of Laws on Induced Abortion, 1985-1997], International Family Planning Perspectives (Volume 24, Number 2, June 1998). </ref>  In addition, another 44 of the 152 most populous countries generally banned late-term abortions after a particular [[gestational age]]: 12 weeks (Albania, Armenia, Azerbaijan, Belarus, Bosnia-Herzegovina, Bulgaria, Croatia, Cuba, Czech Republic, Denmark, Estonia, France, Georgia, Greece, Kazakhstan, Kyrgyz Rep., Latvia, Lithuania, Macedonia, Moldova, Mongolia, Norway, Russian Federation, Slovakia, Slovenia, South Africa, Ukraine, Tajikistan,  Tunisia, Turkey, Turkmenistan, Uzbekistan, and Yugoslavia), 13 weeks (Italy), 14 weeks (Austria, Belgium, Cambodia, Germany, Hungary, and Romania), 18 weeks (Sweden), viability (Netherlands and to some extent the United States), and 24 weeks (Singapore and Britain)<ref name="Global" />
+Some countries, like Canada, China (Mainland only) and Vietnam have no legal limit on when an abortion can be performed. <ref name="Global" /> . 
+
+===United States===. 
+{{See also|Partial-Birth Abortion Ban Act}}
+The [[United States Supreme Court]] decisions on abortion, including ''[[Roe v. Wade]]'',  allow states to impose more restrictions on post-viability abortions than during the earlier stages of pregnancy.  . 
+
+As of April 2007, 36 states had bans on late-term abortions that were not facially unconstitutional (i.e. banning ''all'' abortions) or enjoined by court order. <ref name="state">Guttmacher Institute. (April 1, 2007). [http://www.guttmacher.org/statecenter/spibs/spib_PLTA.pdf State Policies on Later-Term Abortions]. ''State Policies in Brief.''  Retrieved April 19, 2007. </ref> In addition, the Supreme Court in the case of ''[[Gonzales v. Carhart]]'' ruled that Congress may ban certain late-term abortion techniques, "both previability and postviability".  . 
+
+All<ref>http://www.prochoiceamerica.org/choice-action-center/in_your_state/who-decides/maps-and-charts/map.jsp?mapID=27</ref> of the 36 state bans are believed by pro-choice organizations to be unconstitutional.{{Citation needed|date=February 2012}} The Supreme Court has held that bans must include exceptions for threats to the woman's life, physical health, and mental health, but four states allow late-term abortions only when the woman's life is at risk; four allow them when the woman's life or physical health is at risk, but use a definition of health that pro-choice organizations believe is impermissibly narrow. <ref name="state" />  Assuming that one of these state bans is constitutionally flawed, then that does not necessarily mean that the entire ban would be struck down: "invalidating the statute entirely is not always necessary or justified, for lower courts may be able to render narrower declaratory and injunctive relief."<ref>''[[Ayotte v. Planned Parenthood]]'', [http://laws.findlaw.com/us/000/04-1144.html 546 U.S. 320] (2006). </ref> . 
+
+Also, 13 states prohibit abortion after a certain number of weeks' gestation (usually 24 weeks). <ref name="state" />  The U.S. Supreme Court held in ''[[Webster v. Reproductive Health Services]]'' that a statute may create "a presumption of viability" after a certain number of weeks, in which case the physician must be given an opportunity to rebut the presumption by performing tests. <ref>''Webster v. Reproductive Health Services'', [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=492&invol=490 492 U.S. 490] (1989). </ref>  Therefore, those 13 states must provide that opportunity. Because this provision is not explicitly written into these 13 laws, as it was in the Missouri law examined in ''Webster'', pro-choice organizations believe that such a state law is unconstitutional, but only "to the extent that it prohibits pre-viability abortions". <ref name="Delaware">NARAL Pro-Choice America. (2007). "[http://www.prochoiceamerica.org/choice-action-center/in_your_state/who-decides/state-profiles/delaware.html?templateName=lawdetails&issueID=3&ssumID=2516   Delaware]."  ''Who Decides? The Status of Women's Reproductive Rights in the United States.'' Retrieved April 19, 2007. </ref> . 
+
+Ten states require a second physician to approve. <ref name="state" />  The U.S. Supreme Court struck down a requirement of "confirmation by two other physicians" (rather than one other physician) because "acquiescence by co-practitioners has no rational connection with a patient's needs and unduly infringes on the physician's right to practice". <ref>''[[Doe v. Bolton]]'', [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=410&invol=179 410 U.S. 179] (1973). </ref> Pro-choice organizations such as the [[Guttmacher Institute]] therefore interpret some of these state laws to be unconstitutional, based on these and other Supreme Court rulings, at least to the extent that these state laws require approval of a second or third physician. <ref name="state" /> . 
+
+Nine states have laws that require a second physician to be present during late-term abortion procedures in order to treat a fetus if born alive. <ref name="state" /> The Court has held that a doctor's right to practice is not infringed by requiring a second physician to be present at abortions performed after viability in order to assist in saving the life of the fetus. <ref>''Planned Parenthood Ass'n v. Ashcroft'', [http://supreme.justia.com/us/462/476/case.html 462 U.S. 476], 486-90 (1983). </ref> . 
+
+== Methods ==. 
+There are at least three medical procedures associated with late-term abortions:
+* [[Dilation and evacuation]] (D&E)
+* Early [[labour induction]]
+* [[Intact dilation and extraction]] (IDX or D&X), sometimes referred to as "[[Partial birth abortion#Partial-birth abortion|''partial-birth abortion'']]" . 
+
+Abortions done for fetal abnormality are usually performed with induction of labor or with IDX; Elective late-term abortions are usually performed with D&E.{{Citation needed|date=November 2008}} . 
+
+==References==. 
+{{Reflist|2}} . 
+
+== External links ==. 
+* Gina Gonzales as told to Barry Yeoman, [http://www.barryyeoman.com/articles/gina.html "I Had An Abortion When I Was Six Months Pregnant"], ''Glamour''
+* [http://www.pbs.org/now/shows/524/index.html ''Are Some Anti-Abortion Attacks Domestic Terrorism?''] NOW on PBS
+{{Abortion}} . 
+
+{{DEFAULTSORT:Late-Term Abortion}}
+[[Category:Abortion]]

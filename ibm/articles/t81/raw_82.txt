@@ -1,0 +1,307 @@
+{{pp-semi-indef}}
+{{Redirect|Workout}}
+{{Redirect|Exercise}} . 
+
+[[Image:Soldier running in water.jpg|thumb|right|200px|Participant in a [[triathlon]] at [[Catoctin Mountain]] in 2005]] . 
+
+'''Physical exercise''' is any bodily activity that enhances or maintains [[physical fitness]] and overall [[health]] and wellness. It is performed for various reasons including strengthening [[muscle]]s and the [[cardiovascular system]], honing [[sport|athletic]] skills, [[weight loss]] or maintenance, as well as for the purpose of enjoyment. Frequent and regular physical exercise boosts the [[immune system]], and helps prevent the "[[diseases of affluence]]" such as [[heart disease]], [[cardiovascular disease]], [[Type 2 diabetes]] and [[obesity]]. <ref>{{cite doi|10.1056/NEJM200007063430103}}</ref><ref>Hu., F., Manson, J., Stampfer, M., Graham, C., et al. (2001). Diet, lifestyle, and the risk of type 2 diabetes mellitus in women. ''The New England Journal of Medicine, 345''(11), 790–797. Retrieved October 5, 2006, from ProQuest database.''</ref> It also improves mental health, helps prevent [[Depression (mood)|depression]], helps to promote or maintain positive self esteem, and can even augment an individual's sex appeal or body image, which is also found to be linked with higher levels of self esteem. <ref name=MD>{{cite web |url=http://medical-dictionary.thefreedictionary.com/physical+exercise |title=Strengthening exercise: (...) ''"Strengthening exercise increases muscle strength and mass, bone strength, and the body's metabolism. It can help attain and maintain proper weight and improve body image and self esteem"'' (...) |publisher=medical-dictionary.thefreedictionary.com }}</ref> [[Childhood obesity]] is a growing global concern<ref>{{cite web |url=http://www.who.int/dietphysicalactivity/publications/facts/obesity/en/ |title=WHO: Obesity and overweight |publisher=who.int}}</ref> and physical exercise may help decrease some of the effects of childhood and adult obesity. Health care providers often call exercise the "miracle" or "wonder" drug—alluding to the wide variety of proven benefits that it provides. <ref>[http://www.aakp.org/aakp-library/Physical-Activity-and-Exercise/http://www.aakp.org/aakp-library/Physical-Activity-and-Exercise/ American Association of Kidney Patients, "Physical Activity and Exercise: The Wonder Drug"]</ref><ref>[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2868602/ National Center for Biotechnology Information, "The miracle drug"]</ref> . 
+
+== Classification ==. 
+=== Types of exercise ===. 
+Physical exercises are generally grouped into three types,<ref>{{Cite web
+  | coauthors = U.S. Department of Health and Human Services, National Institutes of Health, National Heart, Lung, and Blood Institute
+  | title = Your Guide to Physical Activity
+  | publisher = The National Heart, Lung, and Blood Institute (NHLBI)
+  | year = 2007
+  | url = http://www.nhlbi.nih.gov/health/public/heart/obesity/phy_active.pdf
+  | format = NHLBI produced publications: Color
+  | accessdate = March 2011}}</ref>
+depending on the overall effect they have on the human body:
+* [[Flexibility (anatomy)|Flexibility]] exercises, such as [[stretching]], improve the range of motion of [[muscle]]s and joints. <ref>O'Connor, D., Crowe, M., Spinks, W. 2005. Effects of static stretching on leg capacity during cycling. ''Turin, 46''(1), 52–56. Retrieved October 5, 2006, from ProQuest database. </ref>
+* [[Aerobic exercise]]s, such as [[cycling]], [[human swimming|swimming]], [[walking]], [[skipping rope]], [[rowing (sports)|rowing]], [[running]], [[hiking]] or playing [[tennis]], focus on increasing [[cardiovascular]] endurance. <ref>Wilmore, J., Knuttgen, H. 2003. Aerobic Exercise and Endurance Improving Fitness for Health Benefits. ''The Physician and Sportsmedicine, 31''(5). 45. Retrieved October 5, 2006, from ProQuest database. </ref>
+* [[Anaerobic exercise]]s, such as [[weight training]], [[functional training]], [[Eccentric Training|eccentric training]] or [[Sprint (running)|sprinting]], increase short-term muscle strength. <ref>de Vos, N., Singh, N., Ross, D., Stavrinos, T., et al. 2005. Optimal Load for Increasing Muscle Power During Explosive Resistance Training in Older Adults. ''The Journals of Gerontology, 60A''(5), 638–647. Retrieved October 5, 2006, from ProQuest database. </ref> . 
+
+=== Categories of physical exercise ===. 
+* [[Strength training]]
+* [[Sport agility|Agility training]]
+* [[Eccentric Training]]
+Sometimes the terms 'dynamic' and 'static' are used. 'Dynamic' exercises such as steady running, tend to produce a lowering of the [[diastole|diastolic]] blood pressure during exercise, due to the improved blood flow. Conversely, static exercise (such as weight-lifting) can cause the [[systole (medicine)|systolic]] pressure to rise significantly (during the exercise).  . 
+
+=== Categories ===. 
+Physical exercise is used to improve physical skills. Physical skills fall into the following general categories: [[Endurance|Cardiovascular/respiratory endurance]], [[Endurance|Stamina]], [[Physical strength|Strength]], [[Flexibility (anatomy)|Flexibility]], [[Human power|Power]], [[Speed]], [[Motor coordination|Coordination]], [[Agility]], [[Balance (ability)|Balance]], and [[Accuracy]]. <ref>{{cite web | url = http://library.crossfit.com/free/pdf/CFJ-trial.pdf| accessdate = 2010-09-12
+| title= What Is Fitness? | page = 4 | date = October 2002 | publisher = The CrossFit Journal}}</ref> . 
+
+===Metabolic equivalent of task===. 
+The Compendium of Physical Activities was developed for use in epidemiologic studies to standardize the assignment of [[metabolic equivalent of task]] (MET) intensities in physical activity questionnaires. The Compendium is list of physical activities and the associated energy cost of each activity. The original Compendium was published in 1993, the first update in 2000, and the most recent update in 2011. <ref name="bare_url">https://sites.google.com/site/compendiumofphysicalactivities/</ref> . 
+
+MET (Metabolic Equivalent): The ratio of the work metabolic rate to the resting metabolic rate. One MET is defined as 1 kcal/kg/hour and is roughly equivalent to the energy cost of sitting quietly. A MET also is defined as oxygen uptake in ml/kg/min with one MET equal to the oxygen cost of sitting quietly, equivalent to 3.5 ml/kg/min.  . 
+
+== Health effects ==. 
+[[Image:Stride-q210c.jpg|thumb|200px|A common [[elliptical trainer|elliptical training machine]]]]
+[[File:US Navy 010924-N-0063S-501 USS Bataan (LHD 5).jpg|thumb|200px|[[United States Marine Corps|US Marines]] exercising on the {{USS|Bataan|LHD-5|6}}]]
+Physical exercise is important for maintaining [[physical fitness]] and can contribute positively to maintaining a healthy weight, building and maintaining healthy bone density, muscle strength, and joint mobility, promoting physiological well-being, reducing surgical risks, and strengthening the immune system.  . 
+
+Exercise reduces levels of [[cortisol]]<ref>{{cite journal | author = A. Cornil, A. De Coster, G. Copinschi, J. R. M. Franckson | year = 1965 | title = Effect of muscular exercise on the plasma level of cortisol in man | url = http://www.eje-online.org/content/48/1/163.abstract | journal = European Journal of Endocrinology | volume =  | issue = | pages =  }}</ref>, which causes many health problems, both physical and mental. <ref>{{cite journal | author = Cohen S., Williamson G. M. | year = 1991 | title = Stress and infectious disease in humans | url = | journal = Psychological Bulletin | volume = 109 | issue = | pages = 5–24 }}</ref> . 
+
+Frequent and regular aerobic exercise has been shown to help prevent or treat serious and life-threatening chronic conditions such as [[high blood pressure]], [[obesity]], [[heart disease]], [[Type 2 diabetes]], [[insomnia]], and [[clinical depression|depression]]. <ref>{{cite journal  | last = Jason Menoutis, Ed.D. | title = Physical Activity and Health | journal = Nasm Pro  |  year = 2008  | url = http://www.nasm.org/nasmpro/library/showarticle.aspx?id=14220#one | format = Abstract  | accessdate =  2008-08-25  }}</ref> Endurance exercise before meals lowers blood glucose more than the same exercise after meals. <ref>{{cite journal | last = Borer| first = KT
+| coauthors = Wuorineen EC, Lukos JR, Denver JW, Porges SW, Burant F
+| year = 2009
+| month = August
+| title = Two bouts of exercise before meals but not after meals, lower fasting blood glucose
+| journal = Medicine in Science and Sports and Exercise
+| volume = 41
+| issue = 8
+| pages = 1606–14
+| pmid = 19568199 | doi = 10.1249/MSS.0b013e31819dfe14}}</ref>  According to the World Health Organization, lack of physical activity contributes to approximately 17% of heart disease and diabetes, 12% of falls in the elderly, and 10% of breast cancer and colon cancer. <ref>{{cite web |url=http://www.npr.org/templates/story/story.php?storyId=127525702 |title=100 Years Ago, Exercise Was Blended Into Daily Life |first=Joanne |last=Silberner |date=June 7, 2010 |publisher=npr.org |accessdate=23 November 2010}}</ref> . 
+
+There is some evidence that vigorous exercise (90–95% of [[VO2 max|VO<sub>2</sub> Max]]) is more beneficial than moderate exercise (40 to 70% of [[VO2 max|VO<sub>2</sub> Max]]). <ref>{{cite journal| last = Wislett | first= Ulrik| coauthors = Ellingsen O, Kemi O. 
+| year = 2009
+| month = July
+| title = High=Intensity Interval Training to Maximize Cardiac Benefit of Exercise Taining?
+| journal = Exercise and Sports Sciences Reviews
+|volume = 37
+|issue = 3
+| pages = 139–146
+| pmid = 19550205| doi = 10.1097/JES.0b013e3181aa65fc}}</ref>
+Some studies have shown that vigorous exercise executed by healthy individuals can increase [[opioid peptides]] (a.k.a. [[endorphin]]s, naturally occurring [[opioid]]s that in conjunction with other [[neurotransmitter]]s are responsible for exercise-induced [[Euphoria (emotion)|euphoria]] and have been shown to be addictive), increase testosterone and growth hormone,<ref>Hanc, J. 1987. Your Health Behind the Runner\'s Euphoria. \'\'Newsday, April 21, 1987,\'\' 11. Retrieved October 5, 2006, from ProQuest database</ref> effects that are not as fully realized with moderate exercise. More recent research<ref name="pmid14625449">{{cite journal | author = Sparling PB, Giuffrida A, Piomelli D, Rosskopf L, Dietrich A | title = Exercise activates the endocannabinoid system | journal = Neuroreport | volume = 14 | issue = 17 | pages = 2209–11 | year = 2003 | month = December | pmid = 14625449 | url =http://journals.lww.com/neuroreport/Abstract/2003/12020/Exercise_activates_the_endocannabinoid_system.15.aspx | doi=10.1097/01.wnr.0000097048.56589.47}}</ref><ref name="burfoot">{{cite web|url=http://www.runnersworld.com/article/0,7120,s6-243-297--1102-0,00.html|title=Runner's High|last=Burfoot|first=Amby|month=June | year=2004|publisher=Runner's World|accessdate=2009-10-10}}</ref> indicates that [[anandamide]] may play a greater role than endorphins in "[[runner's high]]". However, training at this{{Which?|date=November 2010}} intensity for long periods of time, or without proper warmup beforehand and cooldown afterwards, can lead to an increased risk of injury and [[overtraining]].{{Citation needed|date=November 2010}} . 
+
+Both aerobic and anaerobic exercise work to increase the mechanical efficiency of the heart by increasing cardiac volume (aerobic exercise), or myocardial thickness (strength training).  [[Ventricular hypertrophy|Such changes]] are generally beneficial and healthy if they occur in response to exercise.  . 
+
+Not everyone benefits equally from exercise. There is tremendous variation in individual response to training; where most people will see a moderate increase in endurance from [[aerobic exercise]], some individuals will as much as double their oxygen uptake, while others can never augment endurance. <ref name="bouchard_fam">{{cite journal
+ | last = Bouchard
+ | first = Claude
+ | coauthors = Ping An, Treva Rice, James S. Skinner, Jack H. Wilmore, Jacques Gagnon, Louis Perusse, Arthus S. Leon, D. C. Rao
+ | title = Familial aggregation of VO(2max) response to exercise training: results from the HERITAGE Family Study
+ | journal = Journal of Applied Physiology
+ | volume = 87
+ | issue = 3
+ | pages = 1003–1008
+ | pmid = 10484570
+ | url = http://jap.physiology.org/cgi/content/abstract/87/3/1003?ijkey=189eebcbc5a461258da582b4aef41ebcf7bec51f&keytype2=tf_ipsecsha
+ | accessdate = 2007-07-17
+ | date =  September 1, 1999 }}</ref><ref name="kolata">{{cite news
+ | first = Gina
+ | last = Kolata
+ | title = Why Some People Won't Be Fit Despite Exercise
+ | url = http://query.nytimes.com/gst/fullpage.html?res=9406EEDE113CF931A25751C0A9649C8B63&sec=health
+ | publisher = The New York Times
+ | date = February 12, 2002
+ | accessdate = 2007-07-17 }}</ref> However, muscle hypertrophy from resistance training is primarily determined by diet and testosterone. <ref>{{cite journal
+ | last = Hubal
+ | first = MJ
+ | coauthors = Gordish-Dressman H, Thompson PD, Price TB, Hoffman EP, Angelopoulos TJ, Gordon PM, Moyna NM, Pescatello LS, Visich PS, Zoeller RF, Seip RL, Clarkson PM
+ | year = 2005
+ | month = June
+ | title = Variability in muscle size and strength gain after unilateral resistance training
+ | journal = Medicine and Science in Sports and Exercise
+ | volume = 37
+ | issue = 6
+ | pages = 964–972
+ | pmid = 15947721
+}}</ref>  This genetic variation in improvement from training is one of the key physiological differences between elite athletes and the larger population. <ref>{{cite journal
+ | last = Brutsaert
+ | first = Tom D. 
+ | coauthors = Esteban J. Parra
+ | year = 2006
+ | title = What makes a champion? Explaining variation in human athletic performance
+ | journal = Respiratory Physiology & Neurobiology
+ | volume = 151
+ | pages = 109–123
+ | doi = 10.1016/j.resp.2005.12.013
+ | url = http://www.erin.utoronto.ca/~eparra/profile/PDF%20files/Brutsaert%20and%20Parra,%202006.pdf
+ |format=PDF| accessdate = 2007-07-17
+ | pmid = 16448865
+ | issue = 2–3
+|archiveurl = http://web.archive.org/web/20070810081848/http://www.erin.utoronto.ca/~eparra/profile/PDF+files/Brutsaert+and+Parra,+2006.pdf <!-- Bot retrieved archive --> |archivedate = 2007-08-10}}</ref><ref name="newsci_geddes">{{cite news
+|last = Geddes
+| first = Linda
+| title = Superhuman
+| pages = 35–41
+| publisher = New Scientist
+| date = 2007-07-28
+}}</ref> Studies have shown that exercising in middle age leads to better physical ability later in life. <ref>{{cite news
+| url=http://www.nlm.nih.gov/medlineplus/news/fullstory_58065.html
+| title=Being active combats risk of functional problems
+}}</ref> . 
+
+=== Cardiovascular system ===. 
+The beneficial effect of exercise on the cardiovascular system is well documented. There is a direct relation between physical inactivity and cardiovascular mortality, and physical inactivity is an independent risk factor for the development of coronary artery disease. There is a dose-response relation between the amount of exercise performed from approximately 700 to 2000 kcal of energy expenditure per week and all-cause mortality and cardiovascular disease mortality in middle-aged and elderly populations. The greatest potential for reduced mortality is in the sedentary who become moderately active. Most beneficial effects of physical activity on cardiovascular disease mortality can be attained through moderate-intensity activity (40% to 60% of maximal oxygen uptake, depending on age). ... persons who modify their behavior after myocardial infarction to include regular exercise have improved rates of survival. ... Persons who remain sedentary have the highest risk for all-cause and cardiovascular disease mortality. <ref>[http://circ.ahajournals.org/cgi/content/full/94/4/857 AHA: Physical activity recommendations]</ref> . 
+
+=== Immune system === . 
+
+Although there have been hundreds of studies on exercise and the [[immune system]], there is little direct evidence on its connection to illness. [[Epidemiology|Epidemiological]] evidence suggests that moderate exercise has a beneficial effect on the human [[immune system]]; an effect which is modeled in a [[J curve]]. Moderate exercise has been associated with a 29% decreased incidence of [[upper respiratory tract infection]]s (URTI), but studies of marathon runners found that their prolonged high-intensity exercise was associated with an increased risk of infection occurrence. However, another study did not find the effect. Immune cell functions are impaired following acute sessions of prolonged, high-intensity exercise, and some studies have found that athletes are at a higher risk for infections. The immune systems of athletes and nonathletes are generally similar. Athletes may have slightly elevated [[natural killer cell]] count and cytolytic action, but these are unlikely to be clinically significant. <ref name=Gleeson2007>{{cite journal |author=Gleeson M |title=Immune function in sport and exercise |journal=J. Appl. Physiol. |volume=103 |issue=2 |pages=693–9 |year=2007 |month=August |pmid=17303714 |doi=10.1152/japplphysiol.00008.2007 |url=http://jap.physiology.org/cgi/content/full/103/2/693}}</ref> . 
+
+Vitamin C supplementation has been associated with lower incidence of URTIs in marathon runners. <ref name=Gleeson2007/> . 
+
+[[Biomarker]]s of [[inflammation]] such as [[C-reactive protein]], which are associated with chronic diseases, are reduced in active individuals relative to sedentary individuals, and the positive effects of exercise may be due to its anti-inflammatory effects. The depression in the immune system following acute bouts of exercise may be one of the mechanisms for this anti-inflammatory effect. <ref name=Gleeson2007/> . 
+
+=== Brain function === . 
+
+A 2008 review of cognitive enrichment therapies (strategies to slow or reverse cognitive decline) concluded that "physical activity, and aerobic exercise in particular, enhances older adults' cognitive function". <ref>{{cite journal | author = Hertzog C,  Kramer AF, Wilson S, Lindenberger U. | title = Enrichment Effects on Adult Cognitive Development: Can the Functional Capacity of Older Adults Be  | doi = 10.1111/j.1539-6053.2009.01034.x | url = http://www.psychologicalscience.org/journals/pspi/pdf/PSPI_9_1%20main_text.pdf |format=PDF| year = 2008 | journal = Psychological Science in the Public Interest | pages = 1–65 | volume = 9 | issue = 1 | accessdate = 2009-07-07}}</ref> . 
+
+In mice, exercise improves cognitive functioning via improvement of [[hippocampus]]-dependent spatial learning, and enhancement of [[synaptic plasticity]] and [[neurogenesis]]. <ref>{{cite journal  | last = van Praag H, Kempermann G, Gage FH.  | title = Ontogeny Running increases cell proliferation and neurogenesis in the adult mouse dentate gyrus | journal = Nature Neuroscience. | volume = 2 | issue = 3  | pages = 266–70 | year = 1999 | format = Abstract  | doi = 10.1038/6368  | pmid = 10195220  | first1 = H  | last2 = Kempermann  | first2 = G  | last3 = Gage  | first3 = FH}}</ref> In addition, physical activity has been shown to be neuroprotective in many neurodegenerative and neuromuscular diseases. <ref>{{cite journal  | last = Clément Grondard  | title = Regular Exercise Prolongs Survival in a Type 2 Spinal Muscular Atrophy Model Mouse | journal = The Journal of Neuroscience. | volume = 25 | issue = 33  | pages = 7615–7622 | year = 2005  | doi =  10.1523/JNEUROSCI.1245-05.2005  | format = Abstract  | pmid = 16107648  | first1 = C  | last2 = Biondi  | first2 = O  | last3 = Armand  | first3 = AS  | last4 = Lécolle  | first4 = S  | last5 = Della Gaspera  | first5 = B  | last6 = Pariset  | first6 = C  | last7 = Li  | first7 = H  | last8 = Gallien  | first8 = CL  | last9 = Vidal  | first9 = PP  | author-separator = ,  | display-authors = 1}}</ref> For instance, it reduces the risk of developing [[dementia]]. <ref name=wvdhhr>[http://www.wvdhhr.org/bph/oehp/hsc/dementia/prevent.htm West Virginia Department of Health and Human Resources]</ref> Furthermore, anecdotal evidence suggests that frequent exercise may reverse alcohol-induced brain damage. <ref>[http://pn.psychiatryonline.org/cgi/content/full/41/23/20 Could Exercise Regenerate Alcohol-Damaged Neurons? - Levin 41 (23): 20 - Psychiatr News<!-- Bot generated title -->]</ref> . 
+
+There are several possibilities for why exercise is beneficial for the brain. Examples are as follows:
+* increasing the blood and oxygen flow to the brain
+* increasing growth factors that help [[neurogenesis|create new nerve cells]]<ref name="pmid10195220">{{cite journal |author=van Praag H, Kempermann G, Gage FH |title=Running increases cell proliferation and neurogenesis in the adult mouse dentate gyrus |journal=Nat. Neurosci. |volume=2 |issue=3 |pages=266–70 |year=1999 |month=March |pmid=10195220 |doi=10.1038/6368 |url=}}</ref> and promote [[synaptic plasticity]]<!----><ref name="pmid18059283">{{cite journal |author=Hunsberger JG, Newton SS, Bennett AH, Duman CH, Russell DS, Salton SR, Duman RS |title=Antidepressant actions of the exercise-regulated gene VGF |journal=Nat. Med. |volume=13 |issue=12 |pages=1476–82 |year=2007 |pmid=18059283 |doi=10.1038/nm1669}}</ref><!---->
+* increasing chemicals in the brain that help [[cognition]], such as [[dopamine]], [[glutamate]], [[norepinephrine]], and [[serotonin]]<ref>Parker-Pope, T. (2001). For a Healthy Brain You Really Need to Use Your Head -- Physical and Mental Exercise Can Stave Off Mental Decline. ''The Wall Street Journal Europe, November 26, 2001'', 8. Retrieved October 5, 2006, from ProQuest database. </ref> . 
+
+Physical activity is thought to have other beneficial effects related to cognition as it increases levels of nerve growth factors, which support the survival and growth of a number of neuronal cells. <ref>{{cite journal  | last = Edward McAuley,* Arthur F. Kramer, and Stanley J. Colcombe  | title = Cardiovascular fitness and neurocognitive function in older Adults: a brief review | journal = BRAIN, BEHAVIOR, and IMMUNITY. | volume = 18 | issue = 2004  | pages = 214–220 | year = 2004  | url = http://www.kch.uiuc.edu/labs/exercise-psychology/Library/pubs/McAuley_Brain_Behavior_Immunity_2004.pdf  |format=PDF  | accessdate =  2007-03-28  | doi = 10.1016/j.bbi.2003.12.007  | first1 = E |archiveurl = http://web.archive.org/web/20070616225929/http://www.kch.uiuc.edu/labs/exercise-psychology/Library/pubs/McAuley_Brain_Behavior_Immunity_2004.pdf <!-- Bot retrieved archive --> |archivedate = 2007-06-16  | last2 = Kramer  | first2 = Arthur F  | last3 = Colcombe  | first3 = Stanley J}}</ref> . 
+
+=== Depression === . 
+
+A number of factors may contribute to [[Depression (mood)|depression]] including being [[overweight]], low self esteem, stress, and anxiety. <ref>{{Cite book|url=http://books.google.co.uk books?id=A6oIAAAACAAJ|title=Conquering Depression and Anxiety Through Exercise|author=Keith W. Johnsgard|year=2004|isbn=978-1-59102-192-6|publisher=Prometheus Books|location=Amherst, N.Y.}}</ref>
+[[Endorphins]] act as a natural pain reliever and [[antidepressant]] in the body. <ref>{{cite web |first=Michael |last=Thase |year=2007 |title=Endorphin Power: Fight Depression With Exercise |url= http://www.everydayhealth.com/depression/specialists/endorphin-power-fight-depression-with-exercise.aspx |publisher=everydayhealth.com}}</ref> Endorphins have long been regarded as responsible for what is known as "[[runner's high]]", a euphoric feeling a person receives from intense physical exertion. <ref name="fox">The influence of physical activity on mental well-being. Dr. Kenneth R. Fox, Department of Exercise and Health Sciences, University of Bristol, Priory House, Woodlands Rd., Bristol, UK</ref> However, recent research<ref name="pmid14625449" /><ref name="burfoot" /> indicates that [[anandamide]] may possibly play a greater role than endorphins in "runner's high".  When a person exercises, levels of both circulating serotonin and endorphins are increased. <ref>{{cite web |first=Andrea |last=Byrd |title=Biology 202, Serotonin and Its Uses. 1999 First Web Reports On Serendip |url=http://serendip.brynmawr.edu/bb/neuro/neuro99/web1/Byrd.html |accessdate=23 November 2010}}</ref> These levels are known to stay elevated even several days after exercise is discontinued, possibly contributing to improvement in mood, increased self-esteem, and weight management. <ref name="fox" /> Exercise alone is a potential prevention method and/or treatment for mild forms of depression. <ref>Public Health Nutrition (1999), 2:411–418 Cambridge University Pressdoi:10.1017/S1368980099000567 Research Article</ref> Research has also shown that when exercise is done in the presence of other people (familiar or not), it can be more effective in reducing stress than simply exercising alone. <ref>{{cite journal|last=Plante|first=Thomas G.|coauthors=Coscarelli, Laura; Ford, Marie|title=Does Exercising with Another Enhance the Stress-Reducing Benefits of Exercise|journal=International Journal of Stress Management|year=2001|volume=8|issue=3|pages=201–213|url=http://www.esf.edu/for/schuster/FOR%20475/exercise%20with%20another.pdf|accessdate=13 November 2011}}</ref> . 
+
+=== Sleep === . 
+
+A 2010 review of published scientific research suggested that exercise generally improves sleep for most people, and helps sleep disorders such as insomnia. The optimum time to exercise ''may'' be 4 to 8 hours before bedtime, though exercise at any time of day is beneficial, with the possible exception of heavy exercise taken shortly before bedtime, which may disturb sleep. There is, in any case, insufficient evidence to draw detailed conclusions about the relationship between exercise and sleep. <ref>Buman, M.P. and King, A.C.: "Exercise as a Treatment to Enhance Sleep", ''[[American Journal of Lifestyle Medicine]]'', Nov-Dec 2010. </ref> . 
+
+===Excessive exercise===. 
+Exercise is a [[Stress (medicine)|stressor]] and the stresses of exercise have a [[Catabolism|catabolic]] effect on the body—contractile proteins within muscles are consumed for energy, carbohydrates and fats are similarly consumed and [[connective tissue]]s are stressed and can form micro-tears.{{Citation needed|date=May 2011}} However, given adequate nutrition and sufficient rest to avoid [[overtraining]], the body's reaction to this stimulus is to adapt and replete tissues at a higher level than that existing before exercising.{{Citation needed|date=May 2011}} The results are all the training effects of regular exercise: increased muscular strength, endurance, bone density, and connective tissue toughness.{{Citation needed|date=May 2011}} . 
+
+Too much exercise can be harmful. Without proper rest, the chance of [[stroke]] or other [[Circulatory system|circulation]] problems increases,<ref>Alexander, C. 1998. Cutting weight, losing life. ''News & Observer, February 8, 1998'', A.1. Retrieved October 5, 2006, from ProQuest database. </ref> and muscle tissue may develop slowly. Extremely intense, long-term cardiovascular exercise, as can be seen in athletes who train for multiple marathons, has been associated with scarring of the heart and heart rhythm abnormalities. <ref>{{cite journal|author=Möhlenkamp S|title=Running: the risk of coronary events|journal=European Heart Journal|volume=29|issue=15|pages=1903&ndash;1910|doi=10.1093/eurheartj/ehn163|year=2008|author-separator=,|author2=Lehmann N|author3=Breuckmann F|display-authors=3|last4=Brocker-Preuss|first4=M.|last5=Nassenstein|first5=K.|last6=Halle|first6=M.|last7=Budde|first7=T.|last8=Mann|first8=K.|last9=Barkhausen|first9=J.}}</ref><ref>{{cite journal|author=Benito B|title=Cardiac arrhythmogenic remodeling in a rat model of long-term intensive exercise training|journal=Circulation|year=2011|volume=123|pages=13&ndash;22|doi=10.1161/CIRCULATIONAHA.110.938282|author-separator=,|author2=Gay-Jordi G|author3=Serrano-Mollar A|display-authors=3|last4=Guasch|first4=E.|last5=Shi|first5=Y.|last6=Tardif|first6=J.-C.|last7=Brugada|first7=J.|last8=Nattel|first8=S.|last9=Mont|first9=L.}}</ref><ref>{{cite journal|journal=J Appl Physiol|year=2011|title=Diverse patterns of myocardial fibrosis in lifelong, veteran endurance athletes|author=Wilson MG, O'Hanlon R, Prasad S, Deighan A, Macmillan P, Oxborough D, Godfrey RJ, Smith G, Maceira A, Sharma S, George KP, Whyte G|pmid= 21330616|doi=10.1152/japplphysiol.01280.2010|volume=110|issue=6|pages=1622–6|pmc=3119133}}</ref> . 
+
+Inappropriate exercise can do more harm than good, with the definition of "inappropriate" varying according to the individual. For many activities, especially [[running]] and [[cycling]], there are significant injuries that occur with poorly regimented exercise schedules. Injuries from accidents also remain a major concern,<ref>{{cite journal | author = Joris Aertsens, Bas de Geus, Grégory Vandenbulcke, Bart Degraeuwe, Steven Broekx, Leo De Nocker, Inge Liekens, Inge Mayeres, Romain Meeusen, Isabelle Thomas, Rudi Torfs, Hanny Willems, Luc Int Panis| year =2010 | title = Commuting by bike in Belgium, the costs of minor accidents| journal =  Accident Analysis and Prevention| volume =42 | pages = 2149–2157  | doi = 10.1016/j.aap.2010.07.008 | issue = 6 | pmid = 20728675}}</ref> whereas the effects of increased exposure to air pollution seem only a minor concern. <ref name="Int Panis">{{cite journal
+  | last = Int Panis
+  | first = L
+  | title = Exposure to particulate matter in traffic: A comparison of cyclists and car passengers
+  | journal = Atmospheric Environment
+  | volume = 44
+  | issue = 19
+  | pages = 2263–2270
+  | year = 2010
+  | url =
+  | doi = 10.1016/j.atmosenv.2010.04.028
+  | pmid =
+  | month =
+  | last2 = De Geus
+  | first2 = Bas
+  | last3 = Vandenbulcke
+  | first3 = GréGory
+  | last4 = Willems
+  | first4 = Hanny
+  | last5 = Degraeuwe
+  | first5 = Bart
+  | last6 = Bleux
+  | first6 = Nico
+  | last7 = Mishra
+  | first7 = Vinit
+  | last8 = Thomas
+  | first8 = Isabelle
+  | last9 = Meeusen
+  | first9 = Romain}}</ref><ref name="Jacobs">{{cite journal
+  | last = Jacobs
+  | first = L
+  | title = Subclinical responses in healthy cyclists briefly exposed to traffic-related air pollution
+  | journal = Environmental Health
+  | volume = 9
+  | issue = 64
+  | pages = 64
+  | year = 2010
+  | url = http://www.ehjournal.net/content/9/1/64
+  | doi = 10.1186/1476-069X-9-64
+  | pmid =
+  | month = Oct
+  | last2 = Nawrot
+  | first2 = Tim S
+  | last3 = De Geus
+  | first3 = Bas
+  | last4 = Meeusen
+  | first4 = Romain
+  | last5 = Degraeuwe
+  | first5 = Bart
+  | last6 = Bernard
+  | first6 = Alfred
+  | last7 = Sughis
+  | first7 = Muhammad
+  | last8 = Nemery
+  | first8 = Benoit
+  | last9 = Panis
+  | first9 = Luc}}</ref> . 
+
+In extreme instances, over-exercising induces serious performance loss. Unaccustomed overexertion of muscles leads to [[rhabdomyolysis]] (damage to muscle) most often seen in new army recruits. <ref>Jimenez, C., Pacheco, E., Moreno, A., Carpenter, A. 1996. A Soldier's Neck and Shoulder Pain. ''The Physician and Sportsmedicine, 24''(6), 81–82. Retrieved October 5, 2006, from ProQuest database. </ref> Another danger is [[overtraining]], in which the intensity or volume of training exceeds the body's capacity to recover between bouts. <ref name="uusitalo">[http://www.physsportsmed.com/issues/2001/05_01/uusitalo.htm The Physician and Sportsmedicine on Overtraining] {{dead link|date=May 2011}}</ref> . 
+
+Stopping excessive exercise suddenly can also create a change in mood. Feelings of depression and agitation can occur when withdrawal from the natural endorphins produced by exercise occurs.{{Citation needed|date=November 2011}} Exercise should be controlled by each body's inherent limitations. While one set of joints and muscles may have the tolerance to withstand multiple [[marathons]], another body may be damaged by 20 minutes of light jogging. This must be determined for each individual.  . 
+
+Too much exercise can also cause a female to miss her period, a symptom known as [[amenorrhea]]. <ref>{{cite web
+| url = http://www.uoregon.edu/~hphy/AT/FATriad/links/amenorrhea.htm
+| title= Amenorrhea
+| accessdate = 2007-08-14
+| work = The Female Athlete Triad
+| author = Julia Berry
+| coauthors = Anne Bradley; Hillery Magness
+| publisher = University of Oregon, Department of Human Physiology}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> . 
+
+== Public health measures ==. 
+As of 2011 the effects of community wide interventions to increase exercise levels at the population level is unknown. <ref>{{cite journal|last=Baker|first=PR|coauthors=Francis, DP, Soares, J, Weightman, AL, Foster, C|title=Community wide interventions for increasing physical activity|journal=Cochrane database of systematic reviews (Online)|date=2011 Apr 13|issue=4|pages=CD008366|pmid=21491409|doi=10.1002/14651858.CD008366.pub2|editor1-last=Baker|editor1-first=Philip RA}}</ref> Signs that encourage the use of stairs, as well as community campaigns, may increase exercise levels. <ref>{{cite journal |author=Kahn |title=The effectiveness of interventions to increase physical activity. A systematic review |journal=Am J Prev Med |volume=22 |issue=4 Suppl |pages=73–107 |year=2002 |month=May |pmid=11985936 |doi= 10.1016/S0749-3797(02)00434-8|url= |author-separator=, |author2=E. B. |author3=Ramsey |author4=L. T. |author5=Brownson |author6=R. C. |display-authors=6 |last7=Stone |first7=E |last8=Rajab |first8=M |last9=Corso |first9=P}}</ref> The city of [[Bogotá]], [[Colombia]], for example, blocks off {{convert|113|km|mi|sp=us}} of roads on Sundays and holidays to make it easier for its citizens to get exercise. These [[pedestrian zone]]s are part of an effort to combat chronic diseases, including obesity. <ref>{{cite web |url=http://www.paho.org/English/DD/PIN/ePersp001_article01.htm |title=Stopping the rising tide of chronic diseases Everyone's Epidemic |first=Víctor Hugo |last=Durán |work=Pan American Health Organization |publisher=paho.org |accessdate=January 10, 2009}}</ref> . 
+
+==Metabolic equivalent of task==. 
+The Compendium of Physical Activities was developed for use in epidemiologic studies to standardize the assignment of [[metabolic equivalent of task]] (MET) intensities in physical activity questionnaires. The Compendium is list of physical activities and the associated energy cost of each activity. The original Compendium was published in 1993, the first update in 2000, and the most recent update in 2011. <ref name="bare_url" /> . 
+
+MET (Metabolic Equivalent): The ratio of the work metabolic rate to the resting metabolic rate. One MET is defined as 1 kcal/kg/hour and is roughly equivalent to the energy cost of sitting quietly. A MET also is defined as oxygen uptake in ml/kg/min with one MET equal to the oxygen cost of sitting quietly, equivalent to 3.5 ml/kg/min.  . 
+
+== Exercise trends ==. 
+{{Main|Exercise trends}}
+Worldwide there has been a large shift towards less physically demanding work. <ref name=WHO2009>{{cite web |url=http://www.who.int/dietphysicalactivity/publications/facts/obesity/en/ |title=WHO: Obesity and overweight |format= |work=World Health Organization |accessdate=January 10, 2009}}</ref> This has been accompanied by increasing use of mechanized transportation, a greater prevalence of labor saving technology in the home, and less active [[recreational pursuits]]. <ref name=WHO2009/> . 
+
+== Nutrition and recovery ==. 
+Proper [[nutrition]] is as important to health as exercise. When exercising, it becomes even more important to have a good diet to ensure that the body has the correct ratio of [[Macronutrient (nutrition)|macronutrients]] whilst providing ample [[micronutrient]]s, in order to aid the body with the recovery process following strenuous exercise. <ref>Kimber, N., Heigenhauser, G., Spriet, L., and Dyck, D. 2003. Skeletal muscle fat and carbohydrate metabolism during recovery from glycogen-depleting exercise in humans. ''The Journal of Phsyiology, 548''(Pt. 3), 919–927. </ref> . 
+
+== History ==. 
+The benefits of exercise have been known since antiquity. [[Marcus Cicero]], around 65 BC, stated: "It is exercise alone that supports the spirits, and keeps the mind in vigor."<ref>{{cite web |url=http://www.inspirational-quotes-and-quotations.com/quotes-about-exercise.html |title=Quotes About Exercise Top 10 List |work= |accessdate=}}</ref>  However, the link between physical health and exercise (or lack of it) was only discovered in 1949 and reported in 1953 by a team led by [[Jerry Morris]]. <ref>{{cite news|first=Simon|last=Kuper|title=The man who invented exercise|newspaper=Financial Times|date=11 September 2009|url=http://www.ft.com/cms/s/2/e6ff90ea-9da2-11de-9f4a-00144feabdc0.html|accessdate=12 September 2009}}</ref><ref name="Morris1953">{{cite journal|journal=Lancet|year=1953|volume=265|issue=6795|pages=1053&ndash;7|title=Coronary heart-disease and physical activity of work|author=Morris JN, Heady JA, Raffle PA, Roberts CG, Parks JW|pmid=13110049|doi=10.1016/S0140-6736(53)90665-5}}</ref>  Dr. Morris noted that men of similar social class and occupation (bus conductors versus bus drivers) had markedly different rates of heart attacks, depending on the level of exercise they got: bus drivers had a sedentary occupation and a higher incidence of heart disease, while bus conductors were forced to move continually and had a lower incidence of heart disease. <ref name="Morris1953"/>  This link had not previously been noted and was later confirmed by other researchers.  . 
+
+==In other animals== . 
+
+Physical exercise has been shown to benefit a wide range of other mammals, as well as salmon, crocodiles and one species of bird. <ref name="sciencedirect.com"> Physical exercise can vary from running to sexual encounters to swimming. [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VNH-4S9P5W5-1&_user=489286&_coverDate=06/30/2008&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1627003341&_rerunOrigin=scholar.google&_acct=C000022678&_version=1&_urlVersion=0&_userid=489286&md5=7aac2f617fa79bd4def308921e73918b&searchtype=a Exercise training and aerobic capacity]</ref>  However, several studies have shown that lizards display no benefit from exercise, leading them to be termed "metabolically inflexible". <ref name="sciencedirect.com"/> . 
+
+== See also ==. 
+{{Portal|Health and fitness|Medicine|Society|Sports and games}}
+{{Main|Outline of exercise}}
+<div style="-moz-column-count:3; column-count:3;">
+<!-- don't add stuff that's already linked or semi-spam (e.g. random companies, random sports, ...) -->
+* [[Active Living]]
+* [[Behavioural change theories]]
+* [[Central governor]]
+* [[Exercise hypertension]]
+* [[Exercise induced nausea]]
+* [[Exercise intensity]]
+* [[Exercise intolerance]]
+* [[Exercise-induced anaphylaxis]]
+* [[Exercise-induced asthma]]
+* [[Exergaming]]
+* [[Girls on the Run]]
+* [[Green exercise]]
+* [[Health club]]
+* [[Kinesiology]]
+* [[Metabolic equivalent]]
+* [[Outdoor gym]]
+* [[Pyri]]
+* [[Sports training]]
+* [[Supercompensation]]
+</div> . 
+
+==References==. 
+{{Reflist|2}} . 
+
+== Sources ==. 
+* {{cite book | first =Rebecca J. | last =Donatelle | authorlink = | coauthors = | year =2005 | month = | title =Health, The Basics  | chapter = | editor = | others = | edition =6th | pages = | location=San Francisco | publisher=Pearson Education | isbn =0-8053-2852-1 | url = }}
+* Hardman, A.; Stensel, D. 2009. ''Physical Activity and Health: The Evidence Explained''. London: Routledge ISBN 978-0-415-42198-0
+* Ainsworth BE, Haskell WL, Leon AS, Jacobs DR Jr, Montoye HJ, Sallis JF, Paffenbarger RS Jr. Compendium of physical activities: Classification of energy costs of human physical activities. ''Medicine and Science in Sports and Exercise'', 1993; 25:71-80. 
+* Ainsworth BE, Haskell WL, Whitt MC, Irwin ML, Swartz AM, Strath SJ, O'Brien WL, Bassett DR Jr, Schmitz KH, Emplaincourt PO, Jacobs DR Jr, Leon AS. Compendium of Physical Activities: An update of activity codes and MET intensities.'' Medicine and Science in Sports and Exercise'', 2000;32 (Suppl):S498-S516. 
+* Ainsworth BE, Haskell WL, Herrmann SD, Meckes N, Bassett Jr DR, Tudor-Locke C, Greer JL, Vezina J, Whitt-Glover MC, Leon AS. 2011 Compendium of Physical Activities: a second update of codes and MET values. ''Medicine and Science in Sports and Exercise''.(in press). 
+* Ainsworth BE, Haskell WL, Herrmann SD, Meckes N, Bassett Jr DR, Tudor-Locke C, Greer JL, Vezina J, Whitt-Glover MC, Leon AS. The Compendium of Physical Activities Tracking Guide. Healthy Lifestyles Research Center, College of Nursing & Health Innovation, Arizona State University. Retrieved [date] from the World Wide Web. https://sites.google.com/site/compendiumofphysicalactivities/ . 
+
+==External links==. 
+{{commons category|Fitness training}}
+{{Wikiquote|Exercise}}
+{{Wiktionary|exercise}}
+* [http://www.nlm.nih.gov/medlineplus/exerciseandphysicalfitness.html MedLinePlus's Topic on Exercise and Physical Fitness]
+* [http://www.sciencedaily.com/articles/p/physical_exercise.htm Science Daily's reference on Physical Exercise]
+* Guidance on the promotion and creation of physical environments that support increased levels of physical activity.{{cite web |url=http://www.nice.org.uk/Guidance/PH8 |title=Physical activity and the environment |format= |work= |accessdate=}} . 
+
+{{Physical exercise}} . 
+
+{{DEFAULTSORT:Physical Exercise}}
+[[Category:Physical exercise| ]]
+[[Category:Self care]]

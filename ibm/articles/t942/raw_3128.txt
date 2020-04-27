@@ -1,0 +1,100 @@
+'''Term limits legislation''' – [[term limit]]s for state and federal office-holders – has been a recurring political issue in the [[U.S. state]] of '''Oregon''' since 1992.  In that year's [[general election]], [[Oregon]] voters approved Ballot Measure 3, an [[initiative]] that enacted term limits for representatives in both houses of the [[United States Congress]] and the [[Oregon Legislative Assembly]], and statewide officeholders. It has been described as the strictest term limits law in the country. <ref>{{cite news
+|title= Oregon might vote on term limits again. only niki is the bet
+|work=The Statesman-Journal
+|date=February 7, 2006
+|last=Law
+|first=Steve
+|url=http://docs.newsbank.com/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:NewsBank:SSJB&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=10FADCF5908562A8&svc_dat=InfoWeb:aggregated4&req_dat=8CE642B8CA5C4083BE84A2539D6E1A73
+}}</ref> . 
+
+A 1995 [[U.S. Supreme Court]] ruling rendered the federal limits null and void, and in 2002 the [[Oregon Supreme Court]] upheld lower state court rulings striking down the remaining provisions of the law on procedural grounds. Measure 48 of 1996 would have instructed the Legislature to enact term limits for Congressional races, but the measure did not pass.  . 
+
+[[U.S. Term Limits]], an [[Illinois]]-based group that backs term limits in numerous states, backed Measure 3, and also backed efforts in 2002 and 2006 to reinstate term limits in Oregon.  . 
+
+== Substance of Measure 3 ==. 
+Measure 3 amended Articles 19 and 20 of Article II of the [[Oregon Constitution]] to limit the terms of state legislators to six years in the house, eight in the senate, and twelve-year combined lifetime total, and similarly restrict Oregon's representatives in the U.S. Congress and Senate to six and twelve years respectively. <ref name="OLCS Background Brief">{{cite web | last = Taylor | first = Marjorie | title = Background Brief on Term Limits | work = OLCS Background Briefs | publisher = Salem, Oregon: Oregon Legislative Committee Services | date = May 2004 | url = http://www.leg.state.or.us/comm/commsrvs/background_briefs2004/General%20Government/EJ_Term_Limits2004.pdf | format = [[PDF]] | accessdate = 2007-01-03}}</ref> . 
+
+The initiative also placed a limit of two terms (eight years) on the statewide elective offices of [[Governor of Oregon|Governor]], [[Oregon Secretary of State|Secretary of State]], [[Oregon State Treasurer|Treasurer]], [[Oregon Superintendent of Public Instruction|Superintendent of Public Instruction]], and [[Oregon Commissioner of Labor and Industries|Labor Commissioner]],<ref name="Hill">{{cite news | last = Hill | first = Gail Kinsey | title = Oregon approves limits on terms | work = Oregonian | pages = C1 | publisher = Portland, Oregon: Oregonian Publishing | date = 1992-11-04}}</ref> as well as making various modifications, either explicitly or implicitly, to other sections of the state Constitution relating to qualifications of voters and candidates for office. <ref name="Lehman v. Bradbury">{{cite web | title = Decision: Lehman v. Bradbury | work = Oregon Supreme Court (official website) | publisher = Salem, Oregon: Oregon Supreme Court | date = 2002-01-11 | url = http://www.publications.ojd.state.or.us/S48771.htm | accessdate = 2007-01-03}}</ref> . 
+
+== Political history ==. 
+Although Oregon's Constitution already provided limits on the terms of office of its statewide officeholders of eight years in any twelve-year period, these limits are found among the qualifications for the respective offices, and had never previously been extended to members of the legislature. <ref name="Oregon Constitution - Qualifications for Governor">{{cite web | title = Oregon State Constitution: Article V - Executive Department | work = Oregon Blue Book (Online) | publisher = Salem, Oregon: Oregon Secretary of State | year = 2004 | url = http://bluebook.state.or.us/state/constitution/constitution05.htm | accessdate = 2007-01-03}}</ref> . 
+
+As national voter sentiment favoring such limits gained strength, the [[Oregon Legislative Assembly]] considered broader imposition of term limits in 1991, the Senate and House passing competing measures, but was unable to resolve the differences between the two bills,<ref name="Hortsch">{{cite news | last = Hortsch | first = Dan | title = Oregon House votes for 12-year ceiling on legislative terms | work = Oregonian | pages = C5 | publisher = Portland, Oregon: Oregonian Publishing | date = May 22, 1991}}</ref><ref name="Mapes on senate bill">{{cite news | last = Mapes | first = Jeff | title = Senate proposes 12-year term limit | work = Oregonian | pages = B1 | publisher = Portland, Oregon: Oregonian Publishing | date = June 25, 1991}}</ref> and rejected limiting congressional terms outright. <ref name="Mapes on Congressional terms">{{cite news | last = Mapes | first = Jeff | title = Oregon defeats bid to limit congressional terms | work = Oregonian | pages = B10 | publisher = Portland, Oregon: Oregonian Publishing | date = March 19, 1991}}</ref>  . 
+
+Before the 1991 legislature even adjourned, a campaign was begun to place on the ballot by initiative petition Measure 3, which include stricter limits than either the bill passed in the house or the senate, and despite the publicly announced opposition of then-Governor [[Barbara Roberts]],<ref name="Mapes on Roberts">{{cite news | last = Mapes | first = Jeff | title = Roberts says she'll oppose limit on lawmakers' terms | work = Oregonian | pages = B8 | publisher = Portland, Oregon: Oregonian Publishing | date = February 21, 1991}}</ref> 
+it faced little organized resistance. <ref name="Hill"/>  Oregon voters approved the measure by a margin of more than two to one, casting 1,003,706 votes in favor and only 439,694 against enactment. <ref name="Returns">{{cite web | title = Initiative, Referendum and Recall 1988-1995 | work = Oregon Blue Book (Online) | publisher = Salem, Oregon: Oregon Secretary of State | year = 1995 | url = http://bluebook.state.or.us/state/elections/elections21.htm | accessdate = 2003-01-03}}</ref> . 
+
+''[[The Oregonian]]'' summarized the arguments in favor and against the Measure put forth in the campaign,<ref name="Oregonian Summary">{{cite news | title = Measure 3 | work = Oregonian | pages = A6 | publisher = Portland, Oregon: Oregonian Publishing | date = October 26, 1992}}</ref> 
+as outlined below: . 
+
+=== Arguments of proponents ===. 
+* Refresh the political system, removing legislators who had become career politicians and grown out of touch with their constituents. 
+* Reduce the excessive time and attention spent on getting re-elected, and dependence of lawmakers on special interests for re-election campaign funds. 
+* Incumbents have too great an electoral advantage. 
+* Lawmakers are in gridlock because of becoming locked into entrenched positions over time. 
+* Freed from political considerations related to re-election, lawmakers would be more free to vote on the merits. 
+* The state and federal constitutions already limit terms in other offices.  . 
+
+=== Arguments of opponents ===. 
+* Voters can already remove politicians through regular elections or by recall. 
+* Term limits don't distinguish between good and bad legislators. 
+* The measure doesn't deal with the root problems of election finance and ethics reform. 
+* New lawmakers are more vulnerable to power wielded by lobbyists, staff, bureaucracy, and the media. 
+* Term limits won't affect gridlock, being a quick-fix that ignores complicated problems. 
+* Limiting terms deprives voters of the right to choose whom they want in office.  . 
+
+== Court challenges ==. 
+=== ''U.S. Term Limits, Inc. v. Thornton'' ===. 
+{{main|U.S. Term Limits, Inc. v. Thornton}}
+{{see also|U.S. Term Limits, Inc.|Ray Thornton}}
+In 1995, the Supreme Court of the United States rendered section 20 of Measure 3, relating to the terms of members of both houses of Congress, invalid under the federal Constitution, ruling that states lacked authority to impose restrictions on the qualifications for federal office.  It was silent on the broader issue of the constitutionality of term limits, nor did it address the matter of state offices, and thus the remaining provisions of Measure 3's amendment of the state Constitution were left in place. <ref name="Hatton-Nease">{{cite web | last = Hatton-Nease | first = Kristal | title = Basics on Term Limits | work = Oregon State Legislature (official website) | publisher = Salem, Oregon: Oregon Legislative Policy, Research, & Committee Services | date = November, 1998 | url = http://www.leg.state.or.us/comm/commsrvs/termlimit.pdf | format = [[PDF]] | accessdate = 2003-12-03}}</ref> . 
+
+=== ''Markham v. Keisling'' ===. 
+{{see also|Phil Keisling}}
+In September, 1997, [[Oregon House of Representatives|State Representative]] Bill Markham, a [[Republican Party (United States)|Republican]], filed suit in the U.S. District Court alleging the law was unconstitutional on the grounds it violated the First and Fourteenth Amendment voting and association rights of incumbents and voters.  On December 16, 1997, Judge Magistrate Thomas Coffin ruled in favor of Markham, but later reversed himself in accordance with a December 19, 1997, [[Ninth U.S. Circuit Court of Appeals]] ruling upholding California’s term limits law, concluding voters understood the lifetime ban such initiatives imposed. <ref name="Hatton-Nease"/><ref name="Hill on Markham">{{cite news  | last = Hill | first = Gail Kinsey | title = Ruling restores law setting term limits | work = Oregonian | pages = B8 | publisher = Portland, Oregon: Oregonian Publishing | date = 1997-12-30}}</ref> . 
+
+=== ''Lehman v. Bradbury'' ===. 
+{{see also|Bill Bradbury}}
+On January 11, 2002, upholding a decision by [[Oregon Circuit Court]] Judge [[Richard D. Barber]], the Oregon Supreme Court ruled that enactment of Measure 3 had violated Article XVII, section 1, of the Oregon Constitution which prohibits multiple constitutional amendments combined in a single measure.  Again, the court refrained from addressing the broader issue of term limits themselves, confining itself to the matter of their having been enacted in violation of the "separate vote" provision of Oregon's constitution. <ref name="Lehman v. Bradbury"/><ref name="NCSL">{{cite web | last = Bowser | first = Jennie Drage | title = Legislative Term Limits: An Overview | work = National Conference of State Legislatures (official website) | publisher = Washington & Denver: NCSL | year = 2006 | url = http://www.ncsl.org/programs/legismgt/ABOUT/Termlimit.htm | accessdate = 2007-01-03}}</ref> . 
+
+==Attempts to restore term limits==. 
+Measure 48 in 1996 sought to instruct the [[Oregon Legislative Assembly]] to enact term limits for [[United States Congress|Congress]], but the measure lost with 48% of the vote.  . 
+
+31.4% of the 113,000 signatures collected on a 2002 petition to restore Measure 3's term limits were ruled invalid, so the drive failed to meet the requirement of 89,048 valid signatures to appear on that year's general election ballot. <ref name="Statesman-Journal 2002-09-02">{{cite news | title = 2002 Oregon initiatives | work = Statesman-Journal | pages = A4 | publisher = Salem, Oregon: Gannett | date = September 2, 2002}}</ref> . 
+
+In 2006, a similar initiative, [[Oregon Ballot Measure 45 (2006)]] was defeated 555,016 to 788,895. <ref name="2006 Returns">{{cite web | title = November 7, 2006, General Election Abstracts of Votes: State Measure No. 45 | work = Oregon Elections Division (official website) | publisher = Salem, Oregon: Oregon Secretary of State | year = 2006 | url = http://www.sos.state.or.us/elections/nov72006/results/m45.pdf | format = [[PDF]] | accessdate = 2007-01-03 }}</ref> . 
+
+Measure 45 was placed on Oregon's 2006 general election ballot by initiative petition. It would have added a section to the [[Oregon Constitution]] prohibiting any person from serving more than six years in the [[Oregon House of Representatives]], eight years in the [[Oregon State Senate]], or a total of more than 14 years in the [[Oregon Legislative Assembly]], and included language granting standing to individuals and nonprofit entities in any lawsuit arising from enforcement of its provisions. <ref name="Voters' Guide">{{cite web | title = Measure 45 | work = Voters' Pamphlet: Oregon General Election, November 7, 2006 | publisher = Salem, Oregon: Oregon Secretary of State | year = 2006 | url = http://www.sos.state.or.us/elections/nov72006/guide/meas/m45.html | accessdate = 2007-01-03}}</ref>  In 2002, the [[Oregon Supreme Court]] struck down on procedural grounds similar term limits which had been enacted by passage of [[Oregon Ballot Measure 3 (1992)]] by a more than 2-to-1 margin. <ref name="Oregonian 2002-01-17">{{cite news | last = Green | first = Ashbel S. | coauthors = Lisa Grace Lednicer | title = State high court strikes term limits | work = Oregonian | pages = A1 | publisher = Portland, Oregon: Oregonian Publishing | date = 2006-01-17}}</ref>  Voters in 2006, however, rejected this initiative by 555,016 to 788,895. <ref name="2006 Returns"/> . 
+
+=== Measure 45 supporters and opponents ===. 
+Nearly all of the $1.25 million raised in support of Measure 45 came from the Illinois-based organization [[U.S. Term Limits]]. The $85,000 raised to oppose it came from Oregon-based lobbyists and labor groups. <ref name="MiPRAP071018">{{cite press release
+|title=Almost Two-thirds of Ballot Measure Cash Comes from Out of State But Campaigns Vary in Terms of Local Control
+|publisher=Money in Politics Research Action Project
+|url=http://www.oregonfollowthemoney.org/Press/2006/101806.htm
+|date=October 18, 2006
+|accessdate=2007-02-27
+}}</ref> . 
+
+== See also ==. 
+*[[Term limits]]
+*[[Term limits in the United States]]
+*[[U.S. Term Limits]]
+*[[List of Oregon ballot measures]] . 
+
+== References ==. 
+{{reflist}} . 
+
+== External links ==. 
+*[http://bluebook.state.or.us/state/constitution/constitution02.htm Article II: Suffrage and Elections, Oregon State Constitution (2004 ed.)]
+*[http://bluebook.state.or.us/state/constitution/constitution16-17.htm Article XVII: Amendments and Revisions, Oregon State Constitution (2004 ed.)]
+*[http://web.archive.org/web/20060514141800/http://www.oregontermlimits.org/ Now defunct ''Oregon Term Limits '06'' campaign website on ''Internet Archive'']
+*[http://www.eliminateillinoisinfluence.com/ ''No on 45'' campaign website] . 
+
+{{Oregon legislation}} . 
+
+[[Category:Oregon ballot measures|Term limits]]
+[[Category:Oregon 1992 ballot measures]]
+[[Category:Oregon 2002 ballot measures]]
+[[Category:Oregon 2006 ballot measures]]
+[[Category:Amendments to the Oregon Constitution]]
+[[Category:Electoral restrictions]]

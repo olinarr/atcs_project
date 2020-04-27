@@ -1,0 +1,124 @@
+'''Faith and rationality''' are two modes of [[belief]] that exist in varying degrees of conflict or compatibility. [[Rationality]] is belief based on [[reason]] or [[evidence]]. [[Faith]] is belief in [[Biblical inspiration|inspiration]], [[revelation]], or [[authority]]. The word faith generally refers to a belief that is held with lack of, in spite of or against [[reason]] and [[evidence]].  . 
+
+Although the words ''faith'' and ''belief'' are sometimes erroneously conflated and used as synonyms, ''faith'' properly refers to a particular type (or subset) of ''belief'', as defined above.  . 
+
+Broadly speaking, there are two categories of views regarding the relationship between faith and rationality:
+#[[Rationalism]] holds that [[truth]] should be determined by [[reason]] and factual analysis, rather than faith, [[dogma]], tradition or religious teaching. 
+#[[Fideism]] holds that faith is necessary, and that beliefs may be held without evidence or reason, or even in conflict with evidence and reason.  . 
+
+The [[Catholic Church]] also has taught that [[faith]] and [[reason]] can and must work together, in the [[Papal encyclical]] letter issued by [[Pope]] [[John Paul II]], ''[[Fides et Ratio]]'' ("[On] Faith and Reason").  . 
+
+==Relationship between faith and reason==. 
+From at least the days of the Greek Philosophers, the relationship between faith and reason has been hotly debated. [[Plato]] argued that knowledge is simply memory of the eternal. [[Aristotle]] set down rules by which knowledge could be discovered by reason.  . 
+
+Rationalists point out that many people hold irrational beliefs, for many reasons. There may be evolutionary causes for irrational beliefs — irrational beliefs may increase our ability to survive and reproduce. Or, according to [[Pascal's Wager]], it may be to our advantage to have faith, because faith may promise infinite rewards, while the rewards of reason are seen by many as finite. One more reason for irrational beliefs can perhaps be explained by operant conditioning. For example, one study (Skinner, 1948) involved awarding pigeons grain at regular time intervals regardless of their behaviour. The result was that each of pigeons developed their own idiosyncratic response which had become associated with the consequence of receiving grain.    . 
+
+Believers in faith — for example those who believe salvation is possible through faith alone — frequently suggest that everyone holds beliefs arrived at by faith, not reason. The belief that the universe is a sensible place and that our minds allow us to arrive at correct conclusions about it, is a belief we hold through faith. Rationalists contend that this is arrived at because they have observed the world being consistent and sensible, not because they have faith that it is.  . 
+
+Beliefs held "by faith" may be seen existing in a number of relationships to rationality:
+* '''Faith as underlying rationality''': In this view, all human [[knowledge]] and reason is seen as dependent on [[faith]]: faith in our senses, faith in our [[reason]], faith in our [[Memory|memories]], and faith in the accounts of events we receive from others. Accordingly, faith is seen as essential to and inseparable from rationality. According to [[René Descartes]], rationality is built first upon the realization of the absolute truth "[[Cogito ergo sum|I think therefore I am]]", which requires no faith. All other rationalizations are built outward from this realization, and are subject to [[Falsifiability|falsification]] at any time with the arrival of new evidence.  . 
+
+* '''Faith as addressing issues beyond the scope of rationality''': In this view, faith is seen as covering issues that science and rationality are inherently incapable of addressing, but that are nevertheless entirely real. Accordingly, faith is seen as complementing rationality, by providing answers to questions that would otherwise be unanswerable.  . 
+
+* '''Faith as contradicting rationality''': In this view, faith is seen as those views that one holds despite evidence and reason to the contrary. Accordingly, faith is seen as pernicious with respect to rationality, as it interferes with our ability to think, and inversely rationality is seen as the enemy of faith by interfering with our beliefs.  . 
+
+* '''Faith and reason as essential together''' This the [[papal]] view that faith without reason leads to [[superstition]], while [[reason]] without [[faith]] leads to [[nihilism]] and [[relativism]].  . 
+
+==Views of the Roman Catholic Church==. 
+[[Thomas Aquinas|St. Thomas Aquinas]], a prominent [[Doctor of the Church#Catholicism|doctor of the Catholic Church]], was the first to write a full treatment of the relationship, differences, and similarities between faith—an intellectual assent<ref>"[http://www.newadvent.org/cathen/05752c.htm Faith]" from the ''[[Catholic Encyclopedia]]''</ref>—and reason,<ref>"[http://www.newadvent.org/cathen/12673b.htm Reason]" from the ''[[Catholic Encyclopedia]]''</ref> predominately in his ''[[Summa Theologica]]'', ''[[De Veritate (Thomas Aquinas)|De Veritate]]'', and ''[[Summa contra Gentiles]]''. <ref>For an overview—with copious quotes from [[Thomas Aquinas|St. Thomas Aquinas]]'s works, some of which are quoted here—of his exposition of the topic of faith and reason, consult [http://www.truthinspire.com/reason-and-faith/ this summary]. </ref> Notably, he writes:
+<blockquote>We have a more perfect knowledge of God by [[Grace (Christianity)|grace]] than by natural reason. Which is proved thus. The knowledge which we have by natural reason contains two things: images derived from the sensible objects; and the natural intelligible light, enabling us to abstract from them intelligible conceptions. Now in both of these, human knowledge is assisted by the revelation of grace. For the intellect's natural light is strengthened by the infusion of gratuitous light. <ref>[http://josephkenny.joyeurs.com/CDtexts/summa/FP/FP012.html#FPQ12A13THEP1 ''Summa Theologiæ'', Iª q. 12 a. 13] co. </ref></blockquote>
+<blockquote>[Faith is] a kind of knowledge, inasmuch as the intellect is determined by faith to some knowable object. <ref>[http://josephkenny.joyeurs.com/CDtexts/summa/FP/FP012.html#FPQ12A13THEP1 ''Summa Theologiæ'', Iª q. 12 a. 13] ad 3</ref></blockquote>
+<blockquote>Faith does not involve a search by natural reason to prove what is believed. But it does involve a form of inquiry unto things by which a person is led to belief, e.g. whether they are spoken by God and confirmed by miracles. <ref>[http://josephkenny.joyeurs.com/CDtexts/summa/FP/FP012.html#FPQ12A13THEP1 ''Summa Theologiæ'', II-IIª q. 2 a. 1] ad 1</ref></blockquote>
+<blockquote>[T]he object of faith is that which is absent from our understanding. As [[Augustine]] said, “we believe that which is absent, but we see that which is present.”<ref>[http://josephkenny.joyeurs.com/CDtexts/QDdeVer14.htm#9 ''De veritate'', q. 14 a. 9] co. </ref></blockquote>
+<blockquote>[O]pinion includes a fear that the other part [of the contradiction] is true, and scientific knowledge excludes such fear. Similarly, it is impossible to have faith and scientific knowledge about the same thing. <ref>[http://josephkenny.joyeurs.com/CDtexts/QDdeVer14.htm#9 ''De veritate'', q. 14 a. 9] ad 6</ref></blockquote> . 
+
+The [[Council of Trent]]'s [[catechism]]—the ''[[Roman Catechism]]'', written during the Catholic Church's [[Counter-Reformation]] to combat [[Protestantism]] and [[Martin Luther]]'s [[Faith_and_rationality#Fideism|fideism]]<ref>On the differences between [[Thomas Aquinas]]'s conception of faith and reason and that of [[Martin Luther]], see {{cite journal|journal=[http://www.thomist.org/journal/explore.htm The Thomist]|title=Faith and Reason Reconsidered: Aquinas and Luther on Deciding What is True|author=Bruce D. Marshall|year=1999|volume=63|pages=1–48|url=http://www.thomist.org/journal/1999/991aMars.htm|accessdate=2011-05-11}}</ref>—echoes St. Thomas:<blockquote>There is a great difference between [[Christian philosophy]] and human wisdom. The latter, guided solely by the light of nature, advances slowly by reasoning on sensible objects and effects, and only after long and laborious investigation is it able at length to contemplate with difficulty the invisible things of God, to discover and understand a [[First Cause]] and Author of all things. Christian philosophy, on the contrary, so quickens the human mind that without difficulty it pierces the heavens, and, illumined with divine light, contemplates first, the eternal source of light, and in its radiance all created things: so that we experience with the utmost pleasure of mind that we have been called, as the [[Primacy of Simon Peter|Prince of the Apostles]] says, ''out of darkness into his admirable light, and believing we rejoice with joy unspeakable''. (''[http://www.veritasbible.com/drb/compare/lvb:haydock/1_Peter_1:8 1 Pet. 1:8]''; ''[http://www.veritasbible.com/drb/compare/lvb:haydock/1_Peter_2:9 1 Pet. 2:9]'') . 
+
+Justly, therefore, do the faithful profess first to believe in God, whose majesty, with the [[Jeremiah|Prophet Jeremias]], we declare ''incomprehensible'' (''[http://www.veritasbible.com/drb/compare/lvb:haydock/Jeremias_32:19 Jer. 32:19]''). For, as the [[Paul of Tarsus|Apostle]] says, ''He dwells in light inaccessible, which no man hath seen, nor can see'' (''[http://www.veritasbible.com/drb/compare/lvb:haydock/1_Timothy_6:16 1 Tim. 6:16]''); as God Himself, speaking to Moses, said: ''No man shall see my face and live'' ([http://www.veritasbible.com/drb/compare/lvb:haydock/Exodus_33:20 Exod. 33:20]). The mind cannot rise to the contemplation of the Deity, whom nothing approaches in sublimity, unless it be entirely disengaged from the senses, and of this in the present life we art naturally incapable. </blockquote> . 
+
+''[[Dei Filius]]'' was a [[dogmatic constitution]] of the [[First Vatican Council]] on the [[Roman Catholic]] faith. It was adopted unanimously on 24 April 1870 and was influenced by the philosophical conceptions of [[Johann Baptist Franzelin]], who had written a great deal on the topic of faith and rationality. On faith and reason, it said:<ref>Quoted in [[Heinrich Joseph Dominicus Denzinger|Denzinger]]'s ''[http://www.catecheticsonline.com/SourcesofDogma18.php Enchiridion Symbolorum et Definitionum]''</ref><blockquote>
+<center>'''The impossibility of opposition between faith and reason'''</center>
+'''1797'''. But, although faith is above reason, nevertheless, between faith and reason no true dissension can ever exist, since the same God, who reveals mysteries and infuses faith, has bestowed on the human soul the light of reason; moreover, God cannot deny Himself, nor ever contradict truth with truth. But, a vain appearance of such a contradiction arises chiefly from this, that either the dogmas of faith have not been understood and interpreted according to the mind of the Church, or deceitful opinions are considered as the determinations of reason. Therefore, "every assertion contrary to the truth illuminated by faith, we define to be altogether false" [ [[Fifth Council of the Lateran|Lateran Council V]], see [http://www.catecheticsonline.com/SourcesofDogma8.php n. 738].  . 
+
+'''1798''' Further, the Church which, together with the apostolic duty of teaching, has received the command to guard the deposit of faith, has also, from divine Providence, the right and duty of proscribing "knowledge falsely so called" [http://www.veritasbible.com/drb/compare/lvb:haydock/1%20Timothy%206:20 1 Tim. 6:20], "lest anyone be cheated by philosophy and vain deceit" [cf. [http://www.veritasbible.com/drb/compare/lvb:haydock/Colossians%202:8 Col. 2:8]; can. 2]. Wherefore, all faithful Christians not only are forbidden to defend opinions of this sort, which are known to be contrary to the teaching of faith, especially if they have been condemned by the Church, as the legitimate conclusions of science, but they shall be altogether bound to hold them rather as errors, which present a false appearance of truth.  . 
+
+<center>'''The mutual assistance of faith and reason, and the just freedom of [[science]]'''</center>
+'''1799'''. And, not only can faith and reason never be at variance with one another, but they also bring mutual help to each other, since right reasoning demonstrates the basis of faith and, illumined by its light, perfects the knowledge of divine things, while faith frees and protects reason from errors and provides it with manifold knowledge. Wherefore, the Church is so far from objecting to the culture of the human arts and sciences, that it aids and promotes this cultivation in many ways. For, it is not ignorant of, nor does it despise the advantages flowing therefrom into human life; nay, it confesses that, just as they have come forth from "God, the Lord of knowledge" [http://www.veritasbible.com/drb/compare/lvb:haydock/1%20Samuel%202:3 1 Samuel 2:3], so, if rightly handled, they lead to God by the aid of His grace. And it (the Church) does not forbid disciplines of this kind, each in its own sphere, to use its own principles and its own method; but, although recognizing this freedom, it continually warns them not to fall into errors by opposition to divine doctrine, nor, having transgressed their own proper limits, to be busy with and to disturb those matters which belong to faith. </blockquote> . 
+
+Because the Roman Catholic Church does not disparage reason in preference to faith, there have been many [[List of Roman Catholic cleric–scientists|Catholic scientists]] over the ages.  . 
+
+Twentieth-century [[Thomism|Thomist]] philosopher [[Étienne Gilson]] [http://www.u.arizona.edu/~aversa/scholastic/gilson/ wrote about faith and reason] in his 1922 book [http://www.archive.org/details/lethomismeintrod01gilsuoft ''Le Thomisme'']. <ref>"[http://www.u.arizona.edu/~aversa/scholastic/gilson/ Faith & Reason]" from [[Étienne Gilson]]'s [http://www.archive.org/details/lethomismeintrod01gilsuoft ''Le Thomisme'']. </ref> His contemporary [[Jacques Maritain]] wrote about it in his [http://www.worldcat.org/title/distinguish-to-unite-or-the-degrees-of-knowledge/oclc/43469501 ''The Degrees of Knowledge''].  . 
+
+''[[Fides et Ratio]]'' is an encyclical promulgated by Pope John Paul II on 14 September 1998. It deals primarily with the relationship between faith and reason.  . 
+
+[[Pope Benedict XVI]]'s 12 September 2006 [[Regensburg Lecture]] was about faith and reason.  . 
+
+==Biblical View==. 
+The word 'faith' as used in the [[Bible]] is very specifically defined, and very different from the modern English usage of the word, such that there is little difference between faith and rationality. 
+Faith is defined in ''[http://www.watchtower.org/e/bible/heb/chapter_011.htm?bk=heb;chp=11;vs=1;citation#bk1 Hebrews 11:1]'' as "the evident demonstration of realities though not beheld."  The Bible uses the word 'faith' simply to refer to the things that we believe due to indirect evidence, as opposed to direct observation.  There is therefore no conflict between biblical faith and rationality. <ref>{{cite web|title=Should Faith Be Based on Reason?|url=http://www.watchtower.org/e/20020401/article_01.htm|publisher=WBTS|accessdate=31 March 2012}}</ref>  . 
+
+==Reformed epistemology==. 
+===Faith as underlying rationality===. 
+The view that faith underlies all rationality holds that rationality is dependent on faith for its coherence. Under this view, there is no way to comprehensively ''prove'' that we are actually seeing what we appear to be seeing, that what we remember actually happened, or that the laws of logic and mathematics are actually real. Instead, all beliefs depend for their coherence on ''faith'' in our senses, memory, and reason, because the foundations of rationalism cannot be proven by evidence or reason. Rationally, you can not prove anything you see is real, but you can prove that you yourself are real, and rationalist belief would be that you can believe that the world is consistent until something demonstrates inconsistency. This differs from faith based belief where you believe that your world view is consistent no matter what inconsistencies the world has with your beliefs.  . 
+
+===Fideism===. 
+[[Martin Luther]] taught that faith and reason were antithetical, in the sense that questions of faith could not be illuminated by reason.  He wrote, "All the articles of our Christian faith, which God has revealed to us in His Word, are in presence of reason sheerly impossible, absurd, and false."<ref>Martin Luther, ''Werke, VIII''</ref> and "[That] Reason in no way contributes to faith. [...]  For reason is the greatest enemy that faith has; it never comes to the aid of spiritual things."<ref>Martin Luther, ''Table Talk''. </ref>  However, though seemingly contradictorily, he also wrote in the latter work that human reason "strives not against faith, when enlightened, but rather furthers and advances it",<ref>Martin Luther, "On Justification CCXCIV", ''Table Talk''</ref> bringing claims he was a fideist into dispute.  . 
+
+===Rationalist point of view===. 
+In this view, there are many beliefs that are held by faith alone, that rational thought would force the mind to reject. As an example, many people believe in the Biblical story of Noah's flood: that the entire Earth was covered by water for forty days. But most plants cannot survive being covered by water for that length of time, a boat of that magnitude could not have been built by wood, and there would be no way for two of every animal to survive on that ship and migrate back to their place of origin (such as penguins). So one must choose between accepting the story on faith and rejecting reason, or rejecting the story by reason and thus rejecting faith.  . 
+
+Within the rationalist point of view, there remains the possibility of multiple rational explanations.  For example, considering the biblical story of Noah's flood, one making rational determinations about the probability of the events does so via interpretation of modern evidence.  Two observers of the story may provide different plausible explanations for the life of plants, construction of the boat, species living at the time, and migration following the flood.  Some see this as meaning that a person is not strictly bound to choose between faith and reason.  . 
+
+==Jewish philosophy==. 
+The 14th Century Jewish philosopher [[Levi ben Gerson]] tried to reconcile faith and reason.  He wrote, "The Torah cannot prevent us from considering to be true that which our reason urges us to believe."<ref>Jewish Encyclopedia, volume VIII, page 29</ref>  His contemporary [[Hasdai ben Abraham Crescas]] argued the contrary view, that reason is weak and faith strong, and that only through faith can we discover the fundamental truth that God is love, that through faith alone can we endure the suffering that is the common lot of God's chosen people.  . 
+
+==See also==. 
+*[[Fides et Ratio|Faith and Reason (Fides et Ratio)]]
+*[[Asa Gray]]
+*[[Atheists in foxholes]]
+*[[Søren Kierkegaard]]
+*[[William Alston]]
+*[[Alvin Plantinga]]
+*[[Cornelius Van Til]]
+*[[Epistemology]]
+*[[Faith and Philosophy]]
+*[[Reformed epistemology]]
+*[[Leo Strauss]]
+*[[Presuppositional apologetics]]
+*[[Theory of justification]]
+*[[Methods of obtaining knowledge]]
+*[[Relationship between religion and science]]
+*[[Society of Christian Philosophers]]
+*[[Theory of everything (philosophy)|Theory of everything]]
+*[[Value (personal and cultural)]] . 
+
+==References==. 
+{{Reflist}} . 
+
+==External links==. 
+===Apologetics and philosophical justifications of faith as rational===. 
+* [http://www.age-of-the-sage.org Age of the Sage] Deeply explores faith through impact-FULL quotations from many key World Faith texts. Shows how both Darwin himself and Aldous Huxley, grandson of Thomas Henry Huxley, concede credibility to faith!
+* [http://www.faithandreason.org/ FaithandReason.org] advocates natural theology and that faith and reason can work together; maintained by the D.L. Dykes, Jr. Foundation
+* [http://www.watchtower.org/e/20020401/article_01.htm Should Faith Be Based On Reason?] Considers how the Bible's view of faith is dependent on reason . 
+
+===Neutral critiques and analysis===. 
+*[http://www.leaderu.com/offices/koons/docs/chrphlec17.html Lecture on The Rationality of Religious Belief] Contemporary Christian Philosophy, University of Texas
+*[http://pantheon.yale.edu/~kd47/basic.htm Are Christian Beliefs Properly Basic?] A critical examination of Alvin Plantinga's claim that Christian beliefs can be justified even without any evidence for them by Keith DeRose, Professor of Philosophy, Yale University . 
+
+===Criticisms of the belief that faith is rational===. 
+*[http://importanceofphilosophy.com/Irrational_Faith.html Irrational Faith] importanceofphilosophy.com
+*[http://importanceofphilosophy.com/Irrational_Main.html Irrational Epistemology] importanceofphilosophy.com . 
+
+===Historical overview of the relationship between faith and reason===. 
+*[http://www.iep.utm.edu/f/faith-re.htm Faith and Reason] Internet Encyclopedia of Philosophy . 
+
+{{epistemology}}
+{{philosophy of religion}}
+{{Philosophy topics}} . 
+
+{{DEFAULTSORT:Faith And Rationality}}
+[[Category:Epistemology]]
+[[Category:Atheism]]
+[[Category:Religion and science]]
+[[Category:Religious belief and doctrine]]
+[[Category:Philosophy of religion]]

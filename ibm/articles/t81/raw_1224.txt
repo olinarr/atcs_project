@@ -1,0 +1,127 @@
+{{dablink|This article is about the medical term. For the stock market term, see [[overweight (stock market)]].}}
+{{pp-semi-protected|small=yes}}
+{{pp-move-indef}}
+{{Infobox Disease
+ |Name           = Overweight
+ |Image          = Body mass index chart.svg
+ |Caption        = The overweight range according to the Body Mass Index (BMI) is the area on the chart where BMI > 25. 
+ |DiseasesDB     =
+ |ICD10          = {{ICD10|E|66||e|9}}
+ |ICD9           = {{ICD9|278.02}}
+ |ICDO           =
+ |OMIM           =
+ |MedlinePlus    =
+ |eMedicineSubj  =
+ |eMedicineTopic =
+ |MeshID         = D050177
+ |
+}} . 
+
+'''Overweight''' is generally defined as having more [[Adipose tissue|body fat]] than is optimally [[health]]y. Being overweight is a common condition, especially where [[dietary energy supply|food supplies]] are plentiful and [[sedentary lifestyle|lifestyles are sedentary]].  . 
+
+Excess weight has reached epidemic proportions globally, with more than 1 billion adults being either overweight or [[obese]]. <ref>{{cite |url=http://www.who.int/dietphysicalactivity/publications/facts/obesity/en/ |publisher=[[World Health Organization]] | title=Obesity and overweight |accessdate=2009-04-27 | date=2003 }}</ref> Increases have been observed across all age groups.  . 
+
+A healthy body requires a minimum amount of [[fat]] for the proper functioning of the [[hormone|hormonal]], [[reproductive system|reproductive]], and [[immune system|immune]] systems, as [[thermal insulation]], as [[shock absorber|shock absorption]] for sensitive areas, and as [[lipids|energy]] for future use. But the accumulation of too much storage fat can impair movement and flexibility, and can alter the [[body shape|appearance of the body]].  . 
+
+== Classification ==. 
+{{see also|Body fat percentage}} . 
+
+The degree to which a person is overweight is generally described by [[body mass index]] (BMI). Overweight is defined as a BMI of 25 or more, thus it includes pre-obesity defined as a BMI between 25 and 30 and [[obesity]] as defined by a BMI of 30 or more. <ref>{{cite |title=Obesity: preventing and managing the global epidemic. Report of a WHO convention |publisher=[[World Health Organization]] |place=Geneva |date= 1999 |pmid=11234459 |accessdate=2009-04-27}}</ref><ref>{{cite |title=Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults: The Evidence Report. |url=http://www.nhlbi.nih.gov/guidelines/obesity/ob_gdlns.pdf |date=September 1998 |accessdate=2009-04-27 |publisher=[[National Institutes of Health]] }}</ref> Pre obese and overweight however are often used interchangeably thus giving overweight a common definition of a BMI of between 25 -30. <!--
+User:SimonTrew 2007 delete this link: No title. No information. Only available to subscribers. The URL is a search result. Generally unlikely ever to work again but leave here as jetsam in case anyone else wants to fix it <ref>{{cite web |url=http://www.uptodate.com/online/content/topic.do?topicKey=obesity/4467&selectedTitle=1~150&source=search_result#5 |title=UpToDate Inc. |format= |work= |accessdate=}}</ref> --> There are however several other common ways to measure the amount of adiposity or fat present in an individual's body. 
+*[[Body mass index]]
+:The body mass index (BMI) is a measure of a person's weight taking into account their height.  It is given by the formula: BMI equals a person's weight (mass) in kilograms divided by the square of the person's height in metres. The units therefore are kg/m<sup>2</sup> but BMI measures are typically used and written without units.  . 
+
+:BMI provides a significantly more accurate representation of body fat content than simply measuring a person's weight. It is only moderately [[correlated]] with both body fat percentage and body fat mass ([[Pearson product-moment correlation coefficient|R<sup>2</sup>]] of 0.68.)<ref>{{cite journal |title=Use of relative weight and Body Mass Index for the determination of adiposity |last1=Gray |first1=D. S. |last2=Fujioka|first2=K. J. |journal=[[Journal of Clinical Epidemiology]] |year=1991 |volume=44 |issue=6 |pages=545–50 |pmid=2037859 |doi=10.1016/0895-4356(91)90218-X}}</ref> It does not take into account certain factors such as pregnancy or bodybuilding; however, the BMI is an accurate reflection of fat percentage in the majority of the adult population. 
+*[[Body volume index]]
+:The body volume index (BVI) was devised in 2000 as a computer, rather than manual, measurement of the human body for [[obesity]] and an alternative to the BMI . 
+
+:Body volume index uses 3D software to create an accurate 3D image of a person so BVI can differentiate between people with the same BMI rating, but who have a different shape and different weight distribution. 
+[[File:Overweight biker.jpg|thumb|right|220px|An obese man on a motorcycle]]
+[[File:Variation in body fat 12577.JPG|thumb|right|220px|Children with varying levels of body fat]]
+:BVI measures where a person’s weight and the fat are located on the body, rather than total weight or total fat content and places emphasis on the weight carried around the abdomen, commonly known as [[central obesity]]. There has been an acceptance in recent years that abdominal fat and weight around the abdomen constitute a greater health risk. <ref>Craver, R.(10 September 2008) [http://www2.journalnow.com/content/2008/sep/10/location-not-volume-of-fat-found-to-be-key/living/ "Location, not volume, of fat found to be key"] www.journalnow.com. Retrieved on 2008-10-09</ref>
+*[[weighing scale|Simple weighing]]
+:The person's weight is measured and compared to an estimated ideal weight. This is the easiest and most common method, but by far the least accurate, as it only measures one quantity (weight) and often does not take into account many factors such as height, [[body type]], and relative amount of [[muscle]] mass. 
+*Skinfold [[calipers]] or "pinch test"
+:The skin at several specific points on the body is pinched and the thickness of the resulting fold is measured.  This measures the thickness of the layers of fat located under the skin, from which a general measurement of total amount of fat in the body is calculated.  This method can be reasonably accurate for many people, but it does assume particular patterns for fat distribution over the body which may not apply to all individuals, and does not account for fat deposits which may not be directly under the skin.  Also, as the measurement and analysis generally involves a high degree of practice and interpretation, for an accurate result it must be performed by a professional and cannot generally be done by patients themselves. 
+*[[Bioelectrical impedance analysis]]
+:A small electrical current is passed through the body to measure its [[electrical resistance]]. As fat and muscle conduct electricity differently, this method can provide a direct measurement of the body fat percentage, in relation to muscle mass. In the past, this technique could only be performed reliably by trained professionals with specialized equipment, but it is now possible to buy home testing kits which allow people to do this themselves with a minimum of training.  Despite the improved simplicity of this process over the years, however, there are a number of factors which can affect the results, including [[Rehydration|hydration]] and [[body temperature]], so it still needs some care when taking the test to ensure that the results are accurate. 
+*[[hydrostatic equilibrium|Hydrostatic]] weighing
+:Considered one of the more accurate methods of measuring body fat, this technique involves complete submersion of a person in water, with special equipment to measure the person's weight while submerged. This weight is then compared with "dry weight" as recorded outside the water to determine overall body density. As fat is less dense than muscle, careful application of this technique can provide a reasonably close estimate of fat content in the body.  This technique does, however, require expensive specialized equipment and trained professionals to administer it properly. 
+*[[Dual energy X-ray absorptiometry]] (DEXA)
+:Originally developed to measure bone density, DEXA imaging has also come to be used as a precise way to determine body fat content by using the density of various body tissues to identify which portions of the body are fat. This test is generally considered to be very accurate, but requires a great deal of expensive medical equipment and trained professionals to perform.  . 
+
+The most common method for discussing this subject and the one used primarily by researchers and advisory institutions is BMI. Definitions of what is considered to be overweight vary by ethnicity. The current definition proposed by the US [[National Institutes of Health]] (NIH) and the [[World Health Organization]] (WHO) designates whites, Hispanics and blacks with a BMI of 25 or more as overweight. For Asians, overweight is a BMI between 23 and 29.9 and obesity for all groups is a BMI of 30 or more.  . 
+
+BMI, however, does not account extremes of muscle mass, some rare [[genetics|genetic]] factors, the very young, and a few other individual variations.  Thus it is possible for an individuals with a BMI of less than 25 to have excess body fat, while others may have a BMI that is significantly higher without falling into this category. <ref>{{cite journal | first1=Dympna |last1=Gallagher |first2=Steven B. |last2=Heymsfield |first3=Moonseong |last3=Heo |first4=Susan A. |last4=Jebb |first5=Yoichi |last5=Sakamoto | title= Healthy percentage body fat ranges: an approach for developing guidelines based on body mass index | journal=[[American Journal of Clinical Nutrition]] | date=1 September 2000| volume=72 | issue=3 | pages=694&ndash;701 | url=http://www.ajcn.org/cgi/content/full/72/3/694  | pmid=10966886 | author3=H | author6=S }}</ref> Some of the above methods for determining body fat are more accurate than BMI but come with added complexity.  . 
+
+If an individual is overweight and has excess body fat it could, but won't always, create or lead to [[health]] risks. Reports are surfacing, however, that being mildly overweight to slightly obese &ndash; BMI being between 24 and 31.9 &ndash; may be actually beneficial and that people with BMI between 24 and 31.9 could actually live longer than normal weight or underweight persons. <ref>{{cite study|title=Being Overweight may be Good for Your Health|publisher=Statesman|url=http://www.statesman.com/money/content/shared/.../071109weight.html |accessdate=November 26, 2009 }} {{Dead link|date=November 2010|bot=H3llBot}}</ref><ref>{{cite web |url=http://www.wndu.com/mmm/headlines/37227054.html |title=Experts say being moderately overweight may be good for you |publisher=[[WNDU-TV|WNDU.com]] |accessdate=September 24, 2011 |date=January 7, 2009 |last=McFadden |first=Maureen}}</ref> . 
+
+== Health-related implications == . 
+
+[[Image:GermanShep1 wb.jpg|thumb|right|Animals can suffer from obesity as well. This [[German Shepherd dog]] is noticeably overweight.]]
+While the negative health outcomes associated with [[obesity]] are accepted within the medical community, the health implications of the overweight category are more controversial. The generally accepted view is that being overweight causes similar health problems to obesity, but to a lesser degree. Adams et al. estimated that the risk of death increases by 20 to 40 percent among overweight people,<ref>{{cite journal | first1=Kenneth F.|last1=Adams |first2=Arthur |last2=Schatzkin |first3=Tamara B. |last3=Harris |first4=Victor |last4=Kipnis |first5=Traci |last5=Mouw |first6=Rachel |last6=Ballard-Barbash, |first7=Albert |last7=Hollenbeck |first8=Michael F. |last8=Leitzmann <!--- whew an et. al. really needed there --> | title=Overweight, Obesity, and Mortality in a Large Prospective Cohort of Persons 50 to 71 Years Old | journal=[[NEJM]] | year=2006 | volume=355 | issue=8 | pages=763&ndash;788 | url=http://content.nejm.org/cgi/content/short/355/8/763?query=prevarrow | doi=10.1056/NEJMoa055643 | pmid=16926275}}</ref> and the Framingham heart study found that being overweight at age 40 reduced life expectancy by three years. <ref>{{cite journal |last1=Peeters |first1=A. |last2= Barendregt |first2=J. J. |last3=Willekens |first3=F. |last4=Mackenbach |first4=J. P. |last5=Al Mamun|first5=A. |last6=Bonneux |first6=L. |title=Obesity in adulthood and its consequences for life expectancy: a life-table analysis |journal=Ann. Intern. Med. |volume=138 |issue=1 |pages=24–32 |year=2003 |month=January |pmid=12513041 |doi= |url=http://www.annals.org/cgi/pmidlookup?view=long&pmid=12513041 |author7=NEDCOM, the Netherlands Epidemiology and Demography Compression of Morbidity Research Group |last7=Nedcom}}</ref> . 
+
+Flegal et al., however, found that the [[mortality rate]] for individuals who are classified as overweight (BMI 25 to 30) may actually be lower than for those with an "ideal" weight (BMI 18.5 to 25). <ref>{{cite journal | first1=Katherine M. |last1=Flegal |first2=Barry I. |last2=Graubard |first3=David F. |last3=Williamson |first4=Mitchell H. |last4=Gail | title=Excess Deaths Associated With Underweight, Overweight, and Obesity | journal=[[Journal of the American Medical Association|JAMA]] | year=2005 | volume=293 | issue=15 | pages=1861&ndash;1867 | url=http://jama.ama-assn.org/cgi/content/abstract/293/15/1861 | pmid=15840860 | doi=10.1001/jama.293.15.1861}}</ref><ref>{{cite |url=http://www.nytimes.com/2007/11/07/health/07fat.html |title= Causes of Death Are Linked to a Person’s Weight |publisher=[[New York Times]] |first=Gina |last=Kolata |date=7 November 2007 |accessdate=2009-04-27 }} (requires free registration)</ref> . 
+
+Being overweight has been identified as a cause of [[cancer]], and is projected to overtake [[smoking]] as the primary cause of cancer in [[developed country|developed countries]] as cases of cancer linked to smoking dwindle. <ref>{{cite |url=http://www.livescience.com/health/080219-bad-fat.html |title=Scientists Agree: Obesity Causes Cancer | publisher=[[LiveScience]] |last=Wanjek |first=Christopher |date=19 February 2008 |accessdate=2009-04-27 }}</ref> . 
+
+Psychological well-being is also at risk in the overweight individual due to social [[discrimination]].  However, children under the age of eight are normally not affected. <ref>{{cite web |last=Kirschenbaum |first=Daniel S. |title=Effect of Obesity or Being Overweight on Self-Esteem |work=My Overweight Child |year=2006 |url= http://www.myoverweightchild.com/self-esteem.html |accessdate=2009-05-20}}</ref> . 
+
+Being overweight does not increase mortality in older people. <ref>{{cite journal |author=Flicker L, McCaul KA, Hankey GJ, ''et al.'' |title=Body mass index and survival in men and women aged 70 to 75 |journal=J Am Geriatr Soc |volume=58 |issue=2 |pages=234–41 |year=2010 |month=February |pmid=20370857 |doi=10.1111/j.1532-5415.2009.02677.x |url=}}</ref> . 
+
+===Prevalence per country===. 
+As much as 64% of the [[United States]] adult population is considered either overweight or [[obese]], and this percentage has increased over the last four decades. <ref>{{cite journal |first1=Katherine M.|last1=Flegal |first2=Margaret D. |last2=Carroll |first3=Clifford L. |last3=Johnson | title=Prevalence and Trends in Obesity Among US Adults, 1999-2000 | journal=[[Journal of the American Medical Association|JAMA]] | year=2002 | volume=288 | issue=14 | pages=1723&ndash;1727 | url=http://jama.ama-assn.org/cgi/content/full/288/14/1723 | pmid=12365955 | doi=10.1001/jama.288.14.1723 |last4=Johnson |first4=CL}}</ref> . 
+
+== Causes == . 
+
+Being overweight is generally caused by the intake of more [[calorie]]s (by [[eating]]) than are expended by the body (by exercise and everyday living).  Factors which may contribute to this imbalance include: . 
+
+* [[Alcoholism]]
+* [[Eating disorder]]s (such as [[binge eating disorder|binge eating]])
+* [[Genetic predisposition]]
+* [[Hormone|Hormonal]] imbalances (e.g. [[hypothyroidism]])
+* Insufficient or poor-quality [[sleep]]
+* Limited [[physical exercise]] and [[sedentary lifestyle]]
+* [[Malnutrition|Poor nutrition]]
+* [[Metabolic disorder]]s, which could be caused by repeated attempts to lose weight by [[Yo-yo dieting|weight cycling]]
+* [[Overeating]]
+* [[Psychoactive drug|Psychotropic medication]] (e.g. [[olanzapine]])
+* [[Smoking cessation]] and other [[stimulant]] withdrawal
+* [[Stress (medicine)|Stress]] . 
+
+People who have [[Diabetes mellitus type 1|insulin dependant diabetes]] and chronically overdose insulin may gain weight, while people who already are overweight may develop insulin tolerance,  and in the long run [[Diabetes mellitus type 2|type II diabetes]].  . 
+
+== Treatment == . 
+
+A large number of people undergo some form of treatment to attempt to reduce their weight, usually either in an attempt to improve their health, to improve their lifestyle, or for cosmetic reasons.  The generally recommended treatment for being overweight is a [[dieting|modified or controlled diet]] in conjunction with increased physical exercise. For those who are obese rather than overweight, more intensive therapies such as [[anti-obesity drug]]s and/or [[Bariatrics|bariatric surgery]] are sometimes used.  . 
+
+Studies suggest that reducing calorie intake by itself (dieting) may have short-term effects but does not lead to long-term weight loss, and can often result in gaining back all of the lost weight and more in the longer term. For this reason, it is generally recommended that weight-loss diets not be attempted on their own but instead in combination with increased exercise and long-term planning and weight management.  . 
+
+The health benefits of weight loss are also somewhat unclear.  While it is generally accepted that for significantly obese patients, losing weight can reduce health risks and improve quality of life, there is some evidence to suggest that for merely overweight patients, the health effects of attempting to lose weight may actually be more detrimental than simply remaining overweight. <ref>{{cite journal | last1=Sørensen |first1=T. I., |last2=Rissanen |first2=A. |last3=Korkeila |first3=M. |last4=Kaprio |first4=J. | title=Intention to Lose Weight, Weight Changes, and 18-y Mortality in Overweight Individuals without Co-Morbidities | journal=[[PLoS]] | year=2005 | volume=2 | issue=6 | pages=e171 | doi= 10.1371/journal.pmed.0020171 | pmid=15971946 | pmc=1160579}}</ref>  Moreover, for all individuals, repeatedly losing weight and then gaining it back ("weight cycling" or "[[yo-yo dieting]]"), is believed to do more harm than good and can be the cause of significant additional health problems. This is caused by the loss of more muscle than fat.  . 
+
+== See also ==. 
+* [[Body image]]
+* [[Body Volume Index|Body Volume Index (BVI)]]
+* [[Canadian Obesity Network]]
+* [[Childhood obesity]]
+* [[Fat acceptance movement]]
+* [[Physical attractiveness]]
+* [[Obesity]]
+* [[Underweight]] . 
+
+== References==. 
+{{Reflist|2}} . 
+
+== External links ==. 
+* [http://www.epidemiologic.org/2006/10/obesity-epidemic-us-temporal-trends.html Obesity Epidemic: U.S. Temporal Trends 1985-2004]
+* [http://www.epidemiologic.org/2007/02/most-overweight-countries-in-world.html Ranking of Most Overweight Countries in the World 2005]
+* [http://www.who.int/mediacentre/factsheets/fs311/en/ World Health Organization fact sheet on obesity and overweight]
+* [http://www.halls.md/ideal-weight/body.htm Ideal Weight Calculator]
+* [http://www.weightlosstips.co.in/  Obesity weight loss diets preventive measures precautions and safety considerations for reducing weight]
+* [http://nutritioncaloriecounter.com/  Nutrition Calorie Counter] . 
+
+{{Nutritional pathology}} . 
+
+[[Category:Body shape]]
+[[Category:Hyperalimentation]]
+[[Category:Obesity]]

@@ -1,0 +1,677 @@
+[[File:Athabasca Oil Sands map.png|thumb|The [[Athabasca oil sands]] in Alberta, Canada, are a very large source of [[bitumen]], which can be [[upgrader|upgraded]] to [[synthetic crude]] oil.]] . 
+
+'''Oil sands,''' '''tar sands''' or, more technically, '''bituminous sands,''' are a type of [[unconventional oil|unconventional petroleum deposit]]. The oil sands are loose sand or partially consolidated sandstone containing naturally occurring mixtures of [[sand]], [[clay]], and water, [[Saturation (chemistry)|saturated]] with a dense and extremely [[viscous]] form of [[petroleum]] technically referred to as [[bitumen]] (or colloquially [[tar]] due to its similar appearance, odour and colour). Natural bitumen deposits are reported in many countries, but in particular are found in extremely large quantities in [[Canada]]. <ref name=wec/><ref name="AOS2008">
+{{Cite journal
+  | title = Alberta's Oil Sands: Opportunity, Balance
+  | publisher = Government of Alberta
+  | month = March | year = 2008
+  | url = http://www.environment.alberta.ca/documents/Oil_Sands_Opportunity_Balance.pdf
+  | format = PDF
+  | isbn = 978-0-7785-7348-7
+  | accessdate =13 May 2008}}
+</ref>  Other large reserves are located in [[Kazakhstan]] and [[Russia]]. Total natural bitumen reserves are estimated at {{convert|249.67|Goilbbl}} globally, of which {{convert|176.8|Goilbbl}}, or 70.8%, are in Canada. <ref name=wec/> . 
+
+Oil sands reserves have only recently been considered to be part of the world's [[oil reserves]], as higher oil prices and new technology enable them to be profitably extracted and upgraded to usable products. They are often referred to as [[unconventional oil]] or crude bitumen, in order to distinguish the bitumen extracted from oil sands from the free-flowing hydrocarbon mixtures known as [[crude oil]] traditionally produced from [[oil wells]].  . 
+
+The crude bitumen contained in the Canadian oil sands is described by Canadian authorities as "petroleum that exists in the semi-solid or solid phase in natural deposits. Bitumen is a thick, sticky form of crude oil, so heavy and viscous (thick) that it will not flow unless heated or diluted with lighter [[hydrocarbons]]. At room temperature, it is much like cold [[molasses]]". <ref>
+{{Cite journal
+  | title = Glossary
+  | publisher =Canada's Oil Sands
+  | year = 2010
+  | url = http://www.canadasoilsands.ca/en/glossary.aspx
+  | accessdate =23 August 2010}}
+</ref>  The [[World Energy Council]] (WEC) defines natural bitumen as "oil having a [[viscosity]] greater than 10,000&nbsp;centipoises under reservoir conditions and an [[API gravity]] of less than 10° API". <ref name=wec>
+{{cite book
+ | title = Survey of energy resources
+ | chapter = Natural Bitumen and Extra-Heavy Oil
+ | first1 = Emil D. | last1 = Attanasi
+ | first2 = Richard F. | last2 = Meyer
+ | publisher = [[World Energy Council]]
+ | year = 2010
+ | edition = 22
+ | pages = 123–140
+ | url = http://www.worldenergy.org/documents/ser_2010_report_1.pdf
+ | format = PDF
+ | isbn = 0-946121-26-5}}
+</ref>  The [[Orinoco Belt]] in [[Venezuela]] is sometimes described as oil sands, but these deposits are non-bituminous, falling instead into the category of [[Heavy crude oil|heavy or extra-heavy oil]] due to their lower viscosity. <ref>{{cite journal|last=Dusseault|first=M. B.|title=Comparing Venezuelan and Canadian heavy oil and tar sands|journal=Proceedings of Petroleum Society's Canadian International Conference|date=12-14|year=2001|month=June|volume=2001-061|pages=20p}}</ref>  Natural bitumen and extra-heavy oil differ in the degree by which they have been degraded from the original crude oil by [[bacteria]] and [[erosion]]. According to the WEC extra-heavy oil has "a gravity of less than 10° API and a reservoir viscosity of no more than 10,000&nbsp;centipoises". <ref name=wec/> . 
+
+Making liquid fuels from oil sands requires energy for steam injection and refining. This process generates two to four times the amount of [[greenhouse gas]]es per barrel of final product as the "production" of conventional oil. <ref>{{Cite book|author=Joseph J. Romm |title= Hell and High Water: The Global Warming Solution |publisher=Harper Perrenial |location=New York |year=2008 |pages=181–82 |isbn=978-0-06-117213-7}}</ref>  If combustion of the final products is included, the so-called "Well to Wheels" approach, oil sands extraction, upgrade and use emits 10 to 45% more greenhouse gases than conventional crude. <ref>{{cite news
+|url=http://www.mjtimes.sk.ca/Canada---World/Business/2009-12-10/article-243834/Albertas-oilsands:-well-managed-necessity-or-ecological-disaster%3F/1
+|title=Alberta's oilsands: well-managed necessity or ecological disaster?
+|first =Bob |last = Weber
+|date=10 December 2009
+|work=Moose Jaw Herald Times
+|agency=Canadian Press
+|accessdate=29 March 2010 }}</ref> . 
+
+==History==. 
+The exploitation of bituminous deposits and [[Petroleum seep|seeps]] dates back to [[Paleolithic]] times. <ref>{{Cite news  | last = Bilkadi | first = Zayn | title = Bitumen - A History | newspaper = Saudi Aramco World | pages = 2–9 | date = November/December 1984 | url = http://www.saudiaramcoworld.com/issue/198406/bitumen.-.a.history.htm | accessdate =1 January 2011 }}</ref>  The earliest known use of bitumen was by [[Neanderthal]]s, some 40,000&nbsp;years ago. Bitumen has been found adhering to [[stone tool]]s used by [[Neanderthal]]s at sites in [[Syria]]. After the arrival of [[Homo sapiens]], humans used bitumen for construction of buildings and water proofing of [[reed boat]]s, among other uses. In ancient [[Egypt]], the use of bitumen was important in creating Egyptian mummies—in fact, the word [[mummy]] is derived from the [[Arabic language|Arab word]] ''mūmiyyah'', which means bitumen. <ref>{{cite web| last=Hirst | first=K. Kris | title=Bitumen - A Smelly but Useful Material of Interest  | work=Archaeology | publisher=About.com | year=2009 | url=http://archaeology.about.com/od/bcthroughbl/qt/bitumen.htm | accessdate=23 October 2009 }}</ref> . 
+
+In ancient times, bitumen was primarily a [[Mesopotamian]] commodity used by the [[Sumerians]] and [[Babylonians]], although it was also found in the [[Levant]] and [[Persia]]. The area along the [[Tigris]] and [[Euphrates river]]s was littered with hundreds of pure bitumen seepages. The Mesopotamians used the bitumen for waterproofing boats and buildings. In North America, the early European [[fur traders]] found [[First Nations|Canadian First Nations]] using bitumen from the vast [[Athabasca oil sands]] to waterproof their [[birch bark]] canoes. <ref>{{Cite book| last=Mackenzie | first=Sir Alexander | year=1970 | title=The Journals and Letters of Alexander Mackenzie | editor=Lamb, W. Kaye | location=Cambridge | publisher=Hakluyt Society | page=129 | isbn=0-521-01034-9}}</ref>  In Europe, they were extensively mined near the European city of [[Merkwiller-Pechelbronn|Pechelbronn]], where the vapour separation process was in use in 1742. <ref>{{cite web |url=http://www.musee-du-petrole.com/page14.htm | language={{fr}} |title=Pechelbronn petroleum museum }}</ref><ref>{{cite news |newspaper= [[The New York Times]] |url=http://query.nytimes.com/mem/archive-free/pdf?res=F7071EF635551B7A93C1AB1789D85F448884F9 |title=The oil wells of Alsace |date=23 February 1880|format = PDF | accessdate =11 February 2012}}</ref> . 
+
+The name ''tar sands'' was applied to bituminous sands in the late 19th and early 20th century. People who saw the bituminous sands during this period were familiar with the large amounts of tar residue produced in urban areas as a [[by-product]] of the manufacture of [[coal gas]] for urban heating and lighting. <ref>{{Cite journal| title=Coal Tar | year=2007 | publisher=City of Kingston, Ontario |url=http://www.cityofkingston.ca/residents/environment/coaltar/index.asp | accessdate=13 May 2008}}</ref>  The word "[[tar]]" to describe these natural bitumen deposits is really a misnomer, since, chemically speaking, tar is a [[synthetic oil|human-made]] substance produced by the [[destructive distillation]] of [[organic material]], usually [[coal]]. <ref name="Alberta's oil sands">{{Cite journal| title=Alberta's oil sands | year=2007 | publisher=Government of Alberta | url=http://oilsands.alberta.ca/ |archiveurl=http://web.archive.org/web/20080410204658/http://oilsands.alberta.ca/ |archivedate=10 April 2008 }}</ref> . 
+
+Since then, coal gas has almost completely been replaced by [[natural gas]] as a fuel, and [[coal tar]] as a material for [[pavement (material)|paving roads]] has been replaced by the petroleum product [[asphalt]]. Naturally occurring bitumen is chemically more similar to asphalt than to tar, and the term ''oil sands'' (or oilsands) is more commonly used in the producing areas than ''tar sands'' because [[synthetic oil]] is what is manufactured from the bitumen. <ref name="Alberta's oil sands"/>  Oil sands are now an alternative to conventional crude oil. <ref name="Evans">{{Cite journal| author=Evans, John | title=Sand banks: If unconventional sources of oil, such as oil sands, could be transformed into crude we could still have a 300-year supply left. The problem is extracting it | journal=Chemistry and Industry | pages=18–36 | month=November | year=2006 | url=http://www.highbeam.com/doc/1G1-155028738.html | accessdate=7 October 2009 }}</ref> . 
+
+==Reserves==. 
+According to the WEC, natural bitumen is reported in 598&nbsp;deposits in 23&nbsp;countries, with the largest deposits in Canada, Kazakhstan, and Russia. Discovered original oil in place is {{convert|2511.326|Goilbbl}} and total original oil in place is estimated {{convert|3328.598|Goilbbl}}. Natural bitumen reserves are estimated at {{convert|249.67|Goilbbl}} globally, of which {{convert|176.8|Goilbbl}} are in Canada, {{convert|42.009|Goilbbl}} in Kazakhstan and {{convert|28.38|Goilbbl}} in Russia. <ref name=wec/> . 
+
+Most of the oil sands of Canada are located in three major deposits in northern [[Alberta]]. These are the Athabasca-Wabiskaw oil sands of north northeastern Alberta, the [[Cold Lake, Alberta|Cold Lake]] deposits of east northeastern Alberta, and the [[Peace River, Alberta|Peace River]] deposits of northwestern Alberta. Between them they cover over {{convert|140000|km2|sqmi}}—an area larger than [[England]]—and hold proven reserves of {{convert|1.75|Toilbbl|e9m3|sigfig=2}} of [[bitumen]] in place. About 10% of this, or {{convert|173|Goilbbl|e9m3}}, is estimated by the [[government of Alberta]] to be recoverable at current prices, using current technology, which amounts to 97% of Canadian oil reserves and 75% of total North American petroleum reserves. <ref name="AOS2008"/>  The Cold Lake deposits extend across the Alberta's eastern border into Saskatchewan. In addition to the Alberta oil sands, there are major oil sands deposits on [[Melville Island, Canada|Melville Island]] in the [[Canadian Arctic islands]], which are unlikely to see commercial production in the foreseeable future. The largest bitumen deposit, containing about 80% of the Alberta total, and the only one suitable for [[surface mining]], is the Athabasca oil sands along the [[Athabasca River]]. The mineable area (as defined by the Alberta government) includes 37&nbsp;[[township (Canada)#Western Canada|townships]] covering about {{convert|3400|km2|sqmi}} near [[Fort McMurray]]. The smaller Cold Lake deposits are important because some of the oil is [[fluid]] enough to be extracted by conventional methods. All three Alberta areas are suitable for production using ''[[in-situ]]'' methods, such as cyclic steam stimulation (CSS) and [[steam assisted gravity drainage]] (SAGD).  . 
+
+Several other countries hold oil sands deposits which are smaller by orders of magnitude. In Kazakhstan, the bitumen deposits are located
+in the North Caspian Basin. Russia holds oil sands in two main regions. Large resources are present in the Tunguska Basin, [[East Siberia]], with the largest deposits being Olenek and Siligir. Other deposits are located in the [[Timan-Pechora Basin|Timan-Pechora]] and Volga-Urals basins (in and around [[Tatarstan]]), which is an important but very mature province in terms of conventional oil, holds large amounts of oil sands in a shallow permian formation. <ref name=wec/><ref>
+{{Cite news
+ |publisher=Rigzone
+ |url=http://www.rigzone.com/analysis/RZR/Sum06/rigzoneReporter_HeavyOil_Russia.pdf
+ |format=PDF
+ |date=Summer 2006
+}}</ref> . 
+
+In [[Madagascar]], [[Tsimiroro]] and [[Bemolanga]] are two heavy oil sands deposits with a pilot well already producing small amounts of oil in Tsimiroro. <ref>
+{{Cite news
+ |title=Madagascar Produces First 45 Barrels of Oil
+ |publisher=BBC Monitoring Africa
+ |date=14 March 2008
+}}</ref> and larger scale exploitation in the early planning phase. <ref>
+{{Cite news
+ |title=Madagascar Oil raises $85M for exploration, opens new head office
+ |publisher=Rigzone
+ |date=29 March 2007
+ |url=http://www.rigzone.com/news/article.asp?a_id=43247
+}}</ref>  In the [[Republic of the Congo]] reserves are estimated between {{convert|0.5|and|2.5|Goilbbl}}.  . 
+
+In the United States, oil sands resources are primarily concentrated in Eastern [[Utah]]. With a total of {{convert|32|Goilbbl}} of oil (known and potential) in eight major deposits in the Utah counties of [[Carbon County, Utah|Carbon]], [[Garfield County, Utah|Garfield]], [[Grand County, Utah|Grand]], [[Uintah County, Utah|Uintah]], and [[Wayne County, Utah|Wayne]]. <ref>{{cite web
+|title=Secure Fuels from Domestic Resources  |url=http://www.fossil.energy.gov/programs/reserves/npr/Secure_Fuels_from_Domestic_Resources_-_P.pdf }}</ref>  In addition to being much smaller than the oil sands deposits in Alberta, Canada, the U.S. oil sands are hydrocarbon wet, whereas the Canadian oil sands are water wet. <ref name="USTar"/>  As a result of this difference, extraction techniques for the Utah oil sands will be different than those used for the Alberta oil sands.  . 
+
+==Production==. 
+[[File:Syncrude mildred lake plant.jpg|thumb|right|Syncrude's Mildred Lake mine site and plant near [[Fort McMurray]], Alberta]]
+Bituminous sands are a major source of unconventional oil, although only Canada has a large-scale commercial oil sands industry. In 2006, bitumen production in Canada averaged {{convert|1.25|Moilbbl/d|m3/d|sigfig=2}} through 81&nbsp;oil sands projects. 44% of Canadian oil production in 2007 was from oil sands. <ref>
+{{cite web
+ | title = Canadian Energy Overview 2007
+ | publisher = National Energy Board of Canada
+ | month = May | year = 2007
+ | url = http://www.neb.gc.ca/clf-nsi/rnrgynfmtn/nrgyrprt/nrgyvrvw/cndnnrgyvrvw2007/cndnnrgyvrvw2007-eng.html#s4_2
+ | accessdate =23 July 2008 }}
+</ref>  This proportion is expected to increase in coming decades as bitumen production grows while conventional oil production declines, although due to the 2008 economic downturn work on new projects has been deferred. <ref name="AOS2008"/>  Petroleum is not produced from oil sands on a significant level in other countries. <ref name="USTar">
+{{Cite journal
+  | author = U.S. Department of the Interior, Bureau of Land Management (BLM)
+  | title = Tar sands basics
+  | year = 2008
+  | url = http://ostseis.anl.gov/guide/tarsands/index.cfm
+  | publisher = Argonne National Laboratory
+  | accessdate =14 May 2008
+}}</ref> . 
+
+The Alberta oil sands have been in commercial production since the original Great Canadian Oil Sands (now [[Suncor Energy]]) mine began operation in 1967. A second mine, operated by the [[Syncrude]] consortium, began operation in 1978 and is the biggest mine of any type in the world. The third mine in the Athabasca Oil Sands, the [[Albian Sands]] consortium of [[Shell Canada]], [[Chevron Corporation]], and Western Oil Sands Inc. [purchased by [[Marathon Oil Corporation]] in 2007] began operation in 2003. [[Petro-Canada]] was also developing a $33 billion Fort Hills Project, in partnership with UTS Energy Corporation and [[Teck Cominco]], which lost momentum after the 2009 merger of Petro-Canada into Suncor. <ref>{{cite web|url=http://www.oilweek.com/news.asp?ID=9884 |title=Fort Hills Oilsands |publisher=Oilweek.com |date= |accessdate=4 May 2011}}</ref> . 
+
+In the Republic of the Congo, the Italian oil company [[Eni]] have announced in May 2008 a project to develop the small oil sands deposit in order to produce {{convert|40000|oilbbl/d}} in 2014. <ref>
+{{cite press release
+ |url=http://www.eni.it/en_IT/media/press-releases/2008/05/19-05-2008-integrated-model-congo.shtml
+ |publisher=[[Eni]]
+ |date=19 May 2008
+ |place=[[Point Noire, Congo]]
+ |title=Eni and the Republic of Congo launch a new integrated model of cooperation
+}}</ref> . 
+
+==Extraction process==. 
+Conventional crude oil is normally extracted from the ground by drilling [[oil well]]s into a [[petroleum reservoir]], allowing oil to flow into them under natural reservoir pressures, although [[artificial lift]] and techniques such as [[water injection (oil production)|water flooding]] and gas injection are usually required to maintain production as reservoir pressure drops toward the end of a field's life. Because bitumen flow very slowly, if at all, toward producing wells under normal reservoir conditions, the sands must be extracted by [[strip mining]] or the oil made to flow into wells by ''in-situ'' techniques, which reduce the viscosity by injecting [[steam]], [[solvent]]s, and/or hot air into the sands. These processes can use more water and require larger amounts of energy than conventional oil extraction, although many conventional oil fields also require large amounts of water and energy to achieve good rates of production.  . 
+
+It is estimated that approximately 90% of the Alberta oil sands are too far below the surface to use [[open-pit mining]]. Several ''in-situ'' techniques have been developed. <ref>
+{{cite web
+ |url=http://www.oilsandsdiscovery.com/oil_sands_story/insitu.html
+ |title=The oil sands story: in situ
+}}</ref> . 
+
+===Surface mining===. 
+Since Great Canadian Oil Sands (now Suncor) started operation of its mine in 1967, bitumen has been extracted on a commercial scale from the Athabasca Oil Sands by [[surface mining]]. In the Athabasca sands there are very large amounts of bitumen covered by little overburden, making surface mining the most efficient method of extracting it. The overburden consists of water-laden [[muskeg]] (peat bog) over top of clay and barren sand. The oil sands themselves are typically {{convert|40|to|60|m}} deep, sitting on top of flat [[limestone]] rock. Originally, the sands were mined with [[dragline]]s and [[bucket-wheel excavator]]s and moved to the processing plants by [[conveyor belt]]s. In recent years companies such as Syncrude and Suncor have switched to much cheaper shovel-and-truck operations using the biggest [[power shovel]]s (100 or more tons) and [[dump truck]]s (400 tons) in the world. <ref>
+{{cite web
+ |url=http://www.bucyrus.com/newsletter.jsp?file=20060309-0.txt
+ |title=Syncrude buys Bucyrus 495
+ |publisher=Bucyrus
+}}</ref>  This has held [[Production, costs, and pricing|production costs]] to around $27 per barrel of [[synthetic crude]] oil despite rising energy and labour costs. <ref>
+{{cite web
+  | title = Canadian Oil Sands provides 2008 Budget
+  | publisher = Canadian Oil Sands Trust
+  | year = 2007
+  | url = http://www.cos-trust.com/news/news12140701.aspx
+  | accessdate =14 May 2008
+|archiveurl = http://web.archive.org/web/20080216235949/http://www.cos-trust.com/news/news12140701.aspx <!-- Bot retrieved archive --> |archivedate = 16 February 2008}}</ref> . 
+
+After excavation, hot water and [[caustic soda]] (NaOH) is added to the sand, and the resulting slurry is piped to the extraction plant where it is agitated and the oil skimmed from the top. <ref>
+{{cite web
+ |url=http://www.oilsandsdiscovery.com/oil_sands_story/extract.html
+ |title=The oil sands story: extraction
+ |publisher=Oil Sands Discovery Centre
+ |accessdate=9 April 2009
+}}</ref>  Provided that the water chemistry is appropriate to allow bitumen to separate from sand and clay, the combination of hot water and agitation releases bitumen from the oil sand, and allows small air bubbles to attach to the bitumen droplets. The bitumen froth floats to the top of separation vessels, and is further treated to remove residual water and fine solids.  . 
+
+About two tons of oil sands are required to produce one barrel (roughly 1/8 of a ton) of oil. Originally, roughly 75% of the bitumen was recovered from the sand. However, recent enhancements to this method include [[Tailings]] Oil Recovery (TOR) units which recover oil from the [[tailings]], [[Diluent]] Recovery Units to recover [[naptha]] from the froth, Inclined Plate Settlers (IPS) and disc centrifuges. These allow the extraction plants to recover well over 90% of the bitumen in the sand. After oil extraction, the spent sand and other materials are then returned to the mine, which is eventually reclaimed.  . 
+
+[[Alberta Taciuk Process]] technology extracts bitumen from oil sands through a dry-retorting. During this process, oil sand is moved through a rotating drum, [[Cracking (chemistry)|cracking]] the bitumen with heat and producing lighter hydrocarbons. Although tested, this technology is not in commercial use yet. <ref name=atp>
+{{cite web
+ | url= http://www.advancededandtech.alberta.ca/technology/wwwtechnology_asp/techprior/techcomm/energy/energy_stories_937.asp
+ | title= AOSTRA-Taciuk Process (ATP)
+ | publisher= [[Executive Council of Alberta|Government of Alberta]]
+ | accessdate=25 December 2008}}
+</ref> . 
+
+Four oil sands mines are currently in operation and two more (Jackpine and Kearl) are in the initial stages of development. The original Suncor mine opened in 1967, while the Syncrude mine started in 1978, Shell Canada opened its [[Albian Sands|Muskeg River mine (Albian Sands)]] in 2003 and Canadian Natural Resources Ltd opened its Horizon Project in 2009. New mines under construction or undergoing approval include Shell Canada's,<ref>{{cite web|url=http://www.westernoilsands.com/html/business/jackpine.html |title=Jackpine mine |publisher=Westernoilsands.com |date= |accessdate=4 May 2011}}</ref>  [[Imperial Oil]]'s [[Kearl Oil Sands Project]], Synenco Energy's Northern Lights mine and Suncor's Fort Hills mine.  . 
+
+===Cold flow===. 
+{{Main|Cold heavy oil production with sand}}
+In this technique, also known as cold heavy oil production with sand (CHOPS), the oil is simply pumped out of the sands, often using [[progressive cavity pump]]s. This only works well in areas where the oil is [[fluid]] enough. It is commonly used in Venezuela (where the extra-heavy oil is at 50 degrees [[Celsius]]), and also in the Wabasca, Alberta Oil Sands, the southern part of the Cold Lake Oil Sands and the Peace River Oil Sands. It has the advantage of being cheap and the disadvantage that it recovers only 5-6% of the [[oil in place]]. <ref>
+{{Cite journal
+  | author = Dr. Maurice Dusseault
+  | title = Cold Heavy Oil Production with Sand in the Canadian Heavy Oil Industry
+  | publisher = Alberta Energy
+  | date = March 2002
+  | url = http://www.energy.gov.ab.ca/OilSands/1189.asp
+  | accessdate =21 May 2008
+}}</ref> . 
+
+Some years ago Canadian oil companies discovered that if they removed the [[sand]] filters from the wells and produced as much sand as possible with the oil, production rates improved remarkably. This technique became known as Cold Heavy Oil Production with Sand (CHOPS). Further research disclosed that pumping out sand opened "wormholes" in the sand formation which allowed more oil to reach the wellbore. The advantage of this method is better production rates and recovery (around 10%) and the disadvantage that [[waste management|disposing]] of the produced sand is a problem. A novel way to do this was spreading it on [[gravel road|rural roads]], which rural governments liked because the [[tarmac|oily sand]] reduced dust and the oil companies did their [[road#Maintenance|road maintenance]] for them. However, governments have become concerned about the large volume and composition of oil spread on roads,<ref>
+{{cite web
+  | title = GL 97-02 Guidelines for the Application of Oil Byproducts to Municipal Roads in Saskatchewen
+  | publisher = Saskatchewan Energy and Mines
+  | year = 1997
+  | url = http://www.er.gov.sk.ca/adx/aspx/adxGetMedia.aspx?DocID=3729,3680,3384,5460,2936,Documents&MediaID=5081&Filename=PDB+PP+01+-+Waste+Management+Guidelines+Revisited+1998.pdf
+  | format = PDF
+  | accessdate =21 May 2008
+}}</ref> so in recent years disposing of oily sand in underground [[salt mine|salt caverns]] has become more common.  . 
+
+===Cyclic Steam Stimulation (CSS)===. 
+{{See also|Steam injection (oil industry)}} . 
+
+The use of [[steam]] injection to recover heavy oil has been in use in the oil fields of California since the 1950s. The Cyclic Steam Stimulation or "huff-and-puff" method has been in use by [[Imperial Oil]] at Cold Lake since 1985 and is also used by [[Canadian Natural Resources]] at Primrose and Wolf Lake and by Shell Canada at Peace River. In this method, the well is put through cycles of steam injection, soak, and oil production. First, steam is injected into a well at a temperature of 300 to 340 degrees [[Celsius]] for a period of weeks to months; then, the well is allowed to sit for days to weeks to allow heat to soak into the formation; and, later, the hot oil is pumped out of the well for a period of weeks or months. Once the production rate falls off, the well is put through another cycle of injection, soak and production. This process is repeated until the cost of injecting steam becomes higher than the money made from producing oil. <ref name="butler104">{{cite book|last=Butler|first=Roger|title=Thermal Recovery of Oil and Bitumen|year=1991|publisher=Prentice-Hall|location=Englewood Cliffs|page=104}}</ref>  The CSS method has the advantage that recovery factors are around 20 to 25% and the disadvantage that the cost to inject steam is high.  . 
+
+===Steam Assisted Gravity Drainage (SAGD)===. 
+{{Main|Steam assisted gravity drainage}}
+[[Steam assisted gravity drainage]] was developed in the 1980s by the [[Alberta Oil Sands Technology and Research Authority]] and fortuitously coincided with improvements in [[directional drilling]] technology that made it quick and inexpensive to do by the mid 1990s. In SAGD, two horizontal wells are drilled in the oil sands, one at the bottom of the formation and another about 5 metres above it. These wells are typically [[drilling rig|drilled]] in groups off central pads and can extend for miles in all directions. In each well pair, steam is injected into the upper well, the heat melts the bitumen, which allows it to flow into the lower well, where it is pumped to the surface. <ref name="butler104"/> . 
+
+SAGD has proved to be a [[disruptive technology|major breakthrough]] in production technology since it is cheaper than CSS, allows very high oil production rates, and recovers up to 60% of the oil in place. Because of its very [[production, costs, and pricing|favorable economics]] and applicability to a vast area of oil sands, this method alone quadrupled North American [[oil reserves]] and allowed Canada to move to second place in world oil reserves after Saudi Arabia. Most major Canadian oil companies now have SAGD projects in production or under construction in Alberta's oil sands areas and in Wyoming. Examples include [[JACOS|Japan Canada Oil Sands Ltd's (JACOS)]] project, Suncor's Firebag project, [[Nexen]]'s Long Lake project, Suncor's (formerly Petro-Canada's) MacKay River project, [[Husky Energy]]'s Tucker Lake and Sunrise projects, Shell Canada's Peace River project, [[Cenovus Energy]]'s Foster Creek<ref>{{cite web|url=http://www.cenovus.com/operations/oil/foster-creek.html |title=Operations - Oil - Foster Creek |publisher=Cenovus.com |date= |accessdate=18 February 2011}}</ref> and Christina Lake<ref>{{cite web|url=http://www.cenovus.com/operations/oil/christina-lake.html |title=Operations - Oil - Christina Lake |publisher=Cenovus.com |date= |accessdate=18 February 2011}}</ref> developments, [[ConocoPhillips]]' Surmont project, [[Devon Energy|Devon Canada's]] Jackfish project, and Derek Oil & Gas's LAK Ranch project. Alberta's OSUM Corp has combined proven underground mining technology with SAGD to enable higher recovery rates by running wells underground from within the oil sands deposit, thus also reducing energy requirements compared to traditional SAGD. This particular technology application is in its testing phase.  . 
+
+===Vapor Extraction Process (VAPEX)===. 
+VAPEX is similar to SAGD but instead of steam, hydrocarbon solvents are injected into the upper well to dilute the bitumen and allow it to flow into the lower well. It has the advantage of much better energy efficiency over steam injection, and it does some partial upgrading of bitumen to oil right in the formation. It is very new, but the process has attracted much attention from oil companies, who are beginning to experiment with it.  . 
+
+The above three methods are not mutually exclusive. It is becoming common for wells to be put through one CSS injection-soak-production cycle to condition the formation prior to going to SAGD production, and companies are experimenting with combining VAPEX with SAGD to improve recovery rates and lower energy costs.{{Citation needed|date=June 2009}} . 
+
+===Toe to Heel Air Injection (THAI)===. 
+This is a very new and experimental method that combines a vertical air injection well with a horizontal production well. The process ignites oil in the reservoir and creates a vertical wall of fire moving from the "toe" of the horizontal well toward the "heel", which burns the heavier oil components and upgrades some of the heavy bitumen into lighter oil right in the formation. Historically fireflood projects have not worked out well because of difficulty in controlling the flame front and a propensity to set the producing wells on fire. However, some oil companies feel the THAI method will be more controllable and practical, and have the advantage of not requiring energy to create steam. <ref>
+{{cite web
+ | url= http://www.petrobank.com/hea-thaiprocess.html
+ | title= The THAI Process
+ |date=
+ |work=
+ |publisher=[[Petrobank Energy and Resources Ltd.]]
+ | accessdate=7 December 2008
+}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> . 
+
+Advocates of this method of extraction state that it uses less freshwater, produces 50% less [[greenhouse gases]], and has a smaller footprint than other production techniques. <ref>
+{{cite web
+ | url= http://www.theoildrum.com/node/2907
+ | title= A new method of extracting heavy oil: Toe to Heel Air Injection (THAI)
+ |author=
+ |last=
+ |first=
+ |authorlink=
+ |coauthors=
+ |date= 27 August 2007
+ |publisher= [[The Oil Drum]]
+ |accessdate=7 December 2008
+}}</ref> . 
+
+[[Petrobank Energy and Resources]] has reported encouraging results from their test wells in Alberta, with production rates of up to {{convert|400|oilbbl/d}} per well, and the oil upgraded from 8 to 12&nbsp;[[API gravity|API degree]]s. 
+The company hopes to get a further 7-degree upgrade from its CAPRI (controlled atmospheric pressure resin infusion)<ref>
+{{cite web
+ |url= http://netenergy.theoildrum.com/node/5183
+ |title= EROI update: preliminary results using Toe-to-Heel Air Injection
+ |date= 18 March 2009
+ |work=
+ |publisher= [[The Oil Drum]]
+ |accessdate=19 March 2009
+}}</ref> system, which pulls the oil through a [[catalyst]] lining the lower pipe. <ref>
+{{cite web
+ | url= http://www.marketwire.com/press-release/Petrobank-Energy-And-Resources-Ltd-TSX-PBG-902105.html
+ | title= Petrobank announces first THAI/CAPRI production
+ |date=22 September 2008
+ |work=
+ | publisher= Petrobank
+ | accessdate=7 December 2008
+}}</ref><ref>
+{{Cite news
+ | url= http://www.canada.com/edmontonjournal/news/business/story.html?id=102d6c3c-6881-474c-9a47-0b4665266d77
+ | title= Petrobank wins approval for heavy-oil project expansion
+ | last= Cooper | first= Dave
+ |date= 29 November 2008
+ |work=[[The Edmonton Journal]]
+ |publisher=
+ |accessdate=7 December 2008
+}}</ref><ref>
+{{cite web
+ |url= http://www.oilweek.com/articles.asp?ID=601
+ |title= What lies beneath
+ |last= Chandler | first= Graham
+ |year= 2008
+ |month= September
+ |work= [[Oilweek]]
+ |publisher=
+ |accessdate=7 December 2008
+}}</ref> . 
+
+===Combustion Overhead Gravity Drainage (COGD)===. 
+This is an experimental method that employs a number of vertical air injection wells above a horizontal production well located at the base of the bitumen pay zone. An initial Steam Cycle similar to CSS is used to prepare the bitumen for ignition and mobility. Following that cycle, air is injected into the vertical wells, igniting the upper bitumen and mobilizing (through heating) the lower bitumen to flow into the production well. It is expected that COGD will result in water savings of 80% compared to SAGD. <ref>
+{{cite web
+ |url= http://www.heavyoilinfo.com/newsitems/excelsior-to-test-cogd-bitumen-production
+ |title= Excelsior to test COGD bitumen production
+ |last= Chandler | first= Graham
+ |year= 2009
+ |month= March
+ |publisher=[[Schlumberger]]
+ |accessdate=8 April 2010
+}}</ref> . 
+
+==Transportation and refining==. 
+The heavy crude oil or crude bitumen extracted from oil sands is a viscous, solid or semisolid form that does not easily flow at normal [[oil pipeline]] temperatures, making it difficult to transport to market and expensive to process into [[gasoline]], [[diesel fuel]], and other products. It must be either mixed with lighter petroleum (either liquid or gas) or chemically split before it can be transported by pipeline for upgrading into synthetic crude oil.  . 
+
+Heavy crude feedstock needs pre-processing before it is fit for conventional refineries. This pre-processing is called 'upgrading', the key components of which are as follows:
+# removal of water, sand, physical waste, and lighter products
+# catalytic purification by [[hydrodemetallisation]] (HDM), [[hydrodesulfurization]] (HDS) and [[hydrodenitrogenation]] (HDN)
+# hydrogenation through carbon rejection or [[catalytic hydrocracking]] (HCR) . 
+
+As carbon rejection is very inefficient and wasteful in most cases, [[catalytic hydrocracking]] is preferred in most cases. All these processes take large amounts of energy and water, while emitting more carbon dioxide than conventional oil.  . 
+
+Catalytic purification and hydrocracking are together known as [[hydroprocessing]]. The big challenge in hydroprocessing is to deal with the impurities found in heavy crude, as they poison the catalysts over time. Many efforts have been made to deal with this to ensure high activity and long life of a catalyst. Catalyst materials and pore size distributions are key parameters that need to be optimized to deal with this challenge and varies from place to place, depending on the kind of feedstock present. <ref>
+{{Cite journal
+ |author=Ancheyta Jorge, Rana Mohan S., Furimsky Edward
+ |title=Hydroprocessing of heavy petroleum feeds: Tutorial
+ |journal=Catalysis Today
+ |issn=0920-5861
+ |volume=109
+ |issue=1–4
+ |date=30 November 2005
+ |pages=3–15
+ |doi=10.1016/j.cattod.2005.08.025
+}}</ref> . 
+
+==Economics==. 
+As of 2007, crude oil prices were significantly in excess of the average cost of production, which was about $28 per barrel of bitumen. However, bitumen production costs are rising rapidly, with production cost increases of 55% from 2005 to 2007, due to shortages of labor and materials. <ref name="UPI">
+{{Cite news
+ |url=http://www.upi.com/Energy/report_oil_sands_costs_up_55_percent/20070306-115426-6634r/
+ |title=Oil sands costs up 55 percent
+ |agency=UPI
+ |date=6 March 2007
+}}</ref> . 
+
+In mid-2007,  [[Royal Dutch Shell]] announced that in 2006 its Canadian oil sands unit made an after tax profit of $21.75 per barrel, nearly double its worldwide profit of $12.41 per barrel on conventional crude oil. <ref>{{Cite news
+ | last = Mortished
+ | first = Carl
+ | title = Shell rakes in profits from Canadian oil sands unit
+ | work = Times Online
+ | publisher = The Times
+ | date = 27 July 2007
+ | url = http://business.timesonline.co.uk/tol/business/industry_sectors/natural_resources/article2148631.ece
+ | accessdate =14 August 2007
+ | location=London}}
+</ref> . 
+
+The [[minority government|minority]] [[Conservative Party of Canada|Conservative]] [[government of Canada]], pressured to do more on the environment, announced in its 2007 budget that it would phase out some oil sands tax incentives over coming years. The provision allowing accelerated write-off of oil sands investments will be phased out gradually, so projects that had relied on them can proceed. For new projects the provision will be phased out between 2011 and 2015. <ref>
+{{Cite news
+ |url=http://www.portalangop.co.ao/motix/en_us/noticias/internacional/Canada-end-oil-sands-aid-add-green-car-rebates,8d9672f6-1105-419f-a840-69cf70787051.html
+ |title=Canada to end oil sands aid, add green-car rebates
+ |agency=Angola Press
+ |date=20 March 2007
+}}</ref> . 
+
+==Environmental issues==. 
+[[File:Mining Canada's Oil Sands.ogv|thumb|Satellite images show the growth of pit mines over Canada's oil sands between 1984 and 2011.]] . 
+
+Oil sands extraction is generally held to be more environmentally damaging than conventional crude oil. <ref name = "CAPP">
+{{cite web
+ |url=http://www.capp.ca/getdoc.aspx?DocID=135721
+ |title=Environmental challenges and progress in Canada's oil sands
+ |publisher=[[Canadian Association of Petroleum Producers|CAPP]]
+ |date=April 2008}}
+</ref>  It can affect the land when the bitumen is initially mined, water by its requirement of large quantities of water during separation of the oil and sand and the air due to the release of carbon dioxide and other emissions. <ref>R. Smandych and R. Kueneman, The Canadian-Alberta Tar Sands: A Case Study of State-Corporate Environmental Crime" in R. White (ed.)'' Global Environmental Harm''. Cullompton: willan, 2010</ref>  Heavy metals such as [[vanadium]], [[nickel]], [[lead]], [[cobalt]], [[mercury (element)|mercury]], [[chromium]], [[cadmium]], [[arsenic]], [[selenium]], [[copper]], [[manganese]], [[iron]] and [[zinc]] are naturally present in oil sands and may be concentrated by the extraction process. <ref>
+{{cite journal
+ |url=http://www.pnas.org/content/107/37/16178.full
+ |title=Oil sands development contributes elements toxic at low concentrations to the Athabasca River and its tributaries
+|journal=PNAS |date=14 September 2010 |volume= 107 |pages=16178–83 |issue=37
+ |doi=10.1073/pnas.1008754107
+ |pmid=20805486
+ |last1=Kelly |first1=EN
+ |last2=Schindler |first2=DW
+ |last3=Hodson |first3=PV
+ |last4=Short |first4=JW
+ |last5=Radmanovich |first5=R
+ |last6=Nielsen |first6=CC
+ |pmc=2941314 }}</ref>  The environmental impact caused by oil sand extraction is frequently criticized by environmental groups such as [[Greenpeace]], [[Climate Reality Project]], 350.org, MoveOn, League of Conservation Voters, Patagonia, Sierra Club, and [[Energy Action Coalition]]. <ref>
+{{cite web
+|url= http://www.greenpeace.org/canada/en/campaigns/tarsands/
+|archiveurl= http://www.webcitation.org/61Yc8R8sc
+|archivedate= 9 September 2011
+|title=Stop the Tar sands to curb Canada's growing greenhouse gas emissions
+|work=Greenpeace Canada
+|year=2011
+|accessdate=9 September 2011}}</ref><ref>
+{{cite web
+ |url=http://www.treehugger.com/files/2006/01/alberta_tar_san.php
+ |title=Alberta Tar Sands: A North American Overview
+ |publisher=[[TreeHugger]]
+}}</ref>  The European Union has indicated that it may vote to label oil sands oil as "highly polluting". Although oil sands exports to Europe are minimal, the issue has caused friction between the EU and Canada. <ref name="Guardian 20 February 2012">{{cite news |url=http://www.guardian.co.uk/environment/2012/feb/20/canada-eu-tar-sands |title=Canada threatens trade war with EU over tar sands |first=Damian |last = Carrington |date=20 February 2012 |newspaper=The Guardian |accessdate=21 February 2012}}</ref> . 
+
+===Air pollution management===. 
+Since 1995, monitoring in the oil sands region shows improved or no change in long term air quality for the five key air quality pollutants — carbon monoxide, nitrogen dioxide, ozone, fine particulate matter (PM2.5) and sulfur dioxide — used to calculate the Air Quality Index. <ref>{{cite web| url=http://www.wbea.org | title=The Wood Buffalo Environmental Association | accessdate=9 April 2009 }}</ref>{{dead link|date=October 2011}}  Air monitoring has shown significant increases{{when|date=February 2012}} in exceedances of hydrogen sulfide ({{chem|H|2|S}}) both in the Fort McMurray area and near the oil sands upgraders. <ref>{{cite web | url=http://environment.alberta.ca/01997.html |publisher=Government of Alberta Environment and Water | title=Air Quality and the Oil Sands | accessdate=16 January 2012 }}</ref> . 
+
+In 2007, the Alberta government issued an Environmental Protection Order to Suncor in response to numerous occasions when ground level concentration for [[hydrogen sulfide]] ([[chemical formula|formula]] {{chem|H|2|S}}) exceeded standards. <ref>{{cite press release | url=http://alberta.ca/acn/200712/22769EEFBE725-9D96-985A-E4143B1351544456.html |date=18 December 2007 |publisher=Government of Alberta | title=Province orders Suncor to address excessive H2S emissions }}</ref> . 
+
+===Land use and waste management===. 
+A large part of oil sands mining operations involves clearing trees and brush from a site and removing the [[overburden]]— topsoil, muskeg, sand, clay and gravel — that sits atop the oil sands deposit. <ref>
+{{cite web
+ |url=http://www.energy.alberta.ca/OilSands/792.asp#Does_oil_sands_mining_affect_the_environment
+ |publisher=Government of Alberta Energy ministry
+ |work=Oil sands frequently asked questions
+ |title=Does oil sands 'mining' affect the environment?
+ |accessdate=9 April 2009
+}}</ref>  Approximately two tons of oil sands are needed to produce one barrel of oil (roughly 1/8 of a ton). <ref>
+{{cite web
+ |title= The facts about the Alberta tar sands
+ |publisher= climateandcapitalism.com
+ |date= 10 March 2009
+ |url= http://climateandcapitalism.com/?p=641
+ |accessdate=7 March 2008
+}}</ref>  As a condition of licensing, projects are required to implement a [[Mine reclamation|reclamation]] plan. <ref>
+{{cite web
+ |url=http://www.oilsandsdiscovery.com/oil_sands_story/pdfs/enviro_protection.pdf
+ |format=PDF
+ |title=Environmental Protection
+}}</ref>  The mining industry asserts that the [[boreal forest]] will eventually colonize the reclaimed lands, but their operations are massive and work on long-term timeframes. As of 2006–2007, about {{convert|420|km2}} of land in the oil sands region have been disturbed, and {{convert|65|km2}} of that land is under reclamation. <ref>
+{{cite web
+ |url=http://environment.gov.ab.ca/info/faqs/faq5-oil_sands.asp
+ |title=FAQ - Oil Sands
+ |publisher=[[Government of Alberta]] Environment ministry
+}}</ref>  In March 2008, Alberta issued the first-ever oil sands land reclamation certificate to Syncrude for the {{convert|1.04|km2}} parcel of land known as Gateway Hill approximately {{convert|35|km}} north of Fort McMurray. <ref>
+{{cite press release
+ |url=http://alberta.ca/home/NewsFrame.cfm?ReleaseID=/acn/200803/23196C8880E90-A0E1-9CE0-1B3799BC38A51E3E.html
+ |title=Alberta issues first-ever oil sands land reclamation certificate
+ |date = 19 March 2008
+ |publisher = Government of Alberta
+ |accessdate = 11 February 2012}}</ref>  Several reclamation certificate applications for oil sands projects are expected within the next 10&nbsp;years. <ref>{{cite web
+ |url=http://www.oilsandsconsultations.gov.ab.ca/docs/FACT_Land_Reclamation(9).pdf
+ |work=Alberta oil sands consultations
+ |title=Land reclamation
+}}</ref> . 
+
+===Water management===. 
+[[File:Athabasca oil sands.jpg|thumb|Mining operations in the Athabasca oil sands. Note the close proximity of the [[Athabasca River]] to the [[tailings pond]], which stores contaminated water from processing the oil sands. NASA [[Earth Observatory]] image, 2009.]]
+Between 2 to 4.5 volume units of water are used to produce each volume unit of synthetic crude oil in an ''ex-situ'' mining operation. According to Greenpeace, the Canadian oil sands operations use {{convert|349|e6m3/a}} of water, twice the amount of water used by the city of [[Calgary]]. <ref>
+{{cite web
+ |url=http://www.greenpeace.org/canada/en/campaigns/tarsands/threats/water-depletion
+ |publisher=Greenpeace Canada
+ |title=Water depletion
+ |date = 25 October 2007
+ |accessdate = 12 February 2012}}
+</ref>  Despite recycling, almost all of it ends up in tailings ponds.  {{As of|2007}}, tailing ponds in Canada covered an area of approximately {{convert|50|km2}}. However, in SAGD operations, 90–95% of the water is recycled and only about 0.2 volume units of water is used per volume unit of bitumen produced. <ref>
+{{Cite journal
+| title = Canada's oil sands - opportunities and challenges to 2015: an update
+| publisher = National Energy Board
+| page = 38
+|date = June 2006| url = http://www.neb.gc.ca/clf-nsi/rnrgynfmtn/nrgyrprt/lsnd/lsnd-eng.html
+| accessdate =14 August 2007
+}}</ref> . 
+
+For the Athabasca oil sand operations water is supplied from the Athabasca River, the ninth longest river in Canada. <ref>
+{{cite web
+ |url=http://www.ec.gc.ca/water/images/info/pubs/primer/prim08-e.htm
+ |title=Longest rivers in Canada
+ |publisher=Environment Canada
+}}</ref>  The average flow just downstream of Fort McMurray is {{convert|633|m3/s}} with its highest daily average measuring {{convert|1200|m3/s}}. <ref>
+{{cite web
+ |url=http://www.environment.alberta.ca/documents/Athabasca_RWMF_Highlights.pdf
+ |title=Athabasca river water management framework
+ |date=2 October 2007
+}}</ref><ref>
+{{cite web
+ |url=http://www.ec.gc.ca/water/images/nature/prop/a2f5e.htm
+ |title=Typical river flows
+ |publisher=Environment Canada
+}}</ref>  Oil sands industries water license allocations totals about 1.8% of the Athabasca river flow. Actual use in 2006 was about 0.4%. <ref>
+{{cite web
+ |url=http://www.capp.ca/raw.asp?x=1&dt=PDF&dn=105401
+ |publisher=Canadian Association of Petroleum Producers
+ |title=Environmental aspects of oil sands development
+}}</ref>  In addition, according to the Water Management Framework for the Lower Athabasca River, during periods of low river flow water consumption from the Athabasca River is limited to 1.3% of annual average flow. <ref>
+{{cite web
+ |url=http://www3.gov.ab.ca/env/water/Management/Athabasca_RWMF/index.html
+ |publisher=[[Government of Alberta]] Environment ministry
+ |title=Athabasca River water management framework
+}}</ref> . 
+
+In December 2010, the Oil Sands Advisory Panel, commissioned by former environment minister Jim Prentice, found that the system in place for monitoring water quality in the region, including work by the Regional Aquatic Monitoring Program, the Alberta Water Research Institute, the Cumulative Environmental Management Association and others, was piecemeal and should become more comprehensive and coordinated. <ref name="2010 OAP">{{cite web|title=A Foundation for the Future: Building an Environmental Monitoring System for the Oil Sands|url=http://www.ec.gc.ca/pollution/default.asp?lang=En&n=E9ABC93B-1#s2c|work=Monitoring Organizations in the Oil Sands Area|publisher=Environment Canada|accessdate=4 April 2011}}</ref><ref>{{cite news
+|url=http://www.cbc.ca/news/business/story/2011/03/09/edmonton-oilsands-water-panel.html
+|title= Monitoring of oilsands impact inadequate: panel
+|publisher= CBC
+|date= 9 March 2011
+|accessdate=4 April 2011 }}
+</ref>  A major hindrance to the monitoring of oil sands produced waters has been the lack of identification of individual compounds present. By better understanding the nature of the highly [[Unresolved complex mixture|complex mixture]] of compounds, including [[naphthenic acid]]s, it may be possible to monitor rivers for [[leachate]] and also to remove toxic components. Such identification of individual acids has for many years proved to be impossible but a recent breakthrough in analysis has begun to reveal what is in the oil sands produced waters. <ref>Rowland SJ, Scarlett AG, Jones D, West CE, Frank RA. Diamonds in the Rough: Identification of Individual Naphthenic Acids in Oil Sands Process Water. Environ Sci Technol: In Press,doi: 10.1021/es103721b. </ref> . 
+
+In October 2009, Suncor announced it was seeking government approval for a new process to recover tailings called Tailings Reduction Operations, which accelerates the [[settling]] of fine clay, sand, water, and residual bitumen in [[pond]]s after oil sands extraction. The technology involves dredging mature tailings from a pond bottom, mixing the [[suspension (chemistry)|suspension]] with a polymer [[flocculent]], and spreading the sludge-like mixture over a "beach" with a shallow grade. According to the company, the process could reduce the time for [[water reclamation]] from tailings to weeks rather than years, with the recovered water being [[water conservation|recycled]] into the oil sands plant. In addition to reducing the number of tailing ponds, Suncor claims that the process could reduce the time to reclaim a tailing pond from 40 years at present to 7–10 years, with [[land rehabilitation]] continuously following 7 to 10 years behind the mining operations. <ref>
+{{Cite news
+ | title = Suncor speeds tailings-pond reclamation
+ | newspaper = [[Oil & Gas Journal]]
+ | location = Houston
+ | publisher = [[PennWell Corporation]]
+ | date = 23 October 2009
+ | url = http://www.ogj.com/index/article-display/1853666662/articles/oil-gas-journal/drilling-production-2/production-operations/unconventional-resources/2009/10/suncor-speeds_tailings-pond.html
+ | accessdate =23 October 2009}}
+</ref> . 
+
+===Greenhouse gas emissions===. 
+The production of bitumen and synthetic crude oil emits more greenhouse gases than the production of conventional crude oil. A 2009 study by the consulting firm [[IHS CERA]] estimated that production from Canada's oil sands emits "about 5% to 15% more carbon dioxide, over the
+"well-to-wheels" lifetime analysis of the fuel, than average crude oil."<ref>
+{{cite news
+|last=Gardner |first=Timothy
+|url=http://www.reuters.com/article/idUSTRE54H6C220090518
+|title=Canada oil sands emit more CO2 than average: report
+|publisher=Reuters
+|date=19 May 2009
+|accessdate=4 May 2011}}</ref> Author and investigative journalist David Strahan that same year stated that IEA figures show that carbon dioxide emissions from the oil sands are 20% higher than average emissions from the petroleum production. <ref>{{cite web
+|url=http://www.davidstrahan.com/blog/?p=527
+|title=Who's afraid of the tar sands?
+|publisher=Davidstrahan.com
+|date=8 December 2009
+|accessdate=4 May 2011}}
+</ref>  According to Greenpeace, oil sands industry has been identified as the largest contributor to [[greenhouse gas emissions]] growth in Canada, as it accounts for 40&nbsp;million tons of {{chem|CO|2}} emissions per year. <ref>
+{{cite web
+ |url=http://www.greenpeace.org/canada/en/campaigns/tarsands/archive/threats/climatechange/
+ |title=Climate change
+ |publisher=Greenpeace Canada
+ |date = 25 October 2007
+ |accessdate = 12 February 2012}}
+</ref>{{404|date=March 2012}}  According to the [[Canadian Association of Petroleum Producers]] and [[Environment Canada]] the oil sands make up about 5% of Canada's greenhouse gas emissions, or 0.1% of global greenhouse gas emissions. It predicts the oil sands will grow to make up 8% of Canada's greenhouse gas emissions by 2015. <ref name = "CAPP" />  While the emissions per barrel of bitumen produced decreased 26% over the decade 1992–2002, total emissions were expected to increase due to higher production levels. <ref>
+{{cite web
+ |url=http://dsp-psd.pwgsc.gc.ca/Collection/En56-183-2002E.pdf
+ |title=Climate change plan for Canada
+ |date=November 2002}}</ref><ref>
+{{cite web
+ |url=http://pubs.pembina.org/reports/OilSands72.pdf
+ |format=PDF
+ |title=Oil sands fever: the environmental implications of Canada's oil sands rush
+ |publisher=[[Pembina Institute]]
+ |year=2005
+}}</ref>  As of 2006, to produce one barrel of oil from the oil sands released almost {{convert|75|kg}} of greenhouse gases with total emissions estimated to be {{convert|67|Mt|lk=on}} per year by 2015. <ref>
+{{cite web
+ |publisher=[[National Energy Board]]
+ |url=http://www.neb.gc.ca/clf-nsi/rnrgynfmtn/nrgyrprt/lsnd/pprtntsndchllngs20152006/pprtntsndchllngs20152006-eng.pdf
+ |format=PDF
+ |title=Canada's oil sands: opportunities and challenges to 2015: An update
+ |date=June 2006}}
+</ref>  However, a study by IHS CERA founds that fuels made from Canadian oil sands "result in significantly lower greenhouse gas emissions than many commonly cited estimates... Oil sands products imported to the United States result in GHG emissions that are, on average, six percent higher than the average crude consumed in the country. This level places oil sands on par with other sources of U.S. crude imports, including crudes from Nigeria, Venezuela and some domestically produced oil, the report finds."<ref>{{cite web
+|url= http://press.ihs.com/article_display.cfm?article_id=4299
+|title= Oil Sands Greenhouse Gas Emissions are Lower than Commonly Perceived, IHS CERA Analysis Finds
+|author= IHS
+|date=21 September 2010
+|work= |publisher=(Information Handling Services)
+|accessdate=19 October 2010}}</ref>   According to [[Andrew J. Weaver]]'s research, if Canada burns only the economically viable reserve of {{convert|170|Goilbbl|adj=on}} oil sands throughout more than a century, it is predicted that would raise the global mean temperature by {{convert|0.02|to|0.05|°C|°F|lk=on}}. <ref>{{cite news |first=Nathan | last = Vanderklippe |newspaper=[[Globe and Mail]] |title=Canada's oil sands: Not so dirty after all |date=12 February 2012|url=http://www.theglobeandmail.com/news/national/canadas-oil-sands-not-so-dirty-after-all/article2343985/|accessdate =22 February 2012}}</ref> . 
+
+To offset greenhouse gas emissions from the oil sands and elsewhere in Alberta, sequestering carbon dioxide emissions inside depleted oil and gas reservoirs has been proposed. This technology is inherited from [[enhanced oil recovery]] methods. <ref>{{cite web|url=http://www.energy.gov.ab.ca/CCS_Implementation.pdf |title=Accelerating Carbon Capture and Storage Implementation in Alberta, Final Report |format=PDF |publisher=Alberta Carbon Capture and Storage Development Council |date=24 July 2009}}</ref>  In July 2008, the Alberta government announced a C$2&nbsp;billion fund to support sequestration projects in Alberta power plants and oil sands extraction and upgrading facilities. <ref>{{cite press release
+ | title= Alberta surges ahead with climate change action plan
+ | url= http://alberta.ca/ACN/200807/23960039FB54D-CC21-7234-31C3E853089A1E6C.html
+ | publisher= Government of Alberta Environment ministry
+ | date= 8 July 2008
+ | accessdate=9 April 2009
+}}</ref><ref>{{cite web
+ | title= Alberta Energy: Carbon Capture and Storage
+ | url= http://www.energy.gov.ab.ca/Initiatives/1438.asp
+ | work=
+ | publisher= Government of Alberta Energy ministry
+ | date=
+ | accessdate=9 April 2009
+}}</ref><ref>
+{{cite press release
+ |url=http://www.aspeninstitute.org/news/2009/03/18/aspen-institute-announces-winners-second-annual-aspen-institute-energy-environment-a
+ |publisher=Aspen Institute
+ |title=Aspen Institute announces winners of the second annual Aspen Institute Energy and Environment Awards
+ |date=18 March 2009
+}}</ref> . 
+
+In 2012, Swart & Weaver analyzed the potential impact of extracting and burning all of the world's oil, gas, and coal deposits. They concluded that they would yield a mean total of 12.6 teratonne of carbon leading to an 18.85 C temperature rise. Of this, 9.86 teratonne and 14.79 C would be from coal, vice 0.35 teratonne and 0.53 C from "unconventional oil". Comparing their figures for coal to those for unconventional oil, the global reserves of coal offer 20-fold the energy at a cost of 40-fold the carbon and 28-fold the global temperature rise. <ref>{{Cite journal |title=The Alberta oil sands and climate |author=Neil C. Swart, Andrew J. Weaver |journal=Nature Climate Change |date=19 February 2012 |doi=10.1038/nclimate1421 }} [http://www.nature.com/nclimate/journal/vaop/ncurrent/extref/nclimate1421-s1.pdf (supplement)]</ref> . 
+
+===Aquatic life deformities===. 
+There is conflicting research on the effects of the oil sands development on aquatic life. In 2007, Environment Canada completed a study that shows high deformity rates in fish embryos exposed to the oil sands.  [[David W. Schindler]], a limnologist from the [[University of Alberta]], co-authored a study on Alberta's oil sands' contribution of [[Aromaticity|aromatic]] [[polycyclic compound]]s, some of which are known [[carcinogen]]s, to the Athabasca River and its tributaries. <ref>{{cite journal
+|author=EN Kelly, JW Short, DW Schindler, PV Hodson, M Ma, AK Kwan and BL Fortin
+|title=Oil sands development contributes polycyclic aromatic compounds to the Athabasca River and its tributarie
+|journal=Proceedings of the National Academy of Sciences USA
+|volume= 106
+|year=2009
+|pages=22346–22351
+|doi=10.1073/pnas.0912050106
+|issue=52}}</ref>  Scientists, local doctors, and residents supported a letter sent to the Prime Minister in September 2010 calling for an independent study of Lake Athabasca (which is downstream of the oil sands) to be initiated due to the rise of deformities and tumors found in fish caught there. <ref>{{cite news
+|title=Deformed fish found in lake downstream from oilsands
+| url=http://www.thestar.com/news/canada/article/862603--deformed-fish-found-in-lake-downstream-from-oilsands
+| newspaper=Toronto Star
+| author= Weber, Bob
+| date=17 September 2010
+| accessdate=19 September 2010}}</ref> . 
+
+The bulk of the research that defends the oil sands development is done by the Regional Aquatics Monitoring Program (RAMP). RAMP studies show that deformity rates are normal compared to historical data and the deformity rates in rivers upstream of the oil sands. <ref>{{cite web
+|url=http://www.ramp-alberta.org/ramp/news.aspx?nid=13
+|title=RAMP responds to a request for comment on Dr. David Schindler’s press conference regarding the high incidence of fish abnormalities  |publisher=Regional Aquatics Monitoring Program (RAMP)
+|date=16 September 2010
+|accessdate=18 February 2011}}</ref>  These results are disputable as RAMP is affiliated with the oil industry and its research data is submitted to environmental government agencies but unlike academia where peer review happens on a per study basis, RAMP does a peer review of the entire organization only once every five years. <ref>{{cite web
+|url=http://www.ramp-alberta.org/ramp/faq.aspx
+|title=Frequently Asked Questions
+|publisher=Regional Aquatics Monitoring Program (RAMP) |date= |accessdate=18 February 2011}}</ref> . 
+
+===Public health impacts===. 
+Concerns have been raised concerning the negative impacts that the oil sands have on public health, including higher than normal rates of [[cancer]] among residents of [[Fort Chipewyan]]. <ref>{{cite news| url=http://ca.reuters.com/article/topNews/idCATRE51568020090206 | work=Reuters | title=High cancer rates confirmed near Canada's oil sands | date=6 February 2009}}</ref>  In August, 2011, the Alberta government initiated a provincial health study of the link between the higher rates of cancer and the oil sands. <ref>{{cite news| url=http://www.cbc.ca/news/health/story/2011/08/19/edm-cancer-oilsands-fort-chipewyan-study.html | work=CBC News | title=Cancer rates downstream from oil sands to be probed | date=19 August 2011}}</ref> It has also been suggested that other wildlife has been negatively affected by the oil sands; for instance, moose were found in a 2006 study to have as high as 453 times the acceptable levels of [[arsenic]] in their systems, though later studies lowered this to 17 to 33 times the acceptable level (still causing a danger for human consumption). <ref>{{cite news| url=http://www.cbc.ca/news/canada/north/story/2007/04/03/game-alberta.html?ref=rss | work=CBC News | title=Mixed reports on safety of eating northern Alberta game | date=3 April 2007}}</ref> . 
+
+==Input energy==. 
+Approximately {{convert|1.0|–|1.25|GJ}} of energy is needed to extract a barrel of bitumen and upgrade it to synthetic crude. As of 2006, most of this is produced by burning natural gas. <ref>
+{{cite web | title = Appendix VI - Fact Sheets
+ | work = Alberta Oil Sands Consultations Multistakeholder Committee Interim Report
+ | publisher = Government of Alberta
+ | date = 30 November 2006
+ | url = http://www.oilsandsconsultations.gov.ab.ca/docs/InterimReport_Appendix_FactSheet.pdf
+ | format = PDF
+ | accessdate =17 August 2007
+ | page = 14
+}}</ref>  Since a [[barrel of oil equivalent]] is about {{convert|6.117|GJ}}, its [[Energy returned on energy invested|EROEI]] is 5–6. That means this extracts about 5 or 6 times as much energy as is consumed. Energy efficiency is expected to improve to average of {{convert|900|cuft}} of natural gas or {{convert|0.945|GJ}} of energy per barrel by 2015, giving an EROEI of about 6.5. <ref>
+{{Cite journal
+ | title = Canada's Oil Sands - Opportunities and Challenges to 2015: An Update
+ | publisher = National Energy Board
+ | page = 17
+ | date = June 2006
+ | url = http://www.neb.gc.ca/clf-nsi/rnrgynfmtn/nrgyrprt/lsnd/pprtntsndchllngs20152006/pprtntsndchllngs20152006-eng.pdf
+ | format = PDF
+ | accessdate =14 August 2007
+}}</ref>  However, since natural gas production in Alberta peaked in 2001 and has been static ever since, it is likely oil sands requirements will be met by cutting back natural gas exports to the United States. <ref>
+{{cite web
+ | title = Alberta's Energy Reserves 2006 and Supply/Demand Outlook 2007–2015
+ | work = ST98-2007
+ | publisher = Alberta Energy and Utilities Board
+ | month = June | year = 2007
+ | url = http://www.eub.ca/docs/products/STs/st98_current.pdf
+ | format = PDF
+ | accessdate =14 August 2007
+}}</ref> . 
+
+Alternatives to natural gas exist and are available in the oil sands area. Bitumen can itself be used as the fuel, consuming about 30-35% of the raw bitumen per produced unit of synthetic crude. Nexen's Long Lake project will use a proprietary deasphalting technology to upgrade the bitumen, using asphaltene residue fed to a [[gasification|gasifier]] whose [[syngas]] will be used by a [[cogeneration]] turbine and a hydrogen producing unit, providing all the energy needs of the project: steam, hydrogen, and electricity. <ref>
+{{cite web
+ |title=Technology
+ |url=http://www.longlake.ca/project/technology.asp
+}}</ref>  Thus, it will produce syncrude without consuming natural gas, but the capital cost is very high.  . 
+
+Coal is widely available in Alberta and is inexpensive, but produces large amounts of greenhouse gases.  [[Nuclear power]] and even [[nuclear explosive]]s have been proposed for the input energy<ref>
+{{cite news
+ |title=Oil Sands A-Bomb Seen Great Danger
+ |author=J. R. Walker
+ |url=http://news.google.com/newspapers?id=cl9kAAAAIBAJ&sjid=IHwNAAAAIBAJ&pg=4044%2C4826244
+ |newspaper=[[Calgary Herald]]
+ |date=29 January 1959
+ |accessdate=3 February 2012
+}}</ref><ref>
+{{cite news
+ |title='No Danger' Alberta Oil Expert Says
+ |author=[[The Canadian Press]]
+ |url=http://news.google.com/newspapers?id=cl9kAAAAIBAJ&sjid=IHwNAAAAIBAJ&pg=4894%2C4826216
+ |newspaper=[[Calgary Herald]]
+ |date=29 January 1959
+ |accessdate=3 February 2012
+}}</ref> but the former did not appear to be economic as of 2005. <ref>
+{{Cite journal
+ |first = Lindsay
+ |last = Rodenburg
+ |title = Alternative Energy Sources in Alberta's Oil Sands: The Viability of Nuclear Energy
+ |date = 30 November 2005
+ |publisher = University of Alberta
+ |url = http://www.business.ualberta.ca/Centres/CABREE/Energy/~/media/University%20of%20Alberta/Faculties/Business/Faculty%20Site/Centres/CABREE/Documents/Energy/Renewables/RodenburgAlternatives.ashx
+ |format=PDF
+ |accessdate =14 August 2007
+}}</ref> . 
+
+==See also==. 
+{{Portal|Energy}}
+* [[Beaver river sandstone]]
+* [[Bituminous rocks]]
+* [[History of the petroleum industry in Canada (oil sands and heavy oil)]]
+* [[Oil megaprojects]]
+* [[Petroleum industry]]
+* [[Project Oilsand]]
+* [[Oil shale]]
+* [[RAVEN (Respecting Aboriginal Values & Environmental Needs)]]
+* [[Steam injection (oil industry)]]
+* [[Shale gas]]
+* [[World energy resources and consumption]]
+* [[Thermal depolymerization]]
+* [[Utah Oil Sands]] . 
+
+==References==. 
+{{Reflist|30em}} . 
+
+==Further reading==. 
+{{refbegin}}
+*{{cite book|author=Ezra Levant|title=Ethical Oil: The Case for Canada's Oil Sands|url=http://books.google.com/books?id=u57Ni__ryyIC&pg=PP1|date=3 May 2011|publisher=McClelland & Stewart|isbn=978-0-7710-4643-8}}
+*{{cite book|author=Marc Humphries|title=North American Oil Sands: History of Development, Prospects for the Future|url=http://books.google.com/books?id=-RHQ5U7rLUMC&pg=PP1|date=November 2010|publisher=DIANE Publishing|isbn=978-1-4379-3807-4}}
+* {{Cite book |last = Nikiforuk|first =Andrew  |coauthor=David Suzuki Foundation |year =2010 |title =Tar Sands: Dirty Oil and the Future of a Continent|edition=Revised and Updated |url = http://books.google.ca/books?id=3Z7wC7daVh4C&lpg=PP1&dq=Oil%20sands&pg=PP1#v=onepage&q&f=true|publisher=Greystone Books |isbn=978-1-55365-555-8}}
+* {{Cite book |last =Levi |first = Michael A|coauthor= |year = 2009|title =The Canadian oil sands: energy security vs. climate change |url = http://books.google.ca/books?id=cj2wJGhT-2QC&lpg=PP1&dq=Oil%20sands&pg=PP1#v=onepage&q&f=true|publisher=Council on Foreign Relations, Center for Geoeconomic Studies |isbn=978087609429{{Please check ISBN|reason=Invalid length.}}}}
+*{{cite book|author=Paul Anthony Chastko|title=Developing Alberta's oil sands: from Karl Clark to Kyoto|url=http://books.google.com/books?id=LRpk1NGsvG0C&pg=PP1|year=2004|publisher=University of Calgary Press|isbn=978-1-55238-124-3}}
+*{{cite book|author=Alastair Sweeny|title=Black Bonanza: Canada's Oil Sands and the Race to Secure North America's Energy Future|url=http://books.google.com/books?id=iGqZuIPJdz4C&pg=PP1|date=12 April 2010|publisher=John Wiley and Sons|isbn=978-0-470-16138-8}}
+{{refend}} . 
+
+==External links==. 
+{{Commons category}}
+* [http://www.oilsandsdiscovery.com/ Oil Sands Discovery Centre, Fort McMurray, Alberta, Canada]
+* [[Edward Burtynsky]], [http://www.theglobeandmail.com/v5/content/features/oilsands/index.html An aerial look at the Alberta Tar Sands]
+* G.R. Gray, R. Luhning: [http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0000787 Bitumen] ''The Canadian Encyclopedia''
+* Jiri Rezac, [http://www.jirirezac.com/stories/oilsands/ Alberta Oilsands]  photo story and aerials
+*[http://citizen.nfb.ca/tar-sands/ ''Exploring the Alberta tar sands'', Citizenshift, National Film Board of Canada]
+* [http://www.democracynow.org/2010/6/25/tar_sands Indigenous Groups Lead Struggle Against Canada’s Tar Sands] - video report by ''[[Democracy Now!]]''
+* [http://www.springerlink.com/content/n8w8m61u71020841/ Extraction of vanadium from oil sands] . 
+
+{{Petroleum industry}}
+{{use dmy dates|date=February 2012}} . 
+
+{{DEFAULTSORT:Oil Sands}}
+[[Category:Bituminous sands| ]]
+[[Category:Petroleum geology]]
+[[Category:Petroleum economics and industry]]

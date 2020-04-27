@@ -1,0 +1,517 @@
+[[Image:Alternative Energies.jpg|thumb|The [[wind]], [[Sun]], and [[biomass]] are three renewable energy sources]]
+[[File:Global-RE-Investment-VC-Eng.png|thumb|Global New Investments in Renewable Energy<ref name="UNEP_GT_2011">[http://www.unep.org/Renewable_Energy_Investment/ Bloomberg New Energy Finance, UNEP SEFI, Frankfurt School, Global Trends in Renewable Energy Investment 2011]</ref>]]
+[[File:Ohotnikovo1.jpg|thumb| 80 MW [[Okhotnykovo Solar Park]] in Ukraine.]]
+[[Image:Fentonwindpark1.jpg|thumb|[[Fenton Wind Farm]] at sunrise]]
+{{Green economics sidebar}} . 
+
+'''Renewable energy commercialization''' involves the [[Diffusion of innovations|deployment]] of three generations of [[renewable energy]] technologies dating back more than 100 years.  First-generation technologies, which are already mature and economically competitive, include [[biomass]], [[hydroelectricity]], [[geothermal power]] and heat.  Second-generation technologies are market-ready and are being deployed at the present time; they include [[solar heating]], [[photovoltaics]], [[wind power]], [[List of solar thermal power stations|solar thermal power stations]], and modern forms of [[bioenergy]].  Third-generation technologies require continued [[R&D]] efforts in order to make large contributions on a global scale and include advanced [[biomass gasification]], [[biorefinery]] technologies, [[hot-dry-rock]] geothermal power, and [[ocean energy]]. <ref name="IEA">[[International Energy Agency]] (2007). 
+[http://www.iea.org/textbase/papers/2006/renewable_factsheet.pdf ''Renewables in global energy supply: An IEA facts sheet'' (PDF)] OECD, 34 pages. </ref>  . 
+
+There are some non-technical barriers to the widespread use of renewables,<ref name="NREL" /><ref name=ieapress>International Energy Agency. [http://www.iea.org/Textbase/press/pressdetail.asp?PRESS_REL_ID=271 IEA urges governments to adopt effective policies based on key design principles to accelerate the exploitation of the large potential for renewable energy] 29 September 2008. </ref> and it is often [[public policy]] and political leadership that helps to address these barriers and drive the wider acceptance of renewable energy technologies. <ref name="renewableenergyfocus.com">Donald W. Aitken. [http://www.renewableenergyfocus.com/download/165 Transitioning to a Renewable Energy Future], [[International Solar Energy Society]], January 2010, p. 3. </ref> As of 2010, 98 countries have targets for their own renewable energy futures, and have enacted wide-ranging [[public policies]] to promote renewables. <ref name=ren212011>{{cite web |url=http://www.ren21.net/Portals/97/documents/GSR/GSR2011_Master18.pdf |title=Renewables 2011: Global Status Report |author=[[REN21]] |year=2011 |pages=11–13 }}</ref> [[Global warming|Climate change concerns]]<ref name=ieapress/><ref name=UNEP2>[[REN21]] (2006).  [http://www.risoe.dk/rispubl/art/2006_120_report.pdf ''Changing climates: The Role of Renewable Energy in a Carbon-constrained World'' (PDF)] p. 2. </ref><ref name=Stern>HM Treasury (2006). ''Stern Review on the Economics of Climate Change''. </ref> are driving increasing growth in the renewable energy industries. <ref name=UNnews>[http://www.un.org/apps/news/story.asp?NewsID=24982&Cr=climate New UN report points to power of renewable energy to mitigate carbon emissions] ''UN News Centre'', 8 December 2007. </ref><ref name=mak>[[Joel Makower]], [[Ron Pernick]] and [[Clint Wilder]] (2008). [http://www.cleanedge.com/reports/pdf/Trends2008.pdf ''Clean Energy Trends 2008]'', [[Clean Edge]], p. 2. </ref><ref name="UNEP">United Nations Environment Programme and New Energy Finance Ltd. (2007). [http://sefi.unep.org/fileadmin/media/sefi/docs/publications/SEFI_Investment_Report_2007.pdf ''Global Trends in Sustainable Energy Investment 2007: Analysis of Trends and Issues in the Financing of Renewable Energy and Energy Efficiency in OECD and Developing Countries'' (PDF)] p. 3. </ref> Leading renewable energy companies include [[First Solar]], [[Gamesa Corporación Tecnológica|Gamesa]], [[GE Energy]], [[Q-Cells]], [[Sharp Solar]], [[Siemens]], [[SunOpta]], [[Suntech]], and [[Vestas]]. <ref name=top>Top of the list, ''Renewable Energy World'', 2 January 2006. </ref><ref name=keith>Keith Johnson, [http://blogs.wsj.com/environmentalcapital/2009/03/25/wind-shear-ge-wins-vestas-loses-in-wind-power-market-race/ Wind Shear: GE Wins, Vestas Loses in Wind-Power Market Race], ''Wall Street Journal'', March 25th 2009, accessed on January 7th 2010. </ref> . 
+
+Total investment in renewable energy reached $211 billion in 2010, up from $160 billion in 2009. The top countries for investment in 2010 were China, Germany, the United States, Italy, and Brazil. <ref>{{cite web |url=http://www.ren21.net/Portals/97/documents/GSR/GSR2011_Master18.pdf |title=Renewables 2011: Global Status Report |author=[[REN21]] |year=2011 |page=35 }}</ref> Continued growth for the renewable energy sector is expected and promotional policies helped the industry weather the 2009 economic crisis better than many other sectors. <ref name=obama/>  . 
+
+U.S. President [[Barack Obama]]'s [[American Recovery and Reinvestment Act of 2009]] included more than $70 billion in direct spending and tax credits for clean energy and associated transportation programs. [[Clean Edge]] suggests that the commercialization of clean energy has helped countries around the world pull out of the 2009 [[Financial crisis of 2007–2010|global financial crisis]]. <ref name=obama>[[Joel Makower]], [[Ron Pernick]] and [[Clint Wilder]] (2009). [http://www.cleanedge.com/reports/pdf/Trends2009.pdf ''Clean Energy Trends 2009]'', [[Clean Edge]], pp. 1-4. </ref> Economic analysts expect market gains for [[renewable energy]] (and [[natural gas]]) following the [[2011 Japanese nuclear accidents]]. <ref>{{cite web |url=http://www.upi.com/Science_News/Resource-Wars/2011/03/21/Japans-nuclear-disaster-boosts-renewables/UPI-28501300714143/#ixzz1HJPwVWKa  |title=
+Japan's nuclear disaster boosts renewables |date=March 21, 2011 |work=UPI.com }}</ref><ref>{{cite web |url=http://www.guardian.co.uk/environment/2011/mar/15/japan-nuclear-explosion-energy-renewables |title=Japan nuclear crisis prompts surging investor confidence in renewables |author=John Vidall |date=15 March 2011 |work=The Guardian }}</ref> In his 2012 [[State of the Union]] address, President Barack Obama restated his commitment to renewable energy and mentioned the long-standing Interior Department commitment to permit 10,000 MW of renewable energy projects on public land in 2012. <ref>{{cite web |url=http://www.renewableenergyworld.com/rea/blog/post/2012/01/obama-sticking-to-promise-of-clean-energy?cmpid=SolarNL-Thursday-January26-2012 |title=Obama: Sticking to "Promise of Clean Energy" |author=Lindsay Morris |date=25 January 2012 |work=Renewable Energy World }}</ref> . 
+
+Globally, there are an estimated 3 million direct jobs in renewable energy industries, with about half of them in the biofuels industry. <ref name=ren9>[[REN21]] (2010). [http://www.ren21.net/Portals/97/documents/GSR/REN21_GSR_2010_full_revised%20Sept2010.pdf Renewables 2010 Global Status Report] p. 9 & 34. </ref> According to a 2011 projection by the [[International Energy Agency]], solar power generators may produce most of the world’s electricity  within 50 years, dramatically reducing harmful greenhouse gas emissions. <ref name=ieaiea2011>{{cite web |url=http://www.bloomberg.com/news/2011-08-29/solar-may-produce-most-of-world-s-power-by-2060-iea-says.html |title=Solar May Produce Most of World’s Power by 2060, IEA Says |author=Ben Sills |date= August 29, 2011 |work=Bloomberg }}</ref> . 
+
+==Overview==. 
+===Rationale for renewables===. 
+[[Climate change]], [[pollution]], and energy insecurity are among the greatest current problems and addressing them requires major changes to energy infrastructures. <ref name=WWS2010>{{cite web |url=http://www.stanford.edu/group/efmh/jacobson/Articles/I/JDEnPolicyPt1.pdf
+|title=Providing all Global Energy with Wind, Water, and Solar Power, Part I: Technologies, Energy Resources, Quantities and Areas of Infrastructure, and Materials |author=Jacobson, Mark Z. and Delucchi, Mark A. |year=2010 |work=Energy Policy }}</ref> [[Renewable energy]] technologies are essential contributors to the energy supply portfolio, as they contribute to [[energy security|world energy security]], reduce dependency on [[fossil fuel]]s, and provide opportunities for mitigating [[greenhouse gases]]. <ref name="IEA" /> Climate-disrupting [[fossil fuels]] are being replaced by clean, climate-stabilizing, non-depletable sources of energy:
+<blockquote>
+...the transition from coal, oil, and gas to wind, solar, and geothermal energy is well under way. In the old economy, energy was produced by burning something — oil, coal, or natural gas — leading to the carbon emissions that
+have come to define our economy. The new energy economy harnesses the energy in wind, the energy coming from the sun, and heat from within the earth itself. <ref>[[Lester R. Brown]]. ''Plan B 4.0: Mobilizing to Save Civilization'', [[Earth Policy Institute]], 2009, p. 135. </ref>
+</blockquote> . 
+
+According to [[Clean Edge]], there’s little doubt that the future of energy will be cleaner. The shift from carbon-intensive energy sources like wood, coal, and oil to natural gas and renewables, is well underway. For much of the developed world, and for developing nations leapfrogging the West, the "future looks increasingly like it will be built off of a mix of energy efficiency, renewables, the electrification of transport, and lower carbon fuels like natural gas". <ref>{{cite web |url=http://www.cleanedge.com/sites/default/files/CETrends2012_Final_Web.pdf?attachment=true |title=Clean Energy Trends 2012|author=[[Ron Pernick]] |date=2012 |publisher=Clean Edge |page=6 }}</ref> . 
+
+A 2010 survey conducted by Applied Materials shows that two-thirds of Americans believe solar technology should play a greater role in meeting the country's energy needs. In addition, "three-quarters of Americans feel that increasing renewable energy and decreasing U.S. dependence on foreign oil are the country's top energy priorities". According to the survey, "67 percent of Americans would be willing to pay more for their monthly utility bill if their utility company increased its use of renewable energy". <ref>[http://www.renewableenergyworld.com/rea/news/article/2010/06/americans-willing-to-pay-more-for-solar Americans Willing To Pay More for Solar] ''Renewable Energy World'', 25 June 2010. </ref> . 
+
+Citing the [[Fukushima nuclear disaster]], environmental activists at the  [[2010 United Nations Climate Change Conference]] urged bolder steps to tap renewable energy so the world doesn't have to choose between the dangers of nuclear power and the ravages of climate change. <ref>{{cite web |url=http://www.guardian.co.uk/world/feedarticle/9582305 |title= Activists call for renewable energy at UN meeting |author=Denis Gray |date=April 6 2011  |work=The Guardian }}</ref> . 
+
+===Three generations of technologies===. 
+The term ''renewable energy'' covers a number of sources and technologies
+at different stages of commercialization. The [[International Energy Agency]] (IEA) has defined three generations of renewable energy technologies, reaching back over 100&nbsp;years: . 
+
+*''First-generation technologies'' emerged from the [[industrial revolution]] at the end of the 19th century and include [[hydropower]], [[biomass]] [[combustion]], [[geothermal power]] and heat.  These technologies are quite widely used. <ref name="IEA"/> . 
+
+*''Second-generation technologies'' include [[solar heating]] and cooling, [[wind power]], modern forms of [[bioenergy]], and [[solar photovoltaics]]. These are now entering markets as a result of research, development and demonstration (RD&D) investments since the 1980s. Initial investment was prompted by [[energy security]] concerns linked to the [[1973 oil crisis|oil crises]] of the 1970s but the enduring appeal of these technologies is due, at least in part, to environmental benefits. Many of the technologies reflect significant advancements in materials. <ref name="IEA"/> . 
+
+*''Third-generation technologies'' are still under development and include advanced [[biomass gasification]], [[biorefinery]] technologies, concentrating [[solar thermal]] power, [[hot-dry-rock]] geothermal power, and [[ocean energy]]. Advances in [[nanotechnology]] may also play a major role. <ref name="IEA"/> . 
+
+First-generation technologies are well established, second-generation technologies are entering markets, and third-generation technologies heavily depend on long-term RD&D commitments, where the public sector has a role to play. <ref name="IEA"/> . 
+
+===Growth of renewables===. 
+[[file:GlobalREPowerCapacity-exHydro-Eng.png|thumb|Global renewable power capacity excluding hydro<ref name="REN21_GSRs">[http://www.ren21.net/REN21Activities/Publications/GlobalStatusReport/tabid/5434/Default.aspx REN21, Renewables Global Status Report (2006 - 2011)]</ref>]]
+[[File:RE-CapChangeShare-Eng.png|thumb|right|Renewable power generation and capacity as a proportion of change in global power supply<ref name="UNEP_GT_2011_Fig24">[http://www.fs-unep-centre.org/publications/global-trends-renewable-energy-investment-2011 UNEP, Bloomberg, Frankfurt School, Global Trends in Renewable Energy Investment 2011]、Figure 24. </ref>]] . 
+
+In 2011, UN under-secretary general [[Achim Steiner]] said: "The continuing growth in this core segment of the [[green economy]] is not happening by chance. The combination of government target-setting, policy support and stimulus funds is underpinning the renewable industry's rise and bringing the much needed transformation of our global energy system within reach." He added: "Renewable energies are expanding both in terms of investment, projects and geographical spread. In doing so, they are making an increasing contribution to combating climate change, countering energy poverty and energy insecurity”. <ref name=invest2011/> . 
+
+During the five-years from the end of 2004 through 2009, worldwide renewable energy capacity grew at rates of 10–60 percent annually for many technologies. For wind power and many other renewable technologies, growth accelerated in 2009 relative to the previous four years. <ref name=ren15/> More wind power capacity was added during 2009 than any other renewable technology. However, grid-connected PV increased the fastest of all renewables technologies, with a 60 percent annual average growth rate for the five-year period. <ref name=ren15>[[REN21]] (2010). [http://www.ren21.net/Portals/97/documents/GSR/REN21_GSR_2010_full_revised%20Sept2010.pdf Renewables 2010 Global Status Report] p. 15. </ref> . 
+
+{| class="wikitable sortable"
+|+Selected renewable energy indicators<ref>{{cite web |url=http://www.ren21.net/Portals/97/documents/GSR/GSR2011_Master18.pdf |title=Renewables 2011: Global Status Report |author=[[REN21]] |year=2011 |page=15 }}</ref><ref>REN21 (2009). [http://www.ren21.net/pdf/RE_GSR_2009_update.pdf Renewables Global Status Report: 2009 Update] p. 9. </ref><ref name=Mart>[[Eric Martinot]] and Janet Sawin. [http://www.renewableenergyworld.com/rea/news/article/2009/09/renewables-global-status-report-2009-update?cmpid=WNL-Friday-September11-2009 Renewables Global Status Report 2009 Update], ''Renewable Energy World'', September 9, 2009. </ref> 
+. |-
+! Selected global indicators !! 2004 !! 2005 !! 2006 !! 2007 !! 2008 !! 2009 !! 2010 !! 2011
+. |-
+| Investment in new renewable capacity (annual) || 30 || 38 || 63 || 104 || 130 || 160 || 211 || 260 billion USD
+. |-
+| Existing renewables power capacity, <br /> including large-scale hydro || 895 || 930 || 1,020 || 1,070 || 1,140 || 1,230 || 1,320 GWe ||
+. |-
+| Existing renewables power capacity, <br /> excluding large hydro ||  || ||  || || 200 || 250 || 312 GWe ||
+. |-
+| Hydropower capacity (existing) || || || || || 950 || 980 || 1,010 GWe ||
+. |-
+| Wind power capacity (existing) || 48 || 59 || 74 || 94 || 121 || 159 || 198 GWe ||
+. |-
+| Solar PV capacity (grid-connected) ||  || || || 7.6 || 16 || 23 || 40 GWe ||
+. |-
+| Solar cell production (annual) ||  || || || || 6.9 || 11 || 24 GWe ||
+. |-
+| Solar hot water capacity (existing) || 77 || 88 || 105 || 120 || 130 || 160 || 185 GWth ||
+. |-
+| Ethanol production (annual) || 30.5 || 33 || 39 || 50 || 67 || 76 || 86 billion liters ||
+. |-
+| Biodiesel production (annual) || || || || || 12 || 17 || 19 billion liters ||
+. |-
+| Countries with policy targets <br /> for renewable energy use || 45 || 49 || || 68 || 79 || 89 || 98 ||
+|} . 
+
+In 2008 for the first time, more renewable energy than conventional power capacity was added in both the European Union and United States, demonstrating a "fundamental transition" of the world's energy markets towards renewables, according to a report released by [[REN21]], a global renewable energy policy network based in Paris. <ref name=Mart/> In 2010, renewable power consisted about a third of the newly built power generation capacities. <ref name="UNEP_GT_2011_Fig24"/> . 
+
+According to a 2011 projection by the International Energy Agency, solar power generators may produce most of the world’s electricity  within 50 years, dramatically reducing the emissions of greenhouse gases that harm the environment. Cedric Philibert, senior analyst in the renewable energy division at the IEA said: “Photovoltaic and solar-thermal plants may meet most of the world’s demand for electricity by 2060 -- and half of all energy needs -- with wind, hydropower and biomass plants supplying much of the remaining generation”. “Photovoltaic and concentrated solar power together can become the major source of electricity,” Philibert said. <ref>{{cite web |url=http://www.bloomberg.com/news/2011-08-29/solar-may-produce-most-of-world-s-power-by-2060-iea-says.html |title=Solar May Produce Most of World’s Power by 2060, IEA Says |author=Ben Sills |date= August 29, 2011 |work=Bloomberg }}</ref> . 
+
+===Economic trends===. 
+Renewable energy technologies are getting cheaper, through technological change and through the benefits of mass production and market competition. A 2011 IEA report said: "A portfolio of renewable energy technologies is becoming cost-competitive in an increasingly broad range of circumstances, in some cases providing investment opportunities without the need for specific economic support," and added that "cost reductions in critical technologies, such as wind and solar, are set to continue."<ref name=henning>{{cite web |url=http://www.reuters.com/article/2011/11/23/us-energy-iea-renewables-idUSTRE7AM0OV20111123 |title=Renewable energy becoming cost competitive, IEA says |author=Henning Gloystein |date=Nov 23, 2011  |work=Reuters }}</ref> As of 2011, there have been substantial reductions in the cost of solar and wind technologies:
+<blockquote>
+The price of PV modules per MW has fallen by 60 percent since the summer of 2008, according to [[Bloomberg New Energy Finance]] estimates, putting solar power for the first time on a competitive footing with the retail price of electricity in a number of sunny countries. Wind turbine prices have also fallen - by 18 percent per MW in the last two years - reflecting, as with solar, fierce competition in the supply chain. Further improvements in the levelised cost of energy for solar, wind and other technologies lie ahead, posing a growing threat to the dominance of fossil fuel generation sources in the next few years. <ref name=invest2011>{{cite web |url=http://www.renewableenergyworld.com/rea/news/article/2011/08/renewables-investment-breaks-records?cmpid=SolarNL-Tuesday-August30-2011 |title=Renewables Investment Breaks Records |Author= |date=29 August 2011 |work=Renewable Energy World }}</ref>
+</blockquote> . 
+
+The [[International Solar Energy Society]] argues that renewable energy technologies and economics will continue to improve with time, and that they are
+"sufficiently advanced at present to allow for major penetrations of renewable energy into the mainstream energy and societal infrastructures". <ref name="renewableenergyfocus.com"/> Indicative, levelised, economic costs for renewable power (exclusive of subsidies or policy incentives) are shown in the Table below.  . 
+
+{| class="wikitable sortable"
+|+Renewable power generation costs 2010<ref>[[REN21]] (2010). [http://www.ren21.net/Portals/97/documents/GSR/GSR2011_Master18.pdf Renewables 2010 Global Status Report] p. 26. </ref>
+. |-
+! Power generator !! Typical characteristics !! Typical <br> electricity  costs <br> (U.S. cents/kWh)
+. |-
+| Large hydro || Plant size: 10 - 18,000 MW || 3-5
+. |-
+| Small hydro || Plant size: 1-10 MW || 5-12
+. |-
+| Onshore wind || Turbine size: 1.5 - 3.5 MW || 5-9
+. |-
+| Offshore wind || Turbine size: 1.5 - 5 MW || 10-14
+. |- 
+| Biomass power || Plant size: 1-20 MW || 5-12
+. |-
+| Geothermal power || Plant size: 1-100 MW || 4-7
+. |-
+| Rooftop solar PV || Peak capacity: 2-5 kilowatts-peak || 20-50
+. |-
+| Utility-scale solar PV || Peak capacity: 200&nbsp;kW to 100MW || 15-30
+. |-
+| Concentrating solar thermal power (CSP) || 50-500 MW trough || 14-18
+|} . 
+
+As time progresses, renewable energy generally gets cheaper,<ref>[http://www.reuters.com/article/GCA-GreenBusiness/idUSTRE5AM2BE20091123 Renewable energy costs drop in '09 ] ''Reuters'', November 23, 2009. </ref><ref>Solar Power 50% Cheaper By Year End - Analysis ''Reuters'', November 24, 2009. </ref> while fossil fuels generally get more expensive. [[Al Gore]] has explained that renewable energy technologies are declining in price for three main reasons:<ref name=gor>Al Gore (2009). ''[[Our Choice]]'', Bloomsbury, p. 58. </ref> . 
+
+<blockquote>
+First, once the renewable infrastructure is built, the fuel is free forever.  Unlike carbon-based fuels, the wind and the sun and the earth itself provide fuel that is free, in amounts that are effectively limitless. 
+</blockquote>
+<blockquote>
+Second, while fossil fuel technologies are more mature, renewable energy technologies are being rapidly improved.  So innovation and ingenuity give us the ability to constantly increase the efficiency of renewable energy and continually reduce its cost. 
+</blockquote>
+<blockquote>
+Third, once the world makes a clear commitment to shifting toward renewable energy, the volume of production will itself sharply reduce the cost of each windmill and each solar panel, while adding yet more incentives for additional research and development to further speed up the innovation process. <ref name=gor/>
+</blockquote> . 
+
+==First-generation technologies==. 
+[[File:Biomasseheizwerk Spillern Nordansicht.jpg|thumb|150px|rechts|Biomass heating plant in Austria. The total heat power is about 1000 kW.]]
+First-generation technologies are widely used in locations with abundant resources. Their future use depends on the exploration of the remaining resource potential, particularly in developing countries, and on overcoming challenges related to the environment and social acceptance.  . 
+
+===Biomass===. 
+[[Biomass]] for heat and power is a fully [[mature technology]] which offers a ready disposal mechanism for municipal, agricultural, and industrial organic wastes. However, the industry has remained relatively stagnant over the decade to 2007, even though demand for biomass (mostly wood) continues to grow in many developing countries. One of the problems of biomass is that material directly combusted in cook stoves produces pollutants, leading to severe health and environmental consequences, although improved cook stove programmes are alleviating some of these effects. First-generation biomass technologies can be economically competitive, but may still require deployment support to overcome public acceptance and small-scale issues. <ref name="IEA" /> . 
+
+===Hydroelectricity===. 
+[[File:Hoovernewbridge.jpg|right|thumb|The [[Hoover Dam]] when completed in 1936 was both the world's largest electric-power generating station and the world's largest concrete structure.]]
+[[Hydroelectric]] plants have the advantage of being long-lived and many existing plants have operated for more than 100 years. Hydropower is also an extremely flexible technology from the perspective of power grid operation. Large hydropower provides one of the lowest cost options in today’s energy market, even compared to fossil fuels and there are no harmful emissions associated with plant operation. <ref name="IEA" /> . 
+
+Hydroelectric power is currently the world’s largest installed renewable source of electricity, supplying about 17% of total electricity in 2005. <ref>[[Mark Z. Jacobson]] (2009). [http://www.stanford.edu/group/efmh/jacobson/EnergyEnvRev1008.pdf Review of Solutions to Global Warming, Air Pollution, and Energy Security] p. 5. </ref> [[Three Gorges Dam|China]] is the world's largest producer of [[hydroelectricity]] in the world, followed by [[Hydroelectric power in Canada|Canada]].  . 
+
+However, there are several significant social and environmental disadvantages of large-scale hydroelectric power systems: dislocation of people living where the reservoirs are planned, release of significant amounts of carbon dioxide and methane during construction and flooding of the reservoir, and disruption of aquatic ecosystems and birdlife. <ref>Duncan Graham-Rowe. [http://www.newscientist.com/article.ns?id=dn7046 Hydroelectric power's dirty secret revealed] ''New Scientist'', 24 February 2005. </ref> There is a strong consensus now that countries should adopt an integrated approach towards managing water resources, which would involve planning hydropower development in co-operation with other water-using sectors. <ref name="IEA"/> . 
+
+===Geothermal power and heat=== . 
+
+[[Image:West Ford Flat Geothermal Cooling Tower.JPG|thumb|right|West Ford Flat Geothermal Cooling Tower.JPG|thumb|One of many power plants at [[The Geysers]], a geothermal power field in northern California, with a total output of over 750&nbsp;MW]] . 
+
+[[Geothermal power]] plants can operate 24&nbsp;hours per day, providing [[baseload]] capacity. Estimates for the world potential capacity for geothermal power generation vary widely, ranging from 40 GW by 2020 to as much as 6,000 GW. <ref>Bertani, R., 2003, [http://www.geothermal-energy.org/files-15.html "What is Geothermal Potential?"], IGA News, 53, page 1-3. </ref><ref name="IPCC Geothermal 2008">Fridleifsson, I.B., R. Bertani, E. Huenges, J. W. Lund, A. Ragnarsson, and L. Rybach (2008). [http://www.iea-gia.org/documents/FridleifssonetalIPCCGeothermalpaper2008FinalRybach20May08_000.pdf The possible role and contribution of geothermal energy to the mitigation of climate change]. In: O. Hohmeyer and T. Trittin (Eds.), IPCC Scoping Meeting on Renewable Energy Sources, Proceedings, Luebeck, Germany, 20–25 January 2008, p. 59-80. </ref> . 
+
+Geothermal power capacity grew from around 1 GW in 1975 to almost 10 GW in 2008. <ref name="IPCC Geothermal 2008"/> The United States is the world leader in terms of installed capacity, representing 3.1 GW. Other countries with significant installed capacity include the Philippines (1.9 GW), Indonesia (1.2 GW), Mexico (1.0 GW), Italy (0.8 GW), Iceland (0.6 GW), Japan (0.5 GW), and New Zealand (0.5 GW). <ref name="IPCC Geothermal 2008"/><ref>Islandsbanki Geothermal Research, United States Geothermal Energy Market Report, October 2009, accessed through [http://www.islandbanki.is website of Islandbanki]. </ref> In some countries, geothermal power accounts for a significant share of the total electricity supply, such as in the Philippines, where geothermal represented 17 percent of the total power mix at the end of 2008. <ref>Leonora Walet. [http://www.reuters.com/article/GCA-GreenBusiness/idUSTRE5A43HC20091105 Philippines targets $2.5 billion geothermal development], ''Reuters'', November 5, 2009. </ref> . 
+
+Geothermal (ground source) heat pumps represented an estimated 30 GWth of installed capacity at the end of 2008, with other direct uses of geothermal heat (i.e., for space heating, agricultural drying and other uses) reaching an estimated 15 GWth. As of 2008, at least 76 countries use direct geothermal energy in some form. <ref name=renewables/> . 
+
+==Second-generation technologies== . 
+
+Markets for second-generation technologies have been strong and growing over the past decade, and these technologies have gone from being a passion for the dedicated few to a major economic sector in countries such as Germany, Spain, the United States, and Japan. Many large industrial companies and financial institutions are involved and the challenge is to broaden the market base for continued growth worldwide. <ref name="IEA"/><ref name=UNEP2 /> . 
+
+===Solar Heating===. 
+[[Image:Solar heater dsc00632.jpg|thumb|Solar energy technologies, such as [[solar water heater]]s, located on or near the buildings which they supply with energy, are a prime example of a [[soft energy technology]].]]
+{{See also|Solar hot water}}
+[[Solar heating]] systems are a well known second-generation technology and generally consist of [[solar thermal collector]]s, a fluid system to move the heat from the collector to its point of usage, and a reservoir or tank for heat storage. The systems may be used to heat domestic hot water, swimming pools, or homes and businesses. The heat can also be used for industrial process applications or as an energy input for other uses such as cooling equipment. <ref>International Energy Agency. [http://www.iea-shc.org/task25/index.html Solar assisted air-conditioning of buildings]</ref> . 
+
+In many warmer climates, a solar heating system can provide a very high percentage (50 to 75%) of domestic hot water energy. As of 2009, China has 27 million rooftop solar water heaters. <ref>Lester R. Brown. ''Plan B 4.0: Mobilizing to Save Civilization'', Earth Policy Institute, 2009, p. 122. </ref> . 
+
+===Photovoltaics===. 
+[[Image:Nellis AFB Solar panels.jpg|thumb|[[Nellis Solar Power Plant]] at Nellis Air Force Base.  These panels track the sun in one axis.]]
+[[Image:Solar-crop.jpg|thumb|[[Barack Obama|President Barack Obama]] speaks at the [[DeSoto Next Generation Solar Energy Center]].]]
+{{Main|Photovoltaics}}
+{{See also|List of photovoltaic power stations}}
+Photovoltaic (PV) cells, also called [[solar cell]]s, convert light into electricity. In the 1980s and early 1990s, most photovoltaic modules were used to provide [[remote-area power supply]],  but from around 1995, industry efforts have focused increasingly on developing [[building integrated photovoltaics]] and [[photovoltaic power stations]] for grid connected applications.  . 
+
+In particularly sunny regions such as Spain, the Middle East, North Africa, the southern USA, India, and parts of China, modern solar modules are close to achieving [[grid parity]]. And in countries situated further to the north such as Germany, France, and the Czech Republic, grid parity is expected by 2015. <ref name = renin>Renewables Insight (2010). [http://www.pv-power-plants.com/fileadmin/user_upload/PVPP_2010_web.pdf PV Power Plants 2010: Industry Guide] p. 9. </ref>  . 
+
+Falling technology prices and the rising costs of fossil fuels are making photovoltaic (PV) power plants increasingly attractive for large investors. <ref name = renin>Renewables Insight (2010). [http://www.pv-power-plants.com/fileadmin/user_upload/PVPP_2010_web.pdf PV Power Plants 2010: Industry Guide] p. 9. </ref> As of December 2011, the largest photovoltaic (PV) power plants in the world are the [[Golmud Solar Park]] (China, 200 MW), [[Sarnia Photovoltaic Power Plant]] (Canada, 97 MW), [[Montalto di Castro Photovoltaic Power Station]] (Italy, 84.2 MW), [[Finsterwalde Solar Park]] (Germany, 80.7 MW), [[Okhotnykovo Solar Park]] (Ukraine, 80&nbsp;MW), [[Lieberose Photovoltaic Park]] (Germany, 71.8&nbsp;MW), [[Rovigo Photovoltaic Power Plant]] (Italy, 70 MW), [[Olmedilla Photovoltaic Park]] (Spain, 60&nbsp;MW), and the [[Strasskirchen Solar Park]] (Germany, 54&nbsp;MW). <ref name="PV">PV Resources.com (2009). [http://www.pvresources.com/en/top50pv.php World's largest photovoltaic power plants]</ref>   . 
+
+There are also many large plants under construction. The [[Desert Sunlight Project]] is a 550 MW [[solar power]] plant under construction in [[Riverside County, California]], that will use thin-film solar [[photovoltaic]] modules made by [[First Solar]]. <ref name=rew11>{{cite web |url=http://www.renewableenergyworld.com/rea/news/article/2011/09/doe-closes-on-three-major-solar-projects?cmpid=SolarNL-Tuesday-October4-2011 |title=DOE Closes on Four Major Solar Projects  |author= |date= 30 September 2011 |work= Renewable Energy World }}</ref> The [[Topaz Solar Farm]] is a 550 MW photovoltaic power plant, being built in [[San Luis Obispo County, California]]. <ref name=re11>{{cite web |url=http://www.renewableenergyworld.com/rea/news/article/2011/12/billionaire-buffett-bets-on-solar-energy?cmpid=SolarNL-Thursday-December8-2011 |title=Billionaire Buffett Bets on Solar Energy |author=Steve Leone |date=7 December 2011  |work=Renewable Energy World }}</ref> The [[Blythe Solar Power Project]] is a 500 MW photovoltaic station under construction in [[Riverside County, California]]. The [[Agua Caliente Solar Project]] is a 290 megawatt photovoltaic solar generating facility being built in [[Yuma County, Arizona]]. The [[California Valley Solar Ranch]] (CVSR) is a 250&nbsp;[[megawatt]] (MW) [[solar photovoltaic]] [[power plant]], which is being built by [[SunPower]] in the [[Carrizo Plain]], northeast of [[California Valley, California|California Valley]]. <ref>{{cite web |url=http://www.marketwatch.com/story/nrg-energy-completes-acquisition-of-250-megawatt-california-valley-solar-ranch-from-sunpower-2011-09-30 |title=NRG Energy Completes Acquisition of 250-Megawatt California Valley Solar Ranch from SunPower |author= |date=30 September 2011 |work=MarketWatch }}</ref> The 230 MW [[Solar power plants in the Mojave Desert#Antelope Valley Solar Ranch|Antelope Valley Solar Ranch]] is a [[First Solar]] photovoltaic project which is under construction in the Antelope Valley area of the Western Mojave Desert, and due to be completed in 2013. <ref>{{cite web |url=http://www.solarserver.com/solar-magazine/solar-news/current/2011/kw40/exelon-purchases-230-mw-antelope-valley-solar-ranch-one-from-first-solar.html |title=Exelon purchases 230 MW Antelope Valley Solar Ranch One from First Solar |author= |date=4 October 2011 |work=Solar Server }}</ref>  . 
+
+Solar photovoltaics is growing rapidly, albeit from a small base, to a total global capacity of 67 GW at the end of 2011, representing 0.5% of worldwide electricity demand. <ref name=epia2012>{{cite web |url=http://www.epia.org/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/EPIA_docs/publications/epia/EPIA-market-report-2011.pdf&t=1328788255&hash=e3fbc35fd185fa8102cad6c987fbb2ed |title=Market Report 2011 |author=European Photovoltaic Industry Association |date=2012 |work= }}</ref> More than 100 countries use solar PV. <ref name="ren21">{{cite web |url=http://www.ren21.net/Portals/97/documents/GSR/GSR2011_Master18.pdf |title=Renewables 2011: Global Status Report |author=[[REN21]] |year=2011 |page=22 }}</ref> . 
+
+===Wind power===. 
+[[File:GlobalWindPowerCumulativeCapacity.png|thumb|right|Wind power: worldwide installed capacity <ref name="GWEC_Market">[http://www.gwec.net/index.php?id=180 GWEC, Global Wind Report Annual Market Update]</ref>]] 
+[[File:Windmills south of Dumas, TX IMG 0570.JPG|thumb|right|Landowners in the US typically receive $3,000 to $5,000 per year in rental income from each wind turbine, while farmers continue to grow crops or graze cattle up to the foot of the turbines. <ref name=nine>American Wind Energy Association (2009). [http://www.awea.org/publications/reports/AWEA-Annual-Wind-Report-2009.pdf Annual Wind Industry Report, Year Ending 2008] pp. 9–10. </ref>]]
+{{See also|List of onshore wind farms|List of offshore wind farms}}
+Some of the second-generation renewables, such as [[wind power]], have high potential and have already realised relatively low production costs. <ref>[http://www.earth-policy.org/Books/PB2/pb2ch10.pdf "Stabilizing Climate" (PDF)] in [[Lester R. Brown]], ''[[Plan B 2.0]] Rescuing a Planet Under Stress and a Civilization in Trouble'' (NY: W.W. Norton & Co., 2006), p. 189. </ref><ref name="clean">[[Clean Edge]] (2007). [http://www.cleantechnology.com.au/pdf/ctf2007slides/CTF2007_CleanEdge.pdf ''The Clean Tech Revolution... the costs of clean energy are declining'' (PDF)] p.8. </ref> Global wind power installations increased by 35,800 MW in 2010, bringing total installed capacity up to 194,400 MW, a 22.5% increase on the 158,700 MW installed at the end of 2009. The increase for 2010 represents investments totalling €47.3 billion (US$65 billion) and for the first time more than half of all new wind power was added outside of the traditional markets of Europe and North America, mainly driven, by the continuing boom in China which accounted for nearly half of all of the installations at 16,500 MW. China now has 42,300 MW of wind power installed. <ref>{{cite web |url=http://www.renewableenergyworld.com/rea/news/article/2011/03/wind-power-china-picks-up-paceeu-and-us-fall-but-global-market-grows?cmpid=WindNL-Thursday-March24-2011 |title=Wind Power: China Picks Up Pace |author=David Beattie |date= 18 March 2011 |work=Renewable Energy World  |publisher= }}</ref> Wind power accounts for approximately 19% of electricity generated in [[Wind power in Denmark|Denmark]], 9% in [[Wind power in Spain|Spain]] and [[Wind power in Portugal|Portugal]], and 6% in [[Wind power in Germany|Germany]] and the Republic of Ireland. <ref>[http://www.pr-inside.com/new-report-a-complete-analysis-of-r533066.htm New Report a Complete Analysis of the Global Offshore Wind Energy Industry and its Major Players]</ref> These are some of the largest wind farms in the world, as of December 2011: . 
+
+{| class="wikitable sortable"
+. |-
+! Wind farm !! Installed <br /> capacity <br/>(MW) !! Country
+. |-
+| [[Alta Wind Energy Center]] || 720 || USA
+. |-
+| [[Capricorn Ridge Wind Farm]] || 662 || USA
+. |-
+| [[Fowler Ridge Wind Farm]] || 600 || USA
+. |-
+| [[Horse Hollow Wind Energy Center]] || 736 || USA
+. |-
+| [[Roscoe Wind Farm]] || 781 || USA
+. |-
+| [[San Gorgonio Pass Wind Farm]] || 619 || USA
+. |-
+| [[Tehachapi Pass Wind Farm]] || 690 || USA
+|} . 
+
+There are many large wind farms under construction and these include [[BARD Offshore 1]] (400 MW), [[Clyde Wind Farm]] (548 MW), [[Greater Gabbard wind farm]] (500 MW), [[Lincs Wind Farm]] (270 MW), [[London Array]] (1000 MW), [[Lower Snake River Wind Project]] (343 MW), [[Shepherds Flat Wind Farm]] (845 MW), [[Sheringham Shoal Offshore Wind Farm|Sheringham Shoal]] (317 MW), and the [[Walney Wind Farm]] (367 MW).  . 
+
+===Solar thermal power stations===. 
+[[Image:PS20andPS10.jpg|right|thumb|Solar Towers from left: [[PS10]],  [[PS20]].]]
+{{See also|Solar power plants in the Mojave Desert|List of solar thermal power stations}} . 
+
+[[Solar thermal power]] stations include the 354&nbsp;[[megawatt]] (MW) [[Solar Energy Generating Systems]] power plant in the USA, [[Solnova Solar Power Station]] (Spain, 150&nbsp;MW), [[Andasol solar power station]] (Spain, 100&nbsp;MW), [[Nevada Solar One]] (USA, 64&nbsp;MW), [[PS20 solar power tower]] (Spain, 20&nbsp;MW), and the [[PS10 solar power tower]] (Spain, 11&nbsp;MW). The 370 MW [[Ivanpah Solar Power Facility]], located in California's [[Mojave Desert]], is the world’s largest solar-thermal power plant project currently under construction. <ref name=woody>Todd Woody. [http://e360.yale.edu/content/feature.msp?id=2334  In California’s Mojave Desert, Solar-Thermal Projects Take Off] ''Yale Environment 360'', 27 October 2010. </ref> Many other plants are under construction or planned, mainly in Spain and the USA. <ref name=global>[[REN21]] (2008). [http://www.worldwatch.org/files/pdf/renewables2007.pdf Renewables 2007 Global Status Report (PDF)] p. 12. </ref> In developing countries, three [[World Bank]] projects for integrated solar thermal/combined-cycle gas-turbine power plants in [[Egypt]], [[Mexico]], and [[Morocco]] have been approved. <ref name=global/> . 
+
+===Modern forms of Bioenergy===. 
+{{See also|Biofuels}}
+[[File:Sao Paulo ethanol pump 04 2008 74 zoom.jpg|thumb|[[Common ethanol fuel mixtures#E100|Neat ethanol]] on the left (A), [[gasoline]] on the right (G) at a [[filling station]] in [[Brazil]].]] . 
+
+Global [[ethanol]] production for transport fuel tripled between 2000 and 2007 from 17 billion to more than 52 billion litres, while [[biodiesel]] expanded more than tenfold from less than 1 billion to almost 11 billion litres. Biofuels provide 1.8% of the world’s transport fuel and recent estimates indicate a continued high growth. The main producing countries for transport biofuels are the USA, Brazil, and the EU. <ref>United Nations Environment Programme (2009). ''[http://www.unep.fr/scp/rpanel/pdf/Assessing_Biofuels_Full_Report.pdf Assessing Biofuels]'', p.15. </ref> . 
+
+[[Brazil]] has one of the largest renewable energy programs in the world, involving production of [[ethanol fuel]] from [[sugar cane]], and ethanol now provides 18 percent of the country's automotive fuel. As a result of this and the exploitation of domestic deep water oil sources, Brazil, which for years had to import a large share of the petroleum needed for domestic consumption, recently reached complete self-sufficiency in liquid fuels. <ref>[http://www.renewableenergyaccess.com/rea/news/story?id=44896 America and Brazil Intersect on Ethanol] ''Renewable Energy Access'', 15 May 2006. </ref><ref>[http://www.washingtonpost.com/wp-dyn/content/article/2006/04/21/AR2006042100139.html New Rig Brings Brazil Oil Self-Sufficiency] ''Washington Post'', 21 April 2006. </ref> . 
+
+[[Image:EthanolPetrol.jpg|left|thumb|Information on pump, California]] . 
+
+Nearly all the gasoline sold in the United States today is mixed with 10 percent ethanol, a mix known as E10,<ref>Erica Gies. [http://www.nytimes.com/2010/06/25/business/energy-environment/25iht-rbogeth.html?src=busln As Ethanol Booms, Critics Warn of Environmental Effect] ''The New York Times'', June 24, 2010. </ref> and motor vehicle manufacturers already produce vehicles designed to run on much higher ethanol blends. [[Ford Motor Company|Ford]], [[DaimlerChrysler]], and [[General Motors Corporation|GM]] are among the automobile companies that sell [[flexible-fuel]] cars, trucks, and minivans that can use gasoline and ethanol blends ranging from pure gasoline up to 85% ethanol (E85). By mid-2006, there were approximately six million E85-compatible vehicles on U.S. roads. <ref name="world">Worldwatch Institute and Center for American Progress (2006). [http://images1.americanprogress.org/il80web20037/americanenergynow/AmericanEnergy.pdf ''American energy: The renewable path to energy security'' (PDF)]</ref> The challenge is to expand the market for biofuels beyond the farm states where they have been most popular to date. Flex-fuel vehicles are assisting in this transition because they allow drivers to choose different fuels based on price and availability. The [[Energy Policy Act of 2005]], which calls for {{convert|7.5|e9USgal|m3}} of biofuels to be used annually by 2012, will also help to expand the market. <ref name="world" /> . 
+
+The growing ethanol and biodiesel industries are providing jobs in plant construction, operations, and maintenance, mostly in rural communities. According to the Renewable Fuels Association, the ethanol industry created almost 154,000 U.S. jobs in 2005 alone, boosting household income by $5.7 billion. It also contributed about $3.5 billion in tax revenues at the local, state, and federal levels. <ref name="world" /> . 
+
+==Third-generation technologies== . 
+
+Third-generation renewable energy technologies are still under development and include advanced [[biomass gasification]], [[biorefinery]] technologies, [[hot-dry-rock]] geothermal power, and [[ocean energy]]. <ref name="IEA" /> Third-generation technologies are not yet widely demonstrated or have limited commercialization. Many are on the horizon and may have potential comparable to other renewable energy technologies, but still depend on attracting sufficient attention and RD&D funding. <ref name="IEA" /> . 
+
+===New bioenergy technologies===. 
+{{See also|Cellulosic ethanol commercialization}} . 
+
+According to the International Energy Agency, [[cellulosic ethanol]] biorefineries could allow biofuels to play a much bigger role in the future than organizations such as the IEA previously thought. <ref>International Energy Agency (2006). [http://www.iea.org/textbase/nppdf/free/2006/weo2006.pdf ''World Energy Outlook 2006'' (PDF)]. </ref> Cellulosic ethanol can be made from plant matter composed primarily of inedible cellulose fibers that form the stems and branches of most plants. Crop residues (such as [[Corn stover|corn stalks]], wheat straw and rice straw),
+wood waste, and [[municipal solid waste]] are potential sources of cellulosic biomass. Dedicated energy crops, such as [[Panicum virgatum|switchgrass]], are also promising cellulose sources that can be [[Sustainable biofuel|sustainably produced]] in many
+regions of the United States. <ref>Biotechnology Industry Organization (2007). [http://bio.org/ind/biofuel/CellulosicEthanolIssueBrief.pdf ''Industrial Biotechnology Is Revolutionizing the Production of Ethanol Transportation Fuel''] pp. 3-4. </ref> . 
+
+{| class="wikitable sortable"
+|+Selected Commercial Cellulosic Ethanol Plants <br> in the U.S. <ref>Decker, Jeff. [http://www.renewableenergyworld.com/rea/magazine/story?id=54346 Going Against the Grain: Ethanol from Lignocellulosics], ''Renewable Energy World'', January 22, 2009. </ref><ref>{{cite web|url=http://www.grainnet.com/pdf/cellulosemap.pdf |title=Building Cellulose |format=PDF |date= |accessdate=2010-07-08}}</ref>
+(Operational or under construction)
+. |-
+!  Company  !!  Location  !!  Feedstock
+. |-
+| [[Abengoa]] Bioenergy || Hugoton, KS || Wheat straw
+. |-
+| [[BlueFire Ethanol]] || Irvine, CA  || Multiple sources
+. |-
+| [[Gulf Coast Energy]] || Mossy Head, FL || Wood waste
+. |-
+| [[Mascoma Corporation|Mascoma]] || Lansing, MI || Wood
+. |-
+| [[POET LLC]] || Emmetsburg, IA || Corn cobs
+. |-
+| [[SunOpta]] || Little Falls, MN || Wood chips
+. |-
+| [[Xethanol]] ||  Auburndale, FL || Citrus peels
+|} . 
+
+===Ocean energy===. 
+The [[Rance Tidal Power Station]] (240 MW) is the world's first [[tidal power|tidal]] power station. The facility is located on the estuary of the [[Rance River]], in [[Brittany]], [[France]]. Opened on the 26th November 1966, it is currently operated by [[Électricité de France]], and is the largest tidal power station in the world, in terms of installed capacity.  . 
+
+First proposed more than thirty years ago, systems to harvest utility-scale electrical power from ocean waves have recently been gaining momentum as a viable technology. The potential for this technology is considered promising, especially on west-facing coasts with latitudes between 40 and 60 degrees:<ref name=je>Jeff Scruggs and Paul Jacob. Harvesting Ocean Wave Energy, ''Science'', Vol. 323, 27 February 2009, p. 1176. </ref>
+<blockquote>
+In the United Kingdom, for example, the Carbon Trust recently estimated the extent of the economically viable offshore resource at 55 TWh per year, about 14% of current national demand. Across Europe, the technologically achievable resource has been estimated to be at least 280 TWh per year. In 2003, the U.S. Electric Power Research Institute (EPRI) estimated the viable resource in the United States at 255 TWh per year (6% of demand). <ref name=je/>
+</blockquote> . 
+
+Funding for a wave farm in Scotland was announced in February 2007 by the [[Scottish Executive]], at a cost of over 4 million [[pound sterling|pounds]], as part of a £13 million funding packages for [[Renewable energy in Scotland#Wave power|ocean power in Scotland]]. The farm will be the world's largest with a capacity of 3 MW generated by four Pelamis machines. <ref>[http://news.bbc.co.uk/2/hi/uk_news/scotland/6377423.stm Orkney to get 'biggest' wave farm] ''BBC News'', 20 February 2007. </ref> . 
+
+===Enhanced geothermal systems=== . 
+
+As of 2008, geothermal power development was under way in more than 40 countries, partially attributable to the development of new technologies, such as Enhanced Geothermal Systems. <ref name=renewables>[[REN21]] (2009). [http://www.ren21.net/pdf/RE_GSR_2009_update.pdf Renewables Global Status Report: 2009 Update] pp. 12-13. </ref> The development of [[binary cycle power plant]]s and improvements in drilling and extraction technology may enable [[enhanced geothermal systems]] over a much greater geographical range than "traditional" Geothermal systems. Demonstration EGS projects are operational in the USA, Australia, Germany, France, and The United Kingdom. <ref>{{Citation
+  | first = Ruggero
+  | last = Bertani
+  | contribution = "Geothermal Energy: An Overview on Resources and Potential"
+  | contribution-url =
+  | series = International Geothermal Days
+  | year = 2009
+  | place = Slovakia}}</ref> . 
+
+==Renewable energy industry==. 
+[[Image:Vestas Turbine.JPG|thumb|A Vestas wind turbine]]
+[[Image:Klassieren.jpg|thumb|Monocrystalline solar cell]] . 
+
+Total investment in renewable energy reached $211 billion in 2010, up from $160 billion in 2009. The top countries for investment in 2010 were
+China, Germany, the United States, Italy, and Brazil. <ref>{{cite web |url=http://www.ren21.net/Portals/97/documents/GSR/GSR2011_Master18.pdf |title=Renewables 2011: Global Status Report |author=[[REN21]] |year=2011 |page=35 }}</ref> Continued growth for the renewable energy sector is expected and promotional policies helped the industry weather the 2009 economic crisis better than many other sectors. <ref name=obama/>  . 
+
+===Wind power companies===. 
+{{See also|Wind power industry}}
+As of 2010, [[Vestas]] (from Denmark) is the world's top wind turbine manufacturer in terms of percentage of market volume, and [[Sinovel]] (from China) is in second place. Together Vestas and Sinovel delivered 10,228 MW of capacity in 2010, and their market share was 25.9 percent. [[GE Energy]] (USA) was in third place, closely followed by another Chinese supplier, [[Goldwind]]. German [[Enercon]] ranks fifth in the world, and is followed by Indian-based [[Suzlon]] at number six. <ref>{{cite web |url=http://www.renewableenergyworld.com/rea/news/article/2011/08/world-wind-market-record-installations-but-growth-rates-still-falling |title=World Wind Market: Record Installations, But Growth Rates Still Falling |author=Tildy Bayar |date=4 August 2011 |work=Renewable Energy World }}</ref> . 
+
+===Photovoltaic companies===. 
+[[First Solar]] became the world's largest solar cell maker in 2009, producing 1,100 MW of products, with a 13% market share. [[Suntech]] was in second place with a production capacity of 595 MW in 2009 and a market share of 7%. <ref name=iSuppli>Dr Henning Wicht, [http://www.isuppli.com/Photovoltaics/News/Pages/First-Solar-to-Produce-Twice-as-Much-as-Leading-Crystalline-Solar-Module-Suppliers-in-2009.aspx First Solar to Produce Twice as Much as Leading Crystalline Solar Module Suppliers in 2009], iSuppli Market Research, September 4th 2009, accessed on March 22nd 2011. </ref> [[Sharp]] was close behind the leaders with 580 MW of output.  [[Q-Cells]] and its 540 MW output was fourth in 2009. [[Yingli Green Energy]], [[JA Solar Holdings]], [[SunPower]], [[Kyocera]], [[Motech Solar]] and [[Gintech]] rounded out the 2009 Top 10 ranking. <ref name=iSuppli /> . 
+
+==Non-technical barriers to acceptance==. 
+Current energy markets, institutions, and policies have been developed to support the production and use of fossil fuels. <ref name=jacob2010>{{cite web |url=http://www.stanford.edu/group/efmh/jacobson/Articles/I/DJEnPolicyPt2.pdf |title=Providing all Global Energy with Wind, Water, and Solar Power, Part II: Reliability, System andTransmission Costs, and Policies |author=Delucchi, Mark A. and [[Mark Z. Jacobson]]  |year=2010 |work=Energy Policy }}</ref> Newer and cleaner technologies may offer social and environmental benefits, but utility operators often reject renewable resources because they are trained to think only in terms of big, conventional power plants. <ref name=epsov/> Consumers often ignore renewable power systems because they are not given accurate price signals about electricity consumption. Intentional market distortions (such as subsidies), and unintentional market distortions (such as split incentives) may work against renewables. <ref name=epsov>Benjamin K. Sovacool. “Rejecting Renewables: The Socio-technical Impediments to Renewable Electricity in the United States,” ''Energy Policy'', 37(11) (November, 2009), p. 4500. </ref> [[Benjamin K. Sovacool]] has argued that "some of the most surreptitious, yet powerful, impediments facing renewable energy and energy efficiency in the United States are more about ''culture'' and ''institutions'' than engineering and science". <ref>Benjamin K. Sovacool. “The Cultural Barriers to Renewable Energy in the United States,” ''Technology in Society'', 31(4) (November, 2009), p. 372. </ref> . 
+
+The obstacles to the widespread commercialization of renewable energy technologies are primarily political, not technical,<ref>Mark Z. Jacobson and Mark A. Delucchi. A Path to Sustainable Energy by 2030, ''Scientific American'', November 2009, p. 45. </ref> and there have been many studies which have identified a range of  "non-technical barriers" to renewable energy use. <ref name="NREL">[[National Renewable Energy Laboratory]] (2006). ''Nontechnical Barriers to Solar Energy Use: Review of Recent Literature'', Technical Report, NREL/TP-520-40116, September, 30 pages. </ref><ref name=ieapress/><ref name=GREMS>United Nations Department of Economic and Social Affairs, (2005). [http://www.ppre.uni-oldenburg.de/download/Downloads/Global_RE-Report-2005.pdf Increasing Global Renewable Energy Market Share: Recent Trends and Perspectives] Final Report. </ref> These barriers are impediments which put renewable energy at a marketing, institutional, or policy disadvantage relative to other forms of energy.  Key barriers include:<ref name="NREL" /><ref name=GREMS /> . 
+
+* Difficulty overcoming established energy systems, which includes difficulty introducing innovative energy systems, particularly for [[distributed generation]] such as photovoltaics, because of technological lock-in, electricity markets designed for centralized power plants, and market control by established operators. As the [[Stern Review|Stern Review on the Economics of Climate Change]] points out: . 
+
+<blockquote>
+:::National grids are usually tailored towards the operation of centralised power plants and thus favour their performance. Technologies that do not easily fit into these networks may struggle to enter the market, even if the technology itself is commercially viable. This applies to distributed generation as most grids are not suited to receive electricity from many small sources. Large-scale renewables may also encounter problems if they are sited in areas far from existing grids. <ref name=Stern2>HM Treasury (2006). [http://www.hm-treasury.gov.uk/independent_reviews/stern_review_economics_climate_change/stern_review_report.cfm ''Stern Review on the Economics of Climate Change''] p. 355. </ref>
+</blockquote>
+* Lack of government policy support, which includes the lack of policies and regulations supporting deployment of renewable energy technologies and the presence of policies and regulations hindering renewable energy development and supporting conventional energy development. Examples include subsidies for fossil-fuels, insufficient consumer-based renewable energy incentives, government underwriting for nuclear plant accidents, and complex zoning and permitting processes for renewable energy. 
+* Lack of information dissemination and consumer awareness. 
+* Higher capital cost of renewable energy technologies compared with conventional energy technologies. 
+* Inadequate financing options for renewable energy projects, including insufficient access to affordable financing for project developers, entrepreneurs and consumers. 
+* Imperfect capital markets, which includes failure to internalize all costs of conventional energy (e.g., effects of air pollution, risk of supply disruption)<ref>Matthew L. Wald. 
+[http://www.nytimes.com/2009/10/20/science/earth/20fossil.html Fossil Fuels’ Hidden Cost Is in Billions, Study Says] ''The New York Times'', October 20, 2009. </ref> and failure to internalize all benefits of renewable energy (e.g., cleaner air, energy security). 
+* Inadequate workforce skills and training, which includes lack of adequate scientific, technical, and manufacturing skills required for renewable energy production; lack of reliable installation, maintenance, and inspection services; and failure of the educational system to provide adequate training in new technologies. 
+* Lack of adequate codes, standards, utility interconnection, and net-metering guidelines. 
+* Poor public perception of renewable energy system aesthetics. 
+* Lack of stakeholder/community participation and co-operation in energy choices and renewable energy projects.  . 
+
+With such a wide range of non-technical barriers, there is no "silver bullet" solution to drive the transition to renewable energy.  So ideally there is a need for several different types of policy instruments to complement each other and overcome different types of barriers. <ref name=GREMS /><ref>Diesendorf, Mark (2007). ''Greenhouse Solutions with Sustainable Energy'', UNSW Press, p. 293. </ref> . 
+
+A policy framework must be created that will level the playing field and redress the imbalance of traditional approaches associated with fossil fuels. The policy landscape must keep pace with broad trends within the  energy sector, as well as reflecting specific social, economic and environmental priorities. <ref>IEA Renewable Energy Working Party (2002). ''Renewable Energy... into the mainstream'', p. 48. </ref> . 
+
+==Public policy landscape== . 
+
+{{See also|Renewable energy policy}} . 
+
+Public policy has a role to play in renewable energy commercialization because the free market system has some fundamental limitations.  As the [[Stern Review]] points out:
+<blockquote>
+In a liberalised energy market, investors, operators and consumers should face the full cost of their decisions. But this is not the case in many economies or energy sectors. Many policies distort the market in favour of existing fossil fuel technologies. <ref name=Stern2 />
+</blockquote> . 
+
+The [[International Solar Energy Society]] has stated that "historical incentives for the conventional energy resources continue even today to bias markets by burying many of the real societal costs of their use". <ref>Donald W. Aitken. [http://www.renewableenergyfocus.com/downloads/ Transitioning to a Renewable Energy Future], [[International Solar Energy Society]], January 2010, p. 4. </ref> . 
+
+Fossil-fuel energy systems have different production, transmission, and end-use costs and characteristics than do renewable energy systems, and new promotional policies are needed to ensure that renewable systems develop as quickly and broadly as is socially desirable. <ref name=jacob2010/>  . 
+
+[[Lester Brown]] states that the market "does not incorporate the indirect costs of providing goods or services into prices, it does not value nature’s services adequately, and it does not respect the sustainable-yield thresholds of natural systems". <ref name="Br" /> It also favors the near term over the long term, thereby showing limited concern for future generations. <ref name="Br" >Brown, L.R. (2006). [http://www.earth-policy.org/Books/PB2/pb2ch12.pdf ''Plan B 2.0 Rescuing a Planet Under Stress and a Civilization in Trouble'']  W.W. Norton & Co, pp. 228-232. </ref>  Tax and subsidy shifting can help overcome these problems. <ref name="Brown" >Brown, L.R. (2006). [http://www.earth-policy.org/Books/PB2/pb2ch12.pdf ''Plan B 2.0 Rescuing a Planet Under Stress and a Civilization in Trouble'']  W.W. Norton & Co, pp. 234-235. </ref> . 
+
+===Shifting taxes===. 
+Tax shifting involves lowering income taxes while raising levies on environmentally destructive activities, in order to create a more responsive market.  It has been widely discussed and endorsed by economists.  For example, a tax on coal that included the increased health care costs associated with breathing polluted air, the costs of acid rain damage, and the costs of climate disruption would encourage investment in renewable technologies.  Several Western European countries are already shifting taxes in a process known there as environmental tax reform, to achieve environmental goals. <ref name="Br" /> . 
+
+A four-year plan adopted in Germany in 1999 gradually shifted taxes from labor to energy and, by 2001, this plan had lowered fuel use by 5 percent. It had also increased growth in the renewable energy sector, creating some 45,400 jobs by 2003 in the wind industry alone, a number that is projected to rise to 103,000 by 2010.  In 2001, Sweden launched a new 10-year environmental tax shift designed to convert 30 billion kroner ($3.9 billion) of taxes on income to taxes on environmentally destructive activities.  Other European countries with significant tax reform efforts are France, Italy, Norway, Spain, and the United Kingdom.  Asia’s two leading economies, Japan and China, are considering the adoption of carbon taxes. <ref name="Br" /> . 
+
+===Shifting subsidies===. 
+{{See also|Energy subsidies}}
+Subsidies are not inherently bad as many technologies and industries emerged through government subsidy schemes. The Stern Review explains that of 20 key innovations from the past 30&nbsp;years, only one of the 14 they could source was funded entirely by the private sector and nine were totally funded by the public sector. <ref>HM Treasury (2006). [http://www.hm-treasury.gov.uk/independent_reviews/stern_review_economics_climate_change/stern_review_report.cfm ''Stern Review on the Economics of Climate Change''] p. 362. </ref> In terms of specific examples, the Internet was the result of publicly funded links among computers in government laboratories and research institutes. And the combination of the federal tax deduction and a robust state tax deduction in California helped to create the modern wind power industry. <ref name="Brown" /> . 
+
+But just as there is a need for tax shifting, there is also a need for subsidy shifting. Lester Brown has argued that "a world facing the prospect of economically disruptive climate change can no longer justify subsidies to expand the burning of coal and oil. Shifting these subsidies to the development of climate-benign energy sources such as wind, solar, biomass, and geothermal power is the key to stabilizing the earth’s climate."<ref name="Brown"/> The International Solar Energy Society advocates "leveling the playing field" by redressing the continuing inequities in public subsidies of energy technologies and R&D, in which the fossil fuel and nuclear power receive the largest share of financial support. <ref>Donald W. Aitken. [http://www.renewableenergyfocus.com/downloads/ Transitioning to a Renewable Energy Future], [[International Solar Energy Society]], January 2010, p. 6. </ref> . 
+
+Some countries are eliminating or reducing climate disrupting subsidies and Belgium, France, and Japan have phased out all subsidies for coal. Germany reduced its coal subsidy from $5.4 billion in 1989 to $2.8&nbsp;billion in 2002, and in the process lowered its coal use by 46&nbsp;percent. Germany plans to phase out this support entirely by 2010. China cut its coal subsidy from $750&nbsp;million in 1993 to $240&nbsp;million in 1995 and more recently has imposed a tax on high-sulfur coals. <ref name="Brown"  /> . 
+
+While some leading industrial countries have been reducing subsidies to fossil fuels, most notably coal, the United States has been increasing its support for the fossil fuel and nuclear industries. <ref name="Brown"  /> . 
+
+In November 2011, an IEA report entitled ''Deploying Renewables 2011'' said "subsidies in green energy technologies that were not yet competitive are justified in order to give an incentive to investing into technologies with clear environmental and energy security benefits". The IEA's report disagreed with claims that renewable energy technologies are only viable through costly subsidies and not able to produce energy reliably to meet demand. <ref name=henning>{{cite web |url=http://www.reuters.com/article/2011/11/23/us-energy-iea-renewables-idUSTRE7AM0OV20111123 |title=Renewable energy becoming cost competitive, IEA says |author=Henning Gloystein |date=Nov 23, 2011  |work=Reuters }}</ref> . 
+
+===Renewable energy targets=== . 
+
+Setting national renewable energy targets can be an important part of a renewable energy policy and these targets are usually defined as a percentage of the primary energy and/or electricity generation mix. For example, the [[European Union]] has prescribed an indicative renewable energy target of 12 per cent of the total EU [[energy mix]] and 22 per cent of electricity consumption by 2010. National targets for individual EU Member States have also been set to meet the overall target. Other developed countries with defined national or regional targets include Australia, Canada, Israel, Japan, Korea, New Zealand, Norway, Singapore, Switzerland, and some US States. <ref name=UNEP3>United Nations Environment Program (2006).  [http://www.ren21.net/pdf/REN21CC%20rapport.pdf ''Changing climates: The Role of Renewable Energy in a Carbon-constrained World''] pp. 14-15. </ref> . 
+
+National targets are also an important component of renewable energy strategies in some [[developing countries]]. Developing countries with renewable energy targets include China, India, Indonesia, Malaysia, the Philippines, Thailand, Brazil, Egypt, Mali, and South Africa.  The targets set by many developing countries are quite modest when compared with those in some industrialized countries. <ref name=UNEP3 /> . 
+
+Renewable energy targets in most countries are indicative and nonbinding but they have assisted government actions and regulatory frameworks. The United Nations Environment Program has suggested that making renewable energy targets legally binding could be an important policy tool to achieve higher renewable energy market penetration. <ref name=UNEP3 /> . 
+
+===Green stimulus programs===. 
+In response to the [[Late-2000s financial crisis|global financial crisis in the late 2000's]], the world’s major governments made "green stimulus" programs one of their main policy instruments for supporting economic recovery.  Some {{US$|188 billion}} in green stimulus funding had been allocated to renewable energy and energy efficiency. Most of the overall clean energy stimuli were expected to be spent in 2010 and in 2011. <ref name=ren27>[[REN21]] (2010). [http://www.ren21.net/globalstatusreport/REN21_GSR_2010_full.pdf Renewables 2010 Global Status Report] p. 27. </ref> . 
+
+==Recent developments==. 
+[[Image:Re investment 2007-2017.jpg|thumb|600px|centre|Projected renewable energy investment growth globally (2007-2017)<ref name="ce-1">Makower, J. Pernick, R. Wilder, C. (2008). [http://www.cleanedge.com/reports/reports-trends2008.php ''Clean Energy Trends 2008'']</ref>]] . 
+
+A number of events in 2006 pushed renewable energy up the political agenda, including the US mid-term elections in November, which confirmed [[clean energy]] as a mainstream issue. Also in 2006, the Stern Review<ref name=Stern /> made a strong economic case for investing in low carbon technologies now, and argued that economic growth need not be incompatible with cutting energy consumption. <ref>United Nations Environment Programme and New Energy Finance Ltd. (2007), p. 11. </ref>  According to a trend analysis from the [[United Nations Environment Programme]], [[Global warming|climate change concerns]]<ref name=UNEP2 /> coupled with recent [[Oil price increases since 2003|high oil prices]]<ref name=high>[http://www.abc.net.au/news/stories/2007/10/16/2060441.htm High oil price hits Wall St] ''ABC News'', 16 October 2007. Retrieved on 15 January 2008. </ref> and increasing government support are driving increasing rates of investment in the renewable energy and energy efficiency industries. <ref name=UNnews/><ref name="UNEP">United Nations Environment Programme and New Energy Finance Ltd. (2007), p. 3. </ref> . 
+
+Investment capital flowing into renewable energy reached a record US$77 billion in 2007, with the [[Clean Energy Trends|upward trend]] continuing in 2008. <ref name=mak/>  The [[Organisation for Economic Co-operation and Development|OECD]] still dominates, but there is now increasing activity from companies in China, India and Brazil. Chinese companies were the second largest recipient of venture capital in 2006 after the United States. In the same year, India was the largest net buyer of companies abroad, mainly in the more established European markets. <ref name="UNEP" /> . 
+
+Global revenues for solar photovoltaics, wind power, and biofuels expanded from $75.8 billion in 2007 to $115.9 billion in 2008. For the first time, one sector alone, wind, had revenues exceeding $50 billion. New global investments in [[clean energy]] technologies — including venture capital, project finance, public markets, and research and development — expanded by 4.7 percent from $148.4 billion in 2007 to $155.4 billion in 2008. <ref name=obama/> . 
+
+After several years with strong political backing and growth, 2009 was a year of refocus, consolidation, or retrenchment for many companies. However, new wind power capacity installed in 2009 grew strongly with record installations of 38 GW worldwide, partly as a result of the rapid rise of Chinese manufacturing. <ref>Edward Milford. [http://www.renewableenergyworld.com/rea/news/article/2010/07/btm-wind-market-report BTM Wind Market Report World market update: Strong growth, record installations] ''Renewable Energy World'', 20 July 2010. </ref>  . 
+
+New government spending, regulation, and policies helped the industry weather the 2009 economic crisis better than many other sectors. <ref name=obama/> Most notably, U.S. President [[Barack Obama]]'s [[American Recovery and Reinvestment Act of 2009]] included more than $70 billion in direct spending and tax credits for clean energy and associated transportation programs. This policy-stimulus combination represents the largest federal commitment in U.S. history for renewables, advanced transportation, and energy conservation initiatives. Based on these new rules, many more utilities strengthened their clean-energy programs. <ref name=obama/> [[Clean Edge]] suggests that the commercialization of clean energy will help countries around the world pull out of the current economic malaise. <ref name=obama/> . 
+
+Once-promising solar energy company, [[Solyndra]], became involved in a political controversy involving U.S. President Barack Obama's [[Presidency of Barack Obama|administration]]'s authorization of a $535 million loan guarantee to the Corporation in 2009 as part of a program to spur alternative energy growth. <ref name="bare_url">[http://abcnews.go.com/blogs/politics/2011/08/solar-energy-company-touted-by-obama-goes-bankrupt/ Solar Energy Company Touted By Obama Goes Bankrupt], ABC News, August 31, 2011</ref><ref>[http://reason.com/archives/2011/09/09/obamas-crony-capitalism Obama's Crony Capitalism], Reason, September 9, 2011</ref><ref name = "daily caller September 1, 2011">[http://dailycaller.com/2011/09/01/bankrupt-solar-company-with-fed-backing-has-cozy-ties-to-obama-admin/ Bankrupt solar company with fed backing has cozy ties to Obama admin], The Daily Caller, September 1, 2011</ref> The company ceased all business activity, filed for [[Chapter 11]] [[bankruptcy]], and laid-off nearly all of its employees in early September 2011. <ref>{{cite news |url=http://www.nbcbayarea.com/news/local/Solyndra-Shutting-Down-128802718.html |title=Solyndra to Declare Bankruptcy |publisher=NBC News |date=September 2, 2011 |first=Scott |last=McGrew}}</ref><ref>[http://www.businessweek.com/ap/financialnews/D9PJ89JG0.htm Solyndra files for bankruptcy, looks for buyer]. ''Bloomberg Businessweek''. Retrieved: September 20, 2011. </ref> Critics claimed that the Obama administration may have unduly influenced the loan. <ref name = "daily caller September 1, 2011"/>  . 
+
+[[United Nations]]' Secretary-General [[Ban Ki-moon]] has said that renewable energy has the ability to lift the poorest nations to new levels of prosperity. <ref>{{cite web |url=http://www.renewableenergyworld.com/rea/news/article/2011/08/u-n-secretary-general-renewables-can-end-energy-poverty?cmpid=WNL-Friday-August26-2011 |title=U.N. Secretary-General: Renewables Can End Energy Poverty |author=Steve Leone |date=25 August 2011 |work=Renewable Energy World }}</ref> In October 2011, he "announced the creation of a high-level group to drum up support for energy access, energy efficiency and greater use of renewable energy. The group is to be co-chaired by Kandeh Yumkella, the chair of UN Energy and director general of the UN Industrial Development Organisation, and Charles Holliday, chairman of Bank of America". <ref>{{cite web |url=http://www.guardian.co.uk/global-development/2011/nov/02/human-development-report-renewable-energy |title=UN calls for universal access to renewable energy |author=Mark Tran |date=2 November 2011 |work=The Guardian }}</ref> . 
+
+In his January 24, 2012, [[State of the Union]] address, President Barack Obama restated his commitment to renewable energy. Obama said that he “will not walk away from the promise of clean energy.” Obama called for a commitment by the Defense Department to purchase 1,000 MW of renewable energy. He also mentioned the long-standing Interior Department commitment to permit 10,000 MW of renewable energy projects on public land in 2012. <ref>{{cite web |url=http://www.renewableenergyworld.com/rea/blog/post/2012/01/obama-sticking-to-promise-of-clean-energy?cmpid=SolarNL-Thursday-January26-2012 |title=Obama: Sticking to "Promise of Clean Energy" |author=Lindsay Morris |date=25 January 2012 |work=Renewable Energy World }}</ref> . 
+
+==Sustainable energy==. 
+{{Main|Sustainable energy}} . 
+
+Moving towards energy sustainability will require changes not only in the way energy is supplied, but in the way it is used, and reducing the amount of energy required to deliver various goods or services is essential. Opportunities for improvement on the demand side of the energy equation are as rich and diverse as those on the supply side, and often offer significant economic benefits. <ref>InterAcademy Council (2007). [http://www.interacademycouncil.net/Object.File/Master/12/053/Executive%20Summary.pdf ''Lighting the way: Toward a sustainable energy future'']</ref> . 
+
+Renewable energy and [[efficient energy use|energy efficiency]] are said to be the “twin pillars” of [[sustainable energy]] policy. Any serious vision of a sustainable energy economy requires commitments to both renewables and efficiency.  [[American Council for an Energy-Efficient Economy|The American Council for an Energy-Efficient Economy]] has explained that both resources must be developed in order to stabilize and reduce carbon dioxide emissions:<ref name=am>American Council for an Energy-Efficient Economy (2007). 
+[http://aceee.org/store/proddetail.cfm?CFID=2957330&CFTOKEN=50269931&ItemID=432&CategoryID=7 ''The Twin Pillars of Sustainable Energy: Synergies between Energy Efficiency and Renewable Energy Technology and Policy''] Report E074. </ref>
+<blockquote>
+Efficiency is essential to slowing the energy demand growth so that rising clean energy supplies can make deep cuts in fossil fuel use. If energy use grows too fast, renewable energy development will chase a receding target. Likewise, unless clean energy supplies come online rapidly, slowing demand growth will only begin to reduce total emissions; reducing the carbon content of energy sources is also needed. <ref name=am />
+</blockquote> . 
+
+The IEA has stated that renewable energy and energy efficiency policies should be viewed as complementary tools for the development of a sustainable energy future, instead of being developed in isolation. <ref>International Energy Agency (2007). [http://www.iea.org/Textbase/work/2007/bestpractice/Workshop_Proceedings.pdf ''Global Best Practice in Renewable Energy Policy Making'']</ref> . 
+
+==See also==. 
+{{Portal box|Renewable energy|Sustainable development|Global warming|Environment|Energy|Business}}
+===Lists===. 
+<div style="-moz-column-count:2; column-count:2;">
+* [[Lists about renewable energy]]
+* [[List of large wind farms]]
+* [[List of notable renewable energy organizations]]
+* [[List of renewable energy topics by country]]
+</div> . 
+
+===Topics===. 
+<div style="-moz-column-count:2; column-count:2;">
+*[[Clean Energy Trends]]
+*[[Cost of electricity by source]]
+*[[Ecotax]]
+*[[Energy security and renewable technology]]
+*[[Feed-in Tariff]]
+*[[International Renewable Energy Agency]]
+*[[PV financial incentives]]
+*[[Rocky Mountain Institute]]
+*[[The Clean Tech Revolution]]
+*[[The Third Industrial Revolution]]
+*[[World Council for Renewable Energy]]
+</div> . 
+
+===People===. 
+{|
+. |- valign=top
+| width=1200 align=left |
+*[[Andrew Blakers]]
+*[[Michael Boxwell]]
+*[[Richard L. Crowther]]
+*[[James Dehlsen]]
+*[[Mark Diesendorf]]
+*[[Rolf Disch]]
+*[[Peter Droege]]
+*[[David Faiman]]
+*[[Hans-Josef Fell]]
+*[[Harrison Fraker]]
+*[[Chris Goodall]]
+*[[Al Gore]]
+*[[Michael Grätzel]]
+*[[Martin Green (professor)|Martin Green]]
+| width=1200 align=left |
+*[[Jan Hamrin]]
+*[[Denis Hayes]]
+*[[Tetsunari Iida]] 
+*[[Mark Z. Jacobson]]
+*[[Stefan Krauter]]
+*[[Jeremy Leggett]]
+*[[Richard Levine]]
+*[[Amory Lovins]]
+*[[Gaspar Makale]]
+*[[Joel Makower]]
+*[[Eric Martinot]]
+*[[David Mills (solar researcher)|David Mills]]
+*[[Huang Ming]]
+*[[Leonard L. Northrup Jr.]]
+*[[Arthur Nozik]]
+| width=1200 align=left |
+*[[Monica Oliphant]]
+*[[Stanford R. Ovshinsky]]
+*[[Luis Palmer]]
+*[[Hélène Pelosse]]
+*[[Ron Pernick]] 
+*[[Jeremy Rifkin]]
+*[[Hermann Scheer]]
+*[[Zhengrong Shi]]
+*[[Benjamin K. Sovacool]]
+*[[Félix Trombe]]
+*[[John Twidell]]
+*[[Martin Vosseler]]
+*[[Stuart Wenham]]
+*[[Clint Wilder]]
+*[[John I. Yellott]]
+|} . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==Bibliography==. 
+<div class="references-small">
+*Aitken, Donald W. (2010). ''Transitioning to a Renewable Energy Future'', International Solar Energy Society, January, 54 pages. 
+*HM Treasury (2006). ''Stern Review on the Economics of Climate Change'', 575 pages. 
+*International Council for Science (c2006). ''Discussion Paper by the Scientific and Technological Community for the 14th session of the United Nations Commission on Sustainable Development'', 17 pages. 
+*International Energy Agency (2006). ''World Energy Outlook 2006: Summary and Conclusions'', OECD, 11 pages. 
+*International Energy Agency (2007). ''Renewables in global energy supply: An IEA facts sheet'', OECD, 34 pages. 
+*International Energy Agency (2008). ''Deploying Renewables: Principles for Effective Policies'', OECD, 8 pages. 
+*International Energy Agency (2011). ''[[Deploying Renewables 2011]]: Best and Future Policy Practice'', OECD. 
+*International Energy Agency (2011). ''[[Solar Energy Perspectives]]'', OECD. 
+*[[Amory B. Lovins|Lovins, Amory B.]] (2011). ''[[Reinventing Fire: Bold Business Solutions for the New Energy Era]]'', Chelsea Green Publishing, 334 pages. 
+*Makower, Joel, and Ron Pernick and Clint Wilder (2009). ''Clean Energy Trends 2009'', Clean Edge. 
+*National Renewable Energy Laboratory (2006). ''Non-technical Barriers to Solar Energy Use: Review of Recent Literature'', Technical Report, NREL/TP-520-40116, September, 30 pages. 
+*REN21 (2008). ''Renewables 2007 Global Status Report'', Paris: REN21 Secretariat, 51 pages. 
+*REN21 (2009). ''Renewables Global Status Report: 2009 Update'', Paris: REN21 Secretariat. 
+*REN21 (2010). ''Renewables 2010 Global Status Report'', Paris: REN21 Secretariat, 78 pages. 
+*United Nations Environment Programme and New Energy Finance Ltd. (2007). ''Global Trends in Sustainable Energy Investment 2007: Analysis of Trends and Issues in the Financing of Renewable Energy and Energy Efficiency in OECD and Developing Countries'', 52 pages. 
+*[[Worldwatch Institute]] and Center for American Progress (2006). ''American energy: The renewable path to energy security'', 40 pages. 
+</div> . 
+
+==External links==. 
+*[http://www.latimes.com/business/la-fi-leckey-20110828,0,2237159.story Investing: Green technology  has big growth potential], ''LA Times'', 2011
+*[http://www.iea.org/textbase/pm/grindex.aspx Global Renewable Energy: Policies and Measures]
+*[http://www.newsweek.com/id/137501 Missing the Market Meltdown]
+* [http://www.renewableenergyworld.com/rea/news/infocus/story?id=53684 Renewable Energy Tops 10% of U.S. Energy Production]
+*[http://www.renewableenergyworld.com/rea/news/article/2009/03/working-title-rewna-wrap-up Optimism Abounds Throughout Renewable Energy Industry]
+*[http://www.blm.gov/wo/st/en/prog/energy/renewable_energy/2012_priority_projects.html Bureau of Land Management 2012 Renewable Energy Priority Projects]
+</div> . 
+
+{{Renewable energy by country}}
+{{Wind power}}
+{{Hydropower}}
+{{Bioenergy}}
+{{Sustainability}}
+{{Good article}} . 
+
+{{DEFAULTSORT:Renewable Energy Commercialization}}
+[[Category:Energy development]]
+[[Category:Energy policy]]
+[[Category:Renewable energy commercialization| ]]
+[[Category:Low-carbon economy]]
+[[Category:Sustainability]]

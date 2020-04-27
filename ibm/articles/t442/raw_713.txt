@@ -1,0 +1,299 @@
+{{globalize|date=December 2010}} . 
+
+[[File:Sanfranciscocityclinicnight.jpeg|thumb|right|[[San Francisco City Clinic]], a STD testing center in [[San Francisco, California|San Francisco]].]] . 
+
+'''Sexual health clinics''' specialize in the prevention and treatment of [[sexually transmitted infections]].  . 
+
+Sexual health clinics provide only some [[reproductive health]] services. Few clinics perform [[abortion]]s or offer [[birth control]] other than [[condom]]s.  . 
+
+==Terminology== . 
+
+Sexual health clinics are also called ''[[Sexually transmitted disease]] (STD) clinics'', ''Sexually transmitted infection (STI) clinics'', ''Venereal disease (VD) clinics'', or ''[[Genitourinary medicine]] (GUM) clinics''.  . 
+
+Sexual health clinics differ from [[reproductive health]] and [[family planning]] clinics. Sexual health clinics offer only some reproductive health services. [[Reproductive health]] clinics, such as [[Planned Parenthood]], offer most of the services of sexual health clinics.  . 
+
+==Services== . 
+
+Sexual health clinics provide some or all of the following: . 
+
+*Information about [[safer sex]], [[birth control]], [[reproductive health]] and general [[sex education]]
+*[[Condom]]s
+*Sexual health [[#Examinations|examinations]]
+*[[STD testing|Tests]] to detect some [[sexually transmitted infection]]s
+*[[Antibiotic]]s to [[cure]] [[chlamydia infection|chlamydia]], [[gonorrhea]], and [[syphilis]]
+*[[Medication]]s and other [[Therapy|treatments]]
+*[[Vaccination]]s
+*Counseling and education
+*[[Emergency contraception]]
+*Referrals for additional information or services . 
+
+Many clinics provide vaccinations to prevent [[infection]]s from the [[hepatitis A]] and [[Hepatitis B virus|B]] [[Introduction to viruses|viruses]]. <ref>
+{{cite web
+ | url = http://digestive.niddk.nih.gov/ddiseases/pubs/hepb_ez/index.htm#7
+ | title = What I need to know about Hepatitis B - How can I protect myself?
+ | publisher = [[National Digestive Diseases Information Clearinghouse]]
+ | year = 2006
+ | month = December
+ | accessdate = 2008-09-28
+}}</ref>
+Young women may receive vaccinations to prevent infection from some strains of the [[HPV vaccine|human papillomavirus]] (HPV).  . 
+
+Many clinics provide [[interpreting]] for the hearing impaired or speakers of other languages.  . 
+
+Many clinics will help patients tell their sexual contacts if they have a sexually transmitted infection, anonymously if needed. <ref>
+{{cite web
+ | url = http://www.inspot.org/portal-about.aspx
+ | title = inSPOT - About this site
+ | quote = Notify everyone you've had sex with in the past six months. 
+ | publisher = Internet Sexuality Information Services
+ | accessdate = 2008-09-26
+}}</ref> . 
+
+Public governmental and [[non-profit]] clinics often provide services for free or adjust the fee based on a patient's ability to pay.  . 
+
+Sexual health clinics often offer services without appointments. Some clinics open evenings or weekends.  . 
+
+Some clinics have separate hours or facilities for men and women. Some clinics serve only specific populations such as women, men, [[Men who have sex with men|MSM]], [[youths]], [[LGBT]], ethnic groups, the poor, or students.  . 
+
+==Examinations==. 
+<!-- {{ main|Sexual health examination}} -->
+{{See also|intimate examination}} . 
+
+With the patient's [[informed consent|consent]], a [[wiktionary:clinician|clinician]] will inspect the patient visually and by touch. If needed, the clinician will take samples to [[STD test|test]] for [[sexually transmitted infection]]s.  . 
+
+In a private room or space, the patient will partially undress.  . 
+
+The clinician may inspect the patient's:
+*Throat and [[lymph node]]s of the neck for inflammation
+*[[Pubic hair]] for [[pubic lice|lice]]
+*[[Superficial inguinal lymph nodes|Lymph node]]s of the groin for swelling
+*Genitals, [[Human anus|anus]], and surrounding areas for sores and [[wart]]s . 
+
+The clinician may swab the patient's:
+*Throat to test for [[gonorrhea]] and possibly [[chlamydia infection|chlamydia]]
+*Cheek, inside, to test for [[HIV]]
+*Sores of the genitals, [[Human anus|anus]], and surrounding areas to test for [[herpes]]<ref>
+{{cite web
+ | url = http://www.ucsfhealth.org/adult/adam/data/003739.html
+ | work = [http://www.ucsfhealth.org/adult/adam/index.html Medical Tests]
+ | title = Herpes Viral Culture of Lesion
+ | publisher = [[UCSF Medical Center]]
+ | date = 2007-12-03
+ | accessdate = 2008-09-28
+}}</ref><ref>
+{{cite web
+ | url = http://www.ashastd.org/herpes/herpes_learn_testing.cfm
+ | title = Learn About Herpes > Testing
+ | publisher = [[American Social Health Association]]
+ | accessdate = 2008-09-28
+}}</ref>
+*[[Urethra]] to test for [[gonorrhea]] and possibly [[chlamydia infection|chlamydia]]
+*[[Vagina]] to test for [[chlamydia infection|chlamydia]] and possibly [[gonorrhea]]
+*[[Cervix]] to test for [[cervical intraepithelial neoplasia]] (a [[Pap test]])
+*[[Rectum]] to test for [[gonorrhea]] and possibly [[chlamydia infection|chlamydia]] . 
+
+The clinician may take small blood samples by [[finger prick|pricking a finger]] or from a [[Venipuncture|vein]]<ref>
+{{cite web
+ | url = http://labtestsonline.org/understanding/testtips/bloodtips.html
+ | title = Tips on Blood Testing
+ | publisher = [[American Association for Clinical Chemistry]]
+ | date =2001-08-27
+ | last = Pruett
+ | first = Saralyn
+ | coauthors = Daly, Myra; Kosiek, Joan; Flaherty, Richard
+ | accessdate = 2008-09-28
+}}</ref>
+to test for [[HIV]], [[syphilis]], and possibly [[herpes]]<ref>
+{{cite web
+ | url = http://www.ashastd.org/herpes/herpes_learn_testing.cfm#2
+ | title = Learn About Herpes > Testing - Introduction to blood tests
+ | publisher = [[American Social Health Association]]
+ | accessdate = 2008-09-28
+}}</ref>
+and [[hepatitis C]]. <ref>
+{{cite web
+ | url = http://www.ucsfhealth.org/adult/adam/data/003558.html
+ | work = [http://www.ucsfhealth.org/adult/adam/index.html Medical Tests]
+ | title = Hepatitis Virus Test or Panel
+ | publisher = [[UCSF Medical Center]]
+ | date = 2007-11-01
+ | accessdate = 2008-09-28
+}}</ref><ref>
+{{cite web
+ | url = http://www.ashastd.org/learn/learn_hepatitisC.cfm#5
+ | title = Hepatitis C (HCV) > Questions & Answers - Testing/Diagnosis
+ | publisher = [[American Social Health Association]]
+ | accessdate = 2008-09-28
+}}</ref><ref>
+{{cite web
+ | url = http://labtestsonline.org/understanding/analytes/hepatitis_c/glance.html
+ | title = Hepatitis C
+ | publisher = [[American Association for Clinical Chemistry]]
+ | date =2005-12-16
+ | accessdate = 2008-09-28
+}}</ref> . 
+
+The clinician may ask for a small [[urine]] sample, given in private, to test for [[chlamydia infection|chlamydia]] and possibly [[gonorrhea]].  . 
+
+The inspections and taking samples don't hurt, but swabbing the urethra and cervix, and a finger prick blood sample feel uncomfortable.  . 
+
+Women will often receive a [[pelvic exam]], both external and internal, but usually less thorough than a reproductive health exam.  . 
+
+A patient can choose a female or male clinician if available. 
+A patient can have a [[chaperone (clinical)|chaperone]]. 
+Some clinics have separate hours or facilities for men and women.  . 
+
+==Privacy==. 
+Sexual health clinics follow local standards of medical confidentiality to protect the privacy of patients. 
+Some clinics provide anonymous services or protect [[Wiktionary: confidential|confidentially]] by having a patient use a code name, a number, or a false name. <ref>
+{{cite web
+ | url = http://www.cuphd.org/stdclinic2.html
+ | title = What Happens When You Visit Our STD Clinic?
+ | accessdate = 2008-08-31
+ | publisher = Champaign-Urbana Public Health District
+ | quote = Show Your ID
+}}
+</ref> . 
+
+Additional privacy protections sometimes apply to matters of sexuality and reproduction, since these areas are sensitive in many cultures.  . 
+
+In the United States, clinics receiving federal funding from [[Medicaid]] or [[Title X]] of the [[Public Health Service Act]] must treat all patients confidentially. Thus minors can receive services without parental notification or consent. <ref>
+{{cite web
+ | url = http://www.reproductiverights.org/pub_fac_titlex.html
+ | title = Forced Parental Involvement Defeats the Goals of the Title X Program
+ | publisher = The [[Center for Reproductive Rights]]
+ | month = January
+ | year = 2004
+ | accessdate= 2008-09-02
+}}
+</ref><ref>
+{{cite web
+ | url= http://www.plannedparenthood.org/issues-action/birth-control/family-planning-6553.htm
+ | title= America's Family Planning Program: Title X
+ | accessdate= 2008-08-31
+ | last= Friedman
+ | first= Deborah
+ | date= 2007-06-12
+ | publisher = [[Planned Parenthood Federation of America]]
+|archiveurl = http://web.archive.org/web/20080430033247/http://www.plannedparenthood.org/issues-action/birth-control/family-planning-6553.htm <!-- Bot retrieved archive --> |archivedate = 2008-04-30}}
+</ref><ref>
+{{cite web
+ | url = http://www.nfprha.org/main/about_us.cfm?Category=Title_X
+ | title = History of Title X
+ | publisher = [[National Family Planning and Reproductive Health Association]]
+ | accessdate= 2008-08-31
+}}
+</ref> . 
+
+==Consent== . 
+
+Medical standards of [[informed consent]] apply to sexual health clinics. A patient needs information about the purposes and consequences of examinations, tests, treatments, and other procedures. A patient may then choose whether to consent to these procedures.  . 
+
+A [[Minor (law)|minor]] may consent to receive some or all of the procedures at many sexual health clinics.  . 
+
+== References ==. 
+{{Reflist}} . 
+
+== External links ==. 
+<!-- Dear Wikipedia editor, please read and contribute to the discussion before adding or deleting links. Thanks. --> . 
+
+<!-- ===World=== --> <!-- if other sources that cover more than one country get found -->
+*{{Cite web
+ | url = http://www.inspot.org/
+ | title = inSPOT
+ | quote = Find local testing resources
+ | publisher = Internet Sexuality Information Services
+ | accessdate= 2008-08-31
+}} . 
+
+===United States===. 
+<!-- Dear Wikipedia editor, please read and contribute to the discussion before adding or deleting links. Thanks. --> . 
+
+*{{Cite web
+ | url = http://www.hivtest.org/
+ | title = National HIV and STD Testing Resources
+ | quote = Find a Testing Site Near You
+ | publisher = [[Centers for Disease Control and Prevention]] (CDC)
+ | accessdate= 2008-08-31
+}}
+*{{Cite web
+ | url = http://www.plannedparenthood.org/health-center/findCenter.asp
+ | title = Health Center Search Results
+ | quote = Find a Health Center
+ | publisher = [[Planned Parenthood Federation of America]]
+ | accessdate= 2008-08-31
+}}
+*{{Cite web
+ | url = http://www.nfprha.org/main/about_us.cfm?Category=Member_Clinic_Directory
+ | title = Health Center Directory
+ | quote = Search for a health center near you
+ | publisher = National Family Planning &amp; Reproductive Health Association
+ | accessdate= 2008-08-31
+}} . 
+
+===United Kingdom===. 
+<!-- Dear Wikipedia editor, please read and contribute to the discussion before adding or deleting links. Thanks. --> . 
+
+*{{Cite web
+ | url = http://www.bashh.org/clinics
+ | title = BASHH Clinics
+ | quote = Find your nearest clinic
+ | publisher = British Association for Sexual Health and HIV
+ | accessdate= 2008-09-28
+}}
+*{{Cite web
+ | url = http://www.fpa.org.uk/Findaclinic
+ | title = Find a clinic
+ | publisher = [[Family Planning Association]]
+ | accessdate= 2008-09-28
+}}
+*{{Cite web
+ | url = http://www.tht.org.uk/howwecanhelpyou/clinics/
+ | title = Genito-urinary medicine (GUM) clinics
+ | quote = Find your nearest clinic
+ | publisher = [[Terrence Higgins Trust]]
+ | accessdate= 2008-09-28
+}} also {{cite web
+ | url = http://www.tht.org.uk/howwecanhelpyou/hivandstitesting/fastest/
+ | title = Fastest
+ | quote = Find your nearest Fastest centre
+ | publisher= [[Terrence Higgins Trust]]
+ | accessdate= 2008-09-28
+}}
+*{{Cite web
+ | url = http://www.multimap.com/clients/places.cgi?client=ruthink_01
+ | title = Find help in your area
+ | quote = Find your nearest STI clinic
+ | publisher = RU Thinking site?
+ | accessdate= 2008-09-28
+}}
+*{{Cite web
+ | url = http://www.brook.org.uk/content/M1_map.asp
+ | title = Go to Brook
+ | quote = Find a centre
+ | publisher = Brook Advisory Centres
+ | accessdate= 2008-09-28
+}}
+*{{Cite web
+ | url = http://www.nhs.uk/servicedirectories/Pages/ServiceSearchAdditional.aspx?ServiceType=SexualHealthService
+ | title = Find services - Sexual health
+ | publisher = [[National Health Service]]
+ | accessdate= 2008-09-26
+}} (England)
+*{{Cite web
+ | url = http://www.willynilly.org.uk/clinics.asp
+ | title = Clinic List
+ | quote = Contraception and Sexual Health Clinics
+ | publisher = Willy Nilly
+ | accessdate= 2008-09-26
+}} (Wales) . 
+
+{{Reproductive health}}
+{{STD/STI}} . 
+
+{{DEFAULTSORT:Sexual Health Clinic}}
+[[Category:Sexual health]]
+[[Category:Sexually transmitted diseases and infections]]
+[[Category:Gynaecology]]
+[[Category:Andrology]]
+[[Category:Urology]]

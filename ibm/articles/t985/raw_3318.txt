@@ -1,0 +1,54 @@
+{{about|the Western European system|"social market economy" promoted by social democrats in Nordic countries|Nordic model|the [[Economy of the People's Republic of China|economic system]] in the [[People's Republic of China]]|Socialist market economy}}
+{{Economic systems sidebar}}
+The '''social market economy''' (German: '''''Soziale Marktwirtschaft''''') is the main [[Economic system|economic model]] used in [[West Germany]] after [[World War II]]. It is based on the economic philosophy of [[Ordoliberalism]] from the [[Freiburg School]]. The economic-political instruments were implementated first by [[Ludwig Erhard]], Minister of Economics under [[Konrad Adenauer]]'s chancellorship (from 1949 to 1963) and [[Alfred Müller-Armack]], head of the policy department of the economic ministry.  . 
+
+==Model==. 
+The social market economy seeks a middle path between [[socialism]] and ''[[laissez-faire]]'' [[economic liberalism]] (i.e. a [[mixed economy]]), combining private enterprise with government [[regulation]] to establish fair competition, maintaining a balance between a high rate of [[economic growth]], low [[inflation]], low levels of [[unemployment]], good working conditions, [[social welfare]], and [[public services]], by using [[Economic interventionism|state intervention]]. <ref>Gabler Wirtschaftslexikon: [http://wirtschaftslexikon.gabler.de/Definition/soziale-marktwirtschaft.html Social market economy]</ref> The term "social" was chosen rather than "socialist" to distinguish the social market economy from a system in which the state directed economic activity and/or owned the means of production,<ref>http://countrystudies.us/germany/136.htm</ref> which are usually [[Private enterprise|privately-owned]] in the social market model.  . 
+
+In a social market economy, [[collective bargaining]] is often done on a national level not between one corporation and one union, but national employers' organizations and national trade unions.  . 
+
+Important figures in the development of the concept include [[Walter Eucken]], [[Wilhelm Röpke]], [[Alexander Rüstow]], [[Franz Böhm]], [[Franz Oppenheimer]], and [[Alfred Müller-Armack]], who originally coined the term ''Soziale Marktwirtschaft''. <ref>{{cite journal|author=Friedrich, Carl J.|year=1955|title=The Political Thought of Neo-Liberalism|journal=American Political Science Review|volume=49|issue=2|pages=509–525|doi=10.2307/1951819|jstor=1951819|publisher=American Political Science Association}}</ref> . 
+
+==History==. 
+At first controversial, the model became increasingly popular in West Germany and Austria, since in both states economic success (''[[Wirtschaftswunder]]'') was identified with it. From the 1960s, the social market economy was the main economic model in mainland Western Europe, pursued by administrations of both the [[centre-right]] (led by the [[Christian Democratic Union (Germany)|Christian Democratic Union]] - CDU & [[Christian Social Union of Bavaria]] - CSU) and the [[centre-left]] (led by the [[Social Democratic Party of Germany|Social Democratic Party]] - SPD). In early 1960s former [[SFR Yugoslavia|Yugoslavia]] adopted modified social market economy and after that had average GDP growth of 6.1% for 30 years until the 1980s.{{Citation needed|date=September 2011}}  . 
+
+The term "Social market economy" is still the common economic basis of most political parties in Germany<ref>Hamburg Programme of the SPD, page 24, http://www.parteitag.spd.de/servlet/PB/show/1734195/Hamburger%20Programm%20engl.pdf</ref><ref>CDU on 60 years of Social market economy, http://www.cdu.de/politikaz/wirtschaft.php</ref><ref>Wiesbaden Programme of the FDP, page 14, http://www.fdp.de/files/565/wiesbaden-declaration.pdf</ref> and a commitment to some form of social market economy was present in the [[Treaty establishing a Constitution for Europe|European Union Constitution]] (a project which was abandoned in 2005 following the negative outcomes of referenda in [[France]] and the [[Netherlands]]).  . 
+
+==Main Elements== . 
+
+The main elements of the Social Market Economy in Germany are:<ref>[http://www.romanherzoginstitut.de/uploads/tx_mspublication/Enste-Soziale_Marktwirtschaft_aus_ordnungspolitischer_Sicht.pdf Roman Herzog Institute: Social Market Economy in Germany] (german)</ref> . 
+
+* The Social Market Economy contains central elements of a free market economy such as ''private property'', ''free foreign trade'', ''exchange of goods'' and ''free formation of prices''.  . 
+
+* As a difference to the free market economy the state is not passive, but actively takes [[Regulation|regulative]] measures. <ref>[http://www.bpb.de/popup/popup_lemmata.html?guid=Y0VZ7J keyword "social market economy" = “Soziale Marktwirtschaft”] Duden Wirtschaft von A bis Z. Grundlagenwissen für Schule und Studium, Beruf und Alltag. 2. Aufl. Mannheim: Bibliographisches Institut & F.A. Brockhaus 2004. Lizenzausgabe Bonn: Bundeszentrale für politische Bildung 2004. </ref> Some elements, such as [[Pension#Germany|''pension insurance'']], [[Universal_health_care#Germany|''universal health care'']] and ''unemployment insurance'' are part of the social security system. These insurances are funded by a combination of employee contributions, employer contributions and government subsidies. The social policy objectives include employment, housing and education policies, as well as a socio-politically motivated balancing of the distribution of income growth. In addition, there are provisions to restrain the free market (e.g. anti-trust code, laws against the abuse of market power etc.). These elements help to diminish many of the occurring problems of a free market economy. <ref>Gabler Wirtschaftslexikon: [http://wirtschaftslexikon.gabler.de/Definition/soziale-marktwirtschaft.html Eintrag: keyword "social market economy" = Soziale Marktwirtschaft]</ref> . 
+
+==See also==. 
+*[[Capitalism]]
+*[[Socialism]]
+*[[Criticism of capitalism|Criticism of Capitalism]]
+*[[Criticisms of Socialism|Criticism of Socialism]]
+*[[Economic liberalism]]
+*[[Mixed economy]]
+*[[Welfare state]]
+*[[Ordoliberalism]]
+*[[Social Market Foundation]]
+*[[Social democracy]]
+*[[Rhine Capitalism]]
+*[[Socialist market economy]] . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+*[http://countrystudies.us/germany/136.htm The Social Market Economy] - U.S. Library of Congress
+*[http://tiss.zdv.uni-tuebingen.de/webroot/sp/spsba01_W98_1/germany1b.htm Essay on Germany's Social Market Economy]
+*[http://www.economist.com/research/Economics/alphabetic.cfm?LETTER=S#socialmarket Short Definition from the ''Economist''] . 
+
+{{DEFAULTSORT:Social Market Economy}}
+[[Category:Economic ideologies]]
+[[Category:Economic liberalism]]
+[[Category:Social democracy]]
+[[Category:Christian democracy]]
+[[Category:Economic history of Germany]]
+[[Category:Freiburg School]]
+[[Category:Mixed economies]]

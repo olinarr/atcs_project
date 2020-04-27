@@ -1,0 +1,238 @@
+{{refimprove|date=March 2009}}
+{{Infobox military unit
+| unit_name          = Soviet Atomic Bomb Project
+| image              = [[File:Andrei Sakharov and Igor Kurchatov.jpeg|300px]]
+| caption            = The fathers of the Soviet nuclear program, Dr. [[Andrei Sakharov]] (''left'') with Dr. [[Igor Kurchatov]] (''right''). 
+| dates              = 1940 - 1949
+| country            = {{flag|Soviet Union|1923}}
+| allegiance         =
+| branch             = [[File:Emblema NKVD.svg|22px]] [[NKVD]]
+| type               =
+| role               =
+| size               =
+| command_structure  =[[Ministry of Medium Machine Building (Soviet Union)|Ministry of Medium Machine Building]]
+| garrison           =[[Atomgrad]], [[Soviet Union]]<br>[[Semipalatinsk Test Site]]<br>[[Lake Chagan|Chagan Lake]]
+| nickname           =
+| patron             =
+| motto              =
+| colors             =
+| march              =
+| mascot             =
+| battles            =''[[Russian Alsos]]''<br>[[Eastern Front (World War II)|Eastern Front]]<br>[[Operation Barbarossa]]
+| anniversaries      =
+| decorations        =
+| battle_honors      =
+| disbanded          =
+<!-- Commanders -->
+| commander1         =
+| commander1_label   =
+| commander2         =
+| commander2_label   =
+| commander3         =
+| commander3_label   =
+| notable_commanders =[[Lavrentiy Beria]]
+<!-- Insignia -->
+| identification_symbol         =
+| identification_symbol_label   =
+| identification_symbol_2       =
+| identification_symbol_2_label =
+| identification_symbol_3       =
+| identification_symbol_3_label =
+| identification_symbol_4       =
+| identification_symbol_4_label =
+}}
+The '''Soviet project to develop an atomic bomb''' ([[Russian language|Russian:]] Создание советской атомной бомбы), was a clandestine [[research and development]] program began [[World war II|during]] and [[post-World War II]], in the wake of the [[Soviet Union]]'s discovery of the United States' [[Manhattan Project|nuclear project]]. This scientific research was directed by Soviet nuclear physicist [[Igor Kurchatov]], while the military logistics and intelligence efforts were undertaken and managed by NKVD director [[Lavrentiy Beria]]. The Soviet Union benefited from highly successful [[Nuclear espionage|espionage]] [[Soviet Atomic Spy Ring|efforts]] on the part of the [[GRU|Soviet military intelligence (GRU)]]. During the midst of World War II, the program was started by [[Joseph Stalin]] who received a letter from physicist [[Georgy Flyorov]] urging him to start the research, as Flyorov had long suspected that many of the [[Allies of World War II|Allied powers]] were already secretly advancing after the discovery of [[nuclear fission]] in 1939. However, because of the [[Operation Barbarossa|bloody and intensified war]] with [[Nazi Germany|Germany]] on the [[Eastern Front (World War II)|Eastern Front]], the large scale efforts prevented Soviets from developing the atomic bomb, but accelerated the program after the [[United States|American]] [[Atomic bombings of Hiroshima and Nagasaki|atomic bombings of Hiroshima and Nagaski]], thus putting an [[End of World War II in Europe|end to World War II]]. The Soviet atomic project was charged with gathering intelligence efforts on [[German nuclear energy project|German nuclear program]] as well as the American nuclear efforts. After the atomic raids on Japan and the subsequent [[Allied occupation of Japan|Japanese surrender]] in 1945, the Soviet Union expanded its research facilities, military reactors, and employed a number of scientists, including its [[atomic spies]] who successfully penetrated the American nuclear weapons efforts.  . 
+
+Through its successful ''[[Russian Alsos]]'' and the [[Soviet Atomic Spy Ring|atomic spy ring]], the Soviet Union's espionage ultimately led them to conduct the first test of its implosion-type nuclear device, codename [[RDS-1|''First Lightning'']] on 29 August 1949, at [[Semipalatinsk]], [[Kazakh SSR]]. With the success of this test, the Soviet Union became the second nation after the United States to have successfully developed and conducted nuclear tests.  . 
+
+== Nuclear physics in the Soviet Union ==. 
+In early 1930s, the Soviets were the instrumental contributors made to the advancement of nuclear physics and its related sciences, such as nuclear chemistry. The initial Soviet interest in nuclear physics had begun in the early 1930s through the [[Soviet Academy of Sciences]], an era in which a variety of important nuclear discoveries and achievements were made (the identification of the [[neutron]] and [[proton]] as fundamental particles, the operation of the first [[cyclotron]] to energies of over 1 [[MeV]], and the first splitting of the atomic nucleus by [[John Cockcroft]] and [[Ernest Walton]]). Even before the [[Russian Revolution|Russian revolution]] and the followed by the [[February Revolution]], the mineralogist [[Vladimir Ivanovich Vernadsky|Vladimir Vernadsky]] had made a number of public calls for a survey of Soviet Union's [[uranium]] deposits. The main motivation for nuclear research at the time was [[radium]], which had scientific as well as medical uses, and could be retrieved from borehole water from the [[Ukhta]] oilfields.  . 
+
+After the discovery of [[nuclear fission]] in the late 1930s, scientists in the Soviet Union, like scientists all over the world, realized that [[nuclear reaction]]s could, in theory, be used to release large amounts of [[binding energy]] from the [[atomic nucleus]] of uranium. As in the [[Western world|West]], the news of fission created great excitement amongst Soviet scientists and many physicists switched their lines of research to those involving nuclear physics in particular, as it was considered a promising field of research. Few scientists thought it would be possible to harness the power of nuclear energy for human purposes within the span of many decades. Soviet nuclear research was not far behind Western scientists: [[Yakov Frenkel]] did the first theoretical work on fission in the Soviet Union in 1940, and [[Georgii Flerov]] and [[Lev Rusinov]] concluded that 3±1 neutrons were emitted per fission only days after similar conclusions had been reached by the team of [[Frédéric Joliot-Curie]].  . 
+
+== Beginnings of the program ==. 
+Soviet physicist [[Georgy Flyorov]] noticed that in spite of the progress German, British and American physicists had made in research into uranium fission, scientific journals had ceased publishing papers on the topic. Flyorov deduced that this meant such research had been classified in the countries concerned, and wrote to Stalin in April 1942. He cited the lack of response he had himself encountered trying to generate interest in similar research, and warned Stalin of the consequences of the development of atomic weapons: "...the results will be so overriding [that] it won't be necessary to determine who is to blame for the fact that this work has been neglected in our country". By September 1942, Stalin, who had already been presented with evidence of the Western nuclear programs, decided to launch a Soviet program to develop an atomic bomb headed by [[Igor Kurchatov]].  . 
+
+In the wake of the [[Atomic bombings of Hiroshima and Nagasaki|atomic bombing]] of the [[Imperial Japan|Japanese]] cities of [[Hiroshima and Nagasaki]] and Japan's  [[Japanese surrender|surrender]], Stalin took the decision to accelerate research and development, expanding the development military nuclear reactors and research facilities all over the country.  . 
+
+== Administration and personnel == . 
+
+Initially in 1940, the administration of this program was given to the [[Ministry of Foreign Affairs (Soviet Union)|Soviet Ministry of Foreign Affairs]] with [[Foreign Minister of Russia|Foreign Minister]] [[Vyacheslav Molotov]] as being its first administrator. Stalin and Molotov tasked the [[USSR Academy of Sciences]] to find a science administrator notable for leading the research in nuclear physics. [[Abram Fedorovich Ioffe]] recommended [[Igor Kurchatov]] to Molotov, and Molotov advised Stalin to appoint Kurchatov as the formal scientific head of the nascent Soviet nuclear weapons programme. Other important figures included [[Yuli Khariton]], [[Yakov Zeldovich]], Georgii Flyorov, Abram Fedorovich Ioffe, and the future [[dissident]] and lead theoretical designer of the [[hydrogen bomb]], [[Andrei Sakharov]].  . 
+
+But, by the 1944, the Soviet Foreign Affairs Ministry and Foreign Minister Molotov as well proved to be an incapable and politically weak administrator for running this large magnitude project. Soon, the program suffered a major setback under Molotov who lost the focus of this program because of the war with Germany. In 1944, Stalin handed over the program to [[People's Commissariat for Internal Affairs]] (NKVD) and Molotov was replaced by ruthless [[Lavrentii Beria]], Chief of NKVD, in 1944. As ruthless and dangerous Beria was, the NKVD aided [[atomic spies]] operated under the administrative [[Soviet Atomic Spy Ring|ring]], directly reported to Beria. Beria also [[Russian Alsos|infiltrated and ruthlessly penetrated]] the [[German nuclear program]], with many notable figures in German nuclear program were forcefully taken to Soviet Union where the German figures greatly enhanced the Soviet nuclear weapons efforts.  . 
+
+== Espionage ==. 
+The Soviet atomic project benefited from highly successful espionage efforts on the part of the [[Glavnoye Razvedyvatel'noye Upravleniye|''Glavnoye Razvedyvatel'noye Upravleniye'' (GRU)]] as well as the foreign intelligence department of the [[NKVD|''Narodnyy komissariat vnutrennikh del'' (NKVD)]]. Evidence from intelligence sources in the United Kingdom had a role to play in the decision of the Soviet State Defense Council ([[State Defense Committee|''Gosudarstvennyj komitet oborony'' (GKO)]]), in September 1942, to approve resolution 2352, which signaled the beginning of the Soviet atom bomb project.  . 
+
+Through sources in the [[Manhattan Project]], notably [[Klaus Fuchs]], the Soviet intelligence obtained important information on the progress of the [[United States atomic bomb project|United States atomic bomb effort]]. Intelligence reports were shown to the head of the Soviet atomic project director Igor Kurchatov and had a significant impact on the direction of his own team's research.  . 
+
+For example, Soviet work on methods of uranium isotope separation was altered when it transpired, to Kurchatov's surprise, that the Americans had opted for the [[Gaseous diffusion|Gaseous diffusion method]]. Whilst research on other separation methods continued throughout the war years, the emphasis was placed on replicating U.S. success with gaseous diffusion. Another important breakthrough, attributed to intelligence, was the possibility of using plutonium, instead of uranium, in a fission weapon. Extraction of plutonium in the so-called "uranium pile" allowed the bypass of the difficult process of uranium separation altogether&nbsp;— something that Kurchatov had learned from intelligence from the Manhattan project.  . 
+
+In 1945, the Soviet intelligence obtained rough "blueprints" of the first U.S. atomic device, which may have contributed to the Soviet bomb project. Scholar Alexei Kojevnikov has estimated, based on newly released Soviet documents, that the primary way in which the espionage may have sped up the Soviet project was that it allowed Khariton to avoid dangerous tests to determine the size of the critical mass: "tickling the dragon's tail", as it was called in the U.S., consumed a good deal of time and claimed at least two lives; see [[Harry K. Daghlian, Jr.]] and [[Louis Slotin]].  . 
+
+One of the key pieces of information, which Soviet intelligence obtained from Fuchs, was a cross-section for [[Nuclear fusion|D-T fusion]]. This data was available to top Soviet officials roughly three years before it was openly published in the Physical Review in 1949. However, this data was not forwarded to [[Vitaly Ginzburg]] or [[Andrei Sakharov]] until very late, practically months before publication. Initially both Ginzburg and Sakharov, while working on the Sloika design, estimated such a cross-section to be similar to the D-D reaction. Once the actual cross-section become known to Ginzburg and Sakharov, the Sloika design become a priority, which resulted in successful test in 1953.  . 
+
+In the 1990s, with the declassification of Soviet intelligence materials, which showed the extent and the type of the information obtained by the Soviets from US sources, a heated debate ensued in Russia and abroad as to the relative importance of espionage, as opposed to the Soviet scientists' own efforts, in the making of the Soviet bomb. The vast majority of scholars agree that whereas the Soviet atomic project was first and foremost a product of local expertise and scientific talent, it is clear that espionage efforts contributed to the project in various ways and most certainly shortened the time needed to develop the atomic bomb.  . 
+
+Comparing the timelines of H-bomb development, some researchers came to a conclusion that Soviets had a gap in access to classified information regarding the H-bomb at least between late 1950 and some time in 1953. Earlier, e.g. in 1948, Fuchs gave to the Soviets a detailed update of the classical super progress, including an idea to use lithium, but did not specify it was specifically lithium-6. Teller accepted the fact that "classical super" scheme was infeasible by 1951, following results obtained by various researches (including [[Stanislaw Ulam]]) and calculations performed by [[John von Neumann]] in late 1950.  . 
+
+Yet the research for the Soviet analogue of "classical super" continued until December 1953, when the researchers were reallocated to a new project working on what later became a true H-bomb design, based on radiation implosion. It remains an open topic for research, whether the Soviet intelligence was able to obtain any specific data on Teller-Ulam design in 1953 or early 1954. Yet, Soviet officials directed the scientists to work on a new scheme, and the entire process took less than two years, commencing around January 1954 and producing a successful test in November 1955. It also took just several months before the idea of radiation implosion was conceived, and there is no documented evidence claiming priority. It is also possible that Soviets were able to obtain a document lost by [[John Archibald Wheeler|John Wheeler]] on a train in 1953, which reportedly contained key information about thermonuclear weapon design.  . 
+
+== Logistical problems the Soviets faced ==. 
+The single largest problem during the early Soviet project was the procurement of [[uranium]] ore, as the USSR had no known domestic sources at the beginning of the project. The Soviet [[F-1 (nuclear reactor)|F-1]] reactor, which began operation in December 1946, was fueled using uranium confiscated from the remains of the [[German atomic bomb project]]. This uranium had been mined in the [[Belgian Congo]], and had fallen into the hands of the Germans after their [[Battle of Belgium|invasion and occupation of Belgium]] in 1940. Further sources of uranium in the early years of the program were mines in East Germany ([[SDAG Wismut|SAG Wismut]]), Czechoslovakia, Bulgaria, Romania (near Stei) and Poland. Eventually large domestic sources were discovered.  . 
+
+The uranium for the Soviet nuclear weapons program came from the following countries in the years 1945 to 1950 (mine production only):
+* 1945: Soviet Union: 14.6 [[Tonne|t]]
+* 1946: Soviet Union: 50.0 t; [[East Germany|Germany]]: 15 t; [[Czechoslovak Socialist Republic|Czechoslovakia]]: 18 t; [[People's Republic of Bulgaria|Bulgaria]]: 26.6 t
+* 1947: Soviet Union: 129.3 t; Germany: 150 t; Czechoslovakia: 49.1 t; Bulgaria: 7.6 t; [[People's Republic of Poland|Poland]]: 2.3 t
+* 1948: Soviet Union: 182.5 t; Germany: 321.2 t; Czechoslovakia: 103.2 t; Bulgaria: 18.2 t; Poland: 9.3 t
+* 1949: Soviet Union: 278.6 t; Germany: 767.8 t; Czechoslovakia: 147.3 t; Bulgaria: 30.3 t; Poland: 43.3 t
+* 1950: Soviet Union: 416.9 t; Germany: 1,224 t; Czechoslovakia: 281.4 t; Bulgaria: 70.9 t; Poland: 63.6 t<ref name="chronik">Chronik der Wismut, Wismut GmbH 1999</ref> . 
+
+== Important Soviet nuclear tests ==. 
+[[File:Joe one.jpg|right|thumb|200px|[[RDS-1]], the first Soviet [[atomic test]].]] . 
+
+=== [[RDS-1]] ===. 
+The first Soviet [[atomic test]] was ''[[First Lightning]]'' (''Первая молния'', or Pervaya Molniya) August 29, 1949, and was code-named by the [[United States|Americans]] as ''Joe 1''.  The design was very similar to the first US "Fat Man" plutonium bomb, using a TNT/hexogen implosion lens design.  . 
+
+=== [[RDS-2]] ===. 
+On September 24, 1951, a 38.3 kiloton device was tested based on tritium "[[Boosted fission weapon|boosted]]" uranium implosion device (not a shot-gun design like the US "[[Little Boy]]" bomb) with a levitated core. <ref>Andryushin et al, "Taming the Nucleus"</ref>  This test was code named Joe-2 by American analysts.  . 
+
+=== [[RDS-3]] ===. 
+[[File:Soviet super test.jpg|right|thumb|250px|The mushroom cloud from the first air-dropped bomb test in 1951. This picture is confused with [[RDS-27]] and [[RDS-37]] tests.]] . 
+
+On October 18, 1951, a 41.2 kiloton device was detonated, a boosted weapon using a composite construction of levitated [[plutonium core]] and a [[uranium-235]] shell.  Code named Joe-3 in the USA, this was the first Soviet air-dropped bomb test.  Released at an altitude of 10&nbsp;km, it detonated 400 meters above the ground.  . 
+
+=== [[RDS-4]] ===. 
+RDS-4 represented a branch of research on small tactical weapons.  It was a [[boosted fission weapon|boosted fission device]] using plutonium in a "levitated" core design.  The first test was an air drop on August 23, 1953, yielding 28 kilotons.  The RDS-4 comprised the warhead of the R-5M [[medium-range ballistic missile]], which was tested with a live warhead for the first and only time on February 2, 1956.  The RDS-5 was a similar levitated core design but with a composite plutonium core and uranium 235 shell.  . 
+
+=== [[RDS-6]] ===. 
+The first Soviet test of a [[hydrogen bomb]] was on August 12, 1953 and was nicknamed ''Joe 4'' by the Americans.  It used a layer-cake design of fission and fusion fuels (uranium 235 and lithium-6 deuteride) and produced a yield of 400 kilotons, mostly from neutron-initiated fission rather than fusion.  . 
+
+=== [[RDS-9]] ===. 
+A much lower-power version of the RDS-4, with a 3-10 kiloton yield (the RDS-9) was developed for the T-5 [[nuclear torpedo]].  A 3.5 kiloton underwater test was performed with the torpedo on September 21, 1955.  . 
+
+=== [[RDS-37]] === . 
+
+The first Soviet test of a "true" hydrogen bomb in the megaton range was on November 22, 1955. It was dubbed ''[[RDS-37]]'' by the Soviets. It was of the multi-staged, [[radiation implosion]] thermonuclear design called ''Sakharov's "Third Idea"'' in the USSR and the [[Teller-Ulam]] design in the USA,<ref>http://www.johnstonsarchive.net/nuclear/tests/1955USSR-1.html</ref> . 
+
+<!-- Deleted image removed: [[File:Rsd 37 nuclear test.JPG|left|thumb|250px|A color image of [[RDS-37]].]] -->
+Joe 1, Joe 4, and RDS-37 were all tested at the [[Semipalatinsk Test Site]] in [[Kazakhstan]].  . 
+
+=== [[Tsar Bomba]] ===. 
+[[File:Tsar photo11.jpg|thumb|Tsar Bomba mushroom cloud.]] . 
+
+The [[Tsar Bomba]] (Царь-бомба) was the largest, most powerful nuclear weapon ever detonated. It was a three-stage [[Teller-Ulam design|hydrogen bomb]] with a [[Nuclear weapon yield|yield]] of about 50 [[TNT equivalent|megatons]]. <ref>The yield of the test has been estimated between 50 and 57.23 megatons by different sources over time. Today all Russian sources use 50 megatons as the [[official figure]]. See the section "Was it 50 Megatons or 57?" at {{cite web|url=http://www.nuclearweaponarchive.org/Russia/TsarBomba.html|title=The Tsar Bomba ("King of Bombs")|accessdate=11-05-2006}}</ref> This is equivalent to ten times the amount of all the explosives used in World War II combined. <ref>DeGroot, Gerard J. ''The Bomb: A Life''. Cambridge, Massachusetts: Harvard University Press, 2005. p. 254. </ref> It was detonated on October 30, 1961, in the [[Novaya Zemlya]] [[archipelago]], and was capable of approximately 100 [[megatons]], but was purposely reduced shortly before the launch. Although [[weapon]]ized, it was not entered into service; it was simply a demonstrative testing on the capabilities of the Soviet Union's military technology at that time. The explosion was hot enough to induce [[third degree burn]]s at 100&nbsp;km distance. <ref name="NWA-Tsar_Bomba">{{cite web|url=http://www.nuclearweaponarchive.org/Russia/TsarBomba.html|title=The Soviet Weapons Program&nbsp;— The Tsar Bomba|date=Last updated 3 September 2007|work=NuclearWeaponArchive.org|publisher=The Nuclear Weapon Archive|accessdate=23 August 2010}}</ref> . 
+
+=== [[Chagan (nuclear test)|Chagan]] === . 
+
+[[Chagan (nuclear test)|Chagan]] was shot in the [[Nuclear Explosions for the National Economy]] or Project 7, the Soviet equivalent of the US ''[[Operation Plowshare]]'' to investigate [[Peaceful nuclear explosions|peaceful uses of nuclear weapons]]. It was a subsurface detonation, and was fired on January 15, 1965. The site was a dry bed of the [[Chagan River]] at the edge of the [[Semipalatinsk Test Site]], and was chosen such that the lip of the crater would dam the river during its high spring flow. The resultant crater had a diameter of 408 meters and was 100 meters deep. A major lake (10,000,000 m³) soon formed behind the 20–35 m high upraised lip, known as ''[[Chagan Lake (Kazakhstan)|Chagan Lake]]'' or ''Balapan Lake''. {{Citation needed|date=March 2008}} . 
+
+The photo is sometimes confused with [[RDS-1]] in literature.  . 
+
+== Secret cities == . 
+
+{{Main|Atomgrads}}
+During the Cold War the Soviet Union created at least ten [[closed city|closed cities]], known as [[Atomgrads]]{{Citation needed|date=August 2008}}, in which nuclear weapons-related research and development took place. After the dissolution of the Soviet Union, all of the cities changed their names (most of the original code-names were simply the [[oblast]] and a number). All are still legally "closed", though some have parts of them accessible to foreign visitors with special permits (Sarov, Snezhinsk, and Zheleznogorsk).  . 
+
+{| class="wikitable"
+. |-
+! Cold War name
+! Current name
+! Established
+! Primary function(s)
+. |-
+| Arzamas-16
+| [[Sarov]]
+| 1946
+| Weapons design and research, warhead assembly
+. |-
+| Sverdlovsk-44
+| [[Novouralsk]]
+| 1946
+| Uranium enrichment
+. |-
+| Chelyabinsk-40 and later 65
+| [[Ozyorsk, Chelyabinsk Oblast|Ozyorsk]]
+| 1947
+| Plutonium production, component manufacturing
+. |-
+| Sverdlovsk-45
+| [[Lesnoy, Sverdlovsk Oblast|Lesnoy]]
+| 1947
+| Uranium enrichment, warhead assembly
+. |-
+| Tomsk-7
+| [[Seversk]]
+| 1949
+| Uranium enrichment, component manufacturing
+. |-
+| Krasnoyarsk-26
+| [[Zheleznogorsk, Krasnoyarsk Krai|Zheleznogorsk]]
+| 1950
+| Plutonium production
+. |-
+| Zlatoust-36
+| [[Tryokhgorny]]
+| 1952
+| Warhead assembly
+. |-
+| Penza-19
+| [[Zarechny, Sverdlovsk Oblast|Zarechny]]
+| 1955
+| Warhead assembly
+. |-
+| Krasnoyarsk-45
+| [[Zelenogorsk, Krasnoyarsk Krai|Zelenogorsk]]
+| 1956
+| Uranium enrichment
+. |-
+| Chelyabinsk-70
+| [[Snezhinsk]]
+| 1957
+| Weapons design and research
+|} . 
+
+== See also ==. 
+* [[Andrei Sakharov]]
+* [[Igor Kurchatov]]
+* [[Arzamas-16]]
+* [[Chelyabinsk-70]]
+* [[History of nuclear weapons]]
+* [[History of the Soviet Union (1927-1953)]]
+* [[Manhattan Project]]
+* [[Military history of the Soviet Union]]
+* [[Nuclear warfare]]
+* [[Nuclear weapon]]
+* [[Tsar Bomba]]
+* [[Semipalatinsk Test Site]]
+* [[Yuli Khariton]]
+* [[Yakov Zeldovich]]
+* [[Pavel Sudoplatov]]
+* [[Klaus Fuchs]]
+* [[Russian Alsos]]
+* [[Project-706]] . 
+
+== References ==. 
+<references /> . 
+
+=== Bibliography ===. 
+* David Holloway, ''Stalin and the Bomb: The Soviet Union and Atomic Energy 1939-1956'' (Yale University Press, 1994), ISBN 0-300-06056-4
+* [[Richard Rhodes]], ''Dark Sun: The Making of the Hydrogen Bomb'' (Simon and Schuster, 1995), ISBN 0-684-80400-X
+* Alexei Kojevnikov, ''Stalin's Great Science: The Times and Adventures of Soviet Physicists'' (Imperial College Press, 2004), ISBN 1-86094-420-5 . 
+
+== External links ==. 
+* [http://www.wilsoncenter.org/index.cfm?topic_id=1409&fuseaction=va2.browse&sort=Collection The CWIHP at the Wilson Center for Scholars: A Collection of Primary Documents on Soviet Nuclear Development]
+* Video archive of [http://sonicbomb.com/modules.php?name=Content&pa=showpage&pid=110 '''Soviet Nuclear Testing'''] at [http://www.sonicbomb.com sonicbomb.com]
+* [http://www.kiae.ru/ Kurchatov institute - official website]
+* [http://www.pbs.org/opb/citizenk/ PBS.org on Kurchatov]
+* [http://nuclearweaponarchive.org/Russia/index.html Soviet and Nuclear Weapons History]
+* [http://en.vniief.ru/VNIIEF/museum/ Russian Nuclear Weapons Museum] (''in English'')
+* [http://npc.sarov.ru/issues/volume1/illustrations.html Images of Soviet bombs] (''in Russian'')&nbsp;— RDS-1, RDS-6, Tsar Bomba, and an ICBM warhead
+* [http://www.atomicarchive.com/History/coldwar/index.shtml Cold War: A Brief History]
+* [http://alsos.wlu.edu/qsearch.aspx?browse=warfare/Russian+Nuclear+Weapons+Program Annotated bibliography on the Russian nuclear weapons program from the Alsos Digital Library]
+{{Soviet Atomic Bomb Project}} . 
+
+{{DEFAULTSORT:Soviet Atomic Bomb Project}}
+[[Category:Nuclear weapons program of the Soviet Union]]
+[[Category:Cold War history of the Soviet Union]]

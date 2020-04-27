@@ -1,0 +1,78 @@
+{{refimprove|date=December 2011}}
+{{Infobox SCOTUS case
+  | Litigants               = Schenck v. United States
+  | ArgueDateA              = January 9
+  | ArgueDateB              = 10
+  | ArgueYear               = 1919
+  | DecideDate              = March 3
+  | DecideYear              = 1919
+  | FullName                = Charles T. Schenck v. United States
+  | USVol                   = 249
+  | USPage                  = 47
+  | Citation                = 63 L. Ed. 470; 1919 U.S. LEXIS 2223; 17 Ohio L. Rep. 26; 17 Ohio L. Rep. 149
+  | Prior                   = Defendants convicted, [[United States District Court for the Eastern District of Pennsylvania|E.D. Pa.]]; motion for new trial denied, 253 [[Federal Reporter|F.]] 212 (E.D. Pa. 1918)
+  | Subsequent              = None
+  | Holding                 = Defendant's criticism of the draft was not protected by the First Amendment, because it created a clear and present danger to the enlistment and recruiting practices of the U.S. armed forces during a state of war. 
+  | SCOTUS                  = 1916-1921
+  | Majority                = Holmes
+  | JoinMajority            = ''unanimous''
+  | LawsApplied             = {{usc|50|33}}
+}} . 
+
+'''''Schenck v. United States''''', {{ussc|249|47|1919}}, was a [[Supreme Court of the United States|United States Supreme Court]] decision that upheld the [[Espionage Act of 1917]] and concluded that a defendant did not have a [[First Amendment to the United States Constitution|First Amendment]] right to express [[freedom of speech]] against the [[Conscription|draft]] during [[World War I]]. Ultimately, the case established the "[[clear and present danger]]" test, which lasted until 1969 when protection for speech was raised in ''[[Brandenburg v. Ohio]]'' to "[[Imminent lawless action]]".  . 
+
+==Background of the case==. 
+Charles Schenck was the Secretary of the [[Socialist Party of America]] and was responsible for printing, distributing, and mailing to prospective [[Conscription in the United States|military draftees]] during World War I, including 15,000 leaflets that advocated opposition to the draft.  These leaflets contained statements such as; "Do not submit to intimidation", "Assert your rights", "If you do not assert and support your rights, you are helping to deny or disparage rights which it is the solemn duty of all citizens and residents of the United States to retain," on the grounds that military conscription constituted [[involuntary servitude]], which is prohibited by the [[Thirteenth Amendment of the United States Constitution|Thirteenth Amendment]].  . 
+
+For these acts, Schenck was indicted and convicted of violating the [[Espionage Act of 1917]].  Schenck appealed to the [[United States Supreme Court]], arguing that the court decision violated his [[First Amendment of the United States Constitution|First Amendment]] rights.  . 
+
+==The Court's decision==. 
+The Court, in a unanimous opinion written by Justice [[Oliver Wendell Holmes, Jr.]], held that Schenck's criminal conviction was constitutional. The First Amendment did not protect speech encouraging insubordination, since, "when a nation is at war, many things that might be said in time of peace are such a hindrance to its effort that their utterance will not be endured so long as men fight, and that no Court could regard them as protected by any constitutional right."<ref>{{cite web|last=Holmes|first=Oliver Wendell|title=Schenck v. United States 249 U.S. 47|url=http://www.law.cornell.edu/supct/html/historics/USSC_CR_0249_0047_ZO.html|work=Opinion|publisher=Legal Information Institute|accessdate=23 February 2012}}</ref>  In other words, the court held, the circumstances of wartime permit greater restrictions on free speech than would be allowable during peacetime.  . 
+
+In the opinion's most famous passage, Justice Holmes sets out the "[[clear and present danger]]" test: . 
+
+:''The most stringent protection of [[freedom of speech|free speech]] would not protect a man in falsely shouting fire in a theatre and causing a panic. [...] The question in every case is whether the words used are used in such circumstances and are of such a nature as to create a [[clear and present danger]] that they will bring about the substantive evils that [[United States Congress|Congress]] has a right to prevent.''<ref>{{cite web|last=Holmes|first=Oliver Wendell|title=Schenck v. United States 249 U.S. 47|url=http://www.law.cornell.edu/supct/html/historics/USSC_CR_0249_0047_ZO.html|work=Opinion|publisher=Legal Information Institute|accessdate=23 February 2012}}</ref> . 
+
+The phrase "[[shouting fire in a crowded theater]]" was also paraphrased from this portion of the Court's opinion.  . 
+
+Charles Schenck consequently spent six months in prison.  . 
+
+==Subsequent jurisprudence==. 
+The "clear and present danger" test was later weakened when the less restrictive "[[bad tendency (legal)|bad tendency]]" test was adopted in ''[[Whitney v. California]]'' (1927). Justices Holmes and [[Louis D. Brandeis|Brandeis]] shied from this test, but concurred with the final result.  Some contend that the "clear and present danger" test was originally just a re-phrasing of the "bad tendency" test.  After the repression following the Red Scare, and general disillusion with the war, Holmes sought to prop up free speech with the "clear and present danger" test, a standard intended to clarify and narrow the circumstances in which speech could be restricted.  This view has merit considering Holmes never referred to "clear and present danger" in the companion cases of ''[[Frohwerk v. United States]]'' and ''[[Debs v. United States]]''.  . 
+
+Both of these cases were later narrowed by ''[[Brandenburg v. Ohio]]'' (1969), which replaced the "bad tendency" test with the "[[imminent lawless action]]" test.  . 
+
+==See also==. 
+*''[[Masses Publishing Co. v. Patten]]'', 244 F. 535 ([[United States District Court for the Southern District of New York|S.D.N.Y.]] 1917)
+*''[[Abrams v. United States]]'', {{ussc|250|616|1919}}
+*''[[Debs v. United States]]'', {{ussc|249|211|1919}}
+*''[[Whitney v. California]]'', {{ussc|274|357|1927}}
+*''[[Dennis v. United States]]'', {{ussc|341|494|1951}}
+*''[[Brandenburg v. Ohio]]'', {{ussc|395|444|1969}} . 
+
+==Further reading==. 
+*{{Cite journal |last=Kessler |first=Mark |authorlink= |coauthors= |year=1993 |month= |title=Legal Discourse and Political Intolerance: The Ideology of Clear and Present Danger |journal=Law & Society Review |volume=27 |issue=3 |pages=559–598 |doi=10.2307/3054105 |jstor= 3054105|publisher=Law &#38;amp; Society Review, Vol. 27, No. 3 }}
+*{{Cite book |chapter=Schenck v. United States and Abrams v. United States |last=Smith |first=Stephen A. |title=Free Speech on Trial: Communication Perspectives on Landmark Supreme Court Decisions |editor=Parker, Richard A. (ed.) |year=2003 |publisher=University of Alabama Press |location=Tuscaloosa, AL |isbn=0-8173-1301-X |pages=20–35 }} . 
+
+==References==. 
+{{Reflist}} . 
+
+==External links==. 
+*{{Wikisource-inline|Schenck v. United States}}
+*{{Caselaw source
+ |case=''Schenck v. United States'', 249 U.S. 47 (1919)
+ |findlaw=http://laws.findlaw.com/us/249/47.html
+ |justia=http://supreme.justia.com/us/249/47/case.html
+ |other_source1=LII
+ |other_url1=http://www.law.cornell.edu/supct-cgi/get-us-cite?249+47
+}}
+*[http://www.firstamendmentcenter.org/faclibrary/case.aspx?case=Schenck_v_US First Amendment Library entry for ''Schenck v. United States'']
+*[http://www.reachandteach.com/content/staticpages/index.php?page=nytschenck New York Times article on decision (3/4/1919)] . 
+
+{{US1stAmendment|speech|state=expanded}} . 
+
+{{DEFAULTSORT:Schenck V. United States}}
+[[Category:United States Supreme Court cases]]
+[[Category:United States free speech case law]]
+[[Category:Conscription in the United States]]
+[[Category:1919 in United States case law]]

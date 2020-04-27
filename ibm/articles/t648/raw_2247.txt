@@ -1,0 +1,240 @@
+[[Image:Creation of the Sun and Moon face detail.jpg|thumb|Detail of [[Sistine Chapel]] fresco ''Creation of the Sun and Moon'' by [[Michelangelo]] (c. 1512), a well known example of the depiction of [[God the Father in Western art]]]]
+{{about|the term "God" in the context of monotheism and [[henotheism]]|the general polytheistic concept|Deity|God in the context of specific religions|:Special:PrefixIndex/God in{{!}}an index of pages beginning in "God in"|the Arabic version of this concept|Allah|other uses|God (disambiguation)}}
+{{pp-semi-indef}}{{pp-move-indef}}
+{{god}}
+'''God''' is the [[English language|English]] [[Names of God|name]] given to a singular [[being]] in [[theism|theistic]] and [[deism|deistic]] religions (and other [[belief|belief system]]s) who is either the ''sole'' [[deity]] in [[monotheism]], or a ''single'' deity in [[polytheism]]. <ref name=Swinburne>[[Richard Swinburne|Swinburne, R.G.]] "God" in [[Ted Honderich|Honderich, Ted]]. (ed)''The Oxford Companion to Philosophy'', [[Oxford University Press]], 1995. </ref>  . 
+
+God is most often conceived of as the [[supernatural]] [[creator deity|creator]] and overseer of the universe. [[Theology|Theologians]] have ascribed a variety of attributes to the many different [[conceptions of God]]. The most common among these include [[omniscience]] (infinite knowledge), [[omnipotence]] (unlimited power), [[omnipresence]] (present everywhere), [[omnibenevolence]] (perfect goodness), [[divine simplicity]], and eternal and necessary existence.  . 
+
+God has also been conceived as being [[Incorporeality|incorporeal]] (immaterial), a [[personal god|personal]] being, the source of all [[moral obligation]], and the "greatest conceivable existent". <ref name=Swinburne/> These attributes were all supported to varying degrees by the early [[Judaism|Jewish]], [[Christianity|Christian]] and [[Islam|Muslim]] theologian philosophers, including [[Maimonides]],<ref name=Edwards /> [[Augustine of Hippo]],<ref name=Edwards>[[Paul Edwards (philosopher)|Edwards, Paul]]. "God and the philosophers" in [[Ted Honderich|Honderich, Ted]]. (ed)''The Oxford Companion to Philosophy'', [[Oxford University Press]], 1995. </ref> and [[Al-Ghazali]],<ref name=Platinga>[[Alvin Plantinga|Platinga, Alvin]]. "God, Arguments for the Existence of," ''Routledge Encyclopedia of Philosophy'', Routledge, 2000. </ref> respectively. Many notable [[medieval philosophy|medieval philosophers]] and [[modern philosophy|modern philosophers]] have developed arguments for the [[existence of God]]<ref name="Platinga" /> and in [[modernity]] against.  . 
+
+== Etymology and usage ==. 
+{{Main|God (word)}}
+The earliest written form of the Germanic word ''God'' comes from the 6th century [[Christianity|Christian]] [[Codex Argenteus]]. The English word itself is derived from the [[Proto-Germanic]] * ''ǥuđan''. Most linguists agree that the reconstructed [[Proto-Indo-European language|Proto-Indo-European]] form {{PIE|* ǵhu-tó-m}} was based on the root {{PIE|* ǵhau(ə)-}}, which meant either "to call" or "to invoke". <ref>The ulterior etymology is disputed. Apart from the unlikely hypothesis of adoption from a foreign tongue, the OTeut. "ghuba" implies as its preTeut-type either "*ghodho-m" or "*ghodto-m". The former does not appear to admit of explanation; but the latter would represent the neut. pple. of a root "gheu-". There are two Aryan roots of the required form ("*g,heu-" with palatal aspirate) one with meaning 'to invoke' (Skr. "hu") the other 'to pour, to offer sacrifice' (Skr "hu", Gr. χεηi;ν, OE "geot&agrave;n" Yete v). [[Oxford English Dictionary|OED Compact Edition, G, p. 267]]</ref> The Germanic words for ''God'' were originally [[Grammatical gender|neuter]]—applying to both genders—but during the process of the [[Christianization]] of the [[Germanic people]]s from their indigenous [[Germanic paganism]], the word became a [[Grammatical gender|masculine syntactic form]]. <ref name=BARNHART323>Barnhart, Robert K (1995). ''The Barnhart Concise Dictionary of Etymology: the Origins of American English Words'', page 323. [[HarperCollins]]. ISBN 0-06-270094-7{{Please check ISBN|reason=Check digit (7) deos not correspond to calculated 4.}}</ref> . 
+
+In the [[English language]], the capitalized form of ''God'' continues to represent a distinction between monotheistic "God" and "gods" in [[polytheism]]. <ref>[[Webster's New World Dictionary]]; "God n. ME < OE, akin to Ger gott, Goth guth, prob. < IE base * ĝhau-, to call out to, invoke > Sans havaté, (he) calls upon; 1. any of various beings conceived of as supernatural, immortal, and having special powers over the lives and affairs of people and the course of nature; deity, esp. a male deity: typically considered objects of worship; 2. an image that is worshiped; idol 3. a person or thing deified or excessively honored and admired; 4. [G-] in monotheistic religions, the creator and ruler of the universe, regarded as eternal, infinite, all-powerful, and all-knowing; [[Supreme Being]]; the Almighty</ref><ref>[http://dictionary.reference.com/browse/God Dictionary.com]; "God /gɒd/ noun: 1. the one Supreme Being, the creator and ruler of the universe. 2. the Supreme Being considered with reference to a particular attribute. 3. (lowercase) one of several deities, esp. a male deity, presiding over some portion of worldly affairs. 4. (often lowercase) a supreme being according to some particular conception: the God of mercy. 5. Christian Science. the Supreme Being, understood as Life, Truth, Love, Mind, Soul, Spirit, Principle. 6. (lowercase) an image of a deity; an idol. 7. (lowercase) any deified person or object. 8. (often lowercase) Gods, Theater. 8a. the upper balcony in a theater. 8b. the spectators in this part of the balcony. </ref> The English word "God" and its counterparts in other languages are normally used for any and all conceptions and, in spite of significant differences between religions, the term remains an English translation common to all. The same holds for Hebrew ''[[El (god)|El]]'', but  [[names of God in Judaism|in Judaism]], God is also given a proper name, the [[tetragrammaton]] (written YHWH), in origin the name of a [[Edomite]] or [[Midianite]] deity, [[Yahweh (Canaanite deity)|Yahweh]]. 
+In many translations of the [[Bible]], when the word "LORD" is in all capitals, it signifies that the word represents the tetragrammaton. <ref name=Barton2006>{{cite book
+|author = Barton, G.A. 
+|year = 2006
+|title = A Sketch of Semitic Origins: Social and Religious
+|publisher = Kessinger Publishing
+|isbn = 1-4286-1575-X
+}}</ref> ''[[Allāh]]'' ({{lang-ar|الله}} ''allāh'') is the [[Arabic]] term with no [[plural]] or [[gender]] used by Muslims and Arabic speaking Christians and Jews meaning "The God" (with a capital G), while "[[ʾilāh]]" ({{lang-ar|'''إله'''}} ''ellāh'') is the term used for a deity or a god in general. <ref>{{cite web|url=http://www.pbs.org/empires/islam/faithgod.html |title=God |work=Islam: Empire of Faith |publisher=PBS|accessdate=2010-12-18}}</ref><ref>"Islam and Christianity", ''Encyclopedia of Christianity'' (2001): Arabic-speaking [[Christian]]s and [[Jew]]s also refer to God as ''Allāh''. </ref><ref>{{Cite encyclopedia | title=Allah | encyclopedia=Encyclopaedia of Islam Online | author=L. Gardet}}</ref> God may also be given a proper name in monotheistic currents of Hinduism which emphasize the [[personal god|personal nature of God]], with early references to his name as [[Krishna]]-[[Vasudeva]] in [[Bhagavata]] or later [[Vishnu]] and [[Hari]]. <ref name = "Hastings541">{{Harvnb|Hastings|2003|p=540|url=http://books.google.com/books?id=Kaz58z--NtUC&pg=PA540&vq=Krishna&source=gbs_search_r&cad=1_1&sig=lo3NqA31k8hJZw7qNc9QDEAYyYA}}</ref> . 
+
+== General conceptions ==. 
+{{Main|Conceptions of God}} . 
+
+There is no clear consensus on the nature of God. <ref>{{cite web | url=http://www.hds.harvard.edu/news/bulletin/articles/does_god_matter.html | title=DOES GOD MATTER? A Social-Science Critique | work=by Paul Froese and Christopher Bader | accessdate=2007-05-28}}{{dead link|date=March 2012}}</ref> The [[Abrahamic conceptions of God]] include the [[monotheistic]] definition of God in [[Judaism]], the [[trinity|trinitarian]] view of [[Christians]], and the [[Islamic concept of God]]. 
+The [[dharmic religions]] differ in their view of the divine: views of [[God in Hinduism]] vary by region, sect, and caste, ranging from monotheistic to polytheistic to atheistic. Divinity were [[God in Buddhism|recognized]] by the historical Buddha, particularly [[Śakra (Buddhism)|Śakra]] and [[Brahma (Buddhism)|Brahma]]. However, other sentient beings, including gods, can at best only play a supportive role in one's personal path to salvation. Conceptions of God in the latter developments of the [[Mahayana]] tradition give a more prominent place to notions of the divine.{{Citation needed|date=March 2012}} . 
+
+=== Oneness ===. 
+{{Main|Monotheism|Henotheism}}
+[[Monotheism|Monotheists]] hold that there is only one god, and may claim that the one true god is worshiped in different religions under different names. The view that all theists actually worship the same god, whether they know it or not, is especially emphasized in [[Hinduism]]<ref>See Swami Bhaskarananda, ''Essentials of Hinduism'' (Viveka Press 2002) ISBN 1-884852-04-1</ref> and [[Sikhism]]. <ref>{{cite web|url=http://www.srigranth.org/servlet/gurbani.gurbani?Action=Page&Param=1350&english=t&id=57718 |title=Sri Guru Granth Sahib |publisher=Sri Granth |date= |accessdate=2011-06-30}}{{dead link|date=March 2012}}</ref> . 
+
+[[Islam]]'s most fundamental concept is a strict monotheism called [[tawhīd]]. God is described in the [[Qur'an]] as: "Say: He is God, the One and Only;  God, the Eternal, Absolute; He begetteth not, nor is He begotten; And there is none like unto Him."<ref>{{Cite quran|112|1|end=4|style=ref}}</ref><ref>{{Cite encyclopedia | title=Allah, Tawhid | encyclopedia=Encyclopaedia Britannica Online | author=D. Gimaret}}</ref> Muslims repudiate the Christian doctrine of the [[Trinity]] and divinity of [[Islamic view of Jesus|Jesus]], comparing it to [[polytheism]]. In Islam, God is beyond all comprehension or equal and does not resemble any of his creations in any way. Thus, [[Muslim]]s are not [[iconodules]], and are not expected to visualize God.{{Citation needed|date=March 2012}} . 
+
+[[Henotheism]] is the belief and worship of a single god while accepting the existence or possible existence of other [[deity|deities]].{{Citation needed|date=March 2012}} . 
+
+=== Theism, deism and pantheism ===. 
+{{Main|Theism|Deism|Pantheism}}
+[[Theism]] generally holds that God exists realistically, objectively, and independently of human thought; that God created and sustains everything; that God is omnipotent and eternal; personal and interacting with the universe through for example [[religious experience]] and the prayers of humans. <ref name=smart>{{cite book|last=Smart|first=Jack|authorlink= J. J. C. Smart|coauthors=John Haldane|title=Atheism and Theism|publisher=Blackwell Publishing|year=2003|isbn=0-631-23259-1|page=8}}</ref> It holds that God is both transcendent and immanent; thus, God is simultaneously infinite and in some way present in the affairs of the world. <ref name=lemos>{{cite book|last=Lemos|first=Ramon M.|title=A Neomedieval Essay in Philosophical Theology|publisher=Lexington Books|year=2001|isbn=0-7391-0250-8|page=34}}</ref> Not all theists subscribe to all the above propositions, but usually a fair number of them, c.f., [[family resemblance]]. <ref name=smart /> Catholic theology holds that God is [[divine simplicity|infinitely simple]] and is not involuntarily subject to time. Most theists hold that God is omnipotent, omniscient, and benevolent, although this belief raises questions about God's responsibility for evil and suffering in the world. Some theists ascribe to God a self-conscious or purposeful limiting of omnipotence, omniscience, or benevolence. [[Open Theism]], by contrast, asserts that, due to the nature of time, God's omniscience does not mean the deity can predict the future. "Theism" is sometimes used to refer in general to any belief in a god or gods, i.e., monotheism or polytheism. <ref name="philosofrelGlossthe">{{cite web|url=http://www.philosophyofreligion.info/definitions.html|title=Philosophy of Religion.info – Glossary – Theism, Atheism, and Agonisticism|publisher=Philosophy of Religion.info|accessdate=2008-07-16 |archiveurl = http://web.archive.org/web/20080424071443/http://www.philosophyofreligion.info/definitions.html |archivedate = April 24, 2008}}</ref><ref name="TFDtheism">{{cite web|url=http://www.thefreedictionary.com/theism|title=Theism – definition of theism by the Free Online Dictionary, Thesaurus and Encyclopedia|publisher=[[TheFreeDictionary]]|accessdate=2008-07-16}}</ref> . 
+
+[[Deism]] holds that God is wholly [[Transcendence (religion)|transcendent]]: God exists, but does not intervene in the world beyond what was necessary to create it. <ref name=lemos /> In this view, God is not [[anthropomorphic]], and does not literally answer prayers or cause miracles to occur. Common in Deism is a belief that God has no interest in humanity and may not even be aware of humanity. [[Pandeism]] and [[Panendeism]], respectively, combine Deism with the Pantheistic or Panentheistic beliefs discussed below.{{Citation needed|date=March 2012}} . 
+
+[[Pantheism]] holds that God is the universe and the universe is God, whereas [[Panentheism]] holds that God contains, but is not identical to, the Universe; the distinctions between the two are subtle. It is also the view of the [[Liberal Catholic Church]], [[Theosophy]], some views of Hinduism except [[Vaishnavism]] which believes in [[panentheism]], Sikhism, some divisions of [[Neopaganism]] and [[Taoism]], along with many varying denominations and individuals within denominations. [[Kabbalah]], Jewish mysticism, paints a pantheistic/panentheistic view of God — which has wide acceptance in [[Hasidic Judaism]], particularly from their founder [[Israel ben Eliezer|The Baal Shem Tov]] — but only as an addition to the Jewish view of a personal god, not in the original pantheistic sense that denies or limits persona to God.{{Citation needed|date=March 2012}} . 
+
+=== Other concepts === . 
+
+[[Dystheism]], which is related to [[theodicy]] is a form of theism which holds that God is either not wholly good or is fully malevolent as a consequence of the [[problem of evil]].  One such example comes from [[Dostoevsky]]'s ''[[The Brothers Karamazov]]'', in which Ivan Karamazov rejects God on the grounds that he allows children to suffer. <ref>[http://www.gutenberg.org/files/28054/28054-h/28054-h.html The Project Gutenberg EBook of ''The Brothers Karamazov'' by Fyodor Dostoyevsky] pp259-261</ref> Another example would be [[Theistic Satanism]].{{Citation needed|date=March 2012}} . 
+
+[[Nontheism]] holds that the universe can be explained without any reference to the supernatural, or to a supernatural being. Some non-theists avoid the concept of God, whilst accepting that it is significant to many; other non-theists understand God as a symbol of human values and aspirations. Others such as [[Richard Dawkins]] see the idea of God as entirely pernicious.{{Citation needed|date=March 2012}} . 
+
+In modern times, some more abstract concepts have been developed, such as [[process theology]] and [[open theism]]. The contemporaneous French philosopher [[Michel Henry]] has however proposed a [[Phenomenological definition of God|phenomenological approach and definition of God]] as [[phenomenology (religion)|phenomenological]] essence of [[Phenomenological life|Life]]. <ref>Michel Henry : ''I am the Truth. Toward a philosophy of Christianity'' (Stanford University Press, 2002)</ref> . 
+
+== Existence of God ==. 
+{{Main|Existence of God}} . 
+
+Many arguments which attempt to prove or disprove the existence of God have been proposed by philosophers, theologians, and other thinkers for many centuries. In [[Philosophy|philosophical]] terminology, such arguments concern schools of thought on the [[epistemology]] of the [[ontology]] of God.{{Citation needed|date=March 2012}} . 
+
+There are many philosophical issues concerning the existence of God. Some definitions of God are sometimes nonspecific, while other definitions can be self-contradictory. Arguments for the existence of God typically include metaphysical, empirical, inductive, and subjective types, while others revolve around perceived holes in evolutionary theory and order and complexity in the [[world]]. Arguments against the existence of God typically include empirical, deductive, and inductive types. Conclusions reached include: "God does not exist" ([[Weak and strong atheism|strong atheism]]); "God almost certainly does not exist"<ref name="Dawkins">{{cite web 
+| last=Dawkins 
+| first=Richard 
+| authorlink=Richard Dawkins 
+| title=Why There Almost Certainly Is No God 
+| url=http://www.huffingtonpost.com/richard-dawkins/why-there-almost-certainl_b_32164.html 
+| accessdate=2007-01-10
+| publisher=The Huffington Post}}</ref> (''de facto'' [[atheism]]); "no one knows whether God exists" ([[agnosticism]]); "God exists, but this cannot be proven or disproven" (weak [[theism]]); and "God exists and this can be proven" (strong [[theism]]). There are numerous variations on these positions.{{Citation needed|date=March 2012}} . 
+
+Some theologians, such as the scientist and theologian [[Alister McGrath|A.E. McGrath]], argue that the existence of God cannot be adjudicated on for or against by using [[scientific method]]. <ref name="mcgrath2005">{{cite book|author=Alister E. McGrath|title=Dawkins' God: genes, memes, and the meaning of life|url=http://books.google.com/books?id=V9dr6167AJ8C|year=2005|publisher=Wiley-Blackwell|isbn=978-1-4051-2539-0}}</ref><ref name="barackman2001">{{cite book|author=Floyd H. Barackman|title=Practical Christian Theology: Examining the Great Doctrines of the Faith|url=http://books.google.com/books?id=Jb5aRB7OxWsC|year=2001|publisher=Kregel Academic|isbn=978-0-8254-2380-2}}</ref> [[Agnostic]] [[Stephen Jay Gould]] argues that science and religion are not in conflict and do not overlap. ([[Non-overlapping magisteria]]){{Citation needed|date=March 2012}} . 
+
+== Specific attributes ==. 
+=== Epitheta ===. 
+{{Main| Names of God}}
+It is difficult to distinguish between proper names and [[epitheta]] of God. Throughout the Hebrew and Christian Bible there are many names for God that portray his nature and character. One of them is ''[[elohim]]'',<ref>Isa. 45:18; 54:5; Jer. 32:27; Gen. 1:1; Deut. 5:23; 8:15; Ps. 68:7</ref><ref>{{cite web|url=http://www.biblegateway.com/passage/?search=Isa.%2054:5&version=31 |title=Bible Gateway, http://www.biblegateway.com/ |publisher=Biblegateway.com |date= |accessdate=2011-06-30}}</ref> (which is actually a ''[[plural]]'' word). Another one is ''El Shaddai'', meaning “God Almighty”. <ref>Gen. 17:1; 28:3; 35:11; Ex. 6:31; Ps. 91:1, 2</ref> A third notable name is ''El Elyon'', which means “The Most High God”. <ref>Gen. 14:19; Ps. 9:2; Dan. 7:18, 22, 25</ref> . 
+
+God is described and referred in the [[Quran]] and [[hadith]] by certain names or attributes, the most common being ''[[R-Ḥ-M|Al-Rahman]]'', meaning "Most Compassionate" and ''Al-Rahim'', meaning "Most Merciful" (See [[Names of God in Islam]]). <ref name="Ben">{{Cite book|last=Bentley |first=David |coauthors= |title=The 99 Beautiful Names for God for All the People of the Book |publisher=William Carey Library |year=1999 |month=September |isbn=0-87808-299-9 }}</ref> . 
+
+[[Vaishnavism]], a tradition in Hinduism, has [[list of titles and names of Krishna]].  . 
+
+=== Gender ===. 
+{{Main|Gender of God}}
+The gender of God can be viewed as a literal or as an [[allegory|allegorical]] aspect of a [[deity]].  In [[polytheistic]] religions, ''the gods'' are more likely to have literal sexual genders which would enable them to interact with each other, and even with humans, in a sexual way.  In most [[monotheistic]] religions, there is no comparable being for God to relate to in a literal gender-based way, so the [[gender]] of this one-and-only deity is most likely to be an analogical statement of how humans and God address, and relate to, each other, with no sexual connotations.  . 
+
+God is usually characterised as male in Biblical sources, except: female in {{Bibleverse|Genesis||1:26-27|KJV}},<ref>Elaine H. Pagels [http://holyspirit-shekinah.org/_/what_became_of_god_the_mother-1.htm "What Became of God the Mother? Conflicting Images of God in Early Christianity"] Signs, Vol. 2, No. 2 (Winter, 1976), pp. 293-303</ref><ref>{{cite book|last=Coogan|first=Michael|title=God and Sex. What the Bible Really Says|url=http://books.google.com/?id=2_gPKQEACAAJ&dq=god+and+sex|accessdate=May 5, 2011|edition=1st|year=2010|month=October|publisher=Twelve. Hachette Book Group|location=New York, Boston|isbn=978-0-446-54525-9|page=175|chapter=6. Fire in Divine Loins: God's Wives in Myth and Metaphor|quote=humans are modeled on ''elohim'', specifically in their sexual differences.}}</ref> {{Bibleverse|Psalm||123:2-3|KJV}}, and {{Bibleverse|Luke||15:8-10|KJV}}; a mother in {{Bibleverse|Hosea||11:3-4|KJV}}, {{Bibleverse|Deuteronomy||32:18|KJV}}, {{Bibleverse|Isaiah||66:13|KJV}}, {{Bibleverse|Isaiah||49:15|KJV}}, {{Bibleverse|Isaiah||42:14|KJV}}, {{Bibleverse|Psalm||131:2|KJV}}; a mother eagle in {{Bibleverse|Deuteronomy||32:11-12|KJV}}; and a mother hen in {{Bibleverse|Matthew||23:37|KJV}} and {{Bibleverse|Luke||13:34|KJV}}.  . 
+
+=== Relationship with creation ===. 
+{{See also|Creator deity|Worship}}
+Christian theologian [[Alister McGrath]] writes that there are good reasons to suggest that a "personal god" is integral to the Christian outlook, but that one has to understand it is an analogy.  "To say that God is like a person is to affirm the divine ability and willingness to relate to others. This does not imply that God is human, or located at a specific point in the universe."<ref>{{Cite book |first=Alister |last=McGrath |authorlink=Alister McGrath |title=Christian Theology: An Introduction |publisher=Blackwell Publishing |year=2006 |isbn=1-4051-5360-1 |page=205}}</ref> Muslims believe that the [[purpose of life|purpose of existence]] is to [[worship]] God. <ref name="patheos1">{{cite web|url=http://www.patheos.com/Library/Islam/Beliefs/Human-Nature-and-the-Purpose-of-Existence.html |title=Human Nature and the Purpose of Existence |publisher=Patheos.com |date= |accessdate=2011-01-29}}</ref><ref>{{Cite quran|51|56|style=ref}}</ref> He is viewed as a personal God and there are no intermediaries, such as [[clergy]], to contact God who states “We are nearer to him than (his) [[jugular vein]]”<ref>{{Cite quran|50|16|style=ref}}</ref>  . 
+
+Adherents of different religions generally disagree as to how to best [[worship]] God and what is [[divine providence|God's plan]] for mankind, if there is one. There are different approaches to reconciling the contradictory claims of monotheistic religions. One view is taken by exclusivists, who believe they are the [[chosen people]] or have exclusive access to [[absolute truth]], generally through [[revelation]] or encounter with the Divine, which adherents of other religions do not. Another view is [[religious pluralism]]. A pluralist typically believes that his religion is the right one, but does not deny the partial truth of other religions. An example of a pluralist view in Christianity is [[supersessionism]], i.e., the belief that one's religion is the fulfillment of previous religions. A third approach is [[inclusivism|relativistic inclusivism]], where everybody is seen as equally right; an example in Christianity is [[universalism]]: the doctrine that [[salvation]] is eventually available for everyone. A fourth approach is [[syncretic|syncretism]], mixing different elements from different religions. An example of syncretism is the [[New Age]] movement.  . 
+
+== Theological approaches ==. 
+[[Image:Allah-eser2.png|thumb|right|The Name of God written in [[Arabic calligraphy]] by 17th century Ottoman artist Hâfız Osman. In Islam, it is considered a sin to [[anthropomorphize]] God.]]
+{{see also|Theology Proper|Attributes of God}}
+Theologians and philosophers have ascribed a number of attributes to God, including [[omniscience]], [[omnipotence]], [[omnipresence]], perfect [[Good and evil|goodness]], divine [[simplicity]], and [[eternity|eternal]] and [[necessity|necessary]] existence. God has been described as [[Body|incorporeal]], a personal being, the source of all [[moral obligation]], and the greatest conceivable being existent. <ref name=Swinburne/> These attributes were all claimed to varying degrees by the early [[Judaism|Jewish]], [[Christianity|Christian]] and [[Islam|Muslim]] scholars, including [[Augustine of Hippo|St Augustine]],<ref name=Edwards /> [[Al-Ghazali]],<ref name=Platinga>[[Alvin Plantinga|Plantinga, Alvin]]. "God, Arguments for the Existence of," ''Routledge Encyclopedia of Philosophy'', Routledge, 2000. </ref> and [[Maimonides]]. <ref name=Edwards /> . 
+
+Many [[Medieval philosophy|medieval philosophers]] developed arguments for the existence of God,<ref name=Platinga/> while attempting to comprehend the precise implications of God's attributes. Reconciling some of those attributes generated important philosophical problems and debates. For example, God's omniscience may seem to imply that God knows how free agents will choose to act. If God does know this, their apparent [[free will]] might be illusory, or foreknowledge does not imply predestination; and if God does not know it, God may not be omniscient. <ref name=Wierenga>Wierenga, Edward R. "Divine foreknowledge" in [[Robert Audi|Audi, Robert]]. ''The Cambridge Companion to Philosophy''. [[Cambridge University Press]], 2001. </ref>  . 
+
+However, if by its essential nature, free will is not predetermined, then the effect of its will can never be perfectly predicted by anyone, regardless of intelligence and knowledge. Although knowledge of the options presented to that will, combined with perfect-infinite intelligence, could be said to provide God with omniscience if omniscience is defined as knowledge or understanding of all that is.  . 
+
+The last centuries of philosophy have seen vigorous questions regarding the [[Arguments for the existence of God|arguments for God's existence]] raised by such philosophers as [[Immanual Kant|Immanuel Kant]], [[David Hume]] and [[Antony Flew]], although Kant held that the [[argument from morality]] was valid. The [[theist]] response has been either to contend, like [[Alvin Plantinga]], that faith is "[[reformed epistemology|properly basic]]"; or to take, like [[Richard Swinburne]], the [[evidentialist]] position. <ref>{{Cite journal |first=Michael |last=Beaty |year=1991 |title=God Among the Philosophers |url=http://www.religion-online.org/showarticle.asp?title=53 |journal=The Christian Century |accessdate=2007-02-20}}</ref> Some [[Theism|theists]] agree that none of the arguments for God's existence are compelling, but argue that [[faith]] is not a product of [[reason]], but requires risk. There would be no risk, they say, if the arguments for God's existence were as solid as the laws of logic, a position summed up by [[Blaise Pascal|Pascal]] as: "The heart has reasons which reason knows not of."<ref>[[Blaise Pascal|Pascal, Blaise]]. ''[[Pensées]]'', 1669. </ref> . 
+
+Most major religions hold God not as a metaphor, but a being that influences our day-to-day existences. Many believers allow for the existence of other, less powerful [[Ethereal being|spiritual beings]], and give them names such as [[angel]]s, [[saint]]s, [[djinn]]i, [[demon]]s, and [[deva (New Age)|devas]].{{Citation needed|date=March 2012}} . 
+
+== Non-theistic views regarding God ==. 
+{{See also|Evolutionary origin of religions|Evolutionary psychology of religion}}
+[[Stephen Jay Gould]] proposed an approach dividing the world of philosophy into what he called "[[non-overlapping magisteria]]" (NOMA). In this view, questions of the [[supernatural]], such as those relating to the [[existence]] and [[nature]] of God, are [[metaphysics|non]]-[[empirical]] and are the proper domain of [[theology]]. The methods of science should then be used to answer any empirical question about the natural world, and theology should be used to answer questions about ultimate meaning and moral value. In this view, the perceived lack of any empirical footprint from the magisterium of the supernatural onto natural events makes science the sole player in the natural world. <ref>{{cite book |title=The God Delusion |last=Dawkins |first=Richard |authorlink=Richard Dawkins |year=2006 |publisher=Bantam Press |location=Great Britain |isbn=0-618-68000-4}}</ref>  . 
+
+Another view, advanced by [[Richard Dawkins]], is that the existence of God is an empirical question, on the grounds that "a universe with a god would be a completely different kind of universe from one without, and it would be a scientific difference."<ref name="Dawkins" /> [[Carl Sagan]] argued that the doctrine of a Creator of the Universe was difficult to prove or disprove and that the only conceivable scientific discovery that could challenge it would be an infinitely old universe. <ref>{{cite book |title=The Demon Haunted World p.278 |last=Sagan |first=Carl |authorlink=Carl Sagan |year=1996 |publisher=Ballantine Books |location=New York |isbn=0-345-40946-9}}</ref> . 
+
+===Anthropomorphism===. 
+{{Main|Anthropomorphism}} . 
+
+[[Pascal Boyer]] argues that while there is a wide array of supernatural concepts found around the world, in general, supernatural beings tend to behave much like people. The construction of gods and spirits like persons is one of the best known traits of religion. He cites examples from [[Greek mythology]], which is, in his opinion, more like a modern [[soap opera]] than other religious systems. <ref name="boyer">{{cite book
+|title=Religion Explained, 
+|isbn=0-465-00696-5
+|year=2001
+|last=Boyer
+|first=Pascal
+|authorlink=Pascal Boyer
+|url=http://books.google.com/?id=wreF80OHTicC&pg=PA142&lpg=PA142&dq=boyer+modern+soap+opera
+|pages=142–243
+|publisher=Basic Books
+|location=New York
+}}</ref>
+[[Bertrand du Castel]] and [[Timothy Jurgensen]] demonstrate through formalization that Boyer's explanatory model matches physics' [[epistemology]] in positing not directly observable entities as intermediaries. <ref name="ducasteljurgensen">{{cite book
+|title=Computer Theology, 
+|isbn=0-9801821-1-5
+|publisher= Midori Press
+|location= Austin, Texas
+|year=2008
+|last= du Castel
+|first= Bertrand
+|coauthors= Jurgensen, Timothy M. 
+|authorlink=Bertrand du Castel
+|pages=221–222
+}}</ref>
+[[Anthropology|Anthropologist]] [[Stewart Elliott Guthrie|Stewart Guthrie]] contends that people project human features onto non-human aspects of the world because it makes those aspects more familiar. [[Sigmund Freud]] also suggested that god concepts are projections of one's father. <ref>{{cite journal|url=http://www.yale.edu/cogdevlab/People/Lab_Members/Frank/Frank%27s%20papers%20pdfs%20/Frank%27s%20articles/conceptualizingnonnaturalentity.pdf 
+|format=PDF|title=Conceptualizing a Nonnatural Entity: Anthropomorphism in God Concepts
+|year=1996
+|last=Barrett
+|first=Justin
+}}</ref>{{failed verification|date=March 2012}}  . 
+
+Likewise, [[Émile Durkheim]] was one of the earliest to suggest that gods represent an extension of human social life to include supernatural beings. In line with this reasoning, psychologist [[Matt Rossano]] contends that when humans began living in larger groups, they may have created gods as a means of enforcing morality. In small groups, morality can be enforced by social forces such as gossip or reputation. However, it is much harder to enforce morality using social forces in much larger groups. Rossano indicates that by including ever-watchful gods and spirits, humans discovered an effective strategy for restraining selfishness and building more cooperative groups. <ref name="supernature">
+{{cite journal
+|last=Rossano
+|first=Matt
+|title=Supernaturalizing Social Life: Religion and the Evolution of Human Cooperation
+|year=2007
+|url=http://www2.selu.edu/Academics/Faculty/mrossano/recentpubs/Supernaturalizing.pdf|format=PDF|accessdate=2009-06-25}}
+</ref> . 
+
+== Distribution of belief in God ==. 
+[[Image:Europe belief in god.svg|thumb|250px|The percentage of population in European countries who responded in a 2005 survey that they "believe there is a God". Countries with [[Roman Catholic]] (e.g.: [[Poland]], [[Portugal]]), [[Eastern Orthodox]] ([[Greece]], [[Romania]], [[Cyprus]]) or [[Muslim]] ([[Turkey]], Cyprus) majorities tend to poll highest.]]
+{{Main|List of religious populations}}
+As of 2000, approximately 53% of the world's population identifies with one of the three primary Abrahamic religions (33% Christian, 20% Islam, <1% Judaism), 6% with Buddhism, 13% with Hinduism, 6% with [[Chinese folk religion|traditional Chinese religion]], 7% with various other religions, and less than 15% as non-religious. Most of these religious beliefs involve a god or gods. <ref>National Geographic Family Reference Atlas of the World p. 49</ref> Abrahamic religions beyond Christianity, Islam and Judaism include [[Baha'i]], [[Samaritanism]], the [[Rastafari movement]], [[Yazidi]]sm, and the [[Unification Church]].) . 
+
+==See also==. 
+* [[God (male deity)]]
+* [[God in Christianity]]
+* [[God in Hinduism]]
+* [[God in Islam]]
+* [[God in Judaism]]
+* [[God in Sikhism]]
+* [[God in the Baha'i Faith]]
+* [[God the Father in Western art]]
+* [[God the Father]]
+* [[List of deities]]
+* [[Pantheon (gods)]]
+{{portal|Religion}} . 
+
+== Notes ==. 
+{{reflist|2}} . 
+
+== References ==. 
+<div class="references-small">
+* {{Cite book | title =Alternative Krishnas: Regional and Vernacular Variations on a Hindu Deity | last = Beck| first = Guy L. (Ed.) | authorlink = Guy Beck |url = http://books.google.com/?id=0SJ73GHSCF8C | publisher = SUNY Press | year = 2005 | isbn =0-7914-6415-6}}
+* [[Cliff Pickover|Pickover, Cliff]], <cite>The Paradox of God and the Science of Omniscience</cite>, Palgrave/St Martin's Press, 2001. ISBN 1-4039-6457-2
+* [[Francis Collins (geneticist)|Collins, Francis]], <cite>The Language of God: A Scientist Presents Evidence for Belief</cite>, Free Press, 2006. ISBN 0-7432-8639-1
+* [[Harris interactive]], <cite>While Most Americans Believe in God, Only 36% Attend a Religious Service Once a Month or More Often</cite>
+* [[Jack Miles|Miles, Jack]], <cite>[[God: A Biography]]</cite>, Knopf, 1995, ISBN 0-679-74368-5 [http://www.jackmiles.com/default.asp?ID=15 Book description].{{dead link|date=March 2012}}
+* [[Karen Armstrong|Armstrong, Karen]], <cite>A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam</cite>, Ballantine Books, 1994. ISBN 0-434-02456-2
+* [[National Geographic Society|National Geographic]] Family Reference Atlas of the World, National Geographic Society, 2002. 
+* [[Pew research center]], <cite>The 2004 Political Landscape Evenly Divided and Increasingly Polarized – Part 8: Religion in American Life</cite>
+* [[Paul Tillich]], ''Systematic Theology'', Vol. 1 (Chicago: University of Chicago Press, 1951). ISBN 0-226-80337-6
+*{{cite book
+|author= Hastings, James Rodney
+|authorlink=James Hastings
+|editor=
+|others=John A Selbie
+|title=[[Encyclopedia of Religion and Ethics]]
+|edition=Volume 4 of 24 ( Behistun (continued) to Bunyan.)
+|language=
+|publisher=Kessinger Publishing, LLC
+|location=Edinburgh
+|year=2nd edition 1925–1940, reprint 1955, 2003
+|origyear=1908–26
+|quote=The encyclopedia will contain articles on all the religions of the world and on all the great systems of ethics. It will aim at containing articles on every religious belief or custom, and on every ethical movement, every philosophical idea, every moral practice. 
+|isbn=0-7661-3673-6
+|oclc=
+|doi=
+|url=http://books.google.com/?id=Kaz58z--NtUC&pg=PA540&vq=Krishna 
+|accessdate=5 March 2008
+|page=476
+}}
+* [[Emanuel Swedenborg]], ''Angelic Wisdom Concerning The Divine Love and The Divine Wisdom'' (New York: Swedenborg Foundation, 1954)
+* [[Emanuel Swedenborg]], ''Angelic Wisdom Concerning The Divine Providence'' (New York: Swedenborg Foundation, 1954)
+</div>
+{{-}} . 
+
+== External links ==. 
+{{wikiquote}}
+{{wiktionary|god}}
+{{commons category}}
+{{wikinews|Nebraska Senator sues God}}
+{{Spoken Wikipedia|God_Article_Spoken_2008.ogg|2008-01-06}}
+* [http://www.armatabianca.org/eng/padre.php?sottomenu=4 Concept of God in Christianity]
+* [http://www.islam-info.ch/en/Who_is_Allah.htm Concept of God in Islam]
+* [http://www.allaboutgod.com God Christian perspective]
+* [http://www.shaivam.org/hipgodco.htm Hindu Concept of God]
+* [http://www.aish.com/literacy/concepts/Understanding_God.asp Jewish Literacy]
+* [http://www.fatherspeaks.net Mystical view of God]
+* [http://www.newadvent.org/cathen/06614a.htm Relation of God to the Universe]
+* [http://knol.google.com/k/the-science-of-proving-god-s-existence# Discussion about God in Germany 2009] . 
+
+{{Theism}}
+{{Belief systems}}
+{{Religion topics|hide}}
+{{Theology}} . 
+
+[[Category:Allah]]
+[[Category:Article Feedback 5 Additional Articles]]
+[[Category:Bahá'í belief and doctrine]]
+[[Category:Creator gods]]
+[[Category:Deities]]
+[[Category:God| ]]
+[[Category:Singular God| ]]
+[[Category:Spirituality]]
+[[Category:God in Christianity]]
+[[Category:Divine command theory]]

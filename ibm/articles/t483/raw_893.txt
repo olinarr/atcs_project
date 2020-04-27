@@ -1,0 +1,379 @@
+{{Infobox Document
+|document_name        = Universal Declaration of Human Rights
+|image                = EleanorRooseveltHumanRights.png
+|image_width          = 200px
+|image_caption        = US First Lady [[Eleanor Roosevelt]] with the Spanish version of the Universal Declaration of Human Rights. 
+|date_created         = 1948
+|date_ratified        = 10 December 1948
+|location_of_document = Palais de Chaillot, Paris
+|writer               = [[John Peters Humphrey]] (Canada), [[René Cassin]] (France), [[P. C. Chang]] (China), [[Charles Malik]] (Lebanon), [[Eleanor Roosevelt]] (United States), among others
+|signatories          =
+|purpose              = [[Human rights]]
+}}
+The '''Universal Declaration of Human Rights''' ('''UDHR''') is a declaration adopted by the [[United Nations General Assembly]] (10 December 1948 at [[Trocadéro|Palais de Chaillot]], Paris). The Declaration arose directly from the experience of the [[World War II|Second World War]] and represents the first global expression of rights to which all human beings are inherently entitled. It consists of 30 articles which have been elaborated in subsequent international treaties, regional human rights instruments, national constitutions and laws. The [[International Bill of Human Rights]] consists of the Universal Declaration of Human Rights, the [[International Covenant on Economic, Social and Cultural Rights]], and the [[International Covenant on Civil and Political Rights]] and its two Optional Protocols. In 1966 the General Assembly adopted the two detailed Covenants, which complete the International Bill of Human Rights; and in 1976, after the Covenants had been ratified by a sufficient number of individual nations, the Bill took on the force of [[international law]]. <ref>{{harvnb|Williams|1981}}; This is the first book edition of the Universal Declaration of Human Rights, with a foreword by [[Jimmy Carter]]. </ref> . 
+
+==History==. 
+===Precursors===. 
+{{listen
+|title=State of the Union (Four Freedoms) (6 January 1941)
+|filename=FDR's 1941 State of the Union (Four Freedoms speech) Edit 1.ogg
+|description =[[Franklin Delano Roosevelt]]'s 6 January 1941 [[State of the Union Address]] introducing the theme of the [[Four Freedoms]] (starting at 32:02)
+|image=[[File:FDR in 1933.jpg|alt=Franklin Delano Roosevelt headshot|100px|thumb|[[Franklin Delano Roosevelt]]]]
+}}{{main|History of human rights}} . 
+
+During [[World War II|the Second World War]] the allies adopted the [[Four Freedoms]]: freedom of speech, freedom of assembly, freedom from fear and freedom from want, as their basic war aims. The [[United Nations Charter]] "reaffirmed faith in fundamental human rights, and dignity and worth of the human person" and committed all member states to promote "universal respect for, and observance of, human rights and fundamental freedoms for all without distinction as to race, sex, language, or religion". <ref>United Nations Charter, preamble and article 56</ref> . 
+
+When the atrocities committed by [[Nazi Germany]] became apparent after the Second World War, the consensus within the world community was that the [[United Nations Charter]] did not sufficiently define the rights it referenced. <ref>[http://www.udhr.org/history/overview.htm#Cataclysm%20and%20World%20Response Cataclysm and World Response] in  [http://www.udhr.org/history/overview.htm Drafting and Adoption : The Universal Declaration of Human Rights], [http://www.udhr.org udhr.org]. </ref><ref>[http://www.udhr.org/Introduction/question4.htm UDHR50: Didn't Nazi tyranny end all hope for protecting human rights in the modern world?]</ref> A universal declaration that specified the rights of individuals was necessary to give effect to the Charter's provisions on human rights. <ref>[http://www.universalrights.net/main/creation.htm UDHR – History of human rights]</ref> . 
+
+===Drafting===. 
+{{main|Drafting of the Universal Declaration of Human Rights}} . 
+
+Canadian [[John Peters Humphrey]] was called upon by the [[United Nations Secretary-General]] to work on the project and became the Declaration's principal drafter. <ref>{{harvnb|Morsink|1999|p=[http://books.google.com/books?id=w8OapwltI3YC&pg=PA5 5]}}. </ref> At the time Humphrey was newly appointed as Director of the Division of Human Rights within the United Nations Secretariat. <ref>{{harvnb|Morsink|1999|p=[http://books.google.com/books?id=w8OapwltI3YC&pg=PA133 133]}}. </ref> The Commission on Human Rights, a standing body of the United Nations, was constituted to undertake the work of preparing what was initially conceived as an International Bill of Rights. <ref name=morsink1999p4>{{harvnb|Morsink|1999|p=[http://books.google.com/books?id=w8OapwltI3YC&pg=PA4 4]}}. </ref> The membership of the Commission was designed to be broadly representative of the global community with representatives of the following countries serving: Australia, Belgium, [[Byelorussian Soviet Socialist Republic]], [[Chile]], China, [[Egypt]], France, India, [[Iran]], [[Lebanon]], [[Panama]], [[Philippines]], United Kingdom, United States, [[Union of Soviet Socialist Republics]], [[Uruguay]] and [[Yugoslavia]]. <ref name=morsink1999p4 /> Well known members of the Commission included [[Eleanor Roosevelt]] of the United States, who was the Chairperson, [[Jacques Maritain]], [[René Cassin]] and [[Stéphane Hessel]] of France, [[Charles Malik]] of [[Lebanon]], and [[P. C. Chang]] of the [[Republic of China]], among others. Humphrey provided the initial draft which became the working text of the Commission.  . 
+
+According to ''Globalizing Family Values'', the Declaration's pro-family phrases were the result of the [[Christian Democratic]] movement's influence on Cassin and Malik. <ref>Carlson, Allan (12 January 2004. [http://www.profam.org/docs/acc/thc.acc.globalizing.040112.htm Globalizing Family Values]. </ref> . 
+
+===Adoption===. 
+The Universal Declaration was adopted by the General Assembly on 10 December 1948 by a vote of 48 in favour, 0 against, with eight [[abstentions]]: the [[Union of Soviet Socialist Republics|USSR]], [[Ukrainian Soviet Socialist Republic|Ukrainian SSR]], [[Byelorussian Soviet Socialist Republic|Byelorussian SSR]], [[Yugoslavia]], [[People's Republic of Poland|Poland]], [[South Africa]], [[Czechoslovakia]] and [[Saudi Arabia]]. <ref>[http://ccnmtl.columbia.edu/projects/mmt/udhr/udhr_general/drafting_history_10.html UDHR Drafting History], [http://ccnmtl.columbia.edu/about/ Center for New Media Teaching and Learning], [[Columbia University]]</ref><ref>See "Who are the signatories of the Declaration?" in [http://www.unac.org/rights/question.html Questions and answers about the Universal Declaration of Human Rights], [http://www.unac.org United Nations Association in Canada]. </ref> . 
+
+The following countries voted in favour of the Declaration:<ref>Yearbook of the United Nations 1948–1949 p 535</ref> 
+*[[Kingdom of Afghanistan|Afghanistan]]
+*[[History of Argentina#The_Peronist_Years_(1946-1955)|Argentina]]
+*[[Australia]]
+*[[Belgium]]
+*[[History of Bolivia (1920–1964)#The_sexenio_(1946-52)|Bolivia]]
+*[[Brazilian Second Republic|Brazil]]
+*[[Post-independence Burma, 1948–1962|Burma]]
+*[[Canada]]
+*[[Presidential Republic (1925–1973)|Chile]]
+*[[Republic of China]]
+*[[History of Colombia#The_Republic:_Liberal_and_Conservative_Conflict|Colombia]]
+*[[History of Costa Rica#Democracy|Costa Rica]]
+*[[History of Cuba#The_1940_constitution_and_the_Batista_era|Cuba]]
+*[[Denmark]]
+*[[History of the Dominican Republic#The_Era_of_Trujillo|Dominican Republic]]
+*[[Ecuador]]
+*[[History of El Salvador (1931-1979)#Repression_and_reform_under_military_rule|El Salvador]]
+*[[Kingdom of Egypt|Egypt]]
+*[[Empire of Ethiopia|Ethiopia]]
+*[[Fourth French Republic|France]]
+*[[History of Guatemala#The_"Ten_Years_of_Spring"|Guatemala]]
+*[[History of Haiti#Elections_and_coups_(1930–57)|Haiti]]
+*[[India]]
+*[[Iran]]
+*[[Kingdom of Iraq|Iraq]]
+*[[Lebanon]]
+*[[History of Liberia#Americo-Liberian_Rule_(1847–1980)|Liberia]]
+*[[Pakistan]]
+*[[Romania]]
+*[[Kingdom of Greece|Greece]]
+*[[Iceland]]
+*[[Luxembourg]]
+*[[Mexico]]
+*[[Netherlands]]
+*[[New Zealand]]
+*[[History of Nicaragua#Somoza_Dynasty_(1936–1979)|Nicaragua]]
+*[[Norway]]
+*[[Panama]]
+*[[History of Paraguay#Morínigo_and_World_War_II|Paraguay]]
+*[[Peru]]
+*[[History of the Philippines (1946–1965)|Philippines]]
+*[[Sweden]]
+*[[Syrian Republic (1930–1958)|Syria]]
+*[[History of Thailand (1932–1973)|Thailand]]
+*[[Multi-party period of the Republic of Turkey|Turkey]]
+*[[United Kingdom]]
+*[[United States]]
+*[[Uruguay]]
+*[[Venezuela]] . 
+
+Despite the central role played by Canadian John Humphrey, the Canadian Government at first abstained from voting on the Declaration's draft, but later voted in favour of the final draft in the General Assembly. <ref>{{cite journal|title=Canada and the Adoption of Universal Declaration of Human Rights|last=Schabas|first=William|journal=McGill Law Journal|pages=403|volume=43|year=1998|url=http://scholar.google.com/scholar?hl=en&lr=&q=info:bhD3YIk9aKUJ:scholar.google.com/&output=viewport|format=fee required}}</ref> . 
+
+==Structure==. 
+The underlying structure of the Universal Declaration was introduced in its second draft which was prepared by [[René Cassin]]. Cassin worked from a first draft prepared by [[John Peters Humphrey]]. The structure was influenced by the Code Napoleon, including a preamble and introductory general principles. <ref>{{harvnb|Glendon|2002|pp=62–64}}. </ref> Cassin compared the Declaration to the [[portico]] of a Greek temple, with a foundation, steps, four columns and a [[pediment]]. Articles 1 and 2 are the foundation blocks, with their principles of dignity, liberty, equality and brotherhood. The seven paragraphs of the preamble, setting out the reasons for the Declaration, are represented by the steps. The main body of the Declaration forms the four columns. The first column (articles 3–11) constitutes rights of the individual, such as the right to life and the prohibition of slavery. The second column (articles 12–17) constitutes the rights of the individual in civil and political society. The third column (articles 18–21) is concerned with spiritual, public and political freedoms such as freedom of religion and freedom of association. The fourth column (articles 22–27) sets out social, economic and cultural rights. In Cassin's model, the last three articles of the Declaration provide the pediment which binds the structure together. These articles are concerned with the duty of the individual to society and the prohibition of use of rights in contravention of the purposes of the United Nations. <ref>{{harvnb|Glendon|2002}}, Chapter 10. </ref> . 
+
+==Text of the Declaration==. 
+===Preamble=== . 
+
+Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world, . 
+
+Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people, . 
+
+Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law, . 
+
+Whereas it is essential to promote the development of friendly relations between nations, . 
+
+Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom, . 
+
+Whereas Member States have pledged themselves to achieve, in co-operation with the United Nations, the promotion of universal respect for and observance of human rights and fundamental freedoms, . 
+
+Whereas a common understanding of these rights and freedoms is of the greatest importance for the full realization of this pledge, . 
+
+'''Now, Therefore THE GENERAL ASSEMBLY proclaims THIS UNIVERSAL DECLARATION OF HUMAN RIGHTS''' as a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to promote respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.  . 
+
+===Article 1=== . 
+
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.  . 
+
+===Article 2=== . 
+
+Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty.  . 
+
+===Article 3=== . 
+
+Everyone has the right to life, liberty and security of person.  . 
+
+===Article 4=== . 
+
+No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.  . 
+
+===Article 5=== . 
+
+No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.  . 
+
+===Article 6=== . 
+
+Everyone has the right to recognition everywhere as a person before the law.  . 
+
+===Article 7=== . 
+
+All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.  . 
+
+===Article 8=== . 
+
+Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.  . 
+
+===Article 9=== . 
+
+No one shall be subjected to arbitrary arrest, detention or exile.  . 
+
+===Article 10=== . 
+
+Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him.  . 
+
+===Article 11=== . 
+
+(1) Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence. 
+(2) No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed.  . 
+
+===Article 12=== . 
+
+No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.  . 
+
+===Article 13=== . 
+
+(1) Everyone has the right to freedom of movement and residence within the borders of each state. 
+(2) Everyone has the right to leave any country, including his own, and to return to his country.  . 
+
+===Article 14=== . 
+
+(1) Everyone has the right to seek and to enjoy in other countries asylum from persecution. 
+(2) This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.  . 
+
+===Article 15=== . 
+
+(1) Everyone has the right to a nationality. 
+(2) No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.  . 
+
+===Article 16=== . 
+
+(1) Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution. 
+(2) Marriage shall be entered into only with the free and full consent of the intending spouses. 
+(3) The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.  . 
+
+===Article 17===. 
+(1) Everyone has the right to own property alone as well as in association with others.  . 
+
+(2) No one shall be arbitrarily deprived of his property.  . 
+
+===Article 18=== . 
+
+Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance only with the permission of the person and not by force.  . 
+
+===Article 19=== . 
+
+Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.  . 
+
+===Article 20=== . 
+
+(1) Everyone has the right to freedom of peaceful assembly and association. 
+(2) No one may be compelled to belong to an association.  . 
+
+===Article 21=== . 
+
+(1) Everyone has the right to take part in the government of his country, directly or through freely chosen representatives. 
+(2) Everyone has the right of equal access to public service in his country. 
+(3) The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.  . 
+
+===Article 22=== . 
+
+Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co-operation and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the free development of his personality.  . 
+
+===Article 23=== . 
+
+(1) Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment. 
+(2) Everyone, without any discrimination, has the right to equal pay for equal work. 
+(3) Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection. 
+(4) Everyone has the right to form and to join trade unions for the protection of his interests.  . 
+
+===Article 24=== . 
+
+Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.  . 
+
+===Article 25=== . 
+
+(1) Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control. 
+(2) Motherhood and childhood are entitled to special care and assistance. All children, whether born in or out of wedlock, shall enjoy the same social protection.  . 
+
+===Article 26=== . 
+
+(1) Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit. 
+(2) Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace. 
+(3) Parents have a prior right to choose the kind of education that shall be given to their children.  . 
+
+===Article 27=== . 
+
+(1) Everyone has the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits. 
+(2) Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.  . 
+
+===Article 28=== . 
+
+Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized.  . 
+
+===Article 29=== . 
+
+(1) Everyone has duties to the community in which alone the free and full development of his personality is possible. 
+(2) In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society. 
+(3) These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.  . 
+
+===Article 30=== . 
+
+Nothing in this Declaration may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.  . 
+
+==Commemoration: International Human Rights Day==. 
+{{main|Human Rights Day}} . 
+
+The adoption of the Universal Declaration is a significant international commemoration marked each year on 10 December and is known as [[Human Rights Day]] or International Human Rights Day.  The commemoration is observed by individuals, community and religious groups, human rights organisations, parliaments, governments and the United Nations.  Decadal commemorations are often accompanied by campaigns to promote awareness of the Declaration and human rights.  2008 marked the 60th anniversary of the Declaration and was accompanied by year-long activities around the theme "Dignity and justice for all of us". <ref name="udhr60">{{cite web |url=http://www.un.org/events/humanrights/udhr60/ |title=The Universal Declaration of Human Rights: 1948–2008 |publisher=[[United Nations]] |accessdate=15 February 2011}}</ref> . 
+
+==Significance and legal effect==. 
+===Significance===. 
+The ''[[Guinness Book of Records]]'' describes the UDHR as the "Most Translated Document"<ref>{{cite web|url=http://www.ohchr.org/EN/UDHR/pages/WorldRecord.aspx |title=Universal Declaration of Human Rights |publisher=United Nations Office of the High Commissioner for Human rights}}</ref> in the world. In the preamble, governments commit themselves and their people to progressive measures which secure the universal and effective recognition and observance of the [[human rights]] set out in the Declaration.  Eleanor Roosevelt supported the adoption of the UDHR as a declaration rather than as a treaty, because she believed that it would have the same kind of influence on global society as the United States Declaration of Independence had within the United States.  In this, she proved to be correct.  Even though it is not  legally binding, the Declaration has been adopted in or has influenced most national constitutions since 1948.  It has also served as the foundation for a growing number of national laws, international laws, and treaties, as well as regional, national, and sub-national institutions protecting and promoting human rights.  . 
+
+===Legal effect===. 
+While not a treaty itself, the Declaration was explicitly adopted for the purpose of defining the meaning of the words "fundamental freedoms" and "human rights" appearing in the United Nations Charter, which is binding on all member states.  For this reason the Universal Declaration is a fundamental constitutive document of the United Nations.  Many international lawyers, in addition, believe that the Declaration forms part of [[customary international law]] and is a powerful tool in applying diplomatic and moral pressure to governments that violate any of its articles. The 1968 United Nations International Conference on Human Rights advised that it "constitutes an obligation for the members of the international community" to all persons. The declaration has served as the foundation for two binding UN human rights covenants, the [[International Covenant on Civil and Political Rights]], and the [[International Covenant on Economic, Social and Cultural Rights]] and the principles of the Declaration are elaborated in international treaties such as the International Convention on the Elimination of All Forms of Racial Discrimination, the International Convention on the Elimination of Discrimination Against Women, the United Nations Convention on the Rights of the Child, the United Nations Convention Against Torture and many more. The Declaration continues to be widely cited by governments, academics, advocates and constitutional courts and individual human beings who appeal to its principles for the protection of their recognised human rights.  . 
+
+==Reaction==. 
+===Praise===. 
+The Universal Declaration has received praise from a number of notable people. [[Charles Malik]], [[Lebanon|Lebanese]] philosopher and diplomat, called it "an international document of the first order of importance,"<ref>[http://www.un.org/law/AVLpilotproject/udhr_audio.html Statement by Charles Malik as Representative of Lebanon to the Third Committee of the UN General Assembly on the Universal Declaration, 6 November 1948]{{dead link|date=February 2011|url=http://www.un.org/law/AVLpilotproject/udhr_audio.html}}</ref> while [[Eleanor Roosevelt]], first chairwoman of the [[Commission on Human Rights]] (CHR) that drafted the Declaration, stated that it "may well become the international [[Magna Carta]] of all men everywhere."<ref>[http://www.americanrhetoric.com/speeches/eleanorrooseveltdeclarationhumanrights.htm Eleanor Roosevelt: Address to the United Nations General Assembly]</ref> 10 December 1948. In a speech on 5 October 1995, Pope [[John Paul II]] called the UDHR "one of the highest expressions of the human [[conscience]] of our time". <ref>[http://www.vatican.va/roman_curia/secretariat_state/2003/documents/rc_seg-st_20031210_human-rights_en.html John Paul II, Address to the U.N., October 2, 1979 and October 5, 1995]</ref> And in a statement on 10 December 2003 on behalf of the [[European Union]], [[Marcello Spatafora]] said that "it placed human rights at the centre of the framework of principles and obligations shaping relations within the [[international community]]."{{citation needed|date=December 2008}} . 
+
+===Criticism===. 
+====Muslim countries====. 
+Most Muslim countries have signed the Universal Declaration of Human Rights and other human rights agreements. In 1948, [[Saudi Arabia]] didn't sign the declaration, arguing it violated [[Sharia|Islamic law]]. <ref>{{cite book|author=Nisrine Abiad|title=Sharia, Muslim states and international human rights treaty obligations: a comparative study|url=http://books.google.com/books?id=dex7TKuoUhgC|year=2008|publisher=BIICL|isbn=978-1-905221-41-7|pages=[http://books.google.ca/books?id=dex7TKuoUhgC&pg=PA60 60–65]}}</ref> However, [[Pakistan]] (which had signed the declaration) criticized the Saudi position. <ref>{{harvnb|Price|1999|p=[http://books.google.ca/books?id=YgF58rl4tCkC&pg=PA163 163]}}. </ref> In 1982, the Iranian representative to the [[United Nations]], [[Said Rajaie-Khorassani]], said that the UDHR was "a [[Secularism|secular]] understanding of the [[Judeo-Christian]] tradition", which could not be implemented by Muslims without trespassing the [[Sharia|Islamic law]]. <ref name="Littman1999">{{cite news | last = Littman | first = D | title = Universal Human Rights and Human Rights in Islam | work = Midstream | date = February/March 1999 | url =http://mypage.bluewin.ch/ameland/Islam.html | archiveurl = http://web.archive.org/web/20060501234759/http://mypage.bluewin.ch/ameland/Islam.html | archivedate = 2006-05-12 }}</ref> On 30 June 2000, Muslim nations that are members of the Organisation of the Islamic Conference (now the [[Organisation of Islamic Cooperation]]) officially resolved to support the [[Cairo Declaration on Human Rights in Islam]],<ref name="OIC Resolution on CDHRI">{{cite web | url = http://www.oic-oci.org/english/conf/fm/27/27th-fm-political(3).htm#60 | title = Resolution No 60/27-P | date = 2000-06-27 | accessdate = 2011-06-02 | publisher = Organisation of the Islamic Conference}}</ref> an alternative document that says people have "freedom and right to a dignified life in accordance with the Islamic Shari’ah", without any discrimination on  grounds of "race, colour, language, sex, religious belief, political affiliation, social status or other considerations." As a secular state, Turkey has signed the declaration of Human Rights in 1948 and other European Human Rights agreements.  . 
+
+The '''Universal Islamic Declaration of Human Rights''' is a document created by Islamic Councils in Paris<ref>Salem Azzam. "[http://www.informaworld.com/smpp/content~db=all~content=a783169489 Universal Islamic declaration of human rights]". ''The International Journal of Human Rights'', Volume 2, Issue 3 Autumn 1998 , pages 102 - 112</ref> and London. <ref>Fred Halliday. "[http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9248.1995.tb01741.x/abstract Relativism and Universalism in Human Rights: the Case of the Islamic Middle East]". ''Political Studies'' Volume 43, pages 152–167, August 1995. </ref> It restates basic [[human rights]] using the language of [[Fiqh|Islamic jurisprudence]]. <ref>Eva Brems. ''Human rights: universality and diversity''. pp. 244-246. Martinus Nijhoff Publishers, 2001. </ref>  The difference between the original Arabic version and the official English translation has been described as "very problematic." <ref>Mayer, Ann Elizabeth. ''Islam and Human Rights: Tradition and Politics'' 3rd Edition. Westview Press, 2006, p. 76. </ref> Among other problems, Mayer notes that throughout the document, references specifically to ''shari'a'' law are mentioned only as "the Law," which could mislead readers of only the English version.  . 
+
+====Education====. 
+Many proponents of [[alternative education]], particularly [[unschooling]], take issue with Article 26 where it stipulates that "Elementary education shall be compulsory." In the philosophies of [[John Holt (educator)|John Holt]] and others, compulsory education itself violates the right of a person to peacefully follow his or her own interests: . 
+
+{{Quotation|No human right, except the right to life itself, is more fundamental than this. A person’s freedom of learning is part of his freedom of thought, even more basic than his freedom of speech. If we take from someone his right to decide what he will be curious about, we destroy his freedom of thought. We say, in effect, you must think not about what interests you and concerns you, but about what interests and concerns us.|[[John Holt (educator)|John Holt]]|Escape from Childhood}} . 
+
+This instance of the word "compulsory" is the only one in the entire document. The word "compel" is used twice, however, both times with negative connotations.  . 
+
+====The Right to Refuse to Kill====. 
+Groups such as [[Amnesty International]]<ref name="autogenerated1997">[http://www.amnesty.org/en/library/info/EUR01/004/1997/en Out of the margins: the right to conscientious objection to military service in Europe: An announcement of Amnesty International's forthcoming campaign and briefing for the UN Commission on Human Rights], 31 March 1997. Amnesty International. </ref> and [[War Resisters International]]<ref name="War Resisters International">[http://www.wri-irg.org/books/co-guide-un.htm A Conscientious Objector's Guide to the UN Human Rights System], Parts 1, 2 & 3, Background Information on International Law for COs, Standards which recognise the right to conscientious objection, War Resisters' International. </ref> have advocated for "The Right to Refuse to Kill" to be added to the UDHR. War Resisters International has stated that the right to [[Conscientious objector|conscientious objection]] to military service is primarily derived from, but not yet explicit in, Article 18 of the UDHR: the right to freedom of thought, conscience and religion. <ref name="War Resisters International" /> . 
+
+[[Conscientious Objector#United Nations|Steps have been taken within the United Nations to make this right more explicit]]; but those steps have been limited to secondary, more "marginal" United Nations documents.  That is why Amnesty International would like to have this right brought "out of the margins" and explicitly into the primary document, namely the UDHR itself. <ref name="autogenerated1997"/> . 
+
+{{Quotation|To the rights enshrined in the Universal Declaration of Human Rights one more might, with relevance, be added. It is "The Right to Refuse to Kill."<ref>[[Sean MacBride]], [http://nobelprize.org/nobel_prizes/peace/laureates/1974/macbride-lecture.html The Imperatives of Survival], Nobel Lecture, 12 December 1974, [http://www.nobelprize.org/index.html The Nobel Foundation]&nbsp;– Official website of the [[Nobel Foundation]]. (English index page; hyperlink to Swedish site.) From [http://www.nobelprize.org/nobel_organizations/nobelfoundation/publications/lectures/peace.html Nobel Lectures in Peace] 1971–1980. </ref> | Assistant [[Secretary General of the United Nations]], and [[Nobel Peace Prize|Nobel Peace]] Laureate, [[Sean MacBride]]|1974 Nobel Lecture}} . 
+
+===Bangkok Declaration===. 
+In the Bangkok Declaration adopted by Ministers of Asian states meeting in 1993 in the lead up to the [[World Conference on Human Rights]] held in the same year, Asian governments reaffirmed their commitment to the principles of the United Nations Charter and the Universal Declaration of Human Rights.  They stated their view of the interdependence and indivisibility of human rights and stressed the need for universality, objectivity and non-selectivity of human rights. At the same time, however, they emphasized the principles of sovereignty and noninterference, calling for greater emphasis on economic, social, and cultural rights, particularly the right to economic development, over civil and political rights. The Bangkok Declaration is considered to be a landmark expression of the [[Asian Values]] perspective, which offers an extended critique of human rights [[Moral universalism|universalism]]. <ref>[http://law.hku.hk/lawgovtsociety/Bangkok%20Declaration.htm Final Declaration Of The Regional Meeting For Asia Of The World Conference On Human Rights]</ref> . 
+
+==See also==. 
+{{Portal|Freedom of speech|Human rights}}
+===Human Rights===. 
+*[[History of human rights]]
+*[[Human Rights]]
+*[[Portal: Human rights]]
+*[[Timeline of young people's rights in the United Kingdom]]
+*[[Timeline of young people's rights in the United States]] . 
+
+===Non-binding agreements===. 
+*[[Cyrus Cylinder]], Ancient Persia, 559–530 BC
+*[[United States Declaration of Independence]], 1776
+*[[Declaration of Sentiments]], 1848
+*[[Cairo Declaration on Human Rights in Islam]], 1990
+*[[Vienna Declaration and Programme of Action]], 1993
+*[[United Nations Millennium Declaration]], 2000 . 
+
+===National human rights law===. 
+*[[Cáin Adomnáin]], 697
+*[[Magna Carta]], England, 1215
+*[[Golden Bull of 1222|Golden Bull]], Hungary, 1222
+*[[Habeas Corpus Act 1679]], England, 1679
+*[[English Bill of Rights]] and [[Claim of Right Act 1689|Scottish Claim of Right]], 1689
+*[[Virginia Declaration of Rights]], 1776
+*[[United States Bill of Rights]], completed in 1789, approved in 1791
+*[[Declaration of the Rights of Man and of the Citizen]], France 1789
+*[[Constitution of the Soviet Union]], first 1918, but did not guarantee rights to the middle class
+*[[Canadian Charter of Rights and Freedoms]], 1982 . 
+
+===International human rights law===. 
+*[[European Convention on Human Rights]], 1950
+*[[Convention Relating to the Status of Refugees]], 1954
+*[[Convention on the Elimination of All Forms of Racial Discrimination]], 1969
+*[[International Covenant on Civil and Political Rights]], 1976
+*[[International Covenant on Economic, Social and Cultural Rights]], 1976
+*[[Convention on the Elimination of All Forms of Discrimination Against Women]], 1981
+*[[Convention on the Rights of the Child]], 1990
+*[[Charter of Fundamental Rights of the European Union]], 2000 . 
+
+===Other===. 
+*[[Command responsibility]]
+*[[Declaration on Great Apes]], an as-yet unsuccessful effort to extend some human rights to [[Hominidae|great apes]]
+*[[John Peters Humphrey]] & film [http://www.histori.ca/minutes/minute.do?id=10219 PSA Histori.ca short]
+*[[Paris Peace Conference, 1919#Japanese approach|Racial equality proposal]],1919
+*[[Khutbatul Wada']], 632 . 
+
+==Notes==. 
+{{reflist|2}}
+The Earth Charter . 
+
+==References==. 
+*{{cite book|last=Glendon|first=Mary Ann |title=A world made new: Eleanor Roosevelt and the Universal Declaration of Human Rights|url=http://books.google.com/books?id=2-vaZkbca2sC|year=2002|publisher=Random House|isbn=978-0-375-76046-4|ref=harv}}
+*{{cite book|last=Hashmi|first=Sohail H. |title=Islamic political ethics: civil society, pluralism, and conflict|url=http://books.google.com/books?id=5LmXFpnp_bMC|year=2002|publisher=Princeton University Press |isbn=978-0-691-11310-4|ref=harv}}
+*{{cite book|last=Morsink|first=Johannes |title=The Universal Declaration of Human Rights: origins, drafting, and intent|url=http://books.google.com/books?id=w8OapwltI3YC|year=1999|publisher=[[University of Pennsylvania Press]] |isbn=978-0-8122-1747-6|year=1999|isbn=978-0-8122-1747-6|ref=harv}}
+*{{cite book|last=Price|first=Daniel E. |title=Islamic political culture, democracy, and human rights: a comparative study|url=http://books.google.com/books?id=YgF58rl4tCkC|year=1999|publisher=[[Greenwood Publishing Group]] | isbn=978-0-275-96187-9|ref=harv}}
+*{{cite book|last=Williams|first=Paul |coauthors=United Nations. General Assembly|title=The International bill of human rights|url=http://books.google.com/books?id=bpV5QgAACAAJ|year=1981|publisher=Entwhistle Books|isbn=978-0-934558-07-5|ref=harv}} . 
+
+==Further reading==. 
+* [http://www.columbia.edu/ccnmtl/projects/mmt/udhr/index.html Universal Declaration of Human Rights pages at Columbia University (Centre for the Study of Human Rights), including article by article commentary, video interviews, discussion of meaning, drafting and history.]
+*John Nurser, "For All Peoples and All Nations. Christian Churches and Human Rights.". (Geneva: WCC Publications, 2005).  . 
+
+==External links==. 
+{{wikisource}}
+{{Wiktionary}}
+{{Commons category}}
+* [http://www.un.org/Overview/rights.html Text of the UDHR] (English)
+* [http://www.ohchr.org/en/udhr/pages/introduction.aspx Official translations of the UDHR]
+* [http://libraryresources.unog.ch/udhr Resource Guide on the Universal Declaration of Human Rights (UN Library, Geneva)]
+* [http://www.unac.org/rights/question.html Questions and answers about the Universal Declaration]
+*[http://www.americanrhetoric.com/speeches/eleanorrooseveltdeclarationhumanrights.htm Text, Audio, and Video excerpt of Eleanor Roosevelt's Address to the United Nations on the Universal Declaration of Human Rights]
+*[http://www.universalrights.net/main/educat.htm UDHR – Education]
+*[http://www.envio.org.ni/articulo/1349 Revista Envío – A Declaration of Human Rights For the 21st Century] . 
+
+===Audiovisual Materials===. 
+* [http://librivox.org/the-universal-declaration-of-human-rights-by-the-united-nations/ Librivox: Human-read audio recordings in several Languages]
+* [http://www.americanrhetoric.com/speeches/eleanorrooseveltdeclarationhumanrights.htm Text, Audio, and Video excerpt of Eleanor Roosevelt's Address to the United Nations on the Universal Declaration of Human Rights]
+* [http://jp.youtube.com/watch?v=epVZrYbDVis Animated presentation of the Universal Declaration of Human Rights by Amnesty International, from Youtube] (English, 20 minutes and 23 seconds)
+* [http://webcast.un.org/ramgen/ondemand/legal/audio/humanrights/dr_charles_malik-human_rights_06_nov_48.rm Audio: Statement by Charles Malik as Representative of Lebanon to the Third Committee of the UN General Assembly on the Universal Declaration, 6 November 1948.]
+* [http://www.columbia.edu/ccnmtl/projects/mmt/udhr/ramfiles/udhr_045.ram UN Department of Public Information introduction to the drafters of the Declaration.] . 
+
+{{Articles of the Universal Declaration of Human Rights}}
+{{Human rights}} . 
+
+{{DEFAULTSORT:Universal Declaration Of Human Rights}}
+[[Category:1948 in law]]
+[[Category:Human rights]]
+[[Category:Human rights instruments]]
+[[Category:United Nations General Assembly resolutions]]
+[[Category:History of human rights]]

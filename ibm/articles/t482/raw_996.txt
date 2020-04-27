@@ -1,0 +1,180 @@
+The '''Tobacco Institute, Inc.''' was a [[United States]] [[tobacco industry]] [[trade group]], founded in 1958 by the American tobacco industry. <ref name="Brandt">
+{{cite book | last = Brandt | first = Allan M. | title = The Cigarette Century: the Rise, Fall and Deadly Persistence of the Product That Defined America | publisher = Basic Books, a member of the Perseus Books Group | location = New York | year = 2007 | isbn = 9780465070473 }}</ref>{{Rp|251}}<ref>{{cite web |url=http://www.cnn.com/2004/LAW/09/21/tobacco.lawsuit/ |date=2004-09-21 |accessdate=2008-08-02 |title=Government lays out fraud case against Big Tobacco |publisher=CNN.com }}</ref>
+It was dissolved in 1998 as part of the [[Tobacco Master Settlement Agreement]]. <ref name="MSA">
+{{cite journal
+| title          = Master Settlement Agreement
+| publisher      = National Association of Attorneys General
+| year           = 1998
+| url            = http://www.naag.org/backpages/naag/tobacco/msa/msa-pdf/1109185724_1032468605_cigmsa.pdf
+| format         = PDF
+| accessdate     = 2008-07-30
+|archiveurl = http://web.archive.org/web/20080625084126/http://www.naag.org/backpages/naag/tobacco/msa/msa-pdf/1109185724_1032468605_cigmsa.pdf <!-- Bot retrieved archive --> |archivedate = 2008-06-25}}
+</ref>{{Rp|25}} . 
+
+==Founding==. 
+The Tobacco Institute was founded in 1958 as a trade organization by cigarette manufacturers, who funded it proportionally to each company's sales. It was initially to supplement the work of the Tobacco Industry Research Committee (which later became the [[Council for Tobacco Research]]). The TIRC work had been limited to attacking scientific studies that put tobacco in a bad light, and the Tobacco Institute had a broader mission to put out good news about tobacco, especially economic news. It also attacked scientific studies, although more by casting doubt on them rather than by rebutting them directly. It also lobbied Congress, although initially at a low level. <ref name="Kluger">
+{{cite book | last = Kluger | first = Richard | authorlink = Richard Kluger | title = Ashes to Ashes: American's Hundred-Year Cigarette War, the Public Health, and the Unabashed Triumph of Philip Morris | publisher = Vintage Books | location = New York | year = 1997 | isbn = 9780375700361 }}</ref>{{Rp|211,466}} . 
+
+==Activities==. 
+===Lobbying and policy work===. 
+The Tobacco Institute collected intelligence on attitudes toward smoking, developed strategies, and lobbied legislators. Allan M. Brandt wrote "The Tobacco Institute, on behalf of the companies, assembled an impressive record of derailing attempts to bring tobacco under any regulatory mandates whatsoever". <ref name="Brandt" />{{Rp|276}} By 1978 the Tobacco Institute had 70 lobbyists, and Senator [[Ted Kennedy]] said in 1979, "Dollar for dollar they're probably the most effective lobby on Capitol Hill". <ref name="Kluger" />{{Rp|466}} . 
+
+The Tobacco Institute hired the Roper Organization in 1978 to survey public attitudes on [[environmental tobacco smoke]]. <ref>
+{{cite journal
+| last           = 
+| first          = 
+| author         = 
+| authorlink     = 
+| coauthors      = 
+| title          = A Study of Public Attitudes Toward Cigarette Smoking and the Tobacco Industry in 1978, v. I
+| version        = 
+| pages          = 
+| publisher      = Roper Organization
+| date           = May 1978
+| doi            = 
+| url            = http://legacy.library.ucsf.edu/tid/jdc70a00
+| accessdate     = 
+}}
+</ref>{{Rp|5}}
+Among its findings were "Nearly six out of ten believe that smoking is hazardous to the non-smoker's health, up sharply over the last four years. More than two-thirds of non-smokers believe it, nearly half of all smokers believe it. This we see as the most dangerous development to the viability of the tobacco industry that has yet occurred." A 1985 meeting of the Executive Committee of the Tobacco Institute outlined plans to broaden the indoor air quality issue. <ref>
+{{cite journal
+| last           = Kloepfer, Jr. 
+| first          = William
+| authorlink     = 
+| title          = Report on Public Smoking Issue
+| publisher      = Tobacco Institute
+| date           = 1985-04-10
+| url            = http://legacy.library.ucsf.edu/tid/owo03f00
+| accessdate     = 2008-07-30
+}}
+</ref>
+In December 1987 the Tobacco Institute's Executive Committee discussed creating an industry-based Center for Indoor Air Research, intended to broaden the question of indoor air pollution beyond tobacco smoke. The CIAR was created in March 1988 by [[Philip Morris USA|Philip Morris]], [[R. J. Reynolds]], and [[Lorillard]]. <ref name="Brandt" />{{Rp|293–294}} . 
+
+In 1990 the Tobacco Institute opposed federal regulations banning smoking on domestic airline flights. <ref name="Brandt" />{{Rp|305}} . 
+
+===Advertising===. 
+The Tobacco Institute ran advertisements and issued pamphlets for general readers. One advertisement consisted of facing two-page advertisements titled "A word to smokers (about nonsmokers and anti-smokers)" and "A word to nonsmokers (about smokers)." The ad encourages tolerance of smokers by depicting smoking as a "personal choice" and a "small ritual". There was no mention of any health effects. <ref>
+{{cite web
+|url=http://legacy.library.ucsf.edu/tid/oji13f00
+|title= A word to smokers
+|accessdate= 2008-07-30
+|date= 1979-02-12
+|publisher= University of California at San Francisco, Legacy Tobacco Documents Library
+}}
+</ref>
+An example pamphlet is ''Answers to the Most Asked Questions about Cigarettes''. <ref>
+{{cite journal
+| title          = Answers to the Most Asked Questions about Cigarettes
+| publisher      = Tobacco Institute
+| year           = 1982
+| url            = http://legacy.library.ucsf.edu/tid/wir77c00
+| accessdate     = 2008-07-30
+}} 
+</ref> . 
+
+The institute also published newsletters aimed at physicians and dentists such as ''Tobacco and Health'' ({{OCLC|48549026}}) <ref name="Brandt" />{{Rp|196}} and a newsletter ''Tobacco Observer'' ({{OCLC|4556750}}) that seems to have been aimed at a general audience. [[Richard Kluger]] characterized ''Tobacco Observer'' as "attack literature."<ref name="Kluger" />{{Rp|466}} . 
+
+===White papers===. 
+The Tobacco Institute published a large number of lengthy "white papers". Scanned copies of many of these are available in the [[Legacy Tobacco Documents Library]]. Many of these papers rebutted scientific reports critical of tobacco. The Tobacco Institute's response to such a report was rapid: a rebuttal was published<ref>
+{{cite journal
+| title          = Smoking and Health 1964–1979: The Continuing Controversy
+| publisher      = Tobacco Institute
+| date           = 1979-01-10
+| url            = http://legacy.library.ucsf.edu/tid/bsv82f00
+| accessdate     = 2008-07-30
+}}
+</ref>
+to the 1979 [[Surgeon General of the United States|Surgeon General]]'s report on "Smoking and Health" one day before that report was issued.  Another rebuttal<ref>
+{{cite journal
+| title          = Situation Report: Tobacco Smoke in the Air
+| publisher      = Tobacco Institute
+| date           = May 1985
+| url            = http://legacy.library.ucsf.edu/tid/sgo86d00
+| accessdate     = 2008-07-30
+}} 
+</ref>
+was issued to James Repace and Alfred Lowrey's report "A Quantitative Estimate of Nonsmokers' Lung Cancer Risk." . 
+
+A press release from the Tobacco Institute attacked the 1986 Surgeon General's report on second-hand smoke,<ref>
+{{cite book
+|title=The health consequences of involuntary smoking: a report of the Surgeon General
+|publisher=U. S. Government Printing Office
+|oclc=14990774
+}}
+</ref>
+saying that the Surgeon General had distorted the evidence and that [[Health and Human Services]] was suppressing contrary scientific viewpoints. <ref>
+{{cite press release
+ | title = Government Health Officials Involved in Efforts to Censor Dissenting Scientific Viewpoints; Tobacco Institute Demands Cabinet-Level Investigation; Accuses Officials of Abusing Science for Political Ends
+ | publisher = Tobacco Institute
+ | date = 1986-12-11
+ | format = 
+ | language = 
+ | url = http://legacy.library.ucsf.edu/tid/btw19e00
+ | accessdate = 2008-07-30
+ | quote = 
+ }}
+</ref>
+There was also a longer rebuttal paper. <ref>
+{{cite journal
+| title          = Tobacco Smoke and the Nonsmoker: Scientific Integrity at the Crossroads
+| publisher      = Tobacco Institute
+| year           = 1986
+| url            = http://legacy.library.ucsf.edu/tid/lrp90c00
+| accessdate     = 2008-07-30
+}}
+</ref> . 
+
+The Tobacco Institute criticized the [[United States Environmental Protection Agency‎]]'s 1993 report declaring tobacco smoke to be a Class A human carcinogen. <ref name="Brandt" />{{Rp|306}} . 
+
+===Stealthy techniques===. 
+In at least one case the Tobacco Institute paid for an article to be written and placed in a major national magazine while keeping their involvement secret. The article, "To Smoke or Not to Smoke—That is still the Question"<ref>
+{{cite journal
+ | quotes = 
+ | last = Frank
+ | first = Stanley
+ | authorlink = 
+ | year = 1968
+ | month = January
+ | title = To Smoke or Not to Smoke—That is Still the Question
+ | journal = True
+ | pages = 
+ | url = http://legacy.library.ucsf.edu/tid/ydv08c00
+ | accessdate = 2008-07-30
+ }}
+</ref>
+by Stanley Frank was published in the January 1968 issue of ''[[True (magazine)|True]]'' magazine. Frank was paid $500 by Brown & Williamson to write the article,<ref name="cigarette papers">
+{{cite book | last = Glantz | first = Stanton | authorlink=Stanton Glantz |coauthors = John Slade, Lisa A. Bero, Peter Hanauer, Deborah E. Barnes | title = The Cigarette Papers | publisher = University of California Press | location = Berkeley | year = 1996 | isbn = 9780520213722 }}
+</ref>{{Rp|180}}
+and the Tobacco Institute paid $500,000 to [[Rosser Reeves]] to publicize the article and distribute one million copies of it. <ref name="Brandt" />{{Rp|264-265}} The story of the Tobacco Institute's involvement was uncovered and published by ''[[Consumer Reports]]''. <ref>
+{{cite journal
+ | year = 1968
+ | month = June
+ | title = The truth about...True's Article on Smoking
+ | journal = Consumer Reports
+ | pages = 336–339
+ | url = http://legacy.library.ucsf.edu/tid/cgv82f00
+ | accessdate = 2008-08-01
+ }}
+</ref> . 
+
+==Demise==. 
+By the 1990s the Tobacco Institute had lost its preeminent role in tobacco lobbying to the market leader, [[Philip Morris USA|Philip Morris]], but continued to gather intelligence on anti-smoking sentiment and legislative actions. <ref name="Kluger" />{{Rp|684}} . 
+
+In 1998, as part of the [[Tobacco Master Settlement Agreement]], the Tobacco Institute, the Center for Indoor Air Research, and the [[Council for Tobacco Research]] were dissolved. <ref name="MSA" />{{Rp|25}} . 
+
+==In popular culture==. 
+* Tobacco Institute was depicted in [[Christopher Buckley (novelist)|Christopher Buckley]]'s 1994 novel ''[[Thank You for Smoking (novel)|Thank You For Smoking]]'' (and in the [[Thank You for Smoking (film)|2005 movie made from it]]) as the Academy of Tobacco Studies.  . 
+
+*Dave Barry made several jokes about the Tobacco Institute in columns, mainly proposing that its scientists participate in dangerous activities.  . 
+
+==External links==. 
+*Panzer, Fred [Tobacco Institute vice-president]<ref>Littlemore, Richard (2010-05-12) [http://www.newscientist.com/article/mg20627606.200-living-in-denial-how-corporations-manufacture-doubt.html Living in denial: How corporations manufacture doubt], ''[[New Scientist]]''</ref> (1972-05-01) [http://legacy.library.ucsf.edu/tid/quo14e00/pdf The Roper proposal] (PDF) . 
+
+==References==. 
+{{Reflist|2}} . 
+
+[[Category:Defunct organizations]]
+[[Category:Industry trade groups based in the United States]]
+[[Category:Organizations established in 1958]]
+[[Category:Tobacco in the United States]]
+[[Category:1998 disestablishments]]

@@ -1,0 +1,344 @@
+'''[[Population]] decline''' can refer to the decline in population of any organism, but this article refers to population decline in [[humans]]. It is a term usually used to describe any great reduction in a human population. <ref>[http://www.m-w.com/dictionary/depopulation Depopulate] - Webster's Online Dictionary</ref> It can be used to refer to long-term demographic trends, as in [[urban decay]] or [[rural flight]], but it is also commonly employed to describe large reductions in population due to violence, disease, or other catastrophes. <ref>[http://www.yourdictionary.com/depopulate Depopulate] - yourdictionary.com. </ref> . 
+
+== Definition ==. 
+Sometimes known as '''depopulation''', population decline is the reduction over time in a region's [[census]]. It can be caused for several reasons; notable ones include [[sub-replacement fertility]] (along with limited [[immigration]]), heavy [[emigration]], [[disease]], [[famine]], and [[war]]. History is replete with examples of large scale depopulations. Many wars, for example, have been accompanied by significant depopulations. Prior to the 20th century, population decline was mostly observed due to disease, starvation and/or emigration. The [[Black Death]] in Europe, the arrival of [[Old World]] diseases to the [[Americas]], the [[tsetse fly]] invasion of the [[Waterberg Massif]] in [[South Africa]], and the [[Great Famine (Ireland)|Great Irish Famine]] have all caused sizable population declines. In modern times, the [[AIDS]] [[epidemic]] has caused declines in the population of some African countries. Less frequently, population declines are caused by [[genocide]] or mass [[execution]]; for example, in the 1970s, the population of [[Cambodia]] underwent a period of decline due to wide-scale executions by the [[Khmer Rouge]].  . 
+
+Sometimes the term '''underpopulation''' is applied in the context of a specific economic system. It does not relate to carrying capacity, and is not a term in opposition to [[overpopulation]], which deals with the total possible population that can be sustained by available food, water, sanitation and other infrastructure.  "Underpopulation" is usually defined as a state in which a country's population has declined too much to support its current economic system. Thus the term has nothing to do with the biological aspects of [[carrying capacity]], but is an economic term employed to imply that the transfer payment schemes of some developed countries might fail once the population declines to a certain point. An example would be if retirees were supported through a [[social security]] system which does not invest savings, and then a large emigration movement occurred. In this case, the younger generation may not be able to support the older generation.  . 
+
+==Changing trends==. 
+Today, emigration and [[sub-replacement fertility]] rates as well as high death rates in the former Soviet Union and its former allies are the principal issues related to any regional population decline. However, governments can influence the speed of the decline, including measures to halt, slow or suspend decline. Among such measures include pro-birth policies and subsidies, media influence, immigration, bolstering healthcare and laws aimed at rooting out vice (lowering death rates). Such is the case in Russia and Armenia, as well as many Western European nations who have used immigration and other policies as a means of suspending or slowing population decline. Therefore although very long term trends may favor accelerating population decline, short term trends may slow decline or even reverse from decline to growth and back and so on, creating seemingly conflicting statistical data. 
+A great example of changing trends occurring over a century is [[Irish population analysis|Ireland]].  . 
+
+==Statistical misreadings==. 
+Statistical data, especially comparing only two sets of figures, can show an incorrect population trend.   A nation's population could be increasing, but an one-off event could have resulted in decline and vice-versa. Nations can acquire territory or lose territory and people, consider people citizens they previously denied citizenship to, e.g. [[stateless]] persons, indigenous people, and undocumented immigrants or long stay foreign residents. Political instability can render an area within a nation's count unreliable for comparison.  . 
+
+A common misreading is due to time. Populations on the verge of decline could rise in summer and decline in winter as deaths increase in winter in cold regions, similarly, census dates over too long a time range could show a rise when a country has already tipped into decline. Therefore, numerous sets of statistics should be interpreted to get an idea of a trend.  . 
+
+==Decline by nation==. 
+[[File:Депопуляция.png|thumb|380px|right|Population Decline. Red is decline, pink is approaching.]] . 
+
+A number of nations today are facing long term population decline, stretching from North Asia ([[Japan]] through to Eastern Europe through [[Russia]] including [[Kazakhstan]], [[Ukraine]], [[Belarus]], [[Moldova]], [[Estonia]], [[Latvia]], [[Lithuania]], [[Bulgaria]], [[Georgia (country)|Georgia]], [[Armenia]], [[Bosnia and Herzegovina|Bosnia]], [[Croatia]], [[Slovenia]], [[Germany]], [[Hungary]], and now [[Italy]]. Countries rapidly approaching long term population declines (but currently still growing, albeit slowly) include [[Greece]], [[Spain]], [[Cuba]], [[Uruguay]], [[Denmark]], [[Finland]], [[Austria]] and [[Lesotho]].   . 
+
+Yet some of these very nations like Russia<ref>http://www.russia-media.ru/mainmore.php?tpl=General+News&iditem=2488</ref> have claimed to have suspended or nearly suspended population decline as of 2010.  [[Kazakhstan]]'s population is now growing, and the 2009 Census reported over 16 million people. <ref>http://www.eng.stat.kz/news/Pages/n1_12_11_10.aspx</ref>  . 
+
+Many nations in Western Europe (and the EU as a whole) today would have declining populations if it were not for international immigration. The total population of the ''continent'' of Europe (including Russia and other non-EU countries) already peaked around the year 2000 and as of 2004 is falling. <ref>http://www.populationpress.org/publication/2004-1-myers.html</ref> . 
+
+[[AIDS]] plays some role in population decline; however, data available suggests that, even with high AIDS mortality, fertility rates in Africa are sufficiently high, so that [[overpopulation]] trends continue. <ref>{{cite web| url=http://www.prb.org/pdf06/06WorldDataSheet.pdf| format=PDF| title= 2006 World Population Datasheet| publisher= Population Reference Bureau}}</ref> . 
+
+{| class="wikitable sortable"
+|+ Table:1 Population Decline in Percent by Country (from various sources)
+!Country
+!Year
+!Population
+!Rate of natural decrease<br>in percent<ref>[http://www.prb.org/pdf07/07WPDS_Eng.pdf 2007 World Population Data Sheet]</ref>
+!Main reason for decrease
+. |-
+|{{flagicon|Albania}} [[Albania]]
+|2011
+|[[demographics of Albania|2,831,741]]
+|
+|emigration
+. |-
+|{{flagicon|Armenia}} [[Armenia]]
+|2009
+|[[demographics of Armenia|2,967,004]]
+|0.03
+|emigration
+. |-
+|{{flagicon|Belarus}} [[Belarus]]
+|2009
+|[[demographics of Belarus|9,648,533]]
+|0.378
+|low birth rate
+. |-
+|{{flagicon|Bulgaria}} [[Bulgaria]]
+|2009
+|[[demographics of Bulgaria|7,300,000]]
+|0.79
+|low birth rate, high death rate, high rate of abortions, a relatively high level of emigration of young people and a low level of immigration<ref>http://www.nsi.bg/census2011/pagebg2.php?p2=36&sp2=37&SSPP2=4 2011 National Demographic Census, Age Structure</ref>
+. |-
+|{{flagicon|Croatia}} [[Croatia]]
+|2009
+|[[demographics of Croatia|4,489,409]]
+|0.052
+|low birth rate
+. |-
+|{{flagicon|Czech Republic}} [[Czech Republic]]
+|2009
+|[[demographics of Czech Republic|10,211,904]]
+|0.094
+|low birth rate
+. |-
+|{{flagicon|Cuba}} [[Cuba]]
+|2009
+|[[demographics of Cuba|11,239,363]]
+|0.04
+|emigration, low birth rate<ref>[http://www.cubaheadlines.com/2009/05/05/17012/cuban_population_still_decrease.html Cuban Population still on the Decrease]</ref>
+. |-
+|{{flagicon|Estonia}} [[Estonia]]
+|2009
+|[[demographics of Estonia|1,299,371]]
+|0.632
+|low birth rate
+. |-
+|{{flagicon|Georgia}} [[Georgia (country)|Georgia]]
+|2009
+|[[demographics of Georgia|4,615,807]]
+|0.325
+|emigration
+. |-
+|{{flagicon|Germany}} [[Germany]]
+|2009
+|[[demographics of Germany|82,329,758]]
+|0.053
+|low birth rate
+. |-
+|{{flagicon|Greenland}}[[Greenland]]
+|2009<ref>[http://demographymatters.blogspot.com/2009/07/greenland-dubai-on-arctic.html Greenland: Dubai on the Arctic or slow decline?]</ref>
+|[[demographics of Greenland|56,000]]
+|
+|low birth rate
+. |-
+|{{flagicon|Italy}} [[Italy]]
+|2009
+|[[demographics of Italy|58,126,212]]
+|0.047<ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/it.html CIA World Factbook&mdash;Italy] [[CIA World Factbook]] Retrieved on October 6, 2009</ref>
+|low birth rate
+. |-
+|{{flagicon|Hungary}} [[Hungary]]
+|2009
+|[[demographics of Hungary|10,031,000]]
+|0.257
+|low birth rate
+. |-
+|{{flagicon|Japan}} [[Japan]]
+|2009
+|[[demographics of Japan|127,078,679]]
+|0.191<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html |title=CIA World Factbook &ndash; Japan|work=CIA World Factbook|accessdate=October 6, 2009}}</ref>
+|low birth rate and a low level of immigration
+. |-
+|{{flagicon|Latvia}} [[Latvia]]
+|2009
+|[[demographics of Latvia|2,231,503]]
+|0.614
+|low birth rate
+. |-
+|{{flagicon|Lithuania}} [[Lithuania]]
+|2009
+|[[demographics of Lithuania|3,555,179]]
+|0.279
+|low birth rate
+. |-
+|{{flagicon|Federated States of Micronesia}} [[Federated States of Micronesia]]
+|2009
+|[[demographics of Federated States of Micronesia|111,000]]
+|0.238
+|emigration
+. |-
+|{{flagicon|Moldova}} [[Moldova]]
+|2009
+|[[demographics of Moldova|4,320,748]]
+|0.079
+|low birth rate
+. |-
+|{{flagicon|Montenegro}} [[Montenegro]]
+|2009
+|[[demographics of Montenegro|672,180]]
+|0.851
+|low birth rate
+. |-
+|{{flagicon|Poland}} [[Poland]]
+|2009
+|[[demographics of Poland|38,482,919]]
+|0.047
+|low birth rate
+. |-
+|{{flagicon|South Africa}} [[South Africa]]
+|2009
+|[[demographics of South Africa|50,586,757]]
+|0.0401
+| "[[white flight]]",<ref>http://en.wikipedia.org/wiki/White_flight#South_Africa</ref> high incidence of disease (HIV/AIDS)
+. |-
+|{{flagicon|Romania}} [[Romania]]
+|2009
+|[[demographics of Romania|22,215,421]]
+|0.147
+|low birth rate
+. |-
+|{{flagicon|Russia}} [[Russia]]
+|2009
+|[[demographics of Russia|141,927,297]]
+|0.177
+|high death rate, low birth rate, high rate of abortions, and a low level of immigration<ref>Rosenberg, Matt [http://geography.about.com/od/obtainpopulationdata/a/russiapop.htm Population Decline in Russia]
+</ref>
+. |-
+|{{flagicon|Serbia}} [[Serbia]]
+|2011
+|[[demographics of Serbia|7,120,666]]
+|
+|high death rate, declining births
+. |-
+|{{flagicon|Slovenia}} [[Slovenia]]
+|2009
+|[[demographics of Slovenia|2,005,692]]
+|0.113
+|
+. |-
+|{{flagicon|Swaziland}} [[Swaziland]]
+|2009
+|[[Demographics of Swaziland|1,123,913]]
+|0.459
+|high incidence of disease (HIV AIDS)
+. |-
+|{{flagicon|Trinidad and Tobago}} [[Trinidad & Tobago]]
+|2009
+|[[demographics of Trinidad and Tobago|1,229,953]]
+|0.102
+|emigration
+. |-
+|{{flagicon|Ukraine}} [[Ukraine]]
+|2009
+|[[demographics of Ukraine|45,700,395]]
+|0.632
+|declining births
+. |-
+|{{flagicon|Zimbabwe}} [[Zimbabwe]]
+|2008
+|[[demographics of Zimbabwe|12,521,000]]
+|0.787
+|high incidence of disease (HIV-AIDS) and emigration due to political oppression
+|} . 
+
+==Long term decline situation==. 
+A long-term population decline is typically caused by [[sub-replacement fertility]], coupled with a net immigration rate that fails to compensate the excess of deaths over births. <ref name="Bonin">{{cite book |title=Generational accounting: theory and application |last=Bonin |first=Holger |year=2001 |publisher=Springer |isbn=3540422668 |accessdate=March 4, 2011}}</ref>  A long-term decline is accompanied by [[population aging]] and creates an increase in the ratio of [[Pensioner|retirees]] to workers and children. <ref name="Bonin"/>  When a sub-replacement fertility rate remains constant, population decline accelerates over time. <ref name="Bonin"/> . 
+
+===Eastern Europe and Former Soviet Republics===. 
+Population is falling due to health factors and low replacement, as well as emigration of ethnic Russians to Russia. Exceptions to this rule is in those ex-Soviet states which have a Muslim majority ([[Uzbekistan]], [[Turkmenistan]], [[Tajikistan]], [[Kyrgyzstan]], [[Azerbaijan]]) as high birth rates are traditional. Much of Eastern Europe has lost population due to migration to Western Europe. In [[Eastern Europe]] and [[Russia]], [[Wiktionary:natality|natality]] fell abruptly [[history of post-Soviet Russia|after the end of the Soviet Union]], and death rates generally rose. Together these nations occupy over {{convert|8000000|sqmi|km2}} and are home to over 400 million people (less than six percent of the world population), but if current trends continue, more of the developed world and some of the developing world could join this trend.{{Citation needed|date=June 2010}} . 
+
+===Albania===. 
+Albania's population in 1989 recorded some 3,182,417 people, the largest for any census.  Since then, its population has declined to 2,831,741 as of the October 2011 census figures. <ref>http://www.citypopulation.de/Albania.html</ref>  This represents a 10.5% decrease of 12.4% in total population since the peak census figure.  . 
+
+===Armenia===. 
+Armenia's population peaked at 3,604,000 in 1991<ref>http://www.armstat.am/en/</ref> and has continued its decline to 3,260,000<ref>http://docs.armstat.am/nsdp/</ref> estimated in 4Q 2010. This represents a 10.5% decrease in total population since the peak census figure.  . 
+
+===Belarus===. 
+Belarus' population peaked at 10,151,806 in 1989 Census, and then has declined to 9,467,300 in August 1, 2011. <ref>http://naviny.by/rubrics/english/2011/08/27/ic_news_259_375078/</ref>  This represents a 7.2% decline since the peak census figure.  . 
+
+===Bulgaria===. 
+Bulgaria's population has declined from a peak of 9,009,018 in 1989 and since 2001, has lost yet another 600,000 people, according to 2011 census preliminary figures to no more than 7.3 million. <ref>http://www.sofiaecho.com/2011/03/01/1052038_bulgarian-population-shrinks-by-about-600-000</ref>  This represents a 23.4% decrease in total population since the peak, and a -0.82% rate in the last 10 years.  . 
+
+===Croatia===. 
+Croatia's peak census population was 4,784,265 in 1991<ref>http://www.citypopulation.de/Croatia-Cities.html</ref> and has since shrunk to 4,290,612 as of 2011.  This represents a 11.5% decrease  since the peak census figure.  . 
+
+===Greece===. 
+Greece's latest census reported its population fell to 10,787,690 from 10,934,097 in 2001 census. <ref>http://www.ekathimerini.com/4dcgi/_w_articles_wsite1_1_25/07/2011_399816</ref> . 
+
+===Japan===. 
+Though Japan has been forecast to decline in population for years, and its monthly and even annual estimates have shown a decline in the past, the 2010 census result figure was slightly higher at just above 128 million<ref>http://www.e-stat.go.jp/SG1/estat/Csvdl.do?sinfid=000008640423</ref> than the 2005 census and its population has yet to register a decline between census periods though shorter periods may show declines. The 2010 census figure is expected to be the long term census peak. Factors implicated in the higher figures were more Japanese returnees than expected as well as changes to the methodology of data collection. By 2060, Japan's population will shrink by 1/3 to 87 million people (from 128 million in 2012). <ref>http://www.washingtonpost.com/world/asia-pacific/japan-estimates-population-to-shrink-by-one-third-by-2060-seniors-to-account-to-40-percent/2012/01/30/gIQAdSGxbQ_story.html</ref> . 
+
+===Hungary===. 
+Hungary's population peaked in 1980 at 10,709,000,<ref>http://portal.ksh.hu/pls/ksh/docs/eng/xstadat/xstadat_long/h_wdsd001a.html</ref> far earlier than its Soviet cousins, and has continued its decline to under 10 million as of August 2010. <ref>{{cite news| url=http://blogs.wsj.com/new-europe/2010/10/28/hungarian-population-falls-below-10-million/ | work=The Wall Street Journal | first=Veronika | last=Gulyas | title=Hungarian Population Falls Below 10 Million | date=October 28, 2010}}</ref>  This represents a decline of 7.1% since its peak, however, compared to neighbors situated to the East, the rate has been far more modest, averaging -0.23% a year over the period.  . 
+
+===Ireland===. 
+Regarding the current area of the [[Republic of Ireland]], the population has fluctuated dramatically. The population was 6.53 million in 1841, and dropped due to the [[Irish famine]] to under 3 million by the 1930s, and began rising, in 2011 to 4.58 million.  . 
+
+===Latvia===. 
+When Latvia split from the Soviet Union, it had a population of 2,666,567, which was close to its peak population. <ref name="citypop">http://www.citypopulation.de/Latvia.html</ref>  The latest census 
+recorded a population of 2,067,887 in 2011. <ref name="citypop"/>
+This represents a 28.9% decline since the peak census figure.  . 
+
+===Lithuania===. 
+When Lithuania split from the Soviet Union, it had a population of 3.7 million, which was close to its peak population. <ref name="bizweek">http://www.businessweek.com/ap/financialnews/D9N8JV6G0.htm</ref>  The latest census 
+recorded a population of 3.05 million in 2011, down from 3.4 million in 2001. <ref name="bizweek"/>  
+This represents a 21.3% decline since the peak census figure, and some 11.5% since 2001.  . 
+
+===Romania===. 
+Romania's 1992 census showed 22,810,035 people, by the October 2011 census it had recorded only 19,042,936 people, a decline of over 2.6 million from the 21.68 million in 2002. <ref>http://www.citypopulation.de/Romania-Cities.html</ref>  It represents a decline of nearly 19.8% from the peak census figure, and a total population loss only exceeded by Russia and Ukraine.  . 
+
+===Russia===. 
+{{See|Russian Cross}}
+Russia's total population is among the largest drops in numbers (but not in percentage). Its peak was 148,689,000 in 1991, and its own estimate was 141,927,297 for January 1, 2011. <ref>http://www.gks.ru/free_doc/2010/popul10-Pr.xls</ref>  This represents a 4.7% decrease in total population since the peak census figure.  . 
+
+===Serbia===. 
+Serbia recorded a peak census population of 7,576,837 in 1991, falling to 7,120,666 in the latest October 2011 census. <ref>http://www.citypopulation.de/Serbia-Cities.html</ref>  That represents a decline of 6.4% since its peak census figure.  . 
+
+===Ukraine===. 
+Ukraine census in 1989 resulted in 51,452,034 people,<ref>http://demoscope.ru/weekly/ssp/sng_nac_79.php</ref> the closest known data to the peak, however than number has plummeted to 45,633,600 as of Jan 1, 2012. <ref>http://www.ukrstat.gov.ua/operativ/operativ2012/ds/kn/kn_e/kn0112_e.html Statistical Table Jan 2012</ref>  This represents a 12.75% decrease in total population since the peak census figure.  . 
+
+==Declines within race or ethnicity==. 
+{{see also|Minority-Majority}} . 
+
+Some large and even majority groups within a population have shown an overall decline in numbers while the total population increases. Such is the case in California, where the [[Non-Hispanic Whites]] population declined from 15.8 million to 14.95 million,<ref>http://www.sacbee.com/2011/05/16/3629466/californias-latino-and-asian-population.html</ref> meanwhile the total population increased from 33 million to over 37 million from 2000 to 2010 censuses. In Western Europe, the population of people of local origins have been in absolute decline for a number of years while total populations have shown increases.  . 
+
+Populations of certain ethnic groups worldwide has slowed down considerably while others have marched on. In particular, 5 groups: 
+North American Whites (~230 million), Europeans in Europe (~700 million), Japanese (~128 million), Chinese (~1380 million), and Koreans (~73 million) population growth rates have declined sharply to very modest growth, and all these groups are expected to see population declines in the next 20–30 years, if they aren't seeing them already. Ethnic Thais (~65 million) are also expected to follow not far behind, although their cousins the ethnic Lao birth rates still in the high range.  . 
+
+==Economic consequences==. 
+{{See|Dependency ratio|Pensions crisis}} . 
+
+The effects of a declining population can be adverse for an [[economy]] which has borrowed extensively for repayment by younger generations. 
+Economically declining populations are thought to lead to [[deflation (economics)|deflation]], which has a number of effects. However, Russia, whose economy has been rapidly growing (8.1% in 2007) even as its population is shrinking, currently has high ''inflation'' (12% as of late 2007). <ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/rs.html CIA World Factbook&mdash;Russia [CIA World Factbook&#93;] Retrieved on November 14, 2008</ref> For an agricultural or mining economy the average [[standard of living]] in a declining population, at least in terms of material possessions, will tend to rise as the amount of land and resources per person will be higher.  . 
+
+But for many industrial economies, the opposite might be true as those economies often thrive on mortgaging the future by way of [[debt]] and retirement [[transfer payments]] that originally assumed rising tax revenues from a continually expanding population base (i.e. there would be fewer taxpayers in a declining population). However, [[standard of living]] does not necessarily correlate with [[quality of life]], which may increase as the population declines due to presumably reduced pollution and consumption of natural resources, and the decline of social pressures and overutilization of resources that can be linked to overpopulation. There may also be reduced pressure on [[infrastructure]], education, and other services as well.  . 
+
+The period immediately after the Black Death, for instance, was one of great prosperity, as people had inheritances from many different family members. However, that situation was not comparable, as it did not have a continually declining population, but rather a sudden shock, followed by population increase. Predictions of the ''net'' economic (and other) effects from a slow and continuous population decline (e.g. due to low fertility rates) are mainly theoretical since such a phenomenon is a relatively new and unprecedented one.  . 
+
+A declining population due to low fertility rates will also be accompanied by [[population ageing]] which can contribute problems for a society. This can adversely affect the quality of life for the young as an increased social and economic pressure in the sense that they have to increase per-capita output in order to support an infrastructure with costly, intensive care for the oldest among their population. The focus shifts away from the planning of future families and therefore further degrades the rate of procreation. The decade-long economic malaise of [[Japan]] and [[Germany]] in the 1990s and early 2000s is often linked to these demographic problems, though there were also several other causes. The worst case scenario is a situation where the population falls too low a level to support a current [[social welfare]] economic system, which is more likely to occur with a rapid decline than with a more gradual one.  . 
+
+The economies of both [[Japan]] and [[Germany]] both went into recovery around the time their populations just began to decline (2003–2006). In other words, both the total and per capita GDP in both countries grew more rapidly after 2005 than before.  [[Russia]]'s economy also began to grow rapidly from 1999 onward, even though its population has been shrinking since 1992-93 (the decline is now decelerating). <ref>Nicholas Eberstadt. 2005. "Russia, the Sick Man of Europe". Public Interest, Winter 2005 [http://findarticles.com/p/articles/mi_m0377/is_158/ai_n8680968]</ref>  In addition, many Eastern European countries have been experiencing similar effects to Russia. Such renewed growth calls into question the conventional wisdom that economic growth requires population growth, or that economic growth is impossible during a population decline. However, it may be argued that this renewed growth is ''in spite of'' population decline rather than because of it, and economic growth in these countries would potentially be greater if they were not undergoing such demographic decline. For example, Russia has become quite wealthy selling fossil fuels such as oil, which are now high-priced, and in addition, its economy has expanded from a very low nadir due to the economic crisis of the late 1990s. And although Japan and Germany have recovered somewhat from having been in a deflationary recession and stagnation, respectively, for the past decade, their recoveries seem to have been quite tepid. Both countries fell into the global recession of 2008-2009, but are now recovering once again, being among the first countries to recover. <ref>{{cite news| url=http://www.nytimes.com/2009/08/18/business/global/18inside.html | work=The [[New York Times]] | title=Japan Could Defy the Skeptics | first=Alan | last=Wheatley | date=August 18, 2009 | accessdate=March 27, 2010}}</ref><ref>{{cite news| url=http://business.timesonline.co.uk/tol/business/economics/article6794291.ece | work=The Times | location=London | title=France and Germany emerge from recession | first1=Grainne | last1=Gilmore | first2=Dominic | last2=Walsh | date=August 13, 2009 | accessdate=March 27, 2010}}</ref> . 
+
+In a country with a declining population, the growth of GDP per capita is higher than the growth of GDP. For example, Japan has a higher growth per capita than the United States, even though the US GDP growth is higher than Japan's. <ref>[http://www.economist.com/finance/PrinterFriendly.cfm?story_id=10852462 Economist.com Grossly distorted picture]</ref>  Even when GDP growth is zero or negative, the GDP growth per capita can still be positive (by definition) if the population is shrinking faster than the GDP.  . 
+
+A declining population (regardless of the cause) can also create a [[labor shortage]], which can have a number of positive and negative effects. While some labor-intensive sectors of the economy may be hurt if the shortage is severe enough, others may adequately compensate by increased outsourcing and/or automation. Initially, the labor participation rates (which are low in many countries) can also be increased to temporarily reduce or delay the shortage. On the positive side, such a shortage increases the demand for labor, which can potentially result in a reduced unemployment rate as well as higher wages. Conversely, a high population means labor is in plentiful supply, which usually means wages will be lower. This is seen in countries like China and India.  . 
+
+A smaller national population can also have geo-strategic effects, but the correlation between population and [[power (international relations)|power]] is a tenuous one.  Technology and resources often play  more significant roles.  . 
+
+==National efforts to reverse declining populations==. 
+{{See|Natalistic politics}}
+Former [[Russians|Russian]] President [[Vladimir Putin]] directed Parliament to adopt a 10-year program to stop the sharp decline in [[Russia]]'s population, principally by offering financial incentives and subsidies to encourage women to have children. [[Australia]] currently offers a $5,000 [[Baby Bonus|bonus]] for every baby plus additional fortnightly payments, a free immunization scheme and recently proposed to pay all child care costs for women who want to work. Many European countries, including [[France]], [[Italy]], [[Elterngeld|Germany]] and [[Poland]], have offered some combination of bonuses and monthly payments to families. Some [[Japan]]ese localities, facing significant population loss, are offering economic incentives. [[Yamatsuri]], a town of 7,000 just north of [[Tokyo]], offers parents $4,600 for the birth of a child and $460 a year for 10 years. The [[Republic of Singapore]] has similar plans: $3,000 for the first child, $9,000 in cash and savings for the second; and up to $18,000 each for the third and fourth. <ref>{{cite news| url=http://www.nytimes.com/2006/05/11/world/europe/11russia.html| title=Putin Urges Plan to Reverse Slide in the Birth Rate| publisher=New York Times| author=C. J. Chivers| date=May 11, 2006}}</ref>  The effectiveness of these policies is currently the subject of debate.  . 
+
+Paid [[Parental leave|maternity and paternity leave policies]] can also be used as an incentive. Sweden built up an extensive [[welfare state]] from the 1930s and onward, partly as a consequence of the debate following [[Crisis in the Population Question]], published in 1934. Today, Sweden has generous parental leave where parents are entitled to share 16 months paid leave per child, the cost divided between both employer and State.  . 
+
+==Alternative concept relative to skills==. 
+Sometimes the concept of population decline is applied where there has been considerable ex-migration of skilled professionals. In such a case, the government may have ceased to reward or value certain skills (e.g. science, medicine and engineering), and sectors of the economy such as health care and technology may go into decline. Such characterizations have been made of [[Italy]], [[Bulgaria]] and [[Russia]] in the period starting about 1990.{{Citation needed|date=July 2007}} . 
+
+{{further2|[[Brain drain]]}} . 
+
+==See also==. 
+* [[Birth dearth]]
+* [[Societal collapse]]
+* [[Negative Population Growth]]
+* [[Overpopulation]]
+* [[Population control]]
+* [[Political demography]]
+* [[Rural flight]]
+* [[Sub-replacement fertility]]
+* [[Zero population growth]]
+* [[Church of Euthanasia]]
+*''[[Collapse: How Societies Choose to Fail or Succeed]]'' by [[Jared Diamond]] . 
+
+'''Case studies:'''
+* [[Russian Cross]]
+* [[Aging of Europe]]
+* [[Aging of Japan]]
+* [[List of countries and territories by fertility rate]] . 
+
+==References==. 
+{{Reflist|30em}} . 
+
+==External links==. 
+*[http://www.pop.org Population Research Institute]
+*[http://news.bbc.co.uk/1/hi/world/americas/3560433.stm BBC Report 2004: World population growth 'falling']
+*[http://www.un.org/News/Press/docs/2003/pop850.doc.htm 2002 Revision of the official United Nations population estimates and projections]
+*[http://www.foreignaffairs.org/20040501faessay83307/phillip-longman/the-global-baby-bust.html The Global Baby Bust]
+*[http://demographia.ru/eng/articles/index.html?idR=67&idArt=1815 Symptoms of the Global Demographic Decline]
+{{Population}} . 
+
+{{DEFAULTSORT:Population Decline}}
+[[Category:Aftermath of war]]
+[[Category:Aging]]
+[[Category:Demographics]]
+[[Category:Demographic economics]]
+[[Category:Population]]
+[[Category:Demography]]
+[[Category:Economic problems]]

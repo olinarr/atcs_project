@@ -1,0 +1,851 @@
+{{refimprove|date=January 2011|reason=entire sections have zero footnotes.  how is one to be able "to verify"?}}
+{{Infobox BCS
+| Image                   = [[Image:Bcs logo 2010.png|250px]]
+| Image Caption           = BCS Logo 2010–current
+| Television              = [[ABC Sports|ABC]] (1999–2010)<br>[[Fox Sports (USA)|FOX]] (2007–2010)<br>[[ESPN]] (2011–2014)<ref name="ESPN BCS">Michael McCarthy, [http://www.usatoday.com/sports/college/football/2009-06-12-rose-bowl-espn_N.htm BCS cable connection complete as ESPN lands Rose Bowl], ''USA Today'', June 13, 2009</ref>
+| Team Most BCS           = [[Ohio State Buckeyes football|Ohio State]] (9)
+| Team Most BCS Wins      = [[Ohio State Buckeyes football|Ohio State]] (6)
+| Team Championships      = [[Alabama Crimson Tide football|Alabama]], [[Florida Gators football|Florida]], [[LSU Tigers football|LSU]] (2 each)
+| Conference Most BCS     = [[Big Ten Conference|Big Ten]] (24)
+| Conference Most BCS Wins= [[Southeastern Conference|SEC]] (16)
+| Conference Championships= [[Southeastern Conference|SEC]] (8)
+| Last Championship       = [[2012 BCS National Championship Game]]
+| Next Championship     =  [[2013 BCS National Championship Game]]
+| Executive Director      = Bill Hancock
+| Current Champion        = [[Alabama Crimson Tide]]
+| Website                 = http://www.bcsfootball.org
+}}
+[[File:2010 BCS Champ.jpg|thumb|290px|BCS Championship game at the [[Rose Bowl (stadium)|Rose Bowl]], [[Pasadena, California]], January 7, 2010]]
+The '''Bowl Championship Series''' ('''BCS''') is a selection system that creates five bowl match-ups involving ten of the top ranked teams in the [[NCAA Division I Football Bowl Subdivision]] (FBS), including an opportunity for the top two to compete in the BCS National Championship Game.  . 
+
+The BCS relies on a combination of polls and computer selection methods to determine relative team rankings, and to narrow the field to two teams to play in the [[BCS National Championship Game]] held after the other college bowl games. The [[American Football Coaches Association]] is contractually bound to vote the winner of this game as the BCS National Champion and the contract signed by each conference requires them to recognize the winner of the BCS National Championship game as the official and only Champion. The BCS was created to end split championships and for the Champion to win the title on the field between the two teams selected by the BCS. In that regard it has failed, as the [[2003 NCAA Division I-A football season]] ended with a split championship.  . 
+
+The system also selects match-ups for the other prestigious BCS [[bowl game]]s. The ten teams selected include the conference champion from each of the six [[Automatic Qualifying conference]]s plus four others. The BCS was created by formal agreement by those six conferences (the [[Atlantic Coast Conference|Atlantic Coast]], [[Big East Conference|Big East]], [[Big Ten Conference|Big Ten]], [[Big 12 Conference|Big 12]], Pacific-10 [now [[Pacific-12 Conference|Pacific-12]]], and [[Southeastern Conference|Southeastern]] conferences) and the three FBS [[NCAA Division I FBS independent schools|independent schools]], and has evolved to allow other conferences to participate to a lesser degree.  . 
+
+It has been in place since the [[1998 NCAA Division I-A football season|1998 season]]. Prior to its formation, the Associated Press’s number one and two teams met in bowl games only eight times in 56 seasons. In contrast, since the creation of the BCS, number one has played number two 12 years in a row by BCS measurements and nine times according to the AP Poll. Prior to the [[2006 NCAA Division I FBS football season|2006 season]] eight teams competed in four BCS Bowls. The BCS replaced the [[Bowl Alliance]], in place from 1995–1997, which followed the [[Bowl Coalition]], in place from 1992–1994.  . 
+
+==History leading to creation of the BCS==. 
+The [[NCAA Division I Football Bowl Subdivision]] (FBS) is the only NCAA-sponsored sport without an organized tournament to determine its champion. <ref>{{cite web|url=http://www.meridianmagazine.com/sports/031128ncaa.html |title=Sports :NCAA Football Tournament: An Imagined Solution to a Real Problem |publisher=Meridian Magazine |date= |accessdate=2009-11-19}}</ref> Instead, the postseason has historically consisted of individual [[bowl game]]s.  . 
+
+The bowl system began in 1902 with the East-West game in Pasadena, California. Held on [[New Year's Day]] in conjunction with the [[Tournament of Roses]], this was an exhibition game between a highly rated team from the west coast and a team east of the [[Mississippi River]]. In this first game, representing the East, the [[University of Michigan]] [[Michigan Wolverines|Wolverines]], No. 1 and undefeated, having not been so much as scored upon all season, defeated the West's [[Stanford University]] Indians (later renamed [[Stanford Cardinal|Cardinal]]) by a score of 49–0. The lopsided score led to Stanford calling for an end to the game during the third quarter, and also led to the post-season football game not being played again until 1916.  . 
+
+This was an ideal time for a postseason game, as fans could take off work or school during this holiday period to travel to the game. The game was renamed the [[Rose Bowl (game)|Rose Bowl]] in the late 1920s due to the shape of the new stadium built in Pasadena.  By the 1930s, the [[Cotton Bowl Classic]], [[Orange Bowl]], and the [[Sugar Bowl]] were also held on January 1 to showcase teams from other regions of the country.  . 
+
+By the 1940s, college football conferences began signing contracts that tied their championship team to a particular bowl.  In 1947, the [[Big Ten Conference]] and the [[Pacific Coast Conference]], a forerunner of today's [[Pacific-12 Conference]], agreed to commit their champions to play in the Rose Bowl every year, an agreement that continued under the BCS. This system raised the possibility that the two top-ranked teams in the final poll would not play each other in a bowl game. Indeed, the two top-ranked teams in the final regular-season [[AP Poll]] had only played each other in a bowl six times since the AP began releasing its final poll after the bowl games in 1968. Under the circumstances, it was also possible to have a split national championship.  . 
+
+In 1991, the [[University of Miami]] [[Miami Hurricanes football|Hurricanes]] and the [[University of Washington]] [[Washington Huskies football|Huskies]] were considered the strongest teams in the nation.  Since the Huskies were locked into the Rose Bowl as the Pacific 10 Conference champion against Big Ten champion Michigan, they could not play Miami, who played in the Orange Bowl.  Both teams won their bowl games convincingly and shared the national championship, Miami winning the [[Associated Press]] poll and Washington earning the top spot in the Coaches Poll.  A split national championship has happened on many occasions since then, as well. (See: [[NCAA Division I FBS National Football Championship]] for a compilation of past "national champions" since 1869.) . 
+
+Other teams have won the national championship despite playing presumably weaker schedules than other championship contenders. The [[BYU Cougars]] ended the 1984 season as the only undefeated and untied team in the nation as a member of the [[Western Athletic Conference]]. The Cougars opened the season with a 20–14 victory over #3 Pittsburgh, and won the [[Holiday Bowl]] against a 6–5 Michigan team that had been ranked as high as #2 that season. As the #4 ranked team at the end of the regular season, the [[University of Washington]] [[Washington Huskies football|Huskies]] were offered a slot against BYU in the Holiday Bowl; Washington declined, preferring instead to play in the more lucrative [[Orange Bowl]] where they beat #2 Oklahoma to complete a Pac-10 sweep of New Year's Day bowls (USC Rose and UCLA Fiesta).  Washington (11–1) was voted #2 following the bowl season with their only blemish a late season loss at Pac-10 champ USC.  Coupled with the 1983 season of 11 consecutive wins, BYU finished the 1984 season with a 24 game winning streak and was a near-unanimous choice as national champion in final polls.  . 
+
+To address these problems, five conferences, six bowl games, and leading independent [[Notre Dame Fighting Irish|Notre Dame]] joined forces to create the [[Bowl Coalition]], which was intended to force a ''de facto'' "national championship game" between the top two teams. By entirely excluding all the other conferences, the Bowl Coalition also made it impossible for a non-Bowl Coalition team to win a national championship. This system was in place from the 1992 season through the 1994 season. While traditional tie-ins between conferences and bowls remained, a team would be released to play in another bowl if it was necessary to force a championship game. However, this system did not include the [[Big Ten Conference|Big Ten]] and [[Pacific-12 Conference|Pac-10]] champions, as both were obligated to play in the Rose Bowl. The Coalition made several unsuccessful attempts to get the Tournament of Roses Association, which operates the Rose Bowl, to release the Big Ten and Pac-10 champions if necessary to force a championship game.  In 1994, undefeated [[Penn State Nittany Lions|Penn State]], from the Big Ten, played Oregon in the Rose Bowl while undefeated Nebraska played Miami in the Orange Bowl. In a system that paired top-ranked teams, Penn State would have played Nebraska for the national championship.  . 
+
+The Bowl Coalition was restructured into the [[Bowl Alliance]] for the 1995 season, involving five conferences (reduced to four for the 1996 season) and three bowls (Fiesta, Sugar, and Orange). The championship game rotated among these three bowls. It still did not, however, include the Pac-10 or Big Ten champions, the Rose Bowl, or any non-Bowl Alliance teams.  . 
+
+After a protracted round of negotiations, the Bowl Alliance was reformed into the '''Bowl Championship Series''' for the 1998 season; former [[Southeastern Conference]] commissioner [[Roy Kramer]] is considered to be the "father" of the BCS. <ref>{{cite news|last=Carey|first=Jack|title=Man behind creation of BCS pleased with results |url=http://www.usatoday.com/sports/college/football/bowls/2007-12-06-bcs2-football_N.htm|accessdate=7 January 2011|newspaper=USA Today|date=8 December 2007}}</ref> The Tournament of Roses Association agreed to release the Big Ten and Pac-10 champions if it was necessary to force a national championship game.  In return, the Rose Bowl was added to the yearly national championship rotation, and the game was able to keep its coveted exclusive TV time slot on the afternoon of New Year's Day. However, beginning with the [[2006 NCAA Division I FBS football season|2006 season]], the BCS National Championship Game became a separate event played at the same site as a host bowl a week following New Year's Day. The new Bowl Championship Series not only included the Big Ten and the Pac-10 conferences but also teams from mid-major conferences, based on performance.  . 
+
+No mid-major however, or team from any conference outside of the 6 aligned conferences, has ever played in the BCS Championship Game, causing increasing controversy. This controversy has become even more intense in light of the 4–1 record that mid-major teams have against teams from the 6 automatic qualifying conferences in the BCS Bowl games they ''have'' been allowed to play in. The performances and perfect record of Texas Christian University in the 2010 season, and Boise State University in the season prior to that has also fueled the controversy surrounding the perceived inequalities that the BCS seems to perpetuate (see [[Bowl Championship Series#Controversies|BCS Controversies]] below or in this [[BCS controversies|more detailed separate article]]). However, little headway has been made to institute an alternative system like a playoff tournament, given the entrenched vested economic interests in the various bowls.  . 
+
+==Bowl games== . 
+
+{{unclear section | date=April 2011}} . 
+
+{{Location map+|USA|width=450|float=right|caption=Locations of the BCS Bowl games|places=
+{{Location map~|USA|mark=red pog.svg|lat_deg=34.161389|lon_deg=-118.1675|position=left|background=#FFFFFF|label=Rose}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=29.966667|lon_deg=-90.05|position=top|background=#FFFFFF|label=Sugar}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=25.958056|lon_deg=-80.238889|position=right|background=#FFFFFF|label=Orange}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=33.5275|lon_deg=-112.2625|position=right|background=#FFFFFF|label=Fiesta}}
+}} . 
+
+In the current BCS format, four bowl games and the National Championship Game are considered "BCS bowl games." The four bowl games are the [[Rose Bowl Game]] in [[Pasadena, California]], the [[Sugar Bowl]] in [[New Orleans]], the [[Fiesta Bowl]] in [[Glendale, Arizona]] and the [[Orange Bowl]] in [[Miami Gardens, Florida]]. In the first eight seasons of the BCS contract, the championship game was rotated among the four bowls, with each bowl game hosting the national championship once every four years.  . 
+
+Starting with the 2007 BCS, the site of the game that served as the last game on January 1 (or if January 1 fell on a Sunday, January 2) in the BCS then served as the host facility of the new stand-alone BCS National Championship game played on January 8 of that year, one week following the playing of the traditional bowl game which would follow the Rose Bowl with the exception of the games to be played in 2010. There are also thirty [[Automatic bids to college bowl games|non-BCS bowls]].  . 
+
+Initial plans were for the additional BCS bowl game to be held at the site of that year's championship game, such that the additional, non-championship bowl be named after the original bowl (e.g. the Sugar Bowl when the championship is in New Orleans), and have the extra game just be called "The National Championship Game". Later, the BCS considered having cities bid to be the permanent site of the new BCS game, and to place the new game in the title rotation. In the end, the BCS opted for its original plan.  . 
+
+The [[Oklahoma Sooners football|University of Oklahoma]] is the only school to appear in all five BCS Bowls, playing in the [[2007 Fiesta Bowl|2007]], [[2008 Fiesta Bowl|2008]] and [[2011 Fiesta Bowl]], the [[2004 Sugar Bowl]], the [[2001 Orange Bowl|2001]] and [[2005 Orange Bowl]], the [[2003 Rose Bowl]], and the [[2009 BCS National Championship Game]]. Oklahoma’s record stands at 3–5 with a 1–3 record in National Title games. The [[Miami Hurricanes football|University of Miami]] has appeared in every BCS bowl except for the standalone National Championship Game, although Miami did appear in the national championship when that designation was assigned to the original four bowls in rotation. Miami played in the [[2001 Sugar Bowl]], [[2002 Rose Bowl]] (national championship), [[2003 Fiesta Bowl]] (national championship), and [[2004 Orange Bowl]].  . 
+
+===Television=== . 
+
+Initially, [[American Broadcasting Company|ABC]] held the rights to all four original BCS games, picking up the Fiesta and Orange Bowls from their former homes at [[CBS]], and continuing their lengthy relationships with the [[Rose Bowl Game|Rose]] and Sugar Bowls. This relationship continued through the bowl games of January, 2006.  . 
+
+Beginning with the 2006–07 season through the 2009–10 season, any BCS game (including the National Championship Game) hosted by the Fiesta, Orange or Sugar Bowls aired on the [[Fox Network]] while games hosted by the [[Pasadena Tournament of Roses]] were shown on ABC. Starting with the 2010–2011 season, [[ESPN]] will air all BCS games, including the Rose Bowl. The TV deal expires with the January 2014 games. <ref name="ESPN BCS" /> . 
+
+===Selection of teams===. 
+A set of rules is used to determine which teams compete in the BCS bowl games. <ref name="bcsrules">"[http://www.bcsfootball.org/news/story?id=4819597 BCS selection procedures]" Bowl Championship Series, 26 April 2010. </ref> . 
+
+Certain teams are given automatic berths depending on their BCS ranking and conference, as follows:
+*The top two teams are given automatic berths in the BCS National Championship Game. 
+*The champion of a [[BCS conference]]<ref name="bcsconfdef">This article uses "BCS conference" in its popular sense, referring strictly to the six conferences that earn automatic berths in BCS bowl games. The BCS itself officially considers all FBS conferences to be "BCS conferences", using the terms "AQ" (automatic qualifier) and "non-AQ" to distinguish between conferences that automatically earn BCS bowl berths and those that do not. </ref> ([[Atlantic Coast Conference|ACC]], [[Big 12 Conference|Big 12]], [[Big East Conference|Big East]], [[Big Ten Conference|Big Ten]], [[Pacific-12 Conference|Pac-12]], and [[Southeastern Conference|SEC]]) is guaranteed an automatic BCS bowl bid. 
+*Due to the "Notre Dame rule",<ref name="mandel20100818">{{cite news | url=http://sportsillustrated.cnn.com/2010/writers/stewart_mandel/08/18/byu.mwc/index.html | title=Would BYU be Notre Dame as a football independent ... or Navy? | accessdate=March 31, 2011 | author=Mandel, Stewart | date=2010-08-18 | publisher=Time Inc.}}</ref> independent [[Notre Dame Fighting Irish football|Notre Dame]] receives an automatic berth if it finishes in the top eight. 
+*The highest-ranked champion of a non-BCS conference will receive an automatic berth if:
+** It is ranked in the top 12, or
+** Ranked in the top 16 and higher than at least one BCS conference champion. 
+* No more than one such team from [[Conference USA]], the [[Mid-American Conference]], the [[Mountain West Conference]], the [[Sun Belt Conference]], and the [[Western Athletic Conference]] shall earn an automatic berth in any year. However, a second team from one of these conferences may qualify as a BCS at-large. 
+* No more than two teams from any one conference may receive berths in BCS games unless two non-champions from a BCS conference finish as the top two teams in the final BCS standings, in which case they will meet in the National Title Game while their conference champion will play in their conference's BCS bowl game. 
+*The third-ranked team will receive an automatic berth if it has not already received one, if it is a member of a BCS conference, and provided that its conference has not already earned two automatic berths, if there is room. 
+*If the third-ranked team did not require a berth using the previous provision, then the fourth-ranked team will receive an automatic berth if it has not already received one, if it is a member of a BCS conference, and provided that its conference has not already earned two automatic berths, if there is room.  . 
+
+After the automatic berths have been granted, the remaining berths, known as "at-large" berths, are filled from a pool of teams who are ranked in the top 14 and have at least nine wins.  The actual teams that are chosen for the at-large berths are determined by the individual bowl committees.  . 
+
+If fewer than 10 teams are eligible for selection, then an at-large team will be any Football Bowl Subdivision team that is bowl-eligible, has won at least nine regular-season games, and is among the top 18 teams in the final BCS Standings, though any at-large team ranked in the top 14 will be guaranteed a bid over at-large teams ranked lower than 14th. If fewer than 10 teams are eligible after expanding the at-large pool to 18 teams, then the at-large pool will continue to be expanded by four additional positions in the BCS Standings until 10 or more teams are eligible. No team ranked lower than 14 has used this rule to earn an at-large bid, although several teams ranked lower than 14 have received a bid for winning their conference, as the rule was not in place in the early years of the BCS.  . 
+
+All BCS conferences except the Big East have contracts for their champions to participate in specific BCS bowl games. Unless their champion is involved in the BCS National Championship game, the conference tie-ins are:
+*Rose Bowl – Big Ten champion vs. Pac-12 champion
+*Fiesta Bowl – Big 12 champion vs. at large
+*Orange Bowl – ACC champion vs. at large
+*Sugar Bowl – SEC champion vs. at large . 
+
+The Big East champion takes one of the remaining spots.  . 
+
+If the Pac-12 or Big Ten champion is picked for the BCS National Championship Game, then the Rose Bowl must choose the highest-ranked school from a non-AQ conference instead of the respective conference's #2 team if there is a non-AQ school ranked at least #4 in the final BCS standings. This was the case in 2010, when the [[Oregon Ducks]] made it to the national championship, permitting the #3 [[TCU Horned Frogs]] to attend, and win, the 2011 Rose Bowl. The Rose Bowl is permitted to override this provision if it has been taken within the previous four seasons.  . 
+
+All 11 conferences compete for an opportunity to earn AQ status. As agreed by all 11 conferences, the results of the 2004, 2005, 2006, and 2007 regular seasons were evaluated to determine which conferences earned automatic qualification. Three criteria were used: Rank of the highest-ranked team, rank of all conference teams, and number of teams in the top 25. The six conferences which met that standard are the current BCS conferences.  . 
+
+The 2008, 2009, 2010, and 2011 seasons will be used to determine if another conference achieves automatic qualification for the BCS games that will conclude the 2012 and 2013 seasons.  . 
+
+==Rankings==. 
+For the portions of the ranking that are determined by polls and computer-generated rankings, the BCS uses a series of [[Borda count]]s to arrive at its overall rankings. This is an example of using a [[voting system]] to generate a complete ordered list of winners from both human and computer-constructed votes.  Obtaining a fair ranking system is a difficult mathematical problem and numerous algorithms have been proposed for ranking college football teams in particular.  One example is the "random-walker rankings" studied by applied mathematicians Thomas Callaghan, [[Peter Mucha]], and [[Mason Porter]] that employs the science of [[Complex Networks|complex networks]].  . 
+
+===1998–2003===. 
+The BCS formula calculated the top 25 teams in poll format.  After combining a number of factors, a final point total was created and the teams that received the 25 lowest scores were ranked in descending order.  The factors were:
+*Poll average: Both the [[Associated Press|AP]] and ESPN-''[[USA Today]]'' coaches polls were averaged to make a number which is the poll average. 
+*Computer average: An average of the rankings of a team in three different [[sports rating system|computer polls]] were gathered ([[Jeff Sagarin]]/''[[USA Today]]'', Anderson-Hester/''[[Seattle Times]]'', and ''[[New York Times]]''), with a 50% adjusted maximum deviation factor. (For instance, if the computers had ranked a team third, fifth, and twelfth, the poll which ranked the team twelfth would be adjusted to rank the team sixth.)
+*Strength of Schedule: This was the team's NCAA rank in strength of schedule divided by 25.  A team's strength of schedule was calculated by win/loss record of opponents (66.6%) and cumulative win/loss record of team's opponents' opponents (33.3%). The team who played the toughest schedule was given .04 points, second toughest .08 points, and so on. 
+Margin of victory is a key component in the decision of the computer rankings to determine the BCS standings. 
+*Losses: One point was added for every loss the team has suffered during the season. All games are counted, including Kickoff Classics and conference title games. <ref>{{cite web|url=http://www.fansonly.com/schools//md/sports/m-footbl/spec-rel/061098aaa.html |title=New Formula for Football Championship Announced :: Top bowl game to be chosen by polls, computers, formulas |publisher=Fansonly.com |date=June 10, 1998 |accessdate=May 1, 2009}}</ref> . 
+
+Before the 1999–2000 season, five more computer rankings were added to the system: Richard Billingsley, Richard Dunkel, [[Kenneth Massey]], Herman Matthews/''[[Scripps Howard]]'', and [[David Rothman (statistician)|David Rothman]]. The lowest ranking was dropped and the remainder averaged.  . 
+
+Beginning in 2001, The Peter Wolfe and Wes Colley/''[[Atlanta Journal-Constitution]]'' computer rankings were used in place of the ''NYT'' and Dunkel rankings. The change was made because the BCS wanted computer rankings that did not depend heavily on margin of victory. <ref>{{cite web|url=http://static.espn.go.com/ncf/s/2001/0712/1225482.html |title=BCS formula still subject of debate |publisher=ESPN.com |date=September 16, 2002 |accessdate=May 1, 2009}}</ref> The highest and lowest rankings were discarded, and the remainder averaged. A team's poll average, computer average, strength of schedule points, and losses were added to create a subtotal.  . 
+
+Also in 2001, a quality win component was added. If a team beat a team which was in the top 15 in the BCS standings, a range of 1.5 to .1 points was subtracted from their total.  Beating the #1 ranked team resulted in a subtraction of 1.5 point, beating the #2 team resulted in a deduction of 1.4 points, and so on. Beating the #15 ranked team would have resulted in a deduction of .1 points.  A team would only be awarded for a quality win once if it beat a Top 10 team more than once (such as in the regular season and a conference championship game), and quality wins were determined using a team's current subtotal, not the ranking when the game was played. The subtotal ranks were used to determine quality win deductions to create a team's final score.  . 
+
+The BCS continued to purge ranking systems which included margin of victory, causing the removal of the Matthews and [[David Rothman (statistician)]] ratings before the 2002 season. Sagarin provided a BCS-specific formula that did not include margin of victory, and the ''New York Times'' index returned in a form without margin of victory considerations. In addition, a new computer ranking, the Wesley Colley Matrix, was added. <ref>{{cite web|url=http://www.dailyorange.com/home/index.cfm?event=displayArticlePrinterFriendly&uStory_id=22d3b932-8bfc-4123-8def-1c0a962fe5b2 |title=Big East takes charge of BCS<!- bot-generated title -> |publisher=The Daily Orange |date=January 3, 2003 |accessdate=May 1, 2009}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> The lowest ranking was dropped and the remaining six averaged. Also in 2002, the quality win component was modified such that the deduction for beating the #1 team in the BCS would be 1.0, declining by 0.1 increments until beating the 10th ranked team at 0.1. Teams on probation were not included in the BCS standings, but quality win points were given to teams who beat teams on probation as if they were ranked accordingly in the BCS.  . 
+
+===2004–present===. 
+[[File:LSU - OSU 1.JPG|thumb|LSU vs. Ohio State in the [[2008 BCS National Championship Game]]]]
+In response to the controversy created by the voters in the AP poll naming USC as the No. 1 ranked team at the end of the year,<ref>{{cite web | url=http://badgerherald.com/sports/2005/01/17/ap_removes_poll_from.php | title=AP removes poll from BCS formula | publisher=Badger Herald | author=Patrick Klemz | date=January 17, 2005 | accessdate=October 8, 2007}}</ref>  the formula was rewritten.  Supporters of USC and the media in general criticized the fact that polls were not weighted more heavily than computer rankings and this criticism led to the new algorithm.  . 
+
+*Harris Interactive Poll: A team's score in the Harris poll will be divided by 2,875, which is the maximum number of points any team can receive if all 115 voting members rank the same team as Number 1. Example: 2,875 / 2,875 = 1.0. If a team receives a total of 115 voting points, an average of 25th place, their BCS quotient of this component would be .04. (1.0 / 25 = 0.04). <ref>http://www.collegefootballpoll.com/bcs_explained.html Retrieved 2012-01-04</ref>
+*Coaches' Poll: This is calculated in the same manner as the AP Poll number. For LSU, their final regular-season number in this poll would have been 99.4 (1,516 out of 1,525 possible points). 
+*Computer Average: The BCS used six ranking systems: [[Jeff Sagarin]], [http://andersonsports.com/football/ACF_frnk.html Anderson/Hester], [http://www.cfrc.com/ Richard Billingsley], [http://www.colleyrankings.com/ Colley Matrix], [http://www.masseyratings.com/ Kenneth Massey], and [http://prwolfe.bol.ucla.edu/cfootball/home.htm Dr. Peter Wolfe]. A team's highest and lowest computer ranking will be discarded from figuring a team's computer poll average. Points will be assigned in inverse order of ranking from 1–25. The four remaining computer scores will be averaged and the total will be calculated as a percentage of 100. <ref>[http://www.bcsfootball.org/news/story?id=4765872 BCS computer rankings] BCSfootball.org. Retrieved 2011-08-11. </ref>  . 
+
+All three components – The Harris Interactive Poll, the USA Today Coaches Poll and the computer rankings – shall be added together and averaged for a team's ranking in the BCS standings. The team with the highest average shall rank first in the BCS standings.  . 
+
+For USC, dropping their highest and lowest computer rankings would have left them with four third-place finishes, worth 23 points each for a total of 92, while LSU would have had four second-place finishes for a total of 96. The BCS [[arithmetic mean|averaged]] the three numbers obtained above, divided the result by 100, and converted it to a decimal fraction. This system placed twice as much emphasis on polls than computer rankings (since there were two polls and an average of six computer rankings), and made it highly unlikely that the top team in both polls would be denied a place in the title game, as it happened in 2003–04.  . 
+
+The BCS formula for the 2005–06 season was the same as 2004–05, except that the [[Harris Interactive College Football Poll]] replaced the AP poll. {{ref|BCS1}} {{ref|HIP1}} The Harris Interactive College Football Poll's maximum point value was 2,825<ref>[http://msn.foxsports.com/id/7894701_37_1.pdf] {{dead link|ate=December 2011|date=December 2011}}</ref> and for the Coaches' Poll, it was 1,550. The Harris Interactive College Football Poll was created expressly to replace the AP Poll after the Associated Press refused the use of its poll as a component of the BCS formula.  Before the 2006–07 season, the maximum point value of the Harris Poll was increased to 2,850 and the USA Today/Coaches' Poll was increased to 1,575.  . 
+
+In the week of April 20, 2009, Bowl Championship Series commissioners were meeting for its annual spring meetings in [[Pasadena, California]] in conjunction with the [[Rose Bowl Game|Rose Bowl]]'s staging the [[2010 BCS National Championship Game|2010 BCS title game]]. The commissioners considered a proposal from the [[Mountain West Conference]], which  would establish an eight-team playoff and provide better accesses to the four BCS bowl games for the five conferences that do not have automatic bids. The proposal also included a motion to replace the BCS rankings with a selection and a motion to change the automatic qualifier criteria to better reflect inter-conference performance. The BCS rejected the proposal in June 2009, citing a "lack of overall support" among the member conferences. <ref>[http://sports.espn.go.com/ncf/news/story?id=4285164 Bowl Championship Series rejects Mountain West's playoff proposal – ESPN]. Sports.espn.go.com (2009-06-24). Retrieved on 2011-12-05. </ref><ref>[http://www.cbssports.com/mcc/blogs/entry/6270202/15585812 BCS to reject Mountain West playoff proposal]. CBSSports.com. Retrieved on 2011-12-05. </ref><ref>[http://www.sltrib.com/columnists/ci_12682797 Utah News – Salt Lake City News, Sports, Entertainment, Business – The Salt Lake Tribune]. Sltrib.com (2009-06-24). Retrieved on 2011-12-05. </ref> Additionally, the proposal was scrutinized by the [[United States Congress|U.S. Congress]], which determined that the BCS was not in violation of any laws or constitutional amendments, although this has since been reconsidered and the BCS is currently under renewed federal anti-trust scrutiny from the Justice Department. <ref>Chris Dufresne , [http://www.latimes.com/sports/la-sp-dufresne-bcs22-2009apr22,0,2691585.column Mountain West Conference takes a radical tack], ''Los Angeles Times'', April 22, 2009</ref> . 
+
+==History and schedule==. 
+The games are listed in chronological order, the rankings reflect the final BCS standings, and the win-loss data is prior to the BCS Bowls.  . 
+
+===1998–99 season===. 
+These BCS bowl games were played following the 1998 regular season:
+*Friday, January 1, 1999 – [[1999 Rose Bowl|Rose Bowl Game presented by AT&T]]: #9 '''[[Wisconsin Badgers football|Wisconsin]]''' (10–1, Big Ten champion) 38, #5 [[UCLA Bruins football|UCLA]] (10–1, Pac-10 champion) 31
+*Friday, January 1, 1999 – [[1999 Sugar Bowl|Nokia Sugar Bowl]]: #4 '''[[1998 Ohio State Buckeyes football team|Ohio State]]''' (10–1, At-large) 24, #6 [[Texas A&M Aggies football|Texas A&M]] (11–2, Big 12 champion) 14
+*Saturday, January 2, 1999 – [[1999 Orange Bowl|FedEx Orange Bowl]]: #8 '''[[1998 Florida Gators football team|Florida]]''' (9–2, At-large) 31, #15 [[Syracuse Orange#Syracuse University Football history|Syracuse]] (8–3, Big East champion) 10
+*Monday, January 4, 1999 – [[1999 Fiesta Bowl|Tostitos Fiesta Bowl]], ([[NCAA Division I-A national football champions|National Championship]]): #1 '''[[1998 Tennessee Volunteers football team|Tennessee]]''' (12–0, BCS #1, SEC champion) 23, #2 [[Florida State Seminoles football|Florida State]] (11–1, BCS #2, ACC champion) 16 . 
+
+===1999–2000 season===. 
+These BCS bowl games were played following the 1999 regular season:
+* Saturday, January 1, 2000 – [[2000 Rose Bowl|Rose Bowl Game presented by AT&T]]: #7 '''[[Wisconsin Badgers football|Wisconsin]]''' (9–2, Big Ten champion) 17, #22 [[Stanford Cardinal football|Stanford]] (8–3, Pac-10 champion) 9
+* Saturday, January 1, 2000 – [[2000 Orange Bowl|FedEx Orange Bowl]]: #8 '''[[Michigan Wolverines football|Michigan]]''' (9–2, At-large) 35, #4 [[1999 Alabama Crimson Tide football team|Alabama]] (10–2, SEC champion) 34 (OT)
+* Sunday, January 2, 2000 – [[2000 Fiesta Bowl|Tostitos Fiesta Bowl]]: #3 '''[[Nebraska Cornhuskers football|Nebraska]]''' (11–1, Big 12 champion) 31, #5 [[Tennessee Volunteers football|Tennessee]] (9–2, At-large) 21
+* Tuesday, January 4, 2000 – [[2000 Sugar Bowl|Nokia Sugar Bowl]] (National Championship): #1 '''[[1999 Florida State Seminoles football team|Florida State]]''' (11–0, BCS #1, ACC champion) 46, #2 [[Virginia Tech Hokies football|Virginia Tech]] (11–0, BCS #2, Big East champion) 29 . 
+
+===2000–01 season===. 
+These BCS bowl games were played following the 2000 regular season:
+* Monday, January 1, 2001 – [[2001 Rose Bowl|Rose Bowl Game presented by AT&T]]: #4 '''[[Washington Huskies football#2001 Rose Bowl Champions|Washington]]''' (10–1, Pac-10 champion) 34, #17 [[2000 Purdue Boilermakers football team|Purdue]] (8–3, Big Ten champion) 24
+* Monday, January 1, 2001 – [[2001 Fiesta Bowl|Tostitos Fiesta Bowl]]: #6 '''[[2000 Oregon State Beavers football team|Oregon State]]''' (10–1, At-large) 41, #11 [[2000 Notre Dame Fighting Irish football team|Notre Dame]] (9–2, At-large) 9
+* Tuesday, January 2, 2001 – [[2001 Sugar Bowl|Nokia Sugar Bowl]]: #3 '''[[Miami Hurricanes football#Butch Davis era (1995–2000)|Miami (FL)]]''' (10–1, Big East champion) 37, #7 [[2000 Florida Gators football team|Florida]] (10–2, SEC champion) 20
+* Wednesday, January 3, 2001 – [[2001 Orange Bowl|FedEx Orange Bowl]] (National Championship): #1 '''[[2000 Oklahoma Sooners football team|Oklahoma]]''' (11–0, BCS #1, Big 12 champion) 13, #2 [[Florida State Seminoles football|Florida State]] (10–1, BCS #2, ACC champion) 2 . 
+
+===2001–02 season===. 
+{{See also|2001-02 NCAA football bowl games}}
+These BCS bowl games were played following the 2001 regular season:
+* Tuesday, January 1, 2002 – [[2002 Fiesta Bowl|Tostitos Fiesta Bowl]]: #4 '''[[2001 Oregon Ducks football team|Oregon]]''' (10–1, Pac-10 champion) 38, #3 [[Colorado Buffaloes football|Colorado]] (10–2, Big 12 champion) 16
+* Tuesday, January 1, 2002 – [[2002 Sugar Bowl|Nokia Sugar Bowl]]: #13 '''[[2001 LSU Tigers football team|LSU]]''' (9–3, SEC champion) 47, #8 [[2001 Illinois Fighting Illini football team|Illinois]] (10–1, Big Ten champion) 34
+* Wednesday, January 2, 2002 – [[2002 Orange Bowl|FedEx Orange Bowl]]: #5 '''[[2001 Florida Gators football team|Florida]]''' (9–2, At-large) 56, #10 [[2001 Maryland Terrapins football team|Maryland]] (10–1, ACC champion) 23
+* Thursday, January 3, 2002 – [[2002 Rose Bowl|Rose Bowl Game presented by AT&T]] (National Championship): #1 '''[[2001 Miami Hurricanes football team|Miami]]''' (11–0, BCS #1, Big East champion) 37, #2 [[Nebraska Cornhuskers football|Nebraska]] (11–1, BCS #2) 14 . 
+
+===2002–03 season===. 
+These BCS bowl games were played following the 2002 regular season:
+* Wednesday, January 1, 2003 – [[2003 Rose Bowl|Rose Bowl Game presented by PlayStation 2]]: #7 '''[[2002 Oklahoma Sooners football team|Oklahoma]]''' (11–2, Big 12 champion) 34, #6 [[2002 Washington State Cougars football team|Washington State]] (10–2, Pac-10 champion<ref name="tie2003">Southern California and Washington State tied for the Pac-10 championship, but due to the Cougars' victory over the Trojans during the season, Washington St. was extended the automatic berth to the Rose Bowl as league champion. </ref>) 14
+* Wednesday, January 1, 2003 – [[2003 Sugar Bowl|Nokia Sugar Bowl]]: #3 '''[[2002 Georgia Bulldogs football team|Georgia]]''' (12–1, SEC champion) 26, #14 [[Florida State Seminoles football|Florida State]] (9–4, ACC champion) 13
+* Thursday, January 2, 2003 – [[2003 Orange Bowl|FedEx Orange Bowl]]: #4 '''[[2002 USC Trojans football team|Southern California]]''' (10–2, Automatic "3–4 Rule"<ref name="tie2003" /><ref name="kstrule">The BCS adopted a rule after the 1998–99 season, nicknamed the "Kansas State Rule," which stated that any team ranked in the top four in the final BCS poll is ensured of an invitation to a BCS bowl game. 
+</ref>) 38, #5 [[2002 Iowa Hawkeyes football team|Iowa]]<ref name="bigten2002">Iowa and Ohio State did not play each other during the season, and both finished at 8–0 in Big Ten conference play. With a better overall record as the tiebreaker (13–0 vs Iowa's 11–1), Ohio State was extended the league's automatic bid to the BCS. </ref> (11–1, At-large) 17
+* Friday, January 3, 2003 – [[2003 Fiesta Bowl|Tostitos Fiesta Bowl]] (National Championship): #2 '''[[2002 Ohio State Buckeyes football team|Ohio State]]'''<ref name="bigten2002" /> (13–0, BCS #2, Big Ten champion) 31, #1 [[2002 Miami Hurricanes football team|Miami]] (FL) (12–0, BCS #1, Big East champion) 24 (2 OT) . 
+
+===2003–04 season===. 
+{{See also|2003–04 NCAA football bowl games}}
+These BCS bowl games were played following the 2003 regular season:
+*Thursday, January 1, 2004 – [[2004 Rose Bowl|Rose Bowl Game presented by Citi]]:<ref>The 2004 Sugar Bowl marked the first time in the history of the BCS that the top ranked team in the country did not play in its national championship game. Going into bowl week USC, the Pac-10 Champion, was top-ranked but did not earn a high enough rating to qualify for the game. </ref> #3 '''[[2003 USC Trojans football team|Southern California]]''' (11–1, Pac-10 champion) 28, #4 [[2003 Michigan Wolverines football team|Michigan]] (10–2, Big Ten champion) 14
+*Thursday, January 1, 2004 – [[2004 Orange Bowl|FedEx Orange Bowl]]: #9 '''[[Miami Hurricanes football#2003 Fiesta Bowl|Miami]]''' (10–2, Big East champion) 16, #7 [[Florida State Seminoles football|Florida State]] (10–2, ACC champion) 14
+*Friday, January 2, 2004 – [[2004 Fiesta Bowl|Tostitos Fiesta Bowl]]: #5 '''[[2003 Ohio State Buckeyes football team|Ohio State]]''' (10–2, At-large) 35, #10 [[2003 Kansas State Wildcats football team|Kansas State]] (11–3, Big 12 champion) 28
+*Sunday, January 4, 2004 – [[2004 Sugar Bowl|Nokia Sugar Bowl]] (National Championship) #2 '''[[2003 LSU Tigers football team|LSU]]''' (12–1, BCS #2, SEC champion) 21, #1 [[2003 Oklahoma Sooners football team|Oklahoma]] (12–1, BCS #1) 14‡ . 
+
+‡ Though winning the BCS National Championship, the [[LSU Tigers]] were not consensus national champions.  The [[USC Trojans]] ended the regular season ranked #3 in the final BCS standings, with three [[Coaches Poll]] voting coaches defecting from their agreement with the BCS to vote its designated game winner as champion, instead voting for USC. <ref>{{cite web|title=2003 FINAL POLLS|url=http://www.nationalchamps.net/NCAA/2003_final_polls.htm|work=2003 FINAL POLLS|publisher=Nationalchanps.net|accessdate=8 June 2011}}</ref>  USC was voted #1 in the [[Associated Press]] poll, and the AP awarded USC their National Championship.  So, the [[2003 college football season|2003 Season]] ended with split champions which is what the BCS was organized to prevent.  Because of this split championship, changes were made to the BCS formula for the 2004–05 season.  . 
+
+===2004–05 season===. 
+{{See also|2004–05 NCAA football bowl games}}
+These BCS bowl games were played following the 2004 regular season:
+*Saturday, January 1, 2005 – [[2005 Rose Bowl|Rose Bowl Game presented by Citi]]: #4 '''[[2004 Texas Longhorns football team|Texas]]''' (10–1, Automatic "3–4 Rule"<ref name="kstrule" />) 38, #13 [[2004 Michigan Wolverines football team|Michigan]] (9–2, Big Ten champion) 37
+*Saturday, January 1, 2005 – [[2005 Fiesta Bowl|Tostitos Fiesta Bowl]]: #6 '''[[2004 Utah Utes football team|Utah]]'''<ref>Utah was an automatic selection as it was ranked #6 in the final BCS standings. </ref> (11–0, MWC champion, Automatic non-AQ) 35, #21 [[2004 Pittsburgh Panthers football team|Pittsburgh]] (8–3, Big East champion) 7
+*Monday, January 3, 2005 – [[2005 Sugar Bowl|Nokia Sugar Bowl]]: #3 '''[[2004 Auburn Tigers football team|Auburn]]''' (12–0, SEC champion) 16, #8 [[2004 Virginia Tech Hokies football team|Virginia Tech]] (10–2, ACC champion) 13
+*Tuesday, January 4, 2005 – [[2005 Orange Bowl|FedEx Orange Bowl]] (National Championship): #1 '''[[2004 USC Trojans football team|Southern California]]''' (11–0, BCS #1, Pac-10 champion) 55, #2 [[2004 Oklahoma Sooners football team|Oklahoma]] (12–0, BCS #2, Big 12 champion) 19‡ . 
+
+‡ Pursuant to NCAA sanctions, running back [[Reggie Bush]] was declared retroactively ineligible for the 2005 Orange Bowl. The 2004 BCS championship held by USC (as well as their participation in the game)<ref name="USCVacate">{{cite web|title=BCS Group Vacates 2004–05 National Championship following NCAA Denial of Appeal|url=http://www.bcsfootball.org/news/story?id=6632189|date=6 June 2011|accessdate=17 July 2011}}</ref> was vacated by the BCS committee on June 6, 2011 after the NCAA denied appeal of sanctions.  . 
+
+===2005–06 season===. 
+{{See also|2005–06 NCAA football bowl games}}
+These BCS bowl games were played following the 2005 regular season:
+* Monday, January 2, 2006 – [[2006 Fiesta Bowl|Tostitos Fiesta Bowl]]: #4 '''[[2005 Ohio State Buckeyes football team|Ohio State]]''' (9–2, Automatic "3–4 Rule"<ref name="kstrule" />) 34, #6 [[2005 Notre Dame Fighting Irish football team|Notre Dame]] (9–2, Automatic<ref name="ndauto">For the 2005–2006 season, Notre Dame received an automatic bid to a BCS game after finishing in the top ten of the final BCS Standings. Beginning with the 2006 season, Notre Dame must finish in the top eight to receive an automatic bid. </ref><ref>[http://www.uhnd.com/articles/football/bcs-knocks-notre-dame-off-14-million-perch/ "BCS Knocks Notre Dame Off $14 Million Perch" 02 May 2005]. Uhnd.com (2005-05-02). Retrieved on 2011-12-05. </ref>) 20
+* Monday, January 2, 2006 – [[2006 Sugar Bowl|Nokia Sugar Bowl]]:<ref>Due to damage to the [[Louisiana Superdome]] because of [[Hurricane Katrina]], the Sugar Bowl was played at the [[Georgia Dome]] in [[Atlanta, Georgia]]. </ref> #11 '''[[2005 West Virginia Mountaineers football team|West Virginia]]''' (10–1, Big East champion) 38, #7 [[2005 Georgia Bulldogs football team|Georgia]] (10–2, SEC champion) 35
+* Tuesday, January 3, 2006 – [[2006 Orange Bowl|FedEx Orange Bowl]]: #3 '''[[2005 Penn State Nittany Lions football team|Penn State]]''' (10–1, Big Ten champion) 26, #22 [[2005 Florida State Seminoles football team|Florida State]] (8–4, ACC champion) 23 (3 OT)
+* Wednesday, January 4, 2006 – [[2006 Rose Bowl|Rose Bowl Game presented by Citi]] (National Championship): #2 '''[[2005 Texas Longhorns football team|Texas]]''' (12–0, BCS #2, Big 12 champion) 41, #1 [[2005 USC Trojans football team|Southern California]] (0–0, BCS #1, Pac-10 champion ''now vacated'') 38‡ . 
+
+‡ Pursuant to NCAA sanctions, running back Reggie Bush was declared retroactively ineligible for the 2005 Orange Bowl and the entire 2005–06 season. USC's participation in the 2006 Rose Bowl<ref name="USCVacate" /> was vacated by the BCS committee on June 6, 2011 after the NCAA denied appeal of sanctions.  . 
+
+===2006–07 season===. 
+{{See also|2006–07 NCAA football bowl games}}
+These BCS bowl games were played following the 2006 regular season:
+*Monday, January 1, 2007 – [[2007 Rose Bowl|Rose Bowl Game presented by Citi]]: #5 '''[[2006 USC Trojans football team|Southern California]]''' (10–2, Pac-10 champion) 32, #3 [[2006 Michigan Wolverines football team|Michigan]] (11–1, Automatic "3–4 Rule"<ref name="kstrule" />) 18
+*Monday, January 1, 2007 – [[2007 Fiesta Bowl|Tostitos Fiesta Bowl]]: #8 '''[[2006 Boise State Broncos football team|Boise State]]'''<ref>Boise State was an automatic selection as it was champion of the Western Athletic Conference and ranked #8 in the final BCS standings. </ref> (12–0, WAC Champion, Automatic non-AQ) 43, #10 [[2006 Oklahoma Sooners football team|Oklahoma]] (11–2, Big 12 champion) 42 (OT)
+*Tuesday, January 2, 2007 – [[2007 Orange Bowl|FedEx Orange Bowl]]: #6 '''[[2006 Louisville Cardinals football team|Louisville]]''' (11–1, Big East champion) 24, #14 [[2006 Wake Forest Demon Deacons football team|Wake Forest]] (11–2, ACC champion) 13
+*Wednesday, January 3, 2007 – [[2007 Sugar Bowl|Allstate Sugar Bowl]]: #4 '''[[2006 LSU Tigers football team|LSU]]''' (10–2, At-large) 41, #11 [[2006 Notre Dame Fighting Irish football team|Notre Dame]] (10–2, At-large) 14
+* Monday, January 8, 2007 – [[2007 BCS National Championship Game|Tostitos BCS National Championship]]: #2 '''[[2006 Florida Gators football team|Florida]]''' (11–1, BCS #2, SEC champion) 41, #1 [[2006 Ohio State Buckeyes football team|Ohio State]] (12–0, BCS #1, Big Ten champion) 14 . 
+
+===2007–08 season===. 
+{{See also|2007–08 NCAA football bowl games}}
+These BCS bowl games were played following the 2007 regular season:
+* Tuesday, January 1, 2008 – [[2008 Rose Bowl|Rose Bowl Game presented by Citi]]: #7 '''[[2007 USC Trojans football team|Southern California]]''' (10–2, Pac-10 champion) 49, #13 [[2007 Illinois Fighting Illini football team|Illinois]] (9–3, At-large) 17
+* Tuesday, January 1, 2008 – [[2008 Sugar Bowl|Allstate Sugar Bowl]]: #5 '''[[2007 Georgia Bulldogs football team|Georgia]]''' (10–2, At-large) 41, #10 [[2007 Hawaii Warriors football team|Hawaii]]<ref>Hawai{{okina}}i was an automatic selection as it was champion of the Western Athletic Conference and ranked #10 in the final BCS standings. </ref> (12–0, WAC Champion, Automatic non-AQ) 10
+* Wednesday, January 2, 2008 – [[2008 Fiesta Bowl|Tostitos Fiesta Bowl]]: #9 '''[[2007 West Virginia Mountaineers football team|West Virginia]]''' (10–2, Big East champion) 48, #4 [[2007 Oklahoma Sooners football team|Oklahoma]] (11–2, Big 12 champion) 28
+* Thursday, January 3, 2008 – [[2008 Orange Bowl|FedEx Orange Bowl]]: #8 '''[[2007 Kansas Jayhawks football team|Kansas]]''' (11–1, At-large) 24, #3 [[2007 Virginia Tech Hokies football team|Virginia Tech]] (11–2, ACC champion) 21
+* Monday, January 7, 2008 – [[2008 BCS National Championship Game|Allstate BCS National Championship]]: #2 '''[[2007 LSU Tigers football team|LSU]]''' (11–2, BCS #2, SEC champion), 38, #1 [[2007 Ohio State Buckeyes football team|Ohio State]] (11–1, BCS #1, Big Ten champion) 24 . 
+
+===2008–09 season===. 
+{{See also|2008–09 NCAA football bowl games}}
+These BCS bowl games were played following the 2008 regular season:
+* Thursday, January 1, 2009 – [[2009 Rose Bowl|Rose Bowl Game presented by Citi]]: #5 '''[[2008 USC Trojans football team|Southern California]]''' (11–1, Pac-10 champion) 38, #8 [[2008 Penn State Nittany Lions football team|Penn State]] (11–1, Big Ten champion) 24
+* Thursday, January 1, 2009 – [[2009 Orange Bowl|FedEx Orange Bowl]]: #19 '''[[2008 Virginia Tech Hokies football team|Virginia Tech]]''' (9–4, ACC champion) 20, #12 [[2008 Cincinnati Bearcats football team|Cincinnati]] (11–2, Big East champion) 7
+* Friday, January 2, 2009 – [[2009 Sugar Bowl|Allstate Sugar Bowl]]: #6 '''[[2008 Utah Utes football team|Utah]]''' (12–0, MWC champion, Automatic non-AQ) 31, #4 [[2008 Alabama Crimson Tide football team|Alabama]] (12–1, At-large) 17
+* Monday, January 5, 2009 – [[2009 Fiesta Bowl|Tostitos Fiesta Bowl]]: #3 '''[[2008 Texas Longhorn football team|Texas]]''' (11–1, Automatic "3–4 Rule"<ref name="kstrule" />) 24, #10 [[2008 Ohio State Buckeyes football team|Ohio State]] (10–2, At-large) 21
+*Thursday, January 8, 2009 – [[2009 BCS National Championship Game|FedEx BCS National Championship]]: #2 '''[[2008 Florida Gators football team|Florida]]''' (12–1, BCS #2, SEC champion) 24, vs. #1 [[2008 Oklahoma Sooners football team|Oklahoma]] (12–1, BCS #1, Big 12 champion) 14 . 
+
+===2009–10 season=== . 
+
+{{See also|2009–10 NCAA football bowl games}}
+These BCS games were played following the 2009 regular season:
+*Friday, January 1, 2010 – [[2010 Rose Bowl|Rose Bowl Game presented by Citi]]: #8 [[2009 Ohio State Buckeyes football team|'''Ohio State''']] (10–2, Big Ten Champion) 26, #7 [[2009 Oregon Ducks football team|Oregon]] (10–2, Pac-10 Champion) 17
+*Friday January 1, 2010 – [[2010 Sugar Bowl|Allstate Sugar Bowl]]: #5 [[2009 Florida Gators football team|'''Florida''']] (12–1, At-large) 51, #3 [[2009 Cincinnati Bearcats football team|Cincinnati]] (12–0, Big East Champion) 24
+*Monday, January 4, 2010 – [[2010 Fiesta Bowl|Tostitos Fiesta Bowl]]: #6 [[2009 Boise State Broncos football team|'''Boise State''']] (13–0, WAC Champion, At-large) 17, #4 [[2009 TCU Horned Frogs football team|TCU]] (12–0, MWC Champion, Automatic non-AQ) 10
+*Tuesday, January 5, 2010 – [[2010 Orange Bowl|FedEx Orange Bowl]]: #10 [[2009 Iowa Hawkeyes football team|'''Iowa''']] (10–2, At-large) 24 vs #9 [[2009 Georgia Tech Yellow Jackets football team|Georgia Tech]] (10–2, ACC Champion ''now vacated'' <sup>*</sup>) 14
+*Thursday, January 7, 2010 – [[2010 BCS National Championship Game|Citi BCS National Championship]]: #1 [[2009 Alabama Crimson Tide football team|'''Alabama''']] (13–0, BCS #1, SEC Champion) 37 vs #2 [[2009 Texas Longhorns football team|Texas]] (13–0, BCS #2, Big 12 Champion) 21 . 
+
+<sup>*</sup>:  On July 14, 2011, the NCAA vacated, for the use of an ineligible player, three games from Georgia Tech's 2009 season, including their win in the ACC Championship Game. <ref>{{cite web|url=http://espn.go.com/college-sports/story/_/id/6769894/ncaa-places-georgia-tech-yellow-jackets-four-years-probation|title=NCAA places Georgia Tech Yellow Jackets on Four Years Probation|date=14 July 2011|accessdate=14 July 2011}}</ref> . 
+
+===2010–11 season=== . 
+
+{{See also|2010-11 NCAA football bowl games}}
+The following BCS games were played following the 2010 regular season:
+* Saturday, January 1, 2011 – [[2011 Rose Bowl|Rose Bowl Game presented by Vizio]]: '''[[2010 TCU Horned Frogs football team|#3 TCU]]''' (12–0, MWC Champion, Automatic non-AQ) 21 vs. [[2010 Wisconsin Badgers football team|#5 Wisconsin]] (11–1, Big Ten Champion) 19
+* Saturday, January 1, 2011 – [[2011 Fiesta Bowl|Tostitos Fiesta Bowl]]: '''[[2010 Oklahoma Sooners football team|#7 Oklahoma]]''' (11–2, Big 12 Champion) 48 vs. [[2010 Connecticut Huskies football team|Connecticut]] (8–4, Big East Champion) 20
+* Monday, January 3, 2011 – [[2011 Orange Bowl|Discover Orange Bowl]]: '''[[2010 Stanford Cardinal football team|#4 Stanford]]''' (11–1, Automatic "3–4 Rule"<ref name="kstrule" />) 40 vs. [[2010 Virginia Tech Hokies football team|#13 Virginia Tech]] (11–2, ACC Champion) 12
+* Tuesday, January 4, 2011 – [[2011 Sugar Bowl|Allstate Sugar Bowl]]: '''[[2010 Ohio State Buckeyes football team|#6 Ohio State]]''' (11–1, At-Large) 31 <sup>*</sup> vs. [[2010 Arkansas Razorbacks football team|#8 Arkansas]] (10–2, At-Large) 26
+* Monday, January 10, 2011 – [[2011 BCS National Championship Game|Tostitos BCS National Championship]]: '''[[2010 Auburn Tigers football team|#1 Auburn]]''' (13–0, BCS #1, SEC Champion) 22  vs. [[2010 Oregon Ducks football team|#2 Oregon]] (12–0, BCS #2, Pac-10 Champion) 19
+<ref name="bcsfootball.org">[http://www.bcsfootball.org/news/story?id=4809833 Future BCS schedules]. Bcsfootball.org (2011-08-22). Retrieved on 2011-12-05. </ref> . 
+
+<sup>*</sup>  In response to the continuing investigation of Ohio State players regarding illegal benefits and the conduct of former coach [[Jim Tressel]], Ohio State University self-imposed vacation of all 2010 wins, including the 2011 Sugar Bowl, on July 11, 2011. <ref>{{cite web|title=Ohio State Buckeyes vacates all 2010 football victories|url=http://sports.espn.go.com/ncf/news/story?id=6749330|date=13 July 2011|accessdate=14 July 2011}}</ref> . 
+
+===2011–12 season=== . 
+
+{{See also|2011–12 NCAA football bowl games}} 
+The following BCS games were played following the 2011 regular season:
+*Monday, January 2, 2012 – [[2012 Rose Bowl|Rose Bowl Game presented by Vizio]]: '''[[2011 Oregon Ducks football team|#5 Oregon]]''' (11–2, BCS #5, Pac-12 Champion) 45 vs. [[2011 Wisconsin Badgers football team|#10 Wisconsin]] (11–2, BCS #10, Big Ten Champion) 38
+*Monday, January 2, 2012 – [[2012 Fiesta Bowl|Tostitos Fiesta Bowl]]: '''[[2011 Oklahoma State Cowboys football team|#3 Oklahoma State]]''' (11–1, BCS #3, Big 12 Champion) 41 vs. [[2011 Stanford Cardinal football team|#4 Stanford]] (11–1, BCS #4, BCS Automatic "3–4 Rule"<ref name="kstrule" />) 38 (OT)
+*Tuesday, January 3, 2012 – [[2012 Sugar Bowl|Allstate Sugar Bowl]]: '''[[2011 Michigan Wolverines football team|#13 Michigan]]''' (10–2, BCS #13, BCS At-Large) 23 vs. [[2011 Virginia Tech Hokies football team|#11 Virginia Tech]] (11–2, BCS #11, BCS At-Large) 20 (OT)
+*Wednesday, January 4, 2012 – [[2012 Orange Bowl|Discover Orange Bowl]]: '''[[2011 West Virginia Mountaineers football team|#23 West Virginia]]'''  (9–3, BCS #23, Big East Champion) 70 vs. [[2011 Clemson Tigers football team|#15 Clemson]] (10–3, BCS #15, ACC Champion) 33
+*Monday, January 9, 2012 – [[2012 BCS National Championship Game|Allstate BCS National Championship]]: '''[[2011 Alabama Crimson Tide football team|#2 Alabama]]''' (11–1, BCS #2, BCS At-Large) 21 vs. [[2011 LSU Tigers football team|#1 LSU]] (13–0, BCS #1, SEC Champion) 0 . 
+
+==Future BCS Schedules==. 
+The games are listed in chronological order. Some games dates are pending, so a range is given.  Also games dates and times are subject to change and to final agreement with TV partners. <ref name="bcsfootball.org"/> . 
+
+===2012–2013===. 
+The following BCS games are scheduled following the 2012 season:
+*Tuesday, January 1, 2013 – [[Rose Bowl Game|Rose Bowl]] (Pasadena, CA)
+*Tuesday, January 1, 2013 – [[Orange Bowl]] (Miami, FL)
+*Wednesday, January 2, 2013 – [[Sugar Bowl]] (New Orleans, LA)
+*Thursday, January 3, 2013 – [[Fiesta Bowl]] (Glendale, AZ)
+*Monday, January 7, 2013 – [[2013 BCS National Championship Game|Discover BCS National Championship]] (Miami, FL) . 
+
+===2013–2014===. 
+The following BCS games are scheduled following the 2013 season:
+*Wednesday January 1, 2014 – [[Rose Bowl Game|Rose Bowl]] (Pasadena, CA)
+*Wednesday January 1, 2014 – [[Fiesta Bowl]] (Glendale, AZ)
+*Thursday, January 2, 2014 – [[Sugar Bowl]] (New Orleans, LA)
+*Friday January 3, 2014 – [[Orange Bowl]] (Miami, FL)
+*Monday January 6, 2014 – [[2014 BCS National Championship Game|Vizio BCS National Championship]] (Pasadena, CA) . 
+
+==BCS bowl wins and appearances by team==. 
+{| class="wikitable sortable"
+. |-
+!Appearances !! School !! W !! L !! Pct
+!! class="unsortable" | Games
+. |-
+|9 || Ohio State || 5 || 3 || .667|| Won [[1999 Sugar Bowl]]<br />Won [[2003 Fiesta Bowl]]* <br />Won [[2004 Fiesta Bowl]]<br />Won [[2006 Fiesta Bowl]]<br />Lost [[2007 BCS National Championship Game]]<br />Lost [[2008 BCS National Championship Game]]<br />Lost [[2009 Fiesta Bowl]]<br />Won [[2010 Rose Bowl]]<br /> Won (Vacated) [[2011 Sugar Bowl]]
+. |-
+|8 || Oklahoma || 3 || 5 || .375
+|| Won [[2001 Orange Bowl]]* <br />Won [[2003 Rose Bowl]]<br />Lost [[2004 Sugar Bowl]]* <br />Lost [[2005 Orange Bowl]]* <br />Lost [[2007 Fiesta Bowl]]<br />Lost [[2008 Fiesta Bowl]]<br />Lost [[2009 BCS National Championship Game]]<br/ >Won [[2011 Fiesta Bowl]]
+. |-
+|7 || University of Southern California|USC || 5 || 1 || .714
+|| Won [[2003 Orange Bowl]]<br />Won [[2004 Rose Bowl]]<br />Won (Vacated) [[2005 Orange Bowl]]* <br /> Lost [[2006 Rose Bowl]]*<br />Won [[2007 Rose Bowl]]<br />Won [[2008 Rose Bowl]]<br />Won [[2009 Rose Bowl]]
+. |-
+| 6 || Florida || 5 || 1 || .833
+|| Won [[1999 Orange Bowl]]<br />Lost [[2001 Sugar Bowl]]<br />Won [[2002 Orange Bowl]]<br />Won [[2007 BCS National Championship Game]]<br />Won [[2009 BCS National Championship Game]] <br />Won [[2010 Sugar Bowl]]
+. |-
+| 6 || Florida State || 1 || 5 || .167
+|| Lost [[1999 Fiesta Bowl]]* <br />Won [[2000 Sugar Bowl]]* <br />Lost [[2001 Orange Bowl]]* <br />Lost [[2003 Sugar Bowl]]<br />Lost [[2004 Orange Bowl]]<br />Lost [[2006 Orange Bowl]]
+. |-
+| 6 || Virginia Tech || 1 || 5 || .167
+|| Lost [[2000 Sugar Bowl]]* <br />Lost [[2005 Sugar Bowl]]<br />Lost [[2008 Orange Bowl]]<br />Won [[2009 Orange Bowl]]<br />Lost [[2011 Orange Bowl]]<br />Lost [[2012 Sugar Bowl]]
+. |-
+| 5 || LSU || 4 || 1 || .800
+|| Won [[2002 Sugar Bowl]]<br />Won [[2004 Sugar Bowl]]* <br />Won [[2007 Sugar Bowl]]<br />Won [[2008 BCS National Championship Game]]<br />Lost [[2012 BCS National Championship Game]]
+. |-
+| 5 || Michigan || 2 || 3 || .400
+|| Won [[2000 Orange Bowl]]<br />Lost [[2004 Rose Bowl]]<br />Lost [[2005 Rose Bowl]]<br />Lost [[2007 Rose Bowl]]<br />Won [[2012 Sugar Bowl]]
+. |-
+| 4 || Miami (FL) || 3 || 1 || .750
+|| Won [[2001 Sugar Bowl]]<br />Won [[2002 Rose Bowl]]* <br />Lost [[2003 Fiesta Bowl]]*<br />Won [[2004 Orange Bowl]]
+. |-
+| 4 || Texas || 3 || 1 || .750
+|| Won [[2005 Rose Bowl]]<br />Won [[2006 Rose Bowl]]*<br />Won [[2009 Fiesta Bowl]]<br/>Lost [[2010 BCS National Championship Game]]
+. |-
+| 4 || Alabama || 2 || 2 || .500
+|| Lost [[2000 Orange Bowl]]<br />Lost [[2009 Sugar Bowl]]<br/>Won [[2010 BCS National Championship Game]]<br />Won [[2012 BCS National Championship Game]]
+. |-
+| 4 || Oregon || 2 || 2 || .500
+|| Won [[2002 Fiesta Bowl]] <br />Lost [[2010 Rose Bowl]]<br /> Lost [[2011 BCS National Championship Game]]<br />Won [[2012 Rose Bowl]]
+. |-
+| 4 || Wisconsin || 2 || 2 || .500
+|| Won [[1999 Rose Bowl]]<br />Won [[2000 Rose Bowl]]<br />Lost [[2011 Rose Bowl]]<br />Lost [[2012 Rose Bowl]]
+. |-
+| 3 || West Virginia || 3 || 0 || 1.000
+|| Won [[2006 Sugar Bowl]]<br />Won [[2008 Fiesta Bowl]]<br /> Won [[2012 Orange Bowl]]
+. |-
+| 3 || Georgia || 2 || 1 || .667
+|| Won [[2003 Sugar Bowl]]<br />Lost [[2006 Sugar Bowl]]<br /> Won [[2008 Sugar Bowl]]
+. |-
+| 3 || Stanford || 1 || 2 || .333
+|| Lost [[2000 Rose Bowl]]<br /> Won [[2011 Orange Bowl]]<br />Lost [[2012 Fiesta Bowl]]
+. |-
+| 3 || Notre Dame || 0 || 3 || .000
+|| Lost [[2001 Fiesta Bowl]]<br />Lost [[2006 Fiesta Bowl]]<br />Lost [[2007 Sugar Bowl]]
+. |-
+| 2 || Auburn || 2 || 0 || 1.000
+|| Won [[2005 Sugar Bowl]]<br /> Won [[2011 BCS National Championship Game]]
+. |-
+| 2 || Boise State || 2 || 0 || 1.000
+|| Won [[2007 Fiesta Bowl]] <br /> Won [[2010 Fiesta Bowl]]
+. |-
+| 2 || Utah || 2 || 0 || 1.000
+|| Won [[2005 Fiesta Bowl]]<br />Won [[2009 Sugar Bowl]]
+. |-
+| 2 || Iowa || 1 || 1 || .500
+|| Lost [[2003 Orange Bowl]] <br /> Won [[2010 Orange Bowl]]
+. |-
+| 2 || Nebraska || 1 || 1 || .500
+|| Won [[2000 Fiesta Bowl]]<br />Lost [[2002 Rose Bowl]]*
+. |-
+| 2 || Penn State || 1 || 1 || .500
+|| Won [[2006 Orange Bowl]]<br />Lost [[2009 Rose Bowl]]
+. |-
+| 2 || Tennessee || 1 || 1 || .500
+|| Won [[1999 Fiesta Bowl]]* <br />Lost [[2000 Fiesta Bowl]]
+. |-
+| 2 || TCU || 1 || 1 || .500
+|| Lost [[2010 Fiesta Bowl]]<br /> Won [[2011 Rose Bowl]]
+. |-
+| 2 || Cincinnati || 0 || 2 || .000
+|| Lost [[2009 Orange Bowl]] <br />Lost [[2010 Sugar Bowl]]
+. |-
+| 2 || Illinois || 0 || 2 || .000
+|| Lost [[2002 Sugar Bowl]]<br />Lost [[2008 Rose Bowl]]
+. |-
+| 1 || Kansas || 1 || 0 || 1.000
+|| Won [[2008 Orange Bowl]]
+. |-
+| 1 || Louisville || 1 || 0 || 1.000
+|| Won [[2007 Orange Bowl]]
+. |-
+| 1 || Oklahoma State || 1 || 0 || 1.000
+|| Won [[2012 Fiesta Bowl]]
+. |-
+| 1 || Oregon State || 1 || 0 || 1.000
+|| Won [[2001 Fiesta Bowl]]
+. |-
+| 1 || Washington || 1 || 0 || 1.000
+|| Won [[2001 Rose Bowl]]
+. |-
+| 1 || Arkansas || 0 || 1 || .000
+|| Lost [[2011 Sugar Bowl]]
+. |-
+| 1 || Clemson || 0 || 1 || .000
+|| Lost [[2012 Orange Bowl]]
+. |-
+| 1 || Colorado || 0 || 1 || .000
+|| Lost [[2002 Fiesta Bowl]]
+. |-
+| 1 || Connecticut || 0 || 1 || .000
+|| Lost [[2011 Fiesta Bowl]]
+. |-
+| 1 || Georgia Tech || 0 || 1 || .000
+|| Lost [[2010 Orange Bowl]]
+. |-
+| 1 || Hawaii || 0 || 1 || .000
+|| Lost [[2008 Sugar Bowl]]
+. |-
+| 1 || Kansas State || 0 || 1 || .000
+|| Lost [[2004 Fiesta Bowl]]
+. |-
+| 1 || Maryland || 0 || 1 || .000
+|| Lost [[2002 Orange Bowl]]
+. |-
+| 1 || Pittsburgh || 0 || 1 || .000
+|| Lost [[2005 Fiesta Bowl]]
+. |-
+| 1 || Purdue || 0 || 1 || .000
+|| Lost [[2001 Rose Bowl]]
+. |-
+| 1 || Syracuse || 0 || 1 || .000
+|| Lost [[1999 Orange Bowl]]
+. |-
+| 1 || Texas A&M || 0 || 1 || .000
+|| Lost [[1999 Sugar Bowl]]
+. |-
+| 1 || UCLA || 0 || 1 || .000
+|| Lost [[1999 Rose Bowl]]
+. |-
+| 1 || Wake Forest || 0 || 1 || .000
+|| Lost [[2007 Orange Bowl]]
+. |-
+| 1 || Washington State || 0 || 1 || .000
+|| Lost [[2003 Rose Bowl]]
+|}
+<nowiki>*</nowiki>Denotes [[BCS National Championship Game]] prior to 2007 . 
+
+==BCS National Championship Game wins and appearances by team==. 
+{| class="wikitable sortable"
+. |-
+!Appearances !! School !! W !! L !! Pct
+!! class="unsortable" | Games
+. |-
+| 4 || Oklahoma || 1 || 3 || .250
+|| Won [[2001 Orange Bowl]]<br />Lost [[2004 Sugar Bowl]]<br />Lost [[2005 Orange Bowl]]<br />Lost [[2009 BCS National Championship Game]]
+. |-
+| 3 || LSU || 2 || 1 || .666
+|| Won [[2004 Sugar Bowl]]<br />Won [[2008 BCS National Championship Game]]<br />Lost [[2012 BCS National Championship Game]]
+. |-
+| 3 || Florida State || 1 || 2 || .333
+|| Lost [[1999 Fiesta Bowl]]<br />Won [[2000 Sugar Bowl]]<br />Lost [[2001 Orange Bowl]]
+. |-
+| 3 || Ohio State || 1 || 2 || .333
+|| Won [[2003 Fiesta Bowl]]<br />Lost [[2007 BCS National Championship Game]]<br />Lost [[2008 BCS National Championship Game]] 
+. |-
+| 2 || Alabama || 2 || 0 || 1.000
+|| Won [[2010 BCS National Championship Game]]<br />Won [[2012 BCS National Championship Game]]
+. |-
+| 2 || Florida || 2 || 0|| 1.000
+|| Won [[2007 BCS National Championship Game]]<br />Won [[2009 BCS National Championship Game]]
+. |-
+| 2 || Miami (FL) || 1 || 1 || .500
+|| Won [[2002 Rose Bowl]]<br />Lost [[2003 Fiesta Bowl]]
+. |-
+| 2 || Texas || 1 || 1 || .500
+|| Won [[2006 Rose Bowl]] <br/>Lost [[2010 BCS National Championship Game]]
+. |-
+| 2 || USC || 1 || 1 || .500
+|| Lost (Vacated) [[2006 Rose Bowl]]<br/>Won (Vacated) [[2005 Orange Bowl]]
+. |-
+| 1 || Auburn || 1 || 0 || 1.000
+|| Won [[2011 BCS National Championship Game]]
+. |-
+| 1 || Tennessee || 1 || 0 || 1.000
+|| Won [[1999 Fiesta Bowl]]
+. |-
+| 1 || Nebraska || 0 || 1 || .000
+|| Lost [[2002 Rose Bowl]]
+. |-
+| 1 || Oregon || 0 || 1 || .000
+|| Lost [[2011 BCS National Championship Game]]
+. |-
+| 1 || Virginia Tech || 0 || 1 || .000
+|| Lost [[2000 Sugar Bowl]]
+|}
+USC's appearances in the 2005 and 2006 BCS National Championship Games were vacated by the BCS. <ref name="vacated">{{cite press release| url=http://www.bcsfootball.org/news/story?id=6632189 | title=BCS Group vacates USC 2004–05 national championship following NCAA denial of appeal | publisher=Bowl Championship Series | date=2011-06-06 | accessdate=2011-06-06}}</ref></sup> . 
+
+==BCS Bowl wins and appearances by conference==. 
+{| class="wikitable sortable"
+. |-
+! Conference
+! Appearances
+! At-large bids
+! W
+! L
+! Pct
+! # Schools
+! class="unsortable"|School(s)
+. |-
+| [[Big Ten Conference|Big Ten]]
+|| 25****
+|| 11
+|| 12****
+|| 13
+|| .458****
+|| 7
+|| Ohio State (6****-3)<br />Michigan (2–3)<br />Wisconsin (2–2)<br />Penn State (1–1)<br />Iowa (1–1)<br />Illinois (0–2)<br />Purdue (0–1)
+. |-
+| [[Southeastern Conference|SEC]]
+|| 23
+|| 8
+|| 16
+|| 7
+|| .696
+|| 7
+|| Florida (5–1)<br />LSU (4–1)<br />Alabama (2–2)<br />Georgia (2–1)<br />Auburn (2–0)<br />Tennessee (1–1)<br />Arkansas (0–1)
+. |-
+| [[Big 12 Conference|Big 12]]
+|| 19
+|| 5
+|| 8
+|| 11
+|| .421
+|| 8
+|| Oklahoma (3–5)<br />Texas (3–1)<br />Nebraska* (1–1)<br />Kansas (1–0)<br />Oklahoma State (1–0)<br />Colorado** (0–1)<br />Kansas State (0–1)<br />Texas A&M (0–1)
+. |-
+| [[Pacific-12 Conference|Pac-12]]
+|| 17***
+|| 4
+|| 10***
+|| 4
+|| .600***
+|| 7
+|| USC (5***-1)<br />Oregon (2–2)<br />Stanford (1–2)<br />Oregon State (1–0)<br />Washington (1–0)<br />UCLA (0–1)<br />Washington State (0–1)
+. |-
+| [[Atlantic Coast Conference|ACC]]
+|| 15
+|| 1
+|| 2
+|| 13
+|| .133
+|| 6
+|| Florida State (1–5)<br />Virginia Tech† (1–4)<br />Clemson (0–1)<br />Georgia Tech (0–1)<br />Maryland (0–1)<br />Wake Forest (0–1)
+. |-
+| [[Big East Conference|Big East]]
+|| 14
+|| 0
+|| 7
+|| 7
+|| .500
+|| 8
+|| Miami (FL)† (3–1)<br />West Virginia (3–0)<br />Louisville (1–0)<br />Cincinnati (0–2)<br/>Connecticut (0–1)<br />Pittsburgh (0–1)<br />Syracuse (0–1)<br />Virginia Tech† (0–1)
+. |-
+| [[Mountain West Conference|MWC]]
+|| 4
+|| 0<nowiki>††</nowiki>
+|| 3
+|| 1
+|| .750
+|| 2
+|| Utah (2–0)††† <br /> TCU (1–1)
+. |-
+| [[Western Athletic Conference|WAC]]
+|| 3
+|| 1<nowiki>††</nowiki>
+|| 2
+|| 1
+|| .667
+|| 2
+|| Boise State (2–0)<br />Hawaii (0–1)
+. |-
+| [[NCAA Division I-A Independent Schools|Independent]]
+|| 3
+|| 3
+|| 0
+|| 3
+|| .000
+|| 1
+|| Notre Dame (0–3)
+. |-
+|[[Conference USA|C-USA]]
+|| 0
+|| 0
+|| 0
+|| 0
+|| .000
+|| 0
+||
+. |-
+|[[Mid-American Conference|MAC]]
+|| 0
+|| 0
+|| 0
+|| 0
+|| .000
+|| 0
+||
+. |-
+|[[Sun Belt Conference|Sun Belt]]
+|| 0
+|| 0
+|| 0
+|| 0
+|| .000
+|| 0
+||
+|} . 
+
+<nowiki>*</nowiki>While Nebraska has been a member of both the Big 12 and Big Ten, it has only been to a BCS Bowl as a member of the Big 12.  . 
+
+<nowiki>**</nowiki>While Colorado has been a member of both the Big 12 and Pac-12, it has only been to a BCS Bowl as a member of the Big 12.  . 
+
+<nowiki>***</nowiki>USC's appearances in the 2005 and 2006 BCS National Championship Games were vacated by the BCS. <ref name="vacated" /> . 
+
+<nowiki>****</nowiki>Ohio State's 2011 Sugar Bowl victory has been self-vacated by Ohio State University due to continuing allegations over the players on that team and Coach Jim Tressel.  . 
+
+†Virginia Tech played for both the ACC and Big East, and played in BCS bowl games for both conferences.  Note that while Miami has been a member of both the Big East and ACC, it has only been to a BCS Bowl as a member of the Big East.  . 
+
+††Although the Mountain West and WAC do not automatically qualify for BCS bowls, some of their appearances are not considered at-large bids because of the rule allowing the highest ranked conference champion from a non-automatic-qualifying conference to receive an automatic bid if they are in the top 12. Boise State's bid in the 2010 Fiesta Bowl is the only time a team from a non-automatic-qualifying conference has received an at-large bid as TCU received the automatic bid in 2010.  . 
+
+†††While Utah has been a member of both the Mountain West and Pac-12, it has only been to a BCS Bowl as a member of the Mountain West.  . 
+
+==BCS National Championship Game appearances by conference==. 
+{| class="wikitable sortable"
+. |-
+! Conference
+! Appearances
+! W
+! L
+! Pct
+! # Schools
+! class="unsortable"|School(s)
+. |-
+| [[Southeastern Conference|SEC]]
+|| 9
+|| 8
+|| 1*
+|| .889
+|| 5
+|| LSU (2–1) <br />Florida (2–0)<br />Alabama (2-0) <br />Auburn (1–0) <br /> Tennessee (1–0)
+. |-
+| [[Big 12 Conference|Big 12]]
+|| 7
+|| 2
+|| 5
+|| .286
+|| 3
+|| Oklahoma (1–3)<br />Texas (1–1)<br />Nebraska (0–1)
+. |-
+| [[Atlantic Coast Conference|ACC]]
+|| 3
+|| 1
+|| 2
+|| .333
+|| 1
+|| Florida State (1–2)
+. |-
+| [[Big East Conference|Big East]]
+|| 3
+|| 1
+|| 2
+|| .333
+|| 2
+|| Miami, FL (1–1)<br />Virginia Tech (0–1)
+. |-
+| [[Big Ten Conference|Big Ten]]
+|| 3
+|| 1
+|| 2
+|| .333
+|| 1
+|| Ohio State (1–2)
+. |-
+| [[Pacific-12 Conference|Pac-12]]<sup>†</sup>
+|| 1 (2 vacated)
+|| 0 (1 vacated)
+|| 1 (1 vacated)
+|| .000
+|| 1
+|| Oregon (0–1)
+|}
+<sup>†</sup> USC's appearances in the 2005 and 2006 BCS National Championship Games were vacated by the BCS. <ref name="vacated"/> . 
+
+<sup>*</sup> LSU lost to Alabama (SEC) school . 
+
+==Controversies==. 
+{{Main|BCS controversies}} . 
+
+===Criticism===. 
+The primary criticism of the BCS centers around the validity of the annual BCS national championship pairings and its designated ''National Champions''. Many critics focus on the BCS methodology itself, which employs subjective voting assessments, while others note the ability for undefeated teams to finish seasons without an opportunity to play in the ''national championship'' game. In fact, in the last 6 seasons of Division I FBS football, there have been more undefeated non-BCS champions than undefeated BCS champions. Other criticisms involve discrepancies in the allocation of monetary resources from BCS games, as well as the determination of non-championship BCS game participants, which need not comply with the BCS rankings themselves. <ref>[http://sports.espn.go.com/ncf/news/story?id=4030992 Prospect of antitrust lawsuit from Utah increases pressure on BCS – ESPN]. Sports.espn.go.com (2009-03-31). Retrieved on 2011-12-05. </ref>  In the 2010–2011 bowl season, for example, the six automatic-qualifier (AQ) conferences were given $145.2 million in revenue from the BCS while the five non-AQ conferences received only $24.7 million. <ref name="Murphy, Austin 2011, p. 23">Murphy, Austin, "Under Attack", ''[[Sports Illustrated]]'', 2 May 2011, p. 23. </ref> . 
+
+A recent survey conducted at the [[Quinnipiac University]] found that 63% of individuals interested in college football preferred a playoff system to the BCS, while only 26% favored the status quo. <ref>[http://www.sltrib.com/sports/ci_14087869 Utah News – Salt Lake City News, Sports, Entertainment, Business – The Salt Lake Tribune]. Sltrib.com (2009-12-29). Retrieved on 2011-12-05. </ref> President [[Barack Obama]] has been vocal about his opposition to the BCS. During an appearance on [[Monday Night Football]] during the [[2008 presidential campaign]] season, ESPN's [[Chris Berman]] asked Obama to name one thing about sports he would like to change. <ref name=obama1>{{cite news |title=McCain, Obama are ‘Monday Night Football’ halftime show |first=Diane |last=Pucin |work=Los Angeles Times |date=November 4, 2008 |page=D-1 |url=http://articles.latimes.com/2008/nov/04/sports/sp-media4 |quote=I think it is about time we had playoffs ... I'm fed up with these computer rankings and this and that and the other. Get eight teams – the top eight teams right at the end. You got a playoff. }}</ref> Obama responded that he did not like using computer rankings to determine bowl games, and he supported having a college football playoff for the top eight teams. <ref name=obama1/> When [[Steve Kroft]] asked then-President-elect Obama about the subject during an interview on [[60 Minutes]], Obama reiterated his support of eight-team playoff; although he has said it is not a legislative priority. <ref>{{cite news |first=Wyndam |last=Makowsky |title=Between the lines: Barack to BCS: time for change |work=The Stanford Daily |publisher=The Stanford Daily Publishing Corporation |date=November 18, 2008 |url=http://www.stanforddaily.com/cgi-bin/?p=1548 |quote=Kroft: As president of the United States, what can you do, or what do you plan to do, about getting a college football playoff for the national championship? Obama: Eight teams. That would be three rounds, to determine a national champion. It would add three extra weeks to the season. You could trim back on the regular season. }}</ref><ref>{{cite news |title=President-elect Obama makes another play for college football playoff |work=ESPN |date=November 15, 2008 |url=http://sports.espn.go.com/ncf/news/story?id=3704864 }}</ref> . 
+
+Longtime college football announcer [[Brent Musburger]] also voiced his support for a playoff in an interview with the [[Chicago Sun-Times]]. "My dream scenario – and it's not going to happen – would be to take eight conference champions, and only conference champions, and play the quarterfinals of a tournament on campuses in mid-December," Musburger said. "The four losers would remain bowl-eligible. The four winners would advance to semifinals on New Year's Day with exclusive TV windows. Then, like now, one week later, there would be the national championship game."<ref>{{cite news |first=Jim|last=O'Donnell|title=Musburger takes Chicago roots to highlight game |work=[[Chicago Sun-Times]] |date=January 7, 2010 |url=http://www.suntimes.com/sports/colleges/1978461,brent-mushburger-chicago-roots-010710.article }}</ref> . 
+
+===Antitrust lawsuits=== . 
+
+In 2008, a lawsuit was threatened due to the exclusion of teams from the non-automatic qualifying conferences in the BCS system. <ref>{{cite news |url=http://query.nytimes.com/gst/fullpage.html?res=9B00E3D9143FF930A15754C0A9659C8B63 |title=University Presidents Rally Against B.C.S. |first=Ray |last=Glier |work=The New York Times |date=July 23, 2003 }}</ref><ref>{{cite news |url=http://www.iht.com/articles/ap/2008/12/01/sports/FBC-Jim-Litke-120108.php |title=BCS should reconsider 'plus-one' game — and fast |agency=Associated Press |publisher=International Herald Tribune |date=December 1, 2008 }}</ref> Following Utah's win over Alabama in the [[2009 Sugar Bowl]], [[State Attorney General|Utah Attorney General]] [[Mark Shurtleff]] announced an inquiry into whether the BCS system violates [[Sherman Antitrust Act|federal anti-trust laws]]. <ref>{{cite news |url=http://sports.espn.go.com/ncf/news/story?id=3814472 |title=Utah AG: BCS may violate antitrust laws |agency=Associated Press |publisher=ESPN |date=January 7, 2009 }}</ref><ref>{{cite news |url=http://www.startribune.com/sports/gophers/37274379.html?elr=KArksi8cyaiUjc8LDyiUiD3aPc:_Yyc:aUU |title=ACC commissioner says Bowl Championship Series complies with federal antitrust laws |first=Ralph D. |last=Russo |agency=Associated Press |publisher=Star Tribune |date=January 8, 2009 }}</ref> In 2009, senior Utah senator [[Orrin Hatch]] announced that he was exploring the possibility of a lawsuit against the BCS as an anti-competitive trust under the [[Sherman Anti-Trust Act]]. On November 27, 2009 the ''Fort Worth Star-Telegram'' ran a story that said that Rep. Joe Barton (R-TX), ranking member of the House Committee on Energy and Commerce, announced that he would hold anti-trust hearings on the BCS, again based on the Sherman Anti-Trust Act and its provisions outlawing non-competitive trusts, beginning in May 2010. <ref>T[http://www.star-telegram.com/news/story/1792536.html "Barton Says BCS 'Is Simply A Cartel, Much Like OPEC' And Doesn't Give TCU A Fair Shake"]. he Fort Worth Star Telegram, November 26, 2009</ref> Meanwhile, various organizations, including the BCS, are spending hundreds of thousands of dollars to lobby the federal government both in support and in opposition to a college football playoff system. <ref>{{cite news |url=http://www.opensecrets.org/news/2009/12/bcs-becomes-political-football.html |title=BCS Becomes Political Football as Lobbyists Blitz Congress |agency=Capital Eye |publisher=Center for Responsive Politics |author=Dave Levinthal |date=December 17, 2009 }}</ref> . 
+
+According to [[CBSSports.com]] wire reports and information obtained by the [[Associated Press]], Senator Orin Hatch received a letter from the justice department concerning the possibility of a legal review of the BCS. The letter, received on January 29, 2010, states that the Obama administration will explore options to establish a college football playoff including (a) an anti-trust lawsuit against the BCS, (b) legal action under [[Federal Trade Commission]] consumer protection laws, (c) encouragement of the NCAA to take control of the college football postseason, (d) the establishment of an agency to review the costs and benefits of adopting a playoff system, and (e) continued legislation in favor of a playoff system. Assistant Attorney General Ronald Weich writes, "The administration shares your belief that the lack of a college football national championship playoff ...raises important questions affecting millions...." BCS Executive Director Bill Hancock responded to the letter that the BCS complies with all laws and is supported by the participating Division I universities. <ref>[http://www.cbssports.com/collegefootball/story/12858012/obama-administration-considering-action-on-bcs Obama administration considering action on BCS – NCAA Football]. CBSSports.com (2010-01-29). Retrieved on 2011-12-05. </ref> . 
+
+In April 2011, Utah attorney general [[Mark Shurtleff]] announced he would file an antitrust lawsuit against the BCS for, "serious antitrust violations that are harming taxpayer-funded institutions to the tune of hundreds of millions of dollars."  The announcement followed the April 12, 2011 delivery of a letter to the US Department of Justice signed by 21 "high-profile" economists and antitrust experts asking for an investigation into the BCS' anticompetitive practices. <ref name="Murphy, Austin 2011, p. 23"/> . 
+
+===Allegations of corruption and financial impropriety===. 
+The BCS bowls have been accused of promoting the BCS system because they and their executive officers greatly benefit financially from the system.  Bowl executives, such as John Junker of the [[Fiesta Bowl]], are often paid unusually high salaries for employees of non-profit organizations.  To promote support for their bowls and the BCS system, these highly-paid executives allegedly give lavish gifts to politicians, collegiate sports executives, and university athletic directors. <ref name="Murphy, Austin 2011, pp. 20">Murphy, Austin, and Michael McKnight, "A Bowl Full of Trouble", ''[[Sports Illustrated]]'', 4 April 2011, pp. 20–21. </ref> . 
+
+In response, a pro-playoff organization, called Playoff PAC, in September 2010 filed a complaint with the [[Internal Revenue Service]].  The complaint alleges that the top BCS bowls, with the exception of the [[Rose Bowl Game|Rose Bowl]], routinely abuse favorable tax status by using charitable donations to give gifts and compensation to college athletic officials.  In one example detailed in the complaint, the [[Orange Bowl]] treated its executive staff and invited college athletic directors to a four day [[Royal Caribbean International|Royal Caribbean]] cruise in which no business meetings were held. <ref name="Murphy, Austin 2011, pp. 20"/> . 
+
+===Illegal teams and vacation of wins/participation=== . 
+
+Over the last two years, an increasing eye has been getting turned toward programs which have earned BCS bowl bids by illegal conduct under the rules and regulations of the NCAA.  . 
+
+In the summer of 2011 alone, in addition to the allegations noted above with respect to the Fiesta Bowl: . 
+
+*USC's final appeals were exhausted in the [[Reggie Bush]] situation, with all penalties standing, including a two-year bowl ban and vacation of 14 wins, including a national championship and the entire following season.  As a result, the BCS, in a first-time action, vacated the ''participation'' of USC's participation in their 2004–2005 National Championship Game win and the 2005–2006 National Championship Game loss to Texas.  The 2004–2005 BCS National Championship will remain permanently vacant. <ref>{{cite web|url=http://www.bcsfootball.org/news/story?id=6632189|title=BCS Group vacates USC 2004–05 national championship following NCAA denial of appeal|date=June 6, 2011|work=bcsfootball.org}}</ref> . 
+
+*In December 2010, five Ohio State University players were implicated in an illegal-benefits scandal preceding the 2011 Sugar Bowl.  Though the five players were suspended for five games apiece, not only was Ohio State still allowed to play in the 2011 Sugar Bowl, but so were the five players.  After defeating Arkansas, the scandal grew, including open deception by Ohio State coach Jim Tressel.  As a result, Tressel has been forced out and, on July 11, 2011, Ohio State University vacated all of its wins in an effort to reduce their penalties in an upcoming August, 2011 NCAA meeting. <ref>{{cite web|url=http://www.huffingtonpost.com/2011/07/08/ohio-state-vacates-2011-sugar-bowl_n_893371.html|title=Ohio State Vacates 2011 Sugar Bowl, 2010 Football Wins|date=07/8/2011|work=Huffington Post}}</ref>  The BCS has taken no action at this time, awaiting the NCAA's penalties before it does.  . 
+
+*On July 14, 2011, after the completion of a long investigation into athletics at Georgia Tech, the NCAA found that, while there was no conclusive evidence that Georgia Tech had used an ineligible player for the last two regular-season games of the 2009 year and their [[ACC Championship Game]] victory, the administration had been less cooperative than the NCAA had wished.  As a result, those three games have been vacated by the NCAA. <ref>{{cite web|url=http://espn.go.com/college-sports/story/_/id/6769894/ncaa-places-georgia-tech-yellow-jackets-four-years-probation|title=NCAA places Georgia Tech on probation|date=July 18, 2011|work=ESPN College Sports}}</ref>  The BCS has taken no action at this time, awaiting the results of Georgia Tech's NCAA appeal.  . 
+
+===Support===. 
+While there is substantial criticism aimed at the BCS system from coaches, media, and fans alike, there is also support for the system. [[Tim Cowlishaw]] of [[The Dallas Morning News]] cites several advantages that the BCS has over a [[playoff]] system. Under the BCS, a single defeat is extremely detrimental to a team's prospects for a national championship,<ref>Isaac Luber 
+[http://bleacherreport.com/articles/80246-college-football-and-feeling-the-pain-of-a-late-season-loss College Football and Feeling the Pain of a Late-Season Loss]. Bleacherreport.com. November 11, 2008. Retrieved on 2011-12-05. </ref> although critics point out regularly that history shows non-BCS conference teams are hurt far more than BCS teams when they lose a game.  Supporters contend that this creates a substantial incentive for teams to do their best to win every game. Under a playoff system, front-running teams could be in a position of safety at the end of the regular season and could pull or greatly reduce their use of top players in order to protect them from injuries or give them recovery time (this happens frequently in the [[National Football League|NFL]]). <ref>John Oehser [http://web.archive.org/web/20110708185739/http://cache.colts.com/modules/article7_print.cfm?news_id=0ccb9424-c337-4fbe-876e-02e21b755afc Time to Shine]. Colts.com. December 26, 2008</ref> This may be less likely to happen under the BCS system where a team in the running for a #1 or #2 ranking at the end of the year would likely be punished in the polls for a loss, potentially eliminating them from contention.  . 
+
+While the BCS routinely involves controversy about which two teams are the top teams, in rare instances there is a clear-cut top two; the BCS ensures these top two will play each other for the championship. For example, USC and Texas in 2005 were the only undefeated teams; both teams were only tested a couple of times all season and mauled every other opponent they faced by large margins. Had this scenario occurred before the inception of the BCS, the teams would have been unable to play each other due to contractual obligations with the major bowls and there either would have been dual national champions or Texas would have been denied the title despite their record and talent. Under the BCS system however, these two teams got to play for the championship. <ref>[http://wwwc.house.gov/judiciary/Legacy/delany090403.htm Statement Of James E. Delany]. house.gov. Retrieved on 2011-12-05. </ref> . 
+
+The NCAA, the governing organization of most collegiate sports, has no official process for determining its FBS (Div. 1-A) champion. Instead, FBS champions are chosen by what the NCAA calls in its official list of champions "selecting organizations". <ref>{{cite web|url=http://www.ncaa.com/history/football-fbs.html |title=NCAA History – Past Football Champions |publisher=NCAA.com |date= |accessdate=May 1, 2009}}</ref> . 
+
+According to its website, the BCS:
+"...is managed by the commissioners of the 11 NCAA Division I-A conferences, the director of athletics at the University of Notre Dame, and representatives of the bowl organizations. 
+"...is a five-game arrangement for post-season college football that is designed to match the two top-rated teams in a national championship game and to create exciting and competitive match-ups between eight other highly regarded teams in four other games". <ref>{{cite web|url=http://www.bcsfootball.org/bcsfb/definition |title=The BCS is ... |work=BCSfootball.org |date= |accessdate=January 11, 2009}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> . 
+
+==BCS Buster==. 
+[[Image:UteFansRush.JPG|thumb|right|[[Utah Utes]] fans rush the field and carry the goalpost after defeating rival [[2004 Utah Utes football team#BYU|BYU]], completing a perfect [[2004 Utah Utes football team|regular season]], and becoming the first BCS Buster by clinching a spot in the [[2005 Fiesta Bowl]] (hence the [[sombrero]]).]]
+The term "BCS Buster" refers to any team other than [[Notre Dame Fighting Irish football|Notre Dame]] not from a BCS conference that manages to earn a spot in a BCS bowl game. <ref name="BCSbusterUtah">{{cite web | url=http://deseretnews.com/dn/view/0,1249,600103700,00.html | title=Utes had a Fiesta in 2004 | publisher=Deseret Morning News | author=Dirk Facer | date=January 10, 2005 | accessdate=October 8, 2007}}</ref> These teams are often referred to as non-BCS when discussed outside of the post-season structure.  . 
+
+With the exception of Notre Dame, it is generally extremely difficult for a non-BCS team to reach a BCS bowl, while it is much easier for a BCS conference team (see rules above) to do so due to the inherent bias built into the rules of the BCS system. This makes becoming a BCS Buster very  noteworthy. Despite the fact that there have been a number of eligible non-AQ Conference teams, only seven teams (from only four schools – Utah, TCU, Boise State and Hawaii) have succeeded in becoming BCS Busters. No team outside the 6 BCS Conference have ever been in the BCS Championship, while a team from the SEC has been in the Championship game every year since 2006. This consistent selection of one Conference's teams, and other questionable selections, have been one area of intense criticism of the BCS system and its exclusionary tendencies.  . 
+
+The [[Utah Utes football|University of Utah]] football program became the first BCS Buster in 2004 after an undefeated season, despite harder limits in place before the addition of a 5th bowl in 2006 made BCS Busters more commonplace.  They also became the first team to repeat in 2008. The [[2004 Utah Utes football team|Utes]] played in the 2005 Tostitos [[Fiesta Bowl]],<ref name="BCSbusterUtah" /> and beat their opponent, the [[2004 Pittsburgh Panthers football team|Pittsburgh Panthers]], 35–7.  During the 2008 season, the [[2008 Utah Utes football team|Utes]] finished their regular season schedule undefeated (8–0 in the Mountain West Conference and 12–0 overall) and earned a berth in the [[2009 Sugar Bowl|Sugar Bowl]] against [[2008 Alabama Crimson Tide football team|Alabama]], winning 31–17. Both the number of Top 25 teams (4) and Top 10 teams (2) Utah defeated that year, equalled the number of such ranked teams defeated by eventual one-loss champion [[2008 Florida Gators football team|Florida]].  That season, no other team besides the Gators or Utes defeated four ranked teams.  Ironically, the strength of schedule argument was often cited by those arguing that Utah did not deserve to be crowned [[College football national championships in NCAA Division I FBS|National Champions]].  In the 2011 season, the Utes began competing as members of the [[Pacific-12 Conference]], one of the six conferences with an automatic BCS tie in.  . 
+
+In 2006, [[2006 Boise State Broncos football team|Boise State]] became the second BCS Buster after a 12–0 regular season and subsequent Fiesta Bowl berth against the [[2006 Oklahoma Sooners football team|Oklahoma Sooners]]. The Broncos [[2007 Fiesta Bowl|won 43–42 in overtime]] in what many fans, pundits and others consider to be one of the best Bowl games in history.  . 
+
+In 2007, [[2007 Hawaii Warriors football team|Hawaii]] also finished the regular season at 12–0, but were defeated by the [[2007 Georgia Bulldogs football team|Georgia Bulldogs]] 41–10 in the [[2008 Sugar Bowl|Sugar Bowl]]. This remains the only loss to date by a BCS Buster to an opponent from an automatic qualifying conference.  . 
+
+The 2009 season was the first in which two teams from non–BCS conferences earned BCS bowl berths. [[2009 TCU Horned Frogs football team|TCU]], which finished the regular season 12–0 as champions of the Mountain West, earned the automatic BCS berth with a #4 finish in the final BCS rankings. Two slots behind the Horned Frogs were WAC champions [[2009 Boise State Broncos football team|Boise State]], which finished at 13–0 for its second consecutive unbeaten regular season and fourth in six years. The Broncos defeated the Frogs 17–10 in the [[2010 Fiesta Bowl]], which marked the first BCS matchup between non-AQ schools, and the first time in BCS history that two unbeaten teams met in a BCS game other than the title match. This pairing created considerable controversy as the BCS Conferences and the selection committees were accused of cowardice, pairing the two BCS Busters against each other so that the risk of BCS Conference teams losing was eliminated. This game remains a controversial saga in the history of the BCS.  . 
+
+In 2010, [[2010 TCU Horned Frogs football team|TCU]] was the only non–BCS conference team to get a BCS bowl berth. [[2010 Boise State Broncos football team|Boise State]] was ranked in the top five for most of the season, but a late-season overtime loss to [[2010 Nevada Wolf Pack football team|Nevada]] knocked the Broncos out of serious contention for a BCS bowl bid, despite having still been technically eligible for one.  TCU would defeat Wisconsin 21–19 in the [[2011 Rose Bowl]], once again calling into question the claim of BCS Conference superiority, and doing so with an entirely new level of quality of play. There was a strong movement to lobby those voting in the AP poll, which is not bound to vote for the BCS Championship winner as the Coaches Poll is, to vote TCU first and split the National Championship. While TCU got a few first place votes, this effort did not change the outcome of the AP poll, with TCU ending up the season in the #2 spot in all of the major polls and the BCS rankings. As [[Utah Utes football|Utah]] did, [[TCU Horned Frogs football|TCU]] will soon join a conference with an automatic BCS tie in when they join the [[Big 12 Conference]] beginning with the 2012 season.  . 
+
+BCS Busters are currently 5–2 in BCS bowls, and 4–1 in BCS bowls against opponents from BCS conferences.  . 
+
+The following table shows all 19 teams that were eligible to become BCS Busters, including the seven that succeeded.  . 
+
+{| class="wikitable"
+. |- style="text-align:center; background:#e3e3e3;"
+| rowspan=2 | '''Season''' || rowspan=2 | '''Team''' || rowspan=2 | '''Conference''' || rowspan=2 | '''Regular Season <br />Record''' || rowspan=2 | '''BCS Rank''' || rowspan=2 | '''BCS Bowl''' || rowspan=2 colspan=4 | '''Result''' || colspan=2 | '''Final Ranking'''
+. |- style="text-align:center; background:#e3e3e3;"
+| '''AP''' || '''Coaches'''
+. |- style="text-align:center;"
+| 1998 || [[1998 Tulane Green Wave football team|Tulane]]*|| [[Conference USA|CUSA]] || 11–0 || #10 || colspan=5| || #7 || #7
+. |- style="text-align:center;"
+| 1999 || [[1999 Marshall Thundering Herd football team|Marshall]]*|| [[Mid-American Conference|MAC]] || 12–0 || #12 || colspan=5| || #10 || #10
+. |- style="text-align:center;"
+| 2000 || [[2000 TCU Horned Frogs football team|TCU]]*|| WAC || 10–1 || #14 || colspan=5| || #21 || #18
+. |- style="text-align:center;"
+| 2003 || [[2003 Miami RedHawks football team|Miami (OH)]]*|| MAC || 11–1 || #11 || colspan=5| || #10 || #12
+. |- style="text-align:center;"
+| 2004 || [[2004 Utah Utes football team|Utah]]|| [[Mountain West Conference|MWC]] || 11–0 || #6 || [[2005 Fiesta Bowl|Fiesta Bowl]] || Utah|| 35 || [[2004 Pittsburgh Panthers football team|Pittsburgh]] || 7 || #4 || #5
+. |- style="text-align:center;"
+| 2004 || [[2004 Boise State Broncos football team|Boise State]]**|| WAC || 11–0 || #9 || colspan=5| || #12 || #13
+. |- style="text-align:center;"
+| 2004 || [[2004 Louisville Cardinals football team|Louisville]]**|| C-USA || 10–1 || #10 ||colspan=5| || #6 || #7
+. |- style="text-align:center;"
+| 2005 || [[TCU Horned Frogs football|TCU]]*|| MWC || 11–1 || #14 || colspan=5| || #11 || #9
+. |- style="text-align:center;"
+| 2006 || [[2006 Boise State Broncos football team|Boise State]] || [[Western Athletic Conference|WAC]] || 12–0 || #8 || [[2007 Fiesta Bowl|Fiesta Bowl]] || Boise State || 43 || [[2006 Oklahoma Sooners football team|Oklahoma]] || 42 || #5 || #6
+. |- style="text-align:center;"
+| 2007 || [[2007 Hawaii Warriors football team|Hawai'i]] || WAC || 12–0 || #10 || [[2008 Sugar Bowl|Sugar Bowl]] || [[2007 Georgia Bulldogs football team|Georgia]] || 41 || Hawai'i || 10 || #19 || #17
+. |- style="text-align:center;"
+| 2008 || [[2008 Utah Utes football team|Utah]]|| MWC || 12–0 || #6 || [[2009 Sugar Bowl|Sugar Bowl]] || Utah || 31 || [[2008 Alabama Crimson Tide football team|Alabama]] || 17 || #2 || #4
+. |- style="text-align:center;"
+| 2008 || [[2008 Boise State Broncos football team|Boise State]]**|| WAC || 12–0 || #9 || colspan=5| || #11 || #13
+. |- style="text-align:center;"
+| 2008 || [[2008 TCU Horned Frogs football team|TCU]]**|| MWC || 10–2 || #11 || colspan=5| || #7 || #7
+. |- style="text-align:center;"
+| 2009 || [[2009 Boise State Broncos football team|Boise State]]***|| WAC || 13–0 || #6 || [[2010 Fiesta Bowl|Fiesta Bowl]] || Boise State || 17 || TCU || 10 || #4 || #4
+. |- style="text-align:center;"
+| 2009 || [[2009 BYU Cougars football team|BYU]]**|| MWC || 10–2 || #14 ||colspan=5| || #12 || #12
+. |- style="text-align:center;"
+| 2009 || [[2009 TCU Horned Frogs football team|TCU]]|| MWC || 12–0 || #4 || [[2010 Fiesta Bowl|Fiesta Bowl]] || Boise State || 17 || TCU || 10 || #6 || #6
+. |- style="text-align:center;"
+| 2010 || [[2010 TCU Horned Frogs football team|TCU]]|| MWC || 12–0 || #3 || [[2011 Rose Bowl|Rose Bowl]] || TCU || 21 || [[2010 Wisconsin Badgers football team|Wisconsin]] || 19 || #2 || #2
+. |- style="text-align:center;"
+| 2010 || [[2010 Boise State Broncos football team|Boise State]]**|| WAC || 11–1 || #10 ||colspan=5| || #9 || #7
+. |- style="text-align:center;"
+| 2011 || [[2011 Boise State Broncos football team|Boise State]]**|| MWC || 11–1 || #7 ||colspan=5| || #8 || #6
+. |-
+| colspan=12 | '''*''' Would have qualified for an automatic selection to a BCS bowl under post-2005 criteria, and was at the time eligible for an "at-large" selection, but was not chosen. 
+'''**''' Was eligible for an "at-large" selection but was not chosen. 
+'''***''' Was eligible for an "at-large" selection and chosen. 
+|} . 
+
+==Locations of all BCS conference teams==. 
+{{Wide image|BCS Universities.svg|900px|A map of every university in the BCS Conferences.}}
+Note: Texas Christian University will switch from the Mountain West Conference to the Big 12 Conference and Temple University will switch from the Mid-American Conference to the Big East on July 1, 2012 increasing the number of BCS AQ schools by 2 to 69 schools.  Boise State University (Mountain West), San Diego State University (Mountain West), Southern Methodist University (Conference USA), the University of Houston (Conference USA), and the University of Central Florida (Conference USA) will all join the Big East Conference on July 1, 2013 increasing the number of BCS schools by 5 to 74 schools.  . 
+
+[[File:Bowl Championship Series 2006-2010 logo.png|thumb|BCS Logo 2006–2010. An alternate version of this logo (used more often on television) had the [[Fox Broadcasting Company|Fox]] logo in lieu of the stars]] . 
+
+== See also ==. 
+*[[BCS controversies]]
+*[[NCAA Division I FBS National Football Championship]]
+*[[Mythical national championship]]
+*[[AP Poll]]
+*[[Coaches Poll]]
+*[[Harris Interactive College Football Poll]]
+*[[Grantland Rice Award]]
+*[[Dickinson System]]
+*[[Bowl Championship Series on television and radio]]
+*[[College football playoff debate]] . 
+
+==References==. 
+{{Reflist|colwidth=30em}} . 
+
+==Further reading==. 
+*{{Cite book
+ | last = Oriard
+ | first = Michael
+ | year = 2009
+ | title = Bowled Over: Big-Time College Football from the Sixties to the BCS Era
+ | publisher = The University of North Carolina Press
+ | isbn = 978-0-8078-3329-2
+}} . 
+
+==External links==. 
+* [http://www.bcsfootball.org/ Official site] . 
+
+{{Bowl Championship Series navbox}}
+{{College Football National Championship Systems}}
+{{Bowl game navbox}}
+{{BCS National Championship Game navbox}}
+{{Fiesta Bowl navbox}}
+{{Orange Bowl navbox}}
+{{Rose Bowl navbox}}
+{{Sugar Bowl navbox}}
+{{Tournament of Roses}}
+{{National Collegiate Athletic Association}}
+{{FOXNetwork Shows}} . 
+
+[[Category:1999 establishments]]
+[[Category:Bowl Championship Series| ]]

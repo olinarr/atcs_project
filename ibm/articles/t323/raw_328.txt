@@ -1,0 +1,102 @@
+{{Infobox treaty
+| name                =United Nations Convention Relating to the Status of Refugees <small>(and protocol)</small>
+| long_name           =
+| image               =Refugeeconvention.PNG
+| image_width         =300px
+| caption             ={{legend|#00ff00|parties to only the 1951 Convention}}
+{{legend|#ffff00|parties to only the 1967 Protocol}}
+{{legend|#007500|parties to both}}
+{{legend|#b2b2b2|non-members}}
+| type                =
+| date_drafted        =
+| date_signed         = 28 July 1951 <small>(13 January 1967)</small>
+| location_signed     =Geneva <small>(New York)</small>
+| date_sealed         =
+| date_effective      =22 April 1954 <small>(4 October 1967)</small>
+| condition_effective =6 <small>(6)</small> ratifications
+| date_expiration     =
+| signatories         =19
+| parties             =144 <small>(145)</small>
+| ratifiers           =
+| depositor           =[[Secretary-General of the United Nations]]
+| language            =
+| languages           =English and French </br><small>(Chinese, English, French, Russian and
+Spanish)</small>
+| wikisource          =1951 Refugee Convention
+}} . 
+
+The '''United Nations Convention Relating to the Status of Refugees (CRSR)''' is an [[international convention]] that defines who is a [[refugee]], and sets out the rights of individuals who are granted [[Right of asylum|asylum]] and the responsibilities of nations that grant asylum. The Convention also sets out which people do ''not'' qualify as refugees, such as [[war crime|war criminals]].  The Convention also provides for some visa-free travel for holders of [[Travel Document|travel document]]s issued under the convention.  . 
+
+==History== . 
+
+The Convention was approved at a special [[United Nations]] conference on 28 July 1951. It entered into force on 22 April 1954. It was initially limited to protecting European refugees after [[World War II]] but a 1967 [[Protocol Relating to the Status of Refugees|Protocol]] removed the geographical and time limits, expanding the Convention's scope.  Because the convention was approved in [[Geneva]], it is often referred to as "the Geneva Convention," though it is not one of the [[Geneva Conventions]] specifically dealing with allowable behavior in time of war. <ref>[http://www.unhcr.org/1951convention/ UNHCR: 1951 to Today]</ref> . 
+
+[[Denmark]] was the first state to ratify the treaty (on 4 December 1952). As of April 1, 2011 there were 147 signatories to either the Convention or the Protocol or to both. <ref>[http://www.unhcr.org/protect/PROTECTION/3b73b0d63.pdf UNHCR: ''States Parties to the Convention and Protocol''], retrieved 15 July 2010</ref> Subsequently, the [[President of Nauru|President]] of [[Nauru]], [[Marcus Stephen]], signed both the Convention and the Protocol on June 17, 2011. <ref name="RNZI_61276">{{cite web |url=http://www.rnzi.com/pages/news.php?op=read&id=61276 |title=Nauru signs UN refugee convention |date=17 June 2011 |work=[[Radio New Zealand International]] |accessdate=26 September 2011}}</ref> <ref>[http://www.theaustralian.com.au/national-affairs/naurus-un-move-on-refugee-convention-adds-to-pressure-on-labor/story-fn59niix-1226077250521 "Nauru's UN move on refugee convention adds to pressure on Labor"], ''The Australian'', June 17, 2011</ref> . 
+
+==Definition of a refugee== . 
+
+Article 1 of the Convention as amended by the 1967 Protocol provides the definition of a refugee: 
+:''"A person who owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his nationality and is unable or, owing to such fear, is unwilling to avail himself of the protection of that country; or who, not having a nationality and being outside the country of his former habitual residence as a result of such events, is unable or, owing to such fear, is unwilling to return to it.."''<ref>http://www.unhcr.se/SE/Protect_refugees/pdf/magazine.pdf</ref> . 
+
+===Additional definitions based on the Convention=== . 
+
+Several groups have built upon the 1951 Convention and attempted to create a more objective definition. While their terms differ to that of the 1951 Convention, the Convention has significantly shaped these new, more objective definitions.  . 
+
+The [[Organisation of African Unity]] (OAU) Convention Governing the Specific Aspects of Refugee Problems in Africa adopted a regional treaty based on the Convention, adding to the definition that a refugee is  . 
+
+<blockquote>Any person compelled to leave his/her country owing to external aggression, occupation, foreign domination or events seriously disturbing public order in either part or the whole of his country of origin or nationality<ref name="UNHCR Guide">[http://www.ipu.org/pdf/publications/refugee_en.pdf UNHCR: ''Refugee protection: A Guide to International Refugee Law''], 2001, ISBN 92-9142-101-4, retrieved 15 July 2010</ref></blockquote> . 
+
+In 1984, a group of Latin American governments adopted the [[Cartagena Declaration]], which like the OAU Convention, added more objectivity based on significant consideration to the 1951 Convention. The Cartegena Declaration determine that a 'refugee' includes: . 
+
+<blockquote>Persons who flee their countries because their lives, safety or freedom have been threatened by generalised violence, foreign aggression, internal conflicts, massive violation of human rights or other circumstances which have seriously disturbed public order. <ref name="UNHCR Guide"/></blockquote> . 
+
+==Responsibilities of States Parties to the Refugee Convention== . 
+
+In the general principle of international law, treaties in force are binding upon the parties to it and must be performed in good faith. Countries that have ratified the Refugee Convention are obliged to protect refugees that are on their territory, in accordance with its terms. <ref name="UNHCR Guide"/> . 
+
+There are a number of provisions that States who are parties of the Refugee Convention and 1967 Protocol must adhere to. Among them are: . 
+
+* '''Cooperation With the UNHCR:''' Under Article 35 of the Refugee Convention and Article II of the 1967 Protocol, states agree to cooperate with UNHCR in the exercise of its functions and to help UNHCR supervise the implementation of the provisions in the Convention. <ref name="UNHCR Guide"/> . 
+
+*'''Information On National Legislation:''' parties to the Convention agree to inform the United Nations Secretary-General about the laws and regulations they may adopt to ensure the application of the Convention. <ref name="UNHCR Guide"/> . 
+
+*'''Exemption from Reciprocity:''' The notion of reciprocity- where, according to a country's law, the granting of a right to an alien is subject to the granting of similar treatment by the alien's country of nationality- does not apply to refugees. This notion does not apply to refugees because refugees do not enjoy the protection of their home state. <ref name="UNHCR Guide"/> . 
+
+==Innocence of refugees unlawfully entering the country of refuge==. 
+A refugee has the right to be free from penalties pertaining to the illegality of their entry to or presence within a country, if it can be shown that they acted in [[good faith]]- that is, if the refugee believes that there was ample cause for their illegal entry/presence, i.e. to escape threats upon their life or freedom, and if they swiftly declare their presence. This right is protected in Article 31:  . 
+
+"The Contracting States shall not impose penalties, on account of their illegal entry or presence, on refugees who, coming directly from a territory where their life or freedom was threatened in the sense of article 1, enter or are present in their territory without authorization, provided they present themselves without delay to the authorities and show good cause for their illegal entry or presence. (Article 31, (1) ) . 
+
+==The principle of non-refoulement== . 
+
+A refugee's right to be protected against forcible return, or refoulement, is set out in the 1951 Convention relating to the Status of Refugees: . 
+
+<blockquote>"No Contracting State shall expel or return ('refouler') a refugee in any manner whatsoever to the frontiers of territories where his life or freedom would be threatened on account of his race, religion, nationality, membership of a particular social or political opinion" (Article 33(1)). <ref name="UNHCR Guide"/></blockquote> . 
+
+It is widely accepted that the prohibition of forcible return is part of customary international law. This means that even States that are not party to the 1951 Refugee Convention must respect the principle of non-refoulement. <ref name="UNHCR Guide"/> Therefore, States are obligated under the Convention and under customary international law to respect the principle of non-refoulement. If and when this principle is threatened, UNHCR can respond by intervening with relevant authorities, and if it deems necessary, will inform the public. <ref name="UNHCR Guide"/> . 
+
+==See also==. 
+{{wikisource|1951 Refugee Convention}}
+*[[Refugee Law]]
+*[[Right of Asylum]]
+*[[Universal Declaration of Human Rights]] (Article 14)
+*[[United Nations High Commissioner for Refugees]] (UNHCR)
+*[[United Nations Commission on Human Rights]]
+*[[Office of the United Nations High Commissioner for Human Rights]] (UNHCHR)
+*[[Travel Document]]
+*[[XXB]] . 
+
+== References ==. 
+{{reflist}} . 
+
+==External links==. 
+* [http://www.unhcr.org/protect/PROTECTION/3b66c2aa10.pdf Full text of the Convention (UNHCR)] . 
+
+{{International human rights legal instruments}} . 
+
+{{DEFAULTSORT:Convention Relating To The Status Of Refugees}}
+[[Category:Refugees| ]]
+[[Category:Human rights instruments]]
+[[Category:United Nations conventions and covenants]]
+[[Category:Treaties concluded in 1951]]
+[[Category:Treaties entered into force in 1954]]

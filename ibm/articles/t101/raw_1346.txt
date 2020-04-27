@@ -1,0 +1,806 @@
+In the [[United States]], [[employment discrimination]] is prohibited by a collection of state and federal [[law]]s, as well as by ordinances of counties and municipalities.  Only discrimination based on certain characteristics (protected categories) is illegal.  . 
+
+The [[United States Constitution]] prohibits discrimination by federal and state governments.  Discrimination in the [[private sector]] is not directly constrained by the Constitution, but has become subject to a growing body of federal and state law.  Federal law prohibits discrimination in a number of departments, including recruiting, hiring, job evaluations, promotion policies, training, compensation and disciplinary action.  State laws often extend protection to additional categories or employers.  . 
+
+Under Federal law, employers generally cannot discriminate against employees on the basis of:
+* [[Race (classification of human beings)|Race]]<ref name="Title VII"/>
+* [[Sex]]<ref name="Title VII"/><ref name="Equal Pay Act"/>
+* [[Pregnancy]]<ref name="Pregnancy Discrimination Act"/>
+* [[Religion]]<ref name="Title VII"/>
+* [[National origin]]<ref name="Title VII"/>
+* [[Disability]] (physical or mental, including [[HIV]] status)<ref name="ADA"/><ref name="ADA HIV">[http://www.ada.gov/pubs/hivqanda.txt Questions and Answers: The Americans with Disabilities Act and Persons with HIV/AIDS]</ref>
+* [[Ageing|Age]] (for workers over 40)<ref name="ADEA"/>
+* Military service or affiliation<ref name="USERRA">[http://www.usdoj.gov/crt/military/statute.htm Uniformed Services Employment and Reemployment Rights Act of 1994]</ref>
+* Anticipated deployment with the [[Reserve Component of the Armed Forces of the United States|Reserves]] or [[United States National Guard|National Guard]]{{Citation needed|date=June 2009}}
+* [[Bankruptcy]] or bad debts<ref name="Bankruptcy Act">{{usc|11|525}}</ref>
+* Genetic information<ref name="GINA">{{USStatute|110|233|122|881|2008|05|21}}</ref>
+* [[Citizenship]] status (for citizens, permanent residents, temporary residents, refugees, and asylees)<ref name="INA">{{usc|8|1324b}}</ref> . 
+
+==Constitutional basis==. 
+{{Ref improve section|date=June 2009}}
+The [[United States Constitution]] does not directly address employment discrimination, but its prohibitions on discrimination by the federal government have been held to protect federal government employees.  . 
+
+The [[Fifth Amendment to the United States Constitution]] and [[Fourteenth Amendment to the United States Constitution]] limit the power of the federal and state governments to discriminate. The Fifth amendment has an explicit requirement that the federal government not deprive individuals of "life, liberty, or property", without due process of the law. It also contains an implicit guarantee that the Fourteenth Amendment explicitly prohibits states from violating an individual's rights of [[due process]] and [[equal protection]]. In the employment context, these Constitutional provisions would limit the right of the state and federal governments to discriminate in their employment practices by treating employees, former employees, or job applicants unequally because of membership in a group (such as a race or sex). Due process protection requires that government employees have a fair procedural process before they are terminated if the termination is related to a "liberty" (such as the right to [[free speech]]) or property interest. As both Due Process and Equal Protection Clauses are passive, the clause that empowers Congress to pass anti-discrimination bills (so they are not unconstitutional under Tenth Amendment) is [[Congressional power of enforcement|Section 5 of Fourteenth Amendment]].  . 
+
+Employment discrimination or harassment in the private sector is not unconstitutional, because Federal and most State Constitutions do not expressly give their respective government the power to enact civil rights laws that apply to the private sector.  The Federal government's authority to regulate a private business, including civil rights laws, stems from their power to regulate all commerce between the States.  Some State Constitutions do expressly afford some protection from public and private employment discrimination, such as Article I of the [[California Constitution]].  However, most State Constitutions only address discriminatory treatment by the government, including a public employer.   . 
+
+Absent of a provision in a State Constitution, State civil rights laws that regulate the private sector are generally Constitutional under the "[[police powers]]" doctrine or the power of a State to enact laws designed to protect public health, safety and morals.   All States must adhere to the Federal Civil Rights laws, but States may enact civil rights laws that offer additional employment protection.  . 
+
+For example, some State civil rights laws offer protection from employment discrimination on the basis of sexual orientation, gender identity or political affiliation, even through such forms of discrimination are not yet covered in federal civil rights laws.  . 
+
+==Federal laws==. 
+Federal law governing employment discrimination has developed over time.  . 
+
+The [[Equal Pay Act of 1963|Equal Pay Act]] amended the [[Fair Labor Standards Act]] in 1963. The Equal Pay Act prohibits employers and unions from paying different wages based on sex. It does not prohibit other discriminatory practices in hiring. It provides that where workers perform equal work in jobs requiring "equal skill, effort, and responsibility and performed under similar working conditions," they should be provided equal pay. <ref name="Equal Pay Act">[http://www.eeoc.gov/policy/epa.html The Equal Pay Act of 1963]</ref> The Fair Labor Standards Act applies to employers engaged in some aspect of [[interstate commerce]], or all of an employer's workers if the enterprise is engaged as a whole in a significant amount of interstate commerce.{{Citation needed|date=June 2009}} . 
+
+[[Civil Rights Act of 1964#Title VII|Title VII]] of the [[Civil Rights Act of 1964]] prohibits discrimination in many more aspects of the employment relationship. It applies to most employers engaged in interstate commerce with more than 15 employees, labor organizations, and employment agencies. Title VII prohibits discrimination based on race, color, [[religion]], [[sex]] or national origin. It makes it illegal for employers to discriminate based upon protected characteristics regarding terms, conditions, and privileges of employment.  Employment agencies may not discriminate when hiring or referring applicants, and [[labor organizations]] are also prohibited from basing membership or union classifications on race, color, religion, sex, or national origin. <ref name="Title VII">[http://www.eeoc.gov/policy/vii.html Title VII of the Civil Rights Act of 1964]</ref>  The [[Pregnancy Discrimination Act]] amended [[Title VII]] in 1978, specifying that unlawful sex discrimination includes discrimination based on [[pregnancy]], [[childbirth]], and related medical conditions. <ref name="Pregnancy Discrimination Act">[http://www.eeoc.gov/abouteeoc/35th/thelaw/pregnancy_discrimination-1978.html Pregnancy Discrimination Act]</ref>
+A related statute, the [[Family and Medical Leave Act]], sets requirements governing leave for [[pregnancy]] and
+pregnancy-related conditions. <ref name="FMLA">[http://www.dol.gov/esa/whd/fmla/ Family and Medical Leave Act]</ref> . 
+
+The [[Age Discrimination in Employment Act]] (ADEA), enacted in 1968 and amended in 1978 and 1986, prohibits employers from discriminating on the basis of age. The prohibited practices are nearly identical to those outlined in Title VII, except that the ADEA protects workers in firms with 20 or more workers rather than 15 or more. An employee is protected from discrimination based on age if he or she is over 40.  Since 1978, the ADEA has phased out and prohibited mandatory retirement, except for high-powered decision-making positions (that also provide large pensions). The ADEA contains explicit guidelines for benefit, pension and retirement plans. <ref name="ADEA">[http://www.eeoc.gov/policy/adea.html The Age Discrimination in Employment Act of 1967]</ref> . 
+
+The [[Rehabilitation Act of 1973]] prohibits employment discrimination on the basis of disability by the federal government, federal contractors with contracts of more than $10,000, and programs receiving federal financial assistance. <ref name="Disability laws">[http://www.ada.gov/cguide.htm#anchor65610 A Guide to Disability Rights Laws]</ref>  It requires [[affirmative action]] as well as non-discrimination. <ref name="Disability laws"/>  [[Section 504]] requires reasonable accommodation, and [[Section 508]] requires that electronic and information technology be accessible to disabled employees. <ref name="Disability laws"/> . 
+
+The [[Black Lung Benefits Act of 1973]] prohibits discrimination by mine operators against miners who suffer from "black lung disease" ([[pneumoconiosis]]). <ref name="USC Black Lung">[http://uscode.house.gov/uscode-cgi/fastweb.exe?getdoc+uscview+t29t32+1359+39++%28black%20l 30 USC Sec. 938]</ref> . 
+
+The [[Bankruptcy Reform Act of 1978]] prohibits employment discrimination on the basis of bankruptcy or bad debts. <ref name="Bankruptcy Act"/> . 
+
+The [[Immigration Reform and Control Act of 1986]] prohibits employers with more than three employees from discriminating against anyone (except an unauthorized immigrant) on the basis of national origin or citizenship status. <ref name="THOMAS IRCA">[http://thomas.loc.gov/cgi-bin/bdquery/z?d099:SN01200:@@@L&summ2=m&|TOM:/bss/d099query.html Summary of Immigration Reform and Control Act of 1986]</ref> . 
+
+The [[Americans with Disabilities Act of 1990]] (ADA) was enacted to eliminate discriminatory barriers against qualified individuals with disabilities, individuals with a record of a disability, or individuals who are regarded as having a disability. It prohibits discrimination based on a physical or mental [[disability|handicap]]  and requires employers to make reasonable accommodations for disabled workers. The type of discrimination prohibited is broader than that explicitly outlined by Title VII.  The ADA also places an affirmative requirement on employers to reasonably accommodate a disabled employee in the performance of his or her job unless the employer can show that "undue hardship" will result. A qualified individual with a disability is a person who is "substantially limited" in one or more major life activities. <ref name="ADA">[http://www.ada.gov/pubs/adastatute08.htm AMERICANS WITH DISABILITIES ACT OF 1990, AS AMENDED]</ref> . 
+
+The Nineteenth Century Civil Rights Acts, amended in 1993, ensure all persons equal rights under the law and outline the damages available to complainants in actions brought under Title VII of the [[Civil Rights Act of 1964]], the [[Americans with Disabilities Act]], and the [[1973 Rehabilitation Act]]. <ref name="42 USC 1982">[http://www.law.cornell.edu/uscode/html/uscode42/usc_sec_42_00001981----000-.html § 1981. Equal rights under the law]</ref><ref name="42 USC 1981a">[http://www.law.cornell.edu/uscode/html/uscode42/usc_sec_42_00001981---a000-.html § 1981a. Damages in cases of intentional discrimination in employment]</ref> . 
+
+The [[Genetic Information Nondiscrimination Act]] of 2008 bars employers from using individuals' genetic information when making hiring, firing, job placement, or promotion decisions. <ref name="GINA"/> . 
+
+The proposed [[Employment Non-Discrimination Act]] would ban discrimination on the basis of [[sexual orientation]] or [[gender identity]]. <ref name="NGLTF ENDA">[http://www.thetaskforce.org/issues/nondiscrimination/ENDA_main_page Employment Non-Discrimination Act (ENDA)]</ref> . 
+
+==State law==. 
+State statutes also provide extensive protection from employment discrimination. Some laws extend similar protection as provided by the federal acts to employers who are not covered by those statutes.  Other statutes provide protection to groups not covered by the federal acts.  Some state laws provide greater protection to employees of the state or of state contractors.  . 
+
+The following table lists protected categories not included in federal law.  Age is included as well, since federal law only covers workers over 40.  . 
+
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;"
+. |- bgcolor="#CCCCCC" align="center"
+! State or territory
+! [[Sexual orientation]]
+! [[Gender identity]]
+! [[Marital status]]
+! [[Medical condition]]
+! [[Political affiliation]]
+! [[Military discharge]] status
+! [[Ageing|Age]]
+! Familial status
+! [[Public assistance]] status
+! Use of lawful product
+. |-
+| {{flagicon|Alabama}} [[Alabama]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC AL">[http://www.hrc.org/issues/workplace/711.htm Alabama Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC AL"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="AL Code">[http://alisondb.legislature.state.al.us/acas/CodeOfAlabama/1975/25-1-21.htm Code of Alabama 25-1-21]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Alaska}} [[Alaska]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC AK">[http://www.hrc.org/issues/workplace/995.htm Alaska Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC AK"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="AK Statutes">[http://touchngo.com/lglcntr/akstats/Statutes/Title18/Chapter80/Section220.htm AS 18.80.220. Unlawful Employment Practices; Exception.]</ref>
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (unknown age range) <ref name="AK Statutes"/>
+| [[Image:Yes check.svg|15px|Yes]] (parenthood) <ref name="AK Statutes"/>
+|
+|
+. |-
+| {{flagicon|Arizona}} [[Arizona]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC AZ">[http://www.hrc.org/issues/workplace/1224.htm Arizona Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC AZ"/>
+|
+|
+|
+|
+|
+|
+|
+|
+. |-
+| {{flagicon|Arkansas}} [[Arkansas]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC AR">[http://www.hrc.org/issues/workplace/965.htm Arkansas Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC AR"/>
+|
+|
+|
+|
+|
+|
+|
+|
+. |-
+| {{flagicon|California}} [[California]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="CA FEHA">[http://www.dfeh.ca.gov/DFEH/Publications/fehaDescr.aspx Fair Employment and Housing Act Description]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (included under sex)<ref name="NGLTF trans laws"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="CA FEHA"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="CA FEHA"/>
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="CA FEHA"/>
+|
+|
+|
+. |-
+| {{flagicon|Colorado}} [[Colorado]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC CO">[http://www.hrc.org/issues/workplace/812.htm Colorado Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (included under sexual orientation)<ref name="NGLTF trans laws">{{cite|title=Scope of Explicitly Transgender-Inclusive Discrimination Laws|url=http://www.thetaskforce.org/downloads/reports/fact_sheets/TI_antidisc_laws_7_08.pdf}}</ref>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (unknown age range) <ref name="CO DORA">[http://www.dora.state.co.us/civil-rights/Statute_Regulations_Rules/2008Statutes.pdf Colorado Civil Rights Division 2008 Statutes]</ref>
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (any lawful activity) <ref name="CO DORA"/>
+. |-
+| {{flagicon|Connecticut}} [[Connecticut]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC CT">[http://www.hrc.org/issues/workplace/826.htm Connecticut Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (included under sex by ruling) <ref name="HRC CT"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="CT HRO">[http://www.cga.ct.gov/2007/pub/Chap814c.htm#Sec46a-60.htm Chapter 814c Sec. 46a-60]</ref> 
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (unknown age range) <ref name="CT HRO"/>
+|
+|
+|
+. |-
+| {{flagicon|Delaware}} [[Delaware]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC DE">[http://www.hrc.org/issues/workplace/848.htm Delaware Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC DE"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="DE Code">[http://delcode.delaware.gov/title19/c007/sc02/index.shtml Delaware Code Title 19 Chapter 7 Subchapter 2]</ref>
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="DE Code"/>
+|
+|
+|
+. |-
+| {{flagicon|District of Columbia}} [[District of Columbia]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC DC">[http://www.hrc.org/issues/workplace/837.htm D.C. Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (gender identity or expression) <ref name="NGLTF trans laws"/>
+| [[Image:Yes check.svg|15px|Yes]] (including domestic partnership) <ref name="DC HRA"/>
+| 
+| [[Image:Yes check.svg|15px|Yes]] <ref name="DC HRA">[http://ohr.dc.gov/ohr/frames.asp?doc=/ohr/lib/ohr/pro_acts_of_discrimination.pdf District of Columbia Human Rights Act of 1977; Prohibited Acts of Discrimination]</ref>
+|
+| [[Image:Yes check.svg|15px|Yes]] (18+) <ref name="DC HRA"/><ref name="DC HRA TOC">[http://ohr.dc.gov/ohr/lib/ohr/toc_general_provisions.pdf District of Columbia Human Rights Act of 1977; Table of Contents, General Provisions]</ref>
+| "family responsibilities", parenthood under "marital status" <ref name="DC HRA"/>
+|
+|
+. |-
+| {{flagicon|Florida}} [[Florida]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC FL">[http://www.hrc.org/issues/workplace/863.htm Florida Non-Discrimination Law]</ref>
+| ? (in some cases under disability)<ref name="HRC FL"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="FL Chapter 760.10">[http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=Ch0760/SEC10.HTM&Title=-%3E2008-%3ECh0760-%3ESection%2010#0760.10 Florida Statutes Chapter 760.10]</ref>
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (unknown age range) <ref name="FL Chapter 760.10"/>
+|
+|
+|
+. |-
+| {{flagicon|Georgia (U.S. state)}} [[Georgia (U.S. state)|Georgia]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC GA">[http://www.hrc.org/issues/workplace/883.htm Georgia Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC GA"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]]  (40-70) <ref name="GA FEPA">[http://www.gceo.state.ga.us/FEPA.htm#BM28 Georgia Fair Employment Practices Act]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Hawaii}} [[Hawaii]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HI 378-2">[http://www.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0378/HRS_0378-0002.htm Hawaii Rev Statutes 378-2]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC HI">[http://www.hrc.org/issues/workplace/903.htm Hawaii Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HI 378-2"/>
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (unknown age range) <ref name="HI 378-2"/>
+|
+|
+|
+. |-
+| {{flagicon|Idaho}} [[Idaho]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC ID">[http://www.hrc.org/issues/workplace/4165.htm Idaho Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC ID"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="ID CHR Age">[http://humanrights.idaho.gov/discrimination/age.html Idaho Commission on Human Rights: Age Discrimination"]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Illinois}} [[Illinois]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC IL">[http://www.hrc.org/issues/workplace/954.htm Illinois Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (included under sexual orientation) <ref name="HRC IL"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="IL HRA">[http://www.ilga.gov/legislation/ilcs/ilcs4.asp?DocName=077500050HArt%2E+1&ActID=2266&ChapAct=775%26nbsp%3BILCS%26nbsp%3B5%2F&ChapterID=64&ChapterName=HUMAN+RIGHTS&SectionID=64484&SeqStart=100000&SeqEnd=600000&ActName=Illinois+Human+Rights+Act%2E Illinois Human Rights Act]</ref>
+| 
+| 
+| [[Image:Yes check.svg|15px|Yes]] ("unfavorable discharge from military service") <ref name="IL HRA"/>
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="IL HRA"/>
+|
+|
+|
+. |-
+| {{flagicon|Indiana}} [[Indiana]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC IN">[http://www.hrc.org/issues/workplace/4176.htm Indiana Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC IN"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40-75) <ref name="IN Code 22-9-2">[http://www.in.gov/legislative/ic/code/title22/ar9/ch2.html Indiana Code 22-9-2]</ref>
+|
+|
+| use of tobacco <ref name="IN Code 22-5-4">[http://www.in.gov/legislative/ic/code/title22/ar5/ch4.html Indiana Code 22-5-4]</ref>
+. |-
+| {{flagicon|Iowa}} [[Iowa]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC IA">[http://www.hrc.org/issues/workplace/932.htm Iowa Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC IA"/>
+| 
+| 
+| 
+| 
+| [[Image:Yes check.svg|15px|Yes]] (18+ or legal adult) <ref name="IA Code">[http://search.legis.state.ia.us/nxt/gateway.dll/ic/2009code/1/7706/7707/7708/7714?f=templates$fn=document-frameset.htm$q=%5Bfield%20folio-destination-name:'sec_216_6'%5D$x=Advanced#0-0-0-35981 Iowa Code 216.6]</ref>
+| 
+| 
+|
+. |-
+| {{flagicon|Kansas}} [[Kansas]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC KS">[http://www.hrc.org/issues/workplace/4154.htm Kansas Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC KS"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (18+) <ref name="KS ADEA">[http://www.ink.org/public/khrc/pdf/kaadtext.pdf Kansas Age Discrimination in Employment Act]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Kentucky}} [[Kentucky]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC KY">[http://www.hrc.org/issues/workplace/974.htm Kentucky Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC KY"/>
+| 
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="KY CRA">[http://www.kchr.ky.gov/NR/rdonlyres/CF3FE160-96D2-40D3-B702-A25DD1ABF65C/0/040.pdf Kentucky Revised Statutes 344.040]</ref>
+|
+|
+| (smoker/nonsmoker) <ref name="KY CRA"/>
+. |-
+| {{flagicon|Louisiana}} [[Louisiana]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC LA">[http://www.hrc.org/issues/workplace/984.htm Louisiana Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC LA"/>
+| 
+| "sickle cell trait" <ref name="LA RS 23:352">[http://www.legis.state.la.us/lss/lss.asp?doc=83886 Louisiana Revised Statutes 23:352]</ref>
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="LA RS 23:312">[http://www.legis.state.la.us/lss/lss.asp?doc=83868 Louisiana Revised Statutes 23:312]</ref><ref name="LA RS 23:311">[http://www.legis.state.la.us/lss/lss.asp?doc=83867 Louisiana Revised Statutes 23:311]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Maine}} [[Maine]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC ME">[http://www.hrc.org/issues/workplace/886.htm Maine Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (included under sexual orientation) <ref name="HRC ME"/>
+| 
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (unknown age range) <ref name="ME HRA">[http://www.mainelegislature.org/legis/statutes/5/title5ch337sec0.html Maine Revised Statutes, Title 5, Chapter 337]</ref>
+| 
+|
+|
+. |-
+| {{flagicon|Maryland}} [[Maryland]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC MD">[http://www.hrc.org/issues/workplace/907.htm Maryland Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC MD"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="MD code">[http://www.michie.com/maryland/lpExt.dll/mdcode/28232/2829e/282aa Annotated Code of Maryland 49B.16]</ref>
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (unknown age range) <ref name="MD code"/>
+|
+|
+|
+. |-
+| {{flagicon|Massachusetts}} [[Massachusetts]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC MA">[http://www.hrc.org/issues/workplace/929.htm Maryland Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (under sex or disability) <ref name="HRC MA"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (>40) <ref name="MA 151B.3">[http://www.mass.gov/legis/laws/mgl/151b-4.htm M.G.L. 151B §4]</ref><ref name="MA 151B.1">[http://www.mass.gov/legis/laws/mgl/151b-1.htm M.G.L 151B §1]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Michigan}} [[Michigan]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC MI">[http://www.hrc.org/issues/workplace/1085.htm Michigan Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC MI"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="MI EL">[http://www.michigan.gov/documents/act_453_elliott_larsen_8772_7.pdf ELLIOTT-LARSEN CIVIL RIGHTS ACT]</ref>
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] <ref name="MI EL"/>
+|
+|
+|
+. |-
+| {{flagicon|Minnesota}} [[Minnesota]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC MN">[http://www.hrc.org/issues/workplace/1070.htm Minnesota Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (included under sexual orientation) <ref name="NGLTF trans laws"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="MN Statutes">[https://www.revisor.leg.state.mn.us/statutes/?id=363A.08 Minnesota Statutes, section 363A.08]</ref>
+| 
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (over age of majority) <ref name="MN Statutes"/>
+|
+| [[Image:Yes check.svg|15px|Yes]] <ref name="MN Statutes"/>
+|
+. |- 
+| {{flagicon|Mississippi}} [[Mississippi]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC MS">[http://www.hrc.org/issues/workplace/1090.htm Mississippi Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC MS"/>
+|
+|
+|
+|
+|
+|
+|
+|
+. |-
+| {{flagicon|Missouri}} [[Missouri]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC MO">[http://www.hrc.org/issues/workplace/1108.htm Missouri Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]]<ref name="HRC MO"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40-70) <ref name="MO HRA">[http://www.moga.mo.gov/statutes/C200-299/2130000010.HTM § 213.055 R.S.Mo.]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Montana}} [[Montana]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC MN">[http://www.hrc.org/issues/workplace/1192.htm Montana Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC MN"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="MN Code 49-2-303">[http://data.opi.state.mt.us/bills/mca/49/2/49-2-303.htm Montana Code Annotated 49-2-303]</ref>
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] <ref name="MN Code 49-2-303"/>
+|
+|
+|
+. |-
+| {{flagicon|Nebraska}} [[Nebraska]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC NE">[http://www.hrc.org/issues/workplace/1230.htm Nebraska Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC NE"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NE FEPA">[http://www.neoc.ne.gov/laws/fepatext.htm Nebraska Fair Employment Practices Act]</ref>
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="NE FEPA"/>
+|
+|
+|
+. |-
+| {{flagicon|Nevada}} [[Nevada]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC NV">[http://www.hrc.org/issues/workplace/1286.htm Nevada Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC NV"/>
+| 
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="NV NRS">[http://leg.state.nv.us/NRS/NRS-613.html#NRS613Sec310 NRS 613:310-350]</ref>
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NV NRS"/>
+. |-
+| {{flagicon|New Hampshire}} [[New Hampshire]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC NH">[http://www.hrc.org/issues/workplace/1331.htm New Hampshire Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC NH"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NH 354-A:7">[http://gencourt.state.nh.us/rsa/html/XXXI/354-A/354-A-7.htm New Hampshire RSA 354-A:7]</ref>
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (which ages?) <ref name="NH 354-A:7"/>
+|
+|
+|
+. |-
+| {{flagicon|New Jersey}} [[New Jersey]]
+| [[Image:Yes check.svg|15px|Yes]] (affectional or sexual orientation)<ref name="NJ LAD">[http://lis.njleg.state.nj.us/cgi-bin/om_isapi.dll?clientID=44462171&Depth=2&depth=2&expandheadings=on&headingswithhits=on&hitsperheading=on&infobase=statutes.nfo&record={36FC}&softpage=Document42 New Jersey Law Against Discrimination (N.J.S.A. 10:5-12)]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (gender identify or expression) <ref name="NGLTF trans laws"/>
+| [[Image:Yes check.svg|15px|Yes]] (and civil union status, and domestic partnership status) <ref name="NJ LAD"/>
+| "atypical hereditary cellular or blood trait" <ref name="NJ LAD"/>
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (18-70) <ref name="NJ LAD"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NJ LAD"/>
+|
+|
+. |-
+| {{flagicon|New Mexico}} [[New Mexico]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC NM">[http://www.hrc.org/issues/workplace/1525.htm New Mexico Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NGLTF trans laws"/>
+| [[Image:Yes check.svg|15px|Yes]] ("spousal affiliation") <ref name="NM HRA">[http://law.justia.com/newmexico/codes/nmrc/jd_28-1-7-bcb3.html New Mexico Code Section 28-1-7]</ref>
+| "serious medical condition" <ref name="NM HRA"/>
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (unknown age range) <ref name="NM HRA"/>
+| 
+|
+|
+. |-
+| {{flagicon|New York}} [[New York]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NY HRL">[http://www.dhr.state.ny.us/law_and_regulations_unlawful_discriminatory.html New York State Executive Law, Article 15, Section 296]</ref>
+| ? (in some cases under sex) <ref name="HRC NY">[http://www.hrc.org/issues/workplace/1497.htm New York Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NY HRL"/>
+|
+| "political activities" <ref name="NY Labor Law">[http://law.onecle.com/new-york/labor/LAB0201-D_201-D.html New York Labor Law Section 201-d - Discrimination Against The Engagement In Certain Activities]</ref>
+|
+| [[Image:Yes check.svg|15px|Yes]] (18+) <ref name="NY HRL"/>
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NY Labor Law"/>
+. |-
+| {{flagicon|North Carolina}} [[North Carolina]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC NC">[http://www.hrc.org/issues/workplace/1142.htm North Carolina Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC NC"/>
+|
+| (sickle cell or hemoglobin C trait)<ref name="NC 95‑28.1">[http://www.ncleg.net/EnactedLegislation/Statutes/HTML/BySection/Chapter_95/GS_95-28.1.html N.C. Gen. Stat. § 95‑28.1]</ref>
+|
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NC 95‑28.2">[http://www.ncleg.net/EnactedLegislation/Statutes/HTML/BySection/Chapter_95/GS_95-28.2.html N.C. Gen. Stat. § 95‑28.2]</ref>
+. |-
+| {{flagicon|North Dakota}} [[North Dakota]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC ND">[http://www.hrc.org/issues/workplace/1245.htm North Dakota Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC ND"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="ND HRA">[http://www.legis.nd.gov/cencode/T14C024.pdf North Dakota Human Rights Act]</ref>
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="ND HRA"/>
+|
+| [[Image:Yes check.svg|15px|Yes]] <ref name="ND HRA"/>
+| [[Image:Yes check.svg|15px|Yes]] ("lawful activity") <ref name="ND HRA"/>
+. |-
+| {{flagicon|Ohio}} [[Ohio]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC OH">[http://www.hrc.org/issues/workplace/1447.htm Ohio Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC OH"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="OH 4112">[http://law.justia.com/ohio/codes/orc/jd_4112-15d9.html Ohio Code § 4112]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Oklahoma}} [[Oklahoma]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC OK">[http://www.hrc.org/issues/workplace/1417.htm Oklahoma Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC OK"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="OK HRC">[http://www.ok.gov/ohrc/About_OHRC/index.html Oklahoma Human Rights Commission]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Oregon}} [[Oregon]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC OR">[http://www.hrc.org/issues/workplace/1465.htm Oregon Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NGLTF trans laws"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="OR Statutes">[http://landru.leg.state.or.us/ors/659a.html Oregon Revised Statutes, Chapter 659A]</ref>
+| 
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (18+) <ref name="OR Statutes"/>
+|
+|
+| use of tobacco <ref name="OR Statutes"/>
+. |-
+| {{flagicon|Pennsylvania}} [[Pennsylvania]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC PA">[http://www.hrc.org/issues/workplace/732.htm Pennsylvania Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC PA"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="PA HR Laws">[http://sites.state.pa.us/PA_Exec/PHRC/publications/literature/PHRCLaws.pdf Laws Administered by the Pennsylvania Human Rights Commission]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Rhode Island}} [[Rhode Island]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC RI">[http://www.hrc.org/issues/workplace/1753.htm Rhode Island Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (gender identity or expression) <ref name="NGLTF trans laws"/>
+| 
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="RI FEP">[http://www.rilin.state.ri.us/statutes/Title28/28-5/INDEX.HTM Fair Employment Practices]</ref>
+|
+|
+|
+. |-
+| {{flagicon|South Carolina}} [[South Carolina]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC SC">[http://www.hrc.org/issues/workplace/1813.htm South Carolina Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC SC"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+)<ref name="SC HAL">[http://www.state.sc.us/schac/lawi.htm South Carolina Human Affairs Law]</ref>
+|
+|
+|
+. |-
+| {{flagicon|South Dakota}} [[South Dakota]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC SD">[http://www.hrc.org/issues/workplace/1801.htm South Dakota Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC SD"/>
+|
+|
+|
+|
+|
+|
+|
+|
+. |-
+| {{flagicon|Tennessee}} [[Tennessee]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC TN">[http://www.hrc.org/issues/workplace/1801.htm Tennessee Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC TN"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="TN HRA">[http://www.state.tn.us/humanrights/THRC_related_statutes.pdf Tennessee Human Rights Act]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Texas}} [[Texas]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC TX">[http://www.hrc.org/issues/workplace/1772.htm Texas Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC TX"/>
+| 
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="TX Ch 21">[http://www.statutes.legis.state.tx.us/Docs/LA/htm/LA.21.htm Texas Labor Code Chapter 21]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Utah}} [[Utah]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC UT">[http://www.hrc.org/issues/workplace/1800.htm Utah Non-Discrimination Law]</ref> (protected in [[Salt Lake City]] only)<ref name=SaltLake>[http://www.sltrib.com/news/ci_13758070 Salt Lake City adopts pro-gay statutes -- with LDS Church support]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC UT"/> (protected in [[Salt Lake City]] only)<ref name=SaltLake />
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="UT 34A-5-106">[http://www.le.utah.gov/UtahCode/getCodeSection?code=34A-5-106 Utah Code 34A-5-106]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Vermont}} [[Vermont]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC VT">[http://www.hrc.org/issues/workplace/1184.htm Vermont Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="NGLTF trans laws"/>
+| 
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (18+) <ref name="VT FEPA">[http://hrc.vermont.gov/sites/hrc/files/pdfs/laws/fepa.pdf Vermont Fair Employment Practices Act]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Virginia}} [[Virginia]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC VA">[http://www.hrc.org/issues/workplace/1200.htm Virginia Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC VA"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="VA HRA">[http://leg1.state.va.us/cgi-bin/legp504.exe?000+cod+2.2-2639 Virginia Human Rights Act]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Washington}} [[Washington (U.S. state)|Washington]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC WA">[http://www.hrc.org/issues/workplace/1165.htm Washington Non-Discrimination Law]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (included under sexual orientation) <ref name="NGLTF trans laws"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="WA RCW">[http://apps.leg.wa.gov/RCW/default.aspx?cite=49.60.180 RCW 49.60.180 Unfair practices of employers.]</ref>
+| [[Hepatitis C]] <ref name="WA RCW 49.60.172">[http://apps.leg.wa.gov/RCW/default.aspx?cite=49.60.172 RCW 49.60.172 Unfair practices with respect to HIV or hepatitis C infection.]</ref><ref name="WA RCW 49.60.174">[http://apps.leg.wa.gov/RCW/default.aspx?cite=49.60.174 RCW 49.60.174 Evaluation of claim of discrimination — Actual or perceived HIV or hepatitis C infection.]</ref>
+|
+| 
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="WA RCW"/><ref name="WA RCW 49.44.090">[http://apps.leg.wa.gov/RCW/default.aspx?cite=49.44.090 RCW 49.44.090 Unfair practices in employment because of age of employee or applicant — Exceptions.]</ref>
+| 
+|
+|
+. |-
+| {{flagicon|West Virginia}} [[West Virginia]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC WV">[http://www.hrc.org/issues/workplace/1135.htm West Virginia Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC WV"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="WV HRA">[http://www.wvf.state.wv.us/wvhrc/HRC%20ACT.pdf West Virginia Human Rights Act]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Wisconsin}} [[Wisconsin]]
+| [[Image:Yes check.svg|15px|Yes]] <ref name="HRC WI">[http://www.hrc.org/issues/workplace/1149.htm Wisconsin Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC WI"/>
+| [[Image:Yes check.svg|15px|Yes]] <ref name="WI 111.36">[http://www.legis.state.wi.us/statutes/Stat0111.pdf Wis. Stats. Chapter 111.36]</ref>
+| 
+|
+| [[Image:Yes check.svg|15px|Yes]] <ref name="WI 111.355">[http://www.legis.state.wi.us/statutes/Stat0111.pdf Wis. Stats. 111.355]</ref>
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="WI 111.33">[http://www.legis.state.wi.us/statutes/Stat0111.pdf Wis. Stats. 111.33]</ref>
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] <ref name="WI 111.35">[http://www.legis.state.wi.us/statutes/Stat0111.pdf Wis. Stats. 111.35]</ref>
+. |-
+| {{flagicon|Wyoming}} [[Wyoming]]
+| [[Image:X mark.svg|15px|No]] <ref name="HRC WY">[http://www.hrc.org/issues/workplace/1112.htm Wyoming Non-Discrimination Law]</ref>
+| [[Image:X mark.svg|15px|No]] <ref name="HRC WY"/>
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="WY 27-9-105">[http://159.238.91.226/labor/statutes/27-9-105.doc Wyoming Code 27-9-105]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Guam}} [[Guam]]
+|
+|
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (40+) <ref name="GU 22 GCA Ch 3">[http://www.justice.gov.gu/CompilerofLaws/GCA/22gca/22gc003.PDF 22 Guam Code Ann. Chapter 3]</ref><ref name="GU 22 GCA Ch 5">[http://www.justice.gov.gu/CompilerofLaws/GCA/22gca/22gc005.PDF 22 Guam Code Ann. Chapter 5]</ref>
+|
+|
+|
+. |-
+| {{flagicon|Puerto Rico}} [[Puerto Rico]]
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (political affiliation or ideology) <ref name="PR 29-I-7-146">[http://www.michie.com/puertorico/lpext.dll/prcode/1a7b8/1a7ba/1a93d/1a979 Puerto Rico Laws 29-I-7-146]</ref>
+|
+| [[Image:Yes check.svg|15px|Yes]] (legal working age+)<ref name="PR 29-I-7-146"/><ref name="PR PR 29-I-7-151">[http://www.michie.com/puertorico/lpext.dll/prcode/1a7b8/1a7ba/1a93d/1a9a6?fn=document-frame.htm&f=templates&2.0# Puerto Rico Laws PR 29-I-7-151]</ref>
+|
+|
+|
+. |-
+| {{flagicon|United States Virgin Islands}} [[US Virgin Islands]]
+|
+|
+|
+|
+|
+|
+| [[Image:Yes check.svg|15px|Yes]] (unknown age range) <ref name="VI ">[http://michie.com/virginislands/lpext.dll/vicode/a309/a8f4/a903?fn=document-frame.htm&f=templates&2.0# Virgin Islands Code on Employment Discrimination § 451]</ref>
+|
+|
+|
+. |- bgcolor="#CCCCCC" align="center"
+! State or territory
+! [[Sexual orientation]]
+! [[Gender identity]]
+! [[Marital status]]
+! [[Medical condition]]
+! [[Political affiliation]]
+! [[Military discharge]] status
+! [[Ageing|Age]]
+! Familial status
+! [[Public assistance]] status
+! Use of lawful product
+|} . 
+
+In addition,
+* District of Columbia - [[matriculation]], personal appearance <ref name="DC HRA"/>
+* Michigan - [[Human height|height]], [[Body weight|weight]] <ref name="MI EL"/>
+* Texas - Participation in emergency evacuation order <ref name="TX evac">[http://www.statutes.legis.state.tx.us/Docs/LA/htm/LA.22.htm EMPLOYMENT DISCRIMINATION FOR PARTICIPATING IN EMERGENCY EVACUATION]</ref>
+* Vermont - Place of birth <ref name="VT FEPA"/> . 
+
+==Government employees==. 
+{{Expand section|date=December 2009}} . 
+
+Employees of federal and state governments have additional protections against employment discrimination.  . 
+
+The [[Civil Service Reform Act of 1978]] prohibits discrimination in federal employment on the basis of conduct that does not affect job performance.  The [[Office of Personnel Management]] has interpreted this as prohibiting discrimination on the basis of sexual orientation. <ref name="OPM Sexual Orientation">[http://www.opm.gov/er/address2/Guide04.asp Addressing Sexual Orientation Discrimination In Federal Civilian Employment: A Guide to Employee's Rights]</ref>  In June 2009, it was announced that the interpretation would be expanded to include gender identity. <ref name="NYT federal transgender">[http://www.nytimes.com/2009/06/24/us/24transgender.html New Protections for Transgender Federal Workers]</ref> . 
+
+==Exceptions==. 
+{{Ref improve section|date=July 2009}} . 
+
+===Bona fide occupational qualifications===. 
+{{Main|Bona fide occupational qualifications}} . 
+
+Employers are generally allowed to consider characteristics that would otherwise be discriminatory if they are bona fide occupational qualifications (BFOQ).  For example, a manufacturer of men's clothing may lawfully advertise for male models.  . 
+
+{{Expand section|date=July 2009}} . 
+
+===Religious organizations===. 
+Some anti-discrimination laws make exceptions for religious organizations.  Religious organizations may be exempted entirely for certain categories, or may be allowed exceptions for certain types of positions.  . 
+
+{{Expand section|date=July 2009}} . 
+
+===Military===. 
+The [[United States Army]] excludes women from specialties, positions, and units (battalion size or smaller) that routinely engage in direct combat. <ref name="Rand report">[http://www.rand.org/pubs/monographs/2007/RAND_MG590-1.pdf Assessing the Assignment Policy for Army Women]</ref> . 
+
+{{Expand section|date=August 2009}} . 
+
+==Unintentional discrimination==. 
+{{Main|Adverse impact}} . 
+
+Employment practices that do not directly discriminate against a protected category may still be illegal if they produce a disparate impact on members of a protected group.  Title VII of the Civil Rights Act of 1964 prohibits employment practices that have a discriminatory impact, unless they are related to job performance.  . 
+
+<blockquote>The Act requires the elimination of artificial, arbitrary, and unnecessary barriers to employment that operate invidiously to discriminate on the basis of race, and, if, as here, an employment practice that operates to exclude Negroes cannot be shown to be related to job performance, it is prohibited, notwithstanding the employer's lack of discriminatory intent. <ref name="Griggs">[http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=401&invol=424 GRIGGS v. DUKE POWER CO., 401 U.S. 424 (1971)]</ref></blockquote> . 
+
+Height and weight requirements have been identified by the EEOC as having a disparate impact on national origin minorities. <ref name="EEOC Shaping">[http://www.eeoc.gov/abouteeoc/35th/1965-71/shaping.html Shaping Employment Discrimination Law]</ref> . 
+
+However, when defending against a disparate impact claim that alleges [[age discrimination]], an employer does not need to demonstrate necessity; rather, it must simply show that its practice is reasonable.{{Citation needed|date=July 2009}} . 
+
+==Enforcing entities==. 
+The [[Equal Employment Opportunity Commission]] (EEOC) interprets and enforces the [[Equal Pay Act]], [[Age Discrimination in Employment Act]], Title VII of the Civil Rights Act of 1964, Title I and V of the Americans With Disabilities Act, Sections 501 and 505 of the Rehabilitation Act, and the Civil Rights Act of 1991. <ref name="EEOC Laws">[http://www.eeoc.gov/abouteeo/overview_laws.html Federal Equal Employment Opportunity (EEO) Laws]</ref> The Commission was established by the Civil Rights Act of 1964. <ref name="EEOC History to 1965">[http://www.eeoc.gov/abouteeoc/35th/pre1965/index.html Pre 1965: Events Leading to the Creation of EEOC]</ref> Its enforcement provisions are contained in section 2000e-5 of Title 42,<ref name="LII 42 2000e-5">[http://www.law.cornell.edu/uscode/42/usc_sec_42_00002000---e005-.html § 2000e–5. Enforcement provisions]</ref> and its regulations and guidelines are contained in Title 29 of the [[Code of Federal Regulations]], part 1614. <ref name="CFR 29 1614">[http://www.access.gpo.gov/nara/cfr/waisidx_03/29cfr1614_03.html PART 1614--FEDERAL SECTOR EQUAL EMPLOYMENT OPPORTUNITY]</ref>  Persons wishing to file suit under Title VII and/or the ADA must exhaust their administrative remedies by filing an administrative complaint with the EEOC prior to filing their lawsuit in court. <ref name="EEOC Filing">[http://www.eeoc.gov/charge/overview_charge_filing.html Filing a Charge of Employment Discrimination]</ref> . 
+
+The [[Office of Federal Contract Compliance Programs]] enforces Section 503 of the Rehabilitation Act, which prohibits discrimination against qualified individuals with disabilities by federal contractors and subcontractors. <ref name="US DOL 503">[http://www.dol.gov/compliance/laws/comp-rehab.htm The Rehabilitation Act of 1973, Section 503]</ref> . 
+
+Under Section 504 of the Rehabilitation Act, each agency has and enforces its own regulations that apply to its own programs and to any entities that receive financial assistance. <ref name="Disability laws"/> . 
+
+The [[Office of Special Counsel for Immigration-Related Unfair Employment Practices]] (OSC) enforces the anti-discrimination provisions of the Immigration and Nationality Act (INA), 8 U.S.C. § 1324b, which prohibits discrimination based on citizenship status or national origin. <ref name="OSC Overview">[http://www.usdoj.gov/crt/osc/htm/WebOverview2005.htm An Overview of the Office of Special Counsel for Immigration-Related Unfair Employment Practices]</ref> . 
+
+State Fair Employment Practices (FEP) offices take the role of the EEOC in administering state statutes. <ref name="EEOC Filing"/> . 
+
+==See also==. 
+*[[Employment discrimination law in the United Kingdom]]
+*[[Anti-discrimination laws in Brazil]] . 
+
+==References==. 
+{{reflist|2}} . 
+
+==External links==. 
+*[http://www.eeocoffice.com Directory of federal and state anti-discrimination agencies]
+*[http://www.ctnla.org/job-employment-discrimination Job Discrimination Questions and Answers (CT)] . 
+
+{{DEFAULTSORT:Employment Discrimination Law In The United States}}
+[[Category:Discrimination law in the United States]]
+[[Category:Labor law of the United States]]

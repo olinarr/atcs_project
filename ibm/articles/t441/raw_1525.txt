@@ -1,0 +1,629 @@
+{{Merge from |Florida Democratic primary, 2012|Iowa Democratic caucuses, 2012|Louisiana Democratic primary, 2012|Missouri Democratic primary, 2012|Nevada Democratic caucuses, 2012|New Hampshire Democratic primary, 2012|Oklahoma Democratic primary, 2012|South Carolina Democratic primary, 2012|Washington Democratic caucuses, 2012|discuss=Talk:Democratic Party presidential primaries, 2012#Merger proposal|date=February 2012}}
+{{Infobox election
+| election_name = Democratic Party presidential primaries, 2012
+| country = United States 
+| type = presidential
+| ongoing = no <--! "No" is needed to prevent Barack Obama from displaying as an incumbent. -->
+| previous_election = Democratic Party presidential primaries, 2008
+| previous_year = 2008
+| next_election = Democratic Party presidential primaries, 2016
+| next_year = 2016
+| election_date = January 3, 2012 to present
+| image1 = [[Image:Obama portrait crop.jpg|102px]]
+| candidate1 = [[Barack Obama]]
+| party1 = Democratic Party (United States)
+| home_state1 = [[Illinois]]
+| states_carried1 = 21
+| popular_vote1 = 1,569,017  
+| percentage1 =  89.12%
+| delegate_count1 = 1903
+| image2 = [[File:Randall Terry 2.jpg|91px]]
+| candidate2 = [[Randall Terry]]
+| party2 = Democratic Party (United States)
+| home_state2 = [[West Virginia]]
+| states_carried2 = 0
+| delegate_count2 = 7
+| popular_vote2 = 22,752  
+| percentage2 = 1.29% 
+| title = President
+| image3 = [[File:John Wolfe, Jr.jpg|91px]]
+| candidate3 = [[John Wolfe, Jr.]]
+| party3 = Democratic Party (United States)
+| home_state3 = [[Tennessee]]
+| states_carried3 = 0
+| delegate_count3 = 3
+| popular_vote3 =  19,071  
+| percentage3 = 1.08% 
+| title = President
+| before_election = Barack Obama
+| posttitle = Democratic presidential candidate-elect
+| after_election =
+| map_image = Democratic Party Presidential Primary Results, 2012.svg
+| map_size = 300px
+| map_caption = [[Democratic Party presidential primaries, 2012#Results|Results of the 2012 Democratic Party primaries and caucuses]]<br/><span style="color:dodgerblue">'''Blue'''</span> denotes a state won by [[Barack Obama]]. <br/><span style="color:darkGrey;">Grey</span> denotes a state that has not yet started/completed voting. 
+}}{{US 2012 elections series}}
+[[File:Democratic Party Presidential Primary Results Counties 2012.svg|350px|thumb||2012 Democratic primary results by county (parish)
+{{Col-begin}}
+{{Col-3}}
+{{legend|blue|Barack Obama|border=0}}
+{{Legend|maroon|Randall Terry|border=0}}
+{{Col-3}}
+{{legend|purple|John Wolfe, Jr.|border=0}}
+{{legend|yellow|Jim Rogers|border=0}}
+{{Col-3}}
+{{legend|lime|uncommitted|border=0}}
+{{Col-end}}
+]] . 
+
+The '''2012 Democratic presidential primaries and caucuses''' is the selection process by which voters of the [[Democratic Party (United States)|Democratic Party]] will choose its nominee for [[President of the United States]] in the [[United States presidential election, 2012|2012 U.S. presidential election]]. Incumbent President [[Barack Obama]] is seeking the Democratic Party nomination through a series of [[primary election]]s and [[caucus]]es culminating in the [[2012 Democratic National Convention]] held September 3–6, in [[Charlotte, North Carolina]].  . 
+
+==Primary race overview==. 
+The general expectation was that, with President [[Barack Obama]] having the advantage of [[incumbency]] and being the only viable candidate running, the race would be merely [[pro forma]]. The last time an incumbent was seriously challenged was during the [[Democratic Party (United States) presidential primaries, 1980|1980 Democratic primaries]] when Senator [[Ted Kennedy]] of Massachusetts carried 12 states while running against President [[Jimmy Carter]].  . 
+
+Several of the lesser-known candidates made efforts to raise visibility. Some [[Occupy movement]] activists made an attempt to take over the [[Iowa Democratic caucuses, 2012|Iowa Caucuses]],<ref>http://www.salon.com/2012/01/04/the_complete_failure_and_unnoticed_success_of_occupy_iowa/singleton/</ref> and managed to get about 2% of the vote for Uncommitted. With eight minor candidates on the ballot in New Hampshire, there was a debate at [[Saint Anselm College]] in [[Goffstown, New Hampshire]] on December 19, 2011,<ref>http://www.unionleader.com/article/20111220/NEWS0605/712209967</ref> in which seven candidates participated. [[Pro-life]] activist Randall Terry bought time on television in order to show graphic commercials denouncing [[abortion]]. <ref>{{cite web|author=Tim Murphy |url=http://motherjones.com/mojo/2011/12/aborted-fetus-campaign-ads-hit-airwaves-iowa |title=Aborted Fetus Campaign Ads Hit the Airwaves in Iowa |publisher=Mother Jones |date=2011-12-06 |accessdate=2012-01-01}}</ref> . 
+
+Three candidates – other than Obama – who had been on the ballot in New Hampshire were also on the ballot in Missouri. One such candidate, Randal Terry, attempted to air graphic TV commercials during [[Super Bowl XLIV]], but was met with resistance from various TV stations<ref>{{cite web | url=http://www.broadcastingcable.com/article/480176-FCC_Says_WMAQ_Had_Right_to_Deny_Super_Bowl_Ad_to_Candidate.php | title=FCC Says WMAQ Had Right to Deny Super Bowl Ad to Candidate | work=[[Broadcasting & Cable]] | date=February 6, 2012 | accessdate=February 7, 2012 | author=Eggerton, John}}</ref><ref>{{cite web | url=http://www.politico.com/news/stories/0212/72430.html | title=FCC: TV can nix Super Bowl abortion ad | work=[[Politico (newspaper)|Politico]] | date=February 3, 2012 | accessdate=February 7, 2012 | author=Boliek, Brooks}}</ref> in some locations. The [[Democratic National Committee]] also tried to stop the ads by claiming that Terry was not a legitimate Democratic candidate even though he was legally on the ballot. <ref>{{cite web | url=http://www.ballot-access.org/2012/02/01/democratic-national-committee-says-randall-terry-should-not-be-considered-a-bona-fide-candidate-for-broadcast-purposes/ | title=Democratic National Committee Says Randall Terry Should Not be Considered a Bona Fide Candidate for Broadcast Purposes | work=[[Ballot Access News]] | date=February 1, 2012 | accessdate=February 2, 2012 | author=[[Richard Winger|Winger, Richard]]}}</ref> . 
+
+A number of [[birther movement]] partisans, challenging the legitimacy of Obama's [[Birthright citizenship in the United States|birthright citizenship]], attempted to have the President's name removed from the Georgia primary ballot. A state administrative judge upheld a [[subpoena]], which was ignored by the President and his staff. <ref>{{cite web | url=http://www.miamiherald.com/2012/01/23/2603770/georgia-judge-orders-president.html | title=Georgia judge orders President Obama to appear in court over 'birthers' suit | work=[[The Miami Herald]] | date=January 23, 2012 | accessdate=February 2, 2012 | author=Williams, Chuck}}</ref> In February 2012, the birther activists' legal challenge was rejected by a Georgia state law judge and by the [[Secretary of State of Georgia]], and Obama remained listed on the primary ballot. <ref>{{cite web | url=http://www.ajc.com/news/georgia-politics-elections/judge-obama-eligible-to-1330300.html | title=Judge: Obama eligible to be Georgia candidate | work=[[The Atlanta Journal-Constitution]] | date=February 3, 2012 | accessdate=February 7, 2012 | author=Rankin, Bill}}</ref><ref>{{cite web | url=http://www.macon.com/2012/02/07/1895507/ga-sos-says-obama-to-remain-on.html | title=Ga. SOS says Obama to remain on primary ballot | publisher=[[Associated Press]] | work=[[Macon Telegraph]] | date=February 7, 2012 | accessdate=February 7, 2012}}</ref> . 
+
+Only six states - New Hampshire, Missouri, Oklahoma, Louisiana, Texas, and West Virgina - have permitted challengers to President Obama, while a seventh (Ohio) was going to have Randall Terry on the ballot, but removed his name before the ballots were printed.  . 
+
+==Candidates==. 
+{{Main|Democratic Party presidential candidates, 2012}}
+Obama is on the ballot in all states, where he is running mostly unopposed. 
+The following have attained ballot status in at least one state:<ref>http://www.thegreenpapers.com/P12/NH-D#0110</ref>    
+{| class="wikitable sortable"
+. |- valign=bottom
+! class="unsortable"|
+! Candidate
+! Votes
+! Delegates
+! States on ballot
+. |-
+{{American politics/party colors/Independent/row}}
+| Uncommitted
+| 75,418
+| 13
+| 10
+{{American politics/party colors/Democratic/row}}
+| [[Randall Terry]]
+| 22,752
+| 7
+| 5
+{{American politics/party colors/Democratic/row}}
+| [[John Wolfe, Jr.]]
+| 19,071
+| 3
+| 4
+{{American politics/party colors/Democratic/row}}
+| [[Darcy Richardson]]
+| 17,225
+| 0 
+| 5
+{{American politics/party colors/Democratic/row}}
+| [[Jim Rogers (Oklahoma politician)|Jim Rogers]]
+| 15,535  
+| 3
+| 1 
+{{American politics/party colors/Democratic/row}}
+| Bob Ely
+| 15,500
+| 0 
+| 4
+{{American politics/party colors/Democratic/row}}
+| Ed Cowan
+| 945
+| 0
+| 1
+{{American politics/party colors/Democratic/row}}
+| [[Vermin Supreme]]
+| 833
+| 0 
+| 1
+{{American politics/party colors/Democratic/row}}
+| John D. Haywood
+| 423
+| 0 
+| 1
+{{American politics/party colors/Democratic/row}}
+| Craig Freis
+| 400
+| 0 
+| 1
+{{American politics/party colors/Democratic/row}}
+| Cornelius Edward O'Connor
+| 266
+| 0 
+| 1
+{{American politics/party colors/Democratic/row}}
+| Edward T. O'Donnell
+| 222
+| 0 
+| 1
+{{American politics/party colors/Democratic/row}}
+| Bob Greene
+| 213
+| 0 
+| 1
+{{American politics/party colors/Democratic/row}}
+| Robert B. Jordan
+| 155
+| 0 
+| 1
+{{American politics/party colors/Democratic/row}}
+| Aldous C. Tyler
+| 106
+| 0 
+| 1
+{{American politics/party colors/Democratic/row}}
+| Keith Russell Judd<ref>http://wvgazette.com/News/politics/201201280061</ref> 
+| –
+| -          
+| 1
+|} . 
+
+==Candidates gallery==. 
+<gallery perrow="6">
+File:Obama portrait crop.jpg|[[President of the United States|President]] '''[[Barack Obama]]''' of [[Illinois]] ([[Barack Obama presidential campaign, 2012|campaign]])
+File:Randall_Terry_2.jpg| [[Pro-life]] activist '''[[Randall Terry]]''' of [[West Virginia]] <br /> ([http://terryforpresident.com/ website]) <br />
+File:LG PICs 2 002.JPG|[[Blogger]] '''[[Darcy Richardson]]''' of [[Florida]] <br />([http://www.darcy2012.com/ website])<br/>
+File:Rogers Jim.jpg|[[Perennial candidate]] and 2010 Democratic US Senate nominee '''[[Jim Rogers (Oklahoma politician)|Jim Rogers]]''' of [[Oklahoma]]
+File:Vermin_Supreme.jpg|[[Performance artist]] '''[[Vermin Supreme]]''' of [[Massachusetts]] <br />([http://www.verminsupreme.com/ website])<br />
+File:John Wolfe, Jr.jpg|Attorney and perennial candidate '''[[John Wolfe, Jr.]]''' of [[Tennessee]] <br />([http://www.johnwolfeforamerica.com/ website])
+</gallery> . 
+
+==Delegate allocation==. 
+{{see also|United States presidential primary#Process}}
+The number of pledged delegates allocated to each of the 50 U.S. states and [[Washington, D.C.]] is based on two main factors: (1) the proportion of votes each state gave to the Democratic candidate in the last three presidential elections, and (2) the number of electoral votes each state has in the [[United States Electoral College]]. In addition, fixed numbers of delegates are allocated to [[Puerto Rico]], [[American Samoa]], [[Guam]], the [[U.S. Virgin Islands]], and Democrats Abroad under the party's delegate selection rules. <ref name="greenpapersDelegates"/> Depending on each state's law and each state's party rules, when voters cast ballots for a candidate in a presidential caucus or primary, they may be voting to actually award delegates bound to vote for a particular candidate at the state or national convention (''binding'' primary or caucus), or they may simply be expressing an opinion that the state party is not bound to follow in selecting delegates to the national convention (''non-binding'' primary or caucus).  . 
+
+States are awarded bonus pledged delegates if they schedule their primary or caucus later in the primary season. Those states with April dates are awarded a 10 percent increase, while those who schedule from May 1 to June 12 get a 20 percent increase. And starting on March 20, a 15 percent bonus is awarded when clusters of three or more neighboring states begin on the same day. <ref name="greenpapersDelegates"/> . 
+
+The unpledged [[superdelegate]]s will include members of the [[United States House of Representatives]] and [[United States Senate|Senate]], state and territorial [[List of current United States Governors|governors]], members of the Democratic National Committee, and other party leaders. Because of possible deaths, resignations, or the results of intervening or special elections, the final number of these superdelegates may not be known until the week of the convention.  . 
+
+==Calendar==. 
+{{main|United States presidential election, 2012 timeline}}
+{{See also|United States presidential primary}} . 
+
+===Primary schedule===. 
+{|class="wikitable sortable"
+. |-
+! Date
+! State/territory
+! Type
+! Pledged delegates 
+! Superdelegates
+! Total delegates<ref name="greenpapersDelegates">{{cite web|url=http://www.thegreenpapers.com/P12/D-Alloc.phtml|title=Democratic Detailed Delegate Allocation - 2012|work=The Green Papers|accessdate=2012-01-05}}</ref>
+! Votes for Obama
+! Votes for other candidates
+! Source
+. |-
+| {{dts|Tue., January 3, 2012}}
+| [[Iowa]]
+| [[Iowa Democratic caucuses, 2012|Nonbinding caucus]]
+| 54
+| 11
+| 65
+| 8,064 (98.9%)
+| 88 (1.1%)
+| <ref>{{cite web | url=http://iowademocrats.org/caucus/hPressVt76HujI/ | title=Iowa Caucus Night Reporting | publisher=Iowa Democratic Party | accessdate=2012-01-04}}</ref>
+. |-
+| {{dts|Tue., January 10, 2012}}
+| [[New Hampshire]]
+| [[New Hampshire Democratic primary, 2012|Semi-closed primary]]
+| 28
+| 7
+| 35
+| 48,970 (82%)
+| 10,215 (18%)
+| <ref name=TGP>{{cite web |url=http://www.thegreenpapers.com/P12/NH-D |title=New Hampshire Democratic |publisher=The Green Papers |author=Richard E. Berg-Andersson |accessdate=2012-01-11}}</ref>
+. |-
+| {{dts|Sat., January 21, 2012}}
+| [[Nevada]]
+| [[Nevada Democratic caucuses, 2012|Nonbinding caucus]]
+| 36
+| 8
+| 44
+| (98.3%)
+| (1.7%)
+| <ref>{{cite news|last=Memoli|first=Michael A.|title=Nevada Democratic caucuses rally support for Obama|url=http://www.latimes.com/news/politics/la-pn-nevada-democratic-caucuses-20120121,0,7810413.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fnews%2Fpolitics+%28L.A.+Times+-+Politics%29&utm_content=Google+Feedfetcher|accessdate=March 25, 2012|newspaper=The Los Angeles Times|date=January 21, 2012}}</ref> 
+. |-
+| {{dts|Sat., January 28, 2012}}
+| [[South Carolina]]
+| [[South Carolina Democratic primary, 2012|Open primary]]
+| 56
+| 6
+| 62
+| (100%)*
+| (0%) 
+| 
+. |-
+| {{dts|Tue., January 31, 2012}}
+| [[Florida]]
+| [[Florida Democratic primary, 2012|Nonbinding primary]]<sup>1</sup>
+| 276
+| 24
+| 300
+| (100%)*
+| (0%) 
+| 
+. |-
+| {{dts|Tue., February 7, 2012}}
+| [[Minnesota]]
+| [[Minnesota Democratic caucuses, 2012|Nonbinding caucus]] 
+| 91
+| 16
+| 107
+| 1,116 (98.1%)
+| 22 (1.9%)
+|
+. |-
+| {{dts|Tue., February 7, 2012}}
+| [[Missouri]]
+| [[Missouri Democratic primary, 2012|primary]] 
+| 77
+| 13
+| 90
+|64,405 (88.3%)
+|8,518 (11.7%)
+|
+. |-
+| {{dts|Tue., February 28th, 2012}}
+| [[Michigan]]
+| [[Michigan Democratic primary, 2012|primary]]
+| 183
+| 20
+| 203
+|174,410 (89.4%)
+|20,648 (10.6%) 
+| 
+. |-
+| {{dts|Tue., March 6, 2012}}
+| [[Oklahoma]]
+| [[Oklahoma Democratic primary, 2012|primary]] 
+| 45
+| 5
+| 50
+| 64,330 (57%)
+| 48,361 (43%)<sup>2</sup>
+| <ref name=oklahoma>{{cite news|title=Obama loses Dem primary in 15 Oklahoma counties|url=http://www.google.com/hostednews/ap/article/ALeqM5jKhUhkdKu1TqnFTIA63E12XjXCZg?docId=30a34685713d4b77a8ca0433956ddc54|accessdate=March 25, 2012|date=March 6, 2012|agency=Associated Press}}</ref><ref>{{cite web|title=For President-Democratic|url=http://results.enr.clarityelections.com/OK/38065/74791/Web01/en/summary.html|work=Unofficial Results|publisher=Oklahoma State Elections Board|accessdate=March 25, 2012}}</ref> 
+. |-
+| {{dts|Tue., March 6, 2012}}
+| [[Massachusetts]]
+| [[Massachusetts Democratic primary, 2012|primary]] 
+|  110
+|  26
+|  136
+| 125,431 (88.8%)
+| 15,881 (11.2%)
+|
+. |-
+| {{dts|Tue., March 6, 2012}}
+| [[Colorado]]
+| [[Colorado Democratic caucus, 2012|caucus]] 
+|  72
+|  14
+|  86
+| (100%)*
+| (0%)
+|
+. |-
+| {{dts|Tue., March 6, 2012}}
+| [[Ohio]]
+| [[Ohio Democratic primary, 2012|primary]] 
+|  174
+|  17
+|  191
+| 547,588 (100%)*
+| (0%)
+|
+. |-
+| {{dts|Tue., March 6, 2012}}
+| [[Tennessee]]
+| [[Tennessee Democratic primary, 2012|primary]] 
+|  82
+|  9
+|  91
+| 80,355 (88.5%)
+| 10,411 (11.5%)
+|
+. |-
+| {{dts|Tue., March 6, 2012}}
+| [[Georgia (U.S. state)|Georgia]]
+| [[Georgia Democratic primary, 2012|primary]]   
+|  110
+|  14
+|  124
+| 139,273 (100%)*
+| (0%)
+|
+. |-
+| {{dts|Tue., March 6, 2012}}
+| [[Virginia]]
+| [[Virginia Democratic primary, 2012|primary]] 
+|  106
+|  17
+|  123
+| (100%)*
+| (0%)
+|
+. |-
+| {{dts|Tue., March 6, 2012}}
+| [[Vermont]]
+| [[Vermont Democratic primary, 2012|primary]] 
+|  18
+|  9
+|  27
+|  30,954 (98.1%)*
+|  582 (1.9%)
+|
+. |-
+| {{dts|Tue., March 13, 2012}}
+| [[Alabama]]
+| [[Alabama Democratic primary, 2012|primary]] 
+|  63
+|  6
+|  69
+| 166,428  (80.8%)
+| 39,496  (19.2%)
+|
+. |-
+| {{dts|Tue., March 13, 2012}}
+| [[Mississippi]]
+| [[Mississippi Democratic primary, 2012|primary]] 
+|  40
+|  5
+|  45
+| (100%)*
+| (0%)
+|
+. |-
+| {{dts|Tue., March 13, 2012}}
+| [[Utah]]
+| [[Utah Democratic caucus, 2012|caucus]] 
+|  29
+|  5
+|  34
+| (100%)*
+| (0%)
+|
+. |-
+| {{dts|Tue., March 20, 2012}}
+| [[Illinois]]
+| [[Illinois Democratic primary, 2012|primary]]
+| 189
+| 26
+| 215
+| (100%)*
+| (0%) 
+|
+. |-
+| {{dts|Sat., March 24, 2012}}
+| [[Louisiana]]
+| [[Louisiana Democratic primary, 2012|primary]]
+| 64
+| 7
+| 71
+| 115,087 (76.5%)
+| 35,449 (23.5%) 
+|
+. |-
+| {{dts|Tue., April 3, 2012}}
+| [[District of Columbia]]
+| [[District of Columbia Democratic primary, 2012|primary]]
+| 22
+| 22
+| 44
+| 
+|  
+|
+. |-
+| {{dts|Tue., April 3, 2012}}
+| [[Maryland]]
+| [[Maryland Democratic primary, 2012|primary]]
+| 97
+| 23
+| 120
+| 
+|  
+|
+. |-
+| {{dts|Tue., April 3, 2012}}
+| [[Wisconsin]]
+| [[Wisconsin Democratic primary, 2012|primary]]
+| 100
+| 11
+| 111
+| 
+|  
+|
+. |-
+| {{dts|Tue., April 24, 2012}}
+| [[Connecticut]]
+| [[Connecticut Democratic primary, 2012|primary]]
+| 73
+| 15
+| 88
+| 
+|  
+|
+. |-
+| {{dts|Tue., April 24, 2012}}
+| [[New York]]
+| [[New York Democratic primary, 2012|primary]]
+| 337
+| 47
+| 384
+| 
+|  
+|
+. |-
+| {{dts|Tue., April 24, 2012}}
+| [[Pennsylvania]]
+| [[Pennsylvania Democratic primary, 2012|primary]]
+| 228
+| 22
+| 250
+| 
+|  
+|
+. |-
+| {{dts|Tue., April 24, 2012}}
+| [[Delaware]]
+| [[Delaware Democratic primary, 2012|primary]]
+| 24
+| 9
+| 33
+| 
+|  
+|
+. |-
+| {{dts|Tue., April 24, 2012}}
+| [[Rhode Island]]
+| [[Rhode Island Democratic primary, 2012|primary]]
+| 32
+| 9
+| 41
+| 
+|  
+|
+. |-
+| {{dts|Tue., May 8, 2012}}
+| [[Indiana]]
+| [[Indiana Democratic primary, 2012|primary]]
+| 96
+| 10
+| 106
+| 
+|  
+|
+. |-
+| {{dts|Tue., May 8, 2012}}
+| [[North Carolina]]
+| [[North Carolina Democratic primary, 2012|primary]]
+| 139
+| 19
+| 158
+| 
+|  
+|
+. |-
+| {{dts|Tue., May 8, 2012}}
+| [[West Virginia]]
+| [[West Virginia Democratic primary, 2012|primary]]
+| 36
+| 10
+| 46
+| 
+|  
+|
+. |-
+| {{dts|Tue., May 15, 2012}}
+| [[Oregon]]
+| [[Oregon Democratic primary, 2012|primary]]
+| 70
+| 14
+| 84
+| 
+|  
+|
+. |-
+| {{dts|Tue., May 22, 2012}}
+| [[Arkansas]]
+| [[Arkansas Democratic primary, 2012|primary]]
+| 47
+| 8
+| 55
+| 
+|  
+|
+. |-
+| {{dts|Tue., May 22, 2012}}
+| [[Kentucky]]
+| [[Kentucky Democratic primary, 2012|primary]]
+| 66
+| 7
+| 73
+| 
+|  
+|
+. |-
+| {{dts|Tue., May 29, 2012}}
+| [[Texas]]
+| [[Texas Democratic primary, 2012|primary]]
+| 260
+| 28
+| 288
+| 
+| 
+|
+. |-
+| {{dts|Tue., June 5, 2012}}
+| [[California]]
+| [[California Democratic primary, 2012|primary]]
+| 547
+| 64
+| 611
+| 
+|  
+|
+. |- 
+| {{dts|Tue., June 5, 2012}}
+| [[Montana]]
+| [[Montana Democratic primary, 2012|primary]]
+| 24
+| 7
+| 31
+| 
+|  
+|
+. |-
+| {{dts|Tue., June 5, 2012}}
+| [[New Jersey]]
+| [[New Jersey Democratic primary, 2012|primary]]
+| 153
+| 19
+| 172
+| 
+|  
+|
+. |-
+| {{dts|Tue., June 5, 2012}}
+| [[New Mexico]]
+| [[New Mexico Democratic primary, 2012|primary]]
+| 39
+| 11
+| 50
+| 
+|  
+|
+. |- 
+| {{dts|Tue., June 5, 2012}}
+| [[South Dakota]]
+| [[South Dakota Democratic primary, 2012|primary]]
+| 22
+| 7
+| 29
+| 
+|  
+|   
+|}
+<small><nowiki>*</nowiki> - Unopposed</small><br><br> . 
+
+; Notes
+# Florida's legislature set the date for its primary on January 31, violating the scheduling guidelines of the Democratic National Committee (DNC). The DNC has since declared Florida's primary as nonbinding, and therefore an alternate delegate selection system consisting of county caucuses will now take place on May 5, followed by a state convention in June. 
+# Randall Terry collected 18% of the votes, winning twelve counties, in the Oklahoma primary, qualifying him for seven delegates to the 2012 Democratic National Convention.  Jim Rogers collected 13% of the votes, winning three counties, qualifying him for three delegates (one from each of three Congressional Districts where he collected over 15%). <ref>{{cite web|url=http://www.thegreenpapers.com/P12/OK-D|title=Oklahoma-Democratic Primary|publisher=The Green Papers|accessdate=March 22, 2012}}</ref> . 
+
+==See also==. 
+*[[United States presidential election]]
+*[[Republican Party presidential primaries, 2012]] . 
+
+==References==. 
+{{reflist}} . 
+
+{{2012 Democratic primaries}}
+{{United States presidential election, 2012}}
+{{U.S. presidential primaries}} . 
+
+{{DEFAULTSORT:Democratic Party presidential primaries, 2012}}
+[[Category:United States Democratic presidential primaries, 2012|*]]
+[[Category:Article Feedback 5 Additional Articles]]

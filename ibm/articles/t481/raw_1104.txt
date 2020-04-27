@@ -1,0 +1,42 @@
+'''High policing''' is a form of [[intelligence-led policing]] that serves to protect the national [[government]] or a conglomerate of national governments from internal threats; that is, any [[police|policing]] operations integrated into domestic intelligence gathering, [[national security]], or [[international security]] operations for the purpose of protecting government.  . 
+
+== Etymology ==. 
+The term "high policing" was introduced into English language police studies by Canadian criminologist [[Jean-Paul Brodeur]] in a 1983 article entitled "[http://links.jstor.org/sici?sici=0037-7791(198306)30%3A5%3C507%3AHPALPR%3E2.0.CO%3B2-X High Policing and Low Policing: Remarks about the Policing of Political Activities]" and derives from the [[French language|French]] ''haute police'', the political police force established in [[France]] under [[Louis XIV of France|Louis XIV]].  . 
+
+== Aims == . 
+
+The term "high policing" refers to the fact that such policing benefits the "higher" interests of the government rather than individual citizens or the mass population. It also refers to the fact that high-policing organizations are endowed with authority and legal powers superior to that of other types of police organizations.  . 
+
+There is no conventional designation for this category of policing in [[Liberal democracy|liberal democracies]], however, and it should not be conflated with [[secret police]], although secret police organizations do use high policing methods. Calling it "secret" or "political" policing is too vague since all police work is somewhat both secret (police generally do not reveal their methods until a case is completed) and political (police enforce laws determined by the political system in power).  . 
+
+The primary tool of high policing is [[intelligence (information gathering)|intelligence]], which is derived from both human ("[[Humint]]") and technological sources. The former includes the use of secret informants to gather information on the activities of citizens, while the latter includes [[electronic surveillance]] and [[eavesdropping]], such as [[closed-circuit television|closed-circuit]] camera monitoring, [[telephone tapping]], and Internet tapping. Human intelligence and technological intelligence are undoubtedly the most powerful tools in the high policing profession.  . 
+
+== Agencies == . 
+
+High policing in western [[democracy|democratic]] countries is performed by both national police forces and specialized [[intelligence agency|intelligence agencies]], such as the [[Federal Bureau of Investigation|FBI]] and the [[United States Secret Service|Secret Service]] in the [[United States]], [[MI5]] in the [[United Kingdom]], the [[Australian Security Intelligence Organisation]], the [[Canadian Security Intelligence Service]], and the [[New Zealand Security Intelligence Service]].  . 
+
+These organizations usually confront domestic or internal threats to national security, whereas the [[military]] or [[military intelligence]] agencies generally handle foreign or external threats. However, this distinction can become blurred, especially in cases involving [[terrorism]].  . 
+
+== Human rights concerns == . 
+
+High policing has an extremely high potential for abuse. There is a tendency, even in democratic countries, for high policing organizations to abuse their powers or even to operate outside the law because many organizations involved in high policing are granted extensive legal powers, including [[immunity from prosecution|immunity]] from [[prosecution]] for acts that are criminal under normal circumstances. In some countries, for example, high-policing organizations regularly engage in actions of dubious legality, such as [[arbitrary arrest and detention|arbitrarily arresting and detaining]] people without charge, without [[right to counsel|legal representation]], and [[Wiktionary:incommunicado|without means of communication]]; some high-policing forces also engage in [[torture]]. In the worst cases, high policing becomes a substitute for the whole [[criminal justice system]]: [[suspect]]s are [[arrest]]ed, [[trial|tried]], [[conviction|convicted]], and [[sentence (law)|sentenced]] entirely by a national security agency, usually very expeditiously and in complete [[secrecy]], as is the case in [[police state]]s.  . 
+
+== See also ==. 
+*[[Anti-terrorism legislation]]
+*[[Good governance]]
+*[[Homeland security]]
+*[[Intelligence agency]]
+*[[Intelligence-led policing]]
+*[[International security]]
+*[[Rule of law]]
+*[[Security]]
+*[[State of emergency]]
+*[[Terrorism]] . 
+
+== References ==. 
+* [http://bjc.oxfordjournals.org/cgi/content/full/46/4/641 ‘Eye Spy Private High’: Re-Conceptualizing High Policing Theory ]
+* [http://policing.oxfordjournals.org/cgi/content/full/1/1/70 High Policing in the Security Control Society]
+* [http://www.britannica.com/eb/article-260931/police High policing: The Protection of National Security] . 
+
+[[Category:National security]]
+[[Category:Law enforcement]]

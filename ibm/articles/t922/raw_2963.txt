@@ -1,0 +1,58 @@
+{{distinguish|Business software}}
+{{cleanup|date=December 2010}}
+'''Commercial software''', or less commonly, '''payware''', is [[computer software]] that is produced for [[selling|sale]]<ref>[http://dictionary.reference.com/browse/commercial+software commercial software - Definitions from Dictionary.com]</ref> or that serves [[commerce|commercial]] purposes.  . 
+
+Commercial software is most often [[proprietary software]], but [[free software]] packages [[open source commercial software|may also be commercial software.]]<ref>{{cite web
+  | author = David A. Wheeler
+  | title = Free-Libre / Open Source Software (FLOSS) is Commercial Software
+  | date = 2009-02-03
+  | url = http://www.dwheeler.com/essays/commercial-floss.html
+  | accessdate = 2009-06-29
+}}</ref><ref>{{cite web
+  |url=http://www.gnu.org/philosophy/categories.html#commercialSoftware
+  |title=Categories of Free and Non-Free Software
+  |publisher=[[Free Software Foundation]]
+}}</ref><ref>{{cite web
+  |url=http://www.gnu.org/philosophy/selling.html
+  |title=Selling Free Software
+  |publisher=[[Free Software Foundation]]
+}}</ref>{{Better source|date=March 2012}} . 
+
+All or parts of software packages and services that support commerce are increasingly made available as [[free software]]{{Citation needed|date=January 2010}}. 
+This includes products from [[Red Hat]], [[Apple Computer]], [[Sun Microsystems]], [[Google]], and [[Microsoft Corporation]]. 
+Microsoft Corporation uses "commercial software", to describe their [[business model]]. <ref>{{cite web|url=http://www.microsoft.com/presspass/exec/craig/05-03sharedsource.mspx|title=''The Commercial Software Model''|author=Craig Mundie|publisher=Microsoft|date=2001-05-03}}</ref> . 
+
+== Free and open-source software ==. 
+{{Undue|section|date=March 2012}}
+While less common than commercial proprietary software, [[free software|free]] and [[open-source software]] may also be commercial software. 
+This is a fact that the [[Free Software Foundation]] emphasizes,<ref>http://www.fsf.org/licensing/essays/words-to-avoid.html#Commercial</ref> and is the basis of the [[Open Source Initiative]].{{Citation needed|date=January 2010}} . 
+
+Under the free software business model, free software vendors may charge a fee for distribution and offer pay support and software customization services. 
+Proprietary software uses a different business model, where a customer of the proprietary software pays a fee for a license to use the software. 
+This license may grant the customer the ability to configure some or no parts of the software themselves. 
+Often some level of support is included in the purchase of proprietary software, but additional support services (especially for enterprise applications) are usually available for an additional fee. 
+Some proprietary software vendors will also customize software for a fee. <ref>{{cite web|author = Andy Dornan|title = The Five Open Source Business Models|url = http://www.informationweek.com/blog/main/archives/2008/01/the_five_open_s.html}}</ref> . 
+
+Free software is generally available at no cost and can result in permanently lower costs compared to [[proprietary software]]. 
+With free software, businesses can fit software to their specific needs by changing the software themselves or by hiring programmers to modify it for them. 
+Free software often has no warranty, and more importantly, generally does not assign legal liability to anyone. 
+However, warranties are permitted between any two parties upon the condition of the software and its usage. 
+Such an agreement is made separately from the free software license.  . 
+
+A report by Standish Group says that adoption of [[open source]] has caused a drop in revenue to the [[proprietary software]] industry by about $60 billion per year. <ref>http://standishgroup.com/newsroom/open_source.php</ref> . 
+
+== See also ==. 
+* [[Commercial off-the-shelf]]
+* [[Retail software]] . 
+
+* [[Proprietary software]]
+* [[Gratis versus Libre]]
+* [[Shareware]] . 
+
+== References ==. 
+{{reflist}} . 
+
+{{Software distribution}} . 
+
+{{DEFAULTSORT:Commercial Software}}
+[[Category:Software distribution]]

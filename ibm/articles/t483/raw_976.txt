@@ -1,0 +1,189 @@
+{{Citations broken|date=February 2012}}
+The '''state secrets privilege''' is an [[Evidence (law)|evidentiary rule]] created by [[United States]] legal [[precedent]]. Application of the privilege results in exclusion of evidence from a [[legal case]] based solely on [[affidavits]] submitted by the government stating that court proceedings might disclose sensitive information which might endanger national security. <ref name ="Carrie Newton Lyons">[http://www.lclark.edu/org/lclr/objects/LCB_11_1_Lyons.pdf The state secrets privilege: Expanding Its Scope Through Government Misuse] by Carrie Newton Lyons, the [[Lewis & Clark Law Review]], published by [[Lewis & Clark Law School]], Volume 11 / Number 1 / Spring 2007. </ref><ref name="Executive Misconduct">[http://jurist.law.pitt.edu/forumy/2006/05/state-secrets-privilege-and-executive.php The State Secrets Privilege and executive Misconduct] by Shayana Kadidal, one of the lead attorneys on the [[Center for Constitutional Rights]], [[JURIST]], May 30, 2006</ref><ref name="El-Masri Rendition Case">[http://jurist.law.pitt.edu/forumy/2007/03/dangerous-discretion-state-secrets-and.php Dangerous Discretion: State Secrets and the El-Masri Rendition Case] by Aziz Huq, Director of the Liberty and National Security Project at the Brennan Center for Justice at NYU School of Law, [[JURIST]], March 12, 2007</ref><ref name="Julie Hilden">The Suit Challenging the NSA's Warrantless Wiretapping Can Proceed, Despite the State Secrets Privilege
+*[http://writ.lp.findlaw.com/hilden/20060815.html The Suit Challenging the NSA's Warrantless Wiretapping Can Proceed, Despite the State Secrets Privilege: Why The Judge Made the Right Call] By JULIE HILDEN, [[FIndLaw]], August 15, 2006
+*[http://writ.lp.findlaw.com/hilden/20060823.html Examining Two Recent Rulings Allowing Suits Against the NSA's Warrantless Wiretapping To Proceed, Despite the State Secrets Privilege: Part Two in a Series] By JULIE HILDEN, [[FindLaw]], August 23, 2006</ref><ref name ="Glenn Greenwald">[http://glenngreenwald.blogspot.com/2006/04/building-secrecy-wall-higher-and.html Building the Secrecy Wall higher and higher] by [[Glenn Greenwald]], [[Unclaimed Territory]], April 29, 2006</ref><ref name ="Andrew Zajac">[http://www.truthout.org/cgi-bin/artman/exec/view.cgi/37/9393 Bush Wielding Secrecy Privilege to End Suits] By Andrew Zajac, [[The Chicago Tribune]], March 3, 2005</ref>  ''[[United States v. Reynolds]]'',<ref>{{cite court |litigants = United States v. Reynolds |vol = 345 |reporter = U.S. |opinion = 1 |pinpoint = paragraph 8 |court =  |year = 1953 |url= http://bulk.resource.org/courts.gov/c/US/345/345.US.1.21.html | quote= the privilege against revealing military secrets, a privilege which is well established in the law of evidence}}</ref> which involved military secrets, was the first case that saw formal recognition of the privilege.  . 
+
+Following a claim of "state secrets privilege", the court rarely conducts an ''[[in camera]]'' examination of the evidence to evaluate whether there is sufficient cause to support the use of this doctrine. This results in court rulings in which even the judge has not verified the veracity of the assertion. <ref name ="Carrie Newton Lyons"/> The privileged material is completely removed from the litigation, and the court must determine how the unavailability of the privileged information affects the case. <ref name="El-Masri Rendition Case"/><ref name ="Glenn Greenwald"/> . 
+
+==Function== . 
+
+The purpose of the state secrets privilege is to prevent courts from revealing state secrets in the course of civil litigation (in criminal cases, the [[Classified Information Procedures Act]] serves the same purpose). The government may intervene in any civil suit, including when it is not a party to the litigation, to ask the court to exclude state secrets evidence. While the courts may examine such evidence closely, in practice they generally defer to the [[Executive (government)|Executive Branch]]. Once the court has agreed that evidence is subject to the state secrets privilege, it is excluded from the litigation. Often, as a practical matter, the plaintiff cannot continue the suit without the privileged information, and drops the case. Recently, courts have been more inclined to dismiss cases outright, if the subject matter of the case is a state secret.  . 
+
+===Distinguished from other legal doctrines=== . 
+
+The state secrets privilege is related to, but distinct from, several other legal doctrines: the principle of non-justiciability in certain cases involving state secrets (the so-called "[[Totten v. United States|Totten Rule]]");<ref>Tenet v. Doe, 544 U.S. 1 (2005)</ref> certain prohibitions on the publication of classified information (as in ''[[New York Times Co. v. United States]]'', the [[Pentagon Papers]] case); and the use of classified information in criminal cases (governed by the Classified Information Procedures Act).  . 
+
+==History==. 
+===Origins===. 
+The doctrine was effectively imported from [[British law]] which has a similar privilege. <ref name ="Carrie Newton Lyons"/><ref name="Executive Misconduct"/> It is debatable whether the state secrets privilege is based upon the President's powers as [[commander-in-chief]] and leader of [[foreign affairs]] (as suggested in ''[[United States v. Nixon]]'') or derived from the idea of separation of powers (as suggested in ''[[United States v. Reynolds]]''). <ref name ="Carrie Newton Lyons"/> It seems that the US privilege "has its initial roots in [[Aaron Burr|Aaron Burr's]] [[Burr conspiracy|trial for treason]]." In this case, it was alleged that a letter from General [[James Wilkinson]] to President [[Thomas Jefferson]] might contain state secrets and could therefore not be divulged without risk to national security. <ref name ="Carrie Newton Lyons"/> . 
+
+===Supreme Court recognition in United States v. Reynolds===. 
+The privilege was first officially recognized by the [[Supreme Court of the United States]] in the 1953 decision ''[[United States v. Reynolds]]'' (345 U.S. 1). A military airplane, a [[B-29 Superfortress]] bomber, crashed. The widows of three civilian crew members sought accident reports on the crash but were told that to release such details would threaten national security by revealing the bomber's top-secret mission. <ref name ="Carrie Newton Lyons"/><ref name="Executive Misconduct"/><ref name="El-Masri Rendition Case"/><ref name="Julie Hilden"/><ref name ="Glenn Greenwald"/><ref name ="Andrew Zajac"/><ref name ="John Dean">[http://writ.news.findlaw.com/dean/20060616.html ACLU v. National Security Agency: Why the "State Secrets Privilege" Shouldn't Stop the Lawsuit Challenging Warrantless Telephone Surveillance of Americans] By JOHN W. DEAN, [[FindLaw]], June 16, 2006</ref><ref name="Henry Lanman">[http://www.slate.com/id/2142155/ Secret GuardingThe new secrecy doctrine so secret you don't even know about it] By Henry Lanman, ''[[Slate (magazine)|Slate]]'', May 22, 2006,</ref> The court held that only the government can claim or waive the privilege, and it “is not to be lightly invoked”, and last there “must be a formal claim of privilege, lodged by the head of the
+department which has control over the matter, after actual personal
+consideration by that officer.”<ref name ="Carrie Newton Lyons"/> The court stressed that the decision to withhold evidence is to be made by the presiding judge and not the executive. <ref name ="Carrie Newton Lyons"/>  . 
+
+In 2000, the accident reports were declassified and released, and it was found that the assertion that they contained secret information was fraudulent. The reports did, however, contain information about the poor condition of the aircraft itself, which would have been very compromising to the Air Force's case. Many commentators have alleged government misuse of secrecy in this landmark case. <ref>Stephens, Hampton. [http://www.fas.org/sgp/news/2003/03/iaf031403.html Supreme Court Filing claims Air Force, government fraud in 1953 case: Case could affect 'state secrets' privilege] ''Inside the Air Force'' March 14, 2003. Retrieved May 3, 2007. </ref> . 
+
+Despite this ruling, a case might still be subject to judicial review since the privilege was intended to prevent certain, but not all, information to be precluded. <ref name ="Carrie Newton Lyons"/> . 
+
+===Recent use===. 
+According to former [[White House Counsel]], [[John Dean]]:
+<blockquote>While precise numbers are hard to come by (because not all cases are reported), a recent study reports that the "Bush administration has invoked the state secrets privilege in 23 cases since 2001." By way of comparison, "between 1953 and 1976, the government invoked the privilege in only four cases."<ref name ="John Dean"/></blockquote>  . 
+
+While Henry Lanman reports in ''[[Slate (magazine)|Slate]]'':
+<blockquote>the [[Reporters Committee for Freedom of the Press]] reported that while the government asserted the privilege approximately 55 times in total between 1954 (the privilege was first recognized in 1953) and 2001, it's asserted it 23 times in the four years after Sept. 11."<ref name="Henry Lanman"/><ref name="Glenn Greenwald ITT">[http://www.inthesetimes.com/article/2730/ Rechecking the Balance of Powers The Bush administration has finally been rebuked for its repeated efforts to evade judicial review] By Glenn Greenwald, In These Times, July 21, 2006</ref></blockquote> . 
+
+However, at least one article has retracted these figures, finding they were based on erroneous information: . 
+
+<blockquote>Correction: In this article, we incorrectly reported that the government invoked the state secrets privilege in 23 cases since 2001. The figure came from the 2005 Secrecy Report Card published by OpenTheGovernment.org. The privilege was actually invoked seven times from 2001 to 2005, according to the corrected 2005 report card, which is not an increase from previous decades. <ref name="Susan Burgess">[http://www.rcfp.org/news/mag/29-4/prr-statesec.html] By Susan Burgess, The News Media and the Law, Fall 2005</ref>{{Dead link|date=February 2012}}</blockquote> . 
+
+Lanman continues to cite two political science professors at the [[University of Texas-El Paso]] who concluded that
+<blockquote>courts have examined the documents' underlying claims of state secrecy fewer than one-third of the times it has been invoked. And ... courts have only actually rejected the assertion of the privilege four times since 1953. <ref name="Henry Lanman"/></blockquote> . 
+
+Following the [[September 11, 2001 attacks]], the privilege is increasingly used to dismiss entire court cases, instead of only withholding the sensitive information from a case. <ref name ="Carrie Newton Lyons"/> Also in 2001, [[George W. Bush]] issued [[Executive Order 13233]] extending the accessibility of the state secrets privilege to also allow ''former'' presidents, their designated representatives, or representatives designated by their families, to invoke it to bar records from their tenure. <ref name ="Glenn Greenwald"/> . 
+
+An article in the NYT, in August 2007, on a lawsuit involving [[Society for Worldwide Interbank Financial Telecommunication]] concludes that it would seem that the unprecedented frequency with which the Bush administration invoked and invokes this principle has made judges more skeptical and willing to ask the government to validate its claims. In the words of Tom Blanton, director of the [[National Security Archive]] at [[George Washington University]]
+<blockquote>What seems clear is that until a year or two ago, the judges rarely even questioned it when the government raised the 'state secrets' claim. It was a neutron bomb &ndash; no plaintiffs left standing. But we're now seeing that judges are starting to actually look behind the government's secrecy claims and see what's really there. <ref>{{cite news|url=http://www.nytimes.com/2007/08/31/us/nationalspecial3/31swift.html?ref=us|title=U.S. Cites ‘Secrets’ Privilege as It Tries to Stop Suit on Banking Records|last=Lichtblau|first=Eric|date=August 31, 2007|publisher=[[The New York Times]]|accessdate=2009-07-09}}</ref></blockquote> . 
+
+==Criticism==. 
+Since 2001, there has been mounting criticism of the state secrets privilege. Such criticism generally falls into four categories: . 
+
+===Weak external validation of executive assertion of privilege===. 
+Many commentators have expressed concern that the courts never effectively scrutinize executive claims of privilege. <ref name ="Carrie Newton Lyons"/> Lacking independent national security expertise, judges frequently defer to the judgment of the executive and never subject executive claims to meaningful scrutiny.  . 
+
+===Executive abuse of the privilege to conceal embarrassing facts===. 
+Commentators have suggested that the state secrets privilege might be used as often to prevent disclosure of embarrassing facts as to protect legitimate secrets. <ref name ="Carrie Newton Lyons"/><ref name="Executive Misconduct"/><ref name="El-Masri Rendition Case"/><ref name="Julie Hilden"/><ref name ="Glenn Greenwald"/><ref name="Henry Lanman"/><ref>[http://www.villagevoice.com/news/0625,hentoff,73574,6.html Congress and Judges Gagged Arlen Specter and a CIA torture victim know &ndash; Only the Oval Office decides what the law is] by [[Nat Hentoff]], [[Village Voice]], June 19th, 2006</ref><ref name="Nat Hentoff">[http://www.villagevoice.com/news/0624,hentoff,73492,6.html Closing Our Courts Crying 'state secrets,' the administration seals the courts to avoid scrutiny] by [[Nat Hentoff]], [[Village Voice]], June 9th, 2006</ref> Or, in the words of Professors William G. Weaver and Robert M. Pallitto in an article in the [[Political Science Quarterly]]:
+<blockquote>[T]he incentive on the part of administrators is to use the privilege to avoid embarrassment, handicap political enemies, and to prevent criminal investigation of administrative action. <ref name="Susan Burgess">[http://www.rcfp.org/news/mag/30-3/prr-caseswit.html Cases without courts &ndash; The state secrets privilege keeps some claims from ever being heard] By Susan Burgess, [[The News Media & The Law]], Summer 2006 (Vol. 30, No. 3), Page 32</ref><ref>[http://oversight.house.gov/Documents/20070213122925-44818.pdf House Committee on Oversight and Government Reform Whistleblower Protection Enhancement Act of 2007] Testimony of William G. Weaver, J.D., Ph.D. Senior Advisor, [[National Security Whistleblowers Coalition]] and
+Associate Professor University of Texas at El Paso, Inst. for Policy and Econ. Development and Dept. of Political Science, February 13, 2007</ref></blockquote>  . 
+
+In several prominent cases, the evidence that the government successfully excluded was later revealed to contain no state secrets: ''United States v. Reynolds'', ''Sterling v. Tenet'', ''Edmonds v. Department of Justice'', and the ''[[Pentagon Papers]]''.  . 
+
+===Expansion into a justiciability doctrine===. 
+Some academics and practitioners have criticized the expansion of the state secrets privilege from an evidentiary privilege (designed to exclude certain pieces of evidence) to a justiciability doctrine (designed to exclude entire lawsuits). Under its original formulation, the state secrets privilege was meant only to exclude a very narrow class of evidence whose revelation would harm national security. However, in a large percentage of recent cases, courts have gone a step further, dismissing entire cases in which the government asserts the privilege, in essence converting an evidentiary rule into a justiciability rule. The government response has been that in certain cases, the subject of the case is itself privileged. In these cases, the government argues, there is no plausible way to respond to a complaint without revealing state secrets.  . 
+
+===Elimination of judicial check on executive power=== . 
+
+[[Glenn Greenwald]] alleges that the Bush administration attempted to expand [[executive power]], as evidenced by the [[unitary executive theory]] propagated by [[John Yoo]]. The theory suggests that the President, as [[Commander-in-Chief]], cannot be bound by Congress or any law, national or international. By invoking the state secrets privilege in cases involving actions taken in the [[war on terror]] (i.e. [[extraordinary rendition]], [[Abu Ghraib torture and prisoner abuse|allegations of torture]], [[NSA warrantless surveillance controversy|allegedly violating the Foreign Intelligence Surveillance Act]])<ref name="Foreign Policy In Focus">[http://www.fpif.org/fpiftxt/3774 Secrecy and Foreign Policy] by Robert Pallitto, [[Foreign Policy In Focus]] (FPIF), December 8, 2006</ref> Greenwald opines the administration tried to evade [[judicial review]] of these claims of exceptional [[war powers]]. In effect, this is preventing a judicial ruling determining whether there is a legal basis for such expansive executive power. <ref name="Glenn Greenwald ITT"/><ref>[http://glenngreenwald.blogspot.com/2006/05/snapshots-of-us-under-bush.html Snapshots of the U.S. under the Bush administration] by Glenn Greenwald, Unclaimed Territory, May 23, 2006</ref> With that in mind, applying this privilege makes [[impeachment]] the only possible means left for [[US Congress|Congress]] to exercise their duty to uphold the [[checks and balances]] constitutionally intended to prevent abuse of power. <ref name="Executive Misconduct"/><ref name="Susan Burgess"/><ref name="Nat Hentoff"/> . 
+
+==Calls for reform==. 
+{{see also|State Secrets Protection Act}} . 
+
+In recent years, a number of commentators have called for legislative reforms to the state secrets privilege. <ref name="slate.com">Florence, Justin and Gerke, Matthew: "State Your Secrets: The smart way around telecom immunity." http://www.slate.com/id/2177962/</ref><ref name="Robert M 2007">"State Secrets and the Limits of National Security Legislation" by [[Robert M. Chesney|Robert Chesney]]. George Washington Law Review (2007). </ref><ref>"The State Secrets Privilege: Expanding Its Scope Through Government Misuse" by Carrie Newton Lyons, 11 Lewis & Clark L. Rev. 99 (2007). </ref>  These reforms center around several ideas: 
+<ol>
+<li>Requiring judges to review each piece of evidence that the executive claims is subject to the privilege. <ref name="slate.com"/><ref name="State Secrets Privilege 2007">Report on Reforming the State Secrets Privilege, American Bar Association, 2007. </ref><ref>"State Your Secrets" by Lou Fisher. Legal Times, 2006. </ref></li>
+<li>Requiring the executive to craft alternative evidence that is not subject to the privilege, for the opposing party to use in place of the original, privileged evidence. <ref name="State Secrets Privilege 2007"/>  Such substitute evidence should only be required when it is possible to do so without harming national security. </li>
+<li>Prohibiting courts from dismissing claims on the basis of the state secrets privilege until after they have reviewed all available evidence. </li>
+<li>Permitting the court to appoint an outside expert to scrutinize the evidence for national security content. <ref name="Robert M 2007"/></li>
+<li>Excluding illegal government action from the definition of "state secrets," or otherwise allowing the court to address the legality (instead of just the secrecy) of government conduct. This would prevent the government from using the state secrets privilege to conceal its illegal conduct. <ref name="Robert M 2007"/></li>
+</ol> . 
+
+On January 22, 2008, Senators [[Ted Kennedy|Edward Kennedy]] and [[Arlen Specter]] introduced {{USBill|110|S|2533}}, the [[State secrets protection act|State Secrets Protection Act]]. <ref>{{cite web
+|url=http://www.fas.org/irp/congress/2008_cr/statesec.html
+|title=Introduction of the State Secrets Protection Act
+|publisher=Federation of American Scientists
+|date=2008-01-22
+|accessdate=2008-02-08
+}}</ref> . 
+
+==Court cases==. 
+===United States v. Reynolds===. 
+{{main|United States v. Reynolds}} . 
+
+In ''United States v. Reynolds'' (1953), the widows of three crew members of a [[B-29 Superfortress]] bomber that had crashed in 1948 sought accident reports on the crash, but were told the release such details would threaten national security by revealing the nature of the bomber's top-secret mission. The Supreme Court ruled that the executive branch could bar evidence from the court if it deemed that its release would impair national security. In 1996, the accident reports in question were declassified and released, and when discovered in 2000 were found to contain no secret information. They did, however, contain information about the poor condition of the aircraft itself, which would have been very compromising to the Air Force's case. Many legal experts have alleged government abuse of secrecy in this landmark case. <ref name="Executive Misconduct"/><ref name="El-Masri Rendition Case"/><ref name ="Glenn Greenwald"/><ref name ="John Dean"/><ref name="Henry Lanman"/> . 
+
+===Richard Horn===. 
+{{main|Richard Horn|Horn v. Albright}} . 
+
+Former DEA agent Richard Horn brought a suit against the CIA for bugging his home. The case was dismissed because of the privilege. <ref name ="Carrie Newton Lyons"/><ref name ="Andrew Zajac"/> . 
+
+Richard Horn's case was reinstated on July 20, 2009 by USDC Judge Royce C. Lamberth on the basis that the CIA had engaged in fraud on the court.  . 
+
+On 30 March 2010, as a result of a multi-million dollar settlement agreement between Horn and the government, Lamberth dismissed the underlying case with prejudice.  Subsequently, later that same year, in a 22 September order, Lamberth issued a final order vacating his earlier opinions and orders finding that CIA lawyers, Tenet, and Brown had committed fraud on the court.  Lamberth also specifically ordered that a sentence be removed from his 30 March 2010 Memorandum.  The removed sentence had stated that "allegations of wrongdoing by the government attorneys in this case are not only credible, they are admitted." . 
+
+===Notra Trulock===. 
+In February 2002 it was invoked in the case of [[Notra Trulock]], who launched a [[defamation]] suit against [[Los Alamos National Laboratory|Los Alamos]] scientist [[Wen Ho Lee]], charged with stealing nuclear secrets; [[George W. Bush|President Bush]] stated that national security would be compromised if Trulock were allowed to seek damages from Lee; though it resulted in the case being dismissed, another suit was launched directly attacking then-FBI Director [[Louis Freeh]] for interfering and falsely invoking the state secrets privilege.  . 
+
+===Sibel Edmonds===. 
+{{main|Sibel Edmonds}} . 
+
+The privilege was invoked twice against Sibel Edmonds. <ref name ="Carrie Newton Lyons"/><ref name="Executive Misconduct"/><ref name ="Andrew Zajac"/> The first invocation was to prevent her from testifying that the Federal Government had foreknowledge that Al-Qaeda intended to use airliners to [[September 11, 2001 attacks|attack the United States on September 11, 2001]]; the case was a $100 trillion action filed in 2002 by six hundred 9/11 victims' families against officials of the [[Saudi Arabia|Saudi]] government and prominent Saudi citizens. The second invocation was in an attempt to derail her personal lawsuit regarding her dismissal from the FBI, where she had worked as a post-9/11 translator and had been a [[whistleblower]].  . 
+
+===Thomas Burnett===. 
+The privilege was invoked in Thomas Burnett vs. Al Barka Investment & Development Corporation (Civil No. 04ms203) a motion to quash a subpoena for the testimony of Sibel Edmonds. The government's motion to quash based on state secrets privilege was granted in part.  . 
+
+===Sterling v. Tenet===. 
+{{main|Sterling v. Tenet|Jeffrey Alexander Sterling}} . 
+
+Jeffrey Sterling was a black CIA agent who started a racial discrimination suit. It was thrown out on account of this privilege. <ref name ="Carrie Newton Lyons"/><ref name ="Andrew Zajac"/> . 
+
+===Nira Schwartz===. 
+The privilege was invoked in Schwartz vs. TRW (Civil No. 96-3065, Central District, Cal) a Qui-Tam claim by Schwartz. Intervention and assertion of the state secrets privilege, by the government, resulted in case dismissal.  . 
+
+===Crater Corporation=== . 
+
+The privilege was invoked in the [[United States Court of Appeals for the Federal Circuit]] case of ''Crater Corporation vs. [[Lucent Technologies]] Inc.'' and AT&T Company, ([http://fedcir.gov/opinions/04-1349.pdf ''Crater Corp. v. Lucent Technologies''], September 7, 2005). Crater was prevented from proceeding with discovery in its [[patent infringement]] case (U.S. Patent No. 5,286,129) by the United States' assertion that discovery could cause "extremely grave damage to national security". The infringement case centered on WetMate underwater [[fiber optic]] coupling devices beneath the sea.  . 
+
+===ACLU vs. NSA/CIA=== . 
+
+On May 26, 2006, the [[United States Department of Justice|U.S. Justice Department]] filed a motion to dismiss [[ACLU v. NSA]], the [http://www.aclu.org/safefree/nsaspying/index.html ACLU's lawsuit] against the NSA by invoking the state secrets privilege. 
+On July 26, 2006, the case was dismissed. In a different case in Michigan, brought by the [http://www.aclu.org/safefree/nsaspying/26489prs20060817.html ACLU against the NSA] on behalf of various scholars, journalists, attorneys, and national non-profit organizations, [http://www.daahp.wayne.edu/biographiesDisplay.asp?id=64 Judge Anna Diggs Taylor] [http://www.aclu.org/images/nsaspying/asset_upload_file863_26477.pdf ruled] on August 17, 2006, that the program was unconstitutional and should be halted. She upheld the doctrine, but ruled that the government's public statements concerning the operation were admissible and constituted sufficient proof for the case to continue without any privileged evidence or discovery. On July 6, 2007, the Sixth Circuit Court of Appeals threw out Taylor's decision, ruling 2-1 that the ACLU could not produce evidence to prove that the ACLU had been wrongfully wiretapped by the NSA, and therefore did not have the standing to bring such a case to court, regardless of the legality question. On February 19, 2008, the Supreme Court declined to hear the ACLU's appeal. See [[ACLU v. NSA]].  . 
+
+===Center for Constitutional Rights et al. v. Bush et al.=== . 
+
+On May 27, 2006 the Justice Department moved to preempt the [[Center for Constitutional Rights]] (CCR) [http://www.ccr-ny.org/v2/reports/report.asp?ObjID=YmERLgnGvJ&Content=777 challenge] to warrantless domestic surveillance by invoking the state secrets privilege. The Bush Administration is arguing that CCR's case could reveal secrets regarding U.S. national security, and thus the presiding judge must dismiss it without reviewing the evidence.  . 
+
+===AT&T and NSA wire-tap case===. 
+{{main|NSA call database|NSA warrantless surveillance controversy|Hepting v. AT&T}} . 
+
+In April 2006, the Bush administration [http://news.com.com/2061-10789_3-6066688.html?part=rss&tag=6066688&subj=news took initial steps] to use the state secrets rule to block a lawsuit against [[AT&T]] and the [[National Security Agency]] brought by the [[Electronic Frontier Foundation]]. The EFF alleged that the government has secret computer rooms conducting broad, illegal surveillance of U.S. citizens. <ref name ="Glenn Greenwald"/><ref name="Henry Lanman"/> Testifying at a January 29, 2008 [[House Judiciary Committee]] hearing on reform of the state secrets privilege, EFF attorney Kevin Bankston contended that the administration's interpretation of the privilege was overly broad, and failed to properly consider the evidentiary procedures provided for by Section 1806(f) of the [[Foreign Intelligence Surveillance Act]]. <ref>{{cite web
+| url = http://www.eff.org/files/EFF_HJC_SSP_written_testimony_Final.pdf
+|format=PDF| title = Statement of Kevin S. Bankston, Senior Staff Attorney Electronic Frontier Foundation 
+| publisher = Oversight Hearing on Reform of the State Secrets Privilege by the U.S. House of Representatives Committee on the Judiciary, Subcommittee on the Constitution, Civil Rights, and Civil Liberties
+|date =2008-01-29
+|accessdate=2008-02-08}}</ref> However, the case was dismissed on June 3, 2009,<ref>{{Cite court |litigants = Hepting v. AT&T |reporter = U.S. District Court |court = U.S. District Court for the Northern District of California |date = 3 June 2009 |url= http://www.eff.org/files/filenode/att/orderhepting6309_0.pdf}}</ref> citing retroactive legislation (section 802 of the [[Foreign Intelligence Surveillance Act]]) stating that {{quote|in the case of a covered civil action, the assistance alleged to have been provided by the electronic communication service provider was in connection with an intelligence activity involving communications that was authorized by the President during the period beginning on September 11, 2001, and ending on January 17, 2007; designed to detect or prevent a terrorist attack, or activities in preparation for a terrorist attack, against the United States; and the subject of a written request or directive, or a series of written requests or directives, from the Attorney General or the head of an element of the intelligence community (or the deputy of such person) to the electronic communication service provider indicating that the activity was authorized by the President; and determined to be lawful.}}<ref>{{Cite web | last = Bazan | first = Elizabeth B. | title = The Foreign Intelligence Surveillance Act: An Overview of Selected Issues | publisher = Congressional Research Service | date = 7 July 2008 | url = http://www.fas.org/sgp/crs/intel/RL34279.pdf | format = PDF}}</ref> . 
+
+=== Khalid El-Masri===. 
+{{main|Khalid El-Masri|Extraordinary rendition}} . 
+
+In May 2006, the illegal detention case of [[Khalid El-Masri]] was dismissed based on the privilege, which was invoked by the [[Central Intelligence Agency]] (CIA).  [[Khalid El-Masri]] alleged that he was falsely held by the CIA for several months (which the CIA acknowledges) and was beaten, drugged, and subjected to various other inhumane activity while in captivity. He was ultimately released by the CIA with no charge ever being brought against him by the United States government. Judge [[T.S. Ellis, III]] of the [[U.S. District Court]] dismissed the case because, according to the court, the simple fact of holding proceedings would jeopardize state secrets, as claimed by the CIA. <ref name="El-Masri Rendition Case"/> [http://www.aclu.org/safefree/torture/25606prs20060519.html]. On March 2, 2007, the United States Court of Appeals for the Fourth Circuit affirmed. [http://www.nytimes.com/packages/pdf/world/20070303_MASRI.pdf]  On October 9, 2007, the [[United States Supreme Court|Supreme Court]] declined to hear an appeal of the Fourth Circuit's decision, letting the doctrine of state secrets privilege stand. <ref>{{cite news |first=Linda |last=Greenhouse |title=Supreme Court Refuses to Hear Torture Appeal |url=http://www.nytimes.com/2007/10/10/washington/10scotus.html?ref=us |publisher=[[The New York Times]] |date=2007-10-10 |accessdate=2007-10-10 }}</ref> . 
+
+===Maher Arar===. 
+{{main|Maher Arar|Extraordinary rendition}} . 
+
+The privilege was invoked against a case where [[Maher Arar]], a wrongfully-accused and tortured victim, sought to sue [[United States Attorney General|Attorney General]] [[John Ashcroft]] for his role in deporting Arar to [[Syria]] to face torture and extract false confessions. It was formally invoked by [[United States Deputy Attorney General|Deputy Attorney General]] [[James B. Comey]] in legal papers filed in the [[United States District Court for the Eastern District of New York]]. The invocation read, "Litigating [the] plaintiff's complaint would necessitate disclosure of classified information", which it later stated included disclosure of the basis for detaining him in the first place, the basis for refusing to deport him to Canada as he had requested, and the basis for sending him to Syria.  . 
+
+===Jane and John Doe=== . 
+
+On January 4, 2007 District Court Judge Laura Taylor Swain ordered the dismissal of Jane Doe et al. v. CIA, 05 Civ. 7939 based on the state secrets privilege. Jane Doe and her children sued the CIA for money damages after her husband's covert employment with the CIA was "terminated immediately for unspecified reasons".[http://www.fas.org/sgp/jud/statesec/doe010407.pdf].  . 
+
+==Quotes==. 
+*''"Because it is so powerful and can trample legitimate claims against the government, the state secrets privilege is not to be lightly invoked"'' &ndash; (''[[United States v. Reynolds]]'', 345 U.S. 1, 7 (1953)) [http://www.fas.org/sgp/news/secrecy/2002/04/042302.html] . 
+
+*''"The state secrets privilege is a [[common law]] evidentiary rule that allows the government to withhold information from discovery when disclosure would be inimical to national security."'' &ndash; ''[[Zuckerbraun v. General Dynamics Corp.]]'', 935 F.2d 544, 546 (2d Cir. 1991).  . 
+
+==See also==. 
+*[[Espionage Act of 1917]]
+*[[Executive privilege]]
+*[[Extraordinary rendition by the United States]]
+*[[Mosaic theory]]
+*[[Unitary executive theory]]
+*[[Whistleblower]]
+*[[Federal Tort Claims Act]]
+*[[Classified Information Procedures Act]], [[Silent witness rule]]
+*[[State Secrets Protection Act]]
+*[[Silent witness rule]] . 
+
+==References==. 
+{{reflist|2}}
+==External links==. 
+*[http://www.bsos.umd.edu/gvpt/lpbr/subpages/reviews/fisher1206.htm ''In The Name Of National Security: Unchecked Presidential Power And The Reynolds Case''], Louis Fisher. Lawrence: University Press of Kansas, 2006, ISBN 0700614648. 
+*[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=946676 State Secrets and the Limits of National Security Litigation] [[Robert M. Chesney|Robert Chesney]], [[Wake Forest University]] &ndash; [[School of Law]]
+*[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=978808 The State Secrets Privilege and Separation of Powers] AMANDA FROST, [[American University]] &ndash; [[Washington College of Law]]
+*[http://www.fas.org/sgp/jud/statesec/index.html Selected Case Files Involving "State Secrets"] Project on Government Secrecy, [[Federation of American Scientists]] . 
+
+{{DEFAULTSORT:State Secrets Privilege}}
+[[Category:United States government secrecy]]
+[[Category:Evidence law]]
+[[Category:George W. Bush administration controversies]]
+[[Category:Executive branch of the United States government]]
+[[Category:Classified information]]

@@ -1,0 +1,102 @@
+'''Childlessness''' describes a person (or couple) who does not have any [[children]]. The causes of childlessness are many and it has great personal, social and political significance. Childlessness is either voluntary or involuntary.  . 
+
+Reasons for childlessness include but are not limited to: . 
+
+* [[infertility]] (resulting from any of a range of causes including [[advanced maternal age]])
+* [[Infant mortality|infant or child death]]
+* [[Maternal health|medical or gynaecological problems]], including lack of maternal medical care and damage during previous childbirth<ref>An example is [[obstetric fistula]] which has left many women rejected by their husbands and communities and unable to bear further children. The [[Addis Ababa Fistula Hospital]] is the only hospital of its kind in the world dedicated exclusively to women with obstetric fistula. It was founded by Doctors [[Catherine Hamlin|Catherine]] and Reg Hamlin. </ref>
+* [[celibacy]]
+* lack of appropriate resources (financial, community, etc)
+* lack of a partner, or lack of willingness from partner
+* social infertility<ref>Social infertility is a term that has been used to describe homosexuality or single life as factors of infertility. [http://www.ranzcog.edu.au/publications/o-g_pdfs/OG-Spring-2006/Martyn%20Stafford-Bell%20-%20Social%20Infertility.pdf Sexual Function and Sexuality: Social infertility] In extended use, it also includes couples where the husband spends a lot of time away from home, such as in the armed forces, or for those who simply put other goals, such as a career, before having children, resulting in infertility from advanced maternal age. </ref>
+* personal choice, also known as "[[childfree]]" or voluntary childlessness. 
+There are two kinds of Childlessness: . 
+
+<!-- EDIT BELOW THIS LINE -->
+== Voluntary Childlessness ==. 
+Voluntary Childlessness in women is defined as a woman of childbearing age who are fertile and do not intend to have children, women who have chosen sterilization, or women past childbearing age who were fertile but chose to not have children. Individuals can also be "temporarily childless" or do not currently have children but want children in the future. <ref>Maura, K. (2009). Women's Voluntary Childlessness: A Radical Rejection of Motherhood?. Women's Studies Quarterly, 37, 157-172. Retrieved April 2, 2012, from http://www.jstor.org/stable/27740584}</ref> 
+=== Factors Involved in Voluntary Childlessness ===. 
+'''Age:''' while younger women are more likely to be childless, older women are more likely to state that they intend to remain childless in the future.  . 
+
+'''Race/Ethnicity/Nationality:''' According to 2004 U.S. Census Bureau data, the proportion of childless women 15 to 44 years old was 44.6 percent, up from 35 percent in 1976. The higher a woman's income, the less likely she is to have children: Nearly half of women with annual incomes over $100,000 are childless.  . 
+
+'''Marriage & Relationships''': Being unmarried is one of the strongest predictors of childlessness. It has also been suggested through research that married individuals who were concerned about the stability of their marriages were more likely remain childless.  . 
+
+'''Socioeconomic Status/Labor Force Participation''': Most studies on this subject find that higher income predicted childlessness however, some women report that that lack of financial resources were a reason why they decided to remain childless. Most childless women expressed the view that women ultimately have to make a choice between motherhood and having a career.  . 
+
+'''Education'''
+Studies have shown that the higher the level of education, the more likely a woman is to remain childless, as shown in this graph from Voluntary childlessness and being Childfree. The Future of Human Reproduction by Stuart Basten
+{{bar box
+|float=center
+|caption= Educational Differences in childlessness among women 40-44 yrs old in the U.S, 2004
+|width=550px
+|bars=
+{{bar percent|No High school Diploma|red|16}}
+{{bar percent|High school Diploma|green|18}}
+{{bar percent|Some college|blue|20}}
+{{bar percent|Bachelor or higher|orange|25}}
+}}
+<ref> Basten, S. (2009). Voluntary childlessness and being Childfree. The Future of Human Reproduction: Working Paper, 1(1), all. </ref> . 
+
+=== Social attitudes to Remaining Childless === . 
+
+The U.S. especially is very ''pronatalist'', meaning they place a high value on parenthood in adult life. People who remain childless intentionally are sometimes stereotyped by being "individualistic" people who avoid social responsibility and are less prepared to commit themselves to helping others. <ref>Keizer, R. (2011). Childlessness and Norms of Familial Responsibility in the Netherlands. Journal of Comparative Family Studies, 1, 424,421-438. </ref> With the advent of environmentalism and concerns for stewardship, those choosing to not have children are also sometimes recognized as helping reduce our impact, such as members of the [[voluntary human extinction movement]].  Childless are sometimes applauded on moral grounds, such as members of philosophical or religious groups, like the [[shakers]].  . 
+
+One literature dedicated to this subject is The Baby Boon: How Family-Friendly America Cheats the Childless by Elinor Burkett.  . 
+
+=== Social Referencing ===. 
+Social Referencing is one way that people combat negative images is increase in support groups. On Facebook, there are numerous support groups including "Childfree," "Childless By Choice," and "Child-free by choice." Along with these internet groups, there are physical groups around the US. <ref>Basten, S. (2009). Voluntary childlessness and being Childfree. The Future of Human Reproduction: Working Pap, 1(1), all. </ref>  . 
+
+== Involuntary Childlessness ==. 
+The most prominent reason for involuntary is inferility. According to ''Childless: No Choice: The Experience of Involuntary Childlessness'' by  James H. Monach infertility is defined as the failure of a woman to achieve pregnancy or carry a child to term, or of a man to cause pregnancy. <ref>Monach, James H. Childless: No Choice: The Experience of Involuntary Childlessness. London: Routledge, 1993. 4. Print. </ref> Definitions vary though, another definitions include "the failure to conceive after unprotected intercourse for (more than) one year or two years.  failure to conceive a second or subsequent pregnancy is defined as secondary infertility ‘Infertility’ refers to any problems in conception, whereas sterility suggests a definite, biological cause of a couple’s childlessness" as stated in ''Management of involuntary childlessness.'' Primary infertility refers to couples who have not become pregnant after at least one year of unprotected sex. Secondary infertility refers to couples who have been pregnant at least once, but never again. 
+=== Prevalence of Infertility ===. 
+Prevalence of infertility varies depending on the definition. 12 to 28% of married couples experience involuntary childlessness for at least one year. <ref> Himmel, W. (1997). Voluntary childlessness and being Childfree. British Journal of General Practice, 1(1), 11. Retrieved April 2, 2012, from http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1312893/pdf/9101672.pdf</ref>
+=== Treatment of Infertility ===. 
+Treatment depends on the cause of infertility, but may include counseling, fertility treatments, which include in vitro fertilization. Other drug options for women include Clomiphene citrate,Human menopausal gonadotropin,Follicle-stimulating hormone,Human chorionic gonadotropin,Gonadotropin-releasing hormone analogs, Aromatase inhibitor, Metformin.  . 
+
+==Significance==. 
+===Personal===. 
+For most individuals, for most of history, childlessness has been regarded as a great personal tragedy, involving much emotional pain and grief, especially when it resulted from a failure to conceive or from the death of a child. Before conception was well-understood, childlessness was usually blamed on the woman and this in itself added to the high level of negative emotional and social effects of childlessness. “Some wealthy families also adopted children, as a means of providing heirs in cases of childlessness or where no sons had been born.”<ref>{{cite book|last=Stearns|first=Peter N.|title=Childhood in world history|year=2010|publisher=Milton Park, Abingdon, Oxon; New York|isbn=9780415598088|page=33}}</ref> The desire for children is so strong among some childless people that a commercial market in the [[trafficking of children]] exists for them.  . 
+
+===Social===. 
+Socially, childlessness has also resulted in financial stress and sometimes ruin in societies which depend on their offspring to contribute economically and to support other members of the family or tribe. “In agricultural societies about 20 per cent of all couples would not have children because of problems for at least one of the partners. Worry about assuring the desired birth rate could become an important part of family life … even after a first child was born. … In agricultural societies up to half of all children born would die within two years … (Excess surviving children could among other things, be sent to childless families to provide labour there, reducing upkeep demands at home.) When a population disaster hit – like war or major disease – higher birth rates might briefly be feasible to fill out community ranks.”<ref>{{cite book|last=Stearns|first=Peter N.|title=Sexuality in world history|year=2009|publisher=Milton Park, Abingdon, Oxon; New York|isbn=9780415777766|page=18}}</ref>  . 
+
+In the 20th and 21st centuries, when control over conception became reliable in some countries, childlessness is having an enormous impact on national planning and financial planning. <ref>{{cite journal |author=Toshihiko Hara |title=Increasing Childlessness in Germany and Japan: Toward a Childless Society? |journal=International Journal of Japanese Sociology |volume=17 |issue=1 |pages=42–62 |date=November 2008 |doi=10.1111/j.1475-6781.2008.00110.x |url=http://onlinelibrary.wiley.com/doi/10.1111/j.1475-6781.2008.00110.x/full}}</ref> . 
+
+===Political===. 
+Specific instances of childlessness, especially in cases of [[royal succession]], but more generally for people in positions of power or influence, have had enormous impacts on politics, culture and society. In many cases, a lack of a male child was also considered a type of childlessness, since male children were needed as heirs to property and titles. Examples of historical impacts of actual or potential childlessness include: . 
+
+* [[Elizabeth I of England]] was childless, choosing not to marry in part to prevent political instability in the kingdom, which passed on her death from the House of Tudor to the House of Stuart. 
+* [[Henry VIII of England]] divorced his first wife [[Catherine of Aragon]], to whom he had been married for more than 20 years, because she had not produced a male heir to the throne. This decision set in train a break between the English and the Roman churches that reverberated across Europe for centuries. 
+* [[Anne, Queen of Great Britain|Queen Anne]] had seventeen pregnancies but none of her children survived so the throne passed from the House of Stuart to the House of Hanover. 
+* [[Napoléon]]’s first wife, [[Joséphine de Beauharnais]], did not bear him any children so he divorced her and married another in order to produce an heir. 
+* The lack of a male heir to the [[Chrysanthemum Throne]] in [[Japan]] brought the country to the brink of a constitutional crisis. <ref>{{cite news |author=McCurry, Justin |title=Baby boy ends 40-year wait for heir to chrysanthemum throne |newspaper=The Guardian |date=6 September 2006 |url=http://www.guardian.co.uk/world/2006/sep/06/japan.justinmccurry }}</ref><ref>{{cite news |author=McCurry, Justin |title=Bring back concubines, urges emperor's cousin |newspaper=The Guardian |date=4 November 2005 |url=http://www.guardian.co.uk/world/2005/nov/04/japan.justinmccurry?INTCMP=ILCNETTXT3487 }}</ref>
+* In [[Monaco]], the lack of legitimate children became a matter of public and political concern due to the legal and international consequences if [[Albert II, Prince of Monaco]] were to die without lawful heirs. <ref>{{cite news |author=Sage, Alexandria |title=Monaco seeks new golden era with princely wedding |agency=Reuters |date=June 29, 2011 |url=http://www.reuters.com/article/2011/06/29/us-monaco-wedding-idUSTRE75R4TO20110629}}</ref> . 
+
+<!-- ==People famous for being childless== -->
+<!-- List people here ONLY if their childlessness makes a significant contribution to their notability --> . 
+
+==See also==. 
+* [[Infanticide]]
+* [[List of international adoption scandals]]
+* [[Pregnancy and Infant Loss Remembrance Day]]
+* [[Reproductive technology]]
+* [[Tax on childlessness]]
+* [[Decreţei]] . 
+
+==Bibliography==. 
+Guthrie, Gillian (2012) ''Childless: reflections on life's longing for itself'' Leichhardt, N.S.W.: A&A Book Publishing 
+ISBN 9780987089977  . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+{{wiktionary}}
+*[http://www.childlessnotbychoice.com Childless Not By Choice] . 
+
+{{Reproductive health}} . 
+
+[[Category:Family traits]]
+[[Category:Family]]
+[[Category:Children]]

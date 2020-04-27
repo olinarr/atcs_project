@@ -1,0 +1,204 @@
+[[File:grid energy storage.png|thumb|Simplified electrical grid with energy storage.]]
+[[File:grid storage energy flow.png|thumb|Simplified grid energy flow with and without idealized energy storage for the course of one day.]] . 
+
+'''Grid energy storage''' (also called '''large-scale energy storage''') refers to the methods used to store electricity on a large scale within an [[grid (electricity)|electrical power grid]]. Electrical energy is stored during times when production (from power plants) exceeds consumption and the stores are used at times when consumption exceeds production. In this way, electricity production need not be drastically scaled up and down to meet momentary consumption&nbsp;&ndash; instead, production is maintained at a more constant level. This has the advantage that fuel-based power plants (i.e. coal, oil, gas) can be more efficiently and easily operated at constant production levels.  . 
+
+As of  March 2012, [[pumped-storage hydroelectricity]] (PSH) is the largest-capacity form of grid energy storage available; the [[Electric Power Research Institute]] (EPRI) reports that PSH accounts for more than 99% of bulk storage capacity worldwide, around 127,000 [[Megawatt|MW]]. <ref name=EconomistPSH/> PSH [[Energy conversion efficiency|energy efficiency]] varies in practice between 70%
+to 75%. <ref name=EconomistPSH>{{cite news|url=http://www.economist.com/node/21548495?frsc=dg%7Ca|title=Energy storage -Packing some power|work=[[The Economist]]|date=2011-03-03|accessdate=2012-03-11}}</ref>  . 
+
+In particular, the use of grid-connected [[intermittent energy source]]s such as [[photovoltaics]] and [[Wind power|wind turbines]] can benefit from grid energy storage. Intermittent energy sources are by nature unpredictable&nbsp;&ndash; the amount of electrical energy they produce varies over time and depends heavily on random factors such as the weather. In an [[grid (electricity)|electrical power grid]] without energy storage, energy sources that rely on energy stored within fuels (coal, oil, gas) must be scaled up and down to match the rise and fall of energy production from intermittent energy sources (see [[load following power plant]]).  . 
+
+Thus, grid energy storage is one method that the operator of an [[grid (electricity)|electrical power grid]] can use to adapt energy production to energy consumption, both of which can vary randomly over time. This is done to increase efficiency and lower the cost of energy production, or to facilitate the use of intermittent energy sources.  . 
+
+An alternate approach to grid energy storage is the [[smart grid]]. The current power grid{{Clarify|date=April 2011}} is designed to have generation sources respond on-demand to user needs, while a smart grid can be designed so that usage varies on-demand with production availability from intermittent power sources such as wind and solar. End-user loads can be actively shed by the utility during peak usage periods, or the cost per kilowatt can dynamically vary between peak and non-peak periods to encourage turning off non-essential high power loads.  . 
+
+==Forms==. 
+===Batteries ===. 
+{{Main|Battery (electricity)}} . 
+
+Battery storage was used in the early days{{Clarify|date=April 2011}} of direct-current electric power networks, and is appearing again. Battery systems connected to large solid-state converters have been used to stabilize power distribution networks. For example in Puerto Rico a system with a capacity of 20 megawatts for 15 minutes (5 megawatt hour) used to stabilize the frequency of electric power produced on the island.  A 27 megawatt 15 minute (6.75 megawatt hour) nickel-cadmium battery bank was installed at Fairbanks Alaska in 2003 to stabilize voltage at the end of a long transmission line. <ref>{{cite journal |doi=10.1109/MPAE.2005.1405868 |title= The United States of storage |year=2005 |author=Gyuk I, Kulkarni P, Sayer JH, 'et al.'|journal=IEEE Power and Energy Magazine |volume=3 |pages=31–9 |issue=2 }}</ref>  Many "off-the-grid" domestic systems rely on battery storage, but storing large amounts of electricity in batteries or by other electrical means has not yet been put to general use.  . 
+
+Batteries are generally expensive, have high maintenance, and have limited lifespans, mainly due to pure chemical crystals that form inside the cells during the charge and discharge cycles. These crystals usually can not be re-dissolved back into the electrolyte. They can grow large enough to apply significant mechanical pressure to interior structures inside the battery to bend plates, bulge battery casings, and short out individual cells.  . 
+
+One possible technology for large-scale storage are large-scale [[flow battery|flow batteries]] and [[Liquid metal battery|liquid metal batteries]]. <ref>[http://web.mit.edu/newsoffice/2009/liquid-battery.html Sadoway proposing all-liquid metal battery for grid energy storage]</ref> [[NaS battery|Sodium-sulfur batteries]] could also be inexpensive to implement on a large scale and have been used for grid storage in Japan and in the United States [http://www.appalachianpower.com/news/releases/viewrelease.asp?releaseID=281].  [[Vanadium redox battery|Vanadium redox batteries]] and other types of flow batteries are also beginning to be used for energy storage including the averaging of generation from wind turbines.  Battery storage has relatively high efficiency, as high as 90% or better. The world's largest battery is in [[Fairbanks, Alaska]], composed of [[nickel-cadmium battery|Ni-Cd]] cells. <ref>Conway, E. (2 September 2008) [http://www.telegraph.co.uk/scienceandtechnology/3312118/World%27s-biggest-battery-switched-on-in-Alaska.html "World's biggest battery switched on in Alaska"] ''Telegraph.co.uk''</ref> . 
+
+Rechargeable [[flow battery|flow batteries]] can be used as a rapid-response storage medium. <ref>[http://www.memagazine.org/backissues/membersonly/oct05/features/rerere/rerere.html "Renewable. Rechargeable. Remarkable.", Feature Article, September 2005<!-- Bot generated title -->]</ref> [[Vanadium redox battery|Vanadium redox flow batteries]] are currently installed at [[Huxley Hill Wind Farm, Tasmania|Huxley Hill wind farm]] ([[Australia]]), [[Tomari Wind Hills]] at [[Hokkaidō]] ([[Japan]]), as well as in other non-wind farm applications. A further 12 MW·h flow battery is to be installed at the [[Sorne Hill wind farm]] ([[Republic of Ireland|Ireland]]). <ref>[http://www.leonardo-energy.org/drupal/node/959 Wind farm with battery storage in Ireland | Leonardo ENERGY<!-- Bot generated title -->]</ref>  These storage systems are designed to smooth out transient fluctuations in wind energy supply. The redox flow battery mentioned in the first article cited above has a capacity of 6 MW·h, which represents under an hour of electrical flow from this particular wind farm (at 20% capacity factor on its 30 MW rated capacity).  . 
+
+Hydrogen Bromide has been proposed for use in a utility-scale flow-type battery. <ref name="EERE">http://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/30535ag.pdf</ref> . 
+
+Another available way to store electric energy in batteries is to use [[Lithium iron phosphate|lithium iron phosphate (LiFePO4) battery]]. They can be used for different purposes. Available power per unit changes between 100kWh up to 2MWh. Units could be connected in parallel, so there is no upper limit for capacity.  . 
+
+===Electric Vehicles ===. 
+{{Main|Electric vehicle}} . 
+
+Companies are researching the possible use of Electric Vehicles for meeting peak demand. A parked and plugged-in EV could sell the electricity from the battery during peak loads and charge either during night (at home) or during off-peak. <ref>[http://news.bbc.co.uk/2/hi/science/nature/8523338.stm New electric car scheme for California]</ref> . 
+
+[[Plug-in hybrid]] or [[electric car]]s  could be used <ref name="RSC">{{cite web | title=Sustainable transportation based on electric vehicle concepts: a brief overview | url=http://www.rsc.org/Publishing/Journals/EE/article.asp?doi=c001674h | last1=Eberle | first1=Ulrich | first2=Rittmar | last2=von Helmolt | publisher=[[Royal Society of Chemistry]] | date=2010-05-14 | accessdate=2010-06-08 }}</ref><ref>http://www.newscientist.com/article.ns?id=dn7081</ref><ref>http://www.toshiba.co.jp/about/press/2005_03/pr2901.htm</ref> for their energy storage capabilities.  [[Vehicle-to-grid]] technology can be employed, turning each vehicle with its 20 to 50&nbsp;kW·h [[battery pack]] into a distributed load-balancing device or emergency power source. This represents 2 to 5 days per vehicle of average household requirements of 10&nbsp;kW·h per day, assuming annual consumption of 3650&nbsp;kW·h. This quantity of energy is equivalent to between {{convert|40|and|300|mi|km}} of range in such vehicles consuming 0.5 to 0.16&nbsp;kW·h per mile. These figures can be achieved even in home-made [[electric vehicle conversion]]s. Some electric utilities plan to use old plug-in vehicle batteries (sometimes resulting in a giant battery) to store electricity<ref name="woody">Woody, Todd. [http://blogs.business2.com/greenwombat/2007/06/photo_green_wom.html "PG&E's Battery Power Plans Could Jump Start Electric Car Market."] (Blog). ''Green Wombat'', 2007-06-12. Retrieved on 2007-08-19</ref><ref>[http://www.planetark.com/dailynewsstory.cfm/newsid/44343/story.htm Planet Ark : E.ON UK Plans Giant Battery to Store Wind Power<!-- Bot generated title -->]</ref> However, a large disadvantage of using vehicle to grid energy storage is the fact that each storage cycle stresses the battery with one complete charge-discharge cycle. <ref name="RSC" /> Conventional (cobalt-based) lithium ion batteries break down with the number of cycles - newer li-ion batteries do not break down significantly with each cycle, and so have much longer lives.  . 
+
+===Compressed air===. 
+{{Main|Compressed air energy storage}} . 
+
+Another grid energy storage method is to use off-peak or renewably generated  electricity to [[compressed air|compress air]], which is usually stored in an old [[mining|mine]] or some other kind of geological feature. When electricity demand is high, the compressed air is heated with a small amount of [[natural gas]] and then goes through [[turboexpander]]s to generate electricity. <ref>[http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B83WY-4PSKBW7-1T&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=ea6a11163a87003243bb007fb6f73e5f Storing energy from the wind in compressed-air reservoirs] Daniel Pendicka, The New Scientist Volume 195, Issue 2623, 29 September 2007, Pages 44-47 . Accessed December 2007</ref> . 
+
+=== Flywheel ===. 
+{{Main|Flywheel energy storage}} . 
+
+Mechanical inertia is the basis of this storage method. A heavy rotating disc is accelerated by an [[electric motor]], which acts as a generator on reversal, slowing down the disc and producing electricity. Electricity is stored as the [[kinetic energy]] of the disc. [[Friction]] must be kept to a minimum to prolong the storage time. This is often achieved by placing the flywheel in a vacuum and using [[magnetic bearing]]s, tending to make the method expensive. Larger flywheel speeds allow greater storage capacity but require strong materials such as [[steel]] or [[composite material]]s to resist the [[centrifugal]] forces. The ranges of power and energy storage technically and economically achievable, however, tend to make flywheels unsuitable for general power system application; they are probably best suited to load-leveling applications on railway power systems and for improving [[power quality]] in [[renewable energy]] systems.  Applications that use flywheel storage are those that require very high bursts of power for very short durations such as [[tokamak]] and [[laser]] experiments where a motor generator is spun up to operating speed and is partially slowed down during discharge. Flywheel storage is also currently used to provide [[Uninterruptible power supply#Rotary|uninterruptible power supply]] systems (such as those in large [[Data Center|datacenters]]) for ride-through power necessary during transfer<ref>http://www.thewhir.com/web-hosting-news/010810_Terremark_Installs_Space_Saving_Flywheel_UPS_in_New_Data_Center</ref>&nbsp;&ndash; that is, the relatively brief amount of time between a loss of power to the mains and the warm-up of an alternate source, such as a [[diesel generator]].  . 
+
+This potential solution has been implemented by EDA<ref>[http://www.eda.pt EDA - Electricidade dos Açores<!-- Bot generated title -->]</ref> in the [[Azores]] on the islands of [[Graciosa]] and [[Flores Island (Azores)|Flores]]. This system uses an 18 MWs flywheel to improve [[power quality]] and thus allow increased renewable energy usage. As the description suggests, these systems are again designed to smooth out transient fluctuations in supply, and could never be used to cope with an outage of couple of days or more. The most powerful [[flywheel energy storage]] systems currently for sale on the market can hold up to 133&nbsp;kW·h of energy.{{Citation needed|date=January 2008}} . 
+
+Powercorp in Australia have been developing applications using wind turbines, flywheels and low load diesel (LLD) technology to maximise the wind input to small grids. A system installed in Coral Bay, Western Australia, uses wind turbines coupled with a flywheel based control system and LLDs to achieve better than 60% wind contribution to the town grid.  . 
+
+The [[Gerald R. Ford class aircraft carrier]] will use flywheels to accumulate energy from the ship's power supply, for rapid release into the [[Electromagnetic Aircraft Launch System]]. The shipboard power system cannot on its own supply the high power transients necessary to launch aircraft.  . 
+
+===Hydrogen===. 
+{{Main|Hydrogen economy}} . 
+
+[[Hydrogen]] is also being developed as an electrical energy storage medium. <ref name="RSC" /> See [[hydrogen storage]]. Hydrogen is produced, then compressed or liquefied, stored, and then converted back to electrical energy or heat. Hydrogen can be used as a fuel for portable (vehicles) or stationary energy generation. Compared to pumped water storage and batteries, hydrogen has the advantage that it is a high energy density fuel.  . 
+
+Hydrogen can be produced either by [[steam reforming|reforming natural gas with steam]] or by the [[electrolysis of water]] into hydrogen and [[oxygen]] (see [[hydrogen production]]). Reforming natural gas produces [[carbon dioxide]] as a by-product. [[High temperature electrolysis]] and [[high pressure electrolysis]] are two techniques by which the efficiency of hydrogen production may able to be increased. Hydrogen is then be converted back to electricity in an [[internal combustion engine]], or a [[fuel cell]] which convert chemical energy into electricity without combustion, similar to the way the human body burns fuel.  . 
+
+The AC-to-AC efficiency of hydrogen storage has been shown to be in the range of 20-25%,<ref>[http://www.efcf.com/reports/E21.pdf - Does a hydrogen economy make sense? Proceedings of IEEE 2006, Ulf Bossel. ]</ref> rendering hydrogen storage unsuitable for anything but special (mobile) applications. The main drawback is the high number of energy conversions required, compared to other storage techniques. In effect, a hydrogen storage businessman would have to sell the energy he bought for four times the buy price (on the same market).  . 
+
+The equipment necessary for hydrogen energy storage includes an electrolysis plant, [[hydrogen compressor]]s or [[Liquid hydrogen|liquifiers]], and storage tanks.  . 
+
+[[Biohydrogen]] is a process being investigated for producing hydrogen using biomass.  . 
+
+[[Micro combined heat and power]] (microCHP) can use hydrogen as a fuel.  . 
+
+Some nuclear power plants may be able to benefit from a symbiosis with hydrogen production. High temperature (950 to 1,000 °C) gas cooled nuclear [[generation IV reactor]]s have the potential to electrolyze hydrogen from water by thermochemical means using nuclear heat as in the [[sulfur-iodine cycle]].  . 
+
+A community based pilot program using [[wind turbines]] and hydrogen generators was started in 2007 in the remote community of [[Ramea, Newfoundland and Labrador]]. <ref>[http://www.ieawind.org/wnd_info/KWEA_pdf/Oprisan_KWEA_.pdf Introduction of Hydrogen Technologies to Ramea Island]</ref> A similar project has been going on since 2004 on [[Utsira]], a small Norwegian island municipality.  . 
+
+[[Underground hydrogen storage]] is the practice of [[hydrogen storage]] in underground [[cave]]rns, [[salt dome]]s and depleted oil and gas fields. <ref name="RSC" /> Large quantities of gaseous hydrogen have been stored in underground caverns by [[Imperial Chemical Industries|ICI]] for many years without any difficulties. <ref>[http://www.hyweb.de/Knowledge/Ecn-h2a.html 1994 - ECN abstract]</ref> . 
+
+===Pumped water===. 
+{{Main|Pumped-storage hydroelectricity}}
+In 2008 world pumped storage generating capacity was 104 [[Watt|GW]],<ref name=eia>[http://www.eia.gov/cfapps/ipdbproject/iedindex3.cfm?tid=2&pid=82&aid=7&cid=regions&syid=2004&eyid=2008&unit=MK International Energy Statistics]</ref> while other sources claim 127 GW, which comprises the vast majority of all types of grid electric storage - all other types combined are some hundreds of MW. <ref name="epri">Rastler et al. [http://my.epri.com/portal/server.pt?Abstract_id=000000000001020676 Electric Energy Storage Technology Options: A White Paper Primer on Applications, Costs, and Benefits.] (Free download) ''[[EPRI]]'', Palo Alto, CA, 2010. Accessed: 30 September 2011. ISBN 1020676</ref> . 
+
+In many places, pumped storage hydroelectricity is used to even out the daily generating load, by pumping water to a high storage reservoir during off-peak hours and weekends, using the excess base-load capacity from coal or nuclear sources.  During peak hours, this water can be used for [[hydroelectric]] generation, often as a high value rapid-response reserve to cover transient peaks in demand. Pumped storage recovers about 75% of the energy consumed, and is currently the most cost effective form of mass power storage. The chief problem with pumped storage is that it usually requires two nearby reservoirs at considerably different heights, and often requires considerable capital expenditure. <ref>http://www.doc.ic.ac.uk/~matti/ise2grp/energystorage_report/node6.html</ref> . 
+
+Pumped water systems have high [[Intermittent power source#Terminology|dispatchability]], meaning they can come on-line very quickly, typically within 15 seconds,<ref name=Dinorwig>{{cite web |url=http://www.fhc.co.uk/dinorwig.htm |title=First Hydro Dinorwig Power Station |work= |accessdate=}}</ref> which makes these systems very efficient at soaking up variability in electrical ''demand'' from consumers. There is over 90 GW of pumped storage in operation around the world, which is about 3% of ''instantaneous'' global generation capacity. Pumped water storage systems, such as the [[Dinorwig power station|Dinorwig]] storage system, hold five or six hours of generating capacity,<ref name=Dinorwig/> and are used to smooth out demand variations.  . 
+
+Another example is the Tianhuangping Pumped-Storage Hydro Plant in China,<ref>[http://www.power-technology.com/projects/tianhuangping/ Power Technology - Tianhuangping China Pumped-Storage Hydro Plant]</ref> which has a reservoir capacity of eight million cubic meters (2.1 billion U.S. gallons or the volume of water over [[Niagara Falls]] in 25 minutes) with a vertical distance of 600 m (1970&nbsp;feet). The reservoir can provide about 13 GW·h of stored gravitational potential energy (convertible to electricity at about 80% efficiency), or about 2% of China's daily electricity consumption. <ref>[https://www.cia.gov/library/publications/the-world-factbook/print/ch.html CIA - The World Factbook - China]</ref> . 
+
+A new concept in pumped-storage is utilizing [[wind energy]] or [[solar power]] to pump water. [[Wind turbine]]s or solar cells that direct drive [[water pump]]s for an energy storing wind or solar [[dam]] can make this a more efficient process but are limited. Such systems can only increase kinetic water volume during windy and daylight periods.  . 
+
+====Hydroelectric dam uprating==== . 
+
+Hydroelectric dams with large reservoirs can also be operated to provide peak generation at times of peak demand. Water is stored in the reservoir during periods of low demand and released through the plant when demand is higher.  The net effect is the same as pumped storage, but without the pumping loss. Depending on the reservoir capacity the plant can provide daily, weekly, or seasonal load following.  . 
+
+Many existing hydroelectric dams are fairly old (for example, the [[Hoover Dam]] was built in the 1930s), and their original design predated the newer intermittent power sources such as wind and solar by decades. A hydroelectric dam originally built to provide [[baseload power]] will have its generators sized according to the average flow of water into the reservoir. Uprating such a dam with additional generators increases its peak power output capacity, thereby increasing its capacity to operate as a virtual grid energy storage unit. <ref name="burec_hydro">{{Cite web
+  |url=http://www.usbr.gov/power/edu/pamphlet.pdf
+  |title=Hydroelectric Power
+  |format=PDF
+  |publisher=[[United States Bureau of Reclamation]]
+  |date=
+  |accessdate=2008-10-13
+}}</ref><ref name="sccpa_hoover">{{Cite web
+  |url=http://www.scppa.org/hoover.htm
+  |title=SCPPA Hoover Project Page
+  |publisher=[[Southern California Public Power Authority]]
+  |date=
+  |accessdate=2008-10-13
+}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> The [[United States Bureau of Reclamation]] reports an investment cost of $69 per kilowatt capacity to uprate an existing dam,<ref name="burec_hydro"/> compared to more than $400 per kilowatt for oil-fired peaking generators. While an uprated hydroelectric dam does not directly store excess energy from other generating units, it behaves equivalently by accumulating its own fuel - incoming river water - during periods of high output from other generating units. Functioning as a virtual grid storage unit in this way, the uprated dam is one of the most efficient forms of energy storage, because it has no pumping losses to fill its reservoir, only increased losses to evaporation and leakage. A dam which impounds a large reservoir can store and release a correspondingly large amount of energy, by raising and lowering its reservoir level a few meters.  . 
+
+=== Superconducting magnetic energy ===. 
+{{Main|Superconducting magnetic energy storage}} . 
+
+Superconducting magnetic energy storage (SMES) systems store energy in the [[magnetic field]] created by the flow of [[direct current]] in a  [[Superconductivity|superconducting]] coil which has been [[cryogenics|cryogenically]] cooled to a temperature below its superconducting critical temperature. A typical SMES system includes three parts: superconducting [[coil]], power conditioning system and cryogenically cooled refrigerator. Once the superconducting coil is charged, the current will not decay and the magnetic energy can be stored indefinitely. The stored energy can be released back to the network by discharging the coil. The power conditioning system uses an [[inverter (electrical)|inverter]]/[[rectifier]] to transform [[alternating current]] (AC) power to direct current or convert DC back to AC power. The inverter/rectifier accounts for about 2–3% energy loss in each direction. SMES loses the least amount of [[electricity]] in the energy storage process compared to other methods of storing energy. SMES systems are highly efficient; the round-trip efficiency is greater than 95%. The high cost of superconductors is the primary limitation for commercial use of this energy storage method.  . 
+
+Due to the energy requirements of [[refrigeration]], and the limits in the total energy able to be stored, SMES is currently used for short duration energy storage. Therefore, SMES is most commonly devoted to improving [[power quality]].  If SMES were to be used for [[public utility|utilities]] it would be a [[day|diurnal]] storage device, charged from [[base load power plant|base load]] power at night and meeting [[peaking power plant|peak loads]] during the day.  . 
+
+For superconducting magnetic energy to become practical the [[Superconducting_magnetic_energy_storage#Technical_challenges|technical challenges]] have to be solved.  . 
+
+===Thermal===. 
+{{Main|Thermal energy storage}} . 
+
+[[Molten salt]] is used to store heat collected by a [[solar power tower]] so that it can be used to generate electricity in bad weather or at night. Thermal efficiencies over one year of 99% have been predicted. <ref>[http://www.sandia.gov/Renewable_Energy/solarthermal/NSTTF/salt.htm Advantages of Using Molten Salt] Tom Mancini, Sandia National Laboratories, Albuquerque, NM Accessed December 2007</ref> . 
+
+Off-peak electricity can be used to make [[ice]] from water, and the ice can be stored until the next day, when it is used to cool either the air in a large building, thereby shifting that demand off-peak, or the intake air of a [[gas turbine]] [[electrical generator|generator]], thus increasing the on-peak generation capacity.  . 
+
+The second prototype of Isentropic [[Pumped Heat Electricity Storage System]] was a success proving the electricity-in to electricity-out (round trip efficiency) in the range of 72 to 85%.  The isentropic [[PHES]] system utilises a highly reversible heat engine/heat pump to pump heat between two storage vessels.  . 
+
+==Economics== <!-- Although related to the rest of the article, i think this section, especially the second paragraph, deserves an article in itself --> . 
+
+Generally speaking, energy storage is economical when the [[marginal cost]] of electricity varies more than the costs of storing and retrieving the energy plus the price of energy lost in the process. For instance, assume a [[pumped-storage hydroelectricity|pumped-storage reservoir]] can pump to its upper reservoir water equivalent to 1,200 [[MW·h]] during the night, for $15 per MW·h, at a total cost of $18,000. The next day, all of the stored energy can be sold at the peak hours for $40 per MW·h, but from the 1,200 MW·h pumped 50 were lost due to evaporation and seeping in the reservoir. 1,150 MW·h are sold for $46,000, for a final profit of $28,000.  . 
+
+However, the marginal cost of electricity varies because of the varying operational and fuel costs of different classes of generators. At one extreme, [[base load power plant]]s such as [[coal power|coal]]-fired power plants and [[nuclear power]] plants are low marginal cost generators, as they have high capital and maintenance costs but low fuel costs. At the other extreme, [[peaking power plant]]s such as [[gas turbine]] [[Natural gas#Power generation|natural gas]] plants burn expensive fuel but are cheaper to build, operate and maintain. To minimize the total operational cost of generating power, base load generators are dispatched most of the time, while peak power generators are dispatched only when necessary, generally when energy demand peaks.  This is called "economic dispatch".  . 
+
+Demand for [[electricity]] from the world's various grids varies over the course of the day and from season to season. For the most part, variation in electric demand is met by varying the amount of electrical energy supplied from primary sources. Increasingly, however, operators are storing lower-cost energy produced at night, then releasing it to the grid during the peak periods of the day when it is more valuable. <ref>[http://www.eia.doe.gov/emeu/aer/pdf/pages/sec8_8.pdf Energy Information Administration / Annual Energy Review 2006], Table 8.2a</ref> In areas where hydroelectric dams exist, release can be delayed until demand is greater; this form of storage is common and can make use of existing reservoirs. This is not storing "surplus" energy produced elsewhere, but the net effect is the same - although without the efficiency losses.  Renewable supplies with variable production, like [[wind power|wind]] and [[solar power]], tend to increase the net variation in electric load, increasing the opportunity for grid energy storage.  . 
+
+=== Load leveling === . 
+
+The demand for electricity from consumers and industry is constantly changing, broadly within the following categories:
+*Seasonal (during dark winters more electric lighting and heating is required, while in other climates hot weather boosts the requirement for air conditioning)
+*Weekly (most industry closes at the weekend, lowering demand)
+*Daily (such as the peak as everyone arrives home and switches the television on)
+*Hourly (one method for estimating television viewing figures in the United Kingdom is to measure the power spikes during advertisement breaks or after programmes when viewers go to switch the kettle on <ref>[http://news.bbc.co.uk/1/hi/special_report/for_christmas/_new_year/christmas_television/37945.stm The great TV ratings war]</ref>)
+*Transient (fluctuations due to individual's actions, differences in power transmission efficiency and other small factors that need to be accounted for) . 
+
+There are currently three main methods for dealing with changing demand:
+*Electrical devices generally having a working [[voltage]] range that they require, commonly 110–120&nbsp;V or 220–240&nbsp;V.  Minor variations in load are automatically smoothed by slight variations in the voltage available across the system. 
+*Power plants can be run below their normal output, with the facility to increase the amount they generate almost instantaneously.  This is termed 'spinning reserve'. 
+*Additional power plants can be brought online to provide a larger generating capacity.  Typically, these would be combustion gas turbines, which can be started in a matter of minutes.  . 
+
+The problem with relying on these last two methods in particular is that they are expensive, because they leave expensive generating equipment unused much of the time, and because plants running below maximum output usually produce at less than their best efficiency.  Grid energy storage is used to shift load from peak to off-peak hours.  Power plants are able to run closer to their peak efficiency for much of the year.  . 
+
+Optimal supply-demand leveling strategies depend on the supply-demand mismatch: daily (diurnal) storage must be high efficiency, while seasonal storage would need very low storage costs.  . 
+
+===Energy demand management===. 
+{{Main|Energy demand management}}
+The only way to deal with varying electrical loads is to decrease the difference between generation and demand. If this is done by changing loads it is referred to as demand side management (DSM).  For decades, utilities have sold off-peak power to large consumers at lower rates, to encourage these users to shift their loads to off-peak hours, in the same way that telephone companies do with individual customers.  Usually, these time-dependent prices are negotiated ahead of time.  In an attempt to save more money, some utilities are experimenting with selling electricity at minute-by-minute [[spot price]]s, which allow those users with monitoring equipment to detect demand peaks as they happen, and shift demand to save both the user and the utility money. Demand side management can be manual or automatic and is not limited to large industrial customers. In residential and small business applications, for example, appliance control modules can reduce energy usage of [[water heating|water heaters]], [[air conditioning]] units, refrigerators, and other devices during these periods by turning them off for some portion of the peak demand time or by reducing the power that they draw. Energy demand management includes more than reducing overall energy use or shifting loads to off-peak hours. A particularly effective method of energy demand management involves encouraging electric consumers to install more [[energy conversion efficiency|energy efficient]] equipment. For example, many utilities give rebates for the purchase of [[thermal insulation|insulation]], [[weatherstripping]], and appliances and [[light bulb]]s that are energy efficient. Some utilities subsidize the purchase of [[geothermal heat pump]]s by their customers, to reduce electricity demand during the summer months by making air conditioning up to 70% more efficient, as well as to reduce the winter electricity demand compared to conventional air-sourced heat pumps or resistive heating. <ref name="geothermal_incentive">{{Cite web
+  |url=http://www.capitalelec.com/Energy_Efficiency/ground_source/index.html
+  |title=Geothermal Heat Pumps
+  |publisher=[[Capital Electric Cooperative]]
+  |accessdate=2008-10-05
+}}</ref> Companies with factories and large buildings can also install such products, but they can also buy energy efficient industrial equipment, like [[boiler]]s, or use more efficient processes to produce products. Companies may get incentives like rebates or low interest loans from utilities or the government for the installation of energy efficient industrial equipment.  . 
+
+=== Portability ===. 
+This is the area of greatest success for current energy storage technologies.  Single-use and rechargeable batteries are ubiquitous, and provide power for devices with demands as varied as digital watches and cars.  Advances in battery technology have generally been slow, however, with much of the advance in battery life that consumers see being attributable to efficient power management rather than increased storage capacity. Portable [[consumer electronics]] have benefited greatly from size and power reductions associated with [[Moore's law]]. Unfortunately, Moore's law does not apply to hauling people and freight; the underlying energy requirements for transportation remain much higher than for information and entertainment applications. Battery capacity has become an issue as pressure grows for alternatives to [[internal combustion engine]]s in cars, trucks, buses, trains, ships, and airplanes.  These uses require far more [[energy density]] (the amount of energy stored in a given volume or weight) than current battery technology can deliver. Liquid [[hydrocarbon]] fuel (such as [[gasoline]]/[[petrol]] and [[Diesel fuel|diesel]]), as well as alcohols ([[methanol]], [[ethanol]], and [[butanol]]) and [[lipids]] ([[straight vegetable oil]], [[biodiesel]]) have much higher energy densities.  . 
+
+There are synthetic pathways for using electricity to reduce carbon dioxide and water to liquid hydrocarbon or alcohol fuels. <ref name="great_lakes_wind_potential">{{Cite web
+  |url=http://greengold.org/wind/documents/107.pdf
+  |title=A Great Potential: The Great Lakes as a Regional Renewable Energy Source
+  |first=David
+  |last=Bradley
+  |date=2004-02-06
+  |accessdate=2008-10-04
+  |publisher=
+}}</ref> These pathways begin with electrolysis of water to generate hydrogen, and then reducing carbon dioxide with excess hydrogen in variations of the reverse [[water gas shift reaction]]. Non-fossil sources of carbon dioxide include [[fermentation (biochemistry)|fermentation]] plants and [[wastewater treatment]] plants. Converting electrical energy to carbon-based liquid fuel has potential to provide portable energy storage usable by the large existing stock of motor vehicles and other engine-driven equipment, without the difficulties of dealing with hydrogen or another exotic [[energy carrier]]. These synthetic pathways may attract attention in connection with attempts to improve [[energy security]] in nations that rely on imported petroleum, but have or can develop large sources of renewable or nuclear electricity, as well as to deal with possible future [[Export land model|declines in the amount of petroleum]] available to import.  . 
+
+Because the transport sector uses the energy from petroleum very inefficiently, replacing petroleum with electricity for mobile energy will not require very large investments over many years.  . 
+
+=== Reliability ===. 
+Virtually all devices that operate on electricity are adversely affected by the sudden removal of their power supply.  Solutions such as UPS ([[Uninterruptible power supply|uninterruptible power supplies]]) or backup generators are available, but these are expensive.  Efficient methods of power storage would allow for devices to have a built-in backup for power cuts, and also reduce the impact of a failure in a generating station.  Examples of this are currently available using [[fuel cell]]s and flywheels.  . 
+
+==See also==. 
+{{Portal box|Energy|Sustainable development}}
+*[[Battery-to-grid]]
+*[[Cost of electricity by source]]
+*[[Distributed generation]]
+*[[Energy storage]]
+*[[Grid-tied electrical system]]
+*[[Hydrogen economy]]
+*[[Virtual power plant]]
+*[[Wind farm]] . 
+
+==References==. 
+{{reflist|2}}
+* [http://kn.theiet.org/magazine/issues/1009/windless-day-1009.cfm Saving For a Windless day] by Sean Davies in The E&T Magazine Vol 5 Issue 9 from the [http://www.IET.org www.IET.org] . 
+
+==External links==. 
+* [http://www.electricitystorage.org/ESA/technologies/ Electricity storage technologies comparison] Technology page from the Electrical Storage association includes graphical comparisons of different energy storage systems. 
+* [http://www.abb.com/cawp/seitp202/0B6D46A05BBC3A27C1256FF2002FD2A0.aspx A large grid-connected nickel-cadmium battery]
+* [http://terraverde.wordpress.com/2007/10/07/the-renewable-electron-economy-part-vii-stationary-energy-storage%E2%80%A6key-to-the-renewable-grid/ Stationary Energy Storage…Key to the Renewable Grid] . 
+
+{{Electricity grid modernization|state=expanded}}
+{{Electricity generation}}
+{{Emerging technologies}} . 
+
+{{Use dmy dates|date=August 2010}} . 
+
+[[Category:Energy storage]]
+[[Category:Power engineering]]

@@ -1,0 +1,117 @@
+{{for|the report on the Arab–Israeli conflict|Mitchell Report (Arab–Israeli conflict)}}
+{{for|a list of players named in the Mitchell Report|List of Major League Baseball players named in the Mitchell Report}}
+{{Update|date=November 2010}}
+{{Infobox Book
+| name          = <small>The Mitchell Report</small>
+| image         = [[File:MitchellReportCover.jpg|200px]]
+| image_caption =
+| author        = [[George J. Mitchell]]<br>[[DLA Piper]] [[Law firm|Law Firm]]
+| country       = {{flagicon|USA}} [[United States]]
+| language      = [[English language|English]]
+| subject       = [[Use of performance-enhancing drugs in sport|Use of performance-enhancing drugs in Major League Baseball]]
+| publisher     = [[Commissioner of Baseball|Office of the Commissioner of Baseball]]
+| release_date  = December 13, 2007
+| media_type    = [[Paperback]]<br/>[[Internet]]
+| pages         = 409
+}}
+The '''''Report to the Commissioner of Baseball of an Independent Investigation into the Illegal Use of Steroids and Other Performance Enhancing Substances by Players in Major League Baseball''''', informally known as the '''"Mitchell Report"''', is the result of former [[Democratic Party (United States)|Democratic]] [[United States]] [[United States Senate|Senator]] from [[Maine]] [[George J. Mitchell]]'s 21-month investigation into the [[Use of performance-enhancing drugs in sport|use]] of [[anabolic steroid]]s and [[Growth hormone treatment|human growth hormone]] (HGH) in [[Major League Baseball]] (MLB). The 409-page report, released on December 13, 2007, covers the history of the use of illegal performance-enhancing substances by players and the effectiveness of the [[Major League Baseball drug policy|MLB Joint Drug Prevention and Treatment Program]]. The report also advances certain recommendations regarding the handling of past illegal drug use and future prevention practices. In addition, the report names 89 MLB players who are alleged to have used steroids or other performance-enhancing drugs.  . 
+
+==Background==. 
+A former [[Party leaders of the United States Senate|Senate Majority Leader]], [[United States Attorney|federal prosecutor]], and ex-[[Chair (official)|chairman]] of [[The Walt Disney Company]], George Mitchell was appointed by [[Commissioner of Baseball]] [[Bud Selig]] on March 30, 2006<ref name = "MLB_pre">{{cite news|first=Barry M.|last=Bloom |title=Mitchell Report to be released today |url=http://mlb.mlb.com/news/article.jsp?ymd=20071212&content_id=2323307&vkey=news_mlb&fext=.jsp&c_id=mlb |publisher=[[MLB.com]] |date=2007-12-13 |accessdate=2007-12-13}}</ref> to investigate the use of performance-enhancing drugs in MLB. <ref name = "NYT_20071213">{{cite news|first=Duff|last=Wilson |first2=Michael S.|last2=Schmidt |title=Baseball Braces for Steroid Report From Mitchell |newspaper=[[The New York Times]] |date=December 13, 2007|accessdate=2007-12-13}}</ref> Mitchell was appointed during a time of controversy over the [[2006 in literature|2006]] [[book]] ''[[Game of Shadows]]'' by ''[[San Francisco Chronicle]]'' [[Investigative journalism|investigative reporters]] [[Lance Williams and Mark Fainaru-Wada]], which chronicles alleged extensive use of performance enhancers, including several different types of steroids and [[growth hormone]] by baseball [[superstar]]s [[Barry Bonds]], [[Gary Sheffield]] and [[Jason Giambi]]. The appointment was made after several influential members of the [[United States Congress|U.S. Congress]] made negative comments about the effectiveness and honesty of MLB's [[Major League Baseball drug policy|drug policies]]. <ref name = "NYT_20071213" /> . 
+
+==Investigation==. 
+Mitchell's investigation focused on high-profile players, without investigating the role teams played.  Mitchell reported that the [[Major League Baseball Players Association]] was "largely uncooperative". <ref name = "report_pg_SR7">{{cite web | url = http://files.mlb.com/mitchrpt.pdf | title = Mitchell Report | format = PDF | pages = SR7 | accessdate = 2007-12-13 }}</ref> According to Mitchell, the Players Association effectively discouraged players from cooperating with the investigation. <ref name = "report_pg_SR7"/> In a [[memorandum]] to players, the Association advised: {{cquote|...while Senator Mitchell pledges in his memo that he will honor any player request for confidentiality ''in his report'', he does not pledge, because he cannot pledge, that any information you provide will actually remain confidential and not be disclosed without your consent. For example, Senator Mitchell cannot promise that information you disclose will not be given to a federal or state prosecutor, a [[United States Congress|Congressional]] committee, or perhaps turned over in a private lawsuit in response to a request or a [[subpoena]]. <ref name = "report_pg_B9-10">{{cite web | url = http://files.mlb.com/mitchrpt.pdf | title = Mitchell Report | format = PDF | pages = B9-B10 | accessdate = 2007-12-13 }}</ref>}} . 
+
+Confidentiality was not an idle concern.  The Players Association had agreed to anonymous testing in 2003, only to find out the list of players testing positive was turned over to the [[Federal government of the United States|government]] (as part of the [[Bay Area Laboratory Co-operative]] [[Bay Area Laboratory Co-operative#Scandal|investigation]]). <ref name = "report_pg_SR25">{{cite web | url = http://files.mlb.com/mitchrpt.pdf | title = Mitchell Report | format = PDF | pages = SR25 | accessdate = 2007-12-31 }}</ref> . 
+
+Mitchell agreed to give Commissioner Selig an advanced copy of the report while refusing to do the same for the Players Association. <ref name="report_pg_SR7"/> . 
+
+Only two active players were interviewed for the report. Of five players who were approached by the investigators for interviews because of their public statements on the issue, [[Toronto Blue Jays]] [[designated hitter]] [[Frank Thomas (designated hitter)|Frank Thomas]] was the only one willing to be interviewed.  . 
+
+===Kirk Radomski===. 
+{{main|Kirk Radomski}}
+[[Kirk Radomski]], a former [[batboy]] and clubhouse employee for the [[New York Mets]] and a critical witness, provided most of the names that the general public did not know about. <ref name = "deigo">{{cite news|first=Mark|last=Zeigler|title=Call it the 'Radomski Report' |url=http://www.signonsandiego.com/sports/padres/20071214-9999-1s14source.html|newspaper=[[San Diego Union Tribune]]|date=December 14, 2007|accessdate=2007-12-14}}</ref> Mitchell was able to secure Radomski's cooperation through [[San Francisco, California|San Francisco]], [[California]], [[United States Attorney|U.S. Attorney]] Scott Schools. Radomski had been charged with [[Distribution (business)|distribution]] of a [[controlled substance]] and [[money laundering]] and faced up to thirty years in [[prison]]. He reached a [[plea bargain]] that was conditioned upon his cooperation with the Mitchell investigation. <ref name = "deigo"/> . 
+
+=== Brian McNamee ===. 
+{{main|Brian McNamee}}
+[[Brian McNamee]] is a [[personal trainer]] who was most notably employed by [[Andy Pettitte]], [[Roger Clemens]], and [[Chuck Knoblauch]]. He is a former strength coach for the [[New York Yankees]] and [[Toronto Blue Jays]]. The Mitchell Report alleges that McNamee helped acquire performance-enhancing drugs including steroids, [[amphetamine]]s, and human growth hormone for some or all of the players he personally trained.  McNamee told the Mitchell Commission that he began injecting Clemens with steroids in {{mlby|1998}} and that he continued to provide these steroids through {{mlby|2001}}.  . 
+
+==Report findings==. 
+{{Doping in sport sidebar |expanded=History}}
+The report describes motivations for its preparation, including health effects of steroids, legal issues, fair play, and reports that baseball players acted as [[role model]]s for child athletes.  For example, after news coverage in August 1998 that [[Mark McGwire]] had used the then-legal [[androstenedione]], a steroid [[precursor (chemistry)|precursor]], sales of the supplement increased over 1000%, and the [[National Institute on Drug Abuse]] reported that 8% of male [[high school]] senior athletes had used androstenedione in 2001.  . 
+
+Mitchell reported that during the random testing in 2003, 5 to 7 percent of players tested positive for steroid use.  Players on the forty-man roster of major league teams were exempt from testing until 2004. One player is quoted: ''"Forty-man [roster] guys already have all of the [major league] club advantages, and then they could use steroids . . . it was not a level playing field."'' . 
+
+According to the report, after mandatory random testing began in 2004, HGH became the substance of choice among players, as it was not  then detectable in tests. <ref name = "report_pg_SR2">{{cite web | url = http://files.mlb.com/mitchrpt.pdf | title = Mitchell Report | format = PDF | pages = SR2 | accessdate = 2007-12-13 }}</ref> Also, it was noted that at least one player from each of the thirty Major League Baseball teams was involved in the alleged violations. <ref>{{cite news|title=Mitchell report: Baseball slow to react to players' steroid use|publisher=ESPN.com |url=http://sports.espn.go.com/espn/print?id=3153509&type=story|date=December 13, 2007|accessdate=2007-12-13 }}</ref> . 
+
+==Players listed in the report==. 
+{{for|the list of players named in the report and their responses|List of Major League Baseball players named in the Mitchell Report}}
+In all, 89 former and current MLB players are named in the report. <ref name = "NYT_20071213"/><ref name = "Newsday">{{cite news |url=http://www.newsday.com/sports/baseball/ny-spmitch135499050dec13,0,4031096.story |title=Many high-profile names will make Mitchell Report |publisher=Newsday |first=Ken |last=Davidoff |coauthors=Jim Baumbach |date=2007-12-13 |accessdate=2007-12-13 }}</ref> Among those implicated were several well-known players such as [[Roger Clemens]], [[Andy Pettitte]], [[Miguel Tejada]], and [[Éric Gagné]].  Many of them are connected through a relatively small [[social network]] centering around Jordan Satterfied. <ref>{{cite news |title=The Steroids Social Network |publisher=Slate.com  |url=http://www.slate.com/id/2180392/ |date=2007-12-21 |accessdate=2007-12-21 }}</ref> . 
+
+==Report recommendations==. 
+# Major League Baseball should utilize an independent testing administrator to improve their capability to investigate the use of performance enhancing drugs, above and beyond the current urine testing program.  Additionally, Major League Baseball should improve their methods of barring the drugs from the clubhouse. <ref name = "report_pg_rec">{{cite web | url = http://files.mlb.com/summary.pdf| title = Mitchell Report: Summary and Recommendations | format = PDF | pages = 6 | accessdate = 2007-12-20 }}</ref>
+# Major League Baseball should improve their efforts to educate the players and others regarding the grim health dangers that result from this drug use. <ref name = "report_pg_rec"/>
+# When the club owners and the Players Association take up negotiations regarding the league's drug program again, they should be guided by modern and first-rate standards. <ref name = "report_pg_rec"/> . 
+
+==Report conclusions==. 
+Mitchell expressed his hope that readers of the report will look past the players' names that are included in the report and focus on the conclusions he reached during his investigation. Mitchell presents his conclusions in five sections. <ref name = "report_pg_conc">{{cite web | url = http://files.mlb.com/mitchrpt.pdf | title = Mitchell Report | format = PDF | pages = 310–311 | accessdate = 2007-12-13 }}</ref>
+# Major League Baseball's 2002 response to steroid use resulted in players switching from detectable steroids to undetectable human growth hormone. <ref name = "report_pg_conc"/>
+# The use of performance-enhancing substances by players is illegal and ethically "wrong."<ref name = "report_pg_conc"/>
+# While players that use illegal substances are responsible for their actions, that responsibility is shared by the entire baseball community for failing to recognize the problem sooner. <ref name = "report_pg_conc"/>
+# An exhaustive investigation attempting to identify every player that has used illegal substances would not be beneficial. <ref name = "report_pg_conc"/>
+# Major League Baseball should adopt the recommendations of the report as a first step in eliminating the use of illegal substances. <ref name = "report_pg_conc"/> . 
+
+==Reactions==. 
+[[File:Baltimore Sun front page mitchel report.jpg|right|thumb|The release of the Mitchell Report is reported on the front page of ''[[Baltimore Sun|The Baltimore Sun]]'' the day after its release]] . 
+
+After the report was released, Selig held a news conference in which he called the Mitchell Report "a call to action. And I will act."<ref name = "Newsday"/><ref name = "MLB_Selig">{{cite news |first=Anthony |last=DiComo |title=Selig: Report is a 'call to action' |publisher=[[MLB.com]] |url=http://mlb.mlb.com/news/article.jsp?ymd=20071213&content_id=2325116&vkey=news_mlb&fext=.jsp&c_id=mlb |date=2007-12-13 |accessdate=2007-12-13 }}</ref> Selig indicated that it is possible that some of the players named in the report may face disciplinary actions. "Discipline of players and others identified in this report will be determined on a case-by-case basis. If warranted, those decisions will be made swiftly," said Selig. <ref name = "CNN">{{cite news |url=http://www.cnn.com/2007/US/12/13/steroid.report/index.html?eref=rss_topstories |title=Clemens, Pettitte named in baseball steroid report |publisher=[[CNN]] |date=2007-12-13 |accessdate=2007-12-13 }}</ref> . 
+
+[[Donald Fehr]], [[executive director]] of the MLB Players Association, also held a news conference in which he expressed his disappointment that the union was not given a chance to read the report beforehand. He accepted some responsibility for the steroid problems but expressed concern for how the league would treat the players named in the report. <ref>{{cite web|url=http://mlb.mlb.com/news/article.jsp?ymd=20071213&content_id=2325998&vkey=news_mlb&fext=.jsp&c_id=mlb|author=Ian Browne|title=Fehr wants time to review Report|date=2007-12-14|accessdate=2007-12-14|publisher=mlb.com}}</ref> . 
+
+Roger Clemens has been deemed the most standout name of the list. <ref name = "ESPN_Mitchell">{{cite web|url=http://sports.espn.go.com/espn/print?id=3153509&type=story|title=Mitchell report: Baseball slow to react to players' steroid use|date=December 14, 2007|accessdate=2007-12-18|publisher=ESPN.com}}</ref> The seven-time [[Cy Young Award]] winner issued a response through [[Sports agent|agent]] [[Randy Hendricks]], saying "I want to state clearly and without qualification: I did not take steroids, human growth hormone or any other banned substances at any time in my baseball career or, in fact, my entire life."<ref>{{cite news|url=http://sports.espn.go.com/espn/print?id=3160063&type=story|title=Clemens fires back, denies taking steroids or HGH|date=December 18, 2007|accessdate=2007-12-19|work=ESPN|author=Associated Press}}</ref> . 
+
+The day after the report was released, then-[[President of the United States]] [[George W. Bush]], a former co-owner of the [[Texas Rangers (baseball)|Texas Rangers]], stated that "we can jump to this conclusion: that steroids have sullied the game." He said he had no prior knowledge or awareness of player steroid use. He added, "My hope is that this report is a part of putting the steroid era of baseball behind us." . 
+
+==Drug Testing after the Mitchell Report==. 
+Drug testing dramatically changed after the Mitchell Report came out. The MLB became incredibly strict in hopes of stopping steroid use in professional baseball by altering the drug testing system.  . 
+
+Before the Mitchell Report came out, drug testing was believed to be pretty harsh. The MLB had one unannounced mandatory test each year for every player, and random tests for selective players during the season and the off-season. Each drug test examined each player for steroids, steroid precursors, and designer steroids. If caught, suspensions without pay occurred. The first positive tests was 10 days, the second was 30 days, the third was 60 days, and the fourth positive test was one year.  . 
+
+After George Mitchell’s report came out, they took drug testing to a whole new level. Now baseball tests unannounced twice a year for all players and random testing still occurs for selective players. The MLB decided to test for more substances instead of just a few. They test for 7 different kinds of abusive drugs, 47 different kinds of steroids, and 30 different kinds of stimulants. Of the 47 different kinds of steroids is Human Growth Hormones, know as HGH. HGH is a substance popular amongst the league that was never tested for before the Mitchell Report because they didn’t have a reliable test. Along with the increase of substances tested for came an increase in suspensions without pay. The first positive test is now a 50 game suspension, the second is 100 games, and the third positive test is now a lifetime suspension from the MLB.  . 
+
+==Conflict of interest allegations== . 
+
+Some questioned whether Mitchell being a director of the [[Boston Red Sox]] created a [[conflict of interest]] especially because no prime Red Sox players were named in the report,<ref name = "ESPN_Mitchell"/> despite the fact that Red Sox stars [[David Ortiz]] and [[Manny Ramirez]] were later found to have used performance enhancing substances during the 2003 season, as reported by the ''[[New York Times]]'' on July 30, 2009. <ref>{{cite news|first=Michael S.|last=Schmidt|title=Ortiz and Ramirez Said to Be on ’03 Doping List|date=2009-07-30|accessdate=2010-03-14|publisher=New York Times}}</ref> Likewise, the report was commissioned by Selig, and no members of the [[Milwaukee Brewers]], whom Selig once owned, appeared in the report.  . 
+
+The report was [[News leak|leaked]] to the ''[[San Francisco Chronicle]]'' shortly prior to the deciding game seven of the [[2007 American League Championship Series]] between the [[Cleveland Indians]] and the [[Boston Red Sox]], although it was not officially released until December, months after the series was over. This was cause for some players and media members to note the curious timing of the leak. In particular, [[Cleveland Indians|Indians]] pitcher [[Paul Byrd]], along with some of his teammates, felt that the timing of publicizing Byrd's alleged steroid use was suspicious.  . 
+
+Former U.S. prosecutor [[John M. Dowd]] also brought up allegations of Mitchell's conflict of interest. Dowd, who had defended Senator [[John McCain]] of [[Arizona]] during the [[Keating Five]] investigation in the late 1980s, cited how he took exception to Mitchell's scolding of McCain and others for having a conflict of interest with their actions in the case and how the baseball investigation would be a "burden" for him when Mitchell was named to lead it. <ref>{{cite news|url=http://www.usatoday.com/sports/baseball/2006-03-30-mitchell-role_x.htm|first=Mike|last=Dodd|title=Is George Mitchell independent enough?|date=March 31, 2006|accessdate=2007-12-24|newspaper=USA Today}}</ref>  However, after the investigation, Dowd later told the ''[[Baltimore Sun]]'' that he was convinced the former Senator had done a good job. <ref>{{cite news|first=Childs|last=Walker|title=Some question Mitchell as report draws near|date=December 11, 2007|newspaper=Baltimore Sun}}</ref> . 
+
+The ''[[Los Angeles Times]]'' reported that Mitchell acknowledged that his "tight relationship with Major League Baseball left him open to criticism". <ref name=gregjohnson>{{cite news|first=Greg|last=Johnson|title=Mitchell cites unbiased history|date=December 14, 2007|accessdate=2007-12-19|newspaper=The Los Angeles Times}}</ref> Mitchell responded to the concerns by stating that readers who examined the report closely "will not find any evidence of bias, of special treatment of the Red Sox". <ref name=gregjohnson/> . 
+
+==See also==. 
+*[[Banned substances in baseball]]
+*[[List of Major League Baseball players named in the Mitchell Report]]
+*[[List of Major League Baseball players named in the Mitchell Report by team]]
+*[[List of Major League Baseball players suspended for performance-enhancing drugs]] . 
+
+==References==. 
+{{reflist|2}} . 
+
+==External links==. 
+*[http://files.mlb.com/summary.pdf Mitchell Report Executive Summary]. 
+*[http://files.mlb.com/mitchrpt.pdf Full Mitchell Report]. 
+*[http://www.baseball-reference.com/friv/mitchell-report-players.shtml Links to statistical pages of players implicated in the Mitchell Report], provided by [[Baseball-Reference]]. 
+*[http://www.thesmokinggun.com/archive/years/2007/1213071mitchell1.html Mitchell Report: The Lineup], summary and documents provided by [[The Smoking Gun]]. 
+*{{newseum front page archive|event=Mitchell Report reaction|month=12|day=14|year=07}}
+* {{Internet Archive short film|id=gov.house.ogr.20080115_hrs01RFM2154.1|name="The Mitchell Report: The Illegal Use of Steroids in Major League Baseball (Part 1 of 2) (January 15, 2008)"}}
+* {{Internet Archive short film|id=gov.house.ogr.20080115_hrs01RFM2154.2|name="The Mitchell Report: The Illegal Use of Steroids in Major League Baseball (Part 2 of 2) (January 15, 2008))"}}
+* {{Internet Archive short film|id=gov.house.ogr.20080213_hrs03RFM2154.1|name="The Mitchell Report: The Illegal Use of Steroids in Major League Baseball, Day 2 (Part 1 of 2) (February 13, 2008)"}}
+* {{Internet Archive short film|id=gov.house.ogr.20080213_hrs03RFM2154.2|name="The Mitchell Report: The Illegal Use of Steroids in Major League Baseball, Day 2 (Part 2 of 2) (February 13, 2008)"}} . 
+
+{{DEFAULTSORT:Mitchell Report (Baseball)}}
+[[Category:Major League Baseball controversies]]
+[[Category:Drugs in sport in the United States]]
+[[Category:2007 in baseball]]
+[[Category:2007 controversies in the United States]]
+[[Category:2007 in American sports]]

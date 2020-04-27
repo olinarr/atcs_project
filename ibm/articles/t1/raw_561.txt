@@ -1,0 +1,86 @@
+{{refimprove|date=July 2009}} . 
+
+{{VG Action}} . 
+
+'''Shooter games''' (also known as 'shoot em up' games) are a sub-genre of [[action game]], which often test the player's speed and reaction time. It includes many subgenres that have the commonality of focusing "on the actions of the [[Avatar (computing)|avatar]] using some sort of weapon. Usually this weapon is a [[gun]], or some other [[Projectile weapon|long-range weapon]]". A common resource found in many shooter games is [[ammunition]]. Most commonly, the purpose of a shooter game is to [[Shooting|shoot]] opponents and proceed through missions without the [[player character]] dying.  . 
+
+== Characteristics of shooters == . 
+
+There are many criteria to determine the type of shooter; listed below are some of the major divisions.  Using the following, it is possible to categorize almost all shooters developed.  . 
+
+=== Perspective === . 
+
+The player usually views the events from behind the eyes of the character (a [[first-person shooter]]) or from a camera that follows the character, usually a few feet behind (a [[third-person shooter]]).  It is also possible for a game to have a fixed camera, especially shooting gallery games and some 2D overhead shooters such as ''[[Robotron 2084]]''.  . 
+
+=== Realism === . 
+
+Games that attempt to emulate life-like [[ballistics]] and character damage include [[tactical shooter]]s. But many shooter games involve varying levels of realism, with some verging on complete [[fantasy]].  . 
+
+=== Number of characters === . 
+
+While most shooters are played as '''solo''' ventures, several offer the players the opportunity to control a '''[[squad]]''' of characters, usually directly controlling one, and giving orders to computer-controlled allies.  Games which feature [[non-player characters]] fighting alongside the player, but which are not directly controllable (either by switching player control, or issuing orders to the character) are not considered [[squad-based game]]s.  . 
+
+=== Multiplayer === . 
+
+If a shooter game is available online, there are several other sharp divisions it can take.  '''Team''' games are where players are assigned to one of two (sometimes more, but very infrequently) factions which are competing for some goal. '''Co-Op''' games have several players on the same faction playing through either the single player or custom missions against computer-simulated enemies.  '''Individual'''(often called Deathmatch) has all players competing with each other.  Many times a game will offer differing modes which allow players to choose from among these various types.  . 
+
+=== Focus === . 
+
+This is often an optional way to categorize a shooter, but in some cases it's needed to help distinguish it.  A game may quite often heavily rely on [[Stealth-based game|stealth]] as opposed to direct [[action game|action]].  Others might have large [[survival horror game|horror]] elements to them.  However, the one thing in common with all shooters is that combat with a gun or similar long range/projectile weapon is the primary focus of gameplay itself.  . 
+
+== Sub-genres == . 
+
+=== Shoot 'em up === . 
+
+<!-- Image with inadequate rationale removed: [[Image:Gradius 04.png|thumb|right|''[[Gradius]]'', a pioneering [[shoot 'em up]]]] -->
+'''[[Shoot 'em up]]s''' are a specific sub-genre of shooters, wherein the player has limited control over their movement; if done with [[2D computer graphics|2D]] gameplay, as in ''[[Ikaruga]]'', this means that a moving background continually pushes the player forward, though they may move up and down and left and right around the screen, typically firing straight forward.  . 
+
+Shoot 'em ups share common gameplay, but are often categorized by viewpoint. This includes '''fixed shooters''' on fixed screens, '''scrolling shooters''' that mainly [[Scrolling|scroll]] in a single direction, '''top-down shooters''' where the levels are controlled from an [[Top-down perspective|overhead]] viewpoint, '''rail shooters''' where player movement is automatically guided down a fixed [[2.5D|forward-scrolling]] "rail", and '''isometric shooters''' which use an [[Isometric graphics in video games|isometric]] perspective. This genre also includes "'''run and gun'''" games which emphasize greater maneuvering or even [[Platform game|jumping]]. <ref>Provo, Frank, [http://uk.gamespot.com/wii/action/bloodywolf/review.html?om_act=convert&om_clk=gssummary&tag=summary;review Bloody Wolf], ''GameSpot'', July 7, 2007. Retrieved June 17, 2008. </ref><ref>Dunham, Jeremy, [http://uk.ps2.ign.com/articles/533/533263p1.html First Look: Alien Hominid], ''IGN'', July 27, 2004. Retrieved June 17, 2008. </ref> . 
+
+The sub-genre includes [[fixed shooter]]s such as ''[[Space Invaders]]'' and ''[[Galaxian]]'', [[scrolling shooter]]s such as ''[[Xevious]]'' and ''[[Darius (series)|Darius]]'', [[top-down shooter]]s such as ''[[Bosconian]]'' and ''[[Time Pilot]]'', [[rail shooter]]s such as ''[[Buck Rogers: Planet of Zoom]]'' and ''[[Space Harrier]]'', [[isometric shooter]]s such as ''[[Zaxxon]]'' and ''[[Viewpoint (video game)|Viewpoint]]'', and [[run and gun]] games such as ''[[Thexder]]'', ''[[Contra (series)|Contra]]'' and ''[[Metal Slug]]''.  . 
+
+=== Shooting gallery === . 
+
+'''Shooting gallery''' games are often interchangeable with [[light gun]] games, although many could also be played using a regular [[Gamepad|joypad]] and an on-screen cursor to signify where the bullets are being aimed.  When these debuted, they were typically played from a [[first-person perspective]], with enemy fire that occurred anywhere on the screen damaging or killing the player.  As they evolved away from the use of light guns, the player came to be represented by an on-screen avatar, usually someone on the bottom of the screen, who could move and avoid enemy attacks while returning fire.  These sorts of shooters almost always utilize horizontal scrolling to the right to indicate level progression, with enemies appearing in waves from predestined locations in the background or from the sides.  . 
+
+As light gun games became more prevalent and started to make use of fully 3D backgrounds, such as the ''[[Time Crisis]]'' or ''[[The House of the Dead (series)|House of the Dead]]'' series, these sorts of games fell out of popular production, but many like ''[[NAM-1975]]'' still have their fanbase today. Other notable games of this category include ''[[Operation Wolf]]'', ''[[Blood Bros.]]'', ''[[Cabal (arcade game)|Cabal]]'', and ''[[Laser Invasion]]''.  . 
+
+=== Light gun shooter === . 
+
+[[Image:duck hunt screenshot.png|left|thumb|Screenshot of ''Duck Hunt'', an NES light gun game.]] . 
+
+'''[[Light gun shooter]]s''' use a [[pointing device]] for [[computer]]s and a [[game controller|control device]] for [[arcade game|arcade]] and [[video game console|video games]]. The first light guns appeared in the 1930s, following the development of light-sensing [[vacuum tube]]s. It was not long before the technology began appearing in [[Video arcade|arcade]] shooting games, beginning with the [[Seeburg Ray-O-Lite]] in 1936. These early light gun games used small targets (usually moving) onto which a light-sensing tube was mounted; the player used a gun (usually a rifle) that emitted a beam of light when the trigger was pulled. If the beam struck the target, a "hit" was scored. Modern screen-based light guns work on the opposite principle -- the sensor is built into the gun itself, and the on-screen target(s) emit light rather than the gun. The first light gun of this type was used on the [[MIT Whirlwind]] computer, which used a similar [[light pen]]. Like rail shooters, movement is typically limited in light-gun games.  . 
+
+Notable games of this category include ''[[Wild Gunman]]'', ''[[Duck Hunt]]'' for the [[Nintendo Entertainment System|NES]], the ''[[Virtua Cop]]'' series, ''[[Time Crisis]]'' series, ''[[The House of the Dead (video game)|House of the Dead]]'' series, and ''[[Resident Evil: The Umbrella Chronicles]]'' & ''[[Resident Evil: The Darkside Chronicles|Darkside Chronicles]]''. 
+{{-}} . 
+
+=== First-person shooters === . 
+
+[[Image:Doom ingame 2.png|thumb|right|265px|''[[Doom (video game)|Doom]]'', one of the early games that defined the first-person shooter genre.]] . 
+
+'''[[First-person shooter]]s''' are characterized by an on-screen view that simulates the in-game character's point of view. While many rail shooters and light-gun shooters also use a [[First person (video games)|first-person perspective]], they are generally not included in this category.  . 
+
+Notable examples of the genre include ''[[Doom (video game)|Doom]]'', ''[[Quake (video game)|Quake]]'', ''[[Half-Life (video game)|Half-Life]]'', ''[[Counter-Strike]]'', ''[[GoldenEye 007 (1997 video game)|GoldenEye 007]]'', ''[[Battlefield (video game series)|Battlefield]]'', [[Medal of Honor (series)|''Medal of Honor'']], ''[[Unreal]]'', ''[[Call of Duty]]'', ''[[Killzone]]'', ''[[Timesplitters]]'' and ''[[Halo (video game series)|Halo]]''. <ref>Bryant, Carlton, [http://gamesshooting.net Shooting Games], ''GamesShooting'', January 7, 2010. Retrieved February 12, 2012. </ref> . 
+
+=== Third-person shooters === . 
+
+'''[[Third-person shooter]]s''' are characterized by a [[virtual camera system|third-person camera view]] that fully displays the player character in his/her surroundings.  Notable examples of the genre include the ''[[WinBack]]'' series, ''[[Jet Force Gemini]]'' by Rare, ''[[Max Payne]]'', ''[[Kill Switch (video game)|Kill Switch]]'', ''[[Star Wars Battlefront]]'', ''[[Resident Evil 4]]'' and ''[[Resident Evil 5]]'', the ''[[Metal Gear (series)|Metal Gear Solid]]'' series, ''[[Gears of War]]'' series, and ''[[Vanquish (video game)|Vanquish]]''.  . 
+
+=== Tactical shooters === . 
+
+'''[[Tactical shooter]]s''' are shooters that generally simulates realistic, [[squad]]-based or [[Man to Man wargames|man-to-man]] skirmishes. Notable examples of the genre include Ubisoft's ''[[Tom Clancy's Rainbow Six]]'' and ''Ghost Recon'' series and Bohemia Software's ''Operation Flashpoint''.  . 
+
+Additionally, [[artillery games]] have been described as a type of "shooting game",<ref name=armchair>{{cite web | last =Barton | first =Matt | title =Scorched Parabolas: A History of the Artillery Game | publisher =[[Armchair Arcade]] | url =http://www.armchairarcade.com/aamain/content.php?article.51 | accessdate =2007-11-25  }}</ref> though they are more frequently classified as a type of [[Strategy video game|strategy game]].  . 
+
+== Controversy == . 
+
+Shooter games have been accused of glorifyng and promoting violence and several games have been the cause of notable [[Video game controversies]]. After [[school shooting]]s in [[Erfurt massacre|Erfurt]], [[Emsdetten school shooting|Emsdetten]] and [[Winnenden school shooting|Winnenden]], German conservative politicians accused violent shooter games, most notably [[Counter Strike]], to incite young gamers to run amok. <ref>http://www.wired.com/culture/lifestyle/news/2007/02/72619</ref> Several attempts were made to banish the so termed "Killerspiele" (killing games) in Germany and the European Union. <ref>http://arstechnica.com/gaming/news/2006/12/8433.ars</ref><ref>http://www.infoworld.com/d/security-central/germany-seeks-common-eu-rules-violent-video-games-933</ref> . 
+
+== References ==. 
+{{Reflist}} . 
+
+{{VideoGameGenre}} . 
+
+[[Category:Shooter video games| ]]
+[[Category:Video game genres]]
+[[Category:Violence in video games]]

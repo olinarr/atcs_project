@@ -1,0 +1,233 @@
+{{Distinguish|Free market|Fair Trade}}
+{{Trading blocs}}
+'''Free trade''' is a policy by which a government does not discriminate against imports or interfere with exports by applying tariffs (to imports) or subsidies (to exports). According to the law of [[comparative advantage]] the policy permits trading partners mutual [[gains from trade]] of goods and services.{{citation needed|date=February 2012}} . 
+
+Under a free trade policy, prices emerge from [[supply and demand]], and are the sole determinant of [[resource allocation]]. 'Free' trade differs from other forms of trade policy where the allocation of goods and services among trading countries are determined by price strategies that may differ from those that would emerge under deregulation. These governed prices are the result of government intervention in the market through price adjustments or supply restrictions, including [[protectionist]] policies. Such government interventions can increase as well as decrease the cost of goods and services to both consumers and producers.{{citation needed|date=February 2012}} . 
+
+Since the mid-20th century, nations have increasingly reduced tariff barriers and currency restrictions on [[international trade]]. Other barriers, however, that may be equally effective in hindering trade include [[import quotas]], taxes, and diverse means of subsidizing domestic industries. Interventions include [[subsidies]], [[taxes]] and [[tariff]]s, [[non-tariff barrier]]s, such as regulatory [[legislation]] and import quotas, and even inter-government managed trade agreements such as the [[North American Free Trade Agreement]] (NAFTA) and [[Central America Free Trade Agreement]] (CAFTA) (contrary to their formal titles) and any governmental market intervention resulting in artificial prices.{{citation needed|date=February 2012}} . 
+
+==Features of free trade==. 
+Free trade implies the following features:{{Citation needed|date=April 2009}}
+* Trade of [[good (accounting)|goods]] without taxes (including tariffs) or other [[trade barrier]]s (e.g., quotas on imports or subsidies for producers)
+* Trade in services without taxes or other trade barriers
+* The absence of "trade-distorting" policies (such as taxes, subsidies, [[regulation]]s, or laws) that give some [[business entity|firms]], households, or [[factors of production]] an advantage over others
+* Free access to [[market]]s
+* Free access to market information
+* Inability of firms to distort markets through government-imposed [[monopoly]] or [[oligopoly]] power . 
+
+==Current status==. 
+[[File:Free Trade Areas.PNG|thumb|left|350px|Current [[free trade area]]s.]] . 
+
+[[Image:World Trade Organization negotiations.svg|thumb|right|350px|Status of WTO negotiations: {{legend|#007f00|members (including dual-representation with the [[European Union]])}} {{legend|#00ff00|Draft Working Party Report or Factual Summary adopted}} {{legend|#e8e800|Goods and/or Services offers submitted}} {{legend|#ff7f40|Memorandum on Foreign Trade Regime submitted}} {{legend|#7f4000|observer, negotiations to start later or no Memorandum on FTR submitted}} {{legend|#ff0000|frozen procedures or no negotiations in the last 3 years}} {{legend|#c0c0c0|no official interaction with the WTO}}]]
+<br clear=left />
+Most countries in the world are members of the [[World Trade Organization]]<ref>{{cite web|title=Members and Observers|url=http://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm|publisher=World Trade Organisation|accessdate=3 January 2011}}</ref> (see map), which limits in certain ways but does not eliminate tariffs and other trade barriers. Most countries are also members of regional free trade areas (see map) that lower trade barriers among participating countries.  . 
+
+Most states conduct trade policies that are to a lesser or greater degree protectionist.{{Citation needed|date=January 2011}}One ubiquitous protectionist policy employed by states comes in the form of [[agricultural subsidies]] whereby countries attempt to protect their agricultural industries from outside competition by creating artificial low prices for their agricultural goods.{{Citation needed|date=January 2011}} Free trade agreements are a key element of [[customs union]]s and free trade areas.  . 
+
+Notable contemporary trade barriers include ongoing tariffs, import quotas, [[economic|sanctions]] and [[embargo]]es, [[currency manipulation]] of the [[Chinese yuan]] with respect to the U.S. dollar, agricultural subsidies in developed countries, and [[buy American]] laws.{{Citation needed|date=January 2011}}Most countries also prohibit foreign airlines from [[cabotage]] (transporting passengers between two domestic locations), and foreign landing rights are generally restricted, but [[open skies]] agreements have become more common.{{Citation needed|date=January 2011}} . 
+
+{{Clear}} . 
+
+[[Image:ShippingContainerSFBay.jpg|thumb|300px|right|A South Korean [[container ship]] approaching the Bay Bridge in San Francisco Bay.]] . 
+
+==In literature==. 
+The value of free trade was first observed and documented by [[Adam Smith]] in ''[[The Wealth of Nations]]'', in 1776. <ref>Bhagwati (2002), ''Free Trade Today'', p 3</ref> He wrote,
+{{quote|It is the maxim of every prudent master of a family, never to attempt to make at home what it will cost him more to make than to buy.... If a foreign country can supply us with a commodity cheaper than we ourselves can make it, better buy it of them with some part of the produce of our own industry, employed in a way in which we have some advantage. <ref>Smith, ''Wealth of Nations'', pp 264–265</ref>}} . 
+
+This statement uses the concept of [[absolute advantage]] to present an argument in opposition to [[mercantilism]], the dominant view surrounding trade at the time, which held that a country should aim to export more than it imports, and thus amass wealth. <ref>Pugel (2007), ''International Economics'', p 33</ref> Instead, Smith argues, countries could gain from each producing exclusively the good(s) in which they are most suited to, trading between each other as required for the purposes of consumption. In this vein, it is not the value of exports relative to that of imports that is important, but the value of the goods produced by a nation. The concept of absolute advantage however does not address a situation where a country has no advantage in the production of a particular good or type of good. <ref>Pugel (2007), ''International Economics'', p 34</ref> . 
+
+This theoretical shortcoming was addressed by the theory of comparative advantage. Generally attributed to [[David Ricardo]] who expanded on it in his 1817 book ''[[On the Principles of Political Economy and Taxation]]'',<ref>Ricardo (1817), ''On the Principles of Political Economy and Taxation'', Chapter 7 [http://www.econlib.org/library/Ricardo/ricP2a.html#Ch.7,%20On%20Foreign%20Trade "On Foreign Trade"]</ref> it makes a case for free trade based not on absolute advantage in production of a good, but on the relative [[opportunity cost]]s of production. A country should specialize in whatever good it can produce at the lowest cost, trading this good to buy other goods it requires for consumption. This allows for countries to benefit from trade even when they do not have an absolute advantage in any area of production. While their gains from trade might not be equal to those of a country more productive in all goods, they will still be better off economically from trade than they would be under a state of [[autarky]]. 
+<ref>Bhagwati (2002), ''Free Trade Today'', p 1</ref><ref>Pugel (2007), ''International Economics'', pp 35–38 and p 40</ref> . 
+
+==History of free trade==. 
+{{See also|History of international trade}} . 
+
+Before the appearance of Free Trade doctrine, and continuing in opposition to it to this day, the policy of mercantilism had developed in Europe in the 16th century. Two early British economists who were opposed to mercantilism were [[Adam Smith]] and [[David Ricardo]].  . 
+
+Economists that advocated free trade believed trade was the reason why certain civilizations prospered economically. Adam Smith, for example, pointed to increased trading as being the reason for the flourishing of not just Mediterranean cultures such as Egypt, Greece, and Rome, but also of Bengal (East India) and China. The great prosperity of the Netherlands after throwing off Spanish Imperial rule and pursuing a policy of free trade<ref name=Appleby2010>{{Cite book
+ | last = Appleby | first = Joyce
+ | year = 2010
+ | title = The Relentless Revolution: A History of Capitalism
+ | publisher = W.W. Norton & Company
+ | location = New York, New York
+}}</ref> made the free trade/mercantilist dispute the most important question in economics for centuries. Free trade policies have battled with mercantilist, protectionist, [[isolationism|isolationist]], [[communism|communist]], [[populism|populist]], and other policies over the centuries.  . 
+
+Wars have been fought over trade, such as the [[Peloponnesian War]] between Athens and Sparta, the [[First Opium War|First]] and [[Second Opium War]]s between China and Great Britain, and other [[Colonial War|colonial wars]]. All [[developed countries]] have used protectionism due to an interest in raising revenues, [[infant industry argument|protecting infant industries]], special interest pressure, and, prior to the 19th century, a belief in mercantilism.{{Citation needed|date=January 2011}} . 
+
+[[File:Punch Free Trade.jpg|right|thumb|220px| ''[[Punch (magazine)|Punch]]'' cartoon (1906); Free Trade triumphs over Protectionism as policies favoring free trade were adopted throughout the [[British Empire]].]] . 
+
+Many classical liberals, especially in 19th and early 20th century Britain (e.g., [[John Stuart Mill]]) and in the United States for much of the 20th century (e.g., [[Cordell Hull]]), believed that free trade promoted peace.{{Citation needed|date=January 2011}} [[Woodrow Wilson]] included free-trade rhetoric in his "[[Fourteen Points]]" speech of 1918: . 
+
+{{quote|The program of the world's peace, therefore, is our program; and that program, the only possible program, all we see it, is this: [...] . 
+
+3. The removal, so far as possible, of all economic barriers and the establishment of equality of trade conditions among all the nations consenting to the peace and associating themselves for its maintenance. <ref>[[s:Fourteen Points Speech|Fourteen Points]]</ref>}} . 
+
+The British economist [[John Maynard Keynes]] (1883–1946) grew up with a belief in free trade; this underpinned his criticism of the [[Treaty of Versailles]] in 1919 for the damage it did to the interdependent European economy. After a brief flirtation with protectionism in the early 1930s, he came again to favour free trade so long as it was combined with internationally coordinated domestic economic policies to promote high levels of employment, and international economic institutions that meant that the interests of countries were not pitted against each other. In these circumstances, "the wisdom of Adam Smith" again applied, he said.{{Citation needed|date=January 2011}} . 
+
+In ''Kicking Away the Ladder'', development economist [[Ha-Joon Chang]] reviews the history of free trade policies and economic growth, and notes that many of the now-industrialized countries had significant barriers to trade throughout their history. The United States and Britain, sometimes considered the homes of free trade policy, employed protectionism to varying degrees at all times. Britain abolished the [[Corn Laws]], which restricted import of grain, in 1846 in response to domestic pressures, and it reduced protectionism for manufactures in the mid 19th century, when its technological advantage was at its height, but tariffs on manufactured products had returned to 23% by 1950. The United States maintained weighted average tariffs on manufactured products of approximately 40–50% up until the 1950s, augmented by the natural protectionism of high transportation costs in the 19th century. <ref>Chang (2003), ''Kicking Away the Ladder'', p 17</ref> The most consistent practitioners of free trade have been Switzerland, the Netherlands, and to a lesser degree Belgium. <ref>Chang (2003), ''Kicking Away the Ladder'', p 59</ref> Chang describes the [[export-oriented industrialization]] policies of the [[Asian Tigers]] as "far more sophisticated and fine-tuned than their historical equivalents". <ref>Chang (2003), ''Kicking Away the Ladder'', p 50</ref> . 
+
+Some degree of protectionism is nevertheless the norm throughout the world. Most developed nations maintain controversial{{Citation needed|date=November 2011}} agricultural tariffs. From 1820 to 1980, the average tariffs on manufactures in twelve industrial countries ranged from 11 to 32%. In the developing world, average tariffs on manufactured goods are approximately 34%. <ref>Chang (2003), ''Kicking Away the Ladder'', p 66</ref> . 
+
+Currently, the [[World Bank]] believes that, at most, rates of 20% can be allowed by developing nations{{Citation needed|date=November 2011}}; but [[Ha-Joon Chang]] believes higher levels may be justified because the productivity gap between developing and developed nations is much higher than the productivity gap which industrial countries faced. (A general feature is that the underdeveloped nations of today are ''not'' in the same position that the developed nations were in when they had a similar level of technology, because they are weak players in a competitive system; the developed nations have always been strong players, although formerly at an overall lower level. Counter arguments to this point of view are that the developing countries are able to adopt technologies from abroad, whereas developed nations had to create new technologies themselves, and that developing countries have far richer markets to which to export than was the case in the 19th century.) If the main defense of tariffs is to stimulate infant industries, a tariff must be high enough to allow domestic manufactured goods to compete for the tariff to be successful. This theory, known as [[import substitution industrialization]], is largely considered ineffective for currently developing nations,. <ref>Pugel (2007), ''International Economics'', pp 311–312</ref> Studies by the World Bank have determined that [[export-oriented industrialization]] policies correlate with higher economic growth as observed with the [[Four Asian Tigers]].{{Citation needed|date=January 2011}} These assessments are based mainly on theory and observational study of correlations, and thus suffer from a number of weaknesses such as small sample size and numerous confounding variables (see the critical review section below).  . 
+
+===The United States and free trade===. 
+[[Image:freetradeclipper.jpg|thumb|350px|right|''Free Trade'' [[Clipper|clipper ship]]]]
+Trade in [[British America|colonial America]] was regulated by the British mercantile system through the [[Acts of Trade and Navigation]]. Until the 1760s, few colonists openly advocated for free trade, in part because regulations were not strictly enforced—New England was famous for smuggling—but also because colonial merchants did not want to compete with foreign goods and shipping. According to historian Oliver Dickerson, a desire for free trade was not one of the causes of the [[American Revolution]]. "The idea that the basic mercantile practices of the eighteenth century were wrong," wrote Dickerson, "was not a part of the thinking of the Revolutionary leaders". <ref>Dickerson, ''The Navigation Acts and the American Revolution'', p 140. </ref> Free trade came to what would become the United States as a result of [[American Revolutionary War]], when the [[Parliament of Great Britain|British Parliament]] issued the [[Prohibitory Act]], blockading colonial ports. The [[Second Continental Congress|Continental Congress]] responded by effectively declaring economic independence, opening American ports to foreign trade on April 6, 1776. According to historian John W. Tyler, "Free trade had been forced on the Americans, like it or not."<ref>Tyler, ''Smugglers & Patriots'', p 238. </ref> . 
+
+The 1st [[U.S. Secretary of the Treasury]], [[Alexander Hamilton]], advocated tariffs to help protect infant industries in his "Report on Manufactures." This was a minority position, though the "Jeffersonians" strongly opposed for the most part. Later, in the 19th century, statesmen such as Senator [[Henry Clay]] continued Hamilton's themes within the [[Whig Party (United States)|Whig Party]] under the name "[[American System (economic plan)|American System]]." The opposition [[Democratic Party (United States)|Democratic Party]] contested several elections throughout the 1830s, 1840s, and 1850s in part over the issue of the tariff and protection of industry. The Democratic Party favored moderate tariffs used for government revenue only, while the Whigs favored higher protective tariffs to protect favored industries. The economist [[Henry Charles Carey]] became a leading proponent of the "American System" of economics. This mercantilist "American System" was opposed by the Democratic Party of [[Andrew Jackson]], [[Martin Van Buren]], [[James K. Polk]], [[Franklin Pierce]], and [[James Buchanan]].  . 
+
+The fledgling [[Republican Party (United States)|Republican Party]] led by [[Abraham Lincoln]], who called himself a "Henry Clay tariff Whig", strongly opposed free trade and implemented a 44-percent tariff during the [[American Civil War|Civil War]]—in part to pay for railroad subsidies and for the war effort, and to protect favored industries. <ref>{{cite web|last=Lind|first=Matthew|title=Free Trade Fallacy|url=http://www.newamerica.net/index.cfm?pg=article&DocID=1080 |publisher=Prospect|accessdate=3 January 2011 |archiveurl = http://web.archive.org/web/20060106154801/http://www.newamerica.net/index.cfm?pg=article&DocID=1080 |archivedate = 6 January 2006}}</ref>
+[[William McKinley]] (later to become President of the United States) stated the stance of the Republican Party (which won every election for President from 1868 until 1912, except the two non-consecutive terms of [[Grover Cleveland]]) as thus: . 
+
+{{quote|Under free trade the trader is the master and the producer the slave. Protection is but the law of nature, the law of self-preservation, of self-development, of securing the highest and best destiny of the race of man. [It is said] that protection is immoral…. Why, if protection builds up and elevates 63,000,000 [the U.S. population] of people, the influence of those 63,000,000 of people elevates the rest of the world. We cannot take a step in the pathway of progress without benefitting mankind everywhere. Well, they say, ‘Buy where you can buy the cheapest'…. Of course, that applies to labor as to everything else. Let me give you a maxim that is a thousand times better than that, and it is the protection maxim: ‘Buy where you can pay the easiest.' And that spot of earth is where labor wins its highest rewards. <ref>William McKinley speech, October 4, 1892 in Boston, MA William McKinley Papers (Library of Congress)</ref>}} . 
+
+[[File:20041120-1 bushchinamtg-1-515h.jpg|thumb|George W. Bush and China's leader [[Hu Jintao]] meet while attending an [[Asia-Pacific Economic Cooperation|APEC]] summit in Santiago, Chile in 2004.]]
+On the other side: . 
+
+{{quote|The growing Free Trade Movement sought an end to the tariffs and corruption in state and federal governments by every means available to them, leading to several outcomes. The first and most important was the rise of the Democratic Party with Grover Cleveland at its helm. The next most important were the rise of the "[[Mugwump]]s" within the Republican party. For many Jeffersonian radicals, neither went far enough or sufficiently effective in their efforts and looked for alternatives.  . 
+
+The first major movement of the radical Jeffersonians evolved from the insights of a young journalist and firebrand, [[Henry George]].|Kenneth R. Gregg, [[George Mason University]] History News Network{{Citation needed|date=January 2011}}}} . 
+
+The tariff and support of protection to support the growth of infrastructure and industrialization of the nation became a leading tenet of the Republican Party thereafter{{When|date=November 2011}} until the [[Presidency of Dwight D. Eisenhower|Eisenhower administration]] and the onset of the [[Cold War]], when the Democratic and Republican parties switched positions.{{Citation needed|date=January 2011}} . 
+
+Since the end of [[World War II]], in part due to industrial supremacy and the onset of the Cold War, the U.S. government has become one of the most consistent proponents of reduced tariff-barriers and free trade, having helped establish the [[General Agreement on Tariffs and Trade]] (GATT) and later the [[World Trade Organization]] (WTO); although it had rejected an earlier version in the 1950s (International Trade Organization or ITO). <ref>http://www.wto.org/english/res_e/reser_e/pera9707.pdf</ref>{{Citation needed|date=January 2011}} Since the 1970s U.S. governments have negotiated numerous managed-trade agreements, such as the North American Free Trade Agreement (NAFTA) in the 1990s, the [[Dominican Republic-Central America Free Trade Agreement]] (CAFTA) in 2006, and a number of bilateral agreements (such as with Jordan).{{Citation needed|date=January 2011}} . 
+
+==Economics of free trade==. 
+===Economic models===. 
+Two simple ways to understand the proposed benefits of free trade are through David Ricardo's theory of [[comparative advantage]] and by analyzing the impact of a tariff or import quota. An economic analysis using the law of supply and demand and the economic effects of a tax can be used to show the theoretical benefits and disadvantages of free trade. <ref name = "landsburg"/><ref name="hartmann">Thom Hartmann "Unequal Protection" Second Edition Chapter 20. p.255</ref>
+[[Image:Suppy & Demand Curve for Free Trade article.jpg|thumb|right|450px|Widgets cannot be produced to the right of the Supply curve.]]
+[[Image:EffectOfTariff.svg|thumb|right|450px|The pink regions are the net loss to society caused by the existence of the tariff.]] . 
+
+====Advantages of tariffs====. 
+This graph demonstrates the benefits of tariffs to a domestic industry. Assume that Japan wants to protect a domestic industry that is only able to produce and sell widgets at the price P<sub>tariff</sub>. Since there are other countries that are exporting the same widgets at a price of P<sub>world</sub>, Japan's industry is threatened to go out of business should widgets be imported into their country without a tariff. This graph also shows that as long as P<sub>tariff</sub> does not fall above the intersection of the Supply and Demand lines, then an equilibrium can be reached in which there are no shortages of demand or excesses of supply, and so Japan's industry can produce and sell widgets to the same degree as manufacturers in any other country. <ref name="hartmann" /><ref name="james">Harold James "The End of Globalization" Third Printing, 2001, p. 109 (ISBN 0-674-00474-4)</ref> . 
+
+In this case, the higher price would not cause domestic production to increase from Q<sub>S1</sub> to Q<sub>S2</sub>, since it has already been assumed in our example that Japan cannot afford to enter the widget market below the price P<sub>tariff</sub> as the world economy has for price P<sub>world</sub>. The effect of the tariff would limit imports and create a higher demand for domestically produced widgets (Q<sub>S2</sub> - Q<sub>S1</sub>) but have no effect on consumer prices, since the graph shows that for all quantities to the left of the intersection of the Supply and Demand curves, consumers will buy whatever widgets enter the market. As increasing widget sales allow more widget producers to enter the market and the quantity of imported + domestic widgets in Japan approaches Q<sub>E</sub> then the tariff can be phased out since the market will be at equilibrium (E) and the P<sub>E</sub> market price will be enough for Japan's widget manufacturers to stay in business. <ref name="stockman">Alan C. Stockamn "Introduction to Economics" Second Edition Chapter 9</ref> . 
+
+====Disadvantages of tariffs====. 
+{{Disputed-section|date=January 2012}}
+The chart at the right analyzes the effect of the imposition of an import tariff on some imaginary good. Prior to the tariff, the price of the good in the world market (and hence in the domestic market) is P<sup>world</sup>. The tariff increases the domestic price to P<sup>tariff</sup>. The higher price causes domestic production to increase from Q<sup>S1</sup> to Q<sup>S2</sup> and causes domestic consumption to decline from Q<sup>C1</sup> to Q<sup>C2</sup>. This has three main effects on societal welfare. Consumers are made worse off because the consumer surplus (green region) becomes smaller. Producers are better off because the producer surplus (yellow region) is made larger. The government also has additional tax revenue (blue region). However, the loss to consumers is greater than the gains by producers and the government. The magnitude of this societal loss is shown by the two pink triangles. Removing the tariff and having free trade would be a net gain for society. <ref name="stockman" /><ref name="Mankiw">N. Gregory Mankiw "Macroeconomics" Fifth Edition Chapter 7</ref> . 
+
+An almost identical analysis of this tariff from the perspective of a net producing country yields parallel results. From that country's perspective, the tariff leaves producers worse off and consumers better off, but the net loss to producers is larger than the benefit to consumers (there is no tax revenue in this case because the country being analyzed is not collecting the tariff). Under similar analysis, export tariffs, import quotas, and export quotas all yield nearly identical results. Sometimes consumers are better off and producers worse off, and sometimes consumers are worse off and producers are better off, but the imposition of trade restrictions causes a net loss to society because the losses from trade restrictions are larger than the gains from trade restrictions. Free trade creates winners and losers, but theory and empirical evidence show that the size of the winnings from free trade are larger than the losses. <ref name = "landsburg"/> . 
+
+===Trade diversion===. 
+{{Disputed-section|date=January 2011}}
+According to [[mainstream economics|mainstream economic]] theory, the selective application of free trade agreements to some countries and tariffs on others can sometimes lead to [[efficiency (economics)|economic inefficiency]] through the process of [[trade diversion]]. It is economically efficient to produce a good in the country that can make it for the lowest cost, but this does not always take place if a high cost producer has a free trade agreement while the low cost producer faces a high tariff. Applying free trade to the high cost producer (and not the low cost producer as well) can lead to trade diversion and a net economic loss. This is why many economists place such high importance on negotiations for global tariff reductions, such as the [[Doha Round]]. <ref name="landsburg">Steven E. Landsburg "Price Theory and Applications" Sixth Edition Chapter 8</ref> . 
+
+===Opinion of advocacy groups===. 
+The Freedom to Trade coalition argues that:
+{{quote|Protectionism creates poverty, not prosperity. Protectionism doesn't even "protect" domestic jobs or industries; it destroys them, by harming export industries and industries that rely on imports to make their goods. Raising local prices of steel by "protecting" local steel companies just raises the cost of producing cars and the many other goods made with steel. Protectionism is a fool's game.{{citation needed|date=February 2012}}}} . 
+
+===Opinion of economists===. 
+The literature analysing the economics of free trade is extremely rich with extensive work having been done on the theoretical and empirical effects. Though it creates winners and losers, the broad consensus among members of the economics profession in the U.S. is that free trade is a large and unambiguous net gain for society. <ref>{{Cite journal
+|last = Fuller
+|first = Dan
+|coauthors = Geide-Stevenson
+|title = Consensus Among Economists: Revisited
+|journal = Journal of Economic Review
+|volume = 34
+|issue = 4
+|pages = 369–387
+|date = Fall 2003
+|url =http://www.indiana.edu/~econed/pdffiles/fall03/fuller.pdf
+|format=PDF}}</ref>
+<ref>{{Cite journal
+|last = Friedman
+|first = Milton
+|title = The Case for Free Trade
+|journal = Hoover Digest
+|volume = 1997| issue = 4
+|url = http://www.hoover.org/publications/digest/3550727.html
+}}</ref> In a 2006 survey of American economists (83 responders), "87.5% agree that the U.S. should eliminate remaining tariffs and other barriers to trade" and "90.1% disagree with the suggestion that the U.S. should restrict employers from outsourcing work to foreign countries."<ref>{{Cite journal
+|last = Whaples
+|first = Robert
+|title = Do Economists Agree on Anything? Yes!
+|journal = The Economists' Voice
+|volume = 3
+|issue = 9
+|year= 2006
+|url =
+|doi = 10.2202/1553-3832.1156
+}}</ref> . 
+
+Quoting Harvard economics professor [[N. Gregory Mankiw]], "Few propositions command as much consensus among professional economists as that open world trade increases economic growth and raises living standards."<ref>
+{{Cite web
+|last = Mankiw
+|first = Gregory
+|title = Outsourcing Redux
+|date= 2006-05-07
+|url = http://gregmankiw.blogspot.com/2006/05/outsourcing-redux.html
+|accessdate = 2007-01-22
+}}</ref> Nonetheless, quoting Prof. Peter Soderbaum of Malardalen University, Sweden, "This neoclassical trade theory focuses on one dimension, i.e., the price at which a commodity can be delivered and is extremely narrow in cutting off a large number of other considerations about impacts on employment in different parts of the world, about environmental impacts and on culture."<ref>
+Post-Autistic Economics Review, Sept 2007
+</ref> . 
+
+Most free traders would agree that although increasing returns to scale might mean that certain industry could settle in a geographical area without any strong economic reason derived from comparative advantage, this is not a reason to argue against free trade because the absolute level of output enjoyed by both "winner" and "loser" will increase with the "winner" gaining more than the "loser" but both gaining more than before in an absolute level.  . 
+
+Despite this, some economists do exist who dispute the benefits of free trade, or question their extent. One long-standing economic critique of free trade is the infant industry argument. The argument advances that protectionism is frequently required to allow growth of nascent industries, as their competitors already employ significant economics of scale by virtue of their size or other factors after a long period of growth. <ref>{{cite journal|last=Krueger|first=Anne|coauthors=Baran Tuncer|title=An Empirical Test of the Infant Industry Argument|journal=The American Economic Review|year=1982|month=Dec|volume=72|issue=5|pages=1142–1144|url=http://mcadams.posc.mu.edu/econ/Krueger,%2520An%2520Empirical%2520Test%2520of%2520the%2520Infant.pdf|accessdate=4 January 2011}}</ref> Reliant on this critique is the import substitution industrialization form of protectionism.  . 
+
+==Opposition==. 
+{{details|Free trade debate}}
+The relative [[social cost|costs]], benefits and beneficiaries of free trade are debated by academics, governments and interest groups.  . 
+
+Arguments for protectionism fall into the economic category (trade hurts the economy) or the moral category (the effects of trade might help the economy, but have ill effects in other areas); a general argument against free trade is that it is [[colonialism]] or [[imperialism]] in disguise. The moral category is wide, including concerns of [[income inequality]], [[environmental degradation]], supporting [[child labor]] and [[sweatshops]], [[race to the bottom]], [[wage slavery]], accentuating poverty in poor countries, harming [[defense (military)|national defense]], and forcing [[cultural change]]. <ref>Boudreaux, Don ''Globalization'', 2007</ref> . 
+
+Free trade is often opposed by domestic industries that would have their profits and market share reduced by lower prices for imported goods. <ref>William Baumol and Alan Blinder, [http://books.google.com/books?id=NNRU3b_tE7cC&pg=PA761&dq=principles+of+economics+protectionism&lr=&sig=AZOXuB-1wbnk9VAUB1B291dhoTs#PPA722,M1 Economics: Principles and Policy], p. 722. </ref><ref name='brakman'>{{Cite book| last = Brakman | first = Steven | authorlink = | coauthors = Harry Garretsen, Charles Van Marrewijk, Arjen Van Witteloostuijn | title = Nations and Firms in the Global Economy : An Introduction to International Economics and Business | publisher = Cambridge University Press | year = 2006 | location = Cambridge | pages = | url = | doi = | isbn = 978-0-521-83298-4 }}</ref> For example, if United States tariffs on imported sugar were reduced, U.S. sugar producers would receive lower prices and profits, while U.S. sugar consumers would spend less for the same amount of sugar because of those same lower prices. The economic theory of David Ricardo holds that consumers would necessarily gain more than producers would lose. <ref>Richard L. Stroup, James D. Gwartney, Russell S. Sobel, [http://books.google.com/books?id=1cklAwAVAgkC&pg=PA45&dq=gains+from+trade&sig=CLdppY1FYyQpWYu5FsdmALn1YaI#PPA46,M1 Economics: Private and Public Choice], p. 46. </ref><ref name='pugel'>{{Cite book| last = Pugel | first = Thomas A. | authorlink = | coauthors = | title = International economics | publisher = McGraw-Hill | year = 2003 | location = Boston | pages = | url = | doi = | isbn = 0-07-119875-X }}</ref> Since each of those few domestic sugar producers would lose a lot while each of a great number of consumers would gain only a little, domestic producers are more likely to mobilize against the lifting of tariffs. <ref name='brakman'/> More generally, producers often favor domestic subsidies and tariffs on imports in their home countries, while objecting to subsidies and tariffs in their export markets.  . 
+
+<div style="float:right;text-align:center">[[Image:Real Wages vs Trade Percent of GDP.svg|500px|Real Wages vs Trade as a Percent of GDP]]<br />''Real Wages vs Trade as a Percent of GDP<ref>{{cite web|title=Earnings - National|url=http://bls.gov/data/#wages|work=Databases, Tables & Calculators by Subject|publisher=Bureau of Labor Statistics|accessdate=16 March 2012}}</ref> <ref>{{cite web|title=Table 1.1.5. Gross Domestic Product|url=http://www.bea.gov/national/nipaweb/TableView.asp?SelectedTable=5&ViewSeries=NO&Java=no&Request3Place=N&3Place=N&FromView=YES&Freq=Year&FirstYear=2010&LastYear=2011&3Place=N&AllYearsChk=YES&Update=Update&JavaBox=no#Mid|work=National Income and Product Accounts Table|publisher=U.S. Department of Commerce Bureau of Economic Analysis|accessdate=16 March 2012}}</ref> ''</div> . 
+
+Free trade agreements are also often opposed by domestic [[labor markets]] in which wages and employment tend to suffer from foreign competition.  This holds particularly true for unskilled and trade workers who face the most rivalry from free trade agreements with [[developing countries]].  For such instances, those workers face declining employment opportunities and ultimately move to lower wage services industries that are immune to export, such as retail.  As a result of labor market saturation, wages decline in the low wage services sector, which reduces the ability for those workers to contribute as consumers. Further, the saturated low wage labor market drives laborers into higher wage construction and services causing an overall decline in [[real wages]] throughout.  It is theorized by economist [[Ravi Batra]] that the overall decline in real wages across all sectors after the [[1970s energy crisis]] was caused by an unprecedented increase in global free trade. <ref>{{cite book|last=Batra|first=Ravi|title=The Myth of Free Trade|year=1993|publisher=Charles Scribner's Sons Macmillan Publishing Company|location=New York|isbn=0-684-19592-5|pages=70-78,160-161}}</ref> . 
+
+Socialists frequently oppose free trade on the ground that it allows maximum [[exploitation]] of [[Labor movement|workers]] by [[capital (economics)|capital]]. For example, [[Karl Marx]] wrote in ''[[The Communist Manifesto]]'', "The bourgeoisie... has set up that single, unconscionable freedom – Free Trade. In one word, for exploitation, veiled by religious and political illusions, it has substituted naked, shameless, direct, brutal exploitation." Nonetheless, Marx favored free trade ''solely''<ref>"It is in this revolutionary sense ''alone'', gentlemen, that I vote in favor of free trade." Marx, Karl [http://www.marxists.org/archive/marx/works/1848/01/09ft.htm#marx On the Question of Free Trade] Speech to the Democratic Association of Brussels at its public meeting of January 9, 1848</ref> because he felt that it would hasten the social revolution. To those who oppose socialism, this becomes an argument ''against'' free trade.  . 
+
+"Free trade" is opposed by many anti-globalization groups, based on their assertion that free trade agreements generally do not increase the [[economic freedom]] of the poor or the working class, and frequently make them poorer. Where the foreign supplier allows de facto exploitation of labor, domestic free-labor is unfairly forced to compete with the foreign exploited labor, and thus the domestic "working class would gradually be forced down to the level of helotry."<ref>Marx, Karl [http://www.marxists.org/archive/marx/works/1861/11/07.htm The Civil War in the United States], ¶ 23. </ref> To this extent, free trade is seen as nothing more than an end-run around laws that protect individual liberty, such as the Thirteenth Amendment to the United States Constitution (outlawing slavery and indentured servitude). In this regard, protective trade policies are seen, not so much as protecting domestic producers, but rather, as protecting liberty itself. This argument actually comports with the economic analysis of Free Trade to the extent that "slavery and perfect competition equilibria are Pareto optimal."<ref>Haluk, Serdar, [http://129.3.20.41/eps/eh/papers/9710/9710001.pdf A Microeconomic Analysis of Slavery in Comparison to Free Labor] Bilkent University, Ankara, Turkey</ref> Thus, while admitting that some gain in efficiency might be realized in the short term by implementation of free trade policies, the long-term question of the cost of that efficiency in terms of loss of liberty remains.  . 
+
+It is important to distinguish between arguments against free trade theory, and free trade ''agreements'' as applied. Some opponents of NAFTA see the agreement as being materially harmful to the common people, but some of the arguments are actually against the particulars of government-managed trade, rather than against free trade ''per se''. For example, it is argued<ref>[http://www.tradeobservatory.org/showFile.php?RefID=19304 Institute for Agricultural and Trade Policy] NAFTA Truth and Consequences: Corn</ref> that it would be wrong to let subsidized corn from the U.S. into Mexico freely under NAFTA at prices well below production cost ([[Dumping (pricing policy)|dumping]]) because of its ruinous effects to Mexican farmers. Of course, such subsidies violate free trade theory, so this argument is not actually against the principle of free trade, but rather its selective implementation.  . 
+
+Latin America performed poorly since tariff cuts in 1980s and 1990s, compared to protectionist China and Southeast Asia{{Citation needed|date=July 2009}}. According to [[Paul Samuelson|Samuelson]], it is wrong to assume a necessary surplus of winnings over losings.{{Cite quote|date=March 2009}} The paper, "Will inventions A or B lower or raise the new market-clearing real wage rates that sustain high-to-full employment"{{Citation needed|date=July 2009}} condemned "economists' over-simple complacency about globalization" and said that workers don't always win.{{Vague|Which workers? Where? What is meant by losing?|date=March 2009}} Some economists{{Who|date=March 2009}} try to emphasize that trade barriers should exist to help poor nations build domestic industries and give rich nations time to retrain workers. <ref>"Job prospects: Pain from free trade spurs second thoughts; Mr. Blinder's shift spotlights warnings of deeper downside", David Wessel and Bob Davis. ''Wall Street Journal'', 28 March 2007, p. A1</ref> . 
+
+===Colonialism===. 
+{{details|Dependency theory}}
+It has long been argued that free trade is a form of colonialism or imperialism, a position taken by various proponents of [[economic nationalism]] and the school of mercantilism. In the 19th century these criticized British calls for free trade as cover for [[British Empire]], notably in the works of American [[Henry Clay]], architect of the [[American System (economics)|American System]]<ref>"Gentlemen deceive themselves. It is not free trade that they are recommending to our acceptance. It is, in effect, the British colonial system that we are invited to adopt; and, if their policy prevail, it will lead, substantially, to the recolonization of these States, under the commercial dominion of Great Britain.", "In Defense of the American System, Against the British Colonial System." 1832, Feb 2, 3, and 6, {{Cite journal| title = The Life and Speeches of Henry Clay | volume = II | first = Henry | last = Clay | year = 1843 | pages = [http://books.google.com/books?id=Biyh3OmxhOMC&pg=PA23 pp. 23–24] | postscript = <!--None-->}}</ref> and by [[German American]] economist [[Friedrich List]]. <ref>"Had the English left everything to itself—'[[Laissez faire]], laissez aller', as the popular economical school recommends—the [German] merchants of the [[Steelyard]] would be still carrying on their trade in London, the Belgians would be still manufacturing cloth for the English, England would have still continued to be the sheep-farm of the [[Hanseatic League|Hansards]], just as Portugal became the vineyard of England, and has remained so till our days, owing to the stratagem of a cunning diplomatist."</ref> . 
+
+More recently, Ecuadorian President [[Rafael Correa]] has denounced the "sophistry of free trade" in an introduction he wrote for a book titled ''The Hidden Face of Free Trade Accords'', written in part by Correa's current Energy Minister Alberto Acosta. Citing as his source the book [http://www.paecon.net/PAEtexts/Chang1.htm ''Kicking Away the Ladder''], written by [[Ha-Joon Chang]], Correa identified the difference between an "American system" opposed to a "British System" of free trade. The latter, he says, was explicitly viewed by the Americans as "part of the British imperialist system." According to Correa, Chang showed that it was Treasury Secretary [[Alexander Hamilton]], and not [[Friedrich List]], who was the first to present a systematic argument defending industrial protectionism.  . 
+
+==Alternatives==. 
+The following alternatives for free trade have been proposed: [[balanced trade]], [[fair trade]], protectionism and [[Tobin tax]].{{citation needed|date=February 2012}} . 
+
+==See also==. 
+'''Concepts/topics:'''
+* [[Free trade zone]]
+* [[Trade war]]
+* [[Trade war over genetically modified food]]
+* [[Offshore outsourcing]]
+* [[Offshoring]]
+* [[Borderless Selling]]
+* [[Trade bloc]]
+* [[Economic globalization]] . 
+
+'''Trade organizations:'''
+* [[Free Trade Area of the Americas]] (FTAA)
+* [[Economy of the European Union#Trade|European Union]] . 
+
+==References==. 
+{{Reflist|colwidth=35em}} . 
+
+==Bibliography==. 
+* [[Ha-Joon Chang|Chang, Ha-Joon]]. ''Kicking Away The Ladder: Development Strategy in Historical Perspective''. London: Anthem Press 2003. ISBN 978-1-84331-027-3. 
+* Pugel, Thomas A. ''International Economics'', 13th edition. New York: McGraw-Hill Irwin (2007). ISBN 978-0-07-352302-6
+* Dickerson, Oliver M. ''The Navigation Acts and the American Revolution''. New York : Barnes (1963). ISBN
+* Tyler, John W. ''Smugglers & Patriots: Boston Merchants and the Advent of the American Revolution''. Boston: Northeastern University Press (1986). ISBN 0-930350-76-6
+* [[Adam Smith|Smith, Adam]]. ''[[An Inquiry into the Nature and Causes of the Wealth of Nations]]'', Digireads Publishing (2009), ISBN 1-4209-3206-3
+* Bhagwati, Jagdish. ''Free Trade Today''. Princeton: Princeton University Press (2002). ISBN 0-691-09156-0
+* [[David Ricardo|Ricardo, David]]. [http://www.econlib.org/library/Ricardo/ricP.html ''On the Principles of Political Economy and Taxation''], Library of Economics and Liberty (1999) . 
+
+{{DEFAULTSORT:Free Trade}}
+[[Category:Business]]
+[[Category:Free economy]]
+[[Category:Globalization]]
+[[Category:International business]]
+[[Category:International economics]]
+[[Category:International trade]]
+[[Category:International trade organizations]]
+[[Category:Trade]]
+[[Category:Trade policy]]

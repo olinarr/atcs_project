@@ -1,0 +1,260 @@
+{{Electiontech}} . 
+
+The '''Help America Vote Act''' ({{USPL|107|252}}), or '''HAVA''', is a [[United States federal law]] which passed in the [[United States House of Representatives|House]] 357-48 and 92-2 in the [[United States Senate|Senate]]<ref name=Thomas>[http://thomas.loc.gov/cgi-bin/bdquery/z?d107:HR03295:@@@R Congressional Record of Action]</ref> and was signed into law by [[George W. Bush|President Bush]] on October 29, 2002. <ref name="doj">[[United States Department of Justice Civil Rights Division]] Voting Section Home Page, [http://www.usdoj.gov/crt/voting/hava/hava.html The Help America Vote Act of 2002]</ref> Drafted (at least in part) in reaction to the controversy surrounding the [[United States presidential election, 2000|2000 U.S. presidential election]], the goals of HAVA are:<ref name="HAVA">{{cite web
+ | author = 107th U.S. Congress
+ | date = October 29, 2002
+ | url = http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=107_cong_public_laws&docid=f:publ252.107
+ | title = Help America Vote Act of 2002 (Pub.L. 107-252)
+ | publisher = [[United States Government Printing Office|U.S. Government Printing Office]]
+ | accessdate = 2008-10-10
+ | authorlink = 107th United States Congress
+}}</ref> . 
+
+* replace punchcard and lever-based [[voting machines|voting systems]];
+* create the [[Election Assistance Commission]] to assist in the administration of Federal elections; and
+* establish minimum [[election administration]] standards.  . 
+
+Almost two million ballots were disqualified in the 2000 election because they registered multiple votes or none when run through vote-counting machines. <ref name="Lovgren">{{cite journal
+ | last = Lovgren
+ | first = Stefan
+ | date = November 1, 2004
+ | title = Are Electronic Voting Machines Reliable?
+ | journal = [[National Geographic Society|National Geographic]]
+ | volume = 
+ | issue = 
+ | pages = 
+ | doi =
+ | issn = 0027-9358
+ | url = http://news.nationalgeographic.com/news/2004/11/1101_041101_election_voting.html
+ | accessdate = 2008-10-10
+}}</ref> . 
+
+HAVA mandates that all states and localities upgrade many aspects of their election procedures, including their voting machines, registration processes and poll worker training. The specifics of implementation have been left up to each state, which allows for varying interpretations of the Federal law.  . 
+
+==Provisions==. 
+===State plan and reporting===. 
+To be eligible for federal funding, states must submit a plan describing how payments will be used and distributed, provisions for voter education and poll worker training, how to adopt voting system guidelines, performance measures to determine success (including goals, timetables, responsibilities, and criteria), administrative complaint procedures, and the committee who helped develop the state plan.  . 
+
+Each year the state receives federal funding they must submit a report to the EAC detailing a list of expenditures, the number of and types of voting equipment obtained with the funds, and an analysis and description of the activities funded.  . 
+
+===Accessibility===. 
+====Polling place====. 
+The [[United States Secretary of Health and Human Services|Secretary of Health and Human Services]] is authorized to make payments to state and local governments for making polling places, including the path of travel, entrances, exits, and voting areas of each polling facility, accessible to individuals with disabilities, including the blind and visually impaired, in a manner that provides the same opportunity for access and participation (including privacy and independence) as for other voters; and providing individuals with disabilities and others with information about the accessibility of polling places, including outreach programs to inform the individuals about the availability of accessible polling places and training election officials, poll workers, and election volunteers on how best to promote the access and participation of individuals with disabilities in elections for Federal office.  . 
+
+====Voting systems====. 
+HAVA requires each polling location have at least one voting system accessible to individuals with disabilities, including nonvisual accessibility for the blind and visually impaired, in a manner that provides the same opportunity for access and participation (including privacy and independence) as for other voters.  . 
+
+===Computerized statewide voter registration===. 
+HAVA requires states develop a single, uniform, official, centralized, interactive computerized statewide voter registration list defined, maintained, and administered at the State level. (Previously, voter registration lists were maintained by local officials.) HAVA requires the statewide list be coordinated with other agency databases within the state. HAVA also requires regular "maintenance" of the statewide list including removing ineligible voters and duplicate names are eliminated in accordance with the [[National Voter Registration Act of 1993]] (NVRA).  . 
+
+===Voter identification===. 
+HAVA requires any voter who registered by mail and who has not previously voted in a federal election to show current and valid photo identification or a copy of a current utility bill, bank statement, government check, paycheck, or other government document that shows the name and address of the voter. Voters who submitted any of these forms of identification during registration are exempt, as are voters entitled to vote by absentee ballot under the [[Uniformed and Overseas Citizens Absentee Voting Act]].  . 
+
+===Provisional voting===. 
+HAVA requires voters identified as ineligible (such as voters not found on the registered list), but who believe themselves to be eligible, to be able to cast a [[provisional ballot]]. After the election, the appropriate State or local election entity will determine if the voter was eligible, if so counting the vote and notify the voter of the outcome. Approximately 1.9 million voters nationwide cast provisional ballots in the 2004 election. Of those, approximately 1.2 million—or 64.5%—were counted. <ref name="BCJ">{{cite web
+ | last = Weiser
+ | first = Wendy R. 
+ | date = March 29, 2006
+ | url = http://www.brennancenter.org/dynamic/subpages/download_file_39043.pdf
+ | title = Are HAVA's Provisional Ballots Working?
+ | format = [[PDF]]
+ | publisher = [[Brennan Center for Justice]]
+ | accessdate = 2008-10-10
+}}</ref>
+Additionally, any time polling hours are extended voters are required to vote using provisional ballots. <ref name="HAVA-sec302">{{USPL|107|252}} SEC.302</ref> Further, voters who do not comply with HAVA's voter identification requirements are able to cast a provisional ballot.  . 
+
+===Election Assistance Commission===. 
+HAVA created the [[Election Assistance Commission]] (EAC), an [[Independent agencies of the United States government|independent agency of the United States government]]. The EAC is responsible for holding hearings, functioning as a clearinghouse for election administration information, creating a testing and certification program for voting systems, providing voluntary guidance to states, and administering HAVA grant programs. The EAC has no rulemaking authority other than that permitted by the [[National Voter Registration Act of 1993]] (NVRA). Any action taken by the EAC requires approval of at least three commissioners . 
+
+====Commissioners====. 
+The Election Assistance Commission includes four commissioners (2 Democrats and 2 Republicans) appointed by the President and subject to the advice and consent of the Senate. Commissioners are recommended by House and Senate leadership. HAVA requires all commissioners have experience with or expertise in election administration or the study of elections. <ref name="HAVA-sec302a3">{{USPL|107|252}} SEC.203 a. 3</ref> . 
+
+====Staff====. 
+Staff of the EAC will consist of at least an Executive Director and a General Counsel.  . 
+
+====Annual report====. 
+Not later than January 31 of each year, the EAC is required to submit an annual report to Congress detailing activities related to HAVA programs including grants or other payments and all votes taken by commissioners.  . 
+
+===Voting machines===. 
+HAVA requires states use funding to replace punched card voting systems or lever voting systems with new systems in accordance with HAVA's voting system standards.  . 
+
+===Voting systems standards===. 
+HAVA sets forth requirements for all [[voting machine|voting systems]], including that they: . 
+
+* permit the voter to verify (in a private and independent manner) the votes selected by the voter on the ballot before the ballot is cast and counted;
+* provide the voter with the opportunity (in a private and independent manner) to change the ballot or correct any error before the ballot is cast and counted (including the opportunity to correct the error through the issuance of a replacement ballot if the voter was otherwise unable to change the ballot or correct any error); and
+* notify the voter of [[overvote]]s (votes for more than the maximum number of selections allowed in a contest) and provide the voter a chance to correct these errors.  . 
+
+States that do not use [[electronic voting|electronic equipment]] to assist voters with detecting errors must: . 
+
+* establish a voter education program, specific to that voting system, that notifies each voter of the effect of casting multiple votes for an office; and
+* provide the voter with instructions on how to correct the ballot before it is cast and counted.  . 
+
+HAVA further requires that any required notification preserve the privacy of the voter and the secrecy of the ballot; and that alternative-language accessibility be available pursuant to the requirements of section 203 of the [[Voting Rights Act]]. <ref name="HAVA-sec302a3" /> . 
+
+====Auditing====. 
+HAVA requires all voting systems be auditable and produce a permanent paper record with a manual audit capacity available as an official record for any recount conducted. <ref name="HAVA-sec302a2">{{USPL|107|252}} SEC.301 a. 2. </ref> . 
+
+====Voluntary Voting System Guidelines====. 
+HAVA tasks the EAC with creating and maintaining the [[Voluntary Voting System Guidelines]] (VVSG).  . 
+
+====Research and development====. 
+The EAC is responsible for making grants to entities in carrying out research and development to improve the quality, reliability, accuracy, accessibility, affordability, and security of voting equipment, election systems, and voting technology. HAVA requires the [[National Institute of Standards and Technology]] annually recommend areas for research.  . 
+
+====Implementation timelines and challenges====. 
+Responses to these requirements varied by state, but a widespread effect has been the purchasing of [[electronic voting]] machines, including [[DRE voting machine]]s. There are criticisms of the reliability and security of these machines.  . 
+
+; Continued purchasing of non-compliant machines
+Some electronic voting machines sold through 2005, including those by Diebold Election Systems, have not met the requirements of HAVA and were not required to be in compliance until January 1, 2006. Concerns have been raised that as late as 2005, vendors were selling non-compliant machines to unwitting states and counties who believed that they were HAVA-compliant. Unless vendors offered a specific guarantee of HAVA compliance, equipment may have required scrapping or retrofitting at taxpayers' expense after January 1, 2006. <ref name="Pynchon">{{cite news
+ | first = Susan
+ | last = Pynchon
+ | url = http://www.verifiedvotingfoundation.org/article.php?id=6072
+ | title = Diebold Touch Screens Don't Meet Disability Requirements
+ | publisher = [[Verified Voting Foundation]]
+ | date = June 28, 2005
+ | accessdate = 2008-10-10
+}}</ref><ref name="Pynchon-original">{{cite news
+ | first = Susan
+ | last = Pynchon
+ | url = http://www.news-journalonline.com/NewsJournalOnline/Opinion/Editorials/03OpOPN46062805.htm
+  | title = Diebold Touch Screens Don't Meet Disability Requirements
+ | work = Daytona Beach News-Journal Online
+ | publisher = Internet Archive
+ | date = June 28, 2005
+ | accessdate = 2008-10-10
+|archiveurl = http://web.archive.org/web/20050711082330/http://www.news-journalonline.com/NewsJournalOnline/Opinion/Editorials/03OpOPN46062805.htm |archivedate = 2005-07-11}}</ref><ref name="nc-voter">{{cite web
+ | url = http://www.ncvoter.net/compliance.html
+ | title = Why Can't We Keep Our Old Voting Machines?
+ | work = N.C. Voter
+ | publisher = North Carolina Coalition for Verified Voting
+ | accessdate = 2008-10-10
+}}</ref> . 
+
+; Timelines not met
+Compliance with HAVA provisions and timelines was not met in every state, both because of the difficulty of identifying and certifying reliable HAVA compliant voting machines and due to political and bureaucratic delays. A February 2006 report from Election Data Services found that 124 counties reported still using punched card voting systems in the 2006 election (down from 566 in 2000), similarly lever machines had decreased from 434 counties in 2000 to 119 in 2006 with New York state accounting for more than half the total number of counties still using lever machines. 69 million voters will vote using optical scan voting machines, while another 66 million will use DRE voting machines and 11 million will have an option in a mixed system. <ref name="EDS-69MillionVoters">{{cite web
+ | date = February 6, 2006
+ | url = http://www.electiondataservices.com/EDSInc_VEStudy2006.pdf
+ | title = 69 Million Voters will use Optical Scan Ballots in 2006; 66 Million Voters will use Electronic Equipment
+ | format = [[PDF]]
+ | publisher = [http://www.electiondataservices.com Election Data Services]
+ | accessdate = 2008-10-10
+}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> . 
+
+===Establishing student programs===. 
+HAVA establishes three programs for students, one to recruit college students as pollworkers, one to recruit high school students, and one to provide grants for the [[National Student/Parent Mock Election|National Student and Parent Mock Election]], a national nonprofit, nonpartisan organization that works to promote voter participation in American elections to enable it to carry out voter education activities for students and their parents. <ref name="Coleman">{{cite web
+ | last = Coleman
+ | first = Kevin J. 
+ | coauthors = Eric A. Fischer
+ | date = January 21, 2004
+ | url = http://fpc.state.gov/documents/organization/28920.pdf
+ | title = [[Congressional Research Service|CRS]] Report for Congress: Elections Reform: Overview and Issues
+ | format = [[PDF]]
+ | work = Foreign Press Centers
+ | publisher = [[United States Department of State|U.S. Department of State]]
+ | accessdate = 2008-10-10
+}}</ref> . 
+
+===Military members and overseas citizens===. 
+HAVA mandates changes improving the access of military and overseas citizens, including requiring: . 
+
+* the [[United States Secretary of Defense|Secretary of Defense]] to implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea;<ref name="HAVA-sec701b">{{USPL|107|252}} SEC.701b. </ref>
+* the secretary of each military department to ensure that all military and their families have easy access to voting information;<ref name="HAVA-sec701c-d">{{USPL|107|252}} SEC.701c-d. </ref>
+* each state to designate a single office for providing information to overseas voters;<ref name="HAVA-sec702">{{USPL|107|252}} SEC.702. </ref> and
+* each state to inform overseas voters of why any application for registration is rejected. <ref name="HAVA-sec707">{{USPL|107|252}} SEC.707. </ref> . 
+
+==Criticisms==. 
+Criticisms of HAVA center around mandated changes in voting technology, voter identification, confusion and voter intimidation, misappropriation of federal funds, and unnecessarily complicating the voter registration process.  . 
+
+===Criticisms of electronic voting machines===. 
+Critics of HAVA argue it imprudently attempts to solve one problem of punched-card voting machine errors seen in Florida in the 2000 election, by replacing them with [[electronic voting]] machines.{{Who|date=October 2008}} Some believe that HAVA may represent an effort to help large electronic voting systems vendors such as [[Premier Election Solutions]] (formerly Diebold Election Systems), [[Election Systems & Software]], and [[Sequoia Voting Systems]] make millions of dollars throughout the country in selling electronic voting devices.{{Who|date=October 2008}} . 
+
+A Pennsylvania court ruled in April 2007 that voting machine certification was the result of what Judge Rochelle Friedman called "deficient examination criteria" which "do not approximate those that are customary in the information technology industry for systems that require a high level of security". The court ruled that voters have a right under the commonwealth's constitution to reliable and secure voting systems and can challenge the use of electronic voting machines "that provide no way for Electors to know whether their votes will be recognized" through voter verification or independent audit. <ref name="DrinkerBiddle">{{cite web
+ | author = Drinker Biddle & Reath (press release)
+ | authorlink = Drinker Biddle & Reath
+ | url = http://www.pr-inside.com/court-recognizes-pennsylvania-voters-right-r92449.htm
+ | title = Court Recognizes Pennsylvania Voters' Right to Reliable, Secure Voting Machines
+ | publisher = PRNewswire
+ | date = April 13, 2007
+ | accessdate = 2008-10-10
+}}</ref> . 
+
+===ID requirements===. 
+It was claimed that HAVA was meant to strengthen the electoral process, and address the irregularities and voter purges which occurred during the 2000 presidential election in Florida, that were of concern. HAVA's identification requirements, however, may heighten the opportunities for confusion and voter intimidation, and may reduce rather than expand the electorate.{{Fact|date=April 2010}} Lawmakers in some states such as Colorado, Kansas, Mississippi, California and Massachusetts, have introduced legislation to enact more rigid ID requirements. 
+Republicans insisted upon stricter ID requirements as the price of a bipartisan bill. <ref name="Rapoport">{{cite news
+ | last = Rapoport
+ | first = Miles
+ | authorlink = Miles Rapoport
+ | date = July 30, 2003
+ | url = http://www.alternet.org/story/16490/
+ | title = Beyond Voting Machines: HAVA and Real Election Reform
+ | publisher = [[AlterNet]]
+ | accessdate = 2008-10-10
+}}</ref> . 
+
+Note: The act of voter fraud is legally defined as an individual appearing at a polling station, providing identification bearing a false name, and casting a ballot.  . 
+
+Republicans assert that there are frequent abuses and Democrats point out that the problem has been greatly exaggerated to promote voter identification laws that could suppress the turnout by voters who tend to vote Democratic, mainly poor, minority and young voters.  . 
+
+An example is Indiana's photo ID law, upheld by the U.S. Supreme Court in 2008, the strictest in the nation. While no instance of voter ID fraud had ever been prosecuted in Indiana, after implementation of that law, some elderly voters and students were disenfranchised in the May 2008 Democratic primary election.{{Fact|date=February 2009}} . 
+
+The Bush administration began a crackdown on alleged voter fraud in 2002, but despite its massive efforts, the Justice Department has turned up virtually no evidence of any organized effort of voter fraud or of voter registration fraud to skew federal elections, according to court records and interviews. "If they found a single case of a conspiracy to affect the outcome of a Congressional election or a statewide election, that would be significant," said Richard L. Hasen, an expert in election law at the Loyola Law School, "But what we see is isolated, small-scale activities that often have not shown any kind of criminal intent."<ref name="Lipton">{{cite news
+ | first = Eric 
+ | last = Lipton
+ | coauthors = Ian Urbina
+ | url = http://www.nytimes.com/2007/04/12/washington/12fraud.html?pagewanted=2&_r=1
+ | title = In 5-Year Effort, Scant Evidence of Voter Fraud
+ | work = [[New York Times]]
+ | pages = 2 of 3
+ | date = April 12, 2007
+ | accessdate = 2008-10-10
+}}</ref> . 
+
+===Misappropriation of funds===. 
+The bill has also been come under fire for the fact that the majority of the billions of dollars allocated to the states for HAVA has been for increased access for disabled voters, while the main goal of HAVA, avoiding the problems that plagued the 2000 elections in Florida, may have not been adequately served. <ref name="Tanner">{{cite news
+ | first = Robert
+ | last = Tanner
+ | url = http://articles.boston.com/2005-02-08/news/29215924_1_election-officials-election-law-presidential-election
+ | title = States struggle with election reform
+ | work = [[Boston Globe]]
+ | date = February 8, 2005
+ | accessdate = 2008-10-10
+}}</ref><ref name="Ackerman">{{cite news
+ | first = Elise
+ | last = Ackerman
+ | authorlink = Elise Ackerman
+ | url = http://www.verifiedvotingfoundation.org/article.php?id=5693
+ | title = Blind Voters Rip E-Machines
+ | work = [[San Jose Mercury News]]
+ | publisher = Verified Voting Foundation
+ | date = May 15, 2004
+ | accessdate = 2008-10-10
+}}</ref> . 
+
+===Complicating voter registration===. 
+Critics also state that the bill contains some elements that complicate the voter registration process. For example, Section 303(a)(5) of HAVA provides that no state may accept or process a voter registration form for an election for Federal office unless the application includes "in the case of an applicant who has been issued a current and valid driver's license, the applicant's driver's license number". Critics contend that it costs the country millions of dollars just to process the same basic registration form and confirm that they meet the HAVA requirements. <ref name="vonSpakovsky">{{cite web
+ | last = von Spakovsky
+ | first = Hans A. 
+ | authorlink = Hans A. von Spakovsky
+ | date = March 16, 2004
+ | url = http://www.usdoj.gov/crt/voting/hava/MN_ltr.htm
+ | title = Letter to Mary Kiffmeyer, Minnesota Secretary of State
+ | publisher = [[United States Department of Justice|U.S. Department of Justice]]
+ | accessdate = 2008-10-10
+}}</ref> . 
+
+==See also==. 
+*[[List of electronic voting machines in New York state]]
+==References==. 
+{{Reflist}} . 
+
+==External links==. 
+{{Portal|Government of the United States}}
+* [http://www.ncsl.org/programs/legismgt/elect/nass-ncslsummaryw-orecs.htm HAVA Summary] from the [[National Conference of State Legislatures]]
+* [http://www.demos.org/page54.cfm A Brief Explanation of HAVA] from [[Demos (US think tank)|Demos]]
+* AAPD's [http://www.aapd-dc.org/dvpmain/dvpindex.php Disability Vote Project] provides links regarding HAVA implementation and electronic voting systems. 
+* [http://www.longdistancevoter.org/voter_identification Long Distance Voter] - ID requirements for states that comply with HAVA, and states that have stricter ID standards.  . 
+
+[[Category:2002 in law]]
+[[Category:United States federal election legislation]]
+[[Category:Election technology]]
+[[Category:107th United States Congress]]

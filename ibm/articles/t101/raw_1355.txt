@@ -1,0 +1,53 @@
+{{Infobox book
+| name             = Affirmative Action Around the World
+| title_orig       = 
+| translator       = 
+| image            = <!-- include the [[file:]] and the image size -->
+| image_caption    = 
+| author           = [[Thomas Sowell]]
+| illustrator      = 
+| cover_artist     = 
+| country          = United States
+| language         = English
+| series           = 
+| subject          = [[affirmative action]]
+| genre            = 
+| publisher        = [[Yale University Press]]
+| pub_date         = 2004
+| english_pub_date = 
+| media_type       = Hardcover
+| pages            = 239
+| isbn             = ISBN 0300101996 
+| oclc             = 
+| dewey            = 331.13/3 21
+| congress         = HF5549.5.A34 S684 2004
+| preceded_by      = 
+| followed_by      = 
+}} . 
+
+'''''Affirmative Action Around the World: An Empirical Study''''' is a 2004 [[nonfiction]] work by [[economics|economist]] [[Thomas Sowell]].   . 
+
+==Summary==. 
+Already known as a critic of [[affirmative action]] or [[race (classification of human beings)|race]]-based hiring and promotion, Sowell, himself [[African-American]], analyzes the specific effects of such policies on [[India]], [[Malaysia]], [[Sri Lanka]], and [[Nigeria]], four countries with longer multiethnic histories and then compares them with the recent [[history]] of the [[United States]] in this regard.  He finds that "Such programs have at best a negligible impact on the groups they are intended to assist."<ref name="hoover1">{{cite web|last=Sowell |first=Thomas |url=http://www.hoover.org/publications/hoover-digest/article/8108 |title=Affirmative Action around the World &#124; Hoover Institution |publisher=Hoover.org |date=2004-10-30 |accessdate=2011-01-30}}</ref>  . 
+
+A sample of his thinking about the danger of perpetual racial preferences is this passage from p. 7: "People differ - and have for centuries....  Any 'temporary' policy whose duration is defined by the goal of achieving something that has never been achieved before, anywhere in the world, could more fittingly be characterized as eternal." . 
+
+According to Dutch Martin's review of this book: . 
+
+:Among the common consequences of preference policies in the five-country sample are:  . 
+
+*They encourage non-preferred groups to redesignate themselves as members of preferred groups (1) to take advantage of group preference policies;
+*They tend to benefit primarily the most fortunate among the preferred group (e.g. Black millionaires), often to the detriment of the least fortunate among the non-preferred groups (e.g., poor Whites); 
+*They reduce the incentives of both the preferred and non-preferred to perform at their best &mdash; the former because doing so is unnecessary and the latter because it can prove futile &mdash; thereby resulting in net losses for society as a whole. <ref>{{cite web|author=Dutch Martin |url=http://www.intellectualconservative.com/article3873.html |title=Affirmative Action Around the World: An Empirical Study |publisher=Intellectualconservative.com |date=2004-10-20 |accessdate=2010-03-22}}</ref> . 
+
+Sowell concludes: "Despite sweeping claims made for affirmative action programs, an examination of their actual consequences makes it hard to support those claims, or even to say that these programs have been beneficial on net balance."<ref name="hoover1"/> . 
+
+==Critical reception==. 
+''[[The Economist]]'' magazine praised the book as "terse, well argued and utterly convincing" and "crammed with striking anecdotes and statistics."<ref name=economist>{{citation|title=Advantages for the advantaged|url=http://www.economist.com/node/2765848|work=The Economist|date=June 19, 2004|volume=371|issue=8380|page=83}}</ref> For the ''Sacramento News & Review'', Chris Springer asserts that Sowell's selection of countries for comparison to the United States and his use of evidence was skewed to reach an anti-affirmative-action conclusion.  The same review charges that Sowell simply repackaged an earlier book of his, ''Preferential Policies: An International Perspective'' (1990), and "fobbed it off" as new material under a different title. <ref>{{cite web|url=http://www.newsreview.com/sacramento/Content?oid=30998 |title=End it, don’t mend it? |work=Sacramento News & Review|date=September 2, 2004 |accessdate= March 22, 2010}}</ref> [[Michael Bérubé]], writing for ''[[The Nation]]'' magazine, agreed with Sowell's arguments that affirmative action has gone far beyond what the [[Civil Rights Act of 1965]] intended and that preferential benefits for ethnic groups without historical oppression in the United States are unjustified but criticized Sowell's association of affirmative action with unrest in the countries selected for the study and pointed out the United States has never implemented the racial preference systems of those foreign countries. <ref>{{citation|last=Bérubé|first=Michael|title=And Justice for All|url=http://www.thenation.com/article/and-justice-all?page=full|work=The Nation|date=January 24, 2005|pages=29–31|volume=280|issue=3}}</ref> . 
+
+== References ==. 
+{{reflist}} . 
+
+[[Category:2004 books]]
+[[Category:Sociology books]]
+[[Category:Affirmative action]]

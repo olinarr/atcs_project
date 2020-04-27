@@ -1,0 +1,79 @@
+{{Unbalanced|date=February 2012}}
+{{Patent law}}
+Legal scholars, economists, activists, policymakers, industries, and trade organizations have held differing views on patents and engaged in contentious debates on the subject. Critical perspectives emerged in the nineteenth century, and recent debates have discussed the merits and faults of [[software patent debate|software patents]] and [[biological patent#Controversy|biological patent]]s.  . 
+
+These debates are part of a larger discourse on [[societal views on intellectual property|intellectual property protection]] which also reflects differing perspectives on [[anti-copyright|copyright]].  . 
+
+==History==. 
+Criticism of patents reached an early peak in Victorian Britain between 1850 and 1880, in a campaign against patenting that expanded to target [[copyright]] too and, in the judgment of historian Adrian Johns, "remains to this day the strongest [campaign] ever undertaken against intellectual property", coming close to abolishing patents. <ref>Johns, Adrian: ''Piracy. The Intellectual Property Wars from Gutenberg to Gates''. The University of Chicago Press, 2009, ISBN 978-0-226-40118-8, p.247</ref> Its most prominent activists - [[Isambard Kingdom Brunel]], [[William Robert Grove]], [[William Armstrong, 1st Baron Armstrong|William Armstrong]] and [[Robert Andrew Macfie|Robert A. MacFie]] - were inventors and entrepreneurs, and it was also supported by radical [[laissez-faire]] economists ([[The Economist]] published anti-patent views), law scholars, scientists (who were concerned that patents were obstructing research) and manufacturers. <ref>Johns, Adrian: ''Piracy'', p. 249, 267, 270</ref> Johns summarizes some of their main arguments as follows:<ref>Johns, Adrian: ''Piracy'', p. 273, citing W.R. Grove: ''Suggestions for Improvements in the Administration of the Patent Law'', [[The Jurist]] n.s. 6 (January 28, 1860) 19-25 ([http://books.google.com/books?id=BWlMAAAAYAAJ online copy] at Google Books), and B. Sherman, L. Bently: ''The Making of Modern Intellectual Property Law'' (CUP 1999), 50-56</ref>
+:''[Patents] projected an artificial idol of the single inventor, radically denigrated the role of the intellectual commons, and blocked a path to this commons for other citizens — citizens who were all, on this account, potential inventors too. [...] Patentees were the equivalent of squatters on public land — or better, of uncouth market traders who planted their barrows in the middle of the highway and barred the way of the people.''
+Similar debates took place during that time in other European countries such as France, [[Prussia]], Switzerland and the Netherlands (but not in the USA). <ref name=johnscountries>Johns, Adrian: ''Piracy'', p. 248</ref> . 
+
+Based on the criticism of patents as state-granted monopolies inconsistent with [[free trade]], the [[Netherlands]] abolished patents in 1869 (having established them in 1817), and did not reintroduce them until 1912. <ref name="kick">[[Ha Joon Chang|Chang, Ha-Joon]]. [http://www.paecon.net/PAEtexts/Chang1.htm "Kicking Away the Ladder: How the Economic and Intellectual Histories of Capitalism Have Been Re-Written to Justify Neo-Liberal Capitalism"]. ''[[Post-Autistic Economics Review]]''. 4 September 2002: Issue 15, Article 3. Retrieved on 8 October 2008. </ref> In Switzerland, criticism of patents delayed the introduction of patent laws until 1907. <ref name=johnscountries/><ref name="kick"/> . 
+
+==Patent trolls==. 
+A long standing argument against patents is that they may hinder innovation and give rise to "troll" entities. <ref>[http://www.law.duke.edu/journals/dltr/articles/2005dltr0009.html TROLL OR NO TROLL? POLICING PATENT USAGE WITH AN OPEN POST-GRANT REVIEW]</ref> A holding company, pejoratively known as a "[[patent troll]]", owns a portfolio of patents, and sues others for infringement of these patents while doing little to develop the technology itself. <ref>{{cite web |url=http://www.worldwidewords.org/turnsofphrase/tp-pat1.htm |title=Patent troll definition and description |accessdate=2008-02-15}}</ref> . 
+
+==Pharmaceutical patents==. 
+In 2003, [[World Trade Organization]] (WTO) reached an agreement, which provides a developing country with options for obtaining needed medications under [[compulsory licensing]] or importation of cheaper versions of the drugs, even before patent expiration. <ref>[http://www.wto.org/english/news_e/pres03_e/pr350_e.htm Decision removes final patent obstacle to cheap drug imports]</ref> . 
+
+Recently this issue has received additional coverage with regards to [[HIV]] and [[AIDS]] drugs. Governments and companies in [[Brazil]], [[India]], [[Thailand]] and [[Uganda]] have started to challenge [[Chemical and pharmaceutical patents|pharmaceutical patents]], arguing that human lives are more important than patents, [[copyright]], international trade laws, and the economic interest of the [[pharmaceutical industry]]. Anti-retroviral therapy has long been unaffordable for people suffering from HIV/AIDS in [[developing countries]], and proponents of generic antiviral drugs argue that the human need justifies the breach of patent law. When the Thai Government Pharmaceutical Organization started producing generic antiviral drugs in March 2002 the cost of a monthly treatment for one person plummeted from $500-$750 to $30, hence making treatment more affordable. In response the [[US government]] placed Thailand on the list of "copyright violators" despite the fact that the production of antiviral drugs is not subject to copyright, even in the United States. In 2007 the government of Brazil declared [[Merck & Co.|Merck]]'s [[efavirenz]] anti-retroviral drug a "public interest" medicine, and challenged Merck to negotiate lower prices with the government or have Brazil strip the patent by issuing a compulsory license. <ref>{{cite web |url= http://www.newsrx.com/newsletters/Health-and-Medicine-Week/2004-08-02/080220043339965W.html | title = Drugs give HIV patients longer lives in victory for anti-patent activists| publisher =Health & Medicine Week | date = August 2004}}</ref><ref name=autogenerated6>{{cite web |url= http://news.bbc.co.uk/2/hi/business/5027532.stm | last = Anderson | first = Tatum | title = Africa rises to HIV drug challenge| publisher =BBC News |date=June 2006}}</ref><ref name=gay>{{cite web |url= http://www.gay.com/news/article.html?2007/05/03/6
+| title = Brazil’s HIV-drug break down| publisher =gay.com |date=May 2007}}</ref> . 
+
+It is reported that [[Ghana]], [[Tanzania]], the [[Democratic Republic of Congo]] and [[Ethiopia]] have similar plans to produce generic antiviral drugs. [[Western world|Western]] pharmaceutical companies initially responded with legal challenges, but some have now promised to introduce alternative pricing structures for developing countries and NGOs. <ref name=autogenerated6 /><ref name=gay /> . 
+
+In July 2008 Nobel Prize-winning scientist Sir [[John Sulston]] called for an international biomedical treaty to clear up issues over patents. <ref>{{cite web |url= http://news.bbc.co.uk/2/hi/science/nature/7490384.stm | last = McGrath  | first = Matt  | title = Sulston argues for openmedicine| publisher =BBC News |date=July 2008}}</ref> . 
+
+In response to these criticisms against pharmaceutical patents it has been pointed out that less than 5% of medicines on the WHO’s essential drugs list are subject to patent monopoly<ref name="PoIP">http://www.ip-institute.org.uk/pdfs/Perceptions%20of%20IP.pdf</ref> and that countries who believe that these monopolies are impeding health care may not be aware that the medicines in question, particularly for HIV/AIDS related drugs, are not patented in their country. <ref name="PoIP" />  Another response could be that, without patents or other forms of research funding, the medicines in question would not even have been developed until decades later. {{Citation needed|date=August 2011}} . 
+
+Quoting a [[World Health Organisation]] report, Trevor Jones (director of research and development at the Wellcome Foundation, as of 2006) argued in 2006 that patent monopolies do not create [[monopoly pricing]]. He argued that the companies given monopolies "set prices largely on the willingness/ability to pay, also taking into account the country, disease and regulation" instead of receiving competition from legalized generics. <ref name=autogenerated6 /> . 
+
+==Patents and Tragedy of Anticommons==. 
+A theoretical problem with patent rights was discussed by law professors [[Michael Heller (law professor)|Michael Heller]] and Rebecca Sue Eisenberg. Based on Heller's theory of the [[tragedy of the anticommons]], the authors, while not disputing role of patents in general in motivating invention and disclosure, argue that biomedical research was one of several key areas where intellectual property rights may become so fragmented that, effectively, no one can take advantage of them as to do so would require an agreement between the owners of all of the fragments. On the other hand, authors weren't sure if the problem they predict, is persistent or transitional (in the latter case, holders of intellectual property rights will find ways to address the problem when it arises, for example, via patent pools). <ref>{{cite journal
+|last=Heller
+|first=Michael
+|authorlink=Michael Heller (law professor)
+|coauthors=Eisenberg, Sue
+|date=May 1, 1998
+|title=Can Patents Deter Innovation? The Anticommons in Biomedical Research
+|journal=Science
+|volume=280
+|issue=
+5364|pages=698–701
+|issn=
+|pmid=
+9563938|pmc=
+|doi=
+10.1126/science.280.5364.698|bibcode=
+|oclc=
+|id=
+|url=http://www.sciencemag.org/cgi/content/full/280/5364/698
+|quote=
+}}</ref> . 
+
+==Software patents==. 
+{{Expand section|date=September 2008}}
+{{Main|Software patent debate}} . 
+
+== See also ==. 
+* [[Anti-copyright]]
+* [[Copyleft]]
+* [[Copyright commandeering#Copyright commandeering|Copyright commandeering]]
+* [[Creative Commons]]
+* [[Fair dealing]]
+* [[Free Culture movement|Free culture]]
+* [[List of patent legal concepts]]
+* [[List of patent related topics]]
+* [[List of people associated with patent law]]
+* [[USPTO#Criticisms|Criticism of the United States Patent and Trademark Office]]
+* [[Reexamination#Notable reexaminations|Notable reexaminations]]
+* [[Patentleft]] . 
+
+==References==. 
+{{reflist}} . 
+
+{{intellectual property activism}} . 
+
+[[Category:Patent law]]
+[[Category:Intellectual property activism]]
+[[Category:Criticisms]]

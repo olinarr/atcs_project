@@ -1,0 +1,113 @@
+{{italic title}}
+[[Image:St-thomas-aquinas.jpg|150px|thumb|right|Saint Thomas Aquinas, a 13th century mediæval Italian theologian, and a [[Dominican monk]] of the [[Catholic Church]]. As a devout [[Christian]], he developed these five arguments to prove that the Christian God existed.]]
+{{Thomism}} . 
+
+The '''''Quinque viæ''''', '''''Five Ways''''', or '''''Five Proofs''''' are Five [[Logical argument|arguments]] regarding the [[existence of God]] summarized by the 13th century [[Roman Catholic]] philosopher and theologian [[St. Thomas Aquinas]] in his book, ''[[Summa Theologica]]''. They are not necessarily meant to be self-sufficient “proofs” of God’s existence; as worded, they propose only to explain what it is “all men mean” when they speak of “God”. Many scholars point out that St. Thomas’s actual arguments regarding the existence and nature of God are to be found liberally scattered throughout his major treatises, and that the five ways are little more than an introductory sketch of how the word “God” can be defined without reference to special revelation (i.e., religious experience).   . 
+
+The five ways are; the argument of the [[unmoved mover]], the argument of the [[first cause]], the [[Cosmological argument#Argument from contingency|argument from contingency]], the [[argument from degree]] and the [[teleological argument]]. The first way is greatly expanded in the ''[[Summa Contra Gentiles]]''<ref>''SCG'' 1.13 ([http://www.corpusthomisticum.org/scg1010.html#23581 Latin] and [http://www.josephkenny.joyeurs.com/CDtexts/ContraGentiles1.htm#13 English])</ref>. Aquinas left out from his list several arguments that were already in existence at the time, such as the [[ontological argument]] of [[Saint Anselm]], because he did not believe that they worked. In the 20th century, the Roman Catholic priest and philosopher [[Frederick Copleston]], devoted much of his works to fully explaining and expanding on Aquinas’ five ways.  . 
+
+The arguments are designed to prove the existence of a [[monotheism|monotheistic]] God, namely the [[Abrahamic]] God (though they could also support notions of God in other faiths that believe in a monotheistic God such as Sikhism, Vedantic and Bhaktic Hinduism), but as a set they do not work when used to provide evidence for the existence of [[polytheism|polytheistic]], [[pantheism|pantheistic]], [[panentheism|panentheistic]] or [[pandeism|pandeistic]] deities.  . 
+
+== The Five Ways ==. 
+These proofs take the form of philosophical arguments:<ref>''ST'', I<sup>a</sup>, q. 2 a. 3 co. ([http://www.corpusthomisticum.org/sth1002.html#28318 Latin] and [http://www.newadvent.org/summa/1002.htm#article3 English])</ref> . 
+
+===The Argument of the Unmoved Mover===. 
+{{quote|{{lang|la|''Prima autem et manifestior via est, quæ sumitur ex parte motus. Certum est enim, et sensu constat, aliqua moveri in hoc mundo. Omne autem quod movetur, ab alio movetur. Nihil enim movetur, nisi secundum quod est in potentia ad illud ad quod movetur, movet autem aliquid secundum quod est actu. Movere enim nihil aliud est quam educere aliquid de potentia in actum, de potentia autem non potest aliquid reduci in actum, nisi per aliquod ens in actu, sicut calidum in actu, ut ignis, facit lignum, quod est calidum in potentia, esse actu calidum, et per hoc movet et alterat ipsum. Non autem est possibile ut idem sit simul in actu et potentia secundum idem, sed solum secundum diversa, quod enim est calidum in actu, non potest simul esse calidum in potentia, sed est simul frigidum in potentia. Impossibile est ergo quod, secundum idem et eodem modo, aliquid sit movens et motum, vel quod moveat seipsum. Omne ergo quod movetur, oportet ab alio moveri. Si ergo id a quo movetur, moveatur, oportet et ipsum ab alio moveri et illud ab alio. Hic autem non est procedere in infinitum, quia sic non esset aliquod primum movens; et per consequens nec aliquod aliud movens, quia moventia secunda non movent nisi per hoc quod sunt mota a primo movente, sicut baculus non movet nisi per hoc quod est motus a manu. Ergo necesse est devenire ad aliquod primum movens, quod a nullo movetur, et hoc omnes intelligunt Deum.''}}}}
+:{{quote|[The first and more manifest way is the argument from motion. It is certain, and evident to our senses, that in the world some things are in motion. Now whatever is in motion is put in motion by another, for nothing can be in motion except it is in potentiality to that towards which it is in motion; whereas a thing moves inasmuch as it is in act. For motion is nothing else than the reduction of something from potentiality to actuality. But nothing can be reduced from potentiality to actuality, except by something in a state of actuality. Thus that which is actually hot, as fire, makes wood, which is potentially hot, to be actually hot, and thereby moves and changes it. Now it is not possible that the same thing should be at once in actuality and potentiality in the same respect, but only in different respects. For what is actually hot cannot simultaneously be potentially hot; but it is simultaneously potentially cold. It is therefore impossible that in the same respect and in the same way a thing should be both mover and moved, i.e. that it should move itself. Therefore, whatever is in motion must be put in motion by another. If that by which it is put in motion be itself put in motion, then this also must needs be put in motion by another, and that by another again. But this cannot go on to infinity, because then there would be no first mover, and, consequently, no other mover; seeing that subsequent movers move only inasmuch as they are put in motion by the first mover; as the staff moves only because it is put in motion by the hand. Therefore it is necessary to arrive at a first mover, put in motion by no other; and this everyone understands to be God.]}} . 
+
+====Summary====. 
+The argument of the [[unmoved mover]], or ''ex motu'', tries to explain that God must be the cause of motion in the universe. It is therefore a form of the [[cosmological argument]]. It goes thus:
+*Some things are moved. 
+*Everything that is moving is moved by a mover. 
+*An [[infinite regress]] of movers is impossible. 
+*Therefore, there is an unmoved mover from whom all motion proceeds. 
+*This mover is what we call [[God]].  . 
+
+===The Argument of the First Cause===. 
+{{quote|{{lang|la|''Secunda via est ex ratione causæ efficientis. Invenimus enim in istis sensibilibus esse ordinem causarum efficientium, nec tamen invenitur, nec est possibile, quod aliquid sit causa efficiens sui ipsius; quia sic esset prius seipso, quod est impossibile. Non autem est possibile quod in causis efficientibus procedatur in infinitum. Quia in omnibus causis efficientibus ordinatis, primum est causa medii, et medium est causa ultimi, sive media sint plura sive unum tantum, remota autem causa, removetur effectus, ergo, si non fuerit primum in causis efficientibus, non erit ultimum nec medium. Sed si procedatur in infinitum in causis efficientibus, non erit prima causa efficiens, et sic non erit nec effectus ultimus, nec causæ efficientes mediæ, quod patet esse falsum. Ergo est necesse ponere aliquam causam efficientem primam, quam omnes Deum nominant.''}}}}
+:{{quote|[The second way is from the nature of the efficient cause. In the world of sense we find there is an order of efficient causes. There is no case known (neither is it, indeed, possible) in which a thing is found to be the efficient cause of itself; for so it would be prior to itself, which is impossible. Now in efficient causes it is not possible to go on to infinity, because in all efficient causes following in order, the first is the cause of the intermediate cause, and the intermediate is the cause of the ultimate cause, whether the intermediate cause be several, or only one. Now to take away the cause is to take away the effect. Therefore, if there be no first cause among efficient causes, there will be no ultimate, nor any intermediate cause. But if in efficient causes it is possible to go on to infinity, there will be no first efficient cause, neither will there be an ultimate effect, nor any intermediate efficient causes; all of which is plainly false. Therefore it is necessary to admit a first efficient cause, to which everyone gives the name of God.]}} . 
+
+====Summary====. 
+The argument of the [[first cause]] (''ex causa''), tries, unlike the argument of the Unmoved Mover, to prove that God must have been the cause, or the creator of the universe. It is therefore another form of the [[cosmological argument]]. It goes thus:
+*Some things are caused. 
+*Everything that is caused is caused by something else. 
+*An infinite regress of causation is impossible. 
+*Therefore, there must be an uncaused cause of all that is caused. 
+*This causer is what we call God.  . 
+
+===The Argument from Contingency===. 
+{{quote|{{lang|la|''Tertia via est sumpta ex possibili et necessario, quæ talis est. Invenimus enim in rebus quædam quæ sunt possibilia esse et non esse, cum quædam inveniantur generari et corrumpi, et per consequens possibilia esse et non esse. Impossibile est autem omnia quæ sunt, talia esse, quia quod possibile est non esse, quandoque non est. Si igitur omnia sunt possibilia non esse, aliquando nihil fuit in rebus. Sed si hoc est verum, etiam nunc nihil esset, quia quod non est, non incipit esse nisi per aliquid quod est; si igitur nihil fuit ens, impossibile fuit quod aliquid inciperet esse, et sic modo nihil esset, quod patet esse falsum. Non ergo omnia entia sunt possibilia, sed oportet aliquid esse necessarium in rebus. Omne autem necessarium vel habet causam suæ necessitatis aliunde, vel non habet. Non est autem possibile quod procedatur in infinitum in necessariis quæ habent causam suæ necessitatis, sicut nec in causis efficientibus, ut probatum est. Ergo necesse est ponere aliquid quod sit per se necessarium, non habens causam necessitatis aliunde, sed quod est causa necessitatis aliis, quod omnes dicunt Deum.''}}}}
+:{{quote|[The third way is taken from possibility and necessity, and runs thus. We find in nature things that are possible to be and not to be, since they are found to be generated, and to corrupt, and consequently, they are possible to be and not to be. But it is impossible for these always to exist, for that which is possible not to be at some time is not. Therefore, if everything is possible not to be, then at one time there could have been nothing in existence. Now if this were true, even now there would be nothing in existence, because that which does not exist only begins to exist by something already existing. Therefore, if at one time nothing was in existence, it would have been impossible for anything to have begun to exist; and thus even now nothing would be in existence – which is absurd. Therefore, not all beings are merely possible, but there must exist something the existence of which is necessary. But every necessary thing either has its necessity caused by another, or not. Now it is impossible to go on to infinity in necessary things which have their necessity caused by another, as has been already proved in regard to efficient causes. Therefore we cannot but postulate the existence of some being having of itself its own necessity, and not receiving it from another, but rather causing in others their necessity. This all men speak of as God.]}} . 
+
+====Summary====. 
+The [[Cosmological argument#The argument from contingency|argument from contingency]] (''ex contingentia''):
+*Many things in the universe may either exist or not exist.  Such things are called [[Contingency (philosophy)|contingent beings]]. 
+*It is impossible for everything in the universe to be contingent, for then there would be a time when nothing existed, and so nothing would exist now, since there would be nothing to bring anything into existence, which is clearly false. 
+*Therefore, there must be a necessary being whose existence is not contingent on any other being or beings. 
+*This being is whom we call God.  . 
+
+===The Argument from Degree===. 
+{{quote|{{lang|la|''Quarta via sumitur ex gradibus qui in rebus inveniuntur. Invenitur enim in rebus aliquid magis et minus bonum, et verum, et nobile, et sic de aliis hujusmodi. Sed magis et minus dicuntur de diversis secundum quod appropinquant diversimode ad aliquid quod maxime est, sicut magis calidum est, quod magis appropinquat maxime calido. Est igitur aliquid quod est verissimum, et optimum, et nobilissimum, et per consequens maxime ens, nam quæ sunt maxime vera, sunt maxime entia, ut dicitur II Metaphys. <ref name="Met2.993b28">[http://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Met.+2.993b&fromdoc=Perseus%3Atext%3A1999.01.0051 Aristot. Met. 2.993b 28] “{{polytonic|''Διὸ τὰς τῶν ἀεὶ ὄντων ἀρχὰς ἀναγκαῖον ἀεὶ εἶναι ἀληθεστάτας (οὐ γάρ ποτε ἀληθεῖς, οὐδ᾽ ἐκείναις αἴτιόν τί ἐστι τοῦ εἶναι, ἀλλ᾽ ἐκεῖναι τοῖς ἄλλοις), ὥσθ᾽ ἕκαστον ὡς ἔχει τοῦ εἶναι, οὕτω καὶ τῆς ἀληθείας.''}}” [Therefore in every case the first principles of things must necessarily be true above everything else (since they are not merely sometimes true, nor is anything the cause of their existence, but they are the cause of the existence of other things), and so as each thing is in respect of existence, so it is in respect of truth.]</ref> Quod autem dicitur maxime tale in aliquo genere, est causa omnium quæ sunt illius generis, sicut ignis, qui est maxime calidus, est causa omnium calidorum, ut in eodem libro dicitur. Ergo est aliquid quod omnibus entibus est causa esse, et bonitatis, et cujuslibet perfectionis, et hoc dicimus Deum.''}}}}
+:{{quote|[The fourth way is taken from the gradation to be found in things. Among beings there are some more and some less good, true, noble and the like. But “more” and “less” are predicated of different things, according as they resemble in their different ways something which is the maximum, as a thing is said to be hotter according as it more nearly resembles that which is hottest; so that there is something which is truest, something best, something noblest and, consequently, something which is uttermost being; for those things that are greatest in truth are greatest in being, as it is written in Metaph. ii. <ref name="Met2.993b28"/> Now the maximum in any genus is the cause of all in that genus; as fire, which is the maximum heat, is the cause of all hot things. Therefore there must also be something which is to all beings the cause of their being, goodness, and every other perfection; and this we call God.]}} . 
+
+====Summary====. 
+The [[argument from degree]] or gradation (''ex gradu''). It is heavily based upon the teachings of the [[ancient Greece|ancient Greek]] philosopher [[Aristotle]]. It goes thus :
+*Varying perfections of varying degrees may be found throughout the universe. 
+*These degrees assume the existence of an ultimate standard of perfection. 
+*Therefore, perfection must have a pinnacle. 
+*This pinnacle is whom we call God.  . 
+
+===The Teleological Argument===. 
+{{quote|{{lang|la|''Quinta via sumitur ex gubernatione rerum. Videmus enim quod aliqua quæ cognitione carent, scilicet corpora naturalia, operantur propter finem, quod apparet ex hoc quod semper aut frequentius eodem modo operantur, ut consequantur id quod est optimum; unde patet quod non a casu, sed ex intentione perveniunt ad finem. Ea autem quæ non habent cognitionem, non tendunt in finem nisi directa ab aliquo cognoscente et intelligente, sicut sagitta a sagittante. Ergo est aliquid intelligens, a quo omnes res naturales ordinantur ad finem, et hoc dicimus Deum.''}}}}
+:{{quote|[The fifth way is taken from the governance of the world. We see that things which lack intelligence, such as natural bodies, act for an end, and this is evident from their acting always, or nearly always, in the same way, so as to obtain the best result. Hence it is plain that not fortuitously, but designedly, do they achieve their end. Now whatever lacks intelligence cannot move towards an end, unless it be directed by some being endowed with knowledge and intelligence; as the arrow is shot to its mark by the archer. Therefore some intelligent being exists by whom all natural things are directed to their end; and this being we call God.]}} . 
+
+====Summary====. 
+The [[teleological argument]] or argument of "design" (''ex fine''), which claims that everything in the Universe has a purpose, which must have been caused by God :
+*All natural bodies in the world act towards ends. 
+*These objects are in themselves unintelligent. 
+*Acting towards an end is characteristic of intelligence. 
+*Therefore, there exists an intelligent being that guides all natural bodies towards their ends. 
+*This being is whom we call God.  . 
+
+Alternate interpretation:
+The [[teleological argument]] or argument of "design" (''ex fine''), which claims that everything in the Universe follows laws, which must have been created by God :
+*All natural bodies follow laws of conduct. 
+*These objects are themselves unintelligent. 
+*Laws of conduct are characteristic of intelligence. 
+*Therefore, there exists an intelligent being that created the laws for all natural bodies. 
+*This being is whom we call God.  . 
+
+== Controversy ==. 
+=== Criticism ===. 
+Criticism of the cosmological argument emerged in the 18th century by the philosophers [[David Hume]] and [[Immanuel Kant]]. <ref>[http://plato.stanford.edu/entries/cosmological-argument/ “Cosmological Argument”], Stanford Encyclopedia of Philosophy</ref> . 
+
+[[Richard Dawkins]] criticized Aquinas' collection of arguments in his book ''[[The God Delusion]]''. He asserts that:<br />
+* the first three arguments are [[cosmological argument|essentially the same]], and rely upon the idea of a regress to which God is unjustifiably immune;
+* the fourth argument is equally applicable to many unrelated concepts; 'Therefore there must exist a pre-eminent thinker, and we call him God'
+* the fifth argument claims the necessity of a designer, considering that biological life looks somewhat designed, whereas evolution by means of natural selection explains its complexity and diversity, though it itself cannot explain how life itself began only in what way it may have developed over time. <ref>[[Richard Dawkins|Dawkins, Richard]], ''The God Delusion'', page 77</ref> . 
+
+Paul Almond criticized the logic behind the fourth argument in his writing. Specifically he showed that one cannot prove that an object exists based only on the possibility that it exists. <ref>[http://www.paul-almond.com/ModalOntologicalArgument.htm A Refutation of Plantinga's Modal Ontological Argument - and why it even suggests a disproof of God]</ref> In other words, a "most perfect being" possibly exists, but does not necessarily exist.  . 
+
+=== Defense ===. 
+The 20th century [[Christian apologetics|Christian apologist]] [[Richard Swinburne]] argued in his book, ''Simplicity as Evidence of Truth'', that these arguments are only strong when collected together, and that individually each of them is weak. <ref>{{cite book | last = Swinburne | first = Richard | title = Simplicity as Evidence of Truth | publisher = Marquette University Press | location = Milwaukee | year = 1997 | isbn = 087462164X }}</ref> . 
+
+Philosopher [[Keith Ward]] claims in his book ''Why there almost certainly is a God: Doubting Dawkins'' that Dawkins mis-stated the five ways, and thus responds to a [[straw man]]. Ward defended the utility of the five ways (for instance, on the fourth argument he points out that all possible smells must pre-exist in the mind of God, but that God, being by his nature non-physical, does not himself stink) whilst pointing out that they only constitute a proof of God if one first begins with a proposition that the universe can be rationally understood. Nevertheless he argues that they are useful in allowing us to understand what God will be like given this initial presupposition. <ref>{{cite book | last = Ward | first = Keith | title = Why there almost certainly is a God: Doubting Dawkins | publisher = Lion Hudson | location = Oxford | year = 2008 | isbn = 9780745953304 }}</ref> . 
+
+More recently Edward Feser has argued in his book ''Aquinas: A Beginner’s Guide'' that Dawkins, Hume, Kant, and most modern philosophers do not have a correct understanding of Aquinas at all; that the arguments are often difficult to translate into modern terms; and that the Five Ways are just a brief summary directed towards beginners and must be understood in the context of Aristotle’s [[Metaphysics (Aristotle)|''Metaphysics'']] and Aquinas’ other writings.  He argues that Aquinas’ five ways have never been adequately refuted when thus considered. <ref>{{cite book | last = Feser | first = Edward | title = Aquinas: A Beginner’s Guide | publisher = Oneworld | location = Oxford | year = 2009 | isbn = 1851686908 }}</ref> . 
+
+== References ==. 
+<references/> . 
+
+== Further reading ==. 
+* [http://www.ewtn.com/library/theology/reality.htm#07 ''Reality: A Synthesis of Thomistic Thought'': Chapter 7: The Proofs Of God's Existence] by [[Reginald Garrigou-Lagrange]]
+* {{cite book | last = Kreeft | first = Peter | title = A Summa of the Summa: The essential philosophical passages of St. Thomas Aquinas’ Summa Theologica | publisher = Ignatius Press | location = San Francisco | year = 1990 | isbn = 089870300X }} . 
+
+== External links ==. 
+* New Advent, [http://www.newadvent.org/summa Translation of the Summa Theologica]
+* [[Summa Theologica#External_links|External links]] section of Wikipedia’s [[Summa Theologica]] article.  . 
+
+{{God Arguments}} . 
+
+{{DEFAULTSORT:Quinque Viae}}
+[[Category:Philosophical arguments]]
+[[Category:Works by Thomas Aquinas]]

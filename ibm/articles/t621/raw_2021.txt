@@ -1,0 +1,409 @@
+{{Use dmy dates|date=September 2011}}
+{{infobox military unit
+|unit_name=Germany nuclear energy project 
+|image=[[Image:German Experimental Pile - Haigerloch - April 1945.jpg|250px]]
+|caption=The German experimental [[nuclear pile]] at [[Haigerloch]]. 
+|dates=1939–1945 (the program was cancelled due to the [[Fall of Berlin]]) 
+|country=[[Nazi Germany|Germany]] 
+|allegiance={{flag|Nazi Germany|name=Germany}}
+|branch=[[Wehrmacht|Army Ordnance Office]]<br>[[Reich Research Council]] 
+|type= [[Nuclear Weapon|Nuclear Weapon Research]] 
+|role=development of [[Atomic weapon|atomic]] and [[radiological weapon]]
+|size= 
+|command_structure=[[Wehrmacht]]
+|garrison=[[Berlin]]
+|garrison_label=Headquarters
+|nickname=Uranverein<br>Uranprojekt
+|patron=[[Adolf Hitler]]
+|motto=''[[Deutsche Physik]]'' (German Physics)
+|colors=
+|colors_label=
+|march=
+|mascot=
+|equipment=
+|equipment_label=
+|battles=[[World war II]]<br>[[Fall of Berlin]]<br>[[Operation Paperclip]]<br>[[Operation Alsos]]<br>[[Operation Epsilon]]<br>''[[Russian Alsos]]''
+|anniversaries=
+|decorations=
+|battle_honours=
+|battle_honours_label=
+|disbanded=1945 (end of World war II)
+|flying_hours=
+|website=
+<!-- Commanders -->
+|commander1=[[Reichsmarschall|Marshal]] [[Hermann Göring]]
+|commander1_label=Program Plenipotentiary
+|commander2=[[Albert Speer]]
+|commander2_label=Minister for Armaments and Ammunition
+|commander3=[[Walther Gerlach]]
+|commander3_label=Uranverein' Reichofficer
+|commander4=[[Rudolf Mentzel]]<br>[[Kurt Diebner]]
+|commander4_label=Reichsdirector of the [[Reichsforschungsrat]]
+|notable_commanders=
+<!-- Insignia -->
+|identification_symbol=
+|identification_symbol_label=
+|identification_symbol_2=
+|identification_symbol_2_label=
+|identification_symbol_3=
+|identification_symbol_3_label=
+|identification_symbol_4=
+|identification_symbol_4_label=
+<!-- Aircraft -->
+|aircraft_attack=
+|aircraft_bomber=
+|aircraft_electronic=
+|aircraft_fighter=
+|aircraft_helicopter=
+|aircraft_helicopter_attack=
+|aircraft_helicopter_cargo=
+|aircraft_helicopter_multirole=
+|aircraft_helicopter_observation=
+|aircraft_helicopter_transport=
+|aircraft_helicopter_trainer=
+|aircraft_helicopter_utility=
+|aircraft_interceptor=
+|aircraft_patrol=
+|aircraft_recon=
+|aircraft_trainer=
+|aircraft_transport=
+}} . 
+
+The '''German nuclear energy project''', ([[German language|German]]: ''Uranprojekt''; informally known as the '''Uranverein'''; [[English language|English]]: ''Uranium Club''), was an attempted clandestine scientific effort led by [[Nazi Germany|Germany]] to develop and produce the [[nuclear weapon|atomic weapons]] during the events of [[World War&nbsp;II]]. This program started in April 1939, just months after the discovery of [[nuclear fission]] in January 1939, but ended only months later, due to [[Invasion of Poland|German invasion]] of [[Poland]], where many notable physicists were drafted into the ''[[Wehrmacht]]''. However, the second effort began under the administrative auspices of the ''Wehrmacht's '' [[Waffenamt|''Heereswaffenamt'']] on the day World War&nbsp;II began (1&nbsp;September 1939). The program eventually expanded into three main efforts: the ''Uranmaschine'' ([[nuclear reactor]]), uranium and [[heavy water]] production, and uranium [[isotope separation]]. Eventually it was assessed that nuclear fission would not contribute significantly to ending the war, and in January 1942, the ''Heereswaffenamt'' turned the program over to the Reich Research Council while continuing to fund the program. At this time, the program split up between nine major institutes where the directors dominated the research and set their own objectives. At that time, the number of scientists working on applied nuclear fission began to diminish, with many applying their talents to more pressing war-time demands.  . 
+
+The most influential people in the ''Uranverein''  were [[Kurt Diebner]], [[Abraham Esau]], [[Walther Gerlach]], and [[Erich Schumann]]; Schumann was one of the most powerful and influential physicists in Germany. Diebner, throughout the life of the nuclear energy project, had more control over nuclear fission research than did [[Walther Bothe]], [[Klaus Clusius]], [[Otto Hahn]], [[Paul Harteck]], or [[Werner Heisenberg]]. Abraham Esau was appointed as Hermann Göring’s plenipotentiary for nuclear physics research in December 1942; Walther Gerlach succeeded him in December 1943.  . 
+
+Politicization of the German [[academia]] under the [[Nazism|National Socialist]] regime had driven many physicists, engineers, and mathematicians out of Germany as early as 1933. Those of Jewish heritage who did not leave were quickly purged from German institutions, further decimating academia. The politicization of the universities, along with the demands for manpower by the German armed forces (many scientists and technical personnel were conscripted, despite possessing useful skills), would eventually all but eliminate a generation of physicists. <ref>{{Cite book | last = Judt | first = Matthias | coauthors = Burghard Ciesla | title = Technology transfer out of Germany after 1945 | publisher=Routledge | year = 1996 | page = 55 | url = | id = | isbn = 9783718658220}}</ref> . 
+
+At the end of the war, the Allied powers competed to obtain surviving components of the nuclear industry (personnel, facilities, and [[materiel]]), as they did with the [[V-2 rocket|V-2]] program.  . 
+
+==Discovery of nuclear fission== . 
+
+{{Main|History of physics|History of nuclear weapons|World War II}} . 
+
+In December 1938, the German chemists [[Otto Hahn]] and [[Fritz Strassmann]] sent a manuscript to the science journal ''[[Die Naturwissenschaften|Naturwissenschaften]]'' ("Natural Science") reporting they had detected the element [[barium]] after bombarding [[uranium]] with [[neutrons]];<ref>O. Hahn and F. Strassmann ''Über den Nachweis und das Verhalten der bei der Bestrahlung des Urans mittels Neutronen entstehenden Erdalkalimetalle'' (''On the detection and characteristics of the alkaline earth metals formed by irradiation of uranium with neutrons''), ''Naturwissenschaften'' Volume 27, Number 1, 11–15 (1939). The authors were identified as being at the ''Kaiser-Wilhelm-Institut für Chemie'', Berlin-Dahlem. Received 22 December 1938. </ref> simultaneously, they communicated these results to [[Lise Meitner]], who had in July of that year fled to the [[Netherlands]] and then went to [[Sweden]]. <ref>Ruth Lewin Sime ''Lise Meitner’s Escape from Germany'', ''American Journal of Physics'' Volume 58, Number 3, 263- 267 (1990). </ref> Meitner, and her nephew [[Otto Robert Frisch]], correctly interpreted these results as being [[nuclear fission]]. <ref>Lise Meitner and O. R. Frisch ''Disintegration of Uranium by Neutrons: a New Type of Nuclear Reaction'', ''Nature'', Volume 143, Number 3615, 239–240 [http://www.nature.com/physics/looking-back/meitner/index.html (11 February 1939)]. The paper is dated 16 January 1939. Meitner is identified as being at the Physical Institute, Academy of Sciences, Stockholm. Frisch is identified as being at the Institute of Theoretical Physics, University of Copenhagen. </ref> Frisch confirmed this experimentally on 13 January 1939. <ref>O. R. Frisch ''Physical Evidence for the Division of Heavy Nuclei under Neutron Bombardment'', ''Nature'', Volume 143, Number 3616, 276–276 [http://dbhs.wvusd.k12.ca.us/webdocs/Chem-History/Frisch-Fission-1939.html (18 February 1939)]. The paper is dated 17 January 1939. [The experiment for this letter to the editor was conducted on 13 January 1939; see Richard Rhodes ''The Making of the Atomic Bomb'' 263 and 268 (Simon and Schuster, 1986).]</ref><ref>In 1944, Hahn received the [[Nobel Prize for Chemistry]] for the discovery of nuclear fission. Some historians have documented the history of the discovery of nuclear fission and believe Meitner should have been awarded the Nobel Prize with Hahn. See the following references: Ruth Lewin Sime ''From Exceptional Prominence to Prominent Exception: Lise Meitner at the Kaiser Wilhelm Institute for Chemistry'' [http://www.mpiwg-berlin.mpg.de/KWG/Ergebnisse/Ergebnisse24.pdf Ergebnisse 24] Forschungsprogramm ''Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus'' (2005); Ruth Lewin Sime ''Lise Meitner: A Life in Physics'' (University of California, 1997); and Elisabeth Crawford, Ruth Lewin Sime, and Mark Walker ''A Nobel Tale of Postwar Injustice'', ''Physics Today'' Volume 50, Issue 9, 26–32 (1997). </ref> . 
+
+==First ''Uranverein''== . 
+
+[[Paul Harteck]] was director of the physical chemistry department at the [[University of Hamburg]] and an advisor to the ''[[Heereswaffenamt]]'' (HWA, Army Ordnance Office). On 24 April 1939, along with his teaching assistant [[Wilhelm Groth]], Harteck made contact with the ''Reichskriegsministerium'' (RKM, Reich Ministry of War) to alert them to the potential of military applications of nuclear chain reactions. Two days earlier, on 22 April 1939, after hearing a colloquium paper by [[Wilhelm Hanle]] on the use of [[uranium]] [[nuclear fission|fission]] in a ''Uranmaschine'' (uranium machine, i.e., [[nuclear reactor]]), [[Georg Joos]], along with Hanle, notified Wilhelm Dames, at the ''[[Reichserziehungsministerium]]'' (REM, Reich Ministry of Education), of potential military applications of nuclear energy. The communication was given to [[Abraham Esau]], head of the physics section of the ''[[Reichsforschungsrat]]'' (RFR, Reich Research Council) at the REM's undersecretary [[Rudolf Mentzel]]. On 29 April, a group, organized by Esau, met with [[Rudolf Mentzel]] at the REM to discuss the potential of a sustained [[nuclear chain reaction]]. The group included the physicists [[Walther Bothe]], [[Robert Döpel]], [[Hans Geiger]], [[Wolfgang Gentner]] (probably sent by [[Walther Bothe]]), [[Wilhelm Hanle]], [[Gerhard Hoffmann]], and [[Georg Joos]]; [[Peter Debye]] was invited, but he did not attend. After this, informal work began at the [[University of Göttingen|Georg-August University of Göttingen]] by Joos, Hanle, and their colleague [[Reinhold Mannkopff]]; the group of physicists was known informally as the first ''Uranverein'' (Uranium Club) and formally as ''Arbeitsgemeinschaft für Kernphysik''. The group’s work was discontinued in August 1939, when the three were called to military training. <ref>Kant, 2002, Reference 8 on p. 3. </ref><ref>Hentschel and Hentschel, 1996, 363–364 and Appendix F; see the entries for Esau, Harteck and Joos. See also the entry fro the KWIP in Appendix A and the entry for the HWA in Appendix B. </ref><ref name="Macrakis, 1993, 164-169">Macrakis, 1993, 164–169. </ref><ref name="Rechenberg, Volume 6 2001">Mehra and Rechenberg, Volume 6, Part 2, 2001, 1010–1011. </ref> . 
+
+===Another notification=== . 
+
+The industrial firm ''[[Auergesellschaft]]'' had a substantial amount of “waste” [[uranium]] from which it had extracted [[radium]]. After reading a June 1939 paper by [[Siegfried Flügge]], on the technical use of nuclear energy from uranium,<ref>Siegfried Flügge ''Kann der Energieinhalt der Atomkerne technisch nutzbar gemacht werden?'', [[Die Naturwissenschaften]] Volume 27, Issues 23/24, 402–10 (9 June 1939). </ref><ref>Also see: Siegfried Flügge ''Die Ausnutzung der Atomenergie. Vom Laboratoriumsversuch zur Uranmaschine – Forschungsergebnisse in Dahlem'', ''Deutsche Allgemeine Zeitung'' No. 387, Supplement (15 August 1939). English translation: Document No.&nbsp;74 ''Siegfried Flügge: Exploiting Atomic Energy. From the Laboratory Experiment to the Uranium Machine – Research Results in Dahlem [15 August 1939]'' in Hentschel, Klaus (Editor) and Ann M. Hentschel (Editorial Assistant and Translator) ''Physics and National Socialism: An Anthology of Primary Sources'' (Birkhäuser, 1996) pp 197–206. [This article is Flügge's popularized version of the June 1939 article in ''Die Naturwissenschaften''.]</ref> Riehl recognized a business opportunity for the company, and in July he went to the HWA (''Heereswaffenamt'', Army Ordnance Office) to discuss the production of uranium. The HWA was interested and Riehl committed corporate resources to the task. The HWA eventually provided an order for the production of uranium oxide, which took place in the Auergesellschaft plant in [[Oranienburg]], north of Berlin. <ref>Hentschel and Hentschel, 1996, 369, Appendix F, see the entry for Riehl, and Appendix D, see the entry for Auergesellschaft. </ref><ref name="Riehl and Seitz, 1996, 13">Riehl and Seitz, 1996, 13. </ref> . 
+
+==Second ''Uranverein''== . 
+
+The second ''Uranverein'' began after the ''Heereswaffenamt'' (HWA, Army Ordinance Office) squeezed out the ''[[Reichsforschungsrat]]'' (RFR, Reich Research Council) of the ''[[Reichserziehungsministerium]]'' (REM, Reich Ministry of Education) and started the formal German nuclear energy project under military auspices. The second ''Uranverein'' was formed on 1 September 1939, the day World War II began, and it had its first meeting on 16 September 1939. The meeting was organized by [[Kurt Diebner]], advisor to the HWA, and held in Berlin. The invitees included [[Walther Bothe]], [[Siegfried Flügge]], [[Hans Geiger]], [[Otto Hahn]], [[Paul Harteck]], [[Gerhard Hoffmann]], [[Josef Mattauch]], and [[Georg Stetter]]. A second meeting was held soon thereafter and included [[Klaus Clusius]], [[Robert Döpel]], [[Werner Heisenberg]], and [[Carl Friedrich von Weizsäcker]]. Also at this time, the ''Kaiser-Wilhelm Institut für Physik'' (KWIP, Kaiser Wilhelm Institute for Physics, after World War II the [[Max Planck Institute for Physics]]), in [[Dahlem (Berlin)|Berlin-Dahlem]], was placed under HWA authority, with Diebner as the administrative director, and the military control of the nuclear research commenced. <ref name="Macrakis, 1993, 164-169"/><ref name="Rechenberg, Volume 6 2001"/><ref>Hentschel and Hentschel, 1996, 363–364 and Appendix F; see the entries for Diebner and Döpel. See also the entry fro the KWIP in Appendix A and the entry for the HWA in Appendix B. </ref> . 
+
+When it was apparent that the nuclear energy project would not make a decisive contribution to ending the war effort in the near term, control of the KWIP was returned in January 1942 to its umbrella organization, the ''[[Kaiser-Wilhelm Gesellschaft]]'' (KWG, Kaiser Wilhelm Society, after World War II the [[Max Planck Society|Max-Planck Gesellschaft]]), and HWA control of the project was relinquished to the RFR in July 1942. The nuclear energy project thereafter maintained its ''kriegswichtig'' (important for the war) designation and funding continued from the military. However, the German nuclear power project was then broken down into the following main areas: [[uranium]] and [[heavy water]] production, uranium isotope separation, and the ''Uranmaschine'' (uranium machine, i.e., nuclear reactor). Also, the project was then essentially split up between a number of institutes, where the directors dominated the research and set their own research agendas. <ref name="Macrakis, 1993, 164-169"/><ref>Hentschel and Hentschel, 1996; see the entry for the KWIP in Appendix A and the entries for the HWA and the RFR in Appendix B. Also see p. 372 and footnote No.&nbsp;50 on p. 372. </ref><ref>Walker, 1993, 49–53. </ref>  The dominant personnel, facilities, and areas of research were:<ref>Walker, 1993, 52–53. </ref><ref>Kant, 2002, 19. </ref><ref>[http://www.deutsches-museum.de/archiv/archiv-online/geheimdokumente/forschungszentren/wien-heidelberg-strassburg/taetigkeitsbericht-pi-wien/ Deutsches Museum] –
+''Tätigkeitsbericht des II. Physikalischen Instituts der Wiener Universität, 1945''</ref> . 
+
+*[[Walther Bothe]] – Director of the ''Institut für Physik'' (Institute for Physics) at the ''Kaiser-Wilhelm Institut für medizinische Forschung'' (KWImF, Kaiser Wilhelm Institute for Medical Research, after 1948 the [[Max Planck Institute for Medical Research|Max-Planck-Institut für medizinische Forschung]]), in [[Heidelberg]]. 
+**Measurement of nuclear constants. (6 physicists) . 
+
+*[[Klaus Clusius]] – Director of the Institute for Physical Chemistry at the [[Ludwig Maximilian University of Munich]]
+**[[Isotope separation]] and [[heavy water]] production. (ca. 4 physical chemists and physicists) . 
+
+*[[Kurt Diebner]] – Director of the HWA ''Versuchsstelle'' (testing station) in Gottow; Diebner, was also director the RFR experimental station in [[Stadtilm]], Thuringia. He was also an advisor to the HWA on nuclear physics.  . 
+
+**Measurement of nuclear constants. (ca. 6 physicists) . 
+
+*[[Otto Hahn]] – Director of the ''Kaiser-Wilhelm-Institut für Chemie'' (KWIC, Kaiser Wilhelm Institute for Chemistry, after World War II the ''[[Max Planck Institute for Chemistry|Max Planck Institut für Chemie – Otto Hahn Institut]]''), in [[Dahlem (Berlin)|Berlin-Dahlem]]. 
+**[[Transuranium element|Transuranic elements]], fission products, isotope separation, and measurement of nuclear constants. (ca. 6 chemists and physicists) . 
+
+*[[Paul Harteck]] – Director of the Physical Chemistry Department of the [[University of Hamburg]]. 
+**Heavy water production and isotope production. (5 physical chemists, physicists, and chemists) . 
+
+*[[Werner Heisenberg]] – Director of the Department of Theoretical Physics at the [[University of Leipzig]] and acting director of the ''Kaiser-Wilhelm-Institut für Physik'' (Kaiser Wilhelm Institute for Physics), in [[Dahlem (Berlin)|Berlin-Dahlem]]. 
+**''Uranmaschine'', isotope separation, and measurement of nuclear constants. (ca. 7 physicists and physical chemists) . 
+
+*[[Hans Kopfermann]] – Director of the Second Experimental Physics Institute at the [[University of Göttingen|Georg-August University of Göttingen]]. 
+**Isotope separation. (2 physicists) . 
+
+*[[Nikolaus Riehl]] – Scientific Director of the [[Auergesellschaft]]. 
+**Uranium production. (ca. 3 physicists and physical chemists) . 
+
+*[[Georg Stetter]] – Director of the ''II. Physikalisches Institut'' (Second Physics Institute) at the [[University of Vienna]]. 
+**Transuranic elements and measurement of nuclear constants. (ca. 6 physicists and physical chemists) . 
+
+The point in 1942, when the army relinquished its control of the German nuclear energy project, was the zenith of the project relative to the number of personnel devoting time to the effort. There were only about seventy scientists working on the project, with about forty devoting more than half their time to nuclear fission research. After this, the number of scientists working on applied nuclear fission diminished dramatically. Many of the scientists not working with the main institutes stopped working on nuclear fission and devoted their efforts to more pressing war related work. <ref>Walker, 1993, 52 and Reference No.&nbsp;40 on p. 262. </ref> . 
+
+On 9 June 1942, [[Adolf Hitler]] issued a decree for the reorganization of the RFR as a separate legal entity under the ''Reichsministerium für Bewaffnung und Munition'' (RMBM, Reich Ministry for Armament and Ammunition, after autumn 1943 the Reich Ministry for Armament and War Production); the decree appointed Reich Marshal [[Hermann Göring]] as the president. <ref>Document 98: ''The Führer’s Decree on the Reich Research Council'', 9 June 1942, in Hentschel an Hentschel, 1996, 303. </ref> The reorganization was done under the initiative of Reich Minister for Armament and Ammunition [[Albert Speer]]; it was necessary as the RFR under Minister Bernhard Rust was ineffective and not achieving its purpose. <ref>Read [[Samuel Abraham Goudsmit|Samuel Goudsmit’s]] account and interpretation of the role of the RFR in Document 111: ''War Physics in Germany'', January 1946, in Hentschel and Hentschel, 1996, 345–352. </ref>  It was the hope that Göring would manage the RFR with the same discipline and efficiency as he had in the aviation sector. A meeting was held on 6 July 1942 to discuss the function of the RFR and set its agenda. The meeting was a turning point in National Socialism’s attitude towards science, as well as recognition that its policies which drove Jewish scientists out of Germany were a mistake, as the Reich needed their expertise. [[Abraham Esau]] was appointed on 8 December 1942 as [[Hermann Göring|Hermann Göring’s]] ''Bevollmächtigter'' (plenipotentiary) for nuclear physics research under the RFR; in December 1943, Esau was replaced by [[Walther Gerlach]]. In the final analysis, placing the RFR under Göring’s administrative control had little effect on the German nuclear energy project. <ref name="Reich Research Council 1942">Document 99:  ''Record of Conference Regarding the Reich Research Council'', 6 July 1942, in Hentschel and Hentschel, 1996, 304–308. </ref><ref>Macrakis, 1993, 91–94. </ref><ref>Hentschel and Hentschel, 1996, Appendix F; see the entries for Esau and Gerlach. </ref><ref>Walker, 1993, 86. </ref> . 
+
+Over time, the HWA and then the RFR controlled the German nuclear energy project. The most influential people were [[Kurt Diebner]], [[Abraham Esau]], [[Walther Gerlach]], and [[Erich Schumann]]. Schumann was one of the most powerful and influential physicists in Germany. Schumann was director of the Physics Department II at the Frederick William University (later, University of Berlin), which was commissioned and funded by the ''Oberkommando des Heeres'' (OKH, Army High Command) to conduct physics research projects. He was also head of the research department of the HWA, assistant secretary of the Science Department of the OKW, and ''Bevollmächtigter'' (plenipotentiary) for high explosives. Diebner, throughout the life of the nuclear energy project, had more control over nuclear fission research than did [[Walther Bothe]], [[Klaus Clusius]], [[Otto Hahn]], [[Paul Harteck]], or [[Werner Heisenberg]]. <ref>Walker, 1993, 208. </ref><ref>Hentschel and Hentschel, 1996, Appendix F; see the entry for Schumann. Also see footnote No.&nbsp;1 on p. 207. </ref> . 
+
+==Isotope separation== . 
+
+Heinz Ewald, a member of the ''Uranverein'', had proposed an electromagnetic isotope separator, which was thought applicable to U<sup>235</sup> production and enrichment. This was picked up by [[Manfred von Ardenne]], who ran a private research establishment.  . 
+
+In 1928, von Ardenne had come into his inheritance with full control as to how it could be spent, and he established his private research laboratory the ''Forschungslaboratoriums für Elektronenphysik'',<ref>[http://www.sachsen.de/sadra/887.htm sachen.de] – ''Zur Ehrung von Manfred von Ardenne''. </ref> in Berlin-Lichterfelde, to conduct his own research on radio and television technology and [[electron microscopy]]. He financed the laboratory with income he received from his inventions and from contracts with other concerns. For example, his research on nuclear physics and high-frequency technology was financed by the ''[[Reichspostministerium]]'' (RPM, Reich Postal Ministry), headed by [[Wilhelm Ohnesorge]]. Von Ardenne attracted top-notch personnel to work in his facility, such as the nuclear physicist [[Fritz Houtermans]], in 1940.  . 
+
+Von Ardenne had also conducted research on isotope separation. <ref>[http://www.dhm.de/lemo/html/biografien/ArdenneManfred/ Ardenne] – Deutsches Historisches Museum. </ref><ref>Hentschel and Hentschel, 1996, Appendix F; see entry for Ardenne. Also see the entry for the ''Reichspostministerium'' in Appendix C. </ref> Taking Ewald's suggestion he began building a prototype for the RPM. The work was hampered by war shortages and ultimately ended by the war. <ref>Walker, 1993, 83–84, 170, 183, and Reference No.&nbsp;85 on p. 247. See also Manfred von Ardenne ''Erinnerungen, fortgeschrieben. Ein Forscherleben im Jahrhudert des Wandels der Wissenschaften und politischen Systeme.'' (Droste, 1997). </ref> . 
+
+==Internal reports== . 
+
+Reports from the research conducted were published in ''[[Kernphysikalische Forschungsberichte]]'' (''Research Reports in Nuclear Physics''), an internal publication of the ''Uranverein''. The reports were classified Top Secret, they had very limited distribution, and the authors were not allowed to keep copies. The reports were confiscated under the Allied [[Operation Alsos]] and sent to the [[United States Atomic Energy Commission]] for evaluation. In 1971, the reports were declassified and returned to Germany. The reports are available at the [[Forschungszentrum Karlsruhe|Karlsruhe Nuclear Research Center]] and the [[American Institute of Physics]]. <ref>Hentschel and Hentschel, 1996, Appendix E; see the entry for ''Kernphysikalische Forschungsberichte''. </ref><ref>Walker, 1993, 268–274. </ref> . 
+
+Individual reports are cited on the pages for some of the research participants in the ''Uranverein''; see for example [[Friedrich Bopp]], [[Kurt Diebner]], [[Klara Döpel]], [[Robert Döpel]], [[Siegfried Flügge]], [[Paul Harteck]], [[Walter Herrmann (physicist)|Walter Herrmann]], [[Karl-Heinz Höcker]], [[Fritz Houtermans]], [[Horst Korsching]], [[Georg Joos]], [[Heinz Pose]], [[Carl Ramsauer]], [[Fritz Strassmann]], [[Karl Wirtz]], and [[Karl Zimmer]].  . 
+
+==Politicisation== . 
+
+Two factors which had deleterious effects on the nuclear energy project were the politicisation of the education system under National Socialism and the rise of the ''[[Deutsche Physik]]'' movement, which was [[anti-Semitic]] and had a bias against [[theoretical physics]], especially including [[quantum mechanics]]. <ref>Beyerchen, 1977, 123 – 140. </ref> . 
+
+===Emigrations=== . 
+
+[[Adolf Hitler]] took power on 30 January 1933. On 7 April, the [[Law for the Restoration of the Professional Civil Service]] was enacted; this law, and its subsequent related ordinances, politicized the education system in Germany. This had immediate deleterious effects on the physics capabilities of Germany. <!--citation: see next para  --> Furthermore, combined with the ''deutsche Physik'' movement, the deleterious effects were intensified and prolonged. The consequences to physics in Germany and its subfield of nuclear physics were multifaceted.  . 
+
+An immediate consequence upon passage of the law was that it produced both quantitative and qualitative losses to the physics community. Numerically, it has been estimated that a total of 1,145 university teachers, in all fields, were driven from their posts, which represented about 14% of the higher learning institutional staff members in 1932–1933. <ref name="Beyerchen, 1977, 44">Beyerchen, 1977, 44. </ref> Out of 26 German nuclear physicists cited in the literature before 1933, 50% emigrated. <ref>Hentschel and Hentschel, 1996, lviii. </ref> Qualitatively, 10 physicists and four chemists who had won or would win the Nobel Prize emigrated from Germany shortly after Hitler came to power, most of them in 1933. <ref>Beyerchen, 1977, 48. </ref> These 14 scientists were: [[Hans Bethe]], [[Felix Bloch]], [[Max Born]], [[Albert Einstein]], [[James Franck]], [[Peter Debye]], [[Dennis Gabor]], [[Fritz Haber]], [[Gerhard Herzberg]], [[Victor Hess]], [[George de Hevesy]], [[Erwin Schrödinger]], [[Otto Stern]], and [[Eugene Wigner]]. Britain and the USA were often the recipients of the talent which left Germany. <ref>Helge Krgah ''Generations: A History of Physics in the Twentieth Century'' (Princeton, 1999) 249–256. </ref> The [[University of Göttingen]] had 45 dismissals from the staff of 1932–1933, for a loss of 19%. <ref name="Beyerchen, 1977, 44"/> Ironically, eight students, assistants, and colleagues of the Göttingen theoretical physicist [[Max Born]] left Europe after Hitler came to power and eventually found work on the [[Manhattan Engineering District|Manhattan Project]], thus helping the USA, Britain and Canada to develop the atomic bomb; they were [[Enrico Fermi]],<ref>An Italian working in Rome, Fermi left after anti-semitic policies were introduced in Italy</ref> [[James Franck]], [[Maria Goeppert-Mayer]], [[Robert Oppenheimer]], [[Edward Teller]], [[Victor Weisskopf]], [[Eugene Wigner]], and [[John von Neumann]]. <ref>The eight students, assistants, and colleagues of the theoretical physicist [[Max Born]] who left Europe found work on the [[Manhattan Engineering District|Manhattan Project]] were:
+* [[Enrico Fermi]] – Director of Research, [[Metallurgical Laboratory|Met Lab]] of the [[University of Chicago]] – One of the four major sites of the Manhattan Engineering District. 
+* [[James Franck]] – Director of the Chemistry Division, [[Met Lab]]
+* [[Maria Goeppert-Mayer]] – Worked on the Manhattan Project with [[Harold Urey]] at [[Columbia University]] on [[isotope separation]]. 
+* [[Robert Oppenheimer]] – Director of [[Los Alamos National Laboratory|Los Alamos Scientific Laboratory]] (LASL) – One of the four major sites of the [[Manhattan Engineering District]]. 
+* [[Edward Teller]] – Head of T-1 Group, Hydrodynamics of Implosion and Super, LASL
+* [[Victor Weisskopf]] – Head of T-3 Group, Experiments, Efficiency Calculations, and Radiation Hydrodynamics, LASL
+* [[Eugene Wigner]] – Director of Theoretical Studies, [[Met Lab]]
+*[[John von Neumann]] – LASL consultant on implosion mechanism for the plutonium bomb. (Neumann was assistant to [[David Hilbert]] at Göttingen and was greatly influenced by both David Hilbert’s and Max Born’s work. Neumann applied the mathematics of [[Hilbert space]] to Born’s quantum mechanics, and, in 1932, his foundational book on the mathematical underpinnings of quantum mechanics, ''Mathematische Grundlagen der Quantenmechanik'', was published.)</ref> [[Otto Robert Frisch]], who with [[Rudolf Peierls]] first calculated the critical mass of U-235 needed for an explosive, was also a Jewish refugee.  . 
+
+[[Max Planck]], the father of the [[quantum]], had been right in assessing the consequences of National Socialist policies. In 1933, Max Planck, as president of the ''[[Kaiser Wilhelm Institute|Kaiser Wilhelm Gesellschaft]]'' (Kaiser Wilhelm Society), met with [[Adolf Hitler]]. During the meeting, Planck told Hitler that forcing Jewish scientists to emigrate would mutilate Germany and the benefits of their work would go to foreign countries. Hitler responded with a rant against Jews and Planck could only remain silent and then take his leave. The National Socialist regime would only come around to the same conclusion as Planck in the 6 July 1942 meeting regarding the future agenda of the ''[[Reichsforschungsrat]]'' (RFR, Reich Research Council), but by then it was too late. <ref name="Reich Research Council 1942"/><ref>Document 114: ''Max Planck: My Audience with Adolf Hitler'' in Hentschel and Hentschel, 1996, 359–261. </ref> . 
+
+===Heisenberg affair=== . 
+
+The politicisation of the education system essentially replaced academic tradition and excellence with ideological adherence and trappings, such as membership in National Socialist organisations, such as the ''[[Nazi Party|Nationalsozialistische Deutsche Arbeiterpartei]]'' (NSDAP, National Socialist German Workers Party), the ''Nationalsozialistischer Deutscher Dozentenbund'' (NSDDB, National Socialist German University Lecturers League), and the ''Nationalsozialistischer Deutscher Studentenbund'' (NSDStB, National Socialist German Student League). The politicization can be illustrated with the conflict which evolved when a replacement for [[Arnold Sommerfeld]] was sought in view of his emeritus status. The conflict involved one of the prominent ''Uranverein'' participants, Werner Heisenberg.  . 
+
+On 1 April 1935 [[Arnold Sommerfeld]], Heisenberg’s teacher and doctoral advisor at the [[University of Munich]], achieved emeritus status. However, Sommerfeld stayed on as his own temporary replacement during the selection process for his successor, which took until 1 December 1939. The process was lengthy due to academic and political differences between the Munich Faculty’s selection and that of both the ''[[Reichserziehungsministerium]]'' (REM, Reich Education Ministry) and the supporters of ''[[Deutsche Physik]]''. In 1935, the Munich Faculty drew up a candidate list to replace Sommerfeld as ordinarius professor of theoretical physics and head of the Institute for Theoretical Physics at the University of Munich. There were three names on the list: [[Werner Heisenberg]], who received the [[Nobel Prize in Physics]] in 1932, [[Peter Debye]], who would receive the [[Nobel Prize in Chemistry]] in 1936, and [[Richard Becker]] – all former students of Sommerfeld. The Munich Faculty was firmly behind these candidates, with Heisenberg as their first choice. However, supporters of ''Deutsche Physik'' and elements in the REM had their own list of candidates and the battle commenced, dragging on for over four years. During this time, Heisenberg, came under vicious attack by the supporters of ''deutsche Physik.'' One such attack was published in ''Das Schwarze Korps'', the newspaper of the ''[[Schutzstaffel]]'', or SS, headed by [[Heinrich Himmler]]. In the editorial, Heisenberg was called a “White Jew” who should be made to “disappear.”<ref>Klaus Hentschel (Editor) and Ann M. Hentschel (Editorial Assistant and Translator) ''Physics and National Socialism: An Anthology of Primary Sources'' (Birkhäuser, 1996). In this book, see: Document No.&nbsp;55 ''’White Jews’ in Science [15 July 1937]'' pp. 152–157. </ref>  These verbal attacks were taken seriously, as Jews were subject to physical violence and incarceration at the time. Heisenberg fought back with an editorial and a letter to Himmler, in an attempt to get a resolution to this matter and regain his honor. At one point, Heisenberg’s mother visited Himmler’s mother to help bring a resolution to the affair. The two women knew each other as a result of Heisenberg’s maternal grandfather and Himmler’s father being rectors and members of a Bavarian hiking club. Eventually, Himmler settled the Heisenberg affair by sending two letters, one to ''SS-Gruppenführer'' [[Reinhard Heydrich]] and one to Heisenberg, both on 21 July 1938. In the letter to Heydrich, Himmler said Germany could not afford to lose or silence Heisenberg as he would be useful for teaching a generation of scientists. To Heisenberg, Himmler said the letter came on recommendation of his family and he cautioned Heisenberg to make a distinction between professional physics research results and the personal and political attitudes of the involved scientists. The letter to Heisenberg was signed under the closing “''Mit freundlichem Gruss und, Heil Hitler!''” ("With friendly greetings, Heil Hitler!")<ref name="Goudsmit, Samuel A. 1986 pp 117 -119">Goudsmit, Samuel A. ''ALSOS '' (Tomash Publishers, 1986) pp 117 -119. </ref> Overall, the settlement of the Heisenberg affair was a victory for academic standards and professionalism. However, the replacement of Sommerfeld by Wilhelm Müller on 1 December 1939 was a victory of politics over academic standards. Müller was not a theoretical physicist, had not published in a physics journal, and was not a member of the ''[[Deutsche Physikalische Gesellschaft]]'' (DPG, German Physical Society); his appointment as a replacement for Sommerfeld was considered a travesty and detrimental to educating a new generation of theoretical physicists. <ref name="Goudsmit, Samuel A. 1986 pp 117 -119"/><ref>Alan D. Beyerchen, ''Scientists Under Hitler: Politics and the Physics Community in the Third Reich'' (Yale, 1977) pp. 153–167. </ref><ref>David C. Cassidy ''Uncertainty: The Life and Science of Werner Heisenberg'' (W. H. Freeman and Company, 1992) pp. 383–387. </ref><ref>Powers, Thomas  ''Heisenberg’s War: The Secret History of the German Bomb'' (Knopf, 1993)  pp 40 – 43. </ref><ref>Klaus Hentschel (Editor) and Ann M. Hentschel (Editorial Assistant and Translator) ''Physics and National Socialism: An Anthology of Primary Sources'' (Birkhäuser, 1996). In this book, see: Document No.&nbsp;55 ''’White Jews’ in Science [15 July 1937]'' pp. 152–157;  Document No.&nbsp;63 ''Heinrich Himmler: Letter to Reinhard Heydrich [21 July 1938]'' pp. 175–176; Document No.&nbsp;64 ''Heinrich Himmler: Letter to Werner Heisenberg [21 July 1938]'' pp. 176–177; Document No.&nbsp;85 ''Ludwig Prandtl: Attachment to the letter to Reich Marschal (sic) Hermann Göring [28 April 1941]'' pp. 261–266; and Document No.&nbsp;93 ''[[Carl Ramsauer]]: The Munich Conciliation and Pacification Attempt 20 January 1942]'' pp. 290–292. </ref> . 
+
+===Missing generation of physicists=== . 
+
+Politicization of the academic community, combined with the impact of the ''deutsche Physik'' movement and other policies, such as drafting physicists to fight in the war (e.g., [[Paul O. Müller]], a member of the ''Uranverein'' who was killed at the [[Eastern Front (World War II)|Russian front]]), had the net effect of bringing about a missing generation of physicists. At the close of the war, physicists born between 1915 and 1925 were almost nonexistent. <ref>Walker, 1993, 42–43, and 80. </ref> . 
+
+===Autonomy and accommodation=== . 
+
+Members of the ''Uranverein'', [[Wolfgang Finkelnburg]], [[Werner Heisenberg]], [[Carl Ramsauer]], and [[Carl Friedrich von Weizsäcker]] were effective in countering the politicisation of academia and effectively putting an end to the influence of the ''deutsche Physik'' movement. However, in order to do this they were, as were many scientists, caught between autonomy and accommodation. <ref>Dieter Hoffmann ''Between Autonomy and Accommodation: The German Physical Society during the Third Reich'', ''Physics in Perspective''  7(3) 293–329 (2005). </ref> Essentially, they would have to legitimize the National Socialist system by compromise and collaboration. <ref>Walker, 1993, 80. </ref> . 
+
+During the period in which ''Deutsche Physik'' was gaining prominence, a foremost concern of the great majority of scientists was to maintain autonomy against political encroachment. <ref>Beyerchen, 1977, 199–210. </ref>  Some of the more established scientists, such as [[Max von Laue]], could demonstrate more autonomy than the younger and less established scientists. <ref>Hoffmann, 2005, 293–329. </ref>  This was, in part, due to political organizations, such as the ''Nationalsozialistischer Deutscher Dozentenbund'' (National Socialist German University Lecturers League), whose district leaders had a decisive role in the acceptance of an ''[[Habilitationsschrift]]'', which was a prerequisite to attaining the rank of ''[[Privatdozent]]'' necessary to becoming a university lecturer. <ref>Hentschel and Hentschel, 1996, Appendix C; see the entry for the NSDDB. </ref>  While some with ability joined such organizations out of tactical career considerations, others with ability and adherence to historical academic standards joined these organizations to moderate their activities. This was the case of Finkelnburg. <ref name="Beyerchen, 1977, 176-179">Beyerchen, 1977, 176–179. </ref><ref>Hentschel and Hentschel, 1996, 341–342. </ref>  It was in the summer of 1940 that Finkelnburg became an acting director of the NSDDB at ''Technische Hochschule'', Darmstadt. <ref>Hentschel and Hentschel, 1996, 290. </ref>  As such, he organized the ''Münchner Religionsgespräche'', which took place on 15 November 1940 and was known as the ''Munich Synod ''. The ''Münchner Religionsgespräche'' was an offensive against ''deutsche Physik''. <ref>Finkelnburg, invited five representatives to make arguments for theoretical physics and academic decisions based on ability, rather than politics: [[Carl Friedrich von Weizsäcker]], [[Otto Scherzer]], [[Georg Joos]], Otto Heckmann, and Hans Kopfermann. [[Alfons Bühl]], a supporter of ''deutsche Physik'', invited Harald Volkmann, [[Bruno Thüring]], Wilhelm Müller, [[Rudolf Tomaschek]], and Ludwig Wesch. The discussion was led by Gustav Borer, with Herbert Stuart and Johannes Malsch as observers. See Document 110: ''The Fight against Party Politics'' by Wolfgang Finkelnburg in Hentschel and Hentschel, 1996, 339–345. Also see Beyerchen, 1977, 176–179. </ref>  While the technical outcome may have been thin, it was a political victory against ''deutsche Physik''. <ref name="Beyerchen, 1977, 176-179"/> Also, in part, it was Finkelnburg’s role in organising this event that influenced [[Carl Ramsauer]], as president of the ''[[Deutsche Physikalische Gesellschaft]]'', to select Finkelnburg in 1941 as his deputy. <ref>Document 86: ''Letter to [[Ludwig Prandtl]]'' by [[Carl Ramsauer]], 4 June 1944, in Hentschel and Hentschel, 1996, 267–268. </ref>  Finkelnburg served in this capacity until the end of World War II.  . 
+
+Early in 1942, as president of the DPG, Ramsauer, on [[Felix Klein|Felix Klein’s]] initiative and with the support of [[Ludwig Prandtl]], submitted a petition to Reich Minister [[Bernhard Rust]], at the ''[[Reichserziehungsministerium]]'' (Reich Education Ministry). The petition, a letter and six attachments,<ref>Letter to Bernhard Rust, 20 January 1942. Document # 90 in Hentschel and Hentschel, 1996, pp. 278–281. 
+*Attachment I: American Physics Outdoes German Physics. Document No.&nbsp;91 in Hentschel and Hentschel, 1996, pp. 281–284. 
+*Attachment II: Publications Against Modern Theoretical Physics. Cited in Hentschel and Hentschel, 1996, p. 279, but omitted from the anthology. 
+*Attachment III: The Crucial Importance of Theoretical Physics and Particularly Modern Theoretical Physics. Cited in Hentschel and Hentschel, 1996, p. 280, but omitted from the anthology. 
+*Attachment IV: Refuting Allegations that Modern Theoretical Physics is a Product of the Jewish Spirit. Document 92 in Hentschel and Hentschel, 1996, pp. 290–292. 
+*Attachment V: Excerpt from an attachment to [[Ludwig Prandtl|Ludwig Prandtl’s]] letter to Reich Marshal [[Hermann Göring]], 28 April 1941. Cited in Hentschel and Hentschel, 1996, 280; see Document No.&nbsp;85 in Hentschel and Hentschel, 1996, pp. 261- 266. 
+*Attachment VI: The Munich Conciliation and Pacification Attempt. Document No.&nbsp;93 in Hentschel and Hentschel, 1996, pp. 290 – 292. </ref> addressed the atrocious state of physics instruction in Germany, which Ramsauer concluded was the result of politicization of education. <ref>Hentschel and Hentschel, 1966, Appendix F; see the entry for Carl Ramsauer. </ref> . 
+
+==Exploitation and denial== . 
+
+Near the end of World War II, the principal Allied war powers made plans for exploitation of German science. In light of the implications of nuclear weapons, German nuclear fission and related technologies were singled out for special attention. In addition to exploitations, denial was an element of their efforts, i.e., the Americans and Russians conducted their respective operations to try to deny German technology, personnel, and materiel to the other party. Application of denial often meant getting there first, which to some extent put the Russians at a disadvantage in some geographic locations, even if the area was to be in the Russian zone of occupation. When it came to applications of exploitation and denial, all parties were sometimes heavy-handed. <ref>Gimbel, John ''U.S. Policy and German Scientists: The Early Cold War'', ''Political Science Quarterly'' Volume 101, Number 3, 433–451 (1986). </ref><ref>Gimbel, John ''Science, Technology, and Reparations: Exploitation and Plunder in Postwar Germany'' (Stanford, 1990). </ref><ref>Goudsmit, Samuel with an introduction by [[Reginald Victor Jones|R. V. Jones]] ''Alsos'' (Toamsh, 1986). </ref><ref>Norman M. Naimark ''The Russians in Germany: A History of the Soviet Zone of Occupation, 1945–1949'' (Belkanp, 1995). </ref><ref>Oleynikov, Pavel V. ''German Scientists in the Soviet Atomic Project'', ''The Nonproliferation Review'' Volume 7, Number 2, 1 – 30 [http://cns.miis.edu/pubs/npr/vol07/72/72pavel.pdf (2000)]. </ref> . 
+
+A general United States denial and exploitation effort was [[Operation Paperclip]]. Operations directed specifically towards German nuclear fission were [[Operation Alsos]] and [[Operation Epsilon]], the latter being done in collaboration with the British. In lieu of the codename for the Russian operation, if it had one, it has been referred to by Oleynikov as the [[Russian Alsos|Russian “Alsos”]]. <ref>Oleynikov, 2000, 3. </ref> . 
+
+===American and British=== . 
+
+Berlin had been a location of many German scientific research facilities. To limit casualties and loss of equipment, many of these facilities were dispersed to other locations in the latter years of the war.  . 
+
+Unfortunately for the Russians, the ''Kaiser-Wilhelm-Institut für Physik'' (KWIP, Kaiser Wilhelm Institute for Physics) had mostly been moved in 1943 and 1944 to [[Hechingen]] and its neighboring town of [[Haigerloch]], on the edge of the [[Black Forest]], which eventually became the French occupation zone. This move allowed the Americans to take into custody a large number of German scientists associated with nuclear research. The only section of the institute which remained in Berlin was the low-temperature physics section, headed by Ludwig Bewilogua, who was in charge of the exponential uranium pile. <ref>Naimark, 1995, 208–209. </ref><ref>Bernstein, 2001, 49–52. </ref> . 
+
+Nine of the prominent German scientists who published reports in ''Kernphysikalische Forschungsberichte'' as members of the ''Uranverein''<ref>Walker, 1993, 268–274 and Reference No.&nbsp;40 on p. 262. </ref> were picked up by [[Operation Alsos]] and incarcerated in England under [[Operation Epsilon]]: [[Erich Bagge]], [[Kurt Diebner]], [[Walther Gerlach]], [[Otto Hahn]], [[Paul Harteck]], [[Werner Heisenberg]], [[Horst Korsching]], [[Carl Friedrich von Weizsäcker]], and [[Karl Wirtz]]. Also, incarcerated was [[Max von Laue]], although he had nothing to do with the nuclear energy project. Goudsmit, the chief scientific advisor to Operation Alsos, thought von Laue might be beneficial to the postwar rebuilding of Germany and would benefit from the high level contacts he would have in England. <ref>Bernstein, 2001, 50 and 363–365. </ref> . 
+
+'''Oranienburg Plant''' . 
+
+With the interest of the ''Heereswaffenamt'' (HWA, Army Ordnance Office), [[Nikolaus Riehl]], and his colleague [[Günter Wirths]], set up an industrial-scale production of high-purity uranium oxide at the ''[[Auergesellschaft]]'' plant in [[Oranienburg]]. Adding to the capabilities in the final stages of metallic uranium production were the strength’s of the Degussa corporation’s capabilities in metals production. <ref>Hentschel and Hentschel, 1996, 369, Appendix F (see the entry for Nikolaus Riehl), and Appendix D (see the entry for Auergesellschaft). </ref><ref>Riehl and Seitz, 1996, 13 and 69. </ref> . 
+
+The Oranienburg plant provided the uranium sheets and cubes for the ''Uranmaschine'' experiments conducted at the KWIP and the ''Versuchsstelle'' (testing station) of the ''Heereswaffenamt'' (Army Ordnance Office) in Gottow. The G-1 experiment<ref>F. Berkei, W. Borrmann, W. Czulius, [[Kurt Diebner]], Georg Hartwig, [[Karl-Heinz Höcker|K. H. Höcker]], [[Walter Herrmann (physicist)|W. Herrmann]], [[Heinz Pose|H. Pose]], and [[Ernst Rexer]] ''Bericht über einen Würfelversuch mit Uranoxyd und Paraffin'' G-125 (dated before 26 November 1942). </ref> performed at the HWA testing station, under the direction of [[Kurt Diebner]], had lattices of 6,800 uranium oxide cubes (about 25 tons), in the nuclear moderator paraffin. <ref name="Riehl and Seitz, 1996, 13"/><ref>Hentschel and Hentschel, 1996, 369 and 373, Appendix F (see the entry for Nikolaus Riehl and Kurt Diebner), and Appendix D (see the entry for Auergesellschaft). </ref> . 
+
+Work of the American Operation Alsos teams, in November 1944, uncovered leads which took them to a company in Paris that handled rare earths and had been taken over by the ''Auergesellschaft''. This, combined with information gathered in the same month through an Alsos team in [[Strasbourg]], confirmed that the Oranienburg plant was involved in the production of uranium and thorium metals. Since the plant was to be in the future Soviet zone of occupation and the Russian troops would get there before the Allies, General [[Leslie Groves]], commander of the [[Manhattan Project]], recommended to General [[George Marshall]] that the plant be destroyed by aerial bombardment, in order to deny its uranium production equipment to the Russians. On 15 March 1945, 612 [[B-17 Flying Fortress]] bombers of the [[Eighth Air Force]] dropped 1,506 tons of high-explosive and 178 tons of incendiary bombs on the plant. Riehl visited the site with the Russians and said that the facility was mostly destroyed. Riehl also recalled long after the war that the Russians knew precisely why the Americans had bombed the facility – the attack had been directed at them rather than the Germans. <ref>Bernstein, 2001, 50–51. </ref><ref>Naimark, 1995, 205–207. </ref><ref>Riehl and Seitz, 1996, 77–79. </ref><ref>Walker, 1993, 156. </ref><ref>Leslie M. Groves ''Now it Can be Told: The Story of the Manhattan Project'' (De Capo, 1962) 220–222 and 230–231. </ref> . 
+
+===French=== . 
+
+From 1941 to 1947, [[Friedrich Bopp|Fritz Bopp]] was a staff scientist at the KWIP, and worked with the ''Uranverein''. In 1944, when most of the KWIP was evacuated to [[Hechingen]] in Southern Germany due to air raids on Berlin, he went there too, and he was the Institute’s Deputy Director there. When the American [[Operation Alsos|Alsos Mission]] evacuated Hechingen and [[Haigerloch]], near the end of World War II, French armed forces occupied Hechingen. Bopp did not get along with them and described the initial French policy objectives towards the KWIP as exploitation, forced evacuation to France, and seizure of documents and equipment. The French occupation policy was not qualitatively different from that of the American and Russian occupation forces, it was just carried out on a smaller scale. In order to put pressure on Bopp to evacuate the KWIP to France, the French Naval Commission imprisoned him for five days and threatened him with further imprisonment if he did not cooperate in the evacuation. During his imprisonment, the [[spectroscopist]] Hermann Schüler, who had a better relationship with the French, persuaded the French to appoint him as Deputy Director of the KWIP. This incident caused tension between the physicists and spectroscopists at the KWIP and within its umbrella organization the ''[[Kaiser Wilhelm Institute|Kaiser-Wilhelm Gesellschaft]]'' (Kaiser Wilhelm Society). <ref>Hentschel and Hentschel, 1996, Appendix F; see the entry for Bopp. </ref><ref>Walker, 1993, 186–187. </ref><ref>Bernstein, 2001, 212 and footnote No.&nbsp;5 on p. 212. </ref><ref>For information on the American and Russian exploitation of Germany after World War II, see: Norman M. Naimark ''The Russians in Germany: A History of the Soviet Zone of Occupation, 1945–1949'' (Belknap, 1995); John Gimbel ''Science, Technology, and Reparations: Exploitation and Plunder in Postwar Germany'' (Stanford University Press, 1990); and John Gimbel ''U.S. Policy and German Scientists: The Early Cold War'', ''Political Science Quarterly'' Volume 101, Number 3, 433–451 (1986). </ref> . 
+
+===Soviet=== . 
+
+At the close of World War II, the Soviet Union had special search teams operating in Austria and Germany, especially in Berlin, to identify and “requisition” equipment, materiel, intellectual property, and personnel useful to the [[Soviet atomic bomb project]]. The exploitation teams were under the [[Russian Alsos|Soviet Alsos]] and they were headed by [[Lavrentiy Beria|Lavrentij Beria’s]] deputy, Colonel General A. P. Zavenyagin. These teams were composed of scientific staff members, in [[NKVD]] officer’s uniforms, from the bomb project’s only laboratory, Laboratory No. 2, in Moscow, and included [[Yulii Borisovich Khariton|Yulij Borisovich Khariton]], [[Isaak Kikoin|Isaak Konstantinovich Kikoin]], and [[Lev Artsimovich|Lev Andreevich Artsimovich]]. [[Georgy Flyorov|Georgij Nikolaevich Flerov]] had arrived earlier, although Kikoin did not recall a vanguard group. Targets on the top of their list were the ''Kaiser-Wilhelm Institut für Physik'' (KWIP, [[Kaiser Wilhelm Institute for Physics]]), the Frederick William University (today, the [[Humboldt University of Berlin|University of Berlin]]), and the ''Technische Hochschule Berlin'' (today, the ''Technische Universität Berlin'' ([[Technical University of Berlin]]''). <ref>Oleynikov, 2000, 3–8. </ref><ref>Riehl and Seitz, 1996, 71–83. </ref><ref>Norman M. Naimark ''The Soviets in Germany: A History of the Soviet Zone of Occupation, 1945–1949'' (Belkanp, 1995) 203–250. </ref> . 
+
+German physicists who worked on the ''Uranverein'' and were sent to the [[Soviet Union]] to work on the [[Soviet atomic bomb project]] included: Werner Czulius, [[Robert Döpel]], [[Walter Herrmann (physicist)|Walter Herrmann]], [[Heinz Pose]], [[Ernst Rexer]], [[Nikolaus Riehl]], and [[Karl Zimmer]]. [[Günter Wirths]], while not a member of the ''Uranverein'', worked for Riehl at the ''[[Auergesellschaft]]'' on reactor-grade uranium production and was also sent to the Soviet Union.  . 
+
+Zimmer’s path to work on the Soviet atomic bomb project was through a prisoner of war camp in [[Krasnogorsk]], as was that of his colleagues [[Hans-Joachim Born]] and [[Alexander Catsch]] from the ''Kaiser-Wilhelm Institut für Hirnforschung'' (KWIH, [[Kaiser Wilhelm Institute for Brain Research]], today the ''Max-Planck Institut für Hirnforschung''), who worked there for [[Nikolay Timofeev-Ressovsky|N. V. Timofeev-Resovskij]], director of the ''Abteilung für Experimentelle Genetik'' (Department of Experimental Genetics). All four eventually worked for Riehl in the Soviet Union at [[Laboratory B in Sungul’]]. <ref>Riehl and Seitz, 1996, 121–132. </ref><ref>Oleynikov, 2000, 11 and 15–17. </ref> . 
+
+Von Ardenne, who had worked on isotope separation for the ''[[Reichspostministerium]]'' (Reich Postal Ministry), was also sent to the Soviet Union to work on their atomic bomb project, along with [[Gustav Hertz]], Nobel laureate and director of Research Laboratory II at [[Siemens]], [[Peter Adolf Thiessen]], director of the ''Kaiser-Wilhelm Institut für physikalische Chemie und Elektrochemie'' (KWIPC, Kaiser Wilhelm Institute for Chemistry and Electrochemisty, today the [[Fritz Haber Institute of the MPG|Fritz Haber Institute of the Max-Planck Society]]), and [[Max Volmer]], director of the Physical Chemistry Institute at the Berlin ''Technische Hochschule'' ([[Technical University of Berlin]]), who all had made a pact that whoever first made contact with the Soviets would speak for the rest. <ref>Heinemann-Grüder, Andreas ''Keinerlei Untergang: German Armaments Engineers during the Second World War and in the Service of the Victorious Powers'' in Monika Renneberg and Mark Walker (editors) ''Science, Technology and National Socialism'' 30–50 (Cambridge, 2002 paperback edition) 44. </ref> Before the end of World War II, Thiessen, a member of the [[Nazi Party]], had Communist contacts. <ref>Hentschel and Hentschel, 1996, Appendix F; see the entry for Thiessen. </ref>  On 27 April 1945, Thiessen arrived at von Ardenne’s institute in an armored vehicle with a major of the Soviet Army, who was also a leading Soviet chemist, and they issued Ardenne a protective letter (''Schutzbrief''). <ref>Oleynikov, 2000, 5 and 11–13. </ref> . 
+
+==Comparison of the Manhattan Project and the ''Uranverein''== . 
+
+The joint American, British, and Canadian [[Manhattan Engineering District|Manhattan Project]] developed the uranium and plutonium atomic bombs, which helped bring an end to hostilities with Japan during World War II. Its success is attributable to meeting all four of the following conditions:<ref>N. P. Landsman, ''Getting even with Heisenberg'', ''Studies in History and Philosophy of Modern Physics'' Volume 33, 297–325 (2002) pp. 318–319. </ref> . 
+
+#A strong initial drive, by a small group of scientists, to launch the project. 
+#Unconditional government support from a certain point in time. 
+#Essentially unlimited manpower and industrial resources. 
+#A concentration of brilliant scientists devoted to the project.  . 
+
+Even with all four of these conditions in place the Manhattan Project succeeded only after the war in Europe had been brought to a conclusion. Mutual distrust existed between the German government and the scientists.{{Citation needed|date=November 2010}} . 
+
+For the Manhattan Project, the second condition was met on 9 October 1941 or shortly thereafter. Significant here is that by the end of 1941 it was already apparent that the German nuclear energy project would not make a decisive contribution to ending the German war effort in the near term, and control of the project was relinquished by the ''Heereswaffenamt'' (HWA, Army Ordnance Office) to the ''[[Reichsforschungsrat]]'' (RFR, Reich Research Council) in July 1942.  . 
+
+Concerning condition three, the needs in [[materiel]] and manpower for a large-scale project necessary for the separation of isotopes for a uranium-based bomb and heavy water production for reactors for a plutonium-based bomb may have been possible in the early years of the war.{{Citation needed|date=November 2010}} . 
+
+As to condition four, the high priority allocated to the [[Manhattan Engineering District|Manhattan Project]] allowed for the recruitment and concentration of capable scientists on the project. In Germany, on the other hand, a great many young scientists and technicians who would have been of great use to such a project were conscripted into the German armed forces, while others had fled the country before the war due to antisemitism and political persecution. <ref>{{Cite book | last = Van der Vat | first = Dan | coauthors = Albert Speer | title = The Good Nazi: The Life and Lies of Albert Speer | publisher=Houghton Mifflin Harcourt | year = 1997 | page = 138 | url = | id = | isbn = 9780395652435}}</ref> . 
+
+Germany fell short of what was required to make an atomic bomb. <ref>Landsman, 2002, 303 and 319-319. </ref><ref>Jeremy Bernstein ''Hitler’s Uranium Club: The Secret Recording’s at Farm Hall'' (Copernicus, 2001) 122–123. </ref><ref>M. Bundy ''Danger and survival: Choices about the bomb in the first fifty years'' (Random House, 1988), as cited in Landsman, 2002, 318n83. </ref><ref>Werner Heisenberg ''Research in Germany on the Technical Applications of Atomic Energy'', ''Nature'' Volume 160, Number 4059, 211–215 (16 August 1947). See also the annotated English translation: ''Document 115. Werner Heisenberg: Research in Germany on the Technical Application of Atomic Energy [16 August 1947]'' in Hentschel, Klaus (editor) and Ann M. Hentschel (editorial assistant and translator) ''Physics and National Socialism: An Anthology of Primary Sources'' (Birkhäuser, 1996) 361–379. Especially see Hentschel and Hentschel, 1996, 378 and 378n76. </ref> . 
+
+==Recent developments== . 
+
+A book by [[Rainer Karlsch]], ''[[Hitlers Bombe]]'', published in 2005, alleged that [[Kurt Diebner|Diebner's]] team conducted the first successful nuclear weapon test of some type (employing [[Shaped charge|hollow charges]] for ignition) of nuclear related device in [[Ohrdruf]], Thuringia on 4 March 1945. <ref>“On 4 March 1945, Clare Werner was standing on a hillside in Thuringia, Germany. Not too far away was the military training base near the town of Ohrdruf. Unexpectedly there was a flash of light. "I suddenly saw something," she said, " ... it was as bright as hundreds of bolts of lightning, red on the inside and yellow on the outside, so bright you could've read the newspaper. It all happened so quickly, and then we couldn't see anything at all. We just noticed there was a powerful wind...” ---from ''Hitler's Bombe'' by Rainer Karlsch</ref> However, Karlsch has been criticized for displaying "a catastrophic lack of understanding of physics" by physicist [[Michael Schaaf]], who is himself the author of an earlier book about Nazi atomic research, while Karlsch himself has acknowledged that he lacked absolute proof for the claims made in his book. <ref>{{Cite web   | last = Furlong  | first = Ray  | authorlink = Ray Furlong  | title = Hitler 'tested small atom bomb'  |publisher=BBC News    | date = 14 March 2005  | url = http://news.bbc.co.uk/1/hi/world/europe/4348497.stm  }}</ref> . 
+
+A similar project was described in [[David Irving]]'s 1967 book ''The Virus House'', where it was claimed that some of Diebner's researchers had unsuccessfully attempted to produce fusion using conventional explosives and heavy [[paraffin]] as a deuterium carrier. Irving also describes a further experiment in 1943 carried out by Trinks and Sachsse, which used a hollow sphere of silver filled with [[deuterium]], imploded by conventional explosives. Again it was unsuccessful, no trace of radioactivity being produced. <ref>{{cite book | last = Irving | first = David | authorlink = David Irving | title = The Virus House | publisher=Kimber | year = 1967 | pages = 194–196 | url = | id = | isbn = }}</ref> . 
+
+Science historian Mark Walker also published his analysis in 2005,<ref>Walker, Mark ''Eine Waffenschmiede? Kernwaffen- und Reaktorforschung am Kaiser-Wilhelm-Institut für Physik'', ''Forschungsprogramm „Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus“'' [http://www.mpiwg-berlin.mpg.de/KWG/Ergebnisse/Ergebnisse26.pdf Ergebnisse 26] (2005)</ref> and in 2005 Karlsch and Walker published an article on the controversial historical evidence, briefly referenced in the article. <ref>Rainer Karlsch and Mark Walker ''New light on Hitler's bomb'' physicsworld.com [http://physicsworld.com/cws/article/print/22270 (1 June 2005)]. </ref> The ''[[Physikalisch-Technische Bundesanstalt]]'' (PTB, Federal Physical and Technical Institute) tested soil samples in the area of the alleged test, and in 2006 it issued its results: ''keinen Befund'' (nothing found). <ref>Herbert Janßen and Dirk Arnold ''In Bodenproben keine Spur von “Hitlers Bombe”: PTB legt Analysebericht zu Bodenproben aus dem thüringischen Ohrdruf vor'', ''Physikalisch-Technische Bundesanstalt'' press release [http://www.ptb.de/de/aktuelles/archiv/presseinfos/pi2006/pitext/pi060215.htm (15 February 2006)]. </ref> Karlsch published a follow-on book with Heinko Petermann to elaborate on issues raised in his first book. <ref>Rainer Karlsch and Heinko Petermann ''Für und Wider “Hitlers Bombe” (Waxmann, 2007). </ref> . 
+
+==See also==. 
+{{div col begin}}
+* [[Copenhagen (play)]]
+* [[Enriched uranium]]
+* [[Hanford Site]]
+* [[History of nuclear weapons]]
+* [[Isotope separation]]
+* [[Japanese atomic program]]
+* [[List of countries with nuclear weapons]]
+* [[Lists of nuclear disasters and radioactive incidents]]
+* [[Los Alamos National Laboratory]]
+* [[Manhattan Project]]
+* [[Metallurgical Laboratory]]
+* [[Norwegian heavy water sabotage]]
+* [[Nuclear weapon]]
+* [[Oak Ridge, Tennessee]]
+* [[Operation Alsos]]
+* [[Soviet atomic bomb project]]
+* [[Tube Alloys]]
+* [[Zippe-type centrifuge]]
+{{div col end}} . 
+
+==Bibliography==. 
+<div class="references-small" style="-moz-column-count:2; column-count:2;">
+*[[Jeremy Bernstein|Bernstein, Jeremy]] ''Hitler’s Uranium Club: The Secret Recording’s at Farm Hall'' (Copernicus, 2001) ISBN 0-387-95089-3 . 
+
+*Bernstein, Jeremy ''Heisenberg and the critical mass'', ''Am. J. Phys.'' Volume 70, Number 9, 911–916 (2002) . 
+
+*Bernstein, Jeremy ''Heisenberg in Poland'', ''Am. J. Phys.'' Volume 72, Number 3, 300–304 (2004). See also ''Letters to the Editor'' by Klaus Gottstein and a reply by Jeremy Bernstein in ''Am. J. Phys.'' Volume 72, Number 9, 1143–1145 (2004).  . 
+
+*Beyerchen, Alan D. ''Scientists Under Hitler: Politics and the Physics Community in the Third Reich'' (Yale, 1977) ISBN 0-300-01830-4 . 
+
+*Gimbel, John ''U.S. Policy and German Scientists: The Early Cold War'', ''Political Science Quarterly'' Volume 101, Number 3, 433–451 (1986) . 
+
+*Gimbel, John ''Science, Technology, and Reparations: Exploitation and Plunder in Postwar Germany'' (Stanford, 1990) . 
+
+*Goudsmit, Samuel with an introduction by [[Reginald Victor Jones|R. V. Jones]] ''Alsos'' (Toamsh, 1986) . 
+
+*Heisenberg, Werner ''Research in Germany on the Technical Applications of Atomic Energy'', ''Nature'' Volume 160, Number 4059, 211–215 (16 August 1947). See also the annotated English translation: ''Document 115. Werner Heisenberg: Research in Germany on the Technical Application of Atomic Energy [16 August 1947]'' in Hentschel, Klaus (editor) and Ann M. Hentschel (editorial assistant and translator) ''Physics and National Socialism: An Anthology of Primary Sources'' (Birkhäuser, 1996) 361–379.  . 
+
+*Hentschel, Klaus (editor) and Ann M. Hentschel (editorial assistant and translator) ''Physics and National Socialism: An Anthology of Primary Sources'' (Birkhäuser, 1996) ISBN 0-8176-5312-0. [This book is a collection of 121 primary German documents relating to physics under National Socialism. The documents have been translated and annotated, and there is a lengthy introduction to put them into perspective.] . 
+
+*Hoffmann, Dieter ''Between Autonomy and Accommodation: The German Physical Society during the Third Reich'', ''Physics in Perspective''  7(3) 293–329 (2005) . 
+
+*Kant, Horst ''Werner Heisenberg and the German Uranium Project / Otto Hahn and the Declarations of Mainau and Göttingen'', Preprint 203 (Max-Planck Institut für Wissenschaftsgeschichte, [http://www.mpiwg-berlin.mpg.de/Preprints/P203.PDF 2002]) . 
+
+*Landsman, N. P. ''Getting even with Heisenberg'', ''Studies in History and Philosophy of Modern Physics'' Volume 33, 297–325 (2002) . 
+
+*Macrakis, Kristie ''Surviving the Swastika: Scientific Research in Nazi Germany'' (Oxford, 1993) . 
+
+*Mehra, Jagdish and Helmut Rechenberg ''The Historical Development of Quantum Theory. Volume 6. The Completion of Quantum Mechanics 1926–1941. Part 2. The Conceptual Completion and Extension of Quantum Mechanics 1932–1941. Epilogue: Aspects of the Further Development of Quantum Theory 1942–1999.'' (Springer, 2001) ISBN 978-0-387-95086-0 . 
+
+*[[Norman Naimark|Norman M. Naimark]] ''The Russians in Germany: A History of the Soviet Zone of Occupation, 1945–1949'' (Belkanp, 1995) . 
+
+*[[Nikolaus Riehl|Riehl, Nikolaus]] and [[Frederick Seitz]] ''Stalin’s Captive: Nikolaus Riehl and the Soviet Race for the Bomb'' (American Chemical Society and the Chemical Heritage Foundations, 1996) ISBN 0-8412-3310-1.  . 
+
+*Oleynikov, Pavel V. ''German Scientists in the Soviet Atomic Project'', ''The Nonproliferation Review'' Volume 7, Number 2, 1 – 30 [http://cns.miis.edu/pubs/npr/vol07/72/72pavel.pdf (2000)]. The author has been a group leader at the Institute of Technical Physics of the Russian Federal Nuclear Center in [[Snezhinsk]] (Chelyabinsk-70).  . 
+
+*Walker, Mark ''German National Socialism and the Quest for Nuclear Power 1939–1949'' (Cambridge, 1993) ISBN 0-521-43804-7 . 
+
+*Walker, Mark ''Eine Waffenschmiede? Kernwaffen- und Reaktorforschung am Kaiser-Wilhelm-Institut für Physik'', ''Forschungsprogramm „Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus“'' [http://www.mpiwg-berlin.mpg.de/KWG/Ergebnisse/Ergebnisse26.pdf Ergebnisse 26] (2005)
+</div> . 
+
+==Further reading==. 
+<div class="references-small" style="-moz-column-count:2; column-count:2;">
+*Albrecht, Ulrich, Andreas Heinemann-Grüder, and Arend Wellmann ''Die Spezialisten: Deutsche Naturwissenschaftler und Techniker in der Sowjetunion nach 1945'' (Dietz, 1992, 2001) ISBN 3320017888 . 
+
+*Bernstein, Jeremy and David Cassidy ''Bomb Apologetics: Farm Hall, August 1945'', ''Physics Today'' Volume 48, Issue 8, Part I, 32–36 (1995) . 
+
+*Beyerchen, Alan ''What We Know About Nazism and Science'', ''Social Research'' Volume 59, Number 3, 615–641 (1992) . 
+
+*Bethe, Hans A. ''The German Uranium Project'', ''Physics Today'' Volume 53, Issue 7, 34–36 . 
+
+*Cassidy, David C. ''Heisenberg, German Science, and the Third Reich'', ''Social Research'' Volume 59, Number 3, 643–661 (1992) . 
+
+*Cassidy, David C. ''Uncertainty: The Life and Science of Werner Heisenberg'' (Freeman, 1992) . 
+
+*Cassidy, David C. ''A Historical Perspective on Copenhagen'', ''Physics Today'' Volume 53, Issue 7, 28 (2000). See also ''Heisenberg’s Message to Bohr: Who Knows'', ''Physics Today'' Volume 54, Issue 4, 14ff (2001), individual letters by Klaus Gottstein, Harry J. Lipkin, Donald C. Sachs, and David C. Cassidy.  . 
+
+*Eckert, Michael ''Werner Heisenberg: controversial scientist'' physicsweb.org [http://physicsworld.com/cws/article/print/3462 (2001)] . 
+
+*Heisenberg, Werner ''Die theoretischen Grundlagen für die Energiegewinnung aus der Uranspaltung'', Zeitschrift für die gesamte Natruwiessenschaft'', Volume 9, 201–212 (1943). See also the annotated English translation: ''Document 95. Werner Heisenberg. The Theoretical Basis for the Generation of Energy from Uranium Fission [26 February 1942]'' in Hentschel, Klaus (editor) and Ann M. Hentschel (editorial assistant and translator) ''Physics and National Socialism: An Anthology of Primary Sources'' (Birkhäuser, 1996) 294–301.  . 
+
+*Heisenberg, Werner, introduction by David Cassidy, translation by William Sweet ''A Lecture on Bomb Physics: February 1942'', ''Physics Today'' Volume 48, Issue 8, Part I, 27–30 (1995) . 
+
+*Hentschel, Klaus ''The Metal Aftermath: The Mentality of German Physicists 1945–1949'' (Oxford, 2007) . 
+
+*Hoffmann, Dieter ''Zwischen Autonomie und Anpassung: Die Deutsche Physikalische Gesellschaft im Dritten Reich'', ''Max-Planck-Institut für Wissenschafts Geschichte Preprint 192'' [http://www.mpiwg-berlin.mpg.de/Preprints/P192.PDF (2001)] . 
+
+*Hoffmann, Dieter and Mark Walker ''The German Physical Society Under National Socialism'', ''Physics Today'' 57(12) 52–58 (2004) . 
+
+*Hoffmann, Dieter ''Between Autonomy and Accommodation: The German Physical Society during the Third Reich'', ''Physics in Perspective'' 7(3) 293–329 (2005) . 
+
+*Hoffmann, Dieter and Mark Walker ''Zwischen Autonomie Und Anpassung'', ''Physik Journal'' Volume 5, Number 3, 53–58 (2006) . 
+
+*Hoffmann, Dieter and Mark Walker ''Peter Debye: “A Typical Scientist in an Untypical Time”'' Deutsche Physikalische Gesellschaft [http://www.dpg-physik.de/gliederung/fv/gp/debye_en.html (2006)] . 
+
+*Hoffmann, Dieter and Mark Walker (editors) ''Physiker Zwischen Autonomie Und Anpassung'' (Wiley-VCH, 2007) . 
+
+*[[Rainer Karlsch|Karlsch Rainer]] ''Hitlers Bombe. Die geheime Geschichte der deutschen Kernwaffenversuche.'' (Dva, 2005) . 
+
+*Karlsch, Rainer and Heiko Petermann ''Für und Wider “Hitlers Bombe” (Waxmann, 2007) . 
+
+*Krieger, Wolfgang ''The Germans and the Nuclear Question'' German Historical Institute Washington, D.C., Occasional Paper No. 14 (1995) . 
+
+*[[Boris Pash|Pash, Boris T.]] ''The Alsos Mission'' (Award, 1969) . 
+
+*Powers, Thomas ''Heisenberg’s War: The Secret History of the German Bomb'' (Knopf, 1993) . 
+
+*Renneberg, Monika and Mark Walker ''Science, Technology and National Socialism'' (Cambridge, 1994, first paperback edition 2002) . 
+
+*[[Richard Rhodes|Rhodes, Richard]] ''The Making of the Atomic Bomb'' (Simon and Schuster, 1986) . 
+
+*Rose, Paul Lawrence, ''Heisenberg and the Nazi Atomic Bomb Project: A Study in German Culture'' (California, 1998). For a critical review of this book, please see: Landsman, N. P. ''Getting even with Heisenberg'', ''Studies in History and Philosophy of Modern Physics'' Volume 33, 297–325 (2002).  . 
+
+*Schaaf, Michael ''Heisenberg, Hitler und die Bombe. Gespraeche mit Zeitzeugen.'' (GNT-Verlag, 2001) . 
+
+*Schumann, Erich ''Wehrmacht und Froschung'' in Richard Donnevert (editor) ''Wehrmact und Partei'' second expanded edition, (Barth, 1939) 133–151. See also the annotated English translation: ''Document 75. Erich Schumann: Armed Forces and Research [1939]'' in Hentschel, Klaus (editor) and Ann M. Hentschel (editorial assistant and translator) ''Physics and National Socialism: An Anthology of Primary Sources'' (Birkhäuser, 1996) 207–220.  . 
+
+*Sime, Ruth Sime ''From Exceptional Prominence to Prominent Exception: Lise Meitner at the Kaiser Wilhelm Institute for Chemistry'' [http://www.mpiwg-berlin.mpg.de/KWG/Ergebnisse/Ergebnisse24.pdf Ergebnisse 24] Forschungsprogramm ''Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus'' (2005).  . 
+
+*Ruth Lewin Sime ''The Politics of Memory: Otto Hahn and the Third Reich'', Physics in Perspective'' Volume 8, Number 1, 3–51 (2006). Sime is retired from teaching chemistry at Sacramento City College.  . 
+
+*Walker, Mark ''National Socialism and German Physics'', ''Journal of Contemporary Physics'' Volume 24, 63–89 (1989) . 
+
+*Walker, Mark ''Heisenberg, Goudsmit and the German Atomic Bomb'', ''Physics Today'' Volume 43, Issue 1, 52–60 (1990) . 
+
+*Walker, Mark ''Nazi Science: Myth, Truth, and the German Atomic Bomb'' (Perseus, 1995) . 
+
+*Walker, Mark ''German Work on Nuclear Weapons'', ''Historia Scientiarum; International Journal for the History of Science Society of Japan'', Volume 14, Number 3, 164–181 (2005) . 
+
+*Walker, Mark ''Eine Waffenschmiede? Kernwaffen- und Reaktorforschung am Kaiser-Wilhelm-Institut für Physik'', ''Forschungsprogramm „Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus“'' [http://www.mpiwg-berlin.mpg.de/KWG/Ergebnisse/Ergebnisse26.pdf Ergebnisse 26] (2005) . 
+
+*Mark Walker ''Otto Hahn: Responsibility and Repression'', ''Physics in Perspective'' Volume 8, Number 2, 116–163 (2006). Mark Walker is Professor of History at Union College in Schenectady, New York. 
+</div> . 
+
+==Notes== . 
+
+{{reflist|2}} . 
+
+==External links==. 
+* [http://nba.nbi.dk/papers/introduction.htm (February 2002) Aaserud, Finn ''Release of documents relating to 1941 Bohr-Heisenberg meeting'']
+*GlobalSecurity.org ''[http://www.globalsecurity.org/wmd/world/germany/nuke.htm German Special Weapons]''
+*[http://nba.nbi.dk/release.html Niels Bohr Archive ''Release of documents relating to 1941 Bohr-Heisenberg meeting''] (6 February 2002)
+* [http://alsos.wlu.edu/qsearch.aspx?browse=warfare/German%20Atomic%20Bomb%20Program (June 2008) Annotated bibliography on the German atomic bomb project from the Alsos Digital Library for Nuclear Issues]
+*Walker, Mark [http://www.pbs.org/wgbh/nova/hydro/close.html ''Nazis & the Bomb''] from [[Public Broadcasting Service]] [[Nova (TV series)|Nova]] episode, [http://www.pbs.org/wgbh/nova/hydro/ ''Hitler's Sunken Secret''] (originally aired 8 November 2005). 
+{{German nuclear energy project}} . 
+
+{{DEFAULTSORT:German Nuclear Energy Project}}
+[[Category:Nuclear program of Nazi Germany]]
+[[Category:Nuclear technology in Germany]]
+[[Category:Nuclear history]]
+[[Category:German World War II weapons]]
+[[Category:Nuclear weapons by country]]

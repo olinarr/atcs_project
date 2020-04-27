@@ -1,0 +1,55 @@
+{{Infobox Olympic event
+|event = Boxing
+|games = 2012 Summer
+|image = 
+|caption = Pictogram for boxing at the 2008 Games
+|venue = [[ExCeL Exhibition Centre]]
+|dates = 28 July–12 August
+|competitors = 286 (250 men, 36 women)
+|nations =
+|prev = [[Boxing at the 2008 Summer Olympics|2008]]
+}} . 
+
+[[Boxing]] at the [[2012 Summer Olympics]] is scheduled to be held from 28 July to 12 August at [[ExCeL Exhibition Centre]] in [[London]]. <ref name="London 2012">{{cite web | year = 2009 | url = http://www.london2012.com/boxing | title = Boxing | accessdate = 2009-08-14}}</ref>  . 
+
+==Competition format==. 
+Male boxers will compete in the following ten categories: 
+*{{AIBAClass|49kg|lines=1}}
+*{{AIBAClass|52kg|lines=1}}
+*{{AIBAClass|56kg|lines=1}}
+*{{AIBAClass|60kg|lines=1}}
+*{{AIBAClass|64kg|lines=1}}
+*{{AIBAClass|69kg|lines=1}}
+*{{AIBAClass|75kg|lines=1}}
+*{{AIBAClass|81kg|lines=1}}
+*{{AIBAClass|91kg|lines=1}}
+*{{AIBAClass|+91kg|lines=1}} . 
+
+For the first time, women's boxing will be included in the Olympic programme with female boxers able to participate in three events:<ref name="International Olympic Committee">{{cite web | year = 2009 | url = http://www.olympic.org/media?q=boxing&searchpageipp=10&searchpage=6&articlenewsgroup=-1&articleid=72490| title = IOC approves new events for 2012 London Olympic Games | accessdate = 2009-08-14}}</ref>
+*{{AIBAClass|51kg|w|lines=1}}
+*{{AIBAClass|60kg|w|lines=1}}
+*{{AIBAClass|75kg|w|lines=1}} . 
+
+==Gold Medal fixing==. 
+In September 2011 [[BBC Newsnight]] uncovered evidence that $9m (£5.9m) worth of secret payments were paid to [[World Series Boxing]] a subcompany of the [[International Boxing Association]] (AIBA) by [[Azerbaijan]] in return for two gold medals. The AIBA denied the allergations, stating that the secret payments were a loan from an Azerbaijani investor. <ref>{{cite web|last=Adams |first=Anna |url=http://www.bbc.co.uk/news/world-15020658 |title=BBC News - Allegations of deal to fix 2012 Olympic boxing medals |publisher=Bbc.co.uk |date=2011-09-22 |accessdate=2011-10-25}}</ref><ref>{{cite web|url=http://www.bbc.co.uk/news/world-15022808 |title=BBC News - AIBA and WSB response to Newsnight allegations |publisher=Bbc.co.uk |date=2011-09-22 |accessdate=2011-10-25}}</ref> The AIBA and the [[International Olympic Committee]] both started enquiries into the allergations. <ref>{{cite web|url=http://news.bbc.co.uk/sport1/hi/olympics/15033864.stm |title=BBC Sport - IOC chief demands 2012 boxing bribe evidence from BBC |publisher=BBC News |date=2011-09-23 |accessdate=2011-10-25}}</ref> . 
+
+==Qualifying criteria==. 
+{{main|Boxing at the 2012 Summer Olympics - Qualification}}
+A [[National Olympic Committee|National Olympic Committee (NOC)]] may enter up to 1 athlete in each event. Nine places will be reserved for the host nation, from which it will choose 6 places maximum (5 male and 1 female), while the remaining places will be allocated to the Tripartite Invitation Commission. For each athlete from the host NOC who qualifies through the [[International Boxing Association|AIBA]] [[World Amateur Boxing Championships]], the host nation will lose a guaranteed place. Each continent has an amount of quota spots that will be filled through the two championships. Asia has 56 spots, the Americas has 54, Africa has 52, Europe has 78 and Oceania has 10. <ref>{{cite web|url=http://www.aiba.org/documents/site1/Olympics/2012London/London%202012_QualificationSystem_EN.pdf |title=Qualification system |format=PDF |date= |accessdate=2011-10-25}}</ref> . 
+
+Qualification events are:
+*[[2011 World Amateur Boxing Championships]] - [[Baku]], [[Azerbaijan]], September 16 - October 1,<ref>{{cite web|url=http://www.aiba.org/documents/site1/Calendars/2011_CALENDAR_europe.pdf |title=AIBA Europe Calendar 2011 |format=PDF |date= |accessdate=2011-10-25}}</ref> in which 10 athletes for all categories, 6 athletes for the heavyweight and super heavyweight categories will qualify for the Olympics. 
+*Continental Olympic Qualifying Events (during 2012, events in [[Africa]], [[Americas|America]], [[Asia]], [[Oceania]] and [[Europe]]) . 
+
+==Competition schedule==. 
+{{2012OlympicBoxingSchedule}} . 
+
+==References==. 
+{{reflist}} . 
+
+{{EventsAt2012SummerOlympics}}
+{{Olympic Games Boxing}} . 
+
+[[Category:Boxing at the Summer Olympics|2012]]
+[[Category:2012 Summer Olympics events]]
+[[Category:2012 in boxing]]

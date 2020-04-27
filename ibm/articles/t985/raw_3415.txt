@@ -1,0 +1,117 @@
+'''Market failure''' is a concept within economic theory describing when the allocation of goods and services by a [[free market]] is not efficient. That is, there exists another conceivable outcome where a market participant may be made better-off without making someone else worse-off.  (The outcome is not [[Pareto Efficiency|Pareto optimal]].)  Market failures can be viewed as scenarios where individuals' pursuit of pure self-interest leads to results that are not efficient – that can be improved upon from the societal point-of-view. <ref>John O. Ledyard (2008). "market failure,"  ''[[The New Palgrave Dictionary of Economics]]'', 2nd Ed.  [http://www.dictionaryofeconomics.com/article?id=pde2008_M000056&q=failure&topicid=&result_number=1 Abstract.]</ref><ref name="krugman">[[Paul Krugman]] and [[Robin Wells Krugman|Robin Wells]] (2006). ''Economics'', New York, Worth Publishers. </ref> The first known use of the term by economists was in 1958,<ref name="Bator">Francis M. Bator (1958). "The Anatomy of Market Failure," ''Quarterly Journal of Economics'', 72(3) pp. [http://instruct1.cit.cornell.edu/Courses/econ335/out/bator_qje.pdf 351–379] (press '''+'''). 
+</ref> but the concept has been traced back to the Victorian philosopher [[Henry Sidgwick]]. <ref name="Medema">Steven G. Medema
+(2007). "The Hesitant Hand: Mill, Sidgwick, and the Evolution of the Theory of Market Failure," ''History of Political Economy'', 39(3), p [http://hope.dukejournals.org/cgi/pdf_extract/39/3/331 p. 331]-358. 2004 [http://www.utilitarian.net/sidgwick/about/2004070102.pdf Online Working Paper.]</ref> . 
+
+Market failures are often associated with [[Information asymmetry|information asymmetries]],<ref>• Charles Wilson (2008). "adverse selection," ''The New Palgrave Dictionary of Economics'' 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_A000040&edition=&field=keyword&q=asymmetric%20information&topicid=&result_number=7 Abstract.]<br/>&nbsp;&nbsp; • [[Joseph E. Stiglitz]] (1998). "The Private Uses of Public Interests: Incentives and Institutions," ''Journal of Economic Perspectives'', 12(2), pp. [http://salises.mona.uwi.edu/sem1_09_10/SALI6020/m6Stiglitz,%20private%20uses%20of%20public%20interest.1998.JPE_6020.pdf 3-22.]</ref> [[Market structure|non-competitive markets]], [[principal–agent problem]]s, [[externalities]],<ref name= "Laffont">[[Jean-Jacques Laffont|J.J. Laffont]] (2008). "externalities," ''[[The New Palgrave Dictionary of Economics]]'', 2nd Ed. [http://www.dictionaryofeconomics.com/article?id=pde2008_E000200&q=externality&topicid=&result_number=9 Abstract.]</ref> or [[public goods]]. <ref>[[Joseph E. Stiglitz]] (1989). "Markets, Market Failures, and Development," ''American Economic Review'', 79(2), pp. [http://www.dial.prd.fr/articles/chap6/Stiglitz,%201989.pdf 197-203.]</ref> The existence of a market failure is often used as a justification for government intervention in a particular [[market]]. <ref>[[Kenneth J. Arrow]] (1969). "The Organization of Economic Activity: Issues Pertinent to the Choice of Market versus Non-market Allocations,"  in ''Analysis and Evaluation of Public Expenditures: The PPP System'', Washington, D.C.,  Joint Economic Committee of Congress. PDF reprint as pp. [http://www.econ.ucsb.edu/~tedb/Courses/UCSBpf/readings/ArrowNonMktActivity1969.pdf 1-16] (press '''+'''). </ref><ref name="rees">{{cite book
+  | last = Gravelle  | first = Hugh  | authorlink =  | coauthors = Ray Rees  | title = Microeconomics  | publisher = Prentice Hall, Financial Times
+  | year = 2004  | location = Essex, England  | pages = 314–346  | url = | doi =  | id =  }}</ref> Economists, especially [[microeconomics|microeconomists]], are often concerned with the causes of market failure and possible means of correction. <ref name="mankiw">{{cite book  | last = Mankiw  | first = Gregory  | authorlink =  | coauthors = Ronald Kneebone, Kenneth McKenzie, Nicholas Row  | title = Principles of Microeconomics: Second Canadian Edition | publisher = Thomson-Nelson  | year = 2002  | location = United States | pages = 157–158 | id =  }}</ref> Such analysis plays an important role in many types of [[Public policy (law)|public policy]] decisions and studies.  However, some types of government policy interventions, such as taxes, subsidies, [[bailout]]s, wage and price controls, and regulations, including attempts to correct market failure, may also lead to an inefficient allocation of resources, sometimes called [[government failure]]. <ref name="weimervining">{{cite book
+  | last = Weimer
+  | first = David
+  | coauthors = Aidan R. Vining
+  | title = Policy Analysis: Concepts and Practice
+  | publisher = Prentice Hall
+  | year = 2004}}</ref> Thus, there is sometimes a choice between imperfect outcomes, i.e. imperfect market outcomes with or without government interventions. But either way, if a market failure exists the outcome is not [[pareto efficiency|pareto efficient]]. Mainstream neoclassical and Keynesian economists believe that it may be possible for a government to improve the inefficient market outcome, while several [[heterodox economics|heterodox]] schools of thought disagree with this. <ref name=" n. gregory mankiw">{{cite book
+  | last = Mankiw
+  | first = N. Gregory
+  | authorlink = N. Gregory Mankiw
+  | title = Brief Principles of Macroeconomics
+  | publisher = South-Western Cengage Learning
+  | year = 2009
+  | location =
+  | pages = 10–12
+  | url =
+  | doi =
+  | id =  }}</ref> . 
+
+==Categories==. 
+Different economists have different views about what events are the sources of market failure. Mainstream economic analysis widely accepts a market failure (relative to [[Pareto efficiency]]) can occur for three main reasons: if the market is "[[monopolised]]" or a small group of businesses hold significant [[market power]], if production of the good or service results in an [[externality]], or if the good or service is a "[[public good]]". <ref name="krugman">{{cite book  | last = Krugman  | first = Paul  | authorlink = Paul Krugman  | coauthors = Robin Wells, Anthony Myatt  | title = Microeconomics: Canadian Edition | publisher = Worth Publishers  | year = 2006  | pages = 160–162 }}</ref> . 
+
+===Monopolies===. 
+{{main|Market power|Monopoly|Monopsony|Oligopoly|Oligopsony|}}
+[[Agent (economics)|Agent]]s in a market can gain [[market power]], allowing them to block other mutually beneficial [[gains from trade]]s from occurring.  This can lead to inefficiency due to [[imperfect competition]], which can take many different forms, such as [[Monopoly|monopolies]],<ref name="demartino01">{{cite book |title= Global Economy, Global Justice |last= DeMartino |first= George |authorlink= |coauthors= |year= 2000 |publisher= Routledge |location= |isbn= 0-415-22401-2 |page= 70 |pages= 279 |url= http://books.google.com/?id=bh66WFcdT9sC&printsec=frontcover#PPA70,M1}}</ref> [[monopsonies]], [[cartel]]s, or [[monopolistic competition]], if the agent does not implement perfect price discrimination. In a monopoly, the market equilibrium will no longer be Pareto optimal. <ref name="demartino01" /> The monopoly will use its market power to restrict output below the quantity at which the marginal social benefit is equal to the [[social cost|marginal social cost]] of the last unit produced, so as to keep prices and profits high. <ref name="demartino01" />  An issue for this analysis is whether a situation of market power or monopoly is likely to persist if unaddressed by policy, or whether competitive or technological change will undermine it over time.  . 
+
+It is then a further question about what circumstances allow a monopoly to arise. Economists say that monopolies can maintain themselves where there are "[[barriers to entry]]".  . 
+
+===Public goods===. 
+{{main|Public goods}}
+Some markets can fail due to the nature of certain goods, or the nature of their exchange. For instance, goods can display the attributes of [[public goods]]<ref name="demartino01" /> or [[common-pool resources]], while markets may have significant [[transaction costs]], [[Principal-agent problem|agency problems]], or [[Information asymmetry|informational asymmetry]]. <ref name="krugman"/><ref name="demartino01" /> In general, all of these situations can produce inefficiency, and a resulting market failure.  A related issue can be the inability of a seller to exclude non-buyers from using a product anyway, as in the development of inventions that may spread freely once revealed.  This can cause underinvestment, such as where a researcher cannot capture enough of the benefits from success to make the research effort worthwhile.  . 
+
+===Natural monopoly===. 
+{{main|Natural monopoly}}
+[[Natural monopoly]], or the overlapping concepts of "practical" and "technical" monopoly, is an extreme case of ''failure of competition'' as a restraint on producers. The problem is described as one where the more of a product is made, the less the unit costs are. This means it only makes economic sense to have one producer.  . 
+
+===Externalities===. 
+{{main|Externality}}
+The actions of [[Agent (economics)|agent]]s can have [[Externality|externalities]],<ref name ="Laffont"/><ref name="demartino01" /> which are innate to the methods of production, or other conditions important to the market. <ref name="krugman"/> For example, when a firm is producing steel, it absorbs labor, capital and other inputs, it must pay for these in the appropriate markets, and these costs will be reflected in the market price for steel. <ref name="demartino01" /> If the firm also pollutes the atmosphere when it makes steel, however, and if it is not forced to pay for the use of this resource, then this cost will be borne not by the firm but by society. <ref name="demartino01" /> Hence, the market price for steel will fail to incorporate the full opportunity cost to society of producing. <ref name="demartino01" /> In this case, the market equilibrium in the steel industry will not be optimal. <ref name="demartino01" /> More steel will be produced than would occur were the firm to have to pay for all of its costs of production. <ref name="demartino01" /> Consequently, the marginal social cost of the last unit produced will exceed its marginal social benefit. <ref name="demartino01" /> . 
+
+Common examples of an externality is environmental harm such as [[pollution]] or [[overexploitation]] of [[natural resources]]. <ref name="krugman" />
+[[Climate change]] ([[global warming]]) is, in the words of the [[Stern Review on the Economics of Climate Change]], “the greatest example of market failure we have ever seen.”<ref>http://www.thenation.com/article/164497/capitalism-vs-climate?page=0,4</ref> . 
+
+[[Traffic congestion]] is an example of market failure, since driving can impose [[hidden costs]] on other drivers and society. Solutions for this include [[public transport]]ation, [[congestion pricing]], [[toll road]]s and [[toll bridge]]s, and other ways of making the driver include the social cost in the decision to drive. <ref name="krugman"/> . 
+
+===Bounded rationality===. 
+{{main|Bounded rationality}}
+In ''Models of Man'', [[Herbert Simon]] points out that most people are only partly rational, and are emotional/[[irrational]] in the remaining part of their actions. In another work, he states "boundedly rational agents experience limits in formulating and solving complex problems and in processing (receiving, storing, retrieving, transmitting) [[information]]" ([[Oliver E. Williamson|Williamson]], p.&nbsp;553, citing Simon). Simon describes a number of dimensions along which "classical" models of rationality can be made somewhat more realistic, while sticking within the vein of fairly rigorous formalization. These include: . 
+
+* limiting what sorts of [[utility]] functions there might be. 
+* recognizing the costs of gathering and processing information. 
+* the possibility of having a "[[vector (geometry)|vector]]" or "multi-valued" utility function.  . 
+
+Simon suggests that economic agents employ the use of [[heuristics]] to make decisions rather than a strict rigid rule of optimization. They do this because of the complexity of the situation, and their inability to process and compute the expected utility of every alternative action. Deliberation costs might be high and there are often other, concurrent economic activities also requiring decisions.  . 
+
+===Information asymmetry===. 
+{{main|Information asymmetry}}
+[[Information asymmetries]] and [[incomplete markets]] may result in economic inefficiency but also a possibility of improving efficiency through market, legal, and regulatory remedies. From [[contract theory]], decisions in transactions where one party has more or better [[information]] than the other is an asymmetry. This creates an imbalance of power in transactions which can sometimes cause the transactions to go awry. Examples of this problem are [[adverse selection]] and [[moral hazard]]. Most commonly, information asymmetries are studied in the context of [[principal–agent problem]]s. [[George Akerlof]], [[Michael Spence]], and [[Joseph E. Stiglitz]] developed the idea and shared the 2001 Nobel Prize in Economics. <ref>{{cite journal|last=Huffman|first=Max|title=Neo-Behavioralism?|journal=SSRN|date=2010|year=2010|month=December|pages=9|url=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1730365}}</ref> . 
+
+===Property right as right of control===. 
+Hugh Gravelle and Ray Rees argue that more fundamentally, the underlying cause of market failure is often a problem of [[property rights]].  . 
+
+<blockquote>A market is an institution in which individuals or firms exchange not just commodities, but the ''rights'' to use them in particular ways for particular amounts of time. [...] Markets are institutions which organize the ''exchange of control'' of commodities, where the nature of the control is defined by the property rights attached to the commodities. <ref name="rees"/></blockquote> . 
+
+As a result, agents' control over the uses of their [[commodities]] can be imperfect, because the system of rights which defines that control is incomplete.  Typically, this falls into two generalized rights &ndash; ''excludability'' and ''transferability''.  Excludability deals with the ability of agents to control who uses their commodity, and for how long &ndash; and the related costs associated with doing so.  Transferability reflects the right of agents to transfer the rights of use from one agent to another, for instance by selling or [[leasing]] a commodity, and the costs associated with doing so.  If a given system of rights does not fully guarantee these at minimal (or no) cost, then the resulting distribution can be inefficient. <ref name="rees"/> Considerations such as these form an important part of the work of [[institutional economics]]. <ref name="bowles">{{cite book | last = Bowles  | first = Samuel | title = Microeconomics: Behavior, Institutions, and Evolution | publisher = Russel Sage Foundation
+  | year = 2004  | location = United States| id =  }}</ref> Nonetheless, views still differ on whether something displaying these attributes is meaningful without the information provided by the market price system. <ref>Machan, R. Tibor, [http://media.hoover.org/documents/0817929428_xi.pdf ''Some Skeptical Reflections on Research and Development''], Hoover Press</ref> . 
+
+==Interpretations and policy==. 
+The above causes represent the [[mainstream economics|mainstream]] view of what market failures mean and of their importance in the economy.  This analysis follows the lead of the [[Neoclassical economics|neoclassical]] school, and relies on the notion of [[Pareto efficiency]]<ref name="mises">{{cite web
+  | last = MacKenzie  | first = D.W.  | title = The Market Failure Myth
+  | work =  | publisher = Ludwig von Mises Institute
+  | date = 2002-08-26  | url = http://mises.org/article.aspx?Id=1035
+  | format =  | doi =  | accessdate = 2008-11-25 }}</ref>  &ndash; and specifically considers market failures absent considerations of the "[[public interest]]", or [[Equity (economics)|equity]], citing definitional concerns. <ref name="mankiw"/> This form of analysis has also been adopted by the [[Keynesian]] or [[new Keynesian economics|new Keynesian]] schools in modern [[macroeconomics]], applying it to [[Walras]]ian models of [[general equilibrium]] in order to deal with failures to attain [[full employment]], or the non-adjustment of prices and wages.  . 
+
+Many [[social democrat]]s and "[[New liberalism|New Deal liberals]]", have adopted this analysis for [[Public policy (law)|public policy]], so they view market failures as a very common problem of any unregulated market system and therefore argue for state intervention in the economy in order to ensure both [[Efficiency (economics)|efficiency]] and [[social justice]] (usually interpreted in terms of limiting avoidable inequalities in wealth and income). Both the democratic accountability of these regulations and the [[Technocracy (bureaucratic)|technocratic]] expertise of the economists play an important role here in shaping the kind and degree of intervention. [[Neoliberalism|Neoliberals]] follow a similar line, often focusing on "market-oriented solutions" to market failure: for example, they propose going beyond the common idea of having the government charge a fee for the right to pollute (internalizing the external cost, creating a disincentive to pollute) to allow polluters to sell the pollution permits.  . 
+
+Some remedies for market failure can resemble other market failures.  For example, the issue of systematic underinvestment in research is addressed by the patent system that creates artificial monopolies for successful inventions.  . 
+
+==Objections==. 
+{{See also|Austrian School|Government failure|Marxian economics}} . 
+
+===Public choice===. 
+Economists such as [[Milton Friedman]] from the [[Chicago School of Economics|Chicago school]] and others from the [[Public choice theory|Public Choice]] school, argue that market failure does not necessarily imply that government should attempt to solve market failures, because the costs of [[government failure]] might be worse than those of the market failure it attempts to fix. This failure of government is seen as the result of the inherent problems of democracy and other forms of government perceived by this school and also of the power of special-interest groups ([[rent-seeking|rent seekers]]) both in the [[private sector]] and in the government [[bureaucracy]].  Conditions that many would regard as negative are often seen as an effect of subversion of the free market by [[coercion|coercive]] government intervention.  Beyond philosophical objections, a further issue is the practical difficulty that any single decision maker may face in trying to understand (and perhaps predict) the numerous interactions that occur between producers and consumers in any market.  . 
+
+===Austrian===. 
+Advocates of ''[[laissez-faire]]'' [[capitalism]], such as some economists of the [[Austrian School]], argue that there is no such phenomenon as "market failures". [[Israel Kirzner]] states that: "Efficiency for a social system means the efficiency with which it permits its individual members to achieve their individual goals". <ref>{{cite book|author=[[Israel Kirzner]]|title=Market Theory and the Price System|year=1963|publisher=D. Van Nostrand Company|location=Princeton. N.J.|pages=35}}</ref> Inefficiency only arises when means are chosen by individuals that are inconsistent with their desired goals. <ref>{{cite journal|author=Roy E. Cordato|title=The Austrian Theory of Efficiency and the Role of Government|year=1980|journal=The Journal of Libertarian Studies|url=http://www.mises.org/journals/jls/4_4/4_4_6.pdf|volume=4|issue=4|pages=393–403|page=396}}</ref> This definition of efficiency differs from that of [[Pareto efficiency]], and forms the basis of the theoretical argument against the existence of market failures. However, providing that the conditions of the [[first welfare theorem]] are met, these two definitions agree, and give identical results. Austrians argue that the market tends to eliminate its inefficiencies through the process of [[entrepreneurship]] driven by the [[profit motive]]; something the government has great difficulty detecting, or correcting. <ref>{{cite journal|author=Roy E. Cordato|title=The Austrian Theory of Efficiency and the Role of Government|year=1980|journal=The Journal of Libertarian Studies|url=http://www.mises.org/journals/jls/4_4/4_4_6.pdf|volume=4|issue=4|pages=393–403}}</ref> . 
+
+===Marxian===. 
+Objections also exist on more fundamental bases, such as that of [[Justice|equity]], or [[Marxian economics|Marxian analysis]].  Colloquial uses of the term "market failure" reflect the notion of a market "failing" to provide some desired attribute different from efficiency &ndash; for instance, high levels of inequality can be considered a "market failure", yet are not [[Pareto efficiency|Pareto inefficient]], and so would not be considered a market failure by mainstream
+economics. <ref name="krugman"/> In addition, many [[Marxian economics|Marxian]] economists would argue that the system of individual property rights is a fundamental problem in itself, and that resources should be allocated in another way entirely. This is different from concepts of "market failure" which focuses on specific situations &ndash; typically seen as "abnormal" &ndash; where markets have inefficient outcomes. Marxists, in contrast, would say that markets have inefficient and democratically-unwanted outcomes &ndash; viewing market failure as an inherent feature of any capitalist economy &ndash; and typically omit it from discussion, preferring to ration finite goods not exclusively through a price mechanism, but based upon need as determined by society expressed through the community.  . 
+
+== See also ==. 
+* [[Distortions (economics)]]
+* [[Social cost]]
+* [[Tyranny of small decisions]] . 
+
+==Notes==. 
+{{reflist|1}} . 
+
+==References==. 
+* . 
+
+==External links==. 
+* [http://elmo.shore.ctc.edu/economics/market.htm A discussion of market failure]
+* [http://www.daviddfriedman.com/Academic/Price_Theory/PThy_Chapter_18/PThy_Chap_18.html Market Failures - in Price Theory: An Intermediate Text by [[David D. Friedman]]] . 
+
+{{microeconomics-footer}} . 
+
+{{DEFAULTSORT:Market Failure}}
+[[Category:Market failure| ]]
+[[Category:Economic problems]]

@@ -1,0 +1,934 @@
+'''Charter schools''' are [[Primary education in the United States|primary]] or [[Secondary education in the United States|secondary schools]] that receive [[Government spending|public money]] (and like other schools, may also receive private [[donation]]s) but are not subject to some of the rules, regulations, and statutes that apply to other [[Public school (government funded)|public schools]] in exchange for some type of accountability for producing certain results, which are set forth in each school's [[charter]]. <ref>{{cite web
+ |publisher=[[National Education Association]]
+ |title=Charter Schools
+ |url=http://www.nea.org/home/16332.htm
+ |accessdate=January 21, 2008
+}}</ref> Charter schools are opened and attended by choice. <ref>{{cite web
+ |publisher=The Center for Education Reform
+ |title=Charter Connection
+ |url=http://www.edreform.com/Issues/Charter_Connection/
+ |accessdate=September 19, 2009
+}}</ref>
+While charter schools provide an alternative to other public schools, they are part of the [[public education]] system and are not allowed to charge [[Tuition payments|tuition]].  Where enrollment in a charter school is oversubscribed, admission is frequently allocated by [[lottery]]-based admissions systems. However, the lottery is open to all students. <ref>http://www.calcharters.org/understanding/</ref>  In a 2008 survey of United States charter schools, 59% of the schools reported that they had a waiting list, averaging 198 students. <ref>{{cite web
+ |url=http://www.edreform.com/Archive/?Annual_Survey_of_Americas_Charter_Schools_2008
+ |title=Annual Survey of America's Charter Schools 2008
+ |date=July 28, 2008
+ |publisher=Center for Education Reform
+ |accessdate=September 19, 2009
+}}</ref> Some charter schools provide a [[curriculum]] that specializes in a certain field — e.g., arts, mathematics, or vocational training. Others attempt to provide a better and more efficient general education than nearby public schools.  Charter school students take state-mandated exams. <ref>http://www.calcharters.org/understanding/what-are-charter-schools.html</ref> . 
+
+Some charter schools are founded by teachers, parents, or activists who feel restricted by traditional public schools. <ref name=abc>{{cite web
+ |url=http://www.edweek.org/rc/issues/charter-schools/
+ |title=Research Center: Charter Schools
+ |publisher=[[Education Week]]
+ |date=September 10, 2004
+ |accessdate=January 1, 2008
+}}</ref>
+State-authorized charters (schools not chartered by local [[school district]]s) are often established by [[Non-profit organization|non-profit groups]], [[university|universities]], and some government entities. <ref>{{cite news
+ |last=Eskenazi
+ |first=Stuart
+ |title=Learning Curves
+ |publisher=[[Houston Press]]
+ |date=July 22, 1999
+ |url=http://www.houstonpress.com/1999-07-22/news/learning-curves/2
+ |accessdate=January 21, 2008
+}}</ref> Additionally, school districts sometimes permit corporations to manage [[Chain store|chains]] of charter schools. The schools themselves are still non-profit, in the same way that public schools may be managed by a for-profit corporation. Corporate management does not affect the status of a school. <!-- Is that what "It" means? -->  In the United States, though the percentage of students educated in charter schools varies by school district, only in the [[New Orleans Public Schools]] system are the majority of children educated within independent public charter schools. <ref name="The Times-Picayune 2009">''RSD looks at making charters pay rent'', The Times-Picayune, December 18, 2009. </ref> . 
+
+== History == . 
+
+The charter school idea in the United States was originated by Ray Budde,<ref>{{cite web
+ |url=http://www.edreform.com/Resources/Editorials/?Ray_Budde_and_the_Origins_of_the_Charter_Concept&year=2005
+ |title=Ray Budde and the Origins of the Charter Concept
+ |first=Ted
+ |last=Kolderie
+ |date=July 1, 2005
+ |publisher=Center for Education Reform
+}}</ref> a professor at the [[University of Massachusetts Amherst]] and embraced by [[Albert Shanker]], President of the [[American Federation of Teachers]], in 1988 when he called for the reform of the public schools by establishing "charter schools" or "schools of choice".  At the time, a few schools already existed that were not called charter schools but embodied some of their principles, such as [[H-B Woodlawn]].  As originally conceived, the ideal model of a charter school was as a legally and financially autonomous [[Public school (government funded)|public school]] (without tuition, religious affiliation, or selective student admissions) that would operate much like a private business—free from many state laws and district regulations, and accountable more for student outcomes rather than for processes or inputs (such as [[Carnegie Unit and Student Hour|Carnegie Units]] and teacher certification requirements).  . 
+
+[[Minnesota]] was the first state to pass a charter school law in 1991. [[California]] was second, in 1992. As of 2009, 41 states and the [[District of Columbia]] have charter school laws. <ref>{{cite web
+ |title=Charter School Laws Across the States
+ |publisher=Center for Education Reform
+ |url=http://www.edreform.com/About_CER/Charter_School_Laws_Across_the_States/index.cfm
+}}</ref> . 
+
+== Structure and characteristics == . 
+
+There are two principles that guide charter schools. First is that they will operate as autonomous public schools, through waivers from many of the procedural requirements of district public schools. These waivers do not mean a school is exempt from the same educational standards set by the State or district. Autonomy can be critically important for creating a school culture that maximizes student motivation by emphasizing high expectations, academic rigor, discipline, and relationships with caring adults.  Affirming students, particularly minority students in urban school districts, whose school performance is affected by social phenomena including [[stereotype threat]],<ref>{{cite book
+ |last=Steele
+ |first=Claude
+ |authorlink = Claude Steele
+ |title=Whistling Vivalid And Other Clues to How Stereotypes Affect Us
+ |publisher=W.W. Norton & Company, Inc. 
+ |year=2010
+}}</ref> "[[acting white]]",<ref>{{cite journal
+ |last=Fryer
+ |first=Roland
+ |authorlink = Roland G. Fryer, Jr. 
+ |coauthors=Torelli, Paul
+ |title=An Empirical Analysis of 'Acting White'
+ |publisher=National Bureau of Economic Research
+ |year=2005
+ |url=http://www.nber.org/papers/w11334
+ |accessdate=April 27, 2010
+}}</ref> non-dominant cultural capital,<ref>{{cite journal
+ |last=Carter
+ |first=Prudence
+ |year        = 2003
+ |month       = Feb. 
+ |title       = "Black" Cultural Capital, Status Positioning, and Schooling Conflicts for Low-Income African American Youth
+ |journal     = Social Problems
+ |volume      = 50
+ |issue       = 1
+ |pages       = 136–155
+ |publisher   = University of California Press
+ |jstor = 3096826
+ |doi=10.1525/sp.2003.50.1.136}}</ref> and a "code of the street"<ref>{{cite book
+ |last=Anderson
+ |first=Elijah
+ |authorlink = Elijah Anderson
+ |title=Code of the Street: Decency, Violence, and the Moral Life of the Inner City
+ |publisher=W.W. Norton & Company Inc. 
+ |year=1999
+}}</ref> requires the autonomy to create a carefully balanced school culture to meet students' needs in each unique context.  Most teachers, by a 68 percent to 21 percent margin, say schools would be better for students if principals and teachers had more control and flexibility about work rules and school duties. <ref>{{cite journal
+ |last=Duffett
+ |first=Ann
+ |coauthors=Farkas, Steve
+ |year        = 2008
+ |title       = Waiting to be Won Over: Teachers Speak on the Profession, Unions, and Reform
+ |publisher   = Education Sector
+ |url =  http://www.educationsector.org/usr_doc/WaitingToBeWonOver.pdf
+ |accessdate  = 2010-04-28
+}}</ref> . 
+
+The second is that charter schools are accountable for student achievement. To date, 12.5% of the over 5000 charter schools founded in the United States have closed for reasons including academic, financial, and managerial problems, and occasionally consolidation or district interference. <ref name="Center for Education Reform">{{cite press release
+ |title=Accountability Lies at the Heart of Charter School Success
+ |first1=Jeanne
+ |last1=Allen
+ |publisher=Center for Education Reform
+ |month=March
+ |year=2009
+ |url=http://www.edreform.com/Press_Box/Press_Releases/?Accountability_Lies_at_the_Heart_of_Charter_School_Success&year=2009
+}}</ref>
+The rules and structure of charter schools depend on state authorizing legislation and differ from state to state.  A charter school is authorized to function once it has received a [[charter]], a statutorily defined performance [[contract]] detailing the school's mission, program, goals, students served, methods of assessment, and ways to measure success. The length of time for which charters are granted varies, but most are granted for 3–5 years. Charter schools are held accountable to their sponsor—a local [[school board]], state education agency, university, or other entity—to produce positive [[academic]] results and adhere to the charter contract.  While this accountability is one of the key arguments in favor of charters, evidence gathered by the [[United States Department of Education]] suggests that charter schools are not, in practice, held to higher standards of accountability than traditional public schools.  That point can be refuted by examining the number of traditional public schools that have been closed due to students' poor performance on end-of-course/end-of-grade tests.  Typically, these schools are allowed to remain open, perhaps with new leadership or restructuring, or perhaps with no change at all.  Charter school proponents assert that charter schools are not given the opportunities to restructure often and are simply closed down when students perform poorly on these assessments. <ref name="USDEexec"/> . 
+
+Many charter schools are created with the original intent of providing a unique and innovative educational experience to its students; one that cannot be matched by the traditional public schools.  While some charter schools succeed in this objective, many succumb to the same pressures of its public school brethren.  Charter schools are accountable for test scores, state mandates, and other traditional requirements that often have the effect of turning the charter school into a similar model and design as the public schools. <ref>{{cite journal
+ |first=Mathew
+ |last=Welch
+ |title=Eight-year study and charter legitimacy
+ |journal=Journal of Education
+ |volume=191
+ |issue=2
+ |month=Winter
+ |year=2011
+ |pages=55–65
+ |doi=
+}}</ref> . 
+
+Although the U.S. Department of Education's findings agree with those of the [[National Education Association]] (NEA), their study points out the limitations of such studies and the inability to hold constant other important factors, and notes that "study design does not allow us to determine whether or not traditional public schools are more effective than charter schools."<ref name=USDEexec>{{cite web
+ |url=http://www.ed.gov/rschstat/eval/choice/pcsp-final/execsum.html
+ |title=Executive Summary--Evaluation of the Public Charter Schools Program: Final Report
+ |publisher=US Department of Education
+ |date=November 19, 2004
+ |accessdate=July 27, 2009
+}}</ref> . 
+
+=== Chartering authorities === . 
+
+Chartering authorizers, entities that may legally issue charters, differ from state to state, as do the bodies that are legally entitled to apply for and operate under such charters. In some states, like [[Arkansas]], the State Board of Education authorizes charters. In other states, like [[Maryland]], only the local school district may issue charters. States including [[Arizona]] and the [[District of Columbia]] have created independent charter-authorizing bodies to which applicants may apply for a charter. The laws that permit the most charter development, as seen in [[Minnesota]] and [[Michigan]], allow for a combination of such authorizers. <ref name="CER_GRADED">{{cite press release
+ |url=http://www.edreform.com/About_CER/Charter_School_Laws_Across_the_States/?Race_to_the_Top_for_Charter_Schools
+ |title=Charter Laws Graded and Ranked State By State
+ |publisher=Center for Education Reform
+ |date=June 15, 2009
+ |accessdate=July 27, 2009
+}}</ref>  Charter applicants may include local school districts, institutions of higher education, non-profit corporations, and, in some states, for-profit corporations. [[Wisconsin]], [[California]], Michigan, and Arizona allow for-profit corporations to manage charter schools.  . 
+
+==== Charter school management organizations ==== . 
+
+*[[National Heritage Academies]]
+*[[Edison Schools|EdisonLearning]]
+*[[Arizona Charter Schools Association]]
+*[[Algiers Charter Schools Association]] (New Orleans)
+*[[Aspire Public Schools]]
+*[[Concept Schools]] . 
+
+=== Caps on charter schools === . 
+
+According to the [[National Alliance for Public Charter Schools]], twenty-six states and the District of Columbia have some type of limits, or caps, on charter schools.  Although an estimated 365,000 students are on charter school wait lists nationwide, these states restrict the number of charter schools that may be authorized and/or the number of students a single school can enroll.  Many of these caps are the result of political trade-offs among competing political interests. <ref>[http://www.publiccharters.org/Caps+on+Charter+Schools "Caps on Charter Schools."] (March 2009). National Alliance for Public Charter Schools. </ref>  Andrew Rotherham, co-founder of Education Sector and opponent of charter school caps, has written, "One might be willing to accept this pent-up demand if charter school caps, or the debate over them, were addressing the greater concern of charter school quality. But this is not the case. Statutory caps as they exist now are too blunt a policy instrument to sufficiently address quality. They fail to differentiate between good schools and lousy schools and between successful charter school authorizers and those with a poor track record of running charter schools. And, all the while, they limit public schooling options and choices for parents."<ref>{{cite web |last=Rotherham |first=Andrew |url= http://www.educationsector.org/analysis/analysis_show.htm?doc_id=532967 |title=Smart Charter School Caps |date=September 2007 |publisher=educationsector.org}}</ref> . 
+
+=== Demographics === . 
+
+The [[United States Department of Education|U.S. Department of Education's]] 1997 First Year Report, part of a four-year national study on charters, is based on interviews of 225 charter schools in 10 states. Charters tend to be small (fewer than 200 students) and represent primarily new schools, though some schools had converted to charter status. Charter schools often tend to exist in urban locations, rather than rural. This study found enormous variation among states. Charter schools tended to be somewhat more racially diverse, and to enroll slightly fewer students with special needs or limited English proficiency than the average schools in their state. <ref name=FYR>{{cite web
+ |publisher=U.S. Department of Education
+ |title=A Study on Charter Schools: First Year Report
+ |location=Washington, D.C
+ |year=1997
+ |url=http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=ED409620
+ |archiveurl=http://web.archive.org/web/20070515054429/http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=ED409620
+ |archivedate=May 15, 2007
+}}</ref> . 
+
+In 2007, the annual survey produced by the Center for Education Reform, a pro-charter school group, found that 54% of charter school students qualified for free or reduced lunches. This qualification is a common proxy for determining how many [[low-income]] students a given school enrolls. The same survey found that half of all charter school students fall into categories that are classified as “at risk.”<ref>{{cite web
+ |url=http://www.edreform.com/_upload/CER_CharterSurvey2007.pdf
+ |title=Annual Survey of America's Charter Schools
+ |publisher=Center for Education Reform
+ |date=April,2009
+ |accessdate=July 27, 2009
+}}</ref> . 
+
+=== Funding === . 
+
+Charter school funding is dictated by the state.  In many states, charter schools are funded by transferring per-pupil state aid from the school district where the charter school student resides. Charters are, on average, receiving less money per-pupil than the corresponding public schools in their areas, though the average figure is controversial because some charter schools do not enroll an equal number of students that require significant special education or student support services. Additionally, some charters are not required to provide transportation and nutrition services. <ref>{{cite web
+ |url=http://www.issuelab.org/research/equal_or_fair_a_study_of_revenues_and_expenditures_in_american_charter_schools
+ |title=Equal or Fair? A Study of Revenues and Expenditures in American Charter Schools
+ |publisher=Great Lakes Center for Education Research and Practice
+}}</ref>
+The Federal Elementary and Secondary Education Act, Part B, Sections 502–511 also authorize funding grants for charter schools.  . 
+
+In August 2005, a national report of charter school finance undertaken by the Thomas B. Fordam Institute, a pro-charter group,<ref>{{cite web
+ |url=http://www.edexcellence.net/doc/Charter%20School%20Funding%202005%20FINAL.pdf
+ |format=PDF|title=Charter School Funding: Inequity’s Next Frontier
+ |publisher=Thomas B. Fordam Institute
+ |month=August
+ |year=2005
+ |accessdate=January 21, 2008
+}}</ref> found that across 16 states and the District of Columbia—which collectively enroll 84 percent of the nation’s one million charter school students—charter schools receive about 22 percent less in per-pupil public funding than the district schools that surround them, a difference of about $1,800. For a typical charter school of 250 students, that amounts to about $450,000 per year. The study asserts that the funding gap is wider in most of twenty-seven urban school districts studied, where it amounts to $2,200 per student, and that in cities like San Diego and Atlanta, charters receive 40% less than traditional public schools. The fiscal inequity is most severe in South Carolina, California, Ohio, Georgia, Wisconsin, and Missouri. The report suggests that the primary driver of the district-charter funding gap is charter schools’ lack of access to local and capital funding.  . 
+
+A 2008 study that looked at charter school funding in all 40 charter states and the District of Columbia found that charter students are funded on average at 61 cents compared to every dollar for their district peers, with charter funding averaging $6,585 per pupil compared to $10,771 per pupil at conventional district public schools. <ref name="edreform.com">{{cite web
+ |title=Charter School Funding: Follow the Money
+ |publisher=Center for Education Reform
+ |month=May
+ |year=2008
+ |url=http://edreform.com/charter_schools/funding/
+}}</ref> . 
+
+In contrast, an August 2002 article from the Education Policy Analysis Archives at [[Arizona State University]] suggested that charters in economically depressed areas may receive more funding than the traditional public schools that surround them. <ref>{{cite journal
+ |url=http://epaa.asu.edu/epaa/v10n34.html
+ |title=Charter School Funding Issues
+ |first=Stephen D. 
+ |last=Sugarman
+ |journal=Education Policy Analysis Archives
+ |volume=10
+ |issue=34
+ |accessdate=July 27, 2009
+ |date=August 9, 2002
+ |issn=1068-2341
+}}</ref>{{Citation needed|reason=citation reference needs to specify paragraph location|date=July 2010}} . 
+
+== Organizing principles == . 
+
+State laws follow varied sets of key organizing principles based on the Citizens League's recommendations for Minnesota,<ref>{{cite web
+ |url=http://www.citizensleague.org/publications/reports/424.Report.Chartered%20Schools%20Choices%20for%20Education%20Quality%20for%20All%20Students.PDF
+ |title=Chartered Schools = Choices for Educators + Quality for All Students
+ |first=John
+ |last=Rollwagen
+ |coauthors=Donn McLellan; School Structure Committee
+ |publisher=Citizens League
+ |location=[[Saint Paul, Minnesota|Saint Paul]]
+ |date=November 17, 1988
+ |format=PDF
+ |accessdate=January 21, 2008
+}}</ref> [[American Federation of Teachers]] guidelines, and/or federal charter-school legislation (U.S. Department of Education). Principles govern sponsorship, number of schools, regulatory waivers, degree of fiscal/legal autonomy, and performance expectations.  . 
+
+Current laws have been characterized as either "strong" or "weak." "Strong-law" states mandate considerable autonomy from local labor-management agreements and bureaucracy, allow a significant number of charter schools to be authorized by multiple charter-granting agencies, and allocate a level of funding consistent with the statewide per pupil average. According to the Center for Education Reform, a pro-charter group, in 2008 Minnesota, the District of Columbia, Michigan, Arizona, and California had the "strongest" laws in the nation. Mississippi and Iowa are home to the nation’s "weakest" laws, according to the same ranking. <ref name="CER_GRADED"/> . 
+
+Seventy percent of charter schools are found in states with the "strongest" laws: [[Arizona]], [[California]], [[Colorado]], [[Massachusetts]], [[Michigan]], [[Minnesota]], and [[North Carolina]]. <ref name=edreform2>{{cite web
+ |title=Charter School Laws Across the States
+ |publisher=Center for Education Reform
+ |location=Washington, D.C. 
+ |year=2004
+ |url=http://www.edreform.com/About_CER/Charter_School_Laws_Across_the_States/index.cfm
+ |accessdate=January 21, 2008
+}}</ref> . 
+
+In the aftermath of [[Hurricane Katrina]], over half of the [[New Orleans]] schools that are re-opening are doing so as charter schools. <ref name=newOrleans>{{cite web
+ |last=Carrns
+ |first=Ann
+ |title=Charting a New Course: After Katrina, New Orleans's Troubled Educational System Banks on Charter Schools
+ |publisher=The Wall Street Journal
+ |date=August 24, 2006
+ |url=http://online.wsj.com/public/article/SB115638176750244050-c9tcWeTmCrIAG10IXb5FZyikobw_20060922.html?mod=tff_main_tff_top
+ |accessdate=January 21, 2008
+}}</ref> . 
+
+== Charter schools by country ==. 
+=== United States ===. 
+[[File:TripGalvPhotosGulftJapancon 019.JPG|thumb|[[SER-Niños Charter School]], a charter school in the [[Gulfton, Houston|Gulfton]] area of [[Houston]], [[Texas]]]] . 
+
+Minnesota wrote the first charter school law in the United States in 1991. As of 2011, Minnesota had 149 registered charter schools, with over 35,000 students attending.  The first of these schools was [[Winona, Minnesota|Bluffview Montessori School]], in 1992. Other schools include the City Academy (1992), the Aspen Academy(2007), and the [[Mainstreet School of Performing Arts]](2004). <ref>http://www.mncharterschools.org/page/1/home.jsp</ref> Since then other states have approved the formation of charter schools. The state government of Texas approved the formation of charter schools in 1995. Early critics feared that charter schools would lure the highest performing and most gifted students from centrally administered public schools. Instead, charter schools have tended to attract low income, minority, and low performing students. <ref name="RadcliffeScharrerCharter">Radcliffe, Jennifer and Gary Scharrer. "[http://www.chron.com/CDA/archives/archive.mpl?id=2006_4249236 Decade of change for charter schools / Experts say spotty success keeps them from competing with traditional system]." ''[[Houston Chronicle]]''. Sunday December 17, 2006. B1 MetFront. Retrieved on November 7, 2009. </ref> Undoubtedly the most radical experimentation with charter schools has occurred in New Orleans in the wake of Hurricane Katrina. The [[New Orleans Public Schools]] system is currently engaged in reforms aimed at decentralizing power away from the pre-Katrina school board central bureaucracy to individual school principals and charter school boards, monitoring charter school performance by granting renewable, five-year operating contracts permitting the closure of those not succeeding, and vesting choice in parents of public school students, allowing them to enroll their children in almost any school in the district. <ref>''Vallas wants no return to old ways'', The Times-Picayune, July 25, 2009. </ref> [[New Orleans]] is the only city in the nation where the majority of public school students attend charter schools. <ref name="The Times-Picayune 2009"/> . 
+
+Unlike their counterpart, charter school laws greatly vary from state to state. This can best be seen by using the examples of the three states with the highest number of students enrolled in charter schools, California, Arizona, and Michigan. <ref>Powers, Jeanne M. "Charter Schools." Encyclopedia of the Social and Cultural Foundations of Education. 2008. SAGE Publications. 5 Dec. 2011. </ref>  These differences largely fall under the categories of what types of public agencies are permitted to authorize the creation of charter schools, whether or not and how private schools can convert to charter schools, and whether or not charter school teachers need to be certified and what that consists of.  . 
+
+Firstly, charters for charter schools in California are for the most part granted by local school districts. However, if a charter is denied by a local school district or the school provides services not provided by the local school districts, the charter can be granted by county board of superintendent of schools and then the state board of education. <ref name="Premack">Premack, Eric. "Charter schools: California's education reform 'power tool.'(Special Section on Charter Schools)." Phi Delta Kappan 78.1 (1996): 60+. Academic OneFile. Web. 5 Dec. 2011. </ref> Meanwhile in Arizona charters can be given by the Arizona State Board for Charter Schools, which serves as the state’s agency for governing their charter schools. They can also be given charters by local school districts and the state board of education. In contrast, charter schools, which in Michigan are known as Public School Academies, can be authorized for creation by local school boards or the governing school boards of state colleges and universities. <ref name="Lacireno-Paquet">Lacireno-Paquet, Natalie. " Moving Foward of Sliding Backward: The Evolution of Charter School Policies in Michigan and the District of Columbia." Educational policy (Los Altos, Calif.). 21. (2007): 202. Web. 5 Dec. 2011. <Educational policy (Los Altos, Calif.)>. </ref>   This helps to show how the overlapping of some state laws in regards to charter schools equal in number to the unique laws of some states.  . 
+
+In referring to whether nor not a state allows private schools to convert into a charter school, one too can easily see the variation state to state. California for example does not allow the conversion of a pre-existing private school into a charter school, but both Arizona and Michigan do allow private schools to convert, but with differing requirements. Private schools wishing to convert to charter schools in Michigan must show that at least twenty-five percent of their student population be that of new students. Arizona private schools that desire to switch to charter schools must have admissions that are fair and offer nondiscriminatory acceptance.  Also, while Michigan and California require teachers at charter schools to hold state certification, those in Arizona do not. Reports indicate that schools transferring from a traditional school setting to a charter school type setting will inherently be at a disadvantage due to the lack of background structure when compared to schools that have been around for quite a while.  . 
+
+As proven by this state to state differentiation in regards to charter school law, one can easily see it is not unified. Though, the Public Charter Schools Program, which is funded by the federal government and is delivered via the state departments of education does affect every state’s charter schools. It also helps to provide much needed research on charter schools via funding.   
+Also, charter schools were selected as a large component of the No Child Left Behind Act on 2002. Specifically, it stated that students that attended schools labeled as under performing by state standards the right to have the option to transfer to a different school in the district whether it be charter school or not, thus making charter schools an option for students attending an under performing school.   No Child Left Behind also suggested an outline that would entail under performing schools possibly being reorganized into charter schools.  It sanctions that if a failing school cannot be shown to be making adequate yearly progress than it will be transformed into a charter school.  . 
+
+North Carolina is currently home to almost one hundred charter schools, its limit as per the legislation that passed in 1996 that legally allowed charter schools to exist in North Carolina. <ref>Knight, Meghan. "Cyber Charter Schools: An Analysis of North Carolina's Current Charter School Legislation." North Carolina journal of law . 6. (2005): 395. Web. 6 Dec. 2011. http://heinonline.org/HOL/Page?handle=hein.journals/ncjl6. </ref> This legislation also dictates that there will be no more than five charter schools operating within one school district during the same year. It was passed to offer parents different options in regards to their children and the school they attend, all with most of the cost being covered by tax revenue. There has recently been activity surrounding the issue of raising the state cap of one hundred  to one hundred and ten. When the legislation was first passed to allow charter schools in North Carolina, the following couple of years thirty-four charter schools were opened. Within the next few years there were ninety-nine charter schools opened with an estimated 16,000 students. Furthermore, after the first several years of the charter schools being allowed in North Carolina the institutions with the authority to grant charters was shifted from local boards of education to that of the State Board of Education. This can also be compared with several other states that have multiple different powers who accept the charter school applications.  . 
+
+When compared to the number of charter schools across the nation, which is around 3,000, North Carolina does indeed seem to be but a small part of the charter school system, especially when compared to the top three states in regard to the number of charter schools, Arizona, California, and Michigan. And while the number of charter schools in North Carolina is growing, it has yet to produce a cyber charter school, despite a handful of applications for this cutting edge educational system, which in theory better prepares a student for work in newer technical world. Cyber charter schools operate like a typical charter school in regards to being an independently organized school, but allows for much more flexibility and to break the confines of traditional schools. Between 1999 and 2003 about sixty cyber charter schools have opened with over 16,000 students being served. These cyber charter schools were created in fifteen states and approximately accounts for two percent of all charter school students. They allow for students to be taught over the internet while meeting with teachers and students only for certain activities. It also allows for students to attend the cyber charter school and not necessarily be located in that local school district. It can inherently be seen that many very different problems may arise in cyber charter schools  when compared to typical charter schools or traditional schools. And, with most cyber charter schools being ruled by the original legislation created for regular charter schools, one can also see that the cyber charter schools could have a hard time addressing their problems. Because of this problem, four states have adopted more specific legislation that directly tailors to cyber charter schools.   . 
+
+A prime example of a state’s cyber schools seeing an increase in implementation is Arizona. With about 3,500 students in their cyber schools, with about half of them being cyber charter schools and the other half being governed by normal public school districts.  The cyber schools teach students from kindergarten to twelfth grade, and the setting varies from being entirely online in one’s home or spending all of the class time in a formal school building whilst learning over the internet.  . 
+
+As of December 2011, there are now approximately 5,600 public charter schools enrolling what is estimated to be more than two million students nationwide. The numbers equate to a 13 percent growth in students in just one year, while more than 400,000 students remain on wait lists to attend the public school of their choice. Over 500 new public charter schools opened their doors in the 2011-12 school year, an estimated increase of 200,000 students. This year marks the largest single–year increase ever recorded in terms of the number of additional students attending charters. <ref>{{cite web|title=Number of Public Charter School Students in U.S. Surpasses Two Million|url=http://leavechartersalone.com/2011/number-of-public-charter-school-students-in-u-s-surpasses-two-million/|publisher=National Alliance for Public Charter Schools|accessdate=13 December 2011}}</ref> . 
+
+According to journalist [[Steven Brill (law writer)|Steven Brill]], the view of several charter leaders, including [[Eva Moskowitz]] and Sarah Usdin, is that the public noncharter school system cannot simply be reformed with charters serving as small laboratories for new ways to educate, but a complete turnaround of the noncharter system may be needed, a replacing of the traditional model with a model derived from charters. <ref>Brill, Steven, ''Class Warfare: Inside the Fight to Fix America's Schools'' (N.Y.: Simon & Schuster, 1st Simon & Schuster hardcover ed. Aug., 2011 (ISBN 978-1-4516-1199-1)), pp. 419–420 (author teaches journalism, Yale). </ref> . 
+
+=== New Zealand === . 
+
+Following the [[New Zealand general election, 2011|2011 general election]], the [[New Zealand National Party|National Party]] in return for [[confidence and supply]] announced it would pick up an [[ACT Party]] a policy of setting up charter schools in southern Auckland and eastern Christchurch within three years. This followed the appointment of Lesley Longstone, who has experience in England with charter schools, as the new Secretary of Education. The National-ACT alliance intends to set up charter schools as alternatives to state schools, in some cases taking over the facilities of a state school. Schools would be operated by private [[business]]es or organisations such as churches and tribal groups, and would be directly accountable for performance to the organizations running them, unlike state schools where they are accountable to the Government. The schools would receive state funding and private donations, but have the same freedoms as private schools in matters such as in setting the curriculum, length of the school day/year and teachers' pay. Schools would still be subject to external reviews (most likely by the [[Education Review Office]]), and the government would still have the power to sack an organisation running a school on poor performance. <ref>{{cite web |first= Derek |last= Cheng |date= 6 December 2011  |title= What are charter schools? |publisher=  |url= http://www.nzherald.co.nz/election-2011/news/article.cfm?c_id=1503012&objectid=10771267 |accessdate= 21 January 2012}}</ref> . 
+
+The plan was heavily criticised by the opposition [[New Zealand Labour Party|Labour Party]] and the main teachers' unions – the [[New Zealand Educational Institute]] (NZEI) and the [[Post Primary Teachers' Association]] (PPTA). The president of the PPTA said that in Britain it is a failed model with only 17% of students doing better in a charter school compared to state schools. <ref>{{cite web |url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10771244 |title= Govt's charter school plan slammed |publisher= The New Zealand Herald |date= 6 December 2011 |accessdate= 9 March 2012}}</ref> In a detailed comparative study of well-funded schools in New York, the research concluded that despite charter schools hand-picking their students in a lottery system, students in state schools do statistically better in state examinations.{{citation needed|date=January 2012}} . 
+
+Charter schools are not to be confused with state integrated schools. State integrated schools are parochial schools or private schools that have been "integrated" into the state school system under the [http://www.legislation.co.nz/act/public/1975/0129/latest/contents.html Private Schools Conditional Integration Act 1975]. These schools are run the same as state schools, but they are allowed to retain their special character and proprietors.  . 
+
+Since 1989 New Zealand has also made provision for [[Designated Special Character schools]]. {{As of| 2011}} only two have been established, although one of these, the Corelli School of Arts which claims to be a charter school, charges substantial fees – NZ$18,000 per annum for senior students, according to the school's web site. {{Citation needed|date=March 2012}} . 
+
+=== England and Wales === . 
+
+The [[United Kingdom]] established [[grant-maintained school]]s in [[England]] and [[Wales]] in 1988. <ref name="NDAD">{{cite web | title = Grant Maintained Schools Database | work = The National Digital Archive of Datasets | publisher = [[The National Archives]] | url = http://www.ndad.nationalarchives.gov.uk/CRDA/36/detail.html | accessdate = 2010-02-14}}</ref> They allowed individual schools that were independent of the local school authority.  When they were abolished in 1998, most turned into [[foundation school]]s, which are really  under their local district authority but still have a high degree of autonomy.  . 
+
+Prior to the [[United Kingdom general election, 2010|2010 General Election]], there were about 200 [[Academy (English school)|academies]] (publicly funded schools with a significant degree of autonomy) in England. <ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/education/10161371.stm |title=Q&A: Academies and free schools |date=26 May 2010 |newspaper=[[BBC News Online]]}}</ref> The [[Academies Act 2010]] aims to vastly increase this number.  . 
+
+=== Canada === . 
+
+The [[Canada|Canadian]] province of [[Alberta]] enacted legislation enabling charter schools in 1994. <ref>{{cite web |url=http://education.alberta.ca/media/6389667/background%20information%20revised%20jan%207%2011.pdf |title=Action on Research and Innovation: The Future of Charter Schools in Alberta |month=January |year=2011 |publisher=Government of Alberta |page=1 |accessdate=2011-03-24 }}</ref>  The first charter schools under the new legislation were established in 1995:  New Horizons Charter School, Suzuki Charter School and the Centre for Academic and Personal Excellence. <ref>{{cite web |url=http://cwf.ca/pdf-docs/publications/innovation-in-action-charter-schools-2.pdf |title=Innovation in Action: An Examination of Charter Schools in Alberta |first=Shawna |last=Ritchie |month=January |year=2010 |work=the West in Canada Research Series |publisher=CanadaWest Foundation |page=9 |accessdate=2011-03-24}}</ref> . 
+
+[[Alberta charter schools]] have much in common with their U.S. counterparts.  {{As of|2010}} there were 22 charter schools in the province, operated by 13 charter school authorities,<ref>Ritchie, at 11. </ref> compared with over 50 school boards, with the largest one alone having over 200 schools.{{Citation needed|date=March 2011}}  The idea of charter schools initially sparked great debate and is still controversial, but has had limited impact.{{Citation needed|date=March 2011}}  {{As of|2010}}, Alberta remains the only Canadian province that has enabled charter schools. <ref>Ritchie, at 3. </ref> . 
+
+=== Chile === . 
+
+[[Chile]] has a long history of private subsidized schooling, akin to charter schooling in the United States. Before the 1980s, most private subsidized schools were religious and owned by churches or other private parties, but they received support from the central government. In the 1980s, the dictatorial government of [[Augusto Pinochet]] promoted [[neoliberal]] reforms in the country. In 1981 a competitive [[voucher]] system in education was adopted. <ref name="Carnoy1998">{{cite journal |title=National Voucher Plans in Chile and Sweden: Did Privatization Reforms Make for Better Education? |first=Martin |last=Carnoy |journal=Comparative Education Review |volume=42 |issue=3 |month=August |year=1998 |pages=309–337 |jstor=1189163 |doi=10.1086/447510}}</ref> These vouchers could be used in public schools or private subsidized schools (which can be run for profit). After this reform, the number of private subsidized schools, many of them secular, grew from 18.5% of schools in 1980 to 32.7% of schools in 2001. <ref>{{cite journal
+ |last=Larrañaga
+ |first=Osvaldo
+ |title=Competencia y Participación Privada: La experiencia Chilena en Educación
+ |publisher=[[Estudios Públicos]]
+ |year=2004
+}}</ref> Recent figures show that fully half of Chilean students study in charter schools. <ref>{{cite news|last=Long|first=Gideon|title=Chilean student protests point to deep discontent|url=http://www.bbc.co.uk/news/world-latin-america-14487555|accessdate=17 August 2011|newspaper=BBC News|date=11 August 2011}}</ref> This has led to repeated protests such as the [[Penguin Revolution]] of 2006 and [[2011 student protests in Chile|nationwide protest action in 2011]].  . 
+
+=== Sweden ===. 
+{{Main|Education in Sweden}} . 
+
+The Swedish system of "free schools" was instituted in 1992. <ref name="Carnoy1998"/> Free schools are publicly funded by [[school voucher]]s but independent in governance, and can be run by charity groups or for-profit companies. The schools are not allowed to supplement the vouchers with tuition or top-up fees, and pupils must be admitted on a first-come, first-served basis - entrance exams are not permitted. <ref>{{cite news |url=http://www.economist.com/node/11535645 |title=The Swedish model |date=12 June 2008 |newspaper=[[The Economist]]}}</ref> There are about 900 free schools in total throughout the country. <ref>{{cite news |url=http://news.bbc.co.uk/2/hi/programmes/politics_show/7471335.stm |title=Free schools |date=26 June 2008 |newspaper=[[BBC News Online]]}}</ref> . 
+
+== National evaluations of charter schools == . 
+
+One obvious question charter schools face is whether they actually improve educational outcomes, which is their stated purpose.  In the interest of testing this assertion, a number of researchers and organizations have examined educational outcomes for students who attend charter schools.  . 
+
+=== Center for Research on Education Outcomes === . 
+
+[[Image:Charter School Performance Study.svg|thumb|280px|A study done by Stanford University found that charter schools on average perform about the same or worse compared to public schools.]]
+In 2009, the most authoritative study of charter schools was conducted by the Center for Research on Education Outcomes (CREDO) at [[Stanford University]].  The report is the first detailed national assessment of charter schools.  It analyzed 70% of the nation's students attending charter schools and compared the academic progress of those students with that of demographically matched students in nearby public schools.  The report found that 17% of charter schools reported academic gains that were significantly better than traditional public schools; 46% showed no difference from public schools; and 37% were significantly worse than their traditional public school counterparts. The authors of the report consider this a "sobering" finding about the quality of charter schools in the U.S. Charter schools showed a significantly greater variation in quality as compared with the more standardized public schools with many falling below public school performances and a few exceeding them significantly. Results vary for various demographics with Black and Hispanic children not doing as well as they would in public schools, but with children from poverty backgrounds, students learning English, and brighter students doing better; average students do poorer. While the obvious solution to the widely varying quality of charter schools would be to close those who perform below the level of public schools, this is hard to accomplish in practice as even a poor school has its supporters. <ref>{{cite journal
+ |title=Multiple Choice: Charter School Performance in 16 States
+ |url=http://credo.stanford.edu
+ |publisher=Center for Research on Education Outcomes (CREDO)
+ |format=PDF
+ |year=2009
+}}</ref> . 
+
+==== Criticism and debate ==== . 
+
+Stanford economist [[Caroline Hoxby]] criticized the study, resulting in a written debate with the authors. She originally argued the study "contains a serious statistical mistake that causes a negative bias in its estimate of how charter schools affect achievement,"<ref>[http://credo.stanford.edu/reports/Memo_On_The_Credo_Study.pdf "A Serious Statistical Mistake In The CREDO Study of Charter Schools"]</ref> but after CREDO countered the remarks, saying Hoxby's "memo is riddled with serious errors"<ref>[http://credo.stanford.edu/reports/CREDO_Hoxby_Rebuttal.pdf "Fact vs. Fiction: An Analysis of Dr. Hoxby’s Misrepresentation of CREDO’s Research"]</ref> Hoxby revised her original criticism. <ref>[http://credo.stanford.edu/reports/memo_on_the_credo_study%20II.pdf "A Statistical Mistake In The CREDO Study of Charter Schools"]</ref> The debate ended with a written "Finale" by CREDO that rebuts both Hoxby's original and revised criticism. <ref>[http://credo.stanford.edu/reports/CREDO%20Finale%20to%20Hoxby.pdf "CREDO Finale to Hoxby’s Revised Memorandum"]</ref> . 
+
+=== National Bureau of Economic Research study === . 
+
+In 2004, the National Bureau of Economic Research found data that suggested Charter Schools increase competition in a given jurisdiction, thus improving the quality of traditional public schools (noncharters) in the area. Using end-of-year test scores for grades three through eight from North Carolina's state testing program, researchers found that charter school competition raised the composite test scores in district schools, even though the students leaving district schools for the charters tended to have above average test scores. The introduction of charter schools in the state caused an approximate one percent increase in the score, which constitutes about one quarter of the average yearly growth. The gain was roughly two to five times greater than the gain from decreasing the student-faculty ratio by 1. This research could partially explain how other studies have found a small significant difference in comparing educational outcomes between charter and traditional public schools. It may be that in some cases, charter schools actually improve other public schools by raising educational standards in the area. <ref>{{cite journal
+ |last=Holmes
+ |first=George M. 
+ |coauthors=DeSimon, Jeff and Rupp, Nicholas G. 
+ |title=Does School Choice Increase School Quality?
+ |url=http://www.nber.org/papers/w9683
+ |publisher=[[National Bureau of Economic Research]]
+ |format=PDF
+ |year=2004
+}}</ref> . 
+
+=== American Federation of Teachers study === . 
+
+A study performed by the American Federation of Teachers, which "strongly supports charter schools",<ref>{{cite web
+ |url=http://www.aft.org/topics/charters/
+ |title=Hot Topics - Charter Schools
+ |date=May 6, 2008
+ |publisher=[[American Federation of Teachers]]
+ |accessdate=July 27, 2009
+}}</ref> found that  students attending charter schools tied to school boards do not fare any better or worse statistically in reading and math scores than students attending public schools. <ref>{{cite journal
+ |last1=Nelson
+ |first1=F. Howard
+ |last2=Rosenberg
+ |first2=Bella
+ |first3=Nancy
+ |last3=Van Meter
+ |title=Charter School Achievement on the 2003 National Assessment of Educational Progress
+ |publisher=[[American Federation of Teachers]]
+ |year=2004
+}}</ref>  This study was conducted as part of the National Assessment of Educational Progress in 2003. <ref name=NAEP>{{cite web
+ |title=America's Charter Schools: Results From the NAEP 2003 Pilot Study
+ |url=http://nces.ed.gov/nationsreportcard/pdf/studies/2005456.pdf
+ |publisher=[[United States Department of Education]]
+ |author=Institute of Education Sciences
+ |format=PDF
+ |month=December
+ |year=2004
+ |accessdate=January 21, 2008
+}}</ref> The study included a sample of 6000 [[4th grade]] pupils and was the first national comparison of test scores among children in charter schools and regular public schools. [[Rod Paige]], the U.S. [[Secretary of Education]] from 2001 to 2005, issued a statement saying (among other things) that, "according to the authors of the data the Times cites, differences between charter and regular public schools in achievement test scores vanish when examined by race or ethnicity."<ref>{{cite press release
+ |url=http://www.ed.gov/news/pressreleases/2004/08/08172004.html
+ |title=Paige Issues Statement Regarding New York Times Article on Charter Schools
+ |date=August 17, 2004
+ |publisher=[[U.S. Department of Education]]
+ |accessdate=January 21, 2008
+}}</ref> Additionally, a number of prominent research experts called into question the usefulness of the findings and the interpretation of the data in an advertisement funded by a pro-charter group. <ref>{{cite web
+ |url=http://www.edreform.com/_upload/NewYorkTimesAd.pdf
+ |format=PDF
+ |title=Charter School Evaluation Reported by The New York Times Fails to Meet Professional Standards
+ |month=August
+ |year=2004
+ |publisher=Center for Education Reform
+ |accessdate=January 21, 2008
+}}</ref>  Harvard economist [[Caroline Hoxby]] also criticized the report and the sample data, saying "An analysis of charter schools that is statistically meaningful requires larger numbers of students."<ref name=hoxby1>{{cite journal
+ |title=Achievement in Charter Schools and Regular Public Schools in the United States: Understanding the Differences
+ |last=Hoxby
+ |first=Caroline M. 
+ |authorlink=Caroline Hoxby
+ |month=December
+ |year=2004
+ |url=http://post.economics.harvard.edu/faculty/hoxby/papers/hoxbycharter_dec.pdf
+ |publisher=Harvard University and the National Bureau of Economic Research
+ |format=PDF
+ |archiveurl=http://web.archive.org/web/20070616174509/http://post.economics.harvard.edu/faculty/hoxby/papers/hoxbycharter_dec.pdf
+ |archivedate=June 16, 2007
+ |accessdate=January 21, 2008
+}}</ref> . 
+
+=== Caroline Hoxby studies === . 
+
+A 2000 paper by [[Caroline Hoxby]] found that charter school students do better than public school students, although this advantage was found only "among white non-Hispanics, males, and students who have a parent with at least a high school degree". <ref name=hoxby2>{{cite journal
+ |title=Does Competition among Public Schools Benefit Students and Taxpayers?
+ |journal=American Economic Review
+ |year=2000
+ |first=Caroline M. 
+ |last=Hoxby
+ |authorlink=Caroline Hoxby
+}}</ref> Hoxby released a follow up paper in 2004 with Jonah Rockoff, Assistant Professor of Economics and Finance at the Columbia Graduate School of Business, claiming to have again found that charter school students do better than public school students. <ref name=hoxby1/> This second study compared charter school students "to the schools that their students would most likely otherwise attend: the nearest regular public school with a similar racial composition."<ref name=hoxby1/>  It reported that the students in charter schools performed better in both math and reading. It also reported that the longer the charter school had been in operation, the more favorably its students compared.  . 
+
+==== Criticism ==== . 
+
+The paper was the subject of controversy in 2005 when Princeton assistant professor Jesse Rothstein was unable to replicate her results. Hoxby's methodology in this study has also been criticized, arguing that Hoxby's "assessment of school outcomes is based on the share of students who are proficient at reading or math but not the average test score of the students. That’s like knowing the poverty rate but not the average income of a community—useful but incomplete."<ref>{{cite web
+ |title=Schoolhouse Schlock: Conservatives flip-flop on standards for charter school research
+ |url=http://www.prospect.org/cs/articles?articleId=8638
+ |first=Lawrence
+ |last=Mishel
+ |publisher=[[The American Prospect]]
+ |date=September 23, 2004
+ |accessdate=January 21, 2008
+}}</ref> How representative the study is has also been criticized, as the study is only of students in Chicago. <ref name="contexts">Renzulli, Linda A., & Roscigno, Vincent J., ''Charter Schools and the Public Good'', in ''Contexts'', '''6'''(1):31–36 (Winter 2007 (DOI 10.1525/ctx.2007.6.1.31)), accessed January 3, 2008 (author Linda A. Renzulli asst. prof. Dep't Sociology, [[University of Georgia]], & coauthor Vincent J. Roscigno coeditor [[American Sociological Review]]). </ref> . 
+
+=== Learning gains studies === . 
+
+A common approach in peer reviewed academic journals is to compare the learning gains of individual students in charter schools to their gains when they were in traditional public schools.  Thus, in effect, each student acts as his/her own control to assess the impact of charter schools.  A few selected examples of this work find that charter schools on average outperform the traditional public schools that supplied students, at least after the charter school had been in operation for a few years. <ref>{{cite journal
+ |first=Tim R. 
+ |last=Sass
+ |title=Charter Schools and student achievement in Florida
+ |journal=Education Finance and Policy
+ |volume=1
+ |issue=1
+ |month=Winter
+ |year=2006
+ |pages=91–122
+ |doi=10.1162/edfp.2006.1.1.91
+}}</ref><ref>{{cite journal
+ |first1=Robert
+ |last1=Bifulco
+ |first2=Helen F. 
+ |last2=Ladd
+ |title=The impacts of charter schools on student achievement:  Evidence from North Carolina
+ |journal=Education Finance and Policy
+ |volume=1
+ |issue=1
+ |month=Winter
+ |year=2006
+ |pages=50–90
+ |doi=10.1162/edfp.2006.1.1.50
+}}</ref><ref>{{cite journal
+ |first1=Kevin
+ |last1=Booker
+ |first2=Scott M. 
+ |last2=Gilpatric
+ |first3=Timothy
+ |last3=Gronberg
+ |first4=Dennis
+ |last4=Jansen
+ |title=The impact of charter school attendance on student performance
+ |journal=Journal of Public Economics
+ |volume=91
+ |issue=5–6
+ |month=June
+ |year=2007
+ |pages=849–876
+ |doi=10.1016/j.jpubeco.2006.09.011
+}}</ref><ref name=Hanushek2007>{{cite journal
+ |authorlink1=Eric Hanushek
+ |first1=Eric A. 
+ |last1=Hanushek
+ |first2=John F. 
+ |last2=Kain
+ |first3=Steve G. 
+ |last3=Rivkin
+ |first4=Gregory F. 
+ |last4=Branch
+ |title=Charter school quality and parental decision making with school choice
+ |journal=Journal of Public Economics
+ |volume=91
+ |issue=5–6
+ |month=June
+ |year=2007
+ |pages=823–848
+ |doi=10.1016/j.jpubeco.2006.09.014
+}}</ref> At the same time, there appears to be a wide variation in the effectiveness of individual charter schools. <ref name=Hanushek2007/> . 
+
+=== Meta-analyses === . 
+
+A report issued by the National Alliance for Public Charter Schools,<ref>{{cite web
+ |title=Charter School Achievement: What We Know
+ |first1=Bryan C. 
+ |last2=Terrell
+ |first2=Michelle Godard
+ |url=http://www.publiccharters.org/files/1554_file_CS_Achievement_Studies_Oct06_Update_1_.doc
+ |archiveurl=http://web.archive.org/web/20080227174248/http://www.publiccharters.org/files/1554_file_CS_Achievement_Studies_Oct06_Update_1_.doc
+ |archivedate=February 27, 2008
+ |month=October
+ |year=2006
+ |publisher=National Alliance for Public Charter Schools
+ |accessdate=January 3, 2008
+}}</ref> released in July 2005 and updated in October 2006, looks at twenty-six studies that make some attempt to look at change over time in charter school student or school performance. Twelve of these find that overall gains in charter schools were larger than other public schools; four find charter schools’ gains higher in certain significant categories of schools, such as elementary schools, high schools, or schools serving at risk students; six find comparable gains in charter and traditional public schools; and, four find that charter schools’ overall gains lagged behind. The study also looks at whether individual charter schools improve their performance with age (e.g. after overcoming start-up challenges). Of these, five of seven studies find that as charter schools mature, they improve. The other two find no significant differences between older and younger charter schools.  . 
+
+A more recent synthesis of findings conducted by Vanderbilt University indicates that solid conclusions cannot be drawn from the existing studies, due to their methodological shortcomings and conflicting results, and proposes standards for future meta-analyses. <ref name=Vanderbilt>{{cite web
+ |title=Charter School Effects on Achievement: Where We Are and Where We're Going
+ |last1=Berends
+ |first1=Mark
+ |first2=Caroline
+ |last2=Watral
+ |first3=Bettie
+ |last3=Teasley
+ |first4=Anna
+ |last4=Nicotera
+ |url=http://www.vanderbilt.edu/schoolchoice/conference/papers/Berendsetal_2006-DRAFT.pdf
+ |year=2006
+ |publisher=National Center on School Choice
+ |format=PDF
+ |accessdate=January 3, 2008
+}}</ref> . 
+
+=== National Center for Education Statistics study === . 
+
+A study released on August 22, 2006 by the [[National Center for Education Statistics|National Center for Education Statistics (NCES)]] found that students in charter schools performed several points worse than students in traditional public schools in both reading and math on the National Assessment of Educational Progress test. <ref>{{cite journal
+ |author=[[National Center for Education Statistics]]
+ |title=A Closer Look at Charter Schools Using Hierarchical Linear Modeling
+ |location=Washington, D.C. 
+ |publisher=U.S. Government Printing Office
+ |year=2006
+ |url=http://nces.ed.gov/nationsreportcard//pdf/studies/2006460.pdf
+ |format=PDF
+ |accessdate=January 21, 2008
+}}</ref> Some proponents consider this the best study as they believe by incorporating basic demographic, regional, or school characteristics simultaneously it "...&nbsp;has shown conclusively, through rigorous, replicated, and representative research, whether charter schools boost student achievement&nbsp;...", while they say that in the AFT study "...&nbsp;estimates of differences between charter schools and traditional public schools are overstated."<ref name="contexts"/> Critics of this study argue that its demographic controls are highly unreliable, as percentage of students receiving free lunches does not correlate well to poverty levels, and some charter schools don't offer free lunches at all, skewing their apparent demographics towards higher income levels than actually occur. <ref>{{cite press release
+ |title=No Free Lunch — Study Wrongly Discredits Charter Success: Flawed Research by National Center for Education Statistics Should be Viewed with Great Skepticism
+ |publisher=Center for Education Reform
+ |date=August 21, 2006
+ |url=http://www.edreform.com/Press_Box/Press_Releases/?No_Free_Lunch_Study_Wrongly_Discredits_Charter_Success&year=2006
+ |accessdate=January 21, 2008
+}}</ref> . 
+
+=== United States Department of Education study === . 
+
+In its Evaluation of the Public Charter Schools Program: Final Report released in 2003, the U.S. Department of Education found that, in the five case study states, charter schools were out-performed by traditional public schools in meeting state performance standards, but noted: “It is impossible to know from this study whether that is because of the performance of the schools, the prior achievement of the students, or some other factor.”<ref name=USDEexec/> . 
+
+== Local evaluations of charter schools == . 
+
+Several local evaluations have found urban charter schools to significantly outperform their school district peers.  . 
+
+=== Boston === . 
+
+A study in the Boston Public Schools (BPS) District<ref>{{cite web
+ |title=Informing the Debate: Comparing Boston's Charter, Pilot and Traditional Schools
+ |url=http://www.tbf.org/uploadedFiles/tbforg/Utility_Navigation/Multimedia_Library/Reports/InformingTheDebate_Final.pdf
+ |first=Atil
+ |last=Abdulkadiroglu
+ |coauthors=Angrist, Josh, Cohodes, Sarah, Dynarski, Susan, Fullerton, Jon, Kane, Thomas and Pathak, Parag
+ |publisher=The Boston Foundation
+ |date=January, 2009
+ |accessdate=April 27, 2010
+}}</ref>  compared Boston’s charter schools to their district school peers as well as Boston’s pilot schools, which are public schools that have been granted the flexibility to determine their own budgets, staffing, curricula, and scheduling but remain part of the local school district and subject to collectively bargained pay scales and seniority protections.  The report performed analyses using both statistical controls and using pilot and charter applicant lotteries.  . 
+
+The results using statistical controls to control for demographic and baseline state test scores found a positive effect among charter schools similar to a year spent in one of Boston’s selective exam schools, with math scores, for instance, showing positive effects of 0.18 and 0.22 standard deviations for charter middle and high schools respectively compared to an effect of 0.20 and 0.16 standard deviations for exam schools.  For pilot schools, the report found that in the middle school grades pilot school students modestly underperform relatives to similar students attending traditional BPS schools (-0.05 standard deviations in ELA and -0.07 in math) while showing slightly positive results in the high school grades for pilot schools (0.15 standard deviations for writing and 0.06 for math).  . 
+
+The results using a sub-sample of schools with random lottery results found very large positive effects in both math and ELA scores for charter schools, including 0.16 and 0.19 standard deviations in middle and high school ELA scores respectively and 0.36 and 0.17 standard deviations in middle and high school math scores respectively.  Boston’s pilot schools, however, showed a concerning negative effect in middle school math and ELA and a slightly positive effect in high school.  . 
+
+=== New Orleans === . 
+
+A recent case study by the [[Harvard Business School]] examined the charter school reform efforts in [[New Orleans]]. <ref>{{cite journal
+ |last=Childress
+ |first=Stacey
+ |coauthors=DeSimon, Jeff and Rupp, Nicholas G. 
+ |title=Public Education in New Orleans: Pursuing Systemic Change through Entrepreneurship
+ |publisher=Harvard Business School Publishing
+ |year=2010
+}}</ref>  After Hurricane Katrina destroyed much of New Orleans in 2005, the state of Louisiana took over 102 of the 118 public schools and shifted management to a system of schools.  The district is now composed of 70 Recovery Schools District (RSD) schools managed by the state (including 37 RSD charter schools) and 16 schools managed by the local Orleans Parish School Board (OPSB) (including 12 OPSB charter schools).  Charter schools now account for more than 60% of the public schools in New Orleans.  . 
+
+When evaluating New Orleans’ schools against the 200 point index called the State Performance Index (SPI), 19 of the 20 highest performing non-selective schools were charter schools.  Charter schools affiliated with charter management organizations such as [[Knowledge Is Power Program|KIPP]] tended to perform better than stand-alone schools.  The overall percentage of schools performing below the failing mark of 60 fell from 64% in 2005 to 36% in 2009.  . 
+
+== Policy and practice == . 
+
+As more states start charter schools, there is increasing speculation about upcoming legislation.  In an innovation-diffusion study surveying education policy experts in fifty states, Michael Mintrom and Sandra Vergari (1997) found that charter legislation is more likely to be considered in states with poor test scores, Republican legislative control, and proximity to other states with charter schools. Legislative enthusiasm, gubernatorial support, interactions with national authorities, and use of permissive charter-law models increase the chances for adopting what they consider stronger laws. He feels union support and restrictive models lead to adoption of what he considers weaker laws.  . 
+
+The threat of vouchers, wavering support for public education, and bipartisan support for charters has led some unions to start charters themselves. Several [[American Federation of Teachers|AFT]] chapters, such as those in Houston and Dallas, have themselves started charters. The [[National Education Association]] has allocated $1.5 million to help members start charter schools. Proponents claim that charters offer teachers a measure of empowerment, employee ownership, and governance that might be enhanced by union assistance (Nathan). Former President Bush's [[No Child Left Behind Act]] also promotes charter schools.  . 
+
+Over two dozen private management companies are scrambling to increase their 10 percent share of a "more hospitable and entrepreneurial market" (Stecklow 1997). Boston-based Advantage Schools Inc., a corporation specializing in [[for-profit schooling]], has contracted to run charter schools in New Jersey, Arizona, and North Carolina. The Education Development Corporation was planning in the summer of 1997 to manage nine nonsectarian charter schools in [[Michigan]], using cost-cutting measures employed in [[Christian schools]].  . 
+
+=== Public opinion === . 
+
+Historically, Americans have been hesitant to the idea of Charter schools, often with more opposition than support. <ref name=GallupPoll>{{cite web
+ |url=http://www.gallup.com/poll/18682/Americans-More-Receptive-Charter-Schools.aspx
+ |title=Americans More Receptive to Charter Schools
+ |first=Linda
+ |last=Lyons
+ |date=September 20, 2005
+ |accessdate=January 28, 2011
+}}</ref> There is also widespread sentiment that states should hold Charters accountable, with 80% thinking so in 2005. <ref name=GallupPoll /> However, openness to Charter schools has been increasing<ref name=GallupPoll /><ref name=EdNext>{{cite journal
+ |url=http://educationnext.org/meeting-of-the-minds/
+ |title=Meeting of the Minds
+ |journal=Education Next
+ |year=2011
+ |volume=11
+ |accessdate=January 28, 2011
+}}</ref> especially among minority communities who have shifted opinions higher than the national average. <ref name=EdNext /> . 
+
+Charter schools provide an alternative for educators, families and communities who are dissatisfied with educational quality and school district bureaucracies at noncharter schools. <!-- [31] ref? --> In early 2008, the Friedman Foundation for Educational Choice, a pro-charter organization, conducted two polls in primarily conservative states Idaho and Nevada where they asked parents about their preferences concerning education. In Idaho, only 12% of respondents said that their regular public school was their top choice for the children’s school.  Most preferred private schools over other options. <ref>{{cite journal
+ |url=http://www.friedmanfoundation.org/research/ShowResearchItem.do?id=10093
+ |title=Idaho's Opinion on K-12 Education and School Choice
+ |date=March 28, 2008
+ |first=Paul
+ |last=DiPerna
+ |publisher=Friedman Foundation for Educational Choice
+ |accessdate=July 27, 2009
+}}</ref>  In 2008, Polls conducted in the conservative states Georgia<ref>{{cite press release
+ |url=http://www.edreform.com/Archive/?New_Poll_Shows_Georgians_Want_More_Educational_Choice
+ |title=New Poll Shows Georgians Want More Educational Choice
+ |date=January 28, 2008
+ |publisher=Center for Education Reform
+ |accessdate=July 27, 2009
+}}</ref> and Wyoming<ref>{{cite press release
+ |url=http://www.edreform.com/Press_Box/Press_Releases/?Wyomingites_Want_Fundamental_Change_in_States_Charter_School_Law&year=2008
+ |title=Wyomingites Want Fundamental Change in State's Charter School Law
+ |date=February 14, 2008
+ |publisher=Center for Education Reform
+ |accessdate=July 27, 2009
+}}</ref> found similar results.  . 
+
+The charter approach uses market principles from the private sector, including accountability and consumer choice, to offer new public sector options that remain nonsectarian and non-exclusive. Many people, such as former President Bill Clinton, see charter schools, with their emphasis on autonomy and accountability, as a workable political compromise and an alternative to vouchers.  Others, such as former President [[George W. Bush]], see charter schools as a way to improve schools without antagonizing the [[National Education Association|teachers' union]]. Bush made charter schools a major part of his [[No Child Left Behind Act]].  Despite these endorsements, a recent report by the [[American Federation of Teachers|AFT]], has shown charter schools not faring as well as public schools on state administered standardized testing,<ref name=AFT>{{cite journal
+ |publisher=American Federation of Teachers
+ |title=Charter Schools: Do They Measure Up?
+ |location=Washington, D.C. 
+ |year=1996
+}}</ref> though the report has been heavily criticized by conservatives like William G. Howell of the Brookings Institute. <ref>{{cite book|last=Howell|first=William G.|title=Education Gap: Vouchers and Urban Schools|url=http://books.google.com/books?id=lAzmJs8i-rUC&printsec=frontcover&dq=Howell,+William+g#v=onepage&q&f=false|publisher=The Brookings Institute|isbn=9780815736851|year=2006}}</ref><ref>{{cite web|title=Source Watch: The Brookings Institute|url=http://www.sourcewatch.org/index.php?title=Brookings_Institution}}</ref><ref name=OpinionJournal>{{cite web
+ |url=http://www.opinionjournal.com/editorial/feature.html?id=110005492
+ |title=Dog Eats AFT Homework: A teachers union's dishonest study of charter schools. 
+ |first=William G. 
+ |last=Howell
+ |coauthors=Paul E. Peterson and Martin R. West
+ |date=August 18, 2004
+ |accessdate=January 21, 2008
+}}</ref><ref name=ncsc>{{cite journal
+ |url=http://www.ncsc.info/newsletter/August_September_2002/AFT_Response.htm
+ |archiveurl=http://web.archive.org/web/20070928071618/http://www.ncsc.info/newsletter/August_September_2002/AFT_Response.htm
+ |archivedate=September 28, 2007
+ |title=AFT Charter School "Study" Lobbying, not Research
+ |first=Robert
+ |last=Maranto
+ |journal=NCSC News
+ |month=August/September
+ |year=2002
+ |volume=1
+ |issue=7
+ |publisher=National Charter School Clearinghouse
+ |accessdate=January 21, 2008
+}}</ref> Other charter school opponents have examined the competing claims and suggest that most students in charter schools perform the same or worse than their traditional public school counterparts on standardized tests. <ref>{{cite book
+ |url=http://www.epi.org/publications/entry/book_charter_school/
+ |title=The Charter School Dust-Up: Examining the Evidence on Enrollment and Achievement
+ |first=Martin
+ |last=Carnoy
+ |coauthors=Rebecca Jacobsen, Lawrence Mishel, and Richard Rothstein
+ |publisher=Teacher College Press
+ |date=April 30, 2005
+ |isbn=978-0807746158
+}}</ref> . 
+
+Both charter school proponents and critics admit that individual schools of public choice have the potential to develop into successful or unsuccessful models. In a May 2009 policy report issued by Education Sector, "Food for Thought: Building a High-Quality School Choice Market",<ref>{{cite journal
+ |title=Food for Thought: Building a High-Quality School Choice Market
+ |url=http://www.educationsector.org/research/research_show.htm?doc_id=918071
+ |first=Erin
+ |last=Dillon
+ |publisher=EducationSector
+ |accessdate=July 27, 2009
+}}</ref> author Erin Dillon argues that market forces alone will not provide the necessary supply and demand for excellent public schools, especially in low-income, urban neighborhoods that often witness low student achievement.  According to Dillon, "In order to pressure all public schools to improve and to raise student achievement overall, school choice reforms need to not just increase the supply of any schools. They need to increase the supply of good schools, and parents who know how to find them."  Drawing lessons from successful food and banking enterprises located in poor, inner-city neighborhoods, the report recommends that policymakers enhance the charter school market by providing more information to consumers, forging community partnerships, allowing for more flexible school financing, and mapping the quality of the education market.  . 
+
+=== Debate over funding === . 
+
+Nearly all charter schools face implementation obstacles, but newly created schools are most vulnerable.  Some charter advocates claim that new charters tend to be plagued by resource limitations, particularly inadequate startup funds. Yet a few charter schools also attract large amounts of interest and money from private sources such as the [[Bill & Melinda Gates Foundation|Gates Foundation]], the Walton Family Foundation, the Broad Foundation, and the NewSchools Venture Fund. <ref>On NewSchools Venture Fund and funding generally: Brill, Steven, ''Class Warfare'', ''op. cit.'', p. [254] ("NewSchools" so in original). </ref> Sometimes private businesses and foundations, such as the Ameritech Corporation in Michigan and the Annenberg Fund in California, provide support. <ref name=Jenkins>{{cite journal
+ |last=Jenkins
+ |first=John
+ |coauthors=Jeffrey L. Dow
+ |title=A Primer on Charter Schools
+ |journal=International Journal of Educational Reform
+ |volume=5
+ |issue=2
+ |month=April
+ |year=1996
+ |pages=224–27
+ |url=http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=EJ525978
+ |archiveurl=http://web.archive.org/web/20070611050417/http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=EJ525978
+ |archivedate=June 11, 2007
+ |accessdate=January 21, 2008
+}}</ref> . 
+
+Although charter advocates recommend the schools control all per-pupil funds, charter advocates claim that their schools rarely receive as much funding as other public schools.  In reality, this is not necessarily the case in the complex world of school funding. Charter schools in California were guaranteed a set amount of district funding that in some districts amounted to $800 per student per year more than traditional public schools received until a new law was passed that took effect in fall 2006. Charter advocates claim that their schools generally lack access to funding for facilities and special program funds distributed on a district basis. <ref name=Bierlein>{{cite journal
+ |last=Bierlein
+ |first=Louann
+ |coauthors=Bateman, Mark
+ |title=Charter Schools v. the Status Quo: Which Will Succeed?
+ |journal=International Journal of Educational Reform
+ |volume=5
+ |issue=2
+ |month=April
+ |year=1996
+ |pages=159–68
+ |url=http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=EJ525971
+ |archiveurl=http://web.archive.org/web/20070610030107/http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=EJ525971
+ |archivedate=June 10, 2007
+ |accessdate=January 21, 2008
+}}</ref> Congress and the President allocated $80 million to support charter-school activities in fiscal year 1998, up from $51 million in 1997. Despite the possibility of additional private and non-district funding, a government study showed that charter school may still lag behind traditional public school achievement. <ref>{{cite news
+ |author=Ohlemacher, Stephen, [[Associated Press]]
+ |title=Report: Charter school pupils score lower
+ |date=August 23, 2006
+ |publisher=Boston Globe
+ |url=http://www.boston.com/news/nation/washington/articles/2006/08/23/report_charter_school_pupils_score_lower/
+ |accessdate=January 21, 2008
+}}</ref> . 
+
+Although charter schools may receive less public funding than traditional public schools, a portion of charter schools' operating costs can come from sources outside public funding (such as private funding in the form of donations). A study funded by the [[American Federation of Teachers]] found that in DC charter schools, private funding accounted for $780 per pupil on average and, combined with a higher level of public funding in some charters (mostly due to non-district funding), resulted in considerably higher funding when compared to comparable public schools. <ref name="AFT_DC">{{cite web
+ |url=http://www.aft.org/topics/charters/downloads/DC.pdf
+ |title=Paying for the Vision: Charter School Revenue and Expenditures
+ |first1=F. Howard
+ |last1=Nelson
+ |first2=Edward
+ |last2=Muir
+ |first3=Rachel
+ |last3=Drown
+ |publisher=[[American Federation of Teachers]] Educational Foundation
+ |month=May
+ |year=2003
+ |accessdate=July 27, 2009
+}}</ref>  Without federal funding, private funding, and "other income", D.C. charter schools received slightly more on average ($8,725 versus $8,676 per pupil), but that funding was more concentrated in the better funded charter schools (as seen by the [[median]] DC charter school funding of $7,940 per pupil). With federal, private, and "other income", charter school funding shot up to an average of $11,644 versus the district $10,384 per pupil. The median here showed an even more unequal distribution of the funds with a median of $10,333. <ref name="AFT_DC"/> Other research, using different funding data for DC schools and including funding for school facilities, finds conflicting results. <ref name="BALL_DC">{{cite web
+|url=http://cms.bsu.edu/Academics/CollegesandDepartments/Teachers/Schools/Charter/CharterFunding.aspx
+|title=Charter School Funding: Inequity Persists
+|publisher=Ball State University
+|month=May
+|year=2010
+|accessdate=June 20, 2010
+}}</ref> . 
+
+Charters sometimes face opposition from local boards, state education agencies, and unions.  Many educators are concerned that charter schools might siphon off badly needed funds for regular schools, as well as students. In addition, public-school advocates assert that charter schools are designed to compete with public schools in a destructive and harmful manner rather than work in harmony with them. To minimize these harmful effects, the American Federation of Teachers urges that charter schools adopt high standards, hire only certified teachers, and maintain teachers' collective-bargaining rights.  . 
+
+=== Co-location === . 
+
+Co-location or collocation of charter schools in public noncharter school buildings has been practiced in both [[New York City]] and [[Chicago]]<ref>Brill, Steven, ''Class Warfare'', ''op. cit.'', pp. 133–134. </ref> and is controversial. <ref>Brill, Steven, ''Class Warfare'', ''op. cit.'', pp. 133–135 & 142. </ref> Since students planning to attend charter schools are generally students who would have attended noncharter schools, co-location permits re-assigning seating for the same students from one kind of school to the other in the same building,<ref name="ClassWarfare-p134">Brill, Steven, ''Class Warfare'', ''op. cit.'', p. 134. </ref> so that, while space might have to be rebuilt, entire schools do not have to be built from the ground up. <ref name="ClassWarfare-p134" /> The cost savings let more charter schools open. <ref name="ClassWarfare-p134" /> Co-location also permits the two kinds of schools to be visible to each other, thereby promoting school reform, especially within families whose children attend both schools in the same building. <ref name="ClassWarfare-pp134-135">Brill, Steven, ''Class Warfare'', ''op. cit.'', pp. 134–135. </ref> It may also mean that a government administration responsible for overseeing noncharter public schools loses political turf as it gives up space to independently-run charter schools. <ref name="ClassWarfare-p134" /> . 
+
+== Critiques of charter schools ==. 
+=== Difficulties with accountability === . 
+
+The basic concept of charter schools is that they exercise increased autonomy in return for greater accountability. They are meant to be held accountable for both academic results and fiscal practices to several groups, including the sponsor that grants them, the parents who choose them, and the public that funds them.  Charter schools can theoretically be closed for failing to meet the terms set forth in their charter, but in practice, this can be difficult, divisive, and controversial. One example was the 2003 revocation of the charter for a school called Urban Pioneer in the [[San Francisco Unified School District]], which first came under scrutiny when two students died on a school wilderness outing. <ref name="Chron2">{{cite news
+ |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2003/03/07/MN158276.DTL
+ |title=District suspends wilderness trips: School could lose charter if safety lapses found
+ |first=Ray
+ |last=Delgado
+ |publisher=[[San Francisco Chronicle]]
+ |date=March 7, 2003
+ |accessdate=January 21, 2008
+}}</ref> An auditor's report found that the school was in financial disarray<ref>{{cite news
+ |url=http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2003/08/26/BA148795.DTL
+ |title=Audit finds faults in charter school: Board set to vote on troubled Urban Pioneer
+ |first=Tanya
+ |last=Schevit
+ |date=August 26, 2003
+ |accessdate=January 21, 2008
+| work=The San Francisco Chronicle
+}}</ref> and posted the lowest test scores of any school in the district except those serving entirely non-English-speakers. <ref>{{cite web
+ |url=http://api.cde.ca.gov/reports/API/2003Base_Sch.asp?SchCode=3830452&DistCode=68478&AllCds=38684783830452
+ |title=2003 Academic Performance Index (API) Base Report: School Report: Urban Pioneer Experiential
+ |date=June 14, 2004
+ |publisher=California Department of Education
+ |accessdate=January 21, 2008
+}}</ref> It was also accused of academic fraud, graduating students with far fewer than the required credits. <ref name=Chron2/> There is also the case of [[California Charter Academy]], where a publicly funded but privately run chain of 60 charter schools became insolvent in August 2004, despite a budget of $100&nbsp;million, which left thousands of children without a school to attend. <ref name="contexts"/> . 
+
+In March 2009, the Center for Education Reform released its latest data on charter school closures. At that time they found that 657 of the more than 5250 charter schools that have ever opened had closed, for reasons ranging from district consolidation to failure to attract students. The study found that "41 percent of the nation's charter closures resulted from financial deficiencies caused by either low student enrollment or inequitable funding," while 14% had closed due to poor academic performance. The report also found that the absence of achievement data "correlates directly with the weakness of a state's charter school law. For example, states like Iowa, Mississippi, Virginia and Wyoming have laws ranked either "D" or "F". Progress among these schools has not been tracked objectively or clearly."<ref name="Center for Education Reform"/> A 2005 paper found that in Connecticut, which it characterized as having been highly selective in approving charter applications, a relatively large proportion of poorly performing charter schools have closed. <ref name=Miron>{{cite web
+ |title=Strong Charter School Laws are Those That Result in Positive Outcomes
+ |first=Gary
+ |last=Miron
+ |url=http://www.wmich.edu/evalctr/charter/aera_2005_paper_charter_school_laws.pdf
+ |month=April
+ |year=2005
+ |publisher=Western Michigan University
+ |format=PDF
+ |accessdate=January 3, 2008
+|archiveurl = http://web.archive.org/web/20071201051234/http://www.wmich.edu/evalctr/charter/aera_2005_paper_charter_school_laws.pdf <!-- Bot retrieved archive --> |archivedate = December 1, 2007}}</ref> Under Connecticut's relatively weak charter law,<ref>{{cite web
+ |title=National Charter School Law Ranking and Scorecard
+ |publisher=Center for Education Reform
+ |month=May
+ |year=2009
+ |url=http://www.edreform.com/_upload/ranking_chart.pdf
+}}</ref> only 21 charter schools have opened in all, and of those, five have closed. <ref>{{cite web
+ |title=National Charter School & Enrollment Statistics
+ |publisher=Center for Education Reform
+ |month=March
+ |year=2009
+ |url=http://www.edreform.com/_upload/CER_charter_numbers.pdf
+}}</ref> Of those, 3 closed for financial reasons. Charter school students in Connecticut are funded on average $4,278 less than regular public school students. <ref name="edreform.com"/> . 
+
+In a September 2007 public policy report, education experts Andrew Rotherham and Sara Mead of Education Sector offered a series of recommendations to improve charter school quality through increased accountability.  Some of their recommendations urged policymakers to: (i) provide more public oversight of charter school authorizers, including the removal of poor-quality authorizers, (ii) improve the quality of student performance data with more longitudinal student-linked data and multiple measures of school performance, and (iii) clarify state laws related to charter school closure, especially the treatment of displaced students. <ref>{{cite web |author=Rotherham, Andrew and Mead, Sara |date=September 2007 |title=A Sum Greater Than The Parts: What States Can Teach Each Other About Charter Schooling |publisher=educationsector.org |url=http://www.educationsector.org/research/research_show.htm?doc_id=521913 }}</ref> . 
+
+=== Scalability === . 
+
+Whether the charter school model can be scaled up to the size of a public noncharter school system has been questioned, when teaching demands more from teachers and many noncharter teachers are apparently unable to teach in the way charters seek, as [[Arne Duncan]], [[United States Secretary of Education|U.S. Secretary of Education]], [[Diane Ravitch]], education historian and former assistant U.S. education secretary, [[Mark Roosevelt]], former schools chief for Pittsburgh, Penn., U.S., and Dave Levin, of the [[Knowledge Is Power Program|KIPP charters]], have suggested. <ref>Brill, Steven, ''Class Warfare'', ''op. cit.'', pp. 422–423. </ref> However, some, such as [[Eva Moskowitz]] of [[Success Academy Charter Schools]], believe that the work is hard but performable and compensable and that the model can be scaled up. <ref>Brill, Steven, ''Class Warfare'', ''op. cit.'', p. 424. </ref> . 
+
+=== Exploitation by for-profit entities === . 
+
+{{quote box|width=30%|align=right|quote=“The education industry,” according to these analysts, “represents...the final frontier of a number of sectors once under public control” that have either voluntarily opened or...have “been forced” to [[Privatization|open up to private enterprise]]. Indeed...“the education industry represents the largest market opportunity” since health-care services were privatized during the 1970’s...From the point of view of private profit, one of these analysts enthusiastically observes, “The K–12 market is the Big Enchilada.”|source=[[Jonathan Kozol]]<ref name=Kozol>Jonathan Kozol, “[http://www.harpers.org/archive/2007/08/0081606 The big enchilada],” Harper’s Magazine, August 2007. (Cited by Knopp)</ref>}} . 
+
+Critics have accused for-profit entities (Educational Management Organizations or EMOs)<ref name=ISR>{{cite journal
+|author= Sarah Knopp
+|year= 2008
+|title= Charter schools and the attack on public education
+|journal= International Socialist Review
+|issue= 62
+|url= http://www.isreview.org/issues/62/feat-charterschools.shtml
+|accessdate= January 28, 2011}}</ref> and private foundations such as the [[Bill and Melinda Gates Foundation]], the Eli and Edythe Broad Foundation, and the [[Walton Family]] Foundation<ref name=Dissent>{{cite journal
+|author= Joanne Barkan
+|title= Got Dough? How Billionaires Rule Our Schools
+|journal= Dissent magazine |date=winter 2011
+|url= http://dissentmagazine.org/article/?article=3781
+|accessdate= January 28, 2011}}</ref> of funding Charter school initiatives to undermine public education<ref name=ISR /><ref name=Dissent /> and turn education into a "Business Model" which can make a profit. <ref>[http://www.democracynow.org/2010/9/3/educators_push_back_against_obamas_business Educators Push Back Against Obama’s "Business Model" for School Reforms], [[Democracy Now]]</ref> According to activist [[Jonathan Kozol]], education is seen as one of the biggest market opportunities in America or "the big enchilada". <ref name=Kozol>Jonathan Kozol></ref> . 
+
+=== Shift from progressive to conservative movement === . 
+
+Charters were originally a [[Progressivism in the United States|progressive movement]] (called the “small schools” movement) started by University of Massachusetts professor Ray Budde and [[American Federation of Teachers]] leader, [[Al Shanker]] to explore best practices for education without bureaucracy. However, the Charter movement is said to have shifted into an effort to privatize education and attack teachers' unions. <ref name=ISR /> Education historian [[Diane Ravitch]] has estimated, as a "safe guess," that 95% of charters in the United States are non-union and has said that charters follow an unsustainable practice of requiring teachers to work unusually long hours. <ref>[http://www.democracynow.org/blog/2010/3/8/part_ii_leading_education_scholar_diane_ravitch_on_the_death_and_life_of_the_great_american_school_system Part II: Leading Education Scholar Diane Ravitch on "The Death and Life of the Great American School System"], [[Democracy Now]]</ref> . 
+
+=== Lower student test scores and teacher issues === . 
+
+According to a study done by [[Vanderbilt University]], teachers in charter schools are 132% more likely to leave teaching than a public school teacher. <ref>{{cite web |url= http://www.vanderbilt.edu/schoolchoice/documents/stuit_smith_ncspe.pdf|title= Teacher Turnover in Charter Schools|author=  David A. Stuit, Thomas M. Smith  |year= 2009|publisher= Vanderbilt University |accessdate= January 30, 2011}}</ref> Another 2004 study done by the [[United States Department of Education|Department of Education]] found that charter schools "are less likely than
+traditional public schools to employ teachers meeting state certification standards."<ref>{{cite web |url= http://www2.ed.gov/rschstat/eval/choice/pcsp-final/finalreport.pdf|title= Evaluation of the Public Charter Schools Program: Final Report|author= Kara Finnigan, Nancy Adelman, Lee Anderson, Lynyonne Cotton, Mary Beth Donnelly, Tiffany Price |year= 2004|publisher= U.S. Department of Education |accessdate= January 30, 2011}}</ref> A national evaluation by [[Stanford University]] found that 83% of charter schools perform the same or worse than public schools (see [[Charter school#Center for Research on Education Outcomes|earlier in this article]]). If the goal is increased competition, parents can examine the data and avoid the failing charters, while favoring the successful charters, and chartering institutions can decline to continue to support charters with mediocre performance. <ref name=NYTMediocre>{{cite news|title=New York City Charter School Finds That a Grade of ‘C’ Means Closing|url=http://www.nytimes.com/2012/01/12/education/new-york-city-plans-to-close-a-charter-school-for-mediocrity.html|accessdate=January 12, 2012|newspaper=The New York Times|date=January 11, 2012|author=Anna M. Phillips}}</ref>   . 
+
+It is as yet unclear whether charters' lackluster test results will affect the enacting of future legislation.  A Pennsylvania legislator who voted to create charter schools, State Rep. Mark B. Cohen of Philadelphia, said that "Charter schools offer increased flexibility to parents and administrators, but at a cost of reduced job security to school personnel. The evidence to date shows that the higher turnover of staff undermines school performance more than it enhances it, and that the problems of urban education are far too great for enhanced managerial authority to solve in the absence of far greater resources of staff, technology, and state of the art buildings."<ref>{{cite web
+|title=Race to the Top: A Practitioner’s Perspective
+|url=http://www.educationnews.org/ed_reports/105390.html
+|publisher=EducationNews
+|accessdate=2010-01-08}}</ref> . 
+
+=== Admissions lottery === . 
+
+When admission depends on a random lottery, some hopeful applicants may be disappointed. A film about the admission lottery at the [[Success Academy Charter Schools]] (then known as Harlem Success Academy) has been shown as [[The Lottery (2010 film)|''The Lottery'']]. <ref name="NYDailyNews-20100429-docu">[http://www.nydailynews.com/opinions/2010/04/29/2010-04-29_the_lottery_documentary_shows_education_is_a_sure_bet.html ''The Lottery Documentary Shows Education Is a Sure Bet'' ("The Lottery" in single quotation marks in original title of article) (Opinion), by Errol Louis, in ''N.Y. Daily News'', Apr. 29, 2010, as accessed May 1, 2010.]</ref><ref name="NYPost-20100428-star">[http://www.nypost.com/p/news/local/charter_kids_star_R2cC5LBohezWjVJzYrIEYJ ''Charter Kids Star: True Story of Lottery Hits Tribeca Fest'', by Yoav Gonen (educ. rptr.) (add'l rptg. by Lachlan Cartwright), in ''N.Y. Post'', Apr. 28, 2010, as accessed May 1, 2010.]</ref> It was inspired by a 2008 lottery. <ref name="NYPost-20100428-star" /> The 2010 documentary ''[[Waiting for "Superman"]]'' also examines this issue.  . 
+
+=== Collective bargaining === . 
+
+Concern has also been raised about the exemption of charter school teachers from states' collective bargaining laws, especially because "charter school teachers are even more likely than traditional public school teachers to be beset by the burn-out caused by working long hours, in poor facilities."<ref>{{cite journal
+ |last=Dodd
+ |first=Victoria J. 
+ |title=American Public Education and Change: Not an Oxymoron
+ |journal=St. Louis University Public Law Review
+ |volume=17
+ |page=109
+ |year=1997
+ |ssrn=1113856}}</ref>  It has recently been noted that "an increasing number of teachers at charter schools" are now attempting to restore collective bargaining rights. <ref>{{cite news
+ |first=Sam
+ |last=1Dillon
+ |url=http://www.nytimes.com/2009/07/27/education/27charter.html?_r=1
+ |title=As Charter Schools Unionize, Many Debate Effect
+ |publisher=[[The New York Times]]
+ |date=July 26, 2009
+ |accessdate=July 27, 2009
+}}</ref><ref>{{cite web|title=Focus On the Facts|url=http://www.coloradoleague.org/colorado-charter-schools/charter-schools-fact-sheet.php|publisher=Colorado League of Charter Schools|accessdate=21 November 2011}}</ref> [[Steven Brill (law writer)|Steven Brill]], in his book, ''Class Warfare: Inside the Fight to Fix America’s Schools'' (2011), changed his position on charter schools and unions. He said that after two years of researching school reform, he understood the complexities. He reversed his view of union leader [[Randi Weingarten]] and suggested she run the school system for a city. <ref>[http://www.nytimes.com/2011/11/08/opinion/teaching-with-the-enemy.html Teaching With the Enemy] by Joe Nocera, New York Times, November 7, 2011. </ref> . 
+
+=== Racial segregation === . 
+
+One study states that charter schools increase racial segregation. <ref name="contexts" /> A UCLA report points out that most charter schools are located in African-American neighborhoods. <ref>[http://idea.gseis.ucla.edu/newsroom/our-ideas/themes-in-the-news/copy10_of_themes-in-the-news Studies Point to Segregative Effects of Charter Schools], UCLA Institute for Democracy, Education, and Access, September 23, 2009. </ref>
+Colorado Charter schools enroll: 57.7% white (not Hispanic), 28.6% Hispanic, 6.7% Black (not Hispanic), 3.6% Asian or Pacific Islander, 0.8% Native American, and 2.6% two or more ethnicities.  Traditional Colorado public schools enroll: 56.8% white (not Hispanic), 31.8% Hispanic, 4.6% Black (not Hispanic), 3.1% Asian or Pacific Islander, 0.9% Native American, and 2.8% two or more ethnicities. In this state, charter and public schools have almost identical demographics. <source?> . 
+
+=== Too much power for teachers and parents === . 
+
+Professor Frank Smith, of [[Teachers College, Columbia University]], sees the charter-school movement as a chance to involve entire communities in redesigning all schools and converting them to "client-centered, learning cultures" (1997). He favors the Advocacy Center Design process used by state-appointed Superintendent Laval Wilson to transform four failing New Jersey schools. Building stronger communities via newly designed institutions may prove more productive than charters' typical "free-the-teacher-and-parent" approach.  . 
+
+=== Union leader–led school === . 
+
+The performance of a charter school chaired by a union leader, [[Randi Weingarten]] then of the [[United Federation of Teachers]], generally representing teachers, was, according to Brill, criticized, as the school "ended up not performing well."<ref>Brill, Steven, ''Class Warfare'', ''op. cit.'', p. 101 and see pp. 133–134. </ref> . 
+
+== See also == . 
+
+* [[Magnet school]]
+* ''[[Waiting for Superman]]''
+* ''[[The Lottery (2010 film)|The Lottery]]'' . 
+
+== References ==. 
+{{Reflist|2}} . 
+
+== Further reading == . 
+
+{{No footnotes|date=April 2009}} . 
+
+* {{cite journal |last=Budde |first=Ray |title=The Evolution of the Charter Concept |journal=Phi Delta Kappan |volume=78 |issue=1 |month=September |year=1996 |pages=72–73 |url=http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=EJ530653 |archiveurl=http://web.archive.org/web/20070612034640/http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=EJ530653 |archivedate=June 12, 2007}}
+* {{cite book |first=Jurgen |last=Herbst |title=School Choice and School Governance: A Historical Study of the United States and Germany |location=New York |publisher=Palgrave Macmillan |year=2006 |isbn=1403973024}}
+* {{cite web |last=Mintrom |first=Michael |coauthors=Sandra Vergari |title=Political Factors Shaping Charter School Laws |conference=American Educational Research Association |location=Chicago, |date=March 24, 1997 |url=http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=ED407708 |archiveurl=http://web.archive.org/web/20070610024702/http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=ED407708 |archivedate=June 10, 2007}}
+* {{cite book |last=Nathan |first=Joe |title=Charter Schools: Creating Hope and Opportunity for American Education |location=San Francisco |publisher=Jossey Bass |year=1996 |url=http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=ED410657 |archiveurl=http://web.archive.org/web/20070814033138/http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=ED410657 |archivedate=August 14, 2007 |isbn=0787902632}}
+* {{cite journal |last=Smith |first=Frank L. |title=Guidance for the Charter Bound |journal=The School Administrator |volume=54 |issue=7 |month=August |year=1997 |pages=18–22 |url=http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=EJ548963 |archiveurl=http://web.archive.org/web/20070814032933/http://eric.uoregon.edu/search_find/ericdb/detail.php?AC=EJ548963 |archivedate=August 14, 2007}}
+* {{cite web |url=http://www.ericdigests.org/1999-2/charter.htm |title=Charter Schools |publisher=Eric Digest}} The original Wikipedia article listed here is based on the text at this public domain site. 
+* {{cite web |url=http://www.lwvny.org/education/2007Edutestimony030507.pdf |format=PDF|pages=9–20 |title=Testimony before the Joint Committees of Education and Finance, "Changes to the Charter School Act (CSA)" |first=Betsy |last=Swan |publisher=League of Women Voters New York State |date=February 27, 2007 |location=Albany, NY}}
+* {{cite journal |last=Zimmer |first=Ron |title=Is Charter School Competition in California Improving the Performance of Traditional Public Schools? |journal=Public Administration Review |volume=69 |issue=5 |month=September/October |year=2009 |pages=831–845 |url=http://www3.interscience.wiley.com/cgi-bin/fulltext/122574534/PDFSTART |doi=10.1111/j.1540-6210.2009.02033.x |last2=Buddin |first2=Richard }}
+* Perez, Shivaun, "Assessing Service Learning Using Pragmatic Principles of Education: A Texas Charter School Case Study" (2000). Applied Research Projects. Texas State University. Paper 76.  http://ecommons.txstate.edu/arp/76
+* Jack Buckley & Mark Schneider. ''Charter Schools: Hope or Hype?'' (Princeton, PUP, 2007). 
+* [http://www.educationsector.org/research/research_show.htm?doc_id=521913 A Sum Greater Than the Parts: What States Can Teach Each Other About Charter Schooling]
+* [http://www.educationsector.org/research/research_show.htm?doc_id=918071 Food for Thought: Building a High-Quality School Choice Market]
+* [http://www.educationsector.org/research/research_show.htm?doc_id=336761 The Pros and Cons of Charter School Closures]
+* [http://www.irpumn.org/website/projects/index.php?strWebAction=project_detail&intProjectID=57 Failed Promises: Assessing Charter Schools in the Twin Cities.]
+* [http://www.ericdigests.org/2002-2/charter.htm Perspectives on Charter Schools: A Review for Parents. ERIC Digest.]
+* [http://www.ericdigests.org/1999-3/charter.htm Charter Schools: An Approach for Rural Education? ERIC Digest.]
+* [http://www.ericdigests.org/2002-2/public.htm Public Charter Schools and Students with Disabilities. ERIC Digest.]
+* [http://onedublin.org/2009/11/29/the-importance-of-choice-why-a-new-charter-school-means-less-choice/ The Importance of Choice (when a charter school means less choice)]
+* [[Mississippi Teacher Corps]] Focus Paper on [http://web.archive.org/web/20060914201307/http://www.olemiss.edu/programs/mtc/Participants/TheMTCExperience/focus/focus_06.htm  charter Schools]
+* [http://www.eastbayexpress.com/news/the_method_of_king_jorge/Content?oid=312750 The story of a charter school in Oakland]
+* [http://www.edfacilities.org/rl/charter_schools.cfm National Clearinghouse for Educational Facilities - Charter School Building Case Studies]
+* [http://www.uscharterschools.org/cs/n/query/q/1700 US Charter Schools - Charter School Weekly News Connection - archive]
+* [http://www.uscharterschools.org/cs/n/query/q/1728 US Charter Schools - Charter Schools Resource Update - archive]
+* [http://www.nytimes.com/2004/08/17/education/17charter.html?ex=1250481600&en=00965483b6310e2f&ei=5088&partner=rssnyt Nation's Charter Schools Lagging Behind, U.S. Test Scores Reveal. New York Times]
+* [http://www.masscharterschools.org/schools/myths.html Massachusetts Charter Public School Association - "Myths and realities About Massachusetts Charter Public Schools."]
+* Work Hard.  Be Nice.  How Two Inspired Teachers Created the Most Promising Schools in America. (2009) by Jay Mathews. 
+* [http://www.democracynow.org/2010/2/11/charter_roundtable Democracy Now! Roundtable: Do Charter Schools Worsen Inequality of Two-Tiered Education System, or Help Address It?]
+* [http://onedublin.org/take-the-dublin-high-quiz/charter-school-fiscal-reality-dependent-on-donations/ Charter School Fiscal Reality: Dependent on Donations]
+* [http://www.nytimes.com/2010/05/23/magazine/23Race-t.html?ref=magazine&pagewanted=all ''The Teachers' Unions' Last Stand'', by Steven Brill (Single Page online URL), in ''The New York Times'', in the ''Magazine'', Sunday, May 23, 2010, p. MM32 (print version may differ)], as accessed Jun. 10, 2010.  . 
+
+== External links ==. 
+*[http://www.studentsupportcenter.org/ The Student Support Center, Washington DC.] Founded in 1999 by a coalition of public charter schools, the Student Support Center (SSC) builds complete, self-sustaining school and community-based programs that break cycles of poverty, academic failure, substance abuse, and mental illness. 
+*[http://educatenow.net EducateNow! website]
+*{{dmoz|Reference/Education/Methods_and_Theories/Learning_Theories/Charter_Schools}}
+*[http://www.findacharterschool.org/ National Charter School Directory]
+*[http://www.edreform.com/Issues/Charter_Connection/ The Center for Education Reform: Charter School Research and Resources]
+*[http://www.crpe.org/cs/crpe/view/projects/1?page=publications&topic=1&project=1 The National Charter School Research Project]
+*[http://www.publiccharters.org/ National Alliance for Public Charter Schools]
+*[http://www.vanderbilt.edu/schoolchoice/ National Center on School Choice]
+*[http://www.nea.org/home/16332.htm National Education Association's Position on Charter Schools]
+*[http://www.democracynow.org/2010/2/11/charter_roundtable Roundtable: Do Charter Schools Worsen Inequality of Two-Tiered Education System, or Help Address It?]—video by ''[[Democracy Now!]]''
+* [http://viedu.org Visions In Education, one of Northern California's largest K through 12th Grade Charter Schools providing Independent Study and Homeschooling services] Official Website
+* [http://www.monarchkids.com Monarch Learning Center: The Best Little School In Redding] Official Website [[Monarch Learning Center]] Wiki Page
+{{Schools}} . 
+
+[[Category:Alternative education]]
+[[Category:Education in the United States]]
+[[Category:Charter schools| ]]
+[[Category:Charter schools in the United States| ]]
+[[Category:School types]]

@@ -1,0 +1,251 @@
+{{Other uses}}
+{{Patent law}}
+[[Image:US Patent cover.jpg|thumb|right|175px|[[United States patent law|U.S patent]]]]
+A '''patent''' ({{IPAc-en|icon|ˈ|p|æ|t|ən|t}} or {{IPAc-en|ˈ|p|eɪ|t|ən|t}}) is a form of [[intellectual property]]. It consists of a set of [[exclusive right]]s granted by a [[sovereign state]] to an inventor or their assignee for a limited period of time in exchange for the public disclosure of an [[invention]].  . 
+
+The procedure for granting patents, the requirements placed on the patentee, and the extent of the exclusive rights vary widely between countries according to national laws and international agreements. Typically, however, a patent application must include one or more [[claim (patent)|claim]]s defining the invention which must meet the relevant [[patentability]] requirements such as [[novelty (patent)|novelty]] and [[inventive step and non-obviousness|non-obviousness]].  The exclusive right granted to a patentee in most countries is the right to prevent others from making, using, selling, or distributing the patented invention without permission. <ref>{{cite web |url=http://www.wipo.int/patentscope/en/patents_faq.html#protection |title=Patents: Frequently Asked Questions |publisher= [[World Intellectual Property Organization]] |accessdate=22 February 2009 }}</ref> . 
+
+Under the [[World Trade Organization]]'s (WTO) [[Agreement on Trade-Related Aspects of Intellectual Property Rights]], patents should be available in WTO member states for any invention, in all fields of technology,<ref>Article 27.1. of the TRIPs Agreement. </ref> and the [[term of patent|term of protection]] available should be a minimum of twenty years. <ref name=PatentLength/> In many countries, certain [[patentable subject matter|subject areas]] are excluded from patents, such as [[business method patent|business methods]] and [[software patent|computer programs]].  . 
+
+== Definition ==. 
+The word ''patent'' originates from the [[Latin]] ''patere'', which means "to lay open" (i.e., to make available for public inspection). More directly, it is a shortened version of the term ''[[letters patent]]'', which was a [[royal decree]] granting exclusive rights to a person, predating the modern patent system.  Similar grants included [[land patent]]s, which were land grants by early state governments in the USA, and [[printing patent]]s, a precursor of modern copyright.  . 
+
+In modern usage, the term ''patent'' usually refers to the right granted to anyone who invents any new, useful, and non-obvious process, machine, article of manufacture, or composition of matter. Some other types of intellectual property rights are also referred to as ''patents'' in some jurisdictions: [[industrial design rights]] are called ''[[design patents]]'' in the US, [[plant breeders' rights]] are sometimes called ''plant patents'', and [[utility model]]s and ''[[Gebrauchsmuster]]'' are sometimes called ''petty patents'' or ''innovation patents''. The additional qualification ''utility patent'' is sometimes used (primarily in the US) to distinguish the primary meaning from these other types of patents.  . 
+
+Examples of particular species of patents for inventions include [[biological patent]]s, [[business method patent]]s, [[chemical patent]]s and [[software patent]]s.  . 
+
+== History ==. 
+{{Main|History of patent law}}
+[[File:US patents 1790-2008.png|thumb|right|U.S. patents granted, 1790–2010. <ref name = "USPTO Activity">{{Cite document | url = http://www.uspto.gov/web/offices/ac/ido/oeip/taf/h_counts.htm | title = U.S. Patent Activity 1790 to the Present | publisher = USPTO | postscript = <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}. </ref>]] . 
+
+[[Image:2000patent.PNG|thumb|left|Patents in force in 2000]] . 
+
+In 500 BC, in the Greek city of [[Sybaris]] (located in what is now southern Italy), "encouragement was held out to all who should discover any new refinement in luxury, the profits arising from which were secured to the inventor by patent for the space of a year."<ref>[[Charles Anthon]], ''A Classical Dictionary: Containing An Account Of The Principal Proper Names Mentioned in Ancient Authors, And Intended To Elucidate All The Important Points Connected With The Geography, History, Biography, Mythology, And Fine Arts Of The Greeks And Romans Together With An Account Of Coins, Weights, And Measures, With Tabular Values Of The Same'', Harper & Bros, 1841, p. 1273. </ref> . 
+
+The [[Florentine]] architect [[Filippo Brunelleschi]] received a three-year patent for a barge with [[hoist (device)|hoisting]] gear, that carried marble along the [[Arno River]] in 1421. <ref name = "MacLeod 2002 11">Christine MacLeod, ''Inventing the Industrial Revolution: The English Patent System, 1660-1800'', Cambridge University Press, 2002, ISBN 0-521-89399-2, 9780521893992, p. 11. </ref> In 1449, King Henry VI granted the first English patent with a license of 20 years to [[John of Utynam]] for introducing the making of colored glass to England. <ref>{{cite web |url=http://w3.nexis.com/sources/scripts/info.pl?278252 |title=United Kingdom Patent Applications |publisher=nexis.com |accessdate=29 November 2010}}</ref> . 
+
+Patents in the modern sense originated in 1474, when the [[Republic of Venice]] enacted a decree that new and inventive devices, once put into practice, had to be communicated to the Republic to obtain the right to prevent others from using them. <ref>{{Cite book | language = {{de icon}} | author = Helmut Schippel | title = Die Anfänge des Erfinderschutzes in Venedig, in: Uta Lindgren (Hrsg.): Europäische Technik im Mittelalter. 800 bis 1400. Tradition und Innovation, 4. Aufl | place = Berlin | year = 2001 | pages = 539–550 | isbn = 3-7861-1748-9 | url= http://www.wolfgang-pfaller.de/venedig.htm | publisher = Wolfgang-Pfaller.de: Patentgesetz von Venedig | postscript = <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} | unused_data = DUPLICATE DATA: language=German}}</ref> . 
+
+England followed with the [[Statute of Monopolies]] in 1624 under King [[James I of England|James I]], which declared that patents could only be granted for "projects of new invention."  During the reign of [[Anne of Great Britain|Queen Anne]] (1702–14), the lawyers of the English Court developed the requirement that a written description of the invention must be submitted. <ref>{{cite web |title=History of Copyright |publisher=[[UK Intellectual Property Office]] |year=2006 |url=http://www.patent.gov.uk/about-history-copy.htm |accessdate=2007-08-12}}</ref> The patent system in many other countries, including Australia, is based on British law and can be traced back to the Statute of Monopolies.{{Citation needed|date=June 2009}} . 
+
+In 1641, [[Samuel Winslow (patentee)|Samuel Winslow]] was granted the first patent in North America by the [[Massachusetts General Court]] for a new process for making salt. <ref>James W. Cortada, "Rise of the knowledge worker, Volume 8 of Resources for the knowledge-based economy", Knowledge Reader Series, Butterworth-Heinemann, 1998, p. 141, ISBN 0750670584, 9780750670586. </ref> . 
+
+In France, patents were granted by the monarchy and by other institutions like the "Maison du Roi".{{Citation needed|date=October 2009}}  The [[French Academy of Sciences|Academy]] examined novelty. <ref>[http://www.marketsandpatents.com/bulletin/IPB-10152009.html MarketsAndPatents.com], Nowotarski, Bakos, “A Short History of Private Patent Examination”, Insurance IP Bulletin October 2009</ref>  Examinations were generally done in secret with no requirement to publish a description of the invention.  Actual use of the invention was deemed adequate disclosure to the public. <ref>Frank D. Prager, “Proposals for the Patent Act of 1790", ''Journal of the Patent and Trademark Office Society'', March 1954, vol XXXVI, No. 3, pp 157 et Seq., citing J. Isore in ''Revue Historique de Droit Francais'', 1937 pp. 117 et Seq. </ref> The modern French patent system was created during the Revolution in 1791. Patents were granted without examination since inventor's right was considered as a natural one <ref>Gabriel Galvez-Behar, ''La République des inventeurs. Propriété et organisation de l'innovation en France, 1791-1922'', Presses universitaires de Rennes, 2008, ISBN 2-7535-0695-7, 9782753506954. </ref> . 
+
+In the United States, during the so-called colonial period and [[Articles of Confederation]] years (1778–89), several states adopted patent systems of their own.  The first Congress adopted a [[Patent Act of 1790|Patent Act]], in 1790, and the first patent was issued under this Act on [http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PALL&S1=1790$.PD.&OS=ISD/$/$/1790&RS=ISD/1790$$ July 31, 1790] (to [[Samuel Hopkins (inventor)|Samuel Hopkins]] of Vermont for a [[potash]] production technique).  . 
+
+== Law ==. 
+{{Intellectual property}} . 
+
+=== Effects ===. 
+A patent is not a right to practice or use the invention. <ref name="Herman">"A patent is not the grant of a right to make or use or sell.  It does not, directly or indirectly, imply any such right. It grants only the right to exclude others. The supposition that a right to make is created by the patent grant is obviously inconsistent with the established distinctions between generic and specific patents, and with the well-known fact that a very considerable portion of the patents granted are in a field covered by a former relatively generic or basic patent, are tributary to such earlier patent, and cannot be practiced unless by license thereunder." - ''Herman v. Youngstown Car Mfg. Co.'', 191 F. 579, 584-85, 112 CCA 185 (6th Cir. 1911)</ref> Rather, a patent provides the [[right]] to ''exclude others''<ref name="Herman"/> from making, using, selling, offering for sale, or importing the patented [[invention]] for the [[Term of patent|term of the patent]], which is usually 20 years from the filing date<ref name=PatentLength>Article 33 of the Agreement on Trade-Related Aspects of Intellectual Property Rights ([[TRIPS]]). </ref> subject to the payment of [[maintenance fee (patent)|maintenance fees]].  A patent is, in effect, a limited property right that the government offers to inventors in exchange for their agreement to share the details of their inventions with the public.  Like any other property right, it may be sold, licensed, [[mortgage law|mortgaged]], assigned or transferred, given away, or simply abandoned.  . 
+
+The rights conveyed by a patent vary country-by-country. For example, in the United States, a patent covers research, except "purely philosophical" inquiry. A U.S. patent is infringed by any "making" of the invention, even a making that goes toward development of a new invention—which may itself become subject of a patent.  . 
+
+A patent being an exclusionary right does not, however, necessarily give the owner of the patent the right to exploit the patent.  For example, many inventions are improvements of prior inventions that may still be covered by someone else's patent. <ref name="Herman" /> If an inventor takes an existing, patented [[mouse trap]] design, adds a new feature to make an improved mouse trap, and obtains a patent on the improvement, he or she can only legally build his or her improved mouse trap with permission from the patent holder of the original mouse trap, assuming the original patent is still in force.  On the other hand, the owner of the improved mouse trap patent can exclude the original patent owner from using the improvement.  . 
+
+Some countries have "working provisions" that require the invention be exploited in the jurisdiction it covers. Consequences of not working an invention vary from one country to another, ranging from revocation of the patent rights to the awarding of a compulsory license awarded by the courts to a party wishing to exploit a patented invention. The patentee has the opportunity to challenge the revocation or license, but is usually required to provide evidence that the reasonable requirements of the public have been met by the working of invention.  . 
+
+=== Enforcement ===. 
+Patents can generally only be enforced through [[litigation|civil lawsuit]]s (for example, for a U.S. patent, by an action for patent infringement in a United States federal court), although some countries (such as [[France]] and [[Austria]]) have criminal penalties for wanton infringement. <ref>{{cite web |author=DLA Piper Rudnick Gray Cary |year=2005 |title=Patent Litigation across Europe |url=http://cecollect.com/ve/ZZf3096aBBft91T940 |publisher=cecollect.com |authorlink=DLA Piper Rudnick Gray Cary }}</ref> Typically, the patent owner will seek monetary compensation for past infringement, and will seek an [[injunction]] prohibiting the defendant from engaging in future acts of infringement.  To prove infringement, the patent owner must establish that the accused infringer practices all the requirements of at least one of the claims of the patent. (In many jurisdictions the scope of the patent may not be limited to what is literally stated in the claims, for example due to the "[[doctrine of equivalents]]").  . 
+
+An important limitation on the ability of a patent owner to successfully assert the patent in civil litigation is the accused infringer's right to challenge the validity of that patent.  Civil courts hearing patent cases can and often do declare patents not valid.  A patent can be found invalid on grounds that are set out in the relevant patent legislation that vary between countries.  Often, the grounds are a subset of requirements for [[patentability]] in the relevant country.  Although an infringer is generally free to rely on any available ground of invalidity (such as a [[Novelty (patent)|prior publication]], for example), some countries have sanctions to prevent the same validity questions being relitigated.  An example is the UK [[Certificate of contested validity]].  . 
+
+Patent [[license|licensing agreements]] are [[contract]]s in which the patent owner (the licensor) agrees to forgo their right to sue the licensee for infringement of the licensor's patent rights, usually in return for a royalty or other compensation.  It is common for companies engaged in complex technical fields to enter into dozens of license agreements associated with the production of a single product. Moreover, it is equally common for competitors in such fields to license patents to each other under [[cross-licensing]] agreements in order to share the benefits of using each other's patented inventions.  . 
+
+Therefore, patents may be enforced through litigation, and a common defense is an invalidity challenge. Patents may also be subject to licensing agreements. The vast majority of patents are however never litigated or even licensed. <ref name="lemley">Lemley, Mark A., Rational Ignorance at the Patent Office (February 2001). Northwestern University Law Review, Vol. 95, No. 4, 2001. Available at [http://ssrn.com/abstract=261400 or doi:10.2139/ssrn.261400 SSRN.com]</ref> . 
+
+=== Ownership ===. 
+In most countries, both natural persons and corporate entities may apply for a patent. In the United States, however, only the inventor(s) may apply for a patent although it may be [[assignment (law)|assigned]] to a corporate entity subsequently<ref>{{cite web | title=Assignee (Company) Name |url=http://www.uspto.gov/web/patents/patog/week39/OG/help/help.htm#Assignee%20(Company)%20Name  |work=Help Page |publisher= U.S. Patent and Trademark Office (USPTO) | accessdate=2007-07-25 }}</ref> and inventors may be required to assign inventions to their employers under a contract of employment. In most European countries, ownership of an invention may pass from the inventor to their employer by rule of law if the invention was made in the course of the inventor's normal or specifically assigned employment duties, where an invention might reasonably be expected to result from carrying out those duties, or if the inventor had a special obligation to further the interests of the employer's company. <ref>See [http://www.ipo.gov.uk/practice-sec-039.pdf Section 39 of the UK Patents Act] as an example. The laws across Europe vary from country to country but are generally harmonised. </ref>
+[[Image:Ejector seat with patents crooped.jpg|thumb|right|The plate of the Martin [[ejector seat]] of a military aircraft, stating that the design is covered by multiple patents in Britain, South Africa, Canada and "others". [[Dübendorf]] Museum of Military Aviation.]] . 
+
+The inventors, their successors or their assignees become the proprietors of the patent when and if it is granted. If a patent is granted to more than one proprietor, the laws of the country in question and any agreement between the proprietors may affect the extent to which each proprietor can exploit the patent. For example, in some countries, each proprietor may freely license or assign their rights in the patent to another person while the law in other countries prohibits such actions without the permission of the other proprietor(s).  . 
+
+The ability to assign ownership rights increases the [[market liquidity|liquidity]] of a patent as property.  Inventors can obtain patents and then sell them to third parties. <ref>[http://www.wto.org/english/docs_e/legal_e/27-trips_04c_e.htm Article 28.2 TRIPs]: "''Patent owners shall also have the right to assign, or transfer by succession, the patent and to conclude licensing contracts.''". </ref>  The third parties then own the patents and have the same rights to prevent others from exploiting the claimed inventions, as if they had originally made the inventions themselves.  . 
+
+=== Governing laws ===. 
+{{See also|Patent law by countries and regions}} . 
+
+The grant and enforcement of patents are governed by national laws, and also by international treaties, where those treaties have been given effect in national laws.  Patents are, therefore, territorial in nature.  . 
+
+Commonly, a nation forms a [[patent office]] with responsibility for operating that nation's patent system, within the relevant patent laws.  The patent office generally has responsibility for the grant of patents, with infringement being the remit of national courts.  . 
+
+There is a trend towards global harmonization of patent laws, with the [[World Trade Organization]] (WTO) being particularly active in this area.  The [[Agreement on Trade-Related Aspects of Intellectual Property Rights|TRIPs Agreement]] has been largely successful in providing a forum for nations to agree on an aligned set of patent laws.  Conformity with the TRIPs agreement is a requirement of admission to the WTO and so compliance is seen by many nations as important.  This has also led to many developing nations, which may historically have developed different laws to aid their development, enforcing patents laws in line with global practice.  . 
+
+A key international convention relating to patents is the [[Paris Convention for the Protection of Industrial Property]], initially signed in 1883.  The Paris Convention sets out a range of basic rules relating to patents, and although the convention does not have direct legal effect in all national jurisdictions, the principles of the convention are incorporated into all notable current patent systems.  The most significant aspect of the convention is the provision of the right to claim [[priority right|priority]]: filing an application in any one member state of the Paris Convention preserves the right for one year to file in any other member state, and receive the benefit of the original filing date.  Because the right to a patent is intensely date-driven, this right is fundamental to modern patent usage.  . 
+
+The authority for patent statutes in different countries varies. In the UK, substantive patent law is contained in the Patents Act 1977 as amended. <ref>United Kingdom law requiring no explicit authority due to the [[Supremacy of Parliament]]. </ref>  In the United States, the [[United States Constitution|Constitution]] empowers [[United States Congress|Congress]] to make laws to "promote the Progress of Science and useful Arts..." The laws Congress passed are codified in [[Title 35 of the United States Code]] and created the [[United States Patent and Trademark Office]].  . 
+
+In addition, there are international treaty procedures, such as the procedures under the [[European Patent Convention]] (EPC) [administered by the [[European Patent Organisation]] (EPOrg)], and the [[Patent Cooperation Treaty]] (PCT) (administered by [[WIPO]] and covering more than 140 countries), that centralize some portion of the filing and examination procedure. Similar arrangements exist among the member states of [[African Regional Intellectual Property Organization|ARIPO]] and [[Organisation Africaine de la Propriété Intellectuelle|OAPI]], the analogous treaties among African countries, and the nine [[Commonwealth of Independent States|CIS]] member states that have formed the [[Eurasian Patent Organization]].  . 
+
+=== Application and prosecution ===. 
+{{Main|Patent application|Patent prosecution}}
+A patent is requested by filing a written [[Patent application|application]] at the relevant patent office.  The person or company filing the application is referred to as "the applicant". The applicant may be the inventor or its assignee. The application contains a description of how to make and use the invention that must provide [[sufficiency of disclosure|sufficient detail]] for a person skilled in the art (i.e., the relevant area of technology) to make and use the invention. In some countries there are requirements for providing specific information such as the usefulness of the invention, the [[best mode]] of performing the invention known to the inventor, or the [[technical problem]] or problems solved by the invention. Drawings illustrating the invention may also be provided.  . 
+
+The application also includes one or more claims, although it is not always a requirement to submit these when first filing the application. The claims set out what the applicant is seeking to protect in that they define what the patent owner has a right to exclude others from making, using, or selling, as the case may be. In other words, the claims define what a patent covers or the "scope of protection".  . 
+
+After filing, an application is often referred to as "[[patent pending]]".  While this term does not confer legal protection, and a patent cannot be enforced until granted, it serves to provide warning to potential infringers that if the patent is issued, they may be liable for damages. <ref>IP Australia website, [http://www.ipaustralia.gov.au/media/pages/whatis/patents.htm ''What does 'patent pending' mean?''], Consulted on August 5, 2009. </ref><ref>USPTO web site, [http://www.uspto.gov/web/offices/pac/doc/general/patpend.htm ''Patent Marking and "Patent Pending"'' (Excerpted from General Information Concerning Patents print brochure)], Consulted on August 5, 2009. </ref><ref>[[UK Intellectual Property Office]] web site, [http://www.ipo.gov.uk/types/patent/p-manage/p-useenforce/p-displayrights.htm ''Display your rights''], (under "IPO Home> Types of IP> Patents> Managing your patents> Using and enforcing") Consulted on August 5, 2009. </ref> . 
+
+For a patent to be granted, that is to take legal effect in a particular country, the patent application must meet the [[patentability]] requirements of that country. Most patent offices examine the application for compliance with these requirements.  If the application does not comply, objections are communicated to the applicant or their [[patent attorney|patent agent or attorney]] and one or more opportunities to respond to the objections to bring the application into compliance are usually provided.  . 
+
+Once granted the patent is subject in most countries to [[maintenance fee (patent)|renewal fees]] to keep the patent in force. These fees are generally payable on a yearly basis, although the US is a notable exception.  Some countries or regional patent offices (e.g. the [[European Patent Office]]) also require annual renewal fees to be paid for a patent application before it is granted.  . 
+
+==== Costs ====. 
+The costs of preparing and filing a patent application, prosecuting it until grant and maintaining the patent vary from one jurisdiction to another, and may also be dependent upon the type and complexity of the invention, and on the type of patent.  . 
+
+The European Patent Office estimated in 2005 that the average cost of obtaining a European patent (via a Euro-direct application, i.e. not based on a PCT application) and maintaining the patent for a 10 year term was around 32,000 Euro. <ref>With the following assumptions: "18 pages (11 pages description, 3 pages claims, 4 pages drawings), 10 claims, patent validated in 6 countries (Germany, United Kingdom, France, Italy, Spain, Switzerland), excl. in-house preparation costs for the patentee" (the costs relate to European patents granted in 2002/2003), in European Patent Office, [http://www.european-patent-office.org/epo/new/cost_analysis_2005_en.pdf ''The cost of a sample European patent - new estimates''], 2005, p.&nbsp;1. </ref> Since the [[London Agreement (2000)|London Agreement]] entered into force on May 1, 2008, this estimation is however no longer up-to-date, since fewer translations are required.  . 
+
+In the United States, in 2000 cost of obtaining patent ([[patent prosecution]]) was estimated from $10,000 to $30,000 per patent. <ref name="lemley"/> When patent litigation is involved (which in year 1999 happened in about 1,600 cases compared to 153,000 patents issued in the same year <ref name="lemley" />), costs increase significantly: while 95% of patent litigation cases are settled [[out of court]],<ref>[http://www.hblaw.org/articles-reader/items/carry-a-big-stick.html Carry a Big Stick]</ref> but when the case reaches the court, direct legal costs of patent litigation are on average in the order of a million dollars per case, not including associated business costs. <ref>{{cite book
+|title=Patent failure: how judges, bureaucrats, and lawyers put innovators at risk
+|last1=Bessen
+|first1=James
+|last2=Meurer
+|first2=Michael James
+|year=2008
+|page=132
+|isbn=069113491X
+}}.  Based on an [[American Intellectual Property Law Association]] (AIPLA) survey of patent lawyers (2005), and court documents for a sample of 89 court cases where one side was ordered to pay the other side's legal fees.The containing chapter (‘The Costs of Disputes’) also tries to quantify associated business costs. </ref> . 
+
+===Alternatives to applying for a patent ===. 
+A [[defensive publication]] is the act of publishing a detailed description of a new invention without patenting it, so as to establish [[prior art]] and public identification as the creator/originator of an invention, although a defensive publication can also be anonymous. A defensive publication prevents others from later being able to patent the invention.  . 
+
+A [[trade secret]] is the act of not disclosing the methods by which a complex invention works or how a chemical is formulated. However, trade secrets do not provide legal protection like patents, and are vulnerable to [[reverse engineering]] and information leaks, i.e. [[breaches of confidentiality]] and [[corporate espionage]].  An advantage of a trade secret is that whereas a patent is only in force for a specified time, after which others may freely copy the invention, a trade secret is unknown and allows its holder to maintain a monopoly for as long as they can keep it secret - or until someone else independently comes up with the same thing.  . 
+
+== Economics ==. 
+{{details|Economics and patents}} . 
+
+=== Rationale ===. 
+There are four primary incentives embodied in the patent system: to invent in the first place; to disclose the invention once made; to invest the sums necessary to experiment, produce and market the invention; and to [[design around]] and improve upon earlier patents. <ref name="Markey"/> . 
+
+#Patents provide incentives for economically efficient [[research and development]] (R&D). A study conducted annually by the IPTS shows that the 2,000 largest global companies invested more than 430 billion euros in 2008<ref>[http://iri.jrc.ec.europa.eu/research/scoreboard_2009.htm The 2009 EU Industrial R&D Investment Scoreboard] produced by the Institute for Prospective Technological Studies</ref> in their R&D departments. If the investments can be considered as inputs of R&D, real products and patents are the outputs. Based on these groups, a project named Corporate Invention Board, had measured and analyzed the patent portfolios to produce an original picture<ref>[http://www.corporateinventionboard.eu/en/corporate-rankings Technological profiles for global companies] by analysing their patent portfolios</ref> of their technological profiles. Supporters of patents argue that without patent protection, R&D spending would be significantly less or eliminated altogether, limiting the possibility of technological advances or breakthroughs. {{Citation needed|date=April 2010}}Corporations would be much more conservative about the R&D investments they made, as third parties would be [[free rider problem|free to exploit]] any developments. This second justification is closely related to the basic ideas underlying traditional [[property (ownership right)|property rights]]. <ref name="Markey" >Howard T. Markey (chief judge of the United States Court of Customs and Patent Appeals and later of the Court of Appeals for the Federal Circuit), ''Special Problems in Patent Cases'', 66 F.R.D. 529, 1975. </ref>{{Specify|date=March 2009}}
+#In accordance with the original definition of the term "patent," patents facilitate and encourage disclosure of [[innovation]]s into the [[public domain]] for the [[common good]]. If [[inventor]]s did not have the legal protection of patents, in many cases, they would prefer or tend to keep their inventions secret {{Citation needed|date=February 2011}}. Awarding patents generally makes the details of new technology publicly available, for exploitation by anyone after the patent expires, or for further improvement by other inventors. Furthermore, when a [[term of patent|patent's term]] has expired, the public record ensures that the patentee's idea is not lost to humanity. <ref name="Markey" />{{Specify|date=March 2009}}
+#In many industries (especially those with high [[fixed cost]]s and either low [[marginal cost]]s or low reverse engineering costs &mdash; computer processors, and pharmaceuticals for example), once an invention exists, the cost of commercialization (testing, tooling up a factory, developing a market, etc.) is far more than the initial conception cost.  (For example, the internal "rule of thumb" at several computer companies in the 1980s was that post-R&D costs were 7-to-1).  Unless there is some way to prevent copies from competing at the marginal cost of production, companies will not make that productization investment. <ref name="Markey" />{{Failed verification|date=March 2009}} . 
+
+One effect of modern patent usage is that a small-time inventor can use the exclusive right status to become a licensor. This allows the inventor to accumulate capital from licensing the invention and may allow innovation to occur because he or she may choose to not manage a manufacturing buildup for the invention. Thus the inventor's time and energy can be spent on pure innovation, allowing others to concentrate on manufacturability. <ref>Stim, Rishand, "Profit from Your Idea: How to Make Smart Licensing Decisions", ISBN 1-4133-0450-8 (Published 2006)</ref> . 
+
+Another effect of modern patent usage is to cause competitors to design around (or to "invent around" according to [[R S Praveen Raj]])<ref>[http://www.thehindubusinessline.com/2007/03/06/stories/2007030600492100.htm Thehindubusinessline.com]</ref> each other's patents. This may promote healthy competition among manufacturers, resulting in gradual improvements of the technology base.{{citation needed|date=December 2010}}  This may help augment national economies and confer better living standards to the citizens.{{citation needed|date=December 2010}} . 
+
+=== Criticism ===. 
+{{Main|Criticism of patents}}
+As state-granted monopolies, patents have been criticized as inconsistent with [[free trade]]. On that basis, in 1869 the Netherlands abolished patents, and did not reintroduce them until 1912. <ref name="kick">[[Ha Joon Chang|Chang, Ha-Joon]]. [http://www.paecon.net/PAEtexts/Chang1.htm "Kicking Away the Ladder: How the Economic and Intellectual Histories of Capitalism Have Been Re-Written to Justify Neo-Liberal Capitalism"]. ''[[Post-Autistic Economics Review]]''. 4 September 2002: Issue 15, Article 3. Retrieved on 8 October 2008. </ref> . 
+
+Patents have also been criticized for being granted on already-known inventions, with many complaining in the United States that the USPTO fails "to do a serious job of examining patents, thus allowing bad patents to slip through the system."<ref name="lemley"/> On the other hand, it has been argued that because of low number of patents going into litigation, increasing quality of patents at [[patent prosecution]] stage will increase overall legal costs associated with patents, and that current USPTO policy is a reasonable compromise between full trial on examination stage on one hand, and pure registration without examination, on the other hand. <ref name="lemley"/> . 
+
+[[Patent trolls]] are one of common criticisms against patents,<ref>[http://www.law.duke.edu/journals/dltr/articles/2005dltr0009.html TROLL OR NO TROLL? POLICING PATENT USAGE WITH AN OPEN POST-GRANT REVIEW]</ref> though some commentators suggest that patent trolls are not bad for the patent system at all but instead realign market participant incentives, make patents more liquid, and clear the patent market. <ref>{{cite web
+|url=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=959945&rec=1&srcabs=980776
+|title=The Myth of the Patent Troll
+|accessdate=2010-01-17
+|last=McDonough III
+|first=James F. 
+|authorlink=James F. McDonough III
+|date=January 31, 2006
+|work=The Myth of the Patent Troll
+|doi=
+|archiveurl=
+|archivedate=
+|quote=
+}}</ref> . 
+
+Pharmaceutical patents prevent generic alternatives to enter the market until the patents expire, and thus maintains high prices for medication. <ref name="Banta, D.H. 2001">{{cite journal
+|last=Banta
+|first=D.H. 
+|authorlink=
+|year=2001
+|month=
+|title=Worldwide Interest in Global Access to Drugs
+|journal=Journal of the American Medical Association
+|volume=285
+|issue=22
+|pages=2844–46
+|pmid=11401589
+|pmc=
+|doi=10.1001/jama.285.22.2844|bibcode=
+|oclc=
+|id=
+|url=
+|quote=
+}}</ref> This can have significant effects in the developing world, as those who are most in need of basic essential medicines are unable to afford such high priced pharmaceuticals. <ref>{{cite journal
+|last=Ferreira
+|first=L. 
+|authorlink=
+|coauthors=
+|year=2002
+|month=
+|title=Access to Affordable HIV/AIDS Drugs: The Human Rights Obligations of Multinational Pharmaceutical Corporations
+|journal=Fordham Law Review
+|volume=71
+|issue=3
+|pages=1133–79
+|pmid=12523370|pmc=
+|doi=
+|bibcode=
+|oclc=
+|id=
+|url=
+|quote=
+}}</ref> Critics also question the rationale that exclusive patent rights and the resulting high prices are required for pharmaceutical companies to recoup the large investments needed for research and development. <ref name="Banta, D.H. 2001"/> One study concluded that marketing expenditures for new drugs often doubled the amount that was allocated for research and development. <ref>{{cite journal
+|last=Barton
+|first=J.H. 
+|authorlink=
+|coauthors= Emanuel, E.J. 
+|date=
+|year=2005
+|month=
+|title=The Patents-Based Pharmaceutical Development Process: Rationale, Problems and Potential Reforms
+|journal=Journal of the American Medical Association
+|volume=294
+|issue=16
+|pages=2075–82
+|pmid=16249422|pmc=
+|doi=10.1001/jama.294.16.2075|bibcode=
+|oclc=
+|id=
+|url=
+|language=
+|quote=
+}}</ref>
+Other articles shed light on the problems of today's medical research. It sets wrong priorities in research and pricing, and pushes the state-run healthcare systems even of rich nations to their limits. <ref>{{cite web |title=Misguided research |date=2010/11 |first=Jörg |last=Schaaber |url=http://www.inwent.org/ez/articles/182681/index.en.shtml |publisher=inwent.org |accessdate=29 November 2010}}</ref> . 
+
+In one response to these criticisms, one review concluded that less than 5 percent of medicines on the [[World Health Organization]]'s list of essential drugs are under patent. <ref name="PoIP">{{cite web
+|url=http://www.ip-institute.org.uk/pdfs/Perceptions%20of%20IP.pdf
+|title=Perceptions of Intellectual Property: A Review
+|accessdate=2009-11-05
+|last=Ghafele
+|first=Roya
+|authorlink=
+|year=2008
+|month=August
+|publisher=London: Intellectual Property Institute
+|pages=
+|doi=
+|archiveurl=
+|archivedate=
+|quote=
+}}</ref> Also, the pharmaceutical industry has contributed US$2 billion for healthcare in developing countries, providing HIV/AIDS drugs at lower cost or even free of charge in certain countries, and has used differential pricing and parallel imports to provide medication to the poor. <ref name="PoIP" /> Other groups are investigating how social inclusion and equitable distribution of research and development findings can be obtained within the existing intellectual property framework, although these efforts have received less exposure. <ref name="PoIP" /> . 
+
+Some public campaigns have expressed a concern for "preventing the over-reach" of IP protection including patent protection, and "to retain a public balance in property rights" of this kind. <ref name=sksell>Susan K Sell (2003), ''Private Power, Public Law: The Globalization of Intellectual Property Rights'', Cambridge, 2003 (Cambridge University Press: Cambridge Studies in International Relations: 88); quoted from page 179, see also page 5. </ref> . 
+
+====Proposed alternatives to the patent system====. 
+Alternatives have been discussed to address the issue of financial incentivization to replace patents. Mostly, they are related to some form of direct or indirect government funding. One example is the idea of providing "prize money" (from a "prize fund" sponsored by the government) as a substitute for the lost profits associated with abstaining from the monopoly given by a patent. <ref>Stiglitz, Joseph. Project Syndicate, 2007. [http://www.project-syndicate.org/commentary/stiglitz81/English project-syndicate.org]</ref> Another approach is to remove the issue of financing development from the private sphere all together, and to cover the costs with direct government funding. <ref>Baker, Dean. “The Reform of Intellectual Property”. post-autistic economics review, issue no. 32, 5 July 2005, article 1, [http://www.paecon.net/PAEReview/issue32/Baker32.htm Paecon.net]</ref> . 
+
+==See also==. 
+{{wikiquote}}
+*[[Glossary of patent legal concepts]]
+*[[List of patent related topics]]
+*[[List of people associated with patent law]]
+*[[:Category:Patent law]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+{{Commons category|Patents}}
+{{Wiktionary|patent}}
+*[http://www.wipo.int/directory/en/urls.jsp Directory of Intellectual Property Offices], maintained by [[World Intellectual Property Organization]] (WIPO)
+*[http://www.epo.org/topics/ip-webguide.html Useful links, "''Your guide to intellectual property information and services on the internet.''"], maintained by the [[European Patent Office]]
+*[http://stats.oecd.org/Index.aspx?DataSetCode=PATS_IPC OECD Patent statistics] . 
+
+[[Category:Intellectual property law]]
+[[Category:Patent law|*]]
+[[Category:Monopoly (economics)]]
+[[Category:Public records]]

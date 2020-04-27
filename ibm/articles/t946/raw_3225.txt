@@ -1,0 +1,811 @@
+{{Collegebowl
+| name               = BCS National Championship Game
+| full_name          =
+| nickname           =
+| defunct            =
+| logo               = File:Uf2008CoachesTrophy.jpg
+| image size         = 200
+| caption            = [[AFCA National Championship Trophy]], awarded to the BCS National Champion. 
+| stadium            = Currently on a four-year rotation between:<br>[[University of Phoenix Stadium]]<br>[[Mercedes-Benz Superdome]]<br>[[Sun Life Stadium]]<br>[[Rose Bowl (stadium)|Rose Bowl]]
+| previous_stadiums  = [[Sun Devil Stadium]] (1999, 2003)
+| location           = Currently on a four-year rotation between:<br>[[Glendale, Arizona]]<br>[[New Orleans, Louisiana]]<br>[[Miami Gardens, Florida]]<br>[[Pasadena, California]]
+| previous_locations = [[Tempe, Arizona]] (1999, 2003)
+| years              = 1998–present
+| previous_tie-ins   =
+| conference_tie-ins =
+| payout             = 18,000,000 <small>(As of 2009)</small>
+| sponsors           = [[Tostitos]] (1999, 2003, 2007, 2011), [[Nokia]] (2000, 2004), [[FedEx]] (2001, 2005, 2009), [[AT&T]] (2002), [[Allstate]] (2008, 2012), [[Citigroup|Citi]] (2006, 2010), [[Discover Financial|Discover]] (2013), [[Vizio]] (2014)
+| former_names       =
+| prev_matchup_year  = 2012
+| prev_matchup_season = 2011
+| prev_matchup_teams = [[2011 Alabama Crimson Tide football team|Alabama]] vs. [[2011 LSU Tigers football team|LSU]]
+| prev_matchup_score = Alabama 21-0
+| next_matchup_year = 2013
+| next_matchup_season = 2012
+| next_matchup_teams = TBD
+| next_matchup_score = TBD
+}}
+[[File:2010 BCS Champ.jpg|thumb|260px|50-yard line action for the national championship in Pasadena California, January 7, 2010]]  . 
+
+The '''BCS National Championship Game''', or '''BCS National Championship''', is the final [[bowl game]] of the annual [[Bowl Championship Series]] (BCS) and is intended by the organizers of the BCS to determine the U.S. [[College football national championships in NCAA Division I FBS|national champion]] of the [[Football Bowl Subdivision|NCAA Division I Football Bowl Subdivision]] (formerly known as NCAA Division I-A). The participants are the two highest-ranked teams in the BCS standings at the end of the regular [[college football]] season, currently determined by averaging the results of the final weekly [[Coaches' Poll|''USA Today'' Coaches' Poll]], [[Harris Interactive Poll]] of media, former players and coaches, and the average of six participating [[Sports rating system|computer rankings]].  . 
+
+Since the formation of the [[Bowl Championship Series]], there have been several controversies regarding the schools selected to participate in the BCS National Championship Game. Most notably, following the [[2003 NCAA Division I FBS football season|2003]] season, the [[Bowl Championship Series|BCS]] ranking system selected the #3 ranked school in the [[AP Poll#College football|Associated Press writers' poll]], the [[2003 Oklahoma Sooners football team|University of Oklahoma]], over the #1 ranked school in that poll, the [[2003 USC Trojans football team|University of Southern California]], to participate in the National Championship Game (the [[2004 Sugar Bowl|Nokia Sugar Bowl]]) despite Oklahoma's decisive loss to [[2003 Kansas State Wildcats football team|Kansas State]] in the [[2003 Big 12 Championship Game]]. 2003 is the only season, to date, since the inception of the BCS in which the national championship has been split, with [[2003 LSU Tigers football team|Louisiana State University]] winning the BCS national championship and the University of Southern California winning the [[AP National Championship Trophy|AP national championship]] and the [[Grantland Rice Award|FWAA national championship]].  . 
+
+The [[2012 BCS National Championship Game|BCS National Championship]] for the [[2011 NCAA Division I FBS football season|2011]] season at the [[Mercedes-Benz Superdome]] in [[New Orleans, LA]] was held on January 9, 2012, sponsored by [[Allstate]], and televised on the [[ESPN]] television network. The [[2011 Alabama Crimson Tide football team|Alabama Crimson Tide]] defeated the [[2011 LSU Tigers football team|LSU Tigers]] 21-0 in the first shutout in BCS National Championship history. The game was also the  first time that two teams from the same conference (and also from the same division of the same conference) met for the BCS National Championship.  . 
+
+==History==. 
+{{expand section|date=November 2010}}
+The first BCS Championship Game was played at the conclusion of the [[1998 NCAA Division I-A football season|1998 college football season]] in accordance with an agreement by the [[Big Ten Conference|Big Ten]] Conference, the  [[Pac-12|Pac-10 (now Pac-12)]] Conference, and the [[Rose Bowl Game]] to join the  "[[Bowl Alliance]]" system.  The expanded format was called the [[Bowl Championship Series]].  . 
+
+The Bowl Alliance and its predecessor, the [[Bowl Coalition]], featured championship games from 1992 through 1997. However, these did not ensure a matchup between the top two ranked teams because of the lack of participation by the Big Ten and Pac-10.  Presentation of the crystal football trophy, first awarded at the end of the 1992 season, continues to be awarded to the BCS National Championship Game winner.  . 
+
+The BCS National Championship Game was initially rotated among the four participating bowl games: the (Rose Bowl, [[Orange Bowl (game)|Orange Bowl]], [[Fiesta Bowl]], and [[Sugar Bowl]]).  However, beginning with the [[2006 NCAA Division I FBS football season|2006 season]], the BCS National Championship Game became a separate bowl game unto itself, following New Year's Day.  The BCS National Championship Game rotates its location among the Orange, Sugar, Fiesta, and Rose Bowl venues; however, the BCS National Championship Game is not coupled with those Bowls. For example, the 2011 Fiesta Bowl was a separate event from the 2011 BCS National Championship Game.  . 
+
+===Game results===. 
+*''For Bowl Coalition championship game results from 1992–1994, see: [[Bowl Coalition#Bowl Coalition championship game results|Bowl Coalition]]''
+*''For Bowl Alliance championship game results from 1995–1997, see: [[Bowl Alliance#Bowl Alliance Championship Game Results|Bowl Alliance]]'' . 
+
+{| class="wikitable" style="width:100%;"
+. |-
+!style="background: #e3e3e3;"|Season
+!style="background: #e3e3e3;"|Date
+!style="background: #e3e3e3;" colspan=2|Winner
+!style="background: #e3e3e3;" colspan=2|Loser
+!style="background: #e3e3e3;"|Bowl Game
+!style="background: #e3e3e3;"|Site
+!style="background: #e3e3e3;"|MVP
+. |-
+|align=center|[[1998 NCAA Division I-A football season|1998]]
+|align=center|January 4, 1999
+|<small>1</small> '''[[1998 Tennessee Volunteers football team|Tennessee]]''' (SEC) Champs|| align=center|'''23'''
+|<small>2</small> [[1998 Florida State Seminoles football team|Florida State]] (ACC) Co-Champs|| align=center|16
+|align=center|[[1999 Fiesta Bowl]]
+|align=center|[[Sun Devil Stadium]]<br />[[Tempe, Arizona]]
+|align=center|[[Peerless Price]]<br />[[Dwayne Goodrich]]
+. |-
+|align=center|[[1999 NCAA Division I-A football season|1999]]
+|align=center|January 4, 2000
+|<small>1</small> '''[[1999 Florida State Seminoles football team|Florida State]]''' (ACC) Champs || align=center|'''46'''
+|<small>2</small> [[1999 Virginia Tech Hokies football team|Virginia Tech]]<br />(Big East) Champs || align=center|29
+|align=center|[[2000 Sugar Bowl]]
+|align=center|[[Mercedes-Benz Superdome|Louisiana Superdome]]<br />[[New Orleans, Louisiana]]
+|align=center|[[Peter Warrick]]
+. |-
+|align=center|[[2000 NCAA Division I-A football season|2000]]
+|align=center|January 3, 2001
+|<small>1</small> '''[[2000 Oklahoma Sooners football team|Oklahoma]]'''<br />(Big 12) Champs|| align=center|'''13'''
+|<small>2</small> [[2000 Florida State Seminoles football team|Florida State]] (ACC) Champs|| align=center|2
+|align=center|[[2001 Orange Bowl]]
+|align=center|[[Sun Life Stadium|Pro Player Stadium]]<br />[[Miami, Florida]]
+|align=center|[[Torrance Marshall]]
+. |-
+|align=center|[[2001 NCAA Division I-A football season|2001]]
+|align=center|January 3, 2002
+|<small>1</small> '''[[2001 Miami Hurricanes football team|Miami (Florida)]]'''<br />(Big East) Champs|| align=center|'''37'''
+|<small>2</small> [[2001 Nebraska Cornhuskers football team|Nebraska]] (Big 12) Div. Co-Champs|| align=center|14
+|align=center|[[2002 Rose Bowl]]
+|align=center|[[Rose Bowl (stadium)|Rose Bowl]]<br />[[Pasadena, California]]
+|align=center|[[Ken Dorsey]]<br />[[Tremel McMillon]]
+. |-
+|align=center|[[2002 NCAA Division I-A football season|2002]]
+|align=center|January 3, 2003
+|<small>2</small> '''[[2002 Ohio State Buckeyes football team|Ohio State]]'''<br />(Big Ten) Co-Champs|| align=center|'''31'''{{ref| 1}}
+|<small>1</small> [[2002 Miami Hurricanes football team|Miami (Florida)]]<br />(Big East) Champs|| align=center|24
+|align=center|[[2003 Fiesta Bowl]]
+|align=center|[[Sun Devil Stadium]]<br />[[Tempe, Arizona]]
+|align=center|[[Craig Krenzel]]<br />[[Mike Doss]]
+. |-
+|align=center|[[2003 NCAA Division I-A football season|2003]]
+|align=center|January 4, 2004
+|<small>2</small> '''[[2003 LSU Tigers football team|LSU]]''' (SEC) Champs|| align=center|'''21'''
+|<small>1</small> [[2003 Oklahoma Sooners football team|Oklahoma]]<br />(Big 12) Runner-Up|| align=center|14
+|align=center|[[2004 Sugar Bowl]]
+|align=center|[[Mercedes-Benz Superdome|Louisiana Superdome]]<br />[[New Orleans, Louisiana]]
+|align=center|[[Justin Vincent]]
+. |-
+|align=center|[[2004 NCAA Division I-A football season|2004]]
+|align=center| January 4, 2005
+|<small>1</small> [[2004 USC Trojans football team|USC]] ''(Vacated)'' ‡{{ref| 2}}<br />(Pac-10) Champs|| align=center|'''''(55)'''''
+|<small>2</small> [[2004 Oklahoma Sooners football team|Oklahoma]]<br />(Big 12) Champs|| align=center|19
+|align=center|[[2005 Orange Bowl]]
+|align=center|[[Sun Life Stadium|Pro Player Stadium]]<br />[[Miami Gardens, Florida]]
+|align=center|[[Matt Leinart]]
+. |-
+|align=center|[[2005 NCAA Division I-A football season|2005]]
+|align=center| January 4, 2006
+|<small>2</small> '''[[2005 Texas Longhorns football team|Texas]]''' (Big 12) Champs|| align=center|'''41'''
+|<small>1</small> [[2005 USC Trojans football team|USC]] ''(Vacated)'' ‡{{ref| 3}}<br />(Pac-10) Champs|| align=center|''(38)''
+|align=center|[[2006 Rose Bowl]]
+|align=center|[[Rose Bowl Stadium]]<br />[[Pasadena, California]]
+|align=center|[[Vince Young]] (offense)<br />[[Michael Huff]] (defense)
+. |-
+|align=center|[[2006 NCAA Division I FBS football season|2006]]
+|align=center|January 8, 2007
+|<small>2</small> '''[[2006 Florida Gators football team|Florida]]''' (SEC) Champs|| align=center|'''41'''
+|<small>1</small> [[2006 Ohio State Buckeyes football team|Ohio State]]<br />(Big Ten) Champs|| align=center|14
+|align=center|[[2007 BCS National Championship Game]]
+|align=center|[[University of Phoenix Stadium]]<br />[[Glendale, Arizona]]
+|align=center|[[Chris Leak]] (offense);<br />[[Derrick Harvey]] (defense)
+. |-
+|align=center|[[2007 NCAA Division I FBS football season|2007]]
+|align=center|January 7, 2008
+|<small>2</small> '''[[2007 LSU Tigers football team|LSU]]''' (SEC) Champs|| align=center|'''38'''
+|<small>1</small> [[2007 Ohio State Buckeyes football team|Ohio State]]<br />(Big Ten) Champs|| align=center|24
+|align=center|[[2008 BCS National Championship Game]]
+|align=center|[[Mercedes-Benz Superdome|Louisiana Superdome]]<br />[[New Orleans, Louisiana]]
+|align=center|[[Matt Flynn (American football)|Matt Flynn]] (offense);<br />[[Ricky Jean-Francois]] (defense)
+. |-
+|align=center|[[2008 NCAA Division I FBS football season|2008]]
+|align=center|January 8, 2009
+|<small>2</small> '''[[2008 Florida Gators football team|Florida]]''' (SEC) Champs|| align=center|'''24'''
+|<small>1</small> [[2008 Oklahoma Sooners football team|Oklahoma]]<br />(Big 12) Champs|| align=center|14
+|align=center|[[2009 BCS National Championship Game]]
+|align=center|[[Sun Life Stadium|Dolphin Stadium]]<br />[[Miami Gardens, Florida]]
+|align=center|[[Tim Tebow]] (offense); <br> [[Carlos Dunlap]] (defense)
+. |-
+|align=center|[[2009 NCAA Division I FBS football season|2009]]
+|align=center|January 7, 2010
+|<small>1</small> '''[[2009 Alabama Crimson Tide football team|Alabama]]''' (SEC) Champs|| align=center|'''37'''
+|<small>2</small> [[2009 Texas Longhorns football team|Texas]] (Big 12) Champs|| align=center|21
+|align=center|[[2010 BCS National Championship Game]]
+|align=center|[[Rose Bowl (stadium)|Rose Bowl]]<br />[[Pasadena, California]]
+|align=center|[[Mark Ingram, Jr.|Mark Ingram]] (offense); <br> [[Marcell Dareus]] (defense)
+. |-
+|align=center|[[2010 NCAA Division I FBS football season|2010]]
+|align=center|January 10, 2011
+|<small>1</small> '''[[2010 Auburn Tigers football team|Auburn]]''' (SEC) Champs|| align=center|'''22'''
+|<small>2</small> [[2010 Oregon Ducks football team|Oregon]] (Pac-10) Champs|| align=center|19
+|align=center|[[2011 BCS National Championship Game]]
+|align=center|[[University of Phoenix Stadium]]<br />[[Glendale, Arizona]]
+|align=center|[[Michael Dyer]] (offense); <br> [[Nick Fairley]] (defense)
+. |-
+|align=center|[[2011 NCAA Division I FBS football season|2011]]
+|align=center|January 9, 2012
+|<small>2</small> '''[[2011 Alabama Crimson Tide football team|Alabama]]''' (SEC)||align=center|'''21''' 
+|<small>1</small> [[2011 LSU Tigers football team|LSU]] (SEC) Champs||align=center|0
+|align=center|[[2012 BCS National Championship Game]]
+|align=center|[[Mercedes-Benz Superdome]]<br />[[New Orleans, Louisiana]]
+|align=center|[[AJ McCarron]] (offense); <br> [[Courtney Upshaw]] (defense)
+. |-
+|} . 
+
+{{note|2|}}{{note|3|‡}} No 2004 BCS Champion due to NCAA sanctions against USC, nullifying participation and results. A June 6, 2011 decision of the BCS Presidential Oversight Committee, the 2004 championship will remain permanently vacant. Pursuant to NCAA sanctions, USC running back Reggie Bush was declared retroactively ineligible for the 2005 Orange Bowl. <ref>{{cite web|url=http://sports.espn.go.com/los-angeles/ncf/news/story?id=6632190|title=University of Southern California stripped of '04 BCS NationalChampionship|publisher=ESPN|last=Miller|first=Ted|date=June 6, 2011|accessdate=June 6, 2011}}</ref><br />
+The same June 6, 2011 decision of the BCS Presidential Oversight Committee nullified USC's 2005 season participation in the 2006 Rose Bowl.  However, since Texas defeated USC on the field, Texas is still recognized as the BCS National Champion for 2005. <ref>{{cite web|url=http://msn.foxsports.com/collegefootball/story/BCS-strips-Southern-California-of-2004-football-national-championship-060611|title=BCS strips Southern California of 2004 football national championship|publisher=Fox Sports|date=June 6, 2011|accessdate=June 6, 2011}}</ref><br />''Participating conferences and personal awards listed within table here.'' . 
+
+{{col-begin}}
+{{col-2}} . 
+
+===Records by conference===. 
+{| class="wikitable"
+. |-
+! Conference
+! Wins
+! Losses
+! Winning Teams
+! Losing Teams
+. |-
+| [[Southeastern Conference|SEC]]
+| 8
+| 1**
+| [[University of Alabama|Alabama]] (2), [[University of Florida|Florida]] (2), [[Louisiana State University|LSU]] (2), [[University of Tennessee|Tennessee]], [[Auburn University|Auburn]]
+| [[Louisiana State University|LSU]]**
+. |-
+| [[Big 12 Conference|Big 12]]
+| 2
+| 5
+| [[University of Oklahoma|Oklahoma]], [[University of Texas at Austin|Texas]]
+| Nebraska*, Oklahoma (3), Texas
+. |-
+| [[Atlantic Coast Conference|ACC]]
+| 1
+| 2
+| [[Florida State University|Florida State]]
+| Florida State (2)
+. |-
+| [[Big East Conference|Big East]]
+| 1
+| 2
+| [[University of Miami|Miami (FL)]]*
+| Miami (FL)*, [[Virginia Polytechnic Institute and State University|Virginia Tech]]*
+. |-
+| [[Big Ten Conference|Big Ten]] 
+| 1
+| 2
+| [[The Ohio State University|Ohio State]]
+| Ohio State (2)
+. |-
+|[[Pacific-12 Conference|Pac-12]]
+| 1†
+| 2†
+|[[University of Southern California|USC]]†
+|[[University of Oregon|Oregon]], USC†
+|} . 
+
+{{col-2}} . 
+
+===Records by team===. 
+{| class="wikitable sortable" style="text-align:center;"
+. |-
+!Team
+!Appearances
+!Wins
+!Losses
+!Rate of success
+!Title Season(s)
+. |-
+| [[University of Alabama|Alabama]]
+| 2
+| 2
+| 0
+| 1.000
+| 2009, 2011
+. |-
+| [[Auburn University|Auburn]]
+| 1
+| 1
+| 0
+| 1.000
+| 2010
+. |-
+| [[Florida Gators football|Florida]]
+| 2
+| 2
+| 0
+| 1.000
+| 2006, 2008
+. |-
+| [[University of Tennessee|Tennessee]]
+| 1
+| 1
+| 0
+| 1.000
+| 1998
+. |-
+| [[Louisiana State University|LSU]]
+| 3
+| 2
+| 1
+| .666
+| 2003, 2007
+. |-
+| [[University of Texas at Austin|Texas]]
+| 2
+| 1
+| 1
+| .500
+| 2005
+. |-
+| [[University of Miami|Miami]]
+| 2
+| 1
+| 1
+| .500
+| 2001
+. |-
+| [[The Ohio State University|Ohio State]]
+| 3
+| 1
+| 2
+| .333
+| 2002
+. |-
+| [[Florida State University|Florida State]]
+| 3
+| 1
+| 2
+| .333
+| 1999
+. |-
+| [[University of Oklahoma|Oklahoma]]
+| 4
+| 1
+| 3
+| .250
+| 2000
+. |-
+| [[University of Nebraska|Nebraska]]
+| 1
+| 0
+| 1
+| .000
+| ----
+. |-
+| [[University of Oregon|Oregon]]
+| 1
+| 0
+| 1
+| .000
+| ----
+. |-
+| [[Virginia Polytechnic Institute and State University|Virginia Tech]]
+| 1
+| 0
+| 1
+| .000
+| ----
+|}
+{{col-end}} . 
+
+<nowiki>*</nowiki> Miami and Virginia Tech moved to the ACC in 2004. Nebraska moved to the Big Ten in 2011. No current member of the Big East has played in a BCS championship game.  . 
+
+<nowiki>**</nowiki> The one SEC loss was to another SEC team in the BCS National Championship was on January 9, 2012 (for the [[2011 NCAA Division I FBS football season|2011 season]]) between Alabama and LSU.  . 
+
+<nowiki>†</nowiki> USC has two vacated BCS appearances, in 2004 and 2005.  . 
+
+==Game records==. 
+{| class="wikitable"
+. |-
+! Team
+! Performance vs. Opponent
+! BCS Game Year
+. |-
+|Most points scored
+|55, USC vs. Oklahoma
+|2005
+. |-
+|Fewest points allowed
+|0, Alabama vs. LSU
+|2012
+. |-
+|First downs
+|30, Texas  vs. USC
+|2006
+. |-
+|Rushing yards
+|289, Texas (36 att.) vs. USC
+|2006
+. |-
+|Passing yards
+|374, Oregon vs. Auburn
+|2011
+. |-
+|Total yards
+|556, Texas (289 rush, 267 pass) vs. USC
+|2006
+. |-
+|Total plays
+| 85, Auburn vs. Oregon
+|2011
+. |-
+!Individual
+!Performance, Team vs. Opponent
+!BCS Game Year
+. |-
+|Total offense
+|467, Vince Young, Texas (267 pass, 200 rush) vs. USC
+|2006
+. |-
+|Rushing yards
+|200, Vince Young (QB), Texas (19 att.) vs. USC
+|2006
+. |-
+|Rushing TDs
+|3, Vince Young (QB), Texas  vs. USC
+|2006
+. |-
+|Passing yards
+|363, Darron Thomas, Oregon vs. Auburn (28-41-2, 2 TD)
+|2011
+. |-
+|Passing TDs 
+|5, Matt Leinart, USC vs. Oklahoma
+|2005
+. |-
+|Receptions
+|11, Kellen Winslow Jr., Miami vs. Ohio State (122 yards, 1 TD)
+|2003
+. |-
+|Receiving yards (tie)
+|199, Peerless Price, Tennessee vs. Florida State (4 rec., 1 TD)
+|1999
+. |-
+|Receiving yards (tie)
+|199, Andre Johnson, Miami vs. Nebraska (7 rec., 2 TD)
+|2002
+. |-
+|Receiving TDs 
+|3, Steve Smith, USC vs. Oklahoma
+|2005
+. |-
+|Field goals
+|5, Jeremy Shelley, Alabama vs. LSU
+|2012
+. |-
+|Tackles
+|18, James Laurinaitis, Ohio State vs. LSU
+|2008
+. |-
+|Sacks
+|3, Derrick Harvey, Florida vs. Ohio State
+|2007
+. |-
+|Interceptions
+|2, Sean Taylor, Miami vs. Ohio State
+|2003
+. |-
+!Long Plays
+!Performance, Team vs. Opponent
+!BCS Game Year
+. |-
+|Touchdown run
+|65, Chris "Beanie" Wells, Ohio State vs. LSU
+|2008
+. |-
+|Touchdown pass
+|79, Tee Martin to Peerless Price, Tennessee vs. Florida State
+|1999
+. |-
+|Kickoff return
+|93, Ted Ginn Jr., Ohio State vs. Florida (TD)
+|2007
+. |-
+|Punt return
+|71, DeJuan Groce, Nebraska vs. Miami (TD)
+|2002
+. |-
+|Interception return
+|54, Dwayne Goodrich, Tennessee vs. Florida State (TD)
+|1999
+. |-
+|Punt
+|63, A.J. Trapasso, Ohio State vs. LSU
+|2008
+. |-
+|Field goal
+|46, David Pino, Texas vs. USC
+|2006
+. |-
+|Pass
+|81, Darron Thomas to Jeff Maehl, Oregon vs. Auburn
+|2011
+. |-
+|} . 
+
+==Criticisms and controversy==. 
+{{Main|College football playoff debate|BCS controversies}}
+{{criticism section|date=November 2010}} . 
+
+Critics of the current BCS championship argue against the [[internal validity]] of the current BCS ''National Championship'', which is awarded to the winner of a single postseason game, the BCS National Championship game. Critics lament that the participants in this game are decided based upon polls and computers; not by previous on-field competition as is this the case in other major sports and other levels of college football which employ playoff format championships. Often, the BCS system leads to controversies in which multiple teams finish seasons with equal records, and voters must distinguish the worthiness of their participation in the BCS National Championship game. Without providing any objective criteria for evaluation of these teams, the BCS also forces voters to impose their own standards and tiebreakers. Critics note that the system inherently fosters [[selection bias]], and therefore, lacks [[external validity]]. <ref>[http://sports.espn.go.com/espn/columns/story?columnist=forde_pat&id=3403542&sportCat=ncf Eight-team playoff would be ideal for college football – columnist – ESPN]. Sports.espn.go.com (2008-05-20). Retrieved on 2010-11-21. </ref> . 
+
+Controversies concerning inclusion in the BCS National Championship Game are numerous. In [[2001 NCAA Division I-A football season|2001]], for example, [[University of Oregon|Oregon]], second ranked in the [[AP poll]], was bypassed in favor of [[Nebraska Cornhuskers|Nebraska]] despite Nebraska's loss in its final regular season game to the University of Colorado. In 2003, USC was not included in the [[2004 Sugar Bowl|BCS Championship Game]], but beat Michigan in the [[2004 Rose Bowl|Rose Bowl]] and ended up #1 in the Associated Press final poll. The following season, in [[2004 NCAA Division I-A football season|2004]], undefeated [[Auburn Tigers football|Auburn University]], [[Boise State University]] and [[University of Utah]] teams were left out of the National Championship Game (the [[FedEx]] Orange Bowl), although those teams were undefeated as well. In 2008, the University of Utah was excluded from the BCS championship for a second time despite being the only undefeated Division I-A team at the end of the season and finished second behind 13–1 Florida. In 2009, five schools finished the regular season undefeated: Alabama, Texas, [[University of Cincinnati|Cincinnati]], [[Texas Christian University]], and Boise State; however, the BCS selected traditional powers Alabama and Texas to participate in the BCS National Championship Game as they were the top two teams in the BCS rankings.  . 
+
+Many critics of the Bowl Championship Series favor a larger championship tournament with eight to sixteen teams, similar to that administered by the NCAA for its [[NCAA Division I Football Championship|Division I Football Championship Subdivision (FCS)]], [[Division II (NCAA)|Division II]], and [[Division III (NCAA)|Division III]] football championships. Others favor adopting the incremental step of adding a single post-bowl championship game between the winners of two BCS games among the top four ranked teams in the BCS standings, the so-called "plus one" option. The SEC and ACC conferences have recently pushed for some form of playoff system. On June 24, 2009, the BCS presidential oversight committee rejected the [[Mountain West Conference]]'s proposed eight-team playoff plan. <ref>[http://www.latimes.com/sports/la-sp-newswire25-2009jun25,0,6369590.story College football: BCS presidents reject playoff plan], ''Los Angeles Times'', June 25, 2009</ref> . 
+
+In 2009, the NCAA ruled that former USC running back Reggie Bush was retroactively ineligible for the 2004 BCS National Championship Game, the 2005 Orange Bowl vs. Oklahoma, for receiving various illegal benefits.  In May 2011, the NCAA rejected all appeals of USC's penalties, which included Bush's ineligibility and a two-year bowl ban.  On June 6, 2011, the University of Southern California became the first school to lose a Bowl Championship Series National Championship due to NCAA sanctions, as the BCS President's Oversight Committee stripped USC of the 2004 title.  There will be no 2004 champion.  . 
+
+In addition, the BCS also nullified USC's participation in the 2006 Rose Bowl. (See attributions 1 and 2.) . 
+
+==Future==. 
+The game's location rotates among the sites of the BCS bowls. Future scheduled sites are as follows (note the years shown are for the game, which occurs in the calendar year following the corresponding NCAA football season): . 
+
+*[[Sun Life Stadium]] in [[Miami Gardens, Florida]] in 2013 ([[Discover Financial|Discover]] BCS National Championship Game)
+*[[Rose Bowl (stadium)|Rose Bowl]] in [[Pasadena, California]] in 2014 ([[Vizio]] BCS National Championship Game) . 
+
+The title sponsor of the BCS National Championship Game each year is the same as that of the bowl game in that year's host location. Thus, the 2007 game was the Tostitos BCS National Championship Game, after the title sponsor of the Fiesta Bowl. The following year saw it become the Allstate BCS National Championship, and the 2009 game bears the FedEx brand. The 2010 game had [[Citigroup|Citi]] as its title sponsor. <ref>[http://www.allstatesugarbowl.org/Allstate%20Sugar%20Bowl%20Press%20Release.pdf Allstate press release, March 22, 2006]</ref> . 
+
+Based upon television contracts between the BCS and the [[Pasadena Tournament of Roses]] with [[ESPN]], the BCS will retain its current format through at least the 2014 season, when the game will be sponsored by [[Vizio]]. <ref>Chris Casacchia,[http://www.ocbj.com/news/2010/oct/19/vizio-inc-nabs-four-year-rose-bowl-presenting-spon/ Vizio Nabs Four-Year Rose Bowl Presenting Sponsorship], ''Orange County Business Journal'', October 19, 2010</ref> . 
+
+==Heisman Trophy winners in Bowl games (see main article [[List of Heisman Trophy winners]])==. 
+* Jan. 3, 2001, Orange Bowl - [[Chris Weinke]], Florida State (25 of 51 passing, 274 yards)
+* Jan. 3, 2002, Rose Bowl - [[Eric Crouch]], Nebraska (22 rushes, 114 yards; 5 of 15 passing, 62 yards)
+* Jan. 2, 2003, Orange Bowl -[[Carson Palmer]], Southern California 
+* Jan. 4, 2004, Sugar Bowl - [[Jason White (American football)|Jason White]], Oklahoma (13 of 37 passing, 102 yards)
+* Jan. 4, 2005, Orange Bowl - [[Matt Leinart]], Southern California (18 of 35 passing, 332 yards, 5 TDs); Note: Jason White, 2004 Heisman winner, and Reggie Bush , 2005 Heisman winner, both participated in this game
+* Jan. 4, 2006, Rose Bowl - [[Reggie Bush]] (vacated), Southern California (13 rushes, 82 yards, 1 TD)(''Later vacated''); Note: Matt Leinart, 2005 Heisman winner, also participated in this game, as well as Vince Young, the runner-up to Bush's vacated trophy
+* Jan. 8, 2007, Glendale - [[Troy Smith]], Ohio State (4 of 14 passing, 35 yards)
+* Jan. 1, 2008, Capital One Bowl, [[Tim Tebow]], Florida
+* Jan. 8, 2009, Miami - [[Sam Bradford]], Oklahoma (26 of 41 passing, 256 yards, 2 TDs); Note: Tim Tebow, 2008 Heisman winner, also participated in this game
+* Jan. 7, 2010, Pasadena - [[Mark Ingram, Jr.|Mark Ingram]], Alabama (22 rushes, 116 yards, 2 TDs)
+* Jan. 10, 2011, Glendale - [[Cam Newton]], Auburn (20 for 34 passing for 265 yards, 2 TDs) . 
+
+==Media coverage==. 
+===Television===. 
+From 1999 through 2006, [[College Football on ABC|ABC]] broadcast eight BCS National Championship Games pursuant to broadcasting rights negotiated with the BCS and the Rose Bowl, whose rights were offered separately. Beginning with the 2006–07 season, [[Fox Sports (USA)|FOX]] obtained the BCS package, consisting of the Orange Bowl, Fiesta Bowl, Sugar Bowl, and the BCS National Championship Games hosted by these bowls, with ABC retaining the rights to the Rose Bowl and BCS National Championship Games hosted by the Rose Bowl (such as the 2010 edition) . 
+
+On November 18, 2008, the BCS announced that [[College Football on ESPN|ESPN]] had won the television rights to the BCS National Championship Game (as well as the other four BCS bowls) for 2011, 2012, 2013, and 2014. The contract with ESPN is notable as it makes the BCS National Championship Game the most prominent annual sporting event not to be shown over [[broadcast television]]. <ref>[http://sports.espn.go.com/ncf/news/story?id=3710477 ESPN, BCS agree to four-year deal for television, radio, digital rights]</ref> . 
+
+{| class="wikitable"
+. |- style="background:#efefef;"
+!Year
+!Network(s)
+!Bowl
+!Play-by-play announcer
+!Color analyst(s)
+!Sideline reporter(s)
+!Studio host(s)
+!Studio analyst(s)
+!TV Rating<ref>[http://www.bcsfootball.org/bcsfb/tvratings bcsfootball.org – TV Ratings]</ref>
+. |- align=center
+| 1999
+| [[ESPN on ABC|ABC]]
+| [[1999 Fiesta Bowl|Fiesta Bowl]]
+| [[Keith Jackson]]
+| [[Bob Griese]]
+| [[Lynn Swann]]
+| [[John Saunders (journalist)|John Saunders]]
+| [[Todd Blackledge]]
+| 17.2
+. |- align=center
+| 2000
+| [[ESPN on ABC|ABC]]
+| [[2000 Sugar Bowl|Sugar Bowl]]
+| [[Brent Musburger]]
+| [[Gary Danielson]]
+| Lynn Swann and [[Jack Arute]]
+| John Saunders
+| [[Terry Bowden]]
+| 17.5
+. |- align=center
+| 2001
+| [[ESPN on ABC|ABC]]
+| [[2001 Orange Bowl|Orange Bowl]]
+| [[Brad Nessler]]
+| Bob Griese
+| Lynn Swann and Jack Arute
+| John Saunders
+| Terry Bowden
+| 17.8
+. |- align=center
+| 2002
+| [[ESPN on ABC|ABC]]
+| [[2002 Rose Bowl|Rose Bowl]]
+| Keith Jackson
+| [[Tim Brant]]
+| Lynn Swann and [[Todd Harris]]
+| John Saunders
+| Terry Bowden
+| 13.9
+. |- align=center
+| 2003
+| [[ESPN on ABC|ABC]]
+| [[2003 Fiesta Bowl|Fiesta Bowl]]
+| Keith Jackson
+| [[Dan Fouts]]
+| Lynn Swann and Todd Harris
+| John Saunders
+| Terry Bowden
+| 17.2
+. |- align=center
+| 2004
+| [[ESPN on ABC|ABC]]
+| [[2004 Sugar Bowl|Sugar Bowl]]
+| Brent Musburger
+| Gary Danielson
+| Lynn Swann and Jack Arute
+| John Saunders
+| Terry Bowden and [[Craig James (American football)|Craig James]]
+| 14.5
+. |- align=center
+| 2005
+| [[ESPN on ABC|ABC]]
+| [[2005 Orange Bowl|Orange Bowl]]
+| Brad Nessler
+| Bob Griese
+| Lynn Swann and Todd Harris
+| John Saunders
+| Craig James and [[Aaron Taylor (born 1972)|Aaron Taylor]]
+| 13.7
+. |- align=center
+| 2006
+| [[ESPN on ABC|ABC]]
+| [[2006 Rose Bowl|Rose Bowl]]
+| Keith Jackson
+| Dan Fouts
+| Todd Harris and [[Holly Rowe]]
+| John Saunders
+| Craig James and Aaron Taylor
+| 21.7
+. |- align=center
+| 2007
+| [[Fox Sports (USA)|FOX]]
+| [[2007 BCS National Championship Game]]
+| [[Thom Brennaman]]
+| [[Barry Alvarez]] and [[Charles Davis (defensive back)|Charles Davis]]
+| [[Chris Myers]]
+| [[Chris Rose]]
+| [[Eddie George]], [[Emmitt Smith]] and [[Jimmy Johnson (American football coach)|Jimmy Johnson]]
+| 17.4
+. |- align=center
+| 2008
+| [[Fox Sports (USA)|FOX]]
+| [[2008 BCS National Championship Game]]
+| Thom Brennaman
+| Charles Davis
+| Chris Myers
+| Chris Rose
+| Eddie George, [[Urban Meyer]] and Jimmy Johnson
+| 17.4
+. |- align=center
+| 2009
+| [[Fox Sports (USA)|FOX]]
+| [[2009 BCS National Championship Game]]
+| Thom Brennaman
+| Charles Davis
+| Chris Myers
+| Chris Rose
+| Eddie George, [[Barry Switzer]] and Jimmy Johnson
+| 15.8
+. |- align=center
+| 2010
+| [[ESPN on ABC|ABC]]
+| [[2010 BCS National Championship Game]]
+| Brent Musburger
+| [[Kirk Herbstreit]]
+| [[Lisa Salters]] and [[Tom Rinaldi]]
+| [[Chris Fowler]] and [[Rece Davis]]
+| [[Lee Corso]], [[Desmond Howard]], [[Pete Carroll]], [[Lou Holtz]] and [[Mark May]]
+| 17.2
+. |- align=center
+| 2011
+| [[ESPN]] <br> [[ESPN 3D]]
+| [[2011 BCS National Championship Game]]
+| Brent Musburger
+| Kirk Herbstreit
+| [[Erin Andrews]] and Tom Rinaldi
+| Chris Fowler
+| Desmond Howard, Urban Meyer and [[Nick Saban]]
+| 16.1
+. |- align=center
+| 2012
+| [[ESPN]]
+| [[2012 BCS National Championship Game]]
+| Brent Musburger
+| Kirk Herbstreit
+| Erin Andrews and Tom Rinaldi
+| Chris Fowler
+| Lee Corso, [[Gene Chizik]] and [[Chip Kelly]]
+| TBD
+. |- align=center
+| 2013
+| [[ESPN]]
+| [[2013 BCS National Championship Game]]
+| style="background:#d0e7ff;"| TBD
+| style="background:#d0e7ff;"| TBD
+| style="background:#d0e7ff;"| TBD
+| style="background:#d0e7ff;"| TBD
+| style="background:#d0e7ff;"| TBD
+| TBD
+. |- align=center
+| 2014
+| [[ESPN]]
+| [[2014 BCS National Championship Game]]
+| style="background:#d0e7ff;"| TBD
+| style="background:#d0e7ff;"| TBD
+| style="background:#d0e7ff;"| TBD
+| style="background:#d0e7ff;"| TBD
+| style="background:#d0e7ff;"| TBD
+| TBD
+|}
+:{{colorbox|#D0E7FF|}} Expected announcer, subject to change.  . 
+
+===Radio===. 
+Since 1999 the BCS National Championship Game has been broadcast on [[ESPN Radio]].  . 
+
+{| class="wikitable"
+. |- bgcolor="#efefef"
+!Year
+!Network
+!Play-by-play announcer
+!Color analyst(s)
+!Sideline Reporter
+. |-
+| 1999
+| ESPN Radio 
+| [[Ron Franklin]]
+| [[Mike Gottfried]]
+| [[Adrian Karsten]]
+. |-
+| 2000
+| ESPN Radio 
+| Ron Franklin
+| Mike Gottfried
+| Adrian Karsten
+. |-
+| 2000
+| ESPN Radio 
+| Ron Franklin
+| Mike Gottfried
+| Adrian Karsten
+. |-
+| 2001
+| ESPN Radio 
+| Ron Franklin
+| Mike Gottfried
+| Adrian Karsten
+. |-
+| 2002
+| ESPN Radio 
+| Ron Franklin
+| Mike Gottfried
+| Adrian Karsten
+. |-
+| 2003
+| ESPN Radio 
+| Ron Franklin
+| Mike Gottfried
+| Adrian Karsten
+. |-
+| 2004
+| ESPN Radio 
+| Ron Franklin
+| Mike Gottfried
+| Adrian Karsten
+. |-
+| 2005
+| ESPN Radio 
+| Ron Franklin
+| Mike Gottfried
+| [[Erin Andrews]]
+. |-
+| 2006
+| ESPN Radio 
+| Ron Franklin
+| [[Bob Davie (American football)|Bob Davie]]
+| [[Dave Ryan]]
+. |-
+| 2007
+| ESPN Radio 
+| [[Brent Musburger]]
+| Bob Davie and [[Todd Blackledge]]
+| [[Lisa Salters]]
+. |-
+| 2008
+| ESPN Radio 
+| Brent Musburger
+| [[Kirk Herbstreit]]
+| Lisa Salters
+. |-
+| 2009
+| ESPN Radio 
+| Brent Musburger
+| Kirk Herbstreit
+| Lisa Salters
+. |-
+| 2010
+| ESPN Radio 
+| [[Mike Tirico]]
+| [[Jon Gruden]] and Todd Blackledge
+| [[Wendi Nix]]
+. |-
+| 2011
+| ESPN Radio
+| Mike Tirico
+| Jon Gruden
+| [[Joe Schad]]
+. |-
+| 2012
+| ESPN Radio
+| Mike Tirico
+| Todd Blackledge
+| [[Holly Rowe]]
+|} . 
+
+==Related national championship selections==. 
+{{see also|College football national championships in NCAA Division I FBS}} . 
+
+Since there is no [[College football playoff debate|NCAA Division I FBS playoff]], the BCS National Championship game is one of several national championship selection processes in existence.  . 
+
+The [[American Football Coaches Association]] (AFCA) participate in a weekly [[Coaches' Poll]] published by ''[[USA Today]]''; for its final poll of the season, the AFCA is contractually bound to select the BCS National Champion as the national champion<ref>O'Toole, Thomas. (2009-01-14) [http://www.usatoday.com/sports/college/football/2009-01-13-bcs-coaches_N.htm Role of coaches' poll in BCS under review]. Usatoday.Com. Retrieved on 2010-11-21. </ref> Thus, the winner of the game is awarded the [[AFCA National Championship Trophy]] in a postgame ceremony.  . 
+
+The BCS National Champion is also automatically awarded the [[National Football Foundation]]'s [[MacArthur Trophy]]. <ref>[http://www.footballfoundation.com/Macarthurhist.php MacArthur Trophy] at the [[National Football Foundation]]</ref>  . 
+
+The [[Associated Press]] and the [[Football Writers Association of America]] are independent and may award their national championship trophies to a school other than the BCS National Championship Game winner.  . 
+
+==References==. 
+{{reflist|30em}} . 
+
+==External links==. 
+*[http://www.bcsfootball.org/ Official website]
+*[http://www.all-about-bowl-games.com/bcs-national-championship-game.html BCS National Championship on All-About-Bowl-Games] . 
+
+{{BCS National Championship Game navbox}}
+{{Bowl Championship Series navbox}}
+{{Bowl game navbox}}
+{{Use mdy dates|date=August 2010}} . 
+
+{{DEFAULTSORT:Bcs National Championship Game}}
+[[Category:BCS National Championship Game| ]]
+[[Category:NCAA Division I FBS National Football Championship Games]]
+[[Category:College sports championships in the United States]]
+[[Category:College football competitions]]
+[[Category:Annual sporting events in the United States]]

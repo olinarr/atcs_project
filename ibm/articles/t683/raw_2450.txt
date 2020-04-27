@@ -1,0 +1,371 @@
+{{Location map+|Maine
+ |float=right
+ |width=300
+ |caption= [[Wind farm]]s in [[Maine]] <br/>&nbsp; [[image:Green pog.svg|8px]] Operating <br/>&nbsp; [[image:Blue pog.svg|8px]] Under construction <br/>&nbsp; [[image:Purple pog.svg|8px]] Proposed <br/>&nbsp; 
+ |places=
+{{Location map~|Maine
+ |label= [[Mars Hill (Maine)#Wind farm|Mars Hill]]
+ |lat= 46.521 |long= -67.85
+ |mark= Green pog.svg |marksize= 8 
+ |position= left
+}}
+{{Location map~|Maine
+ |label= [[Stetson Wind Project|Stetson]]
+ |lat= 45.5262 |long= -67.9765
+ |mark= Green_pog.svg |marksize= 8 
+ |position= left
+}}
+{{Location map~|Maine
+ |label= [[Kibby Wind Power|Kibby]]
+ |lat= 45.418667 |long= -70.544333
+ |mark= Green pog.svg |marksize= 8 
+ |position= right
+}}
+{{Location map~|Maine
+ |label= &nbsp; &nbsp; Longfellow
+ |lat= 44.5840 |long= -70.6376 
+ |mark= Purple pog.svg |marksize= 8 
+ |position= right
+}}
+{{Location map~|Maine
+ |label= Oakfield
+ |lat= 46.10 |long= -68.15 <!-- Coords of town -->
+ |mark= Purple pog.svg |marksize= 8 
+ |position= left
+}}
+{{Location map~|Maine
+ |label= Record Hill
+ |lat= 44.661 |long= -70.628
+ |mark= Green pog.svg |marksize= 8 
+ |position= right
+}}
+{{Location map~|Maine
+ |label= Rollins
+ |lat= 45.38724 |long= -68.36371
+ |mark= Green pog.svg |marksize= 8 
+ |position= bottom
+}}
+{{Location map~|Maine
+ |label= [[Fox Island Electric Cooperative#Fox Island Wind Project|Fox Islands]]
+ |lat= 44.094 |long= -68.868
+ |mark= Green pog.svg |marksize= 8 
+ |position= right
+}}
+{{Location map~|Maine
+ |label= Beaver Ridge
+ |lat= 44.500494 |long= -69.341497
+ |mark= Green_pog.svg |marksize= 8 
+ |position= right
+}}
+{{Location map~|Maine
+ |label= Bull Hill
+ |lat= 44.72 |long= -68.16 
+ |mark= Purple pog.svg |marksize= 8 
+ |position= right
+}}
+{{Location map~|Maine
+ |label= Spruce Mountain
+ |lat= 44.408 |long= -70.585
+ |mark= Blue pog.svg |marksize= 8 
+ |position= bottom
+}}
+}}
+{{kml}} . 
+
+There are several '''[[wind power]] projects''' in the state of '''[[Maine]]''', with a total of 521 MW in capacity. The largest single [[wind farm]] is Kibby Mountain with an installed capacity of 132 MW. Former [[Governor of Maine|Governor]] [[John Baldacci]] has set a goal for the state of 2,000&nbsp;[[megawatt]]s of wind power installed by 2015 and 3,000&nbsp;MW by 2020. <ref name="adams"> {{cite news
+ | url= http://www.forbes.com/feeds/ap/2009/03/18/ap6182620.html 
+ | title= Wind farm site in western Maine gets key equipment 
+ | first= Glenn | last= Adams 
+ | date= March 18, 2009 | publisher= [[Associated Press]]
+ | accessdate= 2009-03-21 }} {{Dead link|date=October 2010|bot=H3llBot}} </ref>  . 
+
+==Overview==. 
+In 2011 wind power facilities in Maine generated 713 million kilowatt hours of electrical energy out of 15,778 million kilowatt hours total generated in the state, or 4.5% of the total. <ref name="EIA_Feb2010" />
+As of the end of 2011, 397 megawatts of wind generation capacity had been installed in Maine. <ref name="AWEA_2011Q4">{{cite web 
+ | url= http://www.awea.org/learnabout/publications/reports/upload/4Q-2011-AWEA-Public-Market-Report-2.pdf
+ | title= AWEA 4th quarter 2011 Public Market Report
+ | format= PDF
+ |date = January 2012| publisher= [[American Wind Energy Association]] (AWEA)
+ | accessdate=January 27, 2012 }}</ref> . 
+
+== Operating wind farms ==. 
+===Mars Hill===. 
+[[Image:Mars Hill Wind Farm 672336669 6d41098ae0 o.jpg|thumb|left|Mars Hil wind farm.]]
+[[Mars Hill (Maine)|Mars Hill]] ({{coord|46|31.26|N|67|48.82|W |type:mountain_region:US-ME |name=Mars Hill}}), in the town of [[Mars Hill, Maine]], underwent an $85&nbsp;million [[wind turbine]] project in the fall of 2006, installing more than 28&nbsp;[[GE 1.5 MW Wind Turbine]]s along the top and northern section of the mountain, which overlooks [[Canada]]. The windmills are assembled in four parts. The towers, made of three support sections stacked on top of one another, and each weighing 20,000 pounds, are 262&nbsp;ft (80&nbsp;m) tall. The blades attached to the hub of the turbine are about 115&nbsp;ft (35&nbsp;m) long — almost the [[wingspan]] of a [[Boeing 747]] jet-liner. 
+{{-}} . 
+
+=== Kibby Mountain ===. 
+[[File:Kibby Mountian Wind Turbines.JPG|thumb|Kibby Wind Power]]
+The [[Kibby Wind Power Project|Kibby Mountain]] wind farm project — at a capacity of 132 MW, prospectively New England's largest<ref>{{cite web
+ | url= http://bangornews.com/news/t/news.aspx?articleid=166911&zoneid=500
+ | title= State approves Kibby wind farm project  
+ | date= 2008-07-10 | work= [[Bangor Daily News]] |publisher= 
+ | accessdate= 2008-08-21 }}</ref> — comprises forty-four 3&nbsp;MW wind turbines strung along the ridges of Kibby Mtn. ({{coord|45|25.12|N|70|32.66|W |type:mountain_region:US-ME |name=Kibby Mountain}}) and nearby Kibby Range ({{coord|45|21.13|N|70|34.58|W |type:mountain_region:US-ME |name=Kibby Range}}). <ref> {{cite web
+ | url= http://www.transcanada.com/company/kibby.html
+ | title= Kibby Wind Power
+ |date= 2009-10-09 | publisher= TransCanada Corporation
+ | accessdate= 2009-10-21 }}</ref>
+is expected to generate about 357&nbsp;million [[kilowatt-hour]]s (41&nbsp;MW·yr) of electricity annually. 
+Half the turbines were put online in October 2009, and TransCanada completed the project in 2010. <ref> {{cite news
+ | url= http://www.wcsh6.com/news/local/story.aspx?storyid=110134&catid=2 
+ | title= Kibby Mountain Wind Farm Begins Operations
+ |date= 2009-10-17 | publisher= [[WCSH]]
+ | accessdate= 2009-10-21 }}</ref>  
+The capital cost of the project is approximately US&nbsp;$320&nbsp;million. <ref>{{cite news
+ | url= http://www.transcanada.com/news/2008_news/20080709.html 
+ | title= Kibby Wind Power Project Receives LURC Approval 
+ | date= 2008-07-09 | publisher= TransCanada Corp. 
+ | accessdate= 2008-08-21 }}</ref>
+Work on clearing the site began by September 2008. <ref>{{cite news
+ | url= http://pressherald.mainetoday.com/story.php?id=207993&ac=PHnws 
+ | title= Work begins on Maine's largest wind farm
+ | date= 2008-09-03 | publisher= [[Associated Press]]
+ | accessdate= 2008-09-04 }}</ref> . 
+
+=== Record Hill ===. 
+Record Hill Wind is a 55.6 MW wind project in [[Roxbury, Maine|Roxbury]], consisting of 22&nbsp;turbines arrayed along a four-mile-long north–south ridgeline connecting Record Hill, Flathead Mountain ({{coord|44.661. |-70.628 |format=dms |region:US-ME |name=Flathead Mountain, Record Hill Wind}}), and Partridge Peak. The electrical output of the project is estimated to be approximately 160&nbsp;million kW·h (18&nbsp;MW·yr) per year. <ref> {{cite web
+ | url= http://recordhillwind.com/ 
+ | title= Project Overview 
+ |date= |year= |month= | publisher= Record Hill Wind 
+ | accessdate= 2009-05-09 }} </ref>  . 
+
+=== Stetson ===. 
+Stetson Wind Farm began commercial operations in January 2009. The 57&nbsp;[[megawatt]] [[wind farm]] consists of 38&nbsp; [[GE 1.5 MW Wind Turbine]]s strung along the north–south ridge of [[Stetson Mountain]] ({{coord|45|31|34|N|67|58|35|W |type:mountain_region:US-ME |name=Stetson Mountain}}), and will generate approximately 167&nbsp;million kilowatt-hours (kW·h) of electricity per year.  Stetson Wind Farm surpassed the Mars Hill Wind Farm as the largest wind energy project in operation in [[New England]]. <ref> {{cite web | url= http://www.renewableenergyworld.com/rea/news/article/2009/01/57-mw-stetson-wind-farm-starts-commercial-operations-in-maine-54573  
+ | title= 57-MW Stetson Wind Farm Starts Commercial Operations in Maine 
+ | date= January 23, 2009 |work= |publisher= RenewableEnergyWorld.com
+ | accessdate= 2009-03-21 }} </ref>
+In March 2009, the LURC approved First Wind's $60&nbsp;million 25.5&nbsp;MW Stetson&nbsp;II expansion. Seventeen turbines will be installed on nearby Jimmy ({{coord|45|37|48|N|67|58|47|W |type:mountain_region:US-ME |name=Jimmy Mountain}}) and Owl ({{coord|45|35|34|N|67|57|34|W |type:mountain_region:US-ME |name=Owl Mountain}}) mountains. <ref> {{cite news
+ | url= http://www.bangordailynews.com/detail/100847.html 
+ | title=  Commission OKs Stetson II wind farm 
+ | first= Nick Jr. | last= Sambides 
+ | date= March 4, 2009 | work= [[Bangor Daily News]] |publisher= 
+ | accessdate= 2009-03-21 }} </ref> 
+In September 2009, First Wind received $40.44&nbsp;million from the federal government for the Stetson&nbsp;I project; it was one of twelve grants made to wind projects under the [[American Recovery and Reinvestment Act]] stimulus program. <ref> {{cite news
+ | url= http://www.bangordailynews.com/detail/118762.html 
+ | title=  Maine wind farm gets stimulus funds 
+ | first= Nick Jr. | last= Sambides 
+ | date= September 2, 2009 | work= [[Bangor Daily News]] |publisher= 
+ | accessdate= 2009-09-04 }} </ref> . 
+
+===Rollins===. 
+In addition to the Stetson and Mars Hill projects, First Wind completed a 60 MW wind farm, with forty 1.5-MW turbines, on [[Rollins Mountain]] ({{coord|45.38724. |-68.36371 |format=dms |region:US-ME |name=Rollins Mountain}}) and other hills in the [[Penobscot County, Maine|Penobscot County]] towns of [[Lincoln, Maine|Lincoln]], [[Burlington, Maine|Burlington]], [[Lee, Maine|Lee]], and [[Winn, Maine|Winn]]. <ref>{{cite news
+ | url= http://www.nrcm.org/news_detail.asp?news=2579 
+ | title= Lincoln Announces Wind Farm Hearing 
+ | last= Sambides | first= Nick Jr. 
+ | date= 2008-08-15 |work= Bangor Daily News |publisher= 
+ | accessdate= 2008-09-04 }} </ref><ref>
+{{cite web
+ | url= http://www.lincolnmainewind.com/ 
+ | title= Rollins Wind - The Lincoln Maine Wind Project 
+ | last= Pater | first= Joe 
+ | accessdate= 2008-09-04 }} </ref>
+The estimated cost is US$&nbsp;130&nbsp;million. <ref> {{cite web
+ | url= http://www.bangordailynews.com/story/bdn/40-turbine-wind-project-under-way,156415 
+ | title= 40-turbine wind project under way 
+ | last= Sambides | first= Nick Jr. 
+ | date= 2010-10-17 |work= Bangor Daily News |publisher= 
+ | accessdate= 2010-10-20 }} </ref>  . 
+
+=== Fox Islands ===. 
+The Fox Islands Wind Power Project ({{coord|44.094. |-68.868 |format=dms |region:US-ME |name=Fox Islands, Maine}}) is a 4.5&nbsp;MW wind project consisting of three GE 1.5&nbsp;MW wind turbines, providing power for [[North Haven Island|North Haven]] and [[Vinalhaven Island]]. The $14.5&nbsp;million project is expected to produce 11,600 [[megawatt-hour]]s of electricity per year. Approved by a vote of 383–5 on July&nbsp;29, 2008 by members of the [[Fox Islands Electric Cooperative]], construction began on June&nbsp;29, 2009, and the wind farm went online on November&nbsp;17. <ref> {{cite news
+ | url= http://www.workingwaterfront.com/articles/Community-celebrates-Fox-Islands-wind-power-groundbreaking/13237/ 
+ | title= Community celebrates Fox Islands wind power groundbreaking 
+ | last= Tyler | first= David A. | year= 2009 | month= July | work= The Working Waterfront |publisher= 
+ | accessdate= 2009-07-03 }} </ref><ref> 
+{{cite news
+ | url= http://news.bostonherald.com/news/national/northeast/view/20090630vinalhaven_turbines_to_provide_enough_electricity_for_1500/srvc=home&position=recent 
+ | title= Vinalhaven turbines to provide enough electricity for 1,500 
+ | last= Curtis | first= Abigail | date= June 30, 2009 | work= Bangor Daily News |publisher= 
+ | accessdate= 2009-07-03 }} {{Dead link|date=October 2010|bot=H3llBot}} </ref><ref> 
+{{cite news 
+ | url= http://www.timesargus.com/article/20091124/NEWS02/911240345/1003/NEWS02
+ | title= Maine Islands Get Power From Wind 
+ | date= November&nbsp;17 2009 | publisher= [[Associated Press]] (AP)
+ | accessdate= 2009-11-18 }} </ref>
+The project has significantly reduced rates on the island residents, who previously imported all their power from the mainland via a [[submarine power cable]]. <ref> {{cite web
+ | url= http://www.foxislands.net/windpower/ 
+ | title= Fox Islands Electric Wind Power Project
+ |date= |year= |month= | publisher=  Fox Islands Electric
+ | accessdate= 2009-06-05 }} </ref><ref> 
+{{cite news 
+ | url= http://www.workingwaterfront.com/online-exclusives/Construction-to-start-on-Fox-Islands-wind-project/13163/ 
+ | title= Construction to start on Fox Islands wind project 
+ | last= Conkling | first= Micah 
+ | month= June |year= 2009 | work= The Working Waterfront |publisher= 
+ | accessdate= 2009-06-05 }} </ref>
+However, the noise generated by the turbines has caused considerable controversy on the island. <ref> {{cite news
+ | url= http://www.nytimes.com/2010/10/06/business/energy-environment/06noise.html 
+ | title= For Those Near, the Miserable Hum of Clean Energy 
+ | last= Zeller |first= Tom Jr. | date= October&nbsp;5, 2010 | work= [[The New York Times]] 
+ | accessdate= 2010-10-14 }} </ref> . 
+
+=== Beaver Ridge ===. 
+The 3 turbine Beaver Ridge Wind Project is located in Freedom.  It is owned and operated by Patriot Renewables and was commissioned on November 1, 2008. <ref>http://www.windpoweringamerica.gov/ne_project_detail.asp?id=50</ref> . 
+
+==Proposed Wind Projects==. 
+=== Longfellow ===. 
+First Wind proposed an installation on [[Black Mountain of Maine|Black Mountain]] ({{coord|44.5840. |-70.6376 |format=dms |region:US-ME |name=Black Mountain}}) in [[Rumford, Maine|Rumford]].   . 
+
+The Longfellow project would have 16 turbines that could produce 40&nbsp;MW of electricity, enough to power about 17,000 homes in the Northeast.  The power would be sold to the New England power grid. If the plan goes ahead, the wind turbines would be built on the west side of the mountain, away from the [[Black Mountain of Maine|Black Mountain ski area]].  . 
+
+=== Bull Hill ===. 
+A proposed 34.2 MW wind project on Bull Hill ({{coord|44.72616. |-68.16963 |format=dms |region:US-ME |name=Bull Hill}}) and adjoining hills in Maine [[Civil township#Northeastern states|Township]]&nbsp;16, MD, would be built by Blue Sky East LLC, a subsidiary of First Wind. 
+The $78.5&nbsp;million project would consist of 19 [[Vestas]] V100-1.8MW wind turbines. <ref> {{cite news
+ |url= http://bangordailynews.com/2011/10/05/energy/lurc-approves-19-turbine-wind-farm-in-hancock-county/  
+ |title= LURC approves 19-turbine wind farm in Hancock County 
+ |first= Kevin |last= Miller |date= 5 October 2011 | work= Bangor Daily News 
+ |accessdate= 13&nbsp;October 2011 }} </ref><ref> 
+{{cite web
+ |url= http://www.maine.gov/doc/lurc/projects/Windpower/FirstWind/BlueSkyEast/BlueSkyEast.html  
+ |title= First Wind - Blue Sky East LLC/Bull Hill Development Permit for Wind Energy  
+ |date= 3 October 2011 | work= |publisher= Maine Land Use Regulation Commission (LURC)
+ |accessdate= 13&nbsp;October 2011 }} </ref><ref> 
+{{cite web
+ |url= http://www.eastbrookwind.org/ 
+ |title= EastbrookWind.Org 
+ |date= 2009-04-09 | work= |publisher= 
+ |accessdate= 13&nbsp;October 2011 }} </ref> . 
+
+=== Oakfield ===. 
+A proposed 51 MW wind project in [[Oakfield, Maine|Oakfield]] ({{coord|46.10. |-68.15 |format=dms |region:US-ME |name=Oakfield, Maine}}) will consist of as many as 34 [[GE 1.5 MW Wind Turbine]]s. <ref> {{cite news
+ | url= http://www.bangordailynews.com/detail/103382.html 
+ | title= Wind power developer seeks to build in Oakfield 
+ | last= Sambides | first= Nick Jr. 
+ |date= 2009-04-09 | work= Bangor Daily News |publisher= 
+ | accessdate= 2009-05-09 }} </ref>  . 
+
+=== Deepwater Offshore wind ===. 
+The DeepCwind Consortium's <ref>[http://www.deepcwind.org Deepcwind.org]</ref> mission is to establish the State of Maine as a national leader in deepwater offshore wind technology through a research initiative funded by the U.S. Department of Energy, the National Science Foundation, and others. The University of Maine-led consortium includes universities, nonprofits, and utilities; a wide range of industry leaders in offshore design, offshore construction, and marine structures manufacturing; firms with expertise in wind project siting, environmental analysis, environmental law, composites materials to assist in corrosion-resistant material design and selection, and energy investment; and industry organizations to assist with education and tech transfer activities.  . 
+
+The Ocean Energy Institute, founded by [[Matthew Simmons]], is advocating developing wind power in the [[Gulf of Maine]]. <ref> 
+{{cite web
+ | url= http://www.oceanenergy.org/ 
+ | title= Ocean Energy Institute 
+ | year= 2008 |month= |format= |work= |publisher= 
+ | accessdate= 2008-12-15 }} </ref> 
+Simmons and his partner, physicist George Hart, propose an enormous, 5-[[gigawatt]] wind farm, with five 64&nbsp;[[nautical mile|nmi]]² (220&nbsp;km²) sections, each containing 200 5-MW turbines. 
+That would generate sufficient power in winter to replace the state's consumption of home [[heating oil]]. According to Simmons, a proponent of [[peak oil]], "If we don't do this, we're going to have to evacuate most of Maine."<ref name="iht"> {{cite news 
+ | url= http://www.iht.com/articles/2008/11/29/business/rbogmain.php 
+ | title=  Plans for the world's biggest wind farm 
+ | last= Gies | first= Erica 
+ | date= November 26, 2008 | work= [[International Herald Tribune]] |publisher= 
+ | accessdate= 2008-12-15 }} </ref>  . 
+
+As proposed, the turbines would be built on [[Floating wind turbine|floating platforms]], anchored in waters 100–200&nbsp;meters (330–660&nbsp;ft) deep — something that has never been done in the United States. It will take several years to test the feasibility of such buoyed turbines. (The [[Floating wind turbine#Hywind|Hywind]] wind turbine became the world's first operating large-capacity (2.3 MW) floating wind turbine in the summer of 2009, operating in the North Sea off Norway.)
+Hart said, "three qualities — survivability, reliability, and performance — are what investment bankers need to see before they're going to put up the large amount of capital needed". <ref name="iht"/>  . 
+
+[[Angus King]], a former [[governor of Maine]], is supportive of the idea."I see this as a huge economic development opportunity for Maine,... This thing could create 20,000 to 30,000 jobs." 
+However, others have challenged the project's projected cost, which could reach $25&nbsp;billion. <ref> {{cite news
+ | url= http://www.sunjournal.com/story/295647-3/Columnist/The_biggest_con_job_in_the_history_of_man/ 
+ | title= The biggest con job in the history of man 
+ |author= J Dwight | date= December 14, 2008 | work= [[Sun Journal (Lewiston)|''Sun Journal'']] |publisher= 
+ | accessdate= 2008-12-15 }} {{Dead link|date=October 2010|bot=H3llBot}} </ref><ref> 
+{{cite web
+ | url= http://earth2tech.com/2008/12/01/gulf-of-maine-wind-proposal-could-cost-25b/ 
+ | title= Gulf of Maine Wind Proposal Could Cost $25B 
+ | last= Fehrenbacher | first= Katie 
+ | date= December&nbsp;1, 2008 |work= |publisher= earth2tech.com
+ | accessdate= 2008-12-15 }} </ref> . 
+
+== Table of Wind Projects ==. 
+{| class="sortable wikitable" style="text-align:center;"
+! Name !! Capacity <br/> (MW) !! Number of Turbines !! Location <br/> (county) !! Status !! Developer !! Completed
+. |-
+| Mars Hill || 42 || 28 || [[Aroostook County, Maine|Aroostook]] || Operating || [[First Wind]] || 2006
+. |- 
+| Spruce Mountain || 20 || 10 || [[Oxford County, Maine|Oxford]] || Operating || [[Patriot Renewables]] || 2011
+. |- 
+| Kibby Mountain || 132 &nbsp; || 44 || [[Franklin County, Maine|Franklin]] || Operating || TransCanada || 2010
+. |- 
+| Stetson I || 57 || 38 || [[Washington County, Maine|Washington]] || Operating || First Wind || 2009
+. |- 
+| Stetson II || 25.5 || 17 || Washington || Operating || First Wind || 
+. |- 
+| Fox Islands || 4.5 || 3 || [[Knox County, Maine|Knox]] || Operating || Fox Islands Electric Cooperative || 2009
+. |- 
+| Longfellow  || 40 ||  19  || [[Oxford County, Maine|Oxford]] || Proposed || First Wind || 
+. |- 
+| Oakfield    || 51 || 34 || [[Aroostook County, Maine|Aroostook]] || Proposed || First Wind ||
+. |- 
+| Rollins || 60 ||  40  || [[Penobscot County, Maine|Penobscot]] || Operating<ref>[http://www.eia.gov/electricity/monthly/pdf/epm.pdf EIA Electric Power Montly, Oct 2011 p.13]</ref> || First Wind || 2011
+. |- 
+| Record Hill || 50.6 || 22 || [[Oxford County, Maine|Oxford]] || Operating<ref name="EIA_Feb2010">[http://www.eia.gov/electricity/monthly/pdf/epm.pdf EIA Electric Power Montly, February 2012 p.16]</ref> || [[Independence Wind]] || 2012
+. |-
+| Beaver Ridge || &nbsp; &nbsp;&nbsp; 4.5 || 3 || [[Waldo County, Maine|Waldo]] || Operating || Patriot Renewables || 2008
+. |- 
+| Bull Hill || &nbsp;&nbsp; 34.2 || 19 || [[Hancock County, Maine|Hancock County]] || Proposed || First Wind ||
+. |-class="sortbottom"
+| Total: || &nbsp;521.3
+|} . 
+
+==Canceled Proposals==. 
+=== Redington and Black Nubble ===. 
+[[File:Public Opinion Wind Farm Redington Mountain.jpg|thumb|right|Public opinion for a proposed wind farm on Redington Mountain]]
+In 2005, Maine Mountain Power (MMP) filed an application with the Maine Land Use Regulation Committee (LURC) for a permit to develop a 30-[[wind turbine|turbine]] [[wind farm]] on [[Mount Redington]] ({{coord|45|1.50|N|70|23.32|W |type:mountain_region:US-ME |name=Mount Redington}}) and neighboring [[Black Nubble (Redington Township, Maine)|Black Nubble]] ({{coord|45|1.92|N|70|26.83|W |type:mountain_region:US |name=Black Nubble}}). <ref name="mmp-facts">{{cite web
+ | url= http://www.mainemountainpower.com/GetFacts.html
+ | title= Get The Facts
+ | year= 2006 | publisher= Maine Mountain Power
+ | accessdate= 2008-08-28 }}</ref>
+After years of contentious debate, the proposal was voted down by the LURC in 2007.  The summit of Redington was seen as too ecologically sensitive — a sub-alpine fir habitat providing a home for two rare species, the [[bog lemming]] and [[Bicknell's thrush]]. Also, the development would have been visible for miles along the [[Appalachian Trail]] (AT). <ref name="crowell"> 
+{{cite news
+ | url= http://kennebecjournal.mainetoday.com/news/local/4077881.html 
+ | title= Black Nubble wind project supporters line up 
+ | last= Crowell | first= Alan 
+ | date= 2007-07-11 | work= [[Kennebec Journal]] |publisher= 
+ | accessdate= 2008-08-28 }} </ref><ref name="lurc-redington"> 
+{{cite web
+ | url= http://www.maine.gov/doc/lurc/projects/redington/Click_to_Start.htm 
+ | title= Maine Mountain Power Redington Wind Farm Application for Development
+ | publisher= Maine LURC 
+ | accessdate= 2008-08-28 }} </ref><ref name="pph-redington"> 
+{{cite news
+ | url= http://pressherald.mainetoday.com/viewpoints/editorials/060729wind.shtml
+ | title= Redington wind farm a step toward Maine's energy future 
+ | date= 2006-07-29 | work= [[Portland Press Herald]] |publisher= 
+ | accessdate= 2008-08-28 }} </ref>
+A revised proposal, for 18&nbsp;turbines only on Black Nubble, was put forward by MMP, supported by many environmental groups,<ref name="crowell"/><ref>
+{{cite web
+ | url= http://www.nrcm.org/news_detail.asp?news=1682
+ | title= Support Builds for Black Nubble Wind Farm
+ | date= 2007-07-10 | publisher= Natural Resources Council of Maine
+ | accessdate= 2008-08-28 }} </ref> but still opposed by Maine Audubon. <ref> 
+{{cite news
+ | url= http://www.maineaudubon.org/act/2007_blacknubble.shtml 
+ | title= Will you help Maine Audubon fight an uphill battle for wildlife-friendly wind power in Maine?
+ | publisher= Maine Audubon
+ | accessdate= 2008-08-28 }} </ref>
+The project was rejected by the LURC in 2008. <ref name="sentinel-nubble"> {{cite news
+ | url= http://morningsentinel.mainetoday.com/news/local/4657191.html 
+ | title= Wind project rulings issued: Panel OKs Kibby, rejects Black Nubble 
+ | date= 2008-01-15 | work= [[Morning Sentinel]] |publisher= 
+ | accessdate= 2008-08-28 }} </ref> . 
+
+==Community debate==. 
+A statewide poll in Spring 2007 by the Pan Atlantic SMS Group showed that 85% of Maine people supported wind power development. <ref name=nrcm>{{cite web |url=http://www.nrcm.org/news_detail.asp?news=3346 |title=Poll Shows Overwhelming Support for Wind Power |author= |date=November 13th, 2009 |work=NRCM }}</ref> . 
+
+A 2009 poll conducted by Portland-based Critical Insights shows that 90% of Maine people support the development of wind power as a source of electricity.  Nearly nine in ten Mainers agree that "wind power can improve energy security and reduce Maine’s dependence on fossil fuels, and eight in ten agree that wind power will produce jobs and other forms of economic benefits". <ref name=nrcm/> . 
+
+In a 2010 statewide telephone poll of 500 registered voters, 88 percent supported wind power in Maine. Calls to residents in seven rural "rim" counties, from Aroostook to Oxford, where most wind power projects are built or planned, showed 83 percent support. Survey results show that Maine residents "strongly support wind power development, chiefly because it cuts dependence on fossil fuels and creates jobs". The survey was done by Portland-based Pan Atlantic SMS Group for the Maine Renewable Energy Association. <ref>{{cite web |url=http://www.pressherald.com/news/mainers-full-of-gusto-for-wind-power-survey-finds_2010-06-29.html |title=Mainers full of gusto for wind power, survey finds |author=Tux Turkel |date=June 29, 2010 |work=Portland Press Herald }}</ref> . 
+
+However, some community opposition has arisen, expressed as litigation against mountain wind farms<ref>[http://www.bangordailynews.com/story/Penobscot/Friends-of-Lincoln-Lakes-renews-legal-challenge-to-wind-project,155022 Bangor News: Group renews legal challenge to Rollins Mountain Wind]</ref> and an ocean wind turbine  proposal,<ref>[http://www.penbay.org/monhegan/court/briefs/huber_v_bpl_responsebrief_asst_ag_090710/monh_brief_mills_09071002a.html Petition against offshore wind test areas] </ref> as civic activism,<ref>[http://www.windtaskforce.org/profiles/blogs/friends-of-ragged-mountain Friends of Ragged Mountain]</ref> and as development of municipal ordinances. <ref> [http://www.dixmontwind.org/ Dixmont Wind Ordinance]</ref>  . 
+
+==See also==. 
+*[[Wind power in the United States]]
+*[[Wind power in Texas]]
+*[[Renewable energy in the United States]] . 
+
+== References ==. 
+{{reflist}} . 
+
+== External links ==. 
+{{Commonscat}}
+*{{cite web
+ | url=  http://www.firstwind.com/projects/
+ | title= Projects | publisher= First Wind
+ | accessdate= 2008-09-04 }} . 
+
+{{Wind power in the United States}}
+{{Energy in the USA}} . 
+
+[[Category:Wind power in the United States by state|Maine]]
+[[Category:Energy resource facilities in Maine]]

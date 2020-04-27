@@ -1,0 +1,238 @@
+{{Certainty}}
+{{Atheism and Irreligion Sidebar}} . 
+
+'''Agnosticism''' is the view that the [[truth value]]s of certain claims—especially claims about the existence or non-existence of any [[deity]], but also other religious and [[Metaphysics|metaphysical]] claims—are unknown or unknowable. <ref name=Hepburn>
+{{Cite encyclopedia
+ | title=Agnosticism
+ | first=Ronald W. | last=Hepburn | authorlink=
+ | publisher=MacMillan Reference USA (Gale) | editor=Donald M. Borchert
+ | origyear=1967 | year=2005 | edition=2nd
+ | encyclopedia=[[Encyclopedia of Philosophy|The Encyclopedia of Philosophy]] | volume=Vol. 1 | page=92 | isbn=0-02-865780-2 | isbn13=9780028657806
+ | quote=In the most general use of the term, agnosticism is the view that we do not know whether there is a God or not.}}
+ (page 56 in 1967 edition)
+</ref><ref name=RoweRoutledge>
+{{cite encyclopedia
+ | url=http://books.google.ca/books?id=VQ-GhVWTH84C&pg=PA122&dq=agnosticism+routledge&hl=en&ei=huJITffyII6CsQOZ2eCkCg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCgQ6AEwAA
+ | title=Agnosticism
+ | first=William L. | last=Rowe | authorlink=William L. Rowe
+ | encyclopedia=[[Routledge Encyclopedia of Philosophy]] | isbn=978-0-415-07310-3 | publisher=Taylor & Francis | year=1998
+ | editor=Edward Craig
+ | quote=In the popular sense, an agnostic is someone who neither believes nor disbelieves in the existence of a deity or deities, whereas an [[atheist]] and a [[theist]] believe and disbelieve, respectfully. In the strict sense, however, agnosticism is the view that human reason is incapable of providing sufficient rational grounds to justify either the belief that deities do or do not exist. In so far as one holds that our beliefs are rational only if they are sufficiently supported by human reason, the person who accepts the philosophical position of agnosticism will hold that neither the belief that God exists nor the belief that God does not exist is rational.}}
+</ref>
+Agnosticism can be defined in various ways, and is sometimes used to indicate [[doubt]] or a [[Skepticism|skeptical]] approach to questions. In some senses, agnosticism is a stance about the difference between [[belief]] and [[knowledge]], rather than about any specific claim or belief.  In the popular sense, an agnostic is someone who neither believes nor disbelieves in the existence of a deity or deities, whereas a [[theist]] and an [[atheist]] believe and disbelieve, respectively. In the strict sense, however, agnosticism is the view that human reason is incapable of providing sufficient rational grounds to justify the belief that deities either do or do not exist. Within agnosticism there are [[agnostic atheism|agnostic atheists]] (who do not believe any deity exists, but do not deny it as a possibility) and [[agnostic theism|agnostic theists]] (who believe a deity exists but do not claim it as personal knowledge).  . 
+
+[[Thomas Henry Huxley]], an English biologist, coined the word ''agnostic'' in 1869. <ref>{{Cite book| last = Dixon| first = Thomas| title = Science and Religion: A Very Short Introduction| publisher = Oxford University Press| year = 2008| location = Oxford| page = 63| isbn = 978-0-19-929551-7}}</ref> However, earlier thinkers and written works have promoted agnostic points of view. They include [[Protagoras]], a 5th-century [[Before Common Era|BCE]] Greek philosopher,<ref>{{cite web |url=http://www.iep.utm.edu/p/protagor.htm |title=The Internet Encyclopedia of Philosophy - Protagoras (c. 490 - c. 420 BCE) |accessdate=2008-10-06 |quote=While the pious might wish to look to the gods to provide absolute moral guidance in the relativistic universe of the Sophistic Enlightenment, that certainty also was cast into doubt by philosophic and sophistic thinkers, who pointed out the absurdity and immorality of the conventional epic accounts of the gods. Protagoras' prose treatise about the gods began 'Concerning the gods, I have no means of knowing whether they exist or not or of what sort they may be. Many things prevent knowledge including the obscurity of the subject and the brevity of human life.' | archiveurl= http://web.archive.org/web/20081014181706/http://www.iep.utm.edu/p/protagor.htm| archivedate=2008-10-14 <!--DASHBot-->| deadurl= no}}</ref> and the [[Nasadiya Sukta]] [[creation myth]] in the [[Rig Veda]], an ancient [[Sanskrit]] text. <ref name="patri">Patri, Umesh and Prativa Devi. "[http://www.positiveatheism.org/india/s1990a22.htm Progress of Atheism in India: A Historical Perspective]". Atheist Centre 1940-1990 Golden Jubilee. Vijayawada, February 1990. Retrieved 2007-04-02. </ref> Since Huxley coined the term, many other thinkers have written extensively about agnosticism.  . 
+
+==Defining agnosticism==. 
+[[Demographic]] research services normally do not differentiate between various types of non-religious respondents so agnostics end up in the same category as [[atheism|atheists]] and/or other [[irreligion|non-religious]] people. <ref>{{cite web|url=http://adherents.com/Religions_By_Adherents.html#Nonreligious |title=Major Religions Ranked by Size |publisher=Adherents.com |date= |accessdate=2010-08-14| archiveurl= http://web.archive.org/web/20100811013003/http://www.adherents.com/Religions_By_Adherents.html| archivedate=2010-08-11 <!--DASHBot-->| deadurl= no}}</ref> Some sources use ''agnostic'' in the sense of ''noncommittal''. <ref>{{cite web|url=http://www.thefreedictionary.com/Agnostics |title=Agnostics - definition of Agnostics by the Free Online Dictionary, Thesaurus and Encyclopedia |publisher=Thefreedictionary.com |date= |accessdate=2010-08-14}}</ref> Agnosticism often overlaps with other belief systems. [[Agnostic theism|Agnostic theists]] identify themselves both as agnostics and as followers of particular religions, viewing agnosticism as a framework for thinking about the nature of belief and their relation to revealed truths. Some nonreligious people, such as author [[Philip Pullman]], identify as both agnostic and atheist. <ref>{{cite web|url=http://www.surefish.co.uk/culture/features/pullman_interview.htm |title=Interview with Philip Pullman |publisher=surefish.co.uk |date= |accessdate=2010-08-14| archiveurl= http://web.archive.org/web/20100821003331/http://www.surefish.co.uk/culture/features/pullman_interview.htm| archivedate=2010-08-21 <!--DASHBot-->| deadurl= no}}</ref> . 
+
+[[Thomas Henry Huxley]] defined the term: . 
+
+{{quote|Agnosticism is not a creed but a method, the essence of which lies in the vigorous application of a single principle... Positively the principle may be expressed as in matters of intellect, do not pretend conclusions are certain that are not demonstrated or demonstrable.}} . 
+
+===Etymology===. 
+''Agnostic'' ({{ety|grc|ἀ- (a-)|without||[[wikt:γνῶσις|γνῶσις]] (gnōsis)|knowledge}}) was used by [[Thomas Henry Huxley]] in a speech at a meeting of the Metaphysical Society in 1869<ref name=EB-Agnosticism>{{cite web|last=Antony|first=Flew|title=Agnosticism|url=http://www.britannica.com/EBchecked/topic/9356/agnosticism|work=Encyclopaedia Britannica online|accessdate=2011-12-15}}</ref>  to describe his philosophy which rejects all claims of spiritual or mystical knowledge. Early [[Christian]] church leaders used the [[Greek language|Greek]] word ''[[gnosis]]'' (knowledge) to describe "spiritual knowledge." Agnosticism is not to be confused with religious views opposing the ancient religious movement of [[Gnosticism]] in particular; Huxley used the term in a broader, more abstract sense. <ref name = "nknxjx">''American Heritage Dictionary, 2000'', under ''agnostic''</ref> Huxley identified agnosticism not as a creed but rather as a method of [[Skepticism|skeptical]], evidence-based inquiry. <ref>{{cite book|url=http://books.google.com/books?id=97DaE6BzKTsC&pg=PA41 |title=Aphorisms and Reflections |first=Henrietta A. last=Huxley|publisher=Kessinger Publishing |date=2004 (reprint) |pages=41–42|isbn=978-1-4191-0730-6}}</ref></blockquote> . 
+
+In recent years, scientific literature dealing with neuroscience and psychology has used the word to mean "not knowable". <ref>Oxford English Dictionary, Additions Series, 1993</ref> In technical and marketing literature, "agnostic" often has a meaning close to "independent"—for example, "platform agnostic" or "hardware agnostic." . 
+
+===Qualifying agnosticism===. 
+[[Scottish Enlightenment]] philosopher [[David Hume]] contended that meaningful statements about the universe are always qualified by some degree of doubt. <ref>Hume, David, "An Enquiry Concerning Human Understanding" (1748)</ref> He asserted that the fallibility of human beings means that they cannot obtain absolute certainty except in trivial cases where a statement is true by definition (i.e. [[tautology (logic)|tautologies]] such as "all bachelors are unmarried" or "all triangles have three corners"). All rational statements that assert a factual claim about the universe that begin "I believe that ...." are simply shorthand for, "Based on my knowledge, understanding, and interpretation of the prevailing evidence, I tentatively believe that...." For instance, when one says, "I believe that [[Lee Harvey Oswald]] shot [[John F. Kennedy]]," one is not asserting an absolute truth but a tentative belief based on interpretation of the assembled evidence. Even though one may set an alarm clock prior to the following day, believing that waking up will be possible, that belief is tentative, tempered by a small but finite degree of doubt (the alarm might break, or one might die before the alarm goes off).  . 
+
+The [[Catholic Church]] sees merit in examining what it calls Partial Agnosticism, specifically those systems that "do not aim at constructing a complete philosophy of the Unknowable, but at excluding special kinds of truth, notably religious, from the domain of knowledge."<ref>{{cite book |title=Agnosticism, II., |publisher=Catholic Encyclopedia |url=http://www.newadvent.org/cathen/01215c.htm}}</ref>  However, the Church is historically opposed to a full denial of the ability of human reason to know God.  The Council of the Vatican, relying on biblical [[scripture]], declares that "God, the beginning and end of all, can, by the natural light of human reason, be known with certainty from the works of creation" (Const. De Fide, II, De Rev.)<ref>{{cite book |title=Agnosticism, VIII. |publisher=Catholic Encyclopedia |url=http://www.newadvent.org/cathen/01215c.htm}}</ref> . 
+
+===Types of agnosticism===. 
+Agnosticism can be subdivided into several categories. Variations include:
+;[[Agnostic atheism]]: Agnostic atheists are atheistic because they do not have belief in the existence of any deity, and agnostic because they do not claim to know that a deity does not exist. 
+;[[Agnostic theism]]: The view of those who do not claim to ''know'' of the existence of any deity, but still ''believe'' in such an existence. 
+;[[Apatheism|Apathetic or pragmatic agnosticism]]: The view that there is no proof of either the existence or nonexistence of any deity, but since any deity that may exist appears unconcerned for the universe or the welfare of its inhabitants, the question is largely academic. <ref>{{cite web|url=http://www.religioustolerance.org/apatheism.htm|title=Ontario Consultants on Religious Tolerance: Apatheism: "Does God exist? I don't know & I don't really care"|accessdate=2010-10-01|author=B.A. Loftus}}</ref>
+;[[Ignosticism]]: The view that a coherent definition of a deity must be put forward before the question of the existence of a deity can be meaningfully discussed. If the chosen definition is not coherent, the ignostic holds the [[theological noncognitivism|noncognitivist]] view that the existence of a deity is meaningless or empirically untestable. <ref>{{cite web |url=http://www.strongatheism.net/library/atheology/argument_from_noncognitivism/ |title=The Argument From Non-Cognitivism |accessdate=2010-10-01}}</ref> [[Alfred Ayer|A.J. Ayer]], [[Theodore Drange]], and other philosophers see both atheism and agnosticism as incompatible with ignosticism on the grounds that atheism and agnosticism accept "a deity exists" as a meaningful proposition which can be argued for or against. 
+;[[Strong agnosticism]] (also called "hard," "closed," "strict," or "permanent agnosticism"): The view that the question of the existence or nonexistence of a deity or deities, and the nature of ultimate reality is unknowable by reason of our natural inability to verify any experience with anything but another subjective experience. A strong agnostic would say, "I cannot know whether a deity exists or not, and neither can you."
+;[[Weak agnosticism]] (also called "soft," "open," "empirical," or "temporal agnosticism"): The view that the existence or nonexistence of any deities is currently unknown but is not necessarily unknowable; therefore, one will withhold judgment until/if any evidence is available. A weak agnostic would say, "I don't know whether any deities exist or not, but maybe one day, when there is evidence, we can find something out."
+;[[Spiritual Agnostic]]: Agnostics who follow a devoted practice to traditionally religious spiritual practices in the absence of the knowledge of God while being irreligious.  . 
+
+==History== . 
+
+Since Huxley first used the term, several writers have defended agnosticism as a philosophical viewpoint. A number of earlier thinkers and writings have explored agnostic thought.  . 
+
+===In Hindu philosophy===. 
+The [[Rig Veda]] takes an agnostic view on the fundamental question of how the universe and the gods were created. Nasadiya Sukta (''Creation   Hymn'') in the tenth chapter of the Rig Veda says:
+{{quote|Who really knows? <br/>Who will here proclaim it? <br/>Whence was it produced? Whence is this creation? <br/>The gods came afterwards, with the creation of this universe. <br/>Who then knows whence it has arisen?}} . 
+
+Throughout the history of [[Hinduism]] there has been a   strong tradition of philosophic speculation and   skepticism. <ref>{{cite book| title=World  scriptures: an   introduction to comparative religions| first=Kramer|   last=Kenneth| isbn=978-0-8091-2781-8|year=1986|url=http://books.google.com/books?id=RzUAu-43W5oC&pg=PA34 |page=34}}</ref><ref>{{cite   web|author=Subodh Varma |  url=http://articles.timesofindia.indiatimes.com/2011-05-06/vintage-wisdom/28377203_1_vedas-philosophy-  speculation |title=The gods came afterwards |publisher=  [[Times of India]] |date= May 6, 2011|accessdate=2011-06-09}}</ref> . 
+
+===In Greek philosophy===. 
+Agnostic thought, in the form of [[Philosophical skepticism|skepticism]], emerged as a formal philosophical position in [[ancient Greece]]. Its proponents included [[Protagoras]], [[Pyrrho]], and [[Carneades]]. <ref>{{cite web|author=Gareth Southwell |url=http://www.philosophyonline.co.uk/tok/scepticism8.htm |title=Scepticism - History of Scepticism |publisher=Philosophyonline.co.uk |date= |accessdate=2010-08-14| archiveurl= http://web.archive.org/web/20100826031745/http://www.philosophyonline.co.uk/tok/scepticism8.htm| archivedate=2010-08-26 <!--DASHBot-->| deadurl= no}}</ref> Such thinkers rejected the idea that certainty was possible.  . 
+
+===Hume, Kant, and Kierkegaard===. 
+Many philosophers (following the examples of [[Aristotle]], [[Anselm of Canterbury|Anselm]], [[Aquinas]], and [[Descartes]]) presented arguments attempting to rationally prove the existence of God. The skeptical empiricism of [[David Hume]], the [[antinomy|antinomies]] of [[Immanuel Kant]], and the existential philosophy of [[Søren Kierkegaard]] convinced many later philosophers to abandon these attempts, regarding it impossible to construct any unassailable proof for the existence or non-existence of God. <ref name=RoweRoutledge-online>
+{{cite encyclopedia
+ | url=http://www.texttribe.com/routledge/A/Agnosticism.html
+ | title=Agnosticism
+ | first=William L. | last=Rowe | authorlink=William L. Rowe
+ | encyclopedia=[[Routledge Encyclopedia of Philosophy]]
+ | isbn=978-0-415-07310-3
+ | publisher=Taylor & Francis | year=1998
+ | editor=Edward Craig}}
+</ref> In his 1844 book, ''[[Philosophical Fragments]]'', Kierkegaard writes: . 
+
+{{quote|Let us call this unknown something: God. It is nothing more than a name we assign to it. The idea of demonstrating that this unknown something (God) exists, could scarcely suggest itself to Reason. For if God does not exist it would of course be impossible to prove it; and if he does exist it would be folly to attempt it. For at the very outset, in beginning my proof, I would have presupposed it, not as doubtful but as certain (a presupposition is never doubtful, for the very reason that it is a presupposition), since otherwise I would not begin, readily understanding that the whole would be impossible if he did not exist. But if when I speak of proving God's existence I mean that I propose to prove that the Unknown, which exists, is God, then I express myself unfortunately. For in that case I do not prove anything, least of all an existence, but merely develop the content of a conception. <ref>Kierkegaard, Søren. ''Philosophical Fragments''. Ch. 3</ref>}} . 
+
+===Thomas Henry Huxley===. 
+{{Main|Thomas Henry Huxley}}[[File:ThomasHenryHuxley.jpg|thumb|upright|[[Thomas Henry Huxley]]]] . 
+
+Agnostic views are as old as [[philosophical skepticism]], but the terms agnostic and agnosticism were created by Huxley to sum up his thoughts on contemporary developments of metaphysics about the "unconditioned" (Hamilton) and the "unknowable" ([[Herbert Spencer]]). It is important, therefore, to discover Huxley's own views on the matter. Though Huxley began to use the term "agnostic" in 1869, his opinions had taken shape some time before that date. In a letter of September 23, 1860, to Charles Kingsley, Huxley discussed his views extensively: . 
+
+{{quote|I neither affirm nor deny the immortality of man. I see no reason for believing it, but, on the other hand, I have no means of disproving it. I have no ''[[A priori and a posteriori (philosophy)|a priori]]'' objections to the doctrine. No man who has to deal daily and hourly with nature can trouble himself about ''a priori'' difficulties. Give me such evidence as would justify me in believing in anything else, and I will believe that. Why should I not? It is not half so wonderful as the conservation of force or the indestructibility of matter...  . 
+
+It is no use to talk to me of analogies and probabilities. I know what I mean when I say I believe in the law of the inverse squares, and I will not rest my life and my hopes upon weaker convictions...  . 
+
+That my personality is the surest thing I know may be true. But the attempt to conceive what it is leads me into mere verbal subtleties. I have champed up all that chaff about the ego and the non-ego, noumena and phenomena, and all the rest of it, too often not to know that in attempting even to think of these questions, the human intellect flounders at once out of its depth.}} . 
+
+And again, to the same correspondent, May 6, 1863: . 
+
+{{quote|I have never had the least sympathy with the [[A priori and a posteriori (philosophy)|a priori]] reasons against [[orthodoxy]], and I have by nature and disposition the greatest possible antipathy to all the atheistic and [[infidel]] school. Nevertheless I know that I am, in spite of myself, exactly what the [[Christian]] would call, and, so far as I can see, is justified in calling, atheist and infidel. I cannot see one shadow or tittle of evidence that the great unknown underlying the phenomenon of the universe stands to us in the relation of a Father [who] loves us and cares for us as Christianity asserts. So with regard to the other great Christian dogmas, immortality of soul and future state of rewards and punishments, what possible objection can I—who am compelled perforce to believe in the immortality of what we call Matter and Force, and in a very unmistakable present state of rewards and punishments for our deeds—have to these doctrines? Give me a scintilla of evidence, and I am ready to jump at them.}} . 
+
+Of the origin of the name agnostic to describe this attitude, Huxley gave the following account:<ref>{{cite book| title=Collected Essays| first=Thomas| last=Huxley| isbn= 1-85506-922-9| pages=237–239}}</ref> . 
+
+{{quote|When I reached intellectual maturity and began to ask myself whether I was an atheist, a theist, or a pantheist; a materialist or an idealist; Christian or a freethinker; I found that the more I learned and reflected, the less ready was the answer; until, at last, I came to the conclusion that I had neither art nor part with any of these denominations, except the last. The one thing in which most of these good people were agreed was the one thing in which I differed from them. They were quite sure they had attained a certain "gnosis,"–had, more or less successfully, solved the problem of existence; while I was quite sure I had not, and had a pretty strong conviction that the problem was insoluble.  . 
+
+So I took thought, and invented what I conceived to be the appropriate title of "agnostic." It came into my head as suggestively antithetic to the "gnostic" of Church history, who professed to know so much about the very things of which I was ignorant. To my great satisfaction the term took.}} . 
+
+Huxley's agnosticism is believed to be a natural consequence of the intellectual and philosophical conditions of the 1860s, when clerical intolerance was trying to suppress scientific discoveries which appeared to clash with a literal reading of the [[Book of Genesis]] and other established [[Jewish]] and [[Christian Theology|Christian]] doctrines. Agnosticism should not, however, be confused with [[natural theology]], [[deism]], [[pantheism]], or other forms of [[theism]].  . 
+
+By way of clarification, Huxley states, "In matters of the intellect, follow your reason as far as it will take you, without regard to any other consideration. And negatively: In matters of the intellect, do not pretend that conclusions are certain which are not demonstrated or demonstrable" (Huxley, ''Agnosticism'', 1889). Although [[A. W. Momerie]] has noted that this is nothing but a definition of [[honesty]], Huxley's usual definition goes beyond mere honesty to insist that these metaphysical issues are fundamentally unknowable.  . 
+
+===Robert G. Ingersoll===. 
+{{Main|Robert G. Ingersoll}}
+[[File:RobertGIngersoll.jpg|thumb|[[Robert G. Ingersoll]]]]
+Robert G. Ingersoll, an [[Illinois]] lawyer and politician who evolved into a well-known and sought-after orator in 19th century America, has been referred to as the "Great Agnostic."<ref>{{cite journal | last = Brandt | first = Eric T., and Timothy Larsen | title = The Old Atheism Revisited: Robert G. Ingersoll and the Bible | journal = Journal of the Historical Society | volume = 11 | issue = 2 | year = 2011 | pages = 211–238 | url = http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5923.2011.00330.x/abstract | doi=10.1111/j.1540-5923.2011.00330.x}}</ref> . 
+
+In an 1896 lecture titled ''Why I Am An Agnostic'', Ingersoll related why he was an agnostic: . 
+
+{{quote|Is there a supernatural power—an arbitrary mind—an enthroned God—a supreme will that sways the tides and currents of the world—to which all causes bow? I do not deny. I do not know—but I do not believe. I believe that the natural is supreme—that from the infinite chain no link can be lost or broken—that there is no supernatural power that can answer prayer—no power that worship can persuade or change—no power that cares for man.  . 
+
+I believe that with infinite arms Nature embraces the all—that there is no interference—no chance—that behind every event are the necessary and countless causes, and that beyond every event will be and must be the necessary and countless effects.  . 
+
+Is there a God? I do not know. Is man immortal? I do not know. One thing I do know, and that is, that neither hope, nor fear, belief, nor denial, can change the fact. It is as it is, and it will be as it must be.}} . 
+
+In the conclusion of the speech he simply sums up the agnostic position as: . 
+
+{{quote|We can be as honest as we are ignorant. If we are, when asked what is beyond the horizon of the known, we must say that we do not know.}} . 
+
+===Bertrand Russell===. 
+{{Main|Bertrand Russell}}
+[[File:Russell1907-2.jpg|thumb|upright|[[Bertrand Russell]]]] . 
+
+[[Bertrand Russell]]'s [[pamphlet]], ''[[Why I Am Not a Christian]]'', based on a speech delivered in 1927 and later included in a book of the same title, is considered a classic statement of agnosticism. The essay briefly lays out Russell’s objections to some of the [[arguments for the existence of God]] before discussing his moral objections to Christian teachings. He then calls upon his readers to "stand on their own two feet and look fair and square at the world," with a "fearless attitude and a free intelligence." . 
+
+In 1939, Russell gave a lecture on ''The existence and nature of God'', in which he characterized himself as an atheist. He said: . 
+
+{{quote|The existence and nature of God is a subject of which I can discuss only half. If one arrives at a negative conclusion concerning the first part of the question, the second part of the question does not arise; and my position, as you may have gathered, is a negative one on this matter. <ref>{{cite book| last=Russell| first= Bertrand| title=Collected Papers, Vol 10| page=255}}</ref>}} . 
+
+However, later in the same lecture, discussing modern non-anthropomorphic concepts of God, Russell states: . 
+
+{{quote|That sort of God is, I think, not one that can actually be disproved, as I think the omnipotent and benevolent creator can. <ref>''Collected Papers, Vol. 10'', p.258</ref>}} . 
+
+In Russell's 1947 pamphlet, ''Am I An Atheist Or An Agnostic?'' (subtitled ''A Plea For Tolerance In The Face Of New Dogmas''), he ruminates on the problem of what to call himself: . 
+
+{{quote|As a philosopher, if I were speaking to a purely philosophic audience I should say that I ought to describe myself as an Agnostic, because I do not think that there is a conclusive argument by which one can prove that there is not a God.  . 
+
+On the other hand, if I am to convey the right impression to the ordinary man in the street I think I ought to say that I am an Atheist, because when I say that I cannot prove that there is not a God, I ought to add equally that I cannot prove that there are not the [[Homeric]] gods.}} . 
+
+In his 1953 essay, ''What Is An Agnostic?'' Russell states: . 
+
+{{quote|An agnostic thinks it impossible to know the truth in matters such as God and the future life with which Christianity and other religions are concerned. Or, if not impossible, at least impossible at the present time.}} . 
+
+However, later in the essay, Russell says: . 
+
+{{quote|I think that if I heard a voice from the sky predicting all that was going to happen to me during the next twenty-four hours, including events that would have seemed highly improbable, and if all these events then produced to happen, I might perhaps be convinced at least of the existence of some superhuman intelligence.}} . 
+
+===Leslie Weatherhead=== . 
+
+{{Wikiquote|The Christian Agnostic}} . 
+
+In 1965 Christian theologian [[Leslie Weatherhead]] published ''The Christian Agnostic'', in which he argues: . 
+
+{{quote|...many professing agnostics are nearer belief in the true God than are many conventional church-goers who believe in a body that does not exist whom they miscall God.}} . 
+
+Although radical and unpalatable to conventional theologians, Weatherhead's ''agnosticism'' falls far short of Huxley's, and short even of ''weak agnosticism'': . 
+
+{{quote|Of course, the human soul will always have the power to reject God, for choice is essential to its nature, but I cannot believe that anyone will finally do this.}} . 
+
+==Demographics==. 
+In the ''U.S. Religious Landscape Survey'', conducted by the [[Pew Research Center]], 55% of agnostic respondents expressed "a belief in God or a universal spirit."<ref name="Demographics1">{{cite web|url = http://religions.pewforum.org/pdf/report2religious-landscape-study-key-findings.pdf| title = Summary of Key Findings|year=2011|publisher = [[Pew Research Center]]|accessdate =2011-12-28|quote= Nearly all adults (92%) say they believe in God or a universal spirit, including seven-in-ten of the unaffiliated. Indeed, one-in-five people who identify themselves as atheist (21%) and a majority of those who 
+identify themselves as agnostic (55%) express a belief in God or a universal spirit.}}</ref> 41%, however, stated that they thought that they felt a tension "being non-religious in a society where most people are religious."<ref name="Demographics2">{{cite web|url = http://religions.pewforum.org/pdf/report2religious-landscape-study-key-findings.pdf| title = Summary of Key Findings|year=2011|publisher = [[Pew Research Center]]|accessdate =2011-12-28|quote=Interestingly, a substantial number of adults who are not affiliated with a religion also sense that there is a conflict between religion and modern society – except for them the conflict involves being non-religious in a society where most people are religious. For instance, more than four-inten atheists and agnostics (44% and 41%, respectively) believe that such a tension exists.}}</ref> . 
+
+==Criticism==. 
+Agnosticism is criticized from a variety of standpoints. Some religious thinkers see agnosticism as a limitation of the mind's capacity to know reality other than [[materialism]]. Some atheists criticize the use of the term ''agnosticism'' as functionally indistinguishable from atheism.  . 
+
+===Religious===. 
+Many theistic thinkers repudiate the validity of agnosticism, or certain forms of agnosticism.  Religious scholars in the three [[Abrahamic religions]] affirm the possibility of knowledge, even of metaphysical realities such as God and the soul,<ref>Shed Muhammad Naquib Al-Attas, [http://www.pdcnet.org/pdf/jip1-Naquib%20al-Attas.pdf Journal of Islamic Philosophy], p 21-22. </ref> because human intelligence, they assert, has a non-material, [[Spirituality|spiritual]] element.  They affirm that “not being able to see or hold some specific thing does not necessarily negate its existence,” as in the case of [[gravity]], [[entropy]], or [[reason]] and [[thought]].  . 
+
+Religious scholars, such as Brown, Tacelli, and Kreeft, argue that agnosticism does not take into account the numerous evidence of his existence that God has placed in his creation. <ref name=Islamrel>{{cite web | url=http://www.islamreligion.com/articles/641/| title=Religion of Islam: Agnosticism| author=Laurence B. Brown| year=2007 | accessdate=2008-05-25| archiveurl= http://web.archive.org/web/20080516213903/http://www.islamreligion.com/articles/641/| archivedate=2008-05-16 <!--DASHBot-->| deadurl= no}}</ref> And for this, [[Peter Kreeft]] and Ronald Tacelli cite 20 arguments for God’s existence. <ref>[http://www.peterkreeft.com/topics-more/20_arguments-gods-existence.htm Twenty Arguments for the Existence of God], from the ''Handbook of Christian Apologetics'' by Peter Kreeft and Fr. Ronald Tacelli, SJ, Intervarsity Press, 1994. </ref> They assert that agnosticism's demand for scientific evidence through laboratory testing is in effect asking God, the supreme being, to become man’s servant. <ref name=JON>{{cite book| title=Jesus of Nazareth| first=Joseph| last=Ratzinger|publisher=Random House|year=2007}}</ref> They argue that the question of God should be treated differently from other knowable objects in that "this question regards not that which is below us, but that which is above us."<ref name=YOJC/> Christian Philosopher [[Blaise Pascal]] argued that, even if there were truly no evidence for God, agnostics should consider what is now known as [[Pascal’s Wager]]: the [[infinite]] expected value of acknowledging God is always greater than the finite expected value of not acknowledging his existence, and thus it is a safer “bet” to choose God. <ref name=PKPW/> . 
+
+According to [[Joseph Ratzinger]], later [[Pope Benedict XVI]], agnosticism, more specifically strong agnosticism, is reasoning that limits and contradicts itself in claiming the power of reason to know scientific [[truth]], but not religious or philosophical truths. <ref name=YOJC/><ref name=TT/>  He blames the exclusion of reasoning from religion and ethics for the dangerous pathologies of religion and science such as human and ecological disasters. <ref name=YOJC>{{cite book| title=The Yes of Jesus Christ: Spiritual Exercises in Faith, Hope, and Love| first=Joseph| last=Ratzinger|publisher=Cross Roads Publishing|year=2005}}</ref><ref name=TT>{{cite book| title=Truth and Tolerance: Christian Belief And World Religions| first=Joseph| last=Ratzinger|publisher=Ignatius Press|year=2004}}</ref><ref>Benedict XVI, [http://www.zenit.org/article-16955?l=english Address at the University of Regensburg 2006]</ref> “Agnosticism,” said Ratzinger, “is always the fruit of a refusal of that knowledge which is in fact offered to man [...] The knowledge of God has always existed.”<ref name=TT/> He asserted that agnosticism is a choice of comfort, pride, dominion, and utility over truth, and is opposed by the following attitudes: the keenest self-criticism, humble listening to the whole of existence, the persistent patience and self-correction of the [[scientific method]], a readiness to be purified by the truth. <ref name=YOJC/> . 
+
+According to some theistic scholars, agnosticism is impossible in actual practice, since a person can live only either as if God did not exist (''etsi Deus non daretur''), or as if God did exist (''etsi Deus daretur''). <ref name=SM/><ref name=FF>{{cite web | url=http://www.faithfacts.org/search-for-truth/questions-of-christians/why-cant-I-live-my-life-as-an-agnostic| title=Why can’t I live my life as an agnostic?| year=2007 | accessdate=2008-05-25| archiveurl= http://web.archive.org/web/20080516211947/http://www.faithfacts.org/search-for-truth/questions-of-christians/why-cant-I-live-my-life-as-an-agnostic| archivedate=2008-05-16 <!--DASHBot-->| deadurl= no}}</ref><ref name=CCC>{{cite book| title=Christianity and the Crisis of Cultures| first=Joseph| last=Ratzinger| isbn= 978-1-58617-142-1|publisher=Ignatius Press|year=2006}}</ref>  These scholars believe that each day in a person’s life is an unavoidable step towards death, and thus not to decide for or against God, whom they view as the all-encompassing foundation, [[wikt:purpose|purpose]], and [[meaning of life]], is to decide in favor of [[atheism]]. <ref name=PKPW>{{cite web | url=http://www.peterkreeft.com/topics/pascals-wager.htm| title=Argument from Pascal's Wager| year=2007 | accessdate=2008-05-25| archiveurl= http://web.archive.org/web/20080605044148/http://peterkreeft.com/topics/pascals-wager.htm| archivedate=2008-06-05 <!--DASHBot-->| deadurl= no}}</ref><ref name=SM>{{cite web |url=http://chiesa.espresso.repubblica.it/articolo/125081?eng=y| title=Habermas writes to Ratzinger and Ruini responds| author=Sandro Magister| year=2007 | accessdate=2008-05-25}}</ref> . 
+
+===Atheist===. 
+According to [[Richard Dawkins]], a distinction between agnosticism and atheism is unwieldy and depends on how close to zero we are willing to rate the probability of existence for any given god-like entity. Since in practice it is not worth contrasting a zero probability with one that is nearly indistinguishable from zero, he prefers to categorize himself as a "de facto atheist". He specifies his position by means of a scale of 1 to 7. On this scale, 1 indicates "100 per cent probability of God." A person ranking at 7 on the scale would be a person who says "I know there is no God..." Dawkins places himself at 6 on the scale, which he characterizes as "I cannot know for certain but I think God is very improbable, and I live my life on the assumption that he is not there", but leaning toward 7. About himself, Dawkins continues that "I am agnostic only to the extent that I am agnostic about fairies at the bottom of the garden."<ref>''[[The God Delusion]]'' p.&nbsp;74</ref>  Dawkins also identifies two categories of agnostics; ''Temporary Agnostics in Practice'' (TAPs), and ''Permanent Agnostics in Principle'' (PAPs).  Dawkins considers temporary agnosticism an entirely reasonable position, but views permanent agnosticism as "fence-sitting, intellectual cowardice."<ref>''[[The God Delusion]]'' p.&nbsp;70</ref> . 
+
+==See also==. 
+{{Portal|Atheism}}
+<div style="column-count:2;-moz-column-count:2;-webkit-column-count:2">
+*''[[Asimov's Guide to the Bible]]''
+*[[Apatheism]]
+*[[Existentialism]]
+*[[Ietsism]]
+*[[Laïcité]]
+*[[List of agnostics]]
+*[[Possibilianism]]
+*[[Rationalism]]
+*[[Relativism]]
+*[[Religiosity]]
+*[[Religious skepticism]]
+*[[Russell's teapot]]
+*[[Skepticism]]
+*[[Wealth and agnosticism]]
+</div> . 
+
+==Notes==. 
+{{Reflist|2}} . 
+
+==References==. 
+{{refbegin}}
+*Robert E. Lee (1889) ''[http://books.google.ca/books?id=qd8feB0LiOcC&lpg=PA164&dq=Agnosticism&pg=PA164#v=onepage&q&f=true Agnosticism]'' ISBN 1-4400-6878-X
+* Robin Le Poidevin, (2010) ''[http://books.google.ca/books?id=OGwIcryv5CkC&lpg=PP1&dq=%2C%20Agnosticism%3A%20A%20Very%20Short%20Introduction&pg=PP1#v=onepage&q&f=true Agnosticism: A Very Short Introduction]'', [[Oxford University Press]], ISBN 978-0-19-957526-8
+* Thomas Huxley, (1919) ''[http://books.google.ca/books?id=UJwfDYDJ-v0C&lpg=PP1&dq=Man's%20Place%20In%20Nature'&pg=PP1#v=onepage&q&f=true Man's Place In Nature]'', ISBN 0-375-75847-X
+* Bertrand Russell, (1779–2009) ''[http://users.drew.edu/~jlenz/whynot.html Why I Am Not a Christian]'', ISBN 0-671-20323-1
+* David Hume,  ''[http://books.google.ca/books?id=mlAJAAAAQAAJ&dq=Dialogues%20Concerning%20Natural%20Religion&pg=PP1#v=onepage&q&f=true Dialogues Concerning Natural Religion]'', ISBN 0-14-044536-6
+* Immanuel Kant, ''[http://arts.cuhk.edu.hk/Philosophy/Kant/cpr/ Critique of Pure Reason]'', ISBN 1-4039-1195-9
+* Søren Kierkegaard, ''[http://www.religion-online.org/showbook.asp?title=2512 Philosophical Fragments]'', ISBN 978-0-691-02036-5
+* A. J. Ayer, ''[http://vif2ne.ru/nvz/forum/files/Putt/(090310102202)_ayer.pdf Language, Truth, and Logic]'', ISBN 0-486-20010-8
+* George H. Smith, ''[http://www.andrew.cmu.edu/user/jksadegh/A%20Good%20Atheist%20Secularist%20Skeptical%20Book%20Collection/George%20H.%20Smith%20-%20Atheism-%20The%20Case%20Against%20God%20%28v1.1%29.pdf Atheism, the Case Against God]'', ISBN 0-87975-124-X
+{{refend}} . 
+
+==External links==. 
+{{Wiktionary}}
+{{wikiquote}}
+{{Wikisource1911Enc}}
+* [http://www.positiveatheism.org/hist/russell0.htm Why I am Not a Christian] by Bertrand Russell (March 6, 1927). 
+* [http://www.agnosticuniverse.org/ingersoll-why_i_am_an_agnostic.html Why I Am An Agnostic] by Robert G. Ingersoll, [1896]. 
+* ''[http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-03 Dictionary of the History of Ideas]'': Agnosticism
+* [http://plato.stanford.edu/entries/atheism-agnosticism/ Stanford Encyclopedia of Philosophy entry]
+* [http://www.disf.org/en/Voci/1.asp Agnosticism from INTERS - Interdisciplinary Encyclopedia of Religion and Science]
+* [http://www.religioustolerance.org/agnostic.htm Agnosticism] - from [http://www.religioustolerance.org/ ReligiousTolerance.org]
+* [http://www.chabad.org/library/article_cdo/aid/68831/jewish/What-do-Agnostics-Believe.htm What do Agnostics Believe? - A Jewish perspective]
+* [[Fides et Ratio]] [http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_15101998_fides-et-ratio_en.html ''&nbsp;– the relationship between faith and reason''] [[Karol Wojtyla]] [1998]
+*For a utilitarian analysis of religion, see ''The (F)Utility of Religion: Who Needs God(s)?–A Prospective Bible for Non-Believers'' at http://bradmusil.kramernet.org
+* [http://www.thenaturalreligion.org The Natural Religion] by Dr Brendan Connolly, 2008
+* {{Cite encyclopedia |url=http://xtf.lib.virginia.edu/xtf/view?docId=DicHist/uvaBook/tei/DicHist1.xml;chunk.id=dv1-03;toc.depth=1;toc.id=dv1-03;brand=default |first=Kai |last=Nielsen |title= Agnosticism |encyclopedia=Dictionary of the History of Ideas |publisher=University of Virginia Library |year=1968, 1973}}
+{{agnosticism}}
+{{philosophy of religion}} . 
+
+[[Category:Agnosticism| ]]
+[[Category:Criticism of religion]]
+[[Category:Disengagement from religion]]
+[[Category:Epistemological theories]]
+[[Category:Secularism]]

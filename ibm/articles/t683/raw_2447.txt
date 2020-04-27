@@ -1,0 +1,246 @@
+[[File:DanishWindTurbines.jpg|thumb|Offshore wind turbines near [[Copenhagen]]]]
+'''Alternative energy''' is an [[umbrella term]] that refers to any source of usable [[energy]] intended to replace fuel sources without the undesired consequences of the replaced fuels. <ref>[http://www.icax.co.uk/alternative_energy.html On site renewable energy options]</ref> . 
+
+The term "alternative" presupposes a set of undesirable energy technologies against which "alternative energies" are contrasted.  As such, the list of energy technologies excluded is an indicator of which problems the alternative technologies are intended to address.  Controversies regarding dominant sources of energy and their alternatives have a long history.  The nature of what was regarded alternative energy sources has changed considerably over time, and today, because of the variety of energy choices and differing goals of their advocates, defining some energy types as "alternative" is highly controversial.  . 
+
+In a general sense in contemporary society, alternative energy is that which is produced without the undesirable consequences of the burning of [[fossil fuel]]s, such as high [[carbon dioxide]] emissions, which is considered to be the major contributing factor of [[global warming]] according to the [[Intergovernmental Panel on Climate Change]].  Sometimes, this less comprehensive meaning of "alternative energy" excludes [[Nuclear power|nuclear energy]] (e.g. as defined in the Michigan Next Energy Authority Act of 2002). <ref>{{Cite web
+  | url=http://www.legislature.mi.gov/(S(j330pfzek1l2av2zkh3pxa55))/mileg.aspx?page=GetMCLDocument&objectname=mcl-207-822
+  | title=MICHIGAN NEXT ENERGY AUTHORITY ACT (EXCERPT) Act 593 of 2002
+  | publisher= [[Michigan Legislature]]
+  | accessdate=2008-12-14
+}}</ref> . 
+
+==Definitions==. 
+{{Clear}}
+{| class="wikitable"
+. |-a**
+! Source
+! Definition
+. |-
+| Oxford Dictionary
+| energy fuelled in ways that do not use up natural resources or harm the environment. <ref>[http://www.askoxford.com/concise_oed/alternativeenergy?view=uk Concise OED Alternative Energy]. Accessed May 2, 2008. </ref>
+. |-
+| Princeton WordNet
+| energy derived from sources that do not use up natural resources or harm the environment. <ref>WordNet. [http://wordnet.princeton.edu/perl/webwn?s=alternative%20energy Alternative Energy entry]. </ref>
+. |-
+| Responding to Climate Change 2007
+| energy derived from nontraditional sources (e.g., compressed natural gas, solar, hydroelectric, wind). <ref>RICC 2007. [http://www.rtcc.org/2007/html/glossary.html Term Glossary]. </ref>
+. |-
+| Natural Resources Defense Council
+| energy that is not popularly used and is usually environmentally sound, such as solar or wind energy (as opposed to fossil fuels). <ref>NRDC. [http://www.nrdc.org/reference/glossary/a.asp Glossary]. </ref>
+. |-
+| Materials Management Services
+| Fuel sources that are other than those derived from fossil fuels. Typically used interchangeably for [[renewable energy]]. Examples include: wind, solar, biomass, wave and tidal energy. <ref>MMS. [http://www.mms.gov/offshore/RenewableEnergy/Definitions.htm Definitions]. </ref>
+. |-
+| [[Torridge]] District Council
+| Energy generated from alternatives to fossil fuel. Need not be renewable. <ref>Torridge District Council. [http://www.torridge.gov.uk/onlineplan/written/cpt28.htm TDLP PART 1 - GLOSSARY]. </ref>
+|} . 
+
+==History==. 
+Historians of economies have studied the key transitions to alternative energies and regard the transitions as pivotal in bringing about significant economic change. <ref>{{Cite journal
+  | url=http://gpih.ucdavis.edu/files/Clark_Jacks.pdf
+  | title=Coal and the Industrial Revolution, 1700-1869
+  |format=pdf
+  | date=2007-04
+  | work=European Review of Economic History
+  |author=Gregory Clark ([[University of California, Davis]], Economics)
+  |coauthor=David Jacks ([[Simon Fraser University]], Economics)
+  | publisher= European Historical Economics Society
+  | accessdate=2008-12-14
+  | laysummary=http://journals.cambridge.org/action/displayAbstract;jsessionid=7566E868990CBC32864A173F995517C0.tomcat1?fromPage=online&aid=967532
+  |authorsep=http://www.econ.ucdavis.edu/faculty/gclark/research.html
+}} Clark and Jacks specifically refer to 18th century "alternative energy"</ref><ref>{{Cite journal
+  | url=http://www.cfa-international.org/Trees%20and%20Woods%20by%20R%20White.doc
+  | title=Trees and Woods: Myths and Realities
+  | work=Lecture: The Essential Role of Forests and Wood in the Age of Iron
+  |format=doc
+  | date=2006-05-13
+  |author=Dr Roger White, Institute of Archaeology and Antiquity, [[University of Birmingham]]
+  | publisher= Commonwealth Forestry Association
+  | accessdate=2008-12-14
+}} Note: Dr. White specifically refers to coal as a 17th century alternative fuel in this paper. </ref><ref>{{Cite journal
+  | url=http://www.hubbertpeak.com/Reynolds/EnergyGrades.htm
+  | title=Energy Grades and Historic Economic Growth
+  |format=doc
+  |author=Dr. Douglas B. Reynolds (economics)
+  | publisher= Hubbert Peak of Oil Production website
+  | accessdate=2008-12-14
+  |authorsep=http://www.hubbertpeak.com/Reynolds/
+}}</ref>  Prior to shift to an alternative energy, supplies of the dominant energy type became erratic, accompanied by rapid increases in energy prices.  . 
+
+===Coal as an alternative to wood===. 
+Historian [[Norman F. Cantor]] describes how in the late medieval period, coal was the new alternative fuel to save the society from overuse of the dominant fuel, wood:
+:"Europeans had lived in the midst of vast forests throughout the earlier medieval centuries. After 1250 they became so skilled at deforestation that by 1500 AD they were running short of wood for heating and cooking... By 1500 Europe was on the edge of a fuel and nutritional disaster, [from] which it was saved in the sixteenth century only by the burning of soft coal and the cultivation of potatoes and maize. "<ref>{{Cite book
+  | title=The Civilization of the Middle Ages: The Life and Death of a Civilization
+  | author=[[Norman F. Cantor]]
+  |year=1993
+  | page =564
+  | publisher= Harper Collins
+  | isbn=978-0-06-092553-6
+}}</ref> . 
+
+===Petroleum as an alternative to whale oil===. 
+[[Whale oil]] was the dominant form of lubrication and fuel for lamps in the early 19th century, but the [[History of whaling|depletion of the whale stocks]] by mid century caused whale oil prices to skyrocket setting the stage for the adoption of petroleum which was first commercialized in [[Titusville, Pennsylvania|Pennsylvania]] in 1859. <ref>{{Cite web
+  | url=http://www.whalingmuseum.org/library/old_nb/old_nb_index.html
+  | title=From Old Dartmouth to New Bedford, Whaling Metropolis of the World
+  | publisher= Old Dartmouth Historical Society
+  | accessdate=2008-12-14
+}}</ref> . 
+
+===Alcohol as an alternative to fossil fuels===. 
+{{Main|Ethanol fuel}}
+In 1917, [[Alexander Graham Bell]] advocated [[ethanol]] from corn, wheat and other foodstuffs as an alternative to coal and oil, stating that the world was in measurable distance of depleting these fuels.  For Bell, the problem requiring an alternative was lack of renewability of orthodox energy sources. <ref>{{Cite book
+  | url= http://books.google.com/?id=qBYSAAAAYAAJ
+  | title=Prizes for the Inventor: Some of the Problems Awaiting Solution
+  | author=[[Alexander Graham Bell]]
+  | work=The National Geographic Magazine
+  | publisher= National Geographic Society
+  | year=1917
+  | page=133
+  | accessdate=2008-12-14
+  |laysummary=http://books.google.com/books?id=qBYSAAAAYAAJ&pg=RA1-PA133&lpg=RA1-PA133&dq=%22the+world's+annual+consumption+has+become+so+enormous+that+we+are+now+actually+within+measurable+distance+of+the+end+of+the+supply%22&source=web&ots=FC2JKyG56h&sig=BXUR15cVoqpo_G5nsYBwOXE1hQU&hl=en&sa=X&oi=book_result&resnum=1&ct=result#PRA1-PA132,M1 |quote= In relation to coal and oil, the world's annual consumption has become so enormous that we are now actually within measurable distance of the end of the supply.  What shall we do when we have no more coal or oil! .... There is, however, one other source of fuel supply which may perhaps this problem of the future.  Alcohol makes a beautiful, clean and efficient fuel, and where not intended for human consumption can be manufactured very cheaply from corn stalks and in fact from almost any vegetable matter capable of fermentation. 
+}}</ref> Since the 1970s, [[Ethanol fuel in Brazil|Brazil has had an ethanol fuel program]] which has allowed the country to become the world's second largest producer of [[ethanol]] (after the United States) and the world's largest exporter. <ref name="RFA1E">{{Cite web|url=http://www.ethanolrfa.org/industry/statistics/#E|title=Industry Statistics: Annual World Ethanol Production by Country|publisher=Renewable Fuels Association|date= |accessdate=2008-05-02|language= |archiveurl = http://web.archive.org/web/20080408091334/http://www.ethanolrfa.org/industry/statistics/#E <!-- Bot retrieved archive --> |archivedate = 2008-04-08}}</ref> Brazil’s ethanol fuel program uses modern equipment and cheap [[sugar cane]] as feedstock, and the residual cane-waste ([[bagasse]]) is used to process heat and power. <ref name= "MLA_2004">{{Cite web|url=http://www.eners.ch/plateforme/medias/macedo_2004.pdf |author= Macedo Isaias, M. Lima Verde Leal and J. Azevedo Ramos da Silva|title= Assessment of greenhouse gas emissions in the production and use of fuel ethanol in Brazil|publisher=Secretariat of the Environment, Government of the State of São Paulo|year=2004|accessdate=2008-05-09|language=|format=PDF}} {{Dead link|date=November 2010|bot=H3llBot}}</ref> There are no longer light vehicles in Brazil running on pure gasoline. By the end of 2008 there were 35,000 filling stations throughout Brazil with at least one ethanol pump. <ref name="Wilson">{{Cite web|url=http://www.wilsoncenter.org/topics/pubs/Brazil_SR_e3.pdf|title=Brazil Institute Special Report: The Global Dynamics of Biofuels|author=Daniel Budny and Paulo Sotero, editor|publisher=Brazil Institute of the Woodrow Wilson Center|date= 2007-04|accessdate=2008-05-03|language=|format=PDF}}</ref> . 
+
+[[Cellulosic ethanol]] can be produced from a diverse array of feedstocks, and involves the use of the whole crop.  This new approach should increase yields and reduce the [[carbon footprint]] because the amount of energy-intensive fertilizers and fungicides will remain the same, for a higher output of usable material. <ref>[http://news.bbc.co.uk/2/hi/science/nature/5353118.stm Biofuels look to the next generation]</ref><ref name=cellu>[http://www.eesi.org/021207_Cellulosic_Ethanol Cellulosic Ethanol: Not Just Any Liquid Fuel]</ref> As of 2008, there are nine [[cellulosic ethanol commercialization|commercial cellulosic ethanol plants]] which are either operating, or under construction, in the United States. <ref>[http://www.grainnet.com/pdf/cellulosemap.pdf Building Cellulose]</ref> . 
+
+[[Second-generation biofuels]] technologies are able to manufacture biofuels from inedible biomass and could hence prevent conversion of food into fuel." <ref>[http://www.bioenergywiki.net/Second-generation_biofuels bioenergywiki.net:Second-generation biofuels]</ref> As of July 2010, there is one commercial second-generation (2G) ethanol plant [[Inbicon|Inbicon Biomass Refinery]], which is operating in Denmark. <ref>[http://www.inbicon.com/About_inbicon/News/Data/Pages/All_systems_go_at_world%E2%80%99s_largest_cellulosic_ethanol_plant.aspx  Inbicon - about the plant]</ref> . 
+
+===Coal gasification as an alternative to petroleum===. 
+In the 1970s, President [[Jimmy Carter]]'s administration advocated [[coal gasification]] as an alternative to expensive imported oil.  The program, including the [[Synthetic Fuels Corporation]] was scrapped when petroleum prices plummeted in the 1980s. The carbon footprint and environmental impact of [[coal gasification]] are both very high.  . 
+
+==Common types of alternative energy== . 
+
+===Solar energy===. 
+[[Solar energy]] is generating of electricity from the sun. It is split up into two types, thermal and electric energy. These two subgroups mean that they heat up homes (and water) and generate electricity respectively.  . 
+
+===Wind energy===. 
+[[Wind energy]] is generating of electricity from the wind.  . 
+
+===Geothermal energy===. 
+[[Geothermal energy]] is using hot water or steam from the Earth’s interior for heating buildings or electricity generation. 
+===Biofuel and ethanol===. 
+[[Biofuel]] and [[ethanol]] are plant-derived substitutes of gasoline for powering vehicles.  . 
+
+===Hydrogen===. 
+[[Hydrogen]] is used as clean fuel for airplanes, spaceships, and vehicles. <BR> . 
+
+==Renewable energy vs non-renewable energy==. 
+{{Main|Renewable energy}}
+Renewable energy is generated from [[natural resource]]s—such as [[sunlight]],<ref>Including [[solar energy|solar]] and [[radiant energy]]. </ref> [[wind]], [[rain]], [[tidal energy|tides]] and [[geothermal energy|geothermal heat]]—which are renewable (naturally replenished).  When comparing the processes for producing energy, there remain several fundamental differences between renewable energy and fossil fuels.  The process of producing oil, coal, or natural gas fuel is a difficult and demanding process that requires a great deal of complex equipment, physical and chemical processes. On the other hand, alternative energy can be widely produced with basic equipment and naturally basic processes.  Wood, the most renewable and available alternative energy, burns the same amount of carbon it would emit if it degraded naturally. <ref>http://www.whichwoodburningstoves.co.uk</ref> . 
+
+===Ecologically friendly alternatives===. 
+Renewable energy sources such as [[biomass]] are sometimes regarded as an alternative to ecologically harmful fossil fuels.  Renewables are not inherently alternative energies for this purpose.  For example, the [[Netherlands]], once leader in use of [[palm oil]] as a biofuel, has suspended all subsidies for palm oil due to the scientific evidence that their use "may sometimes create more environmental harm than fossil fuels". <ref name=pal>{{Cite journal
+  | url= http://www.nytimes.com/2007/01/31/business/worldbusiness/31biofuel.html
+  | title=Once a Dream Fuel, Palm Oil May Be an Eco-Nightmare
+  | author=Elisabeth Rosenthal
+  | publisher= [[New York Times]]
+  | date=2007-01-31
+  | accessdate=2008-12-14
+}}</ref> The Netherlands government and environmental groups are trying to trace the origins of imported palm oil, to certify which operations produce the oil in a responsible manner. <ref name=pal/> Regarding biofuels from foodstuffs, the realization that converting the entire grain harvest of the US would only produce 16% of its auto fuel needs, and the decimation of Brazil's {{CO2}} absorbing tropical rain forests to make way for biofuel production has made it clear that placing energy markets in competition with food markets results in higher food prices and insignificant or negative impact on energy issues such as global warming or dependence on foreign energy. <ref>{{Cite journal|url=http://www.earth-policy.org/Transcripts/SenateEPW07.htm|author=[[Lester R. Brown]]|title=Biofuels Blunder:Massive Diversion of U.S. Grain to Fuel Cars is Raising World Food Prices, Risking Political Instability|work=Testimony before [[U.S. Senate Committee on Environment and Public Works]]|date=2007-06-13|accessdate=2008-12-20}}</ref>  Recently, alternatives to such undesirable sustainable fuels are being sought, such as commercially viable sources of cellulosic ethanol.  . 
+
+==Relatively new concepts for alternative energy==. 
+===Algae fuel===. 
+[[Algae fuel]] is a [[biofuel]] which is derived from algae. During photosynthesis, algae and other photosynthetic organisms capture carbon dioxide and sunlight and convert it into oxygen and biomass. The benefits of algal biofuel are that it can be produced industrially, thereby obviating the use of arable land and food crops (such as soy, palm, and canola), and that it has a very high oil yield as compared to all other sources of biofuel.  . 
+
+===Biomass briquettes===. 
+[[Biomass briquettes]] are being developed in the developing world as an alternative to charcoal.  The technique involves the conversion of almost any plant matter into compressed briquettes that typically have about 70% the calorific value of charcoal.  There are relatively few examples of large scale briquette production. One exception is in North Kivu, in eastern [[Democratic Republic of Congo]], where forest clearance for charcoal production is considered to be the biggest threat to Mountain Gorilla habitat.  The staff of [[Virunga National Park]] have successfully trained and equipped over 3500 people to produce biomass briquettes, thereby replacing charcoal produced illegally inside the national park, and creating significant employment for people living in extreme poverty in conflict affected areas. 
+<ref>{{Cite web
+ | date=27 August 2009
+ | url=http://gorillacd.org/2009/02/19/briquette-production-the-beginning-of-an-alternative-source-of-fuel-around-virunga/
+ | title=Biomass Briquettes
+ | accessdate=19 February 2009
+}}</ref> . 
+
+====Biogas digestion====. 
+[[Biogas]] digestion deals with harnessing the methane gas that is released when waste breaks down. This gas can be retrieved from garbage or sewage systems. Biogas digesters are used to process methane gas by having bacteria break down [[biomass]] in an anaerobic environment. 
+<ref>{{Cite web
+ | date=27 March 2009
+ | url=http://www.oregon.gov/ENERGY/RENEW/Biomass/biogas.shtml
+ | title=Biogas Technology
+ | accessdate=24 June 2009
+}}</ref>
+The methane gas that is collected and refined can be used as an energy source for various products.  . 
+
+===Biological Hydrogen Production===. 
+Hydrogen gas is a completely clean burning fuel; its only by-product is water. <ref>Hijikata, Tsuneo. 2001. Research and Development of International Clean Energy Network Using Hydrogen Energy. International Journal of Hydrogen Energy; 27: 115-129</ref> It also contains relatively high amount of energy compared with other fuels due to its chemical structure. <ref>P. 12, BMW Group Clean Energy ZEV Symposium, September 2006</ref> . 
+
+2H<sub>2</sub> + O<sub>2</sub> → 2H<sub>2</sub>O + High Energy . 
+
+High Energy + 2H<sub>2</sub>O →  2H<sub>2</sub> + O<sub>2</sub> . 
+
+This requires a high-energy input, making commercial hydrogen very inefficient. <ref>{{Cite journal|author=Ghirardi ML, Togasaki RK, Seibert M |title=Oxygen Sensitivity of Algal H<sub>2</sub>-Production |journal=Applied Biochemistry and Biotechnology |volume=63 |pages=141–51 |year=1997 |doi=10.1007/BF02920420 |pmid=18576077 }}</ref>  Use of a biological vector as a means to split water, and therefore produce hydrogen gas, would allow for the only energy input to be solar radiation. Biological vectors can include bacteria or more commonly algae. This process is known as [[biological hydrogen production]]. <ref>{{Cite journal|author=Radmer R, Kok B |title=Photosynthesis: Limited Yields, Unlimited Dreams |journal=Bioscience |volume=29 |pages=599–605 |year=1977 }}</ref>  It requires the use of single celled organisms to create hydrogen gas through fermentation. Without the presence of oxygen, also known as an anaerobic environment, regular cellular respiration cannot take place and a process known as fermentation takes over. A major by-product of this process is hydrogen gas. If we could implement this on a large scale, then we could take sunlight, nutrients and water and create hydrogen gas to be used as a dense source of energy. <ref>{{Cite journal|author=Gaffron H, Rubin J |title=Fermentative and Photochemical Production of Hydrogen in Algae |journal=Journal of General Physiology |volume=26 |pages=219–240 |year=1942 |doi=10.1085/jgp.26.2.219 |pmid=19873339 |issue=2 |pmc=2142062 }}</ref> Large-scale production has proven difficult. It was not until 1999 that we were able to even induce these anaerobic conditions by sulfur deprivation. <ref>{{Cite journal|author=Melis A, Neidhardt J, Benemann JR |title=''Dunaliella salina'' (Chlorophyta) with Small Chlorophyll Antenna Sizes Exhibit Higher Photosynthetic Productivities and Photon Use Efficiencies Than Normally Pigmented Cells |journal=Journal of Applied Physiology |volume=10 |pages=515–52 |year=1999 }}</ref> Since the fermentation process is an evolutionary back up, turned on during stress, the cells would die after a few days. In 2000, a two-stage process was developed to take the cells in and out of anaerobic conditions and therefore keep them alive. <ref>{{Cite journal|author=Melis A, Happe T |title=Hydrogen Production — Green Algae as a Source of Energy |journal=Plant Physiology |volume=127 |issue=3 |year=2001|url=http://www.plantphysiol.org/cgi/content/full/127/3/740 |pmid=11706159 |doi=10.1104/pp.010498 |pages=740–8 |pmc=1540156}}</ref>  For the last ten years, finding a way to do this on a large-scale has been the main goal of research. Careful work is being done to ensure an efficient process before large-scale production, however once a mechanism is developed, this type of production could solve our energy needs. <ref>{{Cite journal|author=Doebbe A, Rupprecht J, Beckmann J, Mussgnug JH, Hallmann A, Hankamer B, Kruse O |title=Functional Integration of the HUP1 Hexose Symporter Gene into the Genome of C. reinhardtii: Impacts on Biological H<sub>2</sub> Production |journal=Journal of Biotechnology |volume=131 |pages=27–33 |year=2007 |doi=10.1016/j.jbiotec.2007.05.017 |pmid=17624461 |issue=1 }}</ref> . 
+
+===Floating wind farms===. 
+Floating [[wind farms]] are similar to a regular wind farm, but the difference is that they float in the middle of the ocean. Offshore wind farms can be placed in water up to {{convert|40|m}} deep, whereas floating wind turbines can float in water up to {{convert|700|m}} deep. <ref name=works>{{Cite web
+  | author=Horton, Jennifer. 
+  | date=19 August 2008
+  | url=http://science.howstuffworks.com/five-forms-alternative-energy.htm
+  | title=5 Wacky Forms of Alternative Energy
+  | accessdate=15 June 2009
+}}</ref>
+The advantage of having a floating wind farm is to be able to harness the winds from the open ocean. Without any obstructions such as hills, trees and buildings, winds from the open ocean can reach up to speeds twice as fast as coastal areas. <ref name=works/<ref>{{Cite web
+ | date=11 February 2009
+ | url=http://www.statoil.com/en/TechnologyInnovation/NewEnergy/RenewablePowerProduction/Onshore/Pages/Karmoy.aspx. 
+ | title=Hywind by Statoil
+ | accessdate=24 June 2009
+}}</ref> . 
+
+==Investing in alternative energy==. 
+Over the last three years publicly traded alternative energy have been very volatile, with some 2007 returns in excess of 100%, some 2008 returns down 90% or more, and peak-to-trough returns in 2009 again over 100%.{{Citation needed|date=September 2009}}  In general there are three subsegments of “alternative” energy investment:  solar energy, wind energy and hybrid electric vehicles. Alternative energy sources which are renewable, free and have lower carbon emissions than what we have now are wind energy, solar energy, geothermal energy, and bio fuels.   Each of these four segments involve very different technologies and investment concerns.  . 
+
+For example, photovoltaic solar energy is based on semiconductor processing and accordingly, benefits from steep cost reductions similar to those realized in the microprocessor industry (i.e., driven by larger scale, higher module efficiency, and improving processing technologies). PV solar energy is perhaps the only energy technology whose electricity generation cost could be reduced by half or more over the next 5 years. Better and more efficient manufacturing process and new technology such as advanced thin film solar cell is a good example of that helps to reduce industry cost. <ref>http://electronicdesign.com/article/power/is-solar-energy-really-ready-to-rumble-19153.aspx</ref> . 
+
+The economics of solar PV electricity are highly dependent on silicon pricing and even companies whose technologies are based on other materials (e.g., First Solar) are impacted by the balance of supply and demand in the silicon market.{{Citation needed|date=September 2009}}  In addition, because some companies sell completed solar cells on the open market (e.g., Q-Cells), this creates a low barrier to entry for companies that want to manufacture solar modules, which in turn can create an irrational pricing environment.  . 
+
+In contrast, because wind power has been harnessed for over 100 years, its underlying technology is relatively stable.  Its economics are largely determined by siting (e.g., how hard the wind blows and the grid investment requirements) and the prices of steel (the largest component of a wind turbine) and select composites (used for the blades).  Because current wind turbines are often in excess of 100 meters high, logistics and a global manufacturing platform are major sources of competitive advantage.  These issues and others were explored in a research report by Sanford Bernstein.  Some of its key conclusions are shown here. <ref name=pal>{{Cite journal
+  | url= http://www.forbes.com/forbes/2007/1224/064.html
+  | title=Greenhouse Stocks
+  | author=Bruce Upbin
+  | publisher= [[Forbes]]
+  | date=2007-12-24
+  | accessdate=2007-12-24
+}}</ref> . 
+
+===Alternative energy in transportation===. 
+Due to steadily rising gas prices in 2008 with the US national average price per gallon of regular unleaded gas rising above $4.00 at one point,<ref>[http://money.cnn.com/2008/07/02/news/economy/gas/?postversion=2008070206 Gas Prices post third straight record, CNN Money]</ref> there has been a steady movement towards developing higher fuel efficiency and more [[alternative fuel]] vehicles for consumers. In response, many smaller companies have rapidly increased research and development into radically different ways of powering consumer vehicles.  [[Hybrid electric vehicle|Hybrid]] and [[battery electric vehicle]]s are commercially available and are gaining wider industry and consumer acceptance worldwide. <ref>{{Cite web
+|url=http://www.telegraph.co.uk/motoring/5044697/China-takes-on-America-in-electric-car-race.html
+|title=China takes on America in electric car race
+|last=Foster
+|first=Peter
+|publisher=Telegraph Media Group Limited
+|location=London
+|date=24 Mar 2009
+|accessdate=2009-05-11 }}</ref> . 
+
+For example, Nissan USA introduced the world's first mass-production Electric Vehicle "[[Nissan Leaf]]". <ref>http://www.nissanusa.com/leaf-electric-car/index#/leaf-electric-car/index</ref> . 
+
+==Making Alternative Energy Mainstream==. 
+Before alternative energy becomes main-stream there are a few crucial obstacles that it must overcome: First there must be increased understanding of how alternative energies work and why they are beneficial; secondly the availability components for these systems must increase; and lastly the pay-off time must be decreased.  . 
+
+For example, [[electric vehicle]]s (EV) and [[Plug-in Hybrid Electric Vehicle]]s (PHEV) are on the rise. These vehicles depend heavily on an effective charging infrastructure such as a [[smart grid]] infrastructure to be able to implement electricity as mainstream alternative energy for future transportations. <ref>http://electronicdesign.com/article/power/electric_vehicles_the_smart_grid_s_moving_target.aspx</ref>{{Verify credibility|date=September 2010}} . 
+
+==Disadvantages==. 
+There are a number of issues that may arise from switching to alternative energy.   “Increasing the nation’s use of natural gas for electricity generation could result in adverse economic consequences”, especially since “natural gas currently costs about four times more than coal”. <ref name="Representatives. 2008">The US Senate and House of Representatives. (2008). “Economic and Other Implications of Switching from Coal to Natural Gas at the Capitol Power Plant and at Electricity-Generating Units Nationwide”. United States Government Accountability Office. Washington, DC</ref>   Furthermore, if there were a widespread switching to natural gas from coal some countries would become increasingly dependent on international supplies.  Also, “large-scale fuel switching would require substantial investments in pipeline storage and storage capacity and new terminals to process imported natural gas”. <ref name="Representatives. 2008"/>
+There is also the question of whether to convert existing coal-burning plants or to construct new ones.  “Burning natural gas at an existing coal plant would require a pipeline with the ability to meet the plant’s fuel supply requirements”. <ref name="Representatives. 2008"/>  It would also require “expansion of interstate and intrastate pipelines to transport increased volumes of natural gas” <ref name="Representatives. 2008"/>  Overall it would be more feasible and cost-effective to construct new natural gas units than to switch coal-burning plants.  . 
+
+== See also ==. 
+*[[Sustainable energy]]
+*[[Alternative Energy Index]]
+*[[Energy development]]
+**[[Fuel cell]]
+**[[Fischer-Tropsch process]]
+**[[Hydrogen economy]]
+*[[Renewable energy commercialization]]
+*[[Greasestock]]
+*[[Natural Bridges National Monument Solar Power System]]
+*[[The Center, New Mexico]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==Further reading==. 
+* [http://www.nrel.gov/publications/ NREL Publication Database] A list of publications from the National Renewable Energy Laboratory
+* [http://berkeley.academia.edu/OzzieZehner/Papers/867475/Unintended_Consequences_of_Green_Technologies/ Unintended Consequences of Green Technologies] A concise University of California, Berkeley summary of the unintended consequences of alternative energy technologies . 
+
+{{DEFAULTSORT:Alternative Energy}}
+[[Category:Alternative energy| ]]

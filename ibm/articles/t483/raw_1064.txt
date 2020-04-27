@@ -1,0 +1,56 @@
+A '''[[Heckler|heckler's]] veto''' occurs when an ''acting'' party's right to [[freedom of speech]] is curtailed or restricted by the government in order to prevent a ''reacting party's'' behavior.  The common example is that of demonstrators (reacting party) causing a speech (given by the acting party) to be terminated in order to preserve the peace.  . 
+
+The term was coined by  [[University of Chicago]] professor of law [[Harry Kalven]]. <ref>{{cite book |title=The Nazi/Skokie conflict: a civil liberties battle |first=David |last=Hamlin |location=Boston |publisher=Beacon Press |year=1980 |page=57 |isbn=0807032301 }}</ref> . 
+
+In the United States, case law regarding the heckler's veto is mixed. Most findings say that the acting party's actions cannot be pre-emptively stopped due to ''fear'' of heckling by the reacting party, but in the immediate face of violence, authorities can ask the acting party to cease their action in order to satisfy the hecklers.  . 
+
+The best known case involving the '''heckler's veto''' is probably ''[[Feiner v. New York]]'', handed down by the Supreme Court in 1951.  Chief Justice [[Fred M. Vinson]], writing for the majority, held that police officers acted within their power in arresting a speaker if the arrest was "motivated solely by a proper concern for the preservation of order and protection of the general welfare."  340 U.S. 315.  . 
+
+In [[Gregory v. Chicago]], Justice [[Hugo Black]], in a concurring opinion, argued that arresting demonstrators as a consequence of unruly behavior of by-standers would amount to a [[heckler's veto]]. <ref>[http://scholarship.law.marquette.edu/cgi/viewcontent.cgi?article=2280&context=mulr&sei-redir=1&referer=http%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%2522gregory%2520v.%2520chicago%2522%2520%2522heckler%27s%2520veto%2522%26source%3Dweb%26cd%3D1%26ved%3D0CB4QFjAA%26url%3Dhttp%253A%252F%252Fscholarship.law.marquette.edu%252Fcgi%252Fviewcontent.cgi%253Farticle%253D2280%2526context%253Dmulr%26ei%3DhwobT6bCC4KwiQKyroWwCA%26usg%3DAFQjCNEmEqL_BCo_q6ztr-M8oQXxLcWTPg#search=%22gregory%20v.%20chicago%20hecklers%20veto%22  The Heckler's Veto: A Reexamination]</ref> . 
+
+It was rejected in [[Hill v. Colorado]]<ref>{{cite court
+  |litigants = Hill v. Colorado
+  |vol = 530 U.S. 703, 735
+  |reporter = 
+  |opinion = 
+  |pinpoint = 
+  |court = [[SCOTUS]]
+  |year = 2000
+  |url=http://supreme.vlex.com/vid/hill-v-colorado-20080806 }}</ref>, where the [[SCOTUS|Supreme Court]] rejected the "Heckler's Veto," finding "governmental grants of power to private actors" to be "constitutionally problematic" in cases where "the regulations allowed a single, private actor to unilaterally silence a speaker"<ref>{{cite court
+  |litigants = Hill v. Colorado
+  |vol = 530 U.S. 703, 735
+  |reporter = 
+  |opinion = 
+  |pinpoint = 
+  |court = [[SCOTUS]]
+  |year = 2000
+  |url=http://supreme.vlex.com/vid/hill-v-colorado-20080806 }}</ref> . 
+
+==Laymen's use of the phrase==. 
+Heckler's veto is often used outside a strict legal context. One example is an article by [[Nat Hentoff]] in which he claims that "First Amendment law is clear that everyone has the right to picket a speaker, and to go inside the hall and heckle him or her—but not to drown out the speaker, let alone rush the stage and stop the speech before it starts. That's called the 'heckler's veto'."<ref>http://www.villagevoice.com/news/0645,hentoff,74928,2.html</ref> . 
+
+In Hentoff's formulation, the heckler him or herself is the party which directly carries out the "veto" and suppresses speech. This runs counter to the legal meaning of the phrase, 'Note that, to a lawyer familiar with the First Amendment law, the phrase "heckler's veto" means something different than the plain English interpretation of the words suggests. In First Amendment law, a heckler's veto is the suppression of speech by the government, because of [the possibility of] a violent reaction by hecklers. It is the government that vetoes the speech, because of the reaction of the heckler. Under the First Amendment, this kind of heckler's veto is unconstitutional.'<ref>http://www.rbs2.com/heckler.htm</ref> . 
+
+[[University of California, Irvine]] Law School Dean [[Erwin Chemerinsky]] has invoked the concept in an editorial following an incident in which heckling by individual students disrupted a speech by the Israeli ambassador, Chemerinsky explained that broad freedom exists to invite speakers and hold demonstrations, but that once a speaker has begun an invited lecture, “You have the right – if you disagree with me – to go outside and perform your protest. But you don’t get the right to come in when I’m talking and shout me down. Otherwise people can always silence a speaker by heckler’s veto, and Babel results.”<ref>{{cite web |title=Israel: Interrupted in Irvine |first=David |last=Lumb |date=Feb. 15, 2010 |publisher=[[New University]] |url=http://www.newuniversity.org/2010/02/news/israel-interrupted-in-irvine/ }}</ref> . 
+
+[[Michigan State University]] professor of political science [[William B. Allen]] has used the phrase '''verbal terrorism''' to refer to the same phenomenon, defining it as "calculated assault characterized by loud side-conversations, shouted interruptions, jabbered false facts, threats and personal insults."<ref>{{cite book |title=Ending racial preferences: the Michigan story |first=Carol M. |last=Allen |location=Lanham |publisher=Rowman & Littlefield |year=2008 |page=56 |isbn=9780739124338 }}</ref> . 
+
+[[Danny Ayalon]] has suggested that the tactic be combated by videotaping the shouters. <ref>[http://www.jpost.com/Israel/Article.aspx?id=168861 Ayalon: New policy to deal with hecklers]</ref> . 
+
+==See also==. 
+* [[Contempt of cop]]
+* [[Skokie (film)]]
+* [[Gregory v. Chicago]] . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+* [http://www.thefire.org/index.php/article/5188.html The Troubling Resurgence of the 'Heckler's Veto']
+* [http://www.doubletongued.org/index.php/dictionary/hecklers_veto/ A series of citations tracing the term back as far as 1977.] . 
+
+{{DEFAULTSORT:Heckler's Veto}}
+[[Category:Veto]]
+[[Category:Informal legal terms]]
+[[Category:Censorship]]
+[[Category:Freedom of expression]]

@@ -1,0 +1,478 @@
+:''"Public Purse" redirects here.  For the term used in relation to the British monarchy, see [[Privy Purse]].''
+{{Globalize|date=November 2010}} . 
+
+{{Public finance}}
+'''Government spending''' (or '''government expenditure''') includes all government consumption, investment but excludes transfer payments<ref>Robert Barro and Vittorio Grilli (1994), ''European Macroeconomics'', Ch. 15-16. Macmillan, ISBN 0333577647. </ref> made by a [[State_(polity)|state]]. Government acquisition of goods and services for current use to directly satisfy individual or collective needs of the members of the community is classed as [[government final consumption expenditure]]. Government acquisition of goods and services [[Invest#Economics|intended to create future benefits]], such as infrastructure investment or research spending, is classed as government investment ([[gross fixed capital formation]]), which usually is the largest part of the government [http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Gross_capital_formation gross capital formation]. Acquisition of goods and services is made through own production by the government (using the government's labour force, fixed assets and purchased goods and services for [[intermediate consumption]]) or through purchases of goods and services from market producers. Government expenditures that are not acquisition of goods and services, and instead just represent transfers of money, such as social security payments, are called [[transfer payment]]s. Government spending can be financed by [[seigniorage]], [[taxes]], or government [[debt|borrowing]].  . 
+
+The first two types of government spending, namely government final consumption expenditure and government gross capital formation, together constitute one of the major components of [[gross domestic product]].  . 
+
+[[John Maynard Keynes]] was one of the first [[economists]] to advocate government [[deficit spending]] as part of the [[fiscal policy]] response to an [[recession|economic contraction]]. In [[Keynesian economics]], increased government spending is thought to raise [[aggregate demand]] and increase [[Consumption (economics)|consumption]], which in turn leads to increased production. Keynesian economists argue that the [[Great Depression]] was ended by government spending programs such as the [[New Deal]] and military spending during [[World War II]]. According to the Keynesian view, a severe recession or depression may never end if the government does not intervene.  . 
+
+[[Classical economists]] and [[Austrian economists]], on the other hand, believe that increased government spending exacerbates an [[recession|economic contraction]] by shifting resources from the private sector, which they consider productive, to the public sector, which they consider unproductive. According to Austrian economists, the reason the Great Depression lasted as long as it did was because of significant government spending and government regulation of the economy.  . 
+
+==United States of America== . 
+
+[[National Income and Product Accounts#Accounting for National Product: The Right Side of the Report|Government spending]] in the United States of America occurs at several levels of government, including primarily
+federal, state, and local governments.  The [[United States Census Bureau]] publishes an overview of government
+spending every year in the [[Statistical Abstract of the United States]]<ref>[http://www.census.gov/compendia/statab/ Statistical Abstract of the United States of America]</ref> . 
+
+At the time of this entry, the most recent year for which actual spending for all levels of government has been reported. Overall government spending for all
+levels of government in the United States of America was as follows:
+(The following table represents non-government data analysis. Published spending reports can be found here [[historical tables]].) . 
+
+{| class="wikitable" style="text-align:center"
+. |-
+| colspan="3"| '''United States Federal, State,<br />and Local Government Spending<br />Fiscal Year 2010
+. |-
+|align="center"| Function || Amount<br>(billion) || Percent<br>GDP
+. |-
+|colspan="3" align="left"| '''Overall government spending'''
+. |-
+|align="left"|  Federal, State, Local || $5,798.8 || 39.97{{Citation needed|date=September 2011}}
+. |-
+|colspan="3" align="left"| '''Spending by major government function'''
+. |-
+|align="left"| Pensions || $939.2 || 6.47
+. |-
+|align="left"| Health Care || $1028.8 || 7.09
+. |-
+|align="left"| Education || $887.3 || 6.12
+. |-
+|align="left"| Defense || $848.1 || 5.85
+. |-
+|align="left"| Welfare || $727.3 || 5.01
+. |-
+|align="left"| Interest || $296.3 || 2.04
+|} . 
+
+Government spending expressed as a percent of [[Gross Domestic Product]] is based on a total of $14,660.4 billion for calendar year 2010
+reported by the [[Bureau of Economic Analysis]]. <ref>[http://www.bea.gov/national/xls/gdplev.xls Current-dollar and "real" GDP]</ref> . 
+
+===Federal Spending===. 
+{{update|date=November 2010}} . 
+
+{{Details|United States federal budget}}
+{{As of|2004|alt=As of September 2004}} the U.S. [[Congressional Budget Office]] reported that [[federal government]] spending for 2004 was projected to be $2.293 trillion, or slightly less than 20% of the GDP. Of that, $646.7 billion was for net [[interest]], $486 billion for [[defense (military)|defense]], $492 billion for [[Social Security (United States)|Social Security]], $473 billion for [[Medicare (United States)|Medicare]] and [[Medicaid]], $191 billion for various [[Welfare (financial aid)|welfare]] programs, $136 billion for "retirement and disability" benefits, and $64 billion was projected to be spent elsewhere.  . 
+
+There are two types of government spending — discretionary and mandatory.  Discretionary spending, which accounts for roughly one-third of all Federal spending, includes money for things like the [[United States Army|Army]], [[Federal Bureau of Investigation|FBI]], the [[United States Coast Guard|Coast Guard]], and highway projects.  Congress explicitly determines how much to spend (or not spend) on these programs on an annual basis.  Mandatory spending accounts for two-thirds of all government spending.  This kind of spending is authorized by permanent laws.  It includes Insurance programs like Social Security, Medicare/Medicaid, Supplemental Nutrition Assistance Program, and federal retirement and disability programs that provide benefits to federal civilian employees, members of the military, and veterans. — programs through which individuals receive benefits based on their age, income, or other criteria.  Spending levels in these areas are dictated by the number of people who sign up for these benefits, rather than by Congress.{{Citation needed|date=April 2007}} . 
+
+===State and Local Spending=== . 
+
+The [[United States Census Bureau]] conducts a census of [http://www.census.gov/govs/estimate/ State and Local Government Finances]
+every five years and updates the census every year.  The latest fiscal year reported
+by the Census Bureau is 2006.  . 
+
+===US History=== . 
+
+The [[United States Census Bureau]] publishes historical data series on government spending in the [[United States]] in its [[Statistical Abstract of the United States]]<ref>[http://www.census.gov/compendia/statab/ Statistical Abstract of the United States]</ref> and in its special release of historical statistics in 1976 at the time of the US Bicentennial. <ref>[http://www2.census.gov/prod2/statcomp/documents/CT1970p2-01.pdf Bicentennial Edition: Historical Statistics of the United States, Colonial Times to 1970, Part 2]</ref> . 
+
+Over the last century starting overall government spending in the [[United States]] has increased substantially from about seven percent of GDP in 1902 to about 35 percent of GDP in 2010.  Major spikes in spending occurred in [[World War I]] and [[World War II]].  . 
+
+When broken down by major function, the history of US government spending as a percent of GDP shows a slow and consistent increase in education spending; it shows the spikes in defense spending during [[World War I]] and [[World War II]], and the sustained high level maintained during the [[Cold War]].  Spending on welfare shows a clear takeoff during the [[Great Depression]] and a modest decline following reform in 1996. Spending on pensions (primarily [[Social Security (United States)|Social Security]]) begins to show up in the 1950s.  Health care spending takes off after the birth of [[Medicare (United States)|Medicare]] and [[Medicaid]] in the 1960s and shows sustained growth ever since.  . 
+
+==US Government Spending Patterns==. 
+===Divided vs. United Government=== . 
+
+In an interview with [[Charlie Rose]], [[Milton Friedman]] noted that US government spending declines fastest when Democrats control the executive branch while Republicans control the legislature. <ref>{{cite web|last=Friedman|first=Milton|title=Milton Friedman interview with Charlie Rose|url=http://www.youtube.com/watch?v=hDEJ2gl2hp8|accessdate=19 March 2011}}</ref> . 
+
+Referencing accounts from the [[Bureau of Economic Analysis]] and the voting record, it can be seen that US government spending typically declines as a percentage of [[GDP]] when no party controls both the executive and legislative branches.{{Citation needed|date=December 2007}} . 
+
+<gallery>
+Image:Us gov spending 2006 billions.png|Government spending in the United States for FY 2006 ($ billion)
+Image:Federal spendings.gif|Chart showing how the [[United States Congress]] spends the federal tax revenue. <ref name="federal budget">[http://www.federalbudget.com Federal Budget Spending and the National Debt<!-- Bot generated title -->]</ref>
+Image:Us_gov_spending_history_1902_2010.png|Historical government spending in the United States from 1902 to 2010 (2008 estimate, percent GDP. 2009, 2010 'guesstimated' estimate)
+Image:Us_gov_spending_histry_by_function_1902_2010.png|Historical government spending by major function in the United States from 1902 to 2010 (2008 estimate, percent GDP)
+</gallery>
+===National Government Spending Per Capita=== . 
+
+[[File:2010 National Spending of the USA compared to G20.jpg|left|thumb|Comparison of National Spending Per Citizen for the 20 Largest Economies.]][[File:2010 National Spending per GDP comparison.jpg|right|thumb|Comparison of National Spending per GDP for the 20 Largest Economies]]In 2010, the Federal government of the USA spent an average of $11,041 per citizen (per capita). This compares to the 2010 World average spending of $2376 per citizen and an average of $16,110 per citizen for the World's 20 largest economies (in terms of GDP). Of the 20 largest economies, only six spent less per citizen: [[South Korea]] ($4557), [[Brazil]] ($2813), [[Russia]] ($2458), [[China]] ($1010), and [[India]] ($$226). Of the 13 that spent more, [[Norway]] and [[Sweden]] top the list with per citizen spending of $40908 and $26760 respectively. <ref>CIA World Factbook, population data from 2010, Spending and GDP data from 2011</ref> . 
+
+==Government spending as a percentage of GDP==. 
+[[File:Depense-publique-sur-PIB.png|thumb|Public spending / GDP in Europe]]
+This is a list of countries by '''government spending as a percentage of [[gross domestic product]] (GDP)''' for the listed countries, according to the ''2011 Index of Economic Freedom''<ref>[http://www.heritage.org/index/explore?view=by-variables 2011 Index of Economic Freedom]</ref> by [[The Heritage Foundation]] and [[The Wall Street Journal]]. [[Tax revenue]] is included for comparison.  . 
+
+{| class="wikitable sortable"
+. |-
+! Country !! Tax burden % GDP !! Govt. expend. % GDP
+. |-
+| {{flagcountry|Albania}} || 24.3 || 32.3
+. |-
+| {{flagcountry|Algeria}} || 8.0 || 35.4
+. |-
+| {{flagcountry|Angola}} || 6.1 || 41.6
+. |-
+| {{flagcountry|Argentina}} || 26.1 || 24.7
+. |-
+| {{flagcountry|Armenia}} || 16.8 || 21.8
+. |-
+| {{flagcountry|Australia}} || 30.8 || 34.3
+. |-
+| {{flagcountry|Austria}} || 42.9 || 49.0
+. |-
+| {{flagcountry|Azerbaijan}} || 17.7 || 31.1
+. |-
+| {{flagcountry|Bahamas}} || 16.8 || 20.9
+. |-
+| {{flagcountry|Bahrain}} || 4.8 || 25.7
+. |-
+| {{flagcountry|Bangladesh}} || 8.8 || 15.9
+. |-
+| {{flagcountry|Barbados}} || 32.9 || 41.3
+. |-
+| {{flagcountry|Belarus}} || 30.4 || 49.6
+. |-
+| {{flagcountry|Belgium}} || 46.5 || 50.0
+. |-
+| {{flagcountry|Belize}} || 22.7 || 28.2
+. |-
+| {{flagcountry|Benin}} || 17.2 || 23.0
+. |-
+| {{flagcountry|Bhutan}} || 9.0 || 34.6
+. |-
+| {{flagcountry|Bolivia}} || 28.5 || 34.8
+. |-
+| {{flagcountry|Bosnia and Herzegovina}} || 37.6 || 50.3
+. |-
+| {{flagcountry|Botswana}} || 30.2 || 40.2
+. |-
+| {{flagcountry|Brazil}} || 34.4 || 41.0
+. |-
+| {{flagcountry|Bulgaria}} || 33.3 || 37.3
+. |-
+| {{flagcountry|Burkina Faso}} || 12.1 || 21.6
+. |-
+| {{flagcountry|Burma}} || 3.0  || 8.0
+. |-
+| {{flagcountry|Burundi}} || 18.0 || 40.0
+. |-
+| {{flagcountry|Cambodia}} || 10.5 || 13.9
+. |-
+| {{flagcountry|Cameroon}} || 18.5 || 18.5
+. |-
+| {{flagcountry|Canada}} || 32.2 || 39.7
+. |-
+| {{flagcountry|Cape Verde}} || 20.6 || 31.1
+. |-
+| {{flagcountry|Central African Republic}} || 7.9 || 15.5
+. |-
+| {{flagcountry|Chad}} || 5.3 || 22.1
+. |-
+| {{flagcountry|Chile}} || 18.6 || 21.1
+. |-
+| {{flagcountry|China}} || 18.0 || 20.8
+. |-
+| {{flagcountry|Colombia}} || 19.3 || 26.5
+. |-
+| {{flagcountry|Comoros}} || 10.8 || 27.2
+. |-
+| {{flagcountry|Congo}} || 5.3 || 26.0
+. |-
+| {{flagcountry|DR Congo}} || 13.1 || 22.7
+. |-
+| {{flagcountry|Costa Rica}} || 15.6 || 20.9
+. |-
+| {{flagcountry|Côte d'Ivoire}} || 15.2 || 19.7
+. |-
+| {{flagcountry|Croatia}} || 23.3 || 40.7
+. |-
+| {{flagcountry|Cuba}} || 41.2 || 78.1
+. |-
+| {{flagcountry|Cyprus}} || 39.2 || 42.6
+. |-
+| {{flagcountry|Czech Republic}} || 36.2 || 42.9
+. |-
+| {{flagcountry|Denmark}} || 49.0 || 51.8
+. |-
+| {{flagcountry|Djibouti}} || 22.7 || 40.6
+. |-
+| {{flagcountry|Dominica}} || 30.4 || 42.5
+. |-
+| {{flagcountry|Dominican Republic}} || 15.0 || 19.1
+. |-
+| {{flagcountry|Ecuador}} || 16.0 || 40.8
+. |-
+| {{flagcountry|Egypt}} || 15.4 || 34.0
+. |-
+| {{flagcountry|El Salvador}} || 13.0 || 20.0
+. |-
+| {{flagcountry|Equatorial Guinea}} || 0.9 || 25.5
+. |-
+| {{flagcountry|Estonia}} || 32.3 || 39.9
+. |-
+| {{flagcountry|Ethiopia}} || 9.9 || 19.4
+. |-
+| {{flagcountry|Fiji}} || 21.1 || 25.0
+. |-
+| {{flagcountry|Finland}} || 43.2 || 49.5
+. |-
+| {{flagcountry|France}} || 44.6 || 52.8
+. |-
+| {{flagcountry|Gabon}} || 9.9 || 20.1
+. |-
+| {{flagcountry|Gambia}} || 19.2 || 26.0
+. |-
+| {{flagcountry|Georgia}} || 24.9 || 36.4
+. |-
+| {{flagcountry|Germany}} || 40.6 || 43.7
+. |-
+| {{flagcountry|Ghana}} || 20.6 || 42.4
+. |-
+| {{flagcountry|Greece}} || 35.1 || 46.8
+. |-
+| {{flagcountry|Guatemala}} || 11.3 || 13.7
+. |-
+| {{flagcountry|Guinea}} || 14.7 || 17.4
+. |-
+| {{flagcountry|Guinea-Bissau}} || 10.2 || 38.8
+. |-
+| {{flagcountry|Guyana}} || 20.2 || 48.6
+. |-
+| {{flagcountry|Haiti}} || 10.3 || 18.2
+. |-
+| {{flagcountry|Honduras}} || 16.3 || 21.8
+. |-
+| {{flagcountry|Hong Kong}} || 13.0 || 18.6
+. |-
+| {{flagcountry|Hungary}} || 40.5 || 49.2
+. |-
+| {{flagcountry|Iceland}} || 40.1 || 57.8
+. |-
+| {{flagcountry|India}} || 18.6 || 27.2
+. |-
+| {{flagcountry|Indonesia}} || 13.3 || 19.2
+. |-
+| {{flagcountry|Iran}} || 6.1 || 28.3
+. |-
+| {{flagcountry|Ireland}} || 30.8 || 42.0
+. |-
+| {{flagcountry|Israel}} || 33.5 || 42.9
+. |-
+| {{flagcountry|Italy}} || 43.1 || 48.8
+. |-
+| {{flagcountry|Jamaica}} || 26.0 || 34.3
+. |-
+| {{flagcountry|Japan}} || 28.3 || 37.1
+. |-
+| {{flagcountry|Jordan}} || 18.3 || 36.1
+. |-
+| {{flagcountry|Kazakhstan}} || 27.7 || 26.8
+. |-
+| {{flagcountry|Kenya}} || 20.9 || 30.1
+. |-
+| {{flagcountry|Kiribati}}<ref>An offshore investment fund underwrites government spending. For more information see: [http://www.heritage.org/index/Country/Kiribati Kiribati information on economic freedom. Facts, data, analysis, charts and more]. [[Heritage Foundation]]. </ref> || 39.0 || 114.6
+. |-
+| {{flagcountry|Kuwait}} || 1.5 || 31.8
+. |-
+| {{flagcountry|Kyrgyzstan}} || 23.3 || 29.3
+. |-
+| {{flagcountry|Laos}} || 12.5 || 18.2
+. |-
+| {{flagcountry|Latvia}} || 29.1 || 38.5
+. |-
+| {{flagcountry|Lebanon}} || 16.6 || 34.2
+. |-
+| {{flagcountry|Lesotho}} || 63.1 || 51.2
+. |-
+| {{flagcountry|Liberia}} || 28.6 || 33.4
+. |-
+| {{flagcountry|Libya}} || 3.4 || 43.0
+. |-
+| {{flagcountry|Lithuania}} || 30.6 || 37.4
+. |-
+| {{flagcountry|Luxembourg}} || 36.5 || 37.2
+. |-
+| {{flagcountry|Macau}} || 25.9 || 14.9
+. |-
+| {{flagcountry|Macedonia}} || 28.3 || 34.5
+. |-
+| {{flagcountry|Madagascar}} || 12.9 || 18.5
+. |-
+| {{flagcountry|Malawi}} || 16.5 || 38.0
+. |-
+| {{flagcountry|Malaysia}} || 15.3 || 26.3
+. |-
+| {{flagcountry|Maldives}} || 21.0 || 63.1
+. |-
+| {{flagcountry|Mali}} || 15.0 || 21.2
+. |-
+| {{flagcountry|Malta}} || 36.0 || 44.8
+. |-
+| {{flagcountry|Mauritania}} || 13.4 || 29.5
+. |-
+| {{flagcountry|Mauritius}} || 19.0 || 25.8
+. |-
+| {{flagcountry|Mexico}} || 8.2 || 23.7
+. |-
+| {{flagcountry|FSM}} || 11.5 || 62.3
+. |-
+| {{flagcountry|Moldova}} || 33.4 || 41.6
+. |-
+| {{flagcountry|Mongolia}} || 30.8 || 41.0
+. |-
+| {{flagcountry|Montenegro}} || 30.0 || 48.8
+. |-
+| {{flagcountry|Morocco}} || 26.9 || 29.1
+. |-
+| {{flagcountry|Mozambique}} || 14.2 || 28.0
+. |-
+| {{flagcountry|Namibia}} || 24.8 || 29.0
+. |-
+| {{flagcountry|Netherlands}} || 39.8 || 45.9
+. |-
+| {{flagcountry|Nepal}} || 10.4 || 19.7
+. |-
+| {{flagcountry|New Zealand}} || 34.5 || 41.1
+. |-
+| {{flagcountry|Nicaragua}} || 18.0 || 25.0
+. |-
+| {{flagcountry|Niger}} || 11.4 || 23.8
+. |-
+| {{flagcountry|Nigeria}} || 5.9 || 30.0
+. |-
+| {{flagcountry|Norway}} || 42.1 || 40.2
+. |-
+| {{flagcountry|Oman}} || 3.0 || 32.6
+. |-
+| {{flagcountry|Pakistan}} || 10.2 || 19.3
+. |-
+| {{flagcountry|Panama}} || 10.6 || 19.5
+. |-
+| {{flagcountry|Papua New Guinea}} || 26.6 || 35.0
+. |-
+| {{flagcountry|Paraguay}} || 11.8 || 14.8
+. |-
+| {{flagcountry|Peru}} || 16.0 || 17.3
+. |-
+| {{flagcountry|Philippines}} || 14.1 || 17.3
+. |-
+| {{flagcountry|Poland}} || 34.9 || 43.3
+. |-
+| {{flagcountry|Portugal}} || 37.7 || 46.1
+. |-
+| {{flagcountry|Qatar}} || 4.9 || 27.0
+. |-
+| {{flagcountry|Romania}} || 28.5 || 37.6
+. |-
+| {{flagcountry|Russia}} || 34.1 || 34.1
+. |-
+| {{flagcountry|Rwanda}} || 13.5 || 26.7
+. |-
+| {{flagcountry|Saint Lucia}} || 27.5 || 30.9
+. |-
+| {{flagcountry|Saint Vincent and the Grenadines}} || 25.6 || 34.1
+. |-
+| {{flagcountry|Samoa}} || 23.0 || 32.7
+. |-
+| {{flagcountry|São Tomé and Príncipe}} || 16.1 || 32.9
+. |-
+| {{flagcountry|Saudi Arabia}} || 6.6 || 29.1
+. |-
+| {{flagcountry|Senegal}} || 18.3 || 26.6
+. |-
+| {{flagcountry|Serbia}} || 36.3 || 44.0
+. |-
+| {{flagcountry|Seychelles}} || 28.1 || 39.8
+. |-
+| {{flagcountry|Sierra Leone}} || 10.8 || 21.0
+. |-
+| {{flagcountry|Singapore}} || 14.2 || 17.0
+. |-
+| {{flagcountry|Slovakia}} || 29.3 || 34.8
+. |-
+| {{flagcountry|Slovenia}} || 37.6 || 44.3
+. |-
+| {{flagcountry|Solomon Islands}} || 24.1 || 47.3
+. |-
+| {{flagcountry|South Africa}} || 25.7 || 27.4
+. |-
+| {{flagcountry|South Korea}} || 26.6 || 30.0
+. |-
+| {{flagcountry|Spain}} || 33.9 || 41.1
+. |-
+| {{flagcountry|Sri Lanka}} || 13.3 || 22.6
+. |-
+| {{flagcountry|Suriname}} || 21.1 || 25.6
+. |-
+| {{flagcountry|Swaziland}} || 36.0 || 33.7
+. |-
+| {{flagcountry|Sweden}} || 47.9 || 52.5
+. |-
+| {{flagcountry|Switzerland}} || 29.4 || 32.0
+. |-
+| {{flagcountry|Syria}} || 10.2 || 22.1
+. |-
+| {{flagcountry|Taiwan}} || 12.9 || 18.5
+. |-
+| {{flagcountry|Tajikistan}} || 18.7 || 27.5
+. |-
+| {{flagcountry|Tanzania}} || 14.8 || 25.5
+. |-
+| {{flagcountry|Thailand}} || 16.0 || 17.7
+. |-
+| {{flagcountry|Timor-Leste}}<ref>Offshore petroleum projects are sources of tax revenue. For more information see: [http://www.heritage.org/index/Country/TimorLeste Timor-Leste information on economic freedom. Facts, data, analysis, charts and more]. [[Heritage Foundation]]. </ref> <ref>http://www.gov.east-timor.org/old/fbea/wage_income_tax.php</ref> <ref>http://siakhenn.tripod.com/capita.html</ref>|| 24.6 || 97.0
+. |-
+| {{flagcountry|Togo}} || 16.3 || 19.5
+. |-
+| {{flagcountry|Tonga}} || 25.7 || 29.9
+. |-
+| {{flagcountry|Trinidad and Tobago}} || 19.4 || 28.4
+. |-
+| {{flagcountry|Tunisia}} || 22.4 || 27.3
+. |-
+| {{flagcountry|Turkey}} || 23.5 || 23.4
+. |-
+| {{flagcountry|Turkmenistan}} || 21.8 || 12.3
+. |-
+| {{flagcountry|Uganda}} || 11.9 || 17.8
+. |-
+| {{flagcountry|Ukraine}} || 37.7 || 47.3
+. |-
+| {{flagcountry|United Arab Emirates}} || 1.8 || 26.4
+. |-
+| {{flagcountry|United Kingdom}} || 38.9 || 47.3
+. |-
+| {{flagcountry|United States}} || 26.9 || 38.9
+. |-
+| {{flagcountry|Uruguay}} || 17.9 || 28.0
+. |-
+| {{flagcountry|Uzbekistan}} || 19.6 || 31.1
+. |-
+| {{flagcountry|Vanuatu}} || 19.7 || 26.4
+. |-
+| {{flagcountry|Venezuela}} || 13.6 || 34.0
+. |-
+| {{flagcountry|Vietnam}} || 23.6 || 28.8
+. |-
+| {{flagcountry|Yemen}} || 7.3 || 43.0
+. |-
+| {{flagcountry|Zambia}} || 17.5 || 24.6
+. |-
+| {{flagcountry|Zimbabwe}} || 31.7 || 97.8
+|} . 
+
+==See also==. 
+{{Commons category|Public expenditure}}
+*[[Government operations]]
+*[[Public finance]]
+*[[Government budget]]
+*[[Fiscal policy]]
+*[[Tax]]
+*[[2010 United States federal budget]]
+*[[Mandatory spending]]
+*[[Taxpayer groups|Taxpayers unions]]
+*[[Government spending in the United Kingdom]] . 
+
+==References==. 
+{{Reflist}} . 
+
+==External links==. 
+{{Commons|Government Spending}}
+*[http://www.econlib.org/Library/Enc/GovernmentSpending.html The Concise Encyclopedia of Economics (CEE)]
+*[http://stats.oecd.org/Index.aspx?DataSetCode=SNA_TABLE11 OECD Government spending statistics]
+*[http://etatscanadiens-canadiangovernments.enap.ca/fr/index.aspx Canadian Governments Compared]
+{{Use dmy dates|date=September 2011}} . 
+
+{{DEFAULTSORT:Government Spending}}
+[[Category:Public finance]]
+[[Category:Macroeconomics]]
+[[Category:Fiscal policy]]

@@ -1,0 +1,223 @@
+{{About|the geopolitical entity, governed by Hamas|the geography and general history of the area|Gaza Strip}}
+{{Infobox Country or territory
+|native_name              =
+|conventional_long_name   = <span style="line-height:1.33em;">Hamas Government in Gaza</span>
+|common_name              = Hamas Government
+|image_flag               = Flag of Palestine.svg
+|image_type               = Palestinian national flag
+|image_coat               = Flag of Hamas.svg
+|image_type               = Flag of Hamas
+|symbol_type              = 
+|image_map                = Gaza_Strip_map2.svg
+|map_caption              = Gaza Strip 
+|national_anthem          = 
+|sound                    = 
+|capital =Administrative centers:
+[[Gaza]] (Gaza Strip)
+|largest cities           = [[Gaza]], [[Rafah]]
+|government_type          = Officially [[Parliamentary system|parliamentary democracy]] (elections not held since 2006)<br>Considered [[Theocratic]] [[dictatorship]]
+|leader_title1            = [[Prime Minister of the Palestinian National Authority|Prime Minister]]
+|leader_title2            = [[President_of_the_Palestinian_National_Authority|President]]
+|leader_name1             = [[Ismail Haniyeh]]<sup>'''a'''</sup>
+|leader_name2             = [[Aziz Duwaik]]
+|official_languages       = [[Palestinian Arabic]] 
+|population_estimate      = 1,657,155
+|population_estimate_rank = 
+|population_estimate_year = 2011
+|population_census        =
+|population_census_year   =
+|GDP_PPP                  = $770 million
+|GDP_PPP_rank             = -
+|GDP_PPP_year             = 2009
+|GDP_PPP_per_capita       = $3,100
+|GDP_PPP_per_capita_rank  = -
+|HDI = 
+|HDI_rank = 
+|HDI_year = 
+|HDI_category = 
+|established_event1       = Established
+|established_date1        = January, 2006
+|currency                 = [[Egyptian Pound]]<sup>'''b'''</sup><br/>[[Israeli new sheqel]]<sup>'''e'''</sup>
+|currency_code = EGP, ILS
+|country_code = PS
+|time_zone                = &nbsp;
+|utc_offset               = +2
+|time_zone_DST            = &nbsp;
+|utc_offset_DST           = +3
+|cctld                    = [[.ps]], [[فلسطين.]]
+|calling_code             = [[+970]]
+|footnotes                = {{Collapsible list|title=Notes a b c |<sup>'''a'''</sup> Haniyeh was dismissed by President Abbas in favor of Fayad, however, along with the Palestinian Legislative Council, Haniyeh does not acknowledge the legitimacy of his dismissal; from 14 June 2007 Haniyeh exercises de facto authority in the Gaza Strip, whereas Fayad's government has authority in the West Bank. <br/><sup>'''b'''</sup> Used in [[Gaza Strip]] from 1951–present<br/><sup>'''c'''</sup> Used from 1985–present<br/>}}
+}}
+Since 2006, the '''Governance of the [[Gaza Strip]]''' has been performed by the [[Hamas]] administration, which is often referred to as the '''Hamas government in Gaza'''. <ref name=alarabiya3001>[http://english.alarabiya.net/articles/2012/01/30/191571.html] "The head of the Hamas government in Gaza, Ismail Haniyeh, arrived in Qatar on Monday, beginning a regional tour that is also expected to take him to Kuwait, Bahrain and Iran."</ref><ref>[http://www.haaretz.com/print-edition/opinion/israel-must-recognize-hamas-government-in-gaza-1.355882]</ref><ref>[http://www.aljazeera.com/video/middleeast/2011/08/20118454513336949.html]</ref> Due to the conservative Islamic nature of the regime in Gaza, the polity is also referred as the '''Islamist Emirate of Gaza''',<ref>[http://www.ynetnews.com/articles/0,7340,L-3633491,00.html]</ref> or as [[Hamastan|'''Hamastan''']] by some sources. <ref>[http://www.guardian.co.uk/world/2007/jun/15/israel]</ref> . 
+
+Hamas control over the area was established after the Hamas party won the [[Palestinian legislative election, 2006|Palestinian legislative elections]] in January 2006,<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/world/middle_east/4214375.stm |title=Big Hamas win in Gaza's election |date=2005-01-28 |publisher=[[BBC]]}}</ref> and ousted Fatah officials during the [[Battle of Gaza (2007)|Battle of Gaza]] in 2007. <ref>{{cite news| title = Hamas battles for control of Gaza | publisher = [[The Guardian]]. 16 June 2007| url = http://www.guardian.co.uk/commentisfree/2007/jun/16/israel.comment | location=London | date=2007-06-16}}</ref> Hamas' political and military rival, [[Fatah]], controls the [[West Bank]]. <ref name="cnn070614">{{cite news | title = Hamas controls Gaza, says it will stay in power | publisher = [[CNN]]  | url = http://edition.cnn.com/2007/WORLD/meast/06/14/gaza/index.html| accessdate =  2007-06-16 |archiveurl = http://web.archive.org/web/20070630162402/http://edition.cnn.com/2007/WORLD/meast/06/14/gaza/index.html <!-- Bot retrieved archive --> |archivedate = 2007-06-30}}</ref> Both regimes - the [[Palestinian National Authority]] and the Hamas administration - regard themselves as the sole legitimate Palestinian government.  . 
+
+Since the division between the two parties, there have been conflicts between Hamas and various factions operating in Gaza and with Israel, most notably the [[Gaza War]] of 2008-2009. The radicalization of the Gaza Strip also brought internal conflicts between various groups, in events like 2009 Hamas crackdown on [[Jund Ansar Allah]], an Al-Queda affiliated group, resulting in 22 people killed; and the April 2011 Hamas crackdown on a [[Jahafil Al-Tawhid Wal-Jihad fi Filastin|Salafist group]], involved in [[Vittorio Arrigoni]]'s murder. <ref>[http://www.bbc.co.uk/news/world-middle-east-13387859]</ref><ref>[http://www.news24.com/World/News/Hamas-police-clash-with-Salafists-in-Gaza-20110419]</ref> . 
+
+Negotiations toward reconciliation between the PA and the Hamas administration, which were mediated by Egypt, produced a preliminary agreement in 2011, which was supposed to be implemented by May 2012 through joint elections. Despite the peace plan, Palestinan sources were qouted in January 2012 as saying that the May joint elections "would not be possible". In February 2012, Haled Meshaal and Palestinian Authority President Mahmud Abbas signed the [[Hamas-Fatah Doha agreement]] towards implementation of the 2011 Cairo accords, though Hamas officials in the Gaza Strip expressed their discontent and "unacceptibility" of the Doha agreement. To date, the Hamas administration, under Prime-Minister Haniye, maiontains only economic ties with the [[Palestinian National Authority]], performing the function of governing Gaza independently.  . 
+
+==History==. 
+===Gaza Strip under Palestinian National Authority===. 
+{{Main|Fatah-Hamas conflict}}
+Conflict between Fatah and Hamas had been simmering since Hamas won the [[Palestinian legislative election, 2006|Palestinian legislative elections]] in January 2006. Upon taking power, Hamas offered [[Israel]] a one-year extension of the truce that was then in force but announced that they would refuse to honor past agreements between the Palestinian government and Israel. As a result, the US, Israel and the EU cut off aid to Gaza. <ref>[http://www.antiwar.com/ips/mekay.php?articleid=8460]</ref> The U.S. and Israel attempted to undermine Hamas<ref>[http://www.nytimes.com/2006/02/14/international/middleeast/14mideast.html?_r=1&ei=5094&en=d28cff5caa1702fa&hp=&ex=1139979600&partner=homepage&pagewanted=print&oref=slogin U.S. and Israelis Are Said to Talk of Hamas Ouster.] ''"recognize Israel's right to exist, forswear violence and accept previous Palestinian-Israeli agreements ... or face isolation and collapse."'' Verified Nov 14, 2007. </ref>  and force it from power while strengthening President [[Mahmoud Abbas]] and Fatah's position.  . 
+
+Major conflict erupted in Gaza in December 2006, when the Hamas executive authority attempted to replace the Palestinian police as the primary authority in Gaza. <ref>{{cite news| url=http://www.boston.com/news/world/middleeast/articles/2007/01/07/abbas_outlaws_hamass_paramilitary_executive_force/ | work=The Boston Globe | first=Richard | last=Boudreaux | title=Abbas outlaws Hamas's paramilitary Executive Force | date=2007-01-07}}</ref> . 
+
+On February 8, 2007 [[Saudi]]-sponsored negotiations in Mecca produced an agreement on a Palestinian national unity government. The agreement was signed by [[Mahmoud Abbas]] on behalf of Fatah and [[Khaled Mashal]] on behalf of Hamas. The new government was called on to achieve Palestinian national goals as approved by the [[Palestine National Council]], the clauses of the [[Basic Law]] and the [[National Reconciliation Document]] (the "Prisoners' Document") as well as the decisions of the Arab summit. <ref>{{cite news|title=The Palestinian National Unity Government|url=http://www.canadafreepress.com/2007/inss022407.htm|accessdate=4 June 2010|date=February 24, 2007}}</ref> . 
+
+In March 2007, the [[Palestinian Legislative Council]] established a national unity government, with 83 representatives voting in favor and three against. Government ministers were sworn in by [[Mahmoud Abbas]], the chairman on the [[Palestinian Authority]], at a ceremony held simultaneously in Gaza and [[Ramallah]]. In June that year, Hamas took control of the Gaza Strip from the national unity government<ref name="Hamas takes control of Gaza">{{cite news|title=Hamas takes control of Gaza|url=http://www.guardian.co.uk/world/2007/jun/15/israel4|accessdate=3 June 2010|newspaper=Guardian|date=Friday 15 June 2007 | location=London | first1=Ian | last1=Black | first2=Mark | last2=Tran}}</ref> after forcing out Fatah.  . 
+
+On June 14, 2007 Palestinian President [[Mahmoud Abbas]] announced the dissolution of the former unity government and declared a [[state of emergency]]. He dismissed [[Ismail Haniya]] as [[Prime Minister]] and appointed [[Salam Fayyad]] as the new one, giving him the task of building a new government. <ref name="maan070616">
+{{cite web
+  | title = President Abbas prepares to swear in unelected interim government
+  | publisher = Ma'an News Agency
+  | url = http://maannews.net/en/index.php?opr=ShowDetails&ID=23042
+  | accessdate =  2007-06-16}}
+</ref>
+Nonetheless, Ismail Haniya of the [[Hamas]] rejected the decree of Mahmoud Abbas and said his government would remain in office<ref name="cnn070614"/> and would claim authority over the entire [[Palestinian territories]].  . 
+
+===After the takeover by Hamas===. 
+With Hamas being in control of the Gaza Strip and [[Fatah]] in control of the [[West Bank]], there are ''de facto'' two Palestinian governments, both considering themselves to be the legitimate [[Palestinian National Authority]] government. Palestinian police chief [[Kamal el-Sheikh]] ordered his men in the Gaza Strip not to work or obey Hamas orders. Many Fatah members fled the Gaza Strip to the West Bank, and [[Fatah]] gunmen stormed Hamas-led institutions in the West Bank after the [[Battle of Gaza (2007)|Battle of Gaza]]. <ref name="reuters070616_pg3">
+{{cite news
+  | title = Hundreds flee Hamas-run Gaza amid spillover fears (Page 3)
+  | publisher = [[Reuters]]
+  | url = http://www.reuters.com/article/newsOne/idUSFLE45503220070616?pageNumber=3
+  | accessdate =  2007-06-16 |archiveurl = http://web.archive.org/web/20070618171529/http://www.reuters.com/article/newsOne/idUSFLE45503220070616?pageNumber=3 <!-- Bot retrieved archive --> |archivedate = 2007-06-18}}
+</ref><ref name="cnn070616">
+{{cite news
+  | title = Fatah militants storm rival-held government buildings
+  | publisher = [[CNN]]
+  | url = http://edition.cnn.com/2007/WORLD/meast/06/16/gaza.fighting/index.html
+  | accessdate =  2007-06-16}}
+</ref> . 
+
+Palestinian legislator [[Saeb Erekat]] said the Palestinian National Authority officially has no control in the Gaza Strip. Hamas and Fatah accused each other of a [[coup d'état]]; neither recognizes the authority of the other government. <ref name="cnn070614"/><ref name="reuters070616_pg1">
+{{cite news
+  | title = Hundreds flee Hamas-run Gaza amid spillover fears (Page 1)
+  | publisher = [[Reuters]]
+  | url = http://www.reuters.com/article/newsOne/idUSFLE45503220070616
+  | accessdate =  2007-06-16
+| date=2007-06-16}}
+</ref> . 
+
+The [[United States]], [[European Union|EU]], and [[Israel]] have not recognized the Hamas government, but support Palestinian President Mahmoud Abbas and [[Prime Minister]] Salam Fayyad's government in the West Bank.  The [[Arab League]] called on all parties to stop the fighting and return the government to its status before the Battle of Gaza, which would be the [[Palestinian government of March 2007|2007 unity government]] and not the new Palestinian National Authority government appointed by Palestinian President Mahmoud Abbas.  Although the US does not officially recognize the Hamas government, it holds it "fully and entirely responsible for the Gaza Strip," [[United States Assistant Secretary of State]] [[Sean McCormack]] said. <ref name="cnn070616"/> . 
+
+On June 16, 2007, Ismail Haniya declared [[Said Fanuna]] (officially a Fatah general who, in reality, distanced himself from Mahmoud Abbas) as the new security chief in the Gaza Strip, stating him as a "higher police command" than the West Bank-based police chief [[Kamal el-Sheikh]] of the Fatah. <ref name="reuters070616_pg3"/><ref name="orf070616">
+{{cite web
+  | title = Kluft vertieft sich weiter (german)
+  | publisher = [[ORF (broadcaster)|ORF]]
+  | url = http://www.orf.at/070616-13435/13436txt_story.html
+  | accessdate =  2007-06-16}}
+</ref> . 
+
+===Internal and external conflicts===. 
+Since the division between the two Palestinian parties, while the West Bank remained relatively quiet, the Gaza Strip has been a scene of constant conflict between the Hamas and various factions against Israel, most notable the [[Gaza War]] of 2008-2009.  . 
+
+In 2009, The radicalization of the Gaza Strip also brought the 2009 Hamas crackdown on [[Jund Ansar Allah]], an Al-Queda affiliated group, resulting in 22 people killed. The event came after a radical Salafist cleric declared an "Islamic Emirate" in Gaza, accusing Hamas of failing to implement a full Sharia law. The undermining of the Hamas authority resulted in violent crackdown on the group, which took 2 days.  . 
+
+In March 2010, it was reported that [[Ahmed Jabari]] described the security situation in Gaza as deteriorating and that Hamas was starting to lose control. <ref>{{cite web
+  | title = Hamas losing control over Strip
+  | publisher = Jerusalem Post
+  | url = http://www.jpost.com/MiddleEast/Article.aspx?id=170335
+  | accessdate =  2010-03-07}}
+</ref> Nevertheless, the Hamas continued to execute its authority.  . 
+
+In April 2011, Hamas performed a crackdown on a [[Jahafil Al-Tawhid Wal-Jihad fi Filastin|Salafist group]], involved in [[Vittorio Arrigoni]]'s murder. <ref>[http://www.bbc.co.uk/news/world-middle-east-13387859]</ref><ref>[http://www.news24.com/World/News/Hamas-police-clash-with-Salafists-in-Gaza-20110419]</ref> . 
+
+==Government and politics==. 
+In 2006, Hamas won the [[Palestinian legislative election, 2006|2006 Palestinian legislative elections]] and assumed administrative control of Gaza Strip. In 2007, it led a [[Battle of Gaza (2007)|military victory]] over Fatah, the secular Palestinian nationalist party, which had dominated the [[Palestinian National Authority]]. As a result, the Hamas Prime Minister Haniye was released by President Mahmud Abbas - a move not recognized by the Hamas party, which ''de-facto'' continued administration and military control of the Gaza Strip, while in the PNA controlled West Bank another government was established with Fatach domination.  . 
+
+Both regimes - the [[Palestinian National Authority]] and the Hamas administration regard themselves as the sole legitimate Palestinian governments. Egyptian-mediated negotiations toward reconciliation between the PA and the Hamas administration produced a preliminary agreement, planned to be implemented by May 2012 in joint elections. To date, the Hamas administration is only economically bonded with the Palestinian National Authority, performing the governing over the Gaza Strip independently.  . 
+
+In March 2010, [[Ahmed Jabari]] described the security situation in Gaza as deteriorating and said Hamas was starting to lose control. <ref>{{cite web
+  | title = Hamas losing control over Strip
+  | publisher = Jerusalem Post
+  | url = http://www.jpost.com/MiddleEast/Article.aspx?id=170335
+  | accessdate =  2010-03-07}}
+</ref> . 
+
+In June 2011, the Independent Commission for Human Rights published a report whose findings included that the Palestinians in the [[West Bank]] and the Gaza Strip were subjected in 2010 to an “almost systematic campaign” of human rights abuses by the [[Palestinian Authority]] and [[Hamas]] administration, as well as by [[Israel]]i authorities, with the security forces belonging to the PA and Hamas administration being responsible for torture, arrests and arbitrary detentions. <ref>[http://www.jpost.com/MiddleEast/Article.aspx?id=224143 'PA bans journalists from reporting human rights abuses']</ref> . 
+
+==Economy==. 
+{{See also|Economy of Gaza|Economy of the Palestinian territories|Blockade of the Gaza Strip}}
+[[image:Sea view from Al Deira hotel, Gaza.jpg|thumb|Sea-view from Al Deira hotel on the Gaza coast]]
+The economy of the Hamas administred Gaza Strip is severely hampered by high population density, limited land access, strict internal and external security controls, the effects of Israeli military operations, and restrictions on labour and trade access across the border. [[Per capita income]] (PPP) was estimated at US$ 3,100 in 2009, a position of 164th in the world. <ref name="cia"/> Seventy percent of the population is below the poverty line according to a 2009 estimate. <ref name="cia"/> Gaza Strip industries are generally small family businesses that produce [[textile]]s, [[soap]], [[olive-wood]] carvings, and [[mother-of-pearl]] souvenirs; the Israelis have established some small-scale modern industries in an industrial centre. Israel supplies the Gaza Strip with electricity.  . 
+
+The main agricultural products are [[olive]]s, [[citrus]], [[vegetable]]s, [[Halal]] [[beef]], and [[dairy products]]. Primary exports are citrus and cut flowers, while primary imports are food, consumer goods, and construction materials. The main trade partners of the Gaza Strip are Israel, Egypt, and the [[Palestinian National Authority|Palestinian Authority]] in the [[West Bank]]. <ref name="cia">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/gz.html|title=CIA&nbsp;— The World Factbook&nbsp;— Gaza Strip|year=2010|publisher=CIA|accessdate=30 December 2010}}</ref> . 
+
+===Historic changes in Gaza's economy===. 
+====Under Palestinian Auhority====. 
+Economic output in the Gaza Strip declined by about one-third between 1992 and 1996. This downturn was attributed to corruption and mismanagement by [[Yasser Arafat]], and to Israeli closure policies. Economic development has been hindered by the lack of a sea harbour. A harbour was planned to be built in Gaza city with help from France and the Netherlands, but the project was bombed by Israel in 2001. Israel said that the Israeli settlement was being shot from the construction site at the harbour. <ref>[http://cgi.omroep.nl/legacy/babel?/ceres/vara/rest/2009/VARA_101199822/bb.20090310.asf]</ref><ref name="zembla.vara.nl">{{cite web|url=http://zembla.vara.nl/Afleveringen.1973.0.html?&tx_ttnews%5Btt_news%5D=11985&tx_ttnews%5BbackPid%5D=1972&cHash=585b6a76ce |title=Afleveringen |publisher=ZEMBLA |date=2010-04-18 |accessdate=2010-06-01}}</ref> As a result, international transports (both trade and aid) had to go through Israel, which was hindered by the imposition of generalized border closures. These also disrupted previously established labor and commodity market relationships between Israel and the Strip. A serious negative social effect of this downturn was the emergence of high unemployment.  . 
+
+[[File:GazaTextiles.jpg|thumb|Backyard industry]]
+Israel's use of comprehensive closures decreased over the next few years. In 1998, Israel implemented new policies to ease security procedures and allow freer movement of Gazan goods and labor into Israel.  These changes led to three years of economic recovery in the Gaza Strip, disrupted by the outbreak of the [[al-Aqsa Intifada]] in the last quarter of 2000 that lasted until 2004. The al-Aqsa Intifada triggered tight [[Israel Defense Forces|IDF]] closures of the border with Israel, as well as frequent curbs on traffic in Palestinian self-rule areas, severely disrupting trade and labor movements. In 2001, and even more so in early 2002, internal turmoil and Israeli military measures led to widespread business closures and a sharp drop in [[Gross domestic product|GDP]]. Infrastructure, such as the Palestine airport, was destroyed. <ref name="zembla.vara.nl"/> Another major factor was a drop in income due to reduction in the number of Gazans permitted entry to work in Israel. After the Israeli withdrawal from Gaza, the flow of a limited number of workers into Israel resumed, although Israel said it would reduce or end such permits due to the victory of [[Hamas]] in the [[Palestinian legislative election, 2006|2006 parliamentary elections]].  . 
+
+The Israeli settlers of [[Gush Katif]] built [[greenhouse]]s and experimented with new forms of agriculture.  These greenhouses provided employment for hundreds of Gazans. When Israel withdrew from the Gaza Strip in the summer of 2005, some of the greenhouses were purchased with money raised by former [[World Bank]] president [[James Wolfensohn]], and given to Palestinians to jump-start their economy, while others were demolished by the departing settlers. <ref>[http://www.nytimes.com/2005/07/15/international/middleeast/15mideast.html Israeli Settlers Demolish Greenhouses and Gaza Jobs] ''[[New York Times]]'', 15 July 2005</ref> The effort faltered due to limited water supply, Palestinian looting, restrictions on exports and corruption in the Palestinian Authority. Many Palestinian companies repaired the greenhouses damaged and looted in the process of Israeli withdrawal. <ref>{{cite web|url=http://www.msnbc.msn.com/id/9331863/ |title=Looters strip Gaza greenhouses |publisher=MSNBC |date=2005-09-13 |accessdate=2010-06-01}}</ref> . 
+
+Before the second Palestinian uprising in September 2000, around 25,000 workers from the Gaza Strip (about 2% of the population) used to work in Israel every day. <ref>{{cite web|url=http://afp.google.com/article/ALeqM5g7NNG7m5AEfoCjIspXI7lya2LTFg |title=AFP |publisher=Afp.google.com |date=2007-10-10 |accessdate=2010-06-01}}</ref>
+[[image:Smuggling Tunnel.jpg|thumb|right|Tunnel between the Gaza Strip and Egypt]] . 
+
+====Following Hamas takeover====. 
+Israel, the United States, Canada, and the European Union have frozen all funds to the Palestinian government after the formation of a Hamas-controlled government after its victory in the [[Palestinian legislative election, 2006|2006 Palestinian legislative election]]. They view the group as a [[terrorist]] organization, and have pressured Hamas to recognize Israel, renounce violence, and make good on past agreements. Prior to disengagement, 120,000 Palestinians from Gaza were employed in Israel or in joint projects.  After the Israeli withdrawal, the gross domestic product of the Gaza Strip declined.  Jewish enterprises shut down, work relationships were severed and job opportunities in Israel dried up. After the 2006 elections, fighting broke out between Fatah and Hamas, which Hamas won in the Gaza Strip on 14 June 2007. Israel imposed a blockade, and the only goods permitted into the Strip through the land crossings were goods of a humanitarian nature.  . 
+
+===Current budget===. 
+Most of the Gaza Strip administration funding comes from outside as an aid, with large portion delivered by UN organizations directly to education and food supply. Most of the Gaza GDP of 700$ million comes as foreign humanitarian and direct economic support. Of those funds, the major part is supported by the U.S. and the European Union. Portions of the direct economic support have been provided by the Arab League, though it largely has not provided funds according to schedule. Among other alleged sources of Gaza administration budget is Iran.  . 
+
+A diplomatic source told Reuters that Iran had funded Hamas in the past with up to $300 million per year, but the flow of money had not been regular in 2011. "Payment has been in suspension since August", said the source. <ref name=alarabiya3001/> . 
+
+On January 2012, some diplomatic sources have said that Turkey promised to provide Haniyeh’s Gaza Strip administration with $300 million to support its annual budget. <ref name=alarabiya3001/> . 
+
+On April 2012, the Hamas government in Gaza approved its budget for 2012, which was up 25% year-on-year over 2011 budget, indicating that donors, including Iran, benefactors in the Islamic world and Palestinian expatriates, are still heavily funding the movement. <ref name=aa0204>[http://english.alarabiya.net/articles/2012/04/02/204861.html]</ref> Chief of Gaza's parliament's budget committee Jamal Nassar said the 2012 budget is $769 million, compared to $630 million in 2011. <ref name=aa0204/> . 
+
+==Health==. 
+[[File:Mosque conf hall iug.jpg|thumb|[[Islamic University of Gaza]]]]
+A study carried out by [[Johns Hopkins University]] (U.S.) and [[Al-Quds University]] (in [[Abu Dis]]) for [[Cooperative for Assistance and Relief Everywhere|CARE International]] in late 2002 revealed very high levels of dietary deficiency among the Palestinian population.  The study found that 17.5% of children aged 6–59 months suffered from chronic [[malnutrition]].  53% of women of reproductive age and 44% of children were found to be [[anemia|anemic]]. After the Hamas takeover of the Gaza Strip health conditions in Gaza Strip faced new challenges. [[World Health Organization]] (WHO) expressed its concerns about the consequences of the Palestinian internal political fragmentation; the socioeconomic decline; military actions; and the physical, psychological and economic isolation on the health of the population in Gaza. <ref>{{cite web|url=http://www.who.int/hac/crises/international/wbgs/sitrep_25sept2007/en/index.html |title=WHO &#124; WHO statement on the situation in the Gaza Strip |publisher=Who.int |date=2007-09-25 |accessdate=2010-06-01}}</ref> Gazans who desire medical care in Israeli hospitals must apply for a medical visa permit. In 2007, State of Israel granted 7,176 permits and denied 1,627. <ref>Berg, Raffi. [http://news.bbc.co.uk/2/hi/middle_east/7375439.stm  Israel's dilemma over sick Gazans]. [[BBC News]], April 30, 2008</ref> Dr. Mohammed Abu Shaban, director of the Blood Tumors Department in Al-Rantisy Hospital in Gaza witnessed an increase in blood cancer. In March 2010 the department had seen 55 cases that year, compared to 20 to 25 cases normally seen in an entire year. <ref>{{cite web|url=http://www.paltelegraph.com/diaries/featured-articles/4847-cancer-increases-by-considerable-percentage-gaza-strip |title=Cancer increases by considerable percentage in Gaza Strip |publisher=Paltelegraph.com |date=2010-03-16 |accessdate=2010-05-31}}{{dead link|date=May 2011}}</ref>{{Dubious|date=June 2010}}According to the [[United Nations Development Programme]], the average life expectancy in the Gaza Strip is 72. <ref>{{cite web|url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf |title=Early Recovery and Reconstruction Needs Assessment - Gaza |format=PDF |date= |accessdate=2010-12-12}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/2/hi/middle_east/country_profiles/803257.stm |title=Israel and Palestinian territories country profile |publisher=BBC News |date=2010-05-08 |accessdate=2010-12-12}}</ref> As part of the Palestinian territories, the Gaza Strip places 24th out of 135 countries according to [[Human Poverty Index]]. <ref>http://hdrstats.undp.org/en/countries/country_fact_sheets/cty_fs_PSE.html</ref> According to Palestinian leaders in the Gaza Strip, the majority of medical aid delivered are "past their expiration date." Mounir el-Barash, the director of donations in Gaza's health department, claims 30% of aid sent to Gaza is used. <ref>{{cite web|url=http://www.jpost.com/MiddleEast/Article.aspx?id=182120 |title=Report: Gaza medical aid is expired |publisher=Jpost.com |date= |accessdate=2010-12-12}}</ref> . 
+
+==Education==. 
+[[image:Ucas1.jpg|thumb|[[University College of Applied Sciences]], the largest college in Gaza]]
+According to UNRWA figures, there are 640 schools in Gaza:  383 government schools, 221 UNRWA schools and 36 private schools, serving a total of 441,452 students. <ref>{{cite web|author=|url=http://imeu.net/news/article0017067.shtml |title=Children and education fact sheet |publisher=Imeu.net |date= |accessdate=2010-12-12}}</ref>
+In 2010, Al Zahara, a private school in central Gaza introduced a special program for mental development based on math computations. The program was created in Malaysia in 1993, according to the school principal, Majed al-Bari. <ref>{{cite web|url=http://ipsnews.net/news.asp?idnews=52586 |title=This Math Class May Figure Out Israel |publisher=Ipsnews.net |date=2010-08-24 |accessdate=2010-12-12}}</ref> . 
+
+The Community College of Applied Science and Technology (CCAST) was established in 1998 in Gaza City. In 2003, the college moved into its new campus and established the Gaza Polytechnic Institute (GPI) in 2006 in southern Gaza. In 2007, the college received accreditation to award BA degrees as the [[University College of Applied Sciences]] (UCAS). In 2010, the college had a student population of 6,000 in eight departments offering over 40 majors. <ref>{{cite web|url=http://www.ucas.edu.ps/english/ucasview.aspx?pageid=47 |title=University College of Applied Sciences |publisher=Ucas.edu.ps |date= |accessdate=2010-12-12}}</ref> . 
+
+==Demographics==. 
+{{Main|Demographics of the Palestinian territories}}
+In 2010 approximately 1.6 million Palestinians lived in the Gaza Strip,<ref name="cia">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/gz.html|title=CIA&nbsp;— The World Factbook&nbsp;— Gaza Strip|year=2010|publisher=CIA|accessdate=30 December 2010}}</ref> of whom almost 1.0 million are UN-registered refugees. <ref>{{cite web|url=http://www.un.org/unrwa/refugees/gaza.html|archiveurl=http://web.archive.org/web/20071217211906/http://www.un.org/unrwa/refugees/gaza.html|archivedate=2007-12-17 |title=UNRWA: palestine refugees |publisher=Un.org |date= |accessdate=2010-06-01}}</ref> The majority of the Palestinians are descendants of refugees who were driven from or left their homes during the [[1948 Arab-Israeli War]]. The Strip's population has continued to increase since that time, one of the main reasons being a [[total fertility rate]] of almost 5 children per woman. In a [[List of countries by fertility rate|ranking by total fertility rate]], this places Gaza 26th of 223 regions. <ref name="cia"/> . 
+
+Most of the inhabitants are [[Sunni Muslims]], with an estimated 2,000 to 3,000 [[Christians]],<ref>[http://news.bbc.co.uk/1/hi/world/middle_east/4514822.stm Middle East Christians: Gaza pastor] BBC News, 21 December 2005</ref> making the region 99.3&nbsp;percent [[Sunni Muslim]] and 0.7&nbsp;percent Christian. <ref name="cia"/> . 
+
+Before the Hamas takeover, approximately 500 women from the former [[Soviet Union]] lived in Gaza. During the Soviet era, the Communist Party subsidized university studies for thousands of students from Yemen, Egypt, Syria and the territories. Some of them married during their studies and brought their Russian and Ukrainian spouses back home. When Hamas came to power, over half of them left the Strip via the Erez crossing to Amman and flew back to Eastern Europe. <ref>{{cite web|last=Svetlova |first=Ksenia |url=http://fr.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1181813087463 |title=E. European wives of Gazans adjust to life under Hamas|publisher=Jerusalem Post |date=2007-06-20 |accessdate=2011-05-21}}</ref> . 
+
+==Culture and sports==. 
+[[image:IMG 1112.jpg|thumb|right|[[Mosque]] near the border with Israel]]
+The Gaza Strip has been home to a significant branch of the contemporary Palestinian art movement since the mid 20th century. Notable artists include painters Fayez Sersawi, Abdul Rahman al Muzayan and Ismail Shammout, and media artists Taysir Batniji (who lives in France) and [[Laila Shawa|Laila al Shawa]] (who lives in London). An emerging generation of artists is also active in nonprofit art organizations such as Windows From Gaza and Eltiqa Group, which regularly host exhibitions and events open to the public. <ref>Farhat, Maymanah. [http://mrzine.monthlyreview.org/farhat160109.html Under the Voices of Fire: Artists in Gaza]{{dead link|date=May 2011}}</ref> . 
+
+In 2010, Gaza inaugurated its first [[Olympic-size swimming pool]] at the [[As-Sadaka]] club. The opening ceremony was held by the Islamic Society. <ref name=Maan>[http://www.maannews.net/eng/ViewDetails.aspx?ID=285242 Gaza opens first Olympic-size swimming pool], May 18, 2020, Ma'an News Agency. </ref> The swimming team of as-Sadaka holds several gold and silver medals from Palestinian swimming competitions. <ref name="sadaka">[http://www.alsadaka.ps/index.php/archives/604 السباحة صالة الالعاب الرياضية والساونا في النادي], as-Sadaka Athletics Club</ref> . 
+
+==Transport and communication==. 
+[[File:Gaza airport 03.jpg|thumb|Damaged part of Gaza airport, May 2002]]
+The road network in Gaza is underdeveloped.  A single [[standard gauge]] railway line that ran the length of the Strip from north to south is not operative.  Prior to 1948 the line connected to the [[Egyptian National Railways|Egyptian railway system]] to the south, as well as what then became the [[Israel Railways|Israeli system]] to the north. Plans to build a port were halted after the outbreak of the [[al-Aqsa Intifada]].  The [[Yasser Arafat International Airport]] opened on 24 November 1998 after the signing of the [[Oslo II Accord]] and the [[Wye River Memorandum]]. It was closed by Israel in October 2000. Its radar station and control tower were destroyed by Israel Defense Forces aircraft in 2001 during the al-Aqsa Intifada, and bulldozers razed the runway in January 2002. <ref>[http://msnbc.msn.com/id/7900217/ Grounded in Gaza, but hoping to fly again], [[MSNBC]], May 19, 2005, Retrieved on July 2nd 2006</ref><ref name="bbc2005">[http://news.bbc.co.uk/1/hi/world/middle_east/4449461.stm Years of delays at Gaza airport], [[Alan Johnston|Johnston, Alan]]. ''[[BBC News]]'', April 15, 2005, Retrieved on July 2nd 2006</ref> The only remaining runway is at the [[Gaza Airstrip]]. However, the airspace over Gaza is blockaded by the [[Israeli Air Force]].  . 
+
+The Gaza Strip has rudimentary land line telephone service provided by an open-wire system, as well as extensive mobile telephone services provided by [[PalTel]] (Jawwal) and Israeli providers such as [[Cellcom (Israel)|Cellcom]].  Gaza is serviced by four [[internet service provider]]s that now compete for [[ADSL]] and dial-up customers.  Most Gaza households have a radio and a TV (70%+), and approximately 20% have a [[personal computer]].  People living in Gaza have access to [[Free-to-air|FTA]] satellite programs, broadcast TV from the [[Palestinian Broadcasting Corporation]], the [[Israel Broadcasting Authority]], and the [[Second Israeli Broadcasting Authority]]. <ref>{{cite web|url=http://docs.google.com/gview?a=v&q=cache:8bx1UFVnnI8J:www.ijma3.org/Admin/Additionals/survey_english.pdf+computer+ownership+in+Gaza+strip&hl=en&gl=nz&pid=bl&srcid=ADGEEShNVU9JU2TtRYX8XwHEJMjSdJUbW-w9MjDDA9B3XQS43AcovZ99O1Uk8-_ELbPVgq1zHazQyYf_zTQWvBUo-JMZCJ7kCigKF2SwRDHFHOtp8clfUynWkmrZc1x9RdVmCwvNpw7C&sig=AFQjCNGCO4cyOx0BC9fsbJiwLVf4fJXXMQ |title=Palestinian Central Bureau of Statistics - 2004 Survey of Computer, Internet and Mobile Phone Ownership |publisher=Docs.google.com |date= |accessdate=2010-06-01}}</ref> . 
+
+==See also==. 
+*[[Palestinian government#Executive organs|Palestinian government]]
+*[[Hamastan]]
+*[[Palestinian political violence]] . 
+
+==References==. 
+{{Reflist}} . 
+
+{{Asia topic|Government of|title=Governments of Asia}}
+{{Afro-Asiatic-speaking}}
+{{Semitic-speaking}}
+{{Countries and territories of the Mediterranean Sea}} . 
+
+[[Category:Palestinian National Authority]]
+[[Category:Politics of the Gaza Strip]]
+[[Category:Palestinian politics]]
+[[Category:Palestinian nationalism]]
+[[Category:Fatah–Hamas conflict]]
+[[Category:Gaza Strip]]
+[[Category:2006 establishments]]
+[[Category:Autonomous regions]]

@@ -1,0 +1,69 @@
+{{Economic systems sidebar}}
+A '''market economy''' is an economy in which decisions regarding investment, production and distribution are based on [[supply and demand]]<ref>{{cite book |last= Gregory and Stuart|first= Paul and Robert |title= Comparing Economic Systems in the Twenty-First Century, Seventh Edition |publisher=George Hoffman|year= 2004 |ISBN= 0-618-26181-8|page = 538|quote=Market Economy: Economy in which fundamentals of supply and demand provide signals regarding resource utilization.}}</ref> and the prices of [[good (economics)|goods]] and [[Service (economics)|services]] are determined in a [[free price system]]. <ref>{{cite book|title=The Future of the Market: An Essay on the Regulation of Money and Nature After the Collapse of "Actually Existing Socialism|author=Altvater, E.|year=1993|publisher=Verso|pages=57}}</ref> This is contrasted with a [[planned economy]], where investment and production decisions are embodied in a plan of production. Market economies can range from hypothetical [[laissez-faire]] and [[free market]] variants to [[regulated markets]] and [[Economic interventionism|interventionist]] variants. Most existing market economies include a degree of [[economic planning]] or state-directed activity and are thus classified as [[mixed economy|mixed economies]].  . 
+
+In the real world, market economies do not exist in pure form, as societies and governments regulate them to varying degrees rather than allow full self-regulation by market forces. <ref>{{cite book|title=The Future of the Market: An Essay on the Regulation of Money and Nature After the Collapse of "Actually Existing Socialism|author=Altvater, E.|year=1993|publisher=Verso|pages=237–238}}</ref><ref>Tucker, Irvin B. p 491. Macroeconomics for Today. West Publishing. p. 491</ref> The term ''[[free-market]] economy'' is sometimes used synonymously with market economy,<ref>[http://unabridged.merriam-webster.com/cgi-bin/unabridged?va=market%20economy "market economy"], [[Merriam-Webster]] Unabridged Dictionary</ref> but, as [[Ludwig Erhard]] once pointed out, this does not preclude an economy from providing various [[social welfare]] programs such as unemployment benefits, as in the case of the [[social market economy]].  . 
+
+There exists both [[Socialism|socialist]] and [[Capitalism|capitalist]] models of market economies. There are many variations of [[market socialism]] ranging from the cooperative model, where [[Worker cooperative|employee-owned enterprises]] based on self-management are coordinated by markets and output of final goods and services is based on market allocation,<ref>{{cite web|title=What is capitalism?|url=http://www.worldsocialism.org/articles/what_is_capitalism.php|publisher=World Socialist Movement}}</ref> to those based on public ownership of the [[means of production]]. <ref>{{cite book |last= Bock man|first= Johanna |title= Markets in the name of Socialism: The Left-Wing origins of Neoliberalism|publisher= Stanford University Press|year= 2011|month= |ISBN= 978-0-8047-7566-3.}}</ref> . 
+
+The term used by itself can be somewhat misleading. For example, the United States constitutes a mixed economy (substantial market [[regulation]], [[agricultural subsidy|agricultural subsidies]], extensive government-funded [[research and development]], [[Medicare (United States)|Medicare]]/[[Medicaid]]), yet at the same time it is foundational rooted in a market economy. Different perspectives exist as to how strong a role the government should have in both guiding the market economy and addressing the inequalities the market produces. This is evidenced by the current lack of consensus on issues such as [[central bank]]ing and [[Social welfare|welfare]].  . 
+
+==Capitalism==. 
+{{main|Capitalism}}
+Capitalism generally refers to  economic system in which the [[means of production]] are largely or entirely privately owned and operated for a profit, structured on the process of [[capital accumulation]]. In general, investments, distribution, income, and pricing is determined by markets.  . 
+
+There are different variations of capitalism and these different variations have different relationships to markets. In free-market and Lassiez-faire forms of capitalism, markets are utilized most extensively with minimal or no regulation over the pricing mechanism. In interventionist, Keynesian and mixed economies, markets continue to play a dominant role but are regulated to some extent by government in order to correct market failures or to promote social welfare. In [[state capitalist]] systems, markets are relied upon the least, and the state relies heavily on either [[Indicative planning|indirect economic planning]] and/or [[State enterprise|state-owned enterprises]] to accumulate capital.  . 
+
+Capitalism has been dominant in the Western world since the end of [[feudalism]], but most feel that the term "mixed economies" more precisely describes most contemporary economies, due to their containing both private-owned and state-owned enterprises. In capitalism, prices are decided by the demand-supply scale. For example, higher demand for certain goods and services lead to higher prices and lower demand for certain goods lead to lower prices.  . 
+
+===Laissez-faire===. 
+Laissez-faire is synonymous with what was referred to as strict capitalist free market economy during the early and mid-19th century as an ideal to achieve. It is generally understood that the necessary components for the functioning of an idealized free market include the complete absence of government regulation, subsidies, artificial price pressures and government-granted monopolies (usually classified as [[coercive monopoly]] by free market advocates) and no taxes or tariffs other than what is necessary for the government to provide protection from coercion and theft and maintaining peace, and property rights.  . 
+
+=== Social market economy ===. 
+{{main|Social market economy}}
+This model was implemented by [[Alfred Müller-Armack]] and [[Ludwig Erhard]] after [[World War II]] in [[West Germany]]. The social market economic model is based upon the idea of realizing the benefits of a free market economy, especially economic performance and high supply of goods, while avoiding disadvantages such as [[market failure]], destructive competition, concentration of economic power and anti-social effects of market processes. The aim of the social market economy is to realize greatest prosperity combined with best possible social security. As a difference to the free market economy the state is not passive, but actively takes [[Regulation|regulative]] measures. <ref>[http://www.bpb.de/popup/popup_lemmata.html?guid=Y0VZ7J keyword "social market economy" = “Soziale Marktwirtschaft”] Duden Wirtschaft von A bis Z. Grundlagenwissen für Schule und Studium, Beruf und Alltag. 2. Aufl. Mannheim: Bibliographisches Institut & F.A. Brockhaus 2004. Lizenzausgabe Bonn: Bundeszentrale für politische Bildung 2004. </ref> The social policy objectives include employment, housing and education policies, as well as a socio-politically motivated balancing of the distribution of income growth. Characteristics of social market economies are a strong [[competition policy]] and a [[contractionary monetary policy]]. The theoretical fundamental is built on [[ordoliberalism]], [[Catholic social teaching]] and [[Socialism#Democratic_socialism|Democratic Socialism]]. <ref>Gabler Wirtschaftslexikon: [http://wirtschaftslexikon.gabler.de/Definition/soziale-marktwirtschaft.html Eintrag: keyword "social market economy" = Soziale Marktwirtschaft]</ref> . 
+
+== Market socialism ==. 
+{{main|Market socialism}}
+Market socialism refers to various economic systems where the means of production or dominant economic institutions are either [[Public ownership|publicly-owned]] or [[Cooperative|cooperatively-owned]] but operated according to the rules of supply and demand.  . 
+
+In the [[Oskar Lange]]'s model of Market socialism, prices would be determined by a government planning board through a trial-and-error approach until they equaled the [[marginal cost]] of production as to achieve [[perfect competition]] and [[pareto optimality]]. In this model, firms would either be state-owned and managed by their employees.  . 
+
+A more contemporary model of market socialism is that put forth by [[John Roemer]], where [[social ownership]] is achieved through public ownership of equity in a market economy.  . 
+
+The distinguishing feature between non-market socialism and market socialism is the existence of a market in the means of production and the criteria of profitability for enterprises. Profits derived from the public enterprises can either be used to reinvest in production or finance government and social services directly and/or be distributed to the workforce or public at large through a [[social dividend]].  . 
+
+=== Cooperative socialism ===. 
+[[Libertarian socialists]] and left-anarchists often promote a form of market socialism in which enterprises are owned and managed cooperatively by the workers so that the profits directly remunerate the employee-owners. These cooperative enterprises would compete with each other in the same way private companies compete in a capitalist market. An example would be [[Mutualism (economic theory)]].  . 
+
+=== Socialist market economy ===. 
+Following the 1978 reforms, the [[People's Republic of China]] instituted what it calls a "[[socialist market economy]]", in which most of the economy is under state ownership, but the state enterprises are reorganized into joint-stock companies where various government agencies own controlling shares through a shareholder system. Prices are set by a largely free-price system and the state-owned enterprises are not subjected to micromanagement from a government planning agency. A similar system called "[[socialist-oriented market economy]]" has been implemented in [[Vietnam]] following the [[Doi Moi]] reforms in 1986.  . 
+
+However, this system is usually characterized as [[state capitalism]] instead of market socialism because there exists no meaningful degree of employee management in the firms, the state enterprises retain their profits instead of distributing them to the workforce or government, and many function as partial or de facto private enterprises.  . 
+
+== Criticisms ==. 
+[[Robin Hahnel]] and [[Michael Albert]] <blockquote>
+"(...) claim that markets inherently produce [[Social class|class division]]" {divisions between conceptual and manual laborers, and ultimately managers and workers, and a de facto labor market for conceptual workers}. Albert says that even if everyone started out with a [[balanced job complex]] {doing a mix of roles of varying creativity, responsibility and empowerment} in a market economy, class divisions would arise. Without taking the argument that far, it is evident that in a market system with uneven distribution of empowering work, such as Economic Democracy {the model of market socialism [[David Schweickart]] has developed and refers to as "economic democracy"}, some workers will be more able than others to capture the benefits of economic gain. For example if one worker designs cars and another builds them, the designer will use his cognitive skills more frequently than the builder. In the long term, the designer will become more adept at conceptual work than the builder, giving the designer greater bargaining power in a firm over the distribution of income. A conceptual worker who is not satisfied with his income can threaten to work for a company that will pay him more (...)". <ref name='Comparison'>{{cite news |first=Adam |last=Weiss |coauthors= |title=A Comparison of Economic Democracy and Participatory Economics |date=2005-05-04 |publisher= |url=http://www.zmag.org/znet/viewArticle/6345 |work=[[ZMag]] |pages= |accessdate=2008-06-26 |language=}}</ref>
+Therefore according to this critique class divisions would arise inevitably. </blockquote> . 
+
+{{Unreferenced section|date=May 2011}} . 
+
+Another practical objection is the claim that markets do not take into account [[externalities]] (effects of transactions that affect third parties), such as the negative effects of pollution or the positive effects of education. What exactly constitutes an externality may be up for debate, including the extent to which it changes based upon the political climate. Some proponents of market economies believe that governments should not diminish market freedom because they disagree on what is a market externality and what are government-created externalities, and disagree over what the appropriate level of intervention is necessary to solve market-created externalities. Others believe that government should intervene to prevent [[market failure]] while preserving the general character of a market economy. In the model of a [[social market economy]] the state intervenes where the market does not meet political demands. [[John Rawls]] was a prominent proponent of this idea.  . 
+
+==See also==. 
+*[[Free market]]
+*[[Market]]
+*[[Economic freedom]]
+*[[Grey market]]
+*[[Market socialism]]
+*[[Mixed economy]]
+*[[Planned economy]]
+*[[Regulated market]] . 
+
+==References==. 
+{{Reflist}} . 
+
+[[Category:Capitalism]]
+[[Category:Economic systems]]
+[[Category:Economic ideologies]]
+[[Category:Economic liberalism]]
+[[Category:Economies]]

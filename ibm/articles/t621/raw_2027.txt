@@ -1,0 +1,240 @@
+[[Image:479px-Atomic blast.jpg|right|thumb|200px|An American [[nuclear testing|nuclear test]].]]
+{{nuclear weapons}} . 
+
+The energy released from a [[nuclear weapon]] detonated in the [[troposphere]] can be divided into four basic categories:<ref name="remmNucExpl">{{cite web |url=http://www.remm.nlm.gov/nuclearexplosion.htm |title=Nuclear Explosions: Weapons, Improvised Nuclear Devices |publisher=U.S. Department of Health and Human Services |date=2008-02-16 |accessdate=2008-07-03}}</ref>
+*[[explosion|Blast]]&mdash;40-50% of total energy
+*[[Thermal radiation]]&mdash;30-50% of total energy
+*[[Ionizing radiation]]&mdash;5% of total energy (more in a [[neutron bomb]])
+*[[Nuclear fallout|Residual radiation]]&mdash;5-10% of total energy . 
+
+However, depending on the design of the weapon and the environment in which it is detonated the energy distributed to these categories can be increased or decreased. The blast effect is created by the coupling of immense amounts of energy, spanning the [[electromagnetic spectrum]], with the surroundings. Locations such as submarine, surface, airburst, or exo-atmospheric determine how much energy is produced at blast and how much as radiation. In general, denser media around the bomb, like water, absorb more energy, and create more powerful shockwaves while at the same time limiting the area of its effect.  . 
+
+The physical-damage mechanisms of a nuclear weapon (blast and thermal radiation) are identical to those of conventional [[explosives]]. However, the energy produced by a nuclear explosive is millions of times more powerful per gram and the temperatures reached are briefly in the tens of millions of degrees.  . 
+
+Energy from a nuclear explosive is initially released in several forms of penetrating radiation. When there is a surrounding material such as air, rock, or water, this radiation interacts with and rapidly heats it to an equilibrium temperature (i.e. so that the matter is at the same temperature as the atomic bomb's matter). This causes vaporization of surrounding material resulting in its rapid expansion. [[Kinetic energy]] created by this expansion contributes to the formation of a shockwave. When a nuclear detonation occurs in air near sea level, much of the released energy interacts with the atmosphere and creates a shockwave which expands spherically from the hypocenter. Intense thermal radiation at the hypocenter forms a fireball and if the burst is low enough, its often associated [[mushroom cloud]]. In a burst at high altitudes, where the air density is low, more energy is released as ionizing gamma radiation and x-rays than an atmosphere-displacing shockwave.  . 
+
+In 1942 there was some initial speculation among the scientists developing the first nuclear weapons that there might be a possibility of igniting the [[Earth's atmosphere]] with a large enough nuclear explosion. This would concern a nuclear reaction of two nitrogen atoms forming a carbon and an oxygen atom, with release of energy. This energy would heat up the remaining nitrogen enough to keep the reaction going until all nitrogen atoms were consumed. This was, however, quickly shown to be impossible, due to inverse [[Compton effect]] cooling of the fireball. <ref>http://www.fas.org/sgp/othergov/doe/lanl/docs1/00329010.pdf</ref> Nevertheless, the notion has persisted as a rumour for many years.  . 
+
+== Direct effects ==. 
+=== Blast damage === . 
+
+[[Image:Blastcurves psi.svg|thumb|200px|right|Overpressure ranges from 1 to 50 psi (6.9 to 345 kilopascals) of a 1 kiloton of TNT air burst as a function of burst height. The thin black curve indicates the optimum burst height for a given ground range.]]
+[[Image:Abombdamage1945.svg|thumb|left|300px|An estimate of the size of the damage caused by the [[Atomic bombings of Hiroshima and Nagasaki]]. A modern hydrogen bomb would be tens<ref>http://www.nukestrat.com/pubs.htm</ref> of times more powerful and cause similar levels of damage at 2-5 times the distance.]]
+The high temperatures and radiation cause gas to move outward radially in a thin, dense shell called "the hydrodynamic front."  The front acts like a piston that pushes against and compresses the surrounding medium to make a spherically expanding [[shock wave]]. At first, this shock wave is inside the surface of the developing fireball, which is created in a volume of air by the X-rays. However, within a fraction of a second the dense shock front obscures the fireball, causing the characteristic double pulse of light seen from a nuclear detonation. For air bursts at or near sea-level, between 50-60% of the explosion's energy goes into the blast wave, depending on the size and the [[yield]] of the bomb. As a general rule, the blast fraction is higher for low yield weapons. Furthermore, it decreases at high altitudes because there is less air mass to absorb radiation energy and convert it into blast. This effect is most important for altitudes above 30&nbsp;km, corresponding to <1 per cent of sea-level air density.  . 
+
+Much of the destruction caused by a nuclear explosion is due to blast effects. Most buildings, except reinforced or blast-resistant structures, will suffer moderate to severe damage when subjected to overpressures of only 35.5 [[Pascal (unit)|kilopascals]] (kPa) (5.15 [[pounds-force per square inch]] or 0.35 atm).  . 
+
+The blast wind may exceed one thousand km/h. The range for blast effects increases with the explosive yield of the weapon and also depends on the burst altitude. Contrary to what one might expect from geometry the blast range is not maximal for surface or low altitude blasts but increases with altitude up to an "optimum burst altitude" and then decreases rapidly for higher altitudes. This is due to the nonlinear behaviour of shock waves.{{Clarify|date=February 2012}} If the blast wave reaches the ground it is reflected. Below a certain reflection angle the reflected wave and the direct wave merge and form a reinforced horizontal wave, the so-called Mach stem (named after [[Ernst Mach]]). For each goal overpressure there is a certain optimum burst height at which the blast range is maximized. In a typical air burst, where the blast range is maximized for {{convert|5|to|20|psi|kPa|abbr=on}}, these values of overpressure and wind velocity noted above will prevail at a range of 0.7&nbsp;km for 1 [[kiloton]] (kt) of TNT yield; 3.2&nbsp;km for 100 kt; and 15.0&nbsp;km for 10 [[TNT equivalent|megatons]] (Mt) of TNT.  . 
+
+Two distinct, simultaneous phenomena are associated with the blast wave in air: 
+*'''[[Static overpressure]]''', i.e., the sharp increase in pressure exerted by the shock wave. The overpressure at any given point is directly proportional to the density of the air in the wave. 
+*'''[[Dynamic pressure]]s''', i.e., drag exerted by the blast winds required to form the blast wave. These winds push, tumble and tear objects.  . 
+
+Most of the material damage caused by a nuclear air burst is caused by a 
+combination of the high static overpressures and the blast winds. The long compression of the blast wave weakens structures, which are then torn apart by the blast winds. The compression, vacuum and drag phases together may last several seconds or longer, and exert forces many times greater than the strongest [[hurricane]].  . 
+
+Acting on the human body, the shock waves cause pressure waves through the tissues. These waves mostly damage junctions between tissues of different densities ([[bone]] and [[muscle]]) or the interface between tissue and air. [[Lung]]s and the [[abdominal cavity]], which contain air, are particularly injured. The damage causes severe hemorrhaging or air embolisms, either of which can be rapidly fatal. The overpressure estimated to damage lungs is about 70 kPa. Some [[eardrum]]s would probably rupture around 22 kPa (0.2 atm) and half would rupture between 90 and 130 kPa (0.9 to 1.2 atm).  . 
+
+'''Blast Winds''': The drag energies of the blast winds are proportional to the cubes of their velocities multiplied by the durations. These winds may reach several hundred kilometers per hour.  . 
+
+=== Thermal radiation ===. 
+[[Image:Nukecloud.png|thumb|left|250 px|Mushroom cloud height depending on yield for ground bursts. <br /> 0 = Approx altitude commercial aircraft operate<br />1 = [[Fat Man]]<br />2 = [[Castle Bravo]].]] . 
+
+Nuclear weapons emit large amounts of [[thermal radiation]] as visible, infrared, and ultraviolet light. This is known as "Flash". <ref>{{cite web|title=Nuclear Bomb Effects|url=http://www.solcomhouse.com/nuclearholocaust.htm|work=The Atomic Archive|publisher=solcomhouse.com|accessdate=12 September 2011}}</ref> The chief hazards are burns and [[Human eye|eye]] injuries. On clear days, these injuries can occur well beyond blast ranges. The light is so powerful that it can start fires that spread rapidly in the debris left by a blast. However, the high winds following the blast wave will put out almost all such fires, unless the yield is very high.  This is because the intensity of the blast effects drops off with the third power of distance from the explosion, while the intensity of radiation effects drops off with the second power of distance. However, in urban areas, the extinguishing of fires ignited by thermal radiation matters little, as fires will be started anyway by electrical shorts, gas pilot lights, overturned stoves, and other ignition sources. The range of thermal effects increases markedly with weapon yield. Thermal radiation accounts for between 35-45% of the energy released in the explosion, depending on the yield of the device.  . 
+
+There are two types of eye injuries from the thermal radiation of a weapon:  . 
+
+[[Flash blindness]] is caused by the initial brilliant flash of light produced by the nuclear detonation. More light energy is received on the retina than can be tolerated, but less than is required for irreversible injury. The retina is particularly susceptible to visible and short wavelength infrared light, since this part of the [[electromagnetic spectrum]] is focused by the lens on the retina. The result is bleaching of the visual pigments and temporary [[blindness]] for up to 40 minutes.  . 
+
+[[Image:The_patient's_skin_is_burned_in_a_pattern_corresponding_to_the_dark_portions_of_a_kimono_-_NARA_-_519686.jpg|right|thumb|300px|Burns visible on a woman in Hiroshima during the blast. Darker colors of her [[kimono]] at the time of detonation correspond to clearly visible burns on skin touching parts of the garment exposed to thermal radiation. Since kimonos are not form fitting attire, some parts not directly touching her skin are visible as breaks in the pattern, and the tighter fitting areas approaching the waistline have a much more well-defined pattern.]] . 
+
+A retinal burn resulting in permanent damage from scarring is also caused by the concentration of direct thermal energy on the retina by the lens. It will occur only when the fireball is actually in the individual's field of vision and would be a relatively uncommon injury. Retinal burns, however, may be sustained at considerable distances from the explosion. The apparent size of the fireball, a function of yield and range will determine the degree and extent of retinal scarring. A scar in the central visual field would be more debilitating. Generally, a limited visual field defect, which will be barely noticeable, is all that is likely to occur.  . 
+
+When thermal radiation strikes an object, part will be reflected, part transmitted, and the rest absorbed. The fraction that is absorbed depends on the nature and color of the material. A thin material may transmit a lot. A light colored object may reflect much of the incident radiation and thus escape damage like [[Anti-flash white|anti-flash]] white paint. The absorbed thermal radiation raises the temperature of the surface and results in scorching, charring, and burning of wood, paper, fabrics, etc. If the material is a poor thermal conductor, the heat is confined to the surface of the material.  . 
+
+Actual ignition of materials depends on how long the thermal pulse lasts and the thickness and moisture content of the target. Near ground zero where the energy flux exceeds 125 [[joule|J]]/cm<sup>2</sup>, what can burn, will. Farther away, only the most easily ignited materials will flame. Incendiary effects are compounded by secondary fires started by the blast wave effects such as from upset stoves and furnaces.  . 
+
+In [[Hiroshima]], a tremendous [[firestorm]] developed within 20 minutes after detonation and destroyed many more buildings and homes. A firestorm has gale force winds blowing in towards the center of the fire from all points of the compass. It is not, however, a phenomenon peculiar to nuclear explosions, having been observed frequently in large forest fires and following incendiary raids during [[World War II]].  . 
+
+Because thermal radiation travels more or less in a straight line from the fireball (unless scattered) any opaque object will produce a protective shadow. If fog or haze scatters the light, it will heat things from all directions and shielding will be less effective, but fog or haze would also diminish the range of these effects.  . 
+
+== Indirect effects ==. 
+=== Electromagnetic pulse ===. 
+{{main|Electromagnetic pulse|Geomagnetically induced current}}
+Gamma rays from a nuclear explosion produce high energy [[electron]]s through [[Compton scattering]]. For high altitude nuclear explosions, these electrons are captured in the [[Earth's magnetic field]] at altitudes between twenty and forty kilometers where they interact with the Earth's magnetic field to produce a coherent [[electromagnetic pulse]] (EMP) which lasts about one millisecond. Secondary effects may last for more than a second.  . 
+
+The pulse is powerful enough to cause moderately long metal objects (such as cables) to act as antennas and generate high [[voltage]]s due to interactions with the electromagnetic pulse. These voltages can destroy unshielded electronics. There are no known biological effects of EMP. The ionized air also disrupts radio traffic that would normally bounce off the [[ionosphere]].  . 
+
+Electronics can be shielded by wrapping them completely in [[conductor (material)|conductive]] material such as aluminum foil; however, the effectiveness of the shielding may be less than perfect. Proper shielding is a complex subject due to the large number of variables involved. Semiconductors, especially [[integrated circuits]], are extremely susceptible to the effects of EMP due to the close proximity of the PN junctions, but this is not the case with thermionic tubes (or valves) which are relatively immune to EMP.  A [[Faraday cage]] doesn't offer protection from the effects of EMP unless the mesh is designed to have holes no bigger than the smallest wavelength emitted from a nuclear explosion.  . 
+
+Large nuclear weapons detonated at high-altitudes also cause [[geomagnetically induced current]] in very long electrical conductors.  The mechanism by which these geomagnetically induced currents are generated is entirely different from the gamma ray induced pulse produced by Compton electrons.  . 
+
+=== Ionizing Radiation === . 
+
+About 5% of the energy released in a nuclear air burst is in the form of [[ionizing radiation]]: [[Neutron radiation|neutrons]], [[gamma ray]]s, [[alpha particle]]s, and [[electron]]s moving at speeds up to the speed of light. Gamma rays are high energy electromagnetic radiation; the others are particles that move slower than light. The neutrons result almost exclusively from the [[Nuclear fission|fission]] and [[Nuclear fusion|fusion]] reactions, while the initial gamma radiation includes that arising from these reactions as well as that resulting from the decay of short-lived fission products.  . 
+
+The intensity of initial nuclear radiation decreases rapidly with distance from the point of burst because the radiation spreads over a larger area as it travels away from the explosion. It is also reduced by atmospheric absorption and scattering.  . 
+
+The character of the radiation received at a given location also varies with distance from the explosion. <ref>Pattison, J.E., Hugtenburg, R.P., Beddoe, A.H. and Charles, M.W. (2001), Experimental Simulation of A-bomb Gamma-ray Spectra for Radiobiology Studies, ''Radiation Protection Dosimetry'' '''95'''(2):125-136. </ref> Near the point of the explosion, the neutron intensity is greater than the gamma intensity, but with increasing distance the neutron-gamma ratio decreases. Ultimately, the neutron component of initial radiation becomes negligible in comparison with the gamma component. The range for significant levels of initial radiation does not increase markedly with weapon yield and, as a result, the initial radiation becomes less of a hazard with increasing yield. With larger weapons, above 50 kT (200 TJ), blast and thermal effects are so much greater in importance that prompt radiation effects can be ignored.  . 
+
+The neutron radiation serves to transmute the surrounding matter, often rendering it radioactive. When added to the dust of radioactive material released by the bomb itself, a large amount of radioactive material is released into the environment. This form of [[radioactive contamination]] is known as [[nuclear fallout]] and poses the primary risk of exposure to ionizing radiation for a large nuclear weapon.  . 
+
+Details of [[nuclear weapon design]] also affect neutron emission: the gun-type assembly [[Hiroshima bomb]] leaked far more neutrons than the implosion type 21 kt [[Nagasaki bomb]] because the light hydrogen nuclei (protons) predominating in the exploded TNT molecules (surrounding the core of the Nagasaki bomb) slowed down neutrons very efficiently while the heavier iron atoms in the steel nose forging of the Hiroshima bomb scattered neutrons without absorbing much neutron energy. <ref>http://glasstone.blogspot.com/2006/03/samuel-glasstone-and-philip-j-dolan.html Nuclear weapons test effects: debunking popular exaggerations that encourage proliferation</ref> . 
+
+=== Earthquake ===. 
+The pressure wave from an underground explosion will propagate through the ground and cause a minor [[earthquake]]. <ref>http://alsos.wlu.edu/information.aspx?id=2017</ref> Theory suggests that a nuclear explosion could trigger fault rupture and cause a major quake at distances within a few tens of kilometers from the shot point. <ref>http://seismo.berkeley.edu/seismo/faq/nuke_2.html</ref> . 
+
+=== Summary of the effects === . 
+
+The following table summarizes the most important effects of nuclear explosions under certain conditions.  . 
+
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|+
+| rowspan=2|<p align="CENTER">'''Effects'''</p>
+| colspan=4|<p align="CENTER">'''Explosive yield / Height of Burst'''</p>
+. |-
+| <p align="CENTER">'''1 kT / 200 m'''</p>
+| <p align="CENTER">'''20 kT / 540 m'''</p>
+| <p align="CENTER">'''1 MT / 2.0&nbsp;km'''</p>
+| <p align="CENTER">'''20 MT / 5.4&nbsp;km'''</p>
+. |-
+| colspan=6|<p align="CENTER">'''Blast—effective ground range ''GR'' / km'''</p>
+. |-
+| <p align="CENTER">Urban areas completely levelled ({{convert|20|psi|kPa|abbr=on|disp=/}})</p>
+| <p align="CENTER">0.2</p>
+| <p align="CENTER">0.6</p>
+| <p align="CENTER">2.4</p>
+| <p align="CENTER">6.4</p>
+. |-
+| <p align="CENTER">Destruction of most civilian buildings ({{convert|5|psi|kPa|abbr=on|disp=/}})</p>
+| <p align="CENTER">0.6</p>
+| <p align="CENTER">1.7</p>
+| <p align="CENTER">6.2</p>
+| <p align="CENTER">17</p>
+. |-
+| <p align="CENTER">Moderate damage to civilian buildings ({{convert|1|psi|kPa|abbr=on|disp=/}})</p>
+| <p align="CENTER">1.7</p>
+| <p align="CENTER">4.7</p>
+| <p align="CENTER">17</p>
+| <p align="CENTER">47</p>
+. |-
+| <p align="CENTER">Railway cars thrown from tracks and crushed (0.63 [[kp/cm<sup>2</sup>]]&nbsp;= 62 kPa; values for other than 20 kT are extrapolated using the cube-root scaling)</p>
+| <p align="CENTER">≈0.4</p>
+| <p align="CENTER">1.0</p>
+| <p align="CENTER">≈4</p>
+| <p align="CENTER">≈10</p>
+. |-
+| colspan=6|<p align="CENTER">'''Thermal radiation—effective ground range ''GR'' / km'''</p>
+. |-
+| <p align="CENTER">[[Conflagration]]</p>
+| <p align="CENTER">0.5</p>
+| <p align="CENTER">2.0</p>
+| <p align="CENTER">10</p>
+| <p align="CENTER">30</p>
+. |-
+| <p align="CENTER">[[Third degree burn]]s</p>
+| <p align="CENTER">0.6</p>
+| <p align="CENTER">2.5</p>
+| <p align="CENTER">12</p>
+| <p align="CENTER">38</p>
+. |-
+| <p align="CENTER">[[Second degree burn]]s</p>
+| <p align="CENTER">0.8</p>
+| <p align="CENTER">3.2</p>
+| <p align="CENTER">15</p>
+| <p align="CENTER">44</p>
+. |-
+| <p align="CENTER">[[First degree burn]]s</p>
+| <p align="CENTER">1.1</p>
+| <p align="CENTER">4.2</p>
+| <p align="CENTER">19</p>
+| <p align="CENTER">53</p>
+. |-
+| colspan=6|<p align="CENTER">'''Effects of instant nuclear radiation—effective slant range<sup>1</sup> ''SR'' / km'''</p>
+. |-
+| <p align="CENTER">Lethal<sup>2</sup> total dose (neutrons and gamma rays)</p>
+| <p align="CENTER">0.8</p>
+| <p align="CENTER">1.4</p>
+| <p align="CENTER">2.3</p>
+| <p align="CENTER">4.7</p>
+. |-
+| <p align="CENTER">Total dose for acute radiation syndrome<sup>2</sup></p>
+| <p align="CENTER">1.2</p>
+| <p align="CENTER">1.8</p>
+| <p align="CENTER">2.9</p>
+| <p align="CENTER">5.4</p>
+|} . 
+
+<sup>1</sup>) For the direct radiation effects the slant range instead of the ground range is shown here, because some effects are not given even at ground zero for some burst heights. If the effect occurs at ground zero the ground range can simply be derived from slant range and burst altitude ([[Pythagorean theorem]]).  . 
+
+<sup>2</sup>) "Acute radiation syndrome" corresponds here to a total dose of one [[Gray (unit)|gray]], "lethal" to ten grays. Note that this is only a rough estimate since biological conditions are neglected here.  . 
+
+== Other phenomena ==. 
+Gamma rays from the explosion form a fireball, as they superheat nearby air and/or other material. <ref>{{cite web|title=Nuclear Bomb Effects|url=http://www.solcomhouse.com/nuclearholocaust.htm|work=The Atomic Archive|publisher=solcomhouse.com|accessdate=12 September 2011}}</ref>  For an explosion in the atmosphere, the fireball quickly expands to maximum size, and then cools as it rises through the surrounding still air. It takes on the flow pattern of a [[vortex ring]] with incandescent material in the vortex core as seen in certain photographs. <ref>[http://nuclearweaponarchive.org/Usa/Tests/Ukgrable2.jpg Photo]</ref> This effect is known as a [[mushroom cloud]]. <ref>{{cite web|title=Nuclear Bomb Effects|url=http://www.solcomhouse.com/nuclearholocaust.htm|work=The Atomic Archive|publisher=solcomhouse.com|accessdate=12 September 2011}}</ref> . 
+
+Sand fuses into glass.  . 
+
+At the explosion of nuclear bombs lightning discharges sometimes occur. <ref>[http://adsabs.harvard.edu/abs/1987JGR....92.5696C An empirical study of the nuclear explosion-induced lightning seen on IVY-MIKE]</ref> . 
+
+Smoke trails are often seen in photographs of nuclear explosions. These are not from the explosion itself; they are left by [[sounding rockets]] launched just prior to detonation. These trails allow observation of the blast's normally invisible shock wave in the moments following the explosion. <ref>[http://nuclearweaponarchive.org/Usa/Tests/SmokeTrails.html Nuclear Weapon Archive]</ref> . 
+
+The heat and airborne debris created by a nuclear explosion can cause rain. After the Hiroshima explosion, these drops of water were recorded to have been about the size of [[Marble (toy)|marbles]]. <ref>Hersey, John. “Hiroshima“, ''The New Yorker'', August 31, 1946. </ref> . 
+
+A side-effect of the Pascal-B nuclear test during [[Operation Plumbbob]] may have resulted in the first man-made object launched into space. The so-called "thunder well" effect from the underground explosion may have launched a metal cover plate into space at six times earth's [[escape velocity]], although the evidence remains subject to debate.  . 
+
+==Survivability==. 
+{{main|Nuclear bombs and health}} . 
+
+This is highly dependent on factors such as proximity to the blast and the direction of the wind carrying fallout. 
+Death is highly likely and radiation poisoning is almost certain if one is close enough within the radius of the blast (for example 3 to 4 miles for a 1 megaton atmospheric blast). {{citation needed|date=February 2008}} . 
+
+== See also ==. 
+{{commons category|Nuclear explosion physics}}
+{{commons category|Nuclear weapon tests}}
+{{commons category|Radiation health effects}}
+{{div col begin}}
+*[[Cold War]]
+*''[[Duck and Cover (film)|Duck and Cover]]'' - a short educational [[film]] produced in 1951
+*[[History of nuclear weapons]]
+*[[List of nuclear tests]]
+*[[Lists of nuclear disasters and radioactive incidents]]
+*[[Nuclear bombs and health]]
+*[[Nuclear testing]]
+*[[Nuclear warfare]]
+*[[Nuclear weapon]]
+*[[Nuclear weapon design]]
+*[[Nuclear_weapons_in_popular_culture#List_of_visual_depictions|Visual depictions of nuclear explosions in fiction]]
+*[[Peaceful nuclear explosions]]
+*[[Pluton (missile)|Pluton]] missile
+*[[Project Gnome]]
+*[[Rope trick effect]]
+*[[RT-15]] missile
+*[[Underwater explosion]]
+{{div col end}} . 
+
+==References==. 
+{{morefootnotes|article|date=October 2008}}
+{{reflist}} . 
+
+== External links ==. 
+* Comprehensive video archive of [http://sonicbomb.com/modules.php?name=Content&pa=showpage&pid=171 '''Nuclear Weapon Testing Effects''']
+*[http://www.undergroundbombshelter.com Underground Bomb Shelters]
+*The [http://fas.org Federation of American Scientists] provide solid information on weapons of mass destruction, including [http://fas.org/nuke/ nuclear weapons] and their [http://www.fas.org/nuke/intro/nuke/effects.htm effects]
+*The [http://www.oism.org/nwss/ Nuclear War Survival Skills] is a public domain text and is an excellent source on how to survive a nuclear attack. 
+*[http://www.carloslabs.com/node/16 Ground Zero: A Javascript simulation of the effects of a nuclear explosion in a city]
+*[http://www.okgeosurvey1.gov/level2/nuke.cat.index.html Oklahoma Geological Survey Nuclear Explosion Catalog] lists 2,199 explosions with their date, country, location, yield, etc. 
+*[http://www.ga.gov.au/oracle/nukexp_query.html Australian Government database of all nuclear explosions]
+*[http://nuclearweaponarchive.org Nuclear Weapon Archive from Carey Sublette] (NWA) is a reliable source of information and has links to other sources. 
+*[http://nuclearweaponarchive.org/Library/Nukesims.html NWA repository of blast models] mainly used for the effects table (especially DOS programs BLAST and WE)
+*[http://www.stardestroyer.net/Empire/Science/Nuke.html Nuclear Weapon Effects Calculator] - Javascript form to calculate blast, heat, and radiation effects of a given explosive yield. 
+*[http://meyerweb.com/eric/tools/gmap/hydesim.html HYDESim: High-Yield Detonation Effects Simulator] - [[Mashup (web application hybrid)|Mashup]] of [[Google Maps]] and Javascript to calculate blast effects. 
+*[http://nuclearsecrecy.com/nukemap/ NUKEMAP] - Google Maps/Javascript effects mapper, which includes fireball size, blast pressure, ionizing radiation, and thermal radiation as well as qualitative descriptions. 
+*[http://www.nuclearweaponarchive.org/Nwfaq/Nfaq0.html Nuclear Weapons Frequently Asked Questions]
+*[http://www.atomicforum.org/ Atomic Forum]
+*[http://www.princeton.edu/sgs/publications/articles/effects/ Samuel Glasstone and Philip J. Dolan, The Effects of Nuclear Weapons, Third Edition, United States Department of Defense & Energy Research and Development Administration] Available Online {{dead link|date=September 2010}} . 
+
+{{Nuclear Technology}} . 
+
+{{DEFAULTSORT:Effects Of Nuclear Explosions}}
+[[Category:Nuclear weapons]]
+[[Category:Nuclear physics]]

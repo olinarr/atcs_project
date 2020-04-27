@@ -1,0 +1,27 @@
+'''Heihaizi''' ({{zh|s=黑孩子|p=hēi hái zi}}) or "black children" is a term applied in China, denoting children born outside the [[One child policy]], or generally children who are not registered in the [[Hukou system|national household registration system]]. In [[Japanese language|Japanese]] the term becomes {{Nihongo|''heihaizu''|黒核子|}} or へいはいず (literally: "black seed child").  . 
+
+If a family not permitted to have a second child under the [[One Child Policy]] has a second child, the family sometimes chooses not to enter them in the [[family register]], often to avoid financial and social penalties. Being excluded from the family register (in effect, a [[birth certificate]]), they do not legally exist and as a result cannot access most public services, such as education and heath care. <ref>{{cite web |url=http://dadao.kt.fc2.com/heihaizu.htm |title=黒核子～一人っ子政策の大失敗 |language=Japanese |trans_title=Black Children - The Failure of One Child Policy |accessdate= 10 July 2010}}</ref><ref>{{cite web |url=http://laogai.org/our_work/one-child-policy |title=One Child Policy - Laogai Research Foundation (LRF) |work=Laogai Research Foundation |accessdate=13 July 2010}}</ref> They also cannot get a legitimate job or participate in any activity that requires formal identification. Aside from illegal occupation that does not require registration, such as organised crime and prostitution, Heihaizi have the option to remain with their family and assist with private work, such as agriculture or private businesses.{{Citation needed|date=August 2010}}  . 
+
+In some parts of China children are conceived and born with the purpose of being sold to people traffickers, usually soon after birth<ref name=alfa>{{cite web |url=http://www.time.com/time/pacific/magazine/20010129/china.html |title=China's Infant Cash Crop |first=Hannah Beech |last=Xicheng |date=29 January 2001 |work=TIME Pacific |accessdate=13 July 2010}}</ref>. Traffickers then sell them to wealthy families within China or take them abroad, again, to sell them. These children may be used for factory labour, whilst a large market in child brides and underage brothels also exists for girls in particular. <ref name=alfa/>  . 
+
+During the 2000 Chinese census report the number of persons not registered was estimated at 8,052,484 persons, which amounted to 0.65% of the total population at the time<ref>{{cite web |url=http://iussp2005.princeton.edu/download.aspx?submissionId=50479 |title=Uncovering Children in Marginalization: Explaining Unregistered Children in China |first=Yingying |last=Zhou |date=14 June 2005 |page=2 |format=PDF |accessdate=13 July 2010}}</ref>. <br /> . 
+
+Due to the current [[One Child Policy]] and a cultural preference for male over female children, some Chinese women are known to give birth to female children in secret, hoping that a later child will be male. The male child is then registered as the parents' only child. <ref>{{cite web |url=http://laogai.org/our_work/one-child-policy |title=One Child Policy - Laogai Research Foundation |work=Laogai Research Foundation (LRF) |accessdate=13 July 2010}}</ref> . 
+
+==See also==. 
+*[[One child policy]]
+*[[Human rights in the People's Republic of China]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+*{{cite web |url=http://iussp2005.princeton.edu/download.aspx?submissionId=50479 |title=Uncovering Children in Marginalization: Explaining Unregistered Children in China |first=Yingying |last=Zhou |date=14 June 2005 |format=PDF |accessdate=13 July 2010}}
+*{{cite web |url=http://www.unhcr.org/refworld/docid/46c403821f.html |title=China: Treatment of "illegal," or "black," children born outside the one-child family planning policy; whether unregistered children are denied access to education, health care and other social services (2003 - 2007) |date=26 June 2007 |work= |publisher=Immigration and Refugee Board of Canada |accessdate=13 July 2010}}
+*{{cite web |url=http://laogai.org/our_work/one-child-policy |title=One Child Policy - Laogai Research Foundation |work=Laogai Research Foundation (LRF) |accessdate=13 July 2010}}
+*{{cite web |url=http://paa2004.princeton.edu/abstractViewer.asp?submissionId=40524 |title=Uncovering the "Black Children" -- an Analysis of Infant Household Registration Status in China |first1=Yingying |last1=Zhou  |first2=William |last2=Lavely |year=2004 |work=Population Association of America (PAA) |accessdate=13 July 2010}} . 
+
+{{DEFAULTSORT:Heihaizu}}
+[[Category:Chinese numbered policies]]
+[[Category:Birth control law and case law]]
+[[Category:Birth control in China]]

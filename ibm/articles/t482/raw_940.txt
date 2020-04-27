@@ -1,0 +1,674 @@
+{{pp-protected|expiry=2012-06-02T10:19:52Z|small=yes}}
+{{Agriculture}} . 
+
+'''Agriculture''' (also called '''farming''' or '''husbandry''') is the cultivation of [[animals]], [[plant]]s, [[fungi]], and other life forms for [[food]], [[fiber]], and other products used to sustain life. <ref name="Office1999">{{cite book|author=International Labour Office|title=Safety and health in agriculture|url=http://books.google.com/books?id=GtBa6XIW_aQC&pg=PA77|accessdate=13 September 2010|year=1999|publisher=International Labour Organization|isbn=978-92-2-111517-5|pages=77–}}</ref> Agriculture was the key development in the rise of sedentary [[human]] [[civilization]], whereby farming of [[domestication|domesticated]] species created food [[economic surplus|surpluses]] that nurtured the development of [[civilization]]. The study of agriculture is known as [[agricultural science]]. Agriculture generally speaking refers to human activities, although it is also observed in certain species of ant and termite. <ref>{{cite web|url=http://www.newscientist.com/article/mg20527481.300-for-sustainable-architecture-think-bug.html?page=1 |title=For sustainable architecture, think bug |publisher=NewScientist |date= |accessdate=2010-02-26| archiveurl= http://web.archive.org/web/20100228190616/http://www.newscientist.com/article/mg20527481.300-for-sustainable-architecture-think-bug.html?page=1| archivedate= 28 February 2010 <!--DASHBot-->| deadurl= no}}</ref><ref>{{cite book|author=B. Hölldobler & E.O. Wilson|year=1990|title=The Ants|location=Cambridge MA|publisher=Belknap|isbn=978-0-674-48525-9}}</ref> . 
+
+The [[history of agriculture]] dates back thousands of years, and its development has been driven and defined by greatly different [[climate]]s, cultures, and technologies. However, all farming generally relies on techniques to expand and maintain the lands suitable for raising domesticated species. For plants, this usually requires some form of [[irrigation]], although there are methods of [[dryland farming]]; [[pastoralism|pastoral]] herding on [[rangeland]] is still the most common means of raising [[livestock]]. In the developed world, [[industrial agriculture]] based on large-scale [[monoculture]] has become the dominant system of modern farming, although there is growing support for [[sustainable agriculture]] (e.g. [[permaculture]] or [[organic agriculture]]).  . 
+
+Modern [[agronomy]], [[plant breeding]], [[pesticides]] and [[fertilizers]], and technological improvements have sharply increased yields from cultivation, but at the same time have caused widespread ecological damage and negative human health effects. <ref>{{cite web|url=http://www.epa.gov/opp00001/health/human.htm |title=Human Health Issues &#124; Pesticides &#124; US EPA |publisher=Epa.gov |date=2006-06-28 |accessdate=2009-11-26}}</ref> [[Selective breeding]] and modern practices in animal husbandry such as [[intensive pig farming]] have similarly increased the output of [[meat]], but have raised concerns about [[animal cruelty]] and the health effects of the [[antibiotics]], [[growth hormones]], and other chemicals commonly used in industrial meat production. <ref>{{cite web|url=http://www.organicconsumers.org/toxic/hormone042302.cfm |title=EU Scientists Confirm Health Risks of Growth Hormones in Meat |publisher=Organicconsumers.org |date= |accessdate=2009-11-26}}</ref> . 
+
+The major agricultural products can be broadly grouped into [[food]]s, [[fiber]]s, [[fuel]]s, and [[raw material]]s. In the 21st century, plants have been used to grow [[biofuel]]s, [[biopharmaceutical]]s, [[bioplastic]]s,<ref>{{cite news |url=http://www.marketwatch.com/story/bioengineers-aim-to-cash-in-on-plants-that-make-green-plastics
+|title=Plastics that are green in more ways than one|last=Brickates Kennedy |first=Val |date=October 16, 2007|work=MarketWatch |newspaper=The Wall Street Journal|location=New York}}</ref> and pharmaceuticals. <ref>{{cite web |url=http://www.bio.org/healthcare/pmp/factsheet5.asp |title=Growing Plants for Pharmaceutical Production vs. for Food and Feed Crops |work=bio.org |publisher=Biotechnology Industry Organization |accessdate=October 2, 2009 |location=Washington DC}}{{dead link|date=November 2011}}</ref> Specific foods include [[cereal]]s, [[vegetable]]s, [[fruit]]s, and [[meat]]. [[Fiber]]s include cotton, wool, [[hemp]], [[silk]] and [[flax]]. [[Raw material]]s include lumber and bamboo. Other useful materials are produced by plants, such as [[resin]]s. Biofuels include [[methane]] from [[biomass]], [[ethanol]], and [[biodiesel]]. [[Floriculture|Cut flowers]], [[nursery (horticulture)|nursery plants]], tropical fish and birds for the pet trade are some of the ornamental products. Regarding food production, the World Bank targets agricultural food production and water management as an increasingly global issue that is fostering an important and growing debate. <ref>{{cite web|url=http://water.worldbank.org/water/publications/reengaging-agricultural-water-management-challenges-and-options |title=Reengaging in Agricultural Water Management: Challenges and Options |accessdate=2011-10-30|pages=4–5 | publisher=The World Bank}}</ref> . 
+
+In 2007, one third of the world's workers were employed in agriculture. The [[service (economics)|services]] sector has overtaken agriculture as the [[economic sector]] employing the most people worldwide. <ref>{{cite web |url=http://www.ilo.org/public/english/employment/strat/kilm/index.htm |title=Key Indicators of the Labour Market Programme |date=September 7, 2009 |publisher=International Labour Organization}}</ref> Despite the size of its workforce, agricultural production accounts for less than five percent of the [[gross world product]] (an aggregate of all [[gross domestic product]]s).  . 
+
+== Etymology ==. 
+The word ''agriculture'' is the English adaptation of Latin ''agricultūra'', from ''ager'', "a field",<ref>[http://catholic.archives.nd.edu/cgi-bin/lookup.pl?stem=ager&ending= Latin Word Lookup]</ref> and ''cultūra'', "[[Tillage|cultivation]]" in the strict sense of "[[tillage]] of the soil". <ref>[http://catholic.archives.nd.edu/cgi-bin/lookup.pl?stem=cultura&ending= Latin Word Lookup]</ref> Thus, a literal reading of the word yields "tillage of a field / of fields".  . 
+
+== Overview ==. 
+[[File:Clark's Sector Model.png|thumb|300px|right|[[Colin Clark|Clark]]'s Sector Model (1950): The percent of the human population working in [[primary sector]] activities such as agriculture has decreased over time.]]
+Agriculture has played a key role in the development of human [[civilization]]. Until the [[Industrial Revolution]], the vast majority of the human population labored in agriculture.  The type of agriculture they developed was typically [[subsistence agriculture]] in which farmers raised most of their crops for consumption on farm, and there was only a small portion left over for the payment of taxes, dues, or trade.  In [[subsistence agriculture]] cropping decisions are made with an eye to what the family needs for food, and to make clothing, and not the world marketplace.  Development of agricultural techniques has steadily increased agricultural productivity, and the widespread diffusion of these techniques during a time period is often called an [[agricultural revolution]]. A remarkable shift in agricultural practices has occurred over the past century in response to new technologies, and the development of world markets. This also led to technological improvements in agricultural techniques, such as the [[Haber-Bosch]] method for synthesizing [[ammonium nitrate]] which made the traditional practice of recycling [[nutrients]] with [[crop rotation]] and animal [[manure]] less necessary.  . 
+
+Synthetic nitrogen, along with mined [[rock phosphate]], [[pesticides]] and [[mechanised agriculture|mechanization]], have greatly increased [[crop yields]] in the early 20th century. Increased supply of [[grain]]s has led to cheaper livestock as well. Further, global yield increases were experienced later in the 20th century when [[high-yield varieties]] of common staple grains such as [[rice]], [[wheat]], and corn ([[maize]]) were introduced as a part of the [[Green Revolution]]. The Green Revolution exported the technologies (including pesticides and synthetic nitrogen) of the developed world to the developing world. [[Thomas Malthus]] famously predicted that the Earth would not be able to support its growing population, but technologies such as the Green Revolution have allowed the world to produce a surplus of food. <ref name="BumperCrop">{{cite news |url=http://www.nytimes.com/2005/12/08/business/worldbusiness/08farmers.html |newspaper =The New York Times
+|title=Sometimes a Bumper Crop Is Too Much of a Good Thing |last=Barrionuevo |first=Alexei |coauthors=Bradsher, Keith |date=December 8, 2005 }}</ref>
+[[File:Norman Borlaug.jpg|thumb|200px|[[Norman Borlaug]], father of the [[Green Revolution]], is often credited with saving over a billion people worldwide from starvation.]]
+Many governments have subsidized agriculture for a variety of political and economic reasons. These [[agricultural subsidies]] are often linked to the production of certain commodities such as [[wheat]], corn ([[maize]]), [[rice]], [[soybean]]s, and [[milk]]. These subsidies, especially when instituted by [[developed country|developed countries]] have been noted as [[protectionist]], inefficient, and environmentally damaging. <ref>{{cite news |last=Schneider |first=Keith |date=September 8, 1989
+|url=http://www.nytimes.com/1989/09/08/us/science-academy-recommends-resumption-of-natural-farming.html
+|title=Science Academy Recommends Resumption of Natural Farming |newspaper=The New York Times}}</ref> . 
+
+In the past century agriculture has been characterized by enhanced [[productivity]], the use of synthetic [[fertilizers]] and pesticides, [[selective breeding]], [[mechanised agriculture|mechanization]], [[water contamination]], and [[farm subsidies]]. Proponents of [[organic farming]] such as [[Sir Albert Howard]] argued in the early 20th century that the overuse of pesticides and synthetic fertilizers damages the long-term fertility of the soil. While this feeling lay dormant for decades, as [[environmental awareness]] has increased in the 21st century there has been a movement towards [[sustainable agriculture]] by some farmers, consumers, and policymakers.  . 
+
+In recent years there has been a backlash against perceived [[externalities|external]] environmental effects of mainstream agriculture, particularly regarding water pollution,<ref>The World Bank (1995), [http://www.worldbank.org/fandd/english/0996/articles/0100996.htm Overcoming Agricultural Water Pollution in the European Union]{{dead link|date=November 2011}}. </ref> resulting in the [[organic movement]]. One of the major forces behind this movement has been the [[European Union]], which first certified [[organic food]] in 1991 and began reform of its [[Common Agricultural Policy]] (CAP) in 2005 to phase out commodity-linked farm subsidies,<ref>European Commission (2003), [http://ec.europa.eu/agriculture/capreform/index_en.htm CAP Reform]. </ref> also known as [[Decouple#Economics|decoupling]]. The growth of [[organic farming]] has renewed research in alternative technologies such as [[integrated pest management]] and [[selective breeding]]. Recent mainstream technological developments include [[genetically modified food]].  . 
+
+In late 2007, several factors pushed up the price of grains consumed by humans as well as used to feed poultry and dairy cows and other cattle, causing higher prices of wheat (up 58%), soybean (up 32%), and maize (up 11%) over the year. <ref>{{cite news
+|url=http://www.nytimes.com/2007/09/06/business/06tyson.html?n=Top/Reference/Times%20Topics/Subjects/W/Wheat |title=At Tyson and Kraft, Grain Costs Limit Profit
+|date=September 6, 2007 |agency=Bloomberg |newspaper =The New York Times}}</ref><ref>{{cite news |url=http://www.financialpost.com/story.html?id=213343
+|title=Forget oil, the new global crisis is food |last=McMullen |first=Alia
+|date=January 7, 2008 |newspaper=Financial Post |location=Toronto}}</ref> Food [[riot]]s took place in several countries across the world. <ref name="guardian.co.uk">Watts, Jonathan (December 4, 2007). [http://www.guardian.co.uk/world/2007/dec/04/china.business "Riots and hunger feared as demand for grain sends food costs soaring"], ''The Guardian'' (London). </ref><ref name="timesonline.co.uk">Mortished, Carl (March 7, 2008).[http://www.timesonline.co.uk/tol/news/environment/article3500975.ece "Already we have riots, hoarding, panic: the sign of things to come?"], ''The Times'' (London). </ref><ref name="ReferenceA">Borger, Julian (February 26, 2008). [http://www.guardian.co.uk/environment/2008/feb/26/food.unitednations "Feed the world? We are fighting a losing battle, UN admits"], ''The Guardian'' (London). </ref> Contributing factors included drought in Australia and elsewhere, increasing demand for grain-fed animal products from the growing middle classes of countries such as China and India, diversion of foodgrain to biofuel production and trade restrictions imposed by several countries.  . 
+
+An [[epidemic]] of [[stem rust]] on [[wheat]] caused by race [[Ug99]] is currently spreading across Africa and into Asia and is causing major concern. <ref>McKie, Robin; Rice, Xan (April 22, 2007). [http://www.guardian.co.uk/science/2007/apr/22/food.foodanddrink "Millions face famine as crop disease rages"], ''The Observer' (London). </ref><ref name = NewSci>{{cite journal
+| url = http://environment.newscientist.com/channel/earth/mg19425983.700-billions-at-risk-from-wheat-superblight.html
+|journal = New Scientist |location=London |title=Billions at risk from wheat super-blight |date=April 3, 2007 | last = Mackenzie | first = Debora
+|accessdate = <!---April 19, 2007---> |issue= 2598 |pages = 6–7}}</ref><ref>Leonard, K.J. ''[http://www.ars.usda.gov/Main/docs.htm?docid=10755 Black stem rust biology and threat to wheat growers]'', USDA ARS</ref> Approximately 40% of the world's agricultural land is seriously degraded. <ref>Sample, Ian (August 31, 2007). [http://www.guardian.co.uk/environment/2007/aug/31/climatechange.food "Global food crisis looms as climate change and population growth strip fertile land"], ''The Guardian'' (London). </ref> In Africa, if current trends of soil degradation continue, the continent might be able to feed just 25% of its population by 2025, according to [[United Nations University|UNU]]'s Ghana-based Institute for Natural Resources in Africa. <ref>[http://news.mongabay.com/2006/1214-unu.html "Africa may be able to feed only 25% of its population by 2025"], ''mongabay.com'', December 14, 2006. </ref> . 
+
+== History ==. 
+{{Main|History of agriculture}}
+[[File:ClaySumerianSickle.jpg|thumb|right|A [[Sumer]]ian harvester's sickle made from baked clay (ca. 3000&nbsp;BC).]] . 
+
+Agricultural practices such as [[irrigation]], [[crop rotation]], [[fertilizers]], and [[pesticides]] were developed long ago, but have made great strides in the past century. The [[history of agriculture]] has played a major role in [[history of the world|human history]], as agricultural progress has been a crucial factor in worldwide [[social change|socio-economic change]]. [[Division of labor]] in agricultural societies made commonplace specializations rarely seen in [[hunter-gatherer]] cultures. So, too, are arts such as epic literature and monumental architecture, as well as codified legal systems. When farmers became capable of producing food beyond the needs of their own families, others in their society were freed to devote themselves to projects other than food acquisition. Historians and anthropologists have long argued that the development of agriculture made civilization possible. The total [[world population]] probably never exceeded 15 million inhabitants before the invention of agriculture. <ref>Luc-Normand Tellier (2009). "''[http://books.google.com/books?id=cXuCjDbxC1YC&pg=&dq&hl=en#v=onepage&q=&f=false Urban world history: an economic and geographical perspective]''". PUQ. p.26. ISBN 2760515885</ref> . 
+
+=== Prehistoric origins ===. 
+[[Forest gardening]] is thought to be the world's oldest known form of agriculture. <ref>{{cite book|title=The Forest Farms of Kandy: And Other Gardens of Complete Design|author=Douglas John McConnell|year=2003|page=1|url=http://books.google.co.uk/books?id=QYBSfUJPQXcC&lpg=PP1&dq=the%20forest%20farms%20of%20kandy%20and%20other%20gardens%20of%20complete%20design&pg=PA1#v=onepage&q&f=false}}</ref> Forest gardens originated in [[Prehistory|prehistoric]] times along jungle-clad river banks and in the wet foothills of [[monsoon]] regions. In the gradual process of a family improving their immediate environment, useful tree and vine species were identified, protected and improved whilst undesirable species were eliminated. Eventually superior foreign species were selected and incorporated into the family's garden. <ref>{{cite book|title=The forest-garden farms of Kandy, Sri Lanka|author=Douglas John McConnell|year=1992|page=1|url=http://books.google.co.uk/books?id=G3QPo7lThXsC&lpg=PP1&dq=The%20forest-garden%20farms%20of%20Kandy%2C%20Sri%20Lanka.&pg=PA1#v=onepage&q&f=false}}</ref> . 
+
+=== Ancient history ===. 
+{{See|Neolithic Revolution}} . 
+
+The [[Fertile Crescent]] of [[Western Asia]], Egypt, and India were sites of the earliest planned sowing and harvesting of plants that had previously been gathered in the wild. Independent development of agriculture occurred in northern and southern China, Africa's [[Sahel]], [[New Guinea]] and several regions of the [[Americas]]. <ref>In particular, [http://www.nytimes.com/2010/05/25/science/25creature.html?_r=1 the history of maize cultivation in southern Mexico dates back 9000 years.] ''New York Times'', accessdate=2010-5-4</ref> The eight so-called [[Neolithic founder crops]] of agriculture appear: first [[emmer wheat]] and [[einkorn wheat]], then hulled [[barley]], [[peas]], [[lentils]], [[Vicia ervilia|bitter vetch]], [[chick pea]]s and [[flax]].  . 
+
+By 7000&nbsp;BC, small-scale agriculture reached [[Egypt]]. From at least 7000&nbsp;BC the [[Indian subcontinent]] saw farming of wheat and barley, as attested by archaeological excavation at [[Mehrgarh]] in [[Balochistan (region)|Balochistan]] in what is present day [[Pakistan]]. By 6000&nbsp;BC, mid-scale farming was entrenched on the banks of the [[Nile River|Nile]]. This, as irrigation had not yet matured sufficiently. About this time, agriculture was developed independently in the Far East, with [[rice]], rather than [[wheat]], as the primary crop. Chinese and Indonesian farmers went on to domesticate [[taro]] and [[beans]] including [[mung bean|mung]], [[soy]] and [[azuki]]. To complement these new sources of carbohydrates, highly organized net fishing of rivers, lakes and ocean shores in these areas brought in great volumes of essential protein. Collectively, these new methods of farming and fishing inaugurated a human population boom that dwarfed all previous expansions and continues today.  . 
+
+By 5000&nbsp;BC, the [[Sumer]]ians had developed core agricultural techniques including large-scale intensive cultivation of land, [[monocropping]], organized [[irrigation]], and the use of a specialized labor force, particularly along the waterway now known as the [[Shatt al-Arab]], from its [[Persian Gulf]] delta to the confluence of the [[Tigris]] and [[Euphrates]]. Domestication of wild [[aurochs]] and [[mouflon]] into cattle and sheep, respectively, ushered in the large-scale use of animals for food/fiber and as beasts of burden. The [[shepherd]] joined the farmer as an essential provider for sedentary and seminomadic societies. [[Maize]], [[manioc]], and [[arrowroot]] were first domesticated in the Americas as far back as 5200&nbsp;BC. <ref>[http://www.ucalgary.ca/news/feb2007/early-farming/ "Farming older than thought"], University of Calgary, February 19, 2007. </ref> . 
+
+The [[potato]], [[tomato]], [[Capsicum|pepper]], [[squash (plant)|squash]], several varieties of [[bean]], [[tobacco]], and several other plants were also developed in the Americas, as was extensive [[terrace (agriculture)|terracing]] of steep hillsides in much of [[Andes|Andean]] South America. The [[Agriculture of ancient Greece|Greeks]] and [[Farming in ancient Rome|Romans]] built on techniques pioneered by the Sumerians, but made few fundamentally new advances. Southern Greeks struggled with very poor soils, yet managed to become a dominant society for years. The Romans were noted for an emphasis on the cultivation of crops for trade.  . 
+
+In the same region, a parallel agricultural revolution occurred, resulting in some of the most important crops grown today. In Mesoamerica wild [[teosinte]] was transformed through human selection into the ancestor of modern [[maize]], more than 6000 years ago. It gradually spread across North America and was the major crop of Native Americans at the time of European exploration. <ref>S. Johannessen and C. A. Hastorf (eds.) ''Corn and Culture in the Prehistoric New World'', Westview Press, Boulder, Colorado. </ref> Other Mesoamerican crops include hundreds of varieties of [[Squash (plant)|squash]] and [[bean]]s. [[Theobroma cacao|Cocoa]] was also a major crop in domesticated Mexico and Central America. The [[Turkey (bird)|turkey]], one of the most important meat birds, was probably domesticated in Mexico or the U.S. Southwest. In the Andes region of South America the major domesticated crop was [[potatoes]], domesticated perhaps 5000 years ago. Large varieties of beans were domesticated, in South America, as well as animals, including [[llamas]], [[alpacas]], and [[guinea pigs]]. [[Coca]], still a major crop, was also domesticated in the Andes.  . 
+
+A minor center of domestication, the indigenous people of the Eastern U.S. appear to have domesticated numerous crops. [[Sunflowers]], [[tobacco]],<ref>Heiser, Carl B., Jr. (1992) On Possible Sources of the Tobacco of Prehistoric Eastern North America. ''Current Anthropology'' 33:54-56. </ref> varieties of squash and [[Chenopodium]], as well as crops no longer grown, including [[marshelder]] and [[little barley]] were domesticated. <ref>''Prehistoric Food Production in North America'', edited by Richard I. Ford. Museum of Anthropology, University of Michigan, Anthropological Papers 75. </ref><ref>Adair, Mary J. (1988) ''Prehistoric Agriculture in the Central Plains.'' Publications in Anthropology 16. University of Kansas, Lawrence. </ref> Other wild foods may have undergone some selective cultivation, including [[wild rice]] and [[maple sugar]]. The most common varieties of [[Garden strawberry|strawberry]] were domesticated from Eastern North America. <ref>Paul E. Minnis (editor) (2003) ''People and Plants in Ancient Eastern North America.'' Smithsonian Institution Press, Washington, D.C. </ref> . 
+
+By 3500 BC, the simplest form of the [[plough]] was developed, called the [[ard (plough)|ard]]. <ref>Plough used in the South-English South Street, in 3500</ref> Before this period, simple [[digging stick]]s or [[hoe (tool)|hoe]]s were used. These tools would have also been easier to transport, which was a benefit as people only stayed until the soil's nutrients were depleted. However, through excavations in Mexico it has been found that the continuous cultivating of smaller pieces of land would also have been a sustaining practice. Additional research in central Europe later revealed that agriculture was indeed practiced at this method. For this method, ards were thus much more efficient than digging sticks. <ref>The seventy great inventions of the ancient world by Brian M.Fagan</ref> . 
+
+=== Middle Ages ===. 
+{{Expand section|date=August 2010}}
+The [[Middle Ages]] saw significant improvements in the agricultural techniques and technology.  There was a steady clearing of [[woodland]]s and draining of [[wetland]]s for the increase of cropland throughout the period until about the year 1300.  Tools such as [[axe]]s, [[adze]]s, and [[Billhook|bill-hooks]] were improved, but most significant was the gradual evolution of the [[Ard (plough)|scratch plough]] from the classical Mediterranean world into the [[mouldboard plough#mouldboard plough|mouldboard plough]] capable of turning over the heavy souls of northern Europe.  The period saw a general move from a two field [[crop rotation]] to a three field crop rotation in which one field of three was left fallow every year.  Also, there was a general change from small patchworks of fields to one large open field divided into strips owned by various members of a community.  The use of [[watermills]] was common in the Middle Ages.  There was tremendous increase in [[windmills]] from the 12th to the 13th century; some tens of thousands were built.   . 
+
+Crops where [[wheat]], [[rye]], [[barley]], and [[oats]].  [[Peas]], [[beans]], and [[vetches]] became common from the 13th century onward as a [[fodder crop]] for animals and also for their [[nitrogen-fixation]] fertilizing properties.  Crop yields peaked in the 13th century, and according to Bruce Campbell and Mark Overton stayed more or less steady until the 18th century. <ref name=Campbell1>{{cite journal|last=Campbell|first=Bruce M. S.|coauthors=M. Overton|title=A New Perspective on Medieval and Early Modern Agriculture: Six Centuries of Norfolk Farming, c.1250-c.1850|journal=Past and Present|year=1993|volume=141|pages=38–105}}</ref>  . 
+
+Though the limitations of Medieval farming were once thought to have provided a ceiling for the population growth in the Middle Ages, recent studies by Campbell<ref name=Campbell2>{{cite book|last=Campbell|first=Bruce M.S.|title=English Seigniorial Agriculture, 1250-1450|year=2000|publisher=Cambridge University Press|location=Cambridge|isbn=0521304121, 9780521304122}}</ref> and David Stone<ref name=Stone1>{{cite book|last=Stone|first=David|title=Decision-Making in Medieval Agriculture|year=2005|publisher=Oxford University Press|location=Oxford|isbn=0199247765, 9780199247769}}</ref>  have shown that the technology of Medieval agriculture was always sufficient for the needs of the people under normal circumstances, and that it was only during exceptionally harsh times, such as the [[Great Famine of 1315–1317|terrible weather of 1315-17]], that the needs of the population could not be met. <ref>{{cite book|title=The Oxford Dictionary of the Middle Ages|year=2010|publisher=Oxford University Press|location=Oxford, England|isbn=978-0-19-866262-4|pages=1841|author=John Langdon|editor=Robert E. Bjork|pages=20–23}}</ref> . 
+
+=== Modern era ===. 
+{{See|British Agricultural Revolution|Green Revolution}}
+[[File:Pieter Bruegel the Elder- The Corn Harvest (August).JPG|thumb|''[[The Harvesters (painting)|The Harvesters]]''. [[Pieter Bruegel the Elder|Pieter Bruegel]]. 1565.]]
+[[File:Agriculture (Plowing) CNE-v1-p58-H.jpg|thumb|This photo from a 1921 encyclopedia shows a [[tractor]] ploughing an [[alfalfa]] field.]]
+[[File:Precision Farming in Minnesota - Natural Colour.jpg|thumb|[[Satellite]] image of farming in [[Minnesota]].]]
+[[File:Precision Farming in Minnesota - False Colour.jpg|thumb|[[Infrared]] image of the above farms. To the untrained eye, this image appears a 
+hodge-podge of colours without any apparent purpose. But farmers are now trained to see yellows where crops are infested, shades of red indicating crop health, black where flooding occurs, and brown where unwanted pesticides land on chemical-free crops.{{Citation needed|date=January 2011}}]] . 
+
+After 1492, a [[Columbian exchange|global exchange]] of previously local crops and livestock breeds occurred. Key crops involved in this exchange included the [[tomato]], [[maize]], [[potato]], [[manioc]], [[cocoa bean]] and [[tobacco]] going from the New World to the Old, and several varieties of [[wheat]], [[spices]], [[coffee]], and [[sugar cane]] going from the Old World to the New. The most important animal exportation from the Old World to the New were those of the [[horse]] and dog (dogs were already present in the pre-Columbian Americas but not in the numbers and breeds suited to farm work). Although not usually food animals, the horse (including donkeys and ponies) and dog quickly filled essential production roles on western-hemisphere farms.  . 
+
+The [[potato]] became an important staple crop in northern Europe. <ref>[http://www.history-magazine.com/potato.html "The Impact of the Potato"], ''History Magazine''. </ref> Since being introduced by Portuguese in the 16th century,<ref>[http://researchnews.osu.edu/archive/suprtubr.htm Super-Sized Cassava Plants May Help Fight Hunger In Africa]. The Ohio State University</ref> [[maize]] and [[manioc]] have replaced traditional African crops as the continent's most important staple food crops. <ref>[http://www.scitizen.com/stories/Biotechnology/2007/08/Maize-Streak-Virus-Resistant-Transgenic-Maize-an-African-solution-to-an-African-Problem/ "Maize Streak Virus-Resistant Transgenic Maize: an African solution to an African Problem"], ''scitizen.com'', August 7, 2007. </ref> . 
+
+By the early 19th century, agricultural techniques, implements, seed stocks and [[cultivar]] had so improved that yield per land unit was many times that seen in the Middle Ages. Although there is a vast and interesting history of crop cultivation before the dawn of the 20th century, there is little question that the work of [[Charles Darwin]] and [[Gregor Mendel]] created the scientific foundation for plant breeding that led to its explosive impact over the past 150 years. <ref name="Kingsbury">Noel Kingsbury (2009) ''Hybrid. The History and Science of Plant Breeding'', University of Chicago Press, Chicago. </ref> . 
+
+With the rapid rise of [[mechanised agriculture|mechanization]] in the late 19th century and the 20th century, particularly in the form of the [[tractor]], farming tasks could be done with a speed and on a scale previously impossible. These advances have led to efficiencies enabling certain modern farms in the United States, [[Argentina]], [[Israel]], the [[United Kingdom]] Germany, and a few other nations to output volumes of high-quality produce per land unit at what may be the practical limit.  . 
+
+The [[Haber-Bosch]] method for synthesizing ammonium nitrate represented a major breakthrough and allowed [[crop yields]] to overcome previous constraints. In the past century agriculture has been characterized by enhanced productivity, the substitution of synthetic fertilizers and pesticides for labor, [[water pollution]], and [[farm subsidies]]. In recent years there has been a backlash against the [[externalities|external]] environmental effects of conventional agriculture, resulting in the [[organic movement]].  . 
+
+The cereals rice, corn, and wheat provide 60% of human food supply. <ref name=Matson1997 /> Between 1700 and 1980, "the total area of cultivated land worldwide increased 466%" and yields increased dramatically, particularly because of [[selective breeding|selectively bred]] high-yielding varieties, fertilizers, pesticides, irrigation, and machinery. <ref name=Matson1997>Matson et al. (1997). [http://www.sciencemag.org/cgi/content/abstract/277/5325/504?ck=nck Agricultural Intensification and Ecosystem Properties]. ''Science''. </ref> For example, irrigation increased corn yields in eastern [[Colorado]] by 400 to 500% from 1940 to 1997. <ref name=Matson1997/> . 
+
+However, concerns have been raised over the [[sustainability]] of intensive agriculture. Intensive agriculture has become associated with decreased soil quality in India and Asia, and there has been increased concern over the effects of fertilizers and pesticides on the environment, particularly as population increases and food demand expands. The monocultures typically used in intensive agriculture increase the number of pests, which are controlled through pesticides. [[Integrated pest management]] (IPM), which "has been promoted for decades and has had some notable successes" has not significantly affected the use of pesticides because policies encourage the use of pesticides and IPM is knowledge-intensive. <ref name=Matson1997/> . 
+
+Although the "Green Revolution" significantly increased rice yields in Asia, yield increases have not occurred in the past 15–20 years. <ref name=Tilman2002>{{cite journal |author=Tilman D, Cassman KG, Matson PA, Naylor R, Polasky S |title=Agricultural sustainability and intensive production practices |journal=Nature |volume=418 |issue=6898 |pages=671–7 |year=2002 |month=August |pmid=12167873 |doi=10.1038/nature01014 |url=http://cedarcreek.umn.edu/biblio/fulltext/t1860.pdf}}</ref> The genetic "yield potential" has increased for wheat, but the yield potential for rice has not increased since 1966, and the yield potential for maize has "barely increased in 35 years". <ref name=Tilman2002/> It takes a decade or two for herbicide-resistant weeds to emerge, and insects become resistant to insecticides within about a decade. <ref name=Tilman2002/> Crop rotation helps to prevent resistances. <ref name=Tilman2002/> . 
+
+Agricultural exploration expeditions, since the late 19th century, have been mounted to find new species and new agricultural practices in different areas of the world. Two early examples of expeditions include Frank N. Meyer's fruit- and nut-collecting trip to China and Japan from 1916-1918<ref>USDA NAL Special Collections. [http://naldr.nal.usda.gov/NALWeb/Agricola_Link.asp?Accession=CAT10662165 South China explorations: typescript, July 25, 1916-September 21, 1918]</ref>
+and the Dorsett-Morse Oriental Agricultural Exploration Expedition to China, Japan, and Korea from 1929-1931 to collect soybean germplasm to support the rise in soybean agriculture in the United States. <ref>USDA NAL Special Collections. [http://riley.nal.usda.gov/nal_display/index.php?info_center=8&tax_level=4&tax_subject=158&topic_id=1982&level3_id=6419&level4_id=10866&level5_id=0&placement_default=0&test Dorsett-Morse Oriental Agricultural Exploration Expedition Collection]</ref> . 
+
+In 2009, the [[Agriculture in China|agricultural output of China]] was the largest in the world, followed by the European Union, India and the United States, according to the [[International Monetary Fund]] (''[[Agriculture#List of countries by agricultural output|see below]]''). Economists measure the [[total factor productivity]] of agriculture and by this measure agriculture in the United States is roughly 2.6 times more productive than it was in 1948. <ref>USDA ERS. [http://www.ers.usda.gov/data/agproductivity/ Agricultural Productivity in the United States]</ref> . 
+
+Six countries - the US, Canada, France, Australia, Argentina and Thailand - supply 90% of [[grain trade|grain exports]]. <ref name="grain trade">"[http://www.i-sis.org.uk/TFBE.php The Food Bubble Economy]". ''The Institute of Science in Society.''</ref> [[Water deficits]], which are already spurring heavy [[grain]] imports in numerous middle-sized countries, including Algeria, Iran, Egypt, and Mexico,<ref>{{cite web |archiveurl=http://web.archive.org/web/20100724203016/http://www.greatlakesdirectory.org/zarticles/080902_water_shortages.htm |archivedate=2010-07-24 |url=http://www.greatlakesdirectory.org/zarticles/080902_water_shortages.htm |title=Global Water Shortages May Lead to Food Shortages-Aquifer Depletion |first1=Lester R. |last1=Brown}}</ref> may soon do the same in larger countries, such as China or India. <ref>[http://www.atimes.com/atimes/South_Asia/HG21Df01.html "India grows a grain crisis"], ''Asia Times'' (Hong Kong). July 21, 2006. </ref> . 
+
+== Crop production systems ==. 
+[[File:Paddy fields in India.jpg|thumb|Rice cultivation at a paddy field in [[Bihar]] state of [[India]]]]
+[[File:Rice terraces.png‎|thumb|Banaue Rice Terraces, [[Ifugao Province]], [[Philippines]]]]
+Cropping systems vary among farms depending on the available resources and constraints; geography and climate of the farm; government policy; economic, social and political pressures; and the philosophy and culture of the farmer. <ref name="FAO FS">U.N. Food and Agriculture Organization. Rome. [http://www.fao.org/farmingsystems/description_en.htm "Analysis of farming systems"]. Retrieved December 7, 2008. </ref><ref name="PCP APS">Acquaah, G. 2002. Agricultural Production Systems. pp. 283-317 in "Principles of Crop Production, Theories, Techniques and Technology". Prentice Hall, Upper Saddle River, NJ. </ref> [[Shifting cultivation]] (or [[slash and burn]]) is a system in which forests are burnt, releasing nutrients to support cultivation of annual and then [[perennial plant|perennial]] crops for a period of several years. <ref name="CS">Chrispeels, M.J.; Sadava, D.E. 1994. "Farming Systems: Development, Productivity, and Sustainability". pp. 25-57 in ''Plants, Genes, and Agriculture''. Jones and Bartlett, Boston, MA. </ref> . 
+
+Then the plot is left fallow to regrow forest, and the farmer moves to a new plot, returning after many more years (10-20). This fallow period is shortened if population density grows, requiring the input of nutrients ([[fertilizer]] or [[manure]]) and some manual [[pest control]]. Annual cultivation is the next phase of intensity in which there is no fallow period. This requires even greater nutrient and pest control inputs.  . 
+
+Further industrialization lead to the use of [[monoculture]]s, when one [[cultivar]] is planted on a large acreage. Because of the low [[biodiversity]], nutrient use is uniform and pests tend to build up, necessitating the greater use of [[pesticide]]s and fertilizers. <ref name="PCP APS"/> Multiple cropping, in which several crops are grown sequentially in one year, and [[intercropping]], when several crops are grown at the same time are other kinds of annual cropping systems known as [[polyculture]]s. <ref name="CS" /> . 
+
+In [[tropics|tropical]] environments, all of these cropping systems are practiced. In [[subtropics|subtropical]] and [[arid]] environments, the timing and extent of agriculture may be limited by rainfall, either not allowing multiple annual crops in a year, or requiring [[irrigation]]. In all of these environments perennial crops are grown ([[coffee]], [[chocolate]]) and systems are practiced such as [[agroforestry]]. In [[Temperateness|temperate]] environments, where ecosystems were predominantly [[grassland]] or [[prairie]], highly productive annual cropping is the dominant farming system. <ref name="CS"/> . 
+
+The last century has seen the [[intensive farming|intensification]], [[market concentration|concentration]] and [[economic specialization|specialization]] of agriculture, relying upon new technologies of agricultural chemicals ([[fertilizer]]s and [[pesticide]]s), [[agricultural machinery|mechanization]], and [[plant breeding]] ([[hybrid (biology)|hybrids]] and [[GMO|GMO's]]). In the past few decades, a move towards [[sustainable agriculture|sustainability]] in agriculture has also developed, integrating ideas of socio-economic justice and conservation of resources and the environment within a farming system. <ref name="USDA sust">Gold, M.V. 1999. USDA National Agriculture Library. Beltsville, MD. [http://www.nal.usda.gov/afsic/pubs/terms/srb9902.shtml "Sustainable Agriculture: Definitions and Terms"]. Retrieved December 7, 2008. </ref><ref name="ATTRA">Earles, R.; Williams, P. 2005. ATTRA National Sustainable Agriculture Information Service. Fayetville, AR. [http://attra.ncat.org/attra-pub/sustagintro.html "Sustainable Agriculture:An Introduction"]. Retrieved December 7, 2008. </ref> This has led to the development of many responses to the conventional agriculture approach, including [[organic farming|organic agriculture]], [[urban agriculture]], [[community supported agriculture]], ecological or biological agriculture, [[integrated farming]] and [[holistic management]], as well as an increased trend towards [[agricultural diversification]].  . 
+
+=== Crop statistics ===. 
+Important categories of crops include grains and [[pseudograins]], pulses (legumes), forage, and fruits and vegetables. Specific crops are cultivated in distinct [[growing region]]s throughout the world. In millions of metric tons, based on [[Food and Agriculture Organization|FAO]] estimate. 
+<div class="center">
+{| class="wikitable" style="float:left;"
+. |-
+! colspan=2|Top agricultural products, by crop types <br />(million tonnes) 2004 data
+. |-
+| [[Cereal]]s || style="text-align:right;"| 2,263
+. |-
+| [[Vegetable]]s and [[melon]]s || style="text-align:right;"| 866
+. |-
+| [[Root]]s and [[Tuber]]s || style="text-align:right;"| 715
+. |-
+| [[Milk]] || style="text-align:right;"| 619
+. |-
+| [[Fruit]] || style="text-align:right;"| 503
+. |-
+| [[Meat]] || style="text-align:right;"| 259
+. |-
+| [[Vegetable oil|Oilcrops]] || style="text-align:right;"| 133
+. |-
+| [[Fish]] (2001 estimate) || style="text-align:right;"| 130
+. |-
+| [[Egg (food)|Eggs]] || style="text-align:right;"| 63
+. |-
+| [[Pulse (legume)|Pulses]] || style="text-align:right;"| 60
+. |-
+| [[Fiber crop|Vegetable Fiber]] || style="text-align:right;"| 30
+. |-
+|colspan=2|''Source: <br />[[Food and Agriculture Organization]] (FAO)''<ref name="FAO">{{cite web |url=http://faostat.fao.org/ |title=Food and Agriculture Organization of the United Nations (FAOSTAT) |accessdate= October 11, 2007 |work= | archiveurl= http://web.archive.org/web/20071011001132/http://faostat.fao.org/| archivedate= 11 October 2007 <!--DASHBot-->| deadurl= no}}</ref>
+|}
+{| class="wikitable" style="float:left;"
+. |-
+! colspan=2|Top agricultural products, by individual crops <br />(million tonnes) 2004 data
+. |-
+| [[Sugar Cane]] || style="text-align:right;"| 1,324
+. |-
+| [[Maize]] || style="text-align:right;"| 721
+. |-
+| [[Wheat]] || style="text-align:right;"| 627
+. |-
+| [[Rice]] || style="text-align:right;"| 605
+. |-
+| [[Potato]]es || style="text-align:right;"| 328
+. |-
+| [[Sugar Beet]] || style="text-align:right;"| 249
+. |-
+| [[Soybean]] || style="text-align:right;"| 204
+. |-
+| [[Oil Palm]] Fruit || style="text-align:right;"| 162
+. |-
+| [[Barley]] || style="text-align:right;"| 154
+. |-
+| [[Tomato]] || style="text-align:right;"| 120
+. |-
+|colspan=2|''Source: <br />[[Food and Agriculture Organization]] (FAO)''<ref name="FAO" />
+|}
+{{-}}
+</div> . 
+
+== Livestock production systems ==. 
+{{Main|Livestock}} . 
+
+[[File:KerbauJawa.jpg|thumb|right|Ploughing rice paddies with [[water buffalo]], in [[Indonesia]].]]
+[[Animal]]s, including [[horse]]s, [[mule]]s, [[ox]]en, [[camel]]s, [[llama]]s, [[alpaca]]s, and [[dog]]s, are often used to help [[Tillage|cultivate]] fields, [[harvest]] crops, wrangle other animals, and [[transport]] farm products to buyers. [[Animal husbandry]] not only refers to the breeding and raising of animals for meat or to harvest animal products (like [[milk]], [[egg (food)|eggs]], or [[wool]]) on a continual basis, but also to the breeding and care of species for work and companionship. 
+[[Livestock]] production systems can be defined based on feed source, as [[grassland]] - based, mixed, and landless. <ref name="FAO lps">Sere, C.; Steinfeld, H.; Groeneweld, J. 1995. [http://www.fao.org/WAIRDOCS/LEAD/X6101E/x6101e00.htm#Contents "Description of Systems in World Livestock Systems - Current status issues and trends"]. U.N. Food and Agriculture Organization. Rome. Retrieved December 7, 2008. </ref> . 
+
+Grassland based livestock production relies upon plant material such as [[shrubland]], [[rangeland]], and [[managed intensive rotational grazing|pastures]] for feeding [[ruminant]] animals. Outside nutrient inputs may be used, however manure is returned directly to the grassland as a major nutrient source. This system is particularly important in areas where crop production is not feasible because of climate or soil, representing 30-40 million pastoralists. <ref name="CS"/> Mixed production systems use grassland, [[fodder]] crops and grain feed crops as feed for ruminant and monogastic (one stomach; mainly chickens and pigs) livestock. Manure is typically recycled in mixed systems as a fertilizer for crops. Approximately 68% of all agricultural land is permanent pastures used in the production of livestock. <ref>FAO Database, 2003</ref> . 
+
+Landless systems rely upon feed from outside the farm, representing the de-linking of crop and livestock production found more prevalently in [[OECD]] member countries. In the U.S., 70% of the grain grown is fed to animals on feedlots. <ref name="CS"/> Synthetic fertilizers are more heavily relied upon for crop production and manure utilization becomes a challenge as well as a source for pollution.  . 
+
+== Production practices ==. 
+[[File:Mt Uluguru and Sisal plantations.jpg|thumb|300px|Road leading across the farm allows machinery access to the farm for production practices.]]
+'''[[Tillage]]''' is the practice of plowing soil to prepare for planting or for nutrient incorporation or for pest control. Tillage varies in intensity from conventional to [[no-till farming|no-till]]. It may improve productivity by warming the soil, incorporating fertilizer and controlling weeds, but also renders soil more prone to erosion, triggers the decomposition of organic matter releasing CO<sub>2</sub>, and reduces the abundance and diversity of soil organisms. <ref name="Soil">Brady, N.C. and R.R. Weil. 2002. Elements of the Nature and Properties of Soils. Pearson Prentice Hall, Upper Saddle River, NJ. </ref><ref name="PCP Tillage">Acquaah, G. 2002. "Land Preparation and Farm Energy" pp.318-338 in ''Principles of Crop Production, Theories, Techniques and Technology''. Prentice Hall, Upper Saddle River, NJ. </ref> . 
+
+'''[[Pest control]]''' includes the management of [[weed]]s, [[insect|insects/mites]], and [[disease]]s. Chemical ([[pesticide]]s), biological ([[biocontrol]]), mechanical ([[tillage]]), and cultural practices are used. Cultural practices include [[crop rotation]], [[culling]], [[cover crop]]s, [[intercropping]], [[composting]], avoidance, and [[Disease resistance in fruit and vegetables|resistance]]. [[Integrated pest management]] attempts to use all of these methods to keep pest populations below the number which would cause economic loss, and recommends pesticides as a last resort. <ref name="PCP Pest">Acquaah, G. 2002. "Pesticide Use in U.S. Crop Production" pp.240-282 in ''Principles of Crop Production, Theories, Techniques and Technology''. Prentice Hall, Upper Saddle River, NJ. </ref> . 
+
+'''[[Nutrient management]]''' includes both the source of nutrient inputs for crop and livestock production, and the method of utilization of [[manure]] produced by livestock. Nutrient inputs can be chemical inorganic [[fertilizers]], [[manure]], [[green manure]], [[compost]] and mined [[minerals]]. <ref name="PCP Soil">Acquaah, G. 2002. "Soil and Land" pp.165-210 in ''Principles of Crop Production, Theories, Techniques and Technology''. Prentice Hall, Upper Saddle River, NJ. </ref> Crop nutrient use may also be managed using cultural techniques such as [[crop rotation]] or a [[fallow]] period. <ref name="CS nutrient">Chrispeels, M.J.; Sadava, D.E. 1994. "Nutrition from the Soil" pp.187-218 in ''Plants, Genes, and Agriculture''. Jones and Bartlett, Boston, MA. </ref><ref name="Soil nutrient">Brady, N.C.; Weil, R.R. 2002. "Practical Nutrient Management" pp.472-515 in ''Elements of the Nature and Properties of Soils''. Pearson Prentice Hall, Upper Saddle River, NJ. </ref> Manure is used either by holding livestock where the feed crop is growing, such as in [[managed intensive rotational grazing]], or by spreading either dry or liquid formulations of manure on cropland or [[pasture]]s.  . 
+
+'''[[Water management]]''' is where rainfall is insufficient or variable, which occurs to some degree in most regions of the world. <ref name="CS"/> Some farmers use [[irrigation]] to supplement rainfall. In other areas such as the [[Great Plains]] in the U.S. and Canada, farmers use a [[fallow]] year to conserve soil moisture to use for growing a crop in the following year. <ref name="PCP Water">Acquaah, G. 2002. "Plants and Soil Water" pp.211-239 in ''Principles of Crop Production, Theories, Techniques and Technology''. Prentice Hall, Upper Saddle River, NJ. </ref> Agriculture represents 70% of freshwater use worldwide. <ref name="Pimentel water">Pimentel, D.; Berger, D.; Filberto, D.; Newton, M.; et al. 2004. "Water Resources: Agricultural and Environmental Issues". ''Bioscience'' 54:909-918. </ref> . 
+
+== Processing, distribution, and marketing ==. 
+{{Main|Food processing}}
+{{Main|Agricultural marketing}}
+In the United States, food costs attributed to [[food processing|processing]], distribution, and [[agricultural marketing|marketing]] have risen while the costs attributed to farming have declined. This is related to the greater efficiency of farming, combined with the increased level of value addition (e.g. more highly processed products) provided by the supply chain. From 1960 to 1980 the farm share was around 40%, but by 1990 it had declined to 30% and by 1998, 22.2%. [[Market concentration]] has increased in the sector as well, with the top 20 food manufacturers accounting for half the food-processing value in 1995, over double that produced in 1954. As of 2000 the top six US supermarket groups had 50% of sales compared to 32% in 1992. Although the total effect of the increased market concentration is likely increased efficiency, the changes redistribute [[economic surplus]] from producers (farmers) and consumers, and may have negative implications for rural communities. <ref name=Sexton2000>{{cite journal | author = Sexton,R.J. 
+| year = 2000 | title = Industrialization and Consolidation in the US Food Sector: Implications for Competition and Welfare | journal = American Journal of Agricultural Economics | volume = 82 | issue = 5 | pages = 1087–1104 | doi = 10.1111/0002-9092.00106}}</ref> . 
+
+== Crop alteration and biotechnology ==. 
+{{Main|Plant breeding}}
+[[File:Ueberladewagen (jha).jpg|thumb|[[Tractor]] and [[Chaser bin]].]] . 
+
+Crop alteration has been practiced by humankind for thousands of years, since the beginning of civilization. Altering crops through breeding practices changes the genetic make-up of a plant to develop crops with more beneficial characteristics for humans, for example, larger fruits or seeds, drought-tolerance, or resistance to pests. Significant advances in plant breeding ensued after the work of geneticist Gregor Mendel. His work on dominant and recessive alleles gave plant breeders a better understanding of genetics and brought great insights to the techniques utilized by plant breeders. Crop breeding includes techniques such as plant selection with desirable traits, self-pollination and cross-pollination, and molecular techniques that genetically modify the organism. <ref>[http://www.cls.casa.colostate.edu/TransgenicCrops/history.html History of Plant Breeding]. Retrieved December 8, 2008. </ref> . 
+
+Domestication of plants has, over the centuries increased yield, improved [[disease resistance in fruit and vegetables|disease resistance]] and [[drought tolerance]], eased harvest and improved the taste and nutritional value of crop plants. Careful selection and breeding have had enormous effects on the characteristics of crop plants. Plant selection and breeding in the 1920s and 1930s improved pasture (grasses and clover) in New Zealand. Extensive X-ray and ultraviolet induced mutagenesis efforts (i.e. primitive genetic engineering) during the 1950s produced the modern commercial varieties of grains such as wheat, corn (maize) and barley. <ref>{{cite journal
+| last = Stadler| first = L. J. | authorlink = Lewis Stadler | coauthors = Sprague, G.F. | title = Genetic Effects of Ultra-Violet Radiation in Maize: I. Unfiltered Radiation
+| journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 22 | issue = 10 | pages = 572–578 | publisher = US Department of Agriculture and Missouri Agricultural Experiment Station | date= October 15, 1936
+| url = http://www.pnas.org/cgi/reprint/22/10/579.pdf |format=PDF| doi = 10.1073/pnas.22.10.572
+|accessdate = October 11, 2007
+| pmid = 16588111
+| pmc = 1076819 | archiveurl= http://web.archive.org/web/20071024233407/http://www.pnas.org/cgi/reprint/22/10/579.pdf| archivedate= 24 October 2007 <!--DASHBot-->| deadurl= no}}</ref><ref>{{cite book | last = Berg | first = Paul | coauthors =Singer, Maxine
+| title = George Beadle: An Uncommon Farmer. The Emergence of Genetics in the 20th century
+| publisher = Cold Springs Harbor Laboratory Press | date= August 15, 2003 | isbn = 978-0-87969-688-7 }}</ref> . 
+
+The [[Green Revolution]] popularized the use of conventional [[Hybrid (biology)|hybridization]] to increase yield many folds by creating "high-yielding varieties". For example, average yields of corn ([[maize]]) in the USA have increased from around 2.5 tons per hectare (t/ha) (40 bushels per acre) in 1900 to about 9.4 t/ha (150 bushels per acre) in 2001. Similarly, worldwide average wheat yields have increased from less than 1 t/ha in 1900 to more than 2.5 t/ha in 1990. South American average wheat yields are around 2 t/ha, African under 1 t/ha, [[Egypt]] and Arabia up to 3.5 to 4 t/ha with irrigation. In contrast, the average wheat yield in countries such as France is over 8 t/ha. Variations in yields are due mainly to variation in climate, genetics, and the level of intensive farming techniques (use of fertilizers, chemical [[pest control]], growth control to avoid lodging). <ref>{{cite journal | last = Ruttan | first = Vernon W. 
+| title = Biotechnology and Agriculture: A Skeptical Perspective | journal = AgBioForum | volume = 2 | issue = 1 | pages = 54–60 | month = December | year = 1999
+| url = http://www.mindfully.org/GE/Skeptical-Perspective-VW-Ruttan.htm
+| accessdate = October 11, 2007 | format = –<sup>[http://scholar.google.co.uk/scholar?hl=en&lr=&q=author%3ARuttan+intitle%3ABiotechnology+and+Agriculture%3A+A+Skeptical+Perspective&as_publication=AgBioForum&as_ylo=1999&as_yhi=1999&btnG=Search Scholar search]</sup> | archiveurl= http://web.archive.org/web/20071024010348/http://www.mindfully.org/GE/Skeptical-Perspective-VW-Ruttan.htm| archivedate= 24 October 2007 <!--DASHBot-->| deadurl= no}}</ref><ref>{{cite journal | last = Cassman | first = K. 
+| title = Ecological intensification of cereal production systems: The Challenge of increasing crop yield potential and precision agriculture
+| journal = Proceedings of a National Academy of Sciences Colloquium, Irvine, California
+| publisher = University of Nebraska | date= December 5, 1998
+| url = http://www.lsc.psu.edu/nas/Speakers/Cassman%20manuscript.html
+| accessdate = October 11, 2007 | archiveurl= http://web.archive.org/web/20071024001804/http://www.lsc.psu.edu/nas/Speakers/Cassman%20manuscript.html| archivedate= 24 October 2007 <!--DASHBot-->| deadurl= no}}</ref><ref>Conversion note: 1 bushel of wheat = 60&nbsp;pounds (lb) ≈ 27.215&nbsp;kg. 1 bushel of maize = 56&nbsp;pounds ≈ 25.401&nbsp;kg</ref> . 
+
+=== Genetic engineering ===. 
+{{Main|Genetic Engineering}}
+[[Genetically Modified Organism]]s (GMO) are [[organism]]s whose [[Genetics|genetic]] material has been altered by genetic engineering techniques generally known as [[recombinant DNA technology]]. Genetic engineering has expanded the genes available to breeders to utilize in creating desired germlines for new crops. After mechanical tomato-harvesters were developed in the early 1960s, agricultural scientists [[genetically modified tomato]]es to be more resistant to mechanical handling. More recently, genetic engineering is being employed in various parts of the world, to create crops with other beneficial traits. New research on woodland strawberry genome was found to be short and easy to manipulate.  Researchers now have tools to improve strawberry flavors and aromas of cultivated strawberries as stated in a publication by Nature Genetics.  http://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=7160 . 
+
+=== Herbicide-tolerant GMO crops ===. 
+[[Roundup (herbicide)|''Roundup Ready'']] seed has a herbicide resistant gene implanted into its genome that allows the plants to tolerate exposure to [[glyphosate]]. ''Roundup'' is a trade name for a glyphosate-based product, which is a systemic, nonselective herbicide used to kill weeds. ''Roundup Ready'' seeds allow the farmer to grow a crop that can be sprayed with glyphosate to control weeds without harming the resistant crop. Herbicide-tolerant crops are used by farmers worldwide. Today, 92% of soybean acreage in the US is planted with genetically modified herbicide-tolerant plants. <ref>[http://www.ers.usda.gov/Data/BiotechCrops/adoption.htm Adoption of Genetically Engineered Crops in the US: Extent of Adoption]. Retrieved December 8, 2008. </ref> . 
+
+With the increasing use of herbicide-tolerant crops, comes an increase in the use of glyphosate-based herbicide sprays. In some areas glyphosate resistant weeds have developed, causing farmers to switch to other herbicides. <ref name="Farmers Guide to GMOs">[http://www.rafiusa.org/pubs/Farmers_Guide_to_GMOs.pdf Farmers Guide to GMOs]. Retrieved December 8, 2008. </ref><ref>[http://www.businessweek.com/bwdaily/dnflash/content/feb2008/db20080212_435043.htm Report Raises Alarm over 'Super-weeds']. Retrieved December 9, 2008. </ref> Some studies also link widespread glyphosate usage to iron deficiencies in some crops, which is both a crop production and a nutritional quality concern, with potential economic and health implications. <ref>Ozturk, et al., "Glyphosate inhibition of ferric reductase activity in iron deficient sunflower roots", ''New Phtologist'', 177:899-906, 2008. </ref> . 
+
+=== Insect-resistant GMO crops ===. 
+Other GMO crops used by growers include insect-resistant crops, which have a gene from the soil bacterium ''[[Bacillus thuringiensis]]'' (Bt), which produces a toxin specific to insects. These crops protect plants from damage by insects; one such crop is [[transgenic maize|Starlink]]. Another is cotton, which accounts for 63% of US cotton acreage. <ref>[http://www.ers.usda.gov/Data/BiotechCrops/adoption.htm]|Genetically Engineered Crops in the US: Extent of Adoption]. Retrieved December 8, 2008. </ref> . 
+
+Some believe that similar or better pest-resistance traits can be acquired through traditional breeding practices, and resistance to various pests can be gained through hybridization or cross-pollination with wild species. In some cases, wild species are the primary source of resistance traits; some tomato cultivars that have gained resistance to at least 19 diseases did so through crossing with wild populations of tomatoes. <ref>Kimbrell, A. ''Faltal Harvest: The Tragedy of Industrial Agriculture,'' Island Press, Washington, 2002. </ref> . 
+
+=== Costs and benefits of GMOs ===. 
+Genetic engineers may someday develop [[transgenic plants]] which would allow for [[irrigation]], [[drainage]], [[conservation biology|conservation]], sanitary engineering, and maintaining or increasing yields while requiring fewer fossil fuel derived inputs than conventional crops. Such developments would be particularly important in areas which are normally arid and rely upon constant irrigation, and on large scale farms. 
+However, genetic engineering of plants has proven to be controversial. Many issues surrounding food security and environmental impacts have risen regarding GMO practices. For example, GMOs are questioned by some ecologists and economists concerned with GMO practices such as [[terminator seeds]],<ref>{{cite journal |url=http://www.ecologyandsociety.org/vol4/iss1/art2/#GeneticModificationAndTheSustainabilityOfTheFoodSystem
+|author=Conway, G. |year=2000 |volume=4(1): 2
+|title=Genetically modified crops: risks and promise |publisher=Conservation Ecology }}</ref><ref>{{cite journal |publisher=Journal of Economic Integration |volume= 19 |issue = 2 |month=June | year=2004 |author=. R. Pillarisetti and Kylie Radel |title=Economic and Environmental Issues in International Trade and Production of Genetically Modified Foods and Crops and the WTO |url=http://sejong.metapress.com/app/home/contribution.asp?referrer=parent&backto=issue,6,10;journal,15,43;linkingpublicationresults,1:109474,1 |pages=332–352 }} {{dead link|date=September 2010}}</ref> which is a genetic modification that creates sterile seeds. Terminator seeds are currently under strong international opposition and face continual efforts of global bans. <ref>[http://www.twnside.org.sg/title/twr118a.htm UN biodiversity meet fails to address key outstanding issues], Third World Network. Retrieved December 9, 2008. </ref> . 
+
+Another controversial issue is the patent protection given to companies that develop new types of seed using genetic engineering. Since companies have intellectual ownership of their seeds, they have the power to dictate terms and conditions of their patented product. Currently, ten seed companies control over two-thirds of the global seed sales. <ref>[http://www.etcgroup.org/en/materials/publications.html?pub_id=706 Who Owns Nature?]. Retrieved December 9, 2008. </ref> [[Vandana Shiva]] argues that these companies are guilty of [[biopiracy]] by patenting life and exploiting organisms for profit<ref name="Shiva, Vandana 1997">Shiva, Vandana. ''Biopiracy'', [[South End Press]], Cambridge, MA, 1997. </ref> Farmers using patented seed are restricted from saving seed for subsequent plantings, which forces farmers to buy new seed every year. Since seed saving is a traditional practice for many farmers in both developing and developed countries, GMO seeds legally bind farmers to change their seed saving practices to buying new seed every year. <ref name="Farmers Guide to GMOs"/><ref name="Shiva, Vandana 1997"/> . 
+
+Locally adapted seeds are an essential heritage that has the potential to be lost with current hybridized crops and GMOs. Locally adapted seeds, also called land races or crop eco-types, are important because they have adapted over time to the specific micro-climates, soils, other environmental conditions, field designs, and ethnic preference indigenous to the exact area of cultivation. <ref>Nabhan, Gary Paul. ''Enduring Seeds,'' The University of Arizona Press, Tucson, 1989. </ref> Introducing GMOs and hybridized commercial seed to an area brings the risk of cross-pollination with local land races Therefore, GMOs pose a threat to the sustainability of land races and the ethnic heritage of cultures. Once seed contains transgenic material, it becomes subject to the conditions of the seed company that owns the patent of the transgenic material. <ref>Shiva, Vanadana. ''Stolen Harvest: The Hijacking of the Global Food Supply'' [[South End Press]], Cambrdge, MA, 2000, pp. 90-93. </ref> . 
+
+== Modern agriculture ==. 
+{{multiple issues|section=y|POV=August 2010|advert=August 2010|globalize=August 2010}}
+<!-- Heavy pro-intensive POV, advertising style, America-centric world view etc. Repeats material in other sections. -->
+Modern agriculture is a term used to describe the wide majority of production practices employed by  farmers of the world. The term depicts the push for innovation, stewardship and advancements continually made by growers to sustainability produce higher-quality products with a reduced environmental impact. Intensive scientific research and robust investment in modern agriculture during the past 50 years has helped farmers double food production. <ref>"USDA/ERS Data - Agricultural Productivity in the United States". USDA Economic Research Service. August 17, 2010 [http://www.ers.usda.gov/Data/AgProductivity/]. </ref><ref>Ruben N. Lubowski, Marlow Vesterby, Shawn Bucholtz, Alba Baez and Michael J. Roberts. Major Uses of Land in The United States, 2002. USDA Economic Research Service, 2006. </ref> . 
+
+=== Safety ===. 
+The agriculture industry works with government agencies and other organizations to ensure that farmers have access to the technologies required to support modern agriculture practices. Farmers are supported by education and certification programs that ensure they apply agricultural practices with care and only when required.{{Clarify|date=December 2010|Reason=What agenicies and organizations? Which country? ANY facts to back this meaningless text up?}} . 
+
+=== Sustainability===. 
+Some major organisations are hailing farming within [[agroecosystems]] as the way forward for mainstream agriculture. Current farming methods have resulted in over-stretched [[water]] resources, high levels of erosion and reduced [[soil]] fertility. According to a report by the [[International Water Management Institute]] and [[UNEP]],<ref>Boelee, E. (Ed) [http://www.iwmi.cgiar.org/topics/ecosystems/ Ecosystems for water and food security], 2011, [[IWMI]], [[UNEP]]</ref> there is not enough water to continue farming using current practices; therefore how we use critical water, land, and [[ecosystem]] resources to boost crop yields must be reconsidered. The report suggested that we need to assign value to ecosystems, recognize environmental and livelihood tradeoffs, and balance the rights of a variety of users and interests. We would also need to address inequities that result when such measures are adopted, such as the reallocation of water from poor to rich, the clearing of land to make way for
+more productive farmland, or the preservation of a wetland system that limits fishing rights. <ref>Molden, D., [http://www.iwmi.cgiar.org/news_room/pdf/The-scientist_com-Opinion_The%20Water_Deficit.pdf Opinion: The Water Deficit], ''The Scientist'', 23 August 2011</ref> . 
+
+Technological advancements help provide farmers with tools and resources to make farming more sustainable. <ref>Safefood Consulting, Inc., Benefits of Crop Protection Technologies on Canadian Food Production, Nutrition, Economy and the Environment. Guelph, ON: 2005. </ref> New technologies have given rise to innovations like conservation tillage, a farming process which helps prevent land loss to erosion, water pollution and enhances carbon sequestration. <ref>Trewavas, Anthony. "A critical assessment of organic farming-and-food assertions with particular respect to the UK and the potential environmental benefits of no-till agriculture". Crop Protection 2004: 757-781. </ref> . 
+
+=== Affordability ===. 
+The goal of modern agriculture practices is to help farmers provide an affordable supply of food to meet the demands of a growing population. <ref>Fernandez-Cornejo, J. "Issues in the Economics of Pesticide Use in Agriculture: A Review of the Empirical Evidence". Review of Agricultural Economics 1998: 462-488. </ref> With modern agriculture, more crops can be grown on less land allowing farmers to provide an increased supply of food at an affordable price.  . 
+
+== Food safety, labeling and regulation ==. 
+Food security issues also coincide with [[food safety]] and [[food labeling regulations|food labeling]] concerns. Currently a global treaty, the BioSafety Protocol, regulates the trade of GMOs. The EU currently requires all GMO foods to be labeled, whereas the US does not require transparent labeling of GMO foods. Since there are still questions regarding the safety and risks associated with GMO foods, some believe the public should have the freedom to choose and know what they are eating and require all GMO products to be labeled. <ref>Shiva, Vandana. ''Earth Democracy: Justice, Sustainability, and Peace,'' [[South End Press]], Cambridge, MA, 2005. </ref> . 
+
+The [[Food and Agriculture Organization of the United Nations]] (FAO) leads international efforts to defeat hunger and provides a neutral forum where nations meet as equals to negotiate agreements and debate food policy and the regulation of agriculture. According to Dr. Samuel Jutzi, director of FAO's animal production and health division, lobbying by "powerful" big food corporations has stopped reforms that would improve human health and the environment. The "real, true issues are not being addressed by the political process because of the influence of lobbyists, of the true powerful entities," he said, speaking at the [[Compassion in World Farming]] annual forum. For example, recent proposals for a voluntary code of conduct for the livestock industry that would have provided incentives for improving standards for health, and environmental regulations, such as the number of animals an area of land can support without long-term damage, were successfully defeated due to large food company pressure. <ref>{{cite news|url=http://www.guardian.co.uk/environment/2010/sep/22/food-firms-lobbying-samuel-jutzi|title=Corporate Lobbying Is Blocking Food Reforms, Senior UN Official Warns: Farming Summit Told of Delaying Tactics by Large Agribusiness and Food Producers on Decisions that Would Improve Human Health and the Environment | location=London | work=The Guardian | first=Juliette | last=Jowit | date=September 22, 2010}}, The Guardian (UK), 2010 Sept. 22</ref> . 
+
+== Environmental impact ==. 
+{{Main|Environmental issues with agriculture}}
+Agriculture imposes [[externalities|external costs]] upon society through pesticides, nutrient runoff, excessive water usage, and assorted other problems. A 2000 assessment of agriculture in the UK determined total [[externality|external costs]] for 1996 of £2,343 million, or £208 per hectare. <ref name=Pretty2000>{{cite journal | last1 = Pretty et al. | year = 2000 | title = An assessment of the total external costs of UK agriculture | journal = Agricultural Systems | volume = 65 | issue = 2 | pages = 113–136 | doi = 10.1016/S0308-521X(00)00031-7
+| url = http://www.essex.ac.uk/bs/staff/pretty/AgSyst%20pdf.pdf | first1 = J}}{{dead link|date=November 2011}}</ref> A 2005 analysis of these costs in the USA concluded that cropland imposes approximately $5 to 16 billion ($30 to $96 per hectare), while livestock production imposes $714 million. <ref name=Tegtmeier2005>{{cite journal | last1 = Tegtmeier | first1 = E.M. | last2 = Duffy | first2 = M. | year = 2005 | title = External Costs of Agricultural Production in the United States
+| journal = The Earthscan Reader in Sustainable Agriculture
+| url = http://www.organicvalley.coop/fileadmin/pdf/ag_costs_IJAS2004.pdf}}</ref> Both studies concluded that more should be done to internalize external costs, and neither included subsidies in their analysis, but noted that subsidies also influence the cost of agriculture to society. Both focused on purely fiscal impacts. The 2000 review included reported pesticide poisonings but did not include speculative chronic effects of pesticides, and the 2004 review relied on a 1992 estimate of the total impact of pesticides.  . 
+
+In 2010, the [[International Resource Panel]] of the [[United Nations Environment Programme]] published a report assessing the environmental impacts of consumption and production. The study found that agriculture and food consumption are two of the most important drivers of environmental pressures, particularly habitat change, climate change, water use and toxic emissions. <ref>[http://www.unep.org/resourcepanel/Publications/tabid/54044/Default.aspx ''Priority products and materials: assessing the environmental impacts of consumption and production] International Resource Panel, United Nations Environment Programme, 2010</ref>  . 
+
+Agriculture accounts for 70 per cent of withdrawals of freshwater resources. <ref>Molden, D. (Ed). [http://www.iwmi.cgiar.org/About_IWMI/Strategic_Documents/Annual_Reports/2006_2007/ca.html ''Water for food, Water for life: A Comprehensive Assessment of Water Management in Agriculture''] Earthscan/IWMI, 2007, p.11</ref> However, increasing pressure being placed on water resources by industry, cities and the involving biofuels industry means that [[water scarcity]] is increasing and agriculture is facing the challenge of producing more food for the world's growing population with fewer water resources. Scientists are also realising that water resources need to be allocated to maintain natural environmental services, such as protecting towns from flooding, cleaning ecosystems and supporting fish stocks. In the book ''Out of Water: From abundance to scarcity and how to solve the world's water problems'', authors Colin Chartres and Samyukta Varma of the [[International Water Management Institute]] lay down a six-point plan of action for addressing the global challenge of producing sufficient food for the world with dwindling water resources. One of the actions they say is required is to ensure all water systems, such as lakes and rivers, have water allocated to [[environmental flow]]. <ref>Chartres, C. and Varma, S. [http://www.iwmi.cgiar.org/OutOfWater/ ''Out of water. From Abundance to Scarcity and How to Solve the World’s Water Problems''] FT Press (USA), 2010</ref> . 
+
+A key player who is credited to saving billions of lives because of his revolutionary work in developing new agricultural techniques is Norman Borlaug. His transformative work brought high-yield crop varieties to developing countries and earned him an unofficial title as the father of the Green Revolution.  . 
+
+=== Livestock issues ===. 
+A senior UN official and co-author of a UN report detailing this problem, Henning Steinfeld, said "Livestock are one of the most significant contributors to today's most serious environmental problems". <ref>{{cite web |url=http://www.fao.org/newsroom/en/news/2006/1000448/index.html |title=Livestock a major threat to environment |publisher=UN Food and Agriculture Organization |date=November 29, 2006 |accessdate=<!---August 7, 2009--->|archiveurl = http://web.archive.org/web/20080328062709/http%3A//www.fao.org/newsroom/en/news/2006/1000448/index.html |archivedate = March 28, 2008|deadurl=yes}}</ref> Livestock production occupies 70% of all land used for agriculture, or 30% of the land surface of the planet. It is one of the largest sources of greenhouse gases, responsible for 18% of the world's greenhouse gas emissions as measured in CO<sub>2</sub> equivalents. By comparison, all transportation emits 13.5% of the CO<sub>2</sub>. It produces 65% of human-related nitrous oxide (which has 296 times the global warming potential of CO<sub>2,</sub>) and 37% of all human-induced methane (which is 23 times as warming as CO<sub>2</sub>. It also generates 64% of the ammonia emission. Livestock expansion is cited as a key factor driving deforestation, in the Amazon basin 70% of previously forested area is now occupied by pastures and the remainder used for feedcrops. <ref name="LEAD">{{cite web |archiveurl=http://web.archive.org/web/20080625012113/http://www.virtualcentre.org/en/library/key_pub/longshad/A0701E00.pdf |archivedate=2008-06-25 |last1=Steinfeld |first1=H. |last2=Gerber |first2=P. |last3=Wassenaar |first3=T. |last4=Castel |first4=V. |last5=Rosales |first5=M. |last6=de Haan |first6=C. |year=2006 |publisher=U.N. Food and Agriculture Organization |location=Rome |url=http://www.virtualcentre.org/en/library/key_pub/longshad/A0701E00.pdf |title=Livestock's Long Shadow - Environmental issues and options |accessdate=2008-12-05}}</ref> Through deforestation and land degradation, livestock is also driving reductions in biodiversity.  . 
+
+=== Land transformation and degradation ===. 
+Land transformation, the use of land to yield goods and services, is the most substantial way humans alter the Earth's ecosystems, and is considered the driving force in the loss of biodiversity. Estimates of the amount of land transformed by humans vary from 39–50%. <ref name="Vitousek">Vitousek, P.M.; Mooney, H.A.; Lubchenco, J.; Melillo, J.M. 1997. "Human Domination of Earth's Ecosystems". ''Science'' 277:494-499. </ref> [[Land degradation]], the long-term decline in ecosystem function and productivity, is estimated to be occurring on 24% of land worldwide, with cropland overrepresented. <ref name="FAO GLADA">Bai, Z.G., D.L. Dent, L. Olsson, and M.E. Schaepman. 2008. Global assessment of land degradation and improvement 1:identification by remote sensing. Report 2008/01, FAO/ISRIC - Rome/Wageningen. Retrieved on December 5, 2008 from [http://www.fao.org/newsroom/en/news/2008/1000874/index.html "Land degradation on the rise"] {{dead link|date=September 2010}}</ref> The UN-FAO report cites land management as the driving factor behind degradation and reports that 1.5 billion people rely upon the degrading land. Degradation can be [[deforestation]], [[desertification]], [[soil erosion]], mineral depletion, or chemical degradation (acidification and [[salinization]]). <ref name="CS"/> . 
+
+=== Eutrophication ===. 
+[[Eutrophication]], excessive nutrients in [[aquatic ecosystem]]s resulting in [[algal bloom]]s and [[anoxic waters|anoxia]], leads to [[fish kill]]s, loss of biodiversity, and renders water unfit for drinking and other industrial uses. Excessive fertilization and manure application to cropland, as well as high livestock stocking densities cause nutrient (mainly [[nitrogen]] and [[phosphorus]]) [[surface runoff|runoff]] and [[leaching (agriculture)|leaching]] from agricultural land. These nutrients are major [[nonpoint source pollution|nonpoint pollutants]] contributing to eutrophication of aquatic ecosystems. <ref name="Eutr">Carpenter, S.R., N.F. Caraco, D.L. Correll, R.W. Howarth, A.N. Sharpley, and V.H. Smith. 1998. "Nonpoint Pollution of Surface Waters with Phosphorus and Nitrogen". ''Ecological Applications'' 8:559-568. </ref> . 
+
+=== Pesticides ===. 
+Pesticide use has increased since 1950 to 2.5 million tons annually worldwide, yet crop loss from pests has remained relatively constant. <ref name="Pimentel pesticide">Pimentel, D. T.W. Culliney, and T. Bashore. 1996. [http://ipmworld.umn.edu/chapters/pimentel.htm "Public health risks associated with pesticides and natural toxins in foods in Radcliffe's IPM World Textbook"]. Retrieved December 7, 2008. </ref> The World Health Organization estimated in 1992 that 3 million pesticide poisonings occur annually, causing 220,000 deaths. <ref name="WHO">WHO. 1992. Our planet, our health: Report of the WHU commission on health and environment. Geneva: World Health Organization. </ref> Pesticides select for [[pesticide resistance]] in the pest population, leading to a condition termed the 'pesticide treadmill' in which pest resistance warrants the development of a new pesticide. <ref name="CS Pest">Chrispeels, M.J. and D.E. Sadava. 1994. "Strategies for Pest Control" pp.355-383 in ''Plants, Genes, and Agriculture''. Jones and Bartlett, Boston, MA. </ref> . 
+
+An alternative argument is that the way to 'save the environment' and prevent [[famine]] is by using pesticides and intensive high yield farming, a view exemplified by a quote heading the Center for Global Food Issues website: 'Growing more per acre leaves more land for nature'. <ref name="DAvery">Avery, D.T. 2000. ''Saving the Planet with Pesticides and Plastic: The Environmental Triumph of High-Yield Farming''. Hudson Institute, Indianapolis, IN. </ref><ref>Center for Global Food Issues. Churchville, VA. [http://www.cgfi.org/ "Center for Global Food Issues."]. Retrieved December 7, 2008. </ref> However, critics argue that a trade-off between the environment and a need for food is not inevitable,<ref name="WH">Lappe, F.M., J. Collins, and P. Rosset. 1998. "Myth 4: Food vs. Our Environment" pp. 42-57 in ''World Hunger, Twelve Myths'', Grove Press, New York. </ref> and that pesticides simply replace good agronomic practices such as crop rotation. <ref name="CS Pest"/> . 
+
+=== Climate change ===. 
+[[Climate change]] has the potential to affect agriculture through changes in [[temperature]], [[rainfall]] (timing and quantity), [[carbon dioxide|CO<sub>2</sub>]], [[solar radiation]] and the interaction of these elements. <ref name="CS"/><ref>Fraser, E.: [http://www.vulnerablefoodsystems.com/ “Crop yield and climate change”], Retrieved on September 14, 2009. </ref> Agriculture can both mitigate or worsen [[global warming]]. Some of the increase in [[carbon dioxide|CO<sub>2</sub>]] in the [[Earth's atmosphere|atmosphere]] comes from the [[decomposition]] of [[organic matter]] in the [[soil]], and much of the [[methane]] emitted into the atmosphere is caused by the decomposition of organic matter in wet soils such as [[rice paddy|rice paddies]]. <ref name="Soils OM">Brady, N.C. and R.R. Weil. 2002. "Soil Organic Matter" pp.353-385 in ''Elements of the Nature and Properties of Soils''. Pearson Prentice Hall, Upper Saddle River, NJ. </ref> Further, wet or [[anaerobic respiration|anaerobic]] soils also lose [[nitrogen]] through [[denitrification]], releasing the [[greenhouse gases]] [[nitric oxide]] and nitrous oxide. <ref name="Soils N">Brady, N.C. and R.R. Weil. 2002. "Nitrogen and Sulfur Economy of Soils" pp.386-421 in ''Elements of the Nature and Properties of Soils''. Pearson Prentice Hall, Upper Saddle River, NJ. </ref> Changes in management can reduce the release of these greenhouse gases, and soil can further be used to [[carbon capture and storage|sequester]] some of the CO<sub>2</sub> in the atmosphere. <ref name="Soils OM"/> . 
+
+== International economics and market reports ==. 
+{{See also|Agricultural subsidy}}
+Differences in economic development, population density and culture mean that the farmers of the world operate under very different conditions.  . 
+
+A US cotton farmer may receive US$230<ref name= BBC>{{cite news
+| title=Cotton subsidies squeeze Mali| work= BBC News Online|last=Baxter |first=Joan
+| url = http://news.bbc.co.uk/2/hi/africa/3027079.stm | location = London
+| date = May 19, 2003 | accessdate=2010-01-01}}</ref> in government subsidies per acre planted (in 2003), while farmers in Mali and other third-world countries do without. When prices decline, the heavily subsidized US farmer is not forced to reduce his output, making it difficult for cotton prices to rebound, but his Mali counterpart may go broke in the meantime.  . 
+
+A livestock farmer in South Korea can calculate with a (highly subsidized) sales price of US$1300 for a calf produced. <ref name= beefsite>{{cite web | publisher= megaagro.com.uy
+| url = http://www.megaagro.com.uy/scripts/templates/portada.asp?nota=portada/faena
+| accessdate = February 18, 2009 |title=socio en su producción | language = Spanish}}</ref> A South American Mercosur country rancher calculates with a calf's sales price of US$120–200 (both 2008 figures). <ref name= megaagro>{{cite web| title= mercado de faena
+| language = Spanish| publisher= megaagro.com.uy | accessdate = February 18, 2009
+| url = http://www.megaagro.com.uy/scripts/templates/portada.asp?nota=portada/faena}}</ref>
+With the former, scarcity and high cost of land is compensated with public subsidies, the latter compensates absence of subsidies with economics of scale and low cost of land.  . 
+
+In the Peoples Republic of China, a rural household's productive asset may be one hectare of farmland. <ref name= Kansas>{{cite web | title= China: Feeding a Huge Population| publisher= Kansas-Asia (ONG)| url = http://www.asiakan.org/china/china_ag_intro.shtml|quote= average farming household in China now cultivates about one hectare| accessdate = February 18, 2009| archiveurl= http://web.archive.org/web/20090221051113/http://asiakan.org/china/china_ag_intro.shtml| archivedate= 21 February 2009 <!--DASHBot-->| deadurl= no}}</ref>
+In Brazil, Paraguay and other countries where local legislature allows such purchases, international investors buy thousands of hectares of farmland or raw land at prices of a few hundred US$ per hectare. <ref name= Paraguay>{{cite web | title= Paraguay farmland real estate| publisher= Peer Voss| url = http://www.ventacamposparaguay.com/farmland.htm |accessdate = February 18, 2009| archiveurl= http://web.archive.org/web/20090219022736/http://ventacamposparaguay.com/farmland.htm| archivedate= 19 February 2009 <!--DASHBot-->| deadurl= no}}</ref><ref>{{cite web| title = Cada vez más Uruguayos compran campos Guaranés (..no hay tierras en el mundo que se compren a los precious de Paraguay...)| language = Spanish| publisher = Consejo de Educacion Secundaria de Uruguay| date = June 26, 2008| url = http://www.ces.edu.uy/Relaciones_Publicas/BoletinPrensa/2007-08/20070824.pdf }}{{Dead link|date=September 2009}}</ref><ref name= Brazil>{{cite web | title= Brazil frontier farmland| publisher= AgBrazil| url = http://agbrazil.com/frontier_land_for_sale.htm| accessdate = February 18, 2009| archiveurl= http://web.archive.org/web/20090227003156/http://agbrazil.com/frontier_land_for_sale.htm| archivedate= 27 February 2009 <!--DASHBot-->| deadurl= no}}</ref> . 
+
+To promote exports of agricultural products, many government agencies publish on the web economic studies and reports categorized by product and country. Among these agencies include four of the largest exporters of agricultural products, such as the [[Foreign Agricultural Service|FAS]] of the United States Department of Agriculture, [[Agriculture and Agri-Food Canada]] (AAFC), [[Austrade]], and [[NZTE]] . The [[Federation of International Trade Associations]] publishes studies and reports by FAS and AAFC, as well as other non-governmental organizations on its website [[GlobalTrade.net]].  . 
+
+== List of countries by agricultural output ==. 
+{{Main|List of countries by GDP sector composition}}
+[[File:Agricultural value map 1970-2008.gif|thumb|right|400px|Global agricultural output from 1970 to 2008. This time covers the effects of the [[Green Revolution]].]]
+Below is a list of countries by agricultural output in 2011.  . 
+
+{| class="wikitable sortable" border="1" style="font-size:100%"
+|+Agricultural output in 2011
+! width="8%"|Rank
+! width="23%"|Country
+! width="23%"|Output in billions of [[US$]]
+! width="23%"|Composition of GDP (%)
+! width="23%"|% of Global Agricultural Output
+. |-
+| align="center" | ''—''
+| style="text-align:left;" | '''''{{noflag}} [[Gross world product|World]]'''''
+| align="center" | ''4,130.689''
+| align="center" | ''5.9%''
+| align="center" | ''100.0%''
+. |-
+| align="center" | 1
+| style="text-align:left;" | '''{{flag|China}}'''
+| align="center" | 670.893
+| align="center" | 9.6%
+| align="center" | 16.2%
+. |-
+| align="center" | 2
+| style="text-align:left;" | '''{{flag|India}}'''
+| align="center" | 333.652
+| align="center" | 18.1%
+| align="center" | 8.1%
+. |-
+| align="center" | ''—''
+| style="text-align:left;" | '''''{{flag|European Union}}'''''
+| align="center" | ''323.284''
+| align="center" | ''1.8%''
+| align="center" | ''7.8%''
+. |-
+| align="center" | 3
+| style="text-align:left;" | '''{{flag|United States}}'''
+| align="center" | 180.778
+| align="center" | 1.2%
+| align="center" | 4.4%
+. |-
+| align="center" | 4
+| style="text-align:left;" | '''{{flag|Brazil}}'''
+| align="center" | 146.040
+| align="center" | 5.8%
+| align="center" | 3.5%
+. |-
+| align="center" | 5
+| style="text-align:left;" | '''{{flag|Indonesia}}'''
+| align="center" | 124.316
+| align="center" | 14.9%
+| align="center" | 3.0%
+. |-
+| align="center" | 6
+| style="text-align:left;" | '''{{flag|Nigeria}}'''
+| align="center" | 87.483
+| align="center" | 35.4%
+| align="center" | 2.1%
+. |-
+| align="center" | 7
+| style="text-align:left;" | '''{{flag|Japan}}'''
+| align="center" | 81.975
+| align="center" | 1.4%
+| align="center" | 2.0%
+. |-
+| align="center" | 8
+| style="text-align:left;" | '''{{flag|Russia}}'''
+| align="center" | 79.166
+| align="center" | 4.2%
+| align="center" | 1.9%
+. |-
+| align="center" | 9
+| style="text-align:left;" | '''{{flag|Turkey}}'''
+| align="center" | 70.205
+| align="center" | 9.2%
+| align="center" | 1.7%
+. |-
+| align="center" | 10
+| style="text-align:left;" | '''{{flag|Australia}}'''
+| align="center" | 60.296
+| align="center" | 4.0%
+| align="center" | 1.5%
+. |-
+| align="center" | 11
+| style="text-align:left;" | '''{{flag|Iran}}'''
+| align="center" | 53.206
+| align="center" | 11.2%
+| align="center" | 1.3%
+. |-
+| align="center" | 12
+| style="text-align:left;" | '''{{flag|Spain}}'''
+| align="center" | 50.704
+| align="center" | 3.3%
+| align="center" | 1.2%
+. |-
+| align="center" | 13
+| style="text-align:left;" | '''{{flag|France}}'''
+| align="center" | 47.741
+| align="center" | 1.7%
+| align="center" | 1.2%
+. |-
+| align="center" | 14
+| style="text-align:left;" | '''{{flag|Mexico}}'''
+| align="center" | 46.223
+| align="center" | 3.9%
+| align="center" | 1.1%
+. |-
+| align="center" | 15
+| style="text-align:left;" | '''{{flag|Pakistan}}'''
+| align="center" | 44.125
+| align="center" | 21.6%
+| align="center" | 1.1%
+. |-
+| align="center" | 16
+| style="text-align:left;" | '''{{flag|Argentina}}'''
+| align="center" | 43.518
+| align="center" | 10.0%
+| align="center" | 1.1%
+. |-
+| align="center" | 17
+| style="text-align:left;" | '''{{flag|Italy}}'''
+| align="center" | 42.668
+| align="center" | 1.9%
+| align="center" | 1.0%
+. |-
+| align="center" | 18
+| style="text-align:left;" | '''{{flag|Thailand}}'''
+| align="center" | 41.406
+| align="center" | 12.2%
+| align="center" | 1.0%
+. |-
+| align="center" | 19
+| style="text-align:left;" | '''{{flag|South Korea}}'''
+| align="center" | 34.915
+| align="center" | 3.0%
+| align="center" | 0.8%
+. |-
+| align="center" | 20
+| style="text-align:left;" | '''{{flag|Canada}}'''
+| align="center" | 33.415
+| align="center" | 1.9%
+| align="center" | 0.8%
+. |-
+| align="center" | -
+| style="text-align:left;" | '''''Remaining Countries'''''
+| align="center" | 1,858.810
+| align="center" | 
+| align="center" | 45.0%
+. |-
+|} . 
+
+== Energy and agriculture ==. 
+Since the 1940s, agricultural productivity has increased dramatically, due largely to the increased use of energy-intensive [[mechanization]], [[fertilizer]]s and [[pesticide]]s. The vast majority of this energy input comes from [[fossil fuel]] sources. <ref>"[http://www.independent.co.uk/news/science/world-oil-supplies-are-set-to-run-out-faster-than-expected-warn-scientists-453068.html World oil supplies are set to run out faster than expected, warn scientists]". ''The Independent''. June 14, 2007. </ref> Between 1950 and 1984, the [[Green Revolution]] transformed agriculture around the globe, with world grain production increasing by 250%<ref>[http://news.bbc.co.uk/2/hi/in_depth/6496585.stm The limits of a Green Revolution?]</ref><ref>[http://www.energybulletin.net/19525.html The Real Green Revolution] {{dead link|date=September 2010}}</ref> as [[world population]] doubled. Modern agriculture's heavy reliance on petrochemicals and mechanization has raised concerns that oil shortages could increase costs and reduce agricultural output, causing food shortages. 
+{| class="wikitable" style="float:right; text-align:center;"
+. |-
+! colspan=4|Agriculture and food system share (%) of total energy<br />consumption by three industrialized nations
+. |-
+! Country
+! Year
+! Agriculture<br />(direct & indirect)
+! Food<br />system
+. |-
+| style="text-align:left;"| [[United Kingdom]]<ref>Rebecca White (2007). "Carbon governance from a systems perspective: an investigation of food production and consumption in the UK," Oxford University Center for the Environment http://www.eci.ox.ac.uk/research/energy/downloads/eceee07/white.pdf</ref>
+| 2005
+| 1.9
+| 11
+. |-
+| style="text-align:left;"| [[United States of America]]<ref name="css.snre.umich.edu">Martin Heller and Gregory Keoleian (2000). "Life Cycle-Based Sustainability Indicators for Assessment of the U.S. Food System," University of Michigan Center for Sustainable Food Systems. http://css.snre.umich.edu/css_doc/CSS00-04.pdf</ref>
+| 1996
+| 2.1
+| 10
+. |-
+| style="text-align:left;"| [[United States of America]]<ref name="ers.usda.gov">Patrick Canning, Ainsley Charles, Sonya Huang, Karen R. Polenske, and Arnold Waters (2010). "Energy Use in the U.S. Food System," USDA Economic Research Service Report No. ERR-94. http://www.ers.usda.gov/Publications/ERR94/</ref>
+| 2002
+| 2.0
+| 14
+. |-
+| style="text-align:left;"| [[Sweden]]<ref>Christine Wallgren & Mattias Hojer (2009). "Eating energy—Identifying possibilities for reduced energy use in the future." Energy Policy 37: 5803–5813. [http://dx.doi.org/10.1016/j.enpol.2009.08.046 doi:10.1016/j.enpol.2009.08.046]</ref>
+| 2000
+| 2.5
+| 13
+|}
+Modern or industrialized agriculture is dependent on fossil fuels in two fundamental ways: 1) direct consumption on the farm and 2) indirect consumption to manufacture inputs used on the farm. Direct consumption includes the use of lubricants and fuels to operate farm vehicles and machinery; and use of gas, liquid propane, and electricity to power dryers, pumps, lights, heaters, and coolers. American farms directly consumed about 1.2 exajoules (1.1 quadrillion BTU) in 2002, or just over 1 percent of the nation's total energy. <ref name="ncseonline.org">Randy Schnepf (2004). "Energy use in Agriculture: Background and Issues," CRS Report for Congress. http://ncseonline.org/NLE/CRSreports/04nov/RL32677.pdf</ref> . 
+
+Indirect consumption is mainly oil and natural gas used to manufacture fertilizers and pesticides, which accounted for 0.6 exajoules (0.6 quadrillion BTU) in 2002. <ref name="ncseonline.org"/> The energy used to manufacture farm machinery is also a form of indirect agricultural energy consumption, but it is not included in [[USDA]] estimates of U.S. agricultural energy use. Together, direct and indirect consumption by U.S. farms accounts for about 2 percent of the nation's energy use. Direct and indirect energy consumption by U.S. farms peaked in 1979, and has gradually declined over the past 30 years. <ref name="ncseonline.org"/> . 
+
+[[Food systems]] encompass not just agricultural production, but also off-farm processing, packaging, transporting, marketing, consumption, and disposal of food and food-related items. Agriculture accounts for less than one-fifth of food system energy use in the United States. <ref name="css.snre.umich.edu"/><ref name="ers.usda.gov"/> . 
+
+In 2007, higher incentives for farmers to grow non-food [[biofuel]] crops<ref>Smith, Kate; Edwards, Rob (March 8, 2008).[http://www.sundayherald.com/news/heraldnews/display.var.2104849.0.2008_the_year_of_global_food_crisis.php "2008: The year of global food crisis"], ''The Herald'' (Glasgow). </ref> combined with other factors (such as over-development of former farm lands, rising transportation costs, [[climate change]], growing consumer demand in China and India, and [[population growth]])<ref>[http://www.csmonitor.com/2008/0118/p08s01-comv.html "The global grain bubble"], ''The Christian Science Monitor'' (Boston), January 18, 2008. </ref> to cause [[food security|food shortages]] in Asia, the Middle East, Africa, and Mexico, as well as rising [[food]] prices around the globe. <ref>[http://news.bbc.co.uk/1/hi/world/7284196.stm "The cost of food: Facts and figures"], ''BBC News Online'' (London), October 16, 2008. </ref><ref>Walt, Vivienne (February 27, 2008).[http://www.time.com/time/world/article/0,8599,1717572,00.html "The World's Growing Food-Price Crisis"], ''Time'' (New York). </ref> As of December 2007, 37 countries faced food crises, and 20 had imposed some sort of food-price controls. Some of these shortages resulted in [[2007-2008 world food price crisis|food riots]] and even deadly stampedes. <ref name="guardian.co.uk"/><ref name="timesonline.co.uk"/><ref name="ReferenceA"/> . 
+
+The biggest fossil fuel input to agriculture is the use of natural gas as a hydrogen source for the [[Haber process|Haber-Bosch]] fertilizer-creation process. <ref>[http://www.fertilizer.org/ifa/statistics/indicators/ind_reserves.asp Raw Material Reserves - International Fertilizer Industry Association]{{dead link|date=November 2011}}</ref> Natural gas is used because it is the cheapest currently available source of hydrogen. <ref>Integrated Crop Management-[[Iowa State University]] January 29, 2001 [http://www.ipm.iastate.edu/ipm/icm/2001/1-29-2001/natgasfert.html]</ref><ref>[http://web.archive.org/web/20071126035318/http://www.physicstoday.org/vol-57/iss-12/p39.html "The Hydrogen Economy"], ''Physics Today'', December 2004. </ref> When oil production becomes so scarce that natural gas is used as a partial stopgap replacement, and hydrogen use in transportation increases, natural gas will [[supply and demand|become much more expensive]]. If the Haber Process is unable to be commercialized using renewable energy (such as by [[electrolysis]]) or if other sources of hydrogen are not available to replace the Haber Process, in amounts sufficient to supply transportation and agricultural needs, this major source of fertilizer would either become extremely expensive or unavailable. This would either cause food shortages or dramatic rises in food prices.{{Citation needed|date=March 2011}} . 
+
+=== Mitigation of effects of petroleum shortages ===. 
+[[Image:Hubbert peak oil plot.svg|right|thumb|250px|[[M. King Hubbert]]'s prediction of world petroleum production rates. Modern agriculture is totally reliant on petroleum energy. <ref>"[http://www.independent.co.uk/news/science/world-oil-supplies-are-set-to-run-out-faster-than-expected-warn-scientists-6262621.html World oil supplies are set to run out faster than expected, warn scientists]". ''The Independent''. June 14, 2007. </ref>]]
+In the event of a petroleum shortage (see [[peak oil]] for global concerns), [[organic agriculture]] can be more attractive than conventional practices that use [[petroleum]]-based pesticides, herbicides, or fertilizers. Some farmers using modern organic-farming methods have reported yields as high as those available from conventional farming. <ref name="Realities of organic farming"/><ref name="extension.agron.iastate.edu"/><ref name="berkeley1"/><ref name="terradaily1"/> Organic farming may however be more [[labour (economics)|labor]]-intensive and would require a shift of the workforce from urban to rural areas. <ref>Strochlic, R.; Sierra, L. (2007). [http://www.cirsinc.org/Documents/Pub0207.1.PDF Conventional, Mixed, and "Deregistered" Organic Farmers: Entry Barriers and Reasons for Exiting Organic Production in California]{{dead link|date=November 2011}}. California Institute for Rural Studies. </ref> The reconditioning of soil to restore nutrients lost during the use of [[monoculture]] agriculture techniques also takes time. <ref name="Realities of organic farming">[http://www.biotech-info.net/Alex_Avery.html Realities of organic farming]</ref><ref name="extension.agron.iastate.edu">http://extension.agron.iastate.edu/organicag/researchreports/nk01ltar.pdf</ref><ref name="berkeley1">[http://www.cnr.berkeley.edu/~christos/articles/cv_organic_farming.html Organic Farming can Feed The World!]{{dead link|date=November 2011}}</ref><ref name="terradaily1">[http://www.terradaily.com/news/farm-05c.html Organic Farms Use Less Energy And Water]</ref> . 
+
+It has been suggested that rural communities might obtain fuel from the [[biochar]] and [[synfuel]] process, which uses agricultural ''waste'' to provide charcoal fertilizer, some fuel ''and'' food, instead of the normal [[food vs fuel]] debate. As the synfuel would be used on-site, the process would be more efficient and might just provide enough fuel for a new organic-agriculture fusion. <ref>[http://www.rsnz.org/topics/energy/ccmgmt.php#2 "Carbon cycle management with increased photo-synthesis and long-term sinks"], (2007) Royal Society of New Zealand. {{dead link|date=September 2010}}</ref><ref>Greene, Nathanael (December 2004). [http://www.bio.org/ind/GrowingEnergy.pdf How biofuels can help end America's energy dependence]{{dead link|date=November 2011}}. </ref> . 
+
+It has been suggested that some [[Genetically modified organism|transgenic plants]] may some day be developed which would allow for maintaining or increasing yields while requiring fewer fossil-fuel-derived inputs than conventional crops. <ref>{{cite journal
+|publisher=The Electronic Journal of Environmental, Agricultural and Food Chemistry
+|volume=7
+|month=June | year=2008
+|author=Srinivas et al. 
+|title=Reviewing The Methodologies For Sustainable Living
+|url=http://ejeafche.uvigo.es/index.php?option=com_docman&task=doc_download&gid=363
+|pages=2993–3014
+}}</ref> The possibility of success of these programs is questioned by ecologists and economists concerned with unsustainable GMO practices such as [[terminator seeds]]. <ref>{{cite journal |url=http://www.ecologyandsociety.org/vol4/iss1/art2/#GeneticModificationAndTheSustainabilityOfTheFoodSystem
+|author=Conway, G. 
+|year=2000
+|title=Genetically modified crops: risks and promise
+|publisher=Conservation Ecology
+|volume=4(1): 2
+}}</ref><ref>{{cite journal
+|publisher=Journal of Economic Integration
+|volume= 19| issue = 2
+|month=June | year=2004
+|author= Pillarisetti, R.; Radel, Kylie
+|title=Economic and Environmental Issues in International Trade and Production of Genetically Modified Foods and Crops and the WTO
+|url=http://sejong.metapress.com/app/home/contribution.asp?referrer=parent&backto=issue,6,10;journal,15,43;linkingpublicationresults,1:109474,1
+|pages=332–352
+}} {{dead link|date=September 2010}}</ref> . 
+
+While there has been some research on sustainability using GMO crops, at least one prominent multi-year attempt by [[Monsanto Company]] has been unsuccessful, though during the same period traditional breeding techniques yielded a more sustainable variety of the same crop. <ref>{{cite news
+|url=http://www.newscientist.com/article/mg18124330.700-monsanto-failure.html
+|newspaper=[[New Scientist]] | location = London
+|date=February 7, 2004
+|title=Monsanto failure
+|accessdate=<!---April 18, 2008--->
+|volume= 181| issue = 2433
+}}</ref> . 
+
+=== Electrical energy efficiency on farms ===. 
+{{Main|Electrical energy efficiency on United States farms}} . 
+
+== Policy ==. 
+{{Main|Agricultural policy}}
+[[Agricultural policy]] focuses on the goals and methods of agricultural production. At the policy level, common goals of agriculture include:
+* [[conservation biology|Conservation]]
+* [[Economic stability]]
+* [[Environmental sustainability]]
+* [[Food quality]]: Ensuring that the food supply is of a consistent and known quality. 
+* [[Food safety]]: Ensuring that the food supply is free of contamination. 
+* [[Food security]]: Ensuring that the food supply meets the population's needs. <ref name="un warning">[http://www.finfacts.com/irelandbusinessnews/publish/article_1011078.shtml Record rise in wheat price prompts UN official to warn that surge in food prices may trigger social unrest in developing countries]</ref><ref name = "nnxnwc">Trumbull, Mark (July 24, 2007). [http://www.csmonitor.com/2007/0724/p01s01-wogi.html "Rising food prices curb aid to global poor"], ''The Christian Science Monitor'' (Boston). </ref>
+* [[Poverty]] reduction . 
+
+== See also ==. 
+{{Portal|Agriculture and Agronomy}}
+{{Main|Outline of agriculture}}
+{{Wikipedia books}}
+{{div col|cols=2}}
+* [[Peak oil#Agricultural effects and population limits|Agricultural effects of peak oil]]
+* [[Aeroponics]] (Indoor growing of food and plants)
+* [[Agricultural economics]]
+* [[Agricultural engineering]]
+* [[Agricultural marketing]]
+* [[Agricultural diversification]]
+* [[Agroecology]]
+* [[Agronomy for Sustainable Development]]
+* [[Animal welfare]]
+* [[Biopesticides]]
+* [[Building-integrated agriculture]]
+* [[Chitosan]] (natural biocontrol for agricultural and horticultural use)
+* [[Climate change and agriculture]]
+* [[Contract farming]]
+* [[Consumption-labour-balance principle]]
+* [[Crofting]]
+* [[Doha Development Round]]
+* [[Ecoagriculture]]
+* [[Factory farming]]
+* [[Feed additive]]
+* [[Food Studies]]
+* [[Good agricultural practice]]
+* [[Green Revolution]]
+* [[Industrial agriculture]]
+* [[Intensive farming]]
+* [[Leveraging Agriculture for Improving Nutrition and Health]]
+* [[No-till farming]]
+* [[Organic farming]]
+* [[Permaculture]]
+* [[Permaforestry]]
+* [[Rural economics]]
+* [[Remote sensing]]<ref>[http://iap.esa.int/projects/water/grapelook Remote sensing becoming an increasingly important technique for agriculture]</ref>
+* [[Smallholder agriculture]]
+* [[Timeline of agriculture and food technology]]
+* [[Wildculture]]
+* [[Vertical farming]]
+* [[Push–pull technology]], pest control strategy for maize and sorghum
+{{div col end}} . 
+
+=== Lists ===. 
+* [[List of basic agriculture topics]]
+* [[List of countries by GDP sector composition]] - breakdown includes agricultural sector information
+* [[List of largest producing countries of agricultural commodities]]
+* [[List of countries by dietary calorie intake]]
+* [[List of domesticated animals]]
+* [[List of subsistence techniques]]
+* [[List of sustainable agriculture topics]] . 
+
+== References ==. 
+{{Reflist|colwidth=30em}} . 
+
+== Bibliography ==. 
+[[File:Coffee Plantation.jpg|thumb|300px|right|Coffee Plantation up São João do Manhuaçu City mouth - [[Minas Gerais]] State - [[Brazil]].]]
+{{Refbegin}}
+* Alvarez, Robert A. (2007). [http://caliber.ucpress.net/doi/pdf/10.1525/gfc.2007.7.3.28 "The March of Empire: Mangos, Avocados, and the Politics of Transfer"]. ''Gastronomica'', Vol. 7, No. 3, 28-33. Retrieved on November 12, 2008. 
+* Bolens, L. (1997). "Agriculture" in Selin, Helaine (ed.), ''Encyclopedia of the history of Science, technology, and Medicine in Non Western Cultures''. Kluwer Academic Publishers, Dordrecht/Boston/London, pp.&nbsp;20–22. 
+* Collinson, M. (ed.) ''A History of Farming Systems Research''. CABI Publishing, 2000. ISBN 978-0-85199-405-5
+* Crosby, Alfred W.: ''The Columbian Exchange: Biological and Cultural Consequences of 1492''. Praeger Publishers, 2003 (30th Anniversary Edition). ISBN 978-0-275-98073-3
+* Davis, Donald R.; [[Hugh D Riordan|Riordan, Hugh D.]] (2004). "Changes in USDA Food Composition Data for 43 Garden Crops, 1950 to 1999". ''Journal of the American College of Nutrition'', Vol. 23, No. 6, 669-682. 
+*Duplessis, Robert. S. (1997). "Transitions to Capitalism in Early Modern Europe." Cambridge University Press. 
+* Friedland, William H.; Barton, Amy (1975). "Destalking the Wily Tomato: A Case Study of Social Consequences in California Agricultural Research". Univ. California at Sta. Cruz, Research Monograph 15. 
+* Mazoyer, Marcel; Roudart, Laurence (2006). ''A history of world agriculture : from the Neolithic Age to the current crisis''. Monthly Review Press, New York. ISBN 978-1-58367-121-4
+* Saltini A. ''Storia delle scienze agrarie'', 4 vols, Bologna 1984-89, ISBN 978-88-206-2412-5, ISBN 978-88-206-2413-2, ISBN 978-88-206-2414-9, ISBN 978-88-206-2414-9
+* Watson, A.M. (1974). "The Arab agricultural revolution and its diffusion", in ''The Journal of Economic History'', 34. 
+* Watson, A.M. (1983). ''Agricultural Innovation in the Early Islamic World'', Cambridge University Press. 
+* Wells, Spencer (2003). ''The Journey of Man: A Genetic Odyssey''. Princeton University Press. ISBN 978-0-691-11532-0
+* Wickens, G.M. (1976). "What the West borrowed from the Middle East", in Savory, R.M. (ed.) ''Introduction to Islamic Civilization''. Cambridge University Press. 
+{{Refend}} . 
+
+== External links ==. 
+{{commons}}
+{{wikiquote}}
+{{Wiktionary}}
+{{wikiversity|Agriculture|at=The School of Agriculture|at-link=School:Agriculture}}
+* [http://ucblibraries.colorado.edu/govpubs/us/agritop.htm Agriculture] from ''UCB Libraries GovPubs''
+* [http://www.worldbank.org/rural Agriculture and Rural development] from the [[World Bank]]
+* [http://water.worldbank.org/water/publications/reengaging-agricultural-water-management-challenges-and-options/ The World Bank on Agricultural water management]
+* [http://www.fao.org/gender/en/ Gender in agriculture and rural development (FAO)]
+* [http://www.nal.usda.gov/speccoll/collectionsguide/collection.php?subject=Plant_Exploration Index to the Manuscript Collections] Special Collections, National Agricultural Library
+* [https://www.agronomy.org/ The American Society of Agronomy (ASA)]
+* [http://www.ifap.org/ International Federation of Agricultural Producers] (IFAP)
+* [http://www.cdc.gov/niosh/topics/agriculture NIOSH Agriculture Page] - safety laws, tips, and guidelines
+* [http://agriculture.house.gov/info/glossary.html U.S. House Committee on Agriculture] - Glossary of agricultural terms, programs and laws
+* [http://www.ukagriculture.com/ UKAgriculture.com] - Advance the education of the public in all aspects of agriculture, the countryside and the rural economy
+* [http://dictionary.babylon.com/science/agriculture Collection of Agriculture Dictionaries]
+* [http://www.peacepalacelibrary.nl/research-guides/public-international-law-special-topics/agriculture/ Peace Palace Library - Research Guide]
+Farmer Power: The Continuing Confrontation between Subsistence Farmers and Development Bureaucrats by Tony Waters at Ethnography.com [http://www.ethnography.com/2010/12/farmer-power-the-continuing-confrontation-between-subsistence-farmers-and-development-bureaucrats/] . 
+
+{{Horticulture and Gardening}} . 
+
+[[Category:Agriculture| ]]

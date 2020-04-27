@@ -1,0 +1,324 @@
+{{redirect|EverCrack|the video game frequently known as EverCrack|EverQuest}}
+{{See also|Internet addiction disorder|Computer addiction}} . 
+
+'''Video game addiction''', also known as '''video game overuse''', is extreme use of [[personal computer game|computer]] and [[video game|video]] [[game]]s that interferes with daily life. Instances have been reported in which users play compulsively, isolating themselves from family and friends or from other forms of [[social contact]], and focus almost entirely on in-game achievements rather than other life events, and exhibit lack of imagination and mood swings. <ref>[http://parents.berkeley.edu/advice/teens/gameaddiction.html Computer Game Addiction.]  Berkeley Parents Network. Retrieved June 25, 2007. </ref><ref>Hauge, Marney R. and James Robert 'Paynee'. [http://www.psychology.iastate.edu/faculty/dgentile/SRCD%20Video%20Game%20Addiction.pdf Video game addiction among adolescents: Associations with academic performance and aggression.] Paper presented at a Society for Research in Child Development Conference, Tampa Florida. April, 2003. Retrieved June 25, 2007. </ref><ref name="Tanner2007" /> There is no formal diagnosis of ''video game addiction'' in current medical or psychological literature. Inclusion of it as a psychological disorder has been proposed and rejected for the next version of the [[Diagnostic and Statistical Manual of Mental Disorders]] (DSM). <ref name=notenough1 /><ref name=notenough2 /><ref>Nguyen, Katherine "Video game addiction all too real." OC Register Sunday, January 28, 2007</ref> . 
+
+== Possible disorder ==. 
+Video game addiction is not included as a diagnosis in either the [[Diagnostic and Statistical Manual of Mental Disorders|DSM]] or the [[ICD|International Statistical Classification of Diseases and Related Health Problems]].  . 
+
+However, some scholars suggest the effects (or symptoms) of video game overuse may be similar to those of other proposed [[Behavioral addiction|psychological addictions]]. <ref name="Khan">Khan, Mohamed K. [http://www.ama-assn.org/ama1/pub/upload/mm/467/csaph12a07.doc Report of the council on science and public health.] 2006. Retrieved June 25, 2007. </ref>  Video game overuse may be like [[problem gambling|compulsive gambling]], an [[impulse control disorder]]. <ref>Brown, Gerald L. [http://www.healthsystem.virginia.edu/internet/psych-training/seminars/impulse%20control%20disorders%203-12-04.pdf Impulse control disorders: a clinical and psycho biological perspective] March 15, 2004 Accessed June 25, 2007</ref><ref>[http://www.theaustralian.com.au/story/0,20867,20632039-27699,00.html Study finds computer addiction is linked to impulse control disorder] ''The Australian News'' October 24, 2006. Retrieved June 25, 2007. </ref><br />
+<br />
+According to Griffiths<ref name="Griffiths">Griffiths, M.(2010)Online video gaming: what should educational psychologists know?. Educational Psychology in Practice, 26(1), 35-40. doi:10.1080/02667360903522769</ref>“all addictions (whether chemical or behavioural) are essentially about constant rewards and reinforcement”. Griffiths<ref name=Griffiths/> believed that addiction has six components: salience, mood modification, tolerance, withdrawal, conflict, and relapse. Some scholars suggest that psycho-social dependence, if it occurs, may revolve around the intermittent reinforcements in the game and the need to belong. <ref name=Griffiths/> Some scholars claim that the social dependence that may arise from video games occurs online where players interact with others and the relationships “often become more important for gamers than real-life relationships”. <ref name="Hagedorn">Hagedorn, W., & Young, T. (2011). Identifying and Intervening with Students Exhibiting Signs of Gaming Addiction and other Addictive Behaviors: Implications for Professional School Counselors. Professional School Counseling, 14(4), 250-260. </ref> However this is not a view which is generally accepted among all scholars.   . 
+
+In 2007, the [[American Psychiatric Association]] reviewed whether or not video game addiction should be added in the new DSM to be released in 2012. The conclusion was that there was not enough research or evidence to conclude that video game addiction was a disorder. <ref name="Tanner2007">{{cite news|url=http://www.msnbc.msn.com/id/19354827/|title=Is video-game addiction a mental disorder?|last=Tanner|first=Lindsey|date=June 22, 2007|agency=Associated Press|accessdate=2009-05-09}}</ref><ref name=notenough1>
+{{cite web
+ |url=http://www.sciencedaily.com/releases/2007/06/070625133354.htm
+ |title=American Psychiatric Association Considers 'Video Game Addiction'
+ |date=June 25, 2007
+ |publisher=[[Science Daily]]
+}}</ref><ref name=notenough2>
+{{cite news
+ |url=http://www.foxnews.com/printer_friendly_story/0,3566,286948,00.html
+ |title=AMA Will Not Label Video-Game Playing as a Psychiatric Addiction
+ |date=June 28, 2007
+ |publisher=[[Fox News (disambiguation)|FoxNews.com]]
+}}</ref> . 
+
+== Public concern and formal study ==. 
+One meta-analytic review <ref> {{cite journal|last=Ferguson |first=C.J.|coauthors=M. Coulson, J. Barnett Griffiths|2011|journal=Journal of Psychiatric Research|volume=45|issue=12|pages=1573–1576|url=http://www.tamiu.edu/~cferguson/Video%20Game%20Addiction.pdf|}}</ref> of pathological gaming studies concluded that about 3% of gamers may experience some symptoms of pathological gaming.  The report noted problems in the field with defining and measuring pathological gaming and concluded that pathological gaming behaviors were more likely the product of underlying mental health problems rather than the inverse.  . 
+
+A report by the Council On Science And Public Health to the AMA cited a 2005 [[Entertainment Software Association]] survey<ref>[http://www.forbes.com/forbeslife/health/feeds/hscout/2007/06/22/hscout605801.html Video Game Overuse May Be an Addiction: Experts.]{{dead link|date=July 2010}} ''Forbes'' June 22, 2007. Retrieved June 25, 2007. </ref><ref>{{cite web|work=HealthDay|url=http://www.dentalplans.com/articles/20277/video-game-overuse-may-be-an-addiction--experts.html|title=Video Game Overuse May Be an Addiction: Experts|date=June 22, 2007|author=E.J. Mundell|accessdate=July 14, 2010}}</ref> of computer game players and noted that players of [[MMORPGs]] were more likely to play for more than two hours per day than other gamers. In its report, the Council used this two-hour-per-day limit to define "gaming overuse", citing the [[American Academy of Pediatrics]] guideline of no more than one to two hours per day of "screen time". <ref>{{cite web|url=http://psychcentral.com/blog/images/csaph12a07.pdf|title=Emotional and Behavioral Effects, Including Addictive Potential, of Video Games|accessdate=January 31, 2009}}</ref> However, the ESA document cited in the Council report does not contain the two-hour-per-day data. <ref>{{cite web|url=http://www.theesa.com/files/2005EssentialFacts.pdf|archiveurl=http://web.archive.org/web/20080325220544/http://www.theesa.com/files/2005EssentialFacts.pdf|archivedate=2008-03-25|title=2005 SALES, DEMOGRAPHICS AND USAGE DATA (from archive.org)|accessdate=January 31, 2009}}</ref> . 
+
+In a 2005 [[Tom's Games]] interview, Dr. [[Maressa Orzack]] estimated that 40% of the <!-- *NOT* 10 million in 2005, and the article doesn't say, so if you add it, please add a source --> players of ''[[World of Warcraft]]'' (an MMORPG) were addicted, but she did not indicate a source for the estimate. <ref>{{cite web|url=http://us.tomsgames.com/us/2006/08/08/world_of_warcraft_players_addicted/|title=Expert: 40 Percent of World of Warcraft Players Addicted|accessdate=January 31, 2009}}{{dead link|date=July 2010}}</ref>
+She may have derived the estimate from the informal survey managed by [[Nick Yee]] at [[The Daedalus Project]],<ref>Ferguson, Dylan. [http://web.archive.org/web/20070814140711/http://www.themanitoban.com/2006-2007/0328/121.World.of.warcrack.php World of Warcrack: the addictive power of role-playing games] ''The Manitoban Online'' March 28, 2007. Retrieved June 25, 2007. </ref> who notes that caution should be exercised when interpreting that data. <ref>Yee, Nick. [http://www.nickyee.com/daedalus/archives/000818.php The Daedalus Project: Addiction] ''The Daedalus Project'' July 9, 2004</ref> Other critics have satirized the idea of MMORPG addiction, illustrating that the genre has built-in mechanisms for burning-out players, which is contrary to the concept of addiction. <ref>{{cite web|url=http://radoff.com/blog/2011/02/26/vicious-cycle-mmorpg-addiction/|title=Stages of MMORPG Addiction|accessdate=February 26, 2011}}</ref> . 
+
+A 2006 lecture reported by the [[BBC]] indicated that 12% of polled online gamers reported at least some addictive behaviours. <ref>[http://news.bbc.co.uk/2/hi/uk_news/england/nottinghamshire/6193462.stm Online gamers addicted says study.] ''BBC News'' November 28, 2006. Retrieved June 25, 2007. </ref><ref name="7069OnlineSurveys">{{cite journal|last=Grüsser|first=S.M.|coauthors=R. Thalemann, M. D. Griffiths|date=April, 2007|journal=CyberPsychology & Behavior|publisher=Mary Anne Liebert, Inc.|volume=10|issue=2|pages=290–292|url=http://www.liebertonline.com/doi/abs/10.1089/cpb.2006.9956?journalCode=cpb|accessdate=May 9, 2009|doi=10.1089/cpb.2006.9956?journalCode=cpb}}</ref>
+The lecturer, [[Professor]] Mark Griffiths of [[Nottingham Trent University]], stated in another BBC interview that addicts are "few and far between."<ref name="NotUnhealthy">{{cite news|url=http://news.bbc.co.uk/2/hi/health/7621412.stm|title=Online gamers 'are not unhealthy'|date=17 September 2008|publisher=BBC News|accessdate=2009-05-09}}</ref> . 
+
+In 2007, Michael Cai, director of broadband and gaming for Parks Associates (a media/technology research and analysis company), said that "Video game addiction is a particularly severe problem in Asian countries such as China and Korea."<ref name="technews">Noyes, Katherine. [http://www.technewsworld.com/story/58014.html Docs Retreat From 'Video Game Addiction' Diagnosis] ''Tech News World'' June 25, 2007. Retrieved June 27, 2007. </ref>
+Results of a 2006 survey suggested that 2.4% of [[South Korea]]ns aged 9 to 39 suffer from game addiction, with another 10.2% at risk of addiction. <ref name="Faiola">Faiola, Anthony. [http://www.washingtonpost.com/wp-dyn/content/article/2006/05/26/AR2006052601960.html When Escape Seems Just a Mouse-Click Away -Stress-Driven Addiction to Online Games Spikes in S. Korea.] ''Washington Post Foreign Service'' May 27, 2006. Retrieved June 25, 2007. </ref> . 
+
+A 2007 [[Harris Interactive]] online [[Opinion poll|poll]] of 1,187 [[United States]] youths aged 8–18 gathered detailed data on youth opinions about video game play. About 81% of youths stated that they played video games at least once per month. Further, the average play time varied by age and sex, from eight hours per week (responses from teen girls) to 14 hours per week (responses by teen boys). 
+"[[Preadolescence|Tween]]s" (8–12-year-olds) fell in the middle, with boys averaging 13 hours per week of reported game play and girls averaging 10. 
+Harris concluded that 8.5% "can be classified as pathological or clinically 'addicted' to playing video games", but did not explain how this conclusion was reached. <ref>[http://www.harrisinteractive.com/news/allnewsbydate.asp?NewsID=1196 Video game addiction: is it real?] ''Harris Interactive'' April 2, 2007. Retrieved June 25, 2007. </ref> . 
+
+Since the [[American Psychological Association]] decision in 2007, studies have been conducted at [[Stanford University School of Medicine]] related to video game play. Researchers found evidence that video games do have addictive characteristics. <ref>{{cite web|url=http://www.sciencedaily.com/releases/2007/06/070625133354.htm |title=American Psychiatric Association Considers 'Video Game Addiction' |publisher=Sciencedaily.com |date=2007-06-26 |accessdate=2009-08-09}}</ref><ref>{{cite web|url=http://serendip.brynmawr.edu/exchange/node/2138 |title=Video Game Addiction: Mental Disorder? &#124; Serendip's Exchange |publisher=Serendip.brynmawr.edu |date= |accessdate=2009-08-09}}</ref>
+An MRI study found that the part of the brain that generates rewarding feelings is more activated in men than women during video game play. <ref name=stanford>{{cite web | author=MICHELLE L. BRANDT | title = Video games activate reward regions of brain in men more than women, Stanford study finds | publisher=Stanford University School of Medicine  | work = | url=http://med.stanford.edu/news_releases/2008/february/videobrain.html | year = 2008 | accessdate=2008-05-07}}</ref><ref>
+{{cite news
+ |url=http://www.telegraph.co.uk/science/science-news/3965269/Men-enjoy-computer-games-because-of-basic-urge-to-conquer.html
+ |title=Men enjoy computer games 'because of basic urge to conquer'
+ |date=December 26, 2008
+ |publisher=The Daily Telegraph
+| location=London
+| first=Matthew
+| last=Moore
+| accessdate=May 27, 2010
+}}</ref> . 
+
+A 2009 survey by the [[Centre for Addiction and Mental Health]] (CAMH) in Toronto, Ontario of 9,000 students from Grades 7 to 12 showed almost 10% get "screen time" for seven (or more) hours a day. A little over 10% also reported having video gaming problems in the previous year. A recent article [[Pediatrics (journal)]] found a mild association between watching television or playing a video game and attention issues in more than 1,300 children ages eight to 11 years old. Children who played video games or watched television for more than the normal two hours a day maximum, which is recommended by the [[American Academy of Pediatrics]] were 1.5 - 2 times more likely to show signs of attention issues, the researchers found. However, the study was further criticized in eLetters to the same journal for failing to use well-validated measures of attention problems or control for other important variables. <ref>{{cite journal | doi = 10.1542/peds.2009-1508 | title = Television and Video Game Exposure and the Development of Attention Problems | journal = Pediatrics | volume = 126 | issue = 2 | pages = 214–21 |date = August 2010| first = Edward | pmid = 20603258 | last = Swing | coauthors = Douglas A. Gentile, Craig A. Anderson, and David A. Walsh| id = | url = http://pediatrics.aappublications.org/cgi/content/full/126/2/214?maxtoshow=&hits=10&RESULTFORMAT=&fulltext=Edward+Swing&searchid=1&FIRSTINDEX=0&sortspec=relevance&resourcetype=HWCIT | accessdate = 2010-09-19}}</ref>  A more recent study using the Child Behavior Checklist and controlling for family and mental health variables, found no link between video game use and attention problems. <ref>{{cite journal|url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T8T-51N0SSY-1&_user=10&_coverDate=12%2F07%2F2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=442964e8fba20bf0c76e306767ecedd9&searchtype=a|title=The influence of television and video game use on attention and school problems: A multivariate analysis with other risk factors controlled | first = Christopher| last = Ferguson| journal = Journal of Psychiatric Research | accessdate=January 1, 2010| doi=10.1016/j.jpsychires.2010.11.010|year=2010|volume=45|issue=6|pages=808–13|pmid=21144536}}</ref>  Also, a study in Pediatrics<ref>{{cite web|url=http://pediatrics.aappublications.org/cgi/content/abstract/peds.2009-2706v1|title=Video-Gaming Among High School Students: Health Correlates, Gender Differences, and Problematic Gaming
+|accessdate=January 1, 2010}}</ref> found problematic gaming behaviors to be far less common, about 4%, and concluded that such problems were the result of underlying mental health problems rather than anything unique to gaming.  . 
+
+Writing in the American Psychological Association journal Review of General Psychology's special issue on video games, Barnett and Coulson<ref name="Barnett">{{cite journal|url=http://psycnet.apa.org/journals/gpr/14/2/167/|title=Virtually Real: A Psychological Perspective on Massively Multiplayer Online Games
+ | first = Jane| last = Barnett| coauthors = Mark Coulson| journal = Review of General Psychology| accessdate=January 1, 2010}}</ref> expressed concern that much of the debate on the issue of addiction may be a knee jerk response stimulated by poor understanding of games and game players. Such issues may lead both society and scholars to exaggerate the prevalence and nature of problematic gaming, and overfocus on games specifically while ignoring underlying mental health issues.  . 
+
+=== Media coverage ===. 
+The press has reported concerns over online gaming since at least 1994, when ''[[Wired Magazine]]'' mentioned a [[college]] student who was playing a [[MUD]] for 12 hours a day instead of attending class. <ref name="wired-article">{{cite journal
+ |author=[[Kevin Kelly (editor)|Kevin Kelly]], [[Howard Rheingold]]
+ |year=1993
+ |title=The Dragon Ate My Homework
+ |journal=[[Wired (magazine)|Wired]]
+ |volume=1
+ |issue=3
+ |url=http://www.wired.com/wired/archive/1.03/muds.html
+}}</ref> . 
+
+Press reports have noted that some [[Finnish Defence Forces]] [[conscription|conscripts]] were not mature enough to meet the demands of military life and were required to interrupt or postpone military service for a year. 
+One reported source of the lack of needed social skills is overuse of computer games or the Internet. 
+''[[Forbes]]'' termed this overuse "Web fixations" and stated that they were responsible for 13 such interruptions or deferrals over the five years from 2000-2005. <ref>{{cite web
+|url=http://www.hs.fi/english/article/WHO+study+shows+Finnish+teenage+boys+as+heavy+computer+users/1076153407318
+|title=WHO study shows Finnish teenage boys as heavy computer users
+|publisher=Helsingin Sanomat
+|accessdate=2007-07-17
+}}</ref><ref>{{cite news
+|url=http://members.forbes.com/forbes/2005/0509/054.html
+|title=This Is Your Brain on Clicks
+|publisher=Forbes
+|author=Lea Goldman
+|date=2005-09-05
+|accessdate=2007-07-17
+}}</ref> . 
+
+In a July 2007 article, [[Perth, Western Australia|Perth]], [[Western Australia|Western]] [[Australia]], parents stated that their 15-year-old son had abandoned all other activities to play ''[[RuneScape]]'', a popular [[MMORPG]]. The boy's father compared the condition to [[heroin]] addiction. <ref>{{cite web|author=Braden Quartermaine |url=http://www.perthnow.com.au/story/0,21598,22073926-2761,00.html |title=Brian Quartermaine, Stress over teen's 'addiction', The Sunday Times (Perth), News.com.au, July 14, 2007 |publisher=News.com.au |date=2007-07-14 |accessdate=2009-08-09}}</ref> . 
+
+In an April 2008 article, Telegram.co.uk reported that surveys of 391 players of ''[[Asheron's Call]]'' showed that 3% of the respondents suffered from agitation when they were unable to play, or missed sleep or meals to play. The article reports that [[University of Bolton]] lead researcher Dr. John Charlton stated, "Our research supports the idea that people who are heavily involved in game playing may be nearer to autistic spectrum disorders than people who have no interest in gaming."<ref>{{cite news|url=http://www.telegraph.co.uk/earth/earthnews/3338422/Video-game-addiction-like-being-on-drugs.html|title=Video game addiction 'like being on drugs'|last=Fleming|first=Nic|date=03 Apr 2008|publisher=Telegraph.co.uk|accessdate=2009-05-09 | location=London}}</ref> . 
+
+On March 6, 2009, the [[Canadian Broadcasting Corporation|CBC]]'s national [[newsmagazine]] program ''[[the fifth estate]]'' aired an hour-long report on video game addiction and the [[Brandon Crisp]] story, titled "Top Gun", subtitled "When a video gaming obsession turns to addiction and tragedy". <ref>{{cite news|url=http://www.cbc.ca/fifth/2008-2009/top_gun/ |title=CBC/the fifth estate 'Top Gun' |publisher=Cbc.ca |date=2009-03-06 |accessdate=2009-08-09}}</ref> . 
+
+On August 2010, [[Wired Magazine]] reported that a man in Hawaii, Craig Smallwood, sued the gaming company NCsoft for negligence and for not specifying him that their game, Lineage II was so addictive. He alleged that he would not have begun playing if he was aware that he would become addicted. Smallwood claims to have played Lineage for 20,000 hours between 2004 and 2009. <ref>{{cite news|url=http://www.wired.com/threatlevel/2010/08/lineage11-addiction/|title=Addicted Gamer Sues Game-Maker|last=Kravits|first=David|date=19 Aug 2010|publisher=Wired|accessdate=2011-03-21 | location=Hawaii}}</ref> . 
+
+=== Governmental concern ===. 
+The first video game to attract [[Video game controversy|political controversy]] was the 1978 [[arcade game]] ''[[Space Invaders]]''. In 1981, a political bill called the "Control of Space Invaders (and other Electronic Games) Bill" was drafted by British [[Labour Party (UK)|Labour Party]] MP [[George Foulkes, Baron Foulkes of Cumnock|George Foulkes]] in an attempt to ban the game for its "addictive properties" and for causing "deviancy". The bill was debated and only narrowly defeated in parliament by 114 votes to 94 votes. <ref>{{cite web|title=30 Great Gaming World Records|url=http://www.computerandvideogames.com/207943/features/30-great-gaming-world-records/|work=[[Computer and Video Games]]|publisher=[[ComputerAndVideoGames.com]]|accessdate=26 January 2012|date=14 February 2009}}</ref><ref>{{cite journal|title=Electronic and Computer Games: The History of an Interactive Medium|journal=[[Screen (journal){{!}}Screen]]|year=1988|volume=29|issue=2|pages=52-73|doi=10.1093/screen/29.2.52|url=http://screen.oxfordjournals.org/content/29/2/52.extract|accessdate=25 January 2012|page=53|quote=In the UK, the Labour MP George Foulkes led a campaign in 1981 to curb the 'menace' of video games, maintaining that they had addictive properties. His 'Control of Space Invaders (and other Electronic Games) Bill' was put to the Commons and only narrowly defeated.}}</ref> . 
+
+In August 2005, the government of the [[People's Republic of China]], where more than 20 million people play online games, introduced an online gaming restriction limiting playing time to three hours, after which the player would be expelled from whichever game they were playing. <ref>{{cite news|url=http://news.bbc.co.uk/2/hi/technology/4183340.stm|title=China imposes online gaming curbs|publisher=BBC|date=August 25, 2005}}</ref><ref>Dickie, Mure. [http://www.ft.com/cms/s/2/89ea206a-13f3-11da-af53-00000e2511c8.html China moves to zap online game addiction] ''Financial Times'' August 23, 2005. Retrieved June 27, 2007. </ref>  In 2006, it relaxed the rule so only citizens under the age of 18 would face the limitations. <ref>{{cite web|url=http://www.marketwatch.com/story/online-gaming-restrictions-eased|title=Online gaming restrictions eased|date=15 January 2006|accessdate =4 February 2009}}</ref><ref>Shang Koo. [http://www.pacificepoch.com/newsstories?id=51064_0_5_0_M GAPP Exempts Adults From Fatigue System] ''Pacific Epoch'' January 16, 2006. Retrieved June 27, 2007. </ref> Reports indicate underage gamers found ways to circumvent the measure. <ref>Zhengqian Zhou. [http://www.pacificepoch.com/newsstories?id=94553_0_5_0_M Industry Unfazed, Gamers Unconvinced About Fatigue System] ''Pacific Epoch'' April 10, 2007. Retrieved June 27, 2007. </ref> In July, 2007, the rule was relaxed yet again. Internet games operating in China must require that users identify themselves by [[JMSFZ#Identity card number|resident identity numbers]]. After three hours, players under 18 are prompted to stop and "do suitable physical [[exercise]]." If they continue, their characters gain 50% of the usual experience. After five hours, their characters gain no experience at all. <ref name=3-rx>{{cite web | title =China Limits Teenage Internet Gaming | publisher=3-RX Health Encyclopedia | work = | url=http://www.3-rx.com/ab/more/china-limits-teenage-internet-gaming/ | date = July 17, 2007 | accessdate=2 Feb 2009}}</ref> . 
+
+In 2008, one of the five [[Federal Communications Commission|FCC]] Commissioners, [[Deborah Taylor Tate]], stated that online gaming addiction was "one of the top reasons for college drop-outs". <ref name=FCCspeech>{{cite web |url=http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-287221A1.pdf |title=STATEMENT OF COMMISSIONER DEBORAH TAYLOR TATE AT PRACTICING LAW INSTITUTE ON TELECOM POLICY AND REGULATION DECEMBER 5, 2008 |accessdate=19 December 2008 |date=December 5, 2008|quote=You might find it alarming that one of the top reasons for college drop-outs in the U.S. is online gaming addiction...}}</ref>  However, she did not mention a source for the statement nor identify its position in relation to other top reasons. <ref name=FCCspeech /><ref>{{cite web|url=http://www.1up.com/do/newsStory?cId=3171777|title=FCC Commish Blames Online Gaming Addiction as a Top Cause for College Dropouts|date=11 December 2008|accessdate =4 February 2009}}</ref><ref>{{cite news|url=http://findarticles.com/p/articles/mi_m0BTR/is_4_22/ai_84599442/|title=The dropout dilemma: One in four college freshmen drop out. What is going on here? What does it take to stay in?|date=March 2002|author=Jonathan Whitbourne|accessdate=February 4, 2009 | work=Careers and Colleges}}</ref><ref>{{cite news|url=http://www.post-gazette.com/pg/08250/909977-298.stm|title=No simple explanation for college dropout rate|date=6 September 2008|accessdate =4 February 2009|author=Anya Sostek|publisher=Pittsburgh Post-Gazette}}</ref> . 
+
+== Possible symptoms ==. 
+Excessive use of video games may have some or all of the [[symptoms]] of [[drug addiction]] or other proposed [[Behavioral addiction|psychological addictions]]. 
+Some players become more concerned with their interactions in the game than in their broader lives. 
+Players may play many hours per day, having late [[Bathing|baths]] and regarding personal hygiene as a waste of time, gain or lose significant weight due to playing, disrupt sleep patterns to play and suffer [[sleep deprivation]] as an effect, play at work, standing in the middle of nowhere looking into [[space]] for a considerable amount of time, avoiding phone calls from friends and/or lying about play time. <ref name="Tanner2007" /><ref name="7069OnlineSurveys"/> An example of this to the extreme is “A seventeen year old boy named Zach Richardson would go on streaks of fifteen hours of straight playing.  He skipped meals and only stopped when he blacked out.”<ref>{{cite web|last=G|first=Krey|title=Bad Parenting Leads To 15 Hourr A day Gaming Habit For Teen|url=<http://www.hotbloodedgaming.com/2010/08/27/bad-parenting-leads-to-15-hour-a-day-gaming-habit-for-teen/>.|publisher=Hot Blooded Gaming|accessdate=2011-12-02}}</ref>  . 
+
+Other scholars have cautioned that comparing the symptoms of problematic gaming with problematic gambling is flawed, may introduce research artifacts and artificially inflate prevalence estimates. For instance Richard Wood has observed that behaviors which are problematic in regards to gambling may not be as problematic when put into the context of other behaviors that are rewarding such as gaming. <ref>{{cite web|url=http://www.springerlink.com/content/kk6k288445l0h5x0/|title=Problems with the Concept of Video Game "Addiction": Some Case Study Examples
+|accessdate=January 1, 2010}}</ref> Similarly Barnett and Coulson have cautioned that discussions of problematic gaming have moved forward prematurely without proper understanding of the symptoms, proper assessment and consequences. <ref name="Barnett"/> . 
+
+== Possible causes ==. 
+Some theorists focus on presumed built-in reward systems of the games to explain their potentially addictive nature. <ref>Haggard, Daniel.  [http://danielhaggard.com/24/the-computer-game-affliction-how-they-addict-you/ The computer game affliction: how they addict you.]. Retrieved June 25, 2007. </ref><ref>LeClaire, Jennifer. [http://www.technewsworld.com/story/52916.html Warning Signs Appear Along Road to Video Game Addiction] TechNews World. September 13, 2006. Retrieved June 25, 2007. </ref>
+In reference to gamers such as one suicide in China, the head of one software association was quoted, "In the hypothetical world created by such games, they become confident and gain satisfaction, which they cannot get in the real world."<ref name="dangers">
+{{cite web
+ |url=http://play.tm/news/5928/chinese-suicide-shows-addiction-dangers/
+ |title=Chinese suicide shows addiction dangers
+ |date=June 3, 2005
+ |publisher=Play
+}}</ref> . 
+
+Ferguson, Coulson and Barnett <ref> {{cite journal|last=Ferguson |first=C.J.|coauthors=M. Coulson, J. Barnett Griffiths|2011|journal=Journal of Psychiatric Research|volume=45|issue=12|pages=1573–1576|url=http://www.tamiu.edu/~cferguson/Video%20Game%20Addiction.pdf|}}</ref> in a meta-analytic review of the research, concluded that the evidence suggests that video game addiction arises out of other mental health problems, rather than causing them.  Thus it is unclear whether video game addiction should be considered a unique diagnosis.  . 
+
+Researchers at the [[University of Rochester]] and Immersyve, Inc. (a Celebration, Florida, computer gaming [[Think-tank]]) investigated what motivates gamers to continue playing video games. 
+According to lead investigator Richard Ryan, they believe that players play for more reasons than fun alone. 
+Ryan, a motivational psychologist at Rochester, says that many video games satisfy basic psychological needs, and players often continue to play because of rewards, freedom, and a connection to other players. <ref>[http://ndri.com/article/cause_and_impact_of_video_games_addiction_-211.html Cause and Impact of Video Games Addiction.] All about Health, News, Articles, Discussion. February 5, 2007 Accessed May 8, 2008. </ref> . 
+
+Michael Brody,<!-- not the one with a Wikipedia article as of 2009 July --> M.D., head of the TV and Media Committee of the [[American Academy of Child and Adolescent Psychiatry]], stated in a 2007 press release that "... there is not enough research on whether or not video games are addictive."  However, Dr. Brody also cautioned that for some children and adolescents, "... it displaces physical activity and time spent on studies, with friends, and even with family."<ref>{{cite web| url=http://www.aacap.org/cs/2007_press_releases/child_and_adolescent_psychiatrists_react_to_ama_recommendation_on_video_games| title=Child and Adolescent Psychiatrists React to AMA Recommendation on Video Games|accessdate=January 31, 2009|publisher=The American Academy of Child and Adolescent Psychiatry (AACAP)|date=June 28, 2007}}</ref> . 
+
+Dr. Karen Pierce, a psychiatrist at [[Chicago]]'s [[Children's Memorial Hospital]], sees no need for a specific gaming addiction diagnosis. Two or more children see her each week because of excessive computer and video game play, and she treats their problems as she would any addiction. She said one of her excessive-gaming patients "...hasn't been to bed, hasn't showered...He is really a mess."<ref name="Tanner2007" /> . 
+
+== Prevention and correction == . 
+
+Some countries, such as [[South Korea]], [[People's Republic of China|China]], the [[Netherlands]], [[Canada]], and the [[United States]], have responded to the perceived threat of video game addiction by opening treatment centers. <ref name="Faiola"/> . 
+
+Because few clinical trials and no meta-analyses have been completed, research is still in the preliminary stages for excessive gaming treatment. The most effective treatments seem to be, as with addictions or dependencies, a combination of [[psychopharmacology]], [[psychotherapy]] and [[twelve-step program]]s. <ref name=health.am>{{cite web | author=Cindy Burkhardt Freeman  | title = Internet Gaming Addiction Treatments | publisher=The Journal for Nurse Practitioners  | work = | url=http://www.health.am/psy/more/internet-gaming-addiction/P4/ | year = January 2008 | issue =1 |pages =42–47 | accessdate=2008-05-07}}</ref> . 
+
+=== China ===. 
+The [[Government of the People's Republic of China|Chinese government]] operates several clinics to treat those suffering from overuse of [[online game]]s, [[Online chat|chatting]] and [[web surfing]]. Treatment for the patients, most of whom have been forced to attend by parents or government officials, include various forms of pain or uneasiness. <ref>Humphrey Cheung.[http://www.tgdaily.com/games-and-entertainment-features/31056-china-electrocutes-the-wow-out-of-internet-addicts China electrocutes the WoW out of Internet addicts] February 23, 2007. Retrieved June 25, 2007. </ref><ref>Sebag-Montefiore, Poppy. [http://www.guardian.co.uk/technology/2005/nov/20/news.china China's young escape into the web] ''Observer Guardian'' November 20, 2005. Retrieved June 25, 2007. </ref> In August 2009, Deng Sanshan was reportedly beaten to death in a correctional facility for video game and Web addiction. <ref>{{cite news|url=http://www.wired.com/magazine/2010/01/ff_internetaddiction/|title=Obsessed with the Internet: A Tale from China|last=Stewart|first=Christopher S.|date=January 13, 2010|unused_data=Magazine|work=Wired}}
+</ref> . 
+
+===Netherlands ===. 
+In June 2006, the Smith and Jones Clinic<ref name="SMITHJONES">{{cite web|url=http://www.smithandjones.nl |title=Smith and Jones clinic |publisher=Smithandjones.nl |date= |accessdate=2009-08-09}}</ref> in [[Amsterdam]] became the first treatment facility in [[Europe]] to offer a residential treatment program for compulsive gamers. <ref>Li C. Kuo. [http://uk.gamespy.com/articles/710/710909p1.html Europe Opens Its First Game Addiction Clinic]. ''Gamespy'' June 1, 2006. Retrieved June 25, 2007. </ref>
+[[Keith Bakker]], founder and head of the clinic, has stated that 90% of the young people who seek treatment for compulsive computer gaming are not addicted. <ref>{{cite news|last=Maguire |first=Paddy |url=http://news.bbc.co.uk/2/hi/technology/7746471.stm |title=Technology &#124; Compulsive gamers 'not addicts' |publisher=BBC News |date=2008-11-25 |accessdate=2009-08-09}}</ref> The clinic focuses on excess gaming being a result of social situations rather than an addictive dependency.  . 
+
+=== United States === . 
+
+[[McLean Hospital]] in [[Belmont, Massachusetts|Belmont]], [[Massachusetts]] has set up Computer Addiction Services. <ref name="CAS">{{cite web|author=David Wolf, 3b |url=http://www.computeraddiction.com/ |title=Computer Addiction Services |publisher=Computeraddiction.com |date= |accessdate=2009-08-09}}</ref> Elsewhere, gamers may seek services at generalized addiction support centers.  . 
+
+[[Online Gamers Anonymous]], an American [[non-profit organization]] formed in 2002, is a [[twelve-step program|twelve-step]], self-help, support and recovery organization for gamers and their loved ones who are suffering from the adverse effects of excessive computer gaming. The organization provides a variety of message boards, daily on-line chat meetings, a Saturday and Wednesday Skype meeting, and other tools for healing and support.  . 
+
+In July 2009, ReSTART, a [[residential treatment center]] for "pathological computer use", opened in Fall City, near Seattle, Washington. <ref>{{cite web|url=http://buzz.yahoo.com/article/1:yahoo_games_p893:f868dd25329b857949eb0108ec1a51c1/Internet-addiction-center-opens-in-US?ccs=1&ra=1|title=Internet addiction center opens in US|first=NICHOLAS K.|last=GERANIOS|[[Associated Press]], [[Yahoo]]|date=September 3, 2009}}</ref> . 
+
+[http://www.gamingaddiction.net www.gamingaddiction.net], was formed in 2011 to promote responsible gaming including internet games, online gambling, and fantasy sports.  They offer surveys for gamers and people that care about gamers.  They advocate a simple three pronged approach to responsible gaming: Understand what gaming is; Solve problems that are created by excessive gaming; act out the solution and live a healthier life free of gaming addiction.  . 
+
+=== Canada === . 
+
+At a Computer Addiction Services<ref name="CAS"/> center in [[Richmond, British Columbia|Richmond]], [[British Columbia]], excessive gaming accounts for 80% of one youth counselor's caseload. <ref>Bennett, Nelson. [http://web.archive.org/web/20070926231747/http://www.richmond-news.com/issues06/122206/news/122206nn1.html When the game gets serious]. ''Richmond News'' December 8, 2006. Retrieved June 25, 2007. </ref> . 
+
+== Notable deaths ==. 
+Globally, there have been [[death]]s caused directly by exhaustion from playing games for excessive periods of time. <ref>{{cite news|url=http://news.bbc.co.uk/2/hi/technology/4137782.stm |title=Technology &#124; S Korean dies after games session |publisher=BBC News |date=2005-08-10 |accessdate=2009-08-09}}</ref><ref>{{cite web|url=http://app1.chinadaily.com.cn/star/2003/0501/vo2-4.html |title=Death by computer games |publisher=App1.chinadaily.com.cn |date=2003-05-01 |accessdate=2009-08-09}}</ref>
+There have also been deaths of gamers and/or others related to playing of video games.  . 
+
+=== China ===. 
+In 2007, it was reported that Xu Yan died in [[Jinzhou]] after playing online games persistently for over 2 weeks during the [[Chinese New Year|Lunar New Year]] holiday. <ref>
+{{cite web
+ |url=http://www.v3.co.uk/vnunet/news/2184523/online-addict-games-himself
+ |title=Chinese gamer dies after 15-day session
+ |date=1 March 2007
+ |publisher=[[VNU|VNU.Net]]
+}}</ref>
+Later 2007 reports indicated that a 30-year-old man died in [[Guangzhou]] after playing video games continuously for three days. <ref>
+{{cite web
+ |url=http://www.v3.co.uk/vnunet/news/2198850/chinese-man-dies-three-days
+ |title=Chinese gamer dies after three-day session
+ |date=17 September 2007
+ |publisher=[[VNU|VNU.Net]]
+}}</ref><ref>
+{{cite news
+ |url=http://www.foxnews.com/story/0,2933,297059,00.html
+ |title=Chinese Man Dies From 3-Day Gaming Binge
+ |agency=Associated Press
+ |date=2007-09-17
+| work=Fox News
+}}</ref> . 
+
+The suicide of a young Chinese boy in the Tianjin [[Direct-controlled municipality of the People's Republic of China|municipality]] has highlighted once more the growing dangers of game addiction, when those responsible do not understand or notice the risks of unhealthy play. Xiao Yi was thirteen when he threw himself from the top of a twenty-four story tower block in his home town, leaving notes that spoke of his addiction and his hope of being reunited with fellow cyber-players in heaven. The suicide notes were written through the eyes of a gaming character, so reports the ''China Daily'', and stated that he hoped to meet three gaming friends in the after life. His parents, who had noticed with growing concern his affliction, weren't mentioned in the letters. <ref name="dangers"/> . 
+
+In March 2005, the BBC reported a murder in Shanghai, when Qiu Chengwei fatally stabbed fellow player Zhu Caoyuan, who had sold on eBay a dragon saber sword he had been lent in a ''[[Legend of Mir 3]]'' game,<ref>
+{{cite news
+ |url=http://news.bbc.co.uk/2/hi/technology/4397159.stm
+ |title='Game theft' led to fatal attack
+ |date=31 March 2005
+ |publisher=BBC News
+}}</ref> and was given a suspended death sentence. <ref>
+{{cite news
+ |url=http://news.bbc.co.uk/2/hi/technology/4072704.stm
+ |title=Chinese gamer sentenced to life
+ |date=8 June 2005
+ |publisher=BBC News
+}}</ref> . 
+
+=== South Korea ===. 
+In 2005, Seungseob Lee ([[Hangul]]: 이승섭) visited an [[Internet cafe]] in the city of [[Taegu]] and played ''[[StarCraft]]'' almost continuously for fifty hours. 
+He went into [[cardiac arrest]], and died at a local hospital. 
+A friend reported: "...he was a game addict. We all knew about it. He couldn't stop himself."
+About six weeks before his death, his girlfriend, also an avid gamer, broke up with him, and he had been fired from his job for repeated tardiness. <ref>[http://www.timesonline.co.uk/tol/news/world/article553840.ece Korean drops dead after 50-hour gaming marathon] (London ''Times'') August 10, 2005</ref><ref>[http://www.gamespot.com/news/2005/09/12/news_6132357.html Korea Reacts to Increase in Game Addiction] ''(GameSpot)'' September 12, 2005</ref><ref>[http://news.bbc.co.uk/2/hi/technology/4137782.stm S Korean dies after games session] 10 August 2005</ref> . 
+
+In 2009, Kim Sa-rang, a 3-month-old Korean child, died from malnutrition after both her parents spent hours each day in an internet cafe raising a virtual child on an online game, [[Prius Online]]. <ref>{{cite news|url=http://edition.cnn.com/2010/WORLD/asiapcf/05/28/south.korea.virtual.baby/|title=Jail for couple whose baby died while they raised online child|first=Andrew|last=Salmon|date=2009-05-28|publisher=CNN|accessdate=9 June 2010 | location=Seoul}}</ref> . 
+
+=== Vietnam ===. 
+An Earthtimes.org article reported in 2007 that police arrested a 13-year-old boy accused of murdering and robbing an 81-year-old woman. 
+A local policeman was quoted as saying that the boy "...confessed that he needed money to play online games and decided to kill and rob..." the victim. 
+The article further related a police report that the murder by strangling netted the thief 100,000 [[Vietnamese dong]] (US$6.20). <ref>
+{{cite web
+ |url=http://www.earthtimes.org/articles/news/144906.html
+ |title=Vietnamese boy, 13, kills woman for money to play video games
+ |date=November 20, 2007
+ |publisher=The Earth Times
+}}</ref><ref>{{cite web|author=Independent Online |url=http://www.int.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20071120091202808C962080 |title=News - World: Teen accused of killing for gaming money |publisher=Int.iol.co.za |date= |accessdate=2009-08-09}}{{dead link|date=July 2010}}</ref> . 
+
+=== United States ===. 
+In February 2002, a Louisiana woman sued [[Nintendo]] because her son died after suffering seizures caused by playing [[Nintendo 64]] for eight hours a day, six days a week. Nintendo denied any responsibility. <ref>{{cite web|title=http://www.nintendoworldreport.com/news/7043|url=http://www.nintendoworldreport.com/news/7043|publisher=[[Nintendo World Report]]|date=February 24, 2002|last=Berghammer|first=Billy|accessdate=November 22, 2010}}</ref> . 
+
+Press reports in November 2005 state that Gregg J. Kleinmark, 24, pleaded "guilty to two counts of [[involuntary manslaughter]]". He "left fraternal twins Drew and Bryn Kleinmark unattended in a bathtub for 30 minutes, in order to go three rooms away and play on his [[Game Boy Advance]]" while "in the mean time, the two ten-months old kids drowned". <ref>
+{{cite web
+ |url=http://www.playfuls.com/news_3987_Twins_Die_Drowned_In_Bathtub_While_Father_Plays_On_GBA.html
+ |archiveurl=http://web.archive.org/web/20051127035008/http://www.playfuls.com/news_3987.html
+ |archivedate=2005-11-27
+ |title=Twins Die Drowned In Bathtub While Father Plays On GBA
+ |date=November 25, 2005
+ |publisher=Playfuls
+|accessdate=February 1, 2009
+}}</ref><ref>
+{{cite web
+|url=http://abclocal.go.com/wtvg/story?section=news/local&id=3655539
+|title=Father Speaks on Loss and Guilt
+|date=November 21, 2005
+|publisher=[[American Broadcasting Company|ABC]]
+|accessdate=February 1, 2009
+}}</ref> . 
+
+A [[New Mexico]] woman named Rebecca Colleen Christie was convicted of [[second degree murder]] and [[child abandonment]], and sentenced to 25 years in prison, for allowing her 3 and a half-year-old daughter to die of malnutrition and dehydration while occupied with chatting and playing [[World of Warcraft]] online. <ref>{{cite web|url=http://beta.news.yahoo.com/mexico-mom-gets-25-years-starving-daughter-145411042.html|title=New Mexico mom gets 25 years for starving daughter|date=June 3, 2011|publisher=[[Associated Press]]}}</ref> . 
+
+Tyrone Spellman, 27, of Philadelphia, was convicted of [[third-degree murder]] for killing his 17-month old daughter in a rage over a broken [[Xbox]]. <ref>
+{{cite web
+ |url=http://cbs3.com/local/Tyrone.Spellman.Xbox.2.676702.html
+ |title=Man Sentenced For Killing Toddler Over Broken Xbox
+ |date=March 13, 2008
+ |publisher=[[KYW-TV|CBS3]]
+}}</ref> . 
+
+In November 2001 Shawn Woolley committed suicide due to the popular computer game [[Everquest]]. Shawn’s mother said the suicide was due to a rejection or betrayal in the game from a character Shawn called “iluvyou”. <ref>
+{{cite news
+ |url=http://www.cbsnews.com/stories/2002/10/17/48hours/main525965.shtml
+ |title=Addicted: Suicide Over Everquest?
+ |date=February 11, 2009
+ |publisher=[[CBS News]]
+}}</ref> . 
+
+Ohio teen [[Daniel Petric Shooting|Daniel Petric]] shot his parents, killing his mother, after they took away his copy of ''[[Halo 3]]'' in October 2007. 
+In a sentencing hearing after the teen was found guilty of aggravated murder, the judge said, "I firmly believe that Daniel Petric had no idea at the time he hatched this plot that if he killed his parents they would be dead forever."<ref>{{cite news|url=http://www.news.com.au/technology/teen-killed-mother-over-video-game/story-e6frfro0-1111118553464|title=Ohio teenager Daniel Petric killed mother over Halo 3 video game|date=January 13, 2009|accessdate=January 19, 2009 | work=news.com.au}}</ref><ref>{{cite web|url=http://www.cleveland.com/news/plaindealer/index.ssf?/base/lorain/1229506385228270.xml&coll=2|title=Lawyers to make closing remarks in Daniel Petric murder trial|date=December 17, 2008|accessdate=January 19, 2009}}</ref>
+On 16 June 2009, Petric was sentenced to 23 years to life in prison. <ref>{{cite news|url=http://buzz.yahoo.com/article/1:y_news:80f2a3f04cc8d15b98c69b987d807345/Ohio-teen-who-killed-over-video-game-gets-23-years-AP|title=Ohio teen who killed over video game gets 23 years|last=SHEERAN|first=THOMAS J.|date=June 16, 2009|agency=Associated Press|accessdate=2009-06-17}}</ref><ref>{{cite news|url=http://www.nowpublic.com/world/daniel-petric-halo-3-killer-gets-23-years-life-murder|title=http://www.nowpublic.com/world/daniel-petric-halo-3-killer-gets-23-years-life-murder|last=Yerman|first=Jordan|date=June 16, 2009|publisher=NowPublic|accessdate=2010-05-25}}</ref> . 
+
+In Jacksonville, Florida, Alexandra Tobias pleaded guilty to second-degree murder for shaking her baby to death. She told investigators that the baby boy's crying had interrupted her while she was playing a [[Facebook]] game called [[FarmVille]]. She was sentenced in December 2010. <ref name='The Associated Press'>{{cite news | title = Baby killed after interrupting mom's Facebook time | date = Thu Oct 28, 2010 | url = http://ca.news.yahoo.com/s/capress/101028/world/us_facebook_baby_death | work = Yahoo News | accessdate = 2010-10-30}}</ref> . 
+
+In November 2010 in South Philadelphia, Kendall Anderson, 16, killed his mother for taking away his [[PlayStation]] by hitting her 20 times with a claw hammer while she slept. <ref>
+{{cite news
+|url=http://www.nydailynews.com/news/national/2011/02/17/2011-02-17_teen_kills_mom_with_claw_hammer_for_taking_away_his_playstation_court.html
+|title=Teen kills his mother for taking his PlayStation
+|date=November 26, 2010
+|accessdate=February 17, 2011
+|publisher=[[NY Daily News]]
+|location=New York
+|first=Michael
+|last=Sheridan
+}}</ref> . 
+
+== In popular culture ==. 
+* In the ''[[Step by Step (TV series)|Step by Step]]'' episode "Video-Mania", Frank Lambert buys his son Mark video games to relieve his troubles of his "horrible" grades (which were A-averages instead of A-pluses). Quickly, he begins displaying indications of video game addiction. However, the conclusion was not as grisly as other examples. This would be the first showcase of video game addiction in popular culture. 
+* In the ''[[Boston Legal]]'' episode "Word Salad Days", a mother sues a video game company after her 15 year old son dies of a heart attack due to exhaustion from playing a game for two days straight. 
+* In [[L.A. 7]] episode, ''Game Boy'', Bradley becomes addicted to a game, forcing Tina, Hannah, and Paul to go look for Spike, the teen game designer who created the game. 
+* The ''[[South Park]]'' episode "[[Make Love, Not Warcraft]]" parodies many aspects of game addiction. 
+* The ''[[South Park]]'' episode "[[Guitar Queer-o]]" features a made-up game called "Heroin Hero", to which people develop a drug-like addiction. 
+* In ''[[The Simpsons]]'' episode "[[Marge Gamer]]", [[Marge Simpson|Marge]] suffers from overuse of an MMORPG. 
+* In ''[[The Simpsons]]'' episode "[[Lisa Gets an "A"]]", [[Lisa Simpson|Lisa]] becomes addicted to a fictional video game called Dash Dingo (a parody of ''[[Crash Bandicoot 2: Cortex Strikes Back]]''). 
+* In the ''[[CSI: Miami]]'' episode "[[Urban Hellraisers (CSI Episode)|Urban Hellraisers]]", a suspect is found dead after playing a game for seventy hours straight. 
+* The ''[[King of the Hill]]'' episode "[[Grand Theft Arlen]]" features [[Hank Hill|Hank]] addicted to a game Call Pro-Pain, A parody of [[Grand Theft Auto series]]. 
+* In the ''[[iCarly]]'' episode "iStage an Intervention", Spencer becomes addicted to a game called Pak-Rat (a parody of [[Pac-Man]]), forcing Carly to take extreme measures to get him to stop. 
+* In the ''[[Star Trek: The Next Generation]]'' episode "[[The Game (Star Trek: The Next Generation)|The Game]]", William Riker brings a video game from Risa. It stimulates specific parts of the brain, and almost all of the ''Enterprise'' crew become addicted to it. <ref>Erdmann, Terry J. and Block, Paula M. (2008). ''Star Trek 101: A Practical Guild to Who, What, Where, and Why'', p.92. Pocket Books, New York. ISBN 978-0-7434-9723-7. </ref>
+* In ''[[The Big Bang Theory]]'' episode "[[The Barbarian Sublimation]]", Penny becomes addicted to ''[[Age of Conan]]''. 
+* In the ''[[Suite Life of Zack and Cody]]'' episode "Tiptonline", Zack and Mr. Moseby are addicted to an MMORPG. 
+* In the ''[[Suite Life on Deck]]'' episode "Goin' Bananas", Woody becomes addicted to a game called Better Life, a parody of ''[[Second Life]]''. 
+* In ''[[Pure Pwnage]]'', Jeremy becomes addicted to ''[[World of Warcraft]]'' and plays it continuously for six days before passing out and being taken to a mental hospital. He explains his character in the game to a psychologist, who appears to believe that Jeremy is psychotic. 
+* In the ''[[Law & Order: SVU]]'' episode ''Bullseye'', addiction to a fictitious [[Massively multiplayer online game|MMO]] leads a mother and her boyfriend to completely neglect their daughter, while trying to protect their virtual online son. 
+In the series ''Pair of Kings'' Mason becomes addicted to a video-game with a warrior.  . 
+
+== See also ==. 
+*[[Social interaction in MMORPGs]]
+*[[Computer addiction]]
+*[[Information addiction]]
+*[[Soft addiction]]
+*[[Internet addiction disorder]]
+*[[Online Gamers Anonymous]] . 
+
+== References ==. 
+{{Reflist|30em}} . 
+
+== External links ==. 
+* [http://www.techaddiction.ca/ Video Game Addiction Treatment]
+* [http://gamerwidow.com/ Gamerwidow.com]
+* [http://blogote.com/ideas/addicted-to-gaming-get-rid-of-gaming-addiction-video/4495/ Stop Gaming Addiction]
+* [http://www.nickyee.com/daedalus/ The Daedalus Project]
+* [http://www.stopvideogameaddiction.com/ Video Game Addiction]
+* [http://www.theparentreport.com/resources/ages/preteen/kids_culture/130.html Video Game Addiction Article at The Parent Report]
+* {{cite journal|url=http://pss.sagepub.com/content/20/5/594.full|title=Pathological Video-Game Use Among Youth Ages 8 to 18:A National Study|pmid=19476590|doi=10.1111/j.1467-9280.2009.02340.x|year=2009|last1=Gentile|first1=D|volume=20|issue=5|pages=594–602|journal=Psychological science : a journal of the American Psychological Society / APS}}
+* [http://www.amazon.com/dp/1930461054 Video Games & Your Kids: How Parents Stay in Control, by Hilarie Cash] . 
+
+{{Addiction}} . 
+
+{{DEFAULTSORT:Video Game Addiction}}
+[[Category:Behavioral addiction]]

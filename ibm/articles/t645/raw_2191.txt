@@ -1,0 +1,90 @@
+The '''effect of [[social welfare]] on poverty''' is controversial. Since the goal of welfare programs is to [[poverty reduction|reduce poverty]], it has been debated, primarily in the United States, whether or not welfare programs achieve this goal. <ref>[http://www.pbs.org/newshour/bb/government_programs/july-dec06/welfare_08-22.html Debate over Welfare Reform Lingers 10 Years Later], PBS Newshour</ref><ref>[http://www.brookings.edu/speeches/2005/0304childrenfamilies_waller.aspx The Federal Welfare Debate: Is Congress Deserting Working Families?], Brookings Institution</ref> . 
+
+Proponents argue welfare has reduced poverty in developed countries while opponents argue welfare creates a negative [[incentive]] to not find work and thus sustains or even creates poverty.  . 
+
+==Proponents of welfare reducing poverty==. 
+{{See also|Welfare state}}
+{{quote box|width=30%|align=right|quote=Relatively modest increases in benefit levels for programs that assist
+nonworking individuals and low-income workers might well be sufficient to bring the United States into line with...the other affluent nations in its degree of [[poverty reduction]].|source=—Lane Kenworthy<ref name="Kenworthy">Kenworthy, L. (1999). [http://www.lisdatacenter.org/wps/liswps/188.pdf Do social-welfare policies reduce poverty? A cross-national assessment]. ''Social Forces, 77''(3), 1119-1139. </ref>}}  . 
+
+Studies show<ref name="Kenworthy"></ref><ref name="Bradley et al.">Bradley, D., Huber, E., Moller, S., Nielson, F. & Stephens, J. D. (2003). [http://www.jstor.org/pss/3088901 Determinants of relative poverty in advanced capitalist democracies]. ''American Sociological Review, 68''(3), 22-51. </ref> that in [[welfare state]]s poverty decreases after countries adapt welfare programs. Empirical evidence suggests that taxes and transfers considerably reduce poverty in most countries whose welfare states commonly constitute at least a fifth of GDP.  . 
+
+===Table of poverty levels pre and post welfare===. 
+Two studies compare countries internationally before and after implementing social welfare programs. Using data from the [[Luxembourg Income Study]], Bradley et al. and Lane Kenworthy measure the poverty rates both in relative terms (poverty defined by the respective governments) and absolute terms, (poverty defined by 40% of [[Household income in the United States|US median income]]) respectively. Kenworthy's study also adjusts for economic performance and shows that the economy made no significant difference in uplifting people out of poverty.  . 
+
+The studies look at the different countries from 1960 to 1991 (Kentworthy) and from 1970 to 1997 (Bradley et al.). Both these periods are roughly when major welfare programs where implemented such as the [[War on Poverty]] in the United States.  . 
+
+The results of both studies show that poverty has been significantly reduced during the periods where major welfare programs were created, which is most effective on lowering poverty rate in France and the least effective overall within the United States. 
+{| class="sortable wikitable"
+. |-
+!rowspan=1|Country||colspan=2|Absolute poverty rate (1960–1991)<br>(threshold set at 40% of U.S. median household income)<ref name="Kenworthy" />||colspan=2|Relative poverty rate 
+(1970–1997)<ref name="Bradley et al." />
+. |-
+| ||Pre-welfare||Post-welfare||Pre-welfare||Post-welfare
+. |-
+|[[Sweden]]||23.7||5.8||14.8||4.8
+. |-
+|[[Norway]]||9.2||1.7||12.4||4.0
+. |-
+|[[Netherlands]]||22.1||7.3||18.5||11.5
+. |-
+|[[Finland]]||11.9||3.7||12.4||3.1
+. |-
+|[[Denmark]]||26.4||5.9||17.4||4.8
+. |-
+|[[Germany]]||15.2||4.3||9.7||5.1
+. |-
+|[[Switzerland]]||12.5||3.8||10.9||9.1
+. |-
+|[[Canada]]||22.5||6.5||17.1||11.9
+. |-
+|[[France]]||36.1||9.8||21.8||6.1
+. |-
+|[[Belgium]]||26.8||6.0||19.5||4.1
+. |-
+|[[Australia]]||23.3||11.9||16.2||9.2
+. |-
+|[[United Kingdom]]||16.8||8.7||16.4||8.2
+. |-
+|[[United States]]||21.0||11.7||17.2||15.1
+. |-
+|[[Italy]]||30.7||14.3||19.7||9.1
+. |-
+|} . 
+
+==Opponents of welfare reducing poverty==. 
+{{See also|Welfare culture|Category:Criticisms of welfare}} . 
+
+[[Image:Welfare Benefits Payments Graph.gif|thumb|right|280px|Decline in American welfare benefits since 1962. (in 2006 dollars) <ref>[http://aspe.hhs.gov/hsp/indicators08/apa.shtml#ftanf2 2008 Indicators of Welfare Dependence] Figure TANF 2. </ref>]] . 
+
+Opposition to welfare programs has been primarily in the United States. Members of both the Republican<ref>[http://www.ontheissues.org/celeb/Republican_Party_Welfare_+_Poverty.htm Republican Party on Welfare & Poverty], On The Issues</ref> and Democratic Party<ref>[http://www.ontheissues.org/celeb/Democratic_Party_Welfare_+_Poverty.htm Democratic Party on Welfare & Poverty], On The Issues</ref> (as well as third parties such as the [[Libertarian Party (United States)|Libertarians]]<ref>[http://www.lp.org/issues/poverty-and-welfare Issues: Poverty and Welfare]</ref>) have favored reducing or eliminating welfare. The landmark piece of legislation which reduced welfare was the [[Personal Responsibility and Work Opportunity Act]] under the [[Clinton administration]].  . 
+
+[[Conservative]] and [[Libertarianism|libertarian]] groups such as the [[Heritage Foundation]]<ref name="Confronting the Unsustainable Growth of Welfare Entitlements">[http://www.heritage.org/Research/Reports/2010/06/Confronting-the-Unsustainable-Growth-of-Welfare-Entitlements-Principles-of-Reform-and-the-Next-Steps Confronting the Unsustainable Growth of Welfare Entitlements: Principles of Reform and the Next Steps]", The Heritage Foundation</ref> and the [[Cato institute]]<ref name="Welfare and the Culture of Poverty">Niskanen, A. [http://www.cato.org/pubs/journal/cj16n1-1.html Welfare and the Culture of Poverty]''The Cato Journal'' Vol. 16 No. 1</ref> assert that welfare creates a dependence and makes an incentive to not find work. This dependence is called a "[[culture of poverty]]" which is said to undermine people from finding meaningful work. <ref name="Welfare and the Culture of Poverty"/> Many of these groups also point to the large budget used to maintain these programs and assert that it is wasteful. <ref name="Confronting the Unsustainable Growth of Welfare Entitlements"/> . 
+
+In the book ''Losing Ground'', [[Charles Murray (author)|Charles Murray]] argues that welfare not only increases poverty but also increases other problems such as [[single-parent household]]s, and crime. <ref>{{cite book|year=1984|url=|title=Losing Ground: American Social Policy 1950–1980|publisher=Basic Books|last=Murray|first=Charles|authorlink=Charles Murray (author)|page=58, 125, 115}}</ref>      . 
+
+[[Socialists]] argue that welfare states and modern [[social democratic]] policies limit the incentive system of the market by providing things such as minimum wages, unemployment insurance, taxing profits and reducing the reserve army of labor, resulting in capitalists have little incentive to invest; in essence, social welfare policies cripple the capitalist system and increase poverty. By implementing public or cooperative ownership of the means of production, socialists believe there will be no need for a welfare state. <ref>[http://marxists.org/glossary/terms/w/e.htm#welfare Encyclopedia of Marxism: Glossary of Terms]</ref><ref>''Market Socialism: The Debate Among Socialists'', by Schweickart, David; Lawler, James; Ticktin, Hillel; Ollman, Bertell. 1998. (P.60-61): "The Marxist answers that market socialism cannot exist because it involves limiting the incentive system of the market through providing minimum wages, high levels of unemployment insurance, reducing the size of the reserve army of labour, taxing profits, and taxing the wealthy. As a result, capitalists will have little incentive to invest and the workers will have little incentive to work. Capitalism works because, as Marx remarked, it is a system of economic force (coercion)."</ref> . 
+
+==See also==. 
+*[[Criticisms of welfare]]
+*[[Welfare reform]]
+*[[Welfare economics]] . 
+
+'''US specific:'''
+*[[Cloward–Piven strategy]]
+*[[Social programs in the United States]]
+*[[Social Security debate (United States)]]
+*[[War on Poverty]]
+*[[Welfare queen]] . 
+
+==References==. 
+{{Reflist}} . 
+
+{{DEFAULTSORT:Welfare's Effect On Poverty}}
+[[Category:Criticisms of welfare]]
+[[Category:Welfare and poverty]]
+[[Category:Welfare]]
+[[Category:Poverty]]
+[[Category:Social programs]]
+[[Category:Political economy]]
+[[Category:Government finances]]

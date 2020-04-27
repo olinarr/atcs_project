@@ -1,0 +1,568 @@
+{{Redirect|Stimulus bill}}
+{{Redirect|ARRA}}
+{{Infobox U.S. legislation
+| name = American Recovery and Reinvestment Act of 2009
+| fullname = An act making supplemental appropriations for job preservation and creation, infrastructure investment, energy efficiency and science, assistance to the unemployed, State, and local fiscal stabilization, for the fiscal year ending September 30, 2009, and for other purposes. 
+| acronym = ARRA
+| nickname = The Recovery Act, Stimulus
+| enacted by = 111th
+| effective date = February 17, 2009
+| public law url = http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_public_laws&docid=f:publ005.pdf
+| cite public law = 111-5
+| cite statutes at large =
+| acts amended =
+| title amended =
+| sections created =
+| sections amended =
+| leghisturl = http://thomas.loc.gov/cgi-bin/bdquery/z?d111:HR00001:@@@S
+| introducedin = House
+| introducedbill = {{USBill|111|H.R.|1}}
+| introducedby = [[Dave Obey]] ([[Democratic Party (United States)|D]]-[[Wisconsin|WI]])
+| introduceddate = January 26, 2009
+| committees = [[United States House Committee on Appropriations|Appropriations]] and [[United States House Committee on the Budget|Budget]]
+| passedbody1 = House
+| passeddate1 = January 28, 2009
+| passedvote1 = [http://clerk.house.gov/evs/2009/roll046.xml 244—188]
+| passedbody2 = Senate
+| passeddate2 = February 10, 2009
+| passedvote2 = [http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111&session=1&vote=00061 61-37]
+| conferencedate = February 12, 2009
+| passedbody3 = House
+| passeddate3 = February 13, 2009
+| passedvote3 = [http://clerk.house.gov/evs/2009/roll070.xml 246—183]
+| passedbody4 = Senate
+| passeddate4 = February 13, 2009
+| passedvote4 = [http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111&session=1&vote=00064 60—38]
+| signedpresident = [[Barack Obama]]
+| signeddate = February 17, 2009
+| amendments =
+| SCOTUS cases =
+}}
+The '''American Recovery and Reinvestment Act of 2009''', abbreviated '''ARRA''' ({{USPL|111|5}}) and commonly referred to as '''the Stimulus''' or '''The Recovery Act''', is an economic stimulus package enacted by the [[111th United States Congress]] in February 2009 and signed into law on February 17, 2009, by President [[Barack Obama]].  . 
+
+To respond to the [[late-2000s recession]], the primary objective for ARRA was to save and create jobs almost immediately. Secondary objectives were to provide temporary relief programs for those most impacted by the recession and invest in infrastructure, education, health, and ‘green’ energy. The approximate cost of the economic stimulus package was estimated to be $787 billion at the time of passage. The Act included direct spending in [[infrastructure]], education, health, and energy, federal tax incentives, and expansion of [[unemployment benefits]] and other [[social welfare provision]]s. The Act also included many items not directly related to economic recovery such as long-term spending projects (e.g., a study of the effectiveness of medical treatments) and other items specifically included by Congress (e.g., a limitation on executive compensation in federally aided banks added by [[Christopher Dodd|Senator Dodd]] and [[Barney Frank|Rep. Frank]]).  . 
+
+The rationale for ARRA was from [[Keynesian economics|Keynesian macroeconomic theory]] which argues that, during recessions, the government should offset the decrease in private spending with an increase in public spending in order to save jobs and stop further economic deterioration.  . 
+
+==Legislative history==. 
+Both the House and the Senate versions of the bills [http://www.time.com/time/politics/article/0,8599,1877192,00.html#ixzz1Sgy68HdV were primarily written by Democratic Congressional committee leaders and their staffs]. Because work on the bills started before President Obama officially took office on January 20, 2009, top aides to President-Elect Obama held multiple meetings with committee leaders and staffers. On January 10, 2009, President-Elect Obama’s administration released a report <ref name="RC">{{Citation  | last = Romer  | first = Christina| author-link = Christina Romer  | last2 = Bernstein| first2 = Jared  | author2-link = Jared Bernstein| title = The Job Impact of the American Recovery and Reinvestment Plan| date = January 10, 2009| url = http://www.ampo.org/assets/library/184_obama.pdf| accessdate =2011-07-07 }}</ref>  that provided a preliminary analysis of the impact to jobs of some of the prototypical recovery packages that were being considered.  . 
+
+===House of Representatives===. 
+[[File:Recovery Accountability and Transparency Board Logo (USA).jpg|thumb|150px|Official seal of Recovery.gov, the official site of the American Recovery and Reinvestment Act of 2009.]]
+The House version of the bill, {{USBill|111|H.R.|1}}, was introduced on January 26, 2009. <ref>[http://clerk.house.gov/floorsummary/floor.html?day=20090126&today=20100630 Legislative Day of January 26, 2009] for the 111th Congress, First Session (Office of the Clerk, U.S. House of Representatives)</ref> It was sponsored by Democrat [[David Obey]], the [[United States House Committee on Appropriations|House Appropriations Committee]] chairman, and was co-sponsored by nine other Democrats. On January 23, [[Speaker of the United States House of Representatives|Speaker of the House]] [[Nancy Pelosi]] said that the bill was on track to be presented to President Obama for him to sign into law before February 16, 2009. <ref>{{cite web | url=http://www.newsday.com/services/newspaper/printedition/saturday/news/ny-bzecon246010682jan24,0,7242108.story | date=January 24, 2009 | title=Obama seeks congressional consensus on stimulus plan | work=Newsday}}</ref> Although 206 amendments were scheduled for floor votes, they were combined into only 11, which enabled quicker passage of the bill. <ref>[http://www.cqpolitics.com/wmspage.cfm?docID=news-000003019194&parm1=2&cpage=1 cqpolitics.com]</ref> . 
+
+On January 28, 2009, the House passed the bill by a 244-188 vote. <ref name="House vote">{{cite news | url=http://www.nytimes.com/2009/01/29/us/politics/29obama.html?hp | title=House Passes Stimulus Plan Despite G.O.P. Opposition | work=New York Times | date=January 29, 2009 | first=Jackie | last=Calmes | accessdate=April 23, 2010}}</ref> All but 11 Democrats voted for the bill, and 177 [[Republican Party (United States)|Republicans]] voted against it (one Republican did not vote). <ref>{{USHRollCall|2009|046}}</ref> . 
+
+===Senate===. 
+The senate version of the bill, {{USBill|111|S.|1}}, was introduced on January 6, 2009, and later substituted as an amendment to the House bill, {{USBill|111|SA|570}}. It was sponsored by [[Harry Reid]], the [[Majority Leader of the United States Senate|Majority Leader]], co-sponsored by 16 other Democrats and [[Joe Lieberman]], an [[Independent (politician)|independent]] who [[Democratic Caucus of the United States Senate|caucuses with the Democrats]].  . 
+
+The Senate then began consideration of the bill starting with the $275 billion tax provisions in the week of February 2, 2009. <ref>[http://www.newsday.com/services/newspaper/printedition/saturday/news/ny-bzecon246010682jan24,0,7242108.story NewsDay.com]</ref>
+A significant difference between the House version and the Senate version was the inclusion of a one-year extension of revisions to the [[alternative minimum tax]] which added $70 billion to the bill's total.  . 
+
+Republicans proposed several amendments to the bill directed at increasing the share of tax cuts and downsizing spending as well as decreasing the overall price. <ref>See, for example: {{USBill|111|SA|106}}, {{USBill|111|SA|107}}, {{USBill|111|SA|108}}, and {{USBill|111|SA|109}}</ref>
+President Obama and Senate Democrats hinted that they would be willing to compromise on Republican suggestions to increase infrastructure spending and to double the housing tax credit proposed from $7,500 to $15,000 and expand its application to all home buyers, not just first-time buyers. <ref>{{cite news | title=Obama Predicts Support From G.O.P. for Stimulus Proposal | url=http://www.nytimes.com/2009/02/02/us/politics/02obama.html?ref=business | work=New York Times | date=February 2, 2009 | author=Sheryl Gay Stolberg}}</ref>
+Other considered amendments included the [[Freedom Act of 2009]], an amendment proposed by [[Senate Finance Committee]] members [[Maria Cantwell]] (D) and [[Orrin Hatch]] (R) to include tax incentives for [[battery electric vehicle|plug-in electric vehicles]]<ref name="Cantwell">[http://cantwell.senate.gov/news/record.cfm?id=306895 cantwell.senate.gov]</ref>
+and an amendment proposed by [[Jim DeMint]] (R) to remove language from the bill that would prohibit funds which would be "used for sectarian instruction, religious worship, or a school or department of divinity; or in which a substantial portion of the functions of the facilities are subsumed in a religious mission". <ref>[http://thomas.loc.gov/cgi-bin/query/F?c111:1:./temp/~c111awnQys:e226884: HR1. Sec. 9302. Higher Education Modernization, Renovation, and Repair.] The amendment was ultimately rejected by a vote of 54-43. {{USSRollCall|111|1|47}}</ref> . 
+
+The Senate called a special Saturday debate session for February 7 at the urging of President Obama. The Senate voted, 61-36 (with 2 not voting) on February 9 to end debate on the bill and advance it to the Senate floor to vote on the bill itself. <ref>{{USSRollCall|111|1|59}}</ref> On February 10, the Senate voted 61-37 (with one not voting)<ref>Senator [[Judd Gregg]] (R) did not vote because, at the time, he was a nominee of the Democratic president to become [[United States Secretary of Commerce|Secretary of Commerce]]. Gregg also did not participate in the cloture vote. </ref>
+All the Democrats voted in favor, but only three Republicans voted in favor ([[Susan Collins]], [[Olympia Snowe]], and [[Arlen Specter]]), with Specter later switching to the Democratic party. <ref>{{USSRollCall|111|1|60}}</ref>  At one point, the Senate bill stood at $838 billion. <ref>{{cite web | author= David Espo | work= [[Associated Press]] via [[Atlanta Journal-Constitution]] | url=http://www.ajc.com/services/content/printedition/2009/02/10/stimulus0210.html | title=Stimulus bill survives Senate test}}</ref> . 
+
+===Comparison of the House, Senate and Conference versions===. 
+[[File:Barack Obama signs American Recovery and Reinvestment Act of 2009 on February 17.jpg|thumb|[[President of the United States|President]] [[Barack Obama]] signs the ARRA into law on February 17, 2009 in [[Denver, Colorado]]. [[Vice President of the United States|Vice President]] [[Joe Biden]] stands behind him.]]
+[[File:Barack Obama speaks at 2,000th approved ARRA project event 4-13-09.jpg|thumb|[[President of the United States|President]] [[Barack Obama]] speaks about the 2,000th project approved through the ARRA. The president is joined by [[Vice President of the United States|Vice President]] [[Joe Biden]] and [[Secretary of Transportation]] [[Ray LaHood]].]]
+Senate Republicans forced a near unprecedented level of changes (near $150 billion) in the House bill which had more closely followed the Obama plan.  The biggest losers were states<ref>[http://www.jsonline.com/news/statepolitics/39369767.html JSOnline.com]</ref> (severely restricted Stabilization Fund) and the low income workers (reduced tax credit) with major gains for the elderly (largely left out of the Obama and House plans) and high income tax-payers. A comparison of the $827 billion economic recovery plan drafted by Senate Democrats with a $820 billion version passed by the House and the final $787 billion conference version shows huge shifts within these similar totals. Additional debt costs would add about $350 billion or more over 10 years. Many provisions will expire in two years. <ref>[http://www.msnbc.msn.com/id/29050187 "Stimulus bill far from perfect, Obama says" MSNBC]</ref> . 
+
+The main funding differences between the Senate bill and the House bill are: More funds for health care in the Senate ( $153.3 vs $140 billion), for green energy programs ($74 vs. $39.4 billion), for home buyers tax credit ($35.5 vs. $2.6 billion), new payments to the elderly and a one year increase in AMT limits. The House has more funds appropriated for education ($143 vs. $119.1 billion), infrastructure ($90.4 vs. $62 billion) and for aid to low income workers and the unemployed ($71.5 vs. $66.5 billion). <ref>[http://www.ajc.com/services/content/printedition/2009/02/10/stimulus0210.html Stimulus bill survives Senate test], via AJC.com</ref> . 
+
+====Spending (Senate-$552 billion, House-$545 billion)====. 
+{{listen
+|title=Address Before a Joint Session of Congress (February 24, 2009)
+|filename=Address Before a Joint Session of Congress (February 24, 2009) - Barack Obama (WhiteHouse.gov).ogv
+|description =[[Barack Obama]]'s February 24, [[Barack Obama speech to joint session of Congress, February 2009|2009 Address Before a Joint Session of Congress]]. The American Recovery and Reinvestment Act of 2009 was a focal point of the speech. 
+|title2=Address Before a Joint Session of Congress (February 24, 2009) (audio)
+|filename2=Address Before a Joint Session of Congress (February 24, 2009) Barack Obama.ogg
+|description2=Audio-only version
+|image={{multiple image
+<!-- Essential parameters -->
+| align     = <!-- left/right/center -->
+| direction = vertical
+| width     = 150 . 
+
+<!-- Image 1 -->
+| image1    = Barack Obama addresses joint session of Congress 2009-02-24.jpg
+| width1    =
+| alt1      =
+| caption1  = Obama addresses a joint session of Congress, with Vice President [[Joe Biden]] and [[Speaker of the United States House of Representatives|House Speaker]] [[Nancy Pelosi]].  . 
+
+<!-- Image 2 -->
+| image2    = Barack Obama addresses joint session of Congress 2-24-09.jpg
+| width2    =
+| alt2      =
+| caption2  = Obama addresses the [[111th United States Congress]]
+}}
+| format = [[Ogg]]
+| type = speech
+}}
+*Aid to low income workers and the unemployed
+**Senate - $47 billion to provide extended unemployment benefits through Dec. 31, increased by $25 a week, and provide job training; $16.5 billion to increase [[food stamp]] benefits by 12 percent through fiscal 2011 and issue a one-time bonus payment; $3 billion in temporary welfare payments. 
+**House — Comparable extension of [[unemployment insurance]]; $20 billion to increase food stamp benefits by 14 percent; $2.5 billion in temporary welfare payments; $1 billion for home heating subsidies and $1 billion for community action agencies.  . 
+
+*Direct cash payments
+**Senate — $17 billion to give one-time $300 payments to recipients of [[Supplemental Security Income]] and [[Social Security (United States)|Social Security]], and veterans receiving disability and pensions. 
+**House — $4 billion to provide a one-time additional Supplemental Security Income and Social Security Disability Insurance payment to the elderly, of $450 for individuals and $630 for married couples. 
+**Conference - $250 one-time payment to each recipient of Supplemental Security Income, Social Security (Regular & Disability) Insurance, Veterans pension, Railroad Retirement, or State retirement system. <ref>Conference report 111-16, Division B Title II 2/13/09</ref> . 
+
+*Infrastructure
+**Senate — $46 billion for transportation projects, including $27 billion for highway and bridge construction and repair and $11.5 billion for mass transit and rail projects; $4.6 billion for the Army Corps of Engineers; $5 billion for public housing improvements; $6.4 billion for clean and drinking water projects. 
+**House — $47 billion for transportation projects, including $27 billion for highway and bridge construction and repair and $12 billion for mass transit, including $7.5 billion to buy transit equipment such as buses; and $31 billion to build and repair federal buildings and other public infrastructures.  . 
+
+*Health care
+**Senate — $21 billion to subsidize the cost of continuing health care insurance for the involuntarily unemployed under the [[Consolidated Omnibus Budget Reconciliation Act of 1985|COBRA]] program; $87 billion to help states with [[Medicaid]]; $22 billion to modernize health information technology systems; and $10 billion for health research and construction of [[National Institutes of Health]] facilities. 
+**House — $40 billion to subsidize the cost of continuing health care insurance for the involuntarily unemployed under the COBRA program or provide health care through Medicaid; $87 billion to help states with Medicaid; $20 billion to modernize health information technology systems; $4 billion for preventative care; $1.5 billion for community health centers; $420 million to combat avian flu; $335 million for programs that combat AIDS, sexually transmitted diseases and tuberculosis. 
+**Conference - A 65% COBRA subsidy for 9 months will apply to workers laid off between Sept. 1, 2008 and Dec. 31, 2009. Those already laid off have 60 days to apply for COBRA. <ref>Conference report 111-16</ref> . 
+
+*Education
+**Senate — $55 billion in state fiscal relief to prevent cuts in education aid and provide block grants; $25 billion to school districts to fund special education and the [[No Child Left Behind]] K-12 law; $14 billion to boost the maximum [[Pell Grant]] by $400 to $5,250; $2 billion for [[Head Start Program|Head Start]]. 
+**House — Similar aid to states and school districts; $21 billion for school modernization; $16 billion to boost the maximum Pell Grant by $500 to $5,350; $2 billion for Head Start. 
+**Conference - The Conference Report merged most education aid with the State Fiscal Stabilization fund (administered by the Department of Education)and gave power over the funds to each governor under voluminous restrictions. The Governor is "Required" to spend $45 billion of the money on education to restore funding to 2008 levels but the mechanisms to enforce state maintenance of effort at 2005-06 levels are complex and potentially impossible to implement. <ref>Conference report 111-16, 2-13-09, Title 14</ref>  Hard hit states such as Nevada cannot possibly find enough funds to get to the 2005-06 state funding levels for education. <ref>{{cite web|url=http://www.lvrj.com/news/39257837.html |title=ReviewJournal.com - News - STIMULUS IN NEVADA: Raggio presses Reid: 'We can't be required to give what we don't have' |publisher=Lvrj.com |date=7 February 2009 |accessdate=18 February 2009}}</ref>  Some states with no current budget cuts for education, such as Arkansas and North Carolina, may get nothing. <ref>, NYT 2-15-09</ref> This will result in a monumental 50 state legal and political fight over how to re-budget to best take advantage of the federal legislation. Many states will further reduce state funds for education to the 2005-06 minimum so these state resources can be used for other state priorities and the net gain for education will be far less than the total federal appropriation.  . 
+
+*Energy
+**Senate — $40 billion for energy efficiency and renewable energy programs, including $2.9 billion to weatherize modest-income homes; $4.6 billion for fossil fuel research and development; $6.4 billion to clean up nuclear weapons production sites; $11 billion toward a so-called smart electricity grid to reduce waste; $8.5 billion to subsidize loans for renewable energy projects; and $2 billion for advanced battery systems. 
+**House — $28.4 billion for energy efficiency and renewable energy programs, including $6.2 billion to weatherize homes; $11 billion to fund a smart electricity grid.  . 
+
+*Homeland security
+**Senate — $4.7 billion for homeland security programs, including $1 billion for airport screening equipment and $800 million for port security. 
+**House — $1.1 billion, including $500 million for airport screening equipment.  . 
+
+*Law enforcement
+**Senate — $3.5 billion in grants to state and local law enforcement to hire officers and purchase equipment. 
+**House — Comparable provision.  . 
+
+====Tax Changes ($275 billion)====. 
+*New tax credit
+**House— About $145 billion for $500 per-worker, $1,000 per-couple tax credits in 2009 and 2010. For the last half of 2009, workers could expect to see about $20 a week less withheld from their paychecks starting around June. Millions of Americans who don’t make enough money to pay federal income taxes could file returns next year and receive checks. Individuals making more than $75,000 and couples making more than $150,000 would receive reduced amounts. 
+**Senate — The credit would phase out at incomes of $70,000 for individuals and couples making more than $140,000 and phase out more quickly, reducing the cost to $140 billion. 
+**Conference- Tax Credit reduced to $400 per worker and $800 per couple in 2009 and 2010 and phaseout begins at $75,000 for individuals and $150,000 for joint filers. Note retirees with no wages get nothing. <ref name="handwritten1">House Conference report 111-? Final partially handwritten report released by Nancy Pelosi's Office 2/13/09</ref> . 
+
+*[[Alternative minimum tax]]
+**House — No provision. 
+**Senate — About $70 billion to prevent 24 million taxpayers from paying the alternative minimum tax in 2009.  The tax was designed to make sure wealthy taxpayers can’t use credits and deductions to avoid paying any taxes or paying at a far lower rate than would otherwise be possible. But it was never indexed to inflation, so critics now contend it taxes people it was not intended to. Congress addresses it each year, usually in the fall. 
+**Conference - Includes a one year increase in AMT floor to $70,950 for joint filers for 2009. <ref name="handwritten1"/> . 
+
+*Expanded child credit
+**House — $18.3 billion to give greater access to the $1,000 per-child tax credit for low income workers in 2009 and 2010. Under current law, workers must make at least $12,550 to receive any portion of the credit. The change eliminates the floor, meaning more workers who pay no federal income taxes could receive checks. 
+**Senate — Sets a new income threshold of $8,100 to receive any portion of the credit, reducing the cost to $7.5 billion. 
+**Conference - The income floor for refunds was set at $3,000 for 2009 & 2010. <ref name="conference1">House Conference report 111-16  2/13/09</ref> . 
+
+*Expanded earned income tax credit
+**House — $4.7 billion to increase the [[earned income tax credit]] — which provides money to low income workers — for families with at least three children. 
+**Senate — Same.  . 
+
+*Expanded college credit
+**House — $13.7 billion to provide a $2,500 expanded tax credit for college tuition and related expenses for 2009 and 2010. The credit is phased out for couples making more than $160,000. 
+**Senate — Reduces the amount that can be refunded to low-income families that pay no income taxes, lowering the cost to $13 billion.  . 
+
+*Homebuyer credit
+**House — $2.6 billion to repeal a requirement that a $7,500 first-time homebuyer tax credit be paid back over time for homes purchased from Jan. 1 to July 1, unless the home is sold within three years. The credit is phased out for couples making more than $150,000. 
+**Senate — Doubles the credit to $15,000 for homes purchased for a year after the bill takes effect, increasing the cost to $35.5 billion. 
+**Conference - $8,000 credit for all homes bought between 1/1/2009 and 12/1/2009 and repayment provision repealed for homes purchased in 2009 and held more than three years. <ref name="conference1"/> . 
+
+*Home energy credit
+**House — $4.3 billion to provide an expanded credit to homeowners who make their homes more energy-efficient in 2009 and 2010. Homeowners could recoup 30 percent of the cost up to $1,500 of numerous projects, such as installing energy-efficient windows, doors, furnaces and air conditioners. 
+**Senate — Same. 
+**Conference - Same; . 
+
+*Unemployment
+**House — No similar provision. 
+**Senate — $4.7 billion to exclude from taxation the first $2,400 a person receives in unemployment compensation benefits in 2009. 
+**Conference—Same as Senate . 
+
+*Bonus depreciation
+**House — $5 billion to extend a provision allowing businesses buying equipment such as computers to speed up its depreciation through 2009. 
+**Senate — Similar.  . 
+
+*Money losing companies
+**House — $15 billion to allow companies to use current losses to offset profits made in the previous five years, instead of two, making them eligible for [[tax refund]]s. 
+**Senate — Allows companies to use more of their losses to offset previous profits, increasing the cost to $19.5 billion. 
+**Conference - Limits the carry-back to small companies, revenue under $5 million<ref>WSJ Feb. 12, 2009</ref> . 
+
+*Government contractors
+**House — Repeal a law that takes effect in 2011, requiring government agencies to withhold three percent of payments to contractors to help ensure they pay their tax bills. Repealing the law would cost $11 billion over 10 years, in part because the government could not earn interest by holding the money throughout the year. 
+**Senate — Delays the law from taking effect until 2012, reducing the cost to $291 million.  . 
+
+*Energy production
+**House — $13 billion to extend tax credits for renewable energy production. 
+**Senate — Same. 
+**Conference - Extension is to 2014.  . 
+
+*Repeal bank credit
+**House — Repeal a Treasury provision that allowed firms that buy money-losing banks to use more of the losses as tax credits to offset the profits of the merged banks for tax purposes. The change would increase taxes on the merged banks by $7 billion over 10 years. 
+**Senate — Same.  . 
+
+*Bonds
+**House — $36 billion to subsidize locally issued bonds for school construction, teacher training, economic development and infrastructure improvements. 
+**Senate — $22.8 billion to subsidize locally issued bonds for school construction, industrial development and infrastructure improvements.  . 
+
+*Auto sales
+**House — No similar provision. 
+**Senate — $11 billion to make interest payments on most auto loans and [[sales tax]] on cars deductible. 
+**Conference - $2 billion for deduction of sales tax, not interest payments phased out for incomes above $250,000. <ref>Conference Report 111-16, 2-13-09</ref> . 
+
+===Conference report===. 
+{{Wikinews|Obama signs $787 billion stimulus package}}
+Congressional negotiators that they had completed the Conference Report on February 11. <ref name="nytimesfebeleven">[http://www.nytimes.com/2009/02/12/us/politics/12stimulus.html?ref=us New York Times] ''Deal Struck on $789 Billion Stimulus.'' New York Times. February 11, 2009. </ref> On February 12, House Majority Leader [[Steny Hoyer]] scheduled the vote on the bill for the next day, before wording on the bill's content had been completed and despite House Democrats having previously promised to allow a 48-hour public review period before any vote. The Report with final handwritten provisions was posted on a House website that evening. <ref>[http://www.nytimes.com/2009/02/13/us/politics/13stimulus.html Even After the Deal, Tinkering Goes On], The New York Times, February 12, 2009</ref><ref>{{cite web|url=http://www.rules.house.gov/bills_details.aspx?NewsID=4149 |title=COMMITTEE ON RULES - Conference Report to Accompany H.R. 1 - The American Recovery and Reinvestment Act of 2009 |publisher=Rules.house.gov |date= |accessdate=February 18, 2009}}</ref> On February 13, the Report passed the House, 246-183, largely along party lines with all 246 Yes votes given by Democrats and the Nay vote split between 176 Republicans and 7 Democrats. <ref name="bbc1">{{cite news|url=http://news.bbc.co.uk/2/hi/business/7889897.stm|title=US Congress passes stimulus plan |date=February 14, 2009 | publisher=BBC|accessdate=February 17, 2009}}</ref><ref name="House Roll">{{USHRollCall|2009|070}}</ref><ref>[http://www.breitbart.com/article.php?id=D96AST680&show_article=1 House passes Obama's economic stimulus bill], via Breitbart.com</ref> . 
+
+The Senate passed the bill, 60-38, with all Democrats and Independents voting for the bill along with three Republicans. On February 17, 2009, President Barack Obama signed the Recovery Act into law.  . 
+
+==Provisions of the Act==. 
+[[File:Investmentbubble.jpg|thumb|right|400px|Composition of the Act:<br />'''Tax incentives''' - includes $15 B for Infrastructure and Science, $61 B for Protecting the Vulnerable, $25 B for Education and Training and $22 B for Energy, so total funds are $126 B for Infrastructure and Science, $142 B for Protecting the Vulnerable, $78 B for Education and Training, and $65 B for Energy. <br />'''State and Local Fiscal Relief''' - Prevents state and local cuts to health and education programs and state and local tax increases.]]
+[[s:American Recovery and Reinvestment Act of 2009#Sec. 3.|Section 3 of ARRA]] listed the basic intent behind crafting the proposal. This [[Statement of purpose|Statement of Purpose]] included the following:
+# To preserve and create jobs and promote economic recovery. 
+# To assist those most impacted by the recession. 
+# To provide investments needed to increase economic efficiency by spurring technological advances in science and health. 
+# To invest in transportation, environmental protection, and other infrastructure that will provide long-term economic benefits. 
+# To stabilize State and local government budgets, in order to minimize and avoid reductions in essential services and counterproductive state and local tax increases.  . 
+
+The Act specifies that 37% of the package is to be devoted to tax incentives equaling $288 billion and $144 billion or 18% is allocated to state and local fiscal relief (more than 90% of the state aid is going to Medicaid and education). The remaining 45% or $357 billion is allocated to federal spending programs such as transportation, communication, waste water and sewer infrastructure improvements; energy efficiency upgrades in private and federal buildings; extension of federal unemployment benefits; and scientific research programs.  . 
+
+The following are details to the different parts of the final bill:<ref>{{cite news|url=http://appropriations.house.gov/pdf/PressSummary02-13-09.pdf|title=SUMMARY: AMERICAN RECOVERY AND REINVESTMENT|date=13 February 2009|publisher=Committee on Appropriations|accessdate=17 February 2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref><ref>[http://www.recovery.gov/?q=content/investments recovery.gov]</ref><ref>{{cite news| url=http://online.wsj.com/public/resources/documents/STIMULUS_FINAL_0217.html | work=The Wall Street Journal | date=February 17, 2009}}</ref><ref>Note that there are deviations in how some sources allocate spending and tax incentives and loans to different categories</ref> . 
+
+===Tax incentives===. 
+Total: $288 billion . 
+
+====Tax incentives for individuals====. 
+Total: $237 billion
+*$116 billion: New payroll tax credit of $400 per worker and $800 per couple in 2009 and 2010. Phaseout begins at $75,000 for individuals and $150,000 for joint filers. <ref name="handwritten1"/>
+*$70 billion: [[Alternative minimum tax]]: a one year increase in AMT floor to $70,950 for joint filers for 2009. <ref name="handwritten1"/>
+*$15 billion: Expansion of child tax credit: A $1,000 credit to more families (even those that do not make enough money to pay income taxes). 
+*$14 billion: Expanded college credit to provide a $2,500 expanded tax credit for college tuition and related expenses for 2009 and 2010. The credit is phased out for couples making more than $160,000. 
+*$6.6 billion: Homebuyer credit: $8,000 refundable credit for all homes bought between 1/1/2009 and 12/1/2009 and repayment provision repealed for homes purchased in 2009 and held more than three years.  This only applies to first-time homebuyers. <ref>[http://www.womenof.com/ARRA_of_2009_Questions__Answers-Article.aspx ARRA of 2009 Questions & Answers]</ref>
+*$4.7 billion: Excluding from taxation the first $2,400 a person receives in unemployment compensation benefits in 2009. 
+*$4.7 billion: Expanded earned income tax credit to increase the [[earned income tax credit]] — which provides money to low income workers — for families with at least three children. 
+*$4.3 billion: Home energy credit to provide an expanded credit to homeowners who make their homes more energy-efficient in 2009 and 2010. Homeowners could recoup 30 percent of the cost up to $1,500 of numerous projects, such as installing energy-efficient windows, doors, furnaces and air conditioners. 
+*$1.7 billion: for deduction of sales tax from car purchases, not interest payments phased out for incomes above $250,000.  . 
+
+====Tax incentives for companies====. 
+Total: $51 billion
+*$15 billion: Allowing companies to use current losses to offset profits made in the previous five years, instead of two, making them eligible for tax refunds. 
+*$13 billion: to extend tax credits for renewable energy production (until 2014). 
+*$11 billion: Government contractors: Repeal a law that takes effect in 2012, requiring government agencies to withhold three percent of payments to contractors to help ensure they pay their tax bills. Repealing the law would cost $11 billion over 10 years, in part because the government could not earn interest by holding the money throughout the year. 
+*$7 billion: Repeal bank credit: Repeal a Treasury provision that allowed firms that buy money-losing banks to use more of the losses as tax credits to offset the profits of the merged banks for tax purposes. The change would increase taxes on the merged banks by $7 billion over 10 years. 
+*$5 billion: Bonus depreciation which extends a provision allowing businesses buying equipment such as computers to speed up its depreciation through 2009.  . 
+
+===Healthcare===. 
+[[File:Ritalin-SR-20mg-1000x1000.jpg|thumb|More than 11% of the total bill is allocated to help states with Medicaid]]
+Total: $155.1 billion<ref>[http://www.hhs.gov/recovery/overview/index.html Overview<!-- Bot generated title -->]</ref>
+*$86.8 billion for [[Medicaid]]
+*$25.8 billion for [[health information technology]] investments and incentive payments
+*$25.1 billion to provide a 65 percent subsidy of health care insurance premiums for the unemployed under the [[Consolidated Omnibus Budget Reconciliation Act of 1985|COBRA]] program
+*$10 billion for health research and construction of National Institutes of Health facilities
+*$2 billion for [[Community health centers in the United States|Community Health Centers]]
+*$1.3 billion for construction of military hospitals (military)
+*$1.1 billion to study the comparative effectiveness of healthcare treatments
+*$1 billion for prevention and wellness
+*$1 billion for the [[Veterans Health Administration]]
+*$500 million for healthcare services on [[Indian reservation]]s
+*$300 million to train healthcare workers in the [[National Health Service Corps]]
+*$202 million for a temporary moratorium for certain medicare regulations . 
+
+===Education===. 
+[[File:Secretary Arne Duncan Visits New York, Discusses American Recovery and Reinvestment Act 01.jpg|thumb|[[Secretary of Education]] [[Arne Duncan]] and [[New York City]] [[New York City Mayor|Mayor]] [[Michael Bloomberg]] visit with students at Explore Charter School.]]
+Total: $100 billion
+*$53.6 billion in aid to local school districts to prevent layoffs and cutbacks, with flexibility to use the funds for school modernization and repair (State Fiscal Stabilization Fund)<ref>[http://www2.ed.gov/policy/gen/leg/recovery/factsheet/stabilization-fund.html State Fiscal Stabilization Fund<!-- Bot generated title -->]</ref>
+*$15.6 billion to increase [[Pell Grant]]s from $4,731 to $5,350
+*$13 billion for low-income public schoolchildren
+*$12.2 billion for [[Individuals with Disabilities Education Act|IDEA special education]]
+*$2.1 billion for [[Head Start program|Head Start]]
+*$2 billion for [[childcare]] services
+*$650 million for [[educational technology]]
+*$300 million for increased teacher salaries
+*$250 million for states to analyze student performance
+*$200 million to support working college students
+*$70 million for the education of homeless children . 
+
+===Aid to low income workers, unemployed and retirees (including job training)===. 
+[[File:Social Security card.jpg|right|thumb|Payments to Social Security recipients and people on Supplemental Security Income were parts of the ARRA.]]
+Total: $82.2 billion
+*$40 billion to provide extended unemployment benefits through Dec. 31, and increase them by $25 a week
+*$19.9 billion for the [[Food Stamp Program]]
+*$14.2 billion to give one-time $250 payments to [[Social Security (United States)|Social Security]] recipients, people on [[Supplemental Security Income]], and veterans receiving disability and pensions. 
+*$3.45 billion for job training
+*$3.2 billion in temporary welfare payments (TANF and WIC)
+*$500 million for vocational training for the disabled
+*$400 million for employment services
+*$120 million for subsidized community service jobs for older Americans
+*$150 million to help refill [[food bank]]s
+*$100 million for meals programs for seniors, such as [[Meals on Wheels#United States|Meals on Wheels]]
+*$100 million for [[National School Lunch Act|free school lunch programs]] . 
+
+===Infrastructure Investment===. 
+Total: $105.3 billion . 
+
+====Transportation====. 
+[[File:ARRA in Rhode Island.JPG|thumb|Road and highway construction is the biggest single line [[infrastructure]] item in the final bill. Projects funded by the ARRA have a sign marking them, like this one in [[Middletown, Rhode Island]].]]
+[[File:ARRA - Breckenridge, Colorado.JPG|thumb|Sign for an ARRA funded road-widening project on [[Colorado State Highway 9]] north of [[Breckenridge, Colorado]].]]
+Total: $48.1 billion,<ref>http://www.fhwa.dot.gov/economicrecovery/arrapresentationfinal05012009.ppt</ref> some in the form of Transportation Income Generating Economic Recovery (TIGER) Grants
+*$27.5 billion for [[highway]] and [[bridge]] [[construction]] projects
+*$8 billion for intercity passenger rail projects and rail congestion grants, with priority for [[High-speed rail in the United States|high-speed rail]]
+*$6.9 billion for new equipment for public transportation projects ([[Federal Transit Administration]])
+*$1.5 billion for national surface transportation discretionary grants
+*$1.3 billion for [[Amtrak]]
+*$1.1 billion in grants for airport improvements
+*$750 million for the construction of new public rail transportation systems and other fixed guideway systems. 
+*$750 million for the maintenance of existing public transportation systems
+*$200 million for FAA upgrades to air traffic control centers and towers, facilities, and equipment
+*$100 million in grants for improvements to domestic shipyards . 
+
+====Water, sewage, environment, and public lands====. 
+Total: $18 billion<ref>[http://www.epa.gov/recovery/basic.html Basic Information | Implementation of the Recovery Act | US EPA<!-- Bot generated title -->]</ref>
+*$4.6 billion for the [[United States Army Corps of Engineers|Army Corps of Engineers]] for environmental restoration, flood protection, hydropower, and navigation infrastructure projects
+*$4 billion for the [[Clean Water State Revolving Fund]] wastewater treatment infrastructure improvements ([[Environmental Protection Agency|EPA]])
+*$2 billion for the Drinking Water State Revolving Fund drinking water infrastructure improvements ([[Environmental Protection Agency|EPA]])
+*$1.38 billion for rural drinking water and waste disposal projects
+*$1 billion to the [[United States Bureau of Reclamation|Bureau of Reclamation]] for drinking water projects for rural or drought-likely areas
+*$750 million to the [[National Park Service]]
+*$650 million to the [[United States Forest Service|Forest Service]]
+*$600 million for hazardous waste cleanup at [[Superfund]] sites ([[Environmental Protection Agency|EPA]])
+*$515 million for wildfire prevention projects
+*$500 million for [[Bureau of Indian Affairs]] infrastructure projects
+*$340 million to the [[Natural Resources Conservation Service]] for watershed infrastructure projects
+*$320 million to the [[Bureau of Land Management]]
+*$300 million for reductions in emissions from diesel engines ([[Environmental Protection Agency|EPA]])
+*$300 million to improve Land Ports of Entry ([[General Services Administration|GSA]])
+*$280 million for [[National Wildlife Refuge]]s and the [[National Fish Hatchery System]]
+*$220 million to the [[International Boundary and Water Commission]] to repair flood control systems along the [[Rio Grande]]
+*$200 million for cleanup of leaking [[Underground Storage Tank]]s ([[Environmental Protection Agency|EPA]])
+*$100 million for cleaning former industrial and commercial sites ([[Brownfields]]) ([[Environmental Protection Agency|EPA]]) . 
+
+====Government buildings and facilities====. 
+[[File:DoD Recovery Act Impact.jpg|thumb|Impact of the ARRA on Department of Defense facilities across the nation.]]
+Total: $7.2 billion
+*$4.2 billion to repair and modernize Defense Department facilities. 
+*$890 million to improve housing for service members
+*$750 million for federal buildings and U.S. Courthouses ([[General Services Administration|GSA]])
+*$250 million to improve [[Job Corps]] training facilities
+*$240 million for new [[child development]] centers
+*$240 million for the maintenance of [[United States Coast Guard]] facilities
+*$200 million for [[Department of Homeland Security]] headquarters
+*$176 million for Agriculture Research Service repairs and improvements
+*$150 million for the construction of state extended-care facilities
+*$100 million to improve facilities of the [[National Guard of the United States|National Guard]] . 
+
+====Communications, information, and security technologies====. 
+[[File:Ch3e3d.png|thumb|[[Federal Communications Commission]] (FCC) map showing the availability of broadband internet access in the U.S.]]
+Total: $10.5 billion
+*$7.2 billion for complete [[broadband Internet access|broadband]] and [[Wi-Fi|wireless]] [[Internet]] access
+*$1 billion for explosive detection systems for airports
+*$500 million to update the computer center at the [[Social Security Administration]]
+*$420 million for construction and repairs at ports of entry
+*$290 million to upgrade IT platforms at the [[United States Department of State|State Department]]
+*$280 million to upgrade border security technologies
+*$210 million to build and upgrade [[fire station]]s
+*$200 million for IT and claims processing improvements for [[Veterans Benefits Administration]]
+*$150 million to upgrade port security
+*$150 million for the security of transit systems
+*$50 million for IT improvements at the [[Farm Service Agency]]
+*$26 million to improve security systems at the [[United States Department of Agriculture|Department of Agriculture]] headquarters . 
+
+====Energy Infrastructure====. 
+Total: $21.5 billion<ref>http://www.energy.gov/recovery/breakdown.htm</ref><ref>http://www.pewclimate.org/docUploads/Pew-Summary-ARRA-Key-Provisions.pdf</ref>
+*$6 billion for the cleanup of [[radioactive waste]] (mostly nuclear weapons production sites)<ref>[http://www.em.doe.gov/pages/siteslocations.aspx DOE Environmental Management Sites/Locations<!-- Bot generated title -->]</ref>
+*$4.5 billion for the [[Office of Electricity and Energy Reliability]] to modernize the nation's electrical grid and [[smart grid]]. 
+*$4.5 billion to increase energy efficiency in federal buildings ([[General Services Administration|GSA]])
+*$3.25 billion for the [[Western Area Power Administration]] for power transmission system upgrades. 
+*$3.25 billion for the [[Bonneville Power Administration]] for power transmission system upgrades.  . 
+
+===Energy efficiency and renewable energy research and investment===. 
+[[File:Alternative Energies.jpg|thumb|right|Loans and investments into green energy technology are a significant part of the final bill]]
+Total: $27.2 billion
+*$6 billion for [[renewable energy]] and electric transmission technologies [[loan guarantee]]s
+*$5 billion for [[weatherization|weatherizing]] modest-income homes
+*$3.4 billion for carbon capture and low emission coal research
+*$3.2 billion toward [[Energy Efficiency and Conservation Block Grants]]. <ref>[http://www.eecbg.energy.gov/ Weatherization and Intergovernmental Program: Energy Efficiency and Conservation Block Grant Program<!-- Bot generated title -->]</ref>
+*$3.1 billion for the [[State Energy Program]] to help states invest in [[Efficient energy use|energy efficiency]] and [[renewable energy]]
+*$2 billion for manufacturing of advanced [[traction battery|car battery]] (traction) systems and components. 
+*$800 million for [[biofuel]] research, development, and demonstration projects
+*$602 million to support the use of energy efficient technologies in building and in industry
+*$500 million for training of [[green-collar worker]]s (by the [[United States Department of Labor|Department of Labor]])
+*$400 million for the [[Geothermal Technologies Program]]
+*$400 million for [[electric vehicle]] technologies
+*$300 million for [[Cash for appliances program|energy efficient appliance]] rebates
+*$300 million for state and local governments to purchase energy efficient vehicles
+*$300 million to acquire [[electric vehicle]]s for the [[federal vehicle fleet]] ([[General Services Administration|GSA]])
+*$250 million to increase energy efficiency in low-income housing
+*$204 million in funding for research and testing facilities at [[national laboratories]]
+*$190 million in funding for wind, hydro, and other renewable energy projects
+*$115 million to develop and deploy [[solar power]] technologies
+*$110 million for the development of high efficiency vehicles
+*$42 million in support of new deployments of [[fuel cell]] technologies . 
+
+===Housing===. 
+Total: $14.7 billion<ref>[http://portal.hud.gov/portal/page/portal/HUD/recovery/about About/HUD Information Related to the American Recovery and Reinvestment Act of 2009<!-- Bot generated title -->]</ref>
+*$4 billion to the [[Department of Housing and Urban Development]] (HUD) for repairing and modernizing public housing, including increasing the energy efficiency of units. 
+*$2.25 billion in tax credits for financing low-income housing construction
+*$2 billion for [[Section 8 (housing)|Section 8 housing]] rental assistance
+*$2 billion for the Neighborhood Stabilization Program to purchase and repair foreclosed vacant housing
+*$1.5 billion for rental assistance to prevent homelessness
+*$1 billion in community development block grants for state and local governments
+*$555 million in mortgage assistance for wounded service members (Army Corps of Engineers)
+*$510 million for the rehabilitation of Native American housing
+*$250 million for energy efficient modernization of low-income housing
+*$200 million for helping rural Americans buy homes (Department of Agriculture)
+*$140 million in grants for independent living centers for elderly blind persons (Dept. of Education)
+*$130 million for rural community facilities (Department of Agriculture)
+*$100 million to help remove [[lead paint]] from public housing
+*$100 million emergency food and shelter for homeless (Department of Homeland Security) . 
+
+===Scientific research===. 
+[[File:STS-119 Discovery landing01.jpg|thumb|right|NASA is among the government agencies receiving additional funds under the Act]]
+Total: $7.6 billion{{citation needed|date=December 2011}}
+*$3 billion to the [[National Science Foundation]]
+*$2 billion to the [[United States Department of Energy]]
+*$1 billion to [[NASA]], including "$400 million for space exploration related activities. Of this amount, $50 million [was] to be used for the development of [[Commercial Crew Development|commercial crew space transportation concepts and enabling capabilities]]."<ref name=nasa20081209>{{Cite web |url=http://hobbyspace.com/AAdmin/archive/Reference/CCDev_Source_Selection_Statement_signed-1.pdf |title=Selection Statement For Commercial Crew Development |work=JSC-CCDev-1 |date= December 9, 2008 |publisher=NASA |accessdate= February 10, 2011}}</ref>
+*$600 million to the [[National Oceanic and Atmospheric Administration]] (NOAA)
+*$580 million to the [[National Institute of Standards and Technology]]
+*$230 million for NOAA operations, research and facilities
+*$140 million to the [[United States Geological Survey]] . 
+
+===Other===. 
+[[File:President Barack Obama speech in Ohio.jpg|right|thumb|President Obama in Ohio on March 6, 2009 for the Graduation of the Columbus Police Division’s 114th Class, saying that the ARRA did bring some good news.]]
+Total: $10.6 billion
+*$4 billion for state and local [[law enforcement agencies]]<ref>[http://www.justice.gov/recovery/ USDOJ: The Recovery Act Homepage<!-- Bot generated title -->]</ref>
+*$1.1 billion in waivers on interest payments for state  unemployment trust funds
+*$1 billion in preparation for the [[2010 United States Census|2010 census]]
+*$1 billion in added funding for child support enforcement
+*$750 million for [[Coupon-eligible converter box|DTV conversion coupons]] and [[DTV transition in the United States|DTV transition]] education
+*$749 million in crop insurance reinstatement, and emergency loans for farmers
+*$730 million in SBA loans for small businesses
+*$500 million for the [[Social Security Administration]] to process disability and retirement backlogs
+*$201 million in additional funding for AmeriCorps and other community service organizations
+*$150 million for Urban and Rural economic recovery programs
+*$150 million for an increase of claims processing military staff
+*$150 million in loans for rural businesses
+*$50 million for the [[National Endowment for the Arts]] to support artists
+*$50 million for the [[United States National Cemetery|National Cemetery Administration]] . 
+
+==Buy American provision==. 
+ARRA included a 'Buy American' provision that imposed a general requirement that any public building or public works project funded by the new stimulus package must use only iron, steel and other manufactured goods produced in the United States.  . 
+
+A May 15, 2009 Washington Post article reported that the 'Buy American' provision of the stimulus package caused outrage in the Canadian business community, and that the government in Canada "retaliated" by enacting its own restrictions on trade with the U.S. <ref>{{cite news | url=http://www.washingtonpost.com/wp-dyn/content/article/2009/05/14/AR2009051404241_pf.html | title=Trade Wars Brewing In Economic Malaise | work=The Washington Post | date=May 15, 2009 | first1=Anthony | last1=Faiola | first2=Lori | last2=Montgomery | accessdate=April 23, 2010}}</ref>  On June 6, 2009, delegates at the [[Federation of Canadian Municipalities]] conference passed a resolution that would potentially shut out U.S. bidders from Canadian city contracts, in order to help show support for Prime Minister [[Stephen Harper]]'s opposition to the "Buy American" provision.  [[Sherbrooke]] Mayor [[Jean Perrault]], president of the federation, stated, "This U.S. protectionist policy is hurting Canadian firms, costing Canadian jobs and damaging Canadian efforts to grow in the world-wide recession." There will be a 120 day delay before the resolution takes effect. <ref>{{cite web | url=http://cnews.canoe.ca/CNEWS/Politics/2009/06/06/9700221-cp.html | title=Canadian mayors pass resolution to shut out U.S. bidders | work=[[canoe.ca]] | date=June 6, 2009}}</ref> On February 16, 2010, the United States and Canada agreed on exempting Canadian companies from Buy American provisions which would have hurt the [[Canadian economy]]. <ref>{{cite web|url=http://www.international.gc.ca/commerce/buyamerican-2010.aspx|title=Canada-U.S. agreement on Buy American came into force|publisher=Foreign Affairs and International Trade Canada|accessdate=2010-02-21|date=2010-02-16}}</ref><ref>{{cite web|url=|title=Canada-U.S. Agreement on Government Procurement|publisher=[[Foreign Affairs and International Trade Canada]]|accessdate=2010-02-21|date=2010-02-11}}</ref> . 
+
+==Recommendations by economists==. 
+[[File:Barack Obama announces Economic Recovery Advisory Board 2-6-09.jpg|thumb|[[President of the United States|President]] [[Barack Obama]] announces the creation of the [[Economic Recovery Advisory Board]] on February 6, 2009.]]
+Economists such as [[Martin Feldstein]], [[Daron Acemoğlu]], National Economic Council director [[Larry Summers]], and [[Nobel Memorial Prize in Economic Sciences]] winners [[Joseph Stiglitz]]<ref>
+[http://news.morningstar.com/newsnet/ViewNews.aspx?article=/DJ/200901141002DOWJONESDJONLINE000637_univ.xml Stiglitz: Stimulus Must Be Big, Provide Relief To States], morningstar.com</ref> and [[Paul Krugman]]<ref>{{cite news | url=http://www.nytimes.com/2008/01/25/opinion/25krugman.html | title=Stimulus Gone Bad | work=NYTimes.com | first=Paul | last=Krugman | date=January 25, 2008 | accessdate=April 23, 2010}}</ref> favored large economic stimulus to counter the economic downturn. While in favor of a stimulus package, Feldstein expressed concern over the act as written, saying it needed revision to address consumer spending and unemployment more directly. <ref>{{cite web | url=http://www.bostonherald.com/business/general/view/2009_01_30_Harvard_prof_slams_stimulus_plan:_Dems___800b_%E2%80%98mistake_ | title=Harvard Prof Slams Stimulus Plan | work=Boston Herald | date= January 30, 2009}}</ref> Just after the bill was enacted, Krugman wrote that the stimulus was too small to deal with the problem, adding, "And it’s widely believed that political considerations led to a plan that was weaker and contains more tax cuts than it should have — that Mr. Obama compromised in advance in the hope of gaining broad bipartisan support."<ref>{{Cite news| last = Krugman| first = Paul| author-link = Paul Krugman  | title = Failure to Rise| newspaper = [[The New York Times]]| pages = A31| date = February 13, 2009| url = http://www.nytimes.com/2009/02/13/opinion/13krugman.html?_r=1| accessdate =2011-02-15| postscript = <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref> Other economists, including [[John Lott]],<ref>{{cite news|url=http://www.foxnews.com/story/0,2933,487425,00.html |title=Obama's Stimulus Package Will Increase Unemployment - Opinion |publisher=FOXNews.com |date=3 February 2009 |accessdate=18 February 2009}}</ref> [[Robert Barro]] and Nobel Memorial Prize-winners [[Robert Lucas, Jr.]],<ref>{{cite news | url=http://online.wsj.com/article/SB122999959052129273.html | title=Bernanke Is the Best Stimulus Right Now | work=wsj.com | first=Robert E. | last=Lucas Jr | date=December 23, 2008}}</ref> [[Vernon L. Smith]], [[Edward C. Prescott]] and [[James M. Buchanan]], were more critical of the government spending.  . 
+
+On January 28, 2009, a full-page advertisement with the names of approximately 200 economists who were against Obama's plan appeared in ''[[The New York Times]]'' and ''[[The Wall Street Journal]]''.  The economists denied the quoted statement by President Obama that there was "no disagreement that we need action by our government, a recovery plan that will help to jumpstart the economy." Instead, the signers believed that "to improve the economy, policymakers should focus on reforms that remove impediments to work, saving, investment and production. Lower tax rates and a reduction in the burden of government are the best ways of using fiscal policy to boost growth."<ref>{{cite web | url=http://cato.org/special/stimulus09/cato_stimulus.pdf | title=Cato Institute petition against Obama 2009 stimulus plan}}</ref></blockquote> The funding for this advertisement came from the [[Cato Institute]]. <ref>{{cite news|url=http://www.stltoday.com/blogzone/mound-city-money/us-economy/2009/01/economists-say-stimulus-wont-work|title=Economists say stimulus won’t work|date=January 29, 2009|work=St. Louis Post-Dispatch|accessdate=1 February 2010}}</ref> . 
+
+On February 8, 2009, a letter to Congress signed by about 200 economists in favor of the stimulus, written by the [[Center for American Progress Action Fund]], said that Obama's plan "proposes important investments that can start to overcome the nation's damaging loss of jobs," and would "put the United States back onto a sustainable long-term-growth path."<ref>{{cite web|url=http://www.americanprogressaction.org/issues/2009/01/stimulus_letter.html|title=Letter to Congress: Economists Across the Spectrum Endorse Stimulus Package|date=January 27, 2009|work=Center for American Progress Action Fund|publisher=Center for American Progress|accessdate=1 February 2010}}</ref>  This letter was signed by Nobel Memorial laureates [[Kenneth Arrow]], [[Lawrence R. Klein]], [[Eric Maskin]], [[Daniel McFadden]], [[Paul Samuelson]] and [[Robert Solow]]. The New York Times published projections from IHS Global Insight, Moody's.com, Economy.com and Macroeconomic Advisers which indicated that the economy may have been worse without the ARRA. <ref>{{cite news|url=http://www.nytimes.com/2009/11/21/business/economy/21stimulus.html|title=New Consensus Sees Stimulus Package as Worthy Step|date=November 20, 2009|work=New York Times|accessdate=June 6, 2011|first1=Jackie|last1=Calmes|first2=Michael|last2=Cooper}}</ref><ref>{{cite news|url=http://www.nytimes.com/imagepages/2009/11/21/business/21stimulus_graphic.html|title=Projections Show It Could Have Been Worse|date=November 20, 2009|work=New York Times|accessdate=June 6, 2011}}</ref> . 
+
+==Congressional Budget Office reports==. 
+[[File:CBO GDP impact of ARRA 2009.png|thumb|250px|right|CBO estimates of the impact of the stimulus on GDP]]
+A February 4, 2009, report by the [[Congressional Budget Office]] (CBO) said that while the stimulus would increase economic output and employment in the short run, the [[GDP]] would, by 2019, have an estimated net decrease between 0.1% and 0.3% (as compared to the CBO estimated baseline). <ref>{{cite web | url=http://cbo.gov/ftpdocs/96xx/doc9619/Gregg.pdf | title=Official CBO report to the Senate budget committee | work=Congressional Budget Office}}</ref> . 
+
+The CBO estimated that enacting the bill would increase federal budget deficits by $185 billion over the remaining months of fiscal year 2009, by $399 billion in 2010, and by $134 billion in 2011, or $787 billion over the 2009-2019 period. <ref>{{cite web | url=http://www.cbo.gov/ftpdocs/99xx/doc9989/hr1conference.pdf | title=CBO-Budgetary Impact of ARRA | work= Congressional Budget Office}}</ref> . 
+
+In a February 11 letter, CBO Director [[Douglas Elmendorf]] noted that there was disagreement among economists about the effectiveness of the stimulus, with some skeptical of any significant effects while others expecting very large effects. <ref name="Feb 11 letter">{{cite web | url=http://www.cbo.gov/ftpdocs/99xx/doc9987/Gregg_Year-by-Year_Stimulus.pdf | title=Letter by Douglas W. Elmendorf, director of the CBO | work= Congressional Budget Office | date= February 11, 2009}}</ref> Elmendorf said the CBO expected short term increases in [[Gross domestic product|GDP]] and employment. <ref name="Feb 11 letter"/> In the long term, the CBO expects the legislation to reduce output slightly by increasing the nation's debt and [[crowding out (economics)|crowding out]] private investment, but noted that other factors, such as improvements to roads and highways and increased spending for basic research and education may offset the decrease in output and that crowding out was not an issue in the short term because private investment was already decreasing in response to decreased demand. <ref name="Feb 11 letter"/> . 
+
+The CBO estimated that an increase in the GDP of between 1.4&nbsp;percent and 3.8&nbsp;percent by the end of 2009, between 1.1&nbsp;percent and 3.3&nbsp;percent by the end of 2010, between 0.4&nbsp;percent and 1.3&nbsp;percent by the end of 2011, and a decrease of between zero and 0.2&nbsp;percent beyond 2014. <ref name="Feb 11 letter"/> The impact to employment would be an increase of 0.8&nbsp;million to 2.3&nbsp;million by the end of 2009, an increase of 1.2&nbsp;million to 3.6&nbsp;million by the end of 2010, an increase of 0.6&nbsp;million to 1.9&nbsp;million by the end of 2011, and declining increases in subsequent years as the U.S. labor market reaches nearly full employment, but never negative. <ref name="Feb 11 letter"/> Decreases in GDP in 2014 and beyond are accounted for by [[crowding out (economics)|crowding out]], where government debt absorbs finances that would otherwise go toward investment. <ref name="Feb 11 letter"/> . 
+
+==Recovery.gov==. 
+[[File:Recovery.gov 2-17-09.jpg|thumb|[http://www.Recovery.gov Recovery.gov], the website created for this Act.]]
+A May 21, 2009 article in ''[[The Washington Post]]'' stated, "To build support for the stimulus package, President Obama vowed unprecedented transparency, a big part of which, he said, would be allowing taxpayers to track money to the street level on Recovery.gov... But three months after the bill was signed, Recovery.gov offers little beyond news releases, general breakdowns of spending, and acronym-laden spreadsheets and timelines." The same article also stated, "Unlike the government site, the privately run Recovery.org is actually providing detailed information about how the $787 billion in stimulus money is being spent."<ref>{{cite news | url=http://www.washingtonpost.com/wp-dyn/content/article/2009/05/20/AR2009052003535.html | title=Tracking Stimulus Spending May Not Be as Easy as Promised | work=The Washington Post | date= May 21, 2009 | first=Alec | last=MacGillis | accessdate=April 23, 2010}}</ref> . 
+
+Reports regarding errors in reporting on the Web site made national news. News stories circulated about Recovery.gov reporting fund distribution to congressional districts that did not exist. <ref>{{cite web | url=http://watchdog.org/1530/6-4-billion-stimulus-goes-to-phantom-districts/ | title=$6.4 Billion Stimulus Goes to Phantom Districts | work=[[Watchdog.org]] | date=November 17, 2010 | first=Bill | last=McMorris | accessdate=September 24, 2010}}</ref><ref>{{cite news | url=http://www.cbsnews.com/stories/2009/11/18/politics/main5701130.shtml | title=Did "Phantom" Districts Get Stimulus Cash? | work=CBS News | date=November 18, 2009 | accessdate=September 24, 2010}}</ref> . 
+
+A new Recovery.gov website was redesigned at a cost estimated to be $9.5 million through January 2010. <ref>{{cite web | url=http://blogs.abcnews.com/thenote/2009/07/18m-being-spent-to-redesign-recoverygov-web-site.html | title=18 M Spent To Redesign Recovery.gov Web Site | work=ABC News | date=July 9, 2009}}</ref> The section of the act that was intended to establish and regulate the operation of Recovery.gov was actually struck prior to its passage into law.  Section 1226, which laid out provisions for the structure, maintenance, and oversight of the website were struck from the bill.  Directives are currently being given to those organizations handling the stimulus dollars that tie directly to recovery.gov that will require that detailed reports be provided that will end up on recovery.gov which tie the dollars spent to activities in the bill.  . 
+
+On July 20, 2009, the [[Drudge Report]] published links to pages on Recovery.org which Drudge alleged were detailing expensive contracts awarded by the [[U.S. Department of Agriculture]] for items such as individual portions of mozzarella cheese, frozen ham and canned pork, costing hundreds of thousands to over a million dollars. A statement released by the USDA the same day corrected the allegation, stating that "references to '2 pound frozen ham sliced' are to the sizes of the packaging. Press reports suggesting that the Recovery Act spent $1.191 million to buy "2 pounds of ham" are wrong. In fact, the contract in question purchased 760,000 pounds of ham for $1.191 million, at a cost of approximately $1.50 per pound."<ref>{{cite web | url=http://www.usda.gov/wps/portal/!ut/p/_s.7_0_A/7_0_1OB/.cmd/ad/.ar/sa.retrievecontent/.c/6_2_1UH/.ce/7_2_5JM/.p/5_2_4TQ/.d/1/_th/J_2_9D/_s.7_0_A/7_0_1OB?PC_7_2_5JM_contentid=2009%2F07%2F0322.xml&PC_7_2_5JM_parentnav=LATEST_RELEASES&PC_7_2_5JM_navid=NEWS_RELEASE#7_2_5JM  | title=Response to Drudge Item on Recovery Act Funding - Statement from Agriculture Secretary Tom Vilsack | work=U.S. Department of Agriculture website | date=July 20, 2009}}</ref> . 
+
+==Developments under the Act==. 
+[[File:Recovery-JobLossGain.png|thumb|Chart of BLS job-loss data based on OFA's chart.]]
+[[File:Barack Obama & Joe Biden speak about implementation of ARRA 3-20-09.jpg|thumb|[[President of the United States|President]] [[Barack Obama]] and [[Vice President of the United States|Vice President]] [[Joe Biden]] speak to state legislators about the implementation of the Recovery Act on March 20, 2009.]]
+The Congressional Budget Office reported in October 2009 the reasons for the changes in the 2008 and 2009 deficits, which were approximately $460 billion and $1,410 billion, respectively. The CBO estimated that ARRA increased the deficit by $200 billion for 2009, split evenly between tax cuts and additional spending, excluding any feedback effects on the economy. <ref>[http://www.cbo.gov/ftpdocs/106xx/doc10640/10-2009-MBR.pdf CBO Monthly Budget Review-October 2009]</ref> . 
+
+On February 12, 2010, the [[Bureau of Labor Statistics]], which regularly issues economic reports, published job-loss data on a month-by-month basis since 2000. <ref>[http://data.bls.gov/PDQ/servlet/SurveyOutputServlet?series_id=CES0000000001&output_view=net_1mth "Employment, Hours, and Earnings from the Current Employment Statistics survey (National)"]</ref> [[Organizing for America]], a community organizing project of the [[Democratic National Committee]], prepared a chart presenting the BLS data for the period beginning in December 2007. OFA used the chart to argue, "As a result [of the Recovery Act], job losses are a fraction of what they were a year ago, before the Recovery Act began."<ref>{{cite web | title = Road to Recovery| publisher = [[Organizing for America]]| url = http://my.barackobama.com/page/content/recoveryanniversary/| accessdate = 2010-02-28}}</ref> Others argue that job losses always grow early in a recession and naturally slow down with or without government stimulus spending, and that the [http://www.pollster.com/blogs/same_data_two_charts_two_impli.php?nr=1 OFA chart was mis-leading].  . 
+
+In the primary justification for the stimulus package, the Obama administration and Democratic proponents presented a graph in January 2009 showing the projected unemployment rate with and without the ARRA. <ref name="RC"/> The graph showed that if ARRA was not enacted the unemployment rate would exceed 9%; but if ARRA was enacted it would never exceed 8%. After ARRA became law, the actual unemployment rate exceeded 8% in February 2009, exceeded 9% in May 2009, and exceeded 10% in October 2009. The actual unemployment rate was 9.2% in June 2011 when it was projected to be below 7% with the ARRA. However, this can be accounted for by noting that the actual recession was subsequently revealed to be much worse than any projections at the time when the ARRA was drawn up.[[File:ARRA Unemployment Rate Graph 2011-05.jpg|thumb|Projected Unemployment Rate]] . 
+
+According to a March 2009 Industry Survey of and by the National Association of Business Economists, 70.6% of their economists who had reviewed the fiscal stimulus enacted in February 2009 projected it would have modest to strong impact in shortening the recession, with 29.4% anticipating little or no impact.  The aspects of the stimulus expected by the NABE to have the greatest effectiveness were physical infrastructure, unemployment benefits expansion, and personal tax-rate cuts. <ref>[http://www.nabe.com/graphweek/2009/gw090329.html Graph of the Week 3/29/09: Effect of Fiscal Stimulus Package<!-- Bot generated title -->]</ref> . 
+
+One year after the stimulus, several independent macroeconomic firms, including [[Moody's]] and [[Global Insight|IHS Global Insight]], estimated that the stimulus saved or created 1.6 to 1.8 million jobs and forecast a total impact of 2.5 million jobs saved by the time the stimulus is completed. <ref>Leonhardt, David. "Economic Scene: Judging Stimulus by Job Data Reveals Success." ''New York Times''. February 16, 2010. http://www.nytimes.com/2010/02/17/business/economy/17leonhardt.html. </ref>  The Congressional Budget Office considered these estimates conservative. <ref>Leonhardt, "Judging Stimulus.."</ref> The CBO estimated according to its model 2.1 million jobs saved in the last quarter of 2009, boosting the economy by up to 3.5 percent and lowering the unemployment rate by up to 2.1 percent. <ref name="sullivan">{{cite news | last = Sullivan | first = Andy | title = UPDATE 2-US stimulus added up to 2.1 mln jobs in Q4 2009-CBO | publisher = Reuters | date = February 23, 2010| url = http://www.reuters.com/article/idUSN2311303720100223| accessdate = 2010-02-28}}</ref> The CBO projected that the package would have an even greater impact in 2010. <ref name="sullivan"/> The CBO also said, "It is impossible to determine how many of the reported jobs would have existed in the absence of the stimulus package."<ref>[http://www.cbo.gov/ftpdocs/106xx/doc10682/Frontmatter.2.2.shtml Estimated Impact of the American Recovery and Reinvestment Act on Employment and Economic Output]</ref> The CBO's report on the first quarter of 2010 showed a continued positive effect, with an employment gain in that quarter of up to 2.8 million and a GDP boost of up to 4.2 percent. <ref>{{cite news | last = Sullivan| first = Andy| title = CORRECTED - UPDATE 2-Stimulus raised GDP by up to 4.2 pct in Q1 2010 -CBO| publisher = Reuters| date = May 25, 2010| url = http://www.reuters.com/article/idUSN2512520220100526?type=marketsNews| accessdate = 2010-05-27}}</ref>  On the other hand, economists Timothy Conley of the University of Western Ontario and Bill Dupor of the Ohio State University used state level variation to estimate that while the stimulus created or saved 450 thousand government jobs, it destroyed or forestalled 1 million private sector jobs, thus costing jobs on net. <ref>[http://web.econ.ohio-state.edu/dupor/arra10_may11.pdf The American Recovery and Reinvestment Act: Public Sector Jobs Saved, Private Sector Jobs Forestalled]</ref> Conley and Dupor's analysis has been criticized for its seemingly statistically irrelevant results. <ref>[http://noahpinionblog.blogspot.com/2011/05/did-stimulus-really-destroy-million.html Noahpinion: Did the stimulus really destroy a million private-sector jobs?<!-- Bot generated title -->]</ref><ref>[http://econlog.econlib.org/archives/2011/05/the_methodology.html The Methodology is Flawed, Arnold Kling | EconLog | Library of Economics and Liberty<!-- Bot generated title -->]</ref><ref>{{cite news| url=http://krugman.blogs.nytimes.com/2011/05/18/stupid-stimulus-tricks/?smid=tw-NytimesKrugman&seid=auto | work=The New York Times | first=Paul | last=Krugman | title=Stupid Stimulus Tricks | date=May 18, 2011}}</ref> Other researchers have come to significantly more positive conclusions about the bill's effects on jobs. Economist Dan Wilson of the Federal Reserve,  who used similar methodology, without the same identified errors, estimates that "ARRA spending created or saved about 2 million jobs in its first year and over 3 million by March 2011." <ref>http://www.frbsf.org/publications/economics/papers/2010/wp10-17bk.pdf</ref> . 
+
+The CBO also revised its assessment of the long-term impact of the bill. After 2014, the stimulus is estimated to decrease output by zero to 0.2%.  The stimulus is not expected to have a negative impact on employment in any period of time. <ref>CBO letter to Sen. Judd Gregg. February 11, 2010. http://www.cbo.gov/ftpdocs/99xx/doc9987/Gregg_Year-by-Year_Stimulus.pdf</ref> . 
+
+In 2011, the [[United States Department of Commerce|Department of Commerce]] revised some of its previous estimates.  Economist [[Dean Baker]] commented: . 
+
+<blockquote>[T]he revised data ... showed that the economy was plunging even more rapidly than we had previously recognised in the two quarters following the collapse of [[Lehman Brothers|Lehman]]. Yet, the plunge stopped in the second quarter of 2009 – just as the stimulus came on line. This was followed by respectable growth over the next four quarters. Growth then weakened again as the impact of the stimulus began to fade at the end of 2010 and the start of this year.  . 
+
+In other words, the growth pattern shown by the revised data sure makes it appear that the stimulus worked. The main problem would seem to be that the stimulus was not big enough and it wasn't left in place long enough to lift the economy to anywhere near potential output. <ref>{{Citation| last = Baker| first = Dean| author-link = Dean Baker| title = US debt deal: how Washington lost the plot| newspaper = [[The Guardian]] | date = August 1, 2011| url = http://www.guardian.co.uk/commentisfree/cifamerica/2011/aug/01/us-debt-deal-washington-unemployment | accessdate =2011-08-03 | location=London}}</ref></blockquote> . 
+
+The [[Democratic Congressional Campaign Committee]] established a "Hypocrisy Hall of Fame" to list Republican Representatives who had voted against ARRA but who then sought or took credit for ARRA programs in their districts.  As of September 2011, the DCCC was listing 128 House Republicans in this category. <ref>{{cite web| title = Hypocrisy Alert: 128 House Republicans Take Credit for the Economic Bills They Opposed| publisher = [[Democratic Congressional Campaign Committee]] | url = http://www.dccc.org/page/content/hhof| accessdate =2011-09-10 }}</ref> ''[[Newsweek]]'' reported that many of the Republican legislators who publicly argued that the stimulus would not create jobs were writing letters seeking stimulus programs for their districts on the grounds that the spending would create jobs. <ref>{{Citation| last = Stone | first = Daniel | title = The Tea Party Pork Binge| newspaper = [[The Daily Beast]]  | date = October 30, 2011  | url = http://www.thedailybeast.com/newsweek/2011/10/30/conseratives-brought-nation-to-default-ask-for-govt-handouts.html| accessdate = 2011-11-10}}</ref> . 
+
+The stimulus has been criticized as being too small.  In July 2010, a group of 40 prominent economists issued a statement calling for expanded stimulus programs to reduce unemployment.  They also challenged the view that the priority should be reducing the deficit: "Making deficit reduction the first target, without addressing the chronic underlying deficiency of demand, is exactly the error of the 1930s."<ref>{{cite web | title = Reboot America—Manifesto Support Surges| publisher = [[The Daily Beast]]| date = July 19, 2010| url =http://www.thedailybeast.com/blogs-and-stories/2010-07-20/reboot-america-manifesto-supporters-swells-to-40/| accessdate = 2010-07-28}}</ref> . 
+
+In July 2010, the White House [[Council of Economic Advisers]] estimated that the stimulus had "saved or created between 2.5 and 3.6 million jobs as of the second quarter of 2010."<ref>[[Council of Economic Advisers]], [http://www.whitehouse.gov/files/documents/cea_4th_arra_report.pdf "The Economic Impact of the American Recovery and Reinvestment Act of 2009"], July 14, 2010, page 1. </ref>  At that point, spending outlays under the stimulus totaled $257 billion and tax cuts totaled $223 billion. <ref>[[Council of Economic Advisers]], [http://www.whitehouse.gov/files/documents/cea_4th_arra_report.pdf "The Economic Impact of the American Recovery and Reinvestment Act of 2009"], July 14, 2010, page 4. </ref> In July 2011, the White House [[Council of Economic Advisers]] estimated that as of the first quarter of  2011,<ref>[[Council of Economic Advisers]], [http://www.whitehouse.gov/sites/default/files/cea_7th_arra_report.pdf "The Economic Impact of the American Recovery and Reinvestment Act of 2009"], July 1, 2011, page 1. </ref> the ARRA raised employment relative to what it otherwise would have been by between 2.4 and 3.6 million. The sum of outlays and tax cuts up to this point was $666 billion. Using a straight mathematical calculation, critics reported that the ARRA cost taxpayers between $185,000 to $278,000 per job that was created, though this computation does not include the permanent infrastructure that resulted.  . 
+
+In August 2010, Republican Senators [[Tom Coburn]] and [[John McCain]] released a report listing 100 projects it described as the "most wasteful projects" funded by the Act.  In total, the projects questioned by the two senators amounted to about $15 billion, or less than 2% of the $862 billion.  The two senators did concede that the stimulus has had a positive effect on the economy, though they criticized it for failing to give "the biggest bang for our buck" on the issue of job creation.  CNN noted that the two senators' stated objections were brief summaries presenting selective accounts that were unclear, and the journalists pointed out several instances where they created erroneous impressions. <ref>{{cite news| url=http://edition.cnn.com/2010/POLITICS/08/03/senators.stimulus.spending.hfr/?hpt=Sbin#fbid=ArbgvoCEUuW | work=CNN | title=GOP slams stimulus plan with list of 100 worst projects | date=August 3, 2010}}</ref> . 
+
+The Act, which from its earliest introductions had promised "shovel-ready" projects,<ref>Calmes, Jackie and Carl Hulse, [http://www.nytimes.com/2009/01/04/us/politics/04stimulus.html "Obama Considers Major Expansion in Aid to Jobless"], ''The New York Times'', January 3, 2009. Retrieved 2010-11-16. </ref> was dogged in implementation by slower-than-hoped implementation of, particularly, infrastructure projects. <ref>Cooper, Michael, [http://www.nytimes.com/2010/06/19/us/19stimulus.html "Obama Hopes ‘Recovery Summer’ Will Warm Voters to the Stimulus"], June 18, 2010. Retrieved 2010-11-16. </ref><ref>Baker, Peter, [http://www.nytimes.com/2010/10/17/magazine/17obama-t.html "Education of a President"], ''The New York Times Magazine'', October 12, 2010. "He realized too late that 'there’s no such thing as shovel-ready projects' when it comes to public works." Retrieved 2010-11-16. </ref> At the Council on Jobs and Competitiveness in Durham, N.C. on June 13, 2011, President Obama [http://nation.foxnews.com/president-obama/2011/06/13/obama-jokes-jobs-council-shovel-ready-was-not-shovel-ready-we-expected joked] "Shovel-ready was not as shovel-ready as we expected." . 
+
+Some of the tax incentives in the Act, including those related to the [[American opportunity tax credit]] and [[Earned Income Tax Credit]], were extended for a further two years by the [[Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010]]. <ref name="at-sum">{{cite news | url= http://www.accountingtoday.com/news/Tax-Cut-Extension-Bill-Wends-Way-White-House-56664-1.html | title=Tax Cut Extension Bill Wends Its Way to White House | magazine=[[Accounting Today]] | date=December 17, 2010 | accessdate=December 17, 2010}}</ref> . 
+
+In November 2011 the Congressional Budget Office updated its earlier reports concerning the Act.  The CBO stated that "the employment effects began to wane at the end of 2010 and have continued to do so throughout 2011."  Nevertheless, in the third quarter of 2011, the CBO estimated that the Act had increased the number of full-time equivalent jobs by 0.5 million to 3.3 million. <ref>{{cite web| title = Estimated Impact of the American Recovery and Reinvestment Act on Employment and Economic Output from July 2011 Through September 2011| publisher = [[Congressional Budget Office]]| date = November 2011| url = http://www.cbo.gov/ftpdocs/125xx/doc12564/11-22-ARRA.pdf| accessdate = 2011-11-24}}</ref> . 
+
+==Oversight and administration==. 
+In addition to the Vice President Biden's oversight role, a high-level advisory body, the [[President's Economic Recovery Advisory Board]] (later renamed and reconstituted the President’s Council on Jobs and Competitiveness), was named concurrent to the passage of the act.  . 
+
+As well, the President named [[Inspector General#United States|Inspector General]] of the [[United States Department of the Interior]] [[Earl Devaney]] and the [[Recovery Accountability and Transparency Board]] to monitor administration of the Act. <ref>Wolf, Paula, [http://articles.lancasteronline.com/local/4/234298 "Obama picks F&M alum to oversee stimulus plan"], ''LancasterOnline'', February 25, 2009. </ref> Eleven other IG's served on the RATB, and the Board also had an [[Recovery Accountability and Transparency Board#Advisory Panel|Recovery Independent Advisory Panel]].  . 
+
+In late 2011, Devaney and his fellow IG's, on RATB and more who were not, were credited with avoiding any major scandals in the administration of the Act, in the eyes of one Washington observer. <ref>[[Jonathan Alter|Alter, Jonathan]], [http://www.washingtonmonthly.com/magazine/november_december_2011/features/scandal_in_the_age_of_obama032995.php?page=4 "Scandal in the Age of Obama"], ''[[Washington Monthly]]'', November/ December 2011. Retrieved 2011-12-28. </ref> . 
+
+==See also==. 
+* [[2010 United States federal budget]]
+* [[Build America Bonds]]
+* [[Energy law of the United States]]
+* [[European Economic Recovery Plan]]
+* [[Federalreporting.gov]]
+* [[Late-2000s financial crisis]]
+* [[Infrastructure]]
+* [[Pathways out of Poverty]] (POP)
+* [[School Improvement Grant]]
+* [[Race to the Top]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+{{Wikisource}}
+{{Commons category}}
+*[[S:American Recovery and Reinvestment Act of 2009|Complete text of enacted statute at Wikisource]]
+*[http://publicservice.evendon.com/RecoveryBill1M.htm American Recovery and Reinvestment Act] Fully Searchable [http://publicservice.evendon.com/RecoveryBill2M.htm Conference Version]
+*[http://recovery.gov/ Recovery.gov] - A website of the Executive for transparency of actions taken under the American Recovery and Reinvestment Act of 2009
+*[http://cspan.org/Watch/watch.aspx?MediaId=HP-R-15536 Full Video of The American Recovery and Reinvestment Act of 2009 signing ceremony on February 17, 2009 (from C-SPAN)]
+*[http://cspan.org/Watch/Media/2010/02/17/HP/R/29663/Obama+Administration+Marks+Stimulus+Bills+First+Anniversary.aspx Vice President Biden and President Obama speeches on the 1 year anniversary of the ARRA (from C-SPAN)] . 
+
+;Analysis
+*[http://www.stimulus.org/ Stimulus.org] Tracking the Stimulus, Financial Bailout, and Recovery Spending
+*[http://crfb.org/document/analysis-american-recovery-and-reinvestment-act Stimulus Analysis] - An economic and fiscal analysis of the Act, from the Committee for a Responsible Federal Budget
+*[http://www.recovery.org/ Onvia Tracking Recovery] project database
+*[http://www.stimuluswatch.org/ Stimulus Watch.org] - built to help the new administration keep its pledge to invest stimulus money smartly
+*[http://learningdisabilities.about.com/library/regulations/arrafundsbystate.pdf A report] of estimated ARRA funds for students with disabilities in public schools by state
+*[http://discoursedb.org/wiki/American_Recovery_and_Reinvestment_Act_of_2009 American Recovery and Reinvestment Act of 2009] from ''Discourse DB''
+* [http://apps1.eere.energy.gov/news/archive.cfm/pubDate=%7Bd%20%272009-02-18%27%7D EERE Network News], from Energy.gov . 
+
+{{2008 economic crisis}}
+{{US_tax acts}} . 
+
+{{DEFAULTSORT:American Recovery And Reinvestment Act Of 2009}}
+[[Category:111th United States Congress]]
+[[Category:Late 2000s global economic crisis]]
+[[Category:Presidency of Barack Obama]]
+[[Category:United States housing bubble]]
+[[Category:United States federal financial legislation]]
+[[Category:United States federal healthcare legislation]]
+[[Category:United States federal housing legislation]]
+[[Category:United States federal taxation legislation]]
+[[Category:2009 in American politics]]
+[[Category:Canada–United States relations]]

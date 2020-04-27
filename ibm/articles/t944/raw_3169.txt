@@ -1,0 +1,118 @@
+{{Infobox SCOTUS case
+  |Litigants=Street v. New York
+  |ArgueDate=October 21
+  |ArgueYear=1968
+  |DecideDate=April 21
+  |DecideYear=1969
+  |FullName=Sidney Street v. State of New York
+  |USVol=394
+  |USPage=576
+  |CitationNew=394 U.S. 576, 89 S.Ct. 1354, 22 L.Ed.2d 572 (1969)
+  |Prior=conviction in Criminal Court of New York, affirmed without opinion by Appellate Term, Second Department; affirmed again, 20 N.Y.2d 231, 229 N.E.2d 187 (1967). 
+  |Subsequent=on remand at 24 N.Y.2d 1026, 250 N.E.2d 250 (1969)
+  |Holding=Defendant was convicted of both burning and speaking against the [[flag of the United States|American flag]].  However, it is unconstitutional for a state to make it a crime to utter words in contempt of the flag; because the conviction was potentially based in part on the defendant's words, the conviction was reversed, and the case remanded to the state courts for further proceedings. 
+  |SCOTUS=1969
+  |Majority=Harlan
+  |JoinMajority=Marshall, Brennan, Stewart, Douglas
+  |Dissent=Warren
+  |JoinDissent=
+  |Dissent2=Black
+  |JoinDissent2=
+  |Dissent3=White
+  |Dissent4=Fortas
+  |LawsApplied=[[First Amendment to the Constitution of the United States|U.S. Const. amend. I]]; [[Fourteenth Amendment to the Constitution of the United States|U.S. Const. amend. XIV]]
+}}
+{{wikisource}}
+In '''''Street v. New York''''', [[Case citation|394 U.S. 576]] (1969), the [[Supreme Court of the United States|United States Supreme Court]] held that a New York state law making it a crime "publicly [to] mutilate, deface, defile, or defy, trample upon, or cast contempt upon either by words or act [any flag of the United States]"<ref>''Street v. New York'', 394 U.S. 576, 578 (1969) (quoting the New York Penal Law, §1425, subd. 16)</ref> was, in part, unconstitutional because it prohibited ''speech'' against the [[flag of the United States|flag]].  The Court left for a later day the question of whether it is constitutional or unconstitutional to prohibit, without reference to the utterance of words, the burning of the flag (see ''[[Texas v. Johnson]]'' and ''[[United States v. Eichman]]'').  . 
+
+== Background ==. 
+The [http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_documents&docid=f:hd051.110.pdf Constitution] provides that all Americans have the right to [[free speech]]; specifically, the First Amendment states that "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances."<ref>[http://www.gpoaccess.gov/constitution/pdf2002/007.pdf U.S. Const., amend. I]</ref>
+This prohibition has been interpreted by the courts as applying to the entire [[United States Federal Government|federal government]],<ref>Cornell University Law School, ''Wex'', http://lii.law.cornell.edu/wex/index.php/First_amendment (accessed March 26, 2008)</ref> but is not unlimited. <ref>See, e.g., ''Members of the City Council of the City of Los Angeles v. Taxpayers for Vincent'', 466 U.S. 789 (1984); ''see generally'' Doug Linder, ''Time, Place and Manner Regulations and the First Amendment'', http://www.law.umkc.edu/faculty/projects/ftrials/conlaw/timeplacemannertest.html (accessed March 27, 2008)</ref> . 
+
+The First Amendment protection of free speech is made binding on the [[state government]]s by way of the Fourteenth Amendment, which states that "All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws."<ref>[http://www.gpoaccess.gov/constitution/pdf2002/007.pdf U.S. Const. Amend. XIV]; ''see, e.g., [[Edwards v. South Carolina]]'', 372 U.S. 229, 235 (1963); ''[[Near v. Minnesota]]'', 283 U.S. 697, 707 (1931); ''[[Stromberg v. California]]'', 283 U.S. 359, 368 (1931). </ref><ref>Prior to the passage of the Fourteenth Amendment, the first ten amendments to the Constitution were regarded as binding only on the Federal government.  ''See [[Twining v. New Jersey]]'', 211 U.S. 78, 92 (1908). </ref> . 
+
+== Facts and procedural history ==. 
+After hearing a news report of the attempted murder of [[James Meredith]], the defendant, Sidney Street, took a [[flag of the United States#Later flag acts|48-star U.S. flag]] and burned it.  Upon being questioned by police, he said, "Yes; that is my flag; I burned it. If they let that happen to Meredith, we don't need an American flag."<ref>''Street'', 394 U.S. at 579. </ref> . 
+
+He was arrested, and a document was prepared that charged him with . 
+
+<blockquote>the crime of Malicious Mischief in that [he] did willfully and unlawfully defile, cast contempt upon and burn an American Flag, in violation of 1425-16-D of the Penal Law, under the following circumstances: . . . [he] did willfully and unlawfully set fire to an American Flag and shout, "If they did that to Meredith, We don't need an American Flag."<ref>''[[Id.]]''</ref></blockquote> . 
+
+A [[bench trial]] was held, he was convicted, and his conviction was upheld on appeal both by the [[New York Supreme Court, Appellate Division|intermediate appellate court]] and by the [[New York Court of Appeals]].  The [[Supreme Court of the United States|United States Supreme Court]] considered the following questions:
+* Did the defendant give the state courts an adequate opportunity to decide "the constitutionality of the 'words' part of the statute"?  The United States Supreme Court will not consider the question of whether a [[state law|state statute]] is unconstitutional unless the question is first raised in state court. <ref>''See Bailey v. Anderson'', 326 U.S. 203, 206-207 (1945). </ref>
+* Given that the defendant also [[flag burning|burned the flag]], did the defendant's words independently contribute to his conviction?
+* Is the prohibition on uttering words in contempt of the [[flag of the United States|Flag]] actually unconstitutional?
+* If this prohibition is actually unconstitutional, would that require reversal of the defendant's conviction?<ref>''Street'', 394 U.S. at 581.  (These questions are posed in a different order in the actual text of the decision.)</ref> . 
+
+== The decision of the Court ==. 
+Before reaching the constitutional questions, the Supreme Court first considered whether it had jurisdiction or not.  According to [[precedent]], when hearing an appeal on ''[[certiorari]]'' from the highest court of a [[U.S. state|state]], the [[Supreme Court of the United States|United States Supreme Court]] will only pass judgment on the constitutionality of a [[state law]] if the question was first raised in state court. <ref>''See Bailey, supra''. </ref> Relying on ''New York ex rel. Bryant v. Zimmerman'', 278 U.S. 63, 67 (1928), ''cf. People v. McLucas'', 15 N.Y.2d 167, 172, 204 N.E.2d 846, 848 (1965), the Supreme Court held that it did in fact have jurisdiction. <ref>''Street'', 394 U.S. at 582-585. </ref> . 
+
+The majority opinion of the Court considered that the State both mentioned the defendant's utterance, "If they did that to Meredith, We don't need an American Flag," in the charging document, and elicited testimony regarding this utterance at trial. <ref>''Id.'' at 589. </ref>  Furthermore, "[t]he State never announced that it was relying exclusively upon the burning."<ref>''Id.'' at 590. </ref>  For these reasons, Justice [[John Marshall Harlan|Harlan]], writing for the majority, determined that it was not possible "to eliminate the possibility either that appellant's words were the sole basis of his conviction or that appellant was convicted for both his words and his deed."<ref>''Id.''</ref> . 
+
+To determine whether the prohibition of "words" in contempt of the American flag was constitutional or not, the majority examined four legitimate public interests that putatively were protected by the law being challenged:
+<blockquote>
+#an interest in deterring appellant from vocally inciting others to commit unlawful acts;
+#an interest in preventing appellant from uttering words so inflammatory that they would provoke others to retaliate physically against him, thereby causing a breach of the peace;
+#an interest in protecting the sensibilities of passers-by who might be shocked by appellant's words about the American flag, and
+#an interest in assuring that appellant, regardless of the impact of his words upon others, showed proper respect for our national emblem. <ref>''Id.'' at 591. </ref>
+</blockquote>
+The Court found that all four of these interests, considered together, are not sufficient to justify any law prohibiting the utterance of "words" against the [[flag of the United States|U.S. flag]].  . 
+
+Finally,<ref>Note that this discussion does not discuss these issues in the same order as the actual opinion of the Court. </ref>  Quoting ''Stromberg v. California'', 283 U.S. at 367-368, the Court held that "The verdict against the appellant was a general one. It did not specify the ground upon which it rested. . . . [I]t is impossible to say under which clause of the statute the conviction was obtained. If any one of these clauses . . . was invalid, it cannot [p586] be determined upon this record that the appellant was not convicted under that clause. . . . It follows that . . . the conviction cannot be upheld."  That is, when a defendant is convicted of violating a law only part of which is unconstitutional, and the [[trial record]] does not sufficiently demonstrate that he was convicted solely of violating that part of the law that is ''constitutional'', then the Court will reverse the conviction.  Thus, the case was remanded to the state courts of New York for further proceedings.  . 
+
+==Dissenting opinions==. 
+=== Chief Justice Earl Warren's dissent ===. 
+Chief Justice [[Earl Warren]] strongly criticized the majority's narrow reliance on the question of whether a prohibition on "words" uttered against the flag is constitutional or not.  In deciding the case on such a narrow ground, the majority "declined to meet and resolve the basic question presented in the case.". <ref>394 U.S. at 595</ref>  This is not to say that he dissents from "the general rule that this Court should not treat broad constitutional questions when narrow ones will suffice to dispose of the litigation,"<ref>''Id.'' at 604</ref> but rather, neither the prosecution nor the defense based their arguments on the question of whether it is constitutional or unconstitutional to prohibit the utterance of "words" against the flag.  Instead, both sides argued vigorously regarding the Constitution allows states to prohibit the ''burning'' of the flag.  Furthermore, Chief Justice Warren's reading of the [[trial transcript]] was that the burning was the central issue of the case, the defense [[theory of the case]] being that the defendant "burned the flag ''in a dignified manner'',"<ref>''See id.'' at 596-599</ref> (emphasis added); thus, in his opinion, the narrow focus on the "words" uttered by the defendant and prohibited by the state law was simply not in accord with the facts of the case.  However, [[Earl Warren|Warren]] was of the opinion that laws against flag-burning are ''constitutional,'' and that therefore the defendant's conviction should have been affirmed. <ref>''Id.'' at 604-605.  Indeed, he also mentions that the Court's refusal to address the constitutionality of laws against flag-burning may actually prompt some people to burn the flag just to test the limits of the law. </ref> . 
+
+=== Justice Hugo Black's dissent ===. 
+Justice [[Hugo Black|Black]], in a brief but vigorous dissent, wrote that "I agree with the excellent opinion written by Chief Judge Fuld for a unanimous Court of Appeals, upholding the New York statute which this Court now holds unconstitutional as applied.". <ref>394 U.S. at 609</ref>  The New York law prohibited the burning of the U.S. flag, and the State proved beyond a reasonable doubt that the defendant burned the U.S. flag, and the utterances of the defendant were, in Black's view, irrelevant.  . 
+
+If the New York law in fact prohibited "words" against the flag, Black wrote, the law would unquestionably be unconstitutional – so blatantly unconstitutional, in fact, that there would be no need for the Court to balance any purported legitimate state interests against the defendant's freedom of speech. <ref>''Id.'' at 610</ref>  However, because Justice Black was satisfied that the defendant was convicted solely of burning the flag, and because burning the flag is "an integral part of conduct in violation of a valid criminal statute," he would affirm the defendant's conviction. <ref>394 U.S. at 610 (quoting ''Giboney v. Empire Storage & Ice Co.'', 336 U.S. 490, 498 (1949)). </ref> . 
+
+=== Justice Byron White's dissent ===. 
+Justice [[Byron White|White]] strongly chastised the court for failing to reach the core question of whether a state may prohibit the burning of the flag:
+<blockquote>The Court has spun an intricate, technical web but I fear it has ensnared itself in its own remorseless logic and arrived at a result having no support in the facts of the case or the governing law. <ref>394 U.S. at 610. </ref></blockquote>
+In his dissent, he says that "is a distortion of the record" for the majority of the Court to have relied on the defendant's putative conviction for uttering words against the flag, as if "the trial court convicted him for speech alone, and acquitted him of flag burning."<ref>''Id.'' at 611. </ref>  He then cites a string of decisions in support of the proposition that if a defendant is convicted of one crime as a result of his commission of two putatively illegal acts (burning the flag and speaking against the flag), and the conviction was invalid as to one act (speaking against the flag), this does ''not'' invalidate the conviction of the other act (burning the flag), and suggests that even if the conviction be reversed it should be remanded for resentencing only.  . 
+
+However, Judge White did not go so far as to say that flag-burning is not constitutionally protected; rather, he wrote that "without the benefit of the majority's thinking if it were to find flag burning protected by the First Amendment, I would sustain such a conviction."<ref>''Id.'' at 615. </ref> . 
+
+=== Justice Abe Fortas' dissent ===. 
+Justice [[Abe Fortas|Fortas]] agreed with Chief Justice [[Earl Warren|Warren]]'s dissent, but added a brief additional explanation of why he thought that it would be constitutional to ban flag-burning.  First, he argued, if the flag were nothing more than an ordinary item of property, the state could prohibit its burning merely as an exercise of its authority to protect the public safety.  The flag's status as a special emblem of [[nationality]], however, entitles it to additional protections, some of which have been upheld by the Court in the past. <ref>''See Halter v. Nebraska'', 205 U.S. 34 (1907). </ref>  In summary,  "Protest does not exonerate lawlessness"; thus, the state can prohibit the burning of any item in public, and the nature of the flag entitles it to more protection under the law, rather than less. <ref>394 U.S. at 617. </ref> . 
+
+==Conclusion==. 
+===Subsequent history===. 
+{{Expand section|date=June 2008}}  <!--need to find out what happened to the defendant on remand.--> . 
+
+===Further developments===. 
+The ''Street'' court did not consider whether a prohibition on burning the flag, without also prohibiting words against the flag, would be constitutional or unconstitutional.  This question would remain open until 1989, when in ''Texas v. Johnson'', 491 U.S. 397, the Court invalidated a flag-burning statute.  . 
+
+== Notes ==. 
+{{reflist|2}} . 
+
+== See also ==. 
+* [[Flag desecration]]
+**''[[Texas v. Johnson]]''
+**[[Flag Protection Act]]
+**''[[United States v. Eichman]]''
+**[[Flag Desecration Amendment]]
+* [[List of United States Supreme Court cases, volume 394]]
+* [[List of United States Supreme Court cases]]
+* [[List of United States Supreme Court cases by the Warren Court]] . 
+
+== External links ==. 
+*{{caselaw source
+ | case = ''Street v. New York''
+ |findlaw=http://caselaw.lp.findlaw.com/scripts/getcase.pl?navby=CASE&court=US&vol=394&page=576
+ | justia = http://supreme.justia.com/us/394/576/case.html
+ | other_source1 = vlex
+ | other_url1 = http://vlex.com/vid/19990376
+ | other_source2 = PreCYdent
+ | other_url2 = http://www.precydent.com/citation/394/U.S./576?}}
+* [http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_documents&docid=f:hd051.110.pdf The Declaration of Independence and the Constitution of the United States, with amendments]
+* [http://www.gpoaccess.gov/constitution/pdf2002/007.pdf Amendments to the Constitution of the United States] . 
+
+[[Category:United States Supreme Court cases]]
+[[Category:United States free speech case law]]
+[[Category:1969 in United States case law]]
+[[Category:Flag controversies in the United States]]
+[[Category:Cases related to the American Civil Liberties Union]]

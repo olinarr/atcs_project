@@ -1,0 +1,365 @@
+{{pp-semi-indef}}
+{{Infobox disease
+ | Name = Sexually transmitted infection
+ | Image =SheMayLookCleanBut.jpg
+ | Caption = U.S. propaganda poster targeted at [[World War&nbsp;II]] soldiers and sailors appealed to their patriotism in urging them to protect themselves. The text at the bottom of the poster reads, "You can't beat the [[Axis powers|Axis]] if you get VD." Images of women were used to catch the eye on many VD posters. 
+ | DiseasesDB = 27130
+ | ICD10 = {{ICD10|A|64||a|50}}
+ | ICD9 = {{ICD9|099.9}}
+ | ICDO =
+ | OMIM =
+ | MedlinePlus =
+ | eMedicineSubj =
+ | eMedicineTopic =
+ | MeshID = D012749
+}} . 
+
+'''Sexually transmitted infections''' ('''STI'''), also previously referred to as '''sexually transmitted diseases''' ('''STD''') and '''venereal diseases''' ('''VD'''), are illnesses that have a significant probability of transmission between [[human]]s by means of [[human sexual behavior]], including [[sexual intercourse|vaginal intercourse]], [[oral sex]], and [[anal sex]]. While in the past, these illnesses have mostly been referred to as STDs or VD, in recent years the term ''sexually transmitted infections'' (''STIs'') has been preferred, as it has a broader range of meaning; a person may be ''infected'', and may potentially infect others, without having a ''disease''. Some STIs can also be transmitted via the use of [[Drug injection|IV drug]] [[Hypodermic needle|needle]]s after its use by an infected person, as well as through [[childbirth]] or [[breastfeeding]]. Sexually transmitted infections have been well known for hundreds of years.  . 
+
+== Classification ==. 
+Until the 1990s, STDs were commonly known as ''venereal diseases'': ''Veneris'' is the  [[Latin]] [[genitive]] form of the name [[Venus (mythology)|Venus]], the [[Roman mythology|Roman goddess]] of love. ''Social disease'' was another euphemism.  . 
+
+''Sexually transmitted infection'' is a broader term than ''sexually transmitted disease''. <ref>[http://www.etharc.org/faq/faqstd.htm#P15_1221 Are sexually transmitted infections (STIs) different from sexually transmitted diseases (STDs)?]{{dead link|date=January 2011}}, Frequently asked questions (FAQ) About Sexually Transmitted Diseases (STDs), Ethiopian AIDS Resource Center  "Sometimes the terms STI and STD are used interchangeably. This can be confusing and not always accurate, so it helps first to understand the difference between infection and disease. Infection simply means that a [[Microorganism|germ]]—[[virus]], [[bacteria]], or [[parasite]]—that can cause disease or sickness is present inside a person’s body. An infected person does not necessarily have any symptoms or signs that the virus or bacteria is actually hurting his or her body; they do not necessarily feel sick. A disease means that the infection is actually causing the infected person to feel sick, or to notice something is wrong. For this reason, the term STI—which refers to infection with any germ that can cause an STD, even if the infected person has no symptoms—is a much broader term than STD."</ref> 
+An infection is a colonization by a parasitic species, which may not cause any adverse effects.  In a disease the infection leads to impaired or abnormal function.  In either case the condition may not exhibit signs or symptoms.  Increased understanding of infections like HPV, which infects most sexually active individuals but cause disease in only a few has led to increased use of the term STI.  [[Public health]] officials originally introduced the term ''sexually transmitted infection'', which clinicians are increasingly using alongside the term ''sexually transmitted disease'' in order to distinguish it from the former.{{citation needed|date=August 2011}}   . 
+
+STD may refer only to [[infection]]s that are causing [[disease]]s, or it may be used more loosely as a synonym for STI.  Because most of the time people do not know that they are infected with an STD until they are tested or start showing symptoms of [[disease]], most people use the term STD, even though the term STI is also appropriate in many cases.  . 
+
+Moreover, the term ''sexually transmissible disease'' is sometimes used since it is less restrictive in consideration of other factors or means of transmission.  For instance, [[meningitis]] is transmissible by means of sexual contact but is not labeled as an STI because sexual contact is not the primary [[Vector (epidemiology)|vector]] for the [[pathogen]]s that cause meningitis. This discrepancy is addressed by the probability of infection by means ''other than sexual contact''. In general, an STI is an infection that has a negligible probability of transmission by means other than sexual contact, but has a realistic means of transmission by sexual contact (more sophisticated means—[[blood transfusion]], sharing of [[hypodermic needle]]s—are not taken into account). Thus, one may presume that, if a person is infected with an STI, e.g., [[Chlamydia infection|chlamydia]], [[gonorrhea]], [[genital herpes]], it was transmitted to him/her by means of sexual contact.  . 
+
+The diseases on this list are most commonly transmitted solely by sexual activity. Many infectious diseases, including the [[common cold]], [[influenza]], [[pneumonia]], and most others that are transmitted person-to-person can also be transmitted during sexual contact, if one person is infected, due to the close contact involved. However, even though these diseases may be transmitted during sex, they are not considered STDs.  . 
+
+== Cause ==. 
+=== Bacterial ===. 
+* [[Chancroid]] (''[[Haemophilus ducreyi]]'')
+* [[Chlamydia infection|Chlamydia]] (''[[Chlamydia trachomatis]]'')
+* [[Granuloma inguinale]] or (''[[Klebsiella granulomatis]]'')
+* [[Gonorrhea]] (''[[Neisseria gonorrhoeae]]'')
+* [[Syphilis]] (''[[Treponema pallidum]]'') . 
+
+=== Fungal ===. 
+*[[Candidiasis]] (yeast infection) . 
+
+=== Viral ===. 
+[[Image:Herpes simplex virus pap test.jpg|thumb|right|[[Micrograph]] showing the viral [[cytopathic effect]] of herpes (ground glass nuclear inclusions, multi-nucleation). [[Pap test]]. [[Pap stain]].]]
+*[[Viral hepatitis]] ([[Hepatitis B virus]])—saliva, venereal fluids.  <br />(Note: [[Hepatitis A]] and [[Hepatitis E]] are transmitted via the [[fecal-oral route]]; [[Hepatitis C]] is rarely sexually transmittable,<!--
+    --><ref name=Workowski>{{cite journal |author=Workowski K, Berman S |title=Sexually transmitted diseases treatment guidelines, 2006. |journal=MMWR Recomm Rep |volume=55 |issue=RR–11 |pages=1–94 |year=2006 |pmid=16888612 |url=http://www.cdc.gov/mmwr/PDF/rr/rr5511.pdf}}</ref><!--
+--> and the route of transmission of [[Hepatitis D]] (only if infected with B) is uncertain, but may include sexual transmission. <ref>{{cite journal |author=Wu J, Chen C, Sheen I, Lee S, Tzeng H, Choo K |title=Evidence of transmission of hepatitis D virus to spouses from sequence analysis of the viral genome |journal=Hepatology |volume=22 |issue=6 |pages=1656–60 |year=1995 | doi=10.1002/hep.1840220607 |pmid=7489970}}</ref><ref>{{cite journal |author=Farci P |title=Delta hepatitis: an update |journal=J Hepatol |volume=39  |issue=Suppl 1 |pages=S212–9 |year=2003 |pmid=14708706 |doi=10.1016/S0168-8278(03)00331-3}}</ref><ref>{{cite journal |author=Shukla N, Poles M |title=Hepatitis B virus infection: co-infection with hepatitis C virus, hepatitis D virus, and human immunodeficiency virus |journal=Clin Liver Dis |volume=8 |issue=2 |pages=445–60, viii |year=2004 |pmid=15481349 |doi=10.1016/j.cld.2004.02.005}}</ref>)
+*[[Herpes simplex]] ([[Herpes simplex virus]] 1, 2) skin and mucosal, transmissible with or without visible blisters
+*[[HIV]] (''Human Immunodeficiency Virus'')—venereal fluids, semen, breast milk, blood
+*[[HPV]] (''Human Papillomavirus'')—skin and mucosal contact. 'High risk' types of HPV cause almost all [[cervical cancer]]s, as well as some [[anal cancer|anal]], [[penile cancer|penile]], and [[vulvar cancer]].  Some other types of HPV cause [[genital warts]]. 
+*[[Molluscum contagiosum]] ([[molluscum contagiosum virus]] MCV)—close contact . 
+
+=== Parasites ===. 
+*[[Crab louse]], colloquially known as "crabs" or "pubic lice" (''[[Pthirus pubis]]'')
+*[[Scabies]] (''[[Sarcoptes scabiei]]'') . 
+
+=== Protozoal ===. 
+*[[Trichomoniasis]] (''[[Trichomonas vaginalis]]'') . 
+
+=== Transmission probability ===. 
+The risks and transmission probabilities of sexually transmitted diseases are summarized by act in the table below. <ref>Department of Public Health, City & County of San Francisco (2011). [http://www.sfcityclinic.org/stdbasics/stdchart.asp STD Risks Chart]</ref><ref name="Varghese">{{ cite journal |author=Varghese B, Maher JE, Peterman TA, Branson BM,Steketee RW |title=Reducing the risk of sexual HIV transmission: quantifying the per-act risk for HIV on the basis of choice of partner, sex act, and condom use |journal=Sex. Transm. Dis. |year=2002 |pages=38–43 |volume=29 |issue=1 |pmid=11773877 |doi=10.1097/00007435-200201000-00007
+}}</ref><ref name="Jin_et_al">{{
+ cite journal |author=Jin F ''et al.'' |title=Per-contact probability of HIV transmission in homosexual men in Sydney in the era of HAART|journal=AIDS |volume=24 |issue=6|pages=907–913 |year=2010 |month=March |pmid=20139750 |doi= 10.1097/QAD.0b013e3283372d90 |pmc=2852627
+}}</ref><ref name="Hoare">Hoare A (2010). [http://unsworks.unsw.edu.au/fapi/datastream/unsworks:9027/SOURCE02 models of HIV epidemics in Australia and Southeast Asia]</ref><ref name="Burchell_et_al">{{
+ cite journal |author=Burchell A ''et al.'' |title=Modeling the Sexual Transmissibility of Human Papillomavirus Infection using Stochastic Computer Simulation and Empirical Data from a Cohort Study of Young Women in Montreal, Canada|journal=American Journal of Epidemology |volume=169 |issue=3 |pages=534–543 |year=2006 |month=March|pmid= |doi= 10.1093/aje/kwj077 |pmc=}}</ref><ref name="ashm">Australasian contact tracing manual. [http://ctm.ashm.org.au/Default.asp?PublicationID=6&ParentSectionID=694&SectionID=670 Specific infections where contact tracing is generally recommended]</ref><ref name="bryan">Bryan C (2011)[http://pathmicro.med.sc.edu/infectious%20disease/sexually%20transmitted%20diseases.htm INFECTIOUS DISEASE CHAPTER EIGHT SEXUALLY TRANSMITTED DISEASES]</ref> . 
+
+{| class="wikitable" style = "margin-left:15px; text-align:center"
+! colspan="4" style="background-color:lightgray;font-size:120%;" | Odds of transmission per unprotected sexual act with an infected person
+. |-
+|
+! scope="col" | Known risks
+! scope="col" | Possible or unknown risks
+. |-
+! scope="row" | [[Fellatio|Performing oral sex on a man]]
+| 
+*[[Chlamydia infection|Chlamydia]]
+*[[Gonorrhea]] (25–30%)
+*[[Herpes simplex|Herpes]] (rare)
+*[[Human papillomavirus|HPV]]
+*[[Syphilis]] (1%)<ref name=Hoare />
+With [[ass to mouth]] practices:
+*[[Hepatitis A]]
+*[[Shigellosis|Shigella]]
+| 
+*[[Hepatitis B]] (low risk)<ref name=ashm />
+*[[HIV]] (very low risk; 0.01%)<ref name=Varghese />
+*[[Hepatitis C]] (unknown)
+. |-
+! scope="row" | [[Cunnilingus|Performing oral sex on a woman]]
+| 
+*[[Herpes simplex|Herpes]] (1%)
+| 
+*[[Human papillomavirus|HPV]]
+. |-
+! scope="row" | [[Fellatio|Receiving oral sex—man]]
+| 
+*[[Chlamydia infection|Chlamydia]]
+*[[Gonorrhea]]
+*[[Non-gonococcal urethritis]]
+*[[Herpes simplex|Herpes]]
+*[[Syphilis]] (1%)<ref name=Hoare />
+| 
+*[[Human papillomavirus|HPV]]
+. |-
+! scope="row" | [[Cunnilingus|Receiving oral sex—woman]]
+| 
+*[[Herpes simplex|Herpes]]
+*[[MRSA]]
+| 
+*[[Human papillomavirus|HPV]]
+. |- . 
+
+! scope="row" | [[Sexual intercourse|Vaginal sex—man]]
+| 
+*[[Chlamydia infection|Chlamydia]] (30–50%)<ref name="ashm" />
+*[[Crab louse|Crabs]]
+*[[Scabies]]
+*[[Gonorrhea]] (20%)<ref name="bryan"/>
+*[[Hepatitis B]]
+*[[Herpes simplex|Herpes]]
+*[[HIV]] (0.05%)<ref name="Varghese" />
+*[[Human papillomavirus|HPV]]  (at least 5%)<ref name="Burchell_et_al" />
+*[[Non-gonococcal urethritis]]
+*[[Syphilis]]
+*[[Trichomoniasis]]
+| 
+*[[Hepatitis C]]
+. |-
+! scope="row" | [[Sexual intercourse|Vaginal sex—woman]]
+| 
+*[[Chlamydia infection|Chlamydia]] (30–50%)<ref name="ashm" />
+*[[Crab louse|Crabs]]
+*[[Scabies]]
+*[[Gonorrhea]] (50–90%)<ref name="bryan" />
+*[[Hepatitis B]] (50–70%)
+*[[Herpes simplex|Herpes]]
+*[[HIV]] (0.1%)<ref name="Varghese" />
+*[[Human papillomavirus|HPV]] (high;<ref name="ashm" /> at least 5%)<ref name="Burchell_et_al" />
+*[[Syphilis]]
+*[[Trichomoniasis]]
+| 
+*[[Hepatitis C]]
+. |-
+! scope="row" | [[Anal sex|Anal sex—insertive]] 
+| 
+*[[Chlamydia infection|Chlamydia]]
+*[[Crab louse|Crabs]]
+*[[Scabies]] (40%)
+*[[Gonorrhea]]
+*[[Hepatitis B]]
+*[[Herpes simplex|Herpes]]
+*[[HIV]] (0.62%)<ref name="Jin_et_al"/>
+*[[Human papillomavirus|HPV]]
+*[[Non-gonococcal urethritis]]
+*[[Syphilis]] (14%)<ref name="Hoare" />
+| 
+*[[Hepatitis C]]
+. |-
+! scope="row" | [[Anal sex|Anal sex—receptive]]
+| 
+*[[Chlamydia infection|Chlamydia]]
+*[[Crab louse|Crabs]]
+*[[Scabies]]
+*[[Gonorrhea]]
+*[[Hepatitis B]]
+*[[Herpes simplex|Herpes]]
+*[[HIV]] (1.7%)<ref name="Jin_et_al"/>
+*[[Human papillomavirus|HPV]]
+*[[Syphilis]] (1.4%) <ref name="Hoare" />
+| 
+*[[Hepatitis C]]
+. |-
+! scope="row" | [[Anilingus|Oral-anal sex]]
+| 
+*[[Amebiasis]]
+*[[Cryptosporidiosis]] (1%)
+*[[Giardiasis]]
+*[[Hepatitis A]] (1%)
+*[[Shigellosis]] (1%)
+| 
+*[[Human papillomavirus|HPV]] (1%)
+. |-
+|} . 
+
+== Pathophysiology ==. 
+Many STDs are (more easily) transmitted through the [[mucous membrane]]s of the [[penis]], [[vulva]], [[rectum]], [[urinary tract]] and (less often—depending on type of infection){{Citation needed|date=December 2007}} the [[mouth]], [[throat]], [[respiratory tract]] and [[Human eyes|eyes]]. The visible membrane covering the [[glans penis|head of the penis]] is a mucous membrane, though it produces no [[mucus]] (similar to the [[lip]]s of the mouth). Mucous membranes differ from [[skin]] in that they allow certain pathogens into the body. <ref>[http://www.microbiologybytes.com/virology/VirPath.html Virus Pathogenesis], Microbiology Bytes</ref>  Pathogens are also able to pass through breaks or abrasions of the skin, even minute ones.  The shaft of the penis is particularly susceptible due to the friction caused during penetrative sex.  The primary sources of infection in ascending order are venereal fluids, saliva, mucosal or skin (particularly the penis), infections may also be transmitted from feces, urine and sweat. <ref>[http://go.worldbank.org/QTULIN4ZZ0 HIV/AIDS Glossary], World Bank</ref>{{Dubious|date=August 2010}}  The amount of contact with infective sources which causes infection varies with each pathogen but in all cases a disease may result from even light contact from fluid carriers like venereal fluids onto a mucous membrane.  . 
+
+This is one reason that the probability of transmitting many infections is far higher from sex than by more casual means of transmission, such as non-sexual contact—touching, hugging, shaking hands—but it is not the only reason. Although [[mucous membrane]]s exist in the mouth as in the genitals, many STIs seem to be easier to transmit through [[oral sex]] than through deep kissing. According to a safe sex chart, many infections that are easily transmitted from the mouth to the genitals or from the genitals to the mouth, are much harder to transmit from one mouth to another. <ref>[http://www.tinynibbles.com/safesexchart.html Safe Sex Chart], violet blue: open source sex</ref> With [[HIV]], [[genital]] fluids happen to contain much more of the [[pathogen]] than [[saliva]]. Some infections labeled as STIs can be transmitted by direct [[skin]] contact. [[Herpes simplex]] and [[HPV]] are both examples. [[Kaposi's sarcoma-associated herpesvirus|KSHV]], on the other hand, may be transmitted by deep-kissing but also when saliva is used as a sexual lubricant.  . 
+
+Depending on the STD, a person may still be able to spread the infection if no signs of disease are present. For example, a person is much more likely to spread [[herpes]] infection when [[blister]]s are present (STD) than when they are absent (STI). However, a person can spread [[HIV]] infection (STI) at any time, even if he/she has not developed symptoms of [[AIDS]] (STD).  . 
+
+''All'' [[human sexual behavior|sexual behaviors]] that involve contact with the bodily fluids of another person should be considered to contain some risk of transmission of sexually transmitted diseases. Most attention has focused on controlling [[HIV]], which causes [[AIDS]], but each STD presents a different situation.  . 
+
+As may be noted from the name, sexually transmitted diseases are ''transmitted'' from one person to another by certain sexual activities rather than being actually ''caused by'' those sexual activities. [[Bacterium|Bacteria]], [[fungi]], [[protozoa]] or [[virus]]es are still the causative agents. It is not possible to catch any sexually transmitted disease from a sexual activity with a person who is not carrying a disease; conversely, a person who has an STD got it from contact (sexual or otherwise) with someone who had it, or his/her bodily fluids. Some STDs such as HIV can be transmitted from mother to child either during pregnancy or breastfeeding.  . 
+
+Although the likelihood of transmitting various diseases by various sexual activities varies a great deal, in general, all sexual activities between two (or more) people should be considered as being a two-way route for the transmission of STDs, i.e., "giving" or "receiving" are both risky although receiving carries a higher risk.  . 
+
+Healthcare professionals suggest [[safer sex]], such as the use of [[condoms]], as the most reliable way of decreasing the risk of contracting sexually transmitted diseases during sexual activity, but safer sex should by no means be considered an absolute safeguard. The transfer of and exposure to bodily fluids, such as [[blood transfusion]]s and other blood products, sharing injection [[Intravenous therapy|needles]], needle-stick injuries (when medical staff are inadvertently jabbed or pricked with needles during medical procedures), sharing [[tattoo]] needles, and childbirth are other avenues of transmission. These different means put certain groups, such as medical workers, and [[haemophilia]]cs and drug users, particularly at risk.  . 
+
+Recent [[epidemiology|epidemiological]] studies have investigated the networks that are defined by sexual relationships between individuals, and discovered that the properties of [[sexual network]]s are crucial to the spread of sexually transmitted diseases. In particular, [[assortative mixing]] between people with large numbers of sexual partners seems to be an important factor.  . 
+
+It is possible to be an [[symptom|asymptomatic]] carrier of sexually transmitted diseases. In particular, sexually transmitted diseases in women often cause the serious condition of [[pelvic inflammatory disease]].  . 
+
+== Prevention ==. 
+[[File:Sanfranciscocityclinicnight.jpeg|thumb|right|[[San Francisco City Clinic]] a municipal STD testing center in [[San Francisco, California|San Francisco]].]]
+{{Main|Safe sex}}
+Prevention is key in addressing incurable STIs, such as HIV & herpes. [[Sexual health clinic]]s fight to promote the use of condoms and provide outreach for at-risk communities.  . 
+
+The most effective way to prevent sexual transmission of STIs is to avoid contact of body parts or fluids which can lead to transfer with an infected partner. Not all sexual activities involve contact: [[cybersex]], [[phonesex]] or [[masturbation]] from a distance are methods of avoiding contact. Proper use of [[condom]]s reduces contact and risk. Although a condom is effective in limiting exposure, some disease transmission may occur even with a condom. <ref>{{cite web |last=Villhauer |first=Tanya |title=Condoms Preventing HPV? |publisher=University of Iowa Student Health Service/Health Iowa |date=2005-05-20 |url=http://www.uistudenthealth.com/question/default.aspx?q=738 |accessdate=2009-07-26 }}</ref> . 
+
+Ideally, both partners should get tested for STIs before initiating sexual contact, or before resuming contact if a partner engaged in contact with someone else.  Many infections are not detectable immediately after exposure, so enough time must be allowed between possible exposures and testing for the tests to be accurate.  Certain STIs, particularly certain persistent viruses like HPV, may be impossible to detect with current medical procedures.  . 
+
+Many diseases that establish permanent infections can so occupy the immune system that other diseases become more easily transmitted.  The [[innate immune system]] led by [[defensins]] against HIV can prevent transmission of HIV when viral counts are very low, but if busy with other viruses or overwhelmed, HIV can establish itself.  Certain viral STI's also greatly increase the risk of death for HIV infected patients.  . 
+
+=== Vaccines ===. 
+Vaccines are available that protect against some viral STIs, such as [[Hepatitis A vaccine|Hepatitis A]], [[Hepatitis B vaccine|Hepatitis B]], and some types of [[HPV vaccine|HPV]].  Vaccination before initiation of sexual contact is advised to assure maximal protection.  . 
+
+=== Condoms ===. 
+[[Condom]]s and [[female condom]]s only provide protection when used properly as a barrier, and only to and from the area that it covers.  ''Uncovered areas are still susceptible to many STDs''.  In the case of HIV, sexual transmission routes almost always involve the penis, as HIV cannot spread through unbroken skin, thus ''properly shielding the insertive penis with a properly worn condom from the vagina or anus effectively stops HIV transmission''.  An infected fluid to broken skin borne direct transmission of HIV would not be considered "sexually transmitted", but can still theoretically occur during sexual contact, this can be avoided simply by not engaging in sexual contact when having open bleeding wounds.  Other STDs, even viral infections, can be prevented with the use of latex, polyurethane or polyisoprene condoms as a barrier.  Some microorganisms and viruses are small enough to pass through the pores in natural skin condoms, but are still too large to pass through latex or synthetic condoms.  . 
+
+Proper usage entails:
+*Not putting the condom on too tight at the end, and leaving 1.5&nbsp;cm (3/4&nbsp;inch) room at the tip for [[ejaculation]].  Putting the condom on snug can and often does lead to failure. 
+*Wearing a condom too loose can defeat the barrier. 
+*Avoiding inverting, spilling a condom once worn, whether it has ejaculate in it or not. 
+*Avoiding condoms made of substances other than latex, polyisoprene or polyurethane that do not protect against HIV. 
+*Avoiding the use of oil based lubricants (or anything with oil in it) with latex condoms, as oil can eat holes into them. 
+*Using flavored condoms for '''oral sex only''', as the sugar in the flavoring can lead to yeast infections if used to penetrate.  . 
+
+Not following the first five guidelines above perpetuates the common misconception that condoms are not tested or designed properly.{{citation needed|date=August 2011}} . 
+
+In order to best protect oneself and the partner from STIs, the old condom and its contents should be assumed to be infectious.  Therefore the old condom must be properly disposed of.  A new condom should be used for each act of intercourse, as multiple usage increases the chance of breakage, defeating the effectiveness as a barrier.  . 
+
+=== Nonoxynol-9 ===. 
+Researchers had hoped that [[nonoxynol-9]], a vaginal microbicide would help decrease STD rates.  Trials, however, have found it ineffective. <ref>{{cite journal |author=Wilkinson D, Ramjee G, Tholandi M, Rutherford G |title=Nonoxynol-9 for preventing vaginal acquisition of sexually transmitted infections by women from men |journal=Cochrane Database Syst Rev |volume= |issue=4 |pages=CD003939 |year=2002 |pmid=12519623 |doi=10.1002/14651858.CD003939 |url= |editor1-last=Wilkinson |editor1-first=David}}</ref>  In fact, the use of nonoxynol-9 can put women at a higher risk of HIV infection. <ref>Williams, M. ''Healthy Choices for Fertility Control''. CreateSpace, Scotts Valley, CA, 2009. ISBN 1448664721</ref> . 
+
+== Diagnosis ==. 
+STI [[medical test|tests]] may test for a single infection, or consist of a number of individual tests for any of a wide range of STIs, including tests for [[syphilis]], [[trichomonas]], [[gonorrhea]], [[Chlamydia infection|chlamydia]], [[herpes]], [[hepatitis]] and [[HIV test]]s. No procedure tests for all infectious agents.  . 
+
+STI tests may be used for a number of reasons:
+* as a [[diagnostic test]] to determine the cause of symptoms or illness
+* as a [[screening test]] to detect asymptomatic or presymptomatic [[infection]]s
+* as a check that prospective sexual partners are free of disease before they engage in sex without [[safer sex]] precautions (for example, when starting a long term mutually monogamous sexual relationship, in [[Bareback (sex)#Fluid bonding|fluid bonding]], or for procreation). 
+* as a check prior to or during pregnancy, to prevent harm to the baby
+* as a check after birth, to check that the baby has not caught an STI from the mother
+* to prevent the use of infected [[blood donation|donated blood]] or [[organ donation|organ]]s
+* as part of the process of [[contact tracing]] from a known infected individual
+* as part of mass [[epidemiological]] surveillance . 
+
+Not all STIs are [[symptom]]atic, and symptoms may not appear immediately after infection. In some instances a disease can be carried with no symptoms, which leaves a greater risk of passing the disease on to others. Depending on the disease, some untreated STIs can lead to  [[infertility]], [[chronic pain]] or even death. <ref name="STI video">{{cite web|url=http://sexperienceuk.channel4.com/education/about/male-sti-check-up|title=Male STI check-up video|accessdate=2009-01-22|publisher=Channel 4|year=2008}}</ref>  Early identification and treatment results in less chance to spread disease, and for some conditions may improve the outcomes of treatment.  . 
+
+There is often a [[window period]] after initial infection during which an STI test will be negative.  During this period the infection may be transmissible.  The duration of this period varies depending on the infection and the test.  . 
+
+Diagnosis may also be delayed by reluctance of the infected person to seek a medical professional. One report indicated that afflicted people turn to the Internet rather than to a medical professional for information on STIs to a higher degree than for other sexual problems. <ref name=Quilliam2011>[http://www.medscape.com/viewarticle/743689_3 'The Cringe Report'] By Susan Quilliam. Posted: 06/28/2011; J Fam Plann Reprod Health Care. 2011;37(2):110-112. </ref> . 
+
+=== STD Wizard === . 
+
+The STD Wizard is a publicly available [[expert system]] for determining which screening tests, [[vaccinations]], and evaluations are recommended, related to sexually transmitted diseases. The information included within the STD Wizard is based on the [[Centers for Disease Control and Prevention]] "Sexually Transmitted Diseases Treatment Guidelines - 2006". The system has English and Spanish language interfaces.  . 
+
+The STD Wizard runs in a web browser. The program asks a series of questions, related to demographics, behaviors, and symptoms. There are potentially over 100 questions, but most users get asked about 20. The exact questions asked depend on the user's responses. Typical questions include:
+* ''Demographics'' - How old are you, in years?
+* ''Behaviors'' - Have you had more than one sex partner within the past six months?
+* ''Symptoms'' - Are you having a discharge from your penis or burning during urination? . 
+
+Typical recommendations include:
+* ''Screening tests'' - e.g., [[HIV test|HIV screening test]]
+* ''Vaccinations'' - e.g., [[Hepatitis B vaccine|Hepatitis B vaccination]]
+* ''Evaluations'' - e.g., Seek medical attention in the next week for rash . 
+
+== Management ==. 
+High risk exposure such as that which occurs in rape cases may be treated prophylacticly using antibiotic combinations such as [[azithromycin]], [[cefixime]], and [[metronidazole]].  . 
+
+An option for treating partners of patients ([[index case]]s) diagnosed with [[Chlamydia infection|chlamydia]] or [[gonorrhea]] is [[patient-delivered partner therapy]], which is the clinical practice of treating the sex partners of index cases by providing prescriptions or medications to the patient to take to his/her partner without the health care provider first examining the partner. <ref name=EPTFinalReport2006>[http://www.cdc.gov/std/treatment/EPTFinalReport2006.pdf Expedited Partner Therapy in the Management of Sexually Transmitted Diseases (2 February 2006)] U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES PUBLIC HEALTH SERVICE. Centers for Disease Control and Prevention National Center for HIV, STD, and TB Prevention</ref> . 
+
+== Epidemiology ==. 
+[[Image:STDs excluding HIV world map - DALY - WHO2004.svg|thumb|Age-standardized, [[disability-adjusted life years]] for STDs (''excluding HIV'') per 100,000 inhabitants in 2004. <ref>{{cite web |url=http://www.who.int/healthinfo/global_burden_disease/estimates_country/en/index.html |title=WHO Disease and injury country estimates |year=2004 |work=World Health Organization |accessdate=Nov. 11, 2009}}</ref> 
+{{Multicol}} 
+{{legend|#b3b3b3|no data}}
+{{legend|#ffff65|<&nbsp;60}}
+{{legend|#fff200|60–120}}
+{{legend|#ffdc00|120–180}}
+{{legend|#ffc600|180–240}}
+{{legend|#ffb000|240–300}}
+{{legend|#ff9a00|300–360}}
+{{Multicol-break}} 
+{{legend|#ff8400|360–420}}
+{{legend|#ff6e00|420–480}}
+{{legend|#ff5800|480–540}}
+{{legend|#ff4200|540–600}}
+{{legend|#ff2c00|600–1000}}
+{{legend|#cb0000|>&nbsp;1000}}
+{{Multicol-end}}]]
+STD incidence rates remain high in most of the world, despite diagnostic and therapeutic advances that can rapidly render patients with many STDs noninfectious and cure most. In many cultures, changing sexual morals and oral contraceptive use have eliminated traditional sexual restraints, especially for women, and both physicians and patients have difficulty dealing openly and candidly with sexual issues. Additionally, development and spread of [[drug resistance|drug-resistant bacteria]] (e.g., penicillin-resistant gonococci) makes some STDs harder to cure. The effect of travel is most dramatically illustrated by the rapid spread of the [[AIDS]] virus ([[HIV-1]]) from Africa to Europe and the Americas in the late 1970s. <ref name=AMN>{{cite journal | author = Mary-Ann Shafer, Anna-Barbara Moscicki | title = Sexually Transmitted Infections, 2006  | url = http://www.health.am/sex/more/sexually_transmitted_infections/ | journal = | volume = | issue = | pages = 1–8 | year = 2006}}</ref> . 
+
+In 1996, the [[World Health Organization]] estimated that more than 1 million people were being infected daily. About 60% of these infections occur in young people <25 years of age, and of these 30% are <20 years. Between the ages of 14 and 19, STDs occur more frequently in girls than boys by a ratio of nearly 2:1; this equalizes by age 20. An estimated 340 million new cases of syphilis, gonorrhea, chlamydia and trichomoniasis occurred throughout the world in 1999. <ref>{{cite web|url=http://www.avert.org/stdstatisticsworldwide.htm |title=STD Statistics Worldwide |publisher=Avert.org |date= |accessdate=2011-01-09}}</ref><ref>[http://www.usmedicine.com/dailyNews.cfm?dailyID=59 U.S. Medicine Information Central]{{dead link|date=January 2011}}</ref> . 
+
+Commonly reported prevalences of STIs among sexually active adolescent girls both with and without lower genital tract symptoms include [[Chlamydia infection|chlamydia]] (10–25%), [[gonorrhea]] (3–18%), [[syphilis]] (0–3%), [[Trichomonas vaginalis]] (8–16%), and [[herpes]] simplex virus (2–12%).{{Citation needed|date=February 2007}} Among adolescent boys with no symptoms of urethritis, isolation rates include chlamydia (9–11%) and gonorrhea (2–3%).{{Citation needed|date=February 2007}} At least one in four U.S. teenage girls has a sexually transmitted disease,<ref>"[http://www.sciencedaily.com/releases/2008/03/080312084645.htm One In Four Teenage Girls In U.S. Has Sexually Transmitted Disease, CDC Study Shows]". ''[[Science Daily]]''. March 12, 2008. </ref> a [[Centers for Disease Control and Prevention|CDC]] study found. <ref>"[http://www.nytimes.com/2008/03/12/science/12std.html?_r=1 Sex Infections Found in Quarter of Teenage Girls]". [[The New York Times]]. March 12, 2008. </ref> Among girls who admitted ever having sex, the rate was 40%. <ref>"[http://newsok.com/article/3214748/1205233095 CDC study says at least 1 in 4 teen girls has a sexually transmitted disease; HPV most common]". [[The Oklahoman]]. March 11, 2008. </ref> . 
+
+[[AIDS]] is the single largest cause of mortality in present-day [[Sub-Saharan Africa]]. <ref>{{cite web
+| author =[[Joint United Nations Programme on HIV/AIDS|UNAIDS]], [[World Health Organization|WHO]]
+| month = December | year = 2007
+| title = 2007 AIDS epidemic update
+| url= http://data.unaids.org/pub/EPISlides/2007/2007_epiupdate_en.pdf
+| accessdate = 2008-03-12
+| format= PDF
+}}</ref> The majority of [[HIV]] infections are acquired through unprotected sexual relations between partners, one of whom has HIV. Approximately 1.1 million persons are living with HIV/AIDS in the [[United States]],<ref>"[http://blogs.abcnews.com/politicalpunch/2009/10/obama-ends-travel-ban-on-foreigners-with-hivaids.html Obama Ends U.S. Travel Ban On Visitors, Immigrants With HIV-AIDS]". [[ABC News]]. October 30, 2009. </ref> and AIDS remains the leading cause of death among [[African American]] women between ages 25 and 34. <ref>"[http://www.cnn.com/2008/HEALTH/conditions/07/29/black.aids.report/index.html Report: Black U.S. AIDS rates rival some African nations]". [[CNN.com]]. July 29, 2008. </ref> [[Hepatitis B]] is also classed as a sexually transmitted disease because it can be passed on sexually. <ref>"[http://www.health.state.mn.us/divs/idepc/diseases/hepb/hepbstd.html Hepatitis: Type B (caused by hepatitis B virus)]". Minnesota Department of Health. </ref> The disease is found globally, with the highest rates in Asia and Africa and lower rates in the Americas and Europe. <ref>"[http://www.fda.gov/ohrms/dockets/ac/02/slides/3885S2_02_Hoofnagle/tsld002.htm Hepatitis B]". U.S. Food and Drug Administration. </ref> Worldwide, an estimated two billion people have been infected with the hepatitis B virus. <ref>{{cite web|title=FAQ about Hepatitis B|url=http://liver.stanford.edu/Education/faq.html|publisher=Stanford School of Medicine|date=2008-07-10|accessdate=2009-09-19}}</ref> . 
+
+== History ==. 
+[[File:Syphilis false shame and fear may destroy your future.png|right|thumb|1930s [[Works Progress Administration]] poster]] . 
+
+The first well-recorded European outbreak of what is now known as [[syphilis]] occurred in 1494 when it broke out among French troops besieging [[Naples]]. <ref name=Scars_of_Venus>{{cite book | author=Oriel, J.D. | title=The Scars of Venus: A History of Venereology | location=London | publisher= Springer-Verlag | year=1994 | isbn=354019844X }}</ref> From this centre, the disease swept across [[Europe]], killing more than five million people. <ref>{{cite news
+|url = http://www.cbc.ca/health/story/2008/01/14/syphilis-columbus.html
+|title = Study traces origins of syphilis in Europe to New World
+|accessdate = 2008-01-15
+|last = CBC News Staff
+|authorlink =
+|year = 2008
+|month = January}}</ref> As [[Jared Diamond]] describes it, "[W]hen syphilis was first definitely recorded in Europe in 1495, its [[pustule]]s often covered the body from the head to the knees, caused flesh to fall from people's faces, and led to death within a few months," rendering it far more [[case fatality rate|fatal]] than it is today. Diamond concludes,"[B]y 1546, the disease had evolved into the disease with the symptoms so well known to us today."<ref name=Diamond1>{{cite book | author=Diamond, Jared | year=1997 | title=Guns, Germs and Steel | location=New York | publisher=W.W. Norton | page=210 | isbn=848306667X}}</ref>  . 
+
+Prior to the invention of modern medicines, sexually transmitted diseases were generally incurable, and treatment was limited to treating the symptoms of the disease. The first voluntary hospital for venereal diseases was founded in 1746 at [[London Lock Hospital]]. <ref name="AIM-Albert">Archives in London and the M25 area ([http://www.aim25.ac.uk/index.stm AIM25]) [http://www.aim25.ac.uk/cgi-bin/search2?coll_id=859&inst_id=9 London Lock Hospital records]</ref> Treatment was not always voluntary: in the second half of the 19th century, the [[Contagious Diseases Act]] was used to arrest suspected prostitutes.  . 
+
+The first effective treatment for a sexually transmitted disease was [[Arsphenamine|salvarsan]], a treatment for syphilis. With the discovery of [[antibiotic]]s, a large number of  sexually transmitted diseases became easily curable, and this, combined with effective public health campaigns against STDs, led to a public perception during the 1960s and 1970s that they have ceased to be a serious medical threat.  . 
+
+During this period, the importance of [[contact tracing]] in treating STIs was recognized. By tracing the sexual partners of infected individuals, testing them for infection, treating the infected and tracing their contacts in turn, STI clinics could be very effective at suppressing infections in the general population.  . 
+
+In the 1980s, first [[genital herpes]] and then [[AIDS]] emerged into the public consciousness as sexually transmitted diseases that could not be cured by modern medicine. AIDS in particular has a long asymptomatic period—during which time [[HIV]] (the human immunodeficiency virus, which causes AIDS) can replicate and the disease can be transmitted to others—followed by a symptomatic period, which leads rapidly to death unless treated. HIV/AIDS entered the United States in about 1969 likely through a single infected immigrant from Haiti. <ref>{{cite journal
+|author=Gilbert MT, Rambaut A, Wlasiuk G, Spira TJ, Pitchenik AE, Worobey M
+|title=The emergence of HIV/AIDS in the Americas and beyond
+|journal=Proc. Natl. Acad. Sci. U.S.A. 
+|volume=104 |issue=47 |pages=18566–70
+|year=2007 |month=November
+|pmid=17978186 |pmc=2141817 |doi=10.1073/pnas.0705329104
+|url=http://www.pnas.org/cgi/pmidlookup?view=long&pmid=17978186
+|accessdate=March 20, 2010
+}}</ref> Recognition that AIDS threatened a global [[pandemic]] led to public information campaigns and the development of treatments that allow AIDS to be managed by suppressing the replication of HIV for as long as possible. Contact tracing continues to be an important measure, even when diseases are incurable, as it helps to contain infection. 
+{{-}} . 
+
+== References ==. 
+{{Reflist|30em}} . 
+
+==Further reading ==. 
+{{refbegin}}
+* {{Cite book |last = Aral |first =Sevgi O |coauthor= |year =2008 |title = Behavioral Interventions for Prevention and Control of Sexually Transmitted Diseases|url=http://books.google.ca/books?id=F1RIOW0x5gAC&lpg=PR1&dq=Sexually%20transmitted%20disease&pg=PR1#v=onepage&q&f=true |publisher= : Springer Singapore Pte. Limited|isbn=9780387857688  |accessdate = |postscript = <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}
+* {{Cite book |last = Faro |first = Sebastian|coauthor= |year = 2003|title =Sexually transmitted diseases in women
+  |url =http://books.google.ca/books?id=l0xZNxirdx0C&lpg=PP1&dq=Sexually%20transmitted%20disease&pg=PP1#v=onepage&q&f=true|publisher=Lippincott Williams & Wilkins |isbn= 0397513038|accessdate = |postscript = <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}
+* {{Cite book |last = Ford |first =Carol A |coauthor= Elizabeth Shimer Bowers |year =2009 |title = Living with Sexually Transmitted Diseases|url = http://books.google.ca/books?id=kSVqn-w8kSUC&lpg=PA17&dq=Sexually%20transmitted%20disease&pg=PP1#v=onepage&q&f=true|publisher=Facts On File |isbn=9780816076727 |accessdate = |postscript = <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}
+* {{Cite book |last =Sehgal |first =Virendra N |edition=4th  |coauthor= |year =2003 |title = Sexually Transmitted Diseases
+ |url = http://books.google.ca/books?id=VORwYIzp__wC&lpg=PP1&dq=Sexually%20transmitted%20disease&pg=PP1#v=onepage&q&f=true|publisher=Jaypee Bros. Medical Publishers |isbn= 8180611051 |accessdate = |postscript =<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}
+* {{Cite book |last =Shoquist |first = Jennifer |coauthor=  Diane Stafford|year = 2003|title =The encyclopedia of sexually transmitted diseases|url =http://books.google.ca/books?id=LFMvJNyVoUgC&lpg=PA177&dq=Sexually%20transmitted%20disease&pg=PP1#v=onepage&q&f=true |publisher= Facts On File|isbn=0816048819  |accessdate = |postscript =<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}
+{{refend}} . 
+
+== External links ==. 
+*[http://www.cdc.gov/mmwr/preview/mmwrhtml/rr5912a1.htm CDC Sexually Transmitted Diseases Treatment Guidelines, 2010]
+* [http://www.cdc.gov/std/treatment/ Sexually Transmitted Diseases Treatment Guidelines - 2006]
+*[http://www.dermnet.com/moduleIndex.cfm?moduleID=16 STD photo library] at [[New Zealand Dermatological Society|Dermnet]]
+*[http://www.unfpa.org/rh/stis.htm UNFPA: Breaking the Cycle of Sexually Transmitted Infections] at [[United Nations Population Fund|UNFPA]]
+*[http://www3.niaid.nih.gov/topics/sti/ Sexually Transmitted Infections] from the [[National Institute of Allergy and Infectious Diseases]]
+*[http://www.stdsincolor.com/ STDs In Color: Sexually Transmitted Disease Facts and Photos]
+*[http://wonder.cdc.gov/std.html]: Sexually Transmitted Diseases in the U.S.  . 
+
+{{Reproductive health}}
+{{Sex}}
+{{STD/STI}} . 
+
+{{DEFAULTSORT:Sexually Transmitted Disease}}
+[[Category:Human sexuality]]
+[[Category:Sexually transmitted diseases and infections| ]]

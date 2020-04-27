@@ -1,0 +1,117 @@
+[[Image:Whitelee with arran in the background.jpg|450px|thumb|right|[[Whitelee Wind Farm]] with the [[Isle of Arran]] in the background.]]
+'''Wind power in Scotland''' is the country's fastest growing [[renewable energy]] technology, with 2574 [[megawatt|MW]] of installed capacity as of April 2011. <ref>[http://www.scottishrenewables.com/ Scottish Renewables]</ref> The [[Robin Rigg Wind Farm]] is a 180 MW development completed in April 2010, which is Scotland's first [[offshore wind farm]], sited on a sandbank in the [[Solway Firth]]. <ref>[http://www.offshorewindenergy.org/windfarms/display_data_windfarm.php?id=20  Windfarm: Robin Rigg]</ref><ref>[http://www.eon-uk.com/images/RobinRiggNewsletter.pdf Robin Rigg Offshore Wind FarmProject]</ref>
+The United Kingdom's largest [[wind farm]] (322 MW) is at [[Whitelee Wind Farm|Whitelee]] in [[East Renfrewshire]], which has a 217 MW extension under construction, set for completion in 2012. <ref>{{cite web |url=http://www.whiteleewindfarm.co.uk/about_windfarm/construction_updateconstruction_update?side |title=Whitelee Wind Farm Update |author= |date= |work= }}</ref> The [[Clyde Wind Farm]] is a 548 [[megawatt]] (MW) [[wind farm]] under construction near [[Abington, South Lanarkshire|Abington]] in [[South Lanarkshire]], [[Scotland]], which will be Europe's largest onshore wind farm when completed. <ref>[http://www.sse.com/Clyde SSE Clyde Project website]</ref> Two very large offshore [[wind turbine]]s (5 MW each) are located in the [[Moray Firth]]. There are many other large onshore [[wind farm]]s including some, both planned and operating, which are in [[Community wind energy|community ownership]]. The siting of turbines is sometimes an issue, but surveys have shown high levels of community acceptance for wind power in Scotland. There is further potential for expansion, especially offshore given the high average wind speeds, and a number of large offshore wind farms are planned.  . 
+
+The [[Scottish Government]] has a target of generating 31% of Scotland's electricity from [[renewable energy]] by 2011, and 100% by 2020, which was raised from 50% in September 2010. <ref>{{cite web |url=http://www.scotland.gov.uk/News/Releases/2010/09/23134359 |title=Target for renewable energy now 80 per cent |date=23 September 2010 |publisher=Scottish Government }}</ref> The majority of this is likely to come from wind power. <ref name=white/> . 
+
+==Current offshore wind turbines==. 
+[[Image:Wind turbine at Nigg.jpg|right|thumb|[[REpower]] 5 MW wind turbine under construction at Nigg fabrication yard on the [[Cromarty Firth]]]]
+Scotland's first offshore wind turbine was placed near the Beatrice Oil Field, 15 miles off the east coast in the Moray Firth, [[North Sea]], in August 2006. This was the world's largest wind turbine at the time, an [[REpower]] 5M, with a maximum output of 5[[megawatt|MW]]. A second identical turbine joined it and the wind farm began supplying electricity in August 2007. <ref>[http://www.beatricewind.co.uk/timeline/ Beatrice Wind timeline]</ref> As of February 2010, [[Beatrice Wind Farm]] is the deepest and northernmost offshore wind installation in the world. <ref>[http://www.myiris.com/newsCentre/storyShow.php?fileR=20100201131449194&dir=2010/02/01&secID=livenews. "Beatrice is currently the northernmost and deepest offshore wind farm in the world"]</ref> . 
+
+This was the first time such large offshore wind turbines had been tested, and the first time any wind turbine generators have been assembled in such deep (44&nbsp;metres) water. <ref name=reuk>[http://www.reuk.co.uk/Worlds-Largest-Wind-Turbine-Generator.htm World's Largest Wind Turbine Generator]</ref>  Such large wind turbine generators are ideally suited to the offshore environment due to high consistent wind speeds and minimal turbulence. According to historical measures of wind speeds at the Beatrice offshore location, it is expected that the turbines will run 96% of the time (8440 hours per year), and at 10 MW full power 38% of the time (3300 hours per year). <ref name= reuk/> . 
+
+==Large wind farms==. 
+===Black Law Wind Farm===. 
+[[Image:Black Law Wind Farm - geograph.org.uk - 166862.jpg|thumb|Black Law Wind Farm with the [[Pentland Hills]] in the background]]
+The 54-turbine [[Black Law Wind Farm]] has a total capacity of 124 MW. <ref name= spr> [http://www.scottishpowerrenewables.com/pages/press_releases.asp?article=28&date_year=2008 Thousands Flock To Black Law Windfarm Open Day]</ref> It is located near Forth in Lanarkshire and was built on old [[Coal mining#Modern surface mining|opencast coalmine]] site, with an original capacity of 97 MW<ref name= bwea> [http://www.bwea.com/media/news/060213_bl.html UK's most powerful wind farm could power Paisley]</ref> from 42 turbines. It employs seven permanent staff on site and created 200 jobs during construction. A second phase saw the installation of a further 12 turbines. The project has received wide recognition for its contribution to environmental objectives. <ref name= bwea/> Over the period April 2009 to March 2010, Black Law Wind Farm produced 19.19% of its rated capacity. <ref name=clowd>[http://www.clowd.org.uk/Downloads/UK%20Renewable%20Energy%20Generation/2009/UK%20Renewable%20Generation%20Summary%20Compliance%20April%202009%20to%20March%202010.pdf UK Renewable Energy Generation - Summary April 2009 to March 2010]</ref> . 
+
+===Braes of Doune Wind Farm===. 
+The [[Braes of Doune Wind Farm]] opened in 2007 and is located close to [[Stirling]]. The wind farm has 36 [[Vestas]] 2 [[megawatt]] [[wind]] [[turbine]]s. The farm was built and is run by [[Airtricity]]. <ref>[http://www.airtricity.com/international/wind_farms/scotland/operating/braes_of_doune/ Braes of Doune]</ref> . 
+
+===Farr Wind Farm===. 
+[[Farr Wind Farm]] is located some 10 miles south of [[Inverness]], and comprises 40 wind turbines with a total installed capacity of 92 MW.  Every year the wind farm generates enough clean electricity to meet the average annual needs of some 54,000 homes. <ref>[http://www.npower-renewables.com/farr/index.asp Farr Wind Farm]</ref> . 
+
+===Hadyard Hill Wind Farm===. 
+[[Image:Wind Turbines - Hadyard Hill windfarm - geograph.org.uk - 185628.jpg|thumb|Hadyard Hill wind farm. Located on the B734 between Old Dailly and Barr.]]
+[[Hadyard Hill Wind Farm]], owned and operated by [[Scottish and Southern Energy]] (SSE), became the first wind farm in the UK with a capacity of over 100 MW.  The 120 MW, 52-turbine wind farm in South Ayrshire cost £85 million and in a year generates enough electricity to power 80,000 homes, sufficient to supply every household in a city the size of York.  The production of zero carbon electricity at the wind farm is expected to reduce emissions of carbon dioxide by almost 300,000 tonnes a year, equivalent to taking 70,000 cars off the road. <ref>[http://www.bwea.com/media/news/060411.html Hadyard Hill becomes the first wind farm in the UK to generate over 100 MW of power]</ref> . 
+
+===Robin Rigg Wind Farm===. 
+The [[Robin Rigg Wind Farm]] is a 180 MW development completed in April 2010, which is Scotland's first [[offshore wind farm]], sited at Robin Rigg, a sandbank midway between the [[Galloway]] and [[Cumbria]]n coasts in the [[Solway Firth]]. It has 60 Vestas [[Vestas V90-3MW|V90-3MW]] wind turbines. <ref>[http://www.offshorewindenergy.org/windfarms/display_data_windfarm.php?id=20  Windfarm: Robin Rigg]</ref><ref>[http://www.eon-uk.com/images/RobinRiggNewsletter.pdf Robin Rigg Offshore Wind FarmProject]</ref> . 
+
+===Whitelee Wind Farm===. 
+The 322 MW [[Whitelee Wind Farm]] was completed ahead of schedule in May 2009.  It is Europe's largest onshore [[wind farm]], built by [[Scottish Power|Scottish Power Renewables]]. The wind farm uses 140 [[Siemens]] 2.3-MW [[wind turbines]]. <ref name=white>[http://www.renewableenergyworld.com/rea/news/article/2009/05/europes-largest-onshore-wind-farm-is-switched-on-in-scotland?cmpid=WNL-Friday-May22-2009 Europe's Largest Onshore Wind Farm Is Switched on in Scotland] ''Renewable Energy World'', 20 May 2009. </ref> . 
+
+Whitelee Wind Farm has a 75 turbine extension under construction, which will add an additional 217 MW of capacity. Work on this extension is set for completion in 2012. <ref>{{cite web |url=http://www.whiteleewindfarm.co.uk/about_windfarm/construction_updateconstruction_update?side |title=Whitelee Wind Farm Update |author= |date= |work= }}</ref> . 
+
+==Under construction or proposed==. 
+===Clyde Wind Farm===. 
+The [[Clyde Wind Farm]] is a 548 [[megawatt]] (MW) [[wind farm]] under construction near [[Abington, South Lanarkshire|Abington]] in [[South Lanarkshire]], [[Scotland]].  When completed, it will be Europe's largest onshore wind farm.  The 152-turbine project by [[Scottish and Southern Energy]]<ref>[http://www.sse.com/Clyde SSE Clyde Project website]</ref>, which was approved by the [[Scottish Parliament]] in July 2008, capable of powering 320,000 homes, and will be larger than the 322 MW [[Whitelee Wind Farm]] near Glasgow. <ref>{{cite web | url=http://thescotsman.scotsman.com/latestnews/Wind-farms-now-we39ve-got.4309930.jp | title=Wind farms: now we've got the biggest in Europe | first=Jenny | last=Haworth | date=2008-07-22 | accessdate=2008-07-22 }}</ref> Turbines will be built either side of the [[M74 motorway]]. <ref>{{cite web | url=http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/07/21/eawind121.xml | title=Europe's largest onshore wind farm is to be built in Scotland costing £600m | first=Simon | last=Johnson | work=[[Telegraph.co.uk]] | publisher=[[Telegraph Media Group]] | date=2008-07-21 | accessdate=2008-07-22 }}</ref> Construction of the wind farm, which is budgeted for £600 million, started in early 2009 and expected to finish in 2012. <ref>{{cite web | url=http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7517176.stm | title=Green light for massive wind farm | publisher=[[BBC News]] | date=2008-07-21 | accessdate=2008-07-22 }}</ref> . 
+
+===Offshore wind farms===. 
+In January 2010 contracts were awarded for a major expansion of offshore wind power in the seas around Scotland. [[Moray Offshore Renewables]] will develop offshore wind power in the [[Moray Firth]], and [[SeaGreen Wind Energy]] will develop offshore wind in the [[Firth of Forth]]. These developments could lead to 1,000 new wind turbines generating nearly 5,000 MW of power. Jobs "could also be created in manufacturing, research, engineering, installation, operation and services". <ref name="news">[http://news.bbc.co.uk/2/hi/uk_news/scotland/8447317.stm New offshore wind farm contracts announced] ''BBC News'', 8 January 2010. </ref> . 
+
+==Wind variability==  
+Most turbines in the European Union produce electricity at an average of 25% of their rated maximum power due to the [[Intermittent Power Sources|variability]] of wind resources,<ref>{{cite web|url=http://www.ecn.nl/docs/library/report/2003/c03006.pdf|title=ECN report on Renewables|accessdate=2007-02-04}}</ref> but Scotland's wind regime provides average [[capacity factor]] of 40% or higher on the west and northern coasts. A small wind farm on [[Shetland]] with five [[Vestas]] V47 660&nbsp;kW turbines recently achieved a world record of 58% capacity over the course of a year. This record is claimed by Burradale windfarm, located just a few miles outside Lerwick and operated by Shetland Aerogenerators Ltd. Since opening in 2000, the turbines at this wind farm have had an average capacity factor of 52% and, according to this report, in 2005 averaged a world record 57.9%. <ref>[http://www.reuk.co.uk/Burradale-Wind-Farm-Shetland-Islands.htm Burradale Wind Farm Shetland Islands]</ref> . 
+
+A 2011 report authored by wind farm critic Stuart Young and supported by the [[John Muir Trust]], said that Scotland’s wind farms are only delivering a fraction of the power their builders claim. The report looked at wind farm output over a 26 month period between November 2008 to December 2010 using data from the industry’s Balancing Mechanism Reporting System. The report concluded that wind power "cannot be relied upon to provide significant levels of power" and "that there is an urgent need to re-evaluate the use of the energy source in future". <ref>{{Cite web
+  | last = Young
+  | first = Stuart
+  | title = Analysis of UK Wind Power Generation
+  | date = March 2011
+  | url = http://www.jmt.org/wind-analysis-report.asp
+  | accessdate = 13 August 2011}}</ref><ref name=JMT2011/>  There was an "angry response" to the report from the energy industry, and the body representing Scotland’s renewable energy refused to recognise the figures. Jenny Hogan, Director of Policy for Scottish Renewables, said: "We have no confidence in these unofficial figures", and added: "It could be argued the Trust is acting irresponsibly given their expertise lies in protecting our wild lands and yet they seem to be going to great lengths to undermine renewable energy which is widely recognised as one of the biggest solutions to tackling climate change". <ref name=JMT2011>{{cite web |url=http://www.tgomagazine.co.uk/news/outdoornews/Sparks-fly-over-John-Muir-Trust-wind-farm-report |title=Sparks fly over John Muir Trust wind farm report |author=Judy Armstrong |date=April 11, 2011 |work=The Great Outdoors |publisher= }}</ref>  An independent study investigated the JMT report by cross-referencing Renewable Obligation Certificates over the same study period and concluded that wind farms performed much better due to data problems with the BMReports website upon which the JMT Report was based.{{Reference necessary|date=December 2011}} . 
+
+==Aesthetics and landscape issues==. 
+[[File:Ardrossan, Scotland, United Kingdom.JPG|thumb|right|250px|The [[Ardrossan Wind Farm]].]]
+Siting of some wind turbines has become an issue amongst those concerned about the value of natural landscapes. <ref>[http://news.bbc.co.uk/nolpda/ukfs_news/hi/newsid_5205000/5205430.stm Wind power dilemma for Lewis, BBC report]</ref> The [[John Muir Trust]] has stated that "the best renewable energy options around wild land are small-scale, sensitively sited and adjacent to the communities directly benefiting from them",<ref>{{Cite web| title=What's Your View on Wild Land?| date=2006| url=http://www.jmt.org/news.asp?s=2&cat=Latest%20News&nid=JMT-N10035| publisher=[[John Muir Trust]]| location=Pitlochry| accessdate=2007-11-13}}</ref><ref>{{cite web| url=http://www.jmt.org/policy-renewable-energy.asp| title=Renewable Energy Policy| author=John Muir Trust| accessdate=2008-04-20}}</ref> although even community-owned schemes can prove controversial. For example, a small-scale scheme proposed by [[Harris, Outer Hebrides#North Harris|North Harris]] [[Development trust|Development Trust]] has been supported by the John Muir Trust. <ref>{{cite web| url=http://www.jmt.org/news.asp?s=2&cat=Land&nid=JMT-N10263| title=North Harris Community Wind Farm Approved| publisher=John Muir Trust| date=18 February, 2008| accessdate=2008-04-21}}</ref>  . 
+
+The [[Ardrossan Wind Farm]] on the west coast of Scotland has been "overwhelmingly accepted by local people". Instead of spoiling the landscape, they believe it has enhanced the area: "The turbines are impressive looking, bring a calming effect to the town and, contrary to the belief that they would be noisy, we have found them to be silent workhorses". <ref>[http://www.guardian.co.uk/commentisfree/2008/aug/12/windpower.alternativeenergy Wind farms are not only beautiful, they're absolutely necessary]</ref> . 
+
+==Community ownership==. 
+{{See also|Community wind energy}}
+[[Image:Findhorn wind turbines.jpg|250px|right|thumb|The wind turbines at Findhorn, which make the Ecovillage a net exporter of electricity.]]
+Community-owned schemes in Scotland include a three V27 wind turbine system near the manufacturer Vestas's Scottish base in [[Kintyre]],<ref>[http://www.vestas.com/vestas/global/en/Profile/Contact/ Vestas Celtic] Retrieved 6 July 2007. {{Dead link|date=October 2010|bot=H3llBot}}</ref> operated by  [[Gigha|Gigha Renewable Energy Ltd.]] which is capable of generating up to 675 kW of power. Gigha residents control the whole project and profits are reinvested in the community. <ref>[http://www.greenenergy.uk.com/sitecontent/viewpressrelease.aspx?id=94 Green Energy press release] Retrieved 2007-02-01. </ref> . 
+
+[[Findhorn Ecovillage]] has four Vestas wind turbines which can generate up to 750kW. These make the community net exporters of renewably generated electricity. Most of the generation is used on-site with any surplus exported to the [[National Grid (UK)|National Grid]]. <ref>[http://www.ecovillagefindhorn.com/ Findhorn Ecovillage]</ref>  . 
+
+Boyndie Wind Farm Co-operative is part of the [[Baywind|Energy4All]] group, which promotes community ownership. <ref>[http://www.energy4all.co.uk/boyndieco-operative.ph Boyndie Co-operative] Retrieved 6 July 2007. {{Dead link|date=October 2010|bot=H3llBot}}</ref> A number of other schemes supported by [[Highlands and Islands Community Energy Company]] are in the pipeline.  . 
+
+==Public opinion==. 
+A 2003 survey of residents living around Scotland's 10 existing wind farms found high levels of community acceptance and strong support for wind power, with much support from those who lived closest to the wind farms.  The results of this survey support those of an earlier Scottish Executive survey 'Public attitudes to the Environment in Scotland 2002', which found that the Scottish public would prefer the majority of their electricity to come from renewables, and which rated wind power as the cleanest source of renewable energy. <ref>[http://www.bwea.com/media/news/goodneighbours.html Wind farms make good neighbours]</ref> . 
+
+A survey conducted in 2005 showed that 74% of people in Scotland agree that wind farms are necessary to meet current and future energy needs. When people were asked the same question in a Scottish Renewables study conducted in 2010, 78% agreed.  The increase is significant as there were twice as many wind farms in 2010 as there were in 2005. The 2010 survey also showed that 52% disagreed with the statement that wind farms are "ugly and a blot on the landscape". 59% agreed that wind farms were necessary and that how they looked was unimportant. The 2010 study suggests that the opposition to wind farms is largely [[NIMBYism]] and that the majority of people in Scotland are in support of [[clean energy]]. <ref>{{cite web |url=http://www.sustainablescotland.com/business-communities/scots-support-wind-farms |title=Scots support wind farms |author= |date=22 October 2010 |work=Sustainable Scotland }}</ref> . 
+
+However, concerns over inappropriate siting of turbines has been voiced by groups in Fife, in particular, where the number of planning applications for turbines has risen sharply. <ref>[http://www.eftag.info East Fife Turbine Awareness]</ref> . 
+
+Some wind farms have become tourist attractions. The Whitelee Wind Farm Visitor Centre has an exhibition room, a learning hub, a café with a viewing deck and also a shop. It is run by the [[Glasgow Science Centre]]. <ref>{{cite web |url=http://www.whiteleewindfarm.co.uk/visitor_centre |title=Whitelee Windfarm |author= |date= |work=Scottish Power Renewables }}</ref> . 
+
+==Beauly-Denny==. 
+A proposed 400kV upgrade to the existing 132 kV transmission network, seen as key to future expansion<ref>[http://www.bwea.com/media/news/070205.html BWEA position on Beauly Denny] Retrieved 2 April 2008. </ref>  was held up in planning<ref>[http://www.beaulydenny.co.uk/ Beauly Denny Public Inquiry website], Retrieved 2 April 2008. </ref> for three years.  There was vocal opposition from some sectors<ref>[http://www.pylonpressure.com/more-powerlines-g.asp Pylon Pressure website - Beauly Denny] Retrieved 2 April 2008. </ref> and strong support from other sectors. <ref>[http://www.beaulydenny.org/bdfriends.pdf Friends of the Beauly Denny Power Line Upgrade]</ref> The proposed 220km circuit is to run from [[Beauly]], west of Inverness to [[Denny, Falkirk|Denny]], west of [[Falkirk]].  . 
+
+In 2008, the first major independent study associated with the Scottish Government’s renewable energy targets concluded that the upgrade of the Beauly-Denny power line will be a key to future development. <ref>[http://www.pressandjournal.co.uk/Article.aspx/978401?UserKey= Power-line opponents dealt blow by independent study]</ref> . 
+
+In January 2010, the Scottish Government approved the upgrade to the Beauly to Denny transmission line. <ref name="news" /> . 
+
+==Potential==. 
+It is estimated that 11.5 GW of onshore wind potential exists, enough to provide 45 TWh of energy. More than double this amount exists on offshore sites<ref name= RSPB>RSPB Scotland, WWF Scotland and FOE Scotland (February 2006) ''The Power of Scotland: Cutting Carbon with Scotland's Renewable Energy''. </ref> where mean wind speeds are greater than on land. <ref>[http://www.stanford.edu/group/efmh/winds/global_winds.html Evaluation of global wind power]</ref> The total offshore potential is estimated at 25 GW, and although more expensive to install could be enough to provide almost half the total energy used in Scotland. <ref name= RSPB/> . 
+
+According to a recent report, the world's wind market offers many opportunities for Scottish companies, with total global revenue over the next five years estimated at £35 billion and continued growth forecast until at least 2025. <ref>[http://www.scottish-enterprise.com/sedotcom_home/news-se/news-fullarticle.htm?articleid=207059 Huge potential growth forecast for Scottish wind industry]</ref> . 
+
+==See also==. 
+{{portal|Scotland}}
+{{Commonscat}}
+*[[James Blyth (engineer)]]
+*[[Energy policy of the United Kingdom]]
+*[[Energy use and conservation in the United Kingdom]]
+*[[List of power stations in Scotland]]
+*[[Renewable energy in Scotland]]
+*[[Renewable energy in the European Union]]
+*[[RenewableUK]]
+*[[Scottish Renewables]]
+*[[Wind power in the United Kingdom]] . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+*[http://www.camagonline.co.uk/Magazine/2009-2/1916.aspx Wind of change]
+*  [http://www.theherald.co.uk/news/news/display.var.2494439.0.Wind_power_makes_village_the_greenest_in_Scotland.php Wind power makes village the ‘greenest in Scotland’]
+*[http://www.newenergyfocus.com/do/ecco.py/view_item?listid=1&listcatid=115&listitemid=2257 Crown Estate awards rights on 6GW Scottish offshore wind power]
+*[http://news.bbc.co.uk/2/hi/uk_news/scotland/glasgow_and_west/7965266.stm Huge expansion for turbine plant] . 
+
+{{Wind power in the United Kingdom}}
+{{Scottish energy}}
+{{Energy in the United Kingdom|sources}}
+{{Wind power by country}} . 
+
+[[Category:Wind power in Scotland| ]]

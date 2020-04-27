@@ -1,0 +1,63 @@
+[[File:Kopimi k.svg|thumb|The Kopimi symbol]]
+[[File:Kopimizm.svg|thumb|Ctrl-C, Ctrl-V]] . 
+
+The '''Missionary Church of Kopimism''' (in [[Swedish language|Swedish]] ''Missionerande Kopimistsamfundet''), founded by 19-year-old philosophy student Isak Gerson,<ref name=bbc/> is a congregation of [[file sharing|file sharers]] who claim that copying information is a sacred virtue. <ref name="Jackson"/><ref name=await/><ref name="CITROME"/> The Church, based in Sweden, has been officially recognized by the Swedish Legal, Financial and Administrative Services Agency ("kammarkollegiet") as a religious community, after three application attempts. <ref name=bbc/><ref name="Ernesto"/> . 
+
+Although it has been reported that [[The Pirate Bay]] is now operating under the auspices of the Church, Gerson himself denied any connection whatsoever between the two organizations. <ref name=Privitera>{{cite web|last=Privitera|first=Salvatore|title=File-sharing as a religion, do we really need it?|url=http://pazuzu-uzu.blogspot.com/2012/01/file-sharing-as-religion-do-we-really.html|accessdate=29 January 2012}}</ref> . 
+
+==Tenets==. 
+The followers of the religion are called ''Kopimists'' from ''copy me'', the [[Meme|idea]] of which was inspired by a phrase in the Bible<ref name="Pirate and Priest">{{cite web |url=http://www.themachinestarts.com/read/80 |title=The Pirate and the Priest: How Digital Turned into Divine  |date=17 January 2012 |first=Chris |last=Baraniuk |publisher=The Machine Starts |accessdate=2 February 2012}}</ref>:
+{{"|'''Copy me, my brothers, just as I copy Christ himself'''| 1 Corinthians 11:1<ref>[http://www.biblegateway.com/passage/?search=1+Corinthians+11&version=PHILLIPS 1 Corinthians 11 (J.B. Phillips New Testament)]</ref>}}
+A "Kopimist" or "Kopimist intellectual" is a person who has the philosophical belief that all information should be freely distributed and unrestricted. This philosophy opposes the privatization of knowledge in all its forms, such as copyright, and encourages piracy of all types of media including music, movies, TV shows, and software. <ref>{{cite web |url=http://www.revolutimes.com/2012/01/06/sweden-recognizes-file-sharing-as-a-religion/ |title=Sweden Recognizes File Sharing as a Religion |date=4 January 2012 |first=Jenny |last=Worman |publisher=RevoluTimes |accessdate=2 February 2012}}</ref> . 
+
+According to the church, "In our belief, communication is sacred."<ref name="Jackson" /> No belief in gods or supernatural phenomena is mentioned on their web site. ''[[Control-C|CTRL+C]]'' and ''[[Control-V|CTRL+V]]'', the computer shortcut keys for "Copy" and "Paste," are considered sacred symbols.  . 
+
+Kopimism made simple<ref>{{cite web |url=http://kopimistsamfundet.se/english/ |title=Welcome to the missionary church of kopimism |accessdate=2 February 2012}}</ref>:
+* All knowledge to all
+* The search for knowledge is sacred
+* The circulation of knowledge is sacred
+* The act of copying is sacred.  . 
+
+According to the Kopimist constitution<ref>{{cite web |url=http://kopimistsamfundet.us/kopimist-constitution-english/ |title=Kopimist Constitution in English |accessdate=2 February 2012}}</ref>:
+* Copying of information is ethically right. 
+* Dissemination of information is ethically right. 
+* Copymixing is a sacred kind of copying, moreso than the perfect, digital copying, because it expands and enhances the existing wealth of information
+* Copying or remixing information communicated by another person is seen as an act of respect and a strong expression of acceptance and Kopimistic faith. 
+* The Internet is holy. 
+* Code is law.  . 
+
+On January 5, 2012, Kopimism was accepted by Sweden as a legitimate religion. The religion's association with illegal [[Legal aspects of file sharing|file sharing]]{{where|date=February 2012}} has been said not to be a sign that illegal file-sharing will be excused from Sweden's zero-tolerance approach to the matter. <ref name=bbc/> . 
+
+==Sharing of information in religions==. 
+{{see|Sharing#Sharing in religions}} . 
+
+==See also==. 
+*[[Information wants to be free]]
+*[[Anti-copyright]]
+*[[File sharing]]
+*[[Gift economy]]
+*[[List of new religious movements]] . 
+
+==References==. 
+{{reflist|refs= . 
+
+<ref name=bbc>{{cite news | url = http://www.bbc.co.uk/news/technology-16424659 | title = Sweden recognises new file-sharing religion Kopimism | work = BBC News | date = 5 January 2012 | accessdate = 5 January 2012 }}</ref> . 
+
+<ref name="Ernesto">{{cite web|url=http://torrentfreak.com/file-sharing-recognized-as-official-religion-in-sweden-120104/|title=File-Sharing Recognized as Official Religion in Sweden|date=4 January 2012|work=[[TorrentFreak]]|accessdate=5 January 2012}}</ref> . 
+
+<ref name="Jackson">{{cite web|url=http://www.theatlantic.com/technology/archive/2011/04/the-information-will-get-out-a-new-religion-for-file-sharers/237058/|title=The Information Will Get Out: A New Religion for File-Sharers|last=Jackson|first=Nicholas|date=10 April 2011|work=[[The Atlantic]]|accessdate=25 April 2011}}</ref> . 
+
+<ref name=await>{{cite news|url=http://torrentfreak.com/file-sharers-await-official-recognition-of-new-religion-110410/|title=File-Sharers Await Official Recognition of New Religion |date=10 April 2011|work=[[TorrentFreak]]|accessdate=25 April 2011}}</ref> . 
+
+<ref name="CITROME">{{cite news|url=http://www.montrealmirror.com/wp/2011/04/14/networthy-copy-paste-amen/|title=NETWORTHY: Copy, paste, amen|last=Citrome|first=Michael|date=14 April 2011|publisher=[[Montreal Mirror]]|accessdate=25 April 2011}}</ref>
+}} . 
+
+==External links==. 
+* {{Official website|http://www.kopimistsamfundet.se/english}}
+* [http://www.kopimi.com/ Kopimi]
+* [http://collectiveconciousness.info/ Collective Conciousness]
+* [http://ethics.wikia.com/wiki/Knowledge Knowledge] -Ethics Wikia . 
+
+[[Category:File sharing]]
+[[Category:New religious movements|Kopimism]]
+[[Category:Religion in Sweden]]

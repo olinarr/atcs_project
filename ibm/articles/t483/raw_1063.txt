@@ -1,0 +1,109 @@
+{{Infobox Organization
+|name         = Global Network Initiative
+|image        = 
+|image_border = 
+|size         = 
+|caption      = 
+|map          =
+|msize        = 
+|mcaption     = 
+|abbreviation = GNI
+|motto        = 
+|formation    = 
+|extinction   = 
+|type         = 
+|status       = 
+|purpose      = preventing [[Internet censorship]] by [[authoritarian]] [[government]]s and protecting the [[Internet privacy]] rights of individuals
+|headquarters = 
+|location     = 
+|region_served =
+|membership   = 
+|language     =
+|leader_title =
+|leader_name  = 
+|main_organ   = 
+|parent_organization = 
+|affiliations = 
+|num_staff    = 
+|num_volunteers =
+|budget       = 
+|website      = [http://www.globalnetworkinitiative.org www.globalnetworkinitiative.org]
+|remarks      =
+}} . 
+
+The '''Global Network Initiative''' ('''GNI''') is a [[non-governmental organization]] with the dual goals of preventing [[Internet censorship]] by [[authoritarian]] [[government]]s and protecting the [[Internet privacy]] rights of individuals. It is sponsored by a coalition of [[multinational corporation]]s, [[non-profit organization]]s, and [[universities]].  . 
+
+==History== . 
+
+On October 29, 2008 the Global Network Initiative (GNI) was founded upon its "Principles of Freedom of Expression and Privacy".{{citequote}}  The Initiative was launched in the 60th Anniversary year of the [[Universal Declaration of Human Rights]] (UDHR) and is based on internationally recognized laws and standards for [[human rights]] on [[freedom of expression]] and [[privacy]] set out in the UDHR, the [[International Covenant on Civil and Political Rights]] (ICCPR) and the [[International Covenant on Economic, Social and Cultural Rights]] (ICESCR). <ref>{{cite web|url=http://www.globalnetworkinitiative.org/faq/index.php |title=Global Network Initiative, FAQ|accessdate=March 6, 2009}}</ref> . 
+
+==Profile== . 
+
+As a human rights organization, the Global Network Initiative (GNI) seeks to safeguard freedom of expression and personal privacy against government restrictions. The protections are facilitated by a coalition of companies, investors, civil society organizations, academics, and other stakeholders.  . 
+
+The Global Network Initiative esteems freedom of expression and privacy each as a “human right and guarantor of human dignity.”<ref>{{cite web|title=Global Network Initiative - Principles|url=http://www.globalnetworkinitiative.org/principles/index.php|accessdate=26 April 2011}}</ref>  Participants are expected to respect and protect information available to users and users’ ability to freely create and distribute information, provided that they operate outside narrowly defined circumstances necessary to adhere to international laws and standards set by the [[International Covenant on Civil and Political Rights]] (ICCPR).  . 
+
+Participants are also expected to protect users’ personal information from illegal or arbitrary interference when confronted with government demands, laws, or regulations that compromise a user’s privacy. The same principle of adherence of international laws and standards applies.  . 
+
+Collaboration among stakeholders is key to the goals of the Global Network Initiative. The GNI's outline of principles encourages participants to explore ways to engage governments advance their cause, individually or collectively. <ref>{{cite web|title=Principles: Multi-stakeholder collaboration|url=http://www.globalnetworkinitiative.org/principles/index.php#21|accessdate=26 April 2011}}</ref> . 
+
+The Global Network Initiative recognizes that the actions of their corporate participants alone cannot guarantee the protection of human rights. One fundamental commitment is to promote the adoption of laws, policies, and practices that protect freedom of expression and privacy. The GNI considers governments to be ultimately responsible for the fulfillment of their citizens' human rights, specifically pursuant to freedom of expression and privacy. <ref>{{cite web|title=FAQ: How will the Global Network Initiative accomplish its goals?|url=http://www.globalnetworkinitiative.org/faq/index.php#48|accessdate=26 April 2011}}</ref> . 
+
+==Staff and Board of Directors<ref>{{cite web|title=Global Network Initiative - Board of Directors|url=http://www.globalnetworkinitiative.org/board/index.php|accessdate=26 April 2011}}</ref> ==. 
+*Susan Morgan, Executive Director
+*Jermyn Brooks, Independent Chair
+===NGO Members===. 
+*Arvind Ganesan, [[Human Rights Watch]]
+*Leslie Harris, [[Center for Democracy & Technology]]
+*Robert Mahoney, [[Committee to Protect Journalists]]
+*Meg Roggensack, [[Human Rights First]]
+===Company Members===. 
+*Chuck Cosson, [[Microsoft]]
+*Ebele Okobi-Harris, [[Yahoo!]]
+*Lewis Segall, [[Google]]
+===Academic Members===. 
+*Rebecca MacKinnon, Personal capacity
+*Colin Maclay, [[Berkman Center for Internet & Society]] at [[Harvard University]]
+===Investor Members===. 
+*Bennett Freeman, [[Calvert Group]]
+*Adam Kanzer, [[Domini Social Investments LLC]] . 
+
+===Alternate Board Members===. 
+====NGO Alternates====. 
+*Mark Bench, [[World Press Freedom Committee]]
+*Sharon Hom, [[Human Rights In China]]
+*Kathleen Reen, [[Internews]]
+*Eddan Katz, [[Electronic Frontier Foundation]]
+====Company Alternates====. 
+*Bob Boorstin, [[Google]]
+*Dorothy Dwoskin, [[Microsoft]]
+*David Hantman, [[Yahoo!]]
+====Academic Alternates====. 
+*Deirdre Mulligan
+*Ernest Wilson, Personal capacity . 
+
+====Investor Alternates====. 
+*Alexis Krajeski, [[F&C Asset Management]]
+*Dawn Wolfe, [[Boston Common Asset Management]] . 
+
+==Participants==. 
+The Global Network Initiative requires participating companies to integrate their principles deeply into their decision-making and culture. <ref>{{cite web|title=Principles: Responsible Company Decision Making|url=http://www.globalnetworkinitiative.org/principles/index.php#20|accessdate=26 April 2011}}</ref>  The GNI struggles to get large corporate participants other than the initial three, [[Google]], [[Yahoo!]], and [[Microsoft]]. [[Facebook]] and [[Twitter]] are valuable for their large audiences and wide use by activists in the [[Middle East]] and other volatile regions. The reasons they will not join remain vague from spokespersons or entirely unspecified, but factors like the toughness of the independent auditing process or the lack of financial benefit may engender corporate reluctance. <ref>{{cite news|last=Kopytoff|first=Verne G.|title=Sites Like Twitter Absent From Free Speech Pact|url=http://www.nytimes.com/2011/03/07/technology/07rights.html?_r=1|accessdate=26 April 2011|newspaper=The New York Times|date=6 March 2011}}</ref> . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+* [http://www.globalnetworkinitiative.org Global Network Initiative official site]
+* [https://www.globalnetworkinitiative.org/participants/index.php GNI Participants] . 
+
+{{privacy}} . 
+
+[[Category:Civil liberties advocacy groups]]
+[[Category:Computer law]]
+[[Category:Foundations based in the United States]]
+[[Category:Intellectual property activism]]
+[[Category:Internet activism]]
+[[Category:Organizations established in 2008]]
+[[Category:Politics and technology]]
+[[Category:Privacy organizations]]
+[[Category:Internet censorship]]

@@ -1,0 +1,84 @@
+{{pp-protected|expiry=2012-08-03T09:09:08Z|small=yes}}
+           {{globalize|date=June 2011}}
+[[Image:Soldier running in water.jpg|thumb|upright|Physical fitness can be achieved through [[physical exercise]].]]
+'''Physical fitness''' comprises two related concepts: general fitness (a state of [[health]] and well-being), and specific fitness (a task-oriented definition based on the ability to perform specific aspects of [[Outline of sports|sports]] or occupations). Physical fitness is generally achieved through correct [[nutrition]], [[Physical exercise|exercise]], and enough [[rest]].  . 
+
+In previous years{{When|date=June 2010}}, ''fitness'' was commonly defined as the capacity to carry out the day’s activities without undue fatigue. However, as automation increased leisure time, changes in lifestyles following the industrial revolution rendered this definition insufficient. In current contexts, ''physical fitness'' is considered a measure of the body’s ability to function efficiently and effectively in work and leisure activities, to be [[health]]y, to resist [[hypokinetic diseases]], and to meet emergency situations.  . 
+
+==Fitness==. 
+[[File:Marine Pull-ups.jpg|thumb|upright|A US marine performing fitness exercises.]]
+The [[President's Council on Physical Fitness and Sports]]—a study group sponsored by the [[Federal government of the United States|government of the United States]]—declines to offer a simple definition of physical fitness.  Instead, it developed the following chart:<ref>{{cite web|title = President's Council on Physical Fitness and Sports Definitions for Health, Fitness, and Physical Activity|url = http://www.fitness.gov/digest_mar2000.htm}}</ref>
+{| class="wikitable" border="1
+. |-
+! 
+! Health related
+! Skill related
+! Sports
+. |-
+|valign="top"|
+*Metabolic
+*Morphological
+*[[Bone mineral density|Bone integrity]]
+*Other
+|valign="top"|
+*[[Body composition]]
+*[[Cardiovascular fitness]]
+*[[Flexibility (anatomy)|Flexibility]]
+*[[Muscular endurance]]
+*[[Strength training|Muscle strength]]
+|valign="top"|
+*[[Sport agility|Agility]]
+*[[Sense of balance|Balance]]
+*[[Motor coordination|Coordination]]
+*Power
+*[[Speed]]
+*[[Reaction time]]
+*Other
+|valign="top"|
+*[[Team sport]]
+*[[Individual sport]]
+*Lifetime
+*Other
+|} . 
+
+A comprehensive fitness program tailored to an individual will probably focus on one or more specific skills,<ref>{{cite web|title=Skill-related physical fitness essential for sports success|url=http://www.tradoc.army.mil/pao/Web_specials/H_and_PWB/013204.htm}}</ref> and on age-<ref>{{cite web|title = The elderly have specific fitness requirements|url = http://www.aafp.org/afp/20020201/419.html}}</ref> or health-related needs such as bone health. <ref>{{cite web|title=A targeted fitness program can increase Bone Integrity|url = http://www.niams.nih.gov/Health_Info/Bone/Bone_Health/Exercise/default.asp}}</ref>  Many sources{{Citation needed|date=August 2009}} also cite [[mental health|mental]], [[social health|social]] and [[emotional health]] as an important part of overall fitness. This is often presented in textbooks as a [[triangle]] made up of three points, which represent physical, emotional, and mental fitness. Physical fitness can also prevent or treat many chronic health conditions brought on by unhealthy [[lifestyle (sociology)|lifestyle]] or aging. <ref>{{cite web|url = http://aspe.hhs.gov/health/reports/physicalactivity/| title = US Department of Health and Human Services Presentation: Physical Activity Fundamental to Preventing Disease}}</ref> Working out can also help people sleep better. To stay healthy it is important to engage in physical activity. <ref>{{cite web| title = How much physical activity do adults need?| url = http://www.cdc.gov/physicalactivity/everyone/guidelines/adults.html| authorlink = CDC}}</ref> . 
+
+==Training==. 
+Specific or task-oriented fitness is a person's ability to perform in a specific activity with a reasonable efficiency: for example, sports or [[military service]]. Specific training prepares athletes to perform well in their sports.  . 
+
+Examples are:
+* [[400 m sprint]]: in a sprint the athlete must be trained to work anaerobically throughout the race. 
+* [[Marathon]]: in this case the athlete must be trained to work aerobically and their endurance must be built-up to a maximum. 
+* Many fire fighters and police officers undergo regular [[Physical fitness test|fitness testing]] to determine if they are capable of the physically demanding tasks required of the job. <ref>{{cite web|title = Physical Fitness requirements for Santa Clara County firefighters| url = http://www.sccfd.org/physical_fitness.html#appendix2}}</ref>
+* Soldiers of the [[United States Army]] must be able to pass the [[Army Physical Fitness Test]] (APFT). <ref>{{cite web|title=APFT Requirements|url =http://www.army.com/enlist/APFT.html}}</ref> . 
+
+== See also ==. 
+* [[Powerlifting]]
+* [[Bodybuilding]]
+* [[CrossFit]]
+* [[CPR]]
+* [[Exergaming]]
+* [[Harvard Step Test]]
+* [[Health club]]
+* [[National Academy of Sports Medicine]]
+* [[Neutral spine]]
+* [[Obesity]]
+* [[Personal Trainer]]
+* [[Physical exercise]]
+* [[Physical fitness test]]
+* [[VO2 max]]
+* [[Olympic Games]] . 
+
+== References ==. 
+{{Reflist}}
+9. ^"n.p. (2004, September 21). "The Benefits of Physical Activity." Medical News Today. Retrieved from http://www.medicalnewstoday.com/releases/13772.php."
+*{{cite book | last=Brandon | first=Leigh | title=Anatomy of Strength and Fitness Training for Speed | publisher=McGraw-Hill | year=2009 | isbn=978-0-07-163363-5 }} . 
+
+== External links ==. 
+{{Commons category|Fitness}}
+* [http://www.healthierus.gov/exercise.html HealthierUS.gov Official website]
+* [http://www.fitness.gov/ President's Council on Physical Fitness] . 
+
+{{DEFAULTSORT:Physical Fitness}}
+[[Category:Physical exercise]]
+[[Category:Prevention]]

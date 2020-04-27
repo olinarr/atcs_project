@@ -1,0 +1,172 @@
+{{Infobox Book
+| name = The Road to Serfdom
+| orig title =
+| translator =
+| image = [[File:Road to Serfdom.jpg|100px]]
+| author = [[Friedrich Hayek]]
+| cover_artist =
+| country = [[United Kingdom]]
+| language = [[English language|English]]
+| series =
+| subject = [[Politics]]
+| genre =
+| publisher = [[Routledge|Routledge Press]] (UK), [[University of Chicago Press]] (US)
+| release_date = March 1944
+| media_type =
+| pages = 266
+| size_weight =
+| isbn = 0-226-32061-8
+| dewey= 338.9 20
+| congress= HD82 .H38 1994
+| oclc= 30733740
+| preceded_by =
+| followed_by =
+}}
+'''''The Road to Serfdom''''' is a book written by the Austrian-born [[economist]] and [[philosopher]] [[Friedrich Hayek|Friedrich von Hayek]] (1899–1992) between 1940–1943, in which he "warned of the danger of [[tyranny]] that inevitably results from government control of economic [[decision-making]] through [[planned economy|central planning]],"<ref>{{cite web|url=http://www.thefreemanonline.org/featured/friedrich-a-hayek-a-centenary-appreciation/#|title=Friedrich A. Hayek: A Centenary Appreciation|accessdate=2010-06-18|author=Ebeling, Richard M.|source=The Freeman, May 1999 • Volume: 49 • Issue: 5 }}</ref> and in which he argues that the abandonment of [[individualism]], [[classical liberalism]], and [[Economic freedom|freedom]] inevitably leads to socialist or fascist oppression and tyranny and the [[serfdom]] of the individual. Significantly, Hayek challenged the general view among British academics that [[fascism]] was a [[capitalist]] reaction against socialism, instead arguing that fascism and socialism had common roots in central economic planning and the power of the state over the individual.  . 
+
+''The Road to Serfdom'' is among the most influential and popular expositions of market [[libertarianism]] and remains a popular and influential work in contemporary discourse, selling over two million copies, and remaining a best-seller. <ref>On June 9, 2010, the book became the #1 book sold at Amazon.com, achieving [[Bestseller|best seller]] status.{{cite web
+|url=http://www.prospectmagazine.co.uk/2006/12/thefadingoffriedman/
+|title= The fading of Friedman
+|author=Paul Ormerod
+|authorlink=Paul Ormerod
+|publisher=[[Prospect (magazine)]]
+|date = December 16, 2006
+|accessdate=2010-12-26}}
+</ref><ref>{{cite web |url=http://www.amazon.com/gp/bestsellers/books |title=Bestsellers in Books |publisher=[[Amazon.com]] |accessdate=10 December 2010 }}</ref> . 
+
+''The Road to Serfdom'' was to be the popular edition of the second volume of Hayek’s treatise entitled “The Abuse and Decline of Reason,”<ref>{{Harvcolnb|Ebenstein|2003|p=[http://books.google.com/books?id=Kp8Uq8ve3EsC&pg=PA107 107]}}. </ref> and the title was inspired by the writings of the 19th century French classical liberal thinker [[Alexis de Tocqueville]] on the “road to servitude.”<ref>{{Harvcolnb|Ebenstein|2003|p=[http://books.google.com/books?id=Kp8Uq8ve3EsC&pg=PA116 116]}}. </ref> The book was first published in Britain by [[Routledge]] in March 1944, during [[World War II]], and was quite popular, leading Hayek to call it “that unobtainable book,” also due in part to wartime paper rationing. <ref>{{Harvcolnb|Ebenstein|2003|p=[http://books.google.com/books?id=Kp8Uq8ve3EsC&pg=PA128 128]}}. </ref> It was published in the United States by the [[University of Chicago Press]] in September 1944 and achieved great popularity. At the arrangement of editor [[Max Eastman]], the American magazine ''[[Reader's Digest]]'' published an abridged version in April 1945, enabling ''The Road to Serfdom'' to reach a wider popular audience beyond academics.  . 
+
+''The Road to Serfdom'' has had a significant impact on twentieth century conservative and libertarian economic and political discourse and is often cited today by commentators.  . 
+
+==Publication==. 
+{{Quote box
+|align=right
+|width=45%
+|quote=But when economic power is centralized as an instrument of political power it creates a degree of dependence scarcely distinguishable from slavery. It has been well said that, in a country where the sole employer is the state, opposition means death by slow starvation.|source=''The Road to Serfdom'', "Planning and Power."<ref name="The Road to Serfdom">{{cite web|url=http://jim.com/hayek.htm|accessdate=2010-06-16|title=The Road to Serfdom}}</ref>
+|}}
+The book was originally published for a British audience by Routledge Press in March 1944 in the United Kingdom and then by the [[University of Chicago Press]] in September 1944. The U.S. publisher’s expectation was that the book would sell between 900 and 3,000 copies. The initial printing run of 2,000 copies was quickly sold out, and 30,000 copies were sold within six months. {{As of|2007|alt=In 2007}}, the University of Chicago Press estimated that more than 350,000 copies had been sold. <ref>{{Harvcolnb|Hayek|Caldwell|2007|p=[http://books.google.com/books?id=qg61T_I1mwsC&pg=PA1 1]}}. </ref> . 
+
+A condensed version of the book written by Max Eastman was then published as the lead article in the April 1945 issue of [[Reader's Digest]], with a press run of several million copies. This condensed version was then offered as a Book of the Month selection with a press run of over 600,000 copies. In February 1945 a [http://mises.org/books/TRTS/ picture-book version] was published in [[Look (American magazine)|''Look'' magazine]], later made into a [[pamphlet]] and distributed by [[General Motors]]. The book has been translated into approximately 20 languages and is dedicated to “The [[socialism|socialists]] of all [[Political Party|parties]].” The introduction to the 50th anniversary edition is written by [[Milton Friedman]] (another recipient of the [[Nobel Prize in Economics]] 1976).  . 
+
+In 2007, the [[University of Chicago Press]] issued a “Definitive Edition”, Volume 2 in the “Collected Works of F. A. Hayek” series. In June 2010, the book achieved new popularity by rising to the top of the [[Amazon.com]] best seller list following extended coverage of the book on [[The Glenn Beck Program]]. Since that date, it has sold another 250,000 copies in its print and digital editions.  . 
+
+==Summary==. 
+Hayek argues that Western democracies, including the United Kingdom and the United States, have “progressively abandoned that freedom in economic affairs without which personal and political freedom has never existed in the past.”<ref>{{Harvcolnb|Hayek|1994|p=16}}</ref> Society has mistakenly tried to ensure continuing prosperity by centralized planning, which inevitably leads to totalitarianism. “We have in effect undertaken to dispense with the forces which produced unforeseen results and to replace the impersonal and anonymous mechanism of the market by collective and ‘conscious’ direction of all social forces to deliberately chosen goals.”<ref>{{Harvcolnb|Hayek|1994|p=24}}</ref> Socialism, while presented as a means of assuring equality, does so through “restraint and servitude”, while “democracy seeks equality in liberty”. <ref>{{Harvcolnb|Hayek|1994|p=29}}</ref> Planning, because coercive, is an inferior method of regulation, while the cooperation of a free market is superior “because it is the only method by which our activities can be adjusted to each other without coercive or arbitrary intervention of authority”. <ref>{{Harvcolnb|Hayek|1994|p=41}}</ref> . 
+
+Centralized planning is inherently undemocratic, because it requires "that the will of a small minority be imposed upon the people..."<ref>{{Harvcolnb|Hayek|1994|p=77}}</ref> The power of these minorities to act by taking money or property in pursuit of centralized goals, destroys the Rule of Law and individual freedoms. <ref>{{Harvcolnb|Hayek|1994|pp=80–96}}</ref> Where there is centralized planning, "the individual would more than ever become a mere means, to be used by the authority in the service of such abstractions as the 'social welfare' or the 'good of the community'". <ref>{{Harvcolnb|Hayek|1994|p=106}}</ref> Even the very poor have more personal freedom in an open society than a centrally planned one. <ref>{{Harvcolnb|Hayek|1994|p=115}}</ref> "[W]hile the last resort of a competitive economy is the [[bailiff]], the ultimate sanction of a planned economy is the hangman."<ref>{{Harvcolnb|Hayek|1994|p=139}}</ref> Socialism is a hypocritical system, because its professed humanitarian goals can only be put into practice by brutal methods "of which most socialists disapprove". <ref>{{Harvcolnb|Hayek|1994|p=191}}</ref> Such centralized systems also require effective propaganda, so that the people come to believe that the state's goals are theirs. <ref>{{Harvcolnb|Hayek|1994|p=168}}</ref> . 
+
+Hayek analyzes the roots of Nazism in socialism,<ref>{{Harvcolnb|Hayek|1994|pp=1183–198}}</ref> then draws parallels to the thought of British leaders:
+<blockquote>The increasing veneration for the state, the admiration of power, and of bigness for bigness' sake, the enthusiasm for "organization" of everything (we now call it "planning") and that "inability to leave anything to the simple power of organic growth"...are all scarcely less marked in England now than they were in Germany. <ref>{{Harvcolnb|Hayek|1994|p=200}}</ref></blockquote> . 
+
+Hayek believed that after World War II, "wisdom in the management of our economic affairs will be even more important than before and that the fate of our civilization will ultimately depend on how we solve the economic problems we shall then face". <ref>{{Harvcolnb|Hayek|1994|p=128}}</ref> The only chance to build a decent world is "to improve the general level of wealth" via the activities of free markets. <ref>{{Harvcolnb|Hayek|1994|p=230}}</ref> He saw international organization as involving a further threat to individual freedom. <ref>{{Harvcolnb|Hayek|1994|pp=240–260}}</ref> He concluded: "The guiding principle that a policy of freedom for the individual is the only truly progressive policy remains as true today as it was in the nineteenth century."<ref>{{Harvcolnb|Hayek|1994|p=262}}</ref> . 
+
+==A role for government==. 
+Although Hayek believed that government intervention in markets would lead to a loss of freedom, he recognized a limited role for government to perform tasks of which free markets were not capable:
+<blockquote>The successful use of competition as the principle of social organization precludes certain types of coercive interference with economic life, but it admits of others which sometimes may very considerably assist its work and even requires certain kinds of government action. <ref>{{Harvcolnb|Hayek|1994|p=42}}</ref></blockquote>
+While Hayek is opposed to regulations which restrict the freedom to enter a trade, or to buy and sell at any price, or to control quantities, he acknowledges the utility of regulations which restrict allowed methods of production, so long as these are applied equally to everyone and not used as an indirect way of controlling prices or quantities, and without forgetting the cost of such restrictions:
+<blockquote>To prohibit the use of certain poisonous substances, or to require special precautions in their use, to limit working hours or to require certain sanitary arrangements, is fully compatible with the preservation of competition. The only question here is whether in the particular instance the advantages gained are greater than the social costs which they impose. <ref>{{Harvcolnb|Hayek|1994|p=43}}</ref></blockquote>
+He notes that there are certain areas, such as the environment, where activities which cause damage to third parties (known to economists as "negative [[externalities]]") cannot effectively be regulated solely by the marketplace:
+<blockquote>Nor can certain harmful effects of deforestation, of some methods of farming, or of the smoke and noise of factories, be confined to the owner of the property in question, or to those who are willing to submit to the damage for an agreed compensation. <ref>{{Harvcolnb|Hayek|1994|p=44}}</ref></blockquote>
+The government also has a role in preventing fraud:
+<blockquote>Even the most essential prerequisite of its [the market's] proper functioning, the prevention of fraud and deception (including exploitation of ignorance), provides a great and by no means fully accomplished object of legislative activity. <ref name="HayekThe">{{Harvcolnb|Hayek|1994|p=45}}</ref></blockquote> . 
+
+The government also has a role in creating a safety net:
+<blockquote>There is no reason why, in a society which has reached the general level of wealth ours has, the first kind of security should not be guaranteed to all without endangering general freedom; that is: some minimum of food, shelter and clothing, sufficient to preserve health. Nor is there any reason why the state should not help to organize a comprehensive system of social insurance in providing for those common hazards of life against which few can make adequate provision. <ref>{{cite news| url=http://voices.washingtonpost.com/ezra-klein/2010/07/hayek_on_social_insurance.html | work=The Washington Post | title=Hayek on Social Insurance}}</ref><ref>[http://www.nytimes.com/2011/09/16/opinion/krugman-free-to-die.html Free to Die] By PAUL KRUGMAN, New York Times, September 15, 2011</ref></blockquote> . 
+
+He concludes: "In no system that could be rationally defended would the state just do nothing."<ref name="HayekThe" /></blockquote> . 
+
+==Contemporary commentary==. 
+{{Quote box
+|align=right
+|width=45%
+|quote=The subtle change in meaning to which the word ‘freedom’ was subjected in order that this argument sound plausible is important. To the great apostles of political freedom the word had meant freedom from coercion, freedom from the arbitrary power of other men, release from the ties which left the individual no choice but obedience to the orders of a superior to whom he was attached…The demand for the new freedom was [in contrast]…only a name for the old demand of an equal distribution of wealth.|source=''The Road to Serfdom'', “The Great Utopia.” p. 77<ref name="The Road to Serfdom"/>
+|}}
+[[John Maynard Keynes]] said of it: "In my opinion it is a grand book...Morally and philosophically I find myself in agreement with virtually the whole of it: and not only in agreement with it, but in deeply moved agreement."<ref>[http://reason.com/hayekint.shtml Reason Magazine - The Road from Serfdom<!-- Bot generated title -->]</ref> Having said that, Keynes did not think Hayek's philosophy was of ''practical'' use; this was explained later in the same letter, through the following comment: "What we need therefore, in my opinion, is not a change in our economic programmes, which would only lead in practice to disillusion with the results of your philosophy; but perhaps even the contrary, namely, an enlargement of them. Your greatest danger is the probable practical failure of the application of your philosophy in the United States."<ref>Hoover, Kenneth R. ''Economics as Ideology''. Rowman and Littlefield Publishers(2008) p. 152 ISBN 0742531139</ref> . 
+
+[[George Orwell]] responded with both praise and criticism, stating, "in the negative part of Professor Hayek's thesis there is a great deal of truth. It cannot be said too often — at any rate, it is not being said nearly often enough — that collectivism is not inherently democratic, but, on the contrary, gives to a tyrannical minority such powers as the Spanish Inquisitors never dreamt of." Yet he also warned, "[A] return to 'free' competition means for the great mass of people a tyranny probably worse, because more irresponsible, than that of the state."<ref>"Review of the Road to Serfdom by F.A. Hayek, etc" ''As I Please, 1943-1945: The Collected Essays, Journalism & Letters, Vol 3''</ref> . 
+
+Hayek's work was influential enough to warrant mention during the [[United Kingdom general election, 1945|1945 British general election]], when according to [[Harold Macmillan]], [[Winston Churchill]] was "fortified in his apprehensions [of a [[Labour Party (UK)|Labour]] government] by reading Professor Hayek's ''The Road to Serfdom''"<ref>Harold Macmillan, ''Tides of Fortune, 1945-1955'' (Harper & Row, 1969), p. 32. </ref> when he warned in an election broadcast in 1945 that a socialist system would "have to fall back on some form of [[Gestapo]]." The Labour leader [[Clement Attlee]] responded in his election broadcast by claiming that what Churchill had said was the "second-hand version of the academic views of an Austrian professor, Friedrich August von Hayek."<ref>{{cite web|url=http://www.libertystory.net/LSTHINKHAYEKLIFE.htm|title=Hayek, life and times|publisher=libertystory.net|accessdate=2007-05-14}}</ref> The [[Conservative Central Office]] sacrificed 1.5 tons of their precious paper ration allocated for the 1945 election so that more copies of ''The Road to Serfdom'' could be printed, although to no avail, as Labour won a landslide victory. <ref>[[David Willetts]] and Richard Forsdyke, ''After the Landslide: Learning the Lessons of 1906 and 1945'' (Centre for Policy Studies, 1999), p. 59. </ref> . 
+
+''The Road to Serfdom'' was placed fourth on the [http://www.nationalreview.com/100best/100_books.html list of the 100 best non-fiction books of the twentieth century] compiled by ''[[National Review]]'' magazine. It also made ''#16'' in reader selections of the hundred best non-fiction book of the twentieth century administered by [[Modern Library]]. <ref>[http://www.randomhouse.com/modernlibrary/100bestnonfiction.html 100 list of the 100 best non-fiction books by Modern Library]</ref> . 
+
+''The Road to Serfdom'' appears on [[Martin Seymour-Smith]]'s list of the ''[[100 Most Influential Books Ever Written]]'', whilst it made ''#1'' on [http://www.humanevents.com/article.php?id=18137/ Human Events: Top Ten Books Every Republican Congressman Should Read] in 2006.  . 
+
+Milton Friedman's assessment: . 
+
+<blockquote>
+I think the Adam Smith role was played in this cycle [i.e. the late twentieth century collapse of socialism in which the idea of free-markets succeeded first, and then special events catalyzed a complete change of socio-political policy in countries around the world] by Friedrich Hayek’s ''The Road to Serfdom''. <ref name=hayekcenterpage5>{{cite web |url=http://hayekcenter.org/?page_id=5 |title=Quotes on Hayek |publisher=[http://hayekcenter.org/ hayekcenter.org/]}}</ref>
+</blockquote> . 
+
+[[Alan Brinkley]]'s assessment: . 
+
+<blockquote>
+The publication of two books...helped to galvanize the concerns that were beginning to emerge among intellectuals (and many others) about the implications of totalitarianism. One was James Burnham’s The Managerial Revolution.. [A second] Friedrich A. Hayek’s ''The Road to Serfdom''.. was far more controversial — and influential. Even more than Burnham, Hayek forced into public discourse the question of the compatibility of democracy and statism... In responding to Burnham and Hayek...liberals [in the statist sense of this term as used by some in the United States] were in fact responding to a powerful strain of Jeffersonian anti-statism in American political culture... The result was a subtle but important shift in liberal [i.e. American statist] thinking. <ref name=hayekcenterpage5 />
+</blockquote> . 
+
+==Criticism==. 
+''The Road To Serfdom'' has been criticized on theoretical grounds. Economic sociologist [[Karl Polanyi]] made a case diametrically opposed to Hayek, arguing that unfettered markets had undermined the social order and that economic breakdown had paved the way for the emergence of dictatorship. <ref>Karl Polanyi, ''The Great Transformation''</ref> . 
+
+[[Herman Finer]], a [[Fabian Society|Fabian]] socialist, published a rebuttal in his ''The Road to Reaction'' in 1946. Hayek called Finer's book "a specimen of abuse and invective which is probably unique in contemporary academic discussion."<ref>George H. Nash, [http://www.isi.org/lectures/text/pdf/hayek4-3-04.pdf Hayek and the American Conservative Movement], [http://www.isi.org isi.org], April 3, 2004</ref> . 
+
+[[Barbara Wootton]] wrote ''Freedom under Planning'' after reading an early copy of ''The Road to Serfdom'' and claimed "Much of what I have written is devoted to criticism of the views put forward by Professor Hayek in this and other books."<ref>Barbara Wootton, ''Freedom under Planning'', p. 5. </ref> However, [[Frank Knight]], founder of the [[Chicago school (economics)|Chicago School of Economics]], wrote in a scholarly review of the Wootton book: "Let me repeat that the Wootton book is in no logical sense an answer to ''The Road to Serfdom'', whatever may be thought of the cogency of Hayek's argument, or the soundness of his position."<ref>{{cite journal | author = Knight, Frank | year = 1946 | title = Freedom Under Planning | journal = Journal of Political Economy | volume = 54 | issue = 5 | pages = 451–454 | doi = 10.1086/256402 | authorlink = Frank Knight}}</ref> . 
+
+In his review (collected in ''The Present as History'', 1953) [[Marxism|Marxist]] [[Paul Sweezy]] joked that Hayek would have you believe that if there was an over-production of baby carriages, the central planners would then order the population to have more babies instead of simply warehousing the temporary excess of carriages and decreasing production for next year. The [[cybernetics|cybernetic]] arguments of [[Stafford Beer]] in his 1974 CBC Massey Lectures, ''Designing Freedom''—that intelligent adaptive planning can increase freedom—are of interest in this regard, as is the technical work of [[Herbert Simon]] and [[Albert Ando]] on the dynamics of hierarchical nearly decomposable systems in economics—namely, that everything in such a system is not tightly coupled to everything else. <ref>See (full references on [[Herbert Simon]] entry) Simon's papers in his collected ''Models of Bounded Rationality'', a qualitative discussion in his ''Sciences of the Artificial'', and a full presentation of the mathematical theory by P.J. Courtois in his ''Decomposability: queueing and computer system applications'' (Academic Press, 1977). 
+The papers in the section "The Structure of Causal Systems" of Vol. 3 of ''Models of Bounded Rationality'' (MIT Press, 1997) provide a summary and review of Simon's work in this area. </ref> . 
+
+Jeffrey Sachs wrote that the social-welfare states, with high rates of taxation and social outlays, outperform the relatively free-market economies, according to the empirical evidence. <ref>[http://www.sciam.com/article.cfm?id=the-social-welfare-state ''The Social Welfare State, beyond Ideology''], by [[Jeffrey Sachs]], [[Scientific American]] October 2006</ref> [[William Easterly]] wrote a rebuttal<ref>[http://online.wsj.com/article/SB116355956112023480-search.html?KEYWORDS=Easterly&COLLECTION=wsjie/6month ''Dismal Science''], by [[William Easterly]], [[Wall Street Journal]], November 15, 2006</ref> and Sachs wrote a re-rebuttal. <ref>[http://www.earthinstitute.columbia.edu/news/2006/story11-27-06b.php ''Why Hayek Was Wrong: Sachs Responds to Easterly''], by Jeffrey Sachs, published to Wall Street Journal and re-produced by [[The Earth Institute]] at [[Columbia University]], November 27, 2006</ref> . 
+
+[[Eric Zencey]] wrote that the free market economy Hayek advocated is designed for an infinite planet, and when it runs into physical limits (as any growing system must), the result is a need for centralized planning to mediate the problematic interface of economy and nature. "Planning is planning, whether it's done to minimize poverty and injustice, as socialists were advocating then, or to preserve the minimum flow of ecosystem services that civilization requires, as we are finding increasingly necessary today."<ref>{{Cite journal|url=http://www.dailykos.com/story/2010/4/22/858654/-The-Other-Road-to-Serfdom-|title=The Other Road to Serfdom|publisher=[[The Daily Kos]]|date=April 20, 2010|postscript=<!--None-->}}</ref> . 
+
+===Libertarian/Conservative critics===. 
+[[File:Friedrich Hayek portrait.jpg|thumb|right|180px|[[Friedrich Hayek]]]] . 
+
+Mises Institute [[Libertarianism|libertarian]]/[[Anarcho-capitalism|anarcho-capitalist]] economist [[Walter Block]] has observed critically that while the ''The Road to Serfdom'' makes a strong case against centrally planned economies, it appears only lukewarm in its support of a [[free market]] system and ''[[laissez-faire]]'' [[capitalism]], with Hayek even going so far as to say that "probably nothing has done so much harm to the liberal cause as the wooden insistence of some liberals on certain rules of thumb, above all the principle of laissez-faire capitalism." In the book, Hayek writes that the government has a role to play in the economy through the monetary system (a view that he later withdrew),<ref>Hayek, Friedrich August von; ''The Denationalization of Money''. </ref> work-hours regulation, social welfare, and institutions for the flow of proper information. Through analysis of this and many other of Hayek's works, Block asserts that: "in making the case against socialism, Hayek was led into making all sort of compromises with what otherwise appeared to be his own philosophical perspective—so much so, that if a system was erected on the basis of them, it would not differ too sharply from what this author explicitly opposed."<ref name=blockserfdom>{{Cite journal | last = Block | first = Walter | authorlink = Walter Block
+ | title = Hayek's Road to Serfdom | journal = [[Journal of Libertarian Studies]] | volume = 12
+ | issue = 2 | pages = 339–365 | publisher = [[Center for Libertarian Studies]] | location =
+ | year = 1996 | url = http://mises.org/journals/jls/12_2/12_2_6.pdf | accessdate = 2010-02-17}}</ref> . 
+
+[[Gordon Tullock]] has argued Hayek's analysis predicted totalitarian governments in much of Europe in the late 20th century. He uses Sweden, in which the government at that time controlled 63 percent of [[GNP]], as an example to support his argument that the basic problem with ''The Road to Serfdom'' is "that it offered predictions which turned out to be false. The steady advance of government in places such as Sweden has not led to any loss of non-economic freedoms." While criticizing Hayek, Tullock still praises the classical liberal notion of economic freedom, saying, "Arguments for political freedom are strong, as are the arguments for economic freedom. We needn’t make one set of arguments depend on the other."<ref name=Tullock>{{Cite book | editor-last = Walker
+ | editor-first = Michael A. | contribution = Freedom, Democracy, and Economic Welfare
+ | contribution-url = http://www.fraserinstitute.org/research-news/display.aspx?id=13053 | series = Proc. of an International Symposium on Economic, Political, and Civil Freedom | date = October 5–8, 1986 | pages = 61
+ | place = [[Napa Valley, California|Napa Valley]] | publisher = [[The Fraser Institute]] | accessdate = 2010-04-12 | postscript =<!--None-->}}</ref> However, according to [[Robert Skidelsky]], Hayek "safeguarded himself from such retrospective refutation." Skidelsky argues that Hayek's argument was contingent, and that, "By the 1970s there was some evidence of the slippery slope…and then there was [[Margaret Thatcher|Thatcher]]. Hayek's warning played a critical part in her determination to 'roll back the state.'"<ref name=Skidelsky>{{Cite book|last = Skidelsky|first=Robert|author-link = Robert Skidelsky|editor-last=Feser|editor-first=Edward|title=The Cambridge Companion to Hayek|pages=82–110|publisher=Cambridge University Press|year=2006|contribution-url=Hayek versus Keynes|postscript =<!--None-->}}</ref> . 
+
+==See also==. 
+* [[Criticisms of communism]]
+* [[Criticisms of socialism]]
+* [[Economic calculation problem]]
+* [[New class]]
+* [[Nomenklatura]]
+* ''[[Individualism and Economic Order]]''
+* ''[[Law, Legislation and Liberty]]''
+* ''[[The Black Book of Communism]]''
+* ''[[The Constitution of Liberty]]''
+* ''[[The Fatal Conceit]]''
+* ''[[Omnipotent Government]]'' . 
+
+==Notes==. 
+{{Reflist|2}} . 
+
+==References==. 
+* {{cite book|last=Ebenstein|first=Alan O. |title=Friedrich Hayek: a biography|url=http://books.google.com/books?id=Kp8Uq8ve3EsC|year=2003|publisher=University of Chicago Press|isbn=9780226181509|ref=harv}}
+* {{cite book|last=Hayek|first=Friedrich August|authorlink=Friedrich Hayek|title=The road to serfdom|url=http://books.google.com/books?id=1QyQwvLDLycC|year=1994|publisher=University of Chicago Press|isbn=9780226320618|ref=harv}}
+* {{cite book|last=Hayek|first=Friedrich August|authorlink=Friedrich Hayek|title=The road to serfdom|url=http://books.google.com/books?id=fLovVMN6swkC|edition=Routledge Classics|year=2001|publisher=Routledge|isbn=9780415255431|ref=harv}}
+* {{cite book|last1=Hayek|first1=Friedrich August |last2=Caldwell|first2=Bruce |title=The road to serfdom: text and documents|url=http://books.google.com/books?id=qg61T_I1mwsC|edition=The definitive|year=2007|publisher=University of Chicago Press|isbn=9780226320557|ref=harv}} . 
+
+==External links==. 
+* {{cite web|url=http://www.press.uchicago.edu/Misc/Chicago/320553.html |title=The publication history of ''The Road to Serfdom'' |publisher=University of Chicago Press}}
+* {{cite web|url=http://www.iea.org.uk/sites/default/files/publications/files/upldbook43pdf.pdf |title=The condensed version of The Road to Serfdom by F. A. Hayek as it appeared in the April 1945 edition of Reader’s Digest |publisher=[http://www.iea.org.uk Institute of Economic Affairs]}}
+* {{cite web|url=http://www.mises.org/TRTS.htm |title=The Road to Serfdom in cartoons |publisher=[[Ludwig von Mises Institute]]; originally published in [[Look (American magazine)|LOOK Magazine]]}}
+* {{cite web|url=http://www.youtube.com/watch?v=sRS-Ft3uEz8 |title=Friedrich Hayek's 'The Road to Serfdom' in 5 Minutes |format=video |publisher=YouTube}} (cartoon version)
+* {{cite web|url=http://culturalshifts.com/archives/224 |title=The Road to Serfdom is a Good Book|author=Matthew Lymburner |date=March 25, 2008 |publication-date=January 2008 |publisher=[http://culturalshifts.com Cultural Shifts]}}
+* {{cite web|url=http://www.booknotes.org/Watch/61272-1/Milton+Friedman.aspx |title=Milton Friedman discussing F.A. Hayek's book, The Road to Serfdom|format=59 minute video |date=October 28, 1994|publisher=[http://www.booknotes.org Booknotes.org]}} . 
+
+{{DEFAULTSORT:Road To Serfdom, The}}
+[[Category:1944 books]]
+[[Category:Books in political philosophy]]
+[[Category:Economics books]]
+[[Category:Capitalist books]]
+[[Category:Classical liberalism]]
+[[Category:Conservatism in the United States]]
+[[Category:Libertarian books]]
+[[Category:University of Chicago Press books]]
+[[Category:Books by Friedrich Hayek]]

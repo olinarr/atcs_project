@@ -1,0 +1,67 @@
+An '''open primary''' is a [[primary election]] that does not require voters to be affiliated with a [[political party]] in order to vote for partisan candidates. In a traditional open primary, voters may select one party's ballot and vote for that party's nomination. As in a closed primary, the highest voted candidate in each party then proceeds to the [[runoff election]]. In a [[nonpartisan blanket primary]], all candidates appear on the same ballot and the two highest voted candidates proceed to the runoff, regardless of party affiliation. The [[constitutionality]] of this system was affirmed by the [[Supreme Court of the United States]] in 2008,<ref>[http://blog.washingtonpost.com/capitol-briefing/2008/03/supreme_court_upholds_washingt.html WashingtonPost.com]</ref> whereas a partisan [[blanket primary]] was previously ruled to be unconstitutional in 2000. <ref>http://www.sos.ca.gov/elections/elections_decline.htm</ref> . 
+
+==Pros and cons==. 
+===Voter participation=== . 
+
+The open primary could be seen as good for [[Voter turnout|voter participation]].  First, the open primary allows [[nonpartisan]] or [[independent (voter)|independent]] voters to participate in the [[nomination|nominating]] process. <ref name="heraldtribune.com">[http://www.heraldtribune.com/article/20080122/NEWS/801220494 HeraldTribune.com - News - News stories about Sarasota, Manatee and Charlotte counties in Florida, from the newspapers of record. - HeraldTribune.com<!-- Bot generated title -->]</ref> If these voters are allowed to help select the nominees then they may be more likely to vote in the general election, since one of the candidates could be someone the non-partisan voter voted for. Also, a [[moderate]] member of one party may agree more with a candidate for the nomination of another party. This voter will have more of an incentive to participate in the [[general election]] if there is a nominee whom he or she agrees with. <ref name="heraldtribune.com"/> . 
+
+The open primary could also be viewed as bad for voter participation. Statistics show that voter participation in the [[United States]] was higher when people could only vote in the primary for their own party.  In [[Hawaii]], primary voter turnout fell from 74.6% in 1978 to 42.2% in 2006 after changing to open primaries. <ref>{{cite web|url=http://the.honoluluadvertiser.com/article/2008/Jan/17/ln/hawaii801170342.html|title=Hawaii Democrats vote to keep open primary|accessdate=2008-02-27}}</ref> The closed primary system had more of an incentive for people to join one of the major parties. This led to people being more involved in the voting process. With the open primary, some argue, more voters become independent and are less likely to participate in the nominating or election processes. <ref name="heraldtribune.com"/> . 
+
+===Manipulation and dilution===. 
+[[Image:open.primaries.gif|right|333px|This is a test]]
+Opponents of the open primary believe that the open primary leaves the party nominations vulnerable to manipulation and [[Election#Difficulties with elections|dilution]]. First, one party could organize its voters to vote in the other party's primary and choose the candidate that they most agree with or that they think their party could most easily defeat. Secondly, in the open primary moderates and independent voters can vote in either party. This occurrence may dilute the vote of a particular party and lead to a nominee who does not represent the views of his particular party.  . 
+
+For example, in the [[Republican Party (United States) presidential primaries, 2008|2008 presidential primaries]], exit polls say [[John McCain]] failed to win a single race among [[Republican Party (United States)|Republican]] voters, up to Super Tuesday, yet during that same period he went from also-ran to front runner, because most non-Republicans who crossed over voted for him. In New Hampshire, Mitt Romney won among registered Republicans, but John McCain won overall [http://www.cnn.com/ELECTION/2008/primaries/results/epolls/index.html#NHREP]. Likewise, in South Carolina, Mike Huckabee won among self-identified Republicans, but John McCain won the state [http://www.msnbc.msn.com/id/21228202].  . 
+
+Similarly, some Republican advocates called for Republicans to cross over and vote in the Democratic race, to help Hillary Clinton win, on the premise that Obama had a better chance of beating their candidate. [[The Rush Limbaugh Show]]'s "Operation Chaos" is the best known of these movements.  . 
+
+===Constitutional issues===. 
+Opponents of the open primary argue that the open primary is [[Constitutionality|unconstitutional]]. These opponents believe that the open primary law violates their [[freedom of association]], because it forces them to allow outsiders to select their candidates.  . 
+
+Freedom of association has been recognized by the [[Supreme Court of the United States|United States Supreme Court]]. First, in [[National Association for the Advancement of Colored People v. Alabama|NAACP v. Alabama]], the court said that “It is beyond debate that freedom to engage in association for the advancement of beliefs and ideas is an inseparable aspect of the "liberty" assured by the Due Process Clause of the [[Fourteenth Amendment to the United States Constitution|Fifth and Fourteenth Amendment]], which embraces freedom of speech.”<ref>NAACP v. Alabama, http://caselaw.lp.findlaw.com/cgi-bin/getcase.pl?navby=volpage&court=us&vol=357&page=460#460</ref>   . 
+
+In other words, the freedom of association is part of the freedom of speech. The [[freedom of speech]], which is found in the [[First Amendment to the United States Constitution]], is applied to the states through the fourteenth amendment. In ''[[Gitlow v. New York]]'', Justice Sanford states that “[f]or present purposes we may and do assume that freedom of speech and of the press-which are protected by the First Amendment from abridgment by Congress-are among the fundamental personal rights and 'liberties' protected by the due process clause of the Fourteenth Amendment from impairment by the States.”<ref>Gitlow v. New York, http://caselaw.lp.findlaw.com/cgi-bin/getcase.pl?court=us&vol=268&invol=652</ref> . 
+
+This constitutionality raises a problem. The most popular alternative to the open primary is the closed primary. However, a mandatory closed primary can also be unconstitutional. In ''[[Tashjian v. Republican Party of Connecticut]]'', the United States Supreme Court determined that [[Connecticut]]’s closed primary law was unconstitutional. The Connecticut closed primary law “[required] voters in any political party primary to be registered members of that party.”<ref>Tashjian v. Republican Party of Connecticut, http://laws.findlaw.com/us/479/208.html. </ref> The [[Republican Party (United States)|Republican Party]] of Connecticut, however, wanted to allow independents to vote in the Republican primary if they so chose. The problem with this closed primary law was that it prevented the Republican Party from allowing independent “registered voters not affiliated with any party to vote in Republican primaries for federal and statewide offices.”<ref name="ReferenceA">Tashjian v. Republican Party of Connecticut</ref> Since the Republican Party of Connecticut was not able to choose who it wanted to vote in the primary, the United States Supreme Court, in a 6-3 decision, stated that the closed primary law in Connecticut “impermissibly burdens the right of the Party and its members protected by the First and Fourteenth Amendments.”<ref name="ReferenceA"/> . 
+
+On October 1, 2007, the [[United States court of appeals|U.S. Court of Appeals]] for the Fourth Circuit ruled that the Virginia mandatory open primary statute was unconstitutional as applied to the Republicans because it imposed a burden on their freedom to associate under the First Amendment, although it explicitly did not rule on the question of whether an open primary law was in general unconstitutional as a burden on association. <ref>Miller v. Brown. </ref> . 
+
+==Alternatives==. 
+The alternative most supported by opponents of the open primary is the [[closed primary]].  . 
+
+A third alternative is the "modified closed primary", as has been in effect in [[California]] since 2001. In California's primary, each political party may decide whether or not they wish to allow [[unaffiliated voter]]s to vote in their party's primary. This appears to avoid the constitutional flaws of both the "open" and the "closed" primary as discussed above. In the 2004 and 2006 primary elections, the Republican, Democratic, and [[American Independent Party|American Independent]] parties all opted to allow unaffiliated voters to request their party's ballot.  However, for the 2008 presidential primary election, only the [[Democratic Party (United States)|Democratic]] and American Independent parties took this option, while the Republican party did not. <ref>California Secretary of State, http://www.sos.ca.gov/elections/npp.htm</ref> . 
+
+==States with an open presidential primary==. 
+*[[Alabama]]
+*[[Arizona]] (Semi-closed, with primaries open only to unaffiliated or unrepresented voters, except for the Libertarian primary.)
+*[[Arkansas]]
+*[[Georgia (U.S. state)|Georgia]]
+*[[Hawaii]] (Open primary for state, local, and congressional races; caucus system for presidential races.)
+*[[Idaho]]
+*[[Illinois]]
+*[[Massachusetts]] (All races' primaries open for "unenrolled"/unaffiliated voters only)
+*[[Michigan]]
+*[[Minnesota]]
+*[[Mississippi]]
+*[[Missouri]]
+*[[New Hampshire]]
+*[[North Dakota]]
+*[[South Carolina]]
+*[[Tennessee]]
+*[[Texas]]
+*[[Vermont]]
+*[[Virginia]]
+*[[Wisconsin]]<ref>[http://www.fairvote.org/?page=1801 FairVote - Primaries: Open and Closed<!-- Bot generated title -->]</ref> . 
+
+==States with open primaries for other elections== . 
+
+A similar system known as a [[nonpartisan blanket primary]] has been used in [[Louisiana]] for state and local elections since 1976, and began to be used in [[Washington (U.S. state)|Washington]], after numerous court challenges, in 2008.  . 
+
+In California, under Proposition 14, a measure that easily passed, traditional party primaries will be replaced in 2011 with wide-open elections. Proposition 14, known as the open primary measure, will give every voter the same ballot in primary elections for most state and federal races, except the presidential contest. <ref>{{cite news| url=http://www.nytimes.com/2010/06/10/us/politics/10prop.html?hp | work=The New York Times | title=Calif. Voting Change Could Signal Big Political Shift | first=Jesse | last=McKinley | date=June 9, 2010}}</ref><ref>{{cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/06/09/MN0V1DNDMQ.DTL | work=The San Francisco Chronicle | title=Voters approve Prop. 14, open primary measure | first1=Wyatt | last1=Buchanan | first2=Carolyn | last2=Jones | date=August 8, 2010}}</ref> . 
+
+==Notes and references==. 
+{{Reflist|1}} . 
+
+{{DEFAULTSORT:Open Primaries In The United States}}
+[[Category:Voting systems]] 
+[[Category:Elections in the United States]]

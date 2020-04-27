@@ -1,0 +1,323 @@
+{{Infobox U.S. legislation
+| name = Civil Rights Act of 1964
+| fullname = An act to enforce the constitutional right to vote, to confer jurisdiction upon the district courts of the United States of America to provide injunctive relief against discrimination in public accommodations, to authorize the Attorney General to institute suits to protect constitutional rights in public facilities and public education, to extend the Commission on Civil Rights, to prevent discrimination in federally assisted programs, to establish a Commission on Equal Employment Opportunity, and for other purposes. 
+| enacted by = 88th
+| effective date = July 2, 1964
+| public law url = http://library.clerk.house.gov/reference-files/PPL_CivilRightsAct_1964.pdf
+| cite public law = 88-352
+| {{UnitedStatesCode|1981|1996b}}
+| cite statutes at large = {{USStat|78|241}}
+| acts amended =
+| title amended =42
+| sections created =
+| sections amended =
+| leghisturl =
+| introducedin = House
+| introducedbill = H.R. 7152
+| introducedby = [[Emanuel Celler]] ([[Democratic Party (United States)|D]]–[[New York|NY]])
+| introduceddate = June 20, 1963
+| committees = [[United States House Committee on the Judiciary|Judiciary]]
+| passedbody1 = House
+| passeddate1 = February 10, 1964
+| passedvote1 = 290–130
+| passedbody2 = Senate
+| passeddate2 = June 19, 1964
+| passedvote2 = 71–29
+| agreedbody3 = House
+| agreeddate3 = June 30, 1964
+| agreedvote3 = 289–126
+| signedpresident = [[Lyndon B. Johnson]]
+| signeddate = July 2, 1964
+| amendments =[[Civil Rights Act of 1991]]
+| SCOTUS cases =''[[Heart of Atlanta Motel v. United States]]<br>[[Katzenbach v. McClung]]<br>[[Griggs v. Duke Power Co.]]''<br>''[[Ricci v. DeStefano]]''
+}}
+The '''Civil Rights Act of 1964''' ({{USStatute|88|352|78|241|1964|07|02}}) was a landmark piece of legislation in the [[United States]]<ref>Wright, Susan (2005), ''The Civil Rights Act of 1964: Landmark Antidiscrimination Legislation'', The Rosen Publishing Group, ISBN 1-4042-0455-5</ref> that outlawed major forms of discrimination against African Americans and women, including racial segregation. It ended unequal application of voter registration requirements and [[racial segregation]] in schools, at the workplace and by facilities that served the general public ("public accommodations").  . 
+
+Powers given to enforce the act were initially weak, but were supplemented during later years. Congress asserted its authority to legislate under several different parts of the [[United States Constitution]], principally its power to regulate [[interstate commerce]] under [[Article One of the United States Constitution|Article One]] (section 8), its duty to guarantee all citizens [[equal protection]] of the laws under the [[Fourteenth Amendment to the U.S. Constitution|Fourteenth Amendment]] and its duty to protect voting rights under the [[Fifteenth Amendment to the United States Constitution|Fifteenth Amendment]].  The Act was signed into [[law]] by [[President of the United States|President]] [[Lyndon B. Johnson]], who would later sign the landmark [[Voting Rights Act]] into law.  . 
+
+==Origins==. 
+[[Image:Civilrightsact1964.jpg|thumb|left|First page of the Civil Rights Act of 1964]]
+[[Image:President Kennedy addresses nation on Civil Rights, 11 June 1963.jpg|thumb|John F. Kennedy addresses the nation about Civil Rights on June 11, 1963]] . 
+
+The bill was called for by President [[John F. Kennedy]] in his [[Civil Rights Address|civil rights speech]] of June 11, 1963,<ref>{{cite web|url=http://www.jfklibrary.org/Historical+Resources/Archives/Reference+Desk/Speeches/JFK/003POF03CivilRights06111963.htm |title=Transcript from the JFK library |publisher=the JFK library. |date=1963-06-11 |accessdate=2010-06-06}}</ref> in which he asked for legislation "giving all Americans the right to be served in facilities which are open to the public—hotels, restaurants, theaters, retail stores, and similar establishments," as well as "greater protection for the right to vote." Kennedy delivered this speech following a series of [[African-American Civil Rights Movement (1955–1968)|protests from the African-American community]], the most concurrent being the [[Birmingham campaign]] which concluded in May 1963.  . 
+
+Emulating the [[Civil Rights Act of 1875]], Kennedy's civil rights bill included provisions to ban discrimination in public accommodations, and to enable the [[United States Attorney General|U.S. Attorney General]] to join in lawsuits against state governments which operated segregated school systems, among other provisions. However, it did not include a number of provisions deemed essential by civil rights leaders including protection against police brutality, ending discrimination in private employment, or granting the Justice Department power to initiate desegregation or job discrimination lawsuits. <ref>[http://www.crmvet.org/tim/timhis64.htm#1964cra64h Civil Rights Act Passes in the House] ~ Civil Rights Movement Veterans</ref>
+[[Image:Lyndon  Johnson signing Civil Rights Act, 2 July, 1964.jpg|thumb|left|[[Lyndon B. Johnson]] signs the Civil Rights Act of 1964. Among the guests behind him is [[Martin Luther King, Jr.]]]] . 
+
+===Committee & Passage in the House of Representatives=== . 
+
+President Kennedy met with the Republican leaders on June 11, 1963 prior to his television address that night to discuss the legislation. On June 13, [[Everett McKinley Dirksen]], [[Senate Minority Leader]], and [[Mike Mansfield]], [[Senate Majority Leader]], both voiced support for the president's bill except for provisions guaranteeing equal access to places of public accommodations. This led to several Republican Congressmen drafting a compromise bill to be considered. On June 19, the president sent his bill to Congress as it was originally written, saying legislative action was "imperative". <ref>Loevy, Robert (1997), ''The Civil Rights Act of 1964: The Passage of the Law that Ended Racial Segregation'', State University of New York Press, p. 171. ISBN 0-7914-3362-5</ref><ref>Golway, Terry and Krantz, Les (2010), ''JFK: Day by Day'', Running Press, p. 284. ISBN 978-0-7624-3742-9</ref> The president's bill first went to the [[United States House of Representatives|House of Representatives]], and referred to the [[United States House Committee on the Judiciary|House Judiciary Committee]], chaired by [[Emmanuel Celler]], a Democrat from [[New York]]. After a series of hearings on the bill, Celler's committee strengthened the act, adding provisions to ban racial discrimination in employment, providing greater protection to black voters, eliminating segregation in all publicly owned facilities (not just schools), and strengthening the anti-segregation clauses regarding public facilities such as lunch counters. They also added authorization for the Attorney General to file lawsuits to protect individuals against the deprivation of any rights secured by the Constitution or U.S. law. In essence, this was the controversial "Title III" that had been removed from the [[Civil Rights Act of 1957|1957]] and [[Civil Rights Act of 1960|1960]] Acts. Civil rights organizations pressed hard for this provision because it could be used to protect peaceful protesters and black voters from police brutality and suppression of free speech rights.  . 
+
+Kennedy called the congressional leaders to the White House in late October, 1963 to line up the necessary votes in the House for passage. <ref>Reeves, Richard (1993), ''President Kennedy: Profile of Power'', pp. 628-631</ref> The bill was reported out of the Judiciary Committee in November 1963, and referred to the [[United States House Committee on Rules|Rules Committee]], whose chairman, [[Howard W. Smith]], a Democrat and avid segregationist from [[Virginia]], indicated his intention to keep the bill bottled up indefinitely.  . 
+
+===Johnson and passage===. 
+In late November 1963 the [[assassination of John F. Kennedy]] changed the political situation. The new president, [[Lyndon Johnson]], utilized his experience in legislative politics and the [[bully pulpit]] he wielded as president in support of the bill. In his first address to Congress on November 27, 1963, Johnson told the legislators, "No memorial oration or eulogy could more eloquently honor President Kennedy's memory than the earliest possible passage of the civil rights bill for which he fought so long."<ref>[http://www.upi.com/Audio/Year_in_Review/Events-of-1963/Transition-to-Johnson/12295509434394-3/ 1963 Year In Review - Part 1: Transition to Johnson]</ref> . 
+
+Chairman Celler filed a petition to discharge the bill from the Committee; it required a majority to move the bill to the floor. Initially Celler had a difficult time acquiring the signatures necessary, as even many congressmen who supported the civil rights bill itself were cautious about violating House procedure with the discharge petition.  By the time of the 1963 winter recess, 50 signatures were still needed.  . 
+
+[[Image:CivilRightsAct1964-HouseRollCall-HR7152.jpg|left|thumb|200px|The record of the [[roll call vote]] kept by the [[House Clerk]] on final passage of the bill.]]
+On the return of Congress from the winter recess, however, it became apparent that public opinion in the North favored the bill and the petition would acquire the necessary signatures. To prevent the humiliation of the success of the petition, Chairman Smith allowed the bill to pass through the Rules Committee.  The bill was brought to a vote in the House on February 10, 1964, and passed by a vote of 290 to 130, and sent to the Senate.  . 
+
+===Passage in the Senate===. 
+[[Image:MLK and Malcolm X USNWR cropped.jpg|thumb|right|200px|[[Martin Luther King, Jr.]] and [[Malcolm X]] at the [[United States Capitol]] on March 26, 1964. Both men had come to hear the Senate debate on the bill.  This was the only time the two men ever met; their meeting lasted only one minute. <ref>{{cite book |last=Cone |first=James H. |authorlink=James Hal Cone |title=Martin & Malcolm & America: A Dream or a Nightmare |year=1991 |isbn=0-88344-721-5 |page=2 }}</ref>]] Johnson, who wanted the bill passed as soon as possible, ensured that the bill would be quickly considered by the [[United States Senate|Senate]].  Normally, the bill would have been referred to the [[United States Senate Committee on the Judiciary|Senate Judiciary Committee]], chaired by Senator [[James O. Eastland]], [[Democratic Party (United States)|Democrat]] from [[Mississippi]].  Given Eastland's firm opposition, it seemed impossible that the bill would reach the Senate floor. [[Senate Majority Leader]] [[Mike Mansfield]] took a novel approach to prevent the bill from being relegated to Judiciary Committee limbo.  Having initially waived a second reading of the bill, which would have led to it being immediately referred to Judiciary, Mansfield gave the bill a second reading on February 26, 1964, and then proposed, in the absence of precedent for instances when a second reading did not immediately follow the first, that the bill bypass the Judiciary Committee and immediately be sent to the Senate floor for debate. Although this parliamentary move led to a [[filibuster]], the senators eventually let it pass, preferring to concentrate their resistance on passage of the bill itself.  . 
+
+The bill came before the full Senate for debate on March 30, 1964 and the "Southern Bloc" of 18 southern Democratic Senators and one Republican Senator led by [[Richard Russell, Jr.|Richard Russell]] (D-GA) launched a filibuster to prevent its passage. <ref>{{cite web|url=http://www.congresslink.org/print_basics_histmats_civilrights64text.htm |title=Major Features of the Civil Rights Act of 1964 |publisher=Congresslink.org |date= |accessdate=2010-06-06}}</ref> Said Russell: "We will resist to the bitter end any measure or any movement which would have a tendency to bring about [[social equality]] and [[miscegenation|intermingling and amalgamation of the races]] in our (Southern) states."<ref>{{cite web|url=http://www.spartacus.schoolnet.co.uk/USAcivil64.htm |title=Civil Rights Act of 1964 |publisher=Spartacus.schoolnet.co.uk |date= |accessdate=2010-06-06}}</ref> . 
+
+The most fervent opposition to the bill came from Senator [[Strom Thurmond]] <!-- Thurmond was a Democrat at the time -->(D-SC): "This so-called Civil Rights Proposals, which the President has sent to Capitol Hill for enactment into law, are unconstitutional, unnecessary, unwise and extend beyond the realm of reason. This is the worst civil-rights package ever presented to the Congress and is reminiscent of the [[Reconstruction era of the United States|Reconstruction]] proposals and actions of the [[Radical Republicans|radical Republican]] Congress."<ref>[http://www.upi.com/Audio/Year_in_Review/Events-of-1963/Civil-Rights-Bill/12295509434394-8/ 1963 Year In Review – Part 1 – Civil Rights Bill] United Press International, 1963</ref> . 
+
+After 54 days of filibuster, Senators [[Everett Dirksen]] (R-IL), [[Thomas Kuchel]] (R-CA), [[Hubert Humphrey]] (D-MN), and [[Mike Mansfield]] (D-MT) introduced a substitute bill that they hoped would attract enough Republican swing votes to end the filibuster. The compromise bill was weaker than the House version in regard to government power to regulate the conduct of private business, but it was not so weak as to cause the House to reconsider the legislation. <ref>[http://www.crmvet.org/tim/timhis64.htm#1964cra64s Civil Rights Act — Battle in the Senate] ~ Civil Rights Movement Veterans</ref> . 
+
+On the morning of June 10, 1964, Senator [[Robert Byrd]] (D-W.Va.) completed a filibustering address that he had begun 14 hours and 13 minutes earlier opposing the legislation. Until then, the measure had occupied the Senate for 57 working days, including six Saturdays. A day earlier, Democratic Whip Hubert Humphrey of Minnesota, the bill's manager, concluded he had the 67 votes required at that time to end the debate and end the filibuster. With six wavering senators providing a four-vote victory margin, the final tally stood at 71 to 29. Never in history had the Senate been able to muster enough votes to cut off a filibuster on a civil rights bill. And only once in the 37 years since 1927 had it agreed to cloture for any measure. <ref>[http://www.senate.gov/artandhistory/history/minute/Civil_Rights_Filibuster_Ended.htm Civil Rights Filibuster Ended] – United States Senate</ref> . 
+
+{{Listen
+|filename=Remarks upon Signing the Civil Rights Bill (July 2, 1964) Lyndon Baines Johnson.theora.ogv
+|title="Remarks upon Signing the Civil Rights Act of 1964"
+|description=Public statement by [[Lyndon B. Johnson]] of July 2, 1964 about the Civil Rights Act of 1964. 
+|filename2=LBJ Civil Rights signing 1964 edited.ogg
+|title2="Remarks upon Signing the Civil Rights Act of 1964"
+|description2=audio only
+|format=[[Ogg]]
+}} . 
+
+On June 19, the substitute (compromise) bill passed the Senate by a vote of 71–29, and quickly passed through the House-Senate [[United States Congress Conference committee|conference committee]], which adopted the Senate version of the bill.  The conference bill was passed by both houses of Congress, and was signed into law by President Johnson on July 2, 1964. <ref>Dallek, Robert (2004), ''Lyndon B. Johnson: Portrait of a President'', p. 169</ref> . 
+
+===Vote totals===. 
+Totals are in "''Yea''-''Nay''" format:
+*The original House version: 290-130 &nbsp; (69%–31%). 
+*Cloture in the Senate: 71-29 &nbsp; (71%–29%). 
+*The Senate version: 73-27 &nbsp; (73%–27%). 
+*The Senate version, as voted on by the House: 289-126 &nbsp; (70%–30%).  . 
+
+====By party====. 
+The original House version:<ref name=King>{{cite book |first=Desmond |last=King |title=Separate and Unequal: Black Americans and the US Federal Government |year=1995 |page=311}}</ref> . 
+
+*Democratic Party: 152-96 &nbsp; (61%-39%)
+*Republican Party: 138-34 &nbsp; (80%-20%) . 
+
+Cloture in the Senate:<ref>{{cite conference
+ | first = Gyung-Ho
+ | last = Jeong
+ | coauthors = Gary J. Miller, Itai Sened
+ | date = 2009-03-14
+ | title = Closing The Deal: Negotiating Civil Rights Legislation
+ | conference = 67th Annual Conference of the Midwest Political Science Association
+ | conferenceurl = http://www.mpsanet.org/
+ | page = 29
+ | url = http://polisci.wustl.edu/media/faculty/MidwestJMS.pdf
+ | accessdate = 2009-11-04
+}}</ref> . 
+
+*Democratic Party: 44-23 &nbsp; (66%–34%)
+*Republican Party: 27-6 &nbsp; (82%–18%) . 
+
+The Senate version:<ref name="King" /> . 
+
+*Democratic Party: 46-21 &nbsp; (69%–31%)
+*Republican Party: 27-6 &nbsp; (82%–18%) . 
+
+The Senate version, voted on by the House:<ref name="King" /> . 
+
+*Democratic Party: 153-91 &nbsp; (63%–37%)
+*Republican Party: 136-35 &nbsp; (80%–20%) . 
+
+====By party and region====. 
+'''Note:''' "Southern", as used in this section, refers to members of Congress from the eleven states that made up the [[Confederate States of America]] in the [[American Civil War]]. "Northern" refers to members from the other 39 states, regardless of the geographic location of those states.  . 
+
+The original House version: . 
+
+*Southern Democrats: 7–87 &nbsp; (7%–93%)
+*Southern Republicans: 0–10 &nbsp; (0%–100%) . 
+
+*Northern Democrats: 145-9 &nbsp; (94%–6%)
+*Northern Republicans: 138-24 &nbsp; (85%–15%) . 
+
+The Senate version: . 
+
+*Southern Democrats: 1–20 &nbsp; (5%–95%)
+*Southern Republicans: 0–1 &nbsp; (0%–100%)
+*Northern Democrats: 45-1 &nbsp; (98%–2%)
+*Northern Republicans: 27-5 &nbsp; (84%–16%) . 
+
+==Women's rights==. 
+[[Image:CivilRightsAct1964-HouseRollCall-Sex-Amendment.jpg‎|right|thumb|200px|[[House Rules Committee]] clerk's record of [[markup (legislation)|markup session]] adding "sex" to bill.]]
+‎
+Just one year prior, the same Congress had passed the [[Equal Pay Act of 1963]], which prohibited wage differentials based on sex. 
+The prohibition on sex discrimination was added by [[Howard W. Smith]], a powerful Virginia Democrat who chaired the House Rules Committee and who had strongly opposed the Civil Rights Act. Smith's amendment was passed by a teller vote of 168 to 133. Historians debate Smith's motivation—was it a [[Wrecking amendment|cynical attempt to defeat the bill]] by someone opposed to both civil rights for blacks and women, or did he support women's rights and was attempting to improve the bill by broadening it to include women?<ref name="Freeman">Freeman, Jo. "How 'Sex' Got Into Title VII: Persistent Opportunism as a Maker of Public Policy," ''Law and Inequality: A Journal of Theory and Practice'', Vol. 9, No. 2, March 1991, pp 163–184. [http://www.jofreeman.com/lawandpolicy/titlevii.htm online version]</ref><ref>Rosenberg, Rosalind (2008), ''Divided Lives: American Women in the Twentieth Century‎'', pp. 187-88</ref><ref>Gittinger, Ted and Fisher, Allen, [http://www.archives.gov/publications/prologue/2004/summer/civil-rights-act-2.html LBJ Champions the Civil Rights Act of 1964, Part 2], Prologue Magazine, The National Archives, Summer 2004, Vol. 36, No. 2 ("Certainly Smith hoped that such a divisive issue would torpedo the civil rights bill, if not in the House, then in the Senate.")</ref><ref name="'70s 245">{{cite book |title= How We Got Here: The '70s|last= Frum|first= David|authorlink= David Frum|coauthors= |year= 2000|isbn= 0-465-04195-7|page= |pages= 245–246, 249|url= }}</ref> Smith expected that Republicans, who had included equal rights for women in their party's platform since 1944, would probably vote for the amendment. Historians speculate that Smith was trying to embarrass northern Democrats who opposed civil rights for women because the clause was opposed by labor unions. Representative [[Carl Elliott]] of Alabama later claimed, "Smith didn't give a damn about women's rights...he was trying to knock off votes either then or down the line because there was always a hard core of men who didn't favor women's rights,"<ref>Dierenfield, Bruce J. "Conservative Outrage: the Defeat in 1966 of Representative Howard W. Smith of Virginia." ''Virginia Magazine of History and Biography'' 1981 89 (2): p. 194</ref> and the ''[[Congressional Record]]'' records that Smith was greeted by laughter when he introduced the amendment. <ref name="Gold">Gold, Michael Evan. ''A Tale of Two Amendments: The Reasons Congress Added Sex to Title VII and Their Implication for the Issue of Comparable Worth.'' Faculty Publications — Collective Bargaining, Labor Law, and Labor History. Cornell, 1981 [http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1010&context=cbpubs]</ref> . 
+
+Smith asserted that he was not joking; he sincerely supported the amendment and, indeed, along with Rep. [[Martha Griffiths]],<ref>Olson, Lynne (2001), ''Freedom's Daughters: The Unsung Heroines of the Civil Rights Movement'', p. 360</ref> he was the chief spokesperson for the amendment. <ref name="Gold"/> For twenty years Smith had sponsored the Equal Rights Amendment (with no linkage to racial issues) in the House because he believed in it.  He for decades had been close to the [[National Woman's Party]] and its leader  [[Alice Paul]], one of the leaders in winning the vote for women back in 1920 and the chief supporter of equal rights proposals since then. She and other feminists had worked with Smith since 1945 trying to find a way to include sex as a protected civil rights category. Now was the moment. <ref>Rosenberg, Rosalind (2008), ''Divided Lives: American Women in the Twentieth Century‎'', p. 187 notes that Smith had been working for years with two Virginia feminists on the issue. </ref> Griffiths argued that the new law would protect black women but not white women, and that was unfair to white women. Furthermore, she argued that the laws "protecting" women from unpleasant jobs were actually designed to enable men to monopolize those jobs, and that was unfair to women who were not allowed to try out for those jobs. <ref>Harrison, Cynthia (1989), ''On Account of Sex: The Politics of Women's Issues, 1945–1968'', p. 179</ref> The amendment passed with the votes of Republicans and Southern Democrats. The final law passed with the votes of Republicans and Northern Democrats. Thus, as Justice [[William Rehnquist]] explained in ''[[Meritor Savings Bank v. Vinson]],'' “The prohibition against discrimination based on sex was added to Title VII at the last minute on the floor of the House of Representatives...the bill quickly passed as amended, and we are left with little legislative history to guide us in interpreting the Act’s prohibition against discrimination based on ‘sex.’”<ref>(477 U.S. 57, 63–64)</ref> . 
+
+==Desegregation==. 
+One of the most "damaging" arguments by the bill's opponents was that once passed, the bill would require [[desegregation busing in the United States|forced busing]] to achieve certain [[racial quotas]] in schools. <ref name="'70s 251">{{cite book |title= How We Got Here: The '70s|last= Frum|first= David|authorlink= David Frum|coauthors= |year= 2000|page= |pages= 251–252|url= }}</ref> Proponents of the bill, such as [[Emanuel Celler]] and [[Jacob Javits]], said that the bill would not authorize such measures. Leading sponsor [[Hubert Humphrey]] wrote two amendments specifically designed to outlaw busing. <ref name="'70s 251"/> Humphrey said "if the bill were to compel it, it would be a violation [of the Constitution], because it would be handling the matter on the basis of race and we would be transporting children because of race."<ref name="'70s 251"/> While Javits said any government official who sought to use the bill for busing purposes "would be making a fool of himself," two years later the [[Department of Health, Education and Welfare]] said that Southern school districts would be required to meet mathematical ratios of students by busing. <ref name="'70s 251"/> . 
+
+==Political repercussions==. 
+{{see also|Realigning election}}
+[[Image:LBJ Civil Rights Act crowd.jpg|thumb|right|200px|President Johnson speaks to a television camera at the signing of the Civil Rights Act.]]
+The bill divided and engendered a long-term change in the demographics of both parties. President Johnson realized that supporting this bill would risk losing the South's overwhelming support of the Democratic Party. Both Attorney General Robert Kennedy and Vice President Johnson had pushed for the introduction of the civil rights legislation. Johnson told Kennedy aide [[Ted Sorensen]] that "I know the risks are great and we might lose the South, but those sorts of states may be lost anyway."<ref>Kotz, Nick (2005), ''Judgment Days: Lyndon Baines Johnson, Martin Luther King, Jr., and the Laws that Changed America'', p. 61. </ref> Senator [[Richard Russell, Jr.]] warned President Johnson that his strong support for the civil rights bill "will not only cost you the South, it will cost you the election."<ref>Branch, Taylor (1998), ''Pillar of Fire'', p. 187. </ref> Johnson, however, went on to win the 1964 election by one of the biggest landslides in American history. The South, which had started to vote increasingly Republican beginning in the 1930s, continued that trend, becoming the stronghold of the Republican party by the 1990s. <ref>{{cite web |last=Brownstein |first=Ronald |title=For GOP, A Southern Exposure |date=May 23, 2009 |url=http://www.nationaljournal.com/njmagazine/cs_20090523_2195.php |work=[[National Journal]]|accessdate=July 7, 2010}}</ref> Political scientists [[Richard Johnston (politicial scientist)|Richard Johnston]] and [[Byron Schafer]] have argued that this development was based more on economics than on race. <ref>Johnston, Richard and Shafer, Byron, ''The End of Southern Exceptionalism'', (Harvard, 2006). </ref> . 
+
+Although majorities in both parties voted for the bill, there were notable exceptions. [[Republican Party (United States)|Republican]] senator [[Barry Goldwater]] of Arizona voted against the bill, remarking, "You can't legislate morality." Goldwater had supported previous attempts to pass Civil Rights legislation in 1957 and 1960 as well as the [[24th Amendment]] outlawing the [[poll tax]]. He stated that the reason for his opposition to the 1964 bill was Title II, which in his opinion violated individual liberty and [[States' rights|states rights]]. Civil rights supporters dismissed Goldwater's individual liberty argument by noting that he expressed no opposition to [[Racial segregation in the United States|segregation]] laws forcing business owners to operate on a segregated basis. Most Democrats from the Southern states opposed the bill and led an unsuccessful 83-day filibuster, including Senators [[Albert Gore, Sr.]] (D-TN), [[J. William Fulbright]] (D-AR), and [[Robert Byrd]] (D-WV), who personally filibustered for 14 hours straight.  . 
+
+==Major features of the Civil Rights Act of 1964==. 
+(The full text of the Act is available [http://www.ourdocuments.gov/doc.php?flash=true&doc=97&page=transcript online].) . 
+
+===Title I===. 
+Barred unequal application of voter registration requirements.  . 
+
+:"It shall be the duty of the judge designated pursuant to this section to assign the case for hearing at the earliest practicable date and to cause the case to be in every way expedited."' . 
+
+Title I did not eliminate literacy tests, which were one of the main methods used to exclude Black voters, other racial minorities, and poor Whites in the South, nor did it address economic retaliation, police repression, or physical violence against nonwhite voters.  While the Act did require that voting rules and procedures be applied equally to all races, it did not abolish the concept of voter "qualification", that is to say, it accepted the idea that citizens do not have an automatic right to vote but rather might have to meet some standard beyond citizenship. <ref>[http://www.crmvet.org/tim/timhis64.htm#1964vreffect Voting Rights] ~ Civil Rights Movement Veterans</ref><ref>{{cite web |url=http://www.congresslink.org/print_basics_histmats_civilrights64text.htm |title=Major Features of the Civil Rights Act of 1964 |work=CongressLink |publisher=The Dirksen Congressional Center |accessdate=March 14, 2010}}</ref>   It was the [[Voting Rights Act]], enacted one year later in 1965, that directly addressed and eliminated most voting qualifications beyond citizenship.  . 
+
+===Title II===. 
+Outlawed discrimination based on race, color, religion or national origin in hotels, motels, restaurants, theaters, and all other public accommodations engaged in interstate commerce; exempted private clubs without defining the term "private." . 
+
+===Title III===. 
+Prohibited state and municipal governments from denying access to public facilities on grounds of race, color, religion or national origin.  . 
+
+===Title IV===. 
+Encouraged the desegregation of public schools and authorized the U.S. Attorney General to file suits to enforce said act.  . 
+
+===Title V===. 
+Expanded the [[United States Commission on Civil Rights|Civil Rights Commission]] established by the earlier [[Civil Rights Act of 1957]] with additional powers, rules and procedures.  . 
+
+===Title VI===. 
+Prevents discrimination by government agencies that receive federal funds.  If an agency is found in violation of Title VI, that agency may lose its federal funding.  . 
+
+'''General''' . 
+
+This title declares it to be the policy of the United States that discrimination on the ground of race, color, or national origin shall not occur in connection with programs and activities receiving Federal financial assistance and authorizes and directs the appropriate Federal departments and agencies to take action to carry out this policy. This title is not intended to apply to foreign assistance programs. 
+Section 601{{spaced ndash}}This section states the general principle that no person in the United States shall be excluded from participation in or otherwise discriminated against on the ground of race, color, or national origin under any program or activity receiving Federal financial assistance.  . 
+
+Section 602 directs each Federal agency administering a program of Federal financial assistance by way of grant, contract, or loan to take action pursuant to rule, regulation, or order of general applicability to effectuate the principle of section 601 in a manner consistent with the achievement of the objectives of the statute authorizing the assistance. In seeking the effect compliance with its requirements imposed under this section, an agency is authorized to terminate or to refuse to grant or to continue assistance under a program to any recipient as to whom there has been an express finding pursuant to a hearing of a failure to comply with the requirements under that program, and it may also employ any other means authorized by law. However, each agency is directed first to seek compliance with its requirements by voluntary means.  . 
+
+Section 603 provides that any agency action taken pursuant to section 602 shall be subject to such judicial review as would be available for similar actions by that agency on other grounds. Where the agency action consists of terminating or refusing to grant or to continue financial assistance because of a finding of a failure of the recipient to comply with the agency's requirements imposed under section 602, and the agency action would not otherwise be subject to judicial review under existing law, judicial review shall nevertheless be available to any person aggrieved as provided in section 10 of the Administrative Procedure Act ({{usc|5|1009}}). The section also states explicitly that in the latter situation such agency action shall not be deemed committed to unreviewable agency discretion within the meaning of section 10. The purpose of this provision is to obviate the possible argument that although section 603 provides for review in accordance with section 10, section 10 itself has an exception for action "committed to agency discretion," which might otherwise be carried over into section 603. It is not the purpose of this provision of section 603, however, otherwise to alter the scope of judicial review as presently provided in section 10(e) of the Administrative Procedure Act.  . 
+
+===Title VII===. 
+Title VII of the Act, codified as Subchapter VI of Chapter 21 of title 42 of the United States Code, {{usc|42|2000e}} [2] et seq., prohibits discrimination by covered employers on the basis of race, color, religion, sex or national origin (see {{usc|42|2000e-2}}<ref name = "Finduslaw">{{cite web|url=http://finduslaw.com/civil_rights_act_of_1964_cra_title_vii_equal_employment_opportunities_42_us_code_chapter_21 |title=Civil Rights Act of 1964 – CRA – Title VII – Equal Employment Opportunities – 42 US Code Chapter 21 |publisher=finduslaw |date= |accessdate=2010-06-06}}</ref>). Title VII also prohibits discrimination against an individual because of his or her association with another individual of a particular race, color, religion, sex, or national origin. An employer cannot discriminate against a person because of his interracial association with another, such as by an interracial marriage. <ref>''[[Parr v. Woodmen of the World Life Insurance Company]]'', 791 F.2d 888 (11th Cir. 1986). </ref> . 
+
+In very narrow defined situations an employer is permitted to discriminate on the basis of a protected trait where the trait is a bona fide occupational qualification (BFOQ) reasonably necessary to the normal operation of that particular business or enterprise. To prove the [[bona fide occupational qualifications]] defense, an employer must prove three elements: a direct relationship between sex and the ability to perform the duties of the job, the BFOQ relates to the "essence" or "central mission of the employer's business," and there is no less-restrictive or reasonable alternative (''[[United Automobile Workers v. Johnson Controls, Inc.]]'', {{ussc|499|187|1991}} 111 S.Ct. 1196). The Bona Fide Occupational Qualification exception is an extremely narrow exception to the general prohibition of discrimination based on sex (''[[Dothard v. Rawlinson]]'', {{ussc|433|321|1977}} 97 S.Ct. 2720). An employer or customer's preference for an individual of a particular religion is not sufficient to establish a Bona Fide Occupational Qualification (''[[Equal Employment Opportunity Commission v. Kamehameha School — Bishop Estate]]'', 990 F.2d 458 (9th Cir. 1993)).  . 
+
+Title VII allows for any employer, labor organization, joint labor-management committee, or employment agency to bypass the "unlawful employment practice" for any person involved with the [[Communist Party of the United States]] or of any other organization required to register as a Communist-action or Communist-front organization by final order of the Subversive Activities Control Board pursuant to the [[Subversive Activities Control Act]] of 1950. <ref>http://www.archives.gov/education/lessons/civil-rights-act/images/act-06.jpg</ref> . 
+
+There are partial and whole exceptions to Title VII for four types of employers:
+* Federal government; (Comment: The proscriptions against employment discrimination under Title VII are now applicable to the federal government under [http://finduslaw.com/civil_rights_act_of_1964_cra_title_vii_equal_employment_opportunities_42_us_code_chapter_21#17 42 U.S.C. Section 2000e-16])
+* Federally recognized Native American tribes
+* Religious groups performing work connected to the group's activities, including associated education institutions;
+* Bona fide nonprofit private membership organizations.  . 
+
+The [[Equal Employment Opportunity Commission]] (EEOC) as well as certain [[state fair employment practices agencies]] (FEPAs) enforce Title VII (see {{usc|42|2000e-4}}<ref name = "Finduslaw"/>). The EEOC and state FEPAs investigate, mediate, and may file lawsuits on behalf of employees.  Every state, except Arkansas and Mississippi, maintains a state FEPA (see EEOC and state FEPA [http://www.eeocoffice.com directory ]).  Title VII also provides that an individual can bring a private lawsuit.  An individual must file a complaint of discrimination with the EEOC within 180 days of learning of the discrimination or the individual may lose the right to file a lawsuit.  Title VII only applies to employers who employ 15 or more employees for 20 or more weeks in the current or preceding calendar year ({{usc|42|2000e(b)}}).  . 
+
+In the late 1970s courts began holding that [[sexual harassment]] is also prohibited under the Act. ''[[Chrapliwy v. Uniroyal]]'' is a notable Title VII case relating to sexual harassment that was decided in favor of the plaintiffs.  In 1986 the [[Supreme Court of the United States|Supreme Court]] held in ''[[Meritor Savings Bank v. Vinson]]'', {{ussc|477|57|1986}}, that sexual harassment is sex discrimination and is prohibited by Title VII.  Same-sex [[sexual harassment]] has also been held in a unanimous decision written by [[Justice Scalia]] to be prohibited by Title VII (''[[Oncale v. Sundowner Offshore Services, Inc.]]'', {{ussc|523|75|1998}}, 118 S.Ct. 998).  Title VII has been supplemented with legislation prohibiting pregnancy, age, and disability discrimination (''See'' [[Pregnancy Discrimination#Pregnancy Discrimination Act|Pregnancy Discrimination Act of 1978]], [[Age Discrimination in Employment Act]],<ref>{{cite web|url=http://finduslaw.com/age_discrimination_in_employment_act_of_1967_adea_29_u_s_code_chapter_14 |title=Age Discrimination in Employment Act of 1967 |publisher=Finduslaw.com |date= |accessdate=2010-06-06}}</ref> [[Americans with Disabilities Act of 1990]]).  . 
+
+===Title VIII===. 
+Required compilation of voter-registration and voting data in geographic areas specified by the Commission on Civil Rights.  . 
+
+===Title IX=== . 
+
+Title IX made it easier to move civil rights cases from state courts with segregationist judges and all-white juries to federal court. This was of crucial importance to civil rights activists who could not get a fair trial in state courts.  . 
+
+Title IX of the Civil Rights Act of 1964 should not be confused with [[Title IX|Title IX of the Education Amendments Act of 1972]], which prohibits sex discrimination in federally-funded education programs and activities.  . 
+
+===Title X===. 
+Established the Community Relations Service, tasked with assisting in community disputes involving claims of discrimination.  . 
+
+===Title XI===. 
+Title XI gives the Jury rights to put any proceeding for criminal contempt arising under title II, III, IV,  V, VI, or VII of the Civil Rights Act, on trial, and if convicted, can be fined no more than $1,000 or imprisoned for more than six months.  . 
+
+==Subsequent history==. 
+The Constitutionality of the Civil Rights Act of 1964 was, at the time, in some dispute as it applied to the private sector.  In the landmark [[Civil Rights Cases]] the United States Supreme Court had ruled that Congress did not have the power to prohibit discrimination in the private sector, thus stripping the Civil Rights Act of 1875 of much of its ability to protect civil rights [http://chnm.gmu.edu/courses/122/recon/civilrightsact.html]. 
+Even today, the Supreme Court has struck down parts of civil rights laws on the grounds that the Fourteenth Amendment does not give Congress the power to prohibit private sector discrimination.  . 
+
+In the late 19th and early 20th century, the legal justification for voiding the Civil Rights Act of 1875, was part of a larger trend by members of the United States Supreme Court to invalidate most government regulations of the private sector, except when dealing with laws designed to protect traditional public morality.  . 
+
+In the 1930s, during the New Deal, the majority of the Supreme Court justices gradually shifted their legal theory to allow for greater government regulation of the private sector under the commerce clause, thus paving the way for the Federal government to enact civil rights laws prohibiting both public and private sector discrimination on the basis of the commerce clause.  . 
+
+After the Civil Rights Act of 1964 was passed, the Supreme Court upheld the law's application to the private sector, on the grounds that Congress has the power to regulate commerce between the States.   The landmark case,
+Heart of Atlanta Motel Inc. v. U.S., established the Constitutionality of the law, but it did not settle all of the legal questions surrounding the law.  . 
+
+In a 1971 Supreme Court case regarding the gender provisions of the Act, the Court ruled that a company could not discriminate against a potential female employee because she had a preschool-age child unless they did the same with potential male employees. <ref name="'70s 245"/> A federal court overruled an [[Ohio]] state law that barred women from obtaining jobs which required the ability to lift 25 pounds and required women to take lunch breaks when men were not required to. <ref name="'70s 245"/>  In [[Pittsburgh Press Co. v. Pittsburgh Commission on Human Relations]], the United States Supreme Court decided that printing separate job listings for men and women was illegal, which ended that practice among the country's newspapers. The [[United States Civil Service Commission]] ended the practice among federal jobs which designated them "women only" or "men only."<ref name="'70s 245"/> . 
+
+In 1974, the Supreme Court also ruled that the [[San Francisco]] school district was violating non-English speaking students' rights under the 1964 act by placing them in regular classes rather than providing some sort of accommodation for them. <ref name="'70s 270">{{cite book |title= How We Got Here: The '70s|last= Frum|first= David|authorlink= David Frum|coauthors= |year= 2000|page= 270|pages= |url= }}</ref> . 
+
+In 1975, a federal civil rights agency warned a [[Phoenix, Arizona]] school that its end-of-year father-son and mother-daughter baseball games were illegal according to the 1964 Civil Rights Act. <ref name="'70s 245"/> President [[Gerald Ford]] intervened, and the games were allowed to continue. <ref name="'70s 245"/> . 
+
+In 1977, the Supreme Court struck down state minimum height requirements for police officers as violating the Act; women usually could not meet these requirements. <ref name="'70s 245"/> . 
+
+==See also==. 
+*[[Bennett Amendment]]
+*[[African-American Civil Rights Movement]]
+*[[Civil rights]]
+*[[Civil Rights Act of 1866]]
+*[[Civil Rights Act of 1871]]
+*[[Civil Rights Act of 1875]]
+*[[Civil Rights Act of 1957]]
+*[[Civil Rights Act of 1960]]
+*[[Civil Rights Act of 1968]]
+*[[Equal Pay Act of 1963]]
+*[[Everett McKinley Dirksen]]
+*[[Force Act of 1870]]
+*[[Force Act of 1871]]
+*[[Bourke B. Hickenlooper]]
+*[[Lodge Bill]]
+*[[Martin Luther King Jr.]]
+*[[Malcolm X]]
+*[[Reconstruction Acts]]
+*[[Women's Rights]]
+*[[Employment Non-Discrimination Act]]
+*[[Affirmative action in the United States]] . 
+
+===Cases===. 
+* ''[[Heart of Atlanta Motel v. United States]]'' (1964)
+* ''[[Katzenbach v. McClung]]'' (1964)
+* ''[[Griggs v. Duke Power Co.]]'' (1971)
+* ''[[Washington v. Davis]]'' (1976)
+* ''Brown v. Trustees of Boston University'' (1989)
+* ''[[Wards Cove Packing Co. v. Atonio]]'' (1989)
+* ''[[Ricci v. DeStefano]]'' (2009) . 
+
+==References==. 
+{{reflist|colwidth=30em}} . 
+
+==Further reading==. 
+* Branch, Taylor (1998), ''Pillar of Fire:  America in the King Years 1963–65'', New York:  Simon & Schuster. 
+* Brauer, Carl M., "Women Activists, Southern Conservatives, and the Prohibition of Sexual Discrimination in Title VII of the 1964 Civil Rights Act", 49 ''Journal of Southern History,'' February 1983. 
+* Burstein, Paul (1985), ''Discrimination, Jobs and Politics:  The Struggle for Equal Employment Opportunity in the United States since the New Deal'', Chicago:  University of Chicago Press. 
+* Finley, Keith M. (2008), ''Delaying the Dream:  Southern Senators and the Fight Against Civil Rights, 1938–1965'', Baton Rouge:  LSU Press. 
+* Freeman, Jo. "How 'Sex' Got Into Title VII: Persistent Opportunism as a Maker of Public Policy" ''Law and Inequality: A Journal of Theory and Practice'', Vol. 9, No. 2, March 1991, pp.&nbsp;163–184.  [http://www.jofreeman.com/lawandpolicy/titlevii.htm online version]
+* Graham, Hugh (1990), ''The Civil Rights Era:  Origins and Development of National Policy, 1960–1972'', New York:  Oxford U P. 
+* Harrison, Cynthia (1988), ''On Account of Sex:  The Politics of Women's Issues 1945–1968'', Berkeley, CA:  U. California Press. 
+* Jeong, Gyung-Ho, Gary J. Miller, and Itai Sened, “Closing the Deal:  Negotiating Civil Rights Legislation,” ''American Political Science Review,'' 103 (Nov. 2009)
+* Loevy, Robert D. (1990), ''To End All Segregation:  The Politics of the Passage of The Civil Rights Act of 1964'', Lanham, MD:  University Press of America. 
+* Loevy, Robert D. ed. (1997), ''The Civil Rights Act of 1964:  The Passage of the Law That Ended Racial Segregation'', Albany, NY:  State University of New York Press. 
+* Loevy, Robert D. "A Brief History of the Civil Rights Act OF 1964," in David C. Kozak and Kenneth N. Ciboski, ed., ''The American Presidency'' (Chicago: Nelson Hall, 1985), pp.&nbsp;411–419. [http://faculty1.coloradocollege.edu/~bloevy/CivilRightsActOf1964/ online version]
+* Pedriana, Nicholas, and Stryker, Robin. "The Strength of a Weak Agency: Enforcement of Title VII of the 1964 Civil  Rights Act and the Expansion of State Capacity, 1965-1971," ''American Journal of Sociology,'' Nov 2004, Vol. 110 Issue 3, pp 709–760
+* Rodriguez, Daniel B. and Weingast, Barry R. "The Positive Political Theory of Legislative History: New Perspectives on the 1964 Civil Rights Act and Its Interpretation", ''University of Pennsylvania Law Review'', Vol. 151. (2003)
+* Warren, Dan R. (2008), ''If It Takes All Summer: Martin Luther King, the KKK, and States' Rights in St. Augustine, 1964'', Tuscaloosa, AL:  University of Alabama Press. 
+* Whalen, Charles and Whalen, Barbara (1985), ''The Longest Debate:  A Legislative History of the 1964 Civil Rights Act'', Cabin John, MD: Seven Locks Press. 
+* Woods, Randall B. (2006), ''LBJ:  Architect of American Ambition'', New York:  Free Press, ch 22.  . 
+
+==External links==. 
+{{commons category|Civil Rights Act of 1964}}
+*[http://www.congresslink.org/print_basics_histmats_civilrights64_doc7.htm Civil Rights bill.]
+*[http://finduslaw.com/civil_rights_act_of_1964_cra_title_vii_equal_employment_opportunities_42_us_code_chapter_21 Text of Civil Rights Act of 1964 – Title VII – 42 US Code Chapter 21 (Employment Discrimination)]
+*[http://usinfo.state.gov/usa/infousa/facts/democrac/38.htm Martin Luther King's famous "I Have a Dream" speech, plus background including Civil Rights bill.]
+* [http://www.abbeville.com/civilrights/washington.asp 1963 March on Washington, civil rights including JFK death date.]
+*[http://faculty1.coloradocollege.edu/~bloevy/CivilRightsActOf1964 Presidency book excerpt, the legislative history of this bill as it became an Act.]
+*[http://usinfo.state.gov/usa/infousa/facts/democrac/39.htm Background facts including enactment date.]
+*[http://www.eeocoffice.com Directory of EEOC offices, addresses, and hours of operation.]
+*[http://www.lbjlib.utexas.edu/johnson/archives.hom/speeches.hom/640702.asp President Lyndon B. Johnson's Radio and Television Remarks Upon Signing the Civil Rights Bill]
+*[http://www.crmvet.org Civil Rights Movement Veterans] . 
+
+{{African-American Civil Rights Movement|state=uncollapsed}}
+{{Social Policy in the United States|state=autocollapse}} . 
+
+{{DEFAULTSORT:Civil Rights Act Of 1964}}
+[[Category:1964 in law]]
+[[Category:African American history]]
+[[Category:Great Society programs]]
+[[Category:Civil rights movement during the Lyndon B. Johnson Administration]]
+[[Category:Discrimination law in the United States]]
+[[Category:United States federal civil rights legislation]]
+[[Category:United States federal criminal legislation]]
+[[Category:Labour law]]
+[[Category:Anti-racism]]
+[[Category:History of the United States (1945–1964)]]
+[[Category:88th United States Congress]]

@@ -1,0 +1,100 @@
+{{SCOTUSCase
+|Litigants=Gonzales v. Carhart
+|ArgueDate=November 8
+|ArgueYear=2006
+|DecideDate=April 18
+|DecideYear=2007
+|FullName=Alberto R. Gonzales, Attorney General, Petitioner v. LeRoy Carhart, et al.; Alberto R. Gonzales, Attorney General, Petitioner v. Planned Parenthood Federation of America, Inc., et al. 
+|CitationNew=550 U.S. 124; 127 S. Ct. 1610; 167 L. Ed. 2d 480; 75 U.S.L.W. 4210
+|Docket=05-380
+|Docket2=05-1382
+|USVol=
+|USPage=
+|Prior=
+|Subsequent=
+|Holding=Respondents have not demonstrated that the Act, as a facial matter, is void for vagueness, or that it imposes an undue burden on a woman's right to abortion based on its overbreadth or lack of a health exception. The decisions of the Courts of Appeals for the Eighth and Ninth Circuits are reversed. 
+|OralArgument=http://www.oyez.org/cases/2000-2009/2006/2006_05_380/argument/
+|SCOTUS=2006-2009
+|Majority=Kennedy
+|JoinMajority=Roberts, Scalia, Thomas, Alito
+|Concurrence=Thomas
+|JoinConcurrence=Scalia
+|Dissent=Ginsburg
+|JoinDissent=Stevens, Souter, Breyer
+|LawsApplied=[[Fifth Amendment to the United States Constitution|U.S. Const. amend. V]]; [[Partial-Birth Abortion Ban Act]]
+}}
+[[Image:Gonzales v carhart protest.jpg|thumb|right|300px|[[Pro-choice]] and [[pro-life]] [[activists]] demonstrate on the steps of the [[United States Supreme Court building]].]]
+'''''Gonzales v. Carhart''''', [[Case citation|550 U.S. 124]] (2007), is a [[Supreme Court of the United States|United States Supreme Court]] case that upheld the [[Partial-Birth Abortion Ban Act]] of 2003. <ref>[http://www.nrlc.org/abortion/pba/partial_birth_abortion_Ban_act_final_language.htm Partial-Birth Abortion Ban Act of 2003 (Enrolled as Agreed to or Passed by Both House and Senate)]</ref> The case reached the high court after [[United States Attorney General|U.S. Attorney General]] [[Alberto Gonzales]] appealed a ruling of the [[United States Court of Appeals for the Eighth Circuit]] in favor of [[LeRoy Carhart]] that struck down the Partial-Birth Abortion Ban Act. Also before the Supreme Court was the consolidated appeal of '''''Gonzales v. Planned Parenthood''''' from the [[United States Court of Appeals for the Ninth Circuit]], which had struck down the Partial-Birth Abortion Ban Act.  . 
+
+The Supreme Court's decision upheld Congress's ban and held that it did not impose an undue burden on the [[Due Process Clause|due process]] right of women to obtain an abortion, "under precedents we here assume to be controlling,"<ref name="Opinion">''Gonzales v. Carhart'', [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=000&invol=05-380 550 U.S. ____ (2007)]. Findlaw.com. Retrieved 2007-04-19. </ref> such as the Court's prior decisions in ''[[Roe v. Wade]]'' and ''[[Planned Parenthood v. Casey]].''  In a legal sense, the case distinguished but did not overrule ''[[Stenberg v. Carhart]]'' (2000), in which the Court dealt with related issues. However, ''Gonzales'' was widely interpreted as signaling a shift in Supreme Court jurisprudence toward a restriction of abortion rights, occasioned in part by the retirement of [[Sandra Day O'Connor]] and her replacement by [[Samuel Alito]]. <ref name="nyt-greenhouse">{{cite news | title = Justices Back Ban on Method of Abortion | first = Linda | last = Greenhouse | work = [[New York Times]] | url = http://www.nytimes.com/2007/04/19/washington/19scotus.html | date = April 19, 2007 | accessdate = August 27, 2009}}</ref><ref name="nejm-death">{{cite journal | journal = N Eng J Med | author = Charo RA | title = The partial death of abortion rights | pmid = 17452437 | year = 2007 | issue = 356 | volume = 21 | pages = 2125&ndash;8 | url = http://content.nejm.org/cgi/content/extract/356/21/2125 | doi = 10.1056/NEJMp078055}}</ref><ref name="nejm-abortion-scotus">{{cite journal | journal = N Eng J Med | author = Annas GJ | title = The Supreme Court and abortion rights | year = 2007 | volume = 356| issue = 21 | pages = 2201&ndash;7 | pmid = 17476003 | url = http://content.nejm.org/cgi/content/extract/356/21/2201 | doi = 10.1056/NEJMhle072595}}</ref> An editorial in the ''[[New England Journal of Medicine]]'' identified the case as a landmark: "This is the first time the Court has ever held that physicians can be prohibited from using a medical procedure deemed necessary by the physician to benefit the patient's health."<ref name="nejm-abortion-scotus"/> . 
+
+==History of case==. 
+The [[Partial-Birth Abortion Ban Act]] was signed into law by [[President of the United States|President]] [[George W. Bush|Bush]] on November 5, 2003. It was found unconstitutional in the [[United States district court|U.S. District Courts]] for the [[United States District Court for the Northern District of California|Northern District of California]], the [[United States District Court for the Southern District of New York|Southern District of New York]], and the [[United States District Court for the District of Nebraska|District of Nebraska]]. <ref>[http://fl1.findlaw.com/news.findlaw.com/cnn/docs/abortion/ppash60104ord.pdf ''Planned Parenthood v. Ashcroft'', Order Granting Permanent Injunction, Findings of Fact and Conclusions of Law in Support Thereof], United States District Court for the Northern District of California (June 1, 2004)</ref><ref>[http://www.nysd.uscourts.gov/rulings/03CV8695_Order_083004.pdf ''National Abortion Federation v. Ashcroft'', Opinion and Order], United States District Court for the Southern District of New York (August 26, 2004)</ref><ref>[http://www.crlp.org/pdf/pdf_crt_carVash_op090804.pdf ''Carhart v. Ashcroft'', Memorandum and Order], United States District Court for the District of Nebraska (September 8, 2004)</ref> . 
+
+The federal government appealed the district court rulings, first bringing ''Carhart v. Gonzales'' before a three-judge panel of the [[United States Court of Appeals for the Eighth Circuit|U.S. Court of Appeals for the Eighth Circuit]]. The panel unanimously affirmed the ruling of the Nebraska court on July 8, 2005. Finding that the government offered no "new evidence which would serve to distinguish this record from the record reviewed by the Supreme Court in ''Stenberg''," they held that the Partial-Birth Abortion Ban Act was unconstitutional because it lacked an exception for the health of the woman. <ref name="Eighth">[http://caselaw.lp.findlaw.com/data2/circs/8th/043379p.pdf ''Gonzales v. Carhart''], United States Court of Appeals for the Eighth Circuit (July 8, 2005)</ref> . 
+
+Attorney General Gonzales petitioned the U.S. Supreme Court to review the Eighth Circuit decision on September 25, 2005. Meanwhile, the [[United States Court of Appeals for the Ninth Circuit|Ninth Circuit]] also found the law unconstitutional,<ref>[http://caselaw.lp.findlaw.com/data2/circs/9th/0416621p.pdf ''Planned Parenthood Federation v. Gonzalez''], United States Court of Appeals for the Ninth Circuit (January 31, 2006)</ref> as did the [[United States Court of Appeals for the Second Circuit|Second Circuit]] (with a dissent),<ref>[http://www.nrlc.org/abortion/pba/2ndCircuitPBArulingdissent.pdf ''National Abortion Federation v. Gonzalez''], United States Court of Appeals for the Second Circuit (January 31, 2006)</ref> issuing their opinions on January 31, 2006.  The Supreme Court agreed to hear the ''Carhart'' case on February 21, 2006,<ref>[http://supreme.lp.findlaw.com/supreme_court/docket/2006/november/05-380-gonzales-v-carhart.html Supreme Court Docket, ''Gonzales v. Carhart'' (No. 05-380)], providing copies of briefs, courtesy of Findlaw.com. </ref> and agreed to hear the companion ''Planned Parenthood'' case on June 19, 2006. <ref>[http://supreme.lp.findlaw.com/supreme_court/docket/2006/november/05-1382-gonzales-v-planned-parenthood.html Supreme Court Docket, ''Gonzales v. Planned Parenthood'' (No. 05-1382)], providing copies of briefs, courtesy of Findlaw.com. </ref> . 
+
+==Oral arguments==. 
+Oral arguments in this case (as well as its companion case) occurred on November 7, 2006. [[United States Solicitor General|U.S. Solicitor General]] [[Paul Clement]], presented arguments for the United States, and Priscilla Smith presented arguments for Dr. Carhart ''et al.''<ref>[http://www.supremecourt.gov/oral_arguments/argument_transcripts/05-380.pdf Transcript of Oral Arguments, ''Gonzales v. Carhart''] (November 8, 2006), via U.S. Supreme Court web site. </ref> Solicitor General Clement also presented arguments for the United States in the companion case of ''Gonzales v. Planned Parenthood''.  Eve Gartner presented arguments for Planned Parenthood. <ref>[http://www.supremecourt.gov/oral_arguments/argument_transcripts/05-1382.pdf Transcript of Oral Arguments, ''Gonzales v. Planned Parenthood''] (November 8, 2006), via U.S. Supreme Court web site. </ref> The Supreme Court has made available audio of the oral arguments, in both ''Carhart''<ref>
+[http://www.oyez.org/media/item?type=audio&id=argument&parent=cases/2000-2009/2006/2006_05_380 Audio and Transcript of Oral Arguments, ''Gonzales v. Carhart''] (November 8, 2006) via ''Oyez'' web site</ref> and ''Planned Parenthood''. <ref>  [http://www.oyez.org/media/item?type=audio&id=argument&parent=cases/2000-2009/2006/2006_05_1382 Audio and Transcript of Oral Arguments, ''Gonzales v. Planned Parenthood''] (November 8, 2006) via ''Oyez'' web site</ref> . 
+
+==Decision==. 
+Justice [[Anthony Kennedy]] wrote for the Court that the [[respondent]]s had failed to show that Congress lacked authority to ban this abortion procedure.  Chief Justice [[John Roberts]], Justice [[Samuel Alito]], Justice [[Clarence Thomas]], and Justice [[Antonin Scalia]] agreed with the Court's judgment, joining Kennedy's opinion.    . 
+
+The Court left the door open for as-applied challenges, citing its recent precedent in ''[[Ayotte v. Planned Parenthood of New England]]''.  According to <em>Washington Post</em> reporter Benjamin Wittes, "The Court majority, following the path it sketched out last year in the New Hampshire case, decided to let the law stand as a facial matter and let the parties fight later about what, if any, applications need to be blocked."<ref>{{cite web|url=http://www.brookings.edu/opinions/2007/0430governance_wittes.aspx
+|title=The Supreme Court's Shift on Abortion is Not What You Think|accessdate=2007-12-03|last=Wittes|first=Benjamin|date=2007-04-30 |publisher=The New Republic}}</ref>  . 
+
+The Court decided to "assume ... for the purposes of this opinion" the principles of ''[[Roe v. Wade]]'' and ''[[Planned Parenthood v. Casey]]''.   . 
+
+The Court said that the lower courts had repudiated a central premise of ''Casey'' — that the state has an interest in preserving [[fetal]] life — and the Court held that the ban fit that interest so as not to create an undue burden. Relying deferentially on Congress's findings that this [[intact dilation and extraction]] procedure is never needed to protect the health of a pregnant woman, Kennedy wrote that a health exception was therefore unnecessary. And, where medical testimony disputed Congress's findings, Congress is still entitled to regulate in an area where the medical community has not reached a "consensus."<ref name="Opinion" /> . 
+
+The majority opinion held that "ethical and moral concerns", including an interest in fetal life, represented "substantial" state interests which (assuming they do not impose an "undue" burden) could be a basis for legislation at all times during pregnancy, not just after [[Fetus#Viability|viability]]. Thus, the Court clarified that the pre-viability/post-viability distinction was not implicated in ''Carhart''. <ref name="Opinion" /> . 
+
+In addition, the Court distinguished the ''[[Stenberg v. Carhart|Stenberg]]'' case, which previously struck down Nebraska's partial-birth abortion law. The Court held that the state statute at issue in ''Stenberg'' was more ambiguous than the later federal statute at issue in ''Carhart''. <ref name="Opinion" /> . 
+
+The majority opinion in ''Gonzales v. Carhart'' did not discuss the constitutional rationale of the Court's prior abortion cases (i.e. "[[due process]]"). However, the majority opinion disagreed with the Eighth Circuit that the federal statute conflicted with "the Due Process Clause of the [[Fifth Amendment to the United States Constitution|Fifth Amendment]] [which] is textually identical to the Due Process Clause of the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]]."<ref name="Eighth" /> . 
+
+==Concurrence==. 
+Justice Thomas filed a concurring opinion, joined by Justice Scalia, saving for another day the issue of whether Congress had sufficient power under the [[Commerce Clause]] to enact this ban. <ref name="Opinion" /> The Commerce Clause was also mentioned in the opinion of the Court, and was the only clause of the Constitution mentioned explicitly by the opinions in this case.  . 
+
+The concurrence also stated that Justices Thomas and Scalia joined the Court's opinion "because it accurately applies current jurisprudence." And, the concurrence reiterated their view that that current abortion jurisprudence "has no basis in the Constitution." [[Nadine Strossen]], President of the [[American Civil Liberties Union|ACLU]] at the time, pointed out that "no less an anti-abortion proponent than [[w:Antonin Scalia|Justice Scalia]] joined by [[w:Clarence Thomas|Justice Thomas]], in his separate opinion, chided the majority for not coming out and explicitly saying that they had overturned not ''Roe v. Wade'', but the [[Stenberg v. Carhart|prior partial-birth abortion ban case]]."<ref>[[n:ACLU President Strossen on religion, drugs, guns and impeaching George Bush|Interview with Nadine Strossen]], David Shankbone, ''[[Wikinews]]'', October 30, 2007. </ref> . 
+
+==Dissent==. 
+Justice [[Ruth Bader Ginsburg]] dissented,<ref>[http://www.law.cornell.edu/supct/html/05-380.ZD.html ''Gonzales v. Carhart'', Ginsburg, J., dissenting], U.S. Supreme Court (April 18, 2007)</ref> joined by justices [[David Souter]], [[John Paul Stevens]], and [[Stephen Breyer]], contending that the ruling was an "alarming" one that ignored Supreme Court abortion precedent and "refuse[d] to take ''Casey'' and ''Stenberg'' seriously." Referring in particular to ''[[Planned Parenthood v. Casey]]'', Ginsburg sought to ground the Court's abortion jurisprudence based on concepts of personal autonomy and equal citizenship rather than the Court's previous privacy approach: "Thus, legal challenges to undue restrictions on abortion procedures do not seek to vindicate some generalized notion of privacy; rather, they center on a woman's autonomy to determine her life's course, and thus to enjoy equal citizenship stature."<ref name="Opinion" /> . 
+
+Ginsburg also took issue with the lack of a health exception, writing that "the absence of a health exception burdens all women for whom it is relevant—women who, in the judgment of their doctors, require an intact D&E because other procedures would place their health at risk." In general, the dissent criticized the usurpation of medical decision-making by legislators and the minimization of "the reasoned medical judgments of highly trained doctors... as 'preferences' motivated by 'mere convenience'."<ref name="nejm-abortion-scotus"/> . 
+
+Justice Kennedy's opinion in ''Carhart'' did not touch upon the question of whether the Court's prior decisions in ''[[Roe v. Wade]]'' and ''Planned Parenthood v. Casey'' were valid. Dissenting Justice Ginsburg characterized this aspect of the Court's opinion as follows: "Casey's principles, confirming the continuing vitality of ‘the essential holding of Roe,’ are merely ‘assume[d]’ for the moment ... rather than ‘retained’ or ‘reaffirmed.’" Ginsburg concluded by criticizing the majority for abandoning the principle of ''[[stare decisis]]'', writing that "a decision so at odds with our jurisprudence should not have staying power." . 
+
+==Reactions==. 
+According to an [[ABC News]] poll, the majority of Americans (69%) oppose the legality of [[Dilation and evacuation|D&E]] or what opponents call "partial-birth" abortion. <Ref>http://abcnews.go.com/sections/us/DailyNews/abortion_poll030122.html</ref> . 
+
+Some Medical groups expressed concern that the Court, in supporting the [[Partial-Birth Abortion Ban Act]], endorsed the substitution of congressional legislation for medical judgment. The [[American College of Obstetricians and Gynecologists]], which had submitted an [[amicus brief]] opposing the Act, described the Court's decision as "shameful and incomprehensible", ignorant of medical consensus, and chilling for the medical profession. <ref name="acog-statement">{{cite press release | publisher = [[American College of Obstetricians and Gynecologists]] | title = ACOG Statement on the US Supreme Court Decision Upholding the Partial-Birth Abortion Ban Act of 2003 | url = http://www.acog.org/from_home/publications/press_releases/nr04-18-07.cfm | date = April 18, 2007 | accessdate = February 23, 2012 | archiveurl = http://web.archive.org/web/20110610140050/http://www.acog.org/from_home/publications/press_releases/nr04-18-07.cfm | archivedate  = June 10, 2011}}</ref> The ''[[New England Journal of Medicine]]'' criticized the intrusion of politicians into medical decision-making, writing:
+<blockquote>Until this opinion, the Court recognized the importance of not interfering with medical judgments made by physicians to protect a patient's interest. For the first time, the Court permits congressional judgment to replace medical judgment. <ref name="nejm-abortion-scotus"/></blockquote> . 
+
+Professor and academic [[Geoffrey R. Stone]] has argued that the religion of Supreme Court judges played an important role in the decision, given that the five judges in the majority were Catholic. <ref>[http://www.huffingtonpost.com/geoffrey-r-stone/justice-sotomayor-justice_b_271229.html Justice Sotomayor, Justice Scalia and Our Six Catholic Justices]</ref> . 
+
+==See also==. 
+*[[List of United States Supreme Court cases, volume 550]]
+*[[List of United States Supreme Court cases]] . 
+
+==References==. 
+{{reflist|colwidth=30em}} . 
+
+==Further reading==. 
+*{{cite journal |last=Ivey |first=Rebecca |authorlink= |coauthors= |year=2008 |month= |title=Destabilizing Discourses: Blocking and Exploiting a New Discourse at Work in ''Gonzales v. Carhart'' |journal=[[Virginia Law Review]] |volume=94 |issue=6 |pages= |id= |url=http://www.virginialawreview.org/articles.php?article=233 |accessdate=}} . 
+
+==External links==. 
+*Alexi Wright and Ingrid T. Katz [http://content.nejm.org/cgi/content/full/355/1/1 "Roe versus Reality — Abortion and Women's Health"], ''[[New England Journal of Medicine]]'', Volume 355, pp 1–9  (July 6, 2006) (perspective from opponents of the PBA statute). 
+*[http://www.aclj.org/Cases/default.aspx?Section=109 American Center for Law and Justice] (group defending PBA statute provides info including links to media coverage). 
+*[http://www.crlp.org/crt_pba_timeline.html "Fighting to Protect Women's Health"], Center for Reproductive Rights (group opposing PBA statute provides timeline of case). 
+*[http://www.covenantnews.com/enyart070424.htm PBA Ruling Splits Movement], CovenantNews.com analysis lists pro-life groups condemning this decision due to its refusal to outlaw late-term abortion per se. 
+*[http://www.coloradorighttolife.org/partial-birth-abortion-ban-ruling Analysis of Gonzales v. Carhart], Colorado Right to Life analysis of Partial Birth Abortion Ban ruling (Gonzales v. Carhart)
+*[http://www.supremecourt.gov/opinions/06pdf/05-380.pdf Text of the opinion, including dissent] (PDF) . 
+
+[[Category:United States Supreme Court cases]]
+[[Category:United States abortion case law]]
+[[Category:2007 in United States case law]]
+[[Category:Void for vagueness case law]]
+[[Category:Cases related to the American Civil Liberties Union]]

@@ -1,0 +1,695 @@
+{{Use dmy dates|date=September 2011}}
+{{Infobox Geopolitical organisation
+| native_name = Association of Southeast Asian Nations
+| name = {{Collapsible list
+ | title = <center> ASEAN <center>
+ | <center> {{lang|id|'''Perhimpunan Bangsa-bangsa Asia Tenggara'''}} {{id icon}} </center>
+   <center> {{lang|km|'''សមាគមន៏ប្រជាជាតិអាស៊ីអាគ្នេយ'''}} {{km icon}} </center>
+   <center> {{lang|lo|'''ສະມາຄົມປະຊາຊາດແຫ່ງອາຊີຕະເວັນອອກສຽງໃຕ້'''}} {{lo icon}} </center>
+   <center> {{lang|ms|'''Persatuan Negara-negara Asia Tenggara'''}} {{ms icon}} </center>
+   <center> {{lang|my|'''အရှေ့တောင်အာရှနိုင်ငံများအသင်း'''}} {{my icon}} </center>
+   <center> {{lang|ta|'''தென்கிழக்காசியமைப்பு'''}} {{ta icon}}  </center>
+   <center> {{lang|th|'''สมาคมประชาชาติแห่งเอเชียตะวันออกเฉียงใต้'''}} {{th icon}} </center>
+   <center> {{lang|tl|'''Samahan ng mga Bansa sa Timog-silangang Asya'''}} {{tl icon}} </center>
+   <center> {{lang|vi|'''Hiệp hội các quốc gia Đông Nam Á'''}} {{vi icon}} </center>
+   <center> {{lang|zh|'''东南亚国家联盟'''}} {{zh icon}} </center>
+}}
+| linking_name = ASEAN
+| image_flag = Flag of ASEAN.svg
+| flagl_type = Flag
+| image_symbol = Seal of ASEAN.svg
+| symbol_type = Emblem
+| headquarters = Jalan Sisingamangaraja No.70A, [[South Jakarta]], [[Jakarta]], Indonesia
+| motto = One Vision, One Identity, One Community<ref>{{cite web|url=http://www.asean.org/22773.htm |title=Aseanweb – Asean Motto |publisher=Asean.org |accessdate=8 August 2011}}</ref>
+|anthem=[[The ASEAN Way]]{{ listen
+| filename = TheASEANway.ogg
+| title    = The ASEAN Way
+| plain    = yes
+| description  =
+| style    = float:left
+}}
+| image_map = Association of Southeast Asian Nations (orthographic projection).svg
+| map_caption =
+| admin_center_type = {{nowrap|Seat of Secretariat}}
+| admin_center = [[Jakarta]]
+| languages_type = [[Working language]]
+| languages = {{Collapsible list
+ | title = [[List of official languages by institution#Regional|English]]
+ | {{flagicon|Burma}} [[Burmese language|Burmese]]
+ | {{flagicon|Singapore}} [[Standard Mandarin|Chinese]]
+ | {{flagicon|Philippines}} {{flagicon|Malaysia}} {{flagicon|Singapore}} English
+ | {{flagicon|Philippines}} [[Filipino language|Filipino]]
+ | {{flagicon|Indonesia}} [[Indonesian language|Indonesian]]
+ | {{flagicon|Cambodia}} [[Khmer language|Khmer]]
+ | {{flagicon|Laos}} [[Lao language|Lao]]
+ | {{flagicon|Brunei}} {{flagicon|Malaysia}} {{flagicon|Singapore}} [[Malay language|Malay]]
+ | {{flagicon|Singapore}} [[Tamil language|Tamil]]
+ | {{flagicon|Thailand}} [[Thai language|Thai]]
+ | {{flagicon|Vietnam}} [[Vietnamese language|Vietnamese]]
+}}
+| demonym = [[Asian people|Southeast Asian]]
+| membership_type = [[List of ASEAN member states|Member states]]
+| membership = {{Collapsible list
+ | title = [[List of ASEAN member states|10]]
+ | {{Flag|Brunei}}
+ | {{Flag|Cambodia}}
+ | {{Flag|Indonesia}}
+ | {{Flag|Laos}}
+ | {{Flag|Malaysia}}
+ | {{flag|Burma|name=Burma (Myanmar)}}
+ | {{Flag|Philippines}}
+ | {{Flag|Singapore}}
+ | {{Flag|Thailand}}
+ | {{flag|Vietnam}}
+}}
+| observer = {{Collapsible list
+ | title = [[List of ASEAN member states#Non-member states|2]]
+ | {{Flag|East Timor}}
+ | {{Flag|Papua New Guinea}}
+}}
+| ethnic_groups =
+| ethnic_groups_year =
+| leader_title1 = [[List of Secretaries General of ASEAN|Secretary-General]]
+| leader_name1 = [[Surin Pitsuwan]] {{flagicon|Thailand}}
+| leader_title2 = [[ASEAN Summit|ASEAN Summit Presidency]]
+| leader_name2 = Cambodia {{flagicon|Cambodia}} <ref>{{Cite web |url=http://www.nationmultimedia.com/opinion/New-chair-Cambodia-can-reset-Asean-power-30173795.html  |title=New chair Cambodia can reset Asean power |accessdate= 2012-03-25|author= Kavi Chongkittavorn |authorlink= |coauthors= |date= 16|year=2012 |month=1 |format= |work= |publisher=The Nation |pages= |language=english |archiveurl= |archivedate= |quote= }}</ref>
+| sovereignty_type = Establishment
+| sovereignty_note =
+| established_event1 = [[ASEAN Declaration|Bangkok Declaration]]
+| established_date1 = 8 August 1967
+| established_event2 = [[ASEAN Charter|Charter]]
+| established_date2 = 16 December 2008
+| area_magnitude = 1 E+12
+| area_km2 = 4,479,210.5
+| area_sq_mi = 2,778,124.7
+| percent_water =
+| population_estimate = 601 million
+| population_estimate_year = 2010
+| population_census =
+| population_census_year =
+| population_density_km2 = 135
+| population_density_sq_mi = 216
+| population_density_rank =
+| GDP_PPP = US$ 3.084&nbsp;trillion<ref>{{cite web|url=http://www.imf.org/external/datamapper/index.php |title=IMF DataMapper |publisher=Imf.org |date=4 December 1999 |accessdate=8 August 2011}}</ref>
+| GDP_PPP_rank =
+| GDP_PPP_year = 2010
+| GDP_PPP_per_capita = US$ 5,131
+| GDP_PPP_per_capita_rank =
+| GDP_nominal = US$ 1.800&nbsp;trillion
+| GDP_nominal_rank =
+| GDP_nominal_year = 2010
+| GDP_nominal_per_capita = US$ 2,995
+| GDP_nominal_per_capita_rank =
+| HDI = {{increase}} 0.742
+| HDI_rank = 61st¹
+| HDI_year = 2011
+| HDI_category = <span style="color:#090;">high</span>
+| currency = {{Collapsible list
+ | title = [[Currency|10]]
+ | {{flagicon|Brunei}} [[Brunei dollar]]
+ | {{flagicon|Cambodia}} [[Cambodian riel]]
+ | {{flagicon|Indonesia}} [[Indonesian rupiah]]
+ | {{flagicon|Laos}} [[Lao kip]]
+ | {{flagicon|Malaysia}} [[Malaysian ringgit]]
+ | {{flagicon|Burma}} [[Burmese kyat]]
+ | {{flagicon|Philippines}} [[Philippine peso]]
+ | {{flagicon|Singapore}} [[Singaporean dollar]]
+ | {{flagicon|Thailand}} [[Thai baht]]
+ | {{flagicon|Vietnam}} [[Vietnamese dong]]
+}}
+| currency_code =
+| time_zone = [[ASEAN Common Time|ASEAN]]
+| utc_offset = [[UTC+9|+9]] to [[UTC+6:30|+6:30]]
+| time_zone_DST =
+| DST_note =
+| utc_offset_DST =
+| cctld = {{Collapsible list
+ | title = [[Country code top-level domain|10]]
+ | {{flagicon|Brunei}} [[.bn]]
+ | {{flagicon|Indonesia}} [[.id]]
+ | {{flagicon|Cambodia}} [[.kh]]
+ | {{flagicon|Laos}} [[.la]]
+ | {{flagicon|Burma}} [[.mm]]
+ | {{flagicon|Malaysia}} [[.my]]
+ | {{flagicon|Philippines}} [[.ph]]
+ | {{flagicon|Singapore}} [[.sg]]
+ | {{flagicon|Thailand}} [[.th]]
+ | {{flagicon|Vietnam}} [[.vn]]
+}}
+| calling_code = {{Collapsible list
+ | title = [[Country calling codes|10]]
+ | {{flagicon|Malaysia}} +60
+ | {{flagicon|Indonesia}} +62
+ | {{flagicon|Philippines}} +63
+ | {{flagicon|Singapore}} +65
+ | {{flagicon|Thailand}} +66
+ | {{flagicon|Vietnam}} +84
+ | {{flagicon|Burma}} +95
+ | {{flagicon|Brunei}} +673
+ | {{flagicon|Cambodia}} +855
+ | {{flagicon|Laos}} +856
+}}
+| official_website = {{URL|www.asean.org}}
+| asean_chair_website = {{URL|www.aseancommunityindonesia.org}}
+| footnote1 = If considered as a single entity. 
+| footnote2 = [http://www.asean.org/stat/Table1.pdf Selected key basic ASEAN indicators]
+| footnote3 = [[Population growth|Annual growth]] 1.6%
+}}
+{{Wikisource|Bangkok Declaration}}
+[[File:ASEAN HQ 1.jpg|thumb|right|300px|The Secretariat of ASEAN at Jalan Sisingamangaraja No.70A, South [[Jakarta]], Indonesia.]]
+The '''Association of Southeast Asian Nations'''<ref>{{cite web|url=http://www.asean.org/64.htm |title=Overview |publisher=ASEAN |accessdate=12 January 2009}}</ref> ('''ASEAN''' {{IPAc-en|icon|ˈ|ɑː|s|i|.|ɑː|n}} {{Respell|AH|see-ahn}},<ref>[http://names.voa.gov/SearchAction.cfm VOA.gov], Search Voice of America</ref> rarely {{IPAc-en|ˈ|ɑː|z|i|.|ɑː|n}} {{Respell|AH|zee-ahn}})<ref>{{cite web|url=http://www.loc.gov/nls/other/ABC.html |title=NLS/BPH: Other Writings, The ABC Book, A Pronunciation Guide |date=8 May 2006 |accessdate=12 January 2009}}</ref><ref>[http://www.asean.org/2833.htm Asean.org], ASEAN-10: Meeting the Challenges, by Termsak Chalermpalanupap, [http://www.asean.org/ Asean.org], ASEAN Secretariat official website. Retrieved 27 June 2008. </ref> is a [[geo-political]] and economic organization of ten countries located in [[Southeast Asia]], which was formed on 8 August 1967 by [[Indonesia]], [[Malaysia]], the [[Philippines]], [[Singapore]] and [[Thailand]]. <ref>[[s:Bangkok Declaration|Bangkok Declaration]]. Wikisource. Retrieved 14 March 2007. </ref> Since then, membership has expanded to include [[Brunei]], [[Burma|Burma (Myanmar)]], [[Cambodia]], [[Laos]], and [[Vietnam]]. Its aims include accelerating [[economic growth]], [[social progress]], cultural development among its members, protection of regional peace and stability, and opportunities for member countries to discuss differences peacefully. <ref>[http://www.asean.org/64.htm Asean.org], Overview, [http://www.asean.org/ Asean.org], ASEAN Secretariat official website. Retrieved 12 June 2006. </ref> . 
+
+ASEAN covers a land area of 4.46&nbsp;million km², which is 3% of the total land area of Earth, and has a population of approximately 600 million people, which is 8.8% of the world's population. The sea area of ASEAN is about three times larger than its land counterpart. In 2010, its combined nominal GDP had grown to US$1.8&nbsp;trillion. <ref>[http://www.delidn.ec.europa.eu/en/relations/relations_4.htm/ EC.Europa.eu], European Union Relations with ASEAN. Retrieved 29 October 2010. </ref> If ASEAN were a single entity, it would rank as the ninth largest economy in the world.  . 
+
+== History ==. 
+{{See also|List of ASEAN member states}} . 
+
+ASEAN was preceded by an organisation called the '''Association of Southeast Asia''', commonly called '''ASA''', an alliance consisting of the Philippines, Malaysia and Thailand that was formed in 1961. The bloc itself, however, was established on 8 August 1967, when [[foreign ministers]] of five countries – Indonesia, Malaysia, the Philippines, Singapore, and Thailand – met at the Thai Department of Foreign Affairs building in [[Bangkok]] and signed the ASEAN Declaration, more commonly known as the [[ASEAN Declaration|Bangkok Declaration]]. The five foreign ministers – [[Adam Malik]] of Indonesia, [[Narciso Ramos]] of the Philippines, [[Tun Abdul Razak|Abdul Razak]] of Malaysia, [[S. Rajaratnam]] of Singapore, and [[Thanat Khoman]] of Thailand – are considered the organisation's Founding Fathers. <ref>{{cite book |title=The Asia-Pacific Profile |author=Bernard Eccleston, Michael Dawson, Deborah J. McNamara |year=1998 |publisher=Routledge (UK) |url=http://books.google.com/books?visbn=0415172799&id=l07ak-yd6DAC&pg=RA1-PA311&lpg=RA1-PA311&ots=XgqmmGV3CC&dq=%22Bangkok+Declaration%22+ASEAN&ie=ISO-8859-1&output=html&sig=u2ddDhzn-yVhEn5Fwu3d8iih0OA|isbn=0-415-17279-9 }}</ref> . 
+
+The motivations for the birth of ASEAN were so that its members’ governing elite could concentrate on [[nation building]], the common fear of communism, reduced faith in or mistrust of external powers in the 1960s, and a desire for economic development; not to mention Indonesia’s ambition to become a regional [[hegemon]] through regional cooperation and the hope on the part of Malaysia and Singapore to constrain Indonesia and bring it into a more cooperative framework.  . 
+
+Papua New Guinea was accorded Observer status in 1976 and Special Observer status in 1981. <ref>{{cite web|url=http://www.asean.org/3839.htm |title=ASEAN secretariat |publisher=ASEAN |date=23RD JULY 1999 |accessdate=12 January 2009}}</ref> Papua New Guinea is a [[Melanesian]] state. ASEAN embarked on a program of economic cooperation following the [[Bali]] Summit of 1976. This floundered in the mid-1980s and was only revived around 1991 due to a Thai proposal for a regional [[free trade area]]. The bloc grew when [[Brunei Darussalam]] became the sixth member on 8 January 1984, barely a week after gaining independence on 1 January. <ref>{{cite web |title=Background Note:Brunei Darussalam/Profile:/Foreign Relations |publisher=United States State Department |url=http://www.state.gov/r/pa/ei/bgn/2700.htm |accessdate=6 March 2007 }}</ref> . 
+
+===Continued expansion===. 
+{{see also|Enlargement of Association of Southeast Asian Nations}}
+On 28 July 1995, Vietnam became the seventh member. <ref>{{cite web |url=http://www.asean.org/10098.htm |title=Vietnam in ASEAN : Toward Cooperation for Mutual Benefits |work=ASEAN Secretariat |year=2007 |accessdate=28 August 2009}}</ref> Laos and Myanmar (Burma) joined two years later on 23 July 1997. <ref name=enlargement>{{cite book|title=ASEAN Enlargement: impacts and implications|author=Carolyn L. Gates, Mya Than|year= 2001|publisher=Institute of Southeast Asian Studies|isbn=981-230-081-3}}</ref> Cambodia was to have joined together with Laos and Burma, but was deferred due to the country's internal political struggle. The country later joined on 30 April 1999, following the stabilisation of its government. <ref name=enlargement /><ref>{{cite web |url=http://www.asean.org/3338.htm |title= Statement by the Secretary-General of ASEAN Welcoming the Kingdom of Cambodia as the Tenth Member State of ASEAN : 30 April 1999, ASEAN Secretariat |work=ASEAN Secretariat |year=2008 |accessdate=28 August 2009}}</ref> . 
+
+During the 1990s, the bloc experienced an increase in both membership and drive for further integration. In 1990, Malaysia proposed the creation of an [[East Asia Economic Caucus]]<ref name = caucus>[http://www.asean.org/9303.htm East Asia Economic Caucus]. ASEAN Secretariat. Retrieved 14 March 2007. </ref> comprising the then members of ASEAN as well as the People's Republic of China, Japan, and South Korea, with the intention of counterbalancing the growing influence of the United States in the [[Asia-Pacific Economic Cooperation]] (APEC) and in the Asian region as a whole. <ref name=oppose /><ref>[http://digital.library.unt.edu/govdocs/crs//data/1993/upl-meta-crs-66/93-633f_1993Jun30.txt?PHPSESSID=f7a7ec622077fa19bfce9ec9def6f3d9 UNT.edu], Asia's Reaction to NAFTA, Nancy J. Hamilton. CRS – Congressional Research Service. Retrieved 14 March 2007. </ref> This proposal failed, however, because of heavy opposition from the United States and Japan. <ref name = oppose>[http://www.asiaviews.org/?content=ger53rger567664&voices=20060125184254 Asiaviews.org], Whither East Asia? Retrieved 14 March 2007. </ref><ref>[http://www.iht.com/articles/1994/07/26/caucus.php IHT.com], Japan Straddles Fence on Issue of East Asia Caucus. [[International Herald Tribune]]. Retrieved 14 March 2007. </ref> Despite this failure, member states continued to work for further integration and [[ASEAN Plus Three]] was created in 1997.  . 
+
+In 1992, the Common Effective Preferential Tariff (CEPT) scheme was signed as a schedule for phasing tariffs and as a goal to increase the ''region’s competitive advantage as a production base geared for the world market''. This law would act as the framework for the [[ASEAN Free Trade Area]]. After the [[East Asian Financial Crisis]] of 1997, a revival of the Malaysian proposal was established in [[Chiang Mai]], known as the [[Chiang Mai Initiative]], which calls for better integration between the economies of ASEAN as well as the [[ASEAN Plus Three]] countries (China, Japan, and South Korea). <ref>{{cite web |title=Regional Financial Cooperation among ASEAN+3|publisher=[[Japanese Ministry of Foreign Affairs]] |url=http://www.mof.go.jp/english/if/regional_financial_cooperation.htm#CMI|accessdate=29 September 2008}}</ref> . 
+
+Aside from improving each member state's economies, the bloc also focused on peace and stability in the region. On 15 December 1995, the [[Southeast Asian Nuclear-Weapon-Free Zone Treaty]] was signed with the intention of turning Southeast Asia into a [[Nuclear-Weapon-Free Zone]]. The treaty took effect on 28 March 1997 after all but one of the member states have ratified it. It became fully effective on 21 June 2001, after the Philippines ratified it, effectively banning all nuclear weapons in the region. <ref name = NWFZ>[http://disarmament.un.org/TreatyStatus.nsf/Bangkok%20Treaty%20(in%20alphabetical%20order)?OpenView Bangkok Treaty (in alphabetical order) At UNODA] United Nations. Retrieved on 4 September 2008. </ref> . 
+
+[[Image:Borneo fires October 2006.jpg|thumb|left|Satellite image of the 2006 haze over [[Borneo]]]]
+East Timor submitted a letter of application to be the eleventh member of ASEAN at the summit in Jakarta in March 2011. Indonesia has shown a warm welcome to East Timor. <ref>[http://tuoitrenews.vn/cmlink/tuoitrenews/international/e-timor-leader-pushes-for-asean-membership-1.15889?localLinksEnabled=false E.Timor leader pushes for ASEAN membership], date: 1 December 2010. </ref><ref>[http://www.bangkokpost.com/news/local/218897/east-timor-bid-to-join-asean-wins-trong-support East Timor Bid to Join ASEAN Wins 'Strong Support'], Bangkok Post, date: 31 January 2011. </ref><ref>[http://www.thejakartaglobe.com/world/east-timor-to-join-asean-in-jakarta-2011/409570 East Timor to Join ASEAN in Jakarta 2011], ''Jakarta Globe'', date: 1 December 2010. </ref> . 
+
+===Environment and democracy===. 
+At the turn of the 21st century, issues shifted to involve a more environmental perspective. The organisation started to discuss environmental agreements. These included the signing of the [[ASEAN Agreement on Transboundary Haze Pollution]] in 2002 as an attempt to control haze pollution in Southeast Asia. <ref>ASEAN Secretariat. [http://www.asean.org/8914.htm ASEAN Agreement on Transboundary Haze Pollution]. Extracted 12 October 2006</ref> Unfortunately, this was unsuccessful due to the outbreaks of the [[2005 Malaysian haze]] and the [[2006 Southeast Asian haze]]. Other environmental treaties introduced by the organisation include the [[Cebu Declaration on East Asian Energy Security]],<ref>[http://newsinfo.inquirer.net/inquirerheadlines/nation/view_article.php?article_id=43618 East Asian leaders to promote biofuel], Philippine Daily Inquirer, 13 March 2007. </ref> the [[ASEAN Wildlife Enforcement Network (ASEAN-WEN)]] in 2005,<ref>{{cite web|url=http://www.asean.org/17933.htm |title=ASEAN Statement on Launching of the [[ASEAN Wildlife Enforcement Network (ASEAN-WEN)]] |publisher=ASEAN |date=1 December 2005 |accessdate=12 January 2009}}</ref> and the [[Asia-Pacific Partnership on Clean Development and Climate]], both of which are responses to the potential effects of climate change. Climate change is of current interest.  . 
+
+Through the Bali Concord II in 2003, ASEAN has subscribed to the notion of [[democratic peace]], which means all member countries believe democratic processes will promote regional peace and stability. Also, the non-democratic members all agreed that it was something all member states should aspire to. <ref>{{cite news |title=Asean: Changing, but only slowly |publisher=BBC       |date=8 October 2003 |url=http://news.bbc.co.uk/1/hi/world/asia-pacific/3173458.stm |first=Tim |last=Luard}}</ref> . 
+
+The leaders of each country, particularly [[Mahathir Mohamad]] of Malaysia, also felt the need to further integrate the region. Beginning in 1997, the bloc began creating organisations within its framework with the intention of achieving this goal. [[ASEAN Plus Three]] was the first of these and was created to improve existing ties with the People's Republic of China, Japan, and South Korea. This was followed by the even larger [[East Asia Summit]], which included these countries as well as India, Australia, and New Zealand. This new grouping acted as a prerequisite for the planned [[East Asia Community]], which was supposedly patterned after the now-defunct [[European Community]]. The [[ASEAN Eminent Persons Group]] was created to study the possible successes and failures of this policy as well as the possibility of drafting an [[ASEAN Charter]].  . 
+
+In 2006, ASEAN was given [[United Nations General Assembly observers|observer status at the United Nations General Assembly]]. <ref>[http://globalnation.inquirer.net/news/news/view_article.php?article_id=28822 RP resolution for observer status in UN assembly OK’d], Philippine Daily Inquirer, 13 March 2007. </ref> As a response, the organisation awarded the status of "dialogue partner" to the United Nations. <ref>{{cite news |title=Philippines to Represent Asean in Un Meetings in Ny, Geneva |url=http://asia.news.yahoo.com/070307/4/2ykdn.html |publisher=Yahoo! News |date=7 March 2007 |accessdate=13 March 2007 }}</ref> Furthermore, on 23 July that year, [[José Ramos-Horta]], then [[Prime Minister of East Timor]], signed a formal request for membership and expected the accession process to last at least five years before the then-observer state became a full member. <ref>{{cite news |title=East Timor ASEAN bid |url=http://www.smh.com.au/news/world/east-timor-asean-bid/2006/07/22/1153166635002.html |work=The Sun-Herald |work=The Sydney Morning Herald |date=28 January 2007 |accessdate=20 September 2007 }}</ref><ref>{{cite news |title=East Timor Needs Five Years to Join ASEAN: PM |publisher=ASEAN Secretariat |date= 26 July 2006|url=http://www.asean.org/afp/154.htm |accessdate=3 March 2007 }}</ref> . 
+
+In 2007, ASEAN celebrated its 40th anniversary since its inception, and 30&nbsp;years of diplomatic relations with the United States. <ref>{{cite news |first=Pearl |last=Forss |title=US and ASEAN seeking to enhance relationship: Dr Balaji |url=http://www.channelnewsasia.com/stories/singaporelocalnews/view/296251/1/.html |publisher=Channel NewsAsia |date=27 August 2007 |accessdate=27 August 2007 }}</ref> On 26 August 2007, ASEAN stated that it aims to complete all its [[free trade agreement]]s with China, Japan, South Korea, India, Australia and New Zealand by 2013, in line with the establishment of the [[ASEAN Community|ASEAN Economic Community]] by 2015. <ref>{{cite news |title=ASEAN to complete free trade agreements by 2013 |url=http://www.forbes.com/afxnewslimited/feeds/afx/2007/08/26/afx4054320.html |work=Forbes |date=26 August 2007 |accessdate=27 August 2007 }}</ref><ref>{{cite news |first=Christine |last=Ong |title=ASEAN confident of concluding FTAs with partners by 2013 |url=http://www.channelnewsasia.com/stories/economicnews/view/296149/1/.html |publisher=Channel NewsAsia |date=27 August 2007 |accessdate=27 August 2007 }}</ref> In November 2007 the ASEAN members signed the ASEAN Charter, a constitution governing relations among the ASEAN members and establishing ASEAN itself as an international legal entity.{{Citation needed|date=September 2008}} During the same year, the [[Cebu Declaration on East Asian Energy Security]] was signed in [[Cebu]] on 15 January 2007, by ASEAN and the other members of the [[East Asian Summit|EAS]] (Australia, People's Republic of China, India, Japan, New Zealand, South Korea), which promotes [[energy security]] by finding [[alternative energy|energy alternatives]] to [[fossil fuel|conventional fuels]].{{Citation needed|date=June 2009}} . 
+
+On 27 February 2009 a Free Trade Agreement with the ASEAN regional block of 10 countries and New Zealand and its [[Australia–New Zealand relations|close partner Australia]] was signed, it is estimated that this FTA would boost aggregate GDP across the 12 countries by more than US$48&nbsp;billion over the period 2000–2020. <ref>{{cite web|url=http://www.mfat.govt.nz/Trade-and-Economic-Relations/Trade-Agreements/Asean/index.php |title=ASEAN, Australia and New Zealand Free Trade Agreement – NZ Ministry of Foreign Affairs and Trade |publisher=Mfat.govt.nz |accessdate=21 May 2009}}</ref><ref>{{cite web|url=http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aul8rxM98Jg4 |title=Asean, Australia, New Zealand Sign Free-Trade Deal (Update1) |publisher=Bloomberg  |date=27 February 2009 |accessdate=21 May 2009}}</ref> . 
+
+==The ASEAN way==. 
+[[File:ASEAN Nations Flags in Jakarta 3.jpg|thumb|right|300px||The flags of 10 ASEAN members.]] . 
+
+In the 1960s, the push for [[decolonisation]] promoted the sovereignty of Indonesia and Malaysia among others. Since nation building is often messy and vulnerable to foreign intervention, the governing elite wanted to be free to implement independent policies with the knowledge that neighbours would refrain from interfering in their domestic affairs. Territorially small members such as Singapore and Brunei were consciously fearful of force and coercive measures from much bigger neighbours like Indonesia and Malaysia. "Through political dialogue and confidence building, no tension has escalated into armed confrontation among ASEAN member countries since its establishment more than three decades ago". <ref>[http://www.asean.org/64.htm "Overview Association of Southeast Asian Nations"], Retrieved on 27 July 2009. </ref> . 
+
+The ASEAN way can be traced back to the signing of the [[Treaty of Amity and Cooperation in Southeast Asia]]. 
+"Fundamental principles adopted from this included:
+*mutual respect for the independence, sovereignty, equality, territorial integrity, and national identity of all nations;
+*the right of every State to lead its national existence free from external interference, subversion or coercion;
+*non-interference in the internal affairs of one another;
+*settlement of differences or disputes by peaceful manner;
+*renunciation of the threat or use of force; and
+*effective cooperation among themselves". <ref>[http://www.asean.org/64.htm "Overview Association of South East Asian Nations"], Retrieved on 27 July 2009. </ref> . 
+
+On the surface, the process of consultations and consensus is supposed to be a democratic approach to decision making, but the ASEAN process has been managed through close interpersonal contacts among the top leaders only, who often share a reluctance to institutionalise and legalise co-operation which can undermine their regime's control over the conduct of regional co-operation. Thus, the organisation is chaired by the secretariat. <ref>{{cite web |url=http://au.encarta.msn.com/encyclopedia_761577248/Association_of_South_East_Asian_Nations.html |title=Association of South East Asian Nations |work=Microsoft Encarta |accessdate=27 July 2009 |archiveurl=http://www.webcitation.org/5kvWQ3QzO |archivedate= 31 October 2009}}</ref> . 
+
+All of these features, namely non-interference, informality, minimal institutionalisation, consultation and consensus, non-use of force and non-confrontation have constituted what is called the ASEAN Way. This ASEAN Way has recently proven itself relatively successful in the settlements of disputes by peaceful manner realm, with Chinese and ASEAN officials agreeing to draft guidelines ordered to avert tension in the [[South China Sea]], an important milestone ending almost a decade of deadlock. <ref>[http://edition.cnn.com/2011/WORLD/asiapcf/07/21/china.sea.conflict/ China, ASEAN agree on plans to solve South China Sea dispute] ''CNN'', Kathy Quiano, 21 July 2011. Retrieved 21 July 2011</ref><ref name="reuters.com">[http://www.reuters.com/article/2011/07/21/asean-southchinasea-idUSL3E7IL1TY20110721 China signs S.China Sea guidelines, seeks to turn page on row] ''Reuters'', Michael Martina, 21 July 2011. Retrieved 21 July 2011</ref>  . 
+
+Despite this success, some academics continue to argue that ASEAN's non-interference principle has worsened efforts to improve in the areas of Burma, human rights abuses and [[haze]] pollution in the region. Meanwhile, with the consensus-based approach, every member in fact has a veto and decisions are usually reduced to the [[lowest common denominator]]. There has been a widespread belief that ASEAN members should have a less rigid view on these two cardinal principles when they wish to be seen as a cohesive and relevant community.  . 
+
+===Policies===. 
+Apart from consultations and consensus, ASEAN’s agenda-setting and decision-making processes can be usefully understood in terms of the so-called Track I and Track II. Track I refers to the practice of diplomacy among government channels. The participants stand as representatives of their respective states and reflect the official positions of their governments during negotiations and discussions. All official decisions are made in Track I. Therefore, "Track I refers to intergovernmental processes". <ref name="pdserve.informaworld.com">Morrison, Charles. (2004): [http://pdserve.informaworld.com/854145_751309879_748087648.pdf "Track 1/Track 2 symbiosis in Asia-Pacific regionalism"], "The Pacific Review", 17,(4):548. </ref> Track II differs slightly from Track I, involving civil society groups and other individuals with various links who work alongside governments. <ref>Simon, Sheldon W. (2002: ["Evaluating Track II approaches to security diplomacy in the Asia-Pacific: the CSCAP experience"], "The Pacific Review", 15,(2): 168, ISSN 0951–2748. </ref> This track enables governments to discuss controversial issues and test new ideas without making official statements or binding commitments, and, if necessary, backtrack on positions.  . 
+
+Although Track II dialogues are sometimes cited as examples of the involvement of [[civil society]] in regional decision-making process by governments and other second track actors, NGOs have rarely got access to this track, meanwhile participants from the academic community are a dozen think-tanks. However, these think-tanks are, in most cases, very much linked to their respective governments, and dependent on government funding for their academic and policy-relevant activities, and many working in Track II have previous bureaucratic experience. <ref name="pdserve.informaworld.com"/> Their recommendations, especially in [[economic integration]], are often closer to ASEAN’s decisions than the rest of civil society’s positions.  . 
+
+The track that acts as a forum for civil society in Southeast Asia is called Track III. Track III participants are generally civil society groups who represent a particular idea or brand. <ref>Morrison, Charles. (2004): [http://pdserve.informaworld.com/854145_751309879_748087648.pdf "Track 1/Track 2 symbiosis in Asia-Pacific regionalism"], "The Pacific Review", 17,(4):549</ref> Track III [[social network|networks]] claim to represent communities and people who are largely marginalised from political power centres and unable to achieve positive change without outside assistance. This track tries to influence government policies indirectly by [[lobbying]], generating pressure through the media. Third-track actors also organise and/or attend meetings as well as conferences to get access to Track I officials.  . 
+
+While Track II meetings and interactions with Track I actors have increased and intensified, rarely has the rest of civil society had the opportunity to interface with Track II. Those with Track I have been even rarer.  . 
+
+Looking at the three tracks, it is clear that until now, ASEAN has been run by government officials who, as far as ASEAN matters are concerned, are accountable only to their governments and not the people. In a lecture on the occasion of ASEAN’s 38th anniversary, the incumbent Indonesian President Dr. [[Susilo Bambang Yudhoyono]] admitted: . 
+
+“All the decisions about treaties and free trade areas, about declarations and plans of action, are made by Heads of Government, ministers and senior officials. And the fact that among the masses, there is little knowledge, let alone appreciation, of the large initiatives that ASEAN is taking on their behalf.”<ref>[http://www.asean.org/17655.htm "On Building the ASEAN Community: The Democratic Aspect"], 8 August 2005. Retrieved on 27 July 2009. </ref> . 
+
+==Meetings==. 
+===ASEAN Summit===. 
+[[File:Jakarta Welcome ASEAN Delegates Billboard.jpg|thumb|right|240px|A Billboard in Jakarta welcoming ASEAN Summit 2011 delegates.]]
+The organisation holds meetings, known as the [[ASEAN Summit]], where [[head of government|heads of government]] of each member meet to discuss and resolve regional issues, as well as to conduct other meetings with other countries outside of the bloc with the intention of promoting external relations.  . 
+
+The ASEAN Leaders' Formal Summit was first held in Bali, Indonesia in 1976. Its third meeting was held in [[Manila]] in 1987 and during this meeting, it was decided that the leaders would meet every five years. <ref name=summit>[http://www.summit99.ops.gov.ph/asean_structure.htm ASEAN Structure], ''ASEAN Primer''</ref> Consequently, the fourth meeting was held in Singapore in 1992 where the leaders again agreed to meet more frequently, deciding to hold the summit every three years. <ref name=summit /> In 2001, it was decided to meet annually to address urgent issues affecting the region. Member nations were assigned to be the summit host in alphabetical order except in the case of Burma which dropped its 2006 hosting rights in 2004 due to pressure from the United States and the [[European Union]]. <ref>{{cite book |title=Roadmap to an Asean Economic Community |author=Denis Hew |year=2005 |publisher=Institute of Southeast Asian Studies |isbn=981-230-347-2 }}</ref> . 
+
+By December 2008, the ASEAN Charter came into force and with it, the ASEAN Summit will be held twice in a year.  . 
+
+The formal summit meets for three days. The usual itinerary is as follows:
+* Leaders of member states would hold an internal organisation meeting. 
+* Leaders of member states would hold a conference together with foreign ministers of the ASEAN Regional Forum. 
+* A meeting, known as ASEAN Plus Three, is set for leaders of three Dialogue Partners (People's Republic of China, Japan, South Korea)
+* A separate meeting, known as ASEAN-CER, is set for another set of leaders of two Dialogue Partners (Australia, New Zealand).{{Citation needed|date=June 2009}} . 
+
+{| class="wikitable"
+! colspan="5" style="font-size:105%;" | ASEAN Formal Summits
+. |-
+! style="width:30px;"| No !! style="width:140px;"| Date !! style="width:140px;"| Country !! style="width:140px;"| Host !! style="width:140px;"| Host leader
+. |-
+| 1st || style="text-align:right;"| 23–24 February 1976 || {{Flagu|Indonesia}} ||[[Bali]] || [[Soeharto]]
+. |-
+| 2nd || style="text-align:right;"| 4–5 August 1977 || {{Flagu|Malaysia}} ||[[Kuala Lumpur]] || [[Hussein Onn]]
+. |-
+| 3rd || style="text-align:right;"| 14–15 December 1987 || {{Flagu|Philippines}} ||[[Metro Manila|Manila]] || [[Corazon Aquino]]
+. |-
+| 4th || style="text-align:right;"| 27‒29 January 1992 || {{Flagu|Singapore}} ||Singapore || [[Goh Chok Tong]]
+. |-
+| 5th || style="text-align:right;"| 14‒15 December 1995 || {{Flagu|Thailand}} ||[[Bangkok]] || [[Banharn Silpa-archa]]
+. |-
+| 6th || style="text-align:right;"| 15‒16 December 1998 || {{Flagu|Vietnam}} ||[[Hanoi]] || [[Phan Văn Khải]]
+. |-
+| 7th || style="text-align:right;"| 5‒6 November 2001 || {{Flagu|Brunei}} ||[[Bandar Seri Begawan]] || [[Hassanal Bolkiah]]
+. |-
+| 8th || style="text-align:right;"| 4‒5 November 2002 || {{Flagu|Cambodia}} ||[[Phnom Penh]] || [[Hun Sen]]
+. |-
+| 9th || style="text-align:right;"| 7‒8 October 2003 || {{Flagu|Indonesia}} ||[[Bali]] || [[Megawati Soekarnoputri]]
+. |-
+| 10th || style="text-align:right;"| 29‒30 November 2004 || {{Flagu|Laos}} ||[[Vientiane]] || [[Bounnhang Vorachith]]
+. |-
+| 11th || style="text-align:right;"| 12‒14 December 2005 || {{Flagu|Malaysia}} ||[[Kuala Lumpur]] || [[Abdullah Ahmad Badawi]]
+. |-
+| 12th || style="text-align:right;"| 11‒14 January 2007<sup>1</sup> || {{Flagu|Philippines}}<sup>2</sup> || [[Metro Cebu|Cebu]] || [[Gloria Macapagal-Arroyo]]
+. |-
+| 13th || style="text-align:right;"| 18‒22 November 2007|| {{Flagu|Singapore}} || Singapore || [[Lee Hsien Loong]]
+. |-
+| 14th<sup>3</sup> || style="text-align:right;"| 27 February – 1 March 2009<br />10–11 April 2009 || {{Flagu|Thailand}} || [[Cha Am]], [[Hua Hin]]<br />[[Pattaya]] || rowspan=2|[[Abhisit Vejjajiva]]
+. |-
+| 15th || style="text-align:right;"| 23 October 2009 || {{Flagu|Thailand}} ||[[Cha Am]], [[Hua Hin]] 
+. |-
+| 16th || style="text-align:right;"|8–9 April 2010 || {{Flagu|Vietnam}} ||[[Hanoi]] || rowspan=2| [[Nguyễn Tấn Dũng]]
+. |-
+| 17th || style="text-align:right;"| 28–31 October 2010 || {{Flagu|Vietnam}} ||[[Hanoi]]
+. |-
+| 18th<sup>4</sup> || style="text-align:right;"| 7–8 May 2011 || {{Flagu|Indonesia}} ||[[Jakarta]] || rowspan=2|[[Susilo Bambang Yudhoyono]]
+. |-
+| 19th<sup>4</sup> || style="text-align:right;"| 14–19 November 2011 || {{Flagu|Indonesia}} ||[[Bali]] 
+. |-
+| colspan="5" style="font-size:95%;" | <sup>1</sup> Postponed from 10‒14 December 2006 due to [[2006 Pacific typhoon season#Typhoon Utor (Seniang)|Typhoon Utor]]. 
+. |-
+| colspan="5" style="font-size:95%;" | <sup>2</sup> hosted the summit because Burma backed out due to enormous pressure from US and EU
+. |-
+| colspan="5" style="font-size:95%;" | <sup>3</sup> This summit consisted of two parts. <br />The first part was moved from 12‒17 December 2008 due to the [[2008 Thai political crisis]]. <br />The second part was aborted on 11 April due to protesters entering the summit venue. 
+. |-
+| colspan="5" style="font-size:95%;" | <sup>4</sup> {{Flagu|Indonesia}} proposed a swap with {{Flagu|Brunei}} as it will play host to APEC (and possibly the G20 meeting) in 2013. 
+|} . 
+
+ASEAN Summits held once or twice a year in a same venue/host nation. Example, Indonesia is the host for 2011 ASEAN Summit; all summits, formal or informal this year 2011 must be held in Indonesia.  . 
+
+During the fifth Summit in Bangkok, the leaders decided to meet "informally" between each formal summit:<ref name=summit />
+{| class="wikitable"
+!colspan="5" style="font-size:105%;"| ASEAN Informal Summits
+. |-
+! style="width:30px;"| No !! style="width:140px;"| Date !! style="width:140px;"| Country !! style="width:140px;"| Host !! style="width:140px;"| Host leader
+. |-
+| 1st || style="text-align:right;"| 30 November 1996 || {{Flagu|Indonesia}} || [[Jakarta]] ||  Soeharto
+. |-
+| 2nd || style="text-align:right;"| 14‒16 December 1997 || {{Flagu|Malaysia}} || [[Kuala Lumpur]] || [[Mahathir Mohamad]]
+. |-
+| 3rd || style="text-align:right;"| 27‒28 November 1999 || {{Flagu|Philippines}} || [[Manila]] || [[Joseph Estrada]]
+. |-
+| 4th || style="text-align:right;"| 22‒25 November 2000 || {{Flagu|Singapore}} || Singapore || Goh Chok Tong
+|} . 
+
+===East Asia Summit===. 
+[[Image:East Asia Summit.svg|thumb|250px|Participants of the East Asia Summit: {{legend|#000080|ASEAN}} {{legend|#FF0000|ASEAN Plus Three}} {{legend|#008000|Additional members}} {{legend|#FF7F2A|Observer}}]] . 
+
+{{Main|East Asia Summit}} . 
+
+The [[East Asia Summit]] (EAS) is a pan-Asian forum held annually by the leaders of 16 countries in East Asia and the region, with ASEAN in a leadership position. The summit has discussed issues including trade, energy and security and the summit has a role in [[East Asia Community|regional community building]].  . 
+
+The members of the summit are all 10 members of ASEAN plus China, Japan, South Korea, India, Australia and New Zealand. These nations represent nearly half of the world's population. In October 2010, Russia and the United States were formally invited to participate as full members, with presidents of both countries to attend the 2011 summit. <ref name="Invitation to US & Russia">{{cite web|url=http://www.asean.org/25514.htm |title=Invitation to US & Russia |publisher=Asean.org |date=30 October 2010 |accessdate=8 August 2011}}</ref> . 
+
+The first summit was held in Kuala Lumpur on 14 December 2005 and subsequent meetings have been held after the annual ASEAN Leaders’ Meeting.  . 
+
+{| class="wikitable"
+. |-
+! Meeting
+! Country
+! Location
+! Date
+! Note
+. |-
+| [[First EAS]]
+| {{Flagu|Malaysia}}
+| [[Kuala Lumpur]]
+| 14 December 2005
+| Russia attended as a guest. 
+. |-
+| [[Second EAS]]
+| {{Flagu|Philippines}}
+| [[Cebu City]]
+| 15 January 2007
+| Rescheduled from 13 December 2006. <br />
+[[Cebu Declaration on East Asian Energy Security]]
+. |-
+| [[Third EAS]]
+| {{Flagu|Singapore}}
+| Singapore
+| 21 November 2007
+| Singapore Declaration on Climate Change, Energy and the Environment<ref>{{cite web|url=http://www.asean.org/21116.htm |title=Singapore Declaration on Climate Change, Energy and the Environment |date=21 November 2007 |publisher=ASEAN |accessdate=12 January 2009}}</ref><br />
+Agreed to establish [[Economic Research Institute for ASEAN and East Asia]]
+. |-
+| [[Fourth EAS]]
+| {{Flagu|Thailand}}
+| [[Cha-am]] and [[Hua Hin]]
+| 25 October 2009
+| The date and location of the venue was rescheduled several times, and then a Summit scheduled for 12 April 2009 at [[Pattaya]], Thailand was cancelled when protesters stormed the venue. The Summit has been rescheduled for October 2009 and transferred again from Phuket<ref>[http://www.chinadaily.com.cn/china/2009-06/27/content_8329226.htm Thai PM woos Chinese businesses] [http://www.asean.org/10-2009.htm ASEAN Calendar for October 2009]</ref> to Cha-am and Hua Hin. <ref>{{cite web|url=http://findarticles.com/p/articles/mi_m0WDP/is_2009_August_17/ai_n35643383/ |title=Thailand changes venue for ASEAN+3, East Asia summits |publisher=Findarticles.com |accessdate=8 August 2011}}</ref>
+. |-
+| [[Fifth EAS]]
+| {{Flagu|Viet Nam}}
+| [[Hanoi]]
+| 30 October 2010<ref>[http://www.asean.org/22981.htm#10 ASEAN calendar of events]{{dead link|date=August 2011}}</ref>
+| Officially invited the US and Russia to participate in future EAS as full-fledged members<ref name="Invitation to US & Russia"/>
+. |-
+| [[Sixth EAS]]
+| {{Flagu|Indonesia}}
+| [[Bali]]
+| 19 November 2011
+| The [[United States]] and [[Russia]] to join the Summit. 
+|} . 
+
+===Commemorative summit===. 
+A commemorative summit is a summit hosted by a non-ASEAN country to mark a milestone anniversary of the establishment of relations between ASEAN and the host country. The host country invites the heads of government of ASEAN member countries to discuss future cooperation and partnership.  . 
+
+{| class="wikitable"
+. |-
+! style="width:260px;"| Meeting !! style="width:120px;"| Host !! style="width:120px;"| Location !! style="width:140px;"| Date !! style="width:430px;"| Note
+. |-
+| ASEAN – Japan Commemorative Summit
+| {{Flagu|Japan}}
+| Tokyo
+| 11, 12 December 2003
+|  To celebrate the 30th anniversary of the establishment of relations between ASEAN and Japan. The summit was also notable as the first ASEAN summit held between ASEAN and a non-ASEAN country outside the region. 
+. |-
+| [[ASEAN – China Commemorative Summit]]
+| {{Flagu|People's Republic of China}}
+| [[Nanning]]
+| 30, 31 October 2006
+| To celebrate the 15th anniversary of the establishment of relations between ASEAN and China
+. |-
+| [[ASEAN – Republic of Korea Commemorative Summit]]
+| {{Flagu|South Korea}}
+| [[Jeju-do]]
+| 1, 2 June 2009
+| To celebrate the 20th anniversary of the establishment of relations between ASEAN and Republic of Korea
+|} . 
+
+===Regional Forum=== . 
+
+[[Image:ASEAN member states.svg|thumb|right|250px|<span style="color:navy;">█</span> ASEAN full members <br /> <span style="color:blue;">█</span> ASEAN observers <br /> <span style="color:aqua;">█</span> ASEAN candidate members <br /> <span style="color:navy;">█</span><span style="color:red;">█</span> ASEAN Plus Three <br /> <span style="color:navy;">█</span><span style="color:red;">█</span><span style="color:green;">█</span> East Asia Summit <br /> <span style="color:navy;">█</span><span style="color:blue;">█</span><span style="color:aqua;">█</span><span style="color:red;">█</span><span style="color:green;">█</span><span style="color:orange;">█</span> ASEAN Regional Forum]]
+The ASEAN Regional Forum (ARF) is a formal, official, multilateral dialogue in Asia Pacific region. As of July 2007, it is consisted of 27 participants. ARF objectives are to foster dialogue and consultation, and promote confidence-building and preventive diplomacy in the region. <ref>[http://www.aseanregionalforum.org/Default.aspx?tabid=49 About Us], [http://www.aseanregionalforum.org/ ASEAN Regional Forum official website]. Retrieved 12 June 2006. </ref> The ARF met for the first time in 1994. The current participants in the ARF are as follows: all the ASEAN members, Australia, Bangladesh, Canada, the People's Republic of China, the [[European Union]], India, Japan, North Korea, South Korea, Mongolia, New Zealand, Pakistan, Papua New Guinea, Russia, East Timor, United States and Sri Lanka. <ref>[http://www.dfat.gov.au/arf/ Official Website of Australian Department of Foreign Affairs and Trade]. Retrieved 3 August 2008. </ref> The Republic of China (also known as Taiwan) has been excluded since the establishment of the ARF, and issues regarding the Taiwan Strait are neither discussed at the ARF meetings nor stated in the ARF Chairman's Statements.  . 
+
+===Other meetings===. 
+Aside from the ones above, other regular<ref name = meet>[http://www.asean.org/11-2006.htm ASEAN Calendar of Meetings and Events November 2006], ASEAN Secretariat. Retrieved 13 March 2007. </ref> meetings are also held. <ref>[http://news.bbc.co.uk/2/hi/asia-pacific/country_profiles/4114415.stm#leaders BBC country profile/Asean leaders], BBC. Retrieved 13 March 2007. </ref> These include the annual ASEAN Ministerial Meeting<ref name = ministry>[http://www.asean.org/89.htm ASEAN Ministerial Meetings], ASEAN Secretariat. Retrieved 13 March 2007. </ref> as well as other smaller committees. <ref>[http://www.asean.org/73.htm Asean.org], ASEAN Secretariat. Retrieved 16 March 2007. </ref> Meetings mostly focus on specific topics, such as [[International security|defence]]<ref name=meet /> or the [[Environment (biophysical)|environment]],<ref name=meet /><ref>{{cite news |title=Malaysians have had enough of haze woes |url=http://www.malaysianbar.org.my/content/view/4967/2/ |publisher=The Malaysian Bar |accessdate=13 March 2007 }}</ref> and are attended by [[Minister (government)|Ministers]], instead of heads of government.  . 
+
+====Another Three====. 
+The [[ASEAN Plus Three]] is a meeting between ASEAN, China, Japan, and South Korea, and is primarily held during each ASEAN Summit.  . 
+
+====Asia-Europe Meeting====. 
+The [[Asia-Europe Meeting]] (ASEM) is an informal dialogue process initiated in 1996 with the intention of strengthening cooperation between the countries of Europe and Asia, especially members of the [[European Union]] and ASEAN in particular. <ref>{{cite book |title=Asia and Europe: the development and different dimensions of ASEM |author=Lay Hwee Yeo |year=2003 |publisher=Routledge (UK) |isbn=0-415-30697-3 }}</ref> ASEAN, represented by its Secretariat, is one of the 45 ASEM partners. It also appoints a representative to sit on the governing board of [[Asia-Europe Foundation]] (ASEF), a socio-cultural organisation associated with the Meeting.  . 
+
+====ASEAN-Russia Summit====. 
+The ASEAN-Russia Summit is an annual meeting between leaders of member states and the [[President of the Russian Federation|President of Russia]].  . 
+
+====ASEAN Foreign Ministers Meeting====. 
+The 44th annual meeting will be held in Bali on 16 to 23 July 2011. Indonesia will propose a unified ASEAN travel visa to ease travel within the region for citizens of ASEAN member states. <ref>{{cite web|url=http://www.philstar.com/Article.aspx?articleId=706247&publicationSubCategoryId=200 |title=A Unified ASEAN Travel Visa |publisher=Philstar.com |date=14 July 2011 |accessdate=8 August 2011}}</ref> . 
+
+==Economic Community==. 
+ASEAN has emphasised regional cooperation in the “three pillars”, which are security, sociocultural integration, and economic integration. <ref name="aseansec1">{{cite web|url=http://www.asean.org/64.htm |title=Overview |publisher=Asean.org |accessdate=21 December 2008}}</ref> The regional grouping has made the most progress in economic integration by creating an ASEAN Economic Community (AEC) by 2015. <ref name="asil1">Sim, Edmund "Introduction to the ASEAN Economic Community", http://www.asil.org/aseanevent/Sim_Intro_to_ASEAN.pdf</ref>
+The average economic growths of ASEAN's member nations  during 1989–2009 was Singapore with 6.73 percent, Malaysia with 6.15 percent, Indonesia with 5.16 percent, Thailand with 5.02 percent, and the Philippines with 3.79 percent. This economic growth was greater than the average Asia-Pacific Economic Cooperation ([[APEC]]) economic growth, which was 2.83 percent. <ref>{{cite web|url=http://www.thejakartapost.com/news/2011/05/11/asean-economies-past-and-future.html |title=ASEAN economies past and future |work=The Jakarta Post    |date=29 July 2011 |accessdate=8 August 2011}}</ref> . 
+
+===From CEPT to AEC===. 
+A Common Effective Preferential Tariff (CEPT) scheme to promote the free flow of goods within ASEAN lead the [[ASEAN Free Trade Area]] (AFTA). <ref name="asil1"/> The AFTA is an agreement by the member nations of ASEAN concerning local manufacturing in all ASEAN countries. The AFTA agreement was signed on 28 January 1992 in Singapore. <ref>{{cite web|url=http://www.asean.org/12375.htm |title=Agreement on the Common Effective Preferential Tariff Scheme for the ASEAN Free Trade Area, Singapore, 28 January 1992 |publisher=Asean.org |accessdate=21 December 2008}}</ref> When the AFTA agreement was originally signed, ASEAN had six members, namely, Brunei, Indonesia, Malaysia, the Philippines, Singapore and Thailand. Vietnam joined in 1995, Laos and Burma in 1997, and Cambodia in 1999. The latecomers have not fully met the AFTA's obligations, but they are officially considered part of the AFTA as they were required to sign the agreement upon entry into ASEAN, and were given longer time frames in which to meet AFTA's tariff reduction obligations. <ref>{{cite web|url=http://www.asean.org/12021.htm |title=Overview |publisher=Asean.org |accessdate=21 December 2008}}</ref> . 
+
+The next step is ASEAN Economic Community (AEC) with main objectives are to create a:
+* single market and production base
+* highly competitive economic region
+* region of equitable economic development
+* region fully integrated into the global economy
+Since 2007, the ASEAN countries gradually lower their import duties among them and targeted will be zero for most of the import duties at 2015. <ref>[http://www.miti.gov.my/cms/content.jsp?id=com.tms.cms.article.Article_b5e22087-c0a81573-aba0aba0-ab12873b] ASEAN Economic Community (AEC)</ref> . 
+
+Since 2011, AEC has agreed to strengthen the position and increase the competitive edges of [[small and medium enterprises]] (SME) in the ASEAN region. <ref>{{cite web|url=http://waspada.co.id/index.php?option=com_content&view=article&id=192229:economic-ministers-agree-to-reinforce-smes&catid=30:english-news&Itemid=101 |title=Economic ministers agree to reinforce SMES |publisher=Waspada.co.id |date=2011-05-06 |accessdate=2011-11-04}}</ref> . 
+
+aseanblogger.com has agreed to set up online ASEAN community with aim to raise people's awareness on the issue of AEC by 2015. The content of the portal currently consisted of subjects varying from security to culinary and in the future will also touch tourist sites and local culture. <ref>{{cite web|url=http://www.thejakartapost.com/news/2011/05/14/ri-bloggers-set-online-asean-community.html |title=RI bloggers set up online ASEAN community |work=The Jakarta Post    |date=14 May 2011 |accessdate=8 August 2011}}</ref> . 
+
+===Comprehensive Investment Area===. 
+The ASEAN Comprehensive Investment Area (ACIA) will encourage the free flow of investment within ASEAN. The main principles of the ACIA are as follows<ref name="aseansec2">{{cite web|url=http://www.asean.org/21940.htm |title=Highlights of the ASEAN Comprehensive Investment Agreement (ACIA) |publisher=Asean.org |accessdate=21 December 2008}}</ref>
+* All industries are to be opened up for investment, with exclusions to be phased out according to schedules
+* National treatment is granted immediately to ASEAN investors with few exclusions
+* Elimination of investment impediments
+* Streamlining of investment process and procedures
+* Enhancing transparency
+* Undertaking investment facilitation measures
+Full realisation of the ACIA with the removal of temporary exclusion lists in manufacturing agriculture, fisheries, forestry and mining is scheduled by 2010 for most ASEAN members and by 2015 for the CLMV (Cambodia, Lao PDR, Burma, and Vietnam) countries. <ref name="aseansec2"/> . 
+
+===Trade in Services===. 
+An ASEAN Framework Agreement on Trade in Services was adopted at the ASEAN Summit in Bangkok in December 1995. <ref>{{cite web|url=http://www.asean.org/6628.htm |title=ASEAN Framework Agreement on Services (1995) |publisher=Asean.org |accessdate=21 December 2008}}</ref> Under AFAS, ASEAN Member States enter into successive rounds of negotiations to liberalise trade in services with the aim of submitting increasingly higher levels of commitments. The negotiations result in commitments that are set forth in schedules of specific commitments annexed to the Framework Agreement. These schedules are often referred to as packages of services commitments. At present, ASEAN has concluded seven packages of commitments under AFAS. <ref>{{cite web|url=http://www.asean.org/6626.htm |title=Overview |publisher=Asean.org |accessdate=21 December 2008}}</ref> . 
+
+===Single Aviation Market===. 
+The ASEAN Single Aviation Market (SAM), proposed by the ASEAN Air Transport Working Group, supported by the ASEAN Senior Transport Officials Meeting, and endorsed by the ASEAN Transport Ministers, will introduce an open-sky arrangement to the region by 2015. <ref name="ASEAN SAM">{{cite web |url=http://www.asian-aerocad.com/news/news.php?newsid=23 |title=Asean Single Aviation Market |accessdate=26 September 2008 |work=Straits Times |location=Singapore  |date=2 February 2008}}</ref> The ASEAN SAM will be expected to fully liberalise air travel between its member states, allowing ASEAN to directly benefit from the growth in air travel around the world, and also freeing up tourism, trade, investment and services flows between member states. <ref name="ASEAN SAM" /><ref name="LHL on SAM">{{cite news |url=http://news.xinhuanet.com/english/2007-11/01/content_6990497.htm |title=Singaporean PM urges ASEAN to liberalise aviation |accessdate=26 September 2008 |work=chinaview.cn |publisher=Xinhua News Agency |date=1 November 2007 }}</ref> Beginning 1 December 2008, restrictions on the third and fourth [[freedoms of the air]] between capital cities of member states for air passengers services will be removed,<ref>{{cite news |url=http://www.straitstimes.com/Breaking%2BNews/Singapore/Story/STIStory_282410.html |title=Tiger offers 50,000 free seats |accessdate=26 September 2008 |last=Kaur |first= Karamjit |work=Straits Times |location=Singapore  |date=25 September 2008}}</ref> while from 1 January 2009, there will be full liberalisation of air freight services in the region, while<ref name="ASEAN SAM" /><ref name="LHL on SAM" /> By 1 January 2011, there will be liberalisation of fifth freedom traffic rights between all capital cities. <ref>{{cite web |url=http://www.centreforaviation.com/aviation/index.php?option=com_content&task=view&id=5015 |title=Three quarters of a million more seats and counting- KL-Singapore benefits from liberalisation |accessdate=26 September 2008 |publisher=Centre for Asia Pacific Aviation |date=28 September 2008}}</ref> . 
+
+===Free Trade Agreements With Other Countries===. 
+ASEAN has concluded free trade agreements with China (expecting bilateral trade of $500&nbsp;billion by 2015),<ref name="reuters.com"/> Korea, Japan, Australia, New Zealand and most recently India. <ref>{{cite web|url=http://www.fta.gov.sg/sg_fta.asp |title=Welcome to Singapore FTA Network |publisher=Fta.gov.sg |accessdate=21 December 2008}}</ref> The agreement with People's Republic of China created the [[ASEAN–China Free Trade Area]] (ACFTA), which went into full effect on 1 January 2010. In addition, ASEAN is currently negotiating a free trade agreement with the [[European Union]]. <ref>{{cite web|url=http://www.fta.gov.sg/fta_ongoingneg.asp |title=Welcome to Singapore FTA Network |publisher=Fta.gov.sg |accessdate=21 December 2008}}</ref>  Republic of China (Taiwan) has also expressed interest in an agreement with ASEAN but needs to overcome diplomatic objections from China. <ref>{{cite web|url=http://www.taipeitimes.com/News/taiwan/archives/2008/10/12/2003425653 |title=Taipei Times – archives |work=The Taipei Times  |location=Taiwan (ROC)  |accessdate=21 December 2008}}</ref> . 
+
+===ASEAN six majors===. 
+'''ASEAN six majors''' refer to the six largest economies in the area with economies many times larger than the remaining four ASEAN countries.  . 
+
+The ASEAN six majors are (GDP nominal 2010 based on IMF data. The figures in parentheses are GDP PPP.) 
+*{{Flag|Indonesia}}: 706.75 billions (1,033 billions)
+*{{Flag|Thailand}}: 318.91 billions (589 billions)
+*{{Flag|Malaysia}}: 237.96 billions (416 billions)
+*{{Flag|Singapore}}: 222.70 billions (293 billions)
+*{{Flag|Philippines}}: 199.59 billions (369 billions)
+*{{flag|Vietnam}}: 103.57 billions (277 billions) . 
+
+===From CMI to AMRO=== . 
+
+Due to Asian financial crisis of 1997 to 1998 and long and difficult negotiations with [[International Monetary Fund]], ASEAN+3 agreed to set up a mainly bilateral currency swap scheme known as the 2000 Chiang Mai Initiative (CMI) to anticipate another financial crisis or currency turmoil in the future. In 2006 they agreed to make CMI with multilateralisation and called as CMIM. On 3 May 2009, they agreed to make a currency pool consist of contribution $38.4&nbsp;billion each by China and Japan, $19.2&nbsp;billion by South Korea and totally $24&nbsp;billion by all of ASEAN members, so the total currency pool was $120&nbsp;billion. <ref>An Asian monetary fund? http://findarticles.com/p/articles/mi_6991/is_6_34/ai_n45060521/</ref> A key component has also newly been added, with the establishment of a surveillance unit. <ref>{{cite web|url=http://www.thejakartapost.com/news/2011/06/07/does-asia-need-imf.html |title=Does Asia need the IMF? |work=The Jakarta Post    |accessdate=8 August 2011}}</ref> . 
+
+The ASEAN+3 Macroeconomic and Research Office (AMRO) will start its operation in Singapore in May 2011. <ref>{{cite web|url=http://www.thejakartapost.com/news/2011/04/08/asean%E2%80%99s-amro-may-%E2%80%98replace%E2%80%99-imf-financial-role.html |title=ASEAN’s AMRO may ‘replace’ IMF financial role |work=The Jakarta Post    |accessdate=8 August 2011}}</ref> It will perform a key regional surveillance function as part of the $120&nbsp;billion of [[Chiang Mai]] Initiative Multilateralisation (CMIM) currency swap facility that was established by Finance Minister and Central Bank Governors of ASEAN countries plus China, Japan and South Korea in December 2009. <ref>ASEAN+3 Macroeconomic and Research Office (AMRO) http://www.aseansec.org/25193.htm</ref> . 
+
+According to some analysts, the amount of $120&nbsp;billion is relatively small (cover only about 20 percent of needs), so coordination or help from International Monetary Fund is still needed. <ref>{{cite web|url=http://www.thejakartapost.com/news/2011/05/12/asian-financial-arrangement-regionalism-vs-multilateralism.html |title=Asian financial arrangement: Regionalism vs multilateralism |work=The Jakarta Post  |accessdate=8 August 2011}}</ref> . 
+
+===Foreign Direct Investment===. 
+In 2009, realized [[Foreign Direct Investment]] (FDI) was $37.9&nbsp;billion and increase by two-fold in 2010 to $75.8&nbsp;billion. 22 percent of FDI came form the [[European Union]], followed by ASEAN countries themselves by 16 percent and then followed by Japan and US. European Union and US has debt problems, while Japan should make tsunami recovery. China who helped Asia lead the global post-2008 recovery still grapples with 3-years high inflation. So, in the longterm all of the problems will give negative impact to ASEAN indirectly. There are possibility to push some programs of ASEAN Economic Community before 2015. <ref>{{cite web |url= http://www.thejakartapost.com/news/2011/08/10/global-debt-crisis-‘-affect-asean’-sooner-or-later.html|title=Global debt crisis ‘to affect ASEAN’ sooner or later |date=10 August 2011}}</ref> . 
+
+===Intra-ASEAN travel===. 
+with free visa among ASEAN countries, a huge intra-ASEAN travel occurred and on the right track to establish an ASEAN Community in the years to come. In 2010, 47 percent or 34 million from 73 million tourists were intra-ASEAN travel. <ref>{{cite web |url=http://www.thejakartapost.com/news/2011/09/27/perfect-10-paradise-asean-tourist-industry-booming-with-intra-asean-travelers.html |title=PERFECT 10 PARADISE: ASEAN tourist industry is booming with intra-ASEAN travelers |date=September 27, 2011}}</ref> . 
+
+===Intra-ASEAN trade===. 
+Until end of 2010, Intra-Asean trade were still low which mainly of them were mostly exporting to countries outside the region, except Laos and Myanmar were ASEAN-oriented in foreign trade with 80 percent and 50 percent respectively of their exports went to other ASEAN countries. <ref>{{cite web |url=http://www.antaranews.com/en/news/77403/asean-feared-to-become-multinational-companies-market-only |title=ASEAN feared to become multinational companies market only |date=November 10, 2011}}</ref> . 
+
+== Charter ==. 
+{{Main|ASEAN Charter}}
+On 15 December 2008 the members of ASEAN met in the Indonesian capital of [[Jakarta]] to launch a charter, signed in November 2007, with the aim of moving closer to "an EU-style community". <ref name=AFPCharter>{{cite news|url=http://www.google.com/hostednews/afp/article/ALeqM5gT16o2eXYrGL-35uoUD0fKcRPlDw|title='Momentous' day for ASEAN as charter comes into force|agency=Agence France-Presse  |date=15 December 2008|accessdate=16 December 2008}}</ref> The charter turns ASEAN into a legal entity and aims to create a single free-trade area for the region encompassing 500 million people. [[List of Presidents of Indonesia|President of Indonesia]] [[Susilo Bambang Yudhoyono]] stated that "This is a momentous development when ASEAN is consolidating, integrating and transforming itself into a community. It is achieved while ASEAN seeks a more vigorous role in Asian and global affairs at a time when the international system is experiencing a seismic shift," he added, referring to climate change and economic upheaval. Southeast Asia is no longer the bitterly divided, war-torn region it was in the 1960s and 1970s." "The fundamental principles include: . 
+
+a) respect for the independence, sovereignty, equality, territorial integrity and national identity of all ASEAN Member States; . 
+
+b) shared commitment and collective responsibility in enhancing regional peace, security and prosperity; . 
+
+c) renunciation of aggression and of the threat or use of force or other actions in any manner inconsistent with [[international law]]; . 
+
+d) reliance on peaceful settlement of disputes; . 
+
+e) non-interference in the internal affairs of ASEAN Member States; . 
+
+f) respect for the right of every Member State to lead its national existence free from external interference, subversion and coercion; . 
+
+g) enhanced consultations on matters seriously affecting the common interest of ASEAN; . 
+
+h) adherence to the rule of law, good governance, the principles of democracy and constitutional government; . 
+
+i) respect for [[fundamental freedoms]], the promotion and protection of human rights, and the promotion of [[social justice]]; . 
+
+j) upholding the United Nations Charter and international law, including international humanitarian law, subscribed to by ASEAN Member States; . 
+
+k) abstention from participation in any policy or activity, including the use of its territory, pursued by and ASEAN Member State or non-ASEAN State or any non-State actor, which threatens the sovereignty, territorial integrity or political and economic stability of ASEAN Member States; . 
+
+l) respect for the different cultures, languages and religions of the peoples of ASEAN, while emphasising their common values in the spirit of unity in diversity; . 
+
+m) the centrality of ASEAN in external political, economic, social and cultural relations while remaining actively engaged, outward-looking, inclusive and non-discriminatory; and . 
+
+n) adherence to multilateral trade rules and ASEAN's rules-based regimes for effective implementation of economic commitments and progressive reduction towards elimination of all barriers to regional economic integration, in a market-driven economy". <ref>Association of South East Asian Nations.: [http://www.asean.org/ASEAN-Charter.pdf "The ASEAN Charter"], December 2007, p.6-7, ISBN 978-979-3496-62-7. Retrieved on 27 July 2009. </ref> . 
+
+However, the [[Global financial crisis of 2008|ongoing global financial crisis]] was stated as being a threat to the goals envisioned by the charter,<ref name=ReutersCharter>{{cite news|url=http://in.reuters.com/article/worldNews/idINIndia-37031520081215|title=ASEAN launches charter under shadow of crisis|authors=Olivia Rondonuwu and Suhartono, Harry|agency=Reuters  |date=15 December 2008|accessdate=16 December 2008}}</ref> and also set forth the idea of a proposed human rights body to be discussed at a future summit in February 2009. This proposition caused controversy, as the body would not have the power to impose sanctions or punish countries who violate citizens' rights and would therefore be limited in effectiveness. <ref name=IHTCharter>{{cite news|url=http://www.iht.com/articles/ap/2008/12/15/asia/AS-ASEAN-Charter.php|title=ASEAN charter comes into force|work=International Herald Tribune|date=15 December 2008|accessdate=16 December 2008}}</ref> The body was established later in 2009 as the [[ASEAN Intergovernmental Commission on Human Rights]] (AICHR).  . 
+
+==Cultural activities==. 
+[[Image:SEAwritelogo.png|thumb|Logo of the S.E.A. Write Award]]
+The organisation hosts cultural activities in an attempt to further integrate the region. These include sports and educational activities as well as writing awards. Examples of these include the [[ASEAN University Network]], the [[ASEAN Centre for Biodiversity]], the [[ASEAN Outstanding Scientist and Technologist Award]], and the Singapore-sponsored [[ASEAN Scholarship]].  . 
+
+===S.E.A. Write Award===. 
+The [[S.E.A. Write Award]] is a [[literary award]] given to Southeast Asian poets and writers annually since 1979. The award is either given for a specific work or as a recognition of an author's lifetime achievement. Works that are honoured vary and have included poetry, [[short stories]], novels, plays, [[folklore]] as well as scholarly and religious works. Ceremonies are held in Bangkok and are presided by a member of the [[Thai royal family]].  . 
+
+===ASAIHL===. 
+ASAIHL or the [[Association of Southeast Asian Institutions of Higher Learning]] is a non-governmental organisation founded in 1956 that strives to strengthen higher learning institutions, espescially in [[teaching]], research, and [[community service|public service]], with the intention of cultivating a sense of regional identity and interdependence.  . 
+
+===Heritage Parks===. 
+ASEAN Heritage Parks<ref>[http://www.aseanbiodiversity.org/AGP/default.htm AseanBiodiversity.org], ASEAN Centre for Biodiversity. Retrieved 13 March 2007. </ref> is a list of [[nature park]]s launched 1984 and relaunched in 2004. It aims to protect the region's natural treasures. There are now 35 such protected areas, including the [[Tubbataha Reef Marine Park]] and the [[Kinabalu National Park]]. <ref>[http://www.aseanbiodiversity.org/AGP/sites_list.htm ASEAN's Greatest Parks], ASEAN Centre for Biodiversity. Retrieved 13 March 2007. </ref> . 
+
+====List====. 
+{| class="wikitable"
+!colspan="4" style="font-size:105%;"| ASEAN Heritage Sites
+. |-
+! style="width:160px;"| Site !! style="width:130px;"| Country
+! style="width:160px;"| Site !! style="width:130px;"| Country
+. |-
+| [[Alaungdaw Kathapa National Park]] || {{flag|Burma}}
+| Ao Phang-nga Marine National Park || {{Flagu|Thailand}}
+. |-
+| [[Mt. Apo|Apo Natural Park]] || {{Flagu|Philippines}}
+| [[Imperial City, Huế]] || {{VIE}}
+. |-
+| [[Bukit Barisan Selatan National Park]] || {{INA}}
+| [[Gunung Leuser National Park]] || {{INA}}
+. |-
+| [[Gunung Mulu National Park]] || {{MAS}}
+| [[Ha Long Bay]] || {{VIE}}
+. |-
+| [[Hoi An Ancient Town]]|| {{VIE}}
+| Iglit-Baco National Park || {{Flagu|Philippines}}
+. |-
+| [[Indawgyi Lake|Indawgyi Lake Wildlife Sanctuary]] || {{flag|Burma}}
+| [[Inlé Lake|Inlé Lake Wildlife Sanctuary]] || {{flag|Burma}}
+. |-
+| [[Kaeng Krachan National Park]] || {{Flagu|Thailand}}
+| [[Kerinci Seblat National Park]] || {{INA}}
+. |-
+| [[Khakaborazi National Park]] || {{flag|Burma}}
+| [[Khao Yai National Park]] || {{Flagu|Thailand}}
+. |-
+| [[Kinabalu National Park]] || {{MAS}}
+| [[Komodo National Park]] || {{INA}}
+. |-
+| [[Imperial Citadel of Thang Long]] || {{VIE}}
+| [[Lampi Kyun Wildlife Reserve]] || {{flag|Burma}}
+. |-
+| [[Lorentz National Park]] || {{INA}}
+| [[Mein-ma-hla Kyun Wildlife Sanctuary|Meinmhala Kyun Wildlife Sanctuary]] || {{flag|Burma}}
+. |-
+| [[Surin Island|Mu Ko Surin]]-[[Similan Islands|Mu Ko Similan]] Marine National Park || {{Flagu|Thailand}}
+| Nam Ha Protected Area || {{Flagu|Laos}}
+. |-
+| [[Phong Nha-Ke Bang|Phong Nha-Ke Bang National Park]] || {{VIE}}
+| Preah Monivong (Bokor) National Park || {{CAM}}
+. |-
+| [[Puerto Princesa Subterranean River National Park]] || {{Flagu|Philippines}}
+| [[Sungei Buloh Wetland Reserve]] || {{SIN}}
+. |-
+| [[Taman Negara National Park]] || {{MAS}}
+| [[Tarutao Marine National Park]] || {{Flagu|Thailand}}
+. |-
+| Tasek Merimbun Wildlife Sanctuary || {{BRU}}
+| Thung Yai-Huay Kha Khaeng National Park || {{Flagu|Thailand}}
+. |-
+| [[Tubbataha Reef Marine Park]] || {{Flagu|Philippines}}
+| [[Ujung Kulon National Park]] || {{INA}}
+. |-
+| [[Virachey National Park]] || {{CAM}}
+| Keraton [[Yogyakarta (city)|Yogyakarta]] || {{INA}}
+. |-
+| [[Mỹ Sơn]]|| {{VIE}}
+| [[Citadel of Ho Dynasty ]]||{{VIE}}
+|} . 
+
+===Official song===. 
+*'''[[The ASEAN Way]]''' – the official regional [[anthem]] of ASEAN, music by Kittikhun Sodprasert and Sampow Triudom {{THA}}; Lyrics by Payom Valaiphatchra {{THA}}. 
+*'''ASEAN Song of Unity''' or '''[[ASEAN Hymn]]''', music by [[Ryan Cayabyab]] {{PHL}}. 
+*'''Let Us Move Ahead''', an ASEAN song, composed by Candra Darusman {{IDN}}. 
+*'''[[ASEAN Rise]]''', ASEAN's 40th Anniversary song, composed by [[Dick Lee]] {{SGP}}; lyrics by [[Stefanie Sun]] {{SGP}}.  . 
+
+==Education and Human Development== . 
+
+===University Network===. 
+*The [[ASEAN University Network]] (AUN) is a consortium of [[Southeast Asian]] universities. It was originally founded in November 1995 by 11 universities within the [[ASEAN members|member states]]. <ref>{{cite web|url=http://www.aun-sec.org/about_agreement.html |title=ASEAN University Network/Agreement |publisher=Aun-sec.org |accessdate=21 December 2008}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> Currently AUN comprises 26 Participating Universities. <ref>{{cite web|url=http://www.aun-sec.org/member_u.html |title=ASEAN University Network/Board Member |publisher=Aun-sec.org |accessdate=21 December 2008 |archiveurl = http://web.archive.org/web/20080731123240/http://www.aun-sec.org/member_u.html <!-- Bot retrieved archive --> |archivedate = 31 July 2008}}</ref> . 
+
+*The [[Southeast Asia Engineering Education Development Network ]] (SEED-NET) Project, was officially established as an autonomous sub-network of the [[ASEAN University Network]] (AUN) in April 2001'. [http://www.seed-net.org/ AUN/SEED-Net] aimed at promoting human resources development in engineering in ASEAN. The Network consists of [http://www.seed-net.org/info_members.php 19 leading Member Institutions] (selected by the Ministries in charge of higher education of respective countries) from 10 ASEAN countries with the support of 11 leading [http://www.seed-net.org/info_jsuc.php Japanese Supporting Universities] (selected by Japanese Government). AUN/SEED-Net is mainly supported by the Japanese Government through the Japan International Cooperation Agency ([[JICA]]) , and partially supported by the ASEAN Foundation. AUN/SEED-Net activities are implemented by the AUN/SEED-Net Secretariat with the support of the JICA Project for AUN/SEED-Net, now based at Chulalongkorn University, Thailand.  . 
+
+===Scholarship===. 
+The [[ASEAN Scholarship]] is a scholarship program offered by Singapore to the 9 other [[ASEAN members|member states]] for secondary school, junior college, and university education. It covers accommodation, food, medical benefits & accident insurance, school fees, and examination fees. <ref>{{cite web|url=http://www.moe.gov.sg/education/scholarships/asean |title=Ministry of Education, Singapore: ASEAN Scholarships |publisher=Moe.gov.sg |accessdate=21 December 2008}}</ref> . 
+
+==Sports==. 
+===Southeast Asian Games===. 
+The [[Southeast Asian Games]], commonly known as the SEA Games, is a biennial multi-sport event involving participants from the current 11 countries of Southeast Asia. The games is under regulation of the Southeast Asian Games Federation with supervision by the [[International Olympic Committee]] (IOC) and the [[Olympic Council of Asia]].  . 
+
+===ASEAN Para Games===. 
+[[Image:ASEANPara.png|thumb|Logo of the ASEAN Para Games]]
+The [[ASEAN ParaGames|ASEAN Para Games]] is a biennial multi-sport event held after every Southeast Asian Games for athletes with physical disabilities. The games are participated by the 11 countries located in Southeast Asia. The Games, patterned after the [[Paralympic Games]], are played by physically challenged athletes with [[mobility disabilities]], [[visual disabilities]], . 
+
+===FESPIC Games/ Asian Para Games===. 
+The [[FESPIC Games]], also known as the Far East and South Pacific Games for the persons with disability, was the biggest multi-sports games in Asia and South Pacific region. The FESPIC Games were held nine times and bowed out, a success<ref>{{cite web|url=http://www.taiyonoie.or.jp/fespic/ |title=Closure of FESPIC Federation |publisher=Taiyonoie.or.jp |accessdate=21 May 2009}}</ref> in December 2006 in the 9th FESPIC Games in Kuala Lumpur, Malaysia. The Games re-emerges as the [[2010 Asian Para Games]] in [[Guangzhou]], China. The 2010 Asian Para Games will debut shortly after the conclusion of the [[2010 Asian Games|16th Asian Games]], using the same facilities and venue made [[Disability access rights|disability-accessible]]. The inaugural Asian Para Games, the parallel event for athletes with physical disabilities, is a [[multi-sport event]] held every four years after every [[Asian Games]].  . 
+
+===Football Championship===. 
+The [[ASEAN Football Championship]] is a biennial [[Association Football|Football]] competition organised by the [[ASEAN Football Federation]], accredited by [[FIFA]] and contested by the national teams of Southeast Asia nations. It was inaugurated in 1996 as Tiger Cup, but after [[Asia Pacific Breweries]] terminated the sponsorship deal, "Tiger" was renamed "ASEAN".  . 
+
+===ASEAN 2030 FIFA World Cup bid===. 
+January 2011: As a result of ASEAN Foreign ministers at [[Lombok]] meeting, they agreed bid to host the [[ASEAN 2030 FIFA World Cup bid|FIFA World Cup in 2030]] as a single entity. <ref>Challenges to ASEAN's bid to host W. Cup http://www.thejakartapost.com/print/302457</ref> . 
+
+May 2011: ASEAN will go ahead with its bid for the FIFA 2030 World Cup. It was a follow up to the agreement reached in January before. <ref>{{cite web|url=http://www.straitstimes.com/BreakingNews/Sport/Story/STIStory_666603.html |title=Asean to proceed with bid for 2030 Fifa World Cup |work=Straits Times |location=Singapore  |date=9 May 2011 |accessdate=8 August 2011}}</ref> . 
+
+==ASEAN Defense Industry Collaboration==. 
+Indonesia, Malaysia, Singapore and Thailand have established defense industries. To cut cost and plan to be self-sufficient by 2030, Indonesia and Malaysia have agreed to promote the creation of the ASEAN Defense Industry Collaboration (ADIC). <ref>{{cite web|url=http://www.thejakartapost.com/news/2011/05/19/malaysia-indonesia-pace-asean-military-industry.html |title=Malaysia, Indonesia pace ASEAN military industry |work=The Jakarta Post    |date=19 May 2011 |accessdate=8 August 2011}}</ref> The United States military reportedly has said that ADIC could have additional benefits beyond cost savings for ASEAN members, including facilitating a set of standards, similar to NATO, that will improve interoperability among ASEAN and U.S. militaries and increase the effectiveness of regional response to threats to Asia-Pacific peace and stability. <ref>{{cite web|url=http://asiapacificreporting.blogspot.com/2011/09/pacom-perspective-on-asean-defense.html |title=PACOM perspective on ASEAN Defense Industry Collaboration |work=Asia Pacific Reporting (Blog)|author=Eddie Walsh|date=9 September 2011 |accessdate=9 September 2011}}</ref> . 
+
+== Criticism ==. 
+Non-ASEAN countries have criticised ASEAN for being too soft in its approach to promoting human rights and democracy in the junta-led Burma. <ref>{{cite news |title=ADB president calls for building Asian economic integration |url=http://peacejournalism.com/ReadArticle.asp?ArticleID=16729 |publisher=Peace Journalism |date=3 January 2007 |accessdate=3 April 2007 }}</ref> Despite global outrage at the military crack-down on peaceful protesters in Yangon, ASEAN has refused to suspend Burma as a member and also rejects proposals for economic sanctions. <ref>{{cite news |title=Japan Cancels Burma Grant |url=http://ap.google.com/article/ALeqM5iy-MfhLN9Q7MwtQ1VlrvexLjr2dAD8SA9CS00 |agency=Associated Press |date=17 October 2007 |accessdate=18 October 2007 }}</ref> This has caused concern as the European Union, a potential trade partner, has refused to conduct free trade negotiations at a regional level for these political reasons. <ref>{{cite news |title=Burma an Issue in Asean-EU Trade Talks |url=http://www.irrawaddy.org/aviewer.asp?a=6693&z=163 |first=Sai |last=Silp |publisher=The Irawaddy News Magazine Online Edition |date=15 February 2007 |accessdate=4 March 2007 }}</ref> International observers view it as a "[[talking shop|talk shop]]",<ref>{{cite news |title=Malaysian foreign minister says ASEAN is no 'talk shop'|url=http://findarticles.com/p/articles/mi_m0WDQ/is_2005_Dec_5/ai_n15900039 |date=5 December 2005 |accessdate=6 March 2007 | work=Asian Political News}} {{Dead link|date=September 2010|bot=RjwilmsiBot}}</ref> which implies that the organisation is "big on words but small on action". <ref>{{cite news |title=BBC Country/International Organisation Profile: Association of Southeast Asian Nations |url=http://news.bbc.co.uk/2/hi/asia-pacific/country_profiles/4114415.stm |publisher=BBC News       |date=11 January 2007 |accessdate=6 March 2007 }}</ref><ref>Huntington, Samuel. [[The Clash of Civilizations]] and the remaking of a New World Order. </ref> However, leaders such as the Philippines' Foreign Affairs Secretary, [[Alberto Romulo]], said it is a workshop not a talk shop. <ref>{{cite web|url=http://www.philstar.com/Article.aspx?articleid=495010 |title=Romulo defends ASEAN as a workshop, not a talkshop – The Philippine Star » News » Headlines |publisher=Philstar.com |accessdate=8 August 2011}}</ref> Others have also expressed similar sentiment. <ref>{{cite web|last=McLean |first=John |url=http://development.asia/issue03/cover-03.asp |title=Will ASEAN’s New Charter Bring Greater Cooperation? |publisher=Development Asia |accessdate=8 August 2011}}</ref>  . 
+
+Head of the [[International Institute of Strategic Studies]] – Asia, Tim Huxley cites the diverse political systems present in the grouping, including many young states, as a barrier to far-reaching cooperation outside the economic sphere. He also asserts that in the absence of an external threat to rally against with the end of the [[Cold War]], ASEAN has begun to be less successful at restraining its members and resolving border disputes such as those between Burma and Thailand and Indonesia and Malaysia. <ref>[http://apac2020.the-diplomat.com/feature/asean’s-mixed-bag/ ASEAN's Mixed Bag]</ref> . 
+
+During the 12th ASEAN Summit in [[Metro Cebu|Cebu]], several activist groups staged [[anti-globalisation]] and [[Gloria Macapagal-Arroyo|anti-Arroyo]] rallies. <ref>{{cite news |title=About 100 militants stage protest vs Asean Summit in Cebu |url=http://www.gmanews.tv/video/3465/About-100-militants-stage-protest-vs-Asean-Summit-in-Cebu |publisher=GMA News |date=13 January 2007 |accessdate=6 March 2007 }}</ref> According to the activists, the agenda of economic integration would negatively affect industries in the Philippines and would cause thousands of Filipinos to lose their jobs. <ref name=kmu>{{cite news |title=ASEAN protests in Cebu will also underscore massive opposition to Charter Change|url=http://www.kilusangmayouno.org/asean-protests-cebu-will-also-underscore-massive-opposition-charter-change |publisher=Kilusang Mayo Uno |date=7 December 2006 |accessdate=6 March 2007 }}</ref> They also viewed the organisation as imperialistic that threatens the country's sovereignty. <ref name=kmu /> A human rights lawyer from New Zealand was also present to protest about the human rights situation in the region in general. <ref>{{cite news |title=NZ rights lawyer to join protests at ASEAN summit|url=http://www.laborrights.org/press/TUV/brian3_eiler_120706.htm|publisher=News and Press |date=7 December 2006 |accessdate=6 March 2007 |archiveurl = http://web.archive.org/web/20070927223412/http://www.laborrights.org/press/TUV/brian3_eiler_120706.htm <!-- Bot retrieved archive --> |archivedate = 27 September 2007}}</ref> . 
+
+==See also==. 
+{{satop|Geography|Eurasia|Asia|Southeast Asia|ASEAN}}
+* [[ASEAN Common Time]]
+* [[ASEAN Exchanges]]
+* [[ASEAN Intergovernmental Commission on Human Rights]] (AICHR)
+* [[Asia Pacific Forum]]
+* [[ASEAN kecil]]
+* [[Asian Monetary Unit]]
+* [[Chiang Mai Initiative]]
+* [[Comprehensive Economic Partnership for East Asia]]
+* [[List of ASEAN countries by GDP (nominal)]]
+* [[Mekong-Ganga Cooperation]]
+* [[Southeast Asia Treaty Organization]]
+* [[International Motor Insurance Card System#Blue card system|Blue card system]] – motor insurance scheme of ASEAN
+{{clear}} . 
+
+==Notes==. 
+{{Reflist|colwidth=35em}} . 
+
+== External links ==. 
+{{Commons category}}
+;Organization
+* [http://www.asean.org/ ASEAN Secretariat] Retrieved on 13 March 2007. 
+* [http://www.aseanregionalforum.org/ ASEAN Regional Forum] Retrieved on 13 March 2007. 
+* [http://news.bbc.co.uk/2/hi/asia-pacific/country_profiles/4114415.stm BBC Country Profile/Asean] Retrieved on 13 March 2007.  . 
+
+;Summits
+* [http://www.14thaseansummit.org 14th ASEAN Summit]
+* [http://www.13thaseansummit.org.sg 13th ASEAN Summit] Singapore official site. Retrieved on 16 September 2007. 
+* [http://www.12thaseansummit.org.ph 12th ASEAN Summit] Retrieved on 13 March 2007. 
+* [http://www.11thaseansummit.org.my/ 11th ASEAN Summit] 12 December-14, 2005, Kuala Lumpur, Malaysia official site. Retrieved on 13 March 2007.  . 
+
+<!-- * [http://aseansummit.bernama.com/ 11th ASEAN Summit] 12 December–14, 2005, Kuala Lumpur, Malaysia. Retrieved on 13 March 2007. -->
+;ASEAN organisations
+* [http://www.asean.org/99.htm ASEAN official directory of ASEAN organisations]
+* [http://www.act.or.th/asean_architect/index.html ASEAN Architect]
+* [http://www.aseanlawassociation.org/ ASEAN Law Association]
+* [http://www.aseanports.com/ ASEAN Ports Association]
+* [http://www.us-asean.org/ US-ASEAN Business Council]
+* [http://www.asean-cn.org/ ASEAN-China Free Trade Area] . 
+
+{{Association of Southeast Asian Nations (ASEAN)}}
+{{Regional organizations}}
+{{Trade}}
+{{Shanghai Cooperation Organization|state=collapsed}}
+{{South-South}}
+{{international power|state=collapsed}} . 
+
+{{DEFAULTSORT:Asean}}
+[[Category:Organizations established in 1967]]
+[[Category:Association of Southeast Asian Nations| ]]
+[[Category:Supranational unions]]
+[[Category:Supraorganizations]]
+[[Category:United Nations General Assembly observers]]

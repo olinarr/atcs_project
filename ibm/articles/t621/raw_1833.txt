@@ -1,0 +1,166 @@
+[[Image:nwfz.svg|thumb|400px|
+{{legend0|#0000FF|Nuclear-weapon-free zones}} 
+{{legend0|#FF0000|[[Nuclear weapons states|NW states]]}}
+{{legend0|#FF8800|[[Nuclear sharing]]}}
+{{legend0|#dddd00|[[Nuclear Non-Proliferation Treaty|NPT]] only}}<br>
+{| class="wikitable" align="center" 
+!Treaty!!Region!!Land km²!!States!!Date in force
+. |- 
+|[[Antarctic Treaty System|Antarctic]]|| [[Antarctica]]|| align="right"|14,000,000|| align="right"| || 1961-06-23
+. |- 
+|[[Outer Space Treaty|Space]]|| [[Outer Space]]|| ||align="right"| || 1967-10-10
+. |- 
+|[[Treaty of Tlatelolco|Tlatelolco]]|| [[Latin America]]<br/>[[Caribbean]]|| align="right"|21,069,501<!--from [[Latin America]]--><!--1,958,201+521,499+17,840,000+-->|| align="center"|33|| 1969-04-25
+. |- 
+|[[Seabed Treaty|Seabed]]|| [[Seabed]] || ||align="right"| || 1972-05-18
+. |- 
+|[[Treaty of Rarotonga|Rarotonga]]|| [[Pacific Ocean|South Pacific]]||  align="right"|9,008,458|| align="center"|13||1986-12-11<ref>[http://www.opanal.org/Docs/Desarme/NWFZ/SPNFZ_and_Protocols_Status_Report.pdf South Pacific Nuclear Free Zone Treaty &#91;Treaty of Rarotonga&#93;]</ref>
+. |- 
+|[[Southeast Asian Nuclear-Weapon-Free Zone Treaty|Bangkok]]|| [[ASEAN]]|| align="right"|4,465,501|| align="center"|10||1997-03-28<ref>[http://www.armscontrol.org/act/1997_04/seanfwz SEANWFZ Enters Into Force; U.S. Considers Signing Protocol] Arms Control Association, April 1997</ref>
+. |- 
+|[[Mongolian NWFS|MNWFS]]|| [[Mongolia]]|| align="right"|1,564,116|| align="center"|1|| 2000-02-28
+. |- 
+|[[Central Asian NWFZ|Semei]]|| [[Central Asia]]|| align="right"|4,003,451<!--488,100+447,400+2,724,900+199,951+143,100-->||align="center"|5|| 2009-03-21<ref>[http://www.earthtimes.org/articles/show/260825,nuclear-free-zone-in-central-asia-enters-into-force-saturday.html Nuclear free zone in Central Asia enters into force Saturday] The Earth Times, 20 March 2009</ref>
+. |- 
+|[[Treaty of Pelindaba|Pelindaba]]|| [[Africa]]|| align="right"|30,221,532|| align="center"|53|| 2009-07-15
+. |-
+|style="background:#000000" colspan="5"|
+. |-
+|colspan="2" align="right"|All NWFZs combined:|| align="right"|84,000,000||align="center"|115||39% world pop
+. |-
+|colspan="2" align="right"|[[Nuclear weapons states]]||41,400,000||align="center"|9||47% world pop
+. |-
+|colspan="2" align="right"|Neither NWS nor NWFZ||24,000,000||align="center"|68||14% world pop
+|}
+]] . 
+
+A '''nuclear-weapons-free zone''', or '''NWFZ''' is defined<ref>[http://www.opanal.org/Docs/UN/UNAG30res3472i.pdf Resolution 3472; Comprehensive study of the question of nuclear-weapon-free zones in all its aspects] Resolutions adopted on the reports of the First Committee, United Nations General Assembly 30th session, 2437th plenary meeting, 11 December 1975</ref> by the [[United Nations]]  as an agreement which a group of states has freely established by treaty or convention, that bans the use, development, or deployment of [[nuclear weapons]] in a given area, that has mechanisms of verification and control to enforce its obligations, and that is recognized as such by the [[General Assembly of the United Nations]]. 
+NWFZs have a similar purpose to, but are distinct from, the [[Nuclear Non-Proliferation Treaty]] to which [[List of parties to the Nuclear Non-Proliferation Treaty|all countries except for four nuclear weapons states]] are party. Another term, [[nuclear-free zone]], often means an area which has banned both [[nuclear power]] and nuclear weapons, and usually does not mean a UN-acknowledged international treaty.  . 
+
+==Scope==. 
+Today there are five zones covering continental or subcontinental groups of countries (including their territorial waters and airspace), one UN-recognized zone consisting of a single country, Mongolia, and three governing [[Antarctica]], the seabed, and outer space which are not part of any state. The Antarctic, seabed, and space zones preceded all but one of the zones on national territories. Most of the Earth's [[ocean]]s above the seabed are not covered by NWFZs since [[freedom of the seas]] restricts restrictions in [[international waters]].  . 
+
+{{As of|2009|07|15}} when the [[African NWFZ]] came into force, the six land zones cover 56% of the Earth's land area of 149 million square kilometers and 60% of [[List of sovereign states|the 193 states on Earth]], up from 34% and 30% the previous year; however only 39% of the world's population lives in NWFZs, while the nine [[nuclear weapons state]]s have 28% of world land area area and 46% of world population. 
+[[Image:International waters.svg|left|thumb|400px|Area in blue is outside [[exclusive economic zone]]s. Some NWFZs are defined in terms of EEZ areas, some in terms of [[territorial waters]] which extend only 12 nautical miles.]]
+NWFZs do not cover [[international waters]] (where there is [[freedom of the seas]]) or transit of [[nuclear missile]]s through space (as opposed to [[Outer Space Treaty|deployment of nuclear weapons in space]]).  . 
+
+The NWFZ definition does not count countries or smaller regions that have outlawed nuclear weapons simply by their own law, like [[Austria]] with the [[:de:Bundesverfassungsgesetz für ein atomfreies Österreich|Atomsperrgesetz]] in 1999; also, the [[2+4 Treaty]], at the end of the [[Cold War]], banned nuclear weapons in the [[new states of Germany|six states]], which joined to Germany 1990 (area of [[Berlin]] and former [[East Germany]]), but was an agreement only among the four Allies and two German states.  . 
+
+{| class="wikitable" align="right"
+|+ Nuclear weapons states' territories within NWFZs
+!Treaty!!British!!French!!American
+. |-
+<!-- .mf, .bl, .mq, .gp, .gf, .pr, .vi, .ai, .fk, .gs, .ky, .ms, .tc, .vg, -->
+|[[Treaty of Tlatelolco|Tlatelolco]]|| [[Anguilla]], [[British Virgin Islands|Virgin Is.]]<br>[[Caymans]], [[Turks and Caicos|Turks&Caicos]]<br>[[Falklands]], [[South Georgia|S. Georgia]]<br>|| [[French Guiana|Guyane]]<br>[[Guadeloupe]], [[Martinique]]<br>[[Saint Barthélemy|St. Barthélemy]], [[Saint Martin|St. Martin]]||[[Puerto Rico]]<br>[[U.S. Virgin Islands|Virgin Is.]]<br>[[USMOI]]
+. |- 
+|[[Treaty of Rarotonga|Rarotonga]]|| [[Pitcairn Island]]|| [[French Polynesia|Polynésie]], [[Wallis and Futuna|Wallis&Futuna]]<br>[[New Caledonia|Nouvelle-Calédonie]]|| [[American Samoa|Samoa]]
+. |- 
+|[[Treaty of Pelindaba|Pelindaba]]||[[British Indian Ocean Territory|Indian Ocean Territory]] ||[[Réunion]], [[Mayotte]]<br>[[Scattered Islands in the Indian Ocean|Îles Éparses]]||
+|} . 
+
+NWFZs do cover most territories belonging to [[nuclear weapons states]] that are situated inside NWFZ boundaries; all are small islands except for [[French Guiana]]. However, the U.S. signed but has not ratified Protocol I to the Treaty of Rarotonga which would apply to [[American Samoa]] and the U.S. and Britain dispute the [[African NWFZ]]'s applicability to [[Diego Garcia]] which is an American military base.  . 
+
+==Regions without NWFZ==. 
+[[File:Nws polar.svg|left|thumb|300px|{{legend|#FF0000|[[Nuclear weapons state|Possesses nuclear weapons]]}}
+{{legend|#00EE00|[[Nuclear-Weapon-Free Zone]]s}}
+{{legend|#DDDDFF|Neither NWS nor NWFZ, but [[NATO]] member}}
+{{legend|#FFDDDD|Neither NWS nor NWFZ, but uses [[nuclear power]]}}
+{{legend|#FFDDFF|Neither, but NATO member and uses nuclear power}}
+{{legend|#FEFEE9|None of above, but party to [[Non-Proliferation Treaty]]}}]]
+[[File:North Atlantic Treaty Organization (orthographic projection).svg|thumb|right|The [[North Atlantic Treaty Organisation]] is a geostrategic [[military alliance]] concerned with most of Europe and North America]]
+The majority of non-NWS non-NWFZ states are in Europe and the North Pacific and are members of (or surrounded by) [[collective security]] alliances with nuclear weapons states dating from the [[Cold War]] and predating the NWFZ movement.  . 
+
+22 states are not part of a NWFZ or a collective security bloc nor nuclear weapons states, 12 in the Middle East, 6 in South Asia, and 4 in the former Soviet Union. 
+There have been NWFZ proposals for the [[Middle East]] (e.g. [[Nuclear program of Iran#Nuclear Free Zone in the Mideast]], 2009 UN proposal<ref>[http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N09/463/39/PDF/N0946339.pdf?OpenElement A/RES/64/26 - Establishment of a nuclear-weapon-free zone in the region of the Middle East] United Nations General Assembly Sixty-fourth session, 14 January 2010</ref>, 2011 [[IAEA]] forum<ref>{{cite news| url=http://www.reuters.com/article/2011/11/22/us-nuclear-mideast-iran-idUSTRE7AL16C20111122 | work=Reuters | title=Middle East nuke talks "positive" despite Iran boycott | date=2011-11-22}}</ref>), <ref>http://inteliprojects.com/wp-content/uploads//NWFZ2009.pdf</ref>, the [[Korean Peninsula]], [[Central Europe]], [[South Asia]], and the [[Arctic]]. <ref>{{cite web|url=http://www.scoop.co.nz/stories/PO0908/S00129.htm|title=Speech: Robson - Arctic Nuclear Weapons Free Zone| publisher=Scoop News|date=12 August 2009}}</ref> . 
+
+All countries without nuclear weapons are parties to the [[Non-Proliferation Treaty]], as are the 5 NPT-sanctioned nuclear weapon states. 
+===Europe===. 
+Britain, France, and the USA share a [[nuclear umbrella]] with the 25 other members of [[NATO]], and the 4 [[European Union]] states not part of NATO (Austria, Ireland, Sweden, Finland) are part of the EU's [[Common Security and Defence Policy]].  . 
+
+The other [[List of sovereign states and dependent territories in Europe|European countries]] west of the [[former Soviet Union]]
+are small Western European states are surrounded by and aligned with the EU and NATO but not members (Switzerland, [[Liechtenstein]], San Marino, Vatican, Andorra), or Balkan states that have not yet joined the EU (Bosnia, Montenegro, Macedonia, Serbia and Kosovo).  . 
+
+NATO also extends to [[Turkey]] and [[Canada]]. 
+===Former Soviet Union===. 
+[[Belarus]] and [[Armenia]], along with the five members of the [[Central Asian NWFZ]], are allies of Russia in [[CSTO]], the three [[Baltic states]] have joined NATO, and the [[GUAM]] states ([[Georgia (country)|Georgia]], [[Azerbaijan]], [[Ukraine]], [[Moldova]]) are not party to either security treaty.  . 
+
+===North Pacific===. 
+[[South Korea]] and [[Japan]] are American allies under its nuclear umbrella, while the three [[Micronesia]]n states ([[Marshalls]], [[Federated States of Micronesia]],  and [[Palau]]) are in a [[Compact of Free Association]] with the USA.  . 
+
+===South Asia===. 
+India and Pakistan are nuclear weapons states and the 6 other [[SAARC|South Asian states]] ([[Afghanistan]], [[Maldives]], [[Sri Lanka]], [[Bangladesh]], [[Nepal]], [[Bhutan]]) are not part of a NWFZ or security bloc. 
+===Middle East===. 
+*The 11 [[Arab League]] states outside Africa, the [[Gulf Cooperation Council]] states and [[Yemen]], [[Jordan]], [[Lebanon]], [[Syria]], [[Iraq]], are not nuclear weapons states and not part of a NWFZ. 
+*[[Iran]] (see [[Nuclear program of Iran]]) . 
+
+==Geography==. 
+The Antarctic, Latin American, and South Pacific zones are defined by lines of [[latitude]] and [[longitude]], except for the northwestern boundary of the South Pacific zone which follows the limit of Australian territorial waters, and these three zones form a contiguous area, though treaty provisions do not apply to [[international waters]] within that area. In contrast, the Southeast Asian zone is defined as the territories of its members including their [[Exclusive Economic Zone]]s, and the African zone is also defined as the countries and territories considered part of Africa by the [[OAU]] (now the [[African Union]]) which include islands close to Africa and [[Madagascar]]. An AU member, [[Mauritius]], claims the [[British Indian Ocean Territory]] where [[Diego Garcia]] is currently a US [[military base]].  . 
+
+[[File:Equator-60S-20W-115E-48.png|right|thumb|400px|The area between the Equator and 60°S, and between 20°W and 115°E, excluding Africa, Australia and Indonesia and their neighboring islands and waters, is outside the 5 southern NWFZs. A small area of ocean outside the upper right corner of the map, between Indonesia and Australia, is also not in any NWFZ. <br/>Australian islands are part of the [[South Pacific NWFZ]] but the other [[oceanic island]]s in this area are owned by Britain, France, Norway, and [[Maldives]] and are the only Southern Hemisphere lands other than [[East Timor]] that are not in a NWFZ. ]]
+Because few [[prevailing winds]] cross the [[Equator]], [[effects of nuclear explosions]] in the [[Northern Hemisphere]] might send less [[fallout]] to the [[Southern Hemisphere]]. 
+(This fact was used in the book and film [[On the Beach]], although there the Southern Hemisphere eventually succumbs as well.) . 
+
+The five southern NWFZs cover [[Southern Hemisphere]] lands except [[East Timor]] which is [[Accession of East Timor to the Association of Southeast Asian Nations|in the process of joining ASEAN]], and islands north of the [[60th parallel south]], east of the [[20th meridian west]], and west of the [[115th meridian east]], but outside of African, Australian or Indonesian territorial waters, which combined have less than 8000&nbsp;km² of land area, mostly in [[Kerguelen]]: . 
+
+*[[South Atlantic]]:
+**[[St. Helena]] and its dependencies [[Ascension Island]] and [[Tristan da Cunha]], a [[British overseas territory]]
+**[[Bouvet Island]], a Norwegian territory
+*[[Indian Ocean]]:
+**[[Kerguelen]], [[Crozet Islands|Crozet]], [[Île Saint-Paul|Saint Paul]] and [[Amsterdam Island]]s, some of the [[French Southern Territories]]
+**[[Chagos Islands]] ([[British Indian Ocean Territory]]) including [[Diego Garcia]] (disputed by Mauritius)
+**[[Addu]], the southernmost of the [[atolls of the Maldives]] . 
+
+In 1994 states of the [[South Atlantic Peace and Cooperation Zone]] issued a "Declaration on the Denuclearization of the South Atlantic" which the [[U.N. General Assembly]] endorsed but the U.S., U.K., and France still opposed. <ref>[http://books.google.com/books?id=aiIOW0LOdKgC&pg=PA522&lpg=PA522 Encyclopedia of the United Nations and international agreements: A-F] ISBN 9780415939218</ref> . 
+
+{| class="wikitable sortable" align="left"
+|+ Northern Hemisphere tropical lands not in a NWFZ
+!Region!!All of!!Parts of
+. |-
+|[[Pacific]]||[[Marianas]], [[Federated States of Micronesia|FSM]], [[Marshall Islands|Marshalls]], [[Palau]]||[[Hawaii]] (all but [[Northwestern Hawaiian Islands|NW]]), [[United States Minor Outlying Islands|USMOI]]
+. |-
+|[[Arabia]]|| [[Yemen]]|| [[Saudi Arabia]], [[UAE]], and [[Oman]]
+. |-
+|[[South Asia]]||[[Maldives]], [[Sri Lanka]]|| [[Peninsular India]], [[Bangladesh]]
+. |-
+|[[China]]||[[Hainan]]|| [[Yunnan]], [[Guangdong]]/[[Guangxi|Xi]], [[Taiwan]]
+|} . 
+
+The Latin American, African, South Pacific and Southeast Asian zones also cover most land in the [[tropics]], but not some [[Northern Hemisphere]] areas south of the [[Tropic of Cancer]]. Most tropical land outside of NWFZs is in [[India]] and the [[Arabian Peninsula]].  . 
+
+Little of the land area covered by the five southern Nuclear-Weapon-Free Zones extends north of the Tropic of Cancer: only northern [[Mexico]], northern [[Bahamas]], northern [[Myanmar]], and [[North Africa]]. However, the Central Asian and Mongolian zones are entirely in the [[North Temperate Zone]]. 
+{{clear}} . 
+
+==Nuclear power and programs==. 
+{| class="wikitable" align="right"
+|+Nuclear power
+!Country!!Plants
+. |-
+|[[Nuclear power in Argentina|Argentina]]||3 
+. |- 
+|[[Nuclear power in Brazil|Brazil]]||2 
+. |- 
+|[[Nuclear power in Mexico|Mexico]]||2
+. |-
+|[[Nuclear power in South Africa|South Africa]]||2
+|}
+{{details|nuclear power by country}}{{see also|Enriched uranium#Global enrichment facilities}}
+Four NWFZ countries have nuclear plants to generate electricity. South Africa formerly had a [[South Africa and weapons of mass destruction|nuclear weapons program]] which it terminated in 1989. Argentina and Brazil are known to operate [[uranium enrichment]] facilities. Countries that had enrichment programs in the past include Libya and South Africa, although Libya's facility was never operational. Australia has announced its intention to pursue commercial enrichment, and is actively researching [[laser enrichment]].  . 
+
+==See also==. 
+*[[Nuclear Non-Proliferation Treaty]]
+*[[Lists of nuclear disasters and radioactive incidents]] . 
+
+==References==. 
+{{reflist}} . 
+
+==External resources==. 
+*[http://www.opanal.org/NWFZ/nwfz.htm Nuclear-Weapon-Free Zones Around the World] site about NWFZs run by [[OPANAL]], the organization which monitors the [[Treaty of Tlatelolco]]
+*[http://www.law.berkeley.edu/centers/ilr/ona/pages/zones.htm Oceans in the Nuclear Age:Nuclear-Free Zones] from the Law of the Sea Institute at [[University of California, Berkeley School of Law|Boalt School of Law]] ([[University of California, Berkeley]]). Includes treaty texts. 
+* [http://www.atomicmirror.org/nfz/briefing/index.htm Nuclear Weapons Free Zones Briefing Paper] from Atomic Mirror
+* [http://un.org/disarmament/WMD/Nuclear/NWFZ.shtml UN Pages on Nuclear Weapon Free Zones]
+* [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1338131 Nuclear Weapon-Free Zones] Social Science Research Network, Marco Rossini, 2003
+* [http://www.arcticnwfz.ca/ Arctic Nuclear-Weapon-Free Zone] Canadian Pugwash Group's initiative for an Arctic NWFZ . 
+
+{{DEFAULTSORT:Nuclear-Weapon-Free Zone}}
+[[Category:Nuclear weapons policy]]
+[[Category:Nuclear-weapon-free zones| ]]

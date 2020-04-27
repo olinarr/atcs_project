@@ -1,0 +1,41 @@
+{{Orphan|date=February 2009}}
+{{infobox Book | 
+| name         = Multiculturalism without Culture
+| orig title   =
+| translator   =
+| image        = 
+| author       = [[Anne Phillips]]
+| cover_artist = 
+| country      = [[United Kingdom]]
+| language     = [[English language|English]]
+| series       = 
+| subject      = [[Multiculturalism]], [[Feminism]], [[Political Philosophy]]
+| genre        = [[Non-fiction]]
+| publisher    = [[Princeton University Press]]
+| release_date = [[May 21, 2007]]
+| media_type   = Hardback
+| pages        = 216 pp
+| isbn         = ISBN 978-0-691-12944-0 (Hardback)
+| dewey= 305.4809182/1 22
+| congress= HQ1161 .P452 2007
+| oclc= 71275406
+| preceded_by  = 
+| followed_by  = 
+}} . 
+
+'''''Multiculturalism without Culture''''' is a book written by [[Anne Phillips]]. The topic of [[multiculturalism]] is explored by Phillips with reference to such subjects as [[Feminism]], [[Anthropology]], [[Political Theory]], [[Law]], and [[Philosophy]]. Her inspiration to write the book stemmed from the contrasting concerns of multiculturalism challenging the rights of women and feminism encroaching upon the well-being of cultures. While Phillips presents many different perspectives on multiculturalism, her general argument in the book can be summed up as: “It is time for elaborating a version of multiculturalism that dispenses with reified notions of culture, engages more ruthlessly with cultural stereotypes, and refuses to subordinate the rights and interests of women to the supposed traditions of their culture.”<ref> P.72, Multiculturalism without Culture </ref> . 
+
+==Summary== . 
+
+In the book, Phillips elaborates on the idea of a multiculturalism without culture. In this model, the conception of culture as unchanging and domineering (A view that Phillips argues is held by many governments and people alike) is disposed in favor of the idea that culture is fluid and that the individual in the culture, not the culture group itself, has rights and is the most important element. A central part of her theory rests on the idea that people in minority cultures have [[autonomy]]. Her discussion weighs many different perspectives on multiculturalism provided by an array of modern writers on the subject. She consistently keeps feminist theory as a primary foundation from which she structures her arguments. The book ends with her vouching for the increasing of consultative services for minority groups and increase of dialogue between them and governments.  . 
+
+==Notes==. 
+<references/> . 
+
+== See also ==. 
+* [[Anne Phillips]]
+* [[Will Kymlicka]]
+* [[Bhikhu Parekh]]
+* [[Islamic dress controversy in Europe]] . 
+
+[[Category:Multiculturalism]]

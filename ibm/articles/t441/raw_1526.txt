@@ -1,0 +1,1062 @@
+{{pp-vandalism|expiry=25 June 2012|small=yes}}
+{{Republican Party presidential primaries, 2012}}
+{{US 2012 elections series}}
+The '''2012 Republican presidential primaries''' are the selection processes in which voters of the [[Republican Party (United States)|Republican Party]] will choose their nominee for [[President of the United States]] in the [[United States presidential election, 2012|2012 presidential election]]. There will be 2,286 delegates chosen,<ref name="totaldel">{{cite web |last = Berg-Andersson |first = Richard E. |title = Republican Detailed Delegate Allocation – 2012 |year = 2011 |url = http://www.thegreenpapers.com/P12/R-Alloc.phtml|accessdate = January 3, 2012}}</ref> and a candidate must accumulate 1,144 delegate votes at the [[2012 Republican National Convention|Republican National Convention]] to win the nomination. <ref name="win">{{cite web |url=http://www.demconwatchblog.com/tag.do?tag=2012+Republican+Convention |publisher=Democratic Convention Watch |title=2012 Republican Convention ('GOP Delegate Count' table) |accessdate=January 3, 2012}}</ref> The primaries and caucuses can be binding or nonbinding in allocating delegates to the repective state delegations to the National convention. But the actual election of the delegates are many times at a later date. Delegates are elected in different ways that varies from state to state. They can be elected at local conventions, selected from slates submitted by the candidates, Selected at committee meetings or elected directly at the caucuses and primaries. Until the delegates are actually elected the delegate numbers are by nature projections, but it is only in the nonbinding caucus states where they are not allocated at the primary or caucus date.  . 
+
+The [[United States presidential primary|primary contest]] began in 2011 with a fairly wide field. Mitt Romney, former Governor of Massachusetts, had been preparing to run for president ever since the 2008 election <ref>{{Cite news| url=http://www.politico.com/news/stories/0609/24316.html | title=Mitt Romney's team awaits 2012 | author=Martin, Jonathan | newspaper=[[Politico (newspaper)|Politico]] | date=June 29, 2009 | accessdate=June 29, 2009}}</ref> and the media narrative became: "Who will be the anti-Romney candidate?"<ref>{{Cite news| url=http://firstread.msnbc.msn.com/_news/2011/03/09/6226568-2012-searching-for-the-anti-romney| title=2012: Searching for the anti-Romney| newspaper=MSNBC}}</ref> One after another, several candidates rose in the polls throughout the year. However, the field was down to four candidates by March 2012: Former House speaker [[Newt Gingrich]], U.S. Congressman [[Ron Paul]], former Governor [[Mitt Romney]] and former U.S. Senator [[Rick Santorum]]. It is the first presidential primary to be affected by a [[Citizens United v. Federal Election Commission|Supreme Court ruling]] that allowed unlimited fundraising for candidates through [[super PACs]].  . 
+
+For the first time in modern GOP primary history, three different candidates won the first three contests. Santorum, who had been running a one-state campaign in [[Iowa Republican caucuses, 2012|Iowa]], narrowly winning in that state's caucuses with a handful of votes over Romney (who was thought to have won the caucuses before a recount). Romney went on to win [[New Hampshire Republican primary, 2012|New Hampshire]], but lost [[South Carolina Republican primary, 2012|South Carolina]] to Gingrich. From there, Santorum took his campaign national and carried three more states before Super Tuesday, while Romney carried seven.  . 
+
+[[Super Tuesday, 2012|Super Tuesday]] primaries took place on March 6. With ten states voting and 419 delegates being allocated, it had only about half the potential impact of its 2008 predecessor. Romney carried six states and Santorum three states, while Gingrich won his home state of [[Georgia Republican primary, 2012|Georgia]]. Throughout the rest of March, 266 delegates were allocated in 12 events, including all of the territorial contests and the first local conventions that allocated delegates (Wyoming's [[Wyoming Republican caucuses, 2012|county conventions]]). Santorum won [[Kansas Republican caucuses, 2012|Kansas]] and three Southern primaries, but was unable to make any significant gains on Romney, who remained the frontrunner after securing more than half of the delegates allocated in March.  . 
+
+==The state of the primaries==. 
+{{main|Results of the 2012 Republican Party presidential primaries}} . 
+
+*Next events will be primaries on Tuesday, April 3 in [[Maryland_Republican_primary,_2012|Maryland]], [[District_of_Columbia_Republican_primary,_2012|Washington D.C.]], and [[Wisconsin_Republican_primary,_2012|Wisconsin]].  . 
+
+{| class="wikitable" style="text-align:center; width:644px;"
+. |- style="text-align:center; background:#e9e9e9;"
+! colspan="6"| '''The state of the primaries'''
+. |- style="background:#eee;"
+| style="width:186px;" |Candidates:
+| style="width:80px; padding:2px 0 6px 0; font:17px georgia,arial;"|<p>[[File:Newt Gingrich by Gage Skidmore 6.jpg|x90px]]</p>[[Newt Gingrich|Newt<br>Gingrich]]
+| style="width:80px; padding:2px 0 6px 0; font:17px georgia,arial;"|<p>[[File:Ron Paul, official Congressional photo portrait, 2007.jpg|x90px]]</p>[[Ron Paul|Ron<br>Paul]]
+| style="width:80px; padding:2px 0 6px 0; font:17px georgia,arial;"|<p>[[File:Mitt Romney.jpg|x90px]]</p>[[Mitt Romney|Mitt<br>Romney]]
+| style="width:80px; padding:2px 0 6px 0; font:17px georgia,arial;"|<p>[[File:Rick Santorum by Gage Skidmore 2.jpg|x90px]]</p>[[Rick Santorum|Rick<br>Santorum]]
+| style="width:58px; padding:2px 0 6px; font:15px georgia,arial;"|Uncom. 
+. |-
+| style="text-align:left;"| '''Delegates won''' <!-- this number is found by adding up the delegates won in the tables in the timeline section. These numbers are gathered from 3 reliable sources (USA Today, The Green Papers and NPR] -->
+| <!-- GINGRICH --> '''135''' <br><small>(16%)</small>
+| <!-- PAUL ------> '''34''' <br><small>(4%)</small>
+| <!-- ROMNEY ----> '''477''' <br><small>(56%)</small>
+| <!-- SANTORUM --> '''205''' <br><small>(24%)</small>
+| <!-- Uncommitted --> '''8'''
+. |-
+| style="text-align:left;"| Pledge unbound RNC delegates <ref name="DCW-Super">{{cite news |url=http://www.democraticconventionwatch.com/diary/4726/republican-superdelegate-endorsement-list|title=2012 GOP Superdelegate Endorsement List |publisher=Democratic Convention Watch |date=March 21, 2012 |accessdate=March 25, 2012}}</ref>
+| <!-- GINGRICH --> 2
+| <!-- PAUL ------> 1
+| <!-- ROMNEY ----> 32
+| <!-- SANTORUM --> 2
+| <!-- Uncommitted --> 83
+. |-
+| style="text-align:left;"| '''Popular vote''' <ref name="autogenerated1"/> 
+| <!-- GINGRICH --> '''2,212,001''' <br><small>(22%)</small>
+| <!-- PAUL ------> '''1,079,753''' <br><small>(10%)</small>
+| <!-- ROMNEY ----> '''4,127,917''' <br><small>(40%)</small>
+| <!-- SANTORUM --> '''2,850,546''' <br><small>(28%)</small>
+| <!-- Uncommitted -->
+. |-
+| style="text-align:left;"| States and Territories won <ref name="USA TODAY">{{cite news| url = http://www.usatoday.com/news/politics/primaries/index| title = Primary results by state and district| author = USA Today| accessdate=March 28, 2012}}</ref>
+| <!-- GINGRICH --> 2
+| <!-- PAUL ------> 0
+| <!-- ROMNEY ----> 18
+| <!-- SANTORUM --> 7
+| <!-- Uncommitted -->
+. |-
+| style="text-align:left;"| Districts won <small>(Delegate awarding only)</small> <ref name="USA TODAY"/> 
+| <!-- GINGRICH --> 20
+| <!-- PAUL ------> 1
+| <!-- ROMNEY ----> 61
+| <!-- SANTORUM --> 39
+| <!-- Uncommitted -->
+. |-
+| style="text-align:left;"| ''Projected delegate count'' <ref>{{cite news |url=http://www.thegreenpapers.com/P12/R |title=The Green Papers 'Soft Total' |publisher=The Green Papers |accessdate=March 25, 2012}}</ref>
+| <!-- GINGRICH --> ''155''
+| <!-- PAUL ------> ''78''
+| <!-- ROMNEY ----> ''563''
+| <!-- SANTORUM --> ''262''
+| <!-- Uncommitted --> ''1,145''
+|}
+<small>
+*"Delegates won" are delegates allocated to a candidate and unallocated delegates '''that are elected'''. This does not included 120 unbound RNC delegates. 
+*"Popular vote" only includes votes cast for the four candidates. <ref name="autogenerated1"/> 
+*"States/Territories and Districts won" are according to delegates, popular vote is only used if two or more candidates have the same number of elected delegates. No state, territory or district is counted twice as a win in the tables of the timeline section. For the nonbinding caucus states it is the candidate reciving most at-large delegates at the state convention that are counted as the winner. 
+*"Projected delegate count" is an estimated count taken in consideration the outcome of future local conventions electing unallocated delegates.  
+</small>
+===States Carried===. 
+{| class="wikitable" style="text-align:center;"
+. |- style="background:#eee;"
+| style="padding:10px; text-align:center;"| '''Candidate'''
+| style="padding:10px; text-align:center;"| '''Current office'''
+| style="padding:10px; text-align:center;"| '''Home state'''
+| style="padding:10px; text-align:center;"| '''States – first place'''
+| style="padding:10px; text-align:center;"| '''States – second place'''
+| style="padding:10px; text-align:center;"| '''States – third place'''
+. |-
+| style="width:90px; padding:2px 0 6px; font:17px georgia,arial;"|<p>[[File:Mitt Romney.jpg|x100px]]</p>[[Mitt Romney|Mitt<br>Romney]]
+| [[Governor of Massachusetts|Former Governor]]
+|[[Massachusetts]]
+| <center>'''16'''<br/><small>[[Alaska Republican caucuses, 2012|Alaska]], [[Arizona Republican primary, 2012|Arizona]], [[Florida Republican primary, 2012|Florida]], [[Hawaii Republican caucuses, 2012|Hawaii]], [[Idaho Republican caucuses, 2012|Idaho]], [[Illinois Republican primary, 2012|Illinois]], [[Maine Republican caucuses, 2012|Maine]], [[Massachusetts Republican primary, 2012|Massachusetts]], [[Michigan Republican primary, 2012|Michigan]], [[Nevada Republican caucuses, 2012|Nevada]], [[New Hampshire Republican primary, 2012|New Hampshire]], [[Ohio Republican primary, 2012|Ohio]], [[Vermont Republican primary, 2012|Vermont]], [[Virginia Republican primary, 2012|Virginia]], [[Washington Republican caucuses, 2012|Washington]], [[Wyoming Republican caucuses, 2012|Wyoming]]<br>'''Territories:''' [[American Samoa Republican caucuses, 2012|American Samoa]], [[Guam Republican caucuses, 2012|Guam]], [[Northern Mariana Islands Republican caucuses, 2012| Northern Mariana Islands]], [[Puerto Rico Republican primary, 2012|Puerto Rico]]
+</small></center>
+| <center>'''9'''<br/><small>Colorado, Georgia, Iowa, Kansas, Louisiana, Missouri, Oklahoma, South Carolina, Tennessee<br>'''Territories:''' U.S. Virgin Islands</small></center>
+| <center>'''4'''<br/><small>Alabama, Minnesota, Mississippi, North Dakota</small></center><br>
+. |-
+| style="width:90px; padding:2px 0 6px; font:17px georgia,arial;"|<p>[[File:Rick Santorum by Gage Skidmore 2.jpg|x100px]]</p>[[Rick Santorum|Rick<br>Santorum]]
+| [[United States Senate|Former U.S. Senator]] 
+| [[Pennsylvania]]
+| <center>'''11''' <br/><small>[[Alabama Republican primary, 2012|Alabama]], [[Colorado Republican caucuses, 2012|Colorado]], [[Iowa Republican caucuses, 2012|Iowa]], [[Kansas Republican caucuses, 2012|Kansas]], [[Louisiana Republican primary, 2012|Louisiana]], [[Minnesota Republican caucuses, 2012|Minnesota]], [[Mississippi Republican primary, 2012|Mississippi]], [[Missouri Republican primary, 2012|Missouri]], [[North Dakota Republican caucuses, 2012|North Dakota]], [[Oklahoma Republican primary, 2012|Oklahoma]], [[Tennessee Republican primary, 2012|Tennessee]]</small></center>
+| <center>'''9'''<br/><small>Alaska, Arizona, Hawaii, Idaho, Illinois, Massachusetts, Michigan, Ohio, Wyoming<br> '''Territories:''' Northern Mariana Islands, Puerto Rico</small></center>
+| <center>'''6'''<br/><small>Florida, Georgia, Maine, South Carolina, Vermont, Washington<br>'''Territories:''' U.S. Virgin Islands</small></center>
+. |-
+| style="width:90px; padding:2px 0 6px; font:17px georgia,arial;"|<p>[[File:Newt Gingrich by Gage Skidmore 6.jpg|x100px]]</p>[[Newt Gingrich|Newt<br>Gingrich]]
+| [[Speaker of the United States House of Representatives|Former U.S. House Speaker]]
+| [[Georgia (U.S. state)|Georgia]]
+| <center>'''2'''<center><small>[[Georgia Republican primary, 2012|Georgia]], [[South Carolina Republican primary, 2012|South Carolina]]</small></center>
+| <center>'''4'''<br/><small>Alabama, Florida, Mississippi, Nevada</small></center>
+| <center>'''7'''<br/><small>Arizona, Colorado, Kansas, Louisiana, Ohio, Oklahoma, Tennessee<small></center>
+. |-
+| style="width:90px; padding:2px 0 6px; font:17px georgia,arial;"|<p>[[File:Ron Paul by Gage Skidmore 3 crop.jpg|x100px]]</p>[[Ron Paul|Ron<br>Paul]]
+|[[U.S. Representative]]
+| [[Texas]]
+| <center>'''0'''<br><small>'''Territories:''' [[United States Virgin Islands Republican caucuses, 2012|U.S. Virgin Islands]]
+| <center>'''7'''<br/><small> Maine, Minnesota, New Hampshire, North Dakota, Vermont, Virginia, Washington</small></center>
+| <center>'''10'''<br/><small>Alaska, Idaho, Illinois, Iowa, Hawaii, Massachusetts, Michigan, Missouri, Nevada, Wyoming<br> '''Territories:''' Northern Mariana Islands</small></center>
+|}
+<small>
+*This table lists the top 3 ranking in each state contest by popular vote. 
+</small> . 
+
+===Counties Carried===. 
+[[File:Republican Party presidential primaries results by county, 2012 (corrected).png|900px|thumb|left|2012 Republican primary results by county
+{{Col-begin}}
+{{Col-3}}
+{{legend|#ff6600|Mitt Romney|border=0}}
+{{Legend|gold|Ron Paul|border=0}}
+{{Col-3}}
+{{legend|#008000|Rick Santorum|border=0}}
+{{legend|purple|Newt Gingrich|border=0}}
+{{Col-3}}
+{{legend|navy|Rick Perry|border=0}}
+{{legend|black|No recorded votes|border=0}}
+{{Col-end}}
+]]
+<div style="clear:both;"></div>
+<small>
+*This maps show the winner of each county by popular vote. 
+</small> . 
+
+==Timeline of the race==. 
+{{main|United States presidential election, 2012 timeline|Republican Party presidential candidates, 2012}} . 
+
+The [[United States presidential primary|primary contest]] takes place from January 3 to July 14 and will allocate and elect '''2,286''' voting delegates to the [[2012 Republican National Convention]] in the week of August 27. To become the [[Republican Party (United States)|Republican Party's]] nominee for the [[United States presidential election, 2012|2012 presidential election]] a candidate needs a majority of '''1,144''' delegates to vote for him. The 2012 race is significantly different from earlier races. Many states have switched from their old winner-take-all allocation to proportional allocation. Many remaining winner-take-all states are allocating delegates to both the winner of each congressional district and the winner of the state. The change was made to prolong the race, giving lesser known candidates a chance and making it harder for a frontrunner to secure the majority early. It was also hoped that this change in the election system would energize the base of the party. <ref>{{cite news |url=http://www.usatoday.com/news/opinion/forum/story/2012-03-06/gop-primary-proportional-delegates-campaign/53373510/1|title=GOP, be careful what you wish for|publisher=USA Today|accessdate=March 14, 2012}}</ref><ref>{{cite news |url=http://thehill.com/blogs/ballot-box/gop-presidential-primary/212491-long-gop-primary-process-has-party-considering-changes-to-calendar|title=Long, damaging presidential...|publisher=The Hill|accessdate=March 14, 2012}}</ref>  . 
+
+Most of the candidates started their campaigns in the summer of 2011, but after the two first primaries only 4 major campaigns remained.  . 
+
+<timeline>
+ImageSize = width:891 height:auto barincrement:22
+PlotArea  = top:20 bottom:20 right:20 left:20
+AlignBars = early . 
+
+Colors     =
+  id:canvas    value:gray(0.88)
+  id:lightline value:gray(0.8)
+  id:darkline  value:gray(0.3)
+  id:HC    value:claret #Herman Cain
+  id:BR    value:magenta #Buddy Roemer (as Republican)
+  id:TP    value:claret #Tim Pawlenty
+  id:GJ    value:claret #Gary Johnson (as Republican)
+  id:NG    value:red #Newt Gingrich
+  id:RP    value:red #Ron Paul
+  id:TP    value:claret #Tim Pawlenty
+  id:MR    value:red #Mitt Romney
+  id:RS    value:red #Rick Santorum
+  id:JH    value:magenta #Jon Huntsman Jr. 
+  id:MB    value:magenta #Michele Bachmann
+  id:TM    value:claret #Thaddeus McCotter
+  id:RiP   value:magenta #Rick Perry
+#Link to more colors: http://ploticus.sourceforge.net/doc/color.html . 
+
+DateFormat = mm/dd/yyyy
+Period     = from:01/01/2011 till:11/10/2012
+TimeAxis   = orientation:horizontal
+ScaleMinor = gridcolor:lightline unit:month increment:1 start:01/01/2011
+ScaleMajor = gridcolor:darkline unit:year increment:1 start:01/01/2011 . 
+
+Backgroundcolors = canvas:canvas . 
+
+BarData =
+  barset:Candidates . 
+
+PlotData=
+  width:15 fontsize:S textcolor:black anchor:till shift:(10,-4)
+  barset:Candidates
+  from:05/11/2011 till:04/03/2012 color:NG text:"[[Newt Gingrich presidential campaign, 2012|N. Gingrich (R)]]"
+  from:05/13/2011 till:04/03/2012 color:RP text:"[[Ron Paul presidential campaign, 2012|R. Paul (R)]]"
+  from:06/02/2011 till:04/03/2012 color:MR text:"[[Mitt Romney presidential campaign, 2012|M. Romney (R)]]"
+  from:06/06/2011 till:04/03/2012 color:RS text:"[[Rick Santorum presidential campaign, 2012|R. Santorum (R)]]"
+  from:07/21/2011 till:02/23/2012 color:BR text:"[[Buddy Roemer presidential campaign, 2012|B. Roemer (R)]]"
+  from:08/13/2011 till:01/19/2012 color:RiP text:"[[Rick Perry presidential campaign, 2012|R. Perry (R)]]"
+  from:06/21/2011 till:01/16/2012 color:JH text:"[[Jon Huntsman presidential campaign, 2012|J. Huntsman (R)]]"
+  from:06/13/2011 till:01/04/2012 color:MB text:"[[Michele Bachmann presidential campaign, 2012|M. Bachmann (R)]]"
+  from:04/21/2011 till:12/28/2011 color:GJ text:"[[Gary Johnson presidential campaign, 2012|G. Johnson (R)]]"
+  from:05/03/2011 till:12/03/2011 color:HC text:"[[Herman Cain presidential campaign, 2012|H. Cain (R)]]"
+  from:07/01/2011 till:09/22/2011 color:TM text:"[[Thaddeus McCotter presidential campaign, 2012|T. McCotter (R)]]"
+  from:05/23/2011 till:08/14/2011 color:TP text:"[[Tim Pawlenty presidential campaign, 2012|T. Pawlenty (R)]]" . 
+
+LineData=
+    layer:front at:01/03/2012 color:red width:1
+    layer:front at:08/27/2012 color:red width:1
+    layer:front at:11/06/2012 color:black width:1
+</timeline> . 
+
+===The beginning===. 
+{{main|Prelude to the Republican presidential primaries, 2012|Republican Party presidential debates, 2012}}
+[[File:080616-A-3715G-374.jpg|thumb|250px|[[Tim Pawlenty]] ended his campaign after finishing third in the Ames Strawpoll.]]
+[[File:Thad McCotter.jpg|thumb|250px|[[Thaddeus McCotter]] failed to be invited to any of the debates, suffering "Death by media".]]
+[[File:Herman Cain by Gage Skidmore 6.jpg|thumb|250px|[[Herman Cain]] suspended his campaign after media reports of alleged sexual misconduct.]] . 
+
+The [[2008 Republican National Convention]] decided that the 2012 primary schedule generally would be subject to the same rules as the 2008 delegate selection contests. <ref>{{cite web|url=http://www.gop.com/images/legal/2008_RULES_Adopted.pdf|title=The Rules of the Republican Party|publisher=Republican Party|accessdate=}}</ref> But on August 6, 2010, the [[Republican National Committee]] (RNC) adopted new rules for the timing of elections, with 103 votes in favor out of 144. <ref>
+{{cite news |url=http://www.huffingtonpost.com/2010/08/06/gop-approves-changes-to-2_n_673771.html |title=GOP Approves Changes To 2012 Primary Calendar |work=The Huffington Post |agency=Associated Press |date=August 6, 2010 |accessdate=August 7, 2010 |first=Jeremy |last=Binckes}}
+</ref> Under this plan, allocation of delegates to the national convention were to be divided into three periods:<ref>
+{{cite web | url=http://www.gop.com/images/legal/2008_RULES_Adopted.pdf |title=The Rules of the Republican Party | date=August 6, 2010 | publisher=Republican National Committee |accessdate=October 3, 2011 |pages=18–19}}</ref>
+*February 1 – March 5, 2012: Contests of traditional early states Iowa, New Hampshire, Nevada and South Carolina,
+*March 6–31, 2012: Contests that proportionally allocate delegates,
+*April 1, 2012, and onward: All other contests including winner-take-all elections. 
+Several states, most notably Florida, scheduled their allocating contests earlier than prescribed. This pressured every traditional early state except Nevada to push back their contest into January. As a result of their violation of RNC rules, these states were penalized with a loss of half their delegates, including voting right for RNC delegates. Despite having early caucuses, Iowa, Maine, Colorado, Minnesota and Missouri were not penalized, because their contests did not allocate national delegates. <ref>{{cite web |url=http://www.politico.com/news/stories/0911/63722.html |title=GOP presidential calendar threatened by rogue states |first=Alexander |last=Burns |work=Politico |date=September 16, 2011 |accessdate=October 3, 2011}}</ref> . 
+
+The start of the 2012 Republican race for president was shaped by the 13 presidential debates of 2011 beginning on May 5. Gary Johnson and Buddy Roemer, both former Governors, were left out of most of the debates, leading to complaints of bias. <ref>{{cite news |title=The Gary Johnson Rule, Remixed |first=David |last=Weigel |authorlink=David Weigel |url=http://www.slate.com/blogs/weigel/2011/10/10/the_gary_johnson_rule_remixed.html |newspaper=[[Slate (magazine)|Slate]] |date=October 10, 2011|accessdate=October 11, 2011}}</ref> On December 28, 2011, Johnson withdrew to seek the [[Libertarian Party (United States)|Libertarian Party]] nomination and on February 23, 2012, Roemer withdrew to seek the [[Reform Party of the United States of America|Reform Party]] and the [[Americans Elect]] nomination.  . 
+
+Two candidates from the 2008 presidential primaries, Mitt Romney and Ron Paul, ran again in the 2012 primary campaign. Mitt Romney was an early frontrunner, and he maintained a careful, strategic campaign that centered on being an establishment candidate. In the summer of 2011 he had a lead in polls with the support of much of the Republican electorate. <ref>{{cite web |url=http://publicpolicypolling.blogspot.com/2011/06/romney-leads-way-in-florida.html |title=Romney leads the way in Florida |date=June 23, 2011 |publisher=Public Policy Polling |accessdate=August 19, 2011}}</ref> However, his lead over the Republican field was precarious, owing to the entry of new candidates who drew considerable media attention. First congresswoman Michele Bachmann of Minnesota started her campaign in June and surged in the polls after winning the [[Ames Straw Poll]] in August, but she lost some of the momentum when [[Governor of Texas|Texas Governor]] Rick Perry shortly after was [[Draft (politics)|drafted]] by strong national Republican support. He performed strongly in polls, immediately becoming a serious contender. <ref>{{cite web|url=http://www.rasmussenreports.com/public_content/politics/elections/election_2012/election_2012_presidential_election/gop_primary_perry_29_romney_18_bachmann_13|title=GOP Primary: Perry 29%, Romney 18%, Bachmann 13%|publisher=[[Rasmussen Reports]]|date=August 16, 2011|accessdate=September 14, 2011}}</ref> But he lost the momentum following poor performances in the [[Republican Party presidential debates, 2012#September 12, 2011 – Tampa, Florida|September debates]]. As the third opponent to Romney's lead Herman Cain surged after the [[Republican Party presidential debates, 2012#September 22, 2011 – Orlando, Florida|sixth debate]] on September 22. In November Cain's viability as a candidate was seriously jeopardized after several allegations of sexual harassment surfaced in the media, and he suspended his campaign on December 3, 2011, despite his unyielding denials of any misconduct.  . 
+
+In November as Herman Cain's campaign was stumbling former [[Speaker of the United States House of Representatives|Speaker of the House]] Newt Gingrich asserted himself as the fourth leading opponent to Romney. <ref>{{cite news|last=Khan |first=Naureen |url=http://nationaljournal.com/2012-presidential-campaign/gingrich-making-the-right-moves-in-primary-states-20111103 |title=Gingrich Making the Right Moves in Primary States|work=National Journal|date=November 5, 2011|accessdate=November 14, 2011}}</ref> It was a comeback for Gingrich after his campaign had suffered under serious staff problems just weeks after he had entered the race in May. <ref name="foxnews2">{{cite news |url=http://www.foxnews.com/politics/2011/06/09/sources-gingrich-aides-resign-en-masse-from-campaign/ |title=Top Gingrich aides resign, leaving campaign in question |author=FoxNews.com |date=June 9, 2011 |accessdate=June 9, 2011 |work=Fox News}}</ref> But in the few weeks before the [[Iowa Republican caucuses, 2012|Iowa caucus]], Gingrich's lead quickly began to evaporate. Iowans were bombarded with over $4.4 million in negative advertising on Gingrich from [[super PAC]]s sympathetic to Mitt Romney and others. <ref>{{cite news| url=http://www.nytimes.com/2011/12/20/us/politics/gingrich-attacked-by-campaign-rivals.html | work=The New York Times | first1=Michael D. | last1=Shear | first2=Jeremy W. | last2=Peters | title=Gingrich Attacked by Campaign Rivals | date=2011-12-19}}</ref><ref>{{cite news|url=http://www.boston.com/news/politics/articles/2011/12/09/pro_romney_ad_is_frontal_attack_on_rival_gingrich/ |title=Pro-Romney ad is frontal attack on rival Gingrich |publisher=Boston.com |date=2011-12-10 |accessdate=2011-12-28 |first=Beth |last=Fouhy}}</ref> So on the eve of the Iowa Caucus, the first contest, there was no clear and strong frontrunner.  . 
+
+===Early states===. 
+{{main|Results of the 2012 Republican Party presidential primaries#Early states}}
+*''Six delegations had primary elections allocating 174 delegates''
+*''Seven delegations had caucuses starting the process of electing 182 unallocated delegates'' . 
+
+{{double image|left|Garyjohnsonphoto - modified.jpg|130|Buddy Roemer by Gage Skidmore.jpg|120|[[Gary Johnson]] (left) and [[Buddy Roemer]] (right) both withdrew to run for other parties presidential nomination.}}
+In 2012 there were 13 state contests before Super Tuesday, seven caucuses and 5 primaries. Missouri had a nonbinding strawpoll in the form of a primary. Santorum spent months in Iowa, traveling to all 99 counties and holding some 381 town hall meetings. <ref>{{cite web|url=http://caucuses.desmoinesregister.com/2011/12/15/debate-santorum-says-his-very-clear-conservative-message-will-pay-off-with-iowa-republicans/ |title=Debate: Santorum says his "very clear" conservative message will pay off with Iowa Republicans |publisher=Caucuses.desmoinesregister.com |date=2011-12-15 |accessdate=2012-01-17}}</ref> This one state campaign succeeded when he tied with Romney in the [[Iowa Republican caucuses, 2012|Iowa Caucuses]] on January 3. This first in the nation caucus propelled him into a national campaign while it ended Michele Bachmann's campaign. On the night of the caucuses, Romney was reported the winner of Iowa by only eight votes over Santorum,<ref>{{cite news|title=2012 Iowa Caucus - Results|url=http://www.foxnews.com/politics/elections/2012/iowa-caucus-jan-3|accessdate=2012-01-04|publisher=[[Fox News]]|date=2012-01-04}}</ref> but after the results were certified, Santorum was declared the winner, beating Romney by 34 votes, despite the results from 8 districts being lost. <ref name="bloombergwinner">{{cite web|url=http://www.bloomberg.com/news/2012-01-21/rick-santorum-is-declared-winner-of-iowa-caucuses-by-state-party-leaders.html |title=Rick Santorum Is Declared Winner of Iowa Caucuses by State Party Leaders |publisher=Bloomberg|date=2012-01-21|accessdate=2012-01-22}}</ref> Newt Gingrich said after Iowa that his positive campaign had been a weakness, and had allowed his rivals to gain the upper hand through negative attacks paid by super PACs supporting them. <ref>{{cite web|url=http://www.campaignsandelections.com/campaign-insider/287772/gingrich-unleashes-on-romney-in-nh.thtml |title=Gingrich unleashes on Romney in NH|publisher=Campaigns & Elections |date= |accessdate=2012-01-22}}</ref> . 
+
+Mitt Romney easily won the next contest in [[New Hampshire Republican primary, 2012|New Hampshire]], his win in was seen as a given. Romney had persistently showed popularity in that state, but rivals were intensely fighting for a second-place finish there. <ref>{{cite web|url=http://www.foxnews.com/politics/2012/01/10/new-hampshire-republican-primary/ |title=Romney Secures Front-runner Status With New Hampshire Win, Looks To Take Momentum Into South Carolina |publisher=Fox News |date=2010-04-07 |accessdate=2012-01-22}}</ref> Jon Huntsman, Jr., a moderate, had staked his candidacy on New Hampshire and invested heavily in at least a strong second place showing, but after 150 campaign events in the state he ended third after Paul. Both he and Rick Perry dropped out of the race shortly before voting day in South Carolina and the two delegates allocated to Huntsman became unbound. <ref>{{cite web |url=http://www.democraticconventionwatch.com/diary/5146/nh-releases-delegate-list-huntsmans-delegates-are-now-superdelegates |title=NH Releases Delegates List: Huntsman's Delegates Are Now Superdelegates |publisher=DemocraticConventionWatch.com |date=February 16, 2012 |accessdate=March 9, 2012}}</ref> . 
+
+Romney was expected to virtually clinch the nomination with a win in [[South Carolina Republican primary, 2012|South Carolina]], but Gingrich, who is from neighboring Georgia, waged an aggressive and successful campaign winning all but one of the states congressional districts."<ref>{{cite web|url=http://www.huffingtonpost.com/2012/01/17/gingrich-says-if-he-loses_n_1211862.html |title=Newt Gingrich: If Mitt Romney Wins South Carolina, It's Over |publisher=Huffingtonpost.com |date= |accessdate=2012-01-22}}</ref> Gingrich victory in South Carolina together with two strong debate performances gave him a second surge, opening the race to a longer and more unpredictable campaign.  . 
+
+Romney did regain some of his momentum in the next two weeks and won the [[Florida Republican primary, 2012|Florida primary]] and the [[Nevada Republican caucuses, 2012|Nevada caucuses]]. However, the race shifted again on February 7, when Santorum swept all three midwestern states voting that day. By doing so he made a case for himself as the Not-Romney candidate and disrupted Romney's narrative as the unstoppable frontrunner. <ref>{{cite web|last=King |first=Neil |url=http://online.wsj.com/article/SB10001424052970204369404577209531461672726.html |title=Santorum Delivers a GOP Stunner |publisher=Online.wsj.com |date=2012-02-08 |accessdate=2012-03-09}}</ref> . 
+
+Following his victories on February 7, Santorum received a huge boost in momentum as conservatives seeking an alternative to Romney began leaving Gingrich for Santorum. Numerous polls taken after Santorum's victories showed him either leading Romney nationally or close behind. <ref>{{cite web|url=http://www.gallup.com/poll/152612/Santorum-Surges-Tie-Romney.aspx |title=Santorum Surges to Tie Romney |publisher=Gallup.com |date= |accessdate=2012-03-09}}</ref><ref>{{cite web|url=http://www.cbsnews.com/8301-503544_162-57377175-503544/poll-rick-santorm-takes-slight-lead-in-gop-race/ |title=Poll: Rick Santorum takes slight lead in GOP race |publisher=Cbsnews.com |date= |accessdate=2012-03-09}}</ref><ref>{{cite web|url=http://www.people-press.org/files/legacy-pdf/02-13-12%20Final%20Political%20Release.pdf |title=Santorum Catches Romney in GOP Race |format=PDF |date= |accessdate=2012-03-09}}</ref><ref>{{cite web|url=http://www.publicpolicypolling.com/pdf/2011/PPP_Release_US_0211.pdf |title=Santorum surges into the national lead |format=PDF |date= |accessdate=2012-03-09}}</ref><ref>{{cite web|url=http://i2.cdn.turner.com/cnn/2012/images/02/14/rel2a.pdf |title=CNN/ORC poll |format=PDF |date= |accessdate=2012-03-09}}</ref> To regain momentum Romney shelved his "no straw polls" policy and actively campaigned to win the [[Conservative Political Action Conference|CPAC]] straw poll, which he won with 38% to Santorums 31%. <ref>{{cite web|url=http://www.politico.com/blogs/burns-haberman/2012/02/romney-worked-the-cpac-straw-poll-114267.html |title=Romney works CPAC|publisher=Politico|accessdate=2012-03-03}}</ref> He also campaigned in [[Maine Republican caucuses, 2012|Maine]], beating Ron Paul by only three percentage points.  . 
+
+Regaining momentum Romney won the remaining four states. The candidates campaigned heavily in [[Michigan Republican primary, 2012|Michigan]], and even though Romney won the state vote he only won 7 out of 14 congressional districts, the rest went to Santorum. The two delegates allocated at-large in the state was before the election reported to be given proportionally but after the election the Michigan GOP announced there had been an error in the memo published and that the two delegates would be given to the winner, sparking accusations of Romney rigging the results from Santorum's team. <ref>{{cite news|url=http://politicalticker.blogs.cnn.com/2012/03/01/michigan-results-provoke-accusations-ire/ | title=Michigan results provoke accusations |publisher=CNN|date=March 1, 2012|accessdate=March 2, 2012 }}</ref>
+After thirteen contests the GOP field for the presidential nomination was still wide open.  . 
+
+{|
+| [[File:Bachmann drops out of presidential race.jpg|thumb|[[Michele Bachmann]] suspended her campaign on January 4 after ending up sixth in the Iowa caucus.]]
+| [[File:Jon Huntsman by Gage Skidmore 2.jpg|thumb|250px|[[Jon Huntsman Jr.]] invested heavily in New Hampshire. After finishing third, he suspended his campaign on January 16.]]
+| [[File:RickPerry Iowa Fair.jpg|thumb|230x|[[Rick Perry]] suspended his campaign on January 19 after getting fifth place in Iowa and last in New Hampshire.]]
+|} . 
+
+{| class="wikitable" style="text-align:center; width:891px;"
+. |- style="text-align:center; background:#e9e9e9;"
+! colspan="9"| '''Early states results'''
+. |- style="background:#eee;"
+| style="width:212px;" colspan="2"|Candidates:
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Newt Gingrich|Newt<br>Gingrich]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Ron Paul|Ron<br>Paul]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Mitt Romney|Mitt<br>Romney]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Rick Santorum|Rick<br>Santorum]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Rick Perry|Rick<br>Perry]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Jon Huntsman, Jr.|Jon<br>Huntsman]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Michele Bachmann|Michele<br>Bachmann]]
+. |-
+| style="text-align:left;" colspan="2"| '''Delegates won'''
+| <!-- GINGRICH --> '''29'''
+| <!-- PAUL ------> '''8'''
+| <!-- ROMNEY ----> '''118'''
+| <!-- SANTORUM --> '''17'''
+| <!-- PERRY -----> '''0'''
+| <!-- HUNTSMAN --> '''2'''
+| <!-- BACHMANN --> '''0'''
+. |-
+| style="text-align:left;" colspan="2"| '''Popular vote'''
+| <!-- GINGRICH --> '''990,989''' <br><small>(21.8%)</small> 
+| <!-- PAUL ------> '''511,547''' <br><small>(11.2%)</small> 
+| <!-- ROMNEY ----> '''1,854,670''' <br><small>(40,7%)</small>
+| <!-- SANTORUM --> '''1,099,596''' <br><small>(24.1%)</small>
+| <!-- PERRY -----> '''30,067''' <br><small>(0.7%)</small>
+| <!-- HUNTSMAN --> '''52,896''' <br><small>(1.2%)</small>
+| <!-- BACHMANN --> '''14,324''' <br><small>(0.3%)</small>
+. |-
+| style="text-align:left;" colspan="2"| States won <small>(Not nonbinding contests)</small>
+| <!-- GINGRICH --> 1
+| <!-- PAUL ------> 0
+| <!-- ROMNEY ----> 5
+| <!-- SANTORUM --> 0
+| <!-- PERRY -----> 0
+| <!-- HUNTSMAN --> 0
+| 0
+. |-
+| style="text-align:left;" colspan="2"| Districts won <small>(Delegate awarding only)</small>
+| <!-- GINGRICH --> 6
+| <!-- PAUL ------> 0
+| <!-- ROMNEY ----> 8
+| <!-- SANTORUM --> 7
+| <!-- PERRY -----> 0
+| <!-- HUNTSMAN --> 0
+| <!-- BACHMANN --> 0
+. |-
+| style="background:#eee; | Jan. 3
+| <!-- *IOWA* -->  style="background:#eee; text-align:left;"| '''[[Iowa Republican caucuses, 2012|Iowa]]'''
+| <!-- GINGRICH --> '''13%'''
+| <!-- PAUL ------> '''21%'''
+| <!-- ROMNEY ----> '''25%'''
+| <!-- SANTORUM --> style="background:silver;"|'''25%'''
+| <!-- PERRY -----> '''10%'''
+| <!-- HUNTSMAN --> '''1%'''
+| <!-- BACHMANN --> '''5%'''
+. |-
+| style="background:#eee;"| Jan. 10
+| <!-- *NEWHAMP -->  style="background:#eee; text-align:left;"| '''[[New Hampshire Republican primary, 2012|New Hampshire]]'''
+| <!-- GINGRICH --> '''9%'''<br/>
+| <!-- PAUL ------> '''23%'''<br/>
+| <!-- ROMNEY ----> style="background:gold;"|'''39%'''
+| <!-- SANTORUM --> '''9%'''
+| <!-- PERRY -----> '''1%'''
+| <!-- HUNTSMAN --> '''17%'''
+. |-
+| style="background:#eee;"| Jan. 21
+| <!-- *SOUTHCA -->  style="background:#eee; text-align:left;"| '''[[South Carolina Republican primary, 2012|South Carolina]]'''
+| <!-- GINGRICH --> style="background:gold;"|'''40%'''
+| <!-- PAUL ------> '''13%'''
+| <!-- ROMNEY ----> '''28%'''
+| <!-- SANTORUM --> '''17%'''
+. |-
+| style="background:#eee;"| Jan. 31
+| <!-- *FLORDIA -->  style="background:#eee; text-align:left;"| '''[[Florida Republican primary, 2012|Florida]]'''
+| <!-- GINGRICH --> '''32%'''
+| <!-- PAUL ------> '''7%'''
+| <!-- ROMNEY ----> style="background:gold;"|'''46%'''
+| <!-- SANTORUM --> '''13%'''
+. |-
+| style="background:#eee;"| Feb. 4
+| <!-- *NEVADA* -->  style="background:#eee; text-align:left;"|'''[[Nevada Republican caucuses, 2012|Nevada]]'''
+| <!-- GINGRICH --> '''21%'''
+| <!-- PAUL ------> '''19%'''
+| <!-- ROMNEY ----> style="background:gold;"|'''50%'''
+| <!-- SANTORUM --> '''10%'''
+. |-
+| rowspan="3" style="background:#eee;"| Feb. 7
+| <!-- *COLORAD -->  style="background:#eee; text-align:left;"|'''[[Colorado Republican caucuses, 2012|Colorado]]'''
+| <!-- GINGRICH --> '''13%'''
+| <!-- PAUL ------> '''12%'''
+| <!-- ROMNEY ----> '''35%'''
+| <!-- SANTORUM --> style="background:silver;"|'''40%'''
+. |-
+| <!-- *MISSOURI -->  style="background:#eee; text-align:left;"| '''[[Missouri Republican primary, 2012|Missouri]]'''
+| <!-- GINGRICH --> style="background:#e9e9e0;"|
+| <!-- PAUL ------> '''12%'''
+| <!-- ROMNEY ----> '''25%'''
+| <!-- SANTORUM --> style="background:silver;"|'''55%'''
+. |-
+| <!-- *MINNESO -->  style="background:#eee; text-align:left;"| '''[[Minnesota Republican caucuses, 2012|Minnesota]]'''
+| <!-- GINGRICH --> '''11%'''
+| <!-- PAUL ------> '''27%'''
+| <!-- ROMNEY ----> '''17%'''
+| <!-- SANTORUM --> style="background:silver;"|'''45%'''
+. |-
+| bgcolor="#eeeeee"| Feb. 4–11
+| <!-- *MAINE** -->  style="background:#eee; text-align:left;"| '''[[Maine Republican caucuses, 2012|Maine]]'''
+| <!-- GINGRICH --> '''6%'''
+| <!-- PAUL ------> '''36%'''
+| <!-- ROMNEY ----> style="background:silver;"| '''38%'''
+| <!-- SANTORUM --> '''18%'''
+. |-
+| rowspan="2" style="background:#eee;"| Feb. 28
+| <!-- *ARIZONA -->  style="background:#eee; text-align:left;"| '''[[Arizona Republican primary, 2012|Arizona]]'''
+| <!-- GINGRICH --> '''16%'''
+| <!-- PAUL ------> '''8%'''
+| <!-- ROMNEY ----> style="background:gold;"|'''47%'''
+| <!-- SANTORUM --> '''27%'''
+. |-
+| <!-- *MICHIGA -->  style="background:#eee; text-align:left;"| '''[[Michigan Republican primary, 2012|Michigan]]'''
+| <!-- GINGRICH --> '''7%'''
+| <!-- PAUL ------> '''12%'''
+| <!-- ROMNEY ----> style="background:gold;"|'''41%'''
+| <!-- SANTORUM --> '''38%'''
+. |-
+| style="background:#eee;"| Feb. 11–29
+| <!-- *WYOMING -->  style="background:#eee; text-align:left;"| '''[[Wyoming Republican caucuses, 2012|Wyoming]]'''
+| <!-- GINGRICH --> '''8%'''
+| <!-- PAUL ------> '''21%'''
+| <!-- ROMNEY ----> style="background:silver;"|'''39%'''
+| <!-- SANTORUM --> '''32%'''
+. |-
+| style="background:#eee;"| Mar. 3
+| <!-- *WASHING -->  style="background:#eee; text-align:left;"| '''[[Washington Republican caucuses, 2012|Washington]]'''
+| <!-- GINGRICH --> '''10%'''
+| <!-- PAUL ------> '''25%'''
+| <!-- ROMNEY ----> style="background:silver;"|'''38%'''
+| <!-- SANTORUM --> '''24%'''
+|}
+<small>*The delegatecount in Florida and Arizona are contested. <ref>{{cite news| url = http://www.redstate.com/morton_c_blackwell/2012/03/19/delegates/| title = Don’t Count Delegates Before They Are Hatched| author = Red State| accessdate=April 1, 2012}}</ref></small> . 
+
+===Super Tuesday===. 
+{{main|Super Tuesday, 2012}}
+[[File:Romney 2011 Paradise Valley, AZ rally.jpg|275px|thumb|[[Mitt Romney]] campaigning]]
+*''Ten delegations had primary elections allocating 419 delegates'' . 
+
+Super Tuesday 2012 is the name for March 6, the day on which the largest simultaneous number of state presidential primary elections was held in the United States. This election cycles edition of Super Tuesday, where 18.3% of all delegates was allocated, was considerably smaller than the [[Super Tuesday, 2008|2008 edition]], where 41.5% of all delegates was allocated (twenty-one states with 901 delegates). <ref>{{cite news| url = http://www.cnn.com/ELECTION/2008/primaries/results/scorecard/#R| title = Election Center 2008: Republican Delegate Scorecard| author = CNN | accessdate=March 7, 2012}}</ref> In 2012 delegates were allocated in primaries in seven states and their sixty five congressional districts together with caucuses in three states. <ref name="DEL">{{cite web |url=http://www.democraticconventionwatch.com/diary/5185/a-look-at-super-tuesday |title=A Look at Super Tuesday |publisher=DemocraticConventionWatch.com |date=March 5, 2012 |accessdate=March 6, 2012}}</ref> . 
+
+Romney secured more than half the delegates Super Tuesday but did not secure his status as the inevitable nominiee. Gingrich pursued a "southern strategy", winning his homestate of Georgia and even though Santorum carried 3 states he did not win them with a large enough margen to secure him status as the Not-Romney candidate. In the weeks up to March 6 both candidates had experiences ballot problems, failing to appear on the Virginia primary ballot, leaving that race to Romney and Paul. With only two candidates on the ballot Paul got 40% of the votes and carried [[Virginia's 3rd congressional district|one of Virginias eleven congressional districts]].  . 
+
+Santorum had also failed to submit full or any delegate slates in nine of Ohio's congressional districts<ref>{{cite news| url = http://abcnews.go.com/blogs/politics/2012/03/rick-santorums-ohio-delegate-problems-pile-up/| title = Santorums Ohio delegate problems| author = ABC News | accessdate=March 26, 2012}}</ref> making him unable to win all delegates in those districts. The state became the big battleground of Super Tuesday and its delegates were split between Romney and Santorum, who won three congressional districts where he didnt have a full slate. This created four unallocated delegates, whose status are to be determined in April. Adding to the uncertainty of these four delegates are the ongoing internal fight in the Ohio GOP central committee. <ref>{{cite news| url = http://www.dispatchpolitics.com/content/blogs/the-daily-briefing/2012/03/3-7-2012-dewine-claims-central-committee-victory.html| title = DeWine claims victory in Central Committee fight| author = The Columbus Dispatch | accessdate=March 26, 2012}}</ref> . 
+
+{| class="wikitable" style="text-align:center; width:600px;"
+. |- style="text-align:center; background:#e9e9e9;"
+! colspan="5"| '''Super Tuesday results'''
+. |- style="background:#eee;"
+| style="width:212px;" |Candidates:
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Newt Gingrich|Newt<br>Gingrich]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Ron Paul|Ron<br>Paul]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Mitt Romney|Mitt<br>Romney]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Rick Santorum|Rick<br>Santorum]]
+. |-
+| style="text-align:left;"| '''Delegates won''' <small>(OH-4 unalloc.)</small> <!--Tennesse results can still change-->
+| <!-- GINGRICH --> '''81'''
+| <!-- PAUL ------> '''21'''
+| <!-- ROMNEY ----> '''222'''
+| <!-- SANTORUM --> '''91'''
+. |-
+| style="text-align:left;"| '''Popular vote'''
+| <!-- GINGRICH --> '''836,903<br><small>(23%)</small>'''
+| <!-- PAUL ------> '''419,800<br><small>(11%)</small>'''
+| <!-- ROMNEY ----> '''1,406,599<br><small>(38%)</small>'''
+| <!-- SANTORUM --> '''998,762<br><small>(27%)</small>'''
+. |-
+| style="text-align:left;"| States won
+| <!-- GINGRICH --> 1
+| <!-- PAUL ------> 0
+| <!-- ROMNEY ----> 6
+| <!-- SANTORUM --> 3
+. |-
+| style="text-align:left;"| Districts won <small>(Delegate awarding only)</small>
+| <!-- GINGRICH --> 13
+| <!-- PAUL ------> 1
+| <!-- ROMNEY ----> 33
+| <!-- SANTORUM --> 18
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Alaska Republican caucuses, 2012|Alaska]]'''
+| <!-- GINGRICH --> '''14%'''
+| <!-- PAUL ------> '''24%'''
+| <!-- ROMNEY ----> style="background:gold;"| '''33%'''
+| <!-- SANTORUM --> '''29%'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Georgia Republican primary, 2012|Georgia]]'''
+| <!-- GINGRICH --> style="background:gold;"| '''47%'''
+| <!-- PAUL ------> '''6%'''
+| <!-- ROMNEY ----> '''26%'''
+| <!-- SANTORUM --> '''20%'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Idaho Republican caucuses, 2012|Idaho]]'''
+| <!-- GINGRICH --> '''2%'''
+| <!-- PAUL ------> '''18%'''
+| <!-- ROMNEY ----> style="background:gold;"| '''62%'''
+| <!-- SANTORUM --> '''18%'''
+. |-
+|  style="background:#eee; text-align:left;"|'''[[Massachusetts Republican primary, 2012|Massachusetts]]'''
+| <!-- GINGRICH --> '''5%'''
+| <!-- PAUL ------> '''10%'''
+| <!-- ROMNEY ----> style="background:gold;"| '''72%'''
+| <!-- SANTORUM --> '''12%'''
+. |-
+|  style="background:#eee; text-align:left;"|'''[[North Dakota Republican caucuses, 2012|North Dakota]]'''
+| <!-- GINGRICH --> '''8%'''
+| <!-- PAUL ------> '''28%'''
+| <!-- ROMNEY ----> '''24%'''
+| <!-- SANTORUM --> style="background:gold;"| '''40%'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Ohio Republican primary, 2012|Ohio]]'''
+| <!-- GINGRICH --> '''15%'''
+| <!-- PAUL ------> '''9%'''
+| <!-- ROMNEY ----> style="background:gold;"| '''38%'''
+| <!-- SANTORUM --> '''37%'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Oklahoma Republican primary, 2012|Oklahoma]]'''
+| <!-- GINGRICH --> '''27%'''
+| <!-- PAUL ------> '''10%'''
+| <!-- ROMNEY ----> '''28%'''
+| <!-- SANTORUM --> style="background:gold;"| '''34%'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Tennessee Republican primary, 2012|Tennessee]]'''
+| <!-- GINGRICH --> '''24%'''
+| <!-- PAUL ------> '''9%'''
+| <!-- ROMNEY ----> '''28%'''
+| <!-- SANTORUM --> style="background:gold;"| '''37%'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Vermont Republican primary, 2012|Vermont]]'''
+| <!-- GINGRICH --> '''8%'''
+| <!-- PAUL ------> '''25%'''
+| <!-- ROMNEY ----> style="background:gold;"| '''40%'''
+| <!-- SANTORUM --> '''24%'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Virginia Republican primary, 2012|Virginia]]'''
+| <!-- GINGRICH --> style="background:#cbcbcb;"|
+| <!-- PAUL ------> '''40%'''
+| <!-- ROMNEY ----> style="background:gold;"| '''60%'''
+| <!-- SANTORUM --> style="background:#cbcbcb;"|
+|} . 
+
+===March and April===. 
+{{main|Results of the 2012 Republican Party presidential primaries#Mid-March states}}
+[[File:Rick Santorum by Gage Skidmore 3.jpg|275px|thumb|[[Rick Santorum]] campaigning]]
+*''Ten delegations have primary election allocating 325 delegates
+*''Missouries delegation had caucuses starting the process of electing 49 unallocated delegates''
+**''Four smaller peninsulare territories elected 24 delegates directly at their caucuses''
+**''Four delegations ends the election process for 107 unallocated delegates at state and district conventions . 
+
+The four smaller peninsulare territories ([[Guam Republican caucuses, 2012|Guam]], [[Northern Mariana Islands Republican caucuses, 2012|Northern Mariana Islands]], [[American Samoa Republican caucuses, 2012|American Samoa]] and [[United States Virgin Islands Republican caucuses, 2012|U.S. Virgin Islands]]) did not take any strawpoll at their caucuses. Neither did the [[Missouri Republican primary and caucuses, 2012|Missouri caucuses]] where no delegates was allocated or elected, a nonbinding primary had been held in February. And neither does most local conventions electing unallocated delegates. Therefore does the convention results table not show popular vote percentages but the number of delegates committted to each candidate. The Louisiana delegation allocated 15 delegates at its primary, but starts the electionprocess for the major part of the election with caucuses on april 28.  . 
+
+Even though Romney only carried two states and [[Puerto Rico Republican primary, 2012|Puerto Rico]], he still secured more than half the delegates as he won all the delegates from the smaller territories except two delegate from the Virgin Islands. One was secured by Paul and one was elected as uncommitted, and one delegate who was elected as uncommitted later pledged himself to Romney. In Wyoming, one delegate was also elected as uncommitted. <ref>{{cite news| url = http://www.democraticconventionwatch.com/diary/5200/wyoming-update-first-uncommitted-delegate-to-convention| title = First uncommitted delegate| author = DemConWatch| accessdate=March 26, 2012}}</ref> By winning three primaries in the south, Santorum disrupted Gingrich's "southern strategy" and took the lead as the Not-Romney candidate. Gingrich won [[Alabama's 2nd congressional district|one congressional district]] and secured only 25 delegates in March. Three days after the Louisiana primary he announced a new "National Convention strategy", which includes laying off one-third of the campaign staff and spending less time on the road campaigning. <ref>{{cite news| url = http://www.nypost.com/p/news/national/gingrich_campaigning_lay_off_third_oV89FrzOdmE1E8cwK1exbL|date=March 28, 2012|title = Gingrich to lay off third of staff, cut back on campaigning| work= New York Post|accessdate=March 28, 2012}}</ref> . 
+
+Santorum's ballot problems continue in April, when he is not on the ballot in Washington D.C. <ref>{{cite news| url = http://www.washingtonpost.com/blogs/mike-debonis/post/no-santorum-on-dcs-republican-ballot/2012/01/04/gIQAGMT4aP_blog.html?wprss=mike-debonis| title = No Santorum on D.C.'s Republican ballot| work= The Washington Post|date=January 4, 2012|accessdate=March 28, 2012}}</ref> . 
+
+{| class="wikitable" style="text-align:center; width:673px;"
+. |- style="text-align:center; background:#e9e9e9;"
+! colspan="7"| '''March and April results'''
+. |- style="background:#eee;"
+| style="width:212px;" colspan="2"|Candidates:
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Newt Gingrich|Newt<br>Gingrich]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Ron Paul|Ron<br>Paul]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Mitt Romney|Mitt<br>Romney]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Rick Santorum|Rick<br>Santorum]]
+| style="width:73px; padding:2px 0 6px; font:15px georgia,arial;"|Uncom. 
+. |-
+| style="text-align:left;" colspan="2"| '''Delegates won'''
+| <!-- GINGRICH --> '''25'''
+| <!-- PAUL ------> '''5'''
+| <!-- ROMNEY ----> '''137''' 
+| <!-- SANTORUM --> '''97''' 
+| <!-- Uncommitted --> '''2'''
+. |-
+| style="text-align:left;" colspan="2"| '''Popular vote'''
+| <!-- GINGRICH --> '''383,739<br><small>(18%)</small>'''
+| <!-- PAUL ------> '''148,310<br><small>(7%)</small>'''
+| <!-- ROMNEY ----> '''866,478<br><small>(40%)</small>'''
+| <!-- SANTORUM --> '''752,115<br><small>(35%)</small>'''
+| <!-- Uncommitted --> -
+. |-
+| style="text-align:left;" colspan="2"| States and territories won
+| <!-- GINGRICH --> 0
+| <!-- PAUL ------> 0
+| <!-- ROMNEY ----> 3
+| <!-- SANTORUM --> 8
+| <!-- Uncommitted --> -
+. |-
+| style="text-align:left;" colspan="2"| Districts won <small>(Delegate awarding only)</small>
+| <!-- GINGRICH --> 1 
+| <!-- PAUL ------> 0 
+| <!-- ROMNEY ----> 20
+| <!-- SANTORUM --> 14
+| <!-- Uncommitted --> -
+. |- style="text-align:center; background:#e9e9e9;"
+! colspan="7"| '''Primaries allocating delegates'''
+. |-
+| style="background:#eee;"| Mar. 10
+|  style="background:#eee; text-align:left;"| '''[[Kansas Republican caucuses, 2012|Kansas]]'''
+| <!-- GINGRICH --> '''14%'''
+| <!-- PAUL ------> '''13%'''
+| <!-- ROMNEY ----> '''21%'''
+| <!-- SANTORUM --> style="background:gold;"|'''51%'''
+| <!-- Uncommitted --> -
+. |-
+| rowspan="3" style="background:#eee;"| Mar. 13
+| style="background:#eee; text-align:left;"|'''[[Alabama Republican primary, 2012|Alabama]]'''
+| <!-- GINGRICH --> '''29%''' <!-- 29.3% -->
+| <!-- PAUL ------> '''5%'''
+| <!-- ROMNEY ----> '''29%''' <!-- 29.0% -->
+| <!-- SANTORUM --> style="background:gold;"| '''35%'''
+| <!-- Uncommitted --> -
+. |-
+| style="background:#eee; text-align:left;"| '''[[Hawaii Republican caucuses, 2012|Hawaii]]'''
+| <!-- GINGRICH --> '''11%'''
+| <!-- PAUL ------> '''19%'''
+| <!-- ROMNEY ----> style="background:gold;"| '''45%'''
+| <!-- SANTORUM --> '''25%'''
+| <!-- Uncommitted --> -
+. |-
+| style="background:#eee; text-align:left;"| '''[[Mississippi Republican primary, 2012|Mississippi]]'''
+| <!-- GINGRICH --> '''31%''' <!-- 31.18% -->
+| <!-- PAUL ------> '''4%'''
+| <!-- ROMNEY ----> '''31%''' <!-- 30.60% -->
+| <!-- SANTORUM --> style="background:gold;"| '''33%'''
+| <!-- Uncommitted --> -
+. |-
+| style="background:#eee;"| Mar. 18
+| style="background:#eee; text-align:left;"| '''[[Puerto Rico Republican primary, 2012|Puerto Rico]]'''
+| <!-- GINGRICH --> '''2%'''
+| <!-- PAUL ------> '''2%'''
+| <!-- ROMNEY ----> style="background:gold;"|'''83%'''
+| <!-- SANTORUM --> '''8%'''
+| <!-- Uncommitted --> -
+. |-
+| style="background:#eee;"| Mar. 20
+| style="background:#eee; text-align:left;"| '''[[Illinois Republican primary, 2012|Illinois]]'''
+| <!-- GINGRICH --> '''8%'''
+| <!-- PAUL ------> '''9%'''
+| <!-- ROMNEY ----> style="background:gold;"| '''47%'''
+| <!-- SANTORUM --> '''35%'''
+| <!-- Uncommitted --> -
+. |-
+| style="background:#eee;"| Mar. 24
+| style="background:#eee; text-align:left;"| '''[[Louisiana Republican primary, 2012|Louisiana]]'''
+| <!-- GINGRICH --> '''16%'''
+| <!-- PAUL ------> '''6%'''
+| <!-- ROMNEY ----> '''27%'''
+| <!-- SANTORUM --> style="background:gold;"| '''49%'''
+| <!-- Uncommitted --> -
+. |-
+| rowspan="3" style="background:#eee;"| Apr. 3
+| style="background:#eee; text-align:left;"| '''[[District of Columbia Republican primary, 2012|District of Columbia]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> style="background:#cbcbcb;"|
+| <!-- Uncommitted --> -
+. |-
+| style="background:#eee; text-align:left;"|'''[[Maryland Republican primary, 2012|Maryland]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> -
+. |-
+| style="background:#eee; text-align:left;"| '''[[Wisconsin Republican primary, 2012|Wisconsin]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> -
+. |- style="text-align:center; background:#e9e9e9;"
+! colspan="7"| '''Conventions electing unallocated delegates'''
+. |-
+| style="background:#eee;"| Mar. 6-10
+|  style="background:#eee; text-align:left;"| '''[[Wyoming Republican caucuses, 2012|Wyoming <small>(County)</small>]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''1'''
+| <!-- ROMNEY ----> style="background:#cc9966;"|'''8'''
+| <!-- SANTORUM --> '''2'''
+| <!-- Uncommitted --> '''1'''
+. |-
+| rowspan="3" style="background:#eee;"| Mar. 10
+|  style="background:#eee; text-align:left;"| '''[[Guam Republican caucuses, 2012|Guam]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> style="background:gold;"|'''6'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> '''-'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Northern Mariana Islands Republican caucuses, 2012|Northern Mariana Is.]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> style="background:gold;"|'''6'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> '''-'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[United States Virgin Islands Republican caucuses, 2012|U.S. Virgin Islands]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''1'''
+| <!-- ROMNEY ----> style="background:gold;"|'''4'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> '''1'''
+. |-
+| style="background:#eee;"| Mar. 13
+|  style="background:#eee; text-align:left;"| '''[[American Samoa Republican caucuses, 2012|American Samoa]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> style="background:gold;"|'''6'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> '''-'''
+. |-
+| style="background:#eee;"| Apr. 12-13
+|  style="background:#eee; text-align:left;"| '''[[Colorado Republican caucuses, 2012|Colorado <small>(CD)</small>]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> '''-'''
+. |-
+| rowspan="2" style="background:#eee;"| Apr. 14
+|  style="background:#eee; text-align:left;"| '''[[Colorado Republican caucuses, 2012|Colorado <small>(State)</small>]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> '''-'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Wyoming Republican caucuses, 2012|Wyoming <small>(State)</small>]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> '''-'''
+. |-
+| style="background:#eee;"| Apr. 14-21
+|  style="background:#eee; text-align:left;"| '''[[Minnesota Republican caucuses, 2012|Minnesota <small>(CD)</small>]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> '''-'''
+. |-
+| style="background:#eee;"| Apr. 21
+|  style="background:#eee; text-align:left;"| '''[[Missouri Republican primary and caucuses, 2012|Missouri <small>(CD)</small>]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+| <!-- Uncommitted --> '''-'''
+|} . 
+
+{|
+| [[File:Newt Gingrich Ames Iowa Handshake 2012.jpg|275px|thumb|[[Newt Gingrich]] campaigning]]
+| [[File:Ron Paul by Gage Skidmore 5.jpg|275px|thumb|[[Ron Paul]] campaigning]]
+|} . 
+
+===April 24===. 
+*''Five delegations have primary election allocating 209 delegates . 
+
+{| class="wikitable" style="text-align:center; width:600px;"
+. |- style="text-align:center; background:#e9e9e9;"
+! colspan="5"| '''April 24 results'''
+. |- style="background:#eee;"
+| style="width:212px;" |Candidates:
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Newt Gingrich|Newt<br>Gingrich]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Ron Paul|Ron<br>Paul]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Mitt Romney|Mitt<br>Romney]]
+| style="width:97px; padding:2px 0 6px; font:15px georgia,arial;"|[[Rick Santorum|Rick<br>Santorum]]
+. |-
+| style="text-align:left;"| '''Delegates won'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+. |-
+| style="text-align:left;"| '''Popular vote'''
+| <!-- GINGRICH --> '''-<br><small>(-%)</small>'''
+| <!-- PAUL ------> '''-<br><small>(-%)</small>'''
+| <!-- ROMNEY ----> '''-<br><small>(-%)</small>'''
+| <!-- SANTORUM --> '''-<br><small>(-%)</small>'''
+. |-
+| style="text-align:left;"| States won
+| <!-- GINGRICH --> -
+| <!-- PAUL ------> -
+| <!-- ROMNEY ----> -
+| <!-- SANTORUM --> -
+. |-
+| style="text-align:left;"| Districts won <small>(Delegate awarding only)</small>
+| <!-- GINGRICH --> -
+| <!-- PAUL ------> -
+| <!-- ROMNEY ----> -
+| <!-- SANTORUM --> -
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Connecticut Republican primary, 2012|Connecticut]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Delaware Republican primary, 2012|Delaware]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[New York Republican primary, 2012|New York]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Pennsylvania Republican primary, 2012|Pennsylvania]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+. |-
+|  style="background:#eee; text-align:left;"| '''[[Rhode Island Republican primary, 2012|Rhode Island]]'''
+| <!-- GINGRICH --> '''-'''
+| <!-- PAUL ------> '''-'''
+| <!-- ROMNEY ----> '''-'''
+| <!-- SANTORUM --> '''-'''
+|} . 
+
+===Primary events May to July===. 
+{{Multicol}}
+'''April 28'''
+*[[Louisiana Republican primary and caucuses, 2012|Louisiana (nonbinding) caucuses]]
+'''May 4-6'''
+*[[Minnesota Republican caucuses, 2012|Minnesota state convention]]
+*[[Maine Republican caucuses, 2012|Maine state convention]]
+'''May 8'''
+*[[Indiana Republican primary, 2012|Indiana (open) primary]]
+*[[North Carolina Republican primary, 2012|North Carolina (modified) primary]]
+*[[West Virginia Republican caucuses, 2012|West Virginia (modified) primary]]
+'''May 15'''
+*[[Oregon Republican primary, 2012|Oregon (closed) primary]]
+'''May 22'''
+*[[Arkansas Republican primary, 2012|Arkansas (open) primary]]
+*[[Kentucky Republican primary, 2012|Kentucky (closed) primary]]
+{{Multicol-break}}
+'''May 29'''
+*[[Texas Republican primary, 2012|Texas Republican (open) primary]]
+'''June 2'''
+*[[Louisiana Republican primary and caucuses, 2012|Louisiana state convention]]
+*[[Missouri Republican primary and caucuses, 2012|Missouri state convention]]
+*[[Washington Republican caucuses, 2012|Washington state convention]]
+'''June 5'''
+*[[California Republican primary, 2012|California (closed) primary]]
+*[[New Jersey Republican primary, 2012|New Jersey (modified) primary]]
+*[[New Mexico Republican caucuses, 2012|New Mexico (closed) primary]]
+*[[South Dakota Republican primary, 2012|South Dakota (closed) primary]]
+'''June 1-10'''
+*[[Nebraska Republican primary, 2012|Nebraska county conventions]]
+{{Multicol-break}}
+'''June 9'''
+*[[Illinois Republican primary, 2012|Illinois state convention]]
+*[[Indiana Republican primary, 2012|Indiana state convention]]
+'''June 10'''
+*[[Pennsylvania Republican primary, 2012|Pennsylvania Summer Meeting]]
+'''June 16'''
+*[[Iowa Republican caucuses, 2012|Iowa state convention]]
+*[[Montana Republican caucuses, 2012|Montana state convention]]
+'''June 26'''
+*[[Utah Republican primary, 2012|Utah (modified) primary]]
+'''July 14'''
+*[[Nebraska Republican primary, 2012|Nebraska state convention]]
+{{Multicol-end}} . 
+
+==Schedule and process==. 
+{{main|United States presidential primary}}
+The primary election takes place from January 3 to July 14 and will allocate and elect 2,286 voting delegates in 56 delegations to the [[2012 Republican National Convention]] in the week of August 27.  . 
+
+The total base number of delegates allocated to each of the 50 U.S. states is 10 at-large delegates, plus 3 delegates per congressional district. In addition, fixed numbers of at-large delegates are allocated to [[Washington, D.C.]], [[Puerto Rico]], [[American Samoa]], [[Guam]], the [[U.S. Virgin Islands]], and [[Northern Mariana Islands]] under the party's delegate selection rules. <ref>{{cite web|url=http://www.thegreenpapers.com/P12/R-Alloc.phtml|title=Republican Detailed Delegate Allocation - 2012|work=The Green Papers|accessdate=2012-02-04}}</ref> States are awarded bonus delegates based on the following factors:
+* Bonus delegates to each state that cast a majority of their Electoral College votes for the GOP candidate in the [[United States presidential election, 2008|2008 presidential election]]
+* One bonus delegate for each GOP senator
+* One bonus delegate to each state that has a GOP majority in their delegation to the House of Representatives
+* One bonus delegate for each state that has a GOP governor
+* Bonus delegates for majorities in one or all of the chambers in their state legislature.  . 
+
+The two Republican National Committee members from each state and territory and the chairperson of the state's Republican Party are delegates unless the state is penalized for violating the RNC's scheduling rules. The individual states decide whether these delegates are bound or unbound.  . 
+
+===Primary schedule===. 
+This table shows how and when the National Convention delegates are allocated for the candidates. This means it do not include straw polls, primary or other kinds. And it do not include the dates for different local conventions where the delegates are already bound by an earlier primary or caucus. <ref>{{cite web|url=http://www.democraticconventionwatch.com/diary/5168/the-ultimate-republican-nomination-information-chart |title=The Ultimate Republican Nomination Information Chart|publisher=democraticconventionwatch.com|date= |accessdate=2011-02-28}}</ref>
+*'''Date:''' This is the date where the delegates are bound to a candidate or the date where the first step to electing the delegates is taken. If delegates are not bound and/or elected at the first date, the later date where they are so is also listed. Some states have caucuses that stretches for more than one day. (Louisiana has two dates because the state has two first step elections, both a primary and caucuses). If a state convention stretches for more than one day it is the end date that are used. 
+*'''State:''' In addition to the fifty [[U.S. state|state]] contests there are also five [[Territories of the United States#Unincorporated organized territories|territorial]] contests and one [[Federal district#United States|federal district]] contest
+*There are three types of delegates. In this table they are listed by the way the candidates secure them, in a few states that is by the at-large state vote even though the individual delegates are selected on the district level. 
+**'''(RNC)''' 2 members of the [[Republican National Committee]] and the state party chairperson from each non-penalized state are voting delegates at the national convention by virtue of their position. But this colum only lists party delegates that are not bound by their states primary or caucus result. These 120 delegates are free to committed themselve without regard to the primary result of their state <ref name="DCW-RNC">[http://www.democraticconventionwatch.com/diary/4726/republican-superdelegate-endorsement-list Superdelegates], DemocraticConventionWatch.com</ref>  and are as such not a part of the primary process this table provides informations about. 
+**'''(AL)''' Delegates elected [[At-Large]] in the state or territory. This included RNC delegates that are bound to the election result. 
+**'''(CD)''' Delegates elected in each [[Congressional District]]
+*'''Contest type:''' There are two types: [[United States presidential primary#Types of primaries and caucuses|Caucus and Primary]], which are regulated in many different ways in the local states. 
+*'''Bound delegates:''' These pledged delegates are legally bound to vote for a candidate for at least the first ballot at the National Convention. All 3 types of delegates can be bound, depending on the local state rules. 
+*'''Unbound delegates:''' This is AL and CD delegates that are unbound (unpledged). They are elected at local conventions in their states, and the candidates work to get as many of their supporters to join these conventions through caucus and primaries in the respective states. <ref>{{cite web |url=http://www.thegreenpapers.com/P12/events.phtml?s=c&f=m| title=Republican primaries chronological |publisher=Thegreenpapers.com |date= |accessdate=2011-02-08}}</ref> It does not included unbound RNC delegates. 
+*'''Delegate allocation:''' It can be the same on both the state and district level or it can be different. The 2012 election has more proportionally-allocated contests than the 2008 election. 
+**[[Plurality voting system|Winner-take-all]]. In some state and districts this method will not be used unless one candidate gets a majority of all the votes. States may use winner-take-all and allocate delegates by CD ([[Congressional_District|congressional district]]), in which case different CDs may go to different candidates. States may use winner-take-all allocation and allocate all delegates at large, in which case the state delegation as a whole is winner-take-all. 
+**[[Proportional representation|Proportional]]. Most states that elect delegates proportionally have thresholds that candidates must meet to be given delegates; these thresholds range from 10% to 25% percent of the votes. But a few states that elect delegates proportionally have no such threshold. 
+**Loophole. The original advisory preference/delegate selection type of primary, where the voters vote for the candidate in an advisory primary and separately vote for a candidate slate. So even though the delegates technically are unbound, they will, by using the loophole, become practically bound to a candidate. <ref>{{cite web|url=http://www.thegreenpapers.com/Definitions.html#Loop |title=The Green Papers Election 2000, 2004, 2008, 2012 Glossary |publisher=Thegreenpapers.com |date= |accessdate=2012-03-09}}</ref>
+**[[Republican Party (United States)#State and territorial parties|Convention]]. If the national convention delegates are unbound or they are not bound at the first caucuses held in the state, the state convention is where they get elected. 
+**[[Republican Party (United States)#Structure and composition|Committee]]. The state GOP executive committee selects the delegates.  . 
+
+*'''Secured delegates:''' There are two ways to secure a delegate for a candidate. The delegate can be legally bound to a candidate via the state contest, or the delegate can personally commit to support a candidate. These colums do only account for legally bound delegates and elected unbound delegates (Superdelegates), not for the unbound party delegates (RNC). Unbound elected delegates falls into three categories for a total of 222: 217 unbound delegates elected at conventions, 3 bound delegates elected as uncommitted and 2 delegates that were allocated to Huntsman but are now unbound. <ref name="DCW-Super"/><br>The last colum (uncom.) lists delegates that have still not committed themselve to a candidate, one way or another. This include delegates elected as uncommitted, unbound elected delegates, delegates elected as bound, but now released from their candidate and delegates not yet allocated or elected. It does not included unbound RNC delegates. 
+'''This is a sortable table — links provide quick paths to more information on the different state primaries:'''
+*By clicking on the link in the 'State' column you will go to the Wikipedia article on the state or territory. 
+*By clicking on the link in the 'Contest Type' column you will go to the state or territory primary or caucuses article. 
+*Click the triangles to sort any column, including delegate columns. Click twice to bring the largest numbers to the top.  . 
+
+<!-- Remember when checking this table and making corrections: RNC+AL+CD=Total and Unbound+Bound=Romney+Santorum+Gingrich+Paul+Uncom -->
+{|class="wikitable sortable" style="font-size:12px;"
+. |-
+!!!!!colspan="4"|State delegation!!!!colspan="3"|Delegate status!!colspan="5"|Secured delegates <small>(excl. unbound RNC delegates)</small>
+. |-
+!class="unsortable"|Date!!State!!RNC!!AL!!CD!!Total!!Contest type!!Unbound!!Bound!!Allocation!!Gingrich!!Paul!!Romney!!Santorum!!Uncom. 
+. |-
+| style="text-align:center;"|{{dts|Jan. 3}}||[[Iowa]]||<center>''3''<center>||<center>13<center>||<center>12<center>||<center>'''28'''<center>||[[Iowa Republican caucuses, 2012|Caucus <small>(nonbinding)</small>]]||<center>0<center>||<center>0<center>||<small>(See June 16)</small>||||||||||
+. |-
+| style="text-align:center;"|{{dts|Jan. 10}}<br />||[[New Hampshire]]<sup>[[#Notes1|#]]</sup>||<center>''0''<center>||<center>12<center>||<center>0<center>||<center>'''12'''<center>||[[New Hampshire Republican primary, 2012|Primary <small>(semi-closed)</small>]]||<center>2<center>||<center>10<center>||Proportional <small>(AL)</small><br/><small>(No CD Allocation)</small>||||<center>3<center>||<center>7<center> ||||<center>2<center>
+. |-
+| style="text-align:center;"|{{dts|Jan. 21}}||[[South Carolina]]<sup>[[#Notes1|#]]</sup>||<center>''0''<center>||<center>11<center>||<center>14<center>||<center>'''25'''<center>||[[South Carolina Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>25<center>||Winner-take-all <small>(AL)</small><br/>Winner-take-all <small>(CD)</small>||<center>23<center>||||<center>2<center>||||
+. |-
+| style="text-align:center;"|{{dts|Jan. 31}}||[[Florida]]<sup>[[#Notes1|#]]</sup>||<center>''0''<center>||<center>50 ||<center>0<center>||<center>'''50'''<center>||[[Florida Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>50<center>||Winner-take-all <small>(AL)</small><br/><small>(No CD allocation)</small>||||||<center>50<center>|||||
+. |-
+| style="text-align:center;"|{{dts|Feb. 4}}||[[Nevada]]||<center>''0''<center>||<center>28<center>||<center>0<center>||<center>'''28'''<center>||[[Nevada Republican caucuses, 2012|Caucus <small>(binding)</small>]]||<center>0<center>||<center>28<center>||Proportional <small>(AL)</small><br/><small>(No CD Allocation)</small>||<center>6<center>||<center>5<center>||<center>14<center>||<center>3<center>||
+. |-
+| rowspan="2" style="text-align:center;"|{{dts|Feb. 7}}||[[Colorado]]||<center>''3''<center>||<center>12<center>||<center>21<center>||<center>'''36'''<center>||[[Colorado Republican caucuses, 2012|Caucus <small>(nonbinding)</small>]]||<center>0<center>||<center>0<center>||<small>(AL see April 14)</small><br><small>(CD see April 13)</small>||||||||||
+. |-
+|[[Minnesota]]||<center>''3''<center>||<center>13<center>||<center>24<center>||<center>'''40'''<center>||[[Minnesota Republican caucuses, 2012|Caucus <small>(nonbinding)</small>]]||<center>0<center>||<center>0<center>||<small>(AL see May 15)</small><br><small>(CD see April 21)</small>||||||||||
+. |-
+| style="text-align:center;"|{{dts|Feb. 4–11}}||[[Maine]]||<center>''3''<center>||<center>15<center>||<center>6<center>||<center>'''24'''<center>||[[Maine Republican caucuses, 2012|Caucus <small>(nonbinding)</small>]]||<center>0<center>||<center>0<center>||<small>(See May 6)</small>||||||||||
+. |-
+| rowspan="2" style="text-align:center;"|{{dts|Feb. 28}}||[[Arizona]]<sup>[[#Notes1|#]]</sup>||<center>''0''<center>||<center>29<center>||<center>0<center>||<center>'''29'''<center>||[[Arizona Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>29<center>||Winner-take-all <small>(AL)</small><br/><small>(No CD allocation)</small> ||||||<center>29<center>||||
+. |-
+|[[Michigan]]<sup>[[#Notes1|#]]</sup>||<center>''0''<center>||<center>2<center>||<center>28<center>||<center>'''30'''<center>||[[Michigan Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>30<center>||Winner-take-all <small>(AL)</small><br/>Winner-take-all <small>(CD)</small>||||||<center>16<center>||<center>14<center>||
+. |-
+| style="text-align:center;"|{{dts|Feb. 11–29}}||[[Wyoming]]||<center>''3''<center>||<center>14<center>||<center>12<center>||<center>'''29'''<center>||[[Wyoming Republican caucuses, 2012|Caucus <small>(nonbinding)</small>]]||<center>0<center>||<center>0<center>||<small>(AL see April 14)</small><br><small>(CD see March 10)</small>||||||||||
+. |-
+| style="text-align:center;"|{{dts|Mar. 3}}||[[Washington (state)|Washington]]||<center>''3''<center>||<center>10<center>||<center>30<center>||<center>'''43'''<center>||[[Washington Republican caucuses, 2012|Caucus <small>(nonbinding)</small>]]||<center>0<center>||<center>0<center>||<small>(see June 2)</small>||||||||||
+. |-
+| rowspan="10" style="text-align:center;"|[[Super Tuesday, 2012|{{dts|Mar. 6}}]]||[[Alaska]]||<center>''3''<center>||<center>24<center>||<center>0<center>||<center>'''27'''<center>||[[Alaska Republican caucuses, 2012|Caucus <small>(binding)</small>]]||<center>0<center>||<center>24<center>||Proportional <small>(AL)</small><br/><small>(No CD Allocation)</small>||<center>2<center>||<center>6<center>||<center>8<center>||<center>8<center>||
+. |-
+|[[Georgia (U.S. state)|Georgia]]||<center>''0''<center>||<center>34<center>||<center>42<center>||<center>'''76'''<center>||[[Georgia Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>76<center>||Proportional <small>(AL)</small><br>Proportional <small>(CD)</small>||<center>55<center>||||<center>18<center>||<center>3<center>||
+. |-
+|[[Idaho]]||<center>''0''<center>||<center>32<center>||<center>0<center>||<center>'''32'''<center>||[[Idaho Republican caucuses, 2012|Caucus <small>(binding)</small>]]||<center>0<center>||<center>32<center>||Winner-take-all <small>(AL)</small><br/><small>(No CD Allocation)</small>||||||<center>32<center>||||
+. |-
+|[[Massachusetts]]||<center>''3''<center>||<center>38<center>||<center>0<center>||<center>'''41'''<center>||[[Massachusetts Republican primary, 2012|Primary <small>(semi-closed)</small>]]||<center>0<center>||<center>38<center>||Proportional <small>(AL)</small><br/><small>(No CD Allocation)</small>||||||<center>38<center>||||
+. |-
+|[[North Dakota]]||<center>''0''<center>||<center>28<center>||<center>0<center>||<center>'''28'''<center>||[[North Dakota Republican caucuses, 2012|Caucus <small>(binding)</small>]]||<center>0<center>||<center>28<center>||Proportional <small>(AL)</small><sup>[[#Notes1|b]]</sup><br/><small>(No CD Allocation)</small>||<center>2<center>||<center>8<center>||<center>7<center>||<center>11<center>||
+. |-
+|[[Ohio]]||<center>''3''<center>||<center>15<center>||<center>48<center>||<center>'''66'''<center>||[[Ohio Republican primary, 2012|Primary <small>(semi-closed)</small>]]||<center>0<center>||<center>63<center>||Proportional <small>(AL)</small><sup>[[#Notes1|b]]</sup><br/>Winner-take-all <small>(CD)</small><sup>[[#Notes1|b]]</sup>||||||<center>38<center>||<center>21<center>||<center>4<center>
+. |-
+|[[Oklahoma]]||<center>''3''<center>||<center>25<center>||<center>15<center>||<center>'''43'''<center>||[[Oklahoma Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>40<center>||Proportional <small>(AL)</small><br>Proportional<small>(CD)</small>||<center>13<center>||||<center>13<center>||<center>14<center>||
+. |-
+|[[Tennessee]]||<center>''3''<center>||<center>28<center>||<center>27<center>||<center>'''58'''<center>||[[Tennessee Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>55<center>||Proportional <small>(AL)</small><br>Proportional<small>(CD)</small>||<center>9<center>||||<center>16<center>||<center>30<center>||
+. |-
+|[[Vermont]]||<center>''0''<center>||<center>14<center>||<center>3<center>||<center>'''17'''<center>||[[Vermont Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>17<center>||Proportional <small>(AL)</small><br/>Winner-take-all <small>(CD)</small>||||<center>4<center>||<center>9<center>||<center>4<center>||
+. |-
+|[[Virginia]]||<center>''3''<center>||<center>13<center>||<center>33<center>||<center>'''49'''<center>||[[Virginia Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>46<center>||Winner-take-all <small>(AL)</small><br/>Winner-take-all <small>(CD)</small>||||<center>3<center>||<center>43<center>||||
+. |-
+| style="text-align:center;"|{{dts|March 6-10}}||''[[Wyoming]]''||<center>''3''<center>||<center>14<center>||<center>12||<center>'''29'''<center>||[[Wyoming Republican caucuses, 2012|Convention]]||<center>1<center>||<center>11<center>||Caucus <small>(CD)</small><sup>[[#Notes1|b]]</sup><sup>[[#Notes1|d]]</sup><center>||||<center>1<center>||<center>8<center>||<center>2<center>||<center>1<center>
+. |-
+| rowspan="4" style="text-align:center;"|{{dts|Mar. 10}}||[[Kansas]]||<center>''0''<center>||<center>28<center>||<center>12<center>||<center>'''40'''<center>||[[Kansas Republican caucuses, 2012|Caucus <small>(binding)</small>]]||<center>0<center>||<center>40<center>||Proportional <small>(AL)</small><br />Winner-take-all <small>(CD)</small>||||||<center>7<center>||<center>33<center>||
+. |-
+||[[Guam]]||<center>''3''<center>||<center>6<center>||<center>0<center>||<center>'''9'''<center>||[[Guam Republican caucuses, 2012|Caucus <small>(nonbinding)</small>]]||<center>6<center>||<center>0<center>||Caucus||||||<center>6</center>||||
+. |-
+||[[Northern Mariana Islands|Northern Mariana Is.]]||<center>''3''<center>||<center>6<center>||<center>0<center>||<center>'''9'''<center>||[[Northern Mariana Islands Republican caucuses, 2012|Caucus <small>(nonbinding)</small>]]||<center>6<center>||<center>0<center>||Caucus||||||<center>6</center>||||
+. |-
+||[[United States Virgin Islands|U.S. Virgin Islands]]||<center>''3''<center>||<center>6<center>||<center>0<center>||<center>'''9'''<center>||[[United States Virgin Islands Republican caucuses, 2012|Caucus <small>(binding)</small>]]<sup>[[#Notes1|e]]</sup>||<center>2<center>||<center>4<center>||Caucus||||<center>1<center>||<center>4<center>||||<center>1<center>
+. |-
+| rowspan="4" style="text-align:center;"|{{dts|Mar. 13}}||[[Alabama]]||<center>''3''<center>||<center>26<center>||<center>21<center>||<center>'''50'''<center>||[[Alabama Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>47<center>||Proportional <small>(AL)</small><br/>Proportional <small>(CD)</small>||<center>13<center>||||<center>12<center>||<center>22<center>||
+. |-
+||[[American Samoa]]||<center>''3''<center>||<center>6<center>||<center>0<center>||<center>'''9'''<center>||[[American Samoa Republican caucuses, 2012|Caucus <small>(binding)</small>]]||<center>0<center>||<center>6<center>||Caucus||||||<center>6<center>||||
+. |-
+||[[Hawaii]] ||<center>''3''<center>||<center>11<center>||<center>6<center>||<center>'''20'''<center>||[[Hawaii Republican caucuses, 2012|Caucus <small>(binding)</small>]]||<center>0<center>||<center>17<center>||Proportional <small>(AL)</small><br>Proportional <small>(CD)</small>||||<center>3</center>||<center>9</center>||<center>5</center>||
+. |-
+||[[Mississippi]]||<center>''3''<center>||<center>25<center>||<center>12<center>||<center>'''40'''<center>||[[Mississippi Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>37<center>||Proportional <small>(AL)</small><br>Proportional <small>(CD)</small>||<center>12</center>||||<center>12</center>||<center>13</center>||
+. |-
+| rowspan="1" style="text-align:center;"|{{dts|Mar. 18}}||[[Puerto Rico]]||<center>''3''<center>||<center>20<center>||<center>0<center>||<center>'''23'''<center>||[[Puerto Rico Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>20<center>||Winner-take-all||||||<center>20<center>||||
+. |-
+| style="text-align:center;"|{{dts|Mar. 20}}||[[Illinois]]||<center>''3''<center>||<center>12<center>||<center>54<center>||<center>'''69'''<center>||[[Illinois Republican primary, 2012|Primary <small>(semi-closed)</small>]]||<center>0<center>||<center>54<center>||Loophole <small>(CD)<sup>[[#Notes1|b]]</sup></small><br><small>(AL see June 19)</small>||||||<center>42<center>||<center>12<center>||
+. |- 
+| style="text-align:center;"|{{dts|Mar. 15–24}}||[[Missouri]]||<center>''3''<center>||<center>25<center>||<center>24<center>||<center>'''52'''<center>||[[Missouri Republican primary and caucuses, 2012|Caucus <small>(nonbinding)</small>]]||<center>0<center>||<center>0<center>||<small>(AL see June 2)</small><br /><small>(CD see April 21)</small>||||||||||
+. |- 
+| style="text-align:center;"|{{dts|Mar. 24}}||[[Louisiana]]<sup>[[#Notes1|f]]</sup>||<center>''3''<center>||<center>15<center>||<center>0<center>||<center>'''18'''<center>||[[Louisiana Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center> ||<center>15<center>||Proportional <small>(AL)</small>||||||<center>5<center>||<center>10<center>||
+. |- style="background:#ccc;"
+| rowspan="3" style="text-align:center;"|{{dts|Apr. 3}}||[[Maryland]]||<center>''0''<center>||<center>13<center>||<center>24<center>||<center>'''37'''<center>||[[Maryland Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>37<center>||Winner-take-all <small>(AL)</small><br/>Winner-take-all <small>(CD)</small>||||||||||<center>37<center>
+. |- style="background:#ccc;"
+|[[Washington, D.C.]]||<center>''3''<center>||<center>16<center>||<center>0<center>||<center>'''19'''<center>||[[District of Columbia Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>16<center>||Winner-take-all||||||||||<center>16<center>
+. |- style="background:#ccc;"
+|[[Wisconsin]]||<center>''0''<center>||<center>18<center>||<center>24<center>||<center>'''42'''<center>||[[Wisconsin Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>42<center>||Winner-take-all <small>(AL)</small><br/>Winner-take-all <small>(CD)</small>||||||||||<center>42<center>
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|Apr. 12-13}}||''[[Colorado]]''||<center>''3''<center>||<center>12<center>||<center>21<center>||<center>'''36'''<center>||[[Colorado Republican caucuses, 2012|Convention]]||<center>21<center>||<center>0<center>||Caucus <small>(CD)</small>||||||||||<center>21<center>
+. |- style="background:#ccc;"
+| rowspan="2" style="text-align:center;"|{{dts|April 14}}||''[[Wyoming]]''||<center>''3''<center>||<center>14<center>||<center>12<center>||<center>'''29'''<center>||[[Wyoming Republican caucuses, 2012|Convention]]||<center>0<center>||<center>14<center>||Caucus <small>(AL)</small><sup>[[#Notes1|b]]</sup>||||||||||<center>14<center>
+. |- style="background:#ccc;"
+|''[[Colorado]]''||<center>''3''<center>||<center>12<center>||<center>21<center>||<center>'''36'''<center>||[[Colorado Republican caucuses, 2012|Convention]]||<center>12<center>||<center>0<center>||Caucus <small>(AL)</small>||||||||||<center>12<center>
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|Apr. 14-21}}||''[[Minnesota]]''||<center>''3''<center>||<center>13<center>||<center>24<center>||<center>'''40'''<center>||[[Minnesota Republican caucuses, 2012|Convention]]||<center>24<center>||<center>0<center>||Caucus <small>(CD)</small>||||||||||<center>24<center>
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|April 21}}||''[[Missouri]]''||<center>''3''<center>||<center>25<center>||<center>24<center>||<center>'''52'''<center>||[[Missouri Republican primary and caucuses, 2012|Convention]]||<center>0<center>||<center>24<center>||Caucus <small>(CD)</small>||||||||||<center>24<center>
+. |- style="background:#ccc;"
+| rowspan="5" style="text-align:center;"|{{dts|Apr. 24}}||[[Connecticut]]||<center>''3''<center>||<center>10<center>||<center>15<center>||<center>'''28'''<center>||[[Connecticut Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>25<center>||Proportional <small>(AL)</small><sup>[[#Notes1|c]]</sup><br />Winner-take-all <small>(CD)</small>||||||||||<center>25<center>
+. |- style="background:#ccc;"
+|[[Delaware]]||<center>''0''<center>||<center>17<center>||<center>0<center>||<center>'''17'''<center>||[[Delaware Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>17<center>||Winner-take-all <small>(AL)</small><br/><small>(No CD allocation)</small> ||||||||||<center>17<center>
+. |- style="background:#ccc;"
+|[[New York]]||<center>''3''<center>||<center>34<center>||<center>58<center>||<center>'''95'''<center>||[[New York Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>92<center>||Proportional <small>(AL)</small><sup>[[#Notes1|c]]</sup><br>Winner-take-all<small>(CD)</small>||||||||||<center>92<center>
+. |- style="background:#ccc;"
+|[[Pennsylvania]]||<center>''3''<center>||<center>10<center>||<center>59<center>||<center>'''72'''<center>||[[Pennsylvania Republican primary, 2012|Primary <small>(closed)</small>]]||<center>10<center>||<center>59<center>||Loophole <small>(CD)</small><br><small>(AL see June 10)</small>||||||||||<center>59<center>
+. |- style="background:#ccc;"
+|[[Rhode Island]]||<center>''3''<center>||<center>0<center>||<center>16<center>||<center>'''19'''<center>||[[Rhode Island Republican primary, 2012|Primary <small>(semi-closed)</small>]]||<center>0<center>||<center>16<center>||Proportional <small>(CD)</small><br><small>(No AL Allocation)</small>||||||||||<center>16<center>
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|Apr. 28}}||[[Louisiana]]<sup>[[#Notes1|f]]</sup>||<center>''0''<center>||<center>10<center>||<center>18<center>||<center>'''28'''<center>||[[Louisiana Republican caucuses, 2012|Caucus <small>(nonbinding)</small>]]||<center>0<center>||<center>0<center>||<small>(See June 2)</small>||||||||||
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|May 5}}||''[[Minnesota]]''||<center>''3''<center>||<center>13<center>||<center>24<center>||<center>'''40'''<center>||[[Minnesota Republican caucuses, 2012|Convention]]||<center>13<center>||<center>0<center>||Caucus <small>(AL)</small> <sup>[[#Notes1|a]]</sup>||||||||||<center>13<center>
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|May 6}}||''[[Maine]]''||<center>''3''<center>||<center>15<center>||<center>6<center>||<center>'''24'''<center>||[[Maine Republican caucuses, 2012|Convention</small>]]||<center>21<center>||<center>0<center>||Caucus <small>(AL)</small><br>Caucus <small>(CD)</small>||||||||||<center>21<center>
+. |- style="background:#ccc;"
+| rowspan="3" style="text-align:center;"|{{dts|May 8}}||[[Indiana]]||<center>''3''<center>||<center>16<center>||<center>27<center>||<center>'''46'''<center>||[[Indiana Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>27<center>||Winner-take-all <small>(CD)</small><br><small>(AL see June 9)</small>||||||||||<center>27<center>
+. |- style="background:#ccc;"
+|[[North Carolina]]||<center>''3''<center>||<center>52<center>||<center>0<center>||<center>'''55'''<center>||[[North Carolina Republican primary, 2012|Primary <small>(semi-closed)</small>]]||<center>0<center>||<center>52<center>||Proportional <small>(AL)</small><br/><small>(No CD Allocation)</small>||||||||||<center>52<center>
+. |- style="background:#ccc;"
+|[[West Virginia]]||<center>''3''<center>||<center>19<center>||<center>9<center>||<center>'''31'''<center>||[[West Virginia Republican caucuses, 2012|Primary <small>(semi-closed)</small>]]||<center>0<center>||<center>28<center>||Proportional <small>(AL)</small><br>Proportional<small>(CD)</small>||||||||||<center>28<center>
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|May 15}}||[[Oregon]]||<center>''3''<center>||<center>25<center>||<center>0<center>||<center>'''28'''<center>||[[Oregon Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>25<center>||Proportional <small>(AL)</small><br/><small>(No CD Allocation)</small>||||||||||<center>25<center>
+. |- style="background:#ccc;"
+| rowspan="2" style="text-align:center;"|{{dts|May 22}}||[[Arkansas]]||<center>''3''<center>||<center>21<center>||<center>12<center>||<center>'''36'''<center>||[[Arkansas Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>33<center>||Proportional <small>(AL)</small><br>Proportional<small>(CD)</small><sup>[[#Notes1|c]]</sup>||||||||||<center>33<center>
+. |- style="background:#ccc;"
+|[[Kentucky]]||<center>''3''<center>||<center>24<center>||<center>18<center>||<center>'''45'''<center>||[[Kentucky Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>42<center>||Proportional <small>(AL)</small><br>Proportional<small>(CD)</small>||||||||||<center>42<center>
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|May 29}}||[[Texas]]||<center>''3''<center>||<center>44<center>||<center>108<center>||<center>'''155'''<center>||[[Texas Republican primary, 2012|Primary <small>(open)</small>]]||<center>0<center>||<center>152<center>||Proportional <small>(AL)</small><br>Proportional<small>(CD)</small>||||||||||<center>152<center>
+. |- style="background:#ccc;"
+| rowspan="3" style="text-align:center;"|{{dts|June 2}}||''[[Louisiana]]''||<center>''0''<center>||<center>10<center>||<center>18<center>||<center>'''28'''<center>||[[Louisiana Republican caucuses, 2012|Convention]]||<center>28<center>||<center>0<center>||Committee <small>(Al)</small><br />Caucus <small>(CD)</small>||||||||||<center>23<center>
+. |- style="background:#ccc;"
+|''[[Missouri]]''||<center>''3''<center>||<center>25<center>||<center>24<center>||<center>'''52'''<center>||[[Missouri Republican primary and caucuses, 2012|Convention]]||<center>0<center>||<center>25<center>||Caucus <small>(AL)</small>||||||||||<center>25<center>
+. |- style="background:#ccc;"
+|''[[Washington (state)|Washington]]''||<center>''3''<center>||<center>10<center>||<center>30<center>||<center>'''43'''<center>||[[Washington Republican caucuses, 2012|Convention]]||<center>0<center>||<center>40<center>||Caucus <small>(AL)</small><br>Caucus <small>(CD)</small> ||||||||||<center>40<center>
+. |- style="background:#ccc;"
+| rowspan="4" style="text-align:center;"|{{dts|Jun. 5}}||[[California]]||<center>''3''<center>||<center>10<center>||<center>159<center>||<center>'''172'''<center>||[[California Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>169<center>||Winner-take-all <small>(AL)</small><br/>Winner-take-all <small>(CD)</small>||||||||||<center>169<center>
+. |- style="background:#ccc;"
+|[[New Jersey]]||<center>''0''<center>||<center>50<center>||<center>0<center>||<center>'''50'''<center>||[[New Jersey Republican primary, 2012|Primary <small>(semi-closed)</small>]]||<center>0<center>||<center>50<center>||Winner-take-all <small>(AL)</small><br/><small>(No CD allocation)</small>||||||||||<center>50<center>
+. |- style="background:#ccc;"
+|[[New Mexico]]||<center>''3''<center>||<center>11<center>||<center>9<center>||<center>'''23'''<center>||[[New Mexico Republican caucuses, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>20<center>||Proportional <small>(AL)</small><br>Proportional<small>(CD)</small>||||||||||<center>20<center>
+. |- style="background:#ccc;"
+|[[South Dakota]]||<center>''3''<center>||<center>25<center>||<center>0<center>||<center>'''28'''<center>||[[South Dakota Republican primary, 2012|Primary <small>(closed)</small>]]||<center>0<center>||<center>25<center>||Proportional <small>(AL)</small><br/><small>(No CD Allocation)</small>||||||||||<center>25<center>
+. |- style="background:#ccc;"
+| rowspan="2" style="text-align:center;"|{{dts|Jun. 9}}||''[[Illinois]]''||<center>''3''<center>||<center>12<center>||<center>54<center>||<center>'''69'''<center>||[[Illinois Republican primary, 2012|Convention]]||<center>12<center>||<center>0<center>||Caucus <small>(AL)</small>||||||||||<center>12<center>
+. |- style="background:#ccc;"
+||''[[Indiana]]''||<center>''3''<center>||<center>16<center>||<center>27<center>||<center>'''46'''<center>||[[Indiana Republican primary, 2012|Convention]]||<center>16<center>||<center>0<center>||Caucus <small>(AL)</small>||||||||||<center>16<center>
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|Jun. 1–10}}||[[Nebraska]]||<center>''3''<center>||<center>23<center>||<center>9<center>||<center>'''35'''<center>||[[Nebraska Republican primary, 2012|Caucus <small>(nonbinding)</small>]]||<center>0<center>||<center>0<center>||<small>(See July 14)</small>||||||||||
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|Jun. 10}}||''[[Pennsylvania]]''||<center>''3''<center>||<center>10<center>||<center>59<center>||<center>'''72'''<center>||[[Pennsylvania Republican primary, 2012|Meeting]]||<center>10<center>||<center>0<center>||Committee <small>(AL)</small>||||||||||<center>10<center>
+. |- style="background:#ccc;"
+| rowspan="2" style="text-align:center;"|{{dts|Jun. 16}}||''[[Iowa]]''||<center>''3''<center>||<center>13<center>||<center>12<center>||<center>'''28'''<center>||[[Iowa Republican caucuses, 2012|Convention]]||<center>25<center>||<center>0<center>||Caucus <small>(AL)</small><br/>Caucus <small>(CD)</small>||||||||||<center>25<center>
+. |- style="background:#ccc;"
+| [[Montana]]||<center>''3''<center>||<center>23<center>||<center>0<center>||<center>'''26'''<center>||[[Montana Republican caucuses, 2012|Caucus <small>(nonbinding)</small>]]<sup>[[#Notes1|g]]</sup>||<center>23<center>||<center>0<center>||Caucus <small>(AL)</small><br/><small>(No CD Allocation)</small>||||||||||<center>23<center>
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|Jun. 26}}||[[Utah]]||<center>''0''<center>||<center>40<center>||<center>0<center>||<center>'''40'''<center>||[[Utah Republican primary, 2012|Primary <small>(semi-closed)</small>]]||<center>0<center>||<center>40<center>||Winner-take-all <small>(AL)</small><br/><small>(No CD allocation)</small>||||||||||<center>40<center>
+. |- style="background:#ccc;"
+| style="text-align:center;"|{{dts|Jul. 14}}||''[[Nebraska]]''||<center>''3''<center>||<center>23<center>||<center>9<center>||<center>'''35'''<center>||[[Nebraska Republican primary, 2012|Convention]]||<center>0<center>||<center>32<center>||Caucus <small>(AL)</small><br>Caucus <small>(CD)</small> ||||||||||<center>32<center>
+|} . 
+
+<div id="Notes1"></div>
+'''Notes'''
+<small>
+:<sup>#</sup> The state is penalized for breaking RNC schedule guidelines. The penalty cuts the delegation number in half and removes voting privileges from the party leader delegates. <br />
+:<sup>a</sup> The state, district or territory convention can vote to bind its delegates. 
+:<sup>b</sup> Delegates are morally but not legally bound to a candidate. 
+:<sup>c</sup> If any candidate receives more than 50% of the votes it becomes a Winner-take-all contest. 
+:<sup>d</sup> '''Wyoming''' has only one congressional district, but the 12 CD delegates are elected in the 23 counties that are paired together. 
+:<sup>e</sup> Delegates from the '''Virgin Islands''' are legally bound if they are elected as pledged to a candidate. 
+:<sup>f</sup> '''Louisiana''' allocated 15 bound delegates in their March 24 primary election and starts the process of allocation the 28 unbound delegates with their April 28 district caucuses. <br>The state delegation have a total of 46 delegates that are split in two rows. (1.Primary and 3 RNC (18) 2.Caucuses (28))    
+:<sup>g</sup> '''Montana''''s caucus is its convention. The delegates to this caucus are selected by the counties' central committees at least 10 days before the date of state convention. </small> . 
+
+==See also==. 
+*[[Endorsements for the Republican Party presidential primaries, 2012]]
+*[[Nationwide opinion polling for the Republican Party 2012 presidential primaries]]
+*[[Statewide opinion polling for the Republican Party presidential primaries, 2012]]
+*[[Straw polls for the Republican Party presidential primaries, 2012]]
+*[[United States presidential election]]
+*[[Democratic Party presidential primaries, 2012]]
+*[[United States third party and independent presidential candidates, 2012]] . 
+
+==References==. 
+{{Reflist|3}} . 
+
+==External links==. 
+*[http://www.usatoday.com/news/politics/index/ USA Today: Election results District by District. (Source AP)]
+*{{NYTtopic|subjects/p/primaries|Primaries}}
+*[http://www.washingtonpost.com/wp-srv/special/politics/primary-tracker/ Republican Primary Tracker] from ''[[The Washington Post]]''
+*[http://projects.wsj.com/campaign2012/delegates/ Republican Primary Tracker] from ''[[The Wall Street Journal]]''
+*[http://projects.wsj.com/campaign2012/polls?mod=wsj_elections_2012_nav#cand=Romney&race=2&region=US&src=rcpo Republican Primary 17-poll average] from ''[[The Wall Street Journal]]''
+*[http://www.cnn.com/election/2012/primaries/scorecard/statebystate/r CNN State-by-state scorecard]: Complete state results and national totals for the 2012 Republican race
+*[http://www.2012presidentialelectionnews.com/ 2012 Election Central] Analysis and news of debates and voting
+*[http://www.thegreenpapers.com/P12/MD-R Maryland Green Papers]; [http://www.thegreenpapers.com/P12/DC-R Washington DC Green Papers]; [http://www.thegreenpapers.com/P12/WI-R Wisconsin Green Papers]. 
+*[http://www.thegreenpapers.com/ The Green Papers]: Complete descriptions of delegate allocation
+*[http://www.thegreenpapers.com/P12/events.phtml?s=c&f=m The Green Papers]: Major state elections in chronological order
+*[http://www.cnn.com/ELECTION/2012/primaries.html America's Choice 2012: 2012 Primaries and caucuses results] from [[CNN]]
+{{U.S. presidential primaries}}
+{{United States presidential election, 2012}}
+{{2012 Republican primaries}}
+{{DEFAULTSORT:Republican Party (United States) Presidential Primaries, 2012}}
+[[Category:Article Feedback 5 Additional Articles]]
+[[Category:Campaigns in the United States presidential election, 2012| campaigns]]
+[[Category:Republican Party (United States) presidential primaries]]
+[[Category:United States presidential election, 2012]]
+[[Category:United States Republican presidential primaries, 2012| ]]

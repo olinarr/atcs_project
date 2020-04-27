@@ -1,0 +1,103 @@
+{{Infobox U.S. legislation 
+| titlename=Federal Funding Accountability and Transparency Act of 2006
+| fullname=A bill to require full disclosure of all entities and organizations receiving Federal funds. 
+| acronym=Federal Funding Accountability and Transparency Act of 2006
+| enactedby=[[109th Congress]]
+| effectivedate=
+| publ_url=http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_cong_public_laws&docid=f:publ282.109
+| cite_publ=109-282
+| cite_stat=120 Stat. 1186 (2006)
+| actsamended=
+| titleamended=
+| sectionscreated=
+| sectionsamended=
+| leghisturl=http://www.congress.gov/cgi-bin/bdquery/z?d109:SN02590:@@@X
+| introducedin=[[United States Senate]]
+| introducedbill=S. 2590
+| introducedby=[[Tom Coburn]], [[Barack Obama]], [[Thomas R. Carper|Tom Carper]], and [[John McCain]] <ref name=s2590introduced>{{cite web | url = http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=2006_record&page=S3239&position=all: | title = Congressional Record Senate April 6, 2006 S3239}}</ref>
+| introduceddate=April 6, 2006
+| committees=[[Committee on Homeland Security and Governmental Affairs]]; [[Subcommittee on Federal Financial Management, Government Information, and International Security]]
+| passedbody1=[[United States Senate|Senate]]
+| passeddate1=September 7, 2006
+| passedvote1=Unanimously approved
+| passedbody2=[[United States House of Representatives|House]]
+| passeddate2=September 13, 2006
+| passedvote2=Passed by voice vote
+| signedpresident=[[George W. Bush|Bush]]
+| signeddate=September 26, 2006
+| amendments=}} . 
+
+The '''Federal Funding Accountability and Transparency Act of 2006''' (S. 2590)<ref name=s2590summary>{{cite web | url = http://www.congress.gov/cgi-bin/bdquery/z?d109:S.2590: | title = Federal Funding Accountability and Transparency Act of 2006 (S. 2590) Summary | publisher = THOMAS.gov | accessdate = August 29, 2006 }}</ref> is an [[Act of Congress]] that requires the full disclosure to the public of all entities or organizations receiving federal funds beginning in [[fiscal year]] (FY) 2007. The website [http://www.usaspending.gov USAspending.gov] opened in December 2007 as a result of the act, and is maintained by the [[Office of Management and Budget]]. The [[Congressional Budget Office]] estimates S. 2590 will cost $15 million over its authorized time period of 2007–2011. <ref>{{cite web | url=http://www.cbo.gov/showdoc.cfm?index=7483&sequence=0 | title=Congressional Budget Office Cost Estimate S.2590 (August 9, 2006) | publisher = [http://www.cbo.gov Congressional Budget Office] | accessdate = September 1, 2006 }}</ref> . 
+
+The bill was introduced by Senator [[Tom Coburn]], for himself and Senators [[Barack Obama]], [[Thomas R. Carper|Tom Carper]] and [[John McCain]] on April 6, 2006. <ref name=s2590introduced>{{cite web | url = http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=2006_record&page=S3239&position=all: | title = Congressional Record Senate April 9, 2006 S3239}}</ref> After two "[[secret hold]]s" placed by Senators [[Ted Stevens]], a [[United States Republican Party|Republican]], and [[Robert Byrd]], a [[U.S. Democratic Party|Democrat]] were revealed and removed<ref name=cnn0830>{{cite web | url=http://www.cnn.com/2006/POLITICS/08/30/secret.senators/ | title=Sen. Stevens is 'the secret senator' | publisher=[[CNN]] | accessdate=August 30, 2006 }}</ref><ref name=byrdhold>{{cite web | title = Byrd Admits He Placed A Hold, Now Lifts It | url=http://www.palmbeachpost.com/blogs/content/shared-blogs/washington/washington/entries/2006/08/31/byrd_admits_he.html | author=Rebecca Carr | publisher = Palm Beach Post | accessdate=August 31, 2006 }}</ref>, it was passed unanimously in the Senate on September 7, 2006 and by the House on September 13, 2006. The bill was signed into law by [[President of the United States|President]] [[George W. Bush]] on September 26, 2006. <ref>[http://georgewbush-whitehouse.archives.gov/news/releases/2006/09/20060926.html President Bush Signs Federal Funding Accountability and Transparency Act] ''The White House'', September 26, 2006</ref>     . 
+
+On June 3, 2008, Senator Obama, along with Senators Carper, Coburn and McCain, introduced follow-up legislation: [[Strengthening Transparency and Accountability in Federal Spending Act of 2008]]. <ref>[http://www.govtrack.us/congress/bill.xpd?bill=s110-3077 S. 3077: Strengthening Transparency and Accountability in Federal Spending Act of 2008] ''Govtrack.us'', 2007-2008 (110th Congress)</ref> . 
+
+==Description==. 
+The bill states in part:<ref name=bill>{{cite web | url = http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_cong_bills&docid=f:s2590rs.txt.pdf | title = Federal Funding Accountability and Transparency Act of 2006 (S. 2590) Text | publisher = GPO | accessdate = August 32, 2006 |format=PDF}}</ref> . 
+
+:''Not later than January 1, 2008, the Office of Management and Budget shall, in accordance with this section, section 204 of the E-Government Act of 2002 (Public Law 107-347; 44 U.S.C. 3501 note), and the Office of Federal Procurement Policy Act (41 U.S.C. 403 et seq.), ensure the existence and operation of a single searchable website, accessible by the public at no cost to access, that includes for each [[Federal award]]-- . 
+
+::''(A) the name of the entity receiving the award;''
+::(''B) the amount of the award;''
+::(''C) information on the award including transaction type, funding agency, the North American Industry Classification System code or [[Catalog of Federal Domestic Assistance]] number (where applicable), program source, and an award title descriptive of the purpose of each funding action;''
+::''(D) the location of the entity receiving the award and the primary location of performance under the award, including the city, State, congressional district, and country;''
+::(''E) a unique identifier of the entity receiving the award and of the parent entity of the recipient, should the entity be owned by another entity; and''
+::''(F) any other relevant information specified by the Office of Management and Budget.'' . 
+
+==Sponsors in the Senate==. 
+In addition to Coburn, Obama, and McCain, there were 43 other Senators who co-sponsored this bill:<ref name=bill/> [[Lamar Alexander]], [[George Allen (U.S. politician)|George Allen]], [[Max Baucus]], [[Evan Bayh]], [[Jeff Bingaman]], [[Barbara Boxer]], [[Sam Brownback]], [[Richard Burr]], [[Maria Cantwell]], [[Saxby Chambliss]], [[Hillary Clinton]], [[Norm Coleman]], [[Susan Collins]], [[John Cornyn]], [[Larry Craig]], [[Jim DeMint]], [[Mike DeWine]], [[Chris Dodd]], [[Elizabeth Dole]], [[Dick Durbin]], [[Mike Enzi]], [[Russ Feingold]], [[Bill Frist]], [[Chuck Grassley]], [[Chuck Hagel]], [[Johnny Isakson]], [[John Kerry]], [[Jon Kyl]], [[Mary Landrieu]], [[Joe Lieberman]], [[Mitch McConnell]], [[Bob Menendez]], [[Bill Nelson (politician)|Bill Nelson]], [[Harry Reid]], [[Ken Salazar]], [[Rick Santorum]], [[Jeff Sessions]], [[Olympia Snowe]], [[John E. Sununu|John Sununu]], [[Jim Talent]], [[Craig L. Thomas|Craig Thomas]], [[John Thune]], [[David Vitter]], and [[George Voinovich]].  . 
+
+==Legislative history==. 
+[[Image:George Bush signs the Federal Funding Accountability and Transparency Act of 2006.jpg|thumb|250px|President [[George W. Bush]] signing the Federal Funding Accountability and Transparency Act of 2006 in the [[Old Executive Office Building|Eisenhower Executive Office Building]] on September 26, 2006.]]
+The act had strong bipartisan support at every stage in the legislative process. <ref name=CRSreport>{{cite journal
+|title=The Federal Funding Accountability and Transparency Act: Implementation and Proposed Amendments
+|first=Garrett L. 
+|last=Hatch
+|date=October 22, 2008
+|publisher=[[Congressional Research Service]]}}
+Order Code RL34718</ref> . 
+
+===Senate===. 
+S. 2590 was introduced in the Senate on April 6, 2006 and then sent to the [[Committee on Homeland Security and Governmental Affairs]] [[United States Senate Homeland Security and Governmental Affairs Subcommittee on Federal Financial Management, Government Information and International Security|Subcommittee on Federal Financial Management, Government Information, and International Security]].  Hearings were held in the subcommittee on July 18, 2006 and S. 2590 was then sent to the full committee.  In the full committee hearings were held and an amendment was added on July 27, 2006.  On August 2, 2006 S. 2590 was placed on legislative calendar 576. <ref name=s2590actions>{{cite web | url = http://www.congress.gov/cgi-bin/bdquery/z?d109:SN02590:@@@X | title = All Congressional Action on S. 2590 | publisher = THOMAS.gov | accessdate = August 29, 2006 }}</ref>  Senate [[Majority Leader]] [[Bill Frist]] announced on August 31, 2006 that he would be bringing S. 2590 to a vote in the Senate sometime in September 2006 despite any holds on the bill. <ref>{{cite web | url = http://www.volpac.org/index.cfm?FuseAction=Blogs.View&Blog_id=438 | title = Now is the Time to Act on S. 2590 | author = Bill Frist, M.D. | publisher = Volunteer Political Action Committee (VOLPAC) | accessdate = September 1, 2006 }}</ref>  On September 7, 2006 S. 2590 passed by [[unanimous consent]]<ref name=CRSreport/> in the Senate. <ref>{{cite web | url = http://volpac.org/index.cfm?FuseAction=Blogs.View&Blog_id=451 | title = A Triumph for Transparency in Government | author = Bill Frist, M.D. | publisher = Volunteer Political Action Committee (VOLPAC) | accessdate = September 7, 2006 }}</ref>  For their bipartisan efforts in drafting the legislation and shepherding it into law, the lead staffers for Senators Coburn and Obama were recognized by The Hill newspaper as being among the top staffers on Capitol Hill. <ref>{{cite web | url = http://thehill.com/leading-the-news/stellar-staffers-in-a-dark-and-dismal-year-2006-12-05.html | title = Stellar staffers in a dark and dismal year | author = Jonathan E. Kaplan | publisher = The Hill | accessdate = June 30, 2009 }}</ref> . 
+
+===House===. 
+S. 2590 introduced in the House on September 8, 2006. It was agreed upon and passed by [[voice vote]]<ref name=CRSreport/> five days later and S.Con.Res. 114 was agreed to and passed by both the House and the Senate on the same day. <ref name=s2590summary/><ref name=sconres114summary>{{cite web | url = http://www.congress.gov/cgi-bin/bdquery/z?d109:SC00114:@@@X | title = Senate Concurrent Resolution 114 Summary | publisher = THOMAS.gov | accessdate = September 14, 2006 }}</ref> . 
+
+==="Secret hold"===. 
+Some time after August 2, 2006, Senators [[Ted Stevens]], a [[United States Republican Party|Republican]], and [[Robert Byrd]], a [[U.S. Democratic Party|Democrat]], placed "secret holds" on S. 2590. <ref name=cnn0830/><ref name=byrdhold/> Under [[Standing Rules of the United States Senate|Senate Rules]], this prevents a vote on this act or its amendments without disclosure of the Senator requesting it. On August 17, 2006, Coburn identified Stevens as "the only senator blocking [the Bill]" at a [[Town hall meeting]] in [[Oklahoma]],<ref>{{cite web | url=http://www.swtimes.com/articles/2006/08/18/week_in_review/news/friday/news04.txt | title=Coburn Critical Of Colleagues | author=Dug Begley | publisher = ''Times Record'' of [[Fort Smith, Arkansas]] | accessdate=August 30, 2006 }}</ref> but this did not become widely known for nearly two weeks.  . 
+
+Prompted by political [[blogs]], various individuals contacted their Senators to determine if they placed the "secret hold" on S. 2590. <ref name=tpmtally>{{cite web | url = http://tpmmuckraker.com/secret_hold.php | title = TPMmuckraker's "Secret Hold" Tally | publisher = TPMmuckraker.com | accessdate = August 29, 2006 }}</ref><ref name=muckracker>{{cite web | url = http://www.tpmmuckraker.com/archives/001428.php | title = Blogosphere Unites in Pursuit of Masked Senator | publisher = TPMmuckraker.com | author = Paul Kiel | accessdate = August 29, 2006 }}</ref><ref name=porkbusters>{{cite web | url = http://porkbusters.org/secrethold.php | title = Who is the Secret Holder? | publisher = porkbusters.org | accessdate = August 29, 2006 }}</ref>  The effort was an unusual example of bipartisan collaboration on the internet with the right-leaning blogs [[Porkbusters]] and [http://gopprogress.com GOPProgress]<ref>{{cite web | url = http://www.gopprogress.com/story/2006/8/25/9753/25337| title = We need S. 2590. So won't the secret holder please stand up? | publisher = GOPProgress | author = Liz Mair | accessdate = September 7, 2006 }}</ref> actively working with left-leaning [http://tpmmuckraker.com TPMmuckraker]. On August 30, 2006, after he had been identified as the only suspect by [[Porkbusters]] and one of two suspects by [[TPMmuckraker]], a spokesman for Stevens confirmed that he placed a hold. <ref name=cnn0830/>  The following day, Senator Byrd (TPMmuckraker's other suspect) also admitted to placing a hold stating that he had wanted to have more time to look at the legislation; he had lifted the hold by the time of the announcement. <ref name=byrdhold/> Stevens subsequently lifted his hold.  . 
+
+===Presidential action===. 
+President [[George W. Bush]] signed the bill into law on September 26, 2006. <ref name=s2590actions/>  In attendance at the signing were Sen. [[Susan Collins]], R-[[Maine|ME]], Chairwoman of the Homeland Security and Governmental Affairs Committee,  [[House Majority Whip]] [[Roy Blunt]] R-[[Missouri|MO]]-7, Sen. Barack Obama, D-[[Illinois|IL.]], Sen. [[Tom Carper]], D-[[Delaware|DE]]., Rep. [[Jeb Hensarling]] R-[[Texas|TX]]-5., and Rep. [[Henry Waxman]] D-[[California|CA]]-30. <ref>{{cite web | url = http://timchapmanblog.com/2006/09/26/bush-signs-transparency-bill/ | title = Bush signs transparency bill | publisher = TimChapmanBlog | accessdate = September 26, 2006 }}</ref> . 
+
+==Sister bill in the House==. 
+H.R. 5060, an amendment to the Federal Financial Assistance Management Improvement Act of 1999, was passed by the [[United States House of Representatives|House of Representatives]] on June 21, 2006 and sent to the Senate. H.R. 5060 can be considered a sister bill to S. 2590, but it is weaker than S. 2590 because it only considers federal grants. <ref name=hr5060summary>{{cite web | url = http://thomas.loc.gov/cgi-bin/bdquery/z?d109:H.R.5060: | title = Amendment to the Federal Financial Assistance Management Improvement Act of 1999 Summary | publisher = THOMAS.gov | accessdate = August 29, 2006 }}</ref>  This bill died when S. 2590 was passed by the House and S.Con.Res. 114 was passed by the House and Senate because S. 2590 considers a superset of the actions of H.R. 5060.  . 
+
+==Implementation==. 
+The legislation delegated responsibility for creating the website to the [[Office of Management and Budget]]. Around the time of the Act's passage, [[OMB Watch]], a government [[watchdog group]], was developing a site that would do essentially everything the legislation required. <ref name="wapo_on_omb">{{cite web| title =OMB Offers an Easy Way to Follow the Money| publisher= [[The Washington Post]]|date=December 13, 2007| url=http://www.washingtonpost.com/wp-dyn/content/article/2007/12/12/AR2007121202701.html?nav=rss_politics/fedpage| author=Elizabeth Williamson |accessdate=2008-01-21}}</ref>
+[[Gary Bass]], director of [[OMB Watch]], contacted [[Robert Shea]], associate director of the [[Office of Management and Budget|OMB]], offering to help with development of the new site. Shea was initially reluctant to collaborate with Bass, in part because [[OMB Watch]] is typically critical of the OMB, but eventually it was determined that the government site would be based on what OMB Watch was developing, with the group being paid $600,000 for their technology. <ref name="wapo_on_omb" />  As of early 2008, the government's site, [http://www.usaspending.gov USASpending.gov], offers the same data, API, and (for the most part) documentation as the OMB Watch site, [http://www.fedspending.org fedspending.org].  . 
+
+It has been reported that the [[2011 United States federal budget]] holds a substantial reduction in funding for the [[Electronic Government Fund]], from which USASpending.gov draws its funding. <ref name=wp20110414>{{cite web
+ |url=http://www.washingtonpost.com/blogs/federal-eye/post/budget-could-close-the-door-on-open-government/2011/04/13/AFttdXbD_blog.html?wpisrc=nl_fedinsider
+ |title=Budget could close the door on open government |author=Ed O'Keefe |date=14 April 2011 |work=Federal Eye
+ |publisher=Washington Post |format=blog posting |accessdate=16 April 2011 }}</ref> . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+*[http://www.usaspending.gov/ USASpending.gov] '''official government spending database'''
+*[http://thomas.loc.gov/cgi-bin/query/z?c109:s2590: THOMAS – all versions of Bill Number S.2590]
+**[http://www.congress.gov/cgi-bin/bdquery/z?d109:S.2590: THOMAS – Senate Bill 2590] bill with text, sponsors and CBO cost estimates
+*[http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_cong_public_laws&docid=f:publ282.109.pdf Text of Public Law 109-282, the Federal Funding Accountability and Transparency Act of 2006]
+*[http://www.washingtonwatch.com/bills/show/200500584.html WashingtonWatch.com – P.L. 109-282, The Federal Funding Accountability and Transparency Act of 2006] information on the bill, including estimated cost per person
+*[http://www.tpmmuckraker.com/archives/001435.php The Scoop on "Secret Holds": No Rules Apply] by [[Justin Rood]], ''TPMuckraker'', August 29, 2006
+*[http://hobnobblog.com/2006/10/the_googlelike_pork_thing_on_t.php "The Google-Like Pork Thing on the Internets"], October 2006
+*[http://politicalticker.blogs.cnn.com/2008/09/18/palins-transparency-proposal-already-exists-in-dc/ Palin's transparency proposal already exists] . 
+
+[[Category:Works by Barack Obama]]
+[[Category:2006 in law]]
+[[Category:United States proposed federal legislation]]
+[[Category:109th United States Congress]]

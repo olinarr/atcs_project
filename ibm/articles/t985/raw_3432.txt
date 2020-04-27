@@ -1,0 +1,287 @@
+{{Capitalism}}
+Throughout [[modern history]], a variety of influential '''perspectives on capitalism''' have shaped modern [[economic]] thought.{{Citation needed|date=February 2012}} . 
+
+==Overview==. 
+[[Adam Smith]] was one of the first influential writers on the topic, with his book ''[[The Wealth of Nations]]'', which is generally considered to be the start of [[classical economics]] which emerged in the 18th century. To the contrary, [[Karl Marx]] considered [[capitalism]] to be a historically specific [[mode of production]] and considered capitalism a phase of economic development that would pass and be replaced by [[pure communism]]. In conjunction with his criticism of capitalism was Marx's belief that exploited labor would be the driving force behind a revolution to a socialist-style economy. <ref name="ReferenceA">Wheen, Francis ''Books That Shook the World: Marx's Das Kapital''1st ed. London: Atlantic Books, 2006</ref> For Marx, this cycle of the extraction of the surplus value by the owners of capital or the bourgeoisie becomes the basis of [[class struggle]]. This argument is intertwined with Marx's version of the [[labor theory of value]] asserting that labor is the source of all value, and thus of profit. Max Weber considered [[market]] [[trade|exchange]], rather than production, as the defining feature of capitalism; capitalist enterprises, in contrast to their counterparts in prior modes of economic activity, was their rationalization of production, directed toward maximizing [[Economic efficiency|efficiency]] and [[Productivity (economics)|productivity]]; a tendency leading to a sociological process of enveloping 'rationalization'. According to Weber, workers in pre-capitalist economic institutions understood work in terms of a personal relationship between [[Master craftsman|master]] and [[journeyman]] in a [[guild]], or between [[lord]] and [[peasant]] in a [[Manorialism|manor]].  . 
+
+Meanwhile [[Institutional economics]], once the main school of economic thought in the United States, holds that capitalism cannot be separated from the political and social system within which it is embedded. In the late 19th century, the German Historical School of economics diverged, with the emerging [[Austrian School]] of economics, led at the time by [[Carl Menger]]. Later generations of followers of the Austrian School continued to be influential in Western economic thought through much of the 20th century. The Austrian economist [[Joseph Schumpeter]], a forerunner of the Austrian School of economics, emphasized the "[[creative destruction]]" of capitalism—the fact that market economies undergo constant change. The Austrian economists [[Ludwig von Mises]] and [[Friedrich Hayek]] were among the leading defenders of [[market economy]] against 20th century proponents of socialist [[planned economies]]. Among Mises's arguments were the [[economic calculation problem]]. It was first proposed by [[Ludwig von Mises]] in 1920 and later expounded by [[Friedrich Hayek]]. <ref name="Mises">{{cite book|title= Economic calculation in the Socialist Commonwealth|accessdate=2008-09-08|last= Von Mises|first= Ludwig |authorlink= Ludwig von Mises|year= 1990|format= pdf|publisher= [[Ludwig von Mises Institute]]|url= http://mises.org/pdf/econcalc.pdf}}</ref><ref name="A. Hayek, 1935 pp. 1-40">F. A. Hayek, (1935), "The Nature and History of the Problem" and "The Present State of the Debate," om in F. A. Hayek, ed. ''Collectivist Economic Planning'', pp. 1-40, 201-43. </ref> The problem referred to is that of how to distribute resources [[Rational choice theory|rationally]] in an economy. The [[free market]] solution is the [[price mechanism]], wherein people individually have the ability to decide how a good or service should be distributed based on their willingness to give money for it. Mises and Hayek argued that only market capitalism could manage a complex, modern economy.  . 
+
+Partially opposed to that view the British economist [[John Maynard Keynes]] argued in his 1937 ''[[The General Theory of Employment, Interest, and Money]]'' that capitalism suffered a basic problem in its ability to recover from periods of slowdowns in investment. Keynes argued that a capitalist economy could remain in an indefinite [[economic equilibrium|equilibrium]] despite high [[unemployment]]. John Maynard Keynes tried to provide solutions to many of Marx’s problems without completely abandoning the classical understanding of capitalism. His work attempted to show that [[regulation]] can be effective, and that economic stabilizers can rein in the aggressive expansions and [[recessions]] that Marx disliked. These changes sought to create more stability in the [[business cycle]], and reduce the abuses of [[laborers]]. Keynesian economists argue that Keynesian policies were one of the primary reasons capitalism was able to recover following the [[Great Depression]]. <ref name="Erhardt III 2008">Erhardt III, Erwin. "History of Economic Development." University of Cincinnati. Lindner Center Auditorium, Cincinnati. 7 Nov. 2008. </ref> [[Supply-side economics]] developed during the 1970s in response to [[Keynesian]] economic policy, and in particular the failure of [[demand management]] to [[stabilization policy|stabilize]] Western economies during the [[stagflation]] of the 1970s, in the wake of the [[1973 oil crisis|oil crisis in 1973]]. <ref name="case_780">Case, Karl E. & Fair, Ray C. (1999). ''Principles of Economics'' (5th ed.), p. 780. Prentice-Hall. ISBN 0-13-961905-4. </ref> It drew on a range of non-Keynesian economic thought, particularly [[Austrian economics|Austrian school]] thinking on [[entrepreneurship]] and [[new classical macroeconomics]]. The intellectual roots of supply-side economics have also been traced back to various early economic thinkers such as [[Ibn Khaldun]], [[Jonathan Swift]], [[David Hume]], [[Adam Smith]] and [[Alexander Hamilton]]. <ref>{{Cite journal|first=Bruce|last=Bartlett|title=Supply-Side Economics: "Voodoo Economics" or Lasting Contribution?|journal=Laffer Associates|issue=November 11, 2003|url=http://web.uconn.edu/cunningham/econ309/lafferpdf.pdf|format=PDF|accessdate=2008-11-17}}</ref> Typical policy recommendations of supply-side economics are lower [[marginal tax rate]]s and less regulation. <ref name="Wanniski 1978">{{cite book |title=The Way the World Works: How Economies Fail—and Succeed |last=Wanniski |first=Jude |authorlink= |year=1978 |publisher=Basic Books |location=New York |isbn=0465090958 |pages= |url= }}</ref> Maximum benefits from taxation policy are achieved by optimizing the marginal tax rates to spur growth, although it is a common misunderstanding that supply side economics is concerned only with [[taxation]] policy when it is about removing barriers to production more generally. <ref name="Brownlee">{{cite book |chapter=Fiscal policy in the Reagan administration |title=The macroeconomics of fiscal policy |last=Brownlee |first=E. |authorlink= |editor=Kopcke, E.; Tootell, G. M. B.; Triest, R. K. |year=2006 |publisher=MIT Press |location=Cambridge, MA |isbn=0262112957 |pages=117–204 |url= }}</ref> . 
+
+Today, the majority academic research on capitalism in the [[English-speaking world]] draws on [[neoclassical economics|neoclassical economic thought]]. It favors extensive market coordination and relatively neutral patterns of governmental market regulation aimed at maintaining property rights; deregulated [[labor market]]s; corporate governance dominated by financial owners of firms; and financial systems depending chiefly on [[capital market]]-based financing rather than state financing. [[Milton Friedman]] took many of the basic principles set forth by Adam Smith and the classical economists and gave them a new twist. One example of this is his article in the September 1970 issue of ''The New York Times'' Magazine, where he claims that the social responsibility of business is “to use its resources and engage in activities designed to increase its profits…(through) open and free competition without deception or fraud.” This is similar to Smith’s argument that self-interest in turn benefits the whole of society. <ref name="Friedman, Milton 1970">Friedman, Milton. "The Social Responsibility of Business is to Increase its Profits." The New York Times Magazine 13 Sep. 1970. </ref> Work like this helped lay the foundations for the coming [[marketization]] (or [[privatization]]) of state enterprises and the [[supply-side economics]] of [[Ronald Reagan]] and [[Margaret Thatcher]]. The [[Chicago school (economics)|Chicago School of economics]] is best known for its free market advocacy and [[monetarist]] ideas. According to Friedman and other monetarists, market economies are inherently stable [[laissez-faire|if left to themselves]] and depressions result only from government intervention. <ref name="Felderer, Bernhard">{{Cite book|title=Macroeconomics and New Macroeconomics|author=Felderer, Bernhard}}</ref> . 
+
+==Classical political economy==. 
+{{economics sidebar}}
+{{Main|Classical economics|Classical liberalism}} . 
+
+[[File:AdamSmith.jpg|thumb|180px|left|[[Adam Smith]]]] . 
+
+The [[classical economics|classical school of economic thought]] emerged in Britain in the late 18th century. The classical political economists [[Adam Smith]], [[David Ricardo]], [[Jean-Baptiste Say]], and [[John Stuart Mill]] published analyses of the production, distribution and exchange of goods in a [[market]] that have since formed the basis of study for most contemporary economists.  . 
+
+In France, 'Physiocrats' like [[François Quesnay]] promoted [[free trade]] based on a conception that wealth originated from land. Quesnay's ''Tableau Économique'' (1759), described the economy analytically and laid the foundation of the Physiocrats' economic theory, followed by [[Anne Robert Jacques Turgot]] who opposed tariffs and [[customs duties]] and advocated [[free trade]]. [[Richard Cantillon]] defined long-run equilibrium as the balance of flows of income, and argued that the [[supply and demand]] mechanism around land influenced short-term prices.  . 
+
+Smith's attack on [[mercantilism]] and his reasoning for "the system of natural liberty" in ''[[The Wealth of Nations]]'' (1776) are usually taken as the beginning of classical political economy. Smith devised a set of concepts that remain strongly associated with capitalism today, particularly his theory of the "[[invisible hand]]" of the market, through which the pursuit of individual self-interest unintentionally produces a collective good for society. It was necessary for Smith to be so forceful in his argument in favor of free markets because he had to overcome the popular mercantilist sentiment of the time period. <ref>Degen, Robert. ''The Triumph of Capitalism''. 1st ed. New Brunswick, NJ: Transaction Publishers, 2008. </ref> . 
+
+{{quote|Among civilized and thriving nations, on the contrary, though a great number of people do no labor at all, many of whom consume the produce of ten times, frequently of a hundred times more labour than the greater part of those who work; yet the produce of the whole labour of the society is so great,that all are often abundantly supplied, and a workman, even of the lowest and poorest order,if he is frugal and industrious, may enjoy a greater share of the necessaries and conveniencies of life than it is possible for any savage to acquire. - Adam Smith ; Wealth of Nations}} . 
+
+He criticized monopolies, tariffs, duties, and other state enforced restrictions of his time and believed that the market is the most fair and efficient arbitrator of resources. This view was shared by [[David Ricardo]], second most important of the classical political economists and one of the most influential economists of modern times. <ref>{{Cite book|author=Hunt, E.K.|title=History of Economic Thought: A Critical Perspective|publisher=M.E. Sharpe|year=2002|pages=92}}</ref> . 
+
+In ''The Principles of Political Economy and Taxation'' (1817), he developed the law of [[comparative advantage]], which explains why it is profitable for two parties to trade, even if one of the trading partners is more efficient in every type of economic production. This principle supports the economic case for [[free trade]]. Ricardo was a supporter of [[Say's Law]] and held the view that full employment is the normal equilibrium for a competitive economy. <ref>{{Cite book|title=Blackwell Encyclopedia of Political Thought|publisher=Blackwell Publishing|year=1991|pages=91}}</ref> He also argued that [[inflation]] is closely related to changes in quantity of money and [[Credit (finance)|credit]] and was a proponent of the law of [[diminishing returns]], which states that each additional unit of input yields less and less additional output. <ref name="Skousen2001">{{Cite book|author=Skousen, Mark|title=The Making of Modern Economics: The Lives and Ideas of the Great Thinkers|publisher=M.E. Sharpe|year=2001|pages=98–102, 134}}</ref> . 
+
+The values of classical political economy are strongly associated with the [[classical liberalism|classical liberal]] doctrine of minimal government intervention in the economy, though it does not necessarily oppose the state's provision of a few basic [[public goods]]. <ref name="aaron2003">Eric Aaron, ''What's Right?'' (Dural, Australia: Rosenberg Publishing, 2003), 75. </ref> Classical liberal thought has generally assumed a clear division between the economy and other realms of social activity, such as the state. <ref>{{Cite book|title=Capitalism: Dictionary of the Social Sciences|author=Calhoun, Craig|publisher=Oxford University Press|year=2002}}</ref> . 
+
+While economic liberalism favors markets unfettered by the government, it maintains that the state has a legitimate role in providing [[public good]]s. <ref name = "econlib"/> For instance, Adam Smith argued that the state has a role in providing roads, canals, schools and bridges that cannot be efficiently implemented by private entities. However, he preferred that these goods should be paid proportionally to their consumption (e.g. putting a [[Toll road|toll]]). In addition, he advocated [[Free trade area|retaliatory tariffs]] to bring about free trade, and [[copyright]]s and [[patent]]s to encourage innovation. <ref name=econlib>{{Cite web|title=Adam Smith|publisher=econlib.org|url=http://www.econlib.org/library/Enc/bios/Smith.html}}</ref> . 
+
+==Marxist political economy==. 
+{{Main|Marxian economics}}
+{{See also|Socialism|Communism}}
+{{Marxism}}
+[[Karl Marx]] considered capitalism to be a historically specific [[mode of production]] (the way in which the productive property is owned and controlled, combined with the corresponding [[social relations of production|social relations]] between individuals based on their connection with the process of production) in which capitalism has become the dominant mode of production. <ref name="Burnham">{{Cite book|author=Burnham, Peter|title=Capitalism: The Concise Oxford Dictionary of Politics|publisher=Oxford University Press|year=2003}}</ref> . 
+
+The capitalist stage of development or "[[bourgeois]] society," for Marx, represented the most advanced form of social organization to date, but he also thought that the working classes would come to power in a worldwide [[socialism|socialist]] or [[communism|communist]] transformation of human society as the end of the series of first aristocratic, then capitalist, and finally working class rule was reached. <ref>[[The Communist Manifesto]]</ref><ref>"To Marx, the problem of reconstituting society did not arise from some prescription, motivated by his personal predilections; it followed, as an iron-clad historical necessity – on the one hand, from the productive forces grown to powerful maturity; on the other, from the impossibility further to organize these forces according to the will of the [[law of value]]." - [[Leon Trotsky]], "Marxism in our Time", 1939 (Inevitability of Socialism), [http://wsws.org/articles/2008/nov2008/time-n01.shtml WSWS.org]</ref>
+[[File:Karl Marx.jpg|left|thumb|upright|[[Karl Marx]]]]
+Following [[Adam Smith]], Marx distinguished the [[use value]] of commodities from their [[exchange value]] in the market. [[capital (economics)|Capital]], according to Marx, is created with the purchase of commodities for the purpose of creating new commodities with an exchange value higher than the sum of the original purchases. For Marx, the use of [[labor power]] had itself become a commodity under capitalism; the exchange value of labor power, as reflected in the wage, is less than the value it produces for the capitalist.  . 
+
+This difference in values, he argues, constitutes [[surplus value]], which the capitalists extract and accumulate. In his book ''[[Das Kapital|Capital]]'', Marx argues that the [[capitalist mode of production]] is distinguished by how the owners of capital extract this surplus from workers—all prior class societies had extracted [[surplus labor]], but capitalism was new in doing so via the sale-value of produced commodities. <ref>{{Cite web|url=http://www.marxists.org/archive/marx/works/1894-c3/ch47.htm|title=Capital. v. 3. Chapter 47: Genesis of capitalist ground rent|author=Karl Marx |accessdate=26 February 2008|publisher=Marxists }}</ref> He argues that a core requirement of a capitalist society is that a large portion of the population must not possess sources of self-sustenance that would allow them to be independent, and must instead be compelled, to survive, to sell their labor for a living wage. <ref>Karl Marx. Chapter Twenty-Five: The General Law of Capitalist Accumulation. ''[[Das Kapital]]''. </ref><ref>Dobb, Maurice 1947  ''Studies in the Development of Capitalism.''  New York: International Publishers Co., Inc. </ref><ref>David Harvey 1989 ''The Condition of Postmodernity''</ref> . 
+
+{{quote|The commodity is first of all, an external object, a thing which through its qualities satisfies human needs of whatever kind. The nature of these needs, whether they arise, for example, from the stomach, or the imagination, makes no difference. Nor does it matter here how the thing satisfies man's need, whether directly as a means of subsistence, i.e. an object of consumption, or indirectly as a means of production. - Karl Marx ; Das Kapital}} . 
+
+In conjunction with his criticism of capitalism was Marx's belief that exploited labor would be the driving force behind a revolution to a socialist-style economy. <ref name="ReferenceA"/> For Marx, this cycle of the extraction of the surplus value by the owners of capital or the bourgeoisie becomes the basis of [[class struggle]]. This argument is intertwined with Marx's version of the [[labor theory of value]] asserting that labor is the source of all value, and thus of profit.  . 
+
+{{quote|Nature builds no machines, no locomotives, railways, electric telegraphs, self-acting mules etc. These are products of human industry; natural material transformed into organs of the human will over nature, or of human participation in nature. They are organs of the human brain, created by the human hand; the power of knowledge, objectified. The development of fixed capital indicates to what degree general social knowledge has become a direct force of production, and to what degree, hence, the conditions of the process of social life itself have come under the control of the general intellect and been transformed in accordance with it. - Karl Marx}} . 
+
+[[Vladimir Lenin]], in ''[[Imperialism, the Highest Stage of Capitalism]]'' (1916), modified classic Marxist theory and argued that capitalism necessarily induced [[monopoly capitalism]]&mdash;which he also called "imperialism"&mdash;to find new markets and resources, representing the last and highest stage of capitalism. <ref>{{Cite web|url=http://www.marxists.org/archive/lenin/works/1916/imp-hsc/index.htm|title=Imperialism, the Highest Stage of Capitalism|publisher=Marxists|accessdate=26 February 2008|year=1916}}</ref> Some 20th century [[Marxian economics|Marxian economists]] consider capitalism to be a social formation where capitalist class processes dominate, but are not exclusive. <ref>See, for example, the works of Stephen Resnick and Richard Wolff. </ref> . 
+
+Capitalist class processes, to these thinkers, are simply those in which [[surplus labor]] takes the form of [[surplus value]], usable as capital; other tendencies for utilization of labor nonetheless exist simultaneously in existing societies where capitalist processes are predominant. However, other late Marxian thinkers argue that a social formation as a whole may be classed as capitalist if capitalism is the mode by which a surplus is ''extracted'', even if this surplus is not ''produced'' by capitalist activity, as when an absolute majority of the population is engaged in non-capitalist economic activity. <ref>{{Cite book|author=Ste. Croix, G. E. M. de|title=The Class Struggle in the Ancient Greek World|year=1982|pages=52–3}}</ref> . 
+
+[[David Harvey (geographer)|David Harvey]] extends Marxian thinking through which he theorizes the differential production of place, space and political activism under capitalism. He uses Marx’s theory of crisis to aid his argument that capitalism must have its “fixes” but that we cannot predetermine what fixes will be implemented, nor in what form they will be.  . 
+
+This idea of fix is suggestive and could mean fix as in stabilize, heal or solve, or as in a junky needing a fix – the idea of preventing feeling worse in order to feel better.  In ''Limits to Capital'' (1982), Harvey outlines an overdetermined, spatially restless capitalism coupled with the spatiality of crisis formation and its resolution. Furthermore, his work has been central for understanding the contractions of capital accumulation and international movements of capitalist modes of production and money flows. <ref name="Lawson, Victoria 2007">Lawson, Victoria. Making Development Geography (Human Geography in the Making). New York: A Hodder Arnold Publication, 2007. Print. </ref> . 
+
+In his essay, ''Notes towards a theory of uneven geographical development'', Harvey examines the causes of the extreme volatility in contemporary political economic fortunes across and between spaces of the world economy. He bases this uneven development on four conditionalities, being: The material embedding of capital accumulation processes in the web of socio-ecological life; accumulation by dispossession; the law-like character of capital accumulation in space and time; and, political, social and “class” struggles at a variety of geographical scales. <ref>Harvey, David. Notes towards a theory of uneven geographical development. Print. </ref> . 
+
+==Weberian political sociology==. 
+[[File:Max Weber 1917.jpg|thumb|250px|[[Max Weber]] in 1917]]
+In some [[social science]]s, the understanding of the defining characteristics of capitalism has been strongly influenced by 19th century German social theorist [[Max Weber]]. Weber considered [[market]] [[trade|exchange]], rather than production, as the defining feature of capitalism; capitalist enterprises, in contrast to their counterparts in prior modes of economic activity, was their rationalization of production, directed toward maximizing [[Economic efficiency|efficiency]] and [[Productivity (economics)|productivity]]; a tendency leading to a sociological process of enveloping 'rationalization'. According to Weber, workers in pre-capitalist economic institutions understood work in terms of a personal relationship between [[Master craftsman|master]] and [[journeyman]] in a [[guild]], or between [[lord]] and [[peasant]] in a [[Manorialism|manor]]. <ref>{{Cite web|url=http://www.humanities.mq.edu.au/Ockham/y64l10.html|title=Max Weber: On Capitalism |accessdate=26 February 2008|publisher=Macquarie University|author=Kilcullen, John|year=1996}}</ref> . 
+
+In his book ''[[The Protestant Ethic and the Spirit of Capitalism]]'' (1904–1905), Weber sought to trace how a particular form of religious spirit, infused into traditional modes of economic activity, was a condition of possibility of modern western capitalism.  For Weber, the 'spirit of capitalism' was, in general, that of ascetic Protestantism; this ideology was able to motivate extreme rationalization of daily life, a propensity to accumulate capital by a religious ethic to advance economically, and thus also the propensity to reinvest capital: this was sufficient, then, to create "self-mediating capital" as conceived by Marx.  . 
+
+This is pictured in Proverbs 22:29, “Seest thou a man diligent in his calling? He shall stand before kings” and in Colossians 3:23, "Whatever you do, do your work heartily, as for the Lord rather than for men."  In the ''Protestant Ethic'', Weber further stated that “moneymaking – provided it is done legally – is, within the modern economic order, the result and the expression of diligence in one’s calling…” . 
+
+And, "If God show you a way in which you may lawfully get more than in another way (without wrong to your soul or to any other), if you refuse this, and choose the less gainful way, you cross one of the ends of your calling, and you refuse to be God's steward, and to accept His gifts and use them for him when He requierth it: you may labour to be rich for God, though not for the flesh and sin" (p.&nbsp;108).  . 
+
+Western Capitalism, was, most generally for Weber, the "rational organization of formally free labor." The idea of the "formally free" laborer, meant, in the double sense of Marx, that the laborer was both free to own property, and free of the ability to reproduce his labor power, i.e., was the victim of expropriation of his means of production.  It is only on these conditions, still abundantly obvious in the modern world of Weber, that western capitalism is able to exist.  . 
+
+For Weber, modern western capitalism represented the order "now bound to the technical and economic conditions of machine production which to-day determine the lives of all the individuals who are born into this mechanism, not only those directly concerned with economic acquisition, with irresistible force.  Perhaps it will so determine them until the last ton of fossilized coal is burnt" (p.&nbsp;123). <ref>{{Cite web|url=http://www.economyandsociety.com/events/Ethic&SpiritCapsm_Conf_Agenda2.pdf|format=PDF|title=Conference Agenda|publisher=Economy and Society|accessdate=26 February 2008}}</ref>  This is further seen in his criticism of "specialists without spirit, [[Hedonism|hedonists]] without a heart" that were developing, in his opinion, with the fading of the original [[Puritan]] "spirit" associated with capitalism. <ref name=minerva>{{Cite journal
+ | last = Grytten
+ | first = Ola H. 
+ | title = Protestantisk etikk og entreprenørskapets ånd
+ | journal = [[Minerva (Norwegian periodical){{!}}Minerva]]
+ | year = 2010
+ | volume = 86
+ | issue = 4
+ | authorlink = Ola Honningdal Grytten
+ | page = 70
+ | trans_title =The Protestant Ethic and the Spirit of Entrepreneurship
+ | publisher = [[Conservative Students' Association (Norway){{!}}Conservative Students' Association]]
+ | location = Oslo
+ | language = Norwegian
+ | issn = 0805-7842
+ | oclc = 477895639}}</ref> . 
+
+==Institutional economics==. 
+{{Main|Institutional economics}}
+{{See also|New institutional economics}}
+[[File:Veblen3a.jpg|thumb|180px|right|[[Thorstein Veblen]]]] . 
+
+Institutional economics, once the main school of economic thought in the United States, holds that capitalism cannot be separated from the political and social system within which it is embedded. It emphasizes the legal foundations of capitalism (see [[John R. Commons]]) and the evolutionary, habituated, and volitional processes by which institutions are erected and then changed (see [[John Dewey]], [[Thorstein Veblen]], and [[Daniel Bromley]].) . 
+
+One key figure in institutional economics was [[Thorstein Veblen]] who in his book [[The Theory of the Leisure Class]] (1899) analyzed the motivations of wealthy people in capitalism who [[Conspicuous consumption|conspicuously consumed]] their riches as a way of demonstrating success. The concept of [[conspicuous consumption]] was in direct contradiction to the neoclassical view that capitalism was efficient.  . 
+
+In [[The Theory of Business Enterprise]] (1904) Veblen distinguished the motivations of industrial production for people to use things from business motivations that used, or misused, industrial infrastructure for profit, arguing that the former is often hindered because businesses pursue the latter. Output and technological advance are restricted by business practices and the creation of monopolies. Businesses protect their existing capital investments and employ excessive credit, leading to depressions and increasing military expenditure and war through business control of political power.  . 
+
+==German Historical School and Austrian School==. 
+{{Main|Historical school of economics|Austrian School}}
+From the perspective of the [[Historical school of economics|German Historical School]], capitalism is primarily identified in terms of the organization of production for [[market]]s. Although this perspective shares similar theoretical roots with that of Weber, its emphasis on markets and money lends it different focus. <ref name="Burnham"/> For followers of the German Historical School, the key shift from traditional modes of economic activity to capitalism involved the shift from medieval restrictions on credit and money to the modern [[monetary system|monetary economy]] combined with an emphasis on the profit motive.  . 
+
+[[File:MisesLibrary.jpg|thumb|left|[[Ludwig von Mises]]]] . 
+
+In the late 19th century, the German Historical School of economics diverged, with the emerging [[Austrian School]] of economics, led at the time by [[Carl Menger]]. Later generations of followers of the Austrian School continued to be influential in Western economic thought through much of the 20th century. The Austrian economist [[Joseph Schumpeter]], a forerunner of the Austrian School of economics, emphasized the "[[creative destruction]]" of capitalism—the fact that market economies undergo constant change.  . 
+
+At any moment of time, posits Schumpeter, there are rising industries and declining industries. Schumpeter, and many contemporary economists influenced by his work, argue that resources should flow from the declining to the expanding industries for an economy to grow, but they recognized that sometimes resources are slow to withdraw from the declining industries because of various forms of institutional resistance to change.  . 
+
+The Austrian economists [[Ludwig von Mises]] and [[Friedrich Hayek]] were among the leading defenders of [[market economy]] against 20th century proponents of socialist [[planned economies]]. Mises and Hayek argued that only market capitalism could manage a complex, modern economy.  . 
+
+{{quote|The effect of the people's agreeing that there must be central planning, without agreeing on the ends, will be rather as if a group of people were to commit themselves to take a journey together without agreeing where they want to go; with the result that they may all have to make a journey which most of them do not want at all. - Friedrich Hayek ; [[The Road to Serfdom]]}} . 
+
+Among their arguments were the [[economic calculation problem]]. It was first proposed by [[Ludwig von Mises]] in 1920 and later expounded by [[Friedrich Hayek]]. <ref name="Mises"/><ref name="A. Hayek, 1935 pp. 1-40"/> The problem referred to is that of how to distribute resources [[Rational choice theory|rationally]] in an economy. The [[free market]] solution is the [[price mechanism]], wherein people individually have the ability to decide how a good or service should be distributed based on their willingness to give money for it. The price conveys embedded information about the [[Supply and demand|abundance of resources as well as their desirability]] which in turn allows, on the basis of individual consensual decisions, corrections that prevent [[Economic shortage|shortages]] and [[Economic surplus|surpluses]]; Mises and Hayek argued that this is the only possible solution, and without the information provided by market prices socialism lacks a method to rationally allocate resources. [[Ludwig von Mises]] argued in a famous 1920 article "Economic Calculation in the Socialist Commonwealth" that the pricing systems in socialist economies were necessarily deficient because if government owned or controlled the [[means of production]], then no rational prices could be obtained for [[capital goods]] as they were merely internal transfers of goods in a socialist system and not "objects of exchange," unlike final goods. Therefore, they were unpriced and hence the system would be necessarily inefficient since the central planners would not know how to allocate the available resources efficiently. <ref name="Mises" /> This led him to declare "...that rational economic activity is impossible in a socialist [[commonwealth]]."<ref name="Mises" /> Mises developed his critique of socialism more completely in his 1922 book ''Socialism, an Economic and Sociological Analysis''.  . 
+
+{{quote|All rational action is economic. All economic activity is rational action. All rational action is in the first place individual action. Only the individual thinks. Only the individual reasons. Only the individual acts. - Ludwig von Mises<ref>[http://www.econlib.org/library/Mises/msS3.html#Part%20II Ch.5 Part II : The Economics of a Socialist Community : The Nature of Economic Activity, p. 97]</ref>}} . 
+
+Since a modern economy produces such a large array of distinct goods and services, and consists of such a large array of consumers and enterprises, asserted Mises and Hayek, the information problems facing any other form of economic organization other than market capitalism would exceed its capacity to handle information. Thinkers within [[Supply-side economics]] built on the work of the Austrian School, and particularly emphasize [[Say's Law]]: "supply creates its own demand." Capitalism, to this school, is defined by lack of state restraint on the decisions of producers.  . 
+
+Austrian economists claim that [[Karl Marx|Marx]] failed to make the distinction between ''capitalism'' and ''mercantilism''. <ref name="rothbard">{{Cite journal|title=A Future of Peace and Capitalism |last=Rothbard |first=Murray N. |authorlink=Murray N. Rothbard |url=http://www.mises.org/story/1559 |journal=Modern Political Economy |pages=419–430 |location=Boston |publisher=Allyn and Bacon |year=1973|quote=In fact the mercantilist system is essentially what we’ve got right now. There is very little difference between state monopoly capitalism, or corporate state capitalism, whatever you want to call it, in the United States and Western Europe today, and the mercantilist system of the pre-Industrial Revolution era. There are only two differences; one is that their major activity was commerce and ours is industry. But the essential modus operandi of the two systems is exactly the same: monopoly privilege, a complete meshing in what is now called the "partnership of government and industry," a pervasive system of militarism and war contracts, a drive toward war and imperialism; the whole shebang characterized the seventeenth and eighteenth centuries.}}</ref><ref>{{Cite journal|last=Osterfeld |first=David |title=Marxism, Capitalism and Mercantilism| journal=The Review of Austrian Eonomics |volume=5 |issue=1 |issn=0889-304 |year=1991|pages=107–114}}</ref> They argue that Marx conflated the [[imperialistic]], [[colonialistic]], [[protectionist]] and [[economic interventionism|interventionist]] doctrines of mercantilism with capitalism.  . 
+
+Austrian economics has been a major influence on some forms of [[libertarianism]], in which [[laissez-faire]] capitalism is considered to be the ideal economic system. <ref>[http://mises.org/etexts/austrian.asp What is Austrian Economics?], [[Ludwig Von Mises Institute]]. </ref> It influenced economists and [[political philosophers]] and theorists including [[Henry Hazlitt]], [[Hans-Hermann Hoppe]], [[Israel Kirzner]], [[Murray Rothbard]], [[Walter Block]] and [[Richard M. Ebeling]]. <ref>DiLorenzo, Thomas. "Frederic Bastiat (1801-1850): Between the French and Marginalist Revolutions." [http://www.mises.org/fredericbastiat.asp Mises.org]</ref><ref>[http://www.mises.org/journals/scholar/BastiatAustrian.pdf Mises.org], Thornton, Mark. "Frédéric Bastiat as an Austrian Economist."</ref> . 
+
+==Keynesian economics==. 
+{{Main|Keynesian economics}}
+{{See also|New Keynesian economics}}
+[[File:John Maynard Keynes.jpg|thumb|180px|[[John Maynard Keynes]]]] . 
+
+In his 1937 ''[[The General Theory of Employment, Interest, and Money]]'', the British economist [[John Maynard Keynes]] argued that capitalism suffered a basic problem in its ability to recover from periods of slowdowns in investment. Keynes argued that a capitalist economy could remain in an indefinite [[economic equilibrium|equilibrium]] despite high [[unemployment]].  . 
+
+Essentially rejecting [[Say's law]], he argued that some people may have a [[liquidity preference]] that would see them rather hold money than buy new goods or services, which therefore raised the prospect that the [[Great Depression]] would not end without what he termed in the ''General Theory'' "a somewhat comprehensive socialization of investment." . 
+
+Keynesian economics challenged the notion that laissez-faire capitalist economics could operate well on their own, without state intervention used to promote [[aggregate demand]], fighting high unemployment and [[Deflation (economics)|deflation]] of the sort seen during the 1930s. He and his followers recommended "[[Deficit spending|pump-priming]]" the economy to avoid [[recession]]: cutting taxes, increasing government borrowing, and spending during an economic down-turn. This was to be accompanied by trying to control wages nationally partly through the use of [[inflation]] to cut real wages and to deter people from holding money. <ref>{{Cite web|url=http://www.marxists.org/archive/mattick-paul/1969/marx-keynes/ch01.htm |title=Marx and Keynes: the limits of the mixed economy |author=Paul Mattick |accessdate=26 February 2008|publisher=Marxists }}</ref> . 
+
+{{quote|The right remedy for the trade cycle is not to be found in abolishing booms and thus keeping us permanently in a semi-slump; but in abolishing slumps and thus keeping us permanently in a quasi-boom. - [[John Maynard Keynes]] ; [[The General Theory of Employment, Interest and Money]] (1935)}} . 
+
+John Maynard Keynes tried to provide solutions to many of Marx’s problems without completely abandoning the classical understanding of capitalism.  His work attempted to show that regulation can be effective, and that economic stabilizers can rein in the aggressive expansions and recessions that Marx disliked.  These changes sought to create more stability in the business cycle, and reduce the abuses of laborers. Keynesian economists argue that Keynesian policies were one of the primary reasons capitalism was able to recover following the Great Depression. <ref name="Erhardt III 2008"/> The premises of Keynes’s work have, however, since been challenged by neoclassical and [[supply-side economics]] and the Austrian School.  . 
+
+Another challenge to Keynesian thinking came from his colleague [[Piero Sraffa]], and subsequently from the [[Neo-Ricardianism|Neo-Ricardian school]] that followed Sraffa. In Sraffa's highly technical analysis, capitalism is defined by an entire system of social relations among both producers and consumers, but with a primary emphasis on the demands of production. According to Sraffa, the tendency of capital to seek its highest [[rate of profit]] causes a dynamic instability in social and economic relations.  . 
+
+==Supply Side Economics==. 
+{{main|Supply-side economics}}
+''Supply-side economics'' is a school of [[macroeconomic]] thought that argues that economic growth can be most effectively created by lowering barriers for people to produce (supply) goods and services, such as adjusting [[income tax]] and [[capital gains tax]] rates, and by allowing greater flexibility by reducing regulation. Consumers will then benefit from a greater supply of goods and services at lower prices.  . 
+
+The term "supply-side economics" was thought, for some time, to have been coined by journalist [[Jude Wanniski]] in 1975, but according to Robert D. Atkinson's ''Supply-Side Follies'' <ref>Atkinson, Robert D. Supply-side Follies: Why Conservative Economics Fails, Liberal Economics Falters, and Innovation Economics Is the Answer. Lanham: Rowman & Littlefield, 2006. Print. </ref> [p.&nbsp;50], the term "supply side" ("supply-side fiscalists") was first used by Herbert Stein, a former economic adviser to President Nixon, in 1976, and only later that year was this term repeated by Jude Wanniski.  Its use connotes the ideas of economists [[Robert Mundell]] and [[Arthur Laffer]]. Today, supply-side economics is often conflated with the politically rhetorical term "[[trickle-down economics]]", but as Jude Wanniski points out in his book ''The Way The World Works'', trickle-down economics is conservative Keynesianism associated with the Republican Party. <ref>{{cite news |first=Douglas |last=Martin |authorlink= |title=Jude Wanniski, 69, Journalist Who Coined the Term 'Supply-Side Economics,' Dies |url=http://www.nytimes.com/2005/08/31/business/31wanniski.html |work=[[New York Times]] |publisher= |date=2005-08-31 |accessdate= }}</ref> . 
+
+{{quote|What the welfare system and other kinds of governmental programs are doing is paying people to fail. In so far as they fail, they receive the money; in so far as they succeed, even to a moderate extent, the money is taken away. - Thomas Sowell ; During a discussion in Milton Friedman's "Free to Choose" television series in 1980}} . 
+
+Typical policy recommendations of supply-side economics are lower [[marginal tax rate]]s and less regulation. <ref name="Wanniski 1978"/> Maximum benefits from taxation policy are achieved by optimizing the marginal tax rates to spur growth, although it is a common misunderstanding that supply side economics is concerned only with taxation policy when it is about removing barriers to production more generally. <ref name="Brownlee">{{cite book |chapter=Fiscal policy in the Reagan administration |title=The macroeconomics of fiscal policy |last=Brownlee |first=E. |authorlink= |editor=Kopcke, E.; Tootell, G. M. B.; Triest, R. K. |year=2006 |publisher=MIT Press |location=Cambridge, MA |isbn=0262112957 |pages=117–204 |url= }}</ref> . 
+
+Many early proponents argued that the size of the economic growth would be significant enough that the increased government revenue from a faster growing economy would be sufficient to compensate completely for the short-term costs of a tax cut, and that tax cuts could, in fact, cause overall revenue to increase. <ref name="Bartlett">{{cite news |first=Bruce |last=Bartlett |authorlink= |title=How Supply-Side Economics Trickled Down |url=http://www.nytimes.com/2007/04/06/opinion/06bartlett.html |work=New York Times |publisher= |date=2007-04-06 |accessdate= }}</ref> . 
+
+An argument along similar lines has also been advocated by [[Ali Ibn Abi Talib|Ali ibn Abi Talib]], the first Shi'a Imam and fourth Caliph of the Islamic empire; in his letter to the Governor of Egypt, [[Malik al-Ashtar]]. He writes: . 
+
+{{quote|If the tax-payers complain to you of the heavy incidence to taxation, of any accidental calamity, of the vagaries of the monsoons, of the recession of the means of irrigation, of floods or destruction of their crops on account of excessive rainfall and if their complaints are true, then reduce their taxes. This reduction should be such that it provides them opportunities to improve their conditions and eases them of their troubles.  . 
+
+Decrease in State-income due to such reasons should not depress you because the best investment for a ruler is to help his subjects at the time of their difficulties. They are the real wealth of a country and any investment on them even in the form of reduction of taxes, will be returned to the State in the shape of the prosperity of its cities and improvement of the country at large. At the same time you will be in a position to command and secure their love, respect and praises along with the revenues.|[[Ali ibn Abi Talib]]|''[[Nahj al-Balagha, Letter 53]]''}} . 
+
+==Neoclassical economics and the Chicago School==. 
+{{Main|Neoclassical economics}}
+{{See also| Monetarism|Chicago school (economics)}}
+Today, the majority academic research on capitalism in the [[English-speaking world]] draws on [[neoclassical economics|neoclassical economic thought]]. It favors extensive market coordination and relatively neutral patterns of governmental market regulation aimed at maintaining property rights; deregulated [[labor market]]s; corporate governance dominated by financial owners of firms; and financial systems depending chiefly on [[capital market]]-based financing rather than state financing.  . 
+
+[[Milton Friedman]] took many of the basic principles set forth by Adam Smith and the classical economists and gave them a new twist. One example of this is his article in the September 1970 issue of ''The New York Times'' Magazine, where he claims that the social responsibility of business is “to use its resources and engage in activities designed to increase its profits…(through) open and free competition without deception or fraud.” This is similar to Smith’s argument that self-interest in turn benefits the whole of society. <ref name="Friedman, Milton 1970"/> Work like this helped lay the foundations for the coming [[marketization]] (or [[privatization]]) of state enterprises and the [[supply-side economics]] of [[Ronald Reagan]] and [[Margaret Thatcher]].  . 
+
+The [[Chicago school (economics)|Chicago School of economics]] is best known for its free market advocacy and [[monetarist]] ideas. According to Friedman and other monetarists, market economies are inherently stable [[laissez-faire|if left to themselves]] and depressions result only from government intervention. <ref name="Felderer, Bernhard"/> . 
+
+{{quote|One of the great mistakes is to judge policies and programs by their intentions rather than their results. -[[Milton Friedman]] Interview with Richard Heffner on The Open Mind (7 December 1975)}} . 
+
+Friedman, for example, argued that the [[Great Depression]] was result of a contraction of the money supply, controlled by the [[Federal Reserve System|Federal Reserve]], and not by the lack of investment as [[John Maynard Keynes]] had argued. [[Ben Bernanke]], current Chairman of the [[Federal Reserve]], is among the economists today generally accepting Friedman's analysis of the causes of the Great Depression. <ref name="fed">{{Cite web|url=http://www.federalreserve.gov/BOARDDOCS/SPEECHES/2002/20021108/default.htm|title=Remarks by Governor Ben S. Bernanke  |publisher=The Federal Reserve Board|accessdate=26 February 2008|date=8 November 2002|author=Ben Bernanke}}</ref> . 
+
+{{quote|There is likely to be a lag between the need for action and government recognition of the need; a further lag between recognition of the need for action and the taking of action; and a still further lag between the action and its effects. <ref>Friedman (1967) p. </ref>}} . 
+
+Neoclassical economists, today the majority of economists,<ref>{{Cite book|author=Yonary, Yuval P.|title=The Struggle Over the Soul of Economics|year=1998|publisher=Princeton University Press|isbn=0691034192|pages=29}}</ref> consider value to be subjective, varying from person to person and for the same person at different times, and thus reject the labor theory of value. [[Marginalism]] is the theory that economic value results from marginal utility and [[marginal cost]] (the [[marginal concepts]]). These economists see capitalists as earning profits by forgoing current consumption, by taking risks, and by organizing production.  . 
+
+==Mainstream Economics==. 
+{{main|Mainstream economics}}
+{{See also|Neoclassical synthesis|econophysics|behavioral economics|evolutionary economics}} . 
+
+'''Mainstream economics''' is a loose term used to refer to the non-[[heterodox economics]] taught in prominent universities. It is most closely associated with [[neoclassical economics]],<ref>[http://books.google.com/books?id=IESEfQVI1vgC&pg=PA35&dq=austrian+school+heterodox+economics&sig=ACfU3U32u37y5TkaI6T0IyF_UpuecKQJQQ#PPA36,M1 David C. Colander], Complexity and History of Economic Thought, p. 35. </ref> 
+or more precisely by the [[neoclassical synthesis]], which combines neoclassical approach to microeconomics with [[Keynesian economics|Keynesian approach]] to macroeconomics. <ref name="Clark">Clark, B. (1998). ''Political-economy: A comparative approach''. Westport, CT: Praeger. </ref>  . 
+
+Mainstream economists are not generally separated into schools, but two major contemporary orthodox [[schools of economics|economic schools of thought]] are the "[[saltwater and freshwater economics|saltwater and freshwater schools]]." The saltwater schools consist of the [[universities]] and other institutions located near the east and west coast of the [[United States]], such as [[University of California, Berkeley|Berkeley]], [[Harvard]], [[MIT]], [[University of Pennsylvania]], [[Princeton University|Princeton]], [[Columbia University|Columbia]], [[Duke]], [[Stanford]], and [[Yale]]. Freshwater schools include the [[University of Chicago]], [[Carnegie Mellon University]], the [[University of Rochester]] and the [[University of Minnesota]]. They were referred to as the 'freshwater school' since Pittsburgh, Chicago, Rochester, and Minneapolis are located nearer to the [[Great Lakes]]. <ref>Gordon: Productivity ... "four universities placed on or near bodies of fresh water, Carnegie-Mellon, Chicago, Minnesota and Rochester"</ref> The Saltwater school is associated with Keynesian ideas of government intervention into the [[free market]], while the Freshwater schools are skeptical of the benefits of the government. <ref>Kilborn PT. (1988). [http://query.nytimes.com/gst/fullpage.html?res=940DE3DB1338F930A15754C0A96E948260 'Fresh water' Economists Gain]. ''New York Times''. </ref>  Mainstream economists do not, in general, identify themselves as members of a particular school; they may, however, be associated with approaches within a field such as the [[rational expectations|rational-expectations]] approach to [[macroeconomics]].  . 
+
+==See also==. 
+{{Multicol}} . 
+
+===Concepts===. 
+* [[Consumption (economics)]]
+* [[Economic liberalism]]
+* [[Financial market]]
+* [[Free price system]]
+* [[Gains from trade]]
+* [[History of capitalism]]
+* [[History of economic thought]]
+* [[Industrial Revolution]]
+* [[Mass production]]
+* [[Objectivism (Ayn Rand)]]
+* [[Positive non-interventionism]]
+* [[Spontaneous order]] . 
+
+{{Multicol-break}} . 
+
+===People===. 
+* [[Amartya Sen]]
+* [[Andrew Carnegie]]
+* [[Ayn Rand]]
+* [[Eugen von Böhm-Bawerk]]
+* [[Frederic Bastiat]]
+* [[Freidrich Engels]]
+* [[John D. Rockefeller]]
+* [[John Locke]]
+* [[Joseph Stiglitz]]
+* [[J. P. Morgan]] . 
+
+{{Multicol-break}} . 
+
+===Works===. 
+* ''[[Capitalism and Freedom]]''
+* ''[[Capitalism: The Unknown Ideal]]''
+* ''[[Economics in One Lesson]]''
+* ''[[Free to Choose]]''
+* ''[[Grundrisse]]''
+* ''[[Individualism and Economic Order]]
+* ''[[Man, Economy, and State]]''
+* ''[[The Anti-Capitalistic Mentality]]''
+* ''[[The Law (1850 book)|The Law]]'' . 
+
+{{Multicol-end}} . 
+
+==References==. 
+{{Reflist}} . 
+
+==Further reading==. 
+* Abu-Lughod, Janet L. ''Before European Hegemony The World System A.D. 1250-1350''. New York: Oxford UP, USA, 1991. 
+*{{Cite book|last=Ackerman |first=Frank |authorlink= |coauthors=Lisa Heinzerling |title=Priceless: On Knowing the Price of Everything and the Value of Nothing |publisher=New Press |date=24 August 2005 |location= |pages=277 |url= |doi= |id= |isbn=1565849817}}
+* {{Cite book|title=Politics Without Romance|author=Buchanan, James M.}}
+* {{Cite book|title=Civilization and Capitalism: 15th - 18 Century|author=[[Fernand Braudel|Braudel, Fernand]]}}
+* {{Cite book|title=Theories of Modern Capitalism|author=Bottomore, Tom|year=1985}}
+* {{Cite journal|author=H. Doucouliagos and M. Ulubasoglu |title=Democracy and Economic Growth: A meta-analysis |journal=School of Accounting, Economics and Finance Deakin University Australia |year=2006 }}
+* {{Cite book|author=Coase, Ronald|year=1974|title=The Lighthouse in Economics}}
+* {{Cite book|author=Demsetz, Harold|year=1969|title=Information and Efficiency}}
+* {{Cite book|author=Fulcher, James|title=Capitalism|year=2004}}
+* {{Cite book|author=Friedman, Milton|title=Capitalism and Freedom|year=1952}}
+* {{Cite book|author=[[John Kenneth Galbraith|Galbraith, J.K.]]|title=American Capitalism|year=1952}}
+* {{Cite book|author=Böhm-Bawerk, Eugen von|title=Capital and Interest: A Critical History of Economical Theory|location=London|publisher=Macmillan and Co.|year=1890}}
+* {{Cite book|author=Harvey, David|title=The Political-Economic Transformation of Late Twentieth Century Capitalism.|location=Cambridge, MA|publisher=Blackwell Publishers|year=1990|isbn=0-631-16294-1}}
+* {{Cite book|author=Hayek, Friedrich A.|title=The Pure Theory of Capital|location=Chicago|publisher=University of Chicago Press|year=1975|isbn=0-226-32081-2}}
+* {{Cite book|author=Hayek, Friedrich A.|title=Capitalism and the Historians|location=Chicago|publisher=University of Chicago Press|year=1963}}
+* {{Cite book|author=Heilbroner, Robert L.|title=The Limits of American Capitalism|year=1966}}
+* {{Cite book|author=Heilbroner, Robert L.|title=The Nature and Logic of Capitalism|year=1985}}
+* {{Cite book|author=Heilbroner, Robert L.|title=Economics Explained|year=1987}}
+* {{Cite book|author=Cryan, Dan|title=Capitalism: A Graphic Guide|year=2009}}
+* [[Matthew Josephson|Josephson, Matthew]], ''The Money Lords; the great finance capitalists, 1925-1950'', New York, Weybright and Talley, 1972. 
+* {{Cite book|author=[[Rosa Luxemburg|Luxemburg, Rosa]]|title=The Accumulation of Capital|year=1913}}
+* {{Cite book|author=[[Karl Marx|Marx, Karl]]|title=Capital: A Critical Analysis of Capitalist Production|year=1886}}
+* {{Cite book|author=Mises, Ludwig von|title=Human Action: A Treatise on Economics|publisher=Scholars Edition|year=1998}}
+* {{Cite book|author=Rand, Ayn|title=[[Capitalism: The Unknown Ideal]]|publisher=Signet|year=1986}}
+* {{Cite book|author=Reisman, George|year=1996|title=Capitalism: A Treatise on Economics|location=Ottawa, Illinois|publisher=Jameson Books|isbn=0-915463-73-3}}
+* {{Cite book|author=Resnick, Stephen|year=1987|title=Knowledge & Class: a Marxian critique of political economy|location=Chicago|publisher=University of Chicago Press}}
+* {{Cite book|author=Rostow, W. W.|title=The Stages of Economic Growth: A Non-Communist Manifesto|location=Cambridge|publisher=Cambridge University Press|year=1960}}
+* {{Cite book|author=[[Joseph Schumpeter|Schumpeter, J. A.]]|title=Capitalism, Socialism, and Democracy|year=1983}}
+* {{Cite book| last = Scott | first = Bruce | authorlink = | coauthors = | title = The Concept of Capitalism | publisher = Springer | year = 2009 | location = | pages = 76 | url =  | doi = | id = | isbn = 3642031099 | oclc =  }}
+* {{Cite book|author=Scott, John|title=Corporate Business and Capitalist Classes|year=1997}}
+* {{Cite book|author=Seldon, Arthur|year=2007|title=Capitalism: A Condensed Version|location=London|publisher=Institute of Economic Affairs}}
+* {{Cite book|author=Sennett, Richard|title=The Culture of the New Capitalism|year=2006}}
+* {{Cite book|author=Smith, Adam|title=An Inquiry into the Nature and Causes of the Wealth of Nations|year=1776}}
+* {{Cite book|author=De Soto, Hernando|year=2000|title=The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else|location=New York|publisher=Basic Books|isbn=0-465-01614-6}}
+* {{Cite book|author=Strange, Susan|title=Casino Capitalism|year=1986}}
+* {{Cite book|author=[[Immanuel Wallerstein|Wallerstein, Immanuel]]|title=The Modern World System}}
+* {{Cite book|author=[[Max Weber|Weber, Max]]|title=The Protestant Ethic and the Spirit of Capitalism|year=1926}}
+{{Economics|state=autocollapse}} . 
+
+{{DEFAULTSORT:Perspectives On Capitalism}}
+[[Category:Capitalism]]
+[[Category:Capitalist systems]]
+[[Category:Economic systems]]
+[[Category:Economic ideologies]]
+[[Category:Economies]]
+[[Category:Economic liberalism]]
+[[Category:Ideologies]]
+[[Category:Social philosophy]]
+[[Category:Political economy]]
+[[Category:Individualism]]

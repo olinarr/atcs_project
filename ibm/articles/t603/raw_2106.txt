@@ -1,0 +1,1426 @@
+{{For|the current Congress|112th United States Congress}}
+{{Use mdy dates|date=July 2011}}
+{{pp-move-indef}}
+{{Infobox Legislature
+ | background_color   = #22427b
+ | text_color         = #FFFFFF
+ | name               = United States Congress
+ | native_name        =
+ | transcription_name =
+ | legislature        = [[112th United States Congress]]
+ | coa_pic            =Seal_of_the_Unites_States_Congress.svg
+ | coa_res            = 130px
+ | coa-pic            =
+ | coa-res            =
+ | house_type         = Bicameral
+ | body               =
+ | houses             = [[United States Senate|Senate]]<br />[[United States House of Representatives|House of Representatives]]
+ | leader1_type       = [[Vice President of the United States|President of the Senate]]
+ | leader1            = [[Joe Biden]]
+ | party1             = ([[Democratic Party (United States)|D]])
+ | election1          = [[56th Presidential Inauguration|January 20, 2009]]
+ | leader2_type       = [[President pro tempore of the United States Senate|President pro tempore of the Senate]]
+ | leader2            = [[Daniel Inouye]]
+ | party2             = ([[Democratic Party (United States)|D]])
+ | election2          = June 28, 2010
+ | leader3_type       = [[Speaker of the United States House of Representatives|Speaker of the House]]
+ | leader3            = [[John Boehner]]
+ | party3             = ([[Republican (United States)|R]])
+ | election3          = January 5, 2011
+ | leader4_type       =
+ | leader4            =
+ | party4             =
+ | election5          =
+ | leader5_type       =
+ | leader5            =
+ | party5             =
+ | election6          =
+ | leader6_type       =
+ | leader6            =
+ | party6             =
+ | election6          =
+ | members            = '''535'''<br/>100 Senators<br/>435&nbsp;Representatives<br/>5 [[Delegate (United States Congress)|Delegates]]<br/>1 [[Resident Commissioner of Puerto Rico|Resident Commissioner]]<!--number is for entire Congress, House and Senate. 100+435=535-->
+ | house1             = House of Representatives
+ | house2             = Senate
+ | structure1         = 112USHouseStructure.svg
+ | structure1_res     = 250px
+ | structure2         = 112USSenateStructure.svg
+ | structure2_res     = 250px
+ | political_groups1  = {{color box|#000090}} [[Democratic Party (United States)|Democratic Party]]<br/>{{colorbox|#900000}} [[Republican Party (United States)|Republican Party]]
+ | political_groups2  = {{color box|#000090}} [[Democratic Party (United States)|Democratic Party]]<br/>{{colorbox|#7174e0}} [[Independent (politician)|Independent (caucused with Democrats)]]<br/>{{colorbox|#900000}} [[Republican Party (United States)|Republican Party]]
+ | committees1        =
+ | committees2        =
+ | joint_committees   =
+ | voting_system1     =
+ | voting_system2     =
+ | last_election1     = [[United States House of Representatives elections, 2010|November 2, 2010]]
+ | last_election2     = [[United States Senate elections, 2010|November 2, 2010]]
+ | session_room       = Obama Health Care Speech to Joint Session of Congress.jpg
+ | session_res        = 250px
+ | meeting_place      = [[United States Capitol]]
+ | website            = [http://www.house.gov/ House of Representatives Website]<br/>[http://www.senate.gov/ Senate Website]
+ | footnotes          =
+}} . 
+
+The '''United States Congress''' is the [[Bicameralism|bicameral]] [[legislature]] of the [[Federal government of the United States|federal government]] of the [[United States]], consisting of the [[United States House of Representatives|House of Representatives]] and the [[United States Senate|Senate]]. The Congress meets in the [[United States Capitol|Capitol]] in [[Washington, D.C.]] . 
+
+Both Representatives and Senators are chosen through [[direct election]]. There are 535 voting Members of Congress, of which, the House of Representatives has a membership of 435 and the Senate has a membership 100. Members of the House of Representatives serve two-year terms representing the people of a district. Congressional Districts are determined by [[Rep by pop|population]] using the United States Census results and each State in the union having at least one Representative in the Congress. Each state, regardless of population, has two Senators; since there are fifty states, there are one hundred Senators who each serve a six-year term. The terms are staggered, so every two years, approximately one-third of the Senate is up for election. Most incumbents seek re-election, and their historical likelihood of winning subsequent elections exceeds 90%. <ref name=incumbent/> . 
+
+==Overview==. 
+[[Article One of the United States Constitution|Article I]] of the [[Constitution for the United States of America|Constitution]] states "all legislative powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and a House of Representatives." The House and Senate are equal partners in the legislative process—legislation cannot be enacted without the consent of both chambers. However, the Constitution grants each chamber some unique powers. The Senate ratifies treaties and approves [[President of the United States|presidential]] appointments while the House initiates revenue-raising bills.  The House initiates [[Impeachment in the United States|impeachment]] cases, while the Senate decides impeachment cases. <ref name=tws2010Sep11bb6a>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/congress.html
+ |accessdate=September 11, 2010
+}}</ref> A two-thirds vote of the Senate is required before an impeached person can be forcibly removed from office. <ref name=tws2010Sep11bb6a/>
+[[Image:Johnson Impeachment Committee.jpg|thumb|left|alt=Seven men wearing suits posing for a group picture.|In 1868, this committee of representatives prosecuted president [[Andrew Johnson]] in his impeachment trial, but the Senate did not convict him.]] . 
+
+The term ''[[Congress]]'' can also refer to a particular meeting of the legislature. A Congress covers two years; the current one, the [[112th United States Congress|112th Congress]], began on January 3, 2011. <ref name=tws2nov03>{{cite news
+| author = Steven Chambers
+| title = 111th Congress convenes and vows quick action on economy
+| publisher = ''Newark Star-Ledger''
+| date = January 6, 2009
+| url = http://www.nj.com/news/index.ssf/2009/01/111th_congress_convenes_and_vo.html
+| accessdate =November 2, 2009
+}}</ref> Members of the Senate are referred to as Senators; members of the House of Representatives are referred to as Representatives, although they are often wrongly referred to as a Congressman, Congresswoman, or Congressperson.  . 
+
+Scholar and representative [[Lee H. Hamilton]] asserted that the "historic mission of Congress has been to maintain freedom" and insisted it was a "driving force in American government"<ref name=tws2010Sep11t14aa/> and a "remarkably resilient institution."<ref name=tws2010Sep11rtww>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page=23
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> Congress is the "heart and soul of our democracy", according to this view,<ref name=tws2010Sep11t14dd4/> even though legislators rarely achieve the prestige or name recognition of presidents or Supreme Court justices; one wrote that "legislators remain ghosts in America's historical imagination". <ref name=tws2010Sep11t14dd4/> One analyst argues that it is not a solely reactive institution but has played an active role in shaping government policy and is extraordinarily sensitive to public pressure. <ref name=tws2010Sep11t14dd4/> Several academics described Congress: . 
+
+{{Politics of the United States}}
+<blockquote>Congress reflects us in all our strengths and all our weaknesses. It reflects our regional idiosyncrasies, our ethnic, religious, and racial diversity, our multitude of professions, and our shadings of opinion on everything from the value of war to the war over values. Congress is the government's most representative body ... Congress is essentially charged with reconciling our many points of view on the great public policy issues of the day. — <small>Smith, Roberts, and Wielen</small><ref name=tws2010Sep11t14aa/></blockquote> . 
+
+Congress is constantly changing, constantly in flux. <ref name=tws2010Sep11t14cc>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> In recent times, the American south and west have gained House seats according to [[demographic]] changes recorded by the census and includes more minorities and women although both groups are still underrepresented, according to one view. <ref name=tws2010Sep11t14cc/> While power balances among the different parts of government continue to change, the internal structure of Congress is important to understand along with its interactions with so-called ''intermediary institutions'' such as political parties, civic associations, interest groups, and the mass media. <ref name=tws2010Sep11t14dd4/> . 
+
+The Congress of the United States serve two distinct purposes that overlap: local representation to the federal government of a Congressional District by Representatives and a State's at-large representation to the federal government by Senators.  . 
+
+==History==. 
+{{Main|History of the United States Congress}}
+The [[First Continental Congress]] was a gathering of Representatives from twelve of the thirteen [[British colonization of the Americas|British Colonies in North America]]. <ref name="kramnick">{{cite book |author=Kramnick, Isaac (ed); Thomas Paine |title=Common Sense |publisher=Penguin Classics |year=1982 |page=21}}</ref> On July 4, 1776, the [[Second Continental Congress]] adopted the [[Declaration of Independence of the United States|Declaration of Independence]], referring to the new nation as the "United States of America". The [[Articles of Confederation]] in 1781 created a [[Unicameralism|unicameral]] body with equal representation among the states in which each state had a veto over most decisions. With no executive or judiciary, and minimal authority, this government was weak<ref name=WeaknessArticlesConfederation/> and lacked authority to collect taxes, regulate commerce, or enforce laws. <ref name="english-p5-6">English (2003), pp. 5–6</ref><ref>Collier (1986), p. 5</ref> . 
+
+{{Image|Scene at the Signing of the Constitution of the United States.png|thumb|left|alt=Painting of men in a formal political meeting.|[[George Washington]] presiding over the signing of the [[United States Constitution]].}}
+Government powerlessness led to the [[Philadelphia Convention|Convention of 1787]] which proposed a revised constitution with a two–chamber or ''bicameral'' congress. <ref name=tws10octA04>{{cite news
+| author = James Madison
+| title = James Madison and the Federal Constitutional Convention of 1787 -- Engendering a National Government
+| publisher = The Library of Congress -- American memory
+| year = 1787
+| url = http://memory.loc.gov/ammem/collections/madison_papers/mjmconst.html
+| accessdate =October 10, 2009
+}}</ref> Smaller states argued for equal representation for each state. <ref name=tws10octA03>{{cite news
+| title = The Founding Fathers: New Jersey
+| publisher = The Charters of Freedom
+| date = October 10, 2009
+| url = http://www.archives.gov/exhibits/charters/constitution_founding_fathers_new_jersey.html
+| accessdate =October 10, 2009
+}}</ref> The two-chamber structure had functioned well in state governments. <ref name=tws2010Sep11t14cc>{{cite news
+ |title= THE PRESIDENCY: Vetoes
+ |publisher= Time Magazine
+ |date= March 9, 1931
+ |url= http://www.time.com/time/magazine/article/0,9171,741166,00.html
+ |accessdate=September 11, 2010
+}}</ref> A [[Connecticut Compromise|compromise]] plan was adopted with representatives chosen [[Rep by pop|by population]] (benefitting larger states) and exactly two senators chosen by state governments (benefitting smaller states). <ref name=tws2010Sep11t14cc/><ref name=tws2010Sep11t14dd5/> The ratified constitution created a [[federalism|federal structure]] with two overlapping power centers so that each citizen ''as an individual'' was subjected to both the power of state government and the national government. <ref name=tws10octA01>{{cite news
+| author = By David B. Rivkin Jr. and Lee A. Casey
+| title = Illegal Health Reform
+| publisher = Washington Post
+| date = August 22, 2009
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2009/08/21/AR2009082103033.html
+| accessdate =October 10, 2009
+}}</ref><ref name=tws10octA>{{cite web
+| author = Founding Fathers via FindLaw
+| title = U.S. Constitution: Article I (section 8 paragraph 3) -- Article Text -- Annotations
+| publisher = FindLaw
+| year = 1787
+| url = http://caselaw.lp.findlaw.com/data/constitution/article01/
+| accessdate =October 10, 2009
+}}</ref><ref>English (2003), p. 7</ref> To protect against abuse of power, each branch of government—executive, legislative, and judicial—had a separate sphere of authority and could check other branches according to the principle of the [[separation of powers]]. <ref name=tws2010Sep11bb1>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/foreword.html
+ |accessdate=September 11, 2010
+}}</ref> Furthermore, there were checks and balances ''within'' the legislature since there were two separate chambers. <ref>English (2003), p. 8</ref> The new government became active in 1789. <ref name=tws10octA02>{{cite web
+| title = The Convention Timeline
+| publisher = U.S. Constitution Online
+| date = October 10, 2009
+| url = http://www.usconstitution.net/consttime2.html
+| accessdate =October 10, 2009
+}}</ref><ref name=tws2010Sep11bb2>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/foreword.html
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+[[Political scientist]] Julian E. Zelizer suggested there were four main congressional eras, with considerable overlap, and included the ''formative era'' (1780s–1820s), the ''partisan era'' (1830s–1900s), the ''committee era'' (1910s–1960s), and the ''contemporary era'' (1970s–today). <ref name=tws2010Sep11t14dd2>{{cite news
+ |author= Eric Patashnik, author, Julian E. Zelizer (editor)
+ |title= The American Congress: The Building of Democracy
+ |publisher= Houghton Mifflin Company
+ |year= 2004
+ |isbn= 0-618-17906-2
+ |url= http://books.google.com/books?id=_MGEIIwT5pUC&printsec=frontcover&dq=Zelizer+Julian+2004+American+Congress+The+Building+of+Democracy#v=onepage&q=Zelizer%20Julian%202004%20American%20Congress%20The%20Building%20of%20Democracy&f=false
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+===The formative era (1780s–1820s)===. 
+[[Federalist Party|Federalists]] and [[anti-federalists]] jostled for power in the early years as political parties became pronounced, surprising the Constitution's [[Founding Fathers of the United States|Framers]]. [[Thomas Jefferson]]'s election to the presidency marked a peaceful transition of power between the parties in 1800. [[John Marshall]], 4th Chief Justice of the Supreme Court empowered the courts by establishing the principle of [[judicial review]] in law in the landmark case ''[[Marbury v. Madison]]'' in 1803, effectively giving the Supreme Court a power to nullify congressional legislation.  . 
+
+===The partisan era (1830s–1900s)===. 
+These years were marked by growth in the power of political parties. The watershed event was the [[American Civil War|Civil War]] which resolved the slavery issue and unified the nation under federal authority, but weakened the power of [[states rights]]. A [[Gilded Age]] (1877–1901) was marked by [[History of the United States Republican Party|Republican]] dominance of Congress. During this time, lobbying activity became more intense, particularly during the administration of President [[Ulysses S. Grant]] in which influential lobbies advocated for railroad subsidies and tariffs on wool. <ref>Margaret S. Thompson, ''The "Spider Web": Congress and Lobbying in the Age of Grant'' (1985)</ref> Immigration and high birth rates swelled the ranks of citizens and the nation grew at a rapid pace. The [[Progressive Era]] was characterized by strong party leadership in both houses of Congress as well as calls for reform; sometimes reformers would attack lobbyists as corrupting politics. <ref>Elisabeth S. Clemens, ''The People’s Lobby: Organizational Innovation and the Rise of Interest-Group Politics in the United States, 1890–1925'' (1997)</ref> The position of [[Speaker of the United States House of Representatives|Speaker of the House]] became extremely powerful under leaders such as [[Thomas Brackett Reed|Thomas Reed]] in 1890 and [[Joseph Gurney Cannon]]. The Senate was effectively controlled by a half dozen men.  . 
+
+===The committee era (1910s–1960s)===. 
+[[File:United States Capitol - west front.jpg|thumb|The [[United States Capitol]]]]
+A system of seniority—in which long-time Members of Congress gained more and more power—encouraged politicians of both parties to serve for long terms. [[United States Congressional committees|Committee]] chairmen remained influential in both houses until the reforms of the 1970s. Important structural changes included the direct election of senators by popular election according to the [[Seventeenth Amendment to the United States Constitution|Seventeenth Amendment]]<ref name=tws2010Sep11t14dd5>{{cite news
+ |author= David E. Kyvig, author, Julian E. Zelizer (editor)
+ |title= The American Congress: The Building of Democracy
+ |publisher= Houghton Mifflin Company
+ |page= 362
+ |year= 2004
+ |isbn= 0-618-17906-2
+ |url= http://books.google.com/books?id=_MGEIIwT5pUC&printsec=frontcover&dq=Zelizer+Julian+2004+American+Congress+The+Building+of+Democracy#v=onepage&q=Zelizer%20Julian%202004%20American%20Congress%20The%20Building%20of%20Democracy&f=false
+ |accessdate=September 11, 2010
+}}</ref> with positive effects (senators more sensitive to public opinion) and negative effects (undermining the authority of state governments). <ref name=tws2010Sep11t14dd5/> [[Supreme Court of the United States|Supreme Court]] decisions based on the Constitution's [[commerce clause]] expanded congressional power to regulate the economy. <ref name=tws28sep12>{{cite news
+| author = David B. Rivkin Jr. and Lee A. Casey
+| title = Illegal Health Reform
+| publisher = The Washington Post
+| date = August 22, 2009
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2009/08/21/AR2009082103033.html
+| accessdate =September 28, 2009
+}}</ref> One effect of popular election of senators was to reduce the difference between the House and Senate in terms of their link to the electorate. <ref name=tws2010Sep11u887>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page= 38
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> Lame duck reforms according to the [[Twentieth amendment to the United States Constitution|Twentieth Amendment]] ended the power of defeated and retiring members of Congress to wield influence despite their lack of accountability. <ref name=tws2010Sep11t14dd6>{{cite news
+ |author= David E. Kyvig, author, Julian E. Zelizer (editor)
+ |title= The American Congress: The Building of Democracy
+ |publisher= Houghton Mifflin Company
+ |year= 2004
+ |isbn= 0-618-17906-2
+ |url= http://books.google.com/books?id=_MGEIIwT5pUC&printsec=frontcover&dq=Zelizer+Julian+2004+American+Congress+The+Building+of+Democracy#v=onepage&q=Zelizer%20Julian%202004%20American%20Congress%20The%20Building%20of%20Democracy&f=false
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+The [[Great Depression]] ushered in President [[Franklin Roosevelt]] and strong control by Democrats<ref>{{cite news|title=THE CONGRESS: 72nd Made|url=http://www.time.com/time/magazine/article/0,9171,740692,00.html|accessdate=October 5, 2010|newspaper=[[Time (magazine){{!}}TIME]]|date=November 17, 1930}}</ref> and historic [[New Deal]] policies. [[Franklin D. Roosevelt|Roosevelt]]'s election in 1932 marked a shift in government power towards the executive branch. Numerous [[New Deal]] initiatives came from the [[White House]] rather than being initiated by Congress. <ref name="English14">English (2003), p. 14</ref> The [[Democratic Party (United States)|Democratic Party]] controlled both houses of Congress for many years. <ref name="Dem9834">{{cite news|title=THE CONGRESS: Democratic Senate|url=http://www.time.com/time/magazine/article/0,9171,847065,00.html|accessdate=October 10, 2010|newspaper=Time|date=November 14, 1932}}</ref><ref>{{cite news|title=POLITICAL NOTES: Democratic Drift|url=http://www.time.com/time/magazine/article/0,9171,756879,00.html|accessdate=October 10, 2010|newspaper=Time|date=November 16, 1936}}</ref><ref name=1930lop>{{cite news|title=THE CONGRESS: The 76th|url=http://www.time.com/time/magazine/article/0,9171,760301,00.html|accessdate=October 10, 2010|newspaper=Time|date=November 21, 1938}}</ref> During this time, Republicans and conservative southern Democrats<ref>{{cite news|title=THE VICE PRESIDENCY: Undeclared War|url=http://www.time.com/time/magazine/article/0,9171,789486-2,00.html|accessdate=October 10, 2010|newspaper=Time|date=March 20, 1939}}</ref> formed the [[Conservative Coalition]]. <ref name=1930lop/><ref>{{cite news|title=CONGRESS: New Houses|url=http://www.time.com/time/magazine/article/0,9171,849318,00.html|accessdate=October 10, 2010|newspaper=Time|date=November 11, 1940}}</ref> Democrats maintained control of Congress during [[World War II]]. <ref name=Coner>{{cite news|title=Before the G.O.P. Lay a Forked Road|url=http://www.time.com/time/magazine/article/0,9171,932828,00.html|accessdate=October 10, 2010|newspaper=Time|date=November 16, 1942}}</ref><ref>{{cite news|title=Business & Finance: Turn of the Tide|url=http://www.time.com/time/magazine/article/0,9171,932900,00.html|accessdate=October 10, 2010|newspaper=Time|date=November 16, 1942}}</ref> Congress struggled with efficiency in the postwar era partly by reducing the number of standing congressional committees. <ref name=tws2010Sep11pp>{{cite news
+ |title= The Congress: Effort toward Efficiency
+ |publisher= Time Magazine
+ |date= May 21, 1965
+ |url= http://www.time.com/time/magazine/article/0,9171,901685,00.html
+ |accessdate=September 11, 2010
+}}</ref> Southern Democrats became a powerful force in many influential committees although political power alternated between Republicans and Democrats during these years. More complex issues required greater specialization and expertise, such as space flight and atomic energy policy. <ref name=tws2010Sep11pp/> Senator [[Joseph McCarthy]] exploited the fear of communism and conducted televised hearings. <ref>{{cite news|title=National Affairs: JUDGMENTS & PROPHECIES|url=http://www.time.com/time/magazine/article/0,9171,820388-2,00.html|accessdate=October 10, 2010|newspaper=Time|date=November 15, 1954}}</ref><ref name=589win>{{cite news|title=THE CONGRESS: Ahead of the Wind|url=http://www.time.com/time/magazine/article/0,9171,810635,00.html|accessdate=October 10, 2010|newspaper=Time|date=November 17, 1958}}</ref> In 1960, Democratic candidate [[John F. Kennedy]] narrowly won the presidency and power shifted again to the Democrats who dominated both houses of Congress until 1994.  . 
+
+===The contemporary era (1970s–today)===. 
+{{Image|ArchibaldCox.jpg|thumb|right|alt=Man with bowtie.|The Senate chose [[Archibald Cox]] to serve as special prosecutor investigating Watergate.}}
+Congress enacted [[Lyndon Johnson|Johnson's]] ''Great Society'' program to fight poverty and hunger. The [[Watergate Scandal]] had a powerful effect of waking up a somewhat dormant Congress which investigated presidential wrongdoing and coverups; the scandal "substantially reshaped" relations between the branches of government, suggested [[political scientist]] Bruce J. Schulman. <ref name=tws2010Sep11t14dd7>{{cite news
+ |author= Bruce J. Schulman (author), Julian E. Zelizer (editor)
+ |title= The American Congress: The Building of Democracy
+ |publisher= Houghton Mifflin Company
+ |page=638
+ |year= 2004
+ |isbn= 0-618-17906-2
+ |url= http://books.google.com/books?id=_MGEIIwT5pUC&printsec=frontcover&dq=Zelizer+Julian+2004+American+Congress+The+Building+of+Democracy#v=onepage&q=Zelizer%20Julian%202004%20American%20Congress%20The%20Building%20of%20Democracy&f=false
+ |accessdate=September 11, 2010
+}}</ref> Partisanship returned, particularly after 1994; one analyst attributes partisan infighting to slim congressional majorities which discouraged friendly social gatherings in meeting rooms such as the ''Board of Education''. <ref name=tws2010Sep11t14dd4>{{cite news
+ |author= Julian E. Zelizer (editor) Joanne Barrie Freeman, Jack N. Rakove, Alan Taylor, and others
+ |title= The American Congress: The Building of Democracy
+ |publisher= Houghton Mifflin Company
+ |pages= xiii–xiv
+ |year= 2004
+ |isbn= 0-618-17906-2
+ |url= http://books.google.com/books?id=_MGEIIwT5pUC&printsec=frontcover&dq=Zelizer+Julian+2004+American+Congress+The+Building+of+Democracy#v=onepage&q=Zelizer%20Julian%202004%20American%20Congress%20The%20Building%20of%20Democracy&f=false
+ |accessdate=September 11, 2010
+}}</ref> Congress began reasserting its authority. <ref name="English14"/><ref>{{cite news|title=THE HOUSE: New Faces and New Strains|url=http://www.time.com/time/magazine/article/0,9171,945101,00.html|newspaper=Time|date=November 18, 1974}}</ref> [[Lobbying in the United States|Lobbying]] became a big factor despite the 1971 [[Federal Election Campaign Act]]. Political action committees or PACs could make substantive donations to congressional candidates via such means as ''soft money'' contributions. <ref name=tws2010Sep11jggha>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page= 58
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> While soft money funds were not given to specific campaigns for candidates, the monies often benefited candidates substantially in an indirect way and helped reelect candidates. <ref name=tws2010Sep11jggha/> Reforms such as the 2002 [[McCain-Feingold]] act limited campaign donations but did not limit ''soft money'' contributions. <ref name=tws30sep05>{{cite news
+| author = Nick Anderson
+| title = Political Attack Ads Already Popping Up on the Web
+| publisher = Los Angeles Times
+| date = March 30, 2004
+| url = http://articles.latimes.com/2004/mar/30/nation/na-online30
+| accessdate =September 30, 2009
+}}</ref> One source suggests post-[[Watergate]] laws amended in 1974 meant to reduce the "influence of wealthy contributors and end payoffs" instead "legitimized PACs" since they "enabled individuals to band together in support of candidates."<ref name=tws02oct201>{{cite news
+| author = Susan Tifft, Richard Homik, Hays Corey
+| title = Taking an Ax to the PACs
+| publisher = Time Magazine
+| date = August 20, 1984
+| url = http://www.time.com/time/magazine/article/0,9171,954335,00.html
+| accessdate =October 2, 2009
+}}</ref> From 1974 to 1984, PACs grew from 608 to 3,803 and donations leaped from $12.5 million to $120 million<ref name="tws02oct201"/><ref name=tws02oct223>{{cite news
+| author = ADAM CLYMER,
+| title = Campaign spending in congress races soars to new high
+| publisher = The New York Times
+| date = October 29, 1992
+| url = http://www.nytimes.com/1992/10/29/us/campaign-spending-in-congress-races-soars-to-new-high.html
+| accessdate =October 2, 2009
+}}</ref><ref name=tws01oct22>{{cite news
+| author = Jeffrey H. Birnbaum
+| title = Cost of Congressional Campaigns Skyrockets
+| publisher = Washington Post
+| date = October 3, 2004
+| url = http://www.washingtonpost.com/wp-dyn/articles/A2935-2004Oct2.html
+| accessdate =October 1, 2009
+}}</ref> along with concern over PAC influence in Congress. <ref name=tws02oct205>{{cite news
+| author = Richard E. Cohen
+| title = PAC Paranoia: Congress Faces Campaign Spending - Politics: Hysteria was the operative word when legislators realized they could not return home without tougher campaign finance laws. 
+| publisher = Los Angeles Times
+| date = August 12, 1990
+| url = http://articles.latimes.com/1990-08-12/opinion/op-739_1_campaign-finance-laws
+| accessdate =October 2, 2009
+}}</ref><ref name=tws02oct212>{{cite news
+| author = Walter Isaacson, Evan Thomas, other bureaus
+| title = Running with the PACs
+| publisher = Time Magazine
+| date = October 25, 1982
+| url = http://www.time.com/time/magazine/article/0,9171,953584-2,00.html
+| accessdate =October 2, 2009
+}}</ref> In 2009, there were 4,600 business, labor and special-interest PACs<ref name=tws02oct209>{{cite news
+| author = John Fritze
+| title = PACs spent record $416M on federal election
+| publisher = USA Today
+| date = 3/2/2009
+| url = http://www.usatoday.com/news/washington/2009-03-01-pacmoney_N.htm
+| accessdate =October 2, 2009
+}}</ref> including ones for [[Association of Trial Lawyers of America|lawyers]], [[International Brotherhood of Electrical Workers|electricians]], and [[National Association of Realtors|real estate brokers]]. <ref name=tws02oct204>{{cite news
+| author = Thomas Frank
+| title = Beer PAC aims to put Congress under influence
+| publisher = USA TODAY
+| date = October 29, 2006
+| url = http://www.usatoday.com/news/washington/2006-10-29-beer-lobby_x.htm
+| accessdate =October 2, 2009
+}}</ref> From 2007 to 2008, 175 members of Congress received "half or more of their campaign cash" from PACs. <ref name="tws02oct209"/><ref name=tws02oct211>{{cite news
+| author = Michael Isikoff and Dina Fine Maron
+| title = Congress -- Follow the Bailout Cash
+| publisher = Newsweek
+| date = March 21, 2009
+| url = http://www.newsweek.com/id/190363
+| accessdate =October 2, 2009
+}}</ref><ref name=tws02oct219>{{cite news
+| author = Richard L. Berke
+| title = Campaign Finance; Problems in the PAC's: Study Finds Frustration
+| publisher = New York Times
+| date = February 14, 1988
+| url = http://www.nytimes.com/1988/02/14/us/campaign-finance-problems-in-the-pac-s-study-finds-frustration.html
+| accessdate =October 2, 2009
+}}</ref> . 
+
+In the late 20th century, the media became more important in Congress's work."<ref name=tws2010Sep11t14dd1>{{cite news
+ |author= Julian E. Zelizer (editor) Michael Schudson (author)
+ |title= The American Congress: The Building of Democracy
+ |publisher= Houghton Mifflin Company
+ |year= 2004
+ |isbn= 0-618-17906-2
+ |url= http://books.google.com/books?id=_MGEIIwT5pUC&printsec=frontcover&dq=Zelizer+Julian+2004+American+Congress+The+Building+of+Democracy#v=onepage&q=Zelizer%20Julian%202004%20American%20Congress%20The%20Building%20of%20Democracy&f=false
+ |accessdate=September 11, 2010
+}}</ref> Analyst Michael Schudson suggested that greater publicity undermined the power of political parties and caused "more roads to open up in Congress for individual representatives to influence decisions."<ref name=tws2010Sep11t14dd1 /> Norman Ornstein suggested that media prominence led to a greater emphasis on the negative and sensational side of Congress, and referred to this as the ''tabloidization'' of media coverage. <ref name=tws2010Sep11t14cc/> Others saw pressure to squeeze a political position into a thirty-second soundbite. <ref name=tws2010Sep11t14cc54>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page= 12
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+==Congress in the United States government==. 
+===Powers of Congress===. 
+{{Main|Powers of the United States Congress}} . 
+
+====Overview of congressional power====. 
+[[Article One of the United States Constitution|Article I of the Constitution]] sets forth most of the powers of Congress, which include numerous explicit powers enumerated in Section 8. [[Constitutional amendment]]s have granted Congress additional powers. Congress also has [[implied powers]] derived from the Constitution's [[Necessary and Proper Clause]].  . 
+
+Congress has authority over financial and budgetary policy through the enumerated power to lay and collect taxes, duties, imposts and excises, to pay the debts and provide for the common defense and general welfare of the United States. There is vast authority over budgets, although analyst Eric Patashnik suggested that much of Congress's power to manage the budget has been lost when the welfare state expanded since "entitlements were institutionally detached from Congress's ordinary legislative routine and rhythm."<ref name=tws2010Sep11t14dd2>{{cite news|author= Eric Patashnik|title= The American Congress: The Building of Democracy|publisher= Houghton Mifflin Company|pages= 671–2 |year= 2004 |isbn= 0-618-17906-2 |url= http://books.google.com/books?id=_MGEIIwT5pUC&printsec=frontcover&dq=Zelizer+Julian+2004+American+Congress+The+Building+of+Democracy#v=onepage&q=Zelizer%20Julian%202004%20American%20Congress%20The%20Building%20of%20Democracy&f=false |accessdate=September 11, 2010}}</ref> Another factor leading to less control over the budget was a [[Keynesian economics|Keynesian]] belief that balanced budgets were unnecessary. <ref name=tws2010Sep11t14dd2/> . 
+
+{{Image|100000-dollar.jpg|thumb|right|alt=$100,000 dollar bill.|Congress's ''power of the purse'' authorizes taxing citizens, spending money, and printing currency.}}
+The [[Sixteenth Amendment to the United States Constitution|Sixteenth Amendment]] in 1913 extended congressional power of taxation to include [[income tax]]es. <ref name="davidson-p18">Davidson (2006), p. 18</ref> The Constitution also grants Congress the exclusive power to appropriate funds, and this ''[[power of the purse]]'' is one of Congress's primary [[Separation of powers under the United States Constitution#Checks and balances|checks]] on the executive branch. <ref name="davidson-p18"/> Congress can borrow money on the credit of the [[United States]], [[Commerce Clause|regulate commerce]] with foreign nations and among the states, and coin money. <ref name=tws2010Sep11t9>{{cite news|title= Congress and the Dollar|publisher= New York Sun |date= May 30, 2008 |url= http://www.nysun.com/editorials/congress-and-the-dollar/78978/|accessdate=September 11, 2010}}</ref> Generally, both the Senate and the House of Representatives have equal legislative authority, although only the House may originate revenue and appropriation bills. <ref name=tws2010Sep11bb5>{{cite news |author= John V. Sullivan |title= How Our Laws Are Made |publisher= The Library of Congress|date= July 24, 2007 |url= http://thomas.loc.gov/home/lawsmade.bysec/congress.html|accessdate=September 11, 2010}}</ref> . 
+
+{{Image|19641102 USS CVA-31 (h97344).jpg|thumb|left|alt=Aircraft carrier at sea.|Congress authorizes defense spending such as the purchase of the ''USS Bon Homme Richard''.}}
+Congress has an important role in [[defense (military)|national defense]], including the exclusive power to declare war, to raise and maintain the [[Military of the United States|armed forces]], and to make rules for the military. <ref name=tws2010Sep11t10>{{cite news|author= Kate Zernike |title= Senate Passes Detainee Bill Sought by Bush |publisher= The New York Times |date= September 28, 2006|url= http://www.nytimes.com/2006/09/28/washington/29detaincnd.html |accessdate=September 11, 2010}}</ref> Some critics charge that the [[executive branch]] has usurped Congress's constitutionally defined task of declaring war. <ref name=DCMacnutsSuperCoolTool02>{{cite news | title = References about congressional war declaring power}}
+*{{cite news| author = Dana D. Nelson| title = The 'unitary executive' question| publisher = Los Angeles Times| date = October 11, 2008| url = http://www.latimes.com/news/opinion/la-oe-nelson11-2008oct11,0,224216.story| accessdate =October 4, 2009}}
+*{{cite news| author = Steve Holland| title = Obama revelling in U.S. power unseen in decades| publisher = Reuters UK| date = May 1, 2009| url = http://uk.reuters.com/article/idUKTRE5406CF20090501| accessdate =September 28, 2009}}
+*{{cite news| title = The Law: The President's War Powers| publisher = Time| date =  June 1, 1970| url = http://www.time.com/time/magazine/article/0,9171,878290,00.html| accessdate =September 28, 2009}}</ref> While historically presidents initiated the process for going to war, they asked for and received formal war declarations from Congress for the [[War of 1812]], the [[Mexican–American War]], the [[Spanish–American War]], [[World War I]], and [[World War II]],<ref name=tws28sep07>{{cite news| title = The Law: The President's War Powers| publisher = Time| date =  June 1, 1970| url = http://www.time.com/time/magazine/article/0,9171,878290,00.html| accessdate =September 28, 2009}}</ref> although President [[Theodore Roosevelt]]'s military move into Panama in 1903 did not get Congressional assent. <ref name="tws28sep07"/> In the early days after the North Korean invasion of 1950, President [[Harry S. Truman|Truman]] described the American response as a "police action". <ref>{{cite web|url=http://teachingamericanhistory.org/library/index.asp?document=594 |title=The President's News Conference of June&nbsp;29,&nbsp;1950 |publisher=Teachingamericanhistory.org |date=June 29, 1950 |accessdate=December 20, 2010}}</ref> According to ''[[Time (magazine)|Time]]'' magazine in 1970, "U.S. presidents [had] ordered troops into position or action without a formal congressional declaration a total of 149 times."<ref name="tws28sep07"/> In 1993, [[Michael Kinsley]] wrote that "Congress's war power has become the most flagrantly disregarded provision in the Constitution," and that the "real erosion [of Congress's war power] began after World War II."<ref name=tws28sep14>{{cite news| author = Michael Kinsley| title = The Case for a Big Power Swap| publisher = Time| date = March 15, 1993| url = http://www.time.com/time/magazine/article/0,9171,977990,00.html| accessdate =September 28, 2009}}</ref><ref name=tws28sep09>{{cite news| title = Time Essay: Where's Congress?| publisher = Time| date = May 22, 1972| url = http://www.time.com/time/magazine/article/0,9171,879072-1,00.html| accessdate =September 28, 2009}}</ref><ref name=tws2010Sep11uu>{{cite news |title= The Law: The President's War Powers |publisher= Time|date= June 1, 1970|url= http://www.time.com/time/magazine/article/0,9171,878290,00.html|accessdate=September 11, 2010}}</ref> Disagreement about the extent of congressional versus presidential power regarding war has been present periodically throughout the nation's history."<ref name=tws2010Sep11t5>{{cite news|title= The proceedings of congress.; senate.|publisher= The New York Times |date= June 28, 1862|url= http://query.nytimes.com/gst/abstract.html?res=FA0C12FC345B1B7493CAAB178DD85F468684F9 |accessdate=September 11, 2010}}</ref> . 
+
+Congress can establish post offices and post roads, issue [[patent]]s and [[copyright]]s, fix standards of weights and measures, establish Courts inferior to the [[Supreme Court of the United States|Supreme Court]], and "make all laws which shall be necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this Constitution in the government of the United States, or in any department or officer thereof." [[Article Four of the United States Constitution|Article Four]] gives Congress the power to admit new states into the Union.  . 
+
+{{Image|ThompsonWatergate.jpg|thumb|right|alt=Seated suits behind a microphone.|Congress oversees other government branches, for example, the investigation of President [[Richard Nixon|Nixon]] and [[Watergate scandal|Watergate]].}} . 
+
+One of Congress's foremost non-legislative functions is the power to investigate and oversee the executive branch. <ref name=tws2010Sep11t11>{{cite news
+ |author= David S. Broder
+ |title= Congress's Oversight Offensive
+ |publisher= Washington Post
+ |date= March 18, 2007
+ |url= http://www.washingtonpost.com/wp-dyn/content/article/2007/03/16/AR2007031601989.html
+ |accessdate=September 11, 2010
+}}</ref> [[Congressional oversight]] is usually delegated to [[United States Congressional committee|committees]] and is facilitated by Congress's subpoena power. <ref name=tws2010Sep11t13>{{cite news
+ |author= Thomas Ferraro
+ |title= House committee subpoenas Rice on Iraq
+ |publisher= Reuters
+ |date= April 25, 2007
+ |url= http://www.reuters.com/article/idUSN2518728220070425
+ |accessdate=September 11, 2010
+}}</ref> Some critics have charged that Congress has in some instances failed to do an adequate job of [[Congressional oversight|overseeing]] the other branches of government. In the [[Plame affair]], critics including Representative [[Henry A. Waxman]] charged that Congress was not doing an adequate job of oversight in this case. <ref name=tws04oct10>{{cite news
+| author = James Gerstenzang
+| title = Bush claims executive privilege in Valerie Plame Wilson case
+| publisher = Los Angeles Times
+| date = July 16, 2008
+| url = http://latimesblogs.latimes.com/presidentbush/2008/07/cheney-plame-ag.html
+| accessdate =October 4, 2009
+}}</ref> There have been concerns about congressional oversight of executive actions such as [[warrantless wiretapping]], although others respond that Congress did investigate the legality of presidential decisions. <ref name=tws28sep10>{{cite news
+| author = Elizabeth B. Bazan and Jennifer K. Elsea, legislative attorneys
+| title = Presidential Authority to Conduct Warrantless Electronic Surveillance to Gather Foreign Intelligence Information
+| publisher = Congressional Research Service
+| date = January 5, 2006
+| url = http://www.washingtonpost.com/wp-srv/nation/specials/angler/crsreview-2006.pdf
+| accessdate =September 28, 2009
+}}</ref> Political scientists Ornstein and Mann suggested that oversight functions do not help members of Congress win reelection. Congress also has the exclusive [[Impeachment in the United States#The federal impeachment procedure|power of removal]], allowing [[impeachment]] and removal of the [[United States President|president]], federal judges and other federal officers. <ref name=tws2010Sep11t12>{{cite news
+ |author= Linda P. Campbell and Glen Elsasser
+ |title= Supreme Court Slugfests A Tradition
+ |publisher= Chicago Tribune
+ |date= October 20, 1991
+ |url= http://articles.chicagotribune.com/1991-10-20/news/9104040635_1_senate-judiciary-committee-first-high-court-nominee-confirmation/2
+ |accessdate=September 11, 2010
+}}</ref> There have been charges that presidents acting under the doctrine of the [[unitary executive]] have assumed important legislative and budgetary powers that should belong to Congress. <ref name=tws28sep08>{{cite news
+| author = Eric Cantor
+| title = Obama's 32 Czars
+| publisher = The Washington Post
+| date = July 30, 2009
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2009/07/29/AR2009072902624.html
+| accessdate =September 28, 2009
+}}</ref> So-called [[signing statements]] are one way in which a president can "tip the balance of power between Congress and the [[White House]] a little more in favor of the executive branch," according to one account. <ref name=tws04oct01>{{cite news
+| author = Christopher Lee
+| title = Alito Once Made Case For Presidential Power
+| publisher = Washington Post
+| date = January 2, 2006
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2006/01/01/AR2006010100788.html
+| accessdate =October 4, 2009
+}}</ref> Past presidents, including [[Ronald Reagan]], [[George H. W. Bush]], [[Bill Clinton]], and [[George W. Bush]]<ref name=tws04oct02>{{cite news
+| author = Dan Froomkin
+| title = Playing by the Rules
+| publisher = Washington Post
+| date = March 10, 2009
+| url = http://voices.washingtonpost.com/white-house-watch/bush-rollback/playing-by-the-rules.html
+| accessdate =October 4, 2009
+}}</ref> have made public statements when signing congressional legislation about how they understand a bill or plan to execute it, and commentators including the [[American Bar Association]] have described this practice as against the spirit of the [[United States Constitution|Constitution]]. <ref name=tws04oct08>{{cite news
+| author = Dana D. Nelson
+| title = The 'unitary executive' question
+| publisher = Los Angeles Times
+| date = October 11, 2008
+| url = http://www.latimes.com/news/opinion/la-oe-nelson11-2008oct11,0,224216.story
+| accessdate =October 4, 2009
+}}</ref><ref name=tws04oct05>{{cite news
+| author = Charlie Savage
+| title = Obama Undercuts Whistle-Blowers, Senator Says
+| publisher = The New York Times
+| date = March 16, 2009
+| url = http://www.nytimes.com/2009/03/17/us/politics/17signing.html
+| accessdate =October 4, 2009
+}}</ref> There have been concerns that presidential authority to cope with financial crises is eclipsing the power of Congress. <ref name=tws28sep13>{{cite news
+| author = Binyamin Appelbaum and David Cho
+| title = U.S. Seeks Expanded Power to Seize Firms Goal Is to Limit Risk to Broader Economy
+| publisher = The Washington Post
+| date = March 24, 2009
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2009/03/23/AR2009032302830.html
+| accessdate =September 28, 2009
+}}</ref> In 2008, [[George F. Will]] called the Capitol building a "tomb for the antiquated idea that the legislative branch matters."<ref name=tws28sep>{{cite news
+| author = George F. Will -- op-ed columnist
+| title = Making Congress Moot
+| publisher = The Washington Post
+| date =  December 21, 2008
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2008/12/19/AR2008121902929.html
+| accessdate =September 28, 2009
+}}</ref> . 
+
+====Enumerated powers====. 
+{{Main|Powers of the United States Congress#Enumerated powers}} . 
+
+The Constitution details the powers of Congress in detail. In addition, other congressional powers have been granted, or confirmed, by [[constitutional amendment]]s. The [[Thirteenth Amendment to the United States Constitution|Thirteenth]] (1865), [[Fourteenth Amendment to the United States Constitution|Fourteenth]] (1868), and [[Fifteenth Amendment to the United States Constitution|Fifteenth Amendments]] (1870) gave Congress authority to enact legislation to enforce rights of [[African Americans]], including [[voting rights]], [[due process]], and [[equal protection]] under the law. <ref name="davidson-p19">Davidson (2006), p. 19</ref> Generally militia forces are controlled by state governments, not Congress. <ref name=tws2010Sep11ww>{{cite news
+ |author= J. Leslie Kincaid
+ |title= To Make the Militia a National Force: The Power of Congress Under the Constitution "for Organizing, Arming, and Disciplining" the State Troops. 
+ |publisher= The New York Times
+ |date= January 17, 1916
+ |url= http://query.nytimes.com/gst/abstract.html?res=F40C14FB355C13738DDDAE0994D9405B868DF1D3
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+====Implied powers and the commerce clause====. 
+Congress also has [[implied powers]] deriving from the Constitution's [[Necessary and Proper Clause]] which permit Congress to "make all laws which shall be necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this Constitution in the government of the United States, or in any department or officer thereof."<ref name=tws2010Sep11t14xx>{{cite news
+ |author= Stephen Herrington
+ |title= Red State Anxiety and The Constitution
+ |publisher= Huffington Post
+ |date= February 25, 2010
+ |url= http://www.huffingtonpost.com/stephen-herrington/red-state-anxiety-and-the_b_476050.html
+ |accessdate=September 11, 2010
+}}</ref> Broad interpretations of this clause and of the [[Commerce Clause]], the enumerated power to regulate commerce, in rulings such as [[McCulloch v Maryland]], have effectively widened the scope of Congress's legislative authority far beyond that prescribed in Section 8. <ref name=tws2010Sep11t14yy>{{cite news
+ |title= Timeline
+ |publisher= CBS News
+ |year= 2010
+ |url= http://www.cbsnews.com/htdocs/supreme_court_interactive/framesource_timeline.html
+ |accessdate=September 11, 2010
+}}</ref><ref name=tws2010Sep11vv>{{cite news
+ |author= Randy E. Barnett
+ |title= The Case for a Federalism Amendment
+ |publisher= Wall Street Journal
+ |date= April 23, 2009
+ |url= http://online.wsj.com/article/SB124044199838345461.html
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+===Checks and balances===. 
+{{Main|U.S. Congress in relation to the president and Supreme Court}}
+[[File:Checks and balances.jpg|thumb|left|View of the [[United States Capitol]] from the [[United States Supreme Court building]].]]
+Representative [[Lee H. Hamilton]] explained how Congress functions within the federal government:
+<blockquote>
+To me the key to understanding it is balance. The founders went to great lengths to balance institutions against each other—balancing powers among the three branches: Congress, the president, and the Supreme Court; between the House of Representatives and the Senate; between the federal government and the states; among states of different sizes and regions with different interests; between the powers of government and the rights of citizens, as spelled out in the Bill of Rights ... No one part of government dominates the other. <ref name=tws2010Sep11t14aa/>
+</blockquote> . 
+
+The Constitution provides [[Separation of powers under the United States Constitution|checks and balances]] among the three branches of the federal government. Its authors expected the greater power to lie with Congress as described in Article One. <ref name=tws2010Sep11t14aa>{{cite news
+ |author= Lee H. Hamilton
+ |title= How Congress works and why you should care
+ |publisher= Indiana University Press
+ |year= 2004
+ |isbn= 0-253-34425-5
+ |url= http://books.google.com/books?id=bmFSp3b8J_oC&dq=How+Congress+Works+and+Why+You+Should+Care&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref><ref>"The very structure of the Constitution gives us profound insights about what the founders thought was important... the Founders thought that the Legislative Branch was going to be the great branch of government." —Hon. [[John Charles Thomas (jurist)|John Charles Thomas]]<!--The Justice of the Supreme Court of Virginia for seven years, not the baritone. :-) who'd da thunk? --> [http://www.opm.gov/constitution_initiative/speech.asp ]</ref> . 
+
+The influence of Congress on the presidency has varied from period to period depending on factors such as congressional leadership, presidential political influence, historical circumstances such as war, and individual initiative by members of Congress. The [[Impeachment in the United States|impeachment]] of [[Andrew Johnson]] made the presidency less powerful than Congress for a considerable period afterwards. <ref name=tws2010Sep11t14aa>{{cite news
+ |author= Susan Sachs
+ |title= Impeachment: The Past; Johnson's Trial: 2 Bitter Months for a Still-Torn Nation
+ |publisher= The New York Times
+ |date= January 7, 1999
+ |url= http://www.nytimes.com/1999/01/07/us/impeachment-the-past-johnson-s-trial-2-bitter-months-for-a-still-torn-nation.html
+ |accessdate=September 11, 2010
+}}</ref> The 20th and 21st centuries have seen the rise of presidential power under politicians such as [[Theodore Roosevelt]], [[Woodrow Wilson|Wilson]], [[Franklin D. Roosevelt|FDR]], [[Richard Nixon|Nixon]], [[Ronald Reagan|Reagan]], and [[George W. Bush]]. <ref name='kingwh'>{{cite news | first=Richard | last=Greene | coauthors= | title=Kings in the White House | date=January 19, 2005 | publisher=BBC | url =http://news.bbc.co.uk/2/hi/americas/4181799.stm | work =BBC News | pages = | accessdate =October 7, 2007 | language = }}</ref> However, in recent years, Congress has restricted presidential power with laws such as the [[Congressional Budget and Impoundment Control Act of 1974]] and the [[War Powers Resolution]]. Nevertheless, the Presidency remains considerably more powerful today than during the 19th century. <ref name=tws2010Sep11t14aa/><ref name='kingwh'/> Executive branch officials are often loath to reveal sensitive information to members of Congress because of concern that information could not be kept secret; in return, knowing they may be in the dark about executive branch activity, congressional officials are more likely to distrust their counterparts in executive agencies. <ref name=tws2010Sep11922jm14>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |pages= 18–19
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> Many government actions require fast coordinated effort by many agencies, and this is a task that Congress is ill-suited for. Congress is slow, open, divided, and not well matched to handle more rapid executive action or do a good job of overseeing such activity, according to one analysis. <ref name=tws2010Sep11jhgv>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page= 19
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+[[File:Senate in session.jpg|thumb|The [[Impeachment of Bill Clinton|impeachment trial of President Clinton]] in 1999, [[William H. Rehnquist|Chief Justice William Rehnquist]] presiding.]]
+The Constitution concentrates removal powers in the Congress by empowering and obligating the House of Representatives to [[Impeachment in the United States|impeach]] both executive and judicial officials for "Treason, Bribery, or other high Crimes and Misdemeanors." Impeachment is a ''formal accusation'' of unlawful activity by a civil officer or government official. The Senate is constitutionally empowered and obligated to try all impeachments. A simple majority in the House is required to impeach an official; however, a two-thirds majority in the Senate is required for conviction. A convicted official is automatically removed from office; in addition, the Senate may stipulate that the [[defendant]] be banned from holding office in the future. Impeachment proceedings may not inflict more than this; however, a convicted party may face criminal penalties in a normal court of law. In the history of the United States, the House of Representatives has impeached sixteen officials, of whom seven were convicted. Another resigned before the Senate could complete the trial. Only two presidents have ever been impeached: [[Andrew Johnson]] in 1868 and [[Bill Clinton]] in 1999. Both [[trial (law)|trials]] ended in [[acquittal]]; in Johnson's case, the Senate fell one vote short of the two-thirds majority required for [[conviction (law)|conviction]]. In 1974, [[Richard Nixon]] resigned from office after impeachment proceedings in the [[House Judiciary Committee]] indicated he would eventually be removed from office.  . 
+
+The Senate has an important check on the executive power by confirming [[Cabinet of the United States|Cabinet]] [[official]]s, [[judge]]s, and other high officers "by and with the advice and consent" of the Senate. It confirms most presidential nominees but rejections are not uncommon. Furthermore, treaties negotiated by the President must be ratified by a two-thirds majority vote in the Senate to take effect. As a result, presidential arm-twisting of senators can happen before a key vote; for example, President Obama's secretary of state, [[Hillary Rodham Clinton]], urged her former senate colleagues to approve a nuclear arms treaty with Russia in 2010. <ref name=tws2010Sep11rr>{{cite news
+ |author= Charles Wolfson
+ |title= Clinton Presses Senate to Ratify Nuclear Arms Treaty with Russia
+ |publisher= CBS News
+ |date= August 11, 2010
+ |url= http://www.cbsnews.com/8301-503544_162-20013329-503544.html
+ |accessdate=September 11, 2010
+}}</ref> The House of Representatives has no formal role in either the ratification of treaties or the appointment of federal officials, other than [[Twenty-fifth Amendment to the United States Constitution#Section 2: Vice Presidential vacancy|filling vacancies]] in the office of Vice-President; a vote in each House is required to confirm a president's nomination for vice-president if a vacancy happens. <ref name=tws2010Sep11bb6>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/congress.html
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+In 1803, the Supreme Court established [[judicial review]] of federal legislation in ''[[Marbury v. Madison]]'', holding, however, that Congress could not grant unconstitutional power to the Court itself. The Constitution does not explicitly state that the courts may exercise judicial review; however, the notion that courts could declare laws [[unconstitutional]] was envisioned by the [[Founding Fathers of the United States|founding fathers]]. [[Alexander Hamilton]], for example, mentioned and expounded upon the doctrine in [[Federalist No. 78]]. [[Originalism|Originalists]] on the Supreme Court have argued that if the constitution does not say something explicitly it is unconstitutional to infer what it should, might or could have said. <ref>{{cite web |url=http://www.cfif.org/htdocs/legal_issues/legal_updates/us_supreme_court/scalia-constitutional-speech.htm |title=Constitutional Interpretation the Old Fashioned Way |publisher=Center For Individual Freedom |accessdate=September 15, 2007}}</ref> Judicial review means that the Supreme Court can nullify a congressional law. It is a huge check by the courts on the legislative authority and limits congressional power substantially. In 1857, for example, the Supreme Court struck down provisions of a congressional act of 1820 in its [[Dred Scott]] decision. <ref name=tws2010Sep11ss>{{cite news
+ |title= Decision of the Supreme Court in the Dred Scott Case
+ |publisher= The New York Times
+ |date= March 6. 1851
+ |url= http://www.nytimes.com/learning/general/onthisday/big/0306.html
+ |accessdate=September 11, 2010
+}}</ref> At the same time, the Supreme Court can extend congressional power through its constitutional interpretations.  . 
+
+Investigations are conducted to gather information on the need for future legislation, to test the effectiveness of laws already passed, and to inquire into the qualifications and performance of members and officials of the other branches. Committees may hold hearings, and, if necessary, compel individuals to testify when investigating issues over which it has the power to legislate by issuing [[subpoena]]s. <ref name=tws28sep05>{{cite news
+| author = Frank Askin
+| title = Congress's Power To Compel
+| publisher = The Washington Post
+| date = July 21, 2007
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2007/07/20/AR2007072001802.html
+| accessdate =September 28, 2009
+}}</ref><ref name=tws2010Sep11dd>{{cite news
+ |author= Ben's Guide to US Government
+ |title= Congressional Hearings: About
+ |publisher= GPO Access
+ |year= 2010
+ |url= http://www.gpoaccess.gov/chearings/about.html
+ |accessdate=September 11, 2010
+}}</ref> Witnesses who refuse to testify may be cited for [[contempt of Congress]], and those who testify falsely may be charged with [[perjury]]. Most committee hearings are open to the public (the [[United States House Permanent Select Committee on Intelligence|House]] and [[United States Senate Select Committee on Intelligence|Senate intelligence committees]] are the exception); important hearings are widely reported in the [[mass media]] and transcripts published a few months afterwards. <ref name=tws2010Sep11dd/> Congress, in the course of studying possible laws and investigating matters, generates an incredible amount of information in various forms, and can be described as a publisher. <ref name=tws2010Sep11ff>{{cite news
+ |author= United States government
+ |title= Congressional Reports: Main Page
+ |publisher= U.S. Government Printing Office
+ |year= 2010
+ |url= http://www.gpoaccess.gov/serialset/creports/index.html
+ |accessdate=September 11, 2010
+}}</ref> Indeed, it publishes House and Senate reports<ref name=tws2010Sep11ff/> and maintains databases which are updated irregularly with publications in a variety of electronic formats. <ref name=tws2010Sep11ff/> . 
+
+Congress also plays a role in presidential elections. Both Houses meet in joint session on the sixth day of January following a presidential election to count the electoral votes, and there are procedures to follow if no candidate wins a majority. <ref name=tws2010Sep11bb6b>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/congress.html
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+The main result of congressional activity is the creation of laws. <ref name=tws2010Sep11cc>{{cite news
+ |author= 111th Congress, 2nd session
+ |title= Tying It All Together: Learn about the Legislative Process
+ |publisher= United States House of Representatives
+ |year= 2010
+ |url= http://www.house.gov/house/Tying_it_all.shtml
+ |accessdate=September 11, 2010
+}}</ref> It is a huge body of rulings contained in the ''United States Code'' arranged by subject matter alphabetically under fifty title headings to present the laws "in a concise and usable form". <ref name=tws2010Sep11bb6x7>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/publication.html#usc
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+==Structure==. 
+{{Main|Structure of the U.S. Congress}}
+Congress is split into two branches—House and Senate—and manages the huge task of writing national legislation by dividing work into separate committees which specialize in different areas. Some members of Congress are elected by their peers to be officers of these committees. Further, Congress has ancillary organizations such as the [[Government Accountability Office]] and the [[Library of Congress]] to help provide it with information, and members of Congress have staff and offices to assist them as well. In addition, a vast industry of lobbyists helps members write legislation on behalf of diverse corporate and labor interests.  . 
+
+===Committees===. 
+{{Main|United States congressional committee}}
+{{Image|Congress Hall committee room 2.jpg|thumb|right|alt=Photo of a table with chairs.|Second committee room in [[Congress Hall]] in [[Philadelphia]]}} . 
+
+====Specialization====. 
+The committee structure permits members of Congress to study a particular subject intensely. It is neither expected nor possible that a member be an expert on all subject areas before Congress. <ref name="english-46">English (2003), pp. 46–47</ref> As time goes by, members develop expertise in particular subjects and their legal aspects. [[United States congressional committee|Committees]] investigate specialized subjects and advise the entire Congress about choices and trade-offs. The choice of specialty may be influenced by the member's constituency, important regional issues, prior background and experience. <ref>English, p. 46</ref> Senators often choose a different specialty from that of the other senator from their state to prevent overlap. <ref>{{cite book |author=Schiller, Wendy J. |title=Partners and Rivals: Representation in U.S. Senate Delegations |publisher=Princeton University Press |year=2000 |isbn=0691048878}}</ref> Some committees specialize in running the business of other committees and exert a powerful influence over all legislation; for example, the House Ways and Means Committee has considerable influence over House affairs. <ref name=tws2010Sep11ff511234>{{cite news
+ |title= Committees
+ |publisher= U.S. Senate
+ |year= 2010
+ |url= http://www.senate.gov/pagelayout/committees/d_three_sections_with_teasers/committees_home.htm
+ |accessdate=September 12, 2010
+}}</ref> . 
+
+====Power====. 
+Committees write legislation. While procedures such as the House discharge petition process can introduce bills to the House floor and effectively bypass committee input, they are exceedingly difficult to implement without committee action. Committees have power and have been called ''independent fiefdoms''. Legislative, oversight, and internal administrative tasks are divided among about two hundred committees and [[United States Congressional subcommittee|subcommittees]] which gather information, evaluate alternatives, and identify problems. <ref name="House_Rules"/> They propose solutions for consideration by the full chamber. <ref name="House_Rules"/> In addition, they perform the function of ''oversight'' by monitoring the executive branch and investigating wrongdoing. <ref name="House_Rules">[http://www.rules.house.gov/archives/98-241.pdf Committee Types and Roles], ''[[Congressional Research Service]]'', April 1, 2003</ref> . 
+
+====Officers====. 
+At the start of each two-year session the [[House of Representatives of the United States|House]] elects a [[Speaker of the United States House of Representatives|speaker]] who does not normally preside over debates but serves as its majority leader. In the [[United States Senate|Senate]], the [[Vice President of the United States|Vice President]] is the [[ex officio]] ''president'' of the Senate. In addition, the Senate elects an officer called the [[President pro tempore of the United States Senate|President pro tempore]]. ''Pro tempore'' means ''for the time being'' and this office is usually held by the most senior member of the Senate's majority party and customarily keeps this position until there's a change in party control. Accordingly, the Senate does not necessarily elect a new president pro tempore at the beginning of a new Congress.  . 
+
+===Support services===. 
+====Library of Congress====. 
+{{Main|Library of Congress}}
+The Library of Congress was established by an act of Congress in 1800. It is primarily housed in three buildings on [[Capitol Hill]], but also includes several other sites: the National Library Service for the Blind and Physically Handicapped in Washington, D.C.; the National Audio-Visual Conservation Center in Culpeper, Virginia; a large book storage facility located at Ft. Meade, Maryland; and multiple overseas offices. The Library had mostly law books when it was burned by a British raiding party during the [[War of 1812]], but the library's collections were restored and expanded when Congress authorized the purchase of [[Thomas Jefferson]]'s private library. One of the Library's missions is to serve the Congress and its staff as well as the American public. It is the largest library in the world with nearly 150 million items including books, films, maps, photographs, music, manuscripts, graphics, and materials in 470 languages. <ref name=aboutLOC>http://www.loc.gov/about/generalinfo.html</ref> . 
+
+====Congressional Research Service====. 
+{{Main|Congressional Research Service}}
+The [[Congressional Research Service]] provides detailed, up-to-date and non-partisan research for senators, representatives, and their staff to help them carry out their official duties. It provides ideas for legislation, helps members analyze a bill, facilitates public hearings, makes reports, consults on matters such as parliamentary procedure, and helps the two chambers resolve disagreements. It has been called the "House's think tank" and has a staff of about 900 employees. <ref name="CRS Report about CRS">{{cite web|url=http://www.fas.org/sgp/crs/misc/RL33471.pdf|title=The Congressional Research Service and the American Legislative Process|year=2008|publisher=Congressional Research Service|accessdate=July 25, 2009}}</ref> . 
+
+====Congressional Budget Office====. 
+{{Main|Congressional Budget Office}}
+The Congressional Budget Office or CBO is a [[List of United States federal agencies|federal agency]] which provides [[economics|economic data]] to Congress. <ref>{{cite book
+  | last = Sullivan
+  | first = Arthur
+  | authorlink = Arthur O' Sullivan
+  | coauthors = Steven M. Sheffrin
+  | title = Economics: Principles in action
+  | publisher = Pearson Prentice Hall
+  | year = 2003
+  | location = Upper Saddle River, New Jersey 07458
+  | page = 388
+  | url = http://www.pearsonschool.com/index.cfm?locator=PSZ3R9&PMDbSiteId=2781&PMDbSolutionId=6724&PMDbCategoryId=&PMDbProgramId=12881&level=4
+  | isbn = 0-13-063085-3}}</ref>
+It was created as an independent nonpartisan agency by the [[Congressional Budget and Impoundment Control Act of 1974]]. It helps Congress estimate revenue inflows from taxes and helps the budgeting process. It makes projections about such matters as the [[national debt]]<ref>{{cite web|url=http://www.cbo.gov/aboutcbo/ |title=Congressional Budget Office – About CBO |publisher=Cbo.gov |date= |accessdate=December 20, 2010}}</ref> as well as likely costs of legislation. It prepares an annual ''Economic and Budget Outlook'' with a mid-year update and writes ''An Analysis of the President's Budgetary Proposals'' for the  [[Senate Committee on Appropriations|Senate's Appropriations Committee]]. The [[Speaker of the United States House of Representatives|Speaker of the House]] and the [[President pro tempore of the Senate|Senate's President pro tempore]] jointly appoint the CBO Director for a four year term.  . 
+
+====Lobbyists====. 
+{{Main|Lobbying in the United States}}
+Lobbyists represent diverse interests and often seek to influence congressional decisions to reflect their clients' needs. [[Lobby groups]] and their members sometimes write legislation and [[Whip (politics)|whip]] bills. In 2007 there were approximately 17,000 federal lobbyists in Washington. <ref>{{cite book |title=Washington Representatives
+|edition=32
+|year=2007
+|month=November
+|publisher=Columbia Books
+|location=Bethesda, MD
+|isbn=1-880873-55-9
+|page=949}}</ref> They explain to legislators the goals of their organizations. Some lobbyists represent non-profit organizations and work [[pro-bono]] for issues in which they are personally interested. The term ''"lobby" was first coined by President Ulysses S. Grant.  . 
+
+===Partisanship versus bipartisanship=== . 
+
+Congress has alternated between periods of constructive cooperation and compromise between parties known as [[bipartisanship]] and periods of fierce political infighting known as [[partisanship]]. The period after the [[American Civil War|Civil War]] was marked by partisanship as is the case today. It is generally easier for committees to reach accord on issues when compromise is possible. Some [[Political science|political scientists]] speculate that a prolonged period marked by narrow majorities in both chambers of Congress has intensified partisanship in the last few decades<ref name=tws2010Sep11t14cc577>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page= 17
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> but that an alternation of control of Congress between Democrats and Republicans may lead to greater flexibility in policies as well as pragmatism and civility within the institution. <ref name=tws2010Sep11t14ccggh>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page= 18
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref><ref name=tws2010Sep11t14ccgioo>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page= 18
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+==Procedures of Congress==. 
+{{Main|Procedures of the U.S. Congress}} . 
+
+===Sessions===. 
+A term of Congress is divided into two "[[legislative session|sessions]]", one for each year; Congress has occasionally been called into an extra or ''special session''. A new session commences on January 3 each year unless Congress decides differently. The Constitution requires Congress meet at least once each year and forbids either house from meeting outside the Capitol.  . 
+
+===Joint sessions===. 
+{{Main|Joint session of the United States Congress}}
+Joint Sessions of the United States Congress occur on special occasions that require a concurrent resolution from both House and Senate. These sessions include counting [[electoral votes]] after a presidential election and the president's State of the Union address. The constitutionally-mandated report, normally given as an annual speech, is modeled on Britain's [[Speech from the Throne]], was written by most presidents after [[Thomas Jefferson|Jefferson]] but personally delivered as a spoken oration beginning with [[Woodrow Wilson|Wilson]] in 1913. Joint Sessions and Joint Meetings are traditionally presided over by the [[Speaker of the United States House of Representatives|Speaker of the House]] except when counting presidential electoral votes when the [[Vice President of the United States|vice president]] presides.  . 
+
+===Bills and resolutions===. 
+[[File:US House Committee.jpg|thumb|right|The House Financial Services committee meets. Committee members sit in the tiers of raised chairs, while those testifying and audience members sit below.]]
+Ideas for legislation can come from members, lobbyists, state legislatures, constituents, legislative counsel, or executive agencies. The usual next step is for the proposal to be passed to a committee for review. <ref name=tws2010Sep11bb6c>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/sourceofleg.html
+ |accessdate=September 11, 2010
+}}</ref> A proposal is usually in one of these forms: . 
+
+* '''Bills''' are laws in the making. A House-originated bill begins with the letters "H.R." for "House of Representatives", followed by a number kept as it progresses. <ref name=tws2010Sep11cc/> . 
+
+* '''Joint resolutions'''. There is little difference between a bill and a joint resolution since both are treated similarly; a joint resolution originating from the House, for example, begins "H.J.Res." followed by its number. <ref name=tws2010Sep11cc/> . 
+
+* '''Concurrent Resolutions''' affect only both House and Senate and accordingly are not presented to the president for approval later. In the House, it begins with "H.Con.Res."<ref name=tws2010Sep11cc/> . 
+
+* '''Simple resolutions''' concern only the House or only the Senate and begin with "H.Res."<ref name=tws2010Sep11cc/> . 
+
+Representatives introduce a bill while the House is in session by placing it in the ''hopper'' on the Clerk's desk. <ref name=tws2010Sep11cc/> It's assigned a number and referred to a committee which studies each bill intensely at this stage. <ref name=tws2010Sep11cc/> Drafting statutes requires "great skill, knowledge, and experience" and sometimes take a year or more. <ref name=tws2010Sep11bb6c/> Sometimes [[lobbying|lobbyists]] write [[legislation]] and submit it to a member for introduction. Joint resolutions are the normal way to propose a constitutional amendment or declare war. On the other hand, concurrent resolutions (passed by both houses) and simple resolutions (passed by only one house) do not have the force of [[law]] but express the opinion of Congress or regulate [[Parliamentary procedure|procedure]]. Bills may be introduced by any member of either house. However, the Constitution provides that: "All bills for raising Revenue shall originate in the House of Representatives." While the Senate cannot originate [[revenue]] and appropriation bills, it has power to amend or reject them. Congress has sought ways to establish appropriate spending levels. <ref name=tws2010Sep11bb6x6>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/budget.process.html
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+Each chamber determines its own internal rules of operation unless specified in the Constitution or prescribed by law. In the House, a [[U.S. House Committee on Rules|Rules Committee]] guides legislation; in the Senate, a [[Standing Rules of the Senate|Standing Rules]] committee is in charge. Each branch has its own traditions; for example, the Senate relies heavily on the practice of getting "unanimous consent" for noncontroversial matters. <ref name=tws2010Sep11bb6x8>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/senate.action.html
+ |accessdate=September 11, 2010
+}}</ref> House and Senate rules can be complex, sometimes requiring a hundred specific steps before becoming a law. <ref name=tws2010Sep11t14aa/> Members sometimes use experts such as [[Walter Oleszek]] to learn about proper procedures. <ref name=tws2010Sep11nn>{{cite news
+ |author= Partnership for Public Service
+ |title= Walter Oleszek: A Hill Staffer's Guide to Congressional History and Habit
+ |publisher= Washington Post
+ |date= March 29, 2009
+ |url= http://www.washingtonpost.com/wp-dyn/content/article/2009/03/27/AR2009032701563.html
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+Each bill goes through several stages in each house including consideration by a committee and advice from the [[Government Accountability Office]]. <ref name=tws2010Sep11bb6x2>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/considbycomm.html
+ |accessdate=September 11, 2010
+}}</ref> Most legislation is considered by [[standing committee]]s which have jurisdiction over a particular subject such as Agriculture or Appropriations. The House has twenty standing committees; the Senate has sixteen. Standing committees meet at least once each month. <ref name=tws2010Sep11bb6x3>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/considbycomm.html
+ |accessdate=September 11, 2010
+}}</ref> Almost all standing committee meetings for transacting business must be open to the public unless the committee votes, publicly, to close the meeting. <ref name=tws2010Sep11bb6x3/> A committee might call for public hearings on important bills. <ref name=tws2010Sep11bb6x4>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/considbycomm.html
+ |accessdate=September 11, 2010
+}}</ref> Each committee is led by a [[chairperson|chair]] who belongs to the [[majority party]] and a [[ranking minority member|ranking member]] of the [[minority party]]. Witnesses and experts can present their case for or against a bill. <ref name=tws2010Sep11cc/> Then, a bill may go to what's called a ''mark-up'' session where committee members debate the bill's merits and may offer amendments or revisions. <ref name=tws2010Sep11cc/> Committees may also amend the bill, but the full house holds the power to accept or reject committee amendments. After debate, the committee votes whether it wishes to report the measure to the full house. If a bill is ''tabled'' then it is rejected. If amendments are extensive, sometimes a new bill with amendments built in will be submitted as a so-called ''clean bill'' with a new number. <ref name=tws2010Sep11cc/> Both houses have procedures under which committees can be bypassed or overruled but they are rarely used. Generally, members who have been in Congress longer have greater seniority and therefore greater power. <ref name=tws2010Sep11qq/> . 
+
+A bill which reaches the floor of the full house can be simple or complex<ref name=tws2010Sep11cc/> and begins with an [[enacting formula]] such as "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled." Consideration of a bill requires, itself, a ''rule'' which is a simple resolution specifying the particulars of debate—time limits, possibility of further amendments, and such. <ref name=tws2010Sep11cc/> Each side has equal time and members can yield to other members who wish to speak. <ref name=tws2010Sep11cc/> Sometimes opponents seek to ''recommit'' a bill which means to change part of it. <ref name=tws2010Sep11cc/> Generally, discussion requires a ''quorum'', usually half of the total number of representatives, before discussion can begin, although there are exceptions. <ref name=tws2010Sep11mm>{{cite news
+ |title= News from Washington
+ |publisher= The New York Times
+ |date= December 3, 1861
+ |url= http://query.nytimes.com/gst/abstract.html?res=F30611FA38541A7493C1A91789D95F458684F9
+ |accessdate=September 11, 2010
+}}</ref> The house may debate and amend the bill; the precise procedures used by the House and Senate differ. A final vote on the bill follows.  . 
+
+Once a bill is approved by one house, it is sent to the other which may pass, reject, or amend it. For the bill to become law, both houses must agree to identical versions of the bill. <ref name=tws2010Sep11cc/> If the second house amends the bill, then the differences between the two versions must be reconciled in a [[United States congressional conference committee|conference committee]], an ''ad hoc'' committee that includes both senators and representatives<ref name=tws2010Sep11cc/> sometimes by using a ''reconciliation process'' to limit budget bills. <ref name=tws2010Sep11bb6x6/> Both Houses use a budget enforcement mechanism informally known as ''pay-as-you-go'' or ''paygo'' which discourages members from considering acts which increase budget deficits. <ref name=tws2010Sep11bb6x6/> If both houses agree to the version reported by the conference committee, the bill passes, otherwise it fails.  . 
+
+The Constitution specifies that a majority of members known as a ''[[quorum]]'' be present before doing business in each house. However, the rules of each house assume that a quorum is present unless a quorum call demonstrates the contrary. Since representatives and senators who are present rarely demand quorum calls, debate often continues despite the lack of a majority.  . 
+
+Voting within Congress can take many forms, including systems using lights and bells and electronic voting. <ref name=tws2010Sep11bb6x5>{{cite news
+ |author= John V. Sullivan
+ |title= How Our Laws Are Made
+ |publisher= The Library of Congress
+ |date= July 24, 2007
+ |url= http://thomas.loc.gov/home/lawsmade.bysec/consideration.html
+ |accessdate=September 11, 2010
+}}</ref> Both houses use voice voting to decide most matters in which members shout "aye" or "no" and the presiding officer announces the result. The Constitution, however, requires a [[recorded vote]] if demanded by one-fifth of the members present. If the voice vote is unclear or if the matter is controversial, a recorded vote usually happens. The Senate uses [[roll call]] voting in which a clerk calls out the names of all the senators, each senator stating "aye" or "no" when his or her name is announced. The House reserves roll call votes for the most formal matters, as a roll-call of all 435 representatives takes quite some time; normally, members vote by using an electronic device. In the case of a tie, the motion in question fails. In the Senate, the vice president may cast the tiebreaking vote if he or she is present.  . 
+
+Most votes, including quorum votes, are done electronically, and allow members to vote ''yea'' or ''nay'' or ''present'' or ''open''. <ref name=tws2010Sep11bb6x5/> Members insert a voting ''ID card'' and can change their votes during the last five minutes if they choose; in addition, paper ballots are used on some occasions—''yea'' indicated by green and ''nay'' by red. <ref name=tws2010Sep11bb6x5/> One member can not cast a vote for another. <ref name=tws2010Sep11bb6x5/> Congressional votes are recorded on an online database. <ref name=tws2010Sep11gg>{{cite news
+ |author= United States government
+ |title= Recent Votes
+ |publisher= United States Senate
+ |year= 2010
+ |url= http://www.senate.gov/pagelayout/legislative/a_three_sections_with_teasers/votes.htm
+ |accessdate=September 11, 2010
+}}</ref><ref name=tws2010Sep11t7>{{cite news
+ |title= The U.S. Congress - Votes Database -- Members of Congress / Robert Byrd
+ |publisher= Washington Post
+ |date= June 17, 2010
+ |url= http://projects.washingtonpost.com/congress/members/k000105/
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+After passage by both houses, a bill is considered to be ''enrolled'' and is sent to the [[President of the United States|president]] for approval. <ref name=tws2010Sep11cc/> The president may sign it making it law or [[veto]] it, perhaps returning it to Congress with his objections. A vetoed bill can still become law if each house of Congress votes to override the veto with a two-thirds majority. Finally, the president may do nothing—neither signing nor vetoing the bill—and then the bill becomes law automatically after ten days (not counting Sundays) according to the Constitution. But if Congress is adjourned during this period, presidents may veto legislation passed at the end of a congressional session simply by ignoring it; the maneuver is known as a [[pocket veto]], and cannot be overridden by the adjourned Congress.  . 
+
+==Congress and the public==. 
+{{Main|U.S. Congress and citizens}} . 
+
+===Challenges of reelection===. 
+====Citizens and representatives====. 
+Senators face reelection every six years, and representatives every two. Reelections encourage candidates to focus their publicity efforts at their home states or districts. <ref name=tws2010Sep11t14dd1/> Running for reelection can be a grueling process of distant travel and fund-raising which distracts senators and representatives from paying attention to governing, according to some critics. <ref name=twsSEPnn876/><ref name=twsSEPnn876>{{cite news
+| author = By Larry J. Sabato
+| title = An amendment is needed to fix the primary mess
+| publisher = USA Today
+| date = September 26, 2007
+| url = http://www.usatoday.com/printedition/news/20070926/opcomwednesday.art.htm
+| accessdate =September 20, 2009
+}}</ref> although others respond that the process is necessary to keep members of Congress in touch with voters.  . 
+
+{{Image|Gerrymandering Comparison.png|thumb|left|alt=two boxes with red dots and blue dots.|In this example, the more even distribution is on the left and the gerrymandering is on the right.}}
+Nevertheless, [[incumbency|incumbent]] members of Congress running for reelection have strong advantages over challengers. <ref name=tws2010Sep11jggha/> They raise more money<ref name="tws02oct205"/> because donors expect incumbents to win, they give their funds to them rather than challengers. <ref name=tws02oct223>{{cite news
+| author = ADAM CLYMER,
+| title = Campaign spending in congress races soars to new high
+| publisher = New York Times
+| date = October 29, 1992
+| url = http://www.nytimes.com/1992/10/29/us/campaign-spending-in-congress-races-soars-to-new-high.html
+| accessdate =October 2, 2009
+}}</ref><ref name="tws02oct216"/> And donations are vital for winning elections. <ref name=tws01oct23>{{cite news
+| author = Brian Kalish
+| title = GOP exits to cost party millions
+| publisher = USA TODAY
+| date = May 19, 2008
+| url = http://www.usatoday.com/news/politics/election2008/2008-05-18-PAC_N.htm
+| accessdate =October 1, 2009
+}}</ref> One critic compared being elected to Congress to receiving [[life tenure]] at a university. <ref name="tws02oct216"/> Another advantage for representatives is the practice of [[gerrymandering]]. <ref name=tws2010Sep11ii/><ref name=twsSEPnnppoi>{{cite journal
+  | last = Macedo
+  | first = Stephen
+  | title = Toward a more democratic Congress? Our imperfect democratic constitution: the critics examined
+  | journal = Boston University Law Review
+  | volume = 89
+  | pages = 609–628
+  | publisher = Boston University Law Review
+  | date = August 11, 2008
+  | url = http://docs.google.com/gview?a=v&q=cache%3AQ33mcnJC4pkJ%3Awww.bu.edu%2Flaw%2Fcentral%2Fjd%2Forganizations%2Fjournals%2Fbulr%2Fvolume89n2%2Fdocuments%2FMACEDO.pdf+%22our+undemocratic+constitution%22+critic%3F+review%3F&hl=en&gl=us&pli=1
+  | accessdate =September 20, 2009}}</ref> After each ten year census, states are allocated representatives based on population, and officials in power can choose how to draw the congressional district boundaries to support candidates from their party. Both senators and representatives enjoy free mailing privileges called [[franking privilege]]s. As a result, reelection rates of members of Congress hovers around 90 percent,<ref name=incumbent/> causing some critics to accuse them of being a privileged class. <ref name=tws2010Sep11t14cc/> Academics such as Princeton's [[Stephen Macedo]] have proposed solutions to fix gerrymandering.  . 
+
+====Expensive campaigns====. 
+In 1971, the cost of running for congress in [[Utah]] was $70,000<ref name="tws01oct40"/> but costs have climbed. <ref name=tws01oct38>{{cite news
+| author = Barbara Borst, Associated Press
+| title = Campaign spending up in U.S. congressional elections
+| publisher = USA Today
+| date = October 29, 2006
+| url = http://www.usatoday.com/news/washington/2006-10-29-campaign-spending_x.htm
+| accessdate =October 1, 2009
+}}</ref> The biggest expense is television ads. <ref name=tws01oct22/><ref name=tws02oct216>{{cite news
+| author = Joseph A. Califano Jr. 
+| title = PAC's Remain a Pox
+| publisher = The New York Times
+| date = May 27, 1988
+| url = http://www.nytimes.com/1988/05/27/opinion/pac-s-remain-a-pox.html
+| accessdate =October 2, 2009
+}}</ref><ref name="tws01oct40"/><ref name=tws01oct33>{{cite news
+| author = Dan Froomkin
+| title = Campaign Finance -- Introduction
+| publisher = Washington Post
+| date = September 15, 1997
+| url = http://www.washingtonpost.com/wp-srv/national/longterm/campfin/intro.htm
+| accessdate =October 1, 2009
+}}</ref><ref name="tws01oct32"/> Today's races cost more than a million dollars for a House seat, and six million or more for a Senate seat. <ref name=tws2010Sep11t14cc/><ref name="tws01oct22"/><ref name="tws01oct33"/><ref name=DCMacnutsSuperCoolTool04>{{cite news | title = References about diffname}}
+*{{cite news
+| author = Jean Merl
+| title = Gloves Come Off in Attack Ads by Harman, Kuykendall
+| publisher = Los Angeles Times
+| date = October 18, 2000
+| url = http://articles.latimes.com/2000/oct/18/local/me-38161
+| accessdate =September 30, 2009}}
+*{{cite news
+| author = Shanto Iyengar -- Director, Political Communications Lab, Stanford University
+| title = Election 2008: The Advertising
+| publisher = Washington Post
+| date = August 12, 2008
+| url = http://www.washingtonpost.com/wp-dyn/content/discussion/2008/08/10/DI2008081001615.html
+| accessdate =September 30, 2009}}
+*{{cite news
+| author = Dave Lesher
+| title = COLUMN ONE - TV Blitz Fueled by a Fortune - Once obscure, Huffington now is pressing Feinstein. His well-financed rapid-response team has mounted an unprecedented ad attack. 
+| publisher = Los Angeles Times
+| date = September 12, 1994
+| url = http://articles.latimes.com/1994-09-12/news/mn-37700_1_tv-ads
+| accessdate =September 30, 2009}}
+*{{cite news
+| author = Howard Kurtz
+| title = Democrats Chase Votes With a Safety Net
+| publisher = Washington Post
+| date = October 28, 1998
+| url = http://www.washingtonpost.com/wp-srv/politics/campaigns/keyraces98/stories/ads102898.htm
+| accessdate =September 30, 2009}}
+</ref><ref name=tws01oct43>{{cite news
+| author = James Oliphant
+| title = '08 Campaign costs nearing $2 Billion. Is it worth it?
+| publisher = Los Angeles Times
+| date = April 9, 2008
+| url = http://latimesblogs.latimes.com/washington/2008/04/campaignexpense.html
+| accessdate =October 1, 2009
+}}</ref> Since fundraising is vital, "members of Congress are forced to spend ever-increasing hours raising money for their re-election."<ref name=tws01oct35>{{cite news
+| author = PR Newswire
+| title = Campaign Finance Groups Praise Rep. Welch for Cosponsoring Fair Elections Now Act
+| publisher = Reuters
+| date = May 19, 2009
+| url = http://www.reuters.com/article/pressRelease/idUS184834+19-May-2009+PRN20090519
+| accessdate =October 1, 2009
+}}</ref> . 
+
+Nevertheless, the [[Supreme Court of the United States|Supreme Court]] has treated campaign contributions as a [[free speech]] issue. <ref name="tws01oct38"/> Some see money as a good influence in politics since it "enables candidates to communicate with voters."<ref name="tws01oct38"/> Few members retire from Congress without complaining about how much it costs to campaign for reelection. <ref name=tws2010Sep11t14cc/> Critics contend that members of Congress are more likely to attend to the needs of heavy campaign contributors than to ordinary citizens. <ref name=tws2010Sep11t14cc/> . 
+
+Elections are influenced by many variables. Some political scientists speculate there is a ''coattail effect'' (when a popular president or party position has the effect of reelecting incumbents who win by "riding on the president's coattails"), although there is some evidence that the coattail effect is irregular and possibly declining since the 1950s. <ref name=tws2010Sep11jggha/> Some districts are so heavily Democratic or Republican that they are called a [[safe seat]]; any candidate winning the primary will almost always be elected, and these candidates do not need to spend money on advertising. <ref name=tws30sep13>{{cite news
+| author = John Balzar
+| title = Democrats Battle Over a Safe Seat in Congress
+| publisher = Los Angeles Times
+| date = May 24, 2006
+| url = http://articles.latimes.com/2006/may/24/local/me-harman24
+| accessdate =September 30, 2009
+}}</ref><ref name=tws30sep14>{{cite news
+| title = The Congress: An Idea on the March
+| publisher = Time Magazine
+| date = Jan. 11, 1963
+| url = http://www.time.com/time/magazine/article/0,9171,873000-5,00.html
+| accessdate =September 30, 2009
+}}</ref> But some races can be competitive when there is no incumbent. If a seat becomes vacant in an open district, then both parties may spend heavily on advertising in these races; in California in 1992, only four of twenty races for House seats were considered highly competitive. <ref name=tws30sep18>{{cite news
+| author = staff writer
+| title = Decision '92 - SPECIAL VOTERS' GUIDE TO STATE AND LOCAL ELECTIONS - THE CONGRESSIONAL RACES
+| publisher = Los Angeles Times
+| date = October 25, 1992
+| url = http://articles.latimes.com/1992-10-25/news/ss-1279_1_congressional-races
+| accessdate =September 30, 2009
+}}</ref> . 
+
+====Television and negative advertising====. 
+Since members of Congress must advertise heavily on television, this usually involves [[negative advertising]], which smears an opponent's character without focusing on the issues. <ref name=DCMacnutsSuperCoolTool03>{{cite news | title = References about prevalence of attack ads}}
+*{{cite news
+| author = Brooks Jackson and Justin Bank
+| title = Radio, Radio -- New Democratic ads attacking House Republicans in the lead-up to the 2010 midterm elections don't tell the whole story. 
+| publisher = Newsweek
+| date = February 5, 2009
+| url = http://www.newsweek.com/id/183328
+| accessdate =September 30, 2009}}
+*{{cite news
+| author = Fredreka Schouten
+| title = Union helps non-profit groups pay for attack ads
+| publisher = USA Today
+| date = September 19, 2008
+| url = http://www.usatoday.com/news/politics/election2008/2008-09-18-union-money_N.htm
+| accessdate =September 30, 2009}}
+*{{cite news
+| author = Ruth Marcus
+| title = Attack Ads You'll Be Seeing
+| publisher = Washington Post
+| date = August 8, 2007
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2007/08/07/AR2007080701287.html
+| accessdate =September 30, 2009}}
+*{{cite news
+| author = [[Chris Cillizza]]
+| title = Ads, Ads Everywhere!
+| publisher = Washington Post
+| date = September 20, 2006
+| url = http://voices.washingtonpost.com/thefix/ohio-river-ramble/ads-ads-everywhere.html
+| accessdate =September 30, 2009}}
+*{{cite news
+| author = SAMANTHA GROSS Associated Press
+| title = Coming Soon: Personalized Campaign Ads
+| publisher = Washington Post
+| date = September 7, 2007
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2007/09/07/AR2007090701573_pf.html
+| accessdate =September 30, 2009}}
+</ref> Negative advertising is seen as effective because "the messages tend to stick."<ref name=tws30sep04>{{cite news
+| author = Howard Kurtz
+| title = CAMPAIGN ON TELEVISION People May Dislike Attack Ads, but the Messages Tend to Stick
+| publisher = Washington Post
+| date = January 6, 2008
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2008/01/05/AR2008010502196.html
+| accessdate =September 30, 2009
+}}</ref> However, these ads sour the public on the political process in general as most members of Congress seek to avoid blame. <ref name=tws2010Sep11piiu>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page= 21
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> One wrong decision or one damaging television image can mean defeat at the next election, which leads to a culture of risk avoidance, a need to make policy decisions behind closed doors,<ref name=tws2010Sep11piiu/> and concentrating publicity efforts in the members' home districts. <ref name=tws2010Sep11t14dd1/> . 
+
+====Public perceptions of Congress====. 
+{{Image|An Advertisement of The Federalist - Project Gutenberg eText 16960.jpg|upright|thumb|alt=Ad for the Federalist.|The Federalist Papers argued in favor of a strong connection between citizens and their representatives.}}
+Prominent [[Founding Fathers of the United States|Founding Fathers]] writing in the [[Federalist Papers]] felt elections were essential to liberty and that a bond between the people and the representatives was particularly essential<ref name=tws01oct>{{cite news
+| author = Alexander Hamilton or James Madison
+| title = US Constitutional Documents: The Federalist Paper No. 52
+| date = February 8, 1788
+| url = http://en.wikisource.org/wiki/The_Federalist_Papers/No._52
+| accessdate =October 1, 2009
+}}</ref> and that "frequent elections are unquestionably the only policy by which this dependence and sympathy can be effectually secured."<ref name="tws01oct"/> In 2009, however, few Americans were familiar with leaders of Congress. <ref name=tws01oct01>{{cite news
+| title = Congress` Approval Rating at Lowest Point for Year
+| publisher = Reuters
+| date = September 2, 2009
+| url = http://www.reuters.com/article/pressRelease/idUS95973+02-Sep-2009+BW20090902
+| accessdate =October 1, 2009
+}}</ref><ref name=tws01oct06>{{cite news
+| title = THE CONGRESS: Makings of the 72nd (Cont.)
+| publisher = Time Magazine
+| date = September 22, 1930
+| url = http://www.time.com/time/magazine/article/0,9171,740313,00.html
+| accessdate =October 1, 2009
+}}</ref><ref name=tws01oct18>{{cite news
+| author = Jonathan Peterson
+| title = Confident Clinton Lends Hand to Congress Candidates
+| publisher = Los Angeles Times
+| date = October 21, 1996
+| url = http://articles.latimes.com/1996-10-21/news/mn-56229_1_clinton-campaign
+| accessdate =October 1, 2009
+}}</ref> The percentage of Americans eligible to vote who did, in fact, vote was 63% in 1960, but has been falling since, although there was a slight upward trend in the 2008 election. <ref name=DCMacnutsSuperCoolTool05>{{cite news | title = References about diffname}}
+*{{cite news
+| title = THE CONGRESS: Makings of the 72nd (Cont.)
+| publisher = Time Magazine
+| date = September 22, 1930
+| url = http://www.time.com/time/magazine/article/0,9171,740313,00.html
+| accessdate =October 1, 2009}}
+*{{cite news
+| author = Maki Becker
+| title = Informed Opinions on Today's Topics - Looking for Answers to Voter Apathy
+| publisher = Los Angeles Times
+| date = June 17, 1994
+| url = http://articles.latimes.com/1994-06-17/local/me-5121_1_motor-voter
+| accessdate =October 1, 2009}}
+*{{cite news
+| author = Daniel Brumberg
+| title = America's Re-emerging Democracy
+| publisher = Washington Post
+| date = October 30, 2008
+| url = http://newsweek.washingtonpost.com/postglobal/needtoknow/2008/10/america_our_re-emerging_democr.html
+| accessdate =October 1, 2009}}
+*{{cite news
+| author = Karen Tumulty
+| title = Congress Must Now Make Own Painful Choices
+| publisher = Los Angeles Times
+| date = July 8, 1986
+| url = http://articles.latimes.com/1986-07-08/news/mn-22496_1_painful-choice
+| accessdate =October 1, 2009}}
+*{{cite news
+| author = Janet Hook
+| title = As U.S. Economy Flows, Voter Vitriol Ebbs
+| publisher = Los Angeles Times
+| date = December 22, 1997
+| url = http://articles.latimes.com/1997/dec/22/news/mn-1214
+| accessdate =October 1, 2009}}
+</ref> [[Public opinion polls]] asking people if they approve of the job Congress is doing have, in the last few decades, hovered around 25% with some variation. <ref name=tws2010Sep11t14cc/><ref name="tws28sep01"/><ref name=tws08oct01>{{cite news
+| author = Gallup Poll/Newsweek
+| title = Congress and the Public: Congressional Job Approval Ratings Trend (1974 – present)
+| publisher = The Gallup Organization
+| date = October 8, 2009
+| url = http://www.gallup.com/poll/1600/Congress-Public.aspx
+| accessdate =October 8, 2009
+}}</ref><ref name=DCMacnutsSuperCoolTool01>{{cite news | title = References about low approval ratings}}
+*{{cite news
+| title = Congress' Approval Rating Jumps to 31%
+| publisher = Gallup
+| date = February 17, 2009
+| url = http://www.gallup.com/poll/114670/Congress-Approval-Rating-Jumps.aspx
+| accessdate =October 1, 2009}}
+*{{cite news
+| title = Congress` Approval Rating at Lowest Point for Year
+| publisher = Reuters
+| date = September 2, 2009
+| url = http://www.reuters.com/article/pressRelease/idUS95973+02-Sep-2009+BW20090902
+| accessdate =October 1, 2009}}
+*{{cite news
+| author = John Whitesides
+| title = Bush, Congress at record low ratings: Reuters poll
+| publisher = Reuters
+| date = September 19, 2007
+| url = http://www.reuters.com/article/politicsNews/idUSN1844140220070919
+| accessdate =October 1, 2009}}
+*{{cite news
+| author = Seung Min Kim
+| title = Poll: Congress' job approval at 31%
+| publisher = USA TODAY
+| date = February 18, 2009
+| url = http://www.usatoday.com/news/washington/2009-02-17-congress-poll_N.htm
+| accessdate =October 1, 2009}}
+</ref><ref name=twsSEPnn5454>{{cite news
+| author = interview by David Schimke
+| title = Presidential Power to the People -- Author Dana D. Nelson on why democracy demands that the next president be taken down a notch
+| publisher = Utne Reader
+| date = September–October 2008
+| url = http://www.utne.com/2008-09-01/Politics/Presidential-Power-to-the-People.aspx
+| accessdate =September 20, 2009
+}}</ref><ref name=tws01oct10>{{cite news
+| author = Guy Gugliotta
+| title = Politics In, Voter Apathy Out Amid Heavy Turnout
+| publisher = Washington Post
+| date = November 3, 2004
+| url = http://www.washingtonpost.com/wp-dyn/articles/A20054-2004Nov2.html
+| accessdate =October 1, 2009
+}}</ref><ref name=tws01oct20>{{cite news
+| agency = Associated Press
+| title = Voter Turnout Rate Said to Be Highest Since 1968
+| publisher = Washington Post
+| date = December 15, 2008
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2008/12/14/AR2008121402295.html
+| accessdate =October 1, 2009
+}}</ref> Scholar Julian Zeliger suggested that the "size, messiness, virtues, and vices that make Congress so interesting also create enormous barriers to our understanding the institution... Unlike the presidency, Congress is difficult to conceptualize."<ref name=tws2010Sep11t14dd3>{{cite news
+ |author= Julian E. Zelizer (editor)
+ |title= The American Congress: The Building of Democracy
+ |publisher= Houghton Mifflin Company
+ |page= page xiv–xv
+ |year= 2004
+ |isbn= 0-618-17906-2
+ |url= http://books.google.com/books?id=_MGEIIwT5pUC&printsec=frontcover&dq=Zelizer+Julian+2004+American+Congress+The+Building+of+Democracy#v=onepage&q=Zelizer%20Julian%202004%20American%20Congress%20The%20Building%20of%20Democracy&f=false
+ |accessdate=September 11, 2010
+}}</ref> Other scholars suggest that despite the criticism, "Congress is a remarkably resilient institution ... its place in the political process is not threatened ... it is rich in resources" and that most members behave ethically. <ref name=tws2010Sep11rtww>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page=23
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> They contend that "Congress is easy to dislike and often difficult to defend" and this perception is exacerbated because many challengers running for Congress run ''against'' Congress, which is an "old form of American politics" that further undermines Congress's reputation with the public:<ref name=tws2010Sep11t14cc/> . 
+
+<blockquote>The rough-and-tumble world of legislating is not orderly and civil, human frailties too often taint its membership, and legislative outcomes are often frustrating and ineffective ... Still, we are not exaggerating when we say that Congress is essential to American democracy. We would not have survived as a nation without a Congress that represented the diverse interests of our society, conducted a public debate on the major issues, found compromises to resolve conflicts peacefully, and limited the power of our executive, military, and judicial institutions ... The popularity of Congress ebbs and flows with the public's confidence in government generally ... the legislative process is easy to dislike—it often generates political posturing and grandstanding, it necessarily involves compromise, and it often leaves broken promises in its trail. Also, members of Congress often appear self-serving as they pursue their political careers and represent interests and reflect values that are controversial. Scandals, even when they involve a single member, add to the public's frustration with Congress and have contributed to the institution's low ratings in opinion polls. <small>—Smith, Roberts & Wielen</small><ref name=tws2010Sep11t14cc/></blockquote> . 
+
+An additional factor that confounds public perceptions of Congress is that Congressional issues are becoming more technical and complex and require expertise in subjects such as [[science]] and [[engineering]] and [[economics]]. <ref name=tws2010Sep11t14cc/> As a result, Congress often cedes authority to experts at the executive branch. <ref name=tws2010Sep11t14cc/> . 
+
+===Smaller states and bigger states===. 
+When the [[Constitution of the United States|Constitution]] was ratified in 1787, the ratio of the populations of large states to small states was roughly twelve to one. The [[Connecticut Compromise]] gave every state, large and small, an equal vote in the [[United States Senate|Senate]]. <ref name=tws10janx01>{{cite web
+|title= Roger Sherman and The Connecticut Compromise
+|publisher= Connecticut Judicial Branch: Law Libraries
+|date= January 10, 2010
+|url= http://www.jud.ct.gov/lawlib/History/Sherman.htm
+|accessdate=January 10, 2010
+}}</ref> Since each state has two senators, residents of smaller states have more clout in the Senate than residents of larger states. But since 1787, the population disparity between large and small states has grown; in 2006, for example, [[California]] had seventy times the population of [[Wyoming]]. <ref name=tws10janx334>{{cite news
+|author= Cass R. Sunstein
+|title= It Could Be Worse
+|publisher= The New Republic Online
+|date= October 26, 2006
+|url= http://www.powells.com/review/2006_10_26.html
+|accessdate=January 10, 2010
+}}</ref> Critics such as constitutional scholar [[Sanford Levinson]] have suggested that the population disparity works against residents of large states and causes a steady redistribution of resources from "large states to small states."<ref name=twsSEPnn81>{{cite news
+| author = Reviewed by Robert Justin Lipkin
+| title = OUR UNDEMOCRATIC CONSTITUTION: WHERE THE CONSTITUTION GOES WRONG (AND HOW WE THE PEOPLE CAN CORRECT IT)
+| publisher = Widener University School of Law
+| date = January, 2007
+| url = http://www.bsos.umd.edu/gvpt/lpbr/subpages/reviews/levinson0107.htm
+| accessdate =September 20, 2009
+}}</ref><ref name=tws10janx09>{{cite news
+|author= Sanford Levinson
+|title= Our Undemocratic Constitution
+|page= 60
+|publisher= 
+|year= 2006
+|url= http://books.google.com/books?id=ZHQ8z2MAZToC&dq=%22sanford+levinson%22+review%3F+%22Our+undemocratic+constitution%22&printsec=frontcover#v=snippet&q=small%20states&f=false
+|accessdate=January 10, 2010
+}}</ref><ref name=twsSEPnn90>{{cite news
+| author =  Richard Labunski interviewed by Policy Today's Dan Schwartz
+| title = Time for a Second Constitutional Convention?
+| publisher = Policy Today
+| date = October 18, 2007
+| url = http://www.policytoday.com/index.php?option=com_content&task=view&id=258&Itemid=148
+| accessdate =September 20, 2009
+}}</ref> However, others argue that the Connecticut compromise was deliberately intended by the [[Founding Fathers of the United States|Framers]] to construct the [[United States Senate|Senate]] so that each state had equal footing not based on population,<ref name=tws10janx01/> and contend that the result works well on balance.  . 
+
+===Members and constituents===. 
+A major role for members of Congress is providing services to [[constituency|constituents]]. <ref>Charles L. Clapp, ''The Congressman, His Work as He Sees It'' (Washington, D.C.: The Brookings Institution, 1963), p. 55; cf. pp. 50-55, 64-66, 75-84. </ref> Constituents request assistance with problems. <ref>''Congressional Quarterly Weekly Report'' 35 (September 3, 1977): 1855. English, ''op. cit''., pp. 48-49, notes that members will also regularly appear at local events in their home district, and will maintain offices in the home [[congressional district]] or state. </ref> Providing services helps members of Congress win votes and elections. <ref name=tws2010Sep11ii>{{cite news
+ |author= Susan Page
+ |title= 5 keys to who will control Congress:  How immigration, gas, Medicare, Iraq and scandal could affect midterm races
+ |publisher= USA TODAY
+ |date= May 9, 2006
+ |url= http://www.usatoday.com/educate/college/polisci/articles/20060514.htm
+ |accessdate=September 11, 2010
+}}</ref><ref name=tws2010Sep11hh>{{cite news
+ |author= Robert Preer
+ |title= Two Democrats in Senate race stress constituent services
+ |publisher= Boston Globe
+ |date= August 15, 2010
+ |url= http://www.boston.com/news/local/massachusetts/articles/2010/08/15/quincy_democrats_keenan_and_tobin_stress_service_in_race_for_state_senate/?rss_id=Boston.com+--+Massachusetts+news
+ |accessdate=September 11, 2010
+}}</ref><ref name=tws2010Sep11jj>{{cite news
+ |author= Daniel Malloy
+ |title= Incumbents battle association with stimulus, Obama
+ |publisher= ''Pittsburgh Post-Gazette''
+ |date= August 22, 2010
+ |url= http://www.post-gazette.com/pg/10234/1081868-176.stm
+ |accessdate=September 11, 2010
+}}</ref> and can make a difference in close races. <ref name=tws2010Sep11kk>{{cite news
+ |author= Amy Gardner
+ |title= Wolf's Decisive Win Surprised Even the GOP
+ |publisher= Washington Post
+ |date= November 27, 2008
+ |url= http://www.washingtonpost.com/wp-dyn/content/article/2008/11/24/AR2008112403399.html
+ |accessdate=September 11, 2010
+}}</ref> Congressional staff can help citizens navigate government bureaucracies. <ref name=tws2010Sep11t14aa/> One academic described the complex intertwined relation between lawmakers and constituents as ''home style''. <ref name=tws2010Sep11t14bb>{{cite news
+ |author= William T. Blanco, Editor
+ |title= Congress on display, Congress at work
+ |publisher= University of Michigan
+ |year= 2000
+ |isbn= 0-472-08711-8
+ |url= http://books.google.com/books?id=ITudab2zD_cC&printsec=frontcover&dq=Congress+on+Display,+Congress+at+Work#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+===Congressional style===. 
+One way to categorize lawmakers, according to political scientist [[Richard Fenno]], is by their general motivation: . 
+
+# '''''Reelection.''''' These are lawmakers who "never met a voter they didn't like" and provide excellent constituent services. 
+# '''''Good public policy.''''' Legislators who "burnish a reputation for policy expertise and leadership."
+# '''''Power in the chamber.''''' Lawmakers who spend serious time along the "rail of the House floor or in the Senate cloakroom ministering to the needs of their colleagues."<ref name=tws2010Sep11t14bb/> Famous legislator [[Henry Clay]] in the mid-19th century was described as an "issue entrepreneur" who looked for issues to serve his ambitions. <ref name=tws2010Sep11t14bb/> . 
+
+==Privileges and pay==. 
+===Privileges protecting members===. 
+Members of Congress enjoy [[parliamentary privilege]], including [[Parliamentary immunity|freedom from arrest]] in all cases except for [[treason]], [[felony]], and [[breach of the peace]] and freedom of speech in debate. This constitutionally derived immunity applies to members during sessions and when traveling to and from sessions. <ref>Davidson (2006), p. 17</ref> The term ''arrest'' has been interpreted broadly, and includes any detention or delay in the course of [[Police|law enforcement]], including [[Summons|court summons]] and [[subpoena]]s. The rules of the House strictly guard this privilege; a member may not waive the privilege on his or her own, but must seek the permission of the whole house to do so. Senate rules however are less strict and permit individual senators to waive the privilege as they choose.  . 
+
+The Constitution guarantees absolute freedom of debate in both houses, providing in the [[Speech or Debate Clause]] of the Constitution that "for any Speech or Debate in either House, they shall not be questioned in any other Place." Accordingly, a member of Congress may not be sued in court for [[slander]] because of remarks made in either house, although each house has its own rules restricting offensive speeches, and may punish members who transgress them.  . 
+
+Obstructing the work of Congress is a [[crime]] under [[federal law]] and is known as [[contempt of Congress]]. Each branch has the power to cite individuals for contempt but can only issue a contempt citation—the judicial system pursues the matter like a normal criminal case. If convicted in court, an individual found guilty of contempt of Congress may be imprisoned for up to one year.  . 
+
+The [[franking]] privilege allows members of Congress to send official [[mail]] to constituents at government expense. Though they are not permitted to send election materials, borderline material is often sent, especially in the run-up to an election by those in close races. <ref>English (2003), pp. 24–25</ref><ref>{{cite news |author=Simpson, G. R. |title=Surprise! Top Frankers Also Have the Stiffest Challenges |publisher=Roll Call |date=October 22, 1992}}</ref> Indeed, some academics consider free mailings as giving incumbents a big advantage over challengers. <ref name=incumbent/><ref name=tws2010Sep11qaazzx>{{cite news
+ |author= Steven S. Smith, Jason M. Roberts, Ryan J. Vander Wielen
+ |title= The American Congress (Fourth Edition)
+ |publisher= Cambridge University Press
+ |page= 79
+ |year= 2006
+ |url= http://books.google.com/books?id=fWpE_HxuxVEC&dq=Smith,+Steven+S.,+Jason+M.+Roberts,+and+Ryan+Vander+Wielen+%282007%29.+The+American+Congress&printsec=frontcover#v=onepage&q&f=false
+ |accessdate=September 11, 2010
+}}</ref> . 
+
+===Pay and benefits===. 
+From 1789 to 1815, members of Congress received only a daily payment of $6 while in session. Members received an annual salary of $1,500 per year from 1815 to 1817, then a per diem salary of $8 from 1818 to 1855; since then they have received an annual salary, first pegged in 1855 at $3,000. <ref name="salaries">[http://www.senate.gov/artandhistory/history/common/briefing/senate_salaries.htm Senate Salaries since 1789.] United States Senate. Retrieved on August 13, 2007. </ref><ref name="salaries2">[http://www.congressproject.org/congressionalsalary.pdf Salaries of Members of Congress] (PDF). [[Congressional Research Service]]. Retrieved on August 12, 2007. </ref> In 1907, salaries were raised to $7,500 per year, the equivalent of $173,000 in 2010 dollars. <ref name="salaries2"/> In 2006, members of Congress received a yearly salary of $165,200. <ref name="salaries2"/> Congressional leaders were paid $183,500 per year. The Speaker of the House of Representatives earns $212,100 annually. The salary of the [[President pro tempore of the United States Senate|President pro tempore]] for 2006 was $183,500, equal to that of the [[Party leaders of the United States House of Representatives|majority and minority leaders of the House]] and [[Party leaders of the United States Senate|Senate]]. <ref name="salaries3">[http://www.senate.gov/reference/resources/pdf/RL33245.pdf Salaries of Legislative, Executive, and Judicial Officials] (PDF). [[Congressional Research Service]]. Retrieved on August 12, 2007. </ref> Privileges include having an office and paid staff. <ref name=tws2010Sep11qq>{{cite news
+ |title= BLACKS: Confronting the President
+ |publisher= Time Magazine
+ |date= April 5, 1971
+ |url= http://www.time.com/time/magazine/article/0,9171,876892,00.html
+ |accessdate=September 11, 2010
+}}</ref> In 2008, non-officer members of Congress earned $169,300 annually. <ref name=tws28sep01>{{cite news
+| agency = Associated Press
+| title = Congress gets $4,100 pay raise
+| publisher = USA Today
+| date = 1/9/2008
+| url = http://www.usatoday.com/news/washington/2008-01-09-Raise-me_N.htm
+| accessdate =September 28, 2009
+}}</ref> Some critics complain congressional pay is high compared with a median American [[Household income in the United States|income]] of $45,113 for men and $35,102 for women. <ref name="Census">{{cite web|url=http://www.census.gov/Press-Release/www/releases/archives/income_wealth/012528.html|archiveurl=http://www.webcitation.org/5mr1MPjxJ|archivedate=January 17, 2010|title=US Census Bureau news release in regards to median income|accessdate=August 28, 2007}}</ref> Others have countered that congressional pay is consistent with other branches of government. <ref name="tws28sep01"/> Congress has been criticized for trying to conceal pay raises by slipping them into a large bill at the last minute. <ref name=tws28sep02>{{cite news
+| title = A Quiet Raise -- Congressional Pay -- special report
+| publisher = Washington Post
+| year = 1998
+| url = http://www.washingtonpost.com/wp-srv/politics/special/pay/pay.htm
+| accessdate =September 28, 2009
+| date=March 18, 1999
+}}</ref> Others have criticized the wealth of members of Congress. <ref name=tws01oct40>{{cite news
+| title = Time Essay: Campaign Costs: Floor, Not Ceiling
+| publisher = Time Magazine
+| date = May 17, 1971
+| url = http://www.time.com/time/magazine/article/0,9171,944351,00.html
+| accessdate =October 1, 2009
+}}</ref><ref name=tws01oct32>{{cite news
+| author = Evan Thomas
+| title = At What Cost? -- Sen. John Warner and Congress's money culture. 
+| publisher = Newsweek
+| date = April 4, 2008
+| url = http://www.newsweek.com/id/130441
+| accessdate =October 1, 2009
+}}</ref> Representative [[Jim Cooper]] of [[Tennessee]] told Harvard professor [[Lawrence Lessig]] that a chief problem with Congress was that members focused on lucrative careers as lobbyists after serving&ndash;&ndash;that Congress was a "[[Farm team|Farm League]] for [[K Street]]"&ndash;&ndash;instead of on public service. <ref name=twsDecM9009>{{cite news
+ |author= Lawrence Lessig
+ |title= How to Get Our Democracy Back
+ |publisher= ''CBS News'', ''The Nation''
+ |date= February 8, 2010
+ |url= http://www.cbsnews.com/2100-215_162-6186201.html?pageNum=2
+ |accessdate= 2011-12-14
+}}</ref><ref name=twsDecMuyy>{{cite news
+ |author= Lawrence Lessig
+ |title= Republic, Lost: How Money Corrupts Congress—and a Plan to Stop It 
+ |publisher= ''Google, YouTube, Huffington Post''
+ |quote= (see 30:13 minutes into the video)
+ |date= Nov 16, 2011
+ |url= http://www.youtube.com/watch?v=Ik1AK56FtVc
+ |accessdate= 2011-12-13
+}}</ref> . 
+
+Members elected since 1984 are covered by the [[Federal Employees Retirement System]] (FERS). Like other federal employees, congressional retirement is funded through taxes and participants' contributions. Members of Congress under FERS contribute 1.3% of their salary into the FERS retirement plan and pay 6.2% of their salary in Social Security taxes. And like Federal employees, members contribute one-third of the cost of health insurance with the government covering the other two-thirds. <ref>{{Cite news | first=Walter | last=Scott | title=Personality Parade column:Q. Does Congress pay for its own health care? | publisher=Parade | location=New York, NY | page= 2 | date=April 25, 2010  }}</ref> . 
+
+The size of a congressional pension depends on the years of service and the average of the highest three years of his or her salary. By law, the starting amount of a member's retirement annuity may not exceed 80% of his or her final salary. In 2006, the average annual pension for retired senators and representatives under the [[Civil Service Retirement System]] (CSRS) was $60,972, while those who retired under FERS, or in combination with CSRS, was $35,952. <ref>[http://www.senate.gov/reference/resources/pdf/RL30631.pdf Retirement Benefits for Members of Congress] (PDF). [[Congressional Research Service]], February 9, 2007. </ref> . 
+
+Members of Congress make fact-finding missions to learn about other countries and stay informed, but these outings can cause controversy if the trip is deemed excessive or unconnected with the task of governing. For example, the ''[[Wall Street Journal]]'' reported lawmaker trips abroad at taxpayer expense, which included spas, $300-per-night extra unused rooms, and shopping excursions. <ref name=tws17decaafds/> Lawmakers respond that "traveling with spouses compensates for being away from them a lot in Washington" and justify the trips as a way to meet officials in other nations. <ref name=tws17decaafds>{{cite news
+|author = Brody Mullins and T.W. Farnam
+|title = Congress Travels More, Public Pays: Lawmakers Ramp Up Taxpayer-Financed Journeys; Five Days in Scotland
+|publisher = Wall Street Journal
+|date = December 17, 2009
+|url = http://online.wsj.com/article/SB126092430041092995.html?mod=rss_com_mostcommentart
+|accessdate =December 17, 2009
+}}</ref> . 
+
+==See also==. 
+{{Portal|Government of the United States}}
+*[[Caucuses of the United States Congress]]
+*[[Elections in the United States#Congressional elections|Elections in the United States (Congressional Elections)]]
+*[[112th United States Congress#House of Representatives 3|List of current members of the United States House of Representatives]]
+*[[112th United States Congress#Members|List of current United States Senators]]
+*[[List of United States Congresses]]
+*[[Lobbying in the United States]]
+*[[Members of the 112th United States Congress]]
+*[[Oath of office#United States|Oath of office (United States)]]
+*[[Party divisions of United States Congresses]]
+*[[Term limits in the United States]]
+*[[United States Congressional Baseball Game]]
+*[[United States congressional hearing]]
+*[[United States presidents and control of congress]]
+*[[United States Congress Joint Select Committee on Deficit Reduction|Joint Select Committee on Deficit Reduction]] . 
+
+==Notes==. 
+{{Reflist|colwidth=30em|
+refs=
+<ref name=incumbent>{{cite news| author = Perry Bacon Jr.| title = Post Politics Hour: Weekend Review and a Look Ahead| publisher = Washington Post| date = August 31, 2009| url = http://www.washingtonpost.com/wp-dyn/content/discussion/2009/08/27/DI2009082703265.html| accessdate =September 20, 2009
+}}
+*{{cite book| last = Huckabee| first = David C.| authorlink = | coauthors = | title = Reelection Rates of Incumbents| publisher = Novinka Books, an imprint of Nova Science Publishers| year = 2003| location = Hauppauge, New York| page = 21| url = http://books.google.com/?id=NSFntwPRYmUC&pg=PA21&lpg=PA21&dq=congress%3F+re-election%3F+statistic%3F+(%2290%25%22+or+%2290+percent%22)&q=| doi =  | isbn = 1590335090}}
+*{{Cite journal | url=http://www.policyarchive.org/handle/10207/bitstreams/265.pdf | title=Reelection rate of House Incumbents 1790-1990 Summary (page 2)| version= | format=PDF | publisher=Congressional Research Service -- The Library of Congress | author=David C. Huckabee -- Analyst in American National Government -- Government Division | date=March 8, 1995 | accessdate=September 20, 2009}}
+*{{cite news| author = Janice Francis-Smith| title = Waging campaigns against incumbents in Oklahoma| publisher = The Oklahoma City Journal Record| date = October 22, 2008| url = http://findarticles.com/p/articles/mi_qn4182/is_20081022/ai_n30925232/
+| accessdate =September 20, 2009}}
+*{{cite news| author =
+| title = How To Clean Up The Mess From Inside The System, A Plea--And A Plan--To Reform Campaign Finance Before It's Too
+| publisher = NEWSWEEK| date = October 28, 1996| url = http://www.newsweek.com/id/103143| accessdate =September 20, 2009
+}}</ref>
+refs=
+<ref name=WeaknessArticlesConfederation>{{cite news | title = References about weaknesses of the Articles of Confederation}}
+*{{cite news
+| author = Pauline Maier (book reviewer)
+| title = HISTORY -- The Framers' Real Motives (book review) UNRULY AMERICANS AND THE ORIGINS OF THE CONSTITUTION book by Woody Holton
+| publisher = Washington Post
+| date = November 18, 2007
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2007/11/15/AR2007111502145.html
+| accessdate =October 10, 2009}}
+*{{cite web
+| author =
+| title = The Constitution and the Idea of Compromise
+| publisher = PBS
+| date = October 10, 2009
+| url = http://www.pbs.org/georgewashington/classroom/index2.html
+| accessdate =October 10, 2009}}
+*{{cite news
+| author = Alexander Hamilton
+| title = FEDERALIST No. 15 -- The Insufficiency of the Present Confederation to Preserve the Union
+| publisher = FoundingFathers.info
+| year = 1788
+| url = http://www.foundingfathers.info/federalistpapers/fed15.htm
+| accessdate =October 10, 2009}}
+</ref>
+}} . 
+
+==References==. 
+{{reflist|colwidth=30em}}
+{{Refbegin}}
+*{{cite book | author =Bacon, Donald C.; Davidson, Roger H.; Keller, Morton, editors|title=Encyclopedia of the United States Congress |year=1995 |publisher=Simon & Schuster | unused_data =4 vols. }}
+*{{cite book |author=Collier, Christopher and Collier, James Lincoln |title=Decision in Philadelphia: The Constitutional Convention of 1787 |year=1986 |publisher=Ballantine Books |isbn=0394523466}}
+*{{cite book |author=Davidson, Roger H., and Walter J. Oleszek |title=Congress and Its Members |year=2006 |edition=10th |publisher=Congressional Quarterly (CQ) Press |isbn=0871873257}} (Legislative procedure, informal practices, and other information)
+*{{cite book |title=The United States Congress |author=English, Ross M. |publisher=Manchester University Press |year=2003 |isbn=0719063094}}
+*{{cite book |author=Herrnson, Paul S. |title=Congressional Elections: Campaigning at Home and in Washington |year=2004 |publisher=CQ Press |isbn=1568028261}}
+*{{cite book |author=Oleszek, Walter J. |title=Congressional Procedures and the Policy Process |year=2004 |publisher=CQ Press |isbn=0871874776}}
+*{{cite book |author=Polsby, Nelson W. |title=How Congress Evolves: Social Bases of Institutional Change |publisher=Oxford University Press |year=2004 |isbn=0195161955}}
+*{{cite book |author=Price, David E. |title=The Congressional Experience |year=2000 |publisher=Westview Press |isbn=0813311578}}
+*{{cite book |author=Struble, Robert, Jr. |title=chapter seven, Treatise on Twelve Lights  |url=http://www.tell-usa.org/totl/07-%20Accountability,%20Efficiency%20&%20Cuts.htm#Committee_autonomy |year=2007|publisher=TeLL}}
+*{{cite book |author=Zelizer, Julian E. |title=The American Congress: The Building of Democracy |year=2004 |publisher=Houghton Mifflin |isbn=0618179062}}
+{{Refend}} . 
+
+==Further reading==. 
+{{Refbegin}}
+*Baker, Ross K. (2000). ''House and Senate'', 3rd ed. New York: W. W. Norton. (Procedural, historical, and other information about both houses)
+*Barone, Michael and Richard E. Cohen. ''The Almanac of American Politics, 2006'' (2005), elaborate detail on every district and member; 1920 pages
+*Berg-Andersson, Richard E. (2001). [http://www.thegreenpapers.com/Hx/SessionsExplanation.html Explanation of the types of Sessions of Congress] (Term of Congress)
+*Berman, Daniel M. (1964). ''In Congress Assembled: The Legislative Process in the National Government.'' London: The Macmillan Company. (Legislative procedure)
+*Bianco, William T. (2000) ''Congress on Display, Congress at Work'', University of Michigan Press. 
+*Hamilton, Lee H. (2004) ''How Congress Works and Why You Should Care'', Indiana University Press. 
+*{{Cite journal | doi = 10.1300/J014v23n04_04 | last1 = Herrick | first1 = Rebekah | year = 2001 | title = Gender effects on job satisfaction in the House of Representatives | url = | journal = Women and Politics | volume = 23 | issue = 4| pages = 85–98 }}
+*{{Cite journal | last1 = Hunt | first1 = Richard | year = 1998 | title = Using the Records of Congress in the Classroom | url = | journal = OAH Magazine of History | volume = 12 | issue =Summer | pages = 34–37 }}
+*Imbornoni, Ann-Marie, David Johnson, and Elissa Haney. (2005). [http://www.infoplease.com/spot/womensfirsts1.html "Famous Firsts by American Women." Infoplease.]
+*Lee, Frances and Bruce Oppenheimer. (1999). ''Sizing Up the Senate: The Unequal Consequences of Equal Representation.'' University of Chicago Press: Chicago. (Equal representation in the Senate)
+*Rimmerman, Craig A. (1990). "Teaching Legislative Politics and Policy Making." ''Political Science Teacher'', 3 (Winter): 16–18. 
+*Ritchie, Donald A. (2010). ''The U.S. Congress: A Very Short Introduction.'' (History, representation, and legislative procedure)
+*{{cite book |author=Smith, Steven S., Jason M. Roberts, and Ryan Vander Wielen |title=The American Congress |year=2007 |edition=5th |publisher=Cambridge University Press |isbn=052119704X}} (Legislative procedure, informal practices, and other information)
+*Story, Joseph. (1891). ''Commentaries on the Constitution of the United States.'' (2 vols). Boston: Brown & Little. (History, constitution, and general legislative procedure)
+*Tarr, David R. and Ann O'Connor. ''Congress A to Z'' (CQ Congressional Quarterly) (4th 2003) 605pp
+*Wilson, Woodrow. (1885). ''Congressional Government.'' New York: Houghton Mifflin. <!--history, procedure, informal practices-->
+*''Some information in this article has been provided by the [http://www.senate.gov/artandhistory/history/common/generic/Senate_Historical_Office.htm Senate Historical Office].''
+{{Refend}} . 
+
+==External links==. 
+{{Spoken Wikipedia|Congress.ogg|2006-08-04}}
+{{Commons-inline|United States Congress}}
+{{Wikiquote-inline}}
+*[http://www.house.gov/ U.S. House of Representatives]
+*[http://www.senate.gov/ U.S. Senate]
+*[http://womenincongress.house.gov/ Women in Congress], Office of the Clerk, U.S. House of Representatives
+*[http://baic.house.gov/ Black Americans in Congress], Office of the Clerk, U.S. House of Representatives
+*[http://ucblibraries.colorado.edu/govpubs/us/congress.htm Congress and Legislation] from ''UCB Libraries GovPubs''
+*[http://bensguide.gpo.gov/9-12/lawmaking/index.html How Laws Are Made], via [[U.S. Government Printing Office]]
+*[http://www.llsdc.org/crs-congress/ Selected Congressional Research Service Reports on Congress and Its Procedures], via Law Librarians' Society of Washington, D.C. 
+*[http://www.llsdc.org/attachments/wysiwyg/544/sess-cong.pdf Sessions of Congress with Corresponding Debate Record Volume Numbers], via Law Librarians' Society of Washington, D.C. 
+*[http://thomas.loc.gov/ Thomas Legislative Information] via [[Library of Congress]]
+*[http://www.eric.ed.gov/ERICWebPortal/Home.portal?_nfpb=true&ERICExtSearch_SearchValue_0=Vontz&ERICExtSearch_SearchType_0=authors&_pageLabel=RecordDetails&objectId=0900000b801b5845 Teaching about the U.S. Congress] via [[U.S. Department of Education]]
+*[http://www.opencongress.org/ Open Congress—open-source database of congressional legislation, voting records, and news coverage.]
+*[http://www.wrhammons.com/us-senators-representatives.htm Bill Hammons' American Politics Guide - Members of Congress by State, by Committee, and by House District with District Map and Partisan Voting Index] . 
+
+{{USCongress|state=uncollapsed}}
+{{USCongresses}}
+{{US Congress by State}}
+{{USLegislatures}}
+{{United States topics}}
+{{US military navbox}}
+{{Legislatures of the Americas}}  . 
+
+[[Category:1789 establishments in the United States]]
+[[Category:Legislative branch of the United States government| ]]
+[[Category:National legislatures]]
+[[Category:Bicameral legislatures|United States]]

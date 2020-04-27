@@ -1,0 +1,113 @@
+{{stack begin}}
+[[Image:Ogallala saturated thickness 1997-sattk97-v2.svg|thumb|right|300px|Saturated thickness of the Ogallala Aquifer in 1997 after several decades of intensive withdrawals: The breadth and depth of the aquifer generally decrease from north to south.]]
+[[Image:Ogallala changes 1980-1995.svg|thumb|right|300px|Regions where the water level has declined in the period 1980-1995 are shown in yellow and red; regions where it has increased are shown in shades of blue. Data from the [[United States Geological Survey|USGS]]]]
+[[Image:High plains fresh groundwater usage 2000.svg|thumb|right|300px|Groundwater withdrawal rates (fresh water, all sources) by [[County (US)|county]] in 2000.  Source: National Atlas]]
+{{stack end}} . 
+
+The '''Ogallala Aquifer''', also known as the '''High Plains Aquifer''', is a vast yet shallow underground [[water table]] [[aquifer]] located beneath the [[Great Plains]] in the [[United States]]. One of the world's largest aquifers, it covers an area of approximately 174,000&nbsp;mi² (450,000&nbsp;km²) in portions of the eight [[U.S. state|states]] of [[South Dakota]], [[Nebraska]], [[Wyoming]], [[Colorado]], [[Kansas]], [[Oklahoma]], [[New Mexico]], and [[Texas]]. It was named in 1898 by [[Nelson Horatio Darton|N.H. Darton]] from its [[Type locality (geology)|type locality]] near the town of [[Ogallala, Nebraska]]. <ref>Darton, N.H. 1898. Preliminary report on the geology and water resources of Nebraska west of the [[103rd meridian west|one hundred and third meridian]]. In: Walcott, C.D. (ed), Nineteenth Annual Report of the United States Geological Survey, 1897-1898, Part IV, pp. 719-785. </ref> . 
+
+About 27 percent of the irrigated land in the United States overlies this aquifer system, which yields about 30 percent of the nation's ground water used for irrigation. In addition, the aquifer system provides drinking water to 82 percent of the people who live within the aquifer boundary. <ref name="dennehy">{{Cite web
+| url=http://co.water.usgs.gov/nawqa/hpgw/factsheets/DENNEHYFS1.html
+| author=Dennehy, K.F. 
+| year=2000
+| title=High Plains regional ground-water study: U.S. Geological Survey Fact Sheet FS-091-00
+| publisher=[[United States Geological Survey|USGS]]
+| accessdate=2008-05-07
+}}</ref> . 
+
+==General characteristics==. 
+The deposition of the aquifer material dates back 2 to 6 million years to late [[Miocene]] to early [[Pliocene]] age when the southern [[Rocky Mountains]] were still tectonically active. From the uplands to the west, rivers and streams cut channels in a generally west to east or southeast direction. [[Erosion]] of the Rockies provided [[alluvial]] and [[aeolian processes|aeolian]] sediment that filled the ancient channels and eventually covered the entire area of the present-day aquifer, forming the water-bearing Ogallala Formation. In that respect, the process is little different from that currently prevailing in other modern rivers of the area, such as the Kansas River and its tributaries. The major differences are time and depth.  . 
+
+The depth of the Ogallala varies with the shape of then-prevailing surface, being deepest where it fills ancient valleys and channels. The Ogallala Formation consists mostly of coarse sedimentary rocks in its deeper sections, which transition upward into finer-grained [[material]]. <ref>[http://www.npwd.org/new_page_2.htm North Plains Groundwater Conservation District]</ref> . 
+
+The water-permeated thickness of the Ogallala Formation ranges from a few feet to more than 1000 feet (300 m) and is generally greater in the northern plains. <ref>[http://www.hpwd.com/the_ogallala.asp High Plains Underground Water Conservation District #1 (Texas)] retrieved April 9, 2007. </ref>  The depth of the water below the surface of the land ranges from almost 400 feet (122 m) in parts of the north to between 100 to 200 feet (30 to 61 m) throughout much of the south. Present-day recharge of the aquifer with fresh water occurs at an exceedingly slow rate, suggesting that much of the water in its [[porosity|pore]] spaces is [[paleowater]], dating back to the last [[ice age]] and probably earlier. Withdrawals from the Ogallala are, in essence, mining ancient water.  . 
+
+==Aquifer water balance==. 
+An aquifer is a groundwater storage reservoir in the [[water cycle]]. While groundwater is a renewable source, reserves replenish relatively slowly. The [[US Geological Survey|USGS]] has performed several studies of the aquifer, to determine what is coming in (groundwater recharge from the surface), what is leaving (pumping and baseflow to streams) and what the net changes in storage are (rise, fall or no change &mdash; see figure above). Simply put, water in, minus the water out, is equal to the change in water stored in the aquifer. This type of [[conservation of mass|mass-balance]] "accounting" is how hydrologic budgets are performed, and is a crucial first step in sustainable management of any natural resource.  . 
+
+Withdrawals from the Ogallala Aquifer for irrigation amounted to {{convert|26|km3|acre.ft|abbr=on}} in 2000.  As of 2005, the total depletion since pre-development amounted to {{convert|253000000|acre.ft|km3}}. <ref name="mcguire07">{{Cite web
+| last = Mcguire, V.L. 
+| title = Changes in Water Levels and Storage in the High Plains Aquifer, Predevelopment to 2005
+| publisher = USGS Fact Sheet 2007-3029
+| publisher = [[United States Geological Survey|USGS]]
+| accessdate = 2009-08-12
+| date = May 2007
+| url = http://pubs.usgs.gov/fs/2007/3029/
+}}</ref>  Some estimates say it will dry up in as little as 25 years. Many farmers in the [[High Plains (United States)|Texas High Plains]], which rely particularly on the underground source, are now turning away from [[irrigated agriculture]] as they become aware of the hazards of overpumping. <ref>{{Cite news| title=Ogallala aquifer - Water hot spots | publisher=BBC News | year=2003 | url=http://news.bbc.co.uk/1/shared/spl/hi/world/03/world_forum/water/html/ogallala_aquifer.stm}}</ref> . 
+
+===Groundwater recharge===. 
+The rate at which recharge water enters the aquifer is limited by several factors. Much of the plains region is [[steppe|semiarid]], with steady winds that hasten evaporation of surface water and precipitation. In many locations, the aquifer is overlain, in the [[vadose zone]], with a shallow layer of [[Caliche (Mineral)|caliche]] that is practically [[hydraulic conductivity|impermeable]]; this limits the amount of water able to recharge the aquifer from the land surface. However, the soil of the [[playa lakes]] is different and not lined with caliche, making these some of the few areas where the aquifer can recharge. The destruction of playas by farmers and development decreases the available recharge area. The prevalence of the caliche is partly due to the ready evaporation of soil moisture and the semiarid climate; the aridity increases the amount of evaporation, which in turn increases the amount of caliche in the soil. Both mechanisms reduce the amount of recharge water that reaches the water table.  . 
+
+Recharge in the aquifer ranges from {{convert|0.024|in|mm}} per year in parts of Texas and New Mexico to up to {{convert|6|in|mm}} per year in south-central Kansas <ref>[http://pubs.er.usgs.gov/usgspubs/pp/pp1400B ''Geohydrology of the High Plains Aquifer in parts of Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming''].  Gutentag, E. D.; Heimes, F. J.; Krothe, N. C.; Luckey, R. R.; Weeks, J. B.  1984. </ref> . 
+
+===Groundwater discharge===. 
+[[Image:Crops Kansas AST 20010624.jpg|thumb|left|NASA [[Advanced Spaceborne Thermal Emission and Reflection Radiometer|ASTER]] image of an approx. 557 mi² area of fields (1443 km²) in [[Kansas]] which are watered from the Ogallala aquifer with [[center pivot irrigation]] systems.]]
+The regions overlying the Ogallala aquifer are some of the most productive regions for ranching [[livestock]], and growing [[maize|corn]], [[wheat]] and [[soybeans]] in the United States. (They have been called the "breadbasket of America"). The success of large-scale farming in areas that do not have adequate [[Precipitation (meteorology)|precipitation]] and do not always have perennial [[surface water]] for diversion has depended heavily on pumping groundwater for irrigation.  . 
+
+Early settlers of the semiarid High Plains were plagued by crop failures due to cycles of [[drought]], culminating in the disastrous [[Dust Bowl]] of the 1930s. The aquifer was first tapped for [[irrigation]] in 1911. Large-scale use for irrigation began in the 1930s and continued through the 1950s, due to the availability of electric power to rural farming communities and the development of cheap and efficient electric turbine [[pump]]s.  . 
+
+It was only after [[World War II]] that affordable technology became available to substantially extract water. This transformed the High Plains into one of the most agriculturally productive regions in the world. During the early years, this source of water was thought to be inexhaustible, and its hydrology a mystery.  But, because the rate of extraction exceeds the rate of recharge, water level elevations are decreasing. At some places, the water table was measured to drop more than five feet (1.5 m) per year at the time of maximum extraction. In extreme cases, the deepening of [[water well|well]]s was required to reach the steadily falling water table.  The water table has been drained (dewatered) in some places, such as the Texas Panhandle. Using treated, recycled sources of water in agriculture is one approach to safeguarding the future of the aquifer.  Another method of reducing the amount of water use is changing to crops that require less water, such as [[sunflower]]s. <ref>[http://www.denverpost.com/news/ci_4433612 Jeremy P. Meyer, "Farmers' tower of power"], ''Denver Post'', 2 October 2006.  Last accessed October 24, 2006</ref> . 
+
+Another issue is that several of the rivers in the region, such as the [[Platte River|Platte]], run below the water level of the aquifer.  Because of this, the rivers receive groundwater flow (baseflow), carrying it out of the region, rather than supplying recharge to the aquifer.  . 
+
+===Change in groundwater storage=== . 
+
+The [[USGS]] estimated that total water storage was about {{convert|2925000000|acre.ft|km3}} in 2005.  This is a decline of about {{convert|253000000|acre.ft|km3}} (or 9%) since substantial ground-water irrigation development began, in the 1950s. <ref name="mcguire07" /> . 
+
+Water conservation practices ([[Terrace (agriculture)|terracing]] and crop rotation), more efficient irrigation methods ([[Center pivot irrigation|center pivot]] and drip), and simply reduced area under irrigation have helped to slow depletion of the aquifer, but levels are generally still dropping. See the figure above for an illustration of the places where large drops in water level have been observed (i.e., the brown areas in southwest [[Kansas]], and in or near the [[Texas Panhandle]]). In the more humid areas, such as eastern and central [[Nebraska]] and south of [[Lubbock, Texas|Lubbock]], water levels have risen since 1980.  . 
+
+===Environmental controversies=== . 
+
+In the 21st century, the aquifer has received increased coverage from regional<ref>[http://www.nwanews.com/adg/Business/167660/ "Shrinking aquifer looms as big problem for farms"].  Nancy Cole, ''Arkansas Democrat-Gazette''.  September 24, 2006.  Last accessed October 24, 2006. </ref><ref>[http://www.amarillo.com/stories/100406/opi_5471882.shtml Column - Mansel Phillips: "Too many thirsty industries, not nearly enough water"]. Mansel Phillips, ''Amarillo Globe News''. October 4, 2006.  Last accessed October 24, 2006. </ref><ref>[http://www.journalstar.com/articles/2006/10/08/editorial_main/doc4528249b958e7416840412.txt "Another sign of long-term water worries"], ''Lincoln Star Journal'', October 8, 2006.  Last accessed October 24, 2006</ref> and international journalists. <ref>[[Daily Telegraph|Daily Telegraph (UK)]] Saturday Magazine Issue no 48,446 (dated 5 March 2011) pp 26-32 "High and Dry" Report by ''Charles Lawrence''</ref> . 
+
+In the 1980s, Texas Panhandle [[organic foods]] [[farmer]] and spokesman [[Frank Ford (farmer)|Frank Ford]] successfully prevented the location of a [[nuclear waste]] repository in his native [[Deaf Smith County, Texas|Deaf Smith County]].  He opposed the site on the grounds that the material could poison the Ogallala Aquifer.{{Citation needed|date=August 2009}} The repository was located instead in [[Yucca Mountain]] in [[Nevada]].  . 
+
+In 2008, [[TransCanada Corporation]] proposed the construction of the {{convert|1661|mi|adj=on}} [[Keystone Pipeline|Keystone XL]] pipeline to carry oil from the [[Athabasca oil sands]] of [[Alberta]] to refineries near [[Houston, Texas]]. <ref>Hovey, Art.  [http://www.downstreamtoday.com/news/article.aspx?a_id=11336&AspxAutoDetectCookieSupport=1 "TransCanada Proposes Second Oil Pipeline".]  ''[http://journalstar.com/ Lincoln Journal-Star.]''  2008-06-12.  Reproduced at [http://www.downstreamtoday.com/ Downstream Today website.]  Retrieved 2011-08-27. </ref><ref>[http://www.transcanada.com/keystone.html "Keystone Pipeline Project".]  [http://www.transcanada.com/index.html TransCanada.]  Retrieved 2011-08-27. </ref>
+The proposed route of the pipeline crossed the eastern part of the [[Nebraska Sandhills]]; opponents of the project argued that this route posed an unacceptable risk to the Ogallala Aquifer, owing to the possibility of contamination from oil spills. <ref name=routebest>Morton, Joseph, and Paul Hammel.  [http://www.omaha.com/article/20110827/NEWS01/708279874/1009 "Report: Sand Hills route best".]  ''[http://www.omaha.com/ Omaha World-Herald.]''  2011-08-27.  Retrieved 2011-08-27. </ref><ref>[http://www.foe.org/keystone-xl-pipeline "Keystone XL Pipeline".]  [http://www.foe.org/ Friends of the Earth.]  Retrieved 2011-08-27. </ref>
+In August 2011, an environmental-impact report by the [[United States Department of State|U.S. State Department]] found the Sandhills route would be the most economically feasible, and would be unlikely to have significant environmental impacts. <ref name=routebest/><ref>O'Meara, Dina, and Sheldon Alberts.  [http://www.calgaryherald.com/business/report+clears+TransCanada+Keystone+pipeline/5312553/story.html "U.S. report clears way for TransCanada's Keystone XL pipeline".]  ''[http://www.calgaryherald.com/index.html Calgary Herald.]''  2011-08-27.  Retrieved 2011-08-27. </ref>  However, some questions have been raised as to the impartiality of the State Department report. <ref>[http://www.nytimes.com/2011/10/08/science/earth/08pipeline.html?_r=2  The New York Times: Pipeline Review Is Faced With Question of Conflict. Posted: October 7, 2011.]</ref>
+:''See also'': [[Keystone XL Pipeline (Risk to Ogallala Aquifer)|Risk to Ogallala Aquifer]] . 
+
+==In popular culture==. 
+* The aquifer figures prominently in the novel ''[[That Old Ace in the Hole]]'' (2002) by [[Annie Proulx|E. Annie Proulx]]. 
+* It forms part of the historical background of the plot of the Canadian television mini-series ''[[H2O (film)|H2O]]''. 
+* Featured in the final chapter, "Power and Change", of [[James A. Michener]]'s [[novel]] ''[[Texas (novel)|Texas]]'' (1985). 
+* Figures in a plot for world domination in the ''[[Spider-Man|Amazing Spider-Man]]'' comic book made by Marvel Comics. <ref>''Amazing Spider-Man'' #519-524</ref>
+* Near-total depletion of the aquifer figures as a minor [[plot device]] contributing to the second [[Dust Bowl]] in [[David Brin]]'s futuristic novel, ''[[Earth (novel)|Earth]]'' (1990). <ref>Brin, David. ''Earth''. Bantam Spectra, 1990, pp. 151-152 & 158. </ref> . 
+
+==See also==. 
+{{col-begin}}{{col-break}}
+*[[Aquifer]]
+*[[Fossil water]]
+*[[Groundwater]]
+*[[Hydrogeology]]
+{{col-break}}
+*[[Irrigation]]
+*[[Laurentide Ice Sheet]]
+*[[Llano Estacado]]
+*[[Water table]]
+{{col-end}} . 
+
+==References==. 
+{{Reflist}} . 
+
+==External links==. 
+*[http://www.kerrcenter.com/publications/ogallala_aquifer.pdf "The Ogallala Aquifer"] Manjula V. Guru, Agricultural Policy Specialist and James E. Horne, President & CEO, The Kerr Center for Sustainable Agriculture, Poteau, Oklahoma
+*[http://co.water.usgs.gov/nawqa/hpgw/HPGW_home.html USGS High Plains Regional Groundwater Study]
+*[http://archive.salon.com/tech/feature/2001/02/01/water_texas/ A Legal Fight in Texas over the Ogallala Aquifer]
+*[http://www.kgs.ku.edu/HighPlains/ Kansas Geological Survey information on the High Plains / Ogallala Aquifer]
+*[http://www.owrb.ok.gov/studies/reports/reports_pdf/high_plains_2.pdf Rapid Recharge of Parts of the High Plains Aquifer Indicated by a Reconnaissance Study in Oklahoma] . 
+
+{{Coord|36|59|26|N|101|26|52|W|region:US_type:waterbody|display=title}} . 
+
+[[Category:Aquifers in the United States]]
+[[Category:Great Plains]]
+[[Category:Regions of the Western United States]]
+[[Category:Geology of Oklahoma]]
+[[Category:Geology of South Dakota]]
+[[Category:Geology of Nebraska]]
+[[Category:Geology of Kansas]]
+[[Category:Geology of Wyoming]]
+[[Category:Geology of Texas]]
+[[Category:Geology of Colorado]]
+[[Category:Geology of New Mexico]]
+[[Category:Place names of Native American origin in Nebraska]]

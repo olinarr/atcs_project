@@ -1,0 +1,72 @@
+'''Tikun Olam''' ({{lang-he|תקון עולם}} '''''[[tikkun olam]]''''', "repairing the world") is a [[Seattle]]-based [[political blog]] that regularly reports on [[Israel]]i security matters. <ref>Matthew Kalman, [http://www.aolnews.com/world/article/ehud-olmerts-revenge-attempt-against-ehud-barak-lifts-israeli-security-veil/19641588 Olmert's Revenge Lifts Israeli Security Veil], [[AOL News]], 21/9/2010</ref> According to ''[[The Daily Telegraph]]'', it "has a record of revealing information censored inside Israel". <ref>{{cite news
+ | title = Iran missile development commander killed in explosion
+ | url = http://www.telegraph.co.uk/news/worldnews/middleeast/iran/8887322/Iran-missile-development-commander-killed-in-explosion.html
+ | newspaper = [[The Daily Telegraph]]
+ | date = November 13, 2011
+ | accessdate = January 2, 2012}}</ref> The blog was created in 2003 by Richard Silverstein and covers the [[Arab–Israeli conflict]] and [[Jewish]]-[[Muslim]] relations.  . 
+
+==Reporting==. 
+===Shin Bet and Mossad===. 
+Tikun Olam broke the gag order against reporting the arrest of prominent Israeli Palestinian political activists [[Ameer Makhoul]] and [[Omar Said]] by the [[Shin Bet]], who accused them of spying against Israel on behalf of [[Hezbollah]]. Neither detainee was permitted to consult an attorney for several weeks, and Makhoul contends that his alleged confession was extracted under torture. Said pled to a reduced charge and went free. <ref>{{cite news
+ | title = Shin Bet's Cult of Secrecy Continues, Arab NGO Director Arrested Under Gag Order in Dead of Night
+| url=http://www.richardsilverstein.com/tikun_olam/2010/05/06/shin-bets-israeli-cult-of-secrecy-continues-arab-ngo-director-secretly-arrested-in-dead-of-night/
+ | date = May 6, 2010}}</ref><ref>{{cite news
+| title = Security scandal angers Arab sector
+| url = http://www.ynetnews.com/articles/0,7340,L-3887040,00.html
+| newspaper = [[Ynetnews]]
+| date = May 9, 2010}}</ref> Makhoul later admitted to spying for Hezbollah, as part of a [[plea bargain]]. <ref name="confess">[http://www.ynetnews.com/articles/0,7340,L-3975751,00.html Makhoul admits to spying for Hezbollah], Ahiya Raved, 10.27.10, YNetnews</ref> . 
+
+In 2010, the blog was reportedly the first to publish the names of the candidates for chief of Mossad and Shin Bet. <ref name=ynet20110606>{{cite news|last=Ronen|first=Moshe|title=Richard Silverstein vs. censorship|url=http://www.ynetnews.com/articles/0,7340,L-4078461,00.html|newspaper=[[Ynetnews]]|date=7 June 2011|quote=The website has become one of the Israeli censorship's biggest problems recently when it featured news items that were under a gag order in the Jewish state. Silverstein revealed the names of the Mossad and Shin Bet chief candidates long before the Israeli media did, and was the one who broke the news of the Anat Kam affair - the IDF soldier who leaked confidential documents to a Ha'aretz reporter}}</ref> The blog reported that [[Yitzhak Ilan]] was the likely candidate to succeed current Shin Bet director, [[Yuval Diskin]].  By law, Israeli publications are only allowed to publish the names of the Shabak and Mossad directors, but no subordinate personnel. <ref>{{cite news
+| title = Bibi Set to Name New Shin Bet Director
+| url=http://www.richardsilverstein.com/tikun_olam/2010/08/24/bibi-to-name-new-shin-bet-director/
+| date = August 24, 2010}}</ref> In Israeli news reports, Ilan has been referred to as "Y."<ref name=Melman /> Shin Bet officials also considered Ilan the likely candidate,<ref>{{cite news
+| title = Cohen's appointment / Our easily swayed prime minister
+| url=http://www.haaretz.com/print-edition/news/cohen-s-appointment-our-easily-swayed-prime-minister-1.352425
+| date = March 29, 2011}}</ref> but eventually he lost the race to [[Yoram Cohen]]. Tikun Olam was the first media outlet to report by name that [[Tamir Pardo]], known in the Israeli media as "T." was a candidate to replace [[Meir Dagan]] as [[Mossad]] director. <ref name=ynet20110606/><ref>{{cite news
+| title= Mossad Chief Candidate Identified
+| url = http://www.richardsilverstein.com/tikun_olam/2010/11/28/mossad-chief-candidate-identified/
+| date = November 28, 2010}}</ref> Subsequently, Pardo was named to the top job.  . 
+
+===Anat Kamm-Uri Blau affair===. 
+The blog was reportedly the first to break the Israeli court-imposed gag order that prohibited naming [[Anat Kamm]] as a former IDF soldier held for [[News leak|leaking]] secret military documents to ''[[Haaretz]]'' reporter [[Uri Blau]]. <ref>{{cite news
+ | title = Debate in Israel on Gag Order in Security Leak Case
+ | url = http://www.nytimes.com/2010/04/07/world/middleeast/07israel.html
+ | newspaper = [[The New York Times]]
+ | date = April 7, 2010
+ | accessdate = June 18, 2010
+ | quote = Details began to emerge in mid-March on a blog called Tikun Olam, or Repairing the World, by an American writer, Richard Silverstein. 
+ }}</ref> . 
+
+==Reception==. 
+''[[The Forward|Forward]]'' reporter Nathan Guttman writes that Silverstein "has become a prime address for Israelis seeking to bypass their country’s censorship or court gag orders... Some praise his work as a courageous effort to tear down walls of secrecy surrounding Israel’s security agencies" while "others accuse him of recklessness motivated by a drive to blemish Israel at all costs." The pro-Israel watchdog group [[Committee for Accuracy in Middle East Reporting in America|CAMERA]] characterizes Silverstein as a "radical, anti-Israel blogger who repeatedly defends Hamas while blaming the Israeli government, and who promotes Israel as a single state of all its citizens." Silverstein responded that he believes Israel is a Jewish homeland, that he hopes to see equal rights provided for Jewish and Arab citizens in the country and though he is "agnostic" toward the two-state solution would ultimately prefer that outcome. <ref name="forward">{{cite news |title=Blogger Carves Out Niche Baring Israeli Intel Secrets |author=Nathan Guttman |url=http://forward.com/articles/142723/ |newspaper=The Forward |date=13 September 2011 |accessdate=9 January 2012}}</ref> . 
+
+Silverstein is also criticized for his journalistic practices. [[Yossi Melman]], a veteran security and intelligence reporter for ''Haaretz'' argues that Silverstein  "spreads rumors without checking them" and "is an ideologue, not a journalist." He adds, "[Silverstein] is speculative. It is like at the casino: Sometimes he gets it right, and sometimes he doesn’t."<ref name="forward"/><ref name=h20100826>{{cite news |title=Inside Intel / As long as you have your bodyguard |first=Yossi |last=Melman |url=http://www.haaretz.com/print-edition/features/inside-intel-as-long-as-you-have-your-bodyguard-1.310279 |newspaper=Haaretz |date=26 August 2010}}</ref> Nonetheless, Melman writes that "Silverstein’s blog is important because he exposes the security services and the courts in all their nakedness. They use the instruments of the 20th century to protect secrets which aren’t really secrets in the age of 21st century technology."<ref name=Melman>{{cite news
+| title = Land of Secrets (Hebrew)
+| url = http://www.haaretz.co.il/hasite/spages/1186415.html
+| newspaper = [[Haaretz]]
+| date = August 26, 2010}}</ref> . 
+
+According to ''[[Der Spiegel]]'', "The blogger who lives in the United States is considered to be very well informed when it comes to Israeli security matters. His blog "Tikun Olam" regularly exposes stories which cannot be published in Israel due to military censorship. For example, Silverstein was the first to publish the names of new candidates for the senior posts at the Israeli domestic and external security services."<ref>{{cite news
+ | title = Todesengel mit Magnetbomben
+ | url = http://www.spiegel.de/politik/ausland/0%2c1518%2c808555%2c00.html 
+ | newspaper = [[Der Spiegel]] (in German)
+ | date = January 11, 2012 
+ | accessdate = January 11, 2012}}</ref> . 
+
+==See also==. 
+* [[Mister X (prisoner)]] . 
+
+==References==. 
+{{reflist|2}} . 
+
+==External links==. 
+* [http://www.richardsilverstein.com/tikun_olam Tikun Olam]
+* Lital Grosman, [http://www.richardsilverstein.com/tikun_olam/wp-content/uploads/2010/08/ha-ir-tikun-olam-profile.pdf בקרוב במרתפי השב״כ (Coming Soon to Shabak's Dungeons)] (in Hebrew), August 6, 2010, ''City Magazine'' (Tel Aviv)  ([http://www.richardsilverstein.com/tikun_olam/2010/08/06/coming-soon-to-shabaks-dungeons/ English translation])
+* Jonathan Martin, [http://seattletimes.nwsource.com/html/localnews/2016189267_espionage13m.html Influential Seattle blogger inflames left and right alike about Israeli security issues], September 12, 2011, ''[[The Seattle Times]]''. 
+* Tal Schneider, [http://www.nrg.co.il/online/1/ART2/323/291.html ריצ'ארד סילברסטיין - האיש שידע יותר מידי (Richard Silverstein – The Man Who Knew Too Much)] (in Hebrew), January 6, 2012, ''[[Maariv]]'' . 
+
+{{DEFAULTSORT:Tikun Olam (Blog)}}
+[[Category:American political blogs]]
+[[Category:Political blogs]]
+[[Category:American political websites]]
+[[Category:Censorship in Israel]]

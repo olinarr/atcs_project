@@ -1,0 +1,56 @@
+'''Open-source appropriate technology''' (OSAT) refers to [[technologies]] that are designed in the same fashion as ''free'' <ref group=note>Free as in gratis and free as in libre – ''Gratis'' = This is sometimes expressed in the phrase, "free as in free beer", as distinct from ''Libre''= "free as in free speech". </ref> and [[open-source software]]. These technologies must be "[[appropriate technology]]" (AT) – meaning technology that is designed with special consideration to the environmental, ethical, cultural, social, political, and economical aspects of the community it is intended for.  . 
+
+==Benefits==. 
+Open source is a development method for [[appropriate technology]] that harnesses the power of distributed peer review and transparency of process. [[Appropedia]] is an example of open-source appropriate technology. There anyone can both learn how to make and use AT free of concerns about patents. At the same time anyone can also add to the collective open-source knowledge base by contributing ideas, observations, experimental data, deployment logs, etc. It has been claimed that the potential for open-source-appropriate technology to drive [[applied sustainability]] is enormous. <ref name="buitenhuis">A. J. Buitenhuis, I. Zelenika and J. M. Pearce, “[http://nciia.org/sites/default/files/pearce.pdf Open Design-Based Strategies to Enhance Appropriate Technology Development]”, ''Proceedings of the 14th Annual National Collegiate Inventors and Innovators Alliance Conference : Open'', March 25–27th 2010, pp. 1–12. </ref> The built in continuous [[peer-review]] can result in better quality, higher reliability, and more flexibility than conventional design/patenting of technologies. The free nature of the knowledge also obviously provides lower costs, particularly for those technologies that do not benefit to a large degree from scale of manufacture. Finally, OSAT also enables the end to predatory intellectual property lock-in. This is particularly important in the context of technology focused on relieving suffering and saving lives in the [[developing world]].  . 
+
+The "open-source" model can act as a driver of [[sustainable development]]. There are (at least) three good reasons<ref>[http://www.worldchanging.com/archives/004004.html Open Source, Development and Design Jamais Cascio, Available]</ref>:
+# it enables production as well as consumption;
+# it enables localization for communities that do not have the resources to tempt commercial developers to provide local versions of their products;
+# it can be free as in "gratis" as well as free as in "libre" – an important consideration for developing communities.  . 
+
+==Ethical considerations==. 
+Although developing world problems are portioned remarkably low support for solutions, many researchers, companies, and academics do work on products meant to assist [[sustainable development]]. Vinay Gupta has suggested that those developers agree to three principles <ref>Starting an anti-patent-abuse appropriate technology political bloc?  by [[Vinay Gupta]], available: [http://www.globalswadeshi.net/forum/topic/show?id=2097821%3ATopic%3A2401]</ref>: . 
+
+# I will not permit any human being to be deprived of live-giving technology by the profit motive. 
+# Any works that I patent I will make available to others who are engaged in humanitarian activity for free, except where this would breach other contractual responsibilities. 
+# I will not use patent law to slow the pace of innovation or service delivery to the needy under any circumstances.  . 
+
+==Support in the literature==. 
+* It has been investigated how open sharing of designs, specifications, and technical information can enhance effectiveness, widespread use, and innovation of appropriate technology. <ref name="buitenhuis"/>
+* OSAT has been claimed to assist in development of medical technology particularly for the developing world. <ref>Amy Kapczynski et al., “Addressing Global Health Inequities: An Open Licensing Approach for University Innovations,” Berkley Technology Law Journal 20 (2005): 1031–1114. </ref><ref>Stephen M. Maurer, Arti Rai, and Andrej Sali, "Finding Cures for Tropical Diseases: Is Open Source an Answer?", PLoS Medicine 1, no. 3 (December 2004): 183–186. </ref>
+* It has been claimed that the sharing of design processes, appropriate tools, and technical information enables more effective and rapid development of appropriate technologies for both industrialized and non-industrialized regions. <ref name="pearce-mushtaq">Joshua M. Pearce and Usman Mushtaq, “[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5444388&isnumber=5444349 Overcoming Technical Constraints for Obtaining Sustainable Development with Open Source Appropriate Technology]”, ''Science and Technology for Humanity (TIC-STH), 2009 IEEE Toronto International Conference'', pp. 814–820, 26–27 September 2009. </ref> In addition, it is claimed that this sharing will require the appropriate-technology community to adopt open standards/licenses, document knowledge, and build on previous work. <ref name="pearce-mushtaq"/>
+* At the university level, the use of open-source-appropriate technology classroom projects has been shown to be successful in forging  the connection between physics and social benefit:<ref>J. M. Pearce, "[http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PHTEAH000045000003000164000001&idtype=cvips&gifs=yesTeaching Physics Using Appropriate Technology Projects]", The Physics Teacher, 45, pp. 164–167, 2007. </ref>  This approach has the potential to use university students’ access to resources and testing equipment in furthering the development of appropriate technology. Similarly OSAT has been used as a tool for improving [[service learning]]. <ref>Joshua M. Pearce, “[http://jsd.sagepub.com/cgi/content/abstract/3/1/45 Appropedia as a Tool for Service Learning in Sustainable  Development]”, ''Journal of Education for Sustainable Development'', '''3'''(1), pp.45–53, 2009. [http://hdl.handle.net/1974/5306 Q-Space pre-print]</ref><ref>S. Murphy and N. Saleh, "[http://hdl.handle.net/1974/5171 Information literacy in CEAB’s accreditation criteria: the hidden attribute]", In ''Proceedings of The Sixth International Conference on Innovation and Practices in Engineering Design and Engineering Education'', 2009. Hamilton, ON July 27–29, 2009. </ref> . 
+
+See also: [[Appropedia:Open_Source_Appropriate_Technology_Literature_Review|Open-source-appropriate-technology literature review]] . 
+
+==Criticism==. 
+This type of idea is clearly not mainstream and suffers from the same criticisms as open-source software.{{Clarify|date=September 2010}} In addition, it has been claimed that the decline of the appropriate technology movement is said to be part of the ‘remasculinization’ of US after the Vietnam War through the Reagan regime. <ref name="Pursell">Pursell, Carroll. "[http://www.jstor.org/stable/pdfplus/3106707.pdf The Rise and Fall of the Appropriate Technology Movement in the United States, 1965 – 1985]" ''Technology and Culture'', '''Vol 34, No. 3''': 629–637 (July 1993). </ref> According to Pursell it was said have failed because of the inability to counter advocates of agribusiness, large private utilities, and multinational construction companies. These groups maintained the elitist, narrow and traditional definition of the word ‘technology’ to forward their interests, and not those of the developing world. <ref name="Pursell"/> Recently, several barriers to OSAT deployment have been identified: i) AT seen as inferior or “poor person's” technology, ii) technical transferability and robustness of AT, iii) insufficient funding, iv) weak institutional support, and v) the challenges of distance and time in tackling rural poverty.  <ref>I. Zelenika  and J.M. Pearce, “Barriers to Appropriate Technology Growth in Sustainable Development”, ''Journal of Sustainable Development'' '''4'''(6), 12-22 (2011). [http://www.ccsenet.org/journal/index.php/jsd/article/view/12176/9085 free open access]. </ref> . 
+
+==See also==. 
+* [[Applied sustainability]]
+* [[Appropedia]]
+* [[Appropriate technology]]
+* [[Open design]]
+* [[Sustainable development]]
+* [[Open-source ecology]] . 
+
+==Notes==. 
+{{Reflist|group=note}} . 
+
+==References==. 
+{{CCBYSASource|sourcearticle=Open Source Appropriate Technology|sourcepath=http://www.appropedia.org/Open_Source_Appropriate_Technology|revision=http://en.wikipedia.org/w/index.php?title=362077631}}
+{{Reflist}} . 
+
+==External links==. 
+* For an ongoing discussion of OSAT see [http://www.agroblogger.com/tag/appropriate-technology Agroblogger]
+* Another  [http://www.p2pfoundation.net/The_Foundation_for_P2P_Alternatives the P2P Foundation] The Peer to Peer (P2P) Network function as a clearinghouse for open/free, participatory/p2p and commons-oriented initiatives. 
+* [http://projectsunshine.wordpress.com/category/open-source-appropriate-technology/ Project Sunshine]
+* [http://sustainablog.blogspot.com/2006/01/building-open-source-community-for.html Sustainablog]
+* [http://openenergymonitor.org/ Open energy monitor] . 
+
+{{DEFAULTSORT:Appropriate Technology}}
+[[Category:Technology by type]]
+[[Category:Survival skills]]
+[[Category:Sustainability]]
+[[Category:Appropriate technology]]
+[[Category:Simple living]]

@@ -1,0 +1,29 @@
+'''Taking Children Seriously''' ('''TCS''') is a parenting movement and educational philosophy whose central idea is that it is possible and desirable to raise and educate children without either doing anything to them against their will, or making them do anything against their will.  . 
+
+It was founded in 1994 as an email mailing-list by the [[libertarians]] [[Sarah Fitz-Claridge]] and [[David Deutsch]]. Deutsch is also a theoretical [[physicist]] at [[Oxford University]]. <ref>"[http://www.takingchildrenseriously.com/node/136 Origins of TCS.]"</ref> . 
+
+TCS begins with the observation that most traditional interactions between adults and youth are based on [[coercion]]. The TCS model of [[parenting]] and [[education]] rejects this coercion as infringing on the will of the child, and also rejects parental or educator "self-sacrifice" as infringing on the will of the adult. TCS advocates that parents and children work to find a [[:wikt:common preference|common preference]], a solution all parties genuinely prefer to all other candidate solutions they can think of. <ref> "[http://www.takingchildrenseriously.com/common_preferences_and_non_coercion Taking Children Seriously common preferences and non-coercion.]"</ref> . 
+
+The TCS philosophy was inspired by the [[epistemology]] of [[Karl Popper]]. Popper was a professional educator himself before he started to do philosophy. In fact, philosophy was only a second option for him at that time, to be able to emigrate to escape the imminent [[Anschluss]]. He was active in the ''Wiener Schulreform'' (Vienna school reform) movement,<ref>[[Karl R. Popper]] (1925) "Über die Stellung des Lehrers zu Schule und Schüler," ''Schulreform'' '''4'''(4): 204–208. </ref><ref>Popper, K. R. (1927) "Zur Philosophie des Heimatgedankens," ''Die Quelle'' '''77'''(10): 899–908. </ref> and there are connections between the psychology of learning, on which he did his doctoral thesis,<ref>Popper, K R. (1928) ''Zur Methodenfrage der Denkpsychologie''. Wien (unpublished dissertation). </ref> and his philosophy. <ref>[[William W. Bartley]] (1970) "Die österreichische Schulreform als die Wiege der modernen Philosophie" in Gerhard Szcesny, ed., ''Club Voltaire IV''. Hamburg: 360. ISBN 3-499-65086-X. </ref> However, as a philosopher, he did not advocate any concrete pedagogy, although he had some general views on the issue. <ref>Champion, Rafe (1987) "[http://www.the-rathouse.com/RC_PopperEdu.html Popper on Education.]"</ref> TCS views Popper's epistemology, as Popper himself, as a universal theory of how [[knowledge]] grows, and tries to work out its profound implications for [[Philosophy of education|educational theory]].  . 
+
+==Footnotes==. 
+{{reflist}}
+* {{cite book|last=Fortune-Wood|first=Jan |title= Bound to be Free: A Positive Alternative to Paying the Hidden Costs of Free Education |publisher=Educational Heretics Press |date=2001|pages=110|isbn=1900219204|url=http://books.google.com/?id=YE2fAAAAMAAJ&q=%22Taking+Children+Seriously%22+popper&dq=%22Taking+Children+Seriously%22+popper}} . 
+
+==External links==. 
+* [http://www.takingchildrenseriously.com Taking Children Seriously Website.]
+* [http://www.curi.us/archives/61 Elliot Temple's education and parenting posts]
+* [http://fallibleideas.com/ Fallible Ideas]
+* [http://fallibleliving.com/essays/on-taking-children-seriously/ Fallible Living TCS Essays]
+* {{cite journal |last= |first= |authorlink= |coauthors= |year= |month= |title= |journal=Brain, Child Magazine |volume= 4 |issue= 1 |pages= Winter 2003 |id= |url=http://www.brainchildmag.com/ |accessdate=2008-11-11 |quote= }} [http://www.utne.com/2003-11-01/Free-to-Be-Me.aspx Reprinted] in the ''[[Utne Reader]]''
+* {{cite web |url=http://www.greenanarchy.info/etc/tcs.htm{{dead link|date=November 2011}} |title=Taking Children Seriously (TCS) and Anarchy |accessdate=11 November 2008 |work=(I)An-ok |publisher=Green Anarchy |date=Fall 2002 }}
+* {{cite web |url=http://www.k12academics.com/taking_children_seriously.htm |title= Pedagogy > Taking Children Seriously |accessdate=11 November 2008 |work= |publisher=K12 Academics |date=2008-11-11 }}
+* {{cite web |url=http://www.johntaylorgatto.com/underground/index.htm|title=An Underground History of American Education by John Taylor Gatto |accessdate=3 July 2009 }} . 
+
+[[Category:Parenting]]
+[[Category:Alternative education]]
+[[Category:Philosophy of education]]
+[[Category:Social movements]]
+[[Category:Pedagogy]]
+[[Category:Youth empowerment organizations]]
+[[Category:Youth rights organizations]]

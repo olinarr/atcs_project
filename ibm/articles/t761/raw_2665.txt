@@ -1,0 +1,243 @@
+{{Refimprove|date=August 2008}} . 
+
+[[File:Pipeline-small image, seen from below.jpeg|thumb|200px|An elevated section of the [[Trans-Alaska Pipeline System|Alaska Pipeline]].]]
+[[File:Fernwärmeleitung Dü StPö mit Kraftwerk Dürnrohr.jpg|thumb|200px|District heating pipeline in [[Austria]] with a length of 31&nbsp;km <ref name="Wärmetransportleitung">[http://www.gaswaerme.at/de/pdf/10-1/oberhammer.pdf Andreas Oberhammer; The longest heat transfer pipeline in Austria] Paper in German. Retrieved 2010-09-20</ref>
+]] . 
+
+'''Pipeline transport''' is the transportation of goods through a [[Pipe (material)|pipe]]. Most commonly, liquids and gases are sent, but [[pneumatic tube]]s that transport solid capsules using compressed air are also used.  . 
+
+As for gases and liquids, any chemically stable substance can be sent through a pipeline. Therefore [[sewage]], [[slurry]], [[water]], or even [[beer]] pipelines exist; but arguably the most valuable are those transporting [[fuel]]s: [[Petroleum|oil]] (oleoduct), [[natural gas]] (gas grid), and [[biofuel]]s.  . 
+
+[[Dmitri Mendeleev]] first suggested using a [[Pipe (material)|pipe]] for transporting [[petroleum]] in [[1863]]. <!-- Non English language refs moved to footnote --> . 
+
+==Types by transported substance==. 
+=== For oil or natural gas ===. 
+<!-- This heading is linked by many redirects.  Do not change without updating the associated links. -->
+{{Transport}}
+{{See also|List of oil pipelines|List of natural gas pipelines}} . 
+
+[[File:Pipeline device.jpg|thumb|left|A "[[Pipeline inspection gauge|Pig]]" launcher/receiver, belonging to the natural gas pipeline in Switzerland.]]
+There is some argument as to when the first [[crude oil]] pipeline was built. However, some{{who|date=September 2011}} say pipeline transport was pioneered by [[Vladimir Shukhov]] and the [[Branobel]] company in the late 19th century.  Others{{who|date=September 2011}} say oil pipelines originated when the Oil Transport Association first constructed a {{Convert|2|in|mm|sing=on}} wrought iron pipeline over a {{Convert|6|mi|km|sing=on}} track from an oil field in Pennsylvania to a railroad station in Oil Creek, in the 1860s.  Pipelines are generally the most economical way to transport large quantities of oil, [[refined oil products]] or [[natural gas]] over land. Compared to shipping by [[railroad]], they have lower cost per unit and higher capacity. Although pipelines can be built under the sea, that process is economically and technically demanding, so the majority of oil at sea is transported by [[Tanker (ship)|tanker]] ships.  . 
+
+The market size for oil and gas pipeline construction experienced tremendous growth prior to the economic downturn in 2008. The industry grew from $23 billion in 2006 to $39 billion in 2008. <ref>[http://www.pellresearch.com/Market-Analysis/Oil-and-Gas-Pipeline-Construction.htm] Pell Research Report on Oil and Gas Pipeline Construction - cited with permission</ref> . 
+
+Oil pipelines are made from [[steel]] or [[plastic]] tubes with inner diameter typically from {{Convert|4|to|48|in}}. Most pipelines are typically buried at a depth of about {{Convert|3|to|6|ft}}. The oil is kept in motion by  [[pump]] stations along the pipeline, and usually flows at speed of about {{Convert|1|to|6|m/s}}.  Multi-product pipelines are used to transport two or more different products in sequence in the same pipeline. Usually in multi-product pipelines there is no physical separation between the different products. Some mixing of adjacent products occurs, producing [[wiktionary:interface|interface]]. At the receiving facilities this interface is usually absorbed in one of the product based on pre-calculated absorption rates.  . 
+
+Crude oil contains varying amounts of wax, or [[paraffin]], and in colder climates wax buildup may occur within a pipeline.  Often these pipelines are inspected and cleaned using [[pipeline inspection gauge]]s, ''pigs'', also known as ''scrapers'' or ''Go-devils''. Smart pigs (also known as intelligent or intelligence pigs) are used to detect anomalies in the pipe such as dents, metal loss caused by corrosion, cracking or other mechanical damage. <ref>[http://www.thefreedictionary.com/go-devil go-devil - definition of go-devil] by the Free Online Dictionary, Thesaurus and Encyclopedia. </ref>  These devices are launched from pig-launcher stations and travel through the pipeline to be received at any other station down-stream, either cleaning wax deposits and material that may have accumulated inside the line or inspecting and recording the condition of the line.  . 
+
+For natural gas, pipelines are constructed of carbon steel and vary in size from {{Convert|2|to|60|in}} in diameter, depending on the type of pipeline. The gas is pressurized by compressor stations and is odourless unless mixed with a [[Thiol|mercaptan odorant]] where required by a regulating authority.  . 
+
+===For ammonia===. 
+Highly-toxic [[ammonia]] is theoretically the most dangerous substance to be transported through long-distance pipelines. However, practically incidents on ammonia-transporting lines are uncommon - unlike on industrial ammonia-processing equipment. 
+[[File:Ammiakoprovod NS.jpg|thumb|The world's longest ammonia pipeline from [[Russia]] to [[Ukraine]].]]
+A major example of ammonia pipeline is the [[Ukraine|Ukrainian]] ''Transammiak'' line connecting the [[TogliattiAzot]] facility in [[Russia]] to the exporting [[Black Sea]]-port of [[Odessa]].  . 
+
+===For biofuels (ethanol and biobutanol)===. 
+{{See also|Biobutanol}}
+Pipelines have been used for transportation of ethanol in Brazil, and there are several ethanol pipeline projects in Brazil and the United States. <ref name=ustoday>
+{{Cite news
+| publisher= USA Today
+| title = Ethanol makers consider coast-to-coast pipeline
+| author = James MacPherson
+| url= http://www.usatoday.com/money/industries/energy/2007-11-18-ethanolpipeline_N.htm
+| date = 2007-11-18
+| accessdate=2008-08-23}}
+</ref> Main problems related to the shipment of ethanol by pipeline are its high oxygen content, which makes it corrosive, and absorption of water and impurities in pipelines, which is not a problem with oil and natural gas. <ref name=ustoday/><ref name=whims>
+{{Cite journal
+| publisher= Kansas State University
+| title = Pipeline Considerations for Ethanol
+| author = John Whims
+| url= http://www.agmrc.org/NR/rdonlyres/4EE0E81C-C607-4C3F-BBCF-B75B7395C881/0/ksupipelineethl.pdf
+| date = August 2002
+| accessdate=2008-08-23|format=PDF}}
+</ref> Insufficient volumes and cost-effectiveness are other considerations limiting construction of ethanol pipelines. <ref name=whims/><ref name=iowa>
+{{Cite news
+| publisher= The Daily Iowan
+| title = Ethanol pipeline places the cart before the horse
+| url= http://media.www.dailyiowan.com/media/storage/paper599/news/2008/07/24/Opinions/Ethanol.Pipeline.Places.The.Cart.Before.The.Horse-3394187.shtml
+| date = 2008-08-24
+| accessdate=2008-08-23}}
+</ref> . 
+
+===For coal and ore===. 
+[[Slurry pipeline]]s are sometimes used to transport coal or ore from mines. The material to be transported is closely mixed with water before being introduced to the pipeline; at the far end, the material must be dried. 
+One example is a 525&nbsp;km slurry pipeline which is planned to transport iron ore from the [[Minas-Rio]] mine (producing 26.5 million tonnes per year) to a port at [[Açu]] in [[Brazil]]. <ref>{{cite web|url=http://www.bnamericas.com/project-profile/en/Minas-Rio-Minas-Rio|accessdate=2010-12-12|title=Project Profiles, Minas-Rio|date=2010-12-12}}</ref> An existing example is the 85&nbsp;km Savage River Slurry pipeline in [[Tasmania]], [[Australia]], possibly the world's first when it was built in 1967. It includes a 366m bridge span at  167m above the Savage River. <ref>{{cite web|url=http://pipeliner.com.au/news/the_savage_river_slurry_pipeline/054155/|accessdate=2011-05-07|title=The Savage River Slurry Pipeline - The Australian Pipeliner|date=2011-01}}</ref><ref>{{cite web|url=http://www.highestbridges.com/wiki/index.php?title=Savage_River_Pipeline_Bridge|title=Savage River Pipeline Bridge - Highestbridges.com|accessdate=2011-05-07|date=2009-12-17}}</ref> . 
+
+===For hydrogen===. 
+{{Main|Hydrogen pipeline transport}}
+[[Hydrogen pipeline transport]] is a transportation of hydrogen through a [[Pipe (material)|pipe]] as part of the [[hydrogen infrastructure]]. Hydrogen pipeline transport is used to connect the point of [[hydrogen production]] or delivery of hydrogen with the point of demand, with transport costs similar to [[Compressed natural gas|CNG]],<ref>[http://www.leightyfoundation.org/files/WHEC16-Lyon/WHEC16-Ref022.pdf Compressorless Hydrogen Transmission Pipelines]</ref> the technology is proven. <ref>[http://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/hpwgw_airprod_remp.pdf DOE Hydrogen Pipeline Working Group Workshop]</ref> Most [[hydrogen]] is produced at the place of demand with every 50 to {{Convert|100|mi|km}} an industrial production facility. <ref>[http://www.hydrogenforecast.com/ArticleDetails.php?articleID=250 Every 50 to {{Convert|100|mi|km}}  ] {{Dead link|date=September 2010}}</ref> The 1938 - [[Rhine-Ruhr]] 240&nbsp;km hydrogen pipeline is still in operation. <ref>[http://www.storhy.net/train-in/PDF-TI/03_StorHy-Train-IN-Session-1_3_JToepler.pdf The Technological Steps of Hydrogen Introduction - page 24]</ref>
+As of 2004 there are {{convert|900|mi|km}} of low pressure hydrogen pipelines in the USA and {{Convert|930|mi|km}} in Europe.  . 
+
+===For water===. 
+[[File:LA Aqueduct Antelope Valley.jpg|thumb|The [[Los Angeles Aqueduct]] in [[Antelope Valley]].]]
+{{Main|Aqueduct}} . 
+
+Two millennia ago the [[Roman Empire|ancient Romans]] made use of large [[aqueduct]]s to transport water from higher elevations by building the aqueducts in graduated segments that allowed [[gravity]] to push the water along until it reached its destination. Hundreds of these were built throughout Europe and elsewhere, and along with [[flour mill]]s were considered the lifeline of the Roman Empire. The [[History of China|ancient Chinese]] also made use of channels and pipe systems for public works. The famous [[Han Dynasty]] court [[eunuch (court official)|eunuch]] [[Zhang Rang]] (d. 189&nbsp;AD) once ordered the [[engineer]] Bi Lan to construct a series of square-pallet [[chain pump]]s outside the capital city of [[Luoyang]]. <ref name="needham volume 4 part 2 33">Needham, Joseph (1986). Science and Civilization in China: Volume 4, Part 2. Taipei: Caves Books Ltd. Page 33. </ref>  These chain pumps serviced the imperial [[palace]]s and living quarters of the capital city as the water lifted by the chain pumps was brought in by a [[stoneware]] [[pipe (material)|pipe]] system. <ref name="needham volume 4 part 2 33"/><ref name="needham volume 4 part 2 345 346">Needham, Volume 4, Part 2, 345-346. </ref> . 
+
+Pipelines are useful for [[water transportation|transporting water]] for [[drinking water|drinking]] or [[irrigation]] over long distances when it needs to move over [[hill]]s, or where [[canal]]s or [[channel (geography)|channels]] are poor choices due to considerations of [[evaporation]], [[pollution]], or environmental impact.  . 
+
+The {{convert|530|km|miles|abbr=on}} [[Goldfields Water Supply Scheme]] in [[Western Australia]] using 750&nbsp;mm (30&nbsp;inch) pipe and completed in 1903 was the largest water supply scheme of its time. <ref>[http://www.adb.online.anu.edu.au/biogs/A040174b.htm Mephan Ferguson] Australian Dictionary of Biography(online version)</ref><ref>[http://www.abc.net.au/dynasties/txt/s1489302.htm The Forrest family] ''Dynasties'', ABC. Retrieved 17 September 2006. </ref> . 
+
+Examples of significant water pipelines in [[South Australia]] are the [[Morgan, South Australia|Morgan]]-[[Whyalla, South Australia|Whyalla]] (completed 1944) and [[Mannum, South Australia|Mannum]]-[[Adelaide]] <ref>http://www.sawater.com.au/SAWater/WhatsNew/NewsRoom/Mannum+Adelaide+Celebrations.htm</ref> (completed 1955) pipelines.  . 
+
+There are two [[Los Angeles, California]] [[aqueduct]]s, the ''[[Los Angeles Aqueduct|First Los Angeles Aqueduct]]'' (completed 1913) and the ''Second Los Angeles Aqueduct'' (completed 1970) which also include extensive use of pipelines.  . 
+
+===For beverages===. 
+====For beer==== . 
+
+[[File:Thor pipeline.jpg|thumb|alt=Thor Pipeline in Randers, Denmark|Thor Pipeline in [[Randers]], [[Denmark]]]] . 
+
+Bars in the [[Veltins-Arena]], a major [[football (soccer)|football]] ground in [[Gelsenkirchen]], [[Germany]], are interconnected by a 5&nbsp;km long beer pipeline. It is the favourite method for distributing beer in such large stadiums, because the bars have to overcome big differences between demands during various stages of a match; this allows them to be supplied by a central tank. <!-- Is this unique to the Veltins-Arena? --> . 
+
+In [[Randers]] city in [[Denmark]], the so-called [[Thor]] beer pipeline still exists. Originally copper pipes were running directly from the brewery, and, when in 90s the brewery moved out the city, Thor beer replaced the centre of a star with a giant tank.  . 
+
+===For other uses===. 
+The town of [[Hallstatt]] in [[Austria]] claims to contain "the oldest industrial pipeline in the world", dating back to 1595. <ref>{{Cite web |url=http://www.virtualvienna.net/columns/billie/hallstatt/hallstatt.html |title=Hallstatt's White Gold - Salt |accessdate=2007-05-15 |author=Billie Ann Lopez |authorlink= |coauthors= |date= |year= |month= |work= |publisher= |pages=  |archiveurl = http://web.archive.org/web/20070210142713/http://www.virtualvienna.net/columns/billie/hallstatt/hallstatt.html  |archivedate = 2007-02-10 |quote= }}</ref> It was constructed from 13,000 [[trunk (botany)|trunks]] to transport [[saline solution]] for 40&nbsp;kilometers from [[Hallstatt]] to [[Ebensee]]. <ref>See the article [[Hallstatt]] for details and references. </ref> . 
+
+==Types by transport function==. 
+In general, pipelines can be classified in three categories depending on purpose: . 
+
+;Gathering pipelines: Group of smaller interconnected pipelines forming complex networks with the purpose of bringing crude oil or natural gas from several nearby wells to a treatment plant or processing facility. In this group, pipelines are usually short- a couple of hundred metres- and with small diameters. Also sub-sea pipelines for collecting product from deep water production platforms are considered gathering systems. 
+;Transportation pipelines: Mainly long pipes with large diameters, moving products (oil, gas, refined products) between cities, countries and even continents. These transportation networks include several compressor stations in gas lines or pump stations for crude and multiproducts pipelines. 
+;Distribution pipelines: Composed of several interconnected pipelines with small diameters, used to take the products to the final consumer. Feeder lines to distribute gas to homes and businesses downstream. Pipelines at terminals for distributing products to tanks and storage facilities are included in this group.  . 
+
+==Construction==. 
+When a pipeline is built, the construction project not only covers the civil work to lay the pipeline and build the pump/compressor stations, it also has to cover all the work related to the installation of the field devices that will support remote operation.  . 
+
+The pipeline is routed along what is known as a 'right of way'. Pipelines are generally built using the following stages: . 
+
+# Route (right of way) Selection
+# Surveying the route
+# Clearing the route
+# Trenching - Main Route and Crossings (roads, rail, other pipes, etc.)
+# Installing the pipe
+# Installing valves, intersections, etc. 
+# Covering the pipe and trench . 
+
+Russia has Pipeline Troops as part of the [[Rear Services]], who are trained to build and repair pipelines. Russia is the only country to have Pipeline Troops. <ref>{{cite news |url=http://de.rian.ru/politics/20120116/262467833.html |title=Russlands Militär übt für möglichen US-Angriff auf Iran |publisher=Ria Novosti |language=de |accessdate=17 January 2012 |date=16 January 2012}}</ref> . 
+
+==Operation==. 
+Field devices are instrumentation, data gathering units and communication systems. The field [[Instrumentation]] includes flow, pressure and temperature gauges/transmitters, and other devices to measure the relevant data required. These instruments are installed along the pipeline on some specific locations, such as injection or delivery stations, pump stations (liquid pipelines) or compressor stations (gas pipelines), and block valve stations.  . 
+
+The information measured by these field instruments is then gathered in local [[Remote Terminal Unit]]s (RTU) that transfer the field data to a central location in real time using communication systems, such as satellite channels, microwave links, or cellular phone connections.  . 
+
+Pipelines are controlled and operated remotely, from what is usually known as ''The Main Control Room''. In this center, all the data related to field measurement is consolidated in one central database. The data is received from multiple RTUs along the pipeline. It is common to find RTUs installed at every station along the pipeline. [[File:Pipeline-Scada.jpg|thumb|500px|The SCADA System for pipelines.]] . 
+
+The [[SCADA]] system at the Main Control Room receives all the field data and presents it to the pipeline operator through a set of screens or [[SCADA#Human Machine Interface|Human Machine Interface]], showing the operational conditions of the pipeline. The operator can monitor the hydraulic conditions of the line, as well as send operational commands (open/close valves, turn on/off compressors or pumps, change setpoints, etc.) through the SCADA system to the field.  . 
+
+To optimize and secure the operation of these assets, some pipeline companies are using what is called ''Advanced Pipeline Applications'', which are software tools installed on top of the SCADA system, that provide extended functionality to perform leak detection, leak location, batch tracking (liquid lines), pig tracking, composition tracking, predictive modeling, look ahead modeling, operator training and more.  . 
+
+==Technology==. 
+===Components===. 
+[[File:Trans-Alaska Pipeline crossing a ridge by Tanana River.jpg|thumb|right|The Trans Alaska Pipeline crossing under the [[Tanana River]] and over ridge of the [[Alaska Range]]]]
+Pipeline networks are composed of several pieces of equipment that operate together to move products from location to location. The main elements of a pipeline system are: . 
+
+;Initial injection station: Known also as ''supply'' or ''inlet'' station, is the beginning of the system, where the product is injected into the line. Storage facilities, pumps or compressors are usually located at these locations.  . 
+
+;Compressor/pump stations: [[Pumps]] for liquid pipelines and [[Compressors]] for gas pipelines, are located along the line to move the product through the pipeline. The location of these stations is defined by the topography of the terrain, the type of product being transported, or operational conditions of the network.  . 
+
+;Partial delivery station: Known also as ''intermediate'' stations, these facilities allow the pipeline operator to deliver part of the product being transported.  . 
+
+;Block valve station: These are the first line of protection for pipelines. With these valves the operator can isolate any segment of the line for maintenance work or isolate a rupture or leak. Block valve stations are usually located every 20 to {{Convert|30|mi|km}}, depending on the type of pipeline. Even though it is not a design rule, it is a very usual practice in liquid pipelines. The location of these stations depends exclusively on the nature of the product being transported, the trajectory of the pipeline and/or the operational conditions of the line.  . 
+
+;Regulator station: This is a special type of valve station, where the operator can release some of the pressure from the line. Regulators are usually located at the downhill side of a peak.  . 
+
+;Final delivery station: Known also as '''outlet''' stations or terminals, this is where the product will be distributed to the consumer. It could be a tank terminal for liquid pipelines or a connection to a distribution network for gas pipelines.  . 
+
+===Leak detection systems===. 
+Since oil and gas pipelines are an important asset of the economic development of almost any country, it has been required either by government regulations or internal policies to ensure the safety of the assets, and the population and environment where these pipelines run.  . 
+
+Pipeline companies face government regulation, environmental constraints and social situations. Pipeline companies should comply with government regulations which may define minimum staff to run the operation, operator training requirements, up to specifics including pipeline facilities, technology and applications required to ensure operational safety. As an example, in the State of Washington, it is mandatory for pipeline operators to be able to detect and locate leaks of 8 percent of maximum flow within 15&nbsp;minutes or less.  . 
+
+The social situation also affects the operation of pipelines. In third world countries, product theft is a problem for pipeline companies. It is common to find unauthorized extractions in the middle of the pipeline. In this case, the detection levels should be under 2 percent of maximum flow, with a high expectation for location accuracy.  . 
+
+Different types of technologies and strategies have been implemented, from physically walking the lines to satellite surveillance. The most common technology to protect these lines from occasional leaks is known as Computational Pipeline Monitoring Systems or CPM. CPM takes information from the field related to pressures, flows, and temperatures to estimate the hydraulic behavior of the product being transported. Once the estimation is done, the results are compared to other field references to detect the presence of an anomaly or unexpected situation, which may be related to a leak.  . 
+
+The [[American Petroleum Institute]] has published several articles related to the performance of CPM in liquids pipelines, the API Publications are: . 
+
+* [[API 1130]] – Computational pipeline monitoring for liquids pipelines . 
+
+* [[API 1155]] – Evaluation methodology for software based leak detection systems . 
+
+* [[API 1149]] – Pipeline variable uncertainties & their effects on leak detectability . 
+
+==Implementation==. 
+As a rule pipelines for all uses are laid in most cases underground. However in some cases it is necessary to cross a valley or a river on a [[pipeline bridge]]. Pipelines for centralized heating systems are often laid on the ground or overhead. Pipelines for petroleum running through permafrost areas as Trans-Alaska-Pipeline are often run overhead in order to avoid melting the frozen ground by hot petroleum which would result in sinking the pipeline in the ground.  . 
+
+==Regulation==. 
+[[File:BlendonWoodsPipeline.JPG|thumb|right|An underground petroleum pipeline running through a park]]
+In the US, onshore and offshore pipelines used to transport oil and gas are regulated by the [[Pipeline and Hazardous Materials Safety Administration]] (PHMSA). Certain offshore pipelines used to produce oil and gas are regulated by the [[Minerals Management Service]] (MMS). In Canada, pipelines are regulated by either the provincial regulators or, if they cross provincial boundaries or the Canada/US border, by the [[National Energy Board]] (NEB). 
+Government regulations in Canada and the United States require that buried fuel pipelines must be protected from [[corrosion]]. Often, the most economical method of corrosion control is by use of pipeline [[Industrial coating|coating]] in conjunction with [[cathodic protection]] and technology to monitor the pipeline. Above ground, cathodic protection is not an option. The coating is the only external protection.  . 
+
+==Pipelines and geopolitics==. 
+Pipelines for major energy resources (petroleum and natural gas) are not merely an element of trade. They connect to issues of [[geopolitics]] and [[international security]] as well, and the construction, placement, and control of oil and gas pipelines often figure prominently in [[Sovereign state|state]] interests and actions. A notable example of pipeline politics occurred at the beginning of the year 2009, wherein [[2009 Russia–Ukraine gas dispute|a dispute]] between [[Russia]] and [[Ukraine]] ostensibly over pricing led to a major political crisis. Russian state-owned gas company [[Gazprom]] cut off natural gas supplies to Ukraine after talks between it and the Ukrainian government fell through. In addition to cutting off supplies to Ukraine, Russian gas flowing through Ukraine&mdash;which included nearly all supplies to [[Southeastern Europe]] and some supplies to [[Central Europe|Central]] and [[Western Europe]]&mdash;was cut off, creating a major crisis in several countries heavily dependent on Russian gas as fuel. Russia was accused of using the dispute as leverage in its attempt to keep other powers, and particularly the [[European Union]], from interfering in its "[[near abroad]]".  . 
+
+Oil and gas pipelines also figure prominently in the politics of [[Central Asia]] and the [[Caucasus]].  . 
+
+==Dangers==. 
+===Accidents===. 
+Pipelines conveying flammable or explosive material, such as natural gas or oil, pose special safety concerns.  . 
+
+:''For a more complete list see [[List of pipeline accidents]]'' . 
+
+* [[1982]] - One of the largest non-nuclear explosions in history occurred along the [[Trans-Siberian Pipeline]] in the former [[Soviet Union]]. It has been alleged that the explosion was the result of [[CIA]] [[Siberian pipeline sabotage|sabotage of the Trans-Siberian Pipeline]]. 
+* June 4, 1989 - [[Ufa train disaster|sparks from two passing trains]] detonated gas leaking from an [[Liquefied petroleum gas|LPG]] pipeline near [[Ufa]], [[Russia]]. Up to 645 people were reported killed. 
+* October 17, 1998 - [[1998 Jesse pipeline explosion]] at [[Jesse, Nigeria|Jesse]] in the [[Oil Rivers|Niger Delta]] in [[Nigeria]], a [[petroleum]] pipeline exploded killing about 1,200 villagers, some of whom were scavenging [[gasoline]] - the worst of several similar incidents in this country. 
+* June 10, 1999 - a pipeline rupture in a [[Bellingham, Washington]] park led to the release of 277,200 gallons of gasoline. The gasoline was ignited, causing an explosion that killed two children and one adult. 
+* August 19, 2000 - natural gas pipeline rupture and fire near [[Carlsbad, New Mexico]]; this explosion and fire killed 12 members of the same family. The cause was due to severe internal corrosion of the pipeline. 
+* July 30, 2004 - a major [[natural gas]] pipeline exploded in [[Ghislenghien]], [[Belgium]] near [[Ath]] (thirty kilometres southwest of [[Brussels]]), killing at least 24 people and leaving 132 wounded, some critically. [http://www.expatica.com/source/site_article.asp?channel_id=3&story_id=25465 (Expatica)]
+* May 12, 2006 - an oil pipeline ruptured outside [[Lagos]], [[Nigeria]]. Up to 200 people may have been killed. See [[Nigeria oil blast]]. 
+* November 1, 2007 - a propane pipeline exploded near [[Carmichael, Mississippi]], about {{Convert|30|mi|km}} south of [[Meridian, Mississippi]].  Two people were killed instantly and an additional four were injured.  Several homes were destroyed and sixty families were displaced.  The pipeline is owned by Enterprise Products Partners LP, and runs from [[Mont Belvieu, Texas]], to [[Apex, North Carolina]], according to an Enterprise spokesman. <ref>http://www.wtok.com/home/headlines/10946761.html</ref> . 
+
+===As targets===. 
+Pipelines can be the target of [[vandalism]], [[sabotage]], or even [[terrorist attack]]s. In war, pipelines are often the target of military attacks, as destruction of pipelines can seriously disrupt enemy [[logistics]].  . 
+
+==See also==. 
+{{Commons|Pipeline transport}}
+{{Columns-list|2|
+* [[Biogas|Gas-grid injection]]
+* [[Black Powder in Gas Pipelines]]
+* [[Geomagnetically induced current]], (GIC)
+* [[HCNG dispenser]]
+* [[Hot tapping]]
+* [[Hydraulically Activated Pipeline Pigging]]
+* [[Hydrogen piping]]
+* [[Hydrostatic test]]
+* [[Infrastructure]]
+* [[List of countries by total length of pipelines]]
+* [[List of natural gas pipelines]]
+* [[Natural gas pipeline system in United States]]
+* [[Gas networks simulation]]
+* [[Operation Pluto]]
+* [[Petroleum rapid transit]]
+* [[Pipeline bridge]]
+* [[Pipeline integrity management]]
+* [[Pneumatic tube]], a method for sending documents and other solid materials in capsules through a tube
+* [[Plastic Pressure Pipe Systems]]
+* [[Pig (pipeline)]]
+* [[Reinforced Thermoplastic Pipe]]s
+* [[Russia-Ukraine gas dispute]]
+* [[Slurry pipeline]]
+* [[Trans-Alaska Pipeline Authorization Act]]
+}} . 
+
+{{Petroleum industry}} . 
+
+==References==. 
+{{No footnotes|date=August 2008}}
+{{Reflist|2}} . 
+
+==External links==. 
+* [http://www.nbr.org/publications/element.aspx?id=456 Pipeline Politics in Asia: The Intersection of Demand, Energy Markets, and Supply Routes], by Mikkal E. Herberg et al. ([[National Bureau of Asian Research]], 2010)
+* [http://www.oxfordenergy.org/pdfs/NG22.pdf The Dolphin Project: The Development of a Gulf Gas Initiative], by Justin Dargin, Oxford Institute for Energy Studies Jan 2008 Working Paper NG #22
+* UK - [http://www.linewatch.co.uk/ Linewatch] - a joint awareness initiative between 14 oil and gas pipeline operators
+* [http://books.google.com/books?id=diEDAAAAMBAJ&pg=RA1-PA65&dq=popular+science+1951+%22bed+bikes%22&hl=en&ei=RQXETI7MHtC9ngee4ZA3&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC8Q6AEwAA#v=onepage&q&f=true '' "Submarine Gas Pipe Line Taps Undersea Wealth" ''] November 1951 article about first undersea gas pipeline constructed in the US and the problems encountered
+* [http://books.google.com/books?id=WSgDAAAAMBAJ&pg=PA19&dq=Popular+Science+1933+plane+%22Popular+Science%22&hl=en&ei=kH7gTamNN4P40gH1u52xBw&sa=X&oi=book_result&ct=result&resnum=7&ved=0CEAQ6AEwBjg8#v=onepage&q&f=true "The Marvels Of Underground Oil Railroads" ''Popular Science'' April 1937]
+* [http://www.youtube.com/watch?v=tqanBk2lEos Construction and delivery of compressor stations for a gas pipeline in the Soviet Union by AEG] (company video from the 70ies with subtitles) . 
+
+{{DEFAULTSORT:Pipeline Transport}}
+[[Category:Commercial item transport and distribution]]
+[[Category:Pipelines|*]]
+[[Category:Oil pipelines]]
+[[Category:Piping]]
+[[Category:Natural gas pipeline]]

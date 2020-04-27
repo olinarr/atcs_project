@@ -1,0 +1,329 @@
+[[Image:Population curve.svg|thumb|360px|Estimated size of human population from 10,000 [[Common Era|BCE]]–2000 CE.]] . 
+
+'''Population growth''' is   the change in a [[population]] over time, and can be quantified as the change in the number of individuals of any [[species]] in a population using "per unit time" for measurement. 
+In [[biology]], the term ''population growth'' is likely to refer to any known [[organism]], but this article deals mostly with the application of the term to [[human]] populations in [[demography]].  . 
+
+In demography, ''population growth'' is used informally for the more specific term '''population growth rate''' (see below), and is often used to refer specifically to the growth of the human [[World population|population of the world]].  . 
+
+Simple models of population growth include the [[Malthusian Growth Model]] and the [[logistic function|logistic model]].  . 
+
+Population growth 1800-2011: from 1 billion to 7 billion estimated in 31.10.2011. During the year 2011 according to estimates:<ref name=hesa2011> 7. miljardis ihminen, Helsingin Sanomat editor Mr Timo Paukku 5.9.2011 D1 {{fi}}</ref> . 
+
+{| class="wikitable" style="float: right; margin-left: 10px"
+! colspan=4 align="center" style="background-color: #cfb;" | Population<ref name=hesa2011> 7. miljardis ihminen, Helsingin Sanomat editor Mr Timo Paukku 5.9.2011 D1 {{fi}}</ref>
+. |-
+! style="background-color: #cfb;" | Year 
+! style="background-color: #cfb;" | Billion
+. |----
+| align="left" | 1800 || align="right"| 1
+. |----
+| align="left" | 1927 || align="right"| 2
+. |----
+| align="left" | 1960 || align="right"| 3
+. |----
+| align="left" | 1974 || align="right"| 4
+. |----
+| align="left" | 1987 || align="right"| 5
+. |----
+| align="left" | 1999 || align="right"| 6
+. |----
+| align="left" | 2011* || align="right"| 7
+. |-----
+| align="left" colspan=2 | <small>[[UNFPA]]</br>United Nations Population Fund</br> estimate 31.10.2011 </small>
+|} . 
+
+* 135 million people will be born
+* 57 million people will die and
+* 78 million people will increase the world population.  . 
+
+==Determinants of population growth==. 
+Population growth is determined by four factors, births('''B'''), deaths('''D'''), immigrants('''I'''), and emigrants('''E'''). 
+Using a formula expressed as . 
+
+<big>∆P≡(B-D)+(I-E)</big> . 
+
+In other words, the population growth of a period can be calculated in two parts, natural growth of population (B-D) and mechanical growth of population (I-E),in which Mechanical growth of population is mainly affected by social factors, e.g. the advanced economies are growing faster while the backward economies are growing slowly even with negative growth.  . 
+
+==Population growth rate==. 
+In demographics and [[ecology]], '''population growth rate''' (PGR) is the [[Rate (mathematics)|rate]] at which the number of individuals in a population increases in a given time period as a [[Fraction (mathematics)|fraction]] of the initial population. Specifically, PGR ordinarily refers to the change in population over a unit time period, often expressed as a [[percentage]] of the number of individuals in the population at the beginning of that period.  This can be written as the formula:<ref>Enns, Richard. ''It's a Nonlinear World''. Springer, 2010, p. 4. </ref> . 
+
+:<math>PGR = \frac{ \ln(P(t_2))  -  \ln(P(t_1))} {(t_2-t_1)}</math> . 
+
+The most common way to express population growth is as a [[Percentage_change|percentage]], not as a [[rate]]. The change in population over a unit time period is expressed as a percentage of the population at the beginning of the time period. That is: . 
+
+:<math>\mathrm{Percentage\ Growth} = \mathrm{Growth\ rate} \times 100%. </math> . 
+
+For small time periods and growth rates, the added population is the growth rate multiplied by the time period.   . 
+
+A positive growth ratio (or rate) indicates that the population is increasing, while a negative growth ratio indicates the population is decreasing. A growth ratio of zero indicates that there were the same number of people at the two times -- net difference between births, deaths  a growth rate may be zero even when there are significant changes in the birth rates, death rates, immigration rates, and age distribution between the two times. 
+<ref>[http://www.apheo.ca/index.php?pid=61 Association of Public Health Epidemiologists in Ontario]</ref>
+Equivalently, percent death rate = the average number of deaths in a year for every 100 people in the total population.  . 
+
+If the length of the time is taken smaller and smaller, the PGR approaches the [[logarithmic derivative]] of the population function P. If the population as a function of time is [[exponential growth|exponential]], say P(''t'')&nbsp;=&nbsp;''Ce''<sup>''at''</sup>, the logarithmic derivative is ''a''. Thus, the PGR approximates the exponent ''a'' for populations with exponential growth.  . 
+
+A related measure is the [[net reproduction rate]]. In the absence of migration, a net reproduction rate of more than one indicates that the population of women is increasing, while a net reproduction rate less than one ([[sub-replacement fertility]]) indicates that the population of women is decreasing.  . 
+
+==Excessive growth and decline==. 
+''Main articles: [[Overpopulation]] and [[population decline]]'' . 
+
+Population exceeding the [[carrying capacity]] of an area or environment is called [[overpopulation]]. It may be caused by growth in population or by reduction in capacity. Spikes in human population can cause problems such as [[pollution]] and [[traffic congestion]], these might be resolved or worsened by technological and economic changes. Conversely, such areas may be considered "underpopulated" if the population is not large enough to maintain an [[economic system]] (see [[population decline]]). Between these two extremes sits the notion of the [[optimum population]].  . 
+
+== Human population growth rate ==. 
+[[Image:Population growth rate world 2011.svg|thumb|400px|right|
+Annual population growth rate in percent, as listed in the [[CIA World Factbook]] (2011 estimate). <ref>[https://www.cia.gov/library/publications/the-world-factbook/fields/2002.html Population growth rate]</ref>]]
+[[File:World_population_growth_rate_1950–2050.svg|thumb|300px|Growth rate of world population (1950-2050)]]
+[[File:World population growth (lin-log scale).png|thumb|300px|Population of the world from 10,000 BCE to 2000 CE (logarithmic scale)]] . 
+
+Globally, the growth [[rate]] of the [[World population|human population]] has been declining since peaking in 1962 and 1963 at 2.20% per annum. In 2009, the estimated annual growth rate was 1.1%. <ref>[http://www.census.gov/ipc/www/idb/worldpop.php U.S. Census Bureau, January 2010]</ref> The [[CIA World Factbook]] gives the world annual birthrate, mortality rate, and growth rate as 1.915%, 0.812%, and 1.092% respectively<ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html World Factbook ]</ref> The last one hundred years have seen a rapid increase in population due to [[History of medicine#Modern medicine|medical advances]] and massive increase in agricultural productivity<ref>[http://news.bbc.co.uk/1/hi/world/south_asia/4994590.stm BBC NEWS | The end of India's green revolution?]</ref> made possible by the [[Green Revolution]]. <ref>[http://www.foodfirst.org/media/opeds/2000/4-greenrev.html Food First/Institute for Food and Development Policy]</ref><ref>[http://www.csmonitor.com/2007/0724/p01s01-wogi.html Rising food prices curb aid to global poor]</ref><ref>[http://www.finfacts.com/irelandbusinessnews/publish/article_1011078.shtml Record rise in wheat price prompts UN official to warn that surge in food prices may trigger social unrest in developing countries]</ref> . 
+
+The actual annual growth in the number of humans fell from its peak of 88.0 million in 1989, to a low of 73.9 million in 2003, after which it rose again to 75.2 million in 2006. Since then, annual growth has declined. In 2009, the human population increased by 74.6 million, which is projected to fall steadily to about 41 million per annum in 2050, at which time the population will have increased to about 9.2 billion. <ref>[http://www.census.gov/ipc/www/idb/worldpop.php U.S. Census Bureau, January 2010]</ref> Each region of the globe has seen great reductions in growth rate in recent decades, though growth rates remain above 2% in some countries of the [[Middle East]] and [[Sub-Saharan Africa]], and also in [[South Asia]], [[Southeast Asia]], and [[Latin America]]. <ref>[http://www.census.gov/ipc/www/idb/worldpop.php U.S. Census Bureau, June 2009]</ref> . 
+
+Some countries experience [[Population decline|negative population growth]], especially in [[Eastern Europe]] mainly due to low [[fertility rate]]s, high death rates and [[emigration]]. In [[Southern Africa]], growth is slowing due to the high number of [[HIV]]-related deaths. Some [[Western Europe]] countries might also encounter negative population growth. <ref>[http://esa.un.org/unpp/index.asp?panel=2 UN population projections]</ref> [[Japan]]'s population began decreasing in 2005. <ref>[http://www.guardian.co.uk/world/2009/jan/02/japan-population Japan sees biggest population fall]</ref> . 
+
+== Growth by country== . 
+
+The growth by country in the world increased from 1990 to 2008 with 1,423 million and 27 % growth. As persons the increase was among highest in [[India]] 290 million and [[China]] 192 million. Population growth was among highest in [[Qatar]] 174 % and [[United Arab Emirates]] 140 %. <ref name=IEApop2011>[http://www.iea.org/co2highlights/co2Highlights.XLS CO2 Emissions from Fuel Combustion] Population 1971-2008 IEA  ([http://iea.org/co2highlights/co2highlights.pdf pdf] pages 83-85)</ref> . 
+
+{| class="wikitable sortable" 
+. |-
+!Rank
+!Country
+!Population <br> (thousands) 2010
+!Population <br> (thousands) 1990
+!Growth (%)<br>1990-2010
+. |-
+|
+| {{noflag}} World
+| 6,895,889
+| 5,306,425
+| 30.0%
+. |-
+| 1
+| {{flag|China}}
+| 1,341,335
+| 1,145,195
+| 17.1%
+. |-
+| 2
+| {{flag|India}}
+| 1,224,614
+| 873,785
+| 40.2%
+. |-
+| 3
+| {{flag|United States}}
+| 310,384
+| 253,339   
+| 22.5%
+. |-
+| 4
+| {{flag|Indonesia}}
+| 239,871
+| 184,346  
+| 30.1%
+. |-
+| 5
+| {{flag|Brazil}}
+| 194,946   
+| 149,650  
+| 30.3%
+. |-
+| 6
+| {{flag|Pakistan}}
+| 173,593 
+| 111,845    
+| 55.3%
+. |-
+| 7
+| {{flag|Nigeria}}
+| 158,423 
+| 97,552 
+| 62.4%
+. |-
+| 8
+| {{flag|Bangladesh}}
+| 148,692  
+| 105,256    
+| 41.3%
+. |-
+| 9
+| {{flag|Russia}}
+| 142,958   
+| 148,244 
+| -3.6%
+. |-
+| 10
+| {{flag|Japan}}
+| 126,536  
+| 122,251 
+| 3.5%
+. |-
+|} . 
+
+===1960s to 2010 table of population growth===. 
+{| class="wikitable" style="float: right; margin-left: 10px"
+! colspan="2" align=center style="background-color: #cfb;"  | Population growth  1990-2008 (%)<ref name=IEAco-2011>[http://www.iea.org/co2highlights/co2Highlights.XLS CO2 Emissions from Fuel Combustion] Population 1971-2008 IEA</ref>
+. |-----
+|  align=”left” | [[Africa]] || align="right"| 55 %
+. |-----
+| align=”left” | [[Middle East]] || align="right"| 51 %
+. |-----
+|  align=”left” | [[Asia]] || align="right"| 35 %
+. |-----
+| align=”left” | [[Latin America]] || align="right"| 30 %
+. |-----
+|  align=”left” | [[OECD]] [[North America]] || align="right"| 24 %
+. |-----
+| align=”left” | OECD [[Europe]] || align="right"| 9 %
+. |-----
+| align=”left” | OECD [[Pacific]] || align="right"| 8 %
+. |-----
+| align=”left” | [[Former Soviet Union]] || align="right"| -1 %
+. |-----
+| align=”left” | Non-OECD Europe || align="right"| -11 %
+. |-----
+|} . 
+
+Many of the world's countries, including many in Sub-Saharan [[Africa]], the [[Middle East]], [[South Asia]] and [[South East Asia]], have seen a sharp rise in population since the end of the [[Cold War]]. The fear is that high population numbers are putting further strain on natural resources, food supplies, fuel supplies, employment, housing, etc.; in some the less fortunate countries. The [[population]] of [[Chad]] has, for example, ultimately grown from 6,279,921 in 1993 to 10,329,208 in 2009,<ref name="cia"/> further straining its resources. [[Vietnam]], [[Mexico]], [[Nigeria]], [[Egypt]], [[Ethiopia]] and the [[DRC]] are witnessing a similar growth in population, strained resources and a possible overpopulation problem in the near future.  . 
+
+The situation was most acute in northern, western and central [[Africa]]. Refugees from places like the [[Sudan]] have helped further strain the resources of neighbouring states like Chad and Egypt. The nation is also host to roughly 255,000 [[refugee]]s from Sudan’s [[Darfur]] region, and about 77,000 refugees from the [[Central African Republic]], whilst approximately 188,000 Chadians have been displaced by their own civil war and famines, have either fled to either the Sudan, the Niger or, more recently, [[Libya]].  . 
+
+{| class="wikitable sortable"
+. |-
+! Example nation !! 1st Population total.!! 2nd Population total.!! 3rd Population total.!!4th Population total.!!5th Population total.!!Life expectancy in years. !!Total population growth from 1st Pop. Total to 5th Pop. Total. 
+. |-
+|[[Eritrea]]* || N/A* ||N/A*|| 3,437,000(1994)<ref name="collins student atlas"/> ||4,298,269 (2002) || 5,673,520 (2008)<ref>
+url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf</ref>||61 (2008)<ref name="ReferenceB">'Modern School Atlas (96th edition)', ISBN 978-1-84907-013-3. </ref>||2,236,520 (since independence)
+. |-
+| [[Ethiopia]]* ||23,457,000(1967)*<ref name="ReferenceOxford Atlas">The British Oxford economic atlas of the World 4th edition, ISBN 019 8941072</ref>||50,974,000(1990)* <ref name="ReferenceC">The British Collins Atlas of the World, the 1993 edition, ISBN 0-0044-8038-4</ref> || 54,939,000(1994) <ref name="collins student atlas">The British ''Collins Longman Student Atlas'', the 1996 and in 1998 publications, ISBN 978-0004488790 for the 1998 edition, ISBN 0-00-448365-0 for the 1996 edition</ref> || 67,673,031(2003) ||79,221,000(2008)<ref name="csa.gov.et">[http://www.csa.gov.et/surveys/National%20statistics/national%20statistics%202007/Population.pdf Ethiopia Central Statistics Office -- Population Projection for mid-2008]</ref>|| 55(2008)<ref name="ReferenceB"/>|| 55,764,000
+. |-
+| [[Sudan]]**||14,355,000(1967)**<ref name="ReferenceOxford Atlas"/> ||25,204,000(1990)** <ref name="ReferenceC"/> || 27,361,000 (1994)**<ref name="collins student atlas"/> || 38,114,160 (2003)** || 42,272,000(2008)**<ref>{{cite journal | url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision | format=PDF | publisher=United Nations | author=Department of Economic and Social Affairs}}</ref>||50(2008)**<ref name="ReferenceB"/>|| 27,917,000
+. |-
+| [[Chad]] ||3,410,000(1967)<ref name="ReferenceOxford Atlas"/> ||5,679,000(1990) <ref name="ReferenceC"/> || 6,183,000 (1994)<ref name="collins student atlas"/> ||9,253,493(2003) ||10,329,208 (2009)<ref name="cia"/>||47(2008)<ref name="ReferenceB"/>|| 6,919,205
+. |-
+| [[Niger]]||3,546,000(1967)<ref name="ReferenceOxford Atlas"/>||7,732,000(1990) <ref name="ReferenceC"/> || 8,846,000(1994)<ref name="collins student atlas"/>  || 10,790,352 (2001) || 15,306,252 (2009)<ref>{{cite web |author=Central Intelligence Agency |authorlink=CIA |publisher=[[The World Factbook]]|title=Niger |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ng.html |year=2009|accessdate=January 10, 2010}}</ref>||44 (2008)<ref name="ReferenceB"/>|| 11,760,252
+. |-
+|[[Nigeria]]||61,450,000(1967)<ref name="ReferenceOxford Atlas"/>||88,500,000(1990) <ref name="ReferenceC"/> ||108,467,000 (1994)<ref name="collins student atlas"/> ||129,934,911 (2002)||158,259,000 (2008)<ref name="Department of Economic and Social Affairs Population Division 2009">{{cite journal | url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision  | format=PDF | publisher=United Nations | author=Department of Economic and Social Affairs Population Division | year=2009 | accessdate= 2009-03-12}}</ref>||47(2008)<ref name="ReferenceB"/>|| 96,809,000
+. |-
+|[[Mali]]||4,745,000(1967)<ref name="ReferenceOxford Atlas"/>||8,156,000(1990),<ref name="ReferenceC"/> ||10,462,000(1994)<ref name="collins student atlas"/>||11,340,480(2002)||14,517,176(2010). <ref name=census>{{cite web|url=http://instat.gov.ml/voir_actu.aspx?lactu=44 |title=Mali preliminary 2009 census|publisher=Institut National de la Statistique|accessdate=January 12, 2010}}</ref>||50(2008)<ref name="ReferenceB"/>|| 9,772,176
+. |-
+| [[Mauritania]] ||1,050,000(1967)<ref name="ReferenceOxford Atlas"/> ||2,025,000(1990) <ref name="ReferenceC"/> || 2,211,000 (1994)<ref name="collins student atlas"/> ||2,667,859 (2003) ||3,291,000 (2009)<ref name="cia"/>||54(2008)<ref name="ReferenceB"/>|| 2,241,000
+. |-
+| [[Senegal]]||3,607,000(1967)<ref name="ReferenceOxford Atlas"/>||7,327,000(1990) <ref name="ReferenceC"/> ||8,102,000 (1994) <ref name="collins student atlas"/> ||9,967,215(2002)||13,711,597 (2009)<ref>{{cite web |author=Central Intelligence Agency |authorlink=CIA |publisher=[[The World Factbook]]|title=Senegal |url=https://www.cia.gov/library/publications/the-world-factbook/geos/sg.html |year=2009|accessdate=January 10, 2010}}</ref>||57(2008)<ref name="ReferenceB"/>|| 10,104,597
+. |-
+|[[Gambia]]||343,000(1967)<ref name="ReferenceOxford Atlas"/>||861,000(1990) <ref name="ReferenceC"/> ||1,081,000 (1994)<ref name="collins student atlas"/> ||1,367,124 (2000)||1,705,000(2008)<ref name="Department of Economic and Social Affairs Population Division 2009"/>||55(2008)<ref name="ReferenceB"/>|| 1,362,000
+. |-
+| [[Algeria]] || 11,833,126  (1966)<ref name="ReferenceOxford Atlas"/>||  25,012,000 (1990) <ref name="ReferenceC"/> || 27,325,000   (1994) <ref name="collins student atlas"/> || 32,818,500 (2003) ||34,895,000<ref name="csa.gov.et"/><ref name=unpop>{{cite journal | url=http://www.un.org/esa/population/publications/wpp2010/wpp2010_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision | format=PDF | publisher=United Nations | author=Department of Economic and Social Affairs Population Division | year=2010 | accessdate= 2009-03-12}}{{dead link|date=November 2010}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>(2008)|| 74  (2008)<ref name="ReferenceB"/>|| 23,061,874
+. |-
+| [[The DRC]]/Zaire||  16,353,000(1967)<ref name="ReferenceOxford Atlas"/>||  35,562,000 (1990) <ref name="ReferenceC"/> ||   42,552,000 (1994) <ref name="collins student atlas"/> || 55,225,478  (2003) || 70,916,439  (2008) <ref name="csa.gov.et"/><ref name="cia.govx">[https://www.cia.gov/library/publications/the-world-factbook/geos/cg.html The World Factbook- Congo, Democratic Republic of the.] Central Intelligence Agency. </ref>||  54(2008)<ref name="ReferenceB"/>|| 54,563,439
+. |-
+| [[Egypt]] || 30,083,419  (1966)<ref name="ReferenceOxford Atlas"/>|| 53,153,000  (1990) <ref name="ReferenceC"/> ||   58,326,000 (1994) <ref name="collins student atlas"/> || 70,712,345 (2003) || 79,089,650 <ref name=popclock/><ref name=popclock>{{cite web|url=http://www.msrintranet.capmas.gov.eg/pls/fdl/tst12e?action=&lname= |title=Central Agency for Population Mobilisation and Statistics&nbsp;— Population Clock (July 2008) |publisher=Msrintranet.capmas.gov.eg |date= |accessdate=2010-08-25}}</ref> (2008) <ref name="csa.gov.et"/>|| 72 (2008)<ref name="ReferenceB"/>|| 49,006,231
+. |-
+| [[Réunion]] (French colony)||418,000 (1967)<ref name="ReferenceOxford Atlas"/>|| N/A(1990) <ref name="ReferenceC"/> ||N/A (1994)<ref name="collins student atlas"/> || 720,934 (2003)|| 827,000 (2009) <ref name=unpop>{{cite journal | url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision  | format=PDF | publisher=United Nations | author=Department of Economic and Social Affairs
+Population Division | year=2009 | accessdate= 2009-03-12}}</ref>||N/A (2008)<ref name="ReferenceB"/>|| 409,000
+. |-
+| The [[Falkland Islands]] (UK Territory)||2,500(1967)<ref name="ReferenceOxford Atlas"/>|| N/A(1990) <ref name="ReferenceC"/> || N/A(1994)<ref name="collins student atlas"/> || 2,967 (2003) || 3,140(2010)<ref name=cia>{{cite web
+  |url = https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html
+  |title = Falkland Islands (Islas Malvinas)
+  |publisher=The World Factbook
+  |publisher=CIA
+  |accessdate = 5 March 2010}}</ref>
+|| N/A(2008)<ref name="ReferenceB"/>|| 640
+. |-
+| [[Chile]]||8,935,500(1967)<ref name="ReferenceOxford Atlas"/>||13,173,000 (1990) <ref name="ReferenceC"/> || 13,994,000(1994)<ref name="collins student atlas"/> || 15,116,435 (2002) || 17,224,200 (2011) ||77 (2008)<ref name="ReferenceB"/>|| 8,288,700
+. |-
+| [[Colombia]]||19,191,000(1967)<ref name="ReferenceOxford Atlas"/>|| 32,987,000(1990) <ref name="ReferenceC"/> || 34,520,000(1994)<ref name="collins student atlas"/> || 41,088,227 (2002) || 45,925,397(2010)<ref name="DANE clock">{{cite web|url=http://www.dane.gov.co/reloj/reloj_animado.php |title=Departamento Administrativo Nacional de Estadística |publisher=Dane.gov.co |date= |accessdate=2010-08-22}}</ref> ||73 (2008)<ref name="ReferenceB"/>|| 26,734,397
+. |-
+| [[Brazil]]||85,655,000(1967)<ref name="ReferenceOxford Atlas"/>||150,368,000 (1990) <ref name="ReferenceC"/> ||153,725,000 (1994)<ref name="collins student atlas"/> || 174,468,575 (2000) || 190,732,694(2010) <ref>IBGE. [http://www.ibge.gov.br/home/presidencia/noticias/noticia_visualiza.php?id_noticia=1766&id_pagina=1 Censo 2010: população do Brasil é de 190.732.694 pessoas]. </ref>|| 72(2008)<ref name="ReferenceB"/>|| 105,077,694
+. |-
+| [[Mexico]]||45,671,000(1967)<ref name="ReferenceOxford Atlas"/>|| 86,154,000(1990) <ref name="ReferenceC"/> || 93,008,000(1994)<ref name="collins student atlas"/> || 103,400,165 (2000)||112,322,757(2010)<ref name="INEGI 2010 Census Statistics">{{cite web|url=http://www.inegi.org.mx/inegi/contenidos/espanol/prensa/comunicados/rpcpyv10.asp |title=INEGI 2010 Census Statistics|publisher=inegi.org.mx |accessdate=2010-11-25}}</ref>||76(2008)<ref name="ReferenceB"/>|| 66,651,757
+. |-
+| [[Fiji]] ||476,727 (1966)<ref name="ReferenceOxford Atlas"/>|| 765,000(1990) <ref name="ReferenceC"/> ||771,000 (1994)<ref name="collins student atlas"/> || 844,330 (2001) ||  849,000<ref name="unpop"/> (2010)||70 (2008)<ref name="ReferenceB"/>|| 372,273
+. |-
+| [[Nauru]]||6,050(1966)<ref name="ReferenceOxford Atlas"/>||10,000(1990) <ref name="ReferenceC"/> ||N/A (1994)<ref name="collins student atlas"/> ||12,329 (2002)||9,322 (2011)<ref name=CIA>{{cite web|author=Central Intelligence Agency |authorlink=Central Intelligence Agency |publisher=[[The World Factbook]]|title=Nauru |url=https://www.cia.gov/library/publications/the-world-factbook/geos/nr.html |year=2011|accessdate=12 February 2011}}</ref>||N/A (2008)<ref name="ReferenceB"/>|| 3,272
+. |-
+| [[Jamaican]] ||1,876,000 (1967)<ref name="ReferenceOxford Atlas"/>|| 2,420,000 (1990) <ref name="ReferenceC"/> || 2,429,000 (1994)<ref name="collins student atlas"/> || 2,695,867 (2003)|| 2,847,232<ref>https://www.cia.gov/library/publications/the-world-factbook/geos/jm.html</ref>(2010)||74 (2008)<ref name="ReferenceB"/>|| 971,232
+. |-
+| [[Australia]] ||11,540,764 (1964)<ref name="ReferenceOxford Atlas"/>|| 17,086,000 (1990) <ref name="ReferenceC"/> || 17,843,000 (1994)<ref name="collins student atlas"/> || 19,546,792 (2003)||{{formatnum:{{#expr: 22579660 + (86400 / 97) * {{Age in days|2011|4|12}} round 0}}}}<!--AUTOUPDATES DAILY at 09:30 UTC, Australia pop clock adds 1 person every 97 seconds --><ref>{{cite web|url=http://www.abs.gov.au/ausstats/abs@.nsf/94713ad445ff1425ca25682000192af2/1647509ef7e25faaca2568a900154b63?OpenDocument|title=Population clock|work=[[Australian Bureau of Statistics]] website|publisher=Commonwealth of Australia|accessdate=12 April 2011}} The population estimate shown is automatically calculated daily at 00:00 UTC and is based on data obtained from the population clock on the date shown in the citation. </ref> (2010)||82 (2008)<ref name="ReferenceB"/>|| 11,066,508
+. |-
+| [[Albania]] ||1,965,500(1964)<ref name="ReferenceOxford Atlas"/>|| 3,250,000 (1990) <ref name="ReferenceC"/> || 3,414,000 (1994)<ref name="collins student atlas"/> || 3,510,484 (2002) ||2,986,952 (July 2010 est.)<ref name=cia/><ref>[http://www.google.com/publicdata/explore?ds=n4ff2muj8bh2a_&ctype=l&strail=false&nselm=h&met_y=POP&hl=en&dl=en#ctype=l&strail=false&nselm=h&met_y=POP&fdim_y=scenario:1&scale_y=lin&ind_y=false&rdim=world&idim=country:AL&hl=en&dl=en Population Forecast to 2060 by International Futures hosted by Google Public Data Explorer]</ref> (2010)||78 (2008)<ref name="ReferenceB"/>|| 1,021,452
+. |-
+| [[Poland]]||31,944,000(1967)<ref name="ReferenceOxford Atlas"/>||38,180,000 (1990) <ref name="ReferenceC"/> ||38,554,000 (1994)<ref name="collins student atlas"/> || 38,626,349 (2001)||38,192,000(2010)<ref>{{cite web|url=http://wiadomosci.wp.pl/kat,1347,title,Wzrasta-liczba-ludnosci-Polski,wid,12502858,wiadomosc.html |title=Wzrasta liczba ludności Polski - Wiadomości - WP.PL |publisher=Wiadomosci.wp.pl |date=2010-07-23 |accessdate=2010-07-27}}</ref> ||75 (2008)<ref name="ReferenceB"/>|| 6,248,000
+. |-
+| [[Hungary]]||10,212,000(1967)<ref name="ReferenceOxford Atlas"/>||10,553,000 (1990) <ref name="ReferenceC"/> ||10,261,000 (1994)<ref name="collins student atlas"/> || 10,106,017 (2002)||9,979,000(2010)<ref name="KSH">[http://portal.ksh.hu/pls/ksh/docs/hun/xstadat/xstadat_evkozi/e_wdsd001a.html Hungarian Central Statistical Office]. Retrieved 25 July 2010. </ref>|| 73 (2008)<ref name="ReferenceB"/>|| -142,000
+. |-
+| [[Bulgaria]]||8,226,564(1965)<ref name="ReferenceOxford Atlas"/>||8,980,000 (1990) <ref name="ReferenceC"/> ||8,443,000 (1994)<ref name="collins student atlas"/> ||7,707,495(2000)||7,351,234 (2011)<ref>http://www.nsi.bg/EPDOCS/Census2011pr.pdf</ref> ||73 (2008)<ref name="ReferenceB"/>|| -875,330
+. |-
+| [[UK]] || 55,068,000 (1966)<ref name="ReferenceOxford Atlas"/>|| 57,411,000  (1990) <ref name="ReferenceC"/> || 58,091,000  (1994) <ref name="collins student atlas"/> ||58,789,194 (2002)|| 62,008,048 (2010)<ref>{{cite web |url= http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 |title=Total population at 1&nbsp;January |publisher=Eurostat |date =11 March 2011 |accessdate =29 April 2011}}</ref>||79(2008)<ref name="ReferenceB"/>|| 7,020,048
+. |-
+| [[Ireland]]/Éire ||2,884,002(1966)<ref name="ReferenceOxford Atlas"/>|| 3,503,000(1990) <ref name="ReferenceC"/> || 3,571,000 (1994)<ref name="collins student atlas"/> ||3,840,838 (2000)|| 4,470,700 <ref name="europa1">{{cite web|url=http://www.cso.ie/releasespublications/documents/population/current/popmig.pdf |title=CSO – Population and Migration Estimates April 2010 |format=PDF |date=September 2010 |accessdate=21 September 2010}}</ref> (2010)||78 (2008)<ref name="ReferenceB"/>|| 1,586,698
+. |-
+| The [[PRC]]/China||720,000,000(1967)<ref name="ReferenceOxford Atlas"/>|| 1,139,060,000(1990) <ref name="ReferenceC"/> ||1,208,841,000 (1994)<ref name="collins student atlas"/> || 1,286,975,468 (2004)|| 1,339,724,852(2010)<ref name="Census2010">[http://www.stats.gov.cn/english/newsandcomingevents/t20110428_402722244.htm Communiqué of the National Bureau of Statistics of People's Republic of China on Major Figures of the  2010 Population Census]</ref>||73 (2008)<ref name="ReferenceB"/>|| 619,724,852
+. |-
+| [[Japan]]*** ||98,274,961(1965)<ref name="ReferenceOxford Atlas"/>||123,537,000(1990) <ref name="ReferenceC"/> ||124,961,000 (1994)<ref name="collins student atlas"/> ||127,333,002  (2002)||127,420,000 (2010)<ref>[http://www.stat.go.jp/english/data/jinsui/tsuki/index.htm Official Japan Statistics Bureau estimate]</ref>||82(2008)<ref name="ReferenceB"/>|| 28,123,865
+. |-
+| [[Ryukyu Islands]] (Once occupied by America)*** ||934,176(1965)<ref name="ReferenceOxford Atlas"/>||—||—||—||—||—||—
+. |-
+| [[India]]#||511,115,000 (1967)<ref name="ReferenceOxford Atlas"/>||843,931,000 (1990) <ref name="ReferenceC"/> ||918,570,000 (1994)<ref name="collins student atlas"/> ||1,028,610,328 (2001) || 1,210,193,422(2011)<ref name="pop">{{cite web|url=http://www.censusindia.gov.in/2011-prov-results/indiaatglance.html|title=Provisional Population Totals - Census 2011|work=|publisher=Indian Census Bureau 2011|accessdate=2011-03-29}}</ref> ||69  (2008)<ref name="ReferenceB"/>|| 699,078,422
+. |-
+|} . 
+
+;Notes
+:<nowiki>*</nowiki> [[Eritrea]] left [[Ethiopia]] in 1991. 
+:<nowiki>**</nowiki> Split in to the nations of [[Sudan]] and [[Southern Sudan]] during 2011. 
+:<nowiki>***</nowiki> Merged in 1972. </small>
+:<nowiki>#</nowiki> Merged in 1975.  . 
+
+==Into the future==. 
+{{main|Projections of population growth}} . 
+
+According to projections, the world population will continue to grow until at least 2050, with the population reaching 9.1 billion in 2050. <ref>[http://articles.cnn.com/2005-02-24/us/un.population_1_fertility-decline-population-average-life-expectancy?_s=PM:US "U.N.: Population to top 9 billion by 2050]. CNN. February 25, 2005</ref> . 
+
+==See also==. 
+* [[Baby boom]]
+* [[Population bottleneck]]
+* [[Population decline]]
+* [[Population pyramid]]
+* [[Carrying capacity]]
+* [[Demographic momentum]]
+* [[Demographic transition]]
+* [[Density dependent inhibition]]
+* [[Exponential growth]]
+* [[Compound annual growth rate]]
+* [[Doubling time]]
+* [[Biological exponential growth]]
+* [[Family planning]]
+* [[Fatal Misconception|Fatal Misconception: The Struggle to Control World Population]]
+* [[Total_fertility_rate|Fertility rate]]
+* [[Green Revolution]]
+* [[Natalism]] and [[Antinatalism]]
+* [[Optimum Population]]
+* [[Overpopulation]]
+* [[Immigration]]
+* [[Rank mobility index]]
+* [[World population]]
+* [[World population estimates]]
+* [[Logistic function]] - concept related to logistic model
+* [[Ronald Fisher]] - who referred to the population growth rate as the ''Malthusian Parameter''
+* [[List of countries and territories by fertility rate|List of countries by fertility rate]]
+* [[List of countries by population growth rate]] . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+*[http://www.populationpress.org/publication/index.html 2008 Essays on Population Growth] Blue Planet United&nbsp;— Population Press
+*[http://www.census.gov/ipc/www/idb/worldpopinfo.php World population growth and trends 1950-2050] US Census
+*[http://www.acunu.org/millennium/sof2006.html UN University annual "State of the Future" report, including updates on Millennium Project goals including balancing global population growth & resources]
+*[http://news.bbc.co.uk/1/hi/sci/tech/6219922.stm BBC News - Birth rate 'harms poverty goals'] - 08/12/06
+*[http://base.google.com/base/a/1121639/D3593813974111928662 Trend of growth rate with total global population]
+*[http://www.carbon-projects.co.uk/earth_clock.htm Visual representation of global population and other statistics]
+*Tsirel, S. V. 2004. [http://www.mmsed.narod.ru/articles/artTsirel.ps On the Possible Reasons for the Hyperexponential Growth of the Earth Population]. ''Mathematical Modeling of Social and Economic Dynamics'' / Ed. by M. G. Dmitriev and A. P. Petrov, pp.&nbsp;367–9. Moscow: Russian State Social University, 2004. 
+*{{cite web|url=http://www.gapminder.org/videos/what-stops-population-growth/|title=What stops population growth?|last=Rosling|first=Hans|date=25 January 2009|work=Gapminder|accessdate=2009-07-06}} . 
+
+{{Population}} . 
+
+[[Category:Population ecology]]
+[[Category:Demography]]
+[[Category:Ecological metrics]]
+[[Category:Environmental issues with population]]

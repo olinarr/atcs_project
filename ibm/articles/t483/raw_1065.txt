@@ -1,0 +1,71 @@
+The '''United Nations Human Rights Committee''' is a [[United Nations]] body of 18 experts that meets three times a year for four-week sessions (spring session at UN headquarters in New York, summer and fall sessions at the UN Office in Geneva) to consider the five-yearly  reports submitted by 162 UN member states on their compliance with the [[International Covenant on Civil and Political Rights]], ICCPR, and to examine individual petitions concerning 112 States parties to the Optional Protocol. <ref>Jakob Th. Möller/Alfred de Zayas, The United Nations Human Rights Committee Case Law 1977-2008, N.P.Engel Publishers, Kehl/Strasbourg, 2009, ISBN 978-3-88357-144-7</ref>  . 
+
+The Committee is one of nine UN-linked [[human rights treaty bodies]], each responsible for implementing a particular human rights treaty.  . 
+
+States that have ratified or acceded to the [[First Optional Protocol to the International Covenant on Civil and Political Rights|First Optional Protocol]] (currently 112 countries) have agreed to allow persons within their jurisdiction to submit complaints to the Committee requesting a determination whether provisions of the Covenant have been violated. For those countries, the Human Rights Committee functions as a mechanism for the international redress of human rights abuses, similar to the regional mechanisms afforded by the [[Inter-American Court of Human Rights]] or the [[European Court of Human Rights]]. The First Optional Protocol entered into force on 23 March 1976.  . 
+
+The [[Second Optional Protocol to the International Covenant on Civil and Political Rights|Second Optional Protocol]], in force since 11 July 1991, addresses the abolition of the [[Capital punishment|death penalty]] and has been [http://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&id=137&chapter=4&lang=en ratified by 71 states].  . 
+
+The Human Rights Committee should not be confused with the more high-profile [[United Nations Commission on Human Rights|Commission on Human Rights]], a [[United Nations Charter|Charter]]-based mechanism, or its replacement, the [[United Nations Human Rights Council|Human Rights Council]]. Whereas the Commission on Human Rights was a political forum where states debated all human rights concerns (since June 2006, replaced by the Council in that function), the Human Rights Committee is a [[treaty]]-based mechanism where a group of experts examines reports and rules on individual communications pertaining only to the International Covenant on Civil and Political Rights. It remains disputed whether the Human Rights Committee's "Views under artible 5(4) of the Optional Protocol" qualify as decisions of a [[quasi-judicial body]] or simply constitute authoritative interpretations on the merits of the cases brought before them.  . 
+
+The members of the Human Rights Committee, who must be "of high moral character and recognized competence in the field of human rights", are elected by the member states but on an individual basis, not as representatives of their countries. They serve four-year terms, with one-half of their number elected every second year at the [[United Nations General Assembly|General Assembly]].  . 
+
+==Individual complaints (Communications) to the Committee==. 
+===Registration of the Communication===. 
+A communication must be addressed to the Committee and submitted by letter, fax or email. There is no mandatory format for communications. 
+While the Optional Protocol enables the Committee, but nobody else, to receive and consider communications from individuals claiming to be victims of violations of any of the rights set forth in the ICCPR , in reality, it is a secretariat, called Petitions Unit, which receives, considers and decides whether to register and pass to the Committee any communications. In effect “Of the thousands of general letters of complaint that arrive at the UN each year, only a small fraction is channelled to the Human Rights Committee by the UN secretariat”. <ref>“How To Complain About Human Rights Treaty Violations” http://www.bayefsky.com/complain/10_ccpr.php/pfriendly/1</ref>  This practice is analogous to a court office deciding whether a matter should go to trial.  . 
+
+==Members== . 
+
+{| class="wikitable" style="width:450px;"
+! Name !! State !!  Term
+. |-
+|[[Abdelfattah Amor]] || {{flag|Tunisia}} ||  2011–2014
+. |-
+|[[Mohammed Ayat]] || {{flag|Morocco}} ||  2008–2012
+. |-
+|[[Cornelis Flinterman]] || {{flag|Netherlands}} ||  2011–2014
+. |-
+|[[Christine Chanet]] || {{flag|France}} ||  2011–2014
+. |-
+|[[Ahmad Amin Fathalla]] || {{flag|Egypt}} ||  2008–2012
+. |-
+|[[Yuji Iwasawa]] || {{flag|Japan}} ||  2011–2014
+. |-
+|[[Helen Keller (lawyer)|Helen Keller]] || {{flag|Switzerland}} ||  2011–2014
+. |-
+|[[Rajsoomer Lallah]] || {{flag|Mauritius}} ||  2008–2012
+. |-
+|[[Bouzib Lazhart]] || {{flag|Algeria}} ||  2008–2012
+. |-
+|[[Zonke Zanele Majodina]] || {{flag|South Africa}} ||  2011–2014
+. |-
+|[[Iulia Motoc]] || {{flag|Romania}} ||  2011–2014
+. |-
+|[[Michael O'Flaherty]] || {{flag|Ireland}} ||  2008–2012
+. |-
+|[[Margo Waterval]] || {{flag|Surinam}} ||  2011–2014
+. |-
+|[[Rafael Rivas Posada]] || {{flag|Colombia}} ||  2008–2012
+. |-
+|Sir [[Nigel S. Rodley]] || {{flag|United Kingdom}} ||  2008–2012
+. |-
+|[[Fabian Omar Salvioli]] || {{flag|Argentina}} ||  2008–2012
+. |-
+|[[Krister Thelin]] || {{flag|Sweden}} ||  2008–2012
+. |-
+|[[Gerald L. Neuman]] || {{flag|United States}} ||  2011–2014
+|} . 
+
+==References==. 
+<references/> . 
+
+==External links==. 
+* [http://www2.ohchr.org/english/bodies/hrc/index.htm Human Rights Committee]
+* [http://www2.ohchr.org/english/law/ccpr.htm International Covenant on Civil and Political Rights]
+* [http://www2.ohchr.org/english/law/ccpr-death.htm Second Optional Protocol]
+* [http://www2.ohchr.org/english/bodies/hrc/members.htm Members of the Committee] . 
+
+{{International human rights organizations}} . 
+
+[[Category:United Nations Human Rights Committee|*]]

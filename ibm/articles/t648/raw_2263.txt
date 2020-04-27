@@ -1,0 +1,52 @@
+{{Philosophy of religion (sidebar)}}
+The '''argument from morality''' is an argument for the [[existence of God]]. Many variations on the argument exist; they all start from a claim about [[morality]] (either that [[moral objectivity]] exists in the world or that there must be a [[moral order]] in the universe), argue that [[God]] is the best explanation for this claim, and conclude that God must exist. The argument from morality is best associated with [[Immanuel Kant]] who argued from [[practical reason]] that God must exist to provide an eternal life in which moral virtue can be rewarded with happiness. Other forms of the argument propose that a [[naturalism|naturalistic]] account of the existence of morality would render it illusory, arguing that God must exist to give force to moral obligations.  . 
+
+==General form==. 
+All variations on the argument from morality begin with some observation about moral thought or experiences and conclude with the existence of God. <ref>{{cite web | url=http://plato.stanford.edu/entries/moral-arguments-god/ | title=Moral Arguments for the Existence of God | publisher=Stanford Encyclopedia of Philosophy | date=May 25, 2004; substantive revision | accessdate=March 24, 2012 | author=Byrne, Peter}}</ref> Arguments from morality can be based on moral normativity, which suggests that objective moral truths and the binding nature of obligations suggests a high power to enforce them, regarded as God. <ref>{{cite web | url=http://plato.stanford.edu/entries/moral-arguments-god/#ArgNorMor | title=Moral Arguments for the Existence of God | publisher=Stanford Encyclopedia of Philosophy | date=May 25, 2004; substantive revision | accessdate=March 24, 2012 | author=Byrne, Peter}}</ref> This rests on an acceptance in [[moral realism]] - the belief that there are objective moral truths - which has been supported by the appearance of objectivity in ethics. For example, expressing an obligation is stronger than expressing a preference, and certain moral principles, such as  "torturing babies for fun is wrong", are generally regarded as fact. <ref>Boyd 1988, pp. 181-228</ref> . 
+
+In its most general form, the argument from moral normativity is that: . 
+
+# Some aspect of Morality (e.g., its objective force) is observed. ([[Moral realism]])
+# Existence of [[God]] provides a better explanation of this feature than various alternatives. 
+# Therefore, to the extent that (1) is accepted, belief in God is preferable to these alternatives.  . 
+
+Arguments from morality can also be based on moral order. These arguments suggest that morality is based on rationality and that morality can only be based on rationality if there is a moral order in the universe. Therefore, there must be a moral order in the universe. The arguments then propose that only the existence of God as orthodoxly conceived could support the existence of moral order in the world. Therefore, God must exist. <ref name=SEPOrder>{{cite web | url=http://plato.stanford.edu/entries/moral-arguments-god/#ArgMorOrd | title=Moral Arguments for the Existence of God | publisher=Stanford Encyclopedia of Philosophy | date=May 25, 2004; substantive revision | accessdate=March 24, 2012 | author=Byrne, Peter}}</ref> . 
+
+Alternatively, arguments from moral order have proposed that we have an obligation to attain the perfect good of both happiness and moral virtue. Whatever we are obliged to do must be possible, and achieving the perfect good of both happiness and moral virtue is only possible if a natural moral order exists. A natural moral order requires the existence of God as orthodoxly conceived, so god must exist. <ref name=SEPOrder/> . 
+
+==Variations==. 
+===Practical reason===. 
+[[File:Immanuel Kant (painted portrait).jpg|thumb|Portrait of Immanuel Kant, who proposed an argument for the existence of God from morality]]
+In his ''[[Critique of Pure Reason]]'', German philosopher [[Immanuel Kant]] that there is not good argument for God's existence that arises from pure reason alone. In his ''[[Critique of Practical Reason]]'', he went on to argue that despite the failure of these arguments, rationality requires that the existence of God is presupposed, owing to practical reason. <ref name=OppyKant>Oppy 2006, pp. 372-373</ref> Rather that proving the existence of God, Kant was attempting to demonstrate that all moral thought requires the assumption that God exists. <ref>Guyer 2006, p. 234</ref> Kant argued that humans are obliged to bring about the ''[[summum bonum]]'': the two central aims of moral virtue and happiness, where happiness arises out of virtue. As [[ought implies can]], Kant argued, it must be possible for the ''summum bonum'' to be achieved. <ref name=SEPOrder/> He accepted that it is not within the power of humans to bring the ''summum bonum'' about, because we cannot ensure that virtue always leads to happiness, so there must be a a higher power who has the power to create an [[afterlife]] where virtue can be rewarded by happiness. <ref name=OppyKant/> . 
+
+===Argument from evolutionary naturalism===. 
+The argument from evolutionary naturalism proposes that [[theism|theists]] are able to offer justification for morality, while [[atheism|atheists]] are not. The argument proposes that [[biology]] and [[sociology]] - or evolutionary naturalism - mean that morality is illusory and that people behave as they do simply because of natural selection. The sense of obligation in morality exists because of natural processes, rather than morality, if evolutionary naturalism. <ref>Craig & Mooreland 2011, p. 393</ref> The argument from evolutionary naturalism proposes that, if if evolutionary naturalism is correct, there can be not objective moral truths. The argument asserts that there are indeed objective moral truths, so evolutionary naturalism must be wrong. This does not necessarily lead to the conclusion that God exists; it has been used as a supporting argument for God's existence. <ref>Craig & Mooreland 2011, p. 394</ref> . 
+
+===Argument from moral normativity===. 
+[[CS Lewis]] proposed an argument from the normativity of morality against naturalism for the existence of God. He proposed that, if naturalism, the belief that the natural is all that exists, is correct, then life must be regarded as a meaningless accident and morality cannot be understood as anything meaningful. Despite this, he argued, naturalists still act as if morality is meaningful, leading to a belief that morality is normative, or holds objective truth. Lewis believed that, owing to evidence of moral normativity, morality cannot be an illusion and so rejected naturalism on the grounds of morality. <ref>McSwain & Ward 2010, pp. 110-111</ref> . 
+
+==Notes and references==. 
+{{reflist}} . 
+
+==Bibliography==. 
+*{{cite book | title=The Virtue of Faith and Other Essays in Philosophical Theology | publisher=Oxford University Press | year=1987 | author=Adams, Robert | isbn=9780195041460}}
+*{{cite book | title=Essays on Moral Realism | publisher=Cornell University Press | year=1988 | at=Moral Arguments for Theistic Belief | author=Boyd, Richard | editor=Sayre-McCord, Geoffery | isbn=9780801495410}}
+*{{cite book | title=The Blackwell Companion to Natural Theology | publisher=John Wiley & Sons | year=2011 | last1=Craig | first1=William Lane | last2=Mooreland | first2=J.P. | isbn=9781444350852}}
+*{{cite book | title=Kant | publisher=Taylor & Francis | year=2006 | author=Guyer, Paul | isbn=9780415283359}}
+*{{cite book | title=The Moral Gap: Kantian Ethics, Human Limits, and God's Assistance | publisher=Oxford University Press | year=1996 | author=Hare, John}}
+*{{cite book | title=Critique of Practical Reason | at=Part I, Bk. II, Chap. V | author=Kant, Immanuel}}
+*{{cite book | author=Mackie, J.L. | title=The Miracle of Theism | at=Chap. VI | publisher=Oxford University Press | year=1982}}
+*{{cite book | title=The Cambridge Companion to C.S. Lewis | publisher=Cambridge University Press | year=2010 | last=McSwain | first1=Robert | last2=Ward | first2=Michael | isbn=9780521884136}}
+*{{cite book | title=Arguing About Gods | publisher=Cambridge University Press | year=2006 | author=Oppy, Graham | isbn=9780521863865}}
+*{{cite book | title=The Existence of God | publisher=Oxford University Press | year=1979 | author=Swinburne, Richard}} . 
+
+==External links==. 
+*[http://plato.stanford.edu/entries/moral-arguments-god/ Moral Arguments at the Stanford Encyclopedia of Philosophy]
+*[http://www.hkbu.edu.hk/~ppp/srp/arts/KALG.html "Kant's 'Appropriation' of Lampe's God"], ''Harvard Theological Review'' 85:1 (January 1992), pp.&nbsp;85–108; revised and reprinted as Chapter IV in [[Stephen Palmquist]], [http://www.hkbu.edu.hk/~ppp/ksp2 Kant's Critical Religion] (Ashgate, 2000).  . 
+
+{{philosophy of religion}}
+{{Theology}} . 
+
+{{DEFAULTSORT:Argument From Morality}}
+[[Category:Ethics]]
+[[Category:Arguments for the existence of God|Morality, argument from]]

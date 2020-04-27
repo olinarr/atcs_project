@@ -1,0 +1,80 @@
+{{SCOTUSCase
+  |Litigants=Zelman v. Simmons-Harris
+  |ArgueDate=February 20
+  |ArgueYear=2002
+  |DecideDate=June 27
+  |DecideYear=2002
+  |FullName=Susan Tave Zelman, Superintendent of Public Instruction of Ohio, ''et al.'', Petitioners v. Doris Simmons-Harris, ''et al.''
+  |USVol=536
+  |USPage=639
+  |Citation=122 S. Ct. 2460; 153 L. Ed. 2d 604; 2002 U.S. LEXIS 4885; 70 U.S.L.W. 4683; 2002 Cal. Daily Op. Service 5788; 2002 Daily Journal DAR 7295; 15 Fla. L. Weekly Fed. S 490
+  |Prior=On writs of certiorari to the United States Court of Appeals for the Sixth Circuit. ''Simmons-Harris v. Zelman'', 234 F.3d 945, 2000 U.S. App. LEXIS 31367, 2000 FED App. 411P (6th Cir. Ohio 2000)
+  |Subsequent=
+  |Holding=The Court ruled that the Ohio program did not violate the [[Establishment Clause of the First Amendment]] because it passed a five part test developed by the Court. 
+  |SCOTUS=1994-2005
+  |Majority=Rehnquist
+  |JoinMajority=O'Connor, Scalia, Kennedy, Thomas
+  |Concurrence=O'Connor
+  |Concurrence2=Thomas
+  |Dissent=Stevens
+  |Dissent2=Souter
+  |JoinDissent2=Stevens, Ginsburg, Breyer
+  |Dissent3=Breyer
+  |JoinDissent3=Stevens, Souter
+  |LawsApplied=[[First Amendment to the United States Constitution|U.S. Const. amend. I]]
+}}
+'''''Zelman v. Simmons-Harris''''', {{ussc|536|639|2002}}, was a case decided by the [[United States Supreme Court]] which tested the allowance of [[school vouchers]] in relation to the [[establishment clause]] of the [[First Amendment to the United States Constitution|First Amendment]].  . 
+
+In one of its most important [[establishment clause]] cases in a century, a divided Court upheld an [[Ohio]] school voucher plan.  . 
+
+==Facts==. 
+The public schools in many of the poorer parts of [[Cleveland]] were deemed failures, and the legislature enacted the Pilot Project Scholarship Program in an effort to address the problem. <ref>''Zelman'', 536 U.S. at 644-45. </ref> The program provided tuition vouchers for up to $2,250 a year to some parents of students in the [[Cleveland City School District]] to attend participating public or private schools in the city and neighboring suburbs; it also allocated tutorial aid for students who remained in public school.  . 
+
+The vouchers were distributed to parents according to financial need, and the parents chose where to enroll their children. Because the number of students applying to the program greatly exceeded the number of vouchers available, recipients were chosen by [[lottery]] from among the eligible families. In the 1999–2000 school year, 82 percent of the participating private schools had a religious affiliation; none of the adjacent suburban public schools joined the program; and 96 percent of the students receiving vouchers were enrolled in religiously affiliated schools.  . 
+
+==Result==. 
+The Supreme Court ruled that the Ohio program did not violate the Establishment Clause of the First Amendment to the [[United States Constitution]], because it passed a five-part test developed by the Court in this case, titled the Private Choice Test.  The decision was 5-4, with moderate justices [[Anthony Kennedy]] and [[Sandra Day O'Connor]] and conservative justices [[William Rehnquist]], [[Antonin Scalia]], and [[Clarence Thomas]] in the majority.  . 
+
+Under the Private Choice Test developed by the court, for a voucher program to be constitutional it must meet all of the following criteria:
+*the program must have a valid secular purpose,
+*aid must go to parents and not to the schools,
+*a broad class of beneficiaries must be covered,
+*the program must be neutral with respect to religion, and
+*there must be adequate nonreligious options.  . 
+
+The court ruled that the Ohio program met the five-part test in that 1) the valid secular purpose of the program was "providing educational assistance to poor children in a demonstrably failing public school system", 2) the vouchers were given to the parents, 3) the "broad class" was all students enrolled in currently failing programs, 4) parents who received vouchers were not required to enroll in a religious-based school, and 5) there were other public schools in adjoining districts, as well as non-sectarian private schools in the Cleveland area, available that would accept vouchers.  . 
+
+Chief Justice Rehnquist, writing for the majority, stated that "The incidental advancement of a religious mission, or the perceived endorsement of a religious message, is reasonably attributable to the individual aid recipients not the government, whose role ends with the disbursement of benefits."  They found that, in theory, there is no need for parents to use religious schools, and so long as the law does not especially encourage the use of vouchers for religious schools, the fact that most parents do choose parochial schools is irrelevant.  Indeed, the fact that in this case, the funding was given to the parents to disburse as they chose, whereas in ''[[Lemon v. Kurtzman]]'' the funding at question was given directly to the schools, this was a key part of the Private Choice test.  The majority held, therefore, that the intent of the law was the important thing.   . 
+
+In his concurring opinion, Justice Thomas emphasized that voucher programs like the one in this case were essential because "failing urban public schools disproportionately affect minority children most in need of educational opportunity." He stated that vouchers and other forms of publicly funded private school choice are necessary to give families an opportunity to enroll their children in more effective private schools.  Otherwise, "the core purposes of the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]]" would be frustrated.  . 
+
+The dissenting opinions, on the other hand, disagreed with Chief Justice Rehnquist: [[Justice Stevens]] wrote "... the voluntary character of the private choice to prefer a parochial education over an education in the public school system seems to me quite irrelevant to the question whether the government's choice to pay for religious indoctrination is constitutionally permissible."  Justice Souter's opinion questioned how the Court could keep ''[[Everson v. Board of Education]]'' on as precedent and decide this case in the way they did, feeling it was contradictory.  He also found that religious instruction and secular education could not be separated and this itself violated the Establishment Clause.  . 
+
+==References==. 
+{{reflist|2}} . 
+
+==See also==. 
+* [[List of United States Supreme Court cases, volume 536]]
+*[[List of United States Supreme Court cases]]
+* [[Lemon v. Kurtzman]] . 
+
+==External links==. 
+{{wikisource-inline|Zelman v. Simmons-Harris}}
+*{{note|citation}}{{caselaw source
+ |case=''Zelman v. Simmons-Harris'', 536 U.S. 639 (2002) 
+ |findlaw=http://laws.findlaw.com/us/000/00-1751.htm
+ |justia=http://supreme.justia.com/us/536/639/case.html
+}}
+*[http://laws.lp.findlaw.com/6th/00a0411p.html Sixth Circuit Decision]
+*[http://www.oyez.org/oyez/resource/case/1496/ Summary of case from OYEZ]
+*[http://www.religionandsocialpolicy.org/legal/legal_update_display.cfm?id=10 Summary of case from the Roundtable on Religion and Social Welfare Policy] . 
+
+{{US1stAmendment|establishment|state=expanded}} . 
+
+{{DEFAULTSORT:Zelman V. Simmons-Harris}}
+[[Category:United States Supreme Court cases]]
+[[Category:Establishment Clause case law]]
+[[Category:United States education case law]]
+[[Category:2002 in United States case law]]
+[[Category:2002 in religion]]
+[[Category:2002 in education]]

@@ -1,0 +1,171 @@
+[[File:World Energy consumption.png|right|thumb|250px|Rate of world energy usage in [[terawatt]]s (TW), 1965-2005. <ref name=EIA>{{cite web | publisher= [[Energy Information Administration]], [[U.S. Department of Energy]]  |url= http://www.eia.doe.gov/pub/international/iealf/table18.xls | title =  World Consumption of Primary Energy by Energy Type and Selected Country Groups, 1980-2004 | format = XLS | date = July 31, 2006 | accessdate=2007-01-20}}</ref>]]
+[[Image:Energy per capita.png|thumb|250px|Energy consumption per capita per country (2001). Red hues indicate increase, green hues decrease of consumption during the 1990s. <ref>{{cite web |url=http://earthtrends.wri.org/text/energy-resources/variable-351.html 
+|title=Energy Consumption: Total energy consumption per capita 
+|work=Earth trends Database
+|publisher=World Resources Institute |accessdate=2011-04-21 }}</ref>]]
+The '''environmental impact of the [[energy industry]]''' is diverse. [[Energy]] has been harnessed by humans for millennia. Initially it was with the use of [[fire]] for light, heat, cooking and for safety, and its use can be traced back at least 1.9 million years. <ref>{{Cite journal
+| doi = 10.1126/science.1163886
+| title = Fire in the Earth System
+| year = 2009
+| author = Bowman, D. M. J. S. 
+| journal = Science
+| volume = 324
+| pages = 481–4
+| pmid = 19390038
+| issue = 5926
+| bibcode=2009Sci...324..481B
+}}</ref> 
+In recent years there has been a trend towards the increased [[renewable energy commercialization|commercialization of various renewable energy sources]].  . 
+
+In the real world, [[Power consumption|consumption]] of fossil fuel resources lead to [[global warming]] and climate change. However in many parts of the world little change is being made. Chinese oil demand for instance, is projected to grow nearly 20% in the next six years, and already imports over half of the {{convert|8|Moilbbl/d|m3/d}} it uses. <ref>{{cite web |url=http://money.cnn.com/2009/08/17/news/international/china_oil/index.htm?postversion=2009081707 
+|title=China: The new Big Oil 
+|publisher=CNNMoney.com 
+|first=Steve |last=Hargreaves
+|date=2009-08-17
+|accessdate=2011-04-21 }}</ref>  If the [[peak oil]] theory proves out, and more explorations of viable alternative energy sources are made, our impact could be more friendly to the environment.  . 
+
+Rapidly advancing technologies can achieve a transition of energy generation, water and waste management, and food production towards better environmental and energy usage practices using methods of [[systems ecology]] and [[industrial ecology]]. <ref>Kay, J. (2002). [http://www.nesh.ca/jameskay/www.fes.uwaterloo.ca/u/jjkay/pubs/IE/ie.pdf Kay, J.J. "On Complexity Theory, Exergy and Industrial Ecology: Some Implications for Construction Ecology."] In: Kibert C., Sendzimir J., Guy, B. (eds.) ''Construction Ecology: Nature as the Basis for Green Buildings,'' pp. 72–107. London: Spon Press. Retrieved on: 2009-04-01. </ref><ref name = Quest>Baksh, B. and Fiksel  J. (June 2003) [http://www.resilience.osu.edu/CFR-site/pdf/6-03perspective.pdf "The Quest for Sustainability: Challenges for Process Systems Engineering."] ''American Institute Of Chemical Engineers Journal'' '''49'''(6):1355. Retrieved on: 2009-04-04. </ref> . 
+
+==Issues==. 
+===Climate change===. 
+[[File:Instrumental Temperature Record (NASA).svg|right|thumb|Global mean surface temperature anomaly relative to 1961–1990.]]
+{{main|Attribution of recent climate change}}
+[[Global warming]] and [[climate change]] due to human activity is generally accepted as being caused by [[human impact on the environment|anthropogenic]] [[greenhouse gas]] emissions. The majority of greenhouses gas emissions are due to burning [[fossil fuel]]s with most of the rest due to [[deforestation]].{{Citation needed|date=April 2011}} . 
+
+There is a highly publicized [[Climate change denial|denial of climate change]] but the vast majority of scientists working in [[climatology]] accept that it is due to human activity. The [[IPCC]] report ''Climate Change 2007: Climate Change Impacts, Adaptation and Vulnerability'' predicts that climate change will cause shortages of food and water and increased risk of flooding that will affect billions of people, particularly those living in poverty. <ref>{{cite web |url=http://news.bbc.co.uk/2/hi/science/nature/6532323.stm 
+|title= Billions face climate change risk 
+|publisher=BBC NEWS Science/Nature 
+|date=2007-04-06
+|accessdate=2011-04-22 }}</ref> . 
+
+===Biofuel use===. 
+[[Biofuel]] is defined as solid, liquid or gaseous fuel obtained from relatively recently lifeless or living biological material and is different from fossil fuels, which are derived from long dead biological material. Also, various plants and plant-derived materials are used for biofuel manufacturing.  . 
+
+Bio fuels are a [[renewable energy]] and can be sustainable ([[carbon neutral]]) in terms of greenhouse gas emissions since they are in the [[carbon cycle]] for the short term.  . 
+
+====Bio-diesel====. 
+{{main|Environmental effects of biodiesel}}
+{{see also|Indirect land use change impacts of biofuels|Sustainable biofuel}}
+High use of bio-diesel leads to land use changes including [[deforestation]].  . 
+
+====Firewood==== . 
+
+Unsustainable [[firewood]] harvesting can lead to loss of [[biodiversity]] and [[erosion]] due to loss of forest cover. An example of this is a 40 year study done by the [[University of Leeds]] of African forests, which account for a third of the world's total [[tropical forest]] which demonstrates that [[Africa]] is a significant [[carbon sink]]. A [[climate change]] expert, Lee White states that "To get an idea of the value of the sink, the removal of nearly 5 billion tonnes of [[carbon dioxide]] from the atmosphere by intact tropical forests is at issue.  . 
+
+According to the [[U.N.]] the continent is losing forest twice as fast as the rest of the world. "Once upon a time, Africa boasted seven million square kilometers of forest but a third of that has been lost, most of it to [[charcoal]]."<ref>{{cite web |url=http://news.bbc.co.uk/2/hi/africa/8272603.stm 
+|title= Africa's burning charcoal problem 
+|publisher=BBC NEWS Africa 
+|date= 2009-09-25
+|first= Anthea |last=Rowan |accessdate=2011-04-22 }}</ref> . 
+
+===Fossil fuel use===. 
+[[Image:Global Carbon Emissions.svg|thumb|right|thumb|Global fossil [[carbon]] emission by fuel type, 1800-2007 AD.]]
+The three [[fossil fuel]] types are [[coal]], [[petroleum]] and [[natural gas]]. It  was estimated by the [[Energy Information Administration]] that in 2006 primary sources of energy consisted of petroleum 36.8%, coal 26.6%, natural gas 22.9%, amounting to an 86% share for fossil fuels in primary energy production in the world. <ref>{{cite web|url=http://www.eia.doe.gov/iea/overview.html|title=International Energy Annual 2006|accessdate=2009-02-08}}</ref> . 
+
+The burning of fossil fuels produces around 21.3 billion [[tonnes]] (21.3 [[gigatonne]]s) of [[carbon dioxide]] per year, but it is estimated that natural processes can only absorb about half of that amount, so there is a net increase of 10.65 billion tonnes of atmospheric carbon dioxide per year (one tonne of atmospheric carbon is equivalent to 44/12 or 3.7 tonnes of carbon). <ref>{{cite web|url= http://www.eia.doe.gov/oiaf/1605/ggccebro/chapter1.html|title=US Department of Energy on greenhouse gases|accessdate=2007-09-09}}</ref>   Carbon dioxide is one of the [[greenhouse gas]]es that enhances [[radiative forcing]] and contributes to [[global warming]], causing the [[Instrumental temperature record|average surface temperature]] of the Earth to rise in response, which [[Scientific opinion on climate change|climate scientists]] agree will cause major adverse [[Effects of global warming|effects]].  . 
+
+====Coal====. 
+{{main|Environmental impact of coal mining and burning}}
+The environmental impact of coal mining and burning is diverse. <ref>{{cite web |url=http://www.ucsusa.org/clean_energy/coalvswind/c02c.html 
+|title=Environmental impacts of coal power: air pollution |year=2009  |publisher=Union of Concerned Scientists  |accessdate=2011-04-22 }}</ref> Legislation passed by the U.S. Congress in 1990 required the [[United States Environmental Protection Agency]] (EPA) to issue a plan to alleviate toxic pollution from coal-fired power plants.  After delay and litigation, the EPA now has a court-imposed deadline of March 16, 2011, to issue its report.  . 
+
+==== Petroleum ====. 
+{{main|Environmental impact of petroleum}}
+[[File:Oil-spill.jpg|right|thumb|A beach after an [[oil spill]]]]
+The environmental impact of [[petroleum]] is often negative because it is [[toxic]] to almost all forms of life. The possibility of [[climate change]] exists. Petroleum, commonly referred to as oil, is closely linked to virtually all aspects of present society, especially for transportation and heating for both homes and for commercial activities.  . 
+
+====Gas====. 
+[[Natural gas]] is often described as the cleanest fossil fuel, producing less carbon dioxide per joule delivered than either coal or oil.,<ref>[http://www.naturalgas.org/environment/naturalgas.asp#greenhouse/ Natural Gas and the Environment]</ref> and far fewer pollutants than other fossil fuels.  However, in absolute terms it does contribute substantially to global carbon emissions, and this contribution is projected to grow. According to the [[IPCC Fourth Assessment Report]],<ref>[[IPCC Fourth Assessment Report]] (Working Group III Report, Chapter 4)</ref> in 2004 natural gas produced about 5,300 Mt/yr of CO<sub>2</sub> emissions, while coal and oil produced 10,600 and 10,200 respectively (Figure 4.4); but by 2030, according to an updated version of the [[Special_Report_on_Emissions_Scenarios#B2|SRES B2]] emissions scenario, natural gas would be the source of 11,000 Mt/yr, with coal and oil now 8,400 and 17,200 respectively. <!--   dead link <ref>[http://www.ipcc.ch/ipccreports/ar4-wg3.htm IPCC]</ref>  --> ([[List of countries by carbon dioxide emissions|Total global emissions]] for 2004 were estimated at over 27,200 Mt.) . 
+
+In addition, natural gas itself is a greenhouse gas far more potent than carbon dioxide when released into the atmosphere but is released in smaller amounts.  . 
+
+===Electricity generation===. 
+{{main|Environmental impact of electricity generation}}
+The environmental impact of electricity generation is significant because modern society uses large amounts of electrical power.  This power is normally [[electricity generation|generated]] at [[power plant]]s that convert some other kind of energy into electrical power.  Each such system has advantages and disadvantages, but many of them pose environmental concerns.  . 
+
+===Reservoirs===. 
+{{main|Environmental impact of reservoirs}}
+The environmental impact of reservoirs is coming under ever increasing scrutiny as the world demand for water and energy increases and the number and size of reservoirs increases. [[Dam]]s and the [[reservoir]]s can be used to supply [[drinking water]], generate [[hydroelectric]] power, increasing the water supply for [[irrigation]], provide recreational opportunities and to improve certain aspects of the environment. However, adverse environmental and sociological impacts have also been identified during and after many reservoir constructions. Whether reservoir projects are ultimately beneficial or detrimental&mdash;to both the environment and surrounding human populations&mdash; has been debated since the 1960s  and probably long before that. In 1960 the construction of [[Llyn Celyn]] and the flooding of [[Capel Celyn]] provoked political uproar which continues to this day. More recently, the construction of [[Three Gorges Dam]] and other similar projects throughout [[Asia]], [[Africa]] and [[Latin America]] have generated considerable environmental and political debate.  . 
+
+===Nuclear power===. 
+{{main|Environmental impact of nuclear power}}
+[[File:Nuclear power environmenal collage.jpg|thumb|right|Nuclear power activities involving the environment; mining, enrichment, generation and geological disposal.]]
+The environmental impact of [[nuclear power]] results from the [[nuclear fuel cycle]], operation, and the effects of accidents such as the [[Chernobyl disaster]] (1986) and [[Fukushima I nuclear accidents]] (2011).  . 
+
+===Wind power===. 
+{{main|Environmental impact of wind power}}
+Compared to the environmental effects of traditional energy sources, the environmental effects of wind power are relatively minor. [[Wind power]] consumes no fuel, and emits no [[air pollution]], unlike fossil fuel power sources. The energy consumed to manufacture and transport the materials used to build a wind power plant is equal to the new energy produced by the plant within a few months. While a wind farm may cover a large area of land, many land uses such as agriculture are compatible, with only small areas of turbine foundations and infrastructure made unavailable for use. <ref name=mar>[http://www.sustainabilitycentre.com.au/WindPowersStrength.pdf  Why Australia needs wind power]</ref> . 
+
+==Mitigation==. 
+===Energy conservation===. 
+{{main|Energy conservation}}
+Energy conservation refers to efforts made to reduce energy consumption. Energy conservation can be achieved through increased [[efficient energy use]], in conjunction with decreased [[World energy resources and consumption|energy consumption]] and/or reduced consumption from conventional energy sources.  . 
+
+Energy conservation can result in increased [[financial capital]], [[Natural environment|environmental]] quality, [[national security]], [[personal security]], and [[Thermal comfort|human comfort]].{{Citation needed|date=February 2011}}  Individuals and organizations that are direct [[Consumer|consumers]] of energy choose to conserve energy to reduce energy costs and promote [[economic security]]. Industrial and commercial users can increase energy use efficiency to maximize [[Profit (economics)|profit]].  . 
+
+===Energy policy===. 
+{{main|Energy policy}}
+Energy policy is the manner in which a given entity (often governmental) has decided to address issues of [[energy development]] including [[energy production]], [[Resource distribution|distribution]] and [[Consumption (economics)|consumption]].  The attributes of energy policy may include [[legislation]], international treaties, incentives to investment, guidelines for [[energy conservation]], [[tax]]ation and other public policy techniques.  . 
+
+===Sustainable energy===. 
+{{main|Sustainable energy}}
+Sustainable energy is the provision of [[energy]] that meets the needs of the present without compromising the ability of future generations to meet their needs. [[sustainability|Sustainable]] energy sources are most often regarded as including all [[renewable energy]] sources, such as [[hydroelectricity]], [[solar energy]], [[wind energy]], [[wave power]], [[geothermal energy]], [[bioenergy]], and [[tidal power]]. It usually also includes technologies that improve [[Efficient energy use|energy efficiency]].  . 
+
+====Economic instruments====. 
+Various economic instruments can be used to steer society toward sustainable energy. Some of these methods include [[ecotaxes]] and [[emissions trading]].  . 
+
+[[Ecological economics]] aims to address some of the interdependence and [[coevolution]] of human [[economy|economies]] and natural [[ecosystem]]s over time and space. <ref>{{cite book |first=Anastasios |last=Xepapadeas |year=2008 |title=Ecological economics |series=The New Palgrave Dictionary of Economics, 2nd Edition |url=http://pde-aux1.pde.pm.semcs.net/article?id=pde2008_E000221&q=bioeconomics&topicid=&result_number=4 |editor=Steven N. Durlauf and Lawrence E. Blume |publisher=Palgrave Macmillan |doi=10.1057/9780230226203.0423 }} </ref> [[Environmental economics]], is the [[mainstream economics|mainstream economic]] analysis of the environment, which views the [[economy]] as a subsystem of the ecosystem, while ecological economics emphasis is upon preserving [[natural capital]]. <ref>{{cite book
+|author=Robert Nadeau (Lead Author);Cutler Cleveland (Topic Editor) 
+|contribution=Environmental and ecological economics
+|url=http://www.eoearth.org/article/Environmental_and_ecological_economics?topic=58074
+|editor=Cutler J. Cleveland
+|title= Encyclopedia of Earth
+|location=Washington, D.C. 
+|publisher=Environmental Information Coalition, National Council for Science and the Environment
+|date=2008-08-26 |accessdate=2011-04-21 }}</ref> <ref>{{cite book 
+|title=Ecological Economics: Themes, Approaches, and Differences with Environmental Economics
+|url=http://www.tinbergen.nl/discussionpapers/00080.pdf
+|last=Jeroen |first=C.J.M. |last2= Bergh |first2= van den |year=2000 |publisher=Tinbergen Institute |series=Discussion Paper TI 2000-080/3 |pages= 1–25. |accessdate= 2009-07-02 }}</ref> . 
+
+[[Biophysical economics]] sometimes referred to as thermoeconomics is discussed in the field of [[ecological economics]] and relates directly to [[energy conversion]], which itself is related to the fields of [[sustainability]] and [[sustainable development]] especially in the area of [[carbon]] burning. <ref>{{cite book
+|author=Cutler Cleveland (Lead Author);Robert Costanza (Topic Editor) 
+|contribution=Biophysical economics
+|url= http://www.eoearth.org/article/Biophysical_economics
+|editor=Cutler J. Cleveland
+|title= Encyclopedia of Earth
+|location=Washington, D.C. 
+|publisher=Environmental Information Coalition, National Council for Science and the Environment
+|date=2010-05-26 
+|accessdate=2011-04-21 }}</ref> . 
+
+==See also==. 
+{{portalbox|Energy|Environment|Ecology}}
+{{div col}}
+*[[List of environmental issues]]
+*[[Energy]]
+*[[Energy economics]]
+*[[Energy accounting]]
+*[[Energy transformation]]
+*[[Energetics]]
+*[[Energy quality]]
+*[[Ecological energetics]]
+*[[Systems ecology]]
+*[[Thermoeconomics]]
+*[[Industrial ecology]]
+*[[Index of energy articles]]
+*''[[Energy and Environment]]''
+*[[Environmental impact of aviation]]
+*[[The Venus Project]]
+*[[Environmental impact of electricity generation]]
+{{div col end}} . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+*[http://www.undp.org/energyandenvironment/index.html United Nations Development Programme] - Environment and Energy for Sustainable Development . 
+
+{{Environmental effects of energy}} . 
+
+{{DEFAULTSORT:Environmental Issues With Energy}}
+[[Category:Environmental issues with energy| ]]

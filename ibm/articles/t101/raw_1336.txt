@@ -1,0 +1,230 @@
+{{Infobox Treaty
+| name                = ICERD
+| long_name           = International Convention on the Elimination of All Forms of Racial Discrimination
+| image               =
+| image_width         =
+| caption             =
+| type                =
+| date_drafted        =
+| date_signed         = 7 March 1966<ref name=UNTC-CERD/>
+| location_signed     = New York<ref name=UNTC-CERD/>
+| date_sealed         =
+| date_effective      = 4 January 1969<ref name=UNTC-CERD/>
+| condition_effective = 27 ratifications<ref name=art19>ICERD, Article 19. </ref>
+| date_expiration     =
+| signatories         = 86<ref name=UNTC-CERD/>
+| parties             = 175<ref name=UNTC-CERD/>
+| depositor           = [[Secretary-General of the United Nations|UN Secretary-General]]<ref name=art18>ICERD, Article 18. </ref>
+| language            =
+| languages           = Chinese, English, French, Russian and Spanish<ref name=art25>ICERD, Article 25. </ref>
+| website             =
+| wikisource          = 
+}}
+[[Image:ICERD-members.PNG|thumb|alt=Membership of the Convention on the Elimination of All Forms of Racial Discrimination |right|400px|Membership of the Convention on the Elimination of All Forms of Racial Discrimination:
+{{legend|#FFFF00|Recognise competence under Article 14}}
+{{legend|#008000|Do not recognise competence under Article 14}}
+{{legend|#00ff00|Signed but not ratified}}
+{{legend|#b9b9b9|Neither signed nor ratified}}]]
+The '''International Convention on the Elimination of All Forms of Racial Discrimination''' (ICERD) is a [[United Nations]] [[Treaty|convention]].  A [[Three generations of human rights|second-generation]] human rights instrument, the Convention commits its members to the elimination of [[racial discrimination]] and the promotion of understanding among all races. <ref name=Art2.1>ICERD, Article 2.1</ref>  Controversially, the Convention also requires its parties to outlaw [[hate speech]] and criminalize membership in racist organizations. <ref name=Art4>ICERD, Article 4. </ref>   . 
+
+The Convention also includes an individual complaints mechanism, effectively making it enforceable against its parties.  This has led to the development of a limited jurisprudence on the interpretation and implementation of the Convention.  . 
+
+The convention was adopted and opened for signature by the [[United Nations General Assembly]] on December 21, 1965,<ref name=UNGA2106>United Nations General Assembly Resolution 2106 (XX), December 21, 1965. </ref> and entered into force on January 4, 1969. As of October 2011, it has 86 signatories and 175 parties. <ref name=UNTC-CERD>{{cite web |url=http://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-2&chapter=4&lang=en |title=Parties to the International Convention on the Elimination of All Forms of Racial Discrimination  |accessdate=2009-10-08 |publisher=United Nations Treaty Collection}}</ref>   . 
+
+The Convention is monitored by the Committee on the Elimination of Racial Discrimination (CERD).  . 
+
+== Genesis ==. 
+In December 1960, following incidents of [[antisemitism]] in several parts of the world,<ref name=Lerner>{{cite book |title=The U.N. Convention on the Elimination of All Forms of Racial Discrimination |last=Lérner |first=Natán |publisher=Sijthoff & Noordhoff International |page=1 |year=1980 |isbn=90-286-0160-0}}</ref> the [[United Nations General Assembly]] adopted a resolution condemning "all manifestations and practices of racial, religious and national hatred" as violations of the [[United Nations Charter]] and [[Universal Declaration of Human Rights]] and calling on the governments of all states to "take all necessary measures to prevent all manifestations of racial, religious and national hatred". <ref>United Nations General Assembly Resolution 1510 (XV), December 12, 1960. </ref>  The [[United Nations Economic and Social Council|Economic and Social Council]]  followed this up by drafting a resolution on "manifestations of racial prejudice and national and religious intolerance", calling on governments to educate the public against intolerance and rescind discriminatory laws. <ref name=UNGA1779>United Nations General Assembly Resolution 1779 (XVII), December 7, 1962. </ref>  Lack of time prevented this from being considered by the General Assembly in 1961,<ref>United Nations General Assembly Resolution 1684 (XVI), December 18, 1961. </ref> but it was passed the next year. <ref name=UNGA1779/>   . 
+
+During the early debate on this resolution, African nations led by the [[Central African Republic]], [[Chad]], [[Dahomey]], [[Guinea]], [[Ivory Coast]], [[Mali]], [[Mauritania]], and [[Republic of Upper Volta|Upper Volta]] pushed for more concrete action on the issue, in the form of an international convention against racial discrimination. <ref>Lérner, p. 2. </ref>  Some nations preferred a declaration rather than a binding convention, while others wanted to deal with racial and religious intolerance in a single instrument. <ref name=Schwelb>{{cite journal |last=Schwelb |first=Egon |title=The International Convention on the Elimination of All Forms of Racial Discrimination |journal=International & Comparative Law Quarterly |volume=15 |pages=996–1068 |year=1966}}</ref>  The eventual compromise, forced by Arab nations' reluctance to discuss antisemitism<ref name=Schwelb999>Schwelb, p. 999. </ref> was for two resolutions, one calling for a declaration and draft convention aimed at eliminating racial discrimination,<ref>United Nations General Assembly Resolution 1780 (XVII), December 7, 1962. </ref> the other doing the same for [[religious intolerance]]. <ref>United Nations General Assembly Resolution 1781 (XVII), December 7, 1962. </ref> . 
+
+The draft [[Declaration on the Elimination of All Forms of Racial Discrimination]] was adopted by the General Assembly on November 20, 1963. <ref>United Nations General Assembly Resolution 1904 (XVIII), November 20, 1963. </ref>  The same day the General Assembly called for the Economic and Social Council and the [[United Nations Commission on Human Rights|Commission on Human Rights]] to make the drafting of a Convention on the subject an absolute priority. <ref>United Nations General Assembly Resolution 1906 (XVIII), November 20, 1963. </ref>  The draft was completed by mid-1964,<ref>Lérner, p. 5. </ref> but delays in the General Assembly meant that it could not be adopted that year. <ref name=Schwelb999/>  It was finally adopted on December 21, 1965. <ref name=UNGA2106/> . 
+
+== Summary == . 
+
+The Convention follows the structure of the [[Universal Declaration of Human Rights]], [[International Covenant on Civil and Political Rights]], and [[International Covenant on Economic, Social and Cultural Rights]], with a preamble and twenty-five articles, divided into three parts. <ref>The following section summarizes the [http://www2.ohchr.org/english/law/cerd.htm text] of the Convention. </ref> . 
+
+'''Part 1''' (Articles 1 – 7) commits parties to the elimination of all forms of racial discrimination and to promoting understanding among all races (Article 2).  Parties are obliged to not discriminate on the basis of race, not to sponsor or defend racism, and to prohibit racial discrimination within their jurisdictions.  They must also review their laws and policies to ensure that they do not discriminate on the basis of race, and commit to amending or repealing those that do.  Specific areas in which discrimination must be eliminated are listed in Article 5.  . 
+
+The Convention imposes a specific commitment on parties to eradicate [[racial segregation]] and the [[crime of apartheid]] within their jurisdictions (Article 3).  Parties are also required to criminalize the incitement of racial hatred (Article 4), to ensure judicial remedies for acts of racial discrimination (Article 6), and to engage in public education to promote understanding and tolerance (Article 7).  . 
+
+'''Part 2''' (Articles 8 – 16) governs reporting and monitoring of the Convention and the steps taken by the parties to implement it. It establishes the Committee on the Elimination of Racial Discrimination, and empowers it to make general recommendations to the UN General Assembly. <ref>ICERD, Article 9.2. </ref> It also establishes a dispute-resolution mechanism between parties (Articles 11 – 13), and allows parties to recognise the competence of the Committee to hear complaints from individuals about violations of the rights protected by the Convention (Article 14).  . 
+
+'''Part 3''' (Articles 17 – 25) governs ratification, entry into force, and amendment of the Convention.  . 
+
+== Core provisions ==. 
+=== Definition of "racial discrimination" ===. 
+{{main|Racism|Discrimination}}
+'''Article 1''' of the Convention defines "racial discrimination" as
+: ''...any distinction, exclusion, restriction or preference based on [[Race (classification of human beings)|race]], colour, descent, or national or [[Ethnic group|ethnic]] origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.''<ref>ICERD, Article 1.1. </ref> . 
+
+Distinctions made on the basis of [[citizenship]] (that is, between citizens and non-citizens) are specifically excluded from the definition, as are [[affirmative action]] policies and other measures taken to redress imbalances and promote equality. <ref>ICERD, Articles 1.2 and 1.4. </ref> . 
+
+This definition does not distinguish between discrimination based on [[ethnicity]] and discrimination based on [[Race (classification of human beings)|race]], in part because the distinction between the ethnicity and race remains debatable among [[Anthropology|anthropologists]]. <ref>A. Metraux (1950) "United Nations Economic and Security Council Statement by Experts on Problems of Race" in ''American Anthropologist 53(1): 142–145)</ref>  The inclusion of descent specifically covers discrimination on the basis of [[caste]] and other forms of inherited status. <ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/f0902ff29d93de59c1256c6a00378d1f?Opendocument |title=CERD General Recommendation No. 29: Article 1, paragraph 1 of the Convention (Descent) |accessdate=2008-06-05 |publisher=UN OHCHR |date=2002-11-01 }}</ref> . 
+
+Discrimination need not be strictly based on race or ethnicity for the Convention to apply. Rather, whether a particular action or policy discriminates is judged by its effects. <ref name="CERD-GC14">{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/d7bd5d2bf71258aac12563ee004b639e?Opendocument |title=CERD General Recommendation No. 14: Definition of discrimination (Art. 1, par.1) |accessdate=2008-06-05 |publisher=UN OHCHR |date=1993-03-22 }}</ref>  
+: ''In seeking to determine whether an action has an effect contrary to the Convention, it will look to see whether that action has an unjustifiable disparate impact upon a group distinguished by race, colour, descent, or national or ethnic origin.''<ref name="CERD-GC14"/> . 
+
+The question of whether an individual belongs to a particular racial group is to be decided, in the absence of justification to the contrary, by self-identification. <ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/3ae0a87b5bd69d28c12563ee0049800f?Opendocument |title=CERD General Recommendation No. 08: Identification with a particular racial or ethnic group |publisher=UN OHCHR |date=1990-08-22 |accessdate=2010-10-09}}</ref> . 
+
+=== Prevention of discrimination ===. 
+{{main|Anti-discrimination law|Equality before the law|Institutionalized discrimination}}
+'''Article 2''' of the Convention condemns racial discrimination and obliges parties to "undertake to pursue by all appropriate means and without delay a policy of eliminating racial discrimination in all its forms". <ref name=Art2.1>ICERD, Article 2.1. </ref>  It also obliges parties to promote understanding among all races. <ref name=Art2.1/>  To achieve this, the Convention requires that signatories:
+* Not practice racial discrimination in public institutions<ref>ICERD, Article 2.1(a). </ref>
+* Not "sponsor, defend, or support" racial discrimination<ref>ICERD, Article 2.1(b). </ref>
+* Review existing policies, and amend or revoke those that cause or perpetuate racial discrimination<ref>ICERD, Article 2.1(c). </ref>
+* Prohibit "by all appropriate means, including legislation," racial discrimination by individuals and organisations within their jurisdictions
+<ref>ICERD, Article 2.1(d). </ref>
+* Encourage groups, movements, and other means that eliminate barriers between races, and discourage racial division<ref>ICERD, Article 2.1(e). </ref> . 
+
+Parties are obliged "when the circumstances so warrant" to use [[affirmative action]] policies for specific racial groups to guarantee "the full and equal enjoyment of human rights and fundamental freedoms". <ref name=Art2.2>ICERD, Article 2.2. </ref>  However, these measures must be finite, and "shall in no case entail as a consequence the maintenance of unequal or separate rights for different racial groups after the objectives for which they were taken have been achieved". <ref name=Art2.2/> . 
+
+'''Article 5''' expands upon on the general obligation of Article 2 and creates a specific obligation to guarantee the right of everyone to [[equality before the law]] regardless of "race, colour, or national or ethnic origin". <ref>ICERD, Article 5. </ref> It further lists specific rights this equality must apply to: equal treatment by courts and tribunals,<ref>ICERD, Article 5(a). </ref> [[security of the person]] and freedom from violence,<ref>ICERD, Article 5(b). </ref> the [[civil and political rights]] affirmed in the ICCPR,<ref>ICERD, Articles 5(c) and (d). </ref> the [[economic, social and cultural rights]] affirmed in the ICESCR,<ref>ICERD, Article 5(e). </ref> and the right of access to any place or service used by the general public, "such as transport hotels, restaurants, cafes, theatres and parks."<ref>ICERD, Article 5(f). </ref>  This list is not exhaustive, and the obligation extends to all human rights. <ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/8b3ad72f8e98a34c8025651e004c8b61?Opendocument |title=CERD General Recommendation No. 20: Non-discriminatory implementation of rights and freedoms |publisher=UN OHCHR |date=1996-03-15 |accessdate=2009-10-09|archiveurl = http://web.archive.org/web/20080213111923/http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/8b3ad72f8e98a34c8025651e004c8b61?Opendocument |archivedate = February 13, 2008|deadurl=yes}}</ref> . 
+
+'''Article 6''' obliges parties to provide "effective protection and remedies" through the courts or other institutions for any act of racial discrimination. <ref name=Art6>ICERD, Article 6. </ref>  This includes a right to a [[legal remedy]] and [[damages]] for injury suffered due to discrimination. <ref name=Art6/> . 
+
+=== Condemnation of apartheid ===. 
+{{main|Crime of apartheid}}
+'''Article 3''' condemns [[apartheid]] and [[racial segregation]] and obliges parties to "prevent, prohibit and eradicate" these practices in territories under their jurisdiction. <ref>ICERD, Article 3. </ref>  This article has since been strengthened by the recognition of apartheid as a [[crime against humanity]] in the [[Rome Statute of the International Criminal Court]]. <ref>Rome Statute of the International Criminal Court, Article 7.1(j). </ref> . 
+
+The Committee on the Elimination of Racial Discrimination regards this article as also entailing an obligation to eradicate the consequences of past policies of segregation, and to prevent racial segregation arising from the actions of private individuals. <ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/18c91e92601301fbc12563ee004c45b6?Opendocument |title=CERD General Recommendation No. 19: Racial segregation and apartheid |publisher=UN OHCHR |date=1995-08-18 |accessdate=2009-10-09}}</ref> . 
+
+=== Prohibition of incitement ===. 
+{{main|Hate speech|Hate crime}}
+'''Article 4''' of the Convention condemns propaganda and organizations that attempt to justify discrimination or are based on the idea of racial [[supremacism]]. <ref name=Art4/>  It obliges parties, "with due regard to the principles embodied in the Universal Declaration of Human Rights", to adopt "immediate and positive measures" to eradicate these forms of incitement and discrimination. <ref name=Art4/>  Specifically, it obliges parties to criminalize [[hate speech]], [[hate crimes]] and the financing of racist activities,<ref>ICERD, Article 4(a). </ref> and to prohibit and criminalize membership in organizations that "promote and incite" racial discrimination. <ref>ICERD, Article 4(b). </ref>  A number of parties have reservations on this article, and interpret it as not permitting or requiring measures that infringe on the freedoms of speech, association or assembly. <ref>See "Reservations" below for more details. </ref> . 
+
+The Committee on the Elimination of Racial Discrimination regards this article as a mandatory obligation of parties to the Convention,<ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/c5a2e04b85557870c12563ee003e883f?Opendocument |title=CERD General Recommendation No. 07: Legislation to eradicate racial discrimination |publisher=UN OHCHR |date=1985-08-23 |accessdate=2009-10-09}}</ref> and has repeatedly criticized parties for failing to abide by it. <ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/09bca82e6dab7b8fc12563ee0039c575?Opendocument |title=CERD General Recommendation No. 01: States parties' obligations (Art. 4) |publisher=UN OHCHR |date=1972-02-25 |accessdate=2009-10-09}}</ref>  It regards the obligation as consistent with the [[Freedom of speech|freedoms of opinion and expression]] affirmed in the UNDHR and ICCPR<ref name=CERDGR15>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/e51277010496eb2cc12563ee004b9768?Opendocument |title=CERD General Recommendation No. 15: Organized violence based on ethnic origin |pages=paragraph 4 |publisher=UN OHCHR |date=1993-03-23 |accessdate=2009-10-09}}</ref> and notes that the latter specifically outlaws inciting racial discrimination, hatred and violence. <ref>ICCPR, Article 20.2. </ref>  It views the provisions as necessary to prevent organised racial violence and the "political exploitation of ethnic difference."<ref>''CERD General Recommendation No. 15'', Paragraph 1. </ref> . 
+
+=== Promotion of tolerance ===. 
+{{main|Toleration}}
+'''Article 7''' obliges parties to adopt "immediate and effective measures", particularly in education, to combat racial prejudice and encourage understanding and [[Toleration|tolerance]] between different racial, ethnic and national groups. <ref>ICERD, Article 7. </ref> . 
+
+=== Dispute resolution mechanism === . 
+
+'''Articles 11 through 13''' of the Convention establish a dispute resolution mechanism between parties.  A party that believes another party is not implementing the Convention may complain to the Committee on the Elimination of Racial Discrimination. <ref>ICERD, Article 11. </ref>  The Committee will pass on the complaint, and if it is not resolved between the two parties, may establish an ad hoc Conciliation Commission to investigate and make recommendations on the matter. <ref>ICERD, Articles 12 & 13. </ref>  This procedure has never been used. <ref>{{cite web |url=http://www2.ohchr.org/english/bodies/petitions/index.htm |title=Human Rights Bodies – Complaints Procedures  |publisher=UN HCR |accessdate=2009-03-22}}</ref> . 
+
+'''Article 22''' further allows any dispute over the interpretation or application of the Convention to be referred to the [[International Court of Justice]]. <ref>ICERD, Article 22. </ref> This clause has been invoked only once, by Georgia against Russia. <ref>{{cite web |url=http://www.icj-cij.org/docket/index.php?p1=3&p2=1&code=GR&case=140&k=4d |title=Pending cases: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Georgia v. Russian Federation) |publisher=International Court of Justice |accessdate=2009-12-20}}</ref> . 
+
+=== Individual complaints mechanism === . 
+
+'''Article 14''' of the Convention establishes an individual complaints mechanism similar to that of the [[First Optional Protocol to the International Covenant on Civil and Political Rights]], [[Optional Protocol to the Convention on the Rights of Persons with Disabilities]] and [[Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women]].  Parties may at any time recognise the competence of the Committee on the Elimination of Racial Discrimination to consider complaints from individuals or groups who claim their rights under the Convention have been violated. <ref>ICERD, Article 14 (1). </ref>  Such parties may establish local bodies to hear complaints before they are passed on. <ref>ICERD, Article 14 (2) – (5). </ref>  Complainants must have exhausted all domestic remedies, and anonymous complaints and complaints that refer to events that occurred before the country concerned joined the Optional Protocol are not permitted. <ref name="ICERD, Article 14 6 & 7">ICERD, Article 14 (6) & (7). </ref> The Committee can request information from and make recommendations to a party. <ref name="ICERD, Article 14 6 & 7"/> . 
+
+The individual complaints mechanism came into operation in 1982, after it had been accepted by ten states-parties. <ref name=icmart14>{{cite web |url=http://www2.ohchr.org/english/bodies/cerd/procedure.htm |title=Article 14 of the International Convention on the Elimination of All Forms of Racial Discrimination |publisher=UN OHCHR |accessdate=2009-10-11}}</ref> As of 2010, 58 states had recognised the competence of the Committee,<ref name=UNTC-CERD/> and 54 cases have been dealt with by the Committee. <ref name=compstatus/> . 
+
+== Reservations ==. 
+A number of parties have made reservations and interpretative declarations to their application of the Convention.  The Convention text forbids reservations "incompatible with the object and purpose of this Convention" or that would inhibit the operation of any body established by it. <ref name=Art20.2>ICERD, Article 20.2. </ref>  A reservation is considered incompatible or inhibitive if two-thirds of parties object to it. <ref name=Art20.2/>   . 
+
+;Article 22
+[[Afghanistan]], [[Bahrain]], [[China]], [[Cuba]], [[Egypt]], [[Equatorial Guinea]], [[India]], [[Indonesia]], [[Iraq]],  [[Israel]], [[Kuwait]], [[Lebanon]], [[Libya]], [[Madagascar]], [[Morocco]], [[Mozambique]],  [[Nepal]], [[Saudi Arabia]], [[Syria]], [[Thailand]], [[Turkey]], [[Vietnam]], and [[Yemen]] do not consider themselves bound by Article 22. Some interpret this article as allowing disputes to be referred to the [[International Court of Justice]] only with the consent of all involved parties. <ref name=UNTC-CERD/> . 
+
+;Obligations beyond existing constitution
+[[Antigua and Barbuda]], the [[Bahamas]], [[Barbados]], [[Guyana]], [[Jamaica]], [[Nepal]], [[Papua New Guinea]], [[Thailand]] and [[United States of America]] interpret the Convention as not implying any obligations beyond the limits of their existing constitutions. <ref name=UNTC-CERD/>   . 
+
+;Hate speech
+[[Austria]], [[Belgium]], [[France]], [[Ireland]], [[Italy]], [[Japan]], [[Malta]], [[Monaco]], [[Switzerland]] and [[Tonga]] all interpret Article 4 as not permitting or requiring measures that threaten the freedoms of speech, opinion, association, and assembly. <ref name=UNTC-CERD/> [[Antigua and Barbuda]], the [[Bahamas]], [[Barbados]], [[Fiji]], [[Nepal]], [[Papua New Guinea]], [[Thailand]] and [[United Kingdom]] interpret the Convention as creating an obligation to enact measures against hate speech and hate crimes only when a need arises. The [[United States of America]] does not accept any obligation to enact measures under Article 4, which it views as incompatible with freedom of expression. <ref name=UNTC-CERD/>  . 
+
+;Immigration
+[[Monaco]] and [[Switzerland]] reserve the right to apply their own legal principles on the entry of foreigners into their labour markets. <ref name=UNTC-CERD/> The [[United Kingdom]] does not regard the [[Commonwealth Immigrants Act 1962]] and [[Commonwealth Immigrants Act 1968]] as constituting any form of racial discrimination. <ref name=UNTC-CERD/> . 
+
+;Indigenous people . 
+
+[[Tonga]] reserves the right not to apply the Convention to any restriction on the alienation of land held by indigenous [[Tongans]]. [[Fiji]] has significant reservations around Article 5, and reserves the right not to implement those provisions if they are incompatible with existing law on voting rights, the alienation of land by indigenous [[Fijians]]. <ref name=UNTC-CERD/> . 
+
+== Jurisprudence == . 
+
+The individual complaints mechanism has led to a limited jurisprudence on the interpretation and implementation of the Convention.  So far 45 complaints have been registered with the Committee; 17 of these have been deemed inadmissible, 14 have led to a finding of no violation, and in 10 cases a party has been found to have violated the Convention.  Four cases are still pending. <ref name=compstatus>{{cite web |title=Status of communications dealt with by CERD under Art. 14 Procedure |url=http://www2.ohchr.org/english/bodies/cerd/docs/CERDSURVEYArt14.xls |publisher=UN CERD |date=2010-07-22|accessdate=2010-08-03}}</ref> . 
+
+Several cases have dealt with the treatment of [[Romani people]] in Eastern Europe.  In ''Koptova v. Slovakia'' the Committee found that resolutions by several villages in [[Slovakia]] forbidding the residence of Roma were discriminatory and restricted [[freedom of movement]] and residence, and recommended the Slovak government take steps to end such practices. <ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/464937c637ce5c0ec12569d20033a961?Opendocument |title=Communication No 13/1998 : Koptova v. Slovakia. 01/11/2000 |publisher=UN CERD |date=2000-11-01 |accessdate=2009-10-11}}</ref>  In ''L.R. v. Slovakia'' the Committee found that the Slovak government had failed to provide an effective remedy for discrimination suffered by Roma after the cancellation of a housing project on ethnic grounds. <ref>{{cite web |title=Communication No. 31/2003 : L.R. v. Slovakia. 10/03/2005.  |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/3764f57be14718c6c1256fc400579258?Opendocument |publisher=UN CERD |date=2005-03-10 |accessdate=2009-10-11}}</ref> In ''Durmic v. Serbia and Montenegro'' the Committee found a systemic failure by the Serbian government to investigate and prosecute discrimination against Roma in access to public places. <ref>{{cite web |url=http://www.bayefsky.com/pdf/serbia_t5_cerd_29_2003.pdf |title=Durmic v. Serbia and Montenegro |publisher=UN CERD |date=2006-03-06 |accessdate=2009-10-11}}</ref> . 
+
+In several cases, notably ''L.K. v. Netherlands'' and ''Gelle v. Denmark'', the Committee has criticized parties for their failure to adequately prosecute acts of racial discrimination or incitement.  In both cases, the Committee refused to accept "any claim that the enactment of law making racial discrimination a criminal act in itself represents full compliance with the obligations of States parties under the Convention". <ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/ec0884e5a47c1a1480256714005f6000?Opendocument |title=Communication No 4/1991 : L.K. v. Netherlands. 16/03/93. |publisher=UN CERD |date=1993-03-16 |accessdate=2009-10-11}}</ref> Such laws "must also be effectively implemented by the competent national tribunals and other State institutions". <ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/6715d3bdbeff3c0dc125714d004f62e0?Opendocument |title=Communication No. 34/2004 : Gelle v. Denmark. 15/03/2006 |publisher=UN CERD |date=2006-03-15 |accessdate=2009-10-11}}</ref>  While the Committee accepts the discretion of prosecutors on whether or not to lay charges, this discretion "should be applied in each case of alleged racial discrimination in the light of the guarantees laid down in the Convention"<ref>L.K. v. Netherlands, para. 6.5</ref> . 
+
+In [[The Jewish community of Oslo et al. v. Norway]], the Committee found that the prohibition of hate speech was compatible with freedom of speech, and that the acquittal of a neo-Nazi leader by the [[Supreme Court of Norway]] on freedom of speech grounds was a violation of the Convention. <ref>{{cite web |url=http://www1.umn.edu/humanrts/country/decisions/30-2003.html |title=The Jewish community of Oslo et al. v. Norway, Communication No. 30/2003, U.N. Doc. CERD/C/67/D/30/2003 (2005) |publisher=UN CERD |date=2005-08-15 |accessdate=2009-10-11}}</ref> . 
+
+In ''Hagan v. Australia'', the Committee ruled that, while not originally intended to demean anyone, the name of the "E. S. 'Nigger' Brown Stand" (named in honour of 1920s [[rugby league]] player [[Edward Stanley Brown]]) at a [[Toowoomba, Queensland|Toowoomba]] sports field was racially offensive and should be removed. <ref>{{cite web |url=http://www.bayefsky.com/html/australia_t5_cerd_26_2002.php |title=Hagan v. Australia |publisher=UN CERD |date=2003-03-20 |accessdate=2009-10-11}}</ref> . 
+
+== Impact == . 
+
+The impact of an international treaty can be measured in two ways: by its acceptance, and by its implementation. <ref>Lérner, p. 165. </ref><ref>{{cite journal |last1=Heyns |first1=Christof |last2=Viljoen |first2=Frans |title=The Impact of the United Nations Human Rights Treaties on the Domestic Level |journal=Human Rights Quarterly |volume=23 |pages=183–535 |year=2001}}</ref> On the first measure, the Convention has gained near-universal acceptance by the international community, with fewer than twenty (mostly small) states yet to become parties. <ref name=UNTC-CERD/>  Most major states have also accepted the Convention's individual complaints mechanism, signaling a strong desire to be bound by the Convention's provisions. <ref name=UNTC-CERD/> . 
+
+On the second measure, the Convention has had a significant impact on national legislation, with many states adopting legislation outlawing racial discrimination by the state, in the workplace, or in the provision of services such as housing and education.  Such legislation may be either civil or criminal. <ref name=ho238>{{cite web |url=http://www.homeoffice.gov.uk/rds/pdfs2/hors238.pdf |title=Home Office Research Study 238: Tackling racial equality: international comparisons |author=Mary Coussey |publisher=UK Home Office |page=10 |date=2002-04 |accessdate=2009-11-15}}</ref> Examples of the former include the [[Race Relations Act 1971]] (New Zealand), [[Racial Discrimination Act 1975]] (Australia), [[Race Relations Act 1976]] (UK), and [[Canadian Human Rights Act]] (Canada).  Criminal provisions are used in Belgium, Denmark, France, Italy, Norway and Portugal. <ref name=ho238/>  Despite reservations to the Convention, most western European nations have criminalized the incitement of racial hatred. <ref name=ho238/> . 
+
+The Convention has faced persistent problems with reporting since its inception, with parties frequently failing to report fully,<ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/5786c74b85372739c12563ee003d8c89?Opendocument |title=CERD General Recommendation No. 04: Demographic composition of the population |publisher=UN OHCHR |date=1973-08-25 |accessdate=2009-11-15}}</ref> or even at all. <ref>{{cite web |url=http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/9aea5ab9c02d7132c12563ee003e44a4?Opendocument |title=CERD General Recommendation No. 06: Overdue reports |publisher=UN OHCHR |date=1982-03-19 |accessdate=2009-11-15}}</ref>  As of 2008, twenty parties had failed to report for more than ten years, and thirty parties had failed to report for more than five. <ref>{{cite web |url=http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G08/449/20/PDF/G0844920.pdf?OpenElement |title=Report of the Committee on the Elimination of Racial Discrimination Seventy-second session (18 February-7 March 2008) and Seventy-third session (28 July-15 August 2008) (A/63/18) |publisher=UN General Assembly |year=2008 |accessdate=2009-11-15}}</ref>  One party, [[Sierra Leone]], had failed to report since 1976, while two more – [[Liberia]] and [[Saint Lucia]] had never met their reporting requirements under the Convention. <ref>''Report of the Committee on the Elimination of Racial Discrimination'', p. 103. </ref>  The Committee has responded to this persistent failure to report by reviewing the late parties anyway – a strategy that has produced some success in gaining compliance with reporting requirements. <ref>''Report of the Committee on the Elimination of Racial Discrimination'', pp. 104–105. </ref>  This lack of reporting is seen by some as a significant failure of the Convention. <ref>{{cite journal |last=Felice |first=William F.  |title=The UN Committee on the Elimination of All Forms of Racial Discrimination: Race, and Economic and Social Human Rights |journal=Human Rights Quarterly |volume=24 |pages=205–236 |year=2002}}</ref>  However the reporting system has also been praised as providing "a permanent stimulus inducing individual States to enact anti-racist legislation or amend the existing one when necessary."<ref name=Lerner2>{{cite book |title=Group rights and discrimination in international law (second edition) |last=Lérner |first=Natán |publisher=Kluwer Law International |location=The Hague |page=71 |year=2003 |isbn=90-411-1982-5}}</ref> . 
+
+== Committee on the Elimination of Racial Discrimination == . 
+
+The '''Committee on the Elimination of Racial Discrimination''' is a body of human rights experts tasked with monitoring the implementation of the Convention.  It consists of 18 independent human rights experts, elected for four-year terms, with half the members elected every two years.  Members are elected by secret ballot of the parties, with each party allowed to nominate one of its nationals to the Committee. <ref>ICERD, Article 8. </ref> . 
+
+All parties are required to submit regular reports to the Committee outlining the legislative, judicial, policy and other measures they have taken to give effect to the Convention.  The first report is due within a year of the Convention entering into effect for that state; thereafter reports are due every two years or whenever the Committee requests. <ref>ICERD, Article 9. </ref>  The Committee examines each report and addresses its concerns and recommendations to the state party in the form of "concluding observations".  . 
+
+The Committee typically meets every March and August in [[Geneva]]. <ref>{{cite web |url=http://www2.ohchr.org/english/bodies/cerd/sessions.htm |title=Committee on the Elimination of Racial Discrimination – Sessions |accessdate=2008-06-03 |publisher=UN OHCHR}}</ref> . 
+
+The current (as of August 2010) membership of the Committee is:<ref>{{cite web |url=http://www2.ohchr.org/english/bodies/cerd/members.htm |title=Committee on the Elimination of Racial Discrimination – Members |accessdate=2010-08-03 |publisher=UN OHCHR}}</ref>  . 
+
+{| class="wikitable" style="width:500px;"
+! Name !! State !!  Term 
+. |-
+|[[Anwar Kemal]] (chair) || {{flag|Pakistan}} ||  2010–2014
+. |-
+|[[Alexei Stanislavovich Avtonomov|Alexei S. Avtonomov]] || {{flag|Russian Federation}} ||  2010–2012
+. |-
+|[[Noureddine Amir]] || {{flag|Algeria}} ||  2010–2014
+. |-
+|[[José Francisco Cali Tzay]] || {{flag|Guatemala}} ||  2010–2012
+. |-
+|[[Anastasia Crickley]] || {{flag|Ireland}} ||  2010–2014
+. |-
+|[[Fatimata-Binta Victoria Dah]] || {{flag|Burkina Faso}} ||  2010–2012
+. |-
+|[[Ion Diaconu]] || {{flag|Romania}} ||  2010–2012
+. |-
+|[[Régis de Gouttes]] || {{flag|France}} ||  2010–2014
+. |-
+|[[Kokou Mawuena Ika Kana (Dieudonnè) Ewomsan]] || {{flag|Togo}} ||  2010–2014
+. |-
+|[[Huang Yong An]] || {{flag|China}} ||  2010–2012
+. |-
+|[[Gün Kut]] || {{flag|Turkey}} ||  2010–2014
+. |-
+|[[Dilip Lahiri]] || {{flag|India}} ||  2010–2012
+. |-
+|[[José Augusto Lindgren Alves]] || {{flag|Brazil}} ||  2010–2014
+. |-
+|[[Pastor Elias Murillo Martinez]] || {{flag|Colombia}} ||  2010–2012
+. |-
+|[[Chris Maina Peter]] || {{flag|Tanzania}} ||  2010–2012
+. |-
+|[[Pierre-Richard Prosper]] || {{flag|USA}} ||  2010–2012
+. |-
+|[[Waliakoye Saidou]] || {{flag|Niger}} ||  2010–2014
+. |-
+|[[Patrick Thornberry]] || {{flag|UK}} ||  2010–2014
+|} . 
+
+== See also ==. 
+* [[Racism]]
+* [[Declaration on the Elimination of All Forms of Racial Discrimination]]
+* [[The Jewish community of Oslo et al. v. Norway]]
+* [[Racial Equality Proposal, 1919]] . 
+
+== References ==. 
+{{reflist|2}}
+* {{cite web |url=http://www2.ohchr.org/english/law/cerd.htm |title=International Convention on the Elimination of All Forms of Racial Discrimination (ICERD) |publisher=UN OHCHR |accessdate=2009-12-20}} . 
+
+== Further reading ==. 
+* ''The U.N. Convention on the Elimination of All Forms of Racial Discrimination''. By Natán Lérner. Alphen aan den Rijn: Sijthoff & Noordhoff International, 1980.  . 
+
+== External links ==. 
+* [http://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-2&chapter=4&lang=en List of parties]
+* [http://www2.ohchr.org/english/bodies/cerd/ Committee on the Elimination of Racial Discrimination]
+* [http://www.worldcourts.com/cerd/eng/decisions.htm Decisions of the Committee on the Elimination of Racial Discrimination]
+* [http://www.bayefsky.com/docs.php/area/jurisprudence/node/3/treaty/cerd/opt/0 CERD jurisprudence] . 
+
+{{International human rights legal instruments}}
+{{good article}} . 
+
+[[Category:Discrimination law]]
+[[Category:Human rights instruments]]
+[[Category:United Nations conventions and covenants]]
+[[Category:Race-related legal issues]]
+[[Category:Treaties entered into force in 1969]]
+[[Category:Treaties concluded in 1966]]

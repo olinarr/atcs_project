@@ -1,0 +1,169 @@
+<!-- UN-related article; UN spelling/stylistic conventions-->
+{{Infobox Treaty
+| name                = Convention on the Elimination of all Forms of Discrimination against Women
+| long_name           =
+| image               = Weaving profile.jpg
+| image_width         = 225px
+| caption             =
+| type                =
+| date_drafted        =
+| date_signed         = 18 December 1979
+| location_signed     = [[New York City]]
+| date_sealed         =
+| date_effective      = 3 September 1981
+| condition_effective = 20 ratifications
+| date_expiration     =
+| signatories         =
+| parties             = 187 ([[List of parties to the Convention on the Elimination of All Forms of Discrimination Against Women|Complete List]])
+| depositor           =
+| language            =
+| languages           =
+| website             =
+| wikisource          = Convention on the Elimination of All Forms of Discrimination Against Women
+}}
+[[Image:CEDAW Participation.svg|right|400px|thumb| Participation in the CEDAW {{Col-begin}}
+{{Col-2}}
+{{legend|#00aa00|Signed and ratified}}
+{{legend|#008000|Acceded or succeeded}}
+{{legend|#008080|Unrecognized state, abiding by treaty}}
+{{Col-2}}
+{{legend|#eeee00|Only signed}}
+{{legend|#ff1111|Non-signatory}}
+{{Col-end}}
+]] . 
+
+[[File:Map5.1Discrepant Behavior compressed.jpg|right|400px|thumb| A world map showing countries by CEDAW enforcement, 2010.]] . 
+
+The '''Convention on the Elimination of all Forms of Discrimination against Women''' ('''CEDAW''') is an [[international]] convention adopted in [[1979]] by the [[United Nations]] [[United Nations General Assembly|General Assembly]]. 
+Described as an international [[bill of rights]] for [[woman|women]], it came into force on 3 September 1981. The [[United States]] is the only developed nation that has not ratified the CEDAW. Several countries have ratified the Convention subject to certain declarations, reservations, and objections. <ref>{{cite web|url=http://www.un.org/womenwatch/daw/cedaw/reservations-country.htm |title=Declarations, Reservations and Objections to CEDAW |publisher=Un.org |date= |accessdate=2011-09-27}}</ref> . 
+
+==The Convention==. 
+The Convention defines discrimination against women in the following terms: . 
+
+<blockquote>Any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise by women, irrespective of their marital status, on a basis of equality of men and women, of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field. </blockquote> . 
+
+It also establishes an agenda of action for putting an end to sex-based discrimination: . 
+
+States must take measures to seek to eliminate prejudices and customs based on the idea of the inferiority or the superiority of one sex or on [[stereotype]]d [[gender role|role for men and women]].  . 
+
+States ratifying the Convention are required to enshrine [[gender equality]] into their domestic legislation, repeal all discriminatory provisions in their laws, and enact new provisions to guard against discrimination against women. However, special protection for [[maternity]] is not regarded as gender discrimination (Article 4). Appropriate measures, including legislation, to suppress all forms of trafficking in women and forced prostitution are also not regarded as gender discrimination (Article 6). Equal opportunity in education for female students is required, and [[mixed-sex education|coeducation]] is encouraged. (Article 10). States ratifying the Convention must also establish tribunals and public institutions to guarantee women effective protection against discrimination, and take steps to eliminate all forms of discrimination practiced against women by individuals, organizations, and [[Business|enterprises]] (Article 2,(e)).  . 
+
+==Members and ratification==. 
+{{Main|List of parties to the Convention on the Elimination of All Forms of Discrimination Against Women}} . 
+
+The seven UN member states that have not ratified or acceded to the convention are [[Iran]], [[Palau]], [[Somalia]], [[Sudan]], [[South Sudan]], [[Tonga]], and the [[United States]]. The United States and Palau have signed it, but not yet ratified it. <ref name="Convention on the Elimination of All Forms of Discrimination Against Women">{{cite web|url=http://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-8&chapter=4&lang=en |title='Convention on the Elimination of All Forms of Discrimination Against Women' |publisher=Treaties.un.org |date= |accessdate=2011-09-27}}</ref>  . 
+
+The one [[United Nations General Assembly observers#Non-member states|UN non-member state]] that had not acceded to the convention is the [[Holy See]]/[[Vatican City]]. <ref name="Convention on the Elimination of All Forms of Discrimination Against Women" /><ref>''Note:'' See New Zealand No 47 Declarations and Reservations New Zealand has signed this treaty on behalf on Niue. </ref>  . 
+
+The [[Republic of China]] (Taiwan) in 2007 has also ratified the treaty in its legislature, but is unrecognized by the United Nations and is a party to the treaty only unofficially. <ref>Government Information Office, Republic of China (Taiwan). "Taiwan Aims to Sign Up Against Discrimination." September 8, 2006. </ref> . 
+
+The latest state to have acceded the convention was [[Nauru]] on June 23, 2011. <ref name="Convention on the Elimination of All Forms of Discrimination Against Women" /> . 
+
+==Committee on the Elimination of Discrimination against Women==. 
+Convention oversight is the task of the '''Committee on the Elimination of Discrimination against Women''', which is made up of 23 experts on women's issues from different UN member states. The Committee meets twice a year to review reports on compliance with the Convention's provisions that the signatory nations are required to submit every four years.  . 
+
+The Committee is one of the eight [[Human rights#Other UN Treaty Bodies|UN-related human rights treaty bodies]].  . 
+
+The Committee's members, described as "experts of high moral standing and competence in the field covered by the Convention", are elected to serve four-year terms in staggered elections held every two years. Its officers are a chairperson, three vice-chairpersons, and a rapporteur.  Efforts are made to ensure balanced geographical representation and the inclusion of the world's different forms of civilization and legal systems.  . 
+
+Committee members and experts also attend an annual luncheon, hosted by the NGO Committee on the Status of Women, NY ([[NGO CSW/NY]]), where key issues are discusses and the efforts of the committee are honored. <ref>{{cite web|url=http://www.ngocsw.org/about/how-we-work |title=NGO CSW, NY / About / How We Work |publisher=Ngocsw.org |date=2011-07-26 |accessdate=2011-09-27}}</ref> . 
+
+As of January 2011, the members are: . 
+
+{| class="wikitable" style="width:450px;"
+. |-
+! Name !! State !!  Term Expires
+. |-
+|[[Silvia Pimentel]] (Chairperson) || {{flag|Brazil}} ||  2012
+. |-
+|[[Victoria Popescu]] (Vice-Chairperson) || {{flag|Romania}} ||  2012
+. |-
+|[[Zohra Rasekh]] (Vice-Chairperson) || {{flag|Afghanistan}} ||  2012
+. |-
+|[[Nicole Ameline]] (Vice-Chairperson) || {{flag|France}} ||  2012
+. |-
+|[[Violet Tsisiga Awori]] (Rapporteur) || {{flag|Kenya}} ||  2012
+. |-
+|[[Magalys Arocha Dominguez]] || {{flag|Cuba}} ||  2012
+. |-
+|[[Barbara Evelyn Bailey]] || {{flag|Jamaica}} ||  2012
+. |-
+|[[Niklas Bruun]] || {{flag|Finland}} ||  2012
+. |-
+|[[Indira Jaising]] || {{flag|India}} ||  2012
+. |-
+|[[Soledad Murillo de la Vega]] || {{flag|Spain}} ||  2012
+. |-
+|[[Zou Xiaoqiao]]  || {{flag|China}} ||  2012
+. |-
+|[[Ayse Feride Acar]] || {{flag|Turkey}} ||  2014
+. |-
+|[[Olinda Bareiro-Bobadilla]] || {{flag|Paraguay}} ||  2014
+. |-
+|[[Meriem Belmihoub-Zerdani]] || {{flag|Algeria}} ||  2014
+. |-
+|[[Naela Mohamed Gabr]] || {{flag|Egypt}} ||  2014
+. |-
+|[[Ruth Halperin-Kaddari]] || {{flag|Israel}} ||  2014
+. |-
+|[[Yoko Hayashi]] || {{flag|Japan}} ||  2014
+. |-
+|[[Ismat Jahan]] || {{flag|Bangladesh}} ||  2014
+. |-
+|[[Violeta Neubauer]] || {{flag|Slovenia}} ||  2014
+. |-
+|[[Pramila Patten]] || {{flag|Mauritius}} ||  2014
+. |-
+|[[Maria Helena Lopes de Jesus Pires]] || {{flag|Timor Leste}} ||  2014
+. |-
+|[[Patricia Schulz]] || {{flag|Switzerland}} ||  2014
+. |-
+|[[Dubravka Šimonović]] || {{flag|Croatia}} ||  2014
+|} . 
+
+==Optional Protocol==. 
+The '''[[Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women]]''' is a side-agreement to the Convention which allows its parties to recognise the competence of the Committee on the Elimination of Discrimination against Women to consider complaints from individuals. <ref>[http://www1.umn.edu/humanrts/instree/cedawopprot-2000.html Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women], Article 1. </ref> . 
+
+The Optional Protocol was adopted by the UN General Assembly on 6 October 1999 and entered into force on 22 December 2000. <ref>{{cite web|url=http://www.un.org/womenwatch/daw/cedaw/protocol/wom1242.htm |title=Optional Protocol to Women's Convention Comes into Force |date=2000-12-21 |accessdate=2008-07-15}}</ref> Currently it has 79 signatories and 103 parties. <ref>{{cite web|url=http://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-8-b&chapter=4&lang=en |title= Parties to the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women |publisher=UN OHCHR |accessdate=2009-10-03}}</ref> . 
+
+==Controversy==. 
+{{POV|date=September 2010}}
+In an article in ''[[Moment (magazine)|Moment]]'' magazine in February 2011, Paula Kweskin, in discussing so-called “honor” killings taking place in the Palestinian Authority, writes that two-thirds of all murders in the Palestinian Authority and Gaza are “honor” killings.  These crimes go unpunished and laws grant impunity to those who kill based on “family honor.” In interviews and press releases on their websites, many NGOs, including Badil, the Palestinian Center for Human Rights, and the Women’s Center for Legal Aid and Counseling, have decried “honor” killings and the lack of legal protection for Palestinian women; yet these NGOs are silent when given a forum at CEDAW to address these problems. <ref>{{cite web|author=by elisniv |url=http://momentmagazine.wordpress.com/2011/02/24/ngos-fail-palestinian-women-at-the-un/ |title=NGOs Fail Palestinian Women at the UN |publisher=Momentmagazine.wordpress.com |date=2011-02-24 |accessdate=2011-09-27}}</ref> . 
+
+The CEDAW has been controversial for statements seen by a number of states and NGOs as promoting Western-style [[radical feminism]]. Often referenced is a 2000 report which said that in [[Belarus]], "the Committee is concerned by the continuing prevalence of sex-role stereotypes and by the reintroduction of such symbols as a [[Mothers' Day]] and a Mothers' Award, which it sees as encouraging women's traditional roles."<ref>{{cite web|url=http://www.un.org/womenwatch/daw/cedaw/reports/a5538.pdf |title=Womenwatch report |publisher= |date= |accessdate=2011-09-27}}</ref> Other controversial positions of CEDAW include supporting the decriminalization of prostitution in specific countries, criticizing Slovenia because only 30% of children are in daycare, and pressuring numerous states to decriminalize abortion. <ref>{{cite web|url=http://fota.cdnetworks.net/pdfs/2009-02-b-80-Nations-Pressured-by-CEDAW-Comm-summ.pdf |title=Nations Pressured by CEDAW |publisher= |date= |accessdate=2011-09-27}}</ref> Other requests are seen by groups as a backdoor to forcing states parties to adopt an [[Equal Rights Amendment]] or comparable national legislation, which is seen as a violation of the CEDAW treaty mandate and the sovereignty of states parties. <ref>{{cite web|url=http://www.cwfa.org/articledisplay.asp?id=1971 |title=Concerned Women for America - Exposing CEDAW |publisher=Cwfa.org |date= |accessdate=2011-09-27}}</ref> Australian and (defunct) New Zealand anti-feminist groups{{Weasel-inline|date=March 2009}} voiced similar concerns in the early eighties.  . 
+
+More recently, the controversy concerning CEDAW has centered around the question of easy access to abortion and contraception. According to C-FAM (the [[Catholic Family and Human Rights Institute]]), at UN meetings officials pressed the delegation from Slovakia to liberalize its abortion laws and to inaugurate campaigns encouraging contraceptive use and "reproductive health awareness". <ref>{{cite web|url=http://www.c-fam.org/publications/id.664/pub_detail.asp |title=UN Committee Pressures Slovakia over its Concordat with the Catholic Church}}</ref> . 
+
+==See also==. 
+* [[Equal Rights Amendment]]
+* [[Parental leave]]
+* [[Gender role]]
+* [[Mixed-sex education]]
+* [[Declaration on the Elimination of Discrimination against Women]]
+* [[Declaration on the Elimination of Violence Against Women]]
+* [[United Nations Development Fund for Women]]
+* [[United Nations Security Council Resolution 1325]]
+* [[UN Women]]
+* [[Convention on preventing and combating violence against women and domestic violence]] . 
+
+==Further reading==. 
+* [http://www.ipu.org/PDF/publications/cedaw_en.pdf The Convention on the Elimination of All Forms of Discrimination against Women and its Optional Protocol: Handbook for Parlamentarians], [[Inter-Parliamentary Union]] 2003 . 
+
+==References==. 
+{{Reflist}} . 
+
+==External links==. 
+* [http://www2.ohchr.org/english/bodies/cedaw/index.htm CEDAW site]
+* [http://www2.ohchr.org/english/law/cedaw.htm Convention text]
+* [http://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-8&chapter=4&lang=en List of parties]
+* [http://www.cedaw2010.org/ CEDAW 2010], the website of the CEDAW Task Force of The Leadership Conference on Civil and Human Rights.  . 
+
+{{International human rights legal instruments}} . 
+
+{{DEFAULTSORT:Convention On The Elimination Of All Forms Of Discrimination Against Women}}
+[[Category:Treaties concluded in 1979]]
+[[Category:Treaties entered into force in 1981]]
+[[Category:Discrimination law]]
+[[Category:United Nations conventions and covenants]]
+[[Category:Reproductive rights]]
+[[Category:Women's rights instruments]]

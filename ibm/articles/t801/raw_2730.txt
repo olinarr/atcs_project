@@ -1,0 +1,238 @@
+{{Infobox Military Conflict 
+|conflict=Operation Hot Winter
+|partof=the [[2007–2008 Israel–Gaza conflict]]
+|image=[[File:Gaza conflict map.png|300px]]
+|caption=Area of the conflict
+|date=February 28 – March 3, 2008
+|place=[[Gaza Strip]] & [[South District (Israel)|Southern Israel]]
+|casus= [[Qassam rocket]] attacks on [[Sderot]] and surrounding kibbutzim. 
+|result= Israeli success (according to the [[Israel Defense Forces|IDF]])<ref name=greenberg>{{Cite news
+| last = Greenberg
+| first = Hanan
+| title = IDF operation in Gaza ends, soldiers leaving Strip
+| work = Ynetnews
+| accessdate = 2008-04-12
+| date = 2008-03-03
+| url = http://www.ynet.co.il/english/articles/0,7340,L-3514012,00.html
+}}</ref>
+|combatant1={{flagcountry|Israel}} ([[Israel Defense Forces|IDF]])
+|combatant2=[[File:Hamas flag2.png|22px]] [[Hamas]]
+|commander1={{flagicon|Israel}} [[Ehud Olmert]] <br> {{flagicon|Israel}} [[Gabi Ashkenazi]] <br>{{flagicon|Israel}} [[Yoav Galant]] <br> {{flagicon|Israel}} [[Eliezer Shkedi]] <br> {{flagicon|Israel}} [[Dan Halutz]]
+|commander2=[[File:Hamas flag2.png|22px]] [[Khaled Mashal]] <br> [[File:Hamas flag2.png|22px]] [[Ismail Haniyeh]] <br> [[File:Hamas flag2.png|22px]] [[Mahmoud az-Zahar]] <br> [[File:Hamas flag2.png|22px]] [[Ahmed Jabari]]
+|strength1=
+|strength2=
+|casualties1=3 killed (1 civilian)<br />8 wounded <ref name="ynetnews.com">{{Cite news|url=http://www.ynetnews.com/articles/0,7340,L-3514811,00.html|title=Givati officers: Lessons from Lebanon implemented in Gaza|publisher=[[Ynetnews]]|date=2008-03-04|author=Ben-Yishai, Ron|accessdate=2008-03-04}}</ref>
+|casualties2=112 killed (52 civilians),<br> 350 wounded. <ref name="bbc article 2">{{Cite news|url=http://news.bbc.co.uk/2/hi/middle_east/7274929.stm|publisher=[[BBC]]|title=Israeli Gaza operation 'not over' |date=2008-03-03|accessdate=2008-03-03}}</ref>}}{{Campaignbox Second Intifada}}
+{{Wikinews|Palestinian President Mahmoud Abbas cuts ties with Israel}}
+'''Operation Hot Winter''', also called '''Operation Warm Winter''' ({{lang-he|מבצע חורף חם}}, ''Mivtza Horef Ham'') was an [[Israel Defense Forces]] military campaign in the [[Gaza Strip]], launched on February 29, 2008 in response to [[Qassam rocket]]s fired from the Strip by [[Hamas]]. At least 112 [[Palestinian militants]] and civilians, along with three [[Israel]]is, were killed, and more than 150 Palestinians and seven Israelis were injured. <ref name="bbc article 2" /> . 
+
+There was widespread international alarm at the scale of the operation, with the [[United States Department of State]] encouraging Israel to exercise caution to avoid the loss of innocent life, and the [[United Nations]] criticising Israel's ''"disproportionate use of force"''. The [[European Union]] demanded an immediate end to [[Palestinian militant]] [[Rocket and mortar attacks on southern Israel|rocket attacks on Israel]] and also criticised what they called Israel's ''"disproportionate use of force."''<ref name="bbc article 2" /><ref name="haaretz 3">{{Cite news|url=http://www.haaretz.com/hasen/spages/959837.html|title=U.S. calls for end to continued violence, return to peace talks|author= Shamir, Shlomo|date=2008-03-02|publisher=[[Haaretz]]}}</ref> . 
+
+==Background==. 
+After the [[Breach of the Gaza-Egypt border (2008)|Gaza-Egypt border breach]] by Hamas during an Israeli blockade of Gaza, [[Shin Bet]] officials concluded the Palestinian militant groups had smuggled large numbers of longer-ranged missiles, such as [[Katyusha rocket launcher|Katyushas]] and [[BM-21|Grads]] into the strip that were capable of reaching [[Ashkelon]], a city six times as large as the rocket-battered town of [[Sderot]].  . 
+
+On February 27, 2008, Hamas, the [[Popular Resistance Committees]] and the [[Palestinian Islamic Jihad]] fired a rocket barrage, in which they fired for the first time six Grad missiles at the industrial city of Ashkelon. While only a few people were lightly injured, the attack had a profound psychological impact. The Israeli Prime Minister and several other minister vowed a tough response. The next day, the IDF started an operation to halt, or at least decrease the rocket fire.  . 
+
+==Operation== . 
+
+According to the Israeli Defence Forces (IDF), the operation was aimed at disrupting terrorist infrastructure in the Gaza Strip. One of the targets was Hamas prime minister [[Ismail Haniyeh]]'s office. <ref name="haniyeh article">{{Cite news|url=http://www.ynetnews.com/articles/0,7340,L-3513481,00.html|publisher=[[Ynetnews]]|title=IAF strikes Haniyeh's office|date=2008-03-02|accessdate=2008-03-02|author=Waked, Ali}}</ref><ref name="bbc article">{{Cite news|url=http://news.bbc.co.uk/2/hi/middle_east/7272329.stm|title=Dozens die in Israel-Gaza clashes|publisher=BBC News|date=2008-03-02|accessdate=2008-03-02}}</ref> . 
+
+Troops from the [[Givati Brigade]], [[Israeli Engineering Corps|Combat Engineering forces]] and the [[Armor Corps (Israel)|Armor Corps]] are also known to have been involved in the ground operation. The [[Israeli Air Force]] was also involved, carrying out airstrikes and providing tactical support for the ground troops. A source in the IDF said that the cooperation between ground and air forces was satisfactory. <ref name="initial article" /> . 
+
+From February 29 to March 1, Israel mostly carried out airstrikes at ammo warehouses, rocket factories, rocket warehouses and launching cells, combined with small incursions close to the border. Despite the IAF presence in the whole Gaza Strip and the IDF presence in  the border areas, the Palestinian militants managed to fire more than 200 rockets during the operation, most of them at Sderot, but at least 20 at Ashkelon and 1 at Netivot. 
+After a day in which 50 rockets were fired, IDF decided to change its strategy on March 2 and sent a whole regiment (about 2000 men) into the Northern Strip to occupy [[Jabalya]] and [[Sajiyah]] but met stiff resistance from the Palestinians. In the bloodiest day for Gaza since 2002, close to 70 civilians were killed. Military deaths totalled 4 Palestinian fighters<ref>[[Al Jazeera English]]: Palestinians killed in Gaza Raids</ref> and 2 Israeli soldiers.  . 
+
+On March 3, 2008 Israel, according to the IDF, was free to search for factories, terrorist infrastructure, Qassam warehouses and rocket launchers in the 2 towns. In the evening, Israel pulled out its troops from the Gaza Strip, but [[Israeli Prime Minister]] [[Ehud Olmert]] said the operation ended but Israel would soon return to counter the rocket firing and said the airstrikes "would continue". <ref name="bbc article 2" /> . 
+
+==Casualties==. 
+{{See also|Israeli casualties of war|Palestinian casualties of war}} . 
+
+As of March 4, 2008, 110 Palestinian fatalities have been reported. <ref>[http://news.bbc.co.uk/2/hi/middle_east/7277460.stm Abbas calls for Middle East truce]. [[BBC News]]. Tuesday, 4 March 2008</ref> While Israel claims that most casualties were militants, Palestinians say more than half of the killed were civilians. <ref name = "IHT">Kershner, Isabel. "[http://www.iht.com/articles/2008/03/02/africa/2submideast.php Abbas suspends contacts with Israel]," March 2, 2008, [[International Herald Tribune]]. </ref> March 1 has been noted as "the bloodiest day for Palestinians" since the [[Second intifada]] began in 2000, when almost half the dead were civilians including children. <ref name = EU/> Israeli [[human rights]] movement [[B'Tselem]] expressed its grave concern at "the large number of children and other uninvolved (Palestinian) civilians among those killed and wounded in the Gaza Strip". <ref name="bbc article 2" />  . 
+
+According to B'Tselem, there were 54 civilian casualties. <ref name="haaretz 2">{{Cite news|url=http://www.haaretz.com/hasen/spages/960338.html|title=Rights Group: More than 50% of Gaza casualties weren't militants|publisher=[[Haaretz]]|date=2008-03-03|accessdate=2008-03-03}}</ref> Civilian casualties included children, women and even infants. A 13-year-old Palestinian youth was also killed in the [[West Bank]] in the demonstrations staged by West Bank Palestinians in support of Hamas in Gaza. <ref name="hebrew wb article">{{Cite news|url=http://www.ynet.co.il/articles/0,7340,L-3513685,00.html|title=From Gaza to the (West) Bank: Youth Killed in Confrontation. Officer Wounded|publisher=[[Ynet]]|language=Hebrew|date=2008-03-02|accessdate=2008-03-02}}</ref> Militant deaths were mostly Hamas members, as well as some Islamic Jihad members, and one member of the PRC. <ref name="initial article">{{Cite news|url=http://www.ynetnews.com/articles/0,7340,L-3513113,00.html|publisher=[[Ynetnews]]|title=70 Palestinians killed in IDF operation in Gaza|date=2008-03-02|accessdate=2008-03-02|author=Greenberg, Hanan}}</ref> The [[Associated Press]] and other news outlets did not report that civilians accounted for the majority of Palestinian casualties, but that they accounted for "dozens". <ref name=haaretz>{{Cite news
+| title = Rocket damages Negev house; Medics: IDF kills Gaza civilian
+| work = Haaretz
+| accessdate = 2008-03-21
+| url = http://www.haaretz.com/hasen/spages/966549.html
+}}</ref><ref name=bernstein>{{Cite news
+| last = Bernstein
+| first = Alon
+| title = Israel Warns Gaza Invasion Impending
+| work = Associated Press
+| accessdate = 2008-03-21
+| date = 2008-02-29
+| url = http://ap.google.com/article/ALeqM5jD4YSkDPlclqd9dHvg2f0Ij18zEgD8V409HO0
+}}</ref><ref name=msnbc>{{Cite news
+| title = Israeli army kills 4 Palestinians - Israel-Palestinians
+| work = msnbc
+| accessdate = 2008-03-21
+| url = http://www.msnbc.msn.com/id/23594529/
+}}</ref><ref name=gradstein>{{Cite news
+| last = Gradstein
+| first = Linda
+| title = Gaza Neighborhood Caught in Crossfire of Attacks
+| work = NPR
+| accessdate = 2008-03-21
+| date = 2008-03-06
+| url = http://www.npr.org/templates/story/story.php?storyId=87938066
+}}</ref> Israel's attacks in Gaza aired prominently on Arab TV news channels. <ref name=gradstein/><ref name=keath>{{Cite news
+| last = Keath
+| first = Lee
+| title = al-Qaida's No. 2: Attack Israel, US
+| work = Associated Press
+| date = 2008-03-24
+| url = http://ap.google.com/article/ALeqM5g8P_VOCfdA1siZqJNohJ9mtuMGRgD8VKCFC8L
+}}</ref> . 
+
+While expressing regret for civilian casualties, Israeli Defense Minister Ehud Barak blamed "Hamas and those firing rockets at Israel," his office said in a statement, pledging to continue the offensive to protect Israeli towns and cities. The Israeli army said it was targeting rocket squads, and blamed militants for operating in populated areas. [[Associated Press]] photos showed rockets being launched from densely populated areas in northern Gaza. <ref name=bernstein/> On 5 March 2008, Prime Minister [[Ehud Olmert]]'s office announced that Israel would maintain its pressure on Hamas. Olmert did leave the door open to an unofficial truce with Hamas. "If there is no rocket fire at Israel, there won't be Israeli attacks on Gaza," he told reporters. Israeli government spokesman David Baker said Israel was "compelled to continue to take these defensive measures" to protect more than 200,000 Israelis living under the threat of Palestinian rocket barrages.Militants "hide behind their own civilians, using them as human shields, while actively targeting Israeli population centers," Baker said. "They bear the responsibility for the results." Israeli military spokeswoman Maj. Avital Leibovich called Saturday's action a "pinpoint operation" provoked by the rocket attack on Ashkelon earlier in the week. She blamed the high civilian toll on Hamas' practice of using homes to store and produce projectiles. "We are not targeting homes and we have no intentions of targeting uninvolved civilians," she said. "We will target launchers and Hamas militants, and bunkers." In Washington, [[United States National Security Council|National Security Council]] spokesman [[Gordon Johndroe]] expressed regret for loss of civilian life on both sides but put most of the blame on the Palestinians. "There is a clear distinction between terrorist rocket attacks that target civilians and action in self-defense," he said in a statement. <ref name=usatoday>{{Cite news
+| last = AP
+| title = Israelis target militants, killing 54 Palestinians
+| work = USA Today
+| accessdate = 2008-03-21
+| url = http://www.usatoday.com/news/world/2008-03-01-israel-palestine_N.htm
+| date=2008-03-01
+}}</ref> . 
+
+One Israeli 8 year-old had his leg amputated in a rocket attack. One Israeli civilian was killed in a rocket attack in Sderot. <ref name = "IHT"/>  Two Israeli soldiers were also killed by Hamas forces during an incursion into the Gaza Strip. <ref name="soldiers article">{{Cite news|url=http://www.ynetnews.com/articles/0,7340,L-3513311,00.html|publisher=[[Ynetnews]]|title=2 IDF soldiers killed in Gaza |date=2008-03-01|accessdate=2008-03-02|author=Greenberg, Hanan}}</ref> Soldiers from the Givati infantry brigade were wounded. <ref name="ynetnews.com"/> A much larger number of civilians have been wounded or treated for shock. The rocket attacks have caused widespread fear and hardship in Israeli border towns and have damaged millions of dollars worth of property, including schools. <ref name=iht>{{Cite news
+| last = AP
+| title = Rocket attack on city of 120,000 creates a new reality in Israel-Hamas conflict 
+| work = International Herald Tribune
+| accessdate = 2008-03-21
+| url = http://www.iht.com/articles/ap/2008/03/02/africa/ME-GEN-Israel-Shocked-City.php
+}}</ref> . 
+
+==Reactions==. 
+===Involved parties===. 
+*{{flagicon|Israel}} [[Israeli Prime Minister]] [[Ehud Olmert]] slammed criticism of Israel for the operation, and stated that Israel had no intention to stop it. He added that critics of Israel were not heard when Israeli civilians were being hurt. <ref name="olmert article">{{Cite news|url=http://www.ynetnews.com/articles/0,7340,L-3513585,00.html|title=Olmert: Don't preach morals to Israel|author=Sofer, Roni|date=2008-03-02|accessdate=2008-03-02|publisher=[[Ynetnews]]}}</ref> Israel has denied that it has committed war crimes. <ref name =Libya/>
+*{{flagicon|Palestine}} Palestinian President [[Mahmoud Abbas]] temporarily suspended contacts with Israel, with "Israeli aggression" as the stated reason. <ref name = "IHT"/> Palestinian observer to the United Nations referred to Israeli military actions as "war crimes". <ref name =Libya/>
+**[[File:Hamas flag2.png|22px]] A Hamas official declared that Israel has "crossed the line" by attacking Ismail Haniye's office building. <ref name="haniyeh article" /> [[Mahmoud az-Zahar]], a prominent Hamas leader, claimed that Israel lost in Operation Hot Winter, and that these were 5 black days for [[Ehud Barak|Barak]] and [[Ehud Olmert|Olmert]]. <ref name="compensation article">{{Cite news|url=http://www.ynetnews.com/articles/0,7340,L-3514237,00.html|title=Hamas vows to compensate Gazans hurt in IDF operation|author=Waked, Ali|date=2008-03-03|accessdate=2008-03-03}}</ref> . 
+
+===International===. 
+* {{flagicon|United Nations}} - [[United Nations Secretary-General|UN Secretary-General]] [[Ban Ki-Moon]] said "While recognizing Israel's right to defend itself, I condemn the disproportionate and excessive use of force that has killed and injured so many civilians, including children. I call on Israel to cease such attacks."<ref name="un article">{{Cite news|url=http://www.reuters.com/article/topNews/idUSN0127116720080302?feedType=RSS&feedName=topNews&rpc=22&sp=true|title=UN Security Council urges end of Gaza violence|publisher=[[Reuters]]|date=2008-03-02|accessdate=2008-03-02}}</ref> Ban also pointed out that there had been 26 Palestinian rocket attacks against Israel on that Saturday alone. "I condemn Palestinian rocket attacks and call for the immediate cessation of such acts of terrorism," he said. <ref name=charbonneau>{{Cite news
+| last = Charbonneau
+| first = Louis
+| title = UN Security Council urges end of Gaza violence
+| work = Reuters
+| accessdate = 2008-03-08
+| date = 2008-03-02
+| url = http://www.alertnet.org/thenews/newsdesk/N01271167.htm
+}}</ref>
+**<!-- Image with inadequate rationale removed: [[File:United Nations Human Rights Council logo.png|20px]]  -->The [[United Nations Human Rights Council]], in a resolution sponsored by [[Pakistan]] and Muslim countries, condemned Israeli military actions, expressing "shock at the bombardment of civilian homes in Gaza."   The resolution also urged all concerned parties, including Palestinian militants, to respect international human rights and humanitarian law and refrain from violence against civilian populations. <ref>{{Cite news
+| title =  UN rights body condemns Israeli military attacks in Gaza 
+| work = China view
+| accessdate = 2008-03-08
+| date = 2008-03-07
+| url = http://news.xinhuanet.com/english/2008-03/07/content_7734626.htm
+}}</ref> To some, the resolution is testimony to the argument that the [[United Nations Human Rights Council#Council's position on Israel|Council has been biased against Israel]]. <ref name=AP1>{{cite news|url=http://ap.google.com/article/ALeqM5gas24zdOxdQcBQRTEuKAHPpObsPgD8V84ELG0|title=UN Rights Council Condemns Israel|author=ELIANE ENGELER|publisher=[[Associated Press]]|date=March 6, 2008}}</ref><ref>[http://www.ajc.org/site/apps/nlnet/content2.aspx?c=ijITI2PHKoG&b=849241&ct=5092769 AJC: Swiss Support of UN Resolution on Israel Appalling]</ref><ref>[http://www.iht.com/articles/2008/03/09/opinion/edlet.php U.S. image problem; Watching human rights]</ref><ref>[http://www.garoweonline.com/artman2/publish/World_23/Condemning_Israeli_actions_in_Gaza_UN_rights_council_calls_for_end_to_all_attacks.shtml Condemning Israeli actions in Gaza, UN rights council calls for end to all attacks]</ref> [[Canada]] and [[European Union]] countries found the resolution imbalanced. <ref name=AP1/>
+**The UN delegations of the [[United Kingdom]], the [[United States]], and several [[Western world|West]]ern  countries rejected a draft resolution circulated by Libya (on behalf of Arab countries) for failing to point out that Israeli military attacks were launched in response to militants firing missiles. <ref name =Libya/><ref name=charbonneau/>
+**In a rare protest by members of the UN's most powerful body against one of their own members, several UN members walked out of a closed meeting of the Security Council after Libya compared the situation in Gaza to [[Nazi concentration camps]] in [[World War II]]. After the Libyan envoy made the comments, [[France]]'s ambassador walked out, immediately followed by the [[United States]], [[United Kingdom]], [[Belgium]], and [[Costa Rica]]. [[Dumisani Kumalo]], [[South Africa]]'s UN ambassador and the current council president, then ended the meeting.[http://english.aljazeera.net/NR/exeres/29DACF46-3620-435B-845D-EBF0BAE3C263.htm][http://fr.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1208870478925]
+* {{flagicon|Europe}} - [[President of the European Union|EU president]] [[Slovenia]] condemned both belligerents. <ref name = EU>"[http://www.reuters.com/article/featuredCrisis/idUSL02415205 EU presidency condemns attacks on Gaza]", [[Reuters]], Mar 2, 2008. </ref> Later, in an address to 27 EU leaders, [[Hans-Gert Poettering]] declared: "Only last Monday, at its plenary sitting, the European Parliament condemned in the strongest possible terms the appalling [[Mercaz HaRav massacre|murderous attack]] on a school in Jerusalem and the latest acts of violence perpetrated by [[Hamas]] and other Palestinian extremists. The bombardment of Israel from the Gaza Strip must stop. This kind of resistance is terrorism and cannot, therefore, be the subject of negotiations. At the same time, ignoring the population of Gaza and supplying them with only the barest humanitarian necessities cannot be part of a workable, long-term solution."<ref name=ejp>{{Cite news
+| title = EU parliament chief: ‘bombardment of Israel from Gaza must stop'
+| work = European Jewish Press
+| accessdate = 2008-03-21
+| url = http://www.ejpress.org/article/25455
+}}</ref>
+*[[Non-Aligned Movement]] - non-aligned movement passed a resolution condemning Israeli violence as "aggressive escalation". <ref>[http://domino.un.org/unispal.nsf/47d4e277b48d9d3685256ddc00612265/ece61671a474eff185257405004d8899!OpenDocument Statement of the Coordinating Bureau of the Non-Aligned Movement on the situation in the Occupied Palestinian Territory, including East Jerusalem]. Letter submitted by [[Rodrigo Malmierca Díaz]]</ref> . 
+
+* {{flag|Slovenia}} - Slovenia, which then held the Presidency of the [[European Union]], called Israeli attacks disproportionate and a violation of International law, and condemned the firing of rockets into Israel. <ref name = EU/> . 
+
+* {{flagicon|People's Republic of China}} [[People's Republic of China|China]] - [[People's Republic of China|Chinese]] Foreign Ministry spokesman Qin Gang said his country urged restraint. China also expressed "grave" concern over Palestinian casualties and called for an immediate end to the Israeli operation against the Palestinians. <ref>{{Cite news
+| last = 
+| title = China urges Israel, Palestine to exercise restraint   
+| work = China view
+| accessdate = 2008-03-03
+| date = 2008-03-04
+| url = http://news.xinhuanet.com/english/2008-03/03/content_7710612.htm}}</ref>
+* {{flag|Egypt}} - Egyptian head of intelligence Omar Suleiman put off a trip to Israel because of the latter's "onslaught on the Gaza Strip". Another date for the visit, he said, would depend on "Israel's commitment to international resolutions". <ref>{{Cite news
+| last = 
+| title = Top Egypt official delays Israel trip  
+| work = Gulf Daily News
+| accessdate = 2008-03-04
+| date = 2008-03-04
+| url = http://www.gulf-daily-news.com/Story.asp?Article=210546&Sn=WORL&IssueID=30350}}</ref>
+* {{flag|India}} - condemned the use of "disproportionate force" by Israel and called for an "immediate end to this cycle of violence." <ref>{{Cite news
+| last = 
+| title = India condemns use of force by Israel in Palestine
+| work = NDTV
+| accessdate = 2008-03-04
+| date = 2008-03-04
+| url = http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20080043096&ch=3/4/2008%2011:40:00%20PM
+}}</ref> India also began making preparations to ensure the safety of its 21 citizens living in [[Gaza]]. <ref>{{Cite news
+| last = 
+| title = India monitoring situation in Gaza; to ensure safety of NRIs
+| work = [[The Times of India]]
+| accessdate = 2008-03-04
+| date = 2008-03-03
+| url = http://timesofindia.indiatimes.com/World/India_monitoring_situation_in_Gaza_to_ensure_safety_of_NRIs/articleshow/2832609.cms
+}}</ref>
+* {{flag|Italy}} - The [[Italy|Italian]] foreign minister asked both sides to stop the violence. He also urged Israel to negotiate with Hamas, in reference to a truce offered by Hamas but refused by Israel. <ref>{{Cite news
+| last = Palmieri-Billig, Lisa. 
+| title = Italian FM: Negotiate with Hamas 
+| work = Jerusalem Post
+| accessdate = 2008-03-04
+| date = 2008-03-04
+| url = http://fr.jpost.com/servlet/Satellite?cid=1204546390877&pagename=JPost/JPArticle/ShowFull}}</ref>
+* {{flag|Libya|1977}} - Libya, representing Arab nations at the [[United Nations Security Council]], called for "an immediate cessation of all acts of violence, including military attacks and the firing of rockets, and calls upon all parties to respect [such a] ceasefire." It also objected to the categorization of Palestinian attacks as "terrorism". <ref name =Libya>{{Cite news
+| last = Penketh
+| first = Anne
+| title = US and Arab states clash at UN Security Council
+| work = The Independent
+| accessdate = 2008-03-08
+| date = 2008-03-03
+| url = http://www.independent.co.uk/news/world/politics/us-and-arab-states-clash-at-un-security-council-790465.html
+| location=London}}</ref>
+* {{flag|Kuwait}} - Kuwait called the attacks "senseless" and "unjust". <ref>{{Cite news
+| last = 
+| title = Kuwait slams attacks 
+| work = Arab Times
+| accessdate = 2008-03-04
+| date = 2008-03-02
+| url = http://www.arabtimesonline.com/client/pagesdetails.asp?nid=13116&ccid=9}}</ref>
+* {{flag|Mauritania}} - Mauritania, one of only three Arab League nations to keep relations with Israel, called on Israel to end the "collective punishment"<ref>"[http://www.afriquenligne.fr/news/daily-news/nouakchott-condemns-%22collective-punishment%22-of-gaza-population-2008030317000/ Nouakchott condemns "collective punishment" of Gaza population]" Afriquenligne, 03/03/2008. </ref> and the "bloodbath"of Gaza. In the capital, [[Nouakchott]], an estimated 3,000 students marched in protest denouncing "The Massacre of the Israeli Army". <ref>"[http://www.iht.com/articles/ap/2008/03/02/africa/AF-GEN-Mauritania-Gaza-Protest.php Mauritania calls on Israel to stop Gaza "bloodbath"]", [[International Herald Tribune]], 2008-03-02. </ref>
+* {{flag|Pakistan}} - Pakistan condemned the loss of life as result of Israeli attacks in Gaza, and urged restraint and respect for the right of self-determination of the Palestinians. <ref>{{Cite news
+| last = 
+| title = Pakistan condemns Israeli attack on Gaza
+| work = Pakistan Times
+| accessdate = 2008-03-04
+| date = 
+| url = http://www.pakistantimes.net/2008/03/03/top6.htm
+}}</ref>
+* {{flag|Saudi Arabia}} - The [[Saudi Press Agency]] called upon the international community to stop the "mass killings" that go against [[international law]] and humanitarian norms. <ref name=saudi>{{Cite news
+| last = Reuters
+| title = Saudi Arabia compares IDF Gaza operation to Nazi war crimes
+| work = Haaretz
+| accessdate = 2008-03-02
+| date = 2008-03-02
+| url = http://www.haaretz.com/hasen/spages/959882.html
+}}</ref>
+* {{flag|Turkey}} - [[Turkey|Turkish]] Prime Minister [[Recep Erdogan]] said "the attacks are killing children and civilians and that the attacks can have no humanitarian justification". Turkey also offered to mediate for Middle East peace, but the Erdogan said that Israel had rejected a diplomatic solution. Turkey is Israel's closest ally in the [[Muslim world]]. <ref name="haaretz 3" />
+*{{flagcountry|United States}} - The US delegation at the UN described Palestinian attacks on Israel as "acts of terrorism", in line with Mr Ban's statement to the council. The US, meanwhile, rejected a reference to the council's concern that Israel's response is "excessive". <ref name =Libya/> . 
+
+*[[Al-Qaeda]] - [[Osama bin Laden]] called for a holy war on behalf of the Palestinians and warned of a "severe" reaction against Europe over the republishing of newspaper cartoons seen as insulting Islam's Prophet Muhammad. [[Ayman al-Zawahri]] released a tape calling on Muslims to "strike the interests of the Jews, the Americans, and all those who participated in the attack on Muslims", and not to limit attacks in Israel, but "everywhere". Al-Zawahri also denounced Arab leaders he accused of supporting Israel — pointing to Egypt, Saudi Arabia and Jordan, suggesting they too could be targets. <ref name=keath/> . 
+
+==="Shoah" controversy===. 
+On 29 February, Israel's Deputy Defense Minister, [[Matan Vilnai]], said . 
+
+<blockquote>"As the rocket fire grows, and the range increases... they [Palestinians] are bringing upon themselves a greater 'Shoah' because we will use all our strength in every way we deem appropriate..."</blockquote> . 
+
+The term "[[Shoah (disambiguation)|shoah]]" in [[Hebrew]] means "disaster"; but Ha-Shoah (The Holocaust) is primarily used in Israel to refer to the [[Holocaust]], and is rarely used outside that context. As a result the wire service put out a story "Israel minister warns Palestinians of 'Holocaust'", provoking a controversy. <ref>{{Cite news|url=http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/middleeast/2008/February/middleeast_February359.xml&section=middleeast|title=Israel minister warns Palestinians of “shoah”|author= Reuters|date=2008-02-29|accessdate=2008-03-03|publisher=[[Khaleej Times]]}}</ref><ref name = Shoah>{{Cite news|url=http://fr.jpost.com/servlet/Satellite?cid=1204214002068&pagename=JPost/JPArticle/ShowFull|title='Shoah' remark sparks uproar|author= Lefkovits, Etgar|date=2008-03-02|accessdate=2008-03-02|publisher=[[The Jerusalem Post]]}}</ref><ref>"[http://news.bbc.co.uk/2/hi/middle_east/7270650.stm Israel warns of invasion of Gaza]," [[BBC News]] 29 February 2008. </ref> Vilnai's spokesman later insisted that he meant only meant "disaster, ruin or destruction" and not "genocide". <ref name = Shoah/> . 
+
+[[President of the Palestinian National Authority|Palestinian President]] [[Mahmoud Abbas]] responded to Vilinai's comments by stating that Israel's attacks were "more than a [[holocaust]]",<ref name="bbc article" /> while Hamas Chairman [[Khaled Mashaal]] also claimed that they were "the real holocaust". <ref name="bbc article" /> . 
+
+Vilnai's comments were reported by several news agencies: [[The Guardian]] ran it under the headline "Israeli minister warns of Palestinian 'Holocaust'", [[The Times]] stated "Israel threatens to unleash 'Holocaust' in Gaza". <ref name = Shoah/> The [[Saudi Press Agency]] compared Israel's actions to "[[Nazi war crimes]]". <ref name=saudi/> . 
+
+==See also==. 
+*[[Violence in the Israeli-Palestinian conflict 2008]]
+*[[Rocket and mortar attacks on southern Israel]]
+*[[Mercaz HaRav shooting]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+{{Gaza crisis}}
+{{Israeli-Palestinian Conflict}}
+{{Arab-Israeli Conflict}} . 
+
+[[Category:2007–2008 Israel–Gaza conflict]]
+[[Category:Battles of the Second Intifada]]
+[[Category:Israeli operations against terror]]

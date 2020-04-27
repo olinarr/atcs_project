@@ -1,0 +1,349 @@
+{{Redirect|DEA}}
+{{Infobox Law enforcement agency
+| agencyname      = Drug Enforcement Administration
+| nativename      =
+| nativenamea     =
+| nativenamer     =
+| commonname      =
+| abbreviation    = DEA
+| patch           =
+| patchcaption    =
+| seal            = US-DrugEnforcementAdministration-Seal.svg
+| sealcaption     = Seal of the Drug Enforcement Administration
+| badge           = DEA badge C.PNG
+| badgecaption    =
+| flag            =
+| flagcaption     =
+| imagesize       = 200
+| mission         =
+| formedyear      = 1973
+| formedmonthday  = July 1
+| preceding1      = [[Bureau of Narcotics and Dangerous Drugs]]
+| preceding2      = [[Office of Drug Abuse Law Enforcement]]
+| dissolved       =
+| superseding     =
+| employees       = 10,784 (2009)
+| volunteers      =
+| budget          =  [[United States dollar|US$]]2.415 billion (2010)
+| nongovernment   =
+| country         = United States
+| countryabbr     =
+| federal         = yes
+| map             =
+| mapcaption      =
+| sizearea        =
+| sizepopulation  =
+| legaljuris      =
+| governingbody   =
+| governingbodyscnd =
+| constitution1   =
+| police          =
+| local           =
+| military        =
+| religious       =
+| speciality      =
+| overviewtype    =
+| overviewboy     =
+| headquarters    = [[Arlington, Virginia|Arlington]], [[Virginia]]
+| hqlocmap        =
+| hqlocleft       =
+| hqloctop        =
+| hqlocmappoptitle =
+| sworntype       = [[Special Agent]]
+| sworn           = 4,890
+| unsworntype     =
+| unsworn         =
+| electeetype     =
+| minister1name   =
+| minister1pfo    =
+| chief1name      = [[Michele Leonhart]]
+| chief1position  = Administrator
+| chief2name      = [[Thomas M. Harrigan]]
+| chief2position  = Chief of Operations
+| parentagency    = [[United States Department of Justice]]
+| child1agency    =
+| unittype        =
+| unitname        =
+| officetype      =
+| officename      =
+| provideragency  =
+| uniformedas     =
+| stationtype     =
+| stations        =
+| airbases        =
+| lockuptype      =
+| lockups         =
+| vehicle1type    =
+| vehicles1       =
+| boat1type       =
+| boats1          =
+| aircraft1type   =
+| aircraft1       =
+| animal1type     =
+| animals1        =
+| person1name     =
+| person1reason   =
+| person1type     =
+| programme1      =
+| activity1name   =
+| activitytype    =
+| anniversary1    =
+| award1          =
+| website         = http://www.usdoj.gov/dea/
+| footnotes       =
+| reference       =
+}}
+The '''Drug Enforcement Administration''' ('''DEA''') is a federal [[law enforcement agency]] under the [[United States Department of Justice]], tasked with combating [[drug smuggling]] and use within the [[United States]]. Not only is the DEA the lead agency for domestic enforcement of the [[Controlled Substances Act]], sharing [[concurrent jurisdiction]] with the [[Federal Bureau of Investigation]] (FBI) and [[Immigration and Customs Enforcement]] (ICE), it also has sole responsibility for coordinating and pursuing U.S. drug investigations abroad.  . 
+
+==History and mandate==. 
+[[Image:DEA-Agents.jpeg|thumb|left|Two DEA agents in a [[shooting range|shoot house]] exercise]] . 
+
+The Drug Enforcement Administration* was established on 1 July 1973, by Reorganization Plan No. 2 of 1973, signed by [[President of the United States|President]] [[Richard Nixon]] on 28 July 1973. <ref>{{cite web |url=http://www.learning-for-life.org/exploring/scholarships/pdf/dea.pdf |work=Learning for Life |title=Drug Enforcement Administration: Drug Abuse Prevention Service Award |accessdate=2007-12-13|format=PDF}}</ref> It proposed the creation of a single [[federal agency]] to enforce the [[federal drug laws]] as well as consolidate and coordinate the government's [[drug control]] activities. [[United States Congress|Congress]] accepted the proposal, as they were concerned with the growing availability of drugs. <ref>{{cite web|url=http://www.deamuseum.org/dea_history_book/1970_1975.htm|title=History of the DEA: 1970 - 1975|publisher=deamuseum.org DEA museum|accessdate=2007-04-30 |archiveurl = http://web.archive.org/web/20070928044643/http://www.deamuseum.org/dea_history_book/1970_1975.htm <!-- Bot retrieved archive --> |archivedate = 2007-09-28}}</ref> As a result, the [[Bureau of Narcotics and Dangerous Drugs]] (BNDD), the [[Office of Drug Abuse Law Enforcement]] (ODALE), and other federal offices merged together to create the DEA. <ref name=pbs>{{cite web|url=http://www.pbs.org/wgbh/pages/frontline/shows/dope/etc/cron.html|title=Marijuana Timeline|accessdate=2007-04-23|publisher=[[Public Broadcasting Service]]}}</ref> . 
+
+From the early 1970s, DEA headquarters was located at 1405 I ("Eye") Street NW in downtown [[Washington, D.C.]] With the overall growth of the agency in the 1980s (owing to the increased emphasis on federal drug law enforcement efforts) and a concurrent growth in the headquarters staff, DEA began to search for a new headquarters location; locations in [[Arkansas]], [[Mississippi]], and various abandoned military bases around the U.S. were considered. However, then-[[United States Attorney General|Attorney General]] [[Edwin Meese]] determined that the headquarters had to be located in close proximity to the Attorney General's office. Thus, in 1989, the headquarters relocated to 600-700 [[Army-Navy Drive]] in the [[Pentagon City, Arlington, Virginia|Pentagon City]] area of Arlington, Virginia, near the [[Pentagon City (Washington Metro)|Metro]] station with the same name. <ref>{{cite web|url=http://www.usdoj.gov/dea/pubs/history/1985-1990.html |title=DEA History Book, 1985 - 1990 |publisher=Usdoj.gov |date= |accessdate=2011-08-31}}</ref> . 
+
+On 19 April 1995, [[Timothy McVeigh]] attacked the [[Alfred P. Murrah Federal Building]] in [[Oklahoma City]] because it housed regional offices for the FBI, [[Bureau of Alcohol, Tobacco, Firearms and Explosives]] (ATF), and DEA, all of which had carried out raids that he viewed as unjustified intrusions on the rights of the people;<ref>{{cite book|author=Michel, Lou and Herbeck, Dan|title=American Terrorist}}</ref> this attack caused the deaths of two DEA employees, one task force member, and two contractors in the [[Oklahoma City bombing]]. Subsequently, the DEA headquarters complex was classified as a Level IV installation under [[United States federal building security]] standards, meaning it was to be considered a high-risk law enforcement target for terrorists. <ref>http://www.protectiveglazing.org/resources/Anti-Terrorism%20-%20Criteria,%20Tools%20and%20Technology.pdf</ref> Security measures include hydraulic steel roadplates to enforce [[standoff distance]] from the building, metal detectors, and guard stations. <ref>{{cite web|author=|url=http://www.cannabisculture.com/articles/1797.html |title=The DEA museum &#124; Cannabis Culture Magazine |publisher=Cannabisculture.com |date=2009-12-15 |accessdate=2011-08-31}}</ref> . 
+
+In February 2003, the DEA established a Digital Evidence Laboratory within its Office of Forensic Sciences. <ref name=History>{{cite web|url=http://www.dea.gov/pubs/history/1999-2003.html|title=1999-2003|accessdate=2007-06-03|publisher=DEA}}</ref> . 
+
+== Organization ==. 
+[[Image:DEA-divisions.png|left|thumb|Map of the 21 DEA domestic field divisions: 1. [[Atlanta]], 2. [[Boston]], 3. [[Chicago]], 4. [[Dallas]], 5. [[Denver]], 6. [[Detroit]], 7. [[El Paso]], 8. [[Houston]], 9. [[Los Angeles]], 10. [[Miami]], 11. [[Newark, New Jersey|Newark]], 12. [[New Orleans]], 13. [[New York]], 14. [[Philadelphia]], 15. [[Phoenix, Arizona|Phoenix]], 16. [[San Diego]], 17. [[San Francisco]], 18. [[Seattle]], 19. [[St. Louis]], 20. Caribbean, 21. [[Washington, D.C.]]]] . 
+
+The DEA is headed by an ''Administrator of Drug Enforcement'' appointed by the [[President of the United States]] and confirmed by the [[United States Senate|U.S. Senate]]. The Administrator reports to the [[United States Attorney General|Attorney General]] through the [[United States Deputy Attorney General|Deputy Attorney General]]. <ref>{{cite web
+|url=http://a257.g.akamaitech.net/7/257/2422/08aug20051500/edocket.access.gpo.gov/cfr_2005/julqtr/pdf/28cfr0.102.pdf |work=Department of Justice |title=Title 28, C.F.R., Part 0.102 |page=57 |accessdate=2007-04-28|format=PDF}}</ref> The Administrator is assisted by a Deputy Administrator, the Chief of Operations, the Chief Inspector, and three Assistant Administrators (for the Operations Support, Intelligence, and Human Resources Divisions). Other senior staff include the Chief Financial Officer and the Chief Counsel. The Administrator and Deputy Administrator are the only Presidentially-appointed personnel in the DEA; all other DEA officials are career government employees. DEA's headquarters is located in [[Arlington, Virginia|Arlington]], [[Virginia]] across from the [[The Pentagon|Pentagon]]. It maintains its own DEA Academy located on the [[United States Marine Corps]] base at [[Quantico, Virginia|Quantico]], [[Virginia]] along with the [[FBI Academy]]. It maintains 21 domestic field divisions with 227 field offices and 86 foreign offices in 62 countries. <ref>{{cite web|url=http://www.usdoj.gov/dea/agency/domestic.htm|title=DEA Office Locations|publisher=DEA|accessdate=2008-07-09}}</ref> With a budget exceeding 2.415 billion dollars, DEA employs over 10,800 people, including over 5,500 [[Special Agents]]. Becoming a Special Agent with the DEA is a competitive process.  . 
+
+===Structure===. 
+*Administrator
+**Deputy Administrator
+***Human Resource Division
+****Career Board
+****Board of Professional Conduct
+****Office of Training
+***Operations Division
+****Aviation Division
+****Office of Operations Management
+****Special Operations Division
+****Office of Diversion Control
+****Office of Global Enforcement
+****Office of Financial Operations
+***Intelligence Division
+****Office of National Security Intelligence
+****Office of Special Intelligence
+****El Paso Intelligence Center
+****OCDETF Fusion Center
+***Financial Management Division
+****Office of Acquisition and Relocation Management
+****Office of Finance
+****Office of Resource Management
+***Operational Support Division
+****Office of Administration
+****Office of Information System
+****Office of Forensic Science
+****Office of Investigative Technology
+***Inspection Division
+****Office of Inspections
+****Office of Professional Responsibility
+****Office of Security Programs
+***Field Divisions and Offices . 
+
+===Agents===. 
+After receiving a conditional offer of employment, recruits must then make it through a 16 week rigorous training which consist of 
+firearms proficiency including basic marksmanship, weapons safety, tactical shooting, and deadly force decision training. In order to graduate, students must maintain an academic average of 80 percent on academic examinations, pass the firearms qualification test, successfully demonstrate leadership and sound decision-making in practical scenarios, and pass rigorous physical task tests. Upon graduation, recruits earn themselves the title of DEA Special Agent.  . 
+
+Job applicants who have a history of any drug use are excluded from consideration. Investigation usually includes a polygraph test for special agent, diversion investigator, and intelligence research specialist positions.  . 
+
+{{bquote|Applicants who are found, through investigation or personal admission, to have experimented with or used narcotics or dangerous drugs, except those medically prescribed, will not be considered for employment with the Drug Enforcement Administration (DEA). Exceptions to this policy may be made for applicants who admit to limited youthful and experimental use of [[cannabis (drug)|marijuana]]. Such applicants may be considered for employment if there is no evidence of regular, confirmed usage and the full-field background investigation and results of the other steps in the process are otherwise favorable. <ref>{{cite web
+| url=http://www.usdoj.gov/dea/job/agent/bef_drugQuest.html
+| work=U.S. Drug Enforcement Administration
+| title=Drug Questionnaire
+| accessdate=2007-04-28
+}}</ref>}} . 
+
+The DEA's relatively firm stance on this issue is in contrast to that of the [[Federal Bureau of Investigation]], which, in 2005, considered relaxing its hiring policy relevant to individual drug use history. <ref>{{cite web|url=http://www.msnbc.msn.com/id/9646619/from/RL.4/ |title=FBI may relax hiring policy on drug use|publisher=MSNBC |date=2005-10-09 |accessdate=2011-08-31}}</ref> . 
+
+[[Image:DEA - Office of Aviation Operations emblem.gif|right|150px|thumb|DEA Aviation Division logo]] . 
+
+===Aviation Division===. 
+The DEA Aviation Division or Office of Aviation Operations (OA) (formerly Aviation Section) is an airborne division based in [[Fort Worth Alliance Airport]], Texas. The current OA fleet consists of 106 aircraft and 124 DEA pilots. <ref>{{cite web
+| url=http://www.usdoj.gov/dea/programs/aviation.htm
+| work=U.S. Drug Enforcement Administration
+| title=Inside the DEA > DEA Programs > Aviation
+| accessdate=2008-09-13
+}}</ref> . 
+
+The DEA shares a communications system with the [[United States Department of Defense|Department of Defense]] for communication with state and regional enforcement independent of the [[United States Department of Justice|Department of Justice]] and police information systems and is coordinated by an information command center called the [[El Paso Intelligence Center]] (EPIC) near [[El Paso, Texas]].  . 
+
+===Foreign-deployed Advisory and Support Teams===. 
+As of January 2010, FAST fields five teams.  One team is always stationed in [[Afghanistan]] conducting [[Counter Narcotics]] (CN), [[Counter Terrorism]] (CT), [[direct action (military)|Direct Action]] (DA) missions.  The remaining four teams are stationed at [[Marine Corps Base Quantico]], Virginia.  FAST originally was created to solely conduct missions in [[Afghanistan]] but has evolved into a global action arm for the [[US Department of Justice]] and DEA.  . 
+
+Selection for FAST is extremely difficult; attrition rates are usually above 50%.  Selection is rumored to last 8 weeks where events such as timed runs, timed ruck sack marches, land navigation and many other events are conducted daily. 
+Once selection is complete, advanced training begins with emphasis in small unit tactics, and [[close quarters battle]].  . 
+
+== Budget == . 
+
+The 2010 DEA budget was directed toward three of five major goals of U.S. drug eradication:<ref>{{cite web|url=http://www.ncjrs.gov/ondcppubs/publications/policy/budget98/agency-09f.html|title=IV. Agency Budget Summaries: Drug Enforcement Administration |publisher=Office of National Drug Control Policy}}</ref> . 
+
+* [[Demand reduction]] ($3.3 million) via anti-[[Drug legalization|legalization]] education, training for law enforcement personnel, youth programs, support for community-based coalitions, and sports drug awareness programs.  . 
+
+* Reduction of [[drug-related crime]] and violence ($181.8 million) funding state and local teams and mobile enforcement teams.  . 
+
+* Breaking foreign and domestic sources of supply ($1.0149 billion) via domestic cannabis eradication/suppression; domestic enforcement; research, engineering, and technical operations; the [[Foreign Cooperative Investigations Program]]; intelligence operations ([[financial intelligence]], [[operational intelligence]], [[strategic intelligence]], and the [[El Paso Intelligence Center]]); and drug and chemical diversion control.  . 
+
+==Firearms==. 
+DEA agents' primary service weapons are the [[Glock 22]] and [[Glock 23]] in [[.40 S&W]] caliber ammunition, DEA agents can also qualify to use the [[Glock 27]] and [[SIG Pro]] in .40 S&W. They also have the option of using the newly appointed [[Smith & Wesson M&P]] series pistol. [[Heckler & Koch UMP|H&K UMP40]] in .40 S&W is the standard SMG. Shotguns such as the [[Remington 870]] are used. They use assault rifles like [[Rock River Arms|Rock River Arms CAR-A4 DEA Carbine]]. In June 11, 2009, DEA made a contract with LWRC rifle company and DEA agents are now using their new LWRCI M6A2 Carbines as their new personal duty service rifle. 
+DEA Special Agents (SAs) may also qualify with their own personally-owned handguns.  Certain handguns are allowed to be used with permission from the DEA Firearms office in Quantico, VA.  DEA SAs are required to qualify on all assigned weapons quarterly.  . 
+
+== Impact on the drug trade ==. 
+[[File:Deakhat.jpg|thumb|right|220px|"Operation Somalia Express" was an 18-month investigation which included the coordinated takedown of a 44-member international narcotics-trafficking organization responsible for smuggling more than 25 tons of [[khat]] from the [[Horn of Africa]] to the [[United States]].]]
+{{Main|Illegal drug trade}} . 
+
+In 2005, the DEA seized a reported $1.4 billion in drug trade related assets and $477 million worth of drugs. <ref>{{cite web
+| url=http://www.dea.gov/pubs/pressrel/pr122805.html
+| work=dea.gov
+| title=Drug Enforcement Administration Highlights Year’s Accomplishments
+| date=December 28, 2005
+| accessdate=2007-04-28
+}}</ref> However, according to the White House's [[Office of Drug Control Policy]], the total value of all of the drugs sold in the U.S. is as much as $64 billion a year,<ref>{{cite web
+| url=http://www.whitehousedrugpolicy.gov/publications/drugfact/american_users_spend/index.html
+| work=Office of National Drug Control Policy
+| title=What America's Users Spend on Illegal Drugs 1988–1998
+| month=December | year=2000
+| accessdate=2007-04-28
+|archiveurl = http://web.archive.org/web/20070312034207/http://www.whitehousedrugpolicy.gov/publications/drugfact/american_users_spend/index.html <!-- Bot retrieved archive --> |archivedate = 2007-03-12}}</ref> making the DEA's efforts to intercept the flow of drugs into and within the U.S. less than 1% effective. Defenders of the agency's performance record argue that the DEA has had a positive effect beyond their relatively small annual seizures by placing pressure on traffickers, raising prices for consumers which may reduce the affordability of drugs {{Citation needed|date=August 2008}}.  . 
+
+Critics of this theory (including the [[Nobel Prize]] winning economist [[Milton Friedman]], prior to his death a member of [[Law Enforcement Against Prohibition]]) point out that demand for illegal drugs is [[inelastic]]; the people who are buying drugs will continue to buy them with little regard to price, often turning to crime to support expensive drug habits when the drug prices rise. One recent study showed that the price of cocaine and methamphetamine is the highest it has ever been while the quality of both is at its lowest point ever. <ref>{{cite web|url=http://www.usdoj.gov/dea/pubs/pressrel/pr121108.html |title=News from DEA, News Releases, 12/11/08 |publisher=Usdoj.gov |date= |accessdate=2011-08-31}}</ref> This is contrary to a collection of data done by the Office of National Drug Control Policy, which states that purity of street drugs has increased, while price has decreased. <ref>Figure 4 Source: ONDCP. 1998 National Drug Control Strategy. Table 20. </ref><ref>Figure 5 Source: ONDCP. 1998 National Drug Control Strategy. Table 20. </ref><ref>{{cite book|url=http://books.google.com/books?id=dwGpsNjv_1kC&pg=PA106&lpg=PA106&dq=ONDCP+national+drug+control+strategy+1998+heroin+purity+increase&source=bl&ots=MSppZTF1L5&sig=9LBRE7EXj8cNH7NEvADPL0Nh2Mg&hl=en&ei=Cn-sSaepNYi5nQen3bG_Bg&sa=X&oi=book_result&resnum=5&ct=result#PPA107,M1 |title='&#39;Lies, Damn Lies and Drug War Statistics'&#39; |publisher=Books.google.com |date= |accessdate=2011-08-31}}</ref>  In sharp contrast to the statistics presented by the DEA, the United States Department of Justice released data in 2003 showing that purity of methamphetamine was on the rise. <ref>[http://www.usdoj.gov/ndic/pubs11/13853/avail.htm ]{{dead link|date=August 2011}}</ref> . 
+
+== Narcotics registration ==. 
+The DEA has a registration system in place which authorizes medical professionals, researchers and manufacturers access to "[[Controlled Substances Act|Schedule I]]" drugs, as well as Schedules 2, 3, 4 and 5. Authorized registrants apply for and, if granted, receive a "[[DEA number]]". An entity that has been issued a DEA number is authorized to manufacture (drug companies), distribute, research, prescribe (doctors, nurse practitioners and physician assistants, etc.) or dispense  (pharmacy) a controlled substance.  . 
+
+== Diversion control system ==. 
+Many problems associated with [[drug abuse]] are the result of legitimately-manufactured controlled substances being diverted from their lawful purpose into the illicit drug traffic. Many of the [[narcotics]], depressants and stimulants manufactured for legitimate medical use are subject to abuse, and have therefore been brought under legal control. The goal of controls is to ensure that these "controlled substances" are readily available for medical use, while preventing their distribution for illicit sale and abuse.  . 
+
+Under federal law, all businesses which manufacture or distribute controlled drugs, all health professionals entitled to dispense, administer or prescribe them, and all [[Pharmacy|pharmacies]] entitled to fill prescriptions must register with the DEA. Registrants must comply with a series of regulatory requirements relating to drug security, records accountability, and adherence to standards.   . 
+
+All of these investigations are conducted by Diversion Investigators (DIs). DIs conduct investigations to uncover and investigate suspected sources of diversion and take appropriate civil and administrative actions.  . 
+
+{{Citation needed|date=October 2008}} . 
+
+== MDMA DEA scheduling overturn ==. 
+In 1985 [[MDMA]] and its analogues were under review by the American government as a drug for potential of abuse. During this time, several public hearings on the new drug were held by the DEA. Based on all of the evidence and facts presented at the time, the DEA's administrative law judge did not see MDMA and its analogues as being of large concern and recommended that they be placed in Schedule III. The DEA administrator, expressing concern for abuse potential, overruled the recommendation and ruled that MDMA be put in Schedule I, the [[Controlled Substances Act|Controlled Substances Act's]] most restrictive category. <ref>{{cite web|url=http://www.drugtext.org/library/research/mdma/archive/15/default.htm |title=24 MDMA, Chorles S. Grob and Russell E Polond |publisher=Drugtext.org |date= |accessdate=2011-08-31}}</ref><ref>Video Documentary: "Hooked - Illegal Drugs and How They Got That Way: LSD, Ecstasy and Raves",The History Channel</ref><ref>[http://www.maps.org/dea-mdma/,"Documents from the DEA Scheduling Hearing of MDMA, 1984-1988]</ref> . 
+
+== Criticism ==. 
+[[File:DEA badge.PNG|thumb|right|150px|Drug Enforcement Administration 25th Anniversary badge]]
+The DEA has been criticized for placing highly restrictive schedules on a few drugs which researchers in the fields of [[pharmacology]] and [[medicine]] regard as having medical uses. Critics assert that some such decisions are motivated primarily by political factors stemming from the U.S. government's [[War on Drugs]], and that many benefits of such substances remain unrecognized due to the difficulty of conducting scientific research. A counterpoint to that criticism is that under the [[Controlled Substances Act]] it is the [[United States Department of Health and Human Services|Department of Health and Human Services]] (through the [[Food and Drug Administration]] and the [[National Institute on Drug Abuse]]), not the DEA, which has the legal responsibility to make scientific and medical determinations with respect to drug scheduling; no drug can be scheduled if the Secretary of Health and Human Services recommends against it on a scientific or medical basis, and no drug can be placed in the most restrictive schedule ([[List of Schedule I drugs|Schedule I]]) if DHHS finds that the drug has an accepted medical use. [[Jon Gettman]]'s essay ''Science and the End of Marijuana Prohibition'' describes the DEA as "a fall guy to deflect responsibility from the key decision-makers" and opines, "HHS calls the shots when it comes to marijuana prohibition, and the cops at DEA and the general over at [[Office of National Drug Control Policy|ONDCP]] take the heat."<ref>[http://www.millionmarijuanamarch.com/mmm1_047.htm ]{{dead link|date=August 2011}}</ref> . 
+
+The DEA is also criticized for focusing on the operations from which it can seize the most money,<ref>{{cite web|url=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=959869 |title=Policing for Profit: The Drug War's Hidden Economic Agenda |publisher=Papers.ssrn.com |date=2007-01-29 |accessdate=2011-08-31}}</ref> namely the [[organized crime|organized]] cross-border trafficking of [[heroin]] and [[cocaine]]. Some individuals contemplating the nature of the DEA's charter advise that, based on order of popularity, the DEA should be most focused on marijuana. Others suggest that, based on [[opiate]] popularity, the DEA should focus much more on [[medical prescription|prescription]] opiates used recreationally, which critics contend is far more widespread than [[heroin]] use. Some scheduled substances are extremely rare, with no clear reason behind the scheduling of [[4-Methyl-aminorex]] or [[bufotenine]].  . 
+
+[[Practitioner]]s who legally prescribe [[medicine]] however must possess a valid DEA license.  According to federal law the budget of the entire DEA is to be paid by these license fees.  In 1984 a three year license cost $25.  In 2009 the fee for a three year license was $551.  Some have likened this approach to license fees unreasonable, "like making pilot licenses support the entire FAA [ [[Federal Aviation Authority]] ] budget."   . 
+
+The total cost of the DEA from 1972 to 2009 according to the agency website was  $536,367,800,000.00 with 10,784 employees in 2009. For the data available for the years 1986 to 2009, the [[average]] cost per arrest made was  $9,893.09 <ref>{{cite web|url=http://www.justice.gov/dea/agency/staffing.htm |title=DEA Staffing & Budget |publisher=Justice.gov |date= |accessdate=2011-08-31}}</ref>   . 
+
+Others, such as the [[Cato Institute]]<ref>{{cite web
+|url=http://www.cato.org/pubs/handbook/hb109/hb_109-24.pdf
+|work=Cato Handbook on Policy
+|title=The war on drugs
+|last=Boaz
+|first=David
+|authorlink=David Boaz
+|coauthors=Timothy Lynch
+|publisher=Cato Institute
+|pages=253–260
+|date=2004-08-12
+|accessdate=2007-05-03
+|format=PDF}}</ref> and the [[Drug Policy Alliance]]<ref>{{cite web
+|url=http://www.drugpolicy.org/about/mission/
+|title=Mission and Vision
+|author=Drug Policy Alliance
+|authorlink=Drug Policy Alliance
+|accessdate=2007-05-03
+}}</ref> criticize the very existence of the DEA and the War on Drugs as both hostile, and contrary, to the concept of [[civil liberties]] by arguing that anybody should be free to put any substance they choose into their own bodies for any reason, particularly when legal [[drugs]] such as [[alcohol]], [[tobacco]] and [[prescription drug]]s are also open to abuse, and that any harm caused by a drug user or addict to the general public is a case of conflicting civil rights. Recurrently, billions of dollars are spent yearly, focusing largely on [[criminal law]] and [[demand reduction]] campaigns, which has resulted in the imprisonments of thousands of U.S. citizens. <ref>{{cite web|url=http://www.usdoj.gov/dea/pubs/pressrel/pr021099.htm |title=News from DEA, News Releases, 02/10/99 |publisher=Usdoj.gov |date= |accessdate=2011-08-31}}</ref> Demand for recreational drugs is somewhat static as the market for most illegal drugs has been saturated, forcing the cartels to expand their market to Europe and other areas than the United States.{{Citation needed|date=February 2008}} United States federal law registers cannabis as a Schedule I drug,<ref>{{cite web|url=http://www.usdoj.gov/dea/pubs/scheduling.html |title=DEA, Drug Scheduling |publisher=Usdoj.gov |date= |accessdate=2011-08-31}}</ref> yet it is common for illicit drugs such as cannabis to be widely available in most urban, suburban, and even rural areas in the United States, which leads drug legalization proponents to claim that drug laws, like most other laws, have little effect on those who choose not to obey them, and that the resources spent enforcing drug laws, as well as many other laws, are wasted. As it relates to the DEA specifically, the vast majority of individual arrests stemming from illegal drug possession and distribution are narrow and more local in scope and are made by local law enforcement officers, while the DEA tends to focus on larger, interstate and international distribution networks and the higher ranking members of such organizations in addition to operating in conjunction with other local, state, and federal law enforcement agencies along U.S. borders.{{Citation needed|date=February 2007}} . 
+
+Some groups advocate legalization of certain controlled substances under the premise that doing so may reduce the volume of illicit trafficking and associated crime as well as yield a valuable tax source, although some of the results of drug legalization have raised doubt about some of these beliefs. For example, [[marijuana]] is now available as a [[palliative]] agent, in [[Canada]], with a medical prescription. Yet 86% of Canadians with HIV/AIDS, eligible for a prescription, continue to obtain marijuana illegally (AIDS Care. 2007 Apr;19(4):500-6.) However, this could be due to the availability or quality of illegal cannabis compared to provisions by government sources.  Bureaucratic impediments may also discourage patients from actually attempting to receive it from the government.  . 
+
+The DEA was accused in 2005 by the [[Venezuela]]n [[Government of Venezuela|government]] of collaborating with drug traffickers, after which President [[Hugo Chávez]] decided to end any collaboration with the agency. In 2007, after the [[United States Department of State|U.S. State Department]] criticized Venezuela in its annual report on drug trafficking, the Venezuelan Minister of Justice reiterated the accusations: "A large quantity of drug shipments left the country through that organization,...[]..We were in the presence of a new [[drug cartel]]."<ref>{{cite web
+|url=http://www.nctimes.com/articles/2007/03/03/news/nation/20_41_553_2_07.txt
+|work=New County Times
+|title=Venezuela rejects U.S. drug report, accuses DEA of collaborating with traffickers
+|author=Christopher Toothaker
+|date=
+|accessdate=2007-03-02
+}}</ref> . 
+
+In the [[Netherlands]], both the [[Politics of the Netherlands|Dutch government]] and the DEA have been criticized for violations of Dutch sovereignty in drug investigations. According to Peter R. de Vries, a Dutch journalist present at the 2005 trial of Henk Orlando Rommy, the DEA has admitted to activities on Dutch soil. Earlier, then minister of justice Piet Hein Donner, had denied to the [[States-General of the Netherlands|Dutch parliament]] that he had given permission to the DEA for any such activities, which would have been a requirement by Dutch law in order to allow foreign agents to act within the territory. <ref>{{cite web
+|url=http://www.peterrdevries.nl/programma/textprogramma021005.htm
+|title=Dossier: De zwarte Cobra
+|last=de Vries
+|first=Peter R. 
+|work=Programma
+|language=Dutch
+|date=2005-10-02
+|accessdate=2007-05-12
+}}</ref> . 
+
+== Raids on medical marijuana dispensaries ==. 
+[[Image:DEA Raid protest.jpg|thumb|right|People protesting [[medical marijuana]] raids]]<!-- Image with unknown copyright status removed: [[Image:Stop arresting patients.jpg|thumb|right|People protesting DEA arrests on medical marijuana users]] --> . 
+
+The DEA has taken a particularly strong stance on enforcement of the Controlled Substances Act on persons and organizations acting within state laws that allow [[medical cannabis]] cultivation and distribution. <ref>{{cite web|url=http://www.cbsnews.com/stories/2007/01/18/national/main2369758.shtml |title=Feds Raid 11 Medical Marijuana Clinics, DEA Does Not Recognize California Law legalizing medical use of pot |publisher=Cbsnews.com |date= |accessdate=2011-08-31}}</ref> . 
+
+"The people of California and the County of Santa Cruz have overwhelmingly supported the provision of [[medical marijuana]] for people who have serious illnesses," county Supervisor [[Mardi Wormhoudt]] told the ''[[San Francisco Gate]]''. "These people (blocking the road) are people with [[AIDS]] and [[cancer]] and other grave illnesses. To attack these people, who work collectively and have never taken money for their work, is outrageous."<ref>{{cite web|url=http://stopthedrugwar.org/chronicle-old/441/hincheyvote.shtml |title=Feature: Move to Block DEA Medical Marijuana Raids Heads for House Floor Vote Next Week |publisher=Stopthedrugwar.org |date= |accessdate=2011-08-31}}</ref><ref>{{cite web|url=http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2002/09/06/MN212302.DTL&type=printable |title=Santa Cruz officials fume over medical pot club bust / DEA arrests founders, confiscates plants |publisher=Sfgate.com |date=2002-09-06 |accessdate=2011-08-31}}</ref> . 
+
+As a result, the Wo/Men's Alliance for Medical Marijuana, with the City and County of Santa Cruz, has sued the DEA, Attorney General Michael Mukasey, and the [[ONDCP]]. The most recent court decision rejected the government's motion to dismiss, which allows discovery to move forward. The [[American Civil Liberties Union]] hailed the decision as "a first-of-its-kind ruling. <ref>{{cite web|url=http://www.aclu.org/drugpolicy/medmarijuana/36496prs20080820.html |title=Federal Court Rules U.S. Government May Not Deliberately Subvert California’s Medical Marijuana Laws |publisher=American Civil Liberties Union|date=2008-08-20 |accessdate=2011-08-31}}</ref> " . 
+
+More recently, the DEA has escalated its enforcement efforts on the recently-proliferated Los Angeles area medical cannabis collectives. On July 25, 2007, the DEA raided the [[California Patients Group]], [[Hollywood Compassionate Collective]], and Natural Hybrid ([[NHI Caregivers]]) in Hollywood, California. {{Citation needed|date=October 2010}} Earlier that day, the operators of those collectives participated in a press conference with LA City Council members announcing the City's intention to regulate the collectives and asking the DEA to halt raids on collectives while the City drafted regulations. {{Citation needed|date=October 2010}} The dispensary operator of Natural Hybrid (NHI Caregivers) was forced to close down the collective due to the tremendous loss caused by the DEA conducted joint task force raid against them. {{Citation needed|date=October 2010}} . 
+
+== DEA Museum ==. 
+In 1999, the DEA opened the Drug Enforcement Administration Museum in [[Arlington, Virginia]].  The original permanent exhibit - Illegal Drugs in America: A Modern History - remains the museum's centerpiece.  The exhibit features "the more than 150 year history of drugs and drug abuse and the DEA," including a considerable collection of drug paraphernalia and an image of a smiling drug vendor under the heading "Jimmy's Joint."<ref>{{cite web|url=http://www.deamuseum.org/ida/index.html|title=Illegal Drugs in America, a Modern History |publisher=DEA Museum Website |accessdate=2012-02-27}}</ref>  An audio tour is available at the front desk of the museum on a small MP3 device and headphones from the late 1990s/early 2000s.  A second exhibition gallery was opened in 2002, and features a changing exhibit.  The current exhibit is titled "Good Medicine, Bad Behavior: Drug Diversion in America."<ref>{{cite web|url=http://www.goodmedicinebadbehavior.org/|title=Good Medicine, Bad Behavior: Drug Diversion in America |accessdate=2012-02-27}}</ref> . 
+
+According to the museum's website, its mission is to "educate the American public on the history of drugs, drug addiction and drug law enforcement in the United States through engaging and state-of-the-art exhibits, displays, interactive stations and educational outreach programs."<ref>{{cite web|url=http://www.deamuseum.org/museum_aboutus.html|title=About Us |publisher=DEA Museum Website |accessdate=2012-02-27}}</ref>  Some have noted that the museum's educational mission is inhibited by its relatively inaccessibility.  While "Admission is free!!", the museum is only open to the public from 10:00am – 4:00pm, Tuesday - Friday. <ref>{{cite web|url=http://www.deamuseum.org/museum_geninfo.html |title=Visitor Information |publisher=DEA Museum Website |accessdate=2012-02-27}}</ref>  The number of annual visitors is relatively low compared with other museums in the [[Washington Metropolitan Area]].  The gift shop at the DEA museum sells items such as small stuffed K9 dogs and the annual DEA Holiday ornament.  However, the gift shop is sometimes closed during the museum's normal operating hours.  . 
+
+== See also ==. 
+{{Portalbox|Government of the United States|Law enforcement/Law enforcement topics}}
+* [[Departamento Administrativo de Seguridad]]
+* [[Diplomatic Security Service|Diplomatic Security Service (DSS), U.S. State Department]]
+* [[Federal Bureau of Investigation]] (FBI)
+* [[Immigration and Customs Enforcement]] (ICE)
+* [[List of United States federal law enforcement agencies]]
+* [[Operation Panama Express]]
+* [[Regulation of therapeutic goods in the United States]]
+* [[Scottish Crime and Drug Enforcement Agency]]
+* [[U.S. Customs and Border Protection]] (CBP) . 
+
+==Notes==. 
+{{Reflist|2}} . 
+
+==Further reading==. 
+* [[Harry J. Anslinger]] and [[Will Oursler]] (1961), ''The Murderers:  The Story of the Narcotic Gangs'', New York:  Farrar, Straus and Cudahy. 
+* [[Edward Jay Epstein]] (1977), ''Agency of Fear:  Opiates and Political Power in America'', New York:  Putnam.  . 
+
+==External links==. 
+{{Commons category}}
+* [http://www.usdoj.gov/dea/ DEA official web site]
+* [http://www.usdoj.gov/dea/pubs/history/ The History of the DEA from 1973 to 1998]
+* [http://www.usdoj.gov/dea/agency/former.htm List of former DEA Administrators]
+* [http://openregs.com/agencies/view/85/ Proposed and final federal regulations from the Drug Enforcement Administration]
+* [http://www.druglibrary.org/schaffer/History/aof/index.html Agency of Fear - The History of the origins of the DEA in the Nixon White House]
+* [http://thedea.org/itsresults.html Results of Prohibition] The financial costs of drug use and drug prohibition in the U.S., impact on levels of drug use and prices. 
+* [http://www.druglibrary.org/schaffer/dea/index.htm A response to the DEA web site]
+* {{cite news
+  | title = 98 Percent Of All Domestically Eradicated Marijuana Is "Ditchweed," DEA Admits
+  | work = NORML News Archive
+  | date = 7 September 2006
+  | url = http://www.norml.org/index.cfm?Group_ID=7033
+  | accessdate = 2007-03-27}}
+* [http://www.druglibrary.org/schaffer/library/studies/studies.htm Major Studies of Drugs and Drug Policy] Full text of major government commission reports on the effects of drug enforcement
+* [http://www.druglibrary.org/special/king/dhu/dhumenu.htm The Drug Hang-Up by Rufus King] A history of the drug laws with special emphasis on the predecessors to the DEA
+* [http://www.deawatch.com/ DEA Watch - A dissenting view of the DEA]
+* [http://thefederalregister.com/b.p/agency/Drug_Enforcement_Administration/ Drug Enforcement Administration Meeting Notices and Rule Changes] from The Federal Register [http://thefederalregister.com/rss/agency/Drug_Enforcement_Administration/ RSS Feed]
+* [http://www.dealookup.com DEA Lookup.com] Commercial DEA number database search service
+* [http://www.deadiversion.usdoj.gov/index.html Office of Diversion Control]
+*[http://uscode.house.gov/uscode-cgi/fastweb.exe?getdoc+uscview+t05t08+1361+0++%281973%29%20%20AND%20%28%285%29%20ADJ%20USC%29%3ACITE%20%20%20%20%20%20%20%20%20 Reorganization Plan No. 2 of 1973 - Appendix to Title 5, U.S. Code]
+* [http://www.getsmartaboutdrugs.com/ Get Smart About Drugs - A DEA Resource for Parents]
+* [http://www.justthinktwice.com/ DEA Demand Reduction - Street Smart Prevention]
+* [http://www.deacitizensacademy.org/ Drug Enforcement Administration Citizens Academy (DEA CA)] . 
+
+{{DOJ agencies}}
+{{Intelligence agencies of USA}} . 
+
+[[Category:Drug Enforcement Administration| ]]
+[[Category:United States intelligence agencies]]
+[[Category:Government agencies established in 1973]]

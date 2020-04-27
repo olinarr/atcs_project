@@ -1,0 +1,725 @@
+{{NPOV|date=April 2012 | reason = Virtually all the references are from groups which promote wind energy, with no neutral references to back up the numerous claims. Recent removal of offshore costs. Recent removal of public opinion surveys}}
+{{Use dmy dates|date=February 2012}}
+{{pp-semi-indef|small=yes}}
+[[File:Pretty flamingos - geograph.org.uk - 578705.jpg|thumb|upright|[[Burbo Bank Offshore Wind Farm]], at the entrance to the [[River Mersey]] in North West England]]
+{{Renewable energy sources}} . 
+
+'''Wind power''' is the conversion of [[wind energy]] into a useful form of energy, such as using [[wind turbine]]s to make electricity, [[windmill]]s for mechanical power, [[windpump]]s for [[water pumping]] or [[drainage]], or [[sail]]s to propel ships.  . 
+
+The total amount of available power from the wind is considerably more than present human power use from all sources. <ref name="claverton"/> At the end of 2011, worldwide [[nameplate capacity]] of wind-powered generators was 238 [[gigawatt]]s (GW), growing by 41 GW over the preceding year. <ref>http://www.gwec.net/index.php?id=30&no_cache=1&tx_ttnews[tt_news]=340&tx_ttnews[backPid]=4&cHash=f4d1217bad</ref>  2010 data from the [[World Wind Energy Association]], an industry organization states that wind power now  has the capacity to generate 430 TWh annually, which is about 2.5% of worldwide electricity usage. <ref name="wwea"/><ref name="wor"/> Over the past five years (2010 data) the average annual growth in new installations has been 27.6 percent<ref name=re/>. Wind power market penetration is expected to reach 3.35 percent by 2013 and 8 percent by 2018. <ref name=re/><ref name=bt/> Several countries have already achieved relatively high levels of wind power penetration, such as 28% of stationary (grid) electricity production in [[Wind power in Denmark|Denmark]] (2011)<ref name="Elstat">[http://www.ens.dk/da-DK/Info/TalOgKort/Statistik_og_noegletal/Maanedsstatistik/Documents/El-maanedsstatistik.xls Månedlig elforsyningsstatistik, HTML-spreadsheet] summary tab B58-B72 ''[[Danish Energy Agency]]'' 18 January 2012. Accessed: 11 March 2012. </ref>, 19% in [[Wind power in Portugal|Portugal]] (2011)<ref name="renPT2011">{{cite web|url=http://www.centrodeinformacao.ren.pt/EN/InformacaoExploracao/Pages/EstatisticaMensal.aspx|title=Monthly Statistics - SEN|date=Feb 2012}}</ref>, 16% in [[Wind power in Spain|Spain]] (2011)<ref name="ree2011prelim">{{cite web|url=http://www.ree.es/ingles/sistema_electrico/pdf/infosis/Avance_REE_2011_ingles.pdf | title= the Spanish electricity system: preliminary report 2011| date=Jan 2012|page=13}}</ref>, 14% in [[Wind power in Ireland|Ireland]] (2010)<ref name="eirgrid renewables"/> and 8% in [[Wind power in Germany|Germany]] (2011). <ref>{{cite web|url=http://www.bmwi.de/Dateien/BMWi/PDF/energiewende-in-deutschland,property=pdf,bereich=bmwi,sprache=de,rwb=true.pdf | title=Die Energiewende in Deutschland | date=Feb 2012 | author=[[Federal Ministry of Economics and Technology (Germany)|Bundesministerium für Wirtschaft und Technologie]]|location=Berlin|page=4}}</ref> As of 2011, 83 countries around the world are using wind power on a commercial basis. <ref name=ren212011/> . 
+
+A large [[wind farm]] may consist of several hundred individual [[wind turbine]]s which are connected to the [[electric power transmission]] network. Offshore wind power can harness the better wind speeds that are available offshore compared to on land, so offshore wind power’s contribution in terms of electricity supplied is higher. <ref name=btm2010o/>
+Small onshore wind facilities are used to provide electricity to isolated locations and utility companies increasingly [[Net metering|buy back surplus electricity]] produced by small domestic wind turbines. Although a variable source of power, the [[Intermittent power sources|intermittency]] of wind seldom creates problems when using wind power to supply up to 20% of total electricity demand, but as the proportion rises, increased costs, a need to use storage such as [[pumped-storage hydroelectricity]], upgrade the grid, or a lowered ability to supplant conventional production may occur. <ref name="eirgrid impact"/><ref name="ieawind"/><ref name="claverton-energy.com"/> Power management techniques such as excess capacity, storage, dispatchable backing supply (usually natural gas), exporting and importing power to neighboring areas or reducing demand when wind production is low, can mitigate these problems.  . 
+
+Wind power, as an alternative to [[fossil fuel]]s, is plentiful, [[renewable energy|renewable]], widely distributed, clean, produces no [[greenhouse gas]] emissions during operation, and uses little land. In operation, the overall cost per unit of energy produced is similar to the cost for new coal and natural gas installations. <ref name="eiadoe"/> The construction of wind farms is not universally welcomed, but any [[Environmental impact of wind power|effects on the environment]] from wind power are generally much less problematic than those of any other power source. <ref name=mar/> Large-scale implementation of wind energy production will however need to address concerns related to siting, aesthetic and environmental factors, and land availability. <ref>[http://www.britannica.com/EBchecked/topic/645063/wind-power Noelle Eckley Selin, "Wind power"], ''Encylopaedia Britannica''. Retrieved 22 March 2012. </ref> . 
+
+== History ==. 
+{{Main|History of wind power}}
+[[File:Fourteenth century windmill.png|thumb|right|Medieval depiction of a [[wind mill]]]]
+[[File:Vindmølle2.jpg|thumb|right|Windmills of Sint-Janshuismolen, [[Bruges]], built in 1770.]] . 
+
+In the US, the development of the [[windpumps|"water-pumping windmill"]] was the major factor in allowing the farming and ranching of vast areas otherwise devoid of readily accessible water. Windpumps contributed to the expansion of rail transport systems throughout the world, by pumping water from water wells for the [[steam locomotive]]s. <ref name="mysanantantonio"/> The multi-bladed wind turbine atop a lattice tower made of wood or steel was, for many years, a fixture of the landscape throughout rural America. When fitted with generators and battery banks, small wind machines provided electricity to isolated farms.  . 
+
+In July 1887, a Scottish academic, Professor [[James Blyth (engineer)|James Blyth]], undertook wind power experiments that culminated in a UK patent in 1891. <ref name="Price"/> In the US, [[Charles F. Brush]] produced electricity using a wind powered machine, starting in the winter of 1887–1888, which powered his home and laboratory until about 1900. In the 1890s, the Danish scientist and inventor [[Poul la Cour]] constructed wind turbines to generate electricity, which was then used to produce [[hydrogen]]. <ref name="Price"/> These were the first of what was to become the modern form of wind turbine.  . 
+
+The modern [[wind power industry]] began in 1979 with the serial production of wind turbines by Danish manufacturers Kuriant, [[Vestas]], [[NEG Micon|Nordtank]], and [[Siemens|Bonus]].{{Citation needed|date=October 2011}}<!-- if it "began" with units from these particular mfgs, then we ought to have a source to support the claim. -->
+These early turbines were small by today's standards, with capacities of 20–30&nbsp;kW each. Since then, they have increased greatly in size, with the Enercon E-126 capable of delivering up to 7 MW, while wind turbine production has expanded to many countries.  . 
+
+Wind power is expected to grow worldwide in the twenty-first century. <ref name="quest"/> . 
+
+==Wind energy==. 
+{{Main|Wind energy}}
+[[File:United States Wind Resources and Transmission Lines map.jpg|thumb|left|Map of available wind power for the [[Wind power in the United States|United States]]. Color codes indicate wind power density class.]] . 
+
+The Earth is unevenly heated by the sun, such that the poles receive less energy from the sun than the equator; along with this, dry land heats up (and cools down) more quickly than the seas do. The differential heating drives a global [[convection#Atmospheric convection|atmospheric convection]] system reaching from the Earth's surface to the [[stratosphere]] which acts as a virtual ceiling. Most of the energy stored in these wind movements can be found at high altitudes where continuous wind speeds of over {{convert|160|km/h|mph|abbr=on}} occur. Eventually, the wind energy is converted through friction into diffuse heat throughout the Earth's surface and the atmosphere.  . 
+
+The total amount of economically extractable power available from the wind is considerably more than present human power use from all sources. <ref name="claverton"/> Axel Kleidon of the Max Planck Institute in Germany, did a "top down" calculation on how much wind energy there is, starting with the incoming solar radiation that drives the winds by creating temperature differences in the atmosphere. He concluded that somewhere between 18 TW and 68 TW could be extracted. <ref name=nsc2012/> Cristina Archer and [[Mark Z. Jacobson]] presented a "bottom-up" estimate, which unlike Kleidon's are based on actual measurements of wind speeds, and found that there is 1700 TW of wind power at an altitude of 100 metres over land and sea. Of this, "between 72 and 170 TW could be extracted in a practical and cost-competitive manner". <ref name=nsc2012> . 
+
+{{cite web |url=http://www.newscientist.com/article/mg21328491.700-power-paradox-clean-might-not-be-green-forever.html?full=true&print=true |title=Power paradox: Clean might not be green forever |author=Anil Ananthaswamy and Michael Le Page |date=30 January 2012 |work=New Scientist }}</ref> . 
+
+=== Distribution of wind speed ===. 
+[[Image:Lee Ranch Wind Speed Frequency.png|thumb|right|Distribution of wind speed (red) and energy (blue) for all of 2002 at the Lee Ranch facility in Colorado. The histogram shows measured data, while the curve is the Rayleigh model distribution for the same average wind speed.]] . 
+
+The strength of wind varies, and an average value for a given location does not alone indicate the amount of energy a wind turbine could produce there. To assess the frequency of wind speeds at a particular location, a probability distribution function is often fit to the observed data. Different locations will have different wind speed distributions. The [[Weibull distribution|Weibull]] model closely mirrors the actual distribution of hourly wind speeds at many locations. The Weibull factor is often close to 2 and therefore a [[Rayleigh distribution]] can be used as a less accurate, but simpler model.  . 
+
+== Wind farms ==. 
+{{Main|Wind farm}} . 
+
+A wind farm is a group of [[wind turbine]]s in the same location used for production of electric power. A large wind farm may consist of several hundred individual wind turbines, and cover an extended area of hundreds of square miles, but the land between the turbines may be used for agricultural or other purposes. A wind farm may also be located offshore.  . 
+
+Many of the largest operational onshore wind farms are located in the US. As of November 2010, the [[Roscoe Wind Farm]] is the largest onshore wind farm in the world at 781.5 MW, followed by the [[Horse Hollow Wind Energy Center]] (735.5 MW). As of November 2010, the [[Thanet Wind Farm]] in the UK is the largest offshore wind farm in the world at 300 MW, followed by [[Horns Rev|Horns Rev II]] (209 MW) in Denmark.  . 
+
+There are many large wind farms under construction and these include [[BARD Offshore 1]] (400 MW), [[Clyde Wind Farm]] (548 MW), [[Greater Gabbard wind farm]] (500 MW), [[Lincs Wind Farm]] (270 MW), [[London Array]] (1000 MW), [[Lower Snake River Wind Project]] (343 MW), [[Macarthur Wind Farm]] (420 MW), [[Shepherds Flat Wind Farm]] (845 MW), [[Sheringham Shoal Offshore Wind Farm|Sheringham Shoal]] (317 MW), and the [[Walney Wind Farm]] (367 MW).  . 
+
+== Wind power capacity and production ==. 
+{{Main|Wind power by country}}
+[[File:GlobalWindPowerCumulativeCapacity.png|thumb|right|Worldwide installed wind power capacity (Source: [[Global Wind Energy Council]])<ref name="GWEC_Market" />]] . 
+
+Worldwide there are now many thousands of wind turbines operating, with a total [[nameplate capacity]] of 194,400&nbsp;MW. <ref name="global council"/> World wind generation capacity more than quadrupled between 2000 and 2006, doubling about every three years. The United States pioneered wind farms and led the world in installed capacity in the 1980s and into the 1990s. In 1997 German installed capacity surpassed the U.S. and led until once again overtaken by the U.S. in 2008. China has been rapidly expanding its wind installations the late 2000s and passed the U.S. in 2010 to become the world leader.  . 
+
+[[wind power in Europe|Europe]] accounted for 48% of the world total wind power generation capacity in 2009. In 2010, Spain became Europe's leading producer of wind energy, achieving 42,976 GWh. Germany held the top spot in Europe in terms of installed capacity, with a total of 27,215 MW as of 31 December 2010. <ref name="eolicenergynews4082"/> . 
+
+{| class="wikitable
+|
+{| class="wikitable sortable"
+|+Top 10 countries<br>by nameplate windpower capacity<br>(December 2011)<ref name=gws-2011>{{cite web|title=GWEC Global Wind Statistics 2011|url=http://www.gwec.net/fileadmin/images/News/Press/GWEC_-_Global_Wind_Statistics_2011.pdf|format=pdf|publisher=Global Wind Energy Commission|accessdate=15 March 2012}}</ref>
+. |-
+! Country !! Windpower capacity<br/>(MW)
+. |-
+| China ||align=center| 62,733 (provisional)
+. |-
+| United States ||align=center| 46,919
+. |-
+| Germany ||align=center| 29,060
+. |-
+| Spain ||align=center| 21,674
+. |-
+| India ||align=center| 16,084
+. |-
+| France ||align=center| 6,800 (provisional)
+. |-
+| Italy ||align=center| 6,747
+. |-
+| United Kingdom ||align=center| 6,540
+. |-
+| Canada ||align=center| 5,265
+. |-
+| Portugal ||align=center| 4,083
+|}
+||
+{| class="wikitable"
+|+Top 10 countries<br>by windpower electricity production<br>(2010 totals)<ref name="energies-renouvelables.org-13thEdition">Observ'ER. [http://www.energies-renouvelables.org/observ-er/html/inventaire/pdf/13e-inventaire-Chap02.pdf 2.2 Electricity Production From Wind Sources: Main Wind Power Producing Countries – 2010 (text & table)], ''Worldwide Electricity Production From Renewable Energy Sources: Stats and Figures Series: Thirteenth Inventory - Edition 2011'', Paris: Observ'ER (L’Observatoire des énergies renouvelables). Retrieved from energies-renouvelables.org 29 March 2012. </ref>
+. |-
+! Country !! Windpower production<br/>(TWh) !! % world total 
+. |-
+| United States ||align=center| 95.2 ||align=center| 27.6 
+. |-
+| China ||align=center| 55.5 ||align=center| 15.9 
+. |-
+| Spain ||align=center| 43.7 ||align=center| 12.7
+. |-
+| Germany ||align=center| 36.5 ||align=center| 10.6
+. |-
+| India ||align=center| 20.6 ||align=center| 6.0
+. |-
+| United Kingdom ||align=center| 10.2 ||align=center| 3.0
+. |-
+| France ||align=center| 9.7 ||align=center| 2.8
+. |-
+| Portugal ||align=center| 9.1 ||align=center| 2.6
+. |-
+| Italy ||align=center| 8.4 ||align=center| 2.5
+. |-
+| Canada ||align=center| 8.0 ||align=center| 2.3
+. |- 
+| (rest of world) ||align=center| (48.5) ||align=center| (14.1)
+. |-
+|align=center| '''World total''' ||align=center|  '''344.8 TWh''' ||align=center| '''100%''' 
+|}
+|} . 
+
+=== Growth trends ===. 
+[[Image:Total Installed Wind Capacity 1197-2020 -MW-.jpg|thumb|Worldwide installed capacity 1997–2020 [MW], developments and prognosis. Data source: WWEA<ref>[http://www.wwindea.org/ World Wind Energy Association]</ref>]]
+[[File:GlobalWindPowerCumulativeCapacity-withForcast.png|thumb|right|Worldwide installed wind power capacity forecast (Source: Global Wind Energy Council)<ref name="GWEC_Market" /><ref name="GWEC_Forcast"/>]] . 
+
+In 2010, more than half of all new wind power was added outside of the traditional markets in Europe and North America. This was largely from new construction in China, which accounted for nearly half the new wind installations (16.5 GW). <ref name="increasesBy2010"/> . 
+
+Global Wind Energy Council (GWEC) figures show that 2007 recorded an increase of installed capacity of 20&nbsp;GW, taking the total installed wind energy capacity to 94&nbsp;GW, up from 74&nbsp;GW in 2006. Despite constraints facing supply chains for wind turbines, the annual market for wind continued to increase at an estimated rate of 37%, following 32% growth in 2006. In terms of economic value, the wind energy sector has become one of the important players in the energy markets, with the total value of new generating equipment installed in 2007 reaching €25 billion, or US$36 billion. <ref name="gwec2007"/> . 
+
+Although the [[wind power industry]] was affected by the [[Late-2000s recession|global financial crisis]] in 2009 and 2010, a [[BTM Consult]] five year forecast up to 2013 projects substantial growth. Over the past five years the average growth in new installations has been 27.6 percent each year. In the forecast to 2013 the expected average annual growth rate is 15.7 percent. <ref name="re"/><ref name="bt"/> More than 200&nbsp;GW of new wind power capacity could come on line before the end of 2013. Wind power market penetration is expected to reach 3.35 percent by 2013 and 8 percent by 2018. <ref name=re/><ref name=bt/> . 
+
+==Offshore wind power==. 
+{{Main|Offshore wind power}}
+[[File:Sund mpazdziora.JPG|thumb|left|Aerial view of [[Lillgrund Wind Farm]], Sweden]] . 
+
+Offshore wind power refers to the construction of wind farms in bodies of water to generate electricity from wind. Better wind speeds are available offshore compared to on land, so offshore wind power’s contribution in terms of electricity supplied is higher. <ref name=btm2010o/> . 
+
+[[Siemens]] and [[Vestas]] are the leading turbine suppliers for offshore wind power. [[DONG Energy]], [[Vattenfall]] and [[E.ON]] are the leading offshore operators. <ref name=btm2010o/> As of October 2010, 3.16 GW of offshore wind power capacity was operational, mainly in Northern Europe. According to [[BTM Consult]], more than 16 GW of additional capacity will be installed before the end of 2014 and the UK and Germany will become the two leading markets. Offshore wind power capacity is expected to reach a total of 75 GW worldwide by 2020, with significant contributions from China and the US. <ref name="btm2010o"/> . 
+
+== Electricity generation ==. 
+[[Image:Scout moor gearbox, rotor shaft and brake assembly.jpg|thumb|right|Typical components of a wind turbine ([[gearbox]], rotor shaft and brake assembly) being lifted into position]] . 
+
+In a [[wind farm]], individual turbines are interconnected with a medium voltage (often 34.5 kV), power collection system and communications network. At a substation, this medium-voltage electric current is increased in voltage with a [[transformer]] for connection to the high voltage [[electric power transmission]] system.  . 
+
+The surplus power produced by domestic microgenerators can, in some jurisdictions, be fed into the network and sold to the utility company, producing a retail credit for the microgenerators' owners to offset their energy costs. <ref name="SmallElectricity"/><ref name="home-made"/> . 
+
+=== Grid management === . 
+
+[[Induction generator]]s, often used for wind power, require [[reactive power]] for [[Excitation (magnetic)|excitation]] so [[Electrical substation|substations]] used in wind-power collection systems include substantial [[capacitor]] banks for [[power factor correction]]. Different types of wind turbine generators behave differently during transmission grid disturbances, so [[Wind energy software|extensive modelling]] of the dynamic electromechanical characteristics of a new wind farm is required by transmission system operators to ensure predictable stable behaviour during system faults (see: [[Low voltage ride through]]). In particular, induction generators cannot support the system voltage during faults, unlike steam or hydro turbine-driven synchronous generators. [[Doubly fed electric machine|Doubly fed machines]] generally have more desirable properties for grid interconnection.{{Citation needed|date=June 2010}} Transmission systems operators will supply a wind farm developer with a ''grid code'' to specify the requirements for interconnection to the transmission grid. This will include [[power factor]], constancy of [[Utility frequency|frequency]] and dynamic behavior of the wind farm turbines during a system fault. <ref name="Demeo2005"/><ref name="Zavadil2005"/> . 
+
+=== Capacity factor === . 
+
+Since wind speed is not constant, a wind farm's annual energy production is never as much as the sum of the generator nameplate ratings multiplied by the total hours in a year. The ratio of actual productivity in a year to this theoretical maximum is called the [[capacity factor]]. Typical capacity factors are 20–40%, with values at the upper end of the range in particularly favourable sites. <ref name="ceereCapInter"/> For example, a 1&nbsp;MW turbine with a capacity factor of 35% will not produce 8,760&nbsp;MW·h in a year (1 × 24 × 365), but only 1 × 0.35 × 24 × 365&nbsp;=&nbsp;3,066&nbsp;MW·h, averaging to 0.35&nbsp;MW. Online data is available for some locations and the capacity factor can be calculated from the yearly output. <ref name="MassMaritime"/><ref name="iesoOntarioWind"/> . 
+
+Unlike fueled generating plants, the capacity factor is affected by several parameters, including the variability of the wind at the site, but also the generator size- having a smaller generator would be cheaper and achieve higher capacity factor, but would make less electricity (and money) in high winds. <ref name="capFactorsBigger"/> Conversely a bigger generator would cost more and generate little extra power and, depending on the type, may stall out at low wind speed. Thus an optimum capacity factor can be used, which is usually around 20–35%.  . 
+
+In a 2008 study released by the U.S. Department of Energy's Office of Energy Efficiency and Renewable Energy, the capacity factor achieved by the wind turbine fleet is shown to be increasing as the technology improves. The capacity factor achieved by new wind turbines in 2004 and 2005 reached 36%. <ref name="Windpowering"/> . 
+
+===Penetration===. 
+Wind energy "penetration" refers to the fraction of energy produced by wind compared with the total available generation capacity. There is no generally accepted "maximum" level of wind penetration. The limit for a particular grid will depend on the existing generating plants, pricing mechanisms, capacity for storage or demand management, and other factors. An interconnected electricity grid will already include reserve generating and transmission capacity to allow for equipment failures; this reserve capacity can also serve to regulate for the varying power generation by wind plants. Studies have indicated that 20% of the total annual electrical energy consumption may be incorporated with minimal difficulty. <ref name="tacklingUS"/> These studies have been for locations with geographically dispersed wind farms, some degree of dispatchable energy or hydropower with storage capacity, demand management, and interconnected to a large grid area enabling the export of electricity when needed. Beyond the 20 percent level, there are few technical limits, but the economic implications become more significant. Electrical utilities continue to study the effects of large (20% or more) scale penetration of wind generation on system stability and economics. <ref name="NGestimates"/><ref name="minnesota"/><ref name="ESB2004Study"/><ref name="sinclairMerz"/> . 
+
+A wind energy penetration amount can be specified for different durations of time. On an annual basis, as of 2011 few grid systems have penetration levels above five percent: Denmark - 26%, Portugal - 17%, Spain - 15%, Ireland - 14%, and Germany - 9%. <ref name="wtmr_2010_eere">2010 Wind Technologies Market Report, EERE, U.S. Department of Energy, page 7</ref> For the U.S. in 2011, the penetration level was estimated at 2.9%. <ref name="wtmr_2010_eere" />  . 
+
+=== Variability and intermittency ===. 
+{{main|Intermittent energy source|wind power forecasting}}
+[[File:Toro de osborne.jpg|thumb|right|Windmills are typically installed in favourable windy locations. In the image, wind power [[Wind power in Spain|generators in Spain]], near an [[Osborne bull]]]] . 
+
+Electricity generated from wind power can be highly variable at several different timescales: from hour to hour, daily, and seasonally. Annual variation also exists, but is not as significant. Related to variability is the short-term (hourly or daily) predictability of wind plant output. Like other electricity sources, wind energy must be "scheduled". Wind power forecasting methods are used, but predictability of wind plant output remains low for short-term operation.{{citation needed|date=February 2012}} . 
+
+Because instantaneous electrical generation and consumption must remain in balance to maintain grid stability, this variability can present substantial challenges to incorporating large amounts of wind power into a grid system. Intermittency and the non-[[Intermittent power sources#Terminology|dispatchable]] nature of wind energy production can raise costs for regulation, incremental [[operating reserve]], and (at high penetration levels) could require an increase in the already existing [[energy demand management]], [[load shedding]], or storage solutions or system interconnection with [[High-voltage direct current|HVDC]] cables. At low levels of wind penetration, fluctuations in load and allowance for failure of large generating units requires reserve capacity that can also regulate for variability of wind generation. Wind power can be replaced by other power stations during low wind periods. Transmission networks must already cope with outages of generation plant and daily changes in electrical demand. Systems with large wind capacity components may need more spinning reserve (plants operating at less than full load). <ref name="is windpower reliable"/><ref name="clavertonReliable"/> . 
+
+[[Pumped-storage hydroelectricity]] or other forms of [[grid energy storage]] can store energy developed by high-wind periods and release it when needed. <ref name="Mitchell 2006"/> Stored energy increases the economic value of wind energy since it can be shifted to displace higher cost generation during peak demand periods. The potential revenue from this [[arbitrage]] can offset the cost and losses of storage; the cost of storage may add 25% to the cost of any wind energy stored, but it is not envisaged that this would apply to a large proportion of wind energy generated. For example, in the UK, the 2 GW [[Dinorwig pumped storage plant]] evens out electrical demand peaks, and allows base-load suppliers to run their plant more efficiently. Although pumped storage power systems are only about 75% efficient, and have high installation costs, their low running costs and ability to reduce the required electrical base-load can save both fuel and total electrical generation costs. <ref name="dinorwig"/><ref name="futureStorage"/> . 
+
+In particular geographic regions, peak wind speeds may not coincide with peak demand for electrical power. In the US states of California and Texas, for example, hot days in summer may have low wind speed and high electrical demand due to [[air conditioning]]. Some utilities subsidize the purchase of [[geothermal heat pump]]s by their customers, to reduce electricity demand during the summer months by making air conditioning up to 70% more efficient;<ref name="geothermal_incentive"/> widespread adoption of this technology would better match electricity demand to wind availability in areas with hot summers and low summer winds. Another option is to interconnect widely dispersed geographic areas with an HVDC "[[Super grid]]". In the US it is estimated that to upgrade the transmission system to take in planned or potential renewables would cost at least $60 billion. <ref name="slogin"/> . 
+
+In the UK, demand for electricity is higher in winter than in summer, and so are wind speeds. <ref name="UKwindspeeds"/><ref name="characteristics"/> [[Solar power]] tends to be complementary to wind. <ref name="windsun"/><ref name="smallWindSystems"/> On daily to weekly timescales, [[high pressure area]]s tend to bring clear skies and low surface winds, whereas [[low pressure area]]s tend to be windier and cloudier. On seasonal timescales, solar energy typically peaks in summer, whereas in many areas wind energy is lower in summer and higher in winter. <ref name="cleveland_water_crib"/> Thus the intermittencies of wind and solar power tend to cancel each other somewhat. The Institute for Solar Energy Supply Technology of the [[University of Kassel]] pilot-tested a [[virtual power plant|combined power plant]] linking solar, wind, [[biogas]] and [[Pumped-storage hydroelectricity|hydrostorage]] to provide load-following power around the clock, entirely from renewable sources. <ref name="combined_power_plant"/> . 
+
+A report on Denmark's wind power noted that their wind power network provided less than 1% of average demand 54 days during the year 2002. <ref name="Denmark"/> Wind power advocates argue that these periods of low wind can be dealt with by simply restarting existing power stations that have been held in readiness or interlinking with HVDC. <ref name="Czisch-Giebel"/> Electrical grids with slow-responding thermal power plants and without ties to networks with hydroelectric generation may have to limit the use of wind power. <ref name="Denmark" /> . 
+
+Conversely, on particularly windy days, even with penetration levels of 16%, wind power generation can surpass all other electricity sources in a country. <ref name="lavanguardia"/> In Spain, on 8 November 2009 wind power production reached the highest percentage of electricity production till then, with wind farms covering 53% of the total demand. <ref name=ie/><ref name="eolica"/> . 
+
+Three reports on the wind variability in the UK issued in 2009, generally agree that variability of wind needs to be taken into account, but it does not make the grid unmanageable; and the additional costs, which are modest, can be quantified. <ref name="abbess"/> A 2006 [[International Energy Agency]] forum presented costs for managing intermittency as a function of wind-energy's share of total capacity for several countries, as shown:
+<center>
+'''Increase in system operation costs, Euros per MW·h, for 10% and 20% wind share'''<ref name="ieawind"/> . 
+
+</center><center>
+{| class="wikitable"
+. |-
+! Country
+! 10%
+! 20%
+. |-
+| Germany
+| 2.5
+| 3.2
+. |-
+| Denmark
+| 0.4
+| 0.8
+. |-
+| Finland
+| 0.3
+| 1.5
+. |-
+| Norway
+| 0.1
+| 0.3
+. |-
+| Sweden
+| 0.3
+| 0.7
+|}</center> . 
+
+===Capacity credit and fuel saving===. 
+Many commentators concentrate on whether or not wind has any "capacity credit" without defining what they mean by this and its relevance. Wind does have a capacity credit, using a widely accepted and meaningful definition, equal to about 20% of its rated output (but this figure varies depending on actual circumstances). This means that reserve capacity on a system equal in MW to 20% of added wind could be retired when such wind is added without affecting system security or robustness. But the precise value is irrelevant since the main value of wind (in the UK, worth 5 times the capacity credit value<ref name="capacityCredit"/>) is its fuel and CO2 savings.  . 
+
+According to a 2007 Stanford University study published in the Journal of Applied Meteorology and Climatology, interconnecting ten or more wind farms can allow an average of 33% of the total energy produced to be used as reliable, [[baseload power|baseload electric power]], as long as minimum criteria are met for wind speed and turbine height. <ref name="connecting_wind_farms"/><ref name="Archer2007"/> . 
+
+==Economics==. 
+===Cost trends===. 
+[[File:GreenMountainWindFarm Fluvanna 2004.jpg|thumb|right|[[Brazos Wind Farm]] in Texas]] . 
+
+Wind power has low ongoing costs, but a moderate capital cost. The estimated [[average cost]] per unit incorporates the cost of construction of the turbine and transmission facilities, borrowed funds, return to investors (including cost of risk), estimated annual production, and other components, averaged over the projected useful life of the equipment, which may be in excess of twenty years. Energy cost estimates are highly dependent on these assumptions so published cost figures can differ substantially. A 2011 report from the American Wind Energy Association stated, "Wind's costs have dropped over the past two years, in the range of 5 to 6 cents per kilowatt-hour recently.... about 2 cents cheaper than coal-fired electricity, and more projects were financed through debt arrangements than tax equity structures last year.... winning more mainstream acceptance from Wall Street's banks.... Equipment makers can also deliver products in the same year that they are ordered instead of waiting up to three years as was the case in previous cycles.... 5,600 MW of new installed capacity is under construction in the United States, more than double the number at this point in 2010. Thirty-five percent of all new power generation built in the United States since 2005 has come from wind, more than new gas and coal plants combined, as power providers are increasingly enticed to wind as a convenient hedge against unpredictable commodity price moves."<ref name="salerno"/> . 
+
+[[Image:Turbine Blade Convoy Passing through Edenfield.jpg|thumb|left|Turbine blade convoy passing through [[Edenfield]] in the UK.]]A British Wind Energy Association report gives an average generation cost of onshore wind power of around 3.2 pence (between US 5 and 6 cents) per kW·h (2005). <ref name="BWEA"/> Cost per unit of energy produced was estimated in 2006 to be comparable to the cost of new generating capacity in the US for coal and natural gas: wind cost was estimated at $55.80 per MW·h, coal at $53.10/MW·h and natural gas at $52.50. <ref name="ieo06"/> Similar comparative results with natural gas were obtained in a governmental study in the UK in 2011. <ref name="ccc"/> Other sources in various studies have estimated wind to be more expensive than other sources. A 2009 study on wind power in Spain by Gabriel Calzada Alvarez [[Universidad Rey Juan Carlos]] concluded that each installed MW of wind power led to the loss of 4.27 jobs, by raising energy costs and driving away electricity-intensive businesses. <ref name="juande"/> The U.S. Department of Energy found the study to be seriously flawed, and the conclusion unsupported. <ref name="nrelemployment"/> The presence of wind energy, even when subsidised, can reduce costs for consumers (€5 billion/yr in Germany) by reducing the marginal price by minimising the use of expensive 'peaker plants'. <ref name="meritorder"/> . 
+
+The [[marginal cost]] of wind energy once a plant is constructed is usually less than 1 cent per kW·h. <ref name="Patel"/> In 2004, wind energy cost a fifth of what it did in the 1980s, and some expected that downward trend to continue as larger multi-megawatt [[Wind turbine|turbines]] were mass-produced. <ref name="helming"/> {{As of|2012}} capital costs for wind turbines are substantially lower than 2008-2010 but are still above 2002 levels. <ref>
+{{cite web
+| title = LBNL/NREL Analysis Predicts Record Low LCOE for Wind Energy in 2012-2013
+| work = US Department of Energy Wind Program Newsletter
+| url = http://apps1.eere.energy.gov/wind/newsletter/detail.cfm/articleId=45
+| accessdate = 2012-03-10
+ }}
+</ref> . 
+
+===Incentives===. 
+[[Image:Wind energy converter5.jpg|thumb||Some of the more than 6,000 wind turbines in the [[Altamont Pass Wind Farm]], in California, United States. Developed during a period of tax incentives in the 1980s, this wind farm has more turbines than any other in the US. <ref name="altamontPass"/>]] . 
+
+Wind energy in many jurisdictions receives financial or other support to encourage its development. Wind energy benefits from [[subsidy|subsidies]] in many jurisdictions, either to increase its attractiveness, or to compensate for subsidies received by other forms of production which have significant negative externalities.  . 
+
+In the US, wind power receives a tax credit for each kW·h produced; at 1.9 cents per kW·h in 2006, the credit has a yearly inflationary adjustment. Another tax benefit is [[accelerated depreciation]]. Many American states also provide incentives, such as exemption from property tax, mandated purchases, and additional markets for "[[Renewable Energy Certificates|green credits]]". Countries such as [[Wind Power Production Incentive|Canada]] and Germany also provide incentives for wind turbine construction, such as tax credits or minimum purchase prices for wind generation, with assured grid access (sometimes referred to as [[feed-in tariff]]s). These feed-in tariffs are typically set well above average electricity prices. The [[Energy Improvement and Extension Act of 2008]] contains extensions of credits for wind, including microturbines.  . 
+
+Secondary market forces also provide incentives for businesses to use wind-generated power, even if there is a [[Renewable Energy Certificates|premium price for the electricity]]. For example, [[Corporate social responsibility|socially responsible manufacturers]] pay utility companies a premium that goes to subsidize and build new wind power infrastructure. Companies use wind-generated power, and in return they can claim that they are undertaking strong "green" efforts. In the US the organization Green-e monitors business compliance with these renewable energy credits. <ref name="green-e"/> . 
+
+== Environmental effects ==. 
+{{Main|Environmental impact of wind power}}
+[[File:Wb deichh drei kuhs.jpg|thumb|right|Livestock ignore wind turbines,<ref name="livestock_ignore"/> and continue to graze as they did before wind turbines were installed.]] . 
+
+Compared to the environmental impact of traditional energy sources, the environmental impact of wind power is relatively minor. Wind power consumes no fuel, and emits no air pollution, unlike fossil fuel power sources. The energy consumed to manufacture and transport the materials used to build a wind power plant is equal to the new energy produced by the plant within a few months. While a wind farm may cover a large area of land, many land uses such as agriculture are compatible, with only small areas such as turbine foundations and infrastructure made unavailable for use. <ref name="mar"/> . 
+
+Wind farms need to be located in windy areas for greater efficiency, which often leads them to be placed on the top of ridges and hills, where they are particularly visible. This leads some to complain that they 'ruin the landscape'. <ref name=guardianQA /> While aesthetic issues are subjective and others find wind farms pleasant and optimistic, or symbols of [[energy security|energy independence]] and local prosperity,<ref name="guardian.co.uk" /> groups of people<ref>[http://www.wind-watch.org/affiliates.php Wind Energy Opposition and Action Groups]</ref> often [[NIMBY|organize to attempt to politically block]] new wind power sites. <ref name=guardianQA /> . 
+
+There are reports of bird and bat mortality at wind turbines as there are around other artificial structures. The scale of the ecological impact may<ref name="Eilperin"/> or may not<ref name="rspb"/> be significant, depending on specific circumstances. Prevention and mitigation of wildlife fatalities, and protection of [[peat bogs]],<ref name="blanketpeat"/> affect the siting and operation of wind turbines.  . 
+
+A study on wind farm noise reported that people are annoyed by sound from wind turbines at far less sound levels than they are by noises from railroads, aircraft, or road traffic. The study found the percentage of respondents who found noise levels highly annoying rose quickly as sound levels increased above about [[Sound pressure|37dbA]] (about the level of a conversation). <ref name="PerceptionOfNoise"/> . 
+
+In Denmark, a loss-of-value scheme gives people the right to claim compensation for loss of value of their property if it is caused by proximity to a wind turbine. The loss must be at least 1% of the property’s value. <ref name="Danish-loss-of-value-scheme"/> . 
+
+== Politics ==. 
+=== Government === . 
+
+A [[House of Lords]] [[Select Committee (Westminster System)|Select Committee]] report (2008) on renewable energy in the UK reported a "concern over the prospective role of wind generated and other intermittent sources of electricity in the UK, in the absence of a break-through in electricity storage technology or the integration of the UK grid with that of continental Europe". <ref name="FourthReport"/> . 
+
+Commenting on the [[Energy policy of the European Union|EU's 2020 renewable energy target]], Helm is critical of how the costs of wind power are cited by lobbyists. <ref name="helm"/> [[Darren Helm|Helm]] also says that wind's problem of intermittent supply will probably lead to another [[dash for gas|dash-for-gas]] or dash-for-coal in Europe, possibly with a negative impact on [[energy security]]. <ref name=helm /> . 
+
+In the US, the wind power industry has recently increased its lobbying efforts considerably, spending about $5 million in 2009 after years of relative obscurity in Washington. <ref name="LobbyingAfter"/> By comparison, the US nuclear industry alone spent over $650 million on its lobbying efforts and campaign contributions during a single ten year period ending in 2008. <ref name="spendingOnNuclear"/><ref>Ward, Chip. [http://articles.latimes.com/2010/mar/05/opinion/la-oe-ward5-2010mar05 Nuclear Power – Not A Green Option], [[Los Angeles Times]], 5 March 2010. </ref><ref>Pasternak, Judy. [http://investigativereportingworkshop.org/investigations/nuclear-energy-lobbying-push/story/nuclear-energy-working-hard-win-support/ Nuclear Energy Lobby Working Hard To Win Support], [[The McClatchy Company|McClatchy Newspapers]] co-published with the [[American University School of Communication]], 24 January 2010. </ref> . 
+
+=== Community ===. 
+:''See also [[Renewable energy debate#Community debate about wind farms|Renewable energy debate –Community debate about wind farms]] . 
+
+[[Image:Wind tubines cumbria.JPG|thumb|Wind turbines such as these, in [[Cumbria]], England, have been opposed for a number of reasons, including aesthetics, by some sectors of the population. <ref>{{cite web|url=http://www.visitcumbria.com/wc/windfarms.htm|title=Wind Farms in Cumbria|accessdate=3 October 2008}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/1/hi/business/3661728.stm|title=Wind Turbulence over turbines in Cumbria|author=James Arnold|publisher=BBC News|date=20 September 2004|accessdate=3 October 2008}}</ref>]] . 
+
+Many wind power companies work with local communities to reduce environmental and other concerns associated with particular wind farms. <ref>{{cite web|url=http://www.renewableenergyaccess.com/rea/news/story?id=48671 |title=Group Dedicates Opening of 200 MW Big Horn Wind Farm: Farm incorporates conservation efforts that protect wildlife habitat |publisher=Renewableenergyaccess.com |accessdate=17 January 2012}}</ref><ref>{{cite web|author=Jeanette Fisher |url=http://environmentpsychology.com/wind_power_midamerican's_intrepid_wind_farm1.htm |title=Wind Power: MidAmerican's Intrepid Wind Farm |publisher=Environmentpsychology.com |accessdate=17 January 2012}}</ref><ref>{{cite web|url=http://www.agl.com.au/environment/sustainability/Pages/StakeholderEngagement.aspx |title=Stakeholder Engagement |publisher=Agl.com.au |date=19 March 2008 |accessdate=17 January 2012}}</ref><ref>[http://www.waubrawindfarm.com.au/community/index.htm Community Relations]{{dead link|date=January 2012}}</ref> In other cases there is [[Community wind energy|direct community ownership of wind farm projects]].  Appropriate government consultation, planning and approval procedures also help to minimize environmental risks. <ref name=com>{{cite web|url=http://www.ewea.org/fileadmin/ewea_documents/documents/press_releases/factsheet_environment2.pdf |title=Wind Energy and the Environment |format=PDF |accessdate=17 January 2012}}</ref><ref>{{cite web|url=http://www.environment.gov.au/settlements/renewable/publications/pubs/wind-discussionpaper.pdf |title=National Code for Wind Farms |publisher=Environment.gov.au |accessdate=17 January 2012}}</ref><ref>{{cite web|url=http://www.publish.csiro.au/?act=view_file&file_id=EC140p6a.pdf |title=New standard and big investment for wind energy |publisher=Publish.csiro.au |date=17 December 2007 |accessdate=17 January 2012}}</ref> Some people may still object to wind farms<ref>[http://www.wind-watch.org/affiliates.php Wind Energy Opposition and Action Groups]</ref> but, according to [[The Australia Institute]], their concerns should be weighed against the need to address the threats posed by [[climate change]] and the opinions of the broader community. <ref> . 
+
+The Australia Institute (2006). [http://www.tai.org.au/documents/dp_fulltext/DP91.pdf Wind Farms The facts and the fallacies] Discussion Paper Number 91, October, ISSN 1322-5421, p. 28.  . 
+
+</ref> Surveys of public attitudes across Europe and in many other countries show strong public support for wind power. <ref name=com/><ref> . 
+
+{{cite web|url=http://www.ewea.org/fileadmin/ewea_documents/documents/publications/WD/WD22vi_public.pdf |title=A Summary of Opinion Surveys on Wind Power |format=PDF |accessdate=17 January 2012}} . 
+
+</ref><ref> . 
+
+{{cite web|url=http://www.eon-uk.com/generation/publicattitudes.aspx |title=Public attitudes to wind farms |publisher=Eon-uk.com |date=28 February 2008 |accessdate=17 January 2012}}</ref> . 
+
+In Germany, for example, hundreds of thousands of people have invested in citizens' wind farms across the country and thousands of small and medium sized enterprises are running successful businesses in a new sector that in 2008 employed 90,000 people and generated 8 percent of Germany's electricity. <ref name=emp>{{cite web|url=http://dsc.discovery.com/technology/my-take/community-wind-farm.html |title=Community Power Empowers |publisher=Dsc.discovery.com |date=26 May 2009 |accessdate=17 January 2012}}</ref> Wind power has gained very high social acceptance in Germany. <ref name=soc>[http://nccnsw.org.au/index2.php?option=com_content&do_pdf=1&id=2148 Community Wind Farms]{{dead link|date=January 2012}}</ref> . 
+
+[[File:Windmills south of Dumas, TX IMG 0570.JPG|thumb|left|Landowners in the US typically receive $3,000 to $5,000 per year in rental income from each wind turbine, while farmers continue to grow crops or graze cattle up to the foot of the turbines. <ref name="nine"/>]] . 
+
+In America, wind projects are reported to boost local tax bases, helping to pay for schools, roads and hospitals. Wind projects also revitalize the economy of rural communities by providing steady income to farmers and other landowners. <ref name=nine/> The [[Intrepid Wind Farm]], in Iowa, is an example of one wind farm where the environmental impact of the project has been minimized through consultation and co-operation. <ref>"[http://environmentpsychology.com/wind_power_midamerican's_intrepid_wind_farm1.htm Wind Power: MidAmerican's Intrepid Wind Farm]." ''Environmenal Psychology''. 2006</ref> . 
+
+In the UK, the [[National Trust]] has expressed opposition to plans for a wind farm near [[Lyveden New Bield]], a 17th Century lodge in Northamptonshire, believing it would upset the appeal of one of the finest Elizabethan gardens still in existence. <ref>[http://www.bbc.co.uk/news/uk-england-northamptonshire-17367028 "Wind farm to be built near a Northamptonshire heritage site"], ''BBC News'', 14 March 2012. Retrieved 20 March 2012. </ref> . 
+
+Some wind farms have become tourist attractions. The [[Whitelee Wind Farm]] Visitor Centre has an exhibition room, a learning hub, a café with a viewing deck and also a shop. It is run by the [[Glasgow Science Centre]]. <ref>{{cite web |url=http://www.whiteleewindfarm.co.uk/visitor_centre |title=Whitelee Windfarm |author= |date= |work=Scottish Power Renewables }}</ref> . 
+
+== Small-scale wind power ==. 
+{{See|Microgeneration}}
+[[Image:Tassa 5KW 2 ElectronSolarEnergy2.jpg|thumb|5 kilowatt [[Vertical axis wind turbine]]]] . 
+
+Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50&nbsp;kW of electrical power. <ref name="smallScaleCarbonTrust"/> Isolated communities, that may otherwise rely on [[Diesel generator|diesel]] generators may use wind turbines to displace diesel fuel consumption. Individuals may purchase these systems to reduce or eliminate their dependence on grid electricity for economic or other reasons, or to reduce their [[carbon footprint]]. Wind turbines have been used for household electricity generation in conjunction with [[Battery (electricity)|battery]] storage over many decades in remote areas.  . 
+
+Grid-connected wind turbines may use [[grid energy storage]], displacing purchased energy with local production when available. Off-grid system users can either adapt to intermittent power or use batteries, [[photovoltaic]] or diesel systems to supplement the wind turbine. Equipment such as parking meters or wireless Internet gateways may be powered by a wind turbine that charges a small battery, replacing the need for a connection to the power grid.  . 
+
+In locations near or around a group of high-rise buildings, wind shear generates areas of intense turbulence, especially at street-level. <ref name="UrbanWindDefinition"/> The risks associated with mechanical or catastrophic failure have thus plagued urban wind development in densely populated areas,<ref name="An_Urban_Experiment_in_Renewable_Energy"/> rendering the costs of insuring urban wind systems prohibitive. <ref name="Urban_Experiment_in_Renewable_Energy"/>
+Moreover, quantifying the amount of wind in urban areas has been difficult, as little is known about the actual wind resources of towns and cities. <ref name="WindyCities"/> . 
+
+A new [[Carbon Trust]] study into the potential of small-scale wind energy has found that small wind turbines could provide up to 1.5 terawatt hours (TW·h) per year of electricity (0.4% of total UK electricity consumption), saving 0.6 million tonnes of carbon dioxide (Mt CO<sub>2</sub>) emission savings. This is based on the assumption that 10% of households would install turbines at costs competitive with grid electricity, around 12 pence (US 19 cents) a kW·h. <ref name="CarbonSmallTrust"/> . 
+
+[[Distributed generation]] from [[renewable resource]]s is increasing as a consequence of the increased awareness of [[climate change]]. The electronic interfaces required to connect renewable generation units with the [[utility]] system can include additional functions, such as the active filtering to enhance the power quality. <ref name="ActiveFiltering"/>
+{{-}} . 
+
+== See also == . 
+
+{{div col|3}}
+* [[Airborne wind turbine]]
+* [[Controlled aerodynamic instability phenomena]]
+* [[Floating wind turbine]]
+* [[High altitude wind power]]
+* [[List of countries by electricity production from renewable sources]]
+* [[List of wind turbine manufacturers]]
+* [[Lists of offshore wind farms by country]]
+* [[Lists of wind farms by country]]
+* [[Sustainable energy]]
+* [[Vertical axis wind turbine]]
+* [[Wind power in the United States]]
+* [[Wind profiler]]
+* [[Wind rights]]
+* [[Wind-diesel hybrid power system]]
+* [[Wind lens]]
+{{div col end}}
+{{Portal bar|Energy|Renewable energy|Sustainable development}} . 
+
+== References == . 
+
+{{Reflist|colwidth=25em|refs=
+<ref name=increasesBy2010>{{cite web|url=http://www.gwec.net/index.php?id=30&no_cache=1&tx_ttnews%5Btt_news%5D=279&tx_ttnews%5BbackPid%5D=97&cHash=01e9c85e9f|title=Global wind capacity increases by 22% in 2010 – Asia leads growth|publisher= Global Wind Energy Council|accessdate=14 May 2011|date=2 February 2011}}</ref> . 
+
+<ref name=SmallElectricity>[http://www.aessolarenergy.com/sell_electricity.htm "Sell electricity back to the utility company"] Retrieved on 7 November 2008</ref> . 
+
+<ref name=home-made>[http://www.timesonline.co.uk/tol/news/environment/article4187635.ece ''[[The Times]'' 22 June 2008 "Home-made energy to prop up grid"] Retrieved on 7 November 2008</ref> . 
+
+<ref name=ceereCapInter>[http://www.ceere.org/rerl/about_wind/RERL_Fact_Sheet_2a_Capacity_Factor.pdf Wind Power: Capacity Factor, Intermittency, and what happens when the wind doesn’t blow?]. Retrieved 24 January 2008. </ref> . 
+
+<ref name=MassMaritime>[http://view2.fatspaniel.net/FST/Portal/LighthouseElectrical/maritime/HostedAdminView.html Massachusetts Maritime Academy&nbsp;— Bourne, Mass] This 660&nbsp;kW wind turbine has a capacity factor of about 19%. </ref> . 
+
+<ref name=iesoOntarioWind>[http://www.ieso.ca/imoweb/marketdata/windpower.asp Wind Power in Ontario] These wind farms have capacity factors of about 28–35%. </ref> . 
+
+<ref name=capFactorsBigger>{{cite web|url=http://www.bwea.com/ref/capacityfactors.html |title=RenewableUK – BWEA Briefing on UK Wind Capacity Factors |publisher=Bwea.com |accessdate=7 January 2012}}</ref> . 
+
+<ref name=Windpowering>[http://www.windpoweringamerica.gov/pdfs/20_percent_wind_2.pdf WindpoweringAmerica.gov], 46. U.S. Department of Energy; Energy Efficiency and Renewable Energy "20% Wind Energy by 2030"</ref> . 
+
+<ref name=ESB2004Study>ESB National Grid, Ireland's electric utility, in a 2004 study that, concluded that to meet the renewable energy targets set by the EU in 2001 would "increase electricity generation costs by a modest 15%" . 
+
+{{cite web
+ | url= http://www.eirgrid.com/EirGridPortal/uploads/Publications/Wind%20Impact%20Study%20-%20main%20report.pdf
+ | title= Impact of Wind Power Generation In Ireland on the Operation of Conventional Plant and the Economic Implications
+ |authorlink= | date= February, 2004 | format= PDF
+ | publisher= ESB National Grid
+ | page= 36|archiveurl = http://web.archive.org/web/20080625045412/http://www.eirgrid.com/EirGridPortal/uploads/Publications/Wind+Impact+Study+-+main+report.pdf |archivedate = 25 June 2008 |quote=
+ | accessdate=23 July 2008 }}</ref> . 
+
+<ref name=slogin>[http://www.nytimes.com/2008/08/27/business/27grid.html?_r=2&oref=slogin&oref=slogin Wind Energy Bumps Into Power Grid’s Limits] Published: 26 August 2008</ref> . 
+
+<ref name=altamontPass>[http://www.ilr.tu-berlin.de/WKA/windfarm/altcal.html Wind Plants of California's Altamont Pass]{{Dead link|date=August 2010}}</ref> . 
+
+<ref name=green-e>[http://www.green-e.org/ Green-e.org] Retrieved on 20 May 2009</ref> . 
+
+<ref name=FourthReport>
+ {{cite web
+ | date=12 November 2008
+ | title=Chapter 7: Recommendations and Conclusions. In: Economic Affairs – Fourth Report, Session 2007–2008. The Economics of Renewable Energy
+ | author=House of Lords Economic Affairs Select Committee
+ | publisher=UK Parliament website
+ | url=http://www.publications.parliament.uk/pa/ld200708/ldselect/ldeconaf/195/19510.htm
+ | accessdate=6 September 2009}}</ref> . 
+
+<ref name=LobbyingAfter>
+ {{cite web
+ | date=30 March 2010
+ | title=Solar, Wind Power Groups Becoming Prominent Washington Lobbying Forces After Years of Relative Obscurity
+ | author=Cassandra LaRussa
+ | publisher=OpenSecrets.org
+ | url=http://www.opensecrets.org/news/2010/03/solar-wind-power-becoming-prominent.html}} . 
+
+</ref> . 
+
+<ref name=spendingOnNuclear> [http://www.ucsusa.org/news/media_alerts/nuclear-industry-spent-millions-to-sell-congress-on-new-reactors-0343.html Nuclear Industry Spent Hundreds of Millions of Dollars Over the Last Decade to Sell Public, Congress on New Reactors, New Investigation Finds], [[Union of Concerned Scientists]], 1 February 2010. In turn, citing:
+* Pasternak, Judy. [http://investigativereportingworkshop.org/investigations/nuclear-energy-lobbying-push/story/nuclear-energy-working-hard-win-support/ Nuclear Energy Lobby Working Hard To Win Support], American University School of Communication, Investigative Journalism Workshop, with McClatchy Newspapers, 24 January 2010. Retrieved 3 July 2010. </ref> . 
+
+<ref name=PerceptionOfNoise>{{cite journal|last=Pederson|first=Eja|date=December 2004|title=Perception and annoyance due to wind turbine noise—a dose–response relationship|publisher=Acoustic Society of America}}</ref> . 
+
+<ref name=smallScaleCarbonTrust>{{cite web|url=http://www.carbontrust.co.uk/technology/technologyaccelerator/small-wind |title=Small-scale wind energy |publisher=Carbontrust.co.uk |accessdate=29 August 2010}}</ref> . 
+
+<ref name=UrbanWindDefinition>{{cite web|url=http://www.answers.com/topic/urban-wind |title=Urban Wind Definition at |publisher=Answers.com |accessdate=29 August 2010}}</ref> . 
+
+<ref name=WindyCities>{{cite web|url=http://www.carbontrust.co.uk/News/presscentre/2007/230107_Smallscalwind.htm |title=Windy Cities? New research into the urban wind resource |publisher=Carbontrust.co.uk |accessdate=29 August 2010}}</ref> . 
+
+<ref name=CarbonSmallTrust>{{cite web|url=http://www.carbontrust.co.uk/News/presscentre/2008/Small-Scale-Wind-Energy.htm |title=The Potential Of Small-Scale Wind Energy |publisher=Carbontrust.co.uk |accessdate=29 August 2010}}</ref> . 
+
+<ref name=ActiveFiltering>{{cite web|url=http://ieeexplore.ieee.org/Xplore/login.jsp?url=/iel5/8658/27439/01221533.pdf?arnumber=1221533 |title=Active filtering and load balancing with small wind energy systems |publisher=Ieeexplore.ieee.org |accessdate=29 August 2010}}</ref> . 
+
+<ref name=tacklingUS>
+ {{cite web| url=http://ases.org/images/stories/file/ASES/climate_change.pdf | title=Tackling Climate Change in the U.S.|format=PDF | publisher= American Solar Energy Society| year=January 2007| accessdate=5 September 2007 }}
+</ref> . 
+
+<ref name=NGestimates>The UK System Operator, [[National Grid (UK)]] have quoted estimates of balancing costs for 40% wind and these lie in the range £500-1000M per annum. "These balancing costs represent an additional £6 to £12 per annum on average consumer electricity bill of around £390." . 
+
+ {{cite web| work=National Grid | year=2008 | title=National Grid's response to the House of Lords Economic Affairs Select Committee investigating the economics of renewable energy|
+url=http://www.parliament.uk/documents/upload/EA273%20National%20Grid%20Response%20on%20Economics%20of%20Renewable%20Energy.pdf}}{{Dead link|date=August 2010}}
+</ref> . 
+
+<ref name=minnesota>A study commissioned by the state of Minnesota considered penetration of up to 25%, and concluded that integration issues would be manageable and have incremental costs of less than one-half cent ($0.0045) per kW·h.  . 
+
+ {{cite web
+ | url= http://www.puc.state.mn.us/docs/windrpt_vol%201.pdf
+ | title= Final Report – 2006 Minnesota Wind Integration Study
+ |authorlink= | date= 30 November 2006 | format= PDF
+ | publisher= The Minnesota Public Utilities Commission
+ |archiveurl= |quote=
+ | accessdate=15 January 2008 }}</ref> . 
+
+<ref name=sinclairMerz>Sinclair Merz ''Growth Scenarios for UK Renewables Generation and Implications for Future Developments and Operation of Electricity Networks'' BERR Publication URN 08/1021 June 2008</ref> . 
+
+<ref name=clavertonReliable>{{cite web|url=http://www.claverton-energy.com/download/316/ |title=Claverton-Eneergy.com |accessdate=29 August 2010}}</ref> . 
+
+<ref name=dinorwig>[http://www.fhc.co.uk/dinorwig.html l First Hydro, Dinorwig]{{Dead link|date=August 2010}}</ref> . 
+
+<ref name=futureStorage>The Future of Electrical Energy Storage: The economics and potential of new technologies 2/1/2009 ID RET2107622</ref> . 
+
+<ref name=UKwindspeeds>
+ {{cite web
+ | url =http://www.ecolo.org/documents/documents_in_english/Wind-heat-06-5pc.htm
+ | title =Wind Generation's Performance during the July 2006 California Heat Storm
+ | date =9 August 2006
+ | author =David Dixon, Nuclear Engineer
+ | publisher =US DOE, Oakland Operations
+}}</ref> . 
+
+<ref name=smallWindSystems>{{cite web|url=http://www.seco.cpa.state.tx.us/re_wind_smallwind.htm |title=Small Wind Systems |publisher=Seco.cpa.state.tx.us |accessdate=29 August 2010}}</ref> . 
+
+<ref name=lavanguardia>{{cite web|url=http://www.lavanguardia.es/gen/20070321/51314068565/noticias/record-de-energia-eolica-por-el-vendaval-joan-clos.html |title=Récord de energía eólica por el vendaval |publisher=Lavanguardia.es |accessdate=7 January 2012}}</ref> . 
+
+<ref name=eolica>< La energía eólica supera por primera vez la mitad de la producción eléctrica [http://www.elpais.com/articulo/sociedad/eolica/supera/primera/vez/mitad/produccion/electrica/elpepusoc/20091109elpepisoc_2/Tes]></ref> . 
+
+<ref name=abbess>{{cite web|author=Jo Abbess |url=http://www.claverton-energy.com/wind-energy-variability-new-reports.html |title=Wind Energy Variability and Intermittency in the UK |publisher=Claverton-energy.com |date=28 August 2009 |accessdate=29 August 2010}}</ref> . 
+
+<ref name=capacityCredit>[http://www.claverton-energy.com/conference/programme Dr Graham Sinden, Oxford Environmental Change Institute: The implications of the Em’s 20/20/20 directive on renewable electricity generation requirements in the UK, and the potential role of offshore wind power in this context. (Graham Sinden has published a number of papers looking at the effects of integrating variable/intermittent generation into the generation mix) ]{{Dead link|date=August 2010}}</ref> . 
+
+<ref name="eirgrid renewables">{{cite web |url=http://www.eirgrid.com/renewables/ |title=Renewables |publisher=eirgrid.com |accessdate=22 November 2010}}</ref> . 
+
+<ref name="eirgrid impact">{{cite web |url=http://www.eirgrid.com/media/2004%20wind%20impact%20report%20(for%20updated%202007%20report,%20see%20above).pdf |title=Impact of Wind Power Generation in Ireland on the Operation of Conventional Plant and the Economic Implications |publisher=eirgrid.com |date=February 2004 |accessdate=22 November 2010}}</ref> . 
+
+<ref name=mysanantantonio>{{cite web|url=http://www.mysanantonio.com/news/weather/weatherwise/stories/MYSA092407.01A.State_windmills.3430a27.html |title=Quirky old-style contraptions make water from wind on the mesas of West Texas |publisher=Mysanantonio.com |date=23 September 2007 |accessdate=29 August 2010}}{{dead link|date=May 2011}}</ref> . 
+
+<ref name=quest>{{cite web|url=http://danielyergin.com |title=The Quest: Energy, Security, and the Remaking of the Modern World |publisher=us.Penguingroup.com |date=20 September 2011 |accessdate=1 November 2011}}</ref> . 
+
+<ref name="global council">Global wind energy council</ref> . 
+
+<ref name="ieawind">
+ {{cite web
+ | url= http://www.ieawind.org/AnnexXXV/Meetings/Oklahoma/IEA%20SysOp%20GWPC2006%20paper_final.pdf
+ | title= "Design and Operation of Power Systems with Large Amounts of Wind Power", IEA Wind Summary Paper
+ | author= Hannele Holttinen, ''et al.''
+ |date = September 2006|format= PDF |publisher= Global Wind Power Conference 18–21 September 2006, Adelaide, Australia
+ |archiveurl= |quote=
+ }}</ref> . 
+
+<ref name=salerno>Salerno, E., AWEA Director of Industry and Data Analysis, as quoted in Shahan, Z. (2011) [http://cleantechnica.com/2011/05/01/cost-of-wind-power-kicks-coals-butt-better-than-natural-gas-could-power-your-ev-for-0-70gallon/ Cost of Wind Power – Kicks Coal’s Butt, Better than Natural Gas (& Could Power Your EV for $0.70/gallon)"] ''CleanTechnica.com''</ref> . 
+
+<ref name=ieo06>{{cite web| url= http://www.eia.doe.gov/oiaf/archive/ieo06/special_topics.html | title= International Energy Outlook |authorlink= |year=2006 |publisher= [[Energy Information Administration]]
+| page= 66 |archivedate= |quote=}}</ref> . 
+
+<ref name=ccc>[http://hmccc.s3.amazonaws.com/Renewables%20Review/MML%20final%20report%20for%20CCC%209%20may%202011.pdf] Costs of low-carbon
+generation technologies May 2011 Committee on Climate Change</ref> . 
+
+<ref name=juande>{{cite web |url=http://www.juandemariana.org/pdf/090327-employment-public-aid-renewable.pdf |title=Study of the effects on employment of public aid to renewable energy sources |publisher=juandemariana.org |date=March 2009 |accessdate=22 November 2010}}</ref> . 
+
+<ref name=nrelemployment>{{cite web |url=http://www.nrel.gov/docs/fy09osti/46261.pdf |title=NREL Response to the Report Study of the Effects on Employment of Public Aid to Renewable Energy Sources from King Juan Carlos University (Spain) |publisher=nrel.gov |date=August 2009}}</ref> . 
+
+<ref name=meritorder>{{cite web|url=http://isi.fraunhofer.de/isi/publ/download/isi07a18/merit-order-effect.pdf?pathAlias=/publ/downloads/isi07a18/merit-order-effect.pdf|archiveurl=http://www.webcitation.org/5sLyvXbZ6|archivedate=29 August 2010 |title=The Merit-Order Effect: A Detailed Analyis of the Price Effect of Renewable Electricity Generation on Spot Market Prices in Germany |format=PDF |accessdate=29 August 2010}}</ref> . 
+
+<ref name=helming>Helming, Troy (2004) [http://web.archive.org/20071118125045/arizonaenergy.org/News&Events/Uncle%20Sam's%20New%20Year's%20Resolution.htm "Uncle Sam's New Year's Resolution"] ''ArizonaEnergy.org''</ref> . 
+
+<ref name="GWEC_Market">{{cite web|url=http://www.gwec.net/index.php?id=180 |title=GWEC, Global Wind Report Annual Market Update |publisher=Gwec.net |accessdate=14 May 2011}}</ref> . 
+
+<ref name="GWEC_Forcast">{{cite web|url=http://www.gwec.net/index.php?id=181&L=0%B4 |title=GWEC, Global Wind Energy Outlook |publisher=Gwec.net |accessdate=14 May 2011}}</ref> . 
+
+<ref name=claverton>[http://www.claverton-energy.com/where-does-the-wind-come-from-and-how-much-is-there.html "Where does the wind come from and how much is there"] – Claverton Energy Conference, Bath 24 October 2008</ref> . 
+
+<ref name=eiadoe>{{cite web| url= http://www.eia.doe.gov/oiaf/archive/ieo06/special_topics.html | title= International Energy Outlook |authorlink= |year=2006 |publisher= [[Energy Information Administration]]
+| page= 66 |archivedate= |quote=}}</ref> . 
+
+<ref name="wwea">
+ {{cite web
+ | publisher = [[World Wind Energy Association]]
+ | title = World Wind Energy Report 2010
+ | format = PDF
+ | work = Report
+ | date = February 2011
+ | url = http://www.wwindea.org/home/images/stories/pdfs/worldwindenergyreport2010_s.pdf
+ | accessdate =8-August-2011}}</ref> . 
+
+<ref name=wor>{{cite web|url=http://www.worldwatch.org/node/6102?emc=el&m=239273&l=5&v=ca5d0bd2df |title=Wind Power Increase in 2008 Exceeds 10-year Average Growth Rate |publisher=Worldwatch.org |accessdate=29 August 2010}}</ref> . 
+
+<ref name=ren212011>{{cite web |url=http://www.ren21.net/Portals/97/documents/GSR/GSR2011_Master18.pdf |title=Renewables 2011: Global Status Report |author=[[REN21]] |date=2011 |page=11 }}</ref> . 
+
+<ref name="claverton-energy.com">{{cite web|author=Jo Abbess |url=http://www.claverton-energy.com/wind-energy-variability-new-reports.html |title=Claverton-Energy.com |publisher=Claverton-Energy.com |date=28 August 2009 |accessdate=29 August 2010}}</ref> . 
+
+<ref name="Price">
+ {{Cite journal|last=Price|first=Trevor J|title=James Blyth – Britain's first modern wind power engineer|url=http://www.ingentaconnect.com/content/mscp/wind/2005/00000029/00000003/art00002|journal=Wind Engineering|volume=29|issue=3|pages=191–200|date=3 May 2005|doi=10.1260/030952405774354921}} {{Dead link|date=May 2010}}
+</ref> . 
+
+<ref name=nine>American Wind Energy Association (2009). [http://www.awea.org/publications/reports/AWEA-Annual-Wind-Report-2009.pdf Annual Wind Industry Report, Year Ending 2008]{{dead link|date=May 2011}} pp. 9–10. </ref> . 
+
+<ref name="eolicenergynews4082">{{cite web|url=http://www.eolicenergynews.org/?p=4082 |title=Spain becomes the first European wind energy producer after overcoming Germany for the first time |publisher=Eolic Energy News |date=31 December 2010 |accessdate=14 May 2011}}</ref> . 
+
+<ref name=gwec2007>{{cite web|url=http://www.gwec.net/index.php?id=30&no_cache=1&tx_ttnews%5Btt_news%5D=121&tx_ttnews%5BbackPid%5D=4&cHash=f9b4af1cd0 |title=Continuing boom in wind energy – 20 GW of new capacity in 2007 |publisher=Gwec.net |accessdate=29 August 2010}}</ref> . 
+
+<ref name=re>{{cite web|url=http://www.renewableenergyworld.com/rea/news/article/2009/03/btm-forecasts-340-gw-of-wind-by-2013?src=rss |title=BTM Forecasts 340-GW of Wind Energy by 2013 |publisher=Renewableenergyworld.com |date=27 March 2009 |accessdate=29 August 2010}}</ref> . 
+
+<ref name=bt>BTM Consult (2009). [http://www.btm.dk/documents/pressrelease.pdf International Wind Energy Development World Market Update 2009]</ref> . 
+
+<ref name=Danish-loss-of-value-scheme>
+Wind Turbines in Denmark (section 6.8, page 22) - Danish Energy Agency [http://www.ens.dk/en-US/supply/Renewable-energy/WindPower/Documents/Vindturbines%20in%20DK%20eng.pdf]
+</ref> . 
+
+<ref name="btm2010o">Madsen & Krogsgaard. [http://btm.dk/news/offshore+wind+power+2010/?s=9&p=&n=39 Offshore Wind Power 2010] ''[[BTM Consult]]'', 22 November 2010. Retrieved: 22 November 2010. </ref> . 
+
+<ref name=Demeo2005> . 
+
+ {{Cite journal
+ | last1 = Demeo | first1 = E.A. 
+ | last2 = Grant | first2 = W. 
+ | last3 = Milligan | first3 = M.R. 
+ | last4 = Schuerger | first4 = M.J. 
+ | year = 2005
+ | title = Wind plant integration
+ | journal = Power and Energy Magazine, IEEE
+ | volume = 3
+ | issue = 6
+ | pages = 38–46
+ | doi = 10.1109/MPAE.2005.1524619
+ | url = http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1524619
+ | postscript = <!--None-->
+}}</ref> . 
+
+<ref name=Zavadil2005>{{Cite journal
+ | last1 = Zavadil | first1 = R. 
+ | last2 = Miller | first2 = N. 
+ | last3 = Ellis | first3 = A. 
+ | last4 = Muljadi | first4 = E. 
+ | year = 2005
+ | title = Making connections
+ | journal = Power and Energy Magazine, IEEE
+ | volume = 3
+ | issue = 6
+ | pages = 26–37
+ | doi = 10.1109/MPAE.2005.1524618
+ | url = http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1524618
+ | postscript = <!--None-->
+}}</ref> . 
+
+<ref name="is windpower reliable">{{cite web|url=http://www.claverton-energy.com/is-wind-power-reliable-an-authoritative-article-from-david-millborrow-who-is-technically-experienced-and-numerate-unlike-many-other-commentators.html |title=Claverton-Energy.com |publisher=Claverton-Energy.com |accessdate=29 August 2010}}</ref> . 
+
+<ref name="Mitchell 2006">Mitchell 2006. </ref> . 
+
+<ref name="geothermal_incentive">
+ {{cite web
+ |url=http://www.capitalelec.com/Energy_Efficiency/ground_source/index.html
+ |title=Geothermal Heat Pumps
+ |publisher=[[Capital Electric Cooperative]]
+ |accessdate=5 October 2008
+}}
+</ref> . 
+
+<ref name=characteristics>
+ {{cite web
+ | url = http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V2W-4HPD59N-1&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=bf0326d6c9fba5f5d1fc6c86b25eb2d8
+ | title = Characteristics of the UK wind resource: Long-term patterns and relationship to electricity demand
+ | author =Graham Sinden
+ | publisher =Environmental Change Institute, Oxford University Centre for the Environment
+ | date =1 December 2005
+}}
+</ref> . 
+
+<ref name=windsun>[http://blog.oregonlive.com/pdxgreen/2008/01/wind_sun_join_forces_at_washin.html Wind + sun join forces at Washington power plant]. Retrieved 31 January 2008. </ref> . 
+
+<ref name="cleveland_water_crib">
+ {{cite web
+ | url=http://www.development.cuyahogacounty.us/pdf_development/en-US/ExeSum_WindResrc_CleveWtrCribMntr_Reprt.pdf
+ | title=Lake Erie Wind Resource Report, Cleveland Water Crib Monitoring Site, Two-Year Report Executive Summary
+ | format=PDF
+ | publisher=Green Energy Ohio
+ | date=10 January 2008
+ | accessdate=27 November 2008
+}} This study measured up to four times as much average wind power during winter as in summer for the test site. </ref> . 
+
+<ref name="combined_power_plant">
+ {{cite web
+ | url=http://www.solarserver.de/solarmagazin/anlagejanuar2008_e.html
+ | title=The Combined Power Plant: the first stage in providing 100% power from renewable energy
+ | month=January
+ | year=2008
+ | accessdate=10 October 2008
+ | publisher=SolarServer
+}}</ref> . 
+
+<ref name="Denmark">
+ {{cite web
+ | url= http://www.thomastelford.com/journals/DocumentLibrary/CIEN.158.2.66.pdf
+ | title= Why wind power works for Denmark
+ |authorlink= |date = May 2005|format= PDF |publisher= [[Civil Engineering]]
+ |archiveurl= |quote=
+ | accessdate=15 January 2008 }}
+</ref> . 
+
+<ref name="Czisch-Giebel">[http://www.risoe.dk/rispubl/reports/ris-r-1608_186-195.pdf Realisable Scenarios for a Future Electricity Supply based 100% on Renewable Energies] Gregor Czisch, University of Kassel, Germany and Gregor Giebel, Risø National Laboratory, Technical University of Denmark</ref> . 
+
+<ref name="connecting_wind_farms">
+ {{cite web
+ | url=http://www.eurekalert.org/pub_releases/2007-11/ams-tpo112107.php
+ | title=The power of multiples: Connecting wind farms can make a more reliable and cheaper power source
+ | date=21 November 2007
+}}</ref> . 
+
+<ref name=Archer2007>{{Cite journal
+ | doi = 10.1175/2007JAMC1538.1
+ | title = Supplying Baseload Power and Reducing Transmission Requirements by Interconnecting Wind Farms
+ | author = Archer, C. L.; Jacobson, M. Z. 
+ | year = 2007
+ | journal = Journal of Applied Meteorology and Climatology
+ | volume = 46
+ | issue = 11
+ | pages = 1701–1717
+ | url = http://www.stanford.edu/group/efmh/winds/aj07_jamc.pdf
+ | publisher = [[American Meteorological Society]]
+ | postscript = <!--None-->
+|bibcode = 2007JApMC..46.1701A }}</ref> . 
+
+<ref name="BWEA">[http://www.bwea.com/pdf/briefings/target-2005-small.pdf BWEA report on onshore wind costs] (PDF). </ref> . 
+
+<ref name="Patel">"Wind and Solar Power Systems&nbsp;— Design, analysis and Operation" (2nd ed., 2006), Mukund R. Patel, p. 303</ref> . 
+
+<ref name=helm>
+ {{Cite book
+ | date = October 2009
+ | author = Helm, D. D. Helm and C. Hepburn (eds)
+ | title = EU climate-change policy-a critique. From: "The Economics and Politics of Climate Change"
+ | publisher = Oxford University Press
+ | url = http://www.dieterhelm.co.uk/publications/SS_EU_CC_Critique.pdf
+ | accessdate =6 September 2009}}</ref> . 
+
+<ref name="livestock_ignore">
+ {{cite web
+ | url= http://www.uintacountyherald.com/V2_news_articles.php?heading=0&page=72&story_id=1299
+ | title =Capturing the wind
+ | first =Erin
+ | last =Buller
+ | date =11 July 2008
+ | publisher =Uinta County Herald
+ | accessdate =4 December 2008
+}}"The animals don’t care at all. We find cows and antelope napping in the shade of the turbines." – Mike Cadieux, site manager, Wyoming Wind Farm</ref> . 
+
+<ref name=mar>{{cite web|url=http://www.sustainabilitycentre.com.au/WindPowersStrength.pdf |title=Why Australia needs wind power |format=PDF |accessdate=7 January 2012}}</ref> . 
+
+<ref name="Eilperin">
+ {{cite news
+ | url = http://www.washingtonpost.com/wp-dyn/content/article/2009/04/15/AR2009041503622_2.html?hpid=topnews&sid=ST2009041602328
+ | title = Renewable Energy's Environmental Paradox
+ | last = Eilperin | first= Juliet |coauthors= Steven Mufson
+ | date = 16 April 2009
+ |work=The Washington Post | accessdate=17 April 2009 }}
+</ref> . 
+
+<ref name="rspb">{{cite web
+ | url = http://www.rspb.org.uk/ourwork/policy/windfarms/index.asp
+ | title = Wind farms
+ | publisher = [[Royal Society for the Protection of Birds]]
+ | accessdate =7 September 2008
+ | date = 14 September 2005 }}</ref> . 
+
+<ref name="blanketpeat">{{cite journal|last=Lindsay|first=Richard|date=October 2004|title=WIND FARMS AND BLANKET PEAT The Bog Slide of 16 October 2003 at Derrybrien, Co. Galway, Ireland|publisher=The Derrybrien Development Cooperatve Ltd|url=http://www.uel.ac.uk/erg/documents/Derrybrien.pdf|accessdate=20 May 2009}}</ref> . 
+
+<ref name="An_Urban_Experiment_in_Renewable_Energy">
+ {{cite web
+ |url=http://www.greenbeanchicago.com/urban-experiment-renewable-energy/
+ |title=An Urban Experiment in Renewable Energy
+ |first=William
+ |last=Olson
+ |date=15 February 2010
+ |accessdate=8 March 2010
+ }}</ref> . 
+
+<ref name="Urban_Experiment_in_Renewable_Energy">{{cite web
+ |url=http://open.salon.com/blog/william_olson/2010/02/16/an_urban_experiment_in_renewable_energy
+ |title=Urban Experiment in Renewable Energy
+ |first=William
+ |last=Olson
+ |date=16 February 2010
+ |accessdate=8 March 2010
+ }}</ref> . 
+
+<ref name=ie>[[International Energy Agency]] (2009). [http://www.ieawind.org/AnnualReports_PDF/2008/2008%20AR_small.pdf IEA Wind Energy: Annual Report 2008] p. 235. </ref> . 
+
+<ref name=guardianQA>Aldred, Jessica. [http://www.guardian.co.uk/environment/2007/dec/10/windpower.renewableenergy Q&A: Wind Power], The Guardian, 10 December 2007. </ref> . 
+
+<ref name="guardian.co.uk">Gourlay, Simon. [http://www.guardian.co.uk/commentisfree/2008/aug/12/windpower.alternativeenergy Wind Farms Are Not Only Beautiful, They're Absolutely Necessary], The Guardian, 12 August 2008. </ref> . 
+
+}} . 
+
+== External links ==. 
+{{Commons category}} . 
+
+* [http://solarpowernotes.com/renewable-energy/wind-power/how-wind-power-works.html How electricity is produced using Wind Energy]
+* [http://www.wwindea.org/home/index.php/ World Wind Energy Association (WWEA)]
+* [http://www.vestaselearning.com/ Animated content on Wind Technology]
+* [http://www.gizmag.com/the-first-race-for-wind-powered-vehicles/9953/ Wind-powered vehicles]. 
+* [http://www.ted.com/index.php/talks/saul_griffith_on_kites_as_the_future_of_renewable_energy.html Inventing a super-kite to tap the energy of high-altitude wind, February 2009], ([[TED conference]] video), 5:25 min . 
+
+{{Wind power}}
+{{Wind power by country}}
+{{Electricity generation|state=collapsed}}
+{{Application of wind energy}}
+{{Renewable energy by country}} . 
+
+{{DEFAULTSORT:Wind Power}}
+[[Category:Wind power| ]]

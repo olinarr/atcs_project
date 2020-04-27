@@ -1,0 +1,428 @@
+{{Multiple issues|refimprove = January 2012|original research = January 2012|POV = January 2012}} . 
+
+{{wiktionary|proprietary}}
+'''Proprietary software''' is computer software [[software license|licensed]]{{Citation needed|date=March 2012}} under exclusive legal right of the copyright holder.{{Citation needed|date=March 2012}}  The [[licensee]] is given the right to use the software under certain conditions, while restricted from other uses, such as modification, further distribution, or [[reverse engineering]].{{Citation needed|date=March 2012}} . 
+
+Complementary terms include [[free software]],{{Citation needed|date=March 2012}} licensed by the owner under more permissive terms, and [[public domain software]], which is not subject to copyright and can be used for any purpose. Proponents of [[free and open source software]] use ''proprietary'' or ''non-free'' to describe software that is not free or open source. <ref>{{cite web | url=http://www.gnu.org/philosophy/categories.html#ProprietarySoftware | title=Categories of Free and Nonfree Software - GNU Project - Free Software Foundation (FSF) | quote=Proprietary software is another name for nonfree software. | accessdate=2011-10-25}}</ref><ref>{{cite web|url=http://www.thehindu.com/sci-tech/technology/article2886514.ece?homepage=true|publisher=[[The Hindu]]|title=Free software and basic freedom|author=Vasudha Venugopal}} quoting Richard M. Stallman. </ref> . 
+
+In the [[software industry]], [[commercial software]] refers to software produced for sale, which is a related but distinct categorization.  . 
+
+According to [[Eric S. Raymond ]], in the [[Jargon File]], "In the language of hackers and users" it is used pejoratively, with the meaning of "inferior" and "a product not conforming to open-systems standards". <ref>http://catb.org/jargon/html/P/proprietary.html</ref> . 
+
+== Software becoming proprietary ==. 
+Until the late 1960s computers&mdash;huge and expensive [[Mainframe computer|mainframe]] machines in specially [[Air conditioning|air-conditioned]] computer rooms&mdash;were usually supplied on a [[leasing|lease]] rather than purchase basis. <ref>{{Cite book
+|author=Paul E.Ceruzzi
+|title=A history of modern computing
+|accessdate=2010-11-12
+|year=2003
+|publisher=[[MIT Press]]
+|isbn=0-262-53203-4
+|pages=445
+|page=128
+|quote=''Although IBM agreed to sell its machines as part of a Consent Decree effective January 1956, leasing continued to be its preferred way of doing business''
+|postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref><ref>{{cite web
+| url=http://www.leasegenie.com/History_of_Leasing.html
+| title=History of Leasing
+|publisher=leasegenie.com
+| quote=''In the 1960s, IBM and Xerox recognized that substantial sums could be made from the financing of their equipment. The leasing of computers and office equipment that occurred then was a significant contribution to leasings growth, since many companies were exposed to equipment leasing for the first time when they leased such equipment''
+| accessdate=2010-11-12}}</ref> Service and all software available were usually supplied by manufacturers without separate charge until 1969. Software [[source code]] was usually provided. Users who developed software often made it available, without charge. Customers who purchased expensive mainframe [[computer hardware|hardware]] did not pay separately for software.  . 
+
+In 1969 IBM led an industry change by [[History of IBM#1969: Antitrust.2C the Unbundling of software and services|starting to charge separately for (mainframe) software]] and services, and ceasing to supply source code. <ref>{{cite web
+| url=http://www-03.ibm.com/ibm/history/history/decade_1960.html
+| title=http://www-03.ibm.com/ibm/history/history/decade_1960.html
+|publisher=[[IBM]]
+| quote=''Rather than offer hardware, services and software exclusively in packages, marketers "unbundled" the components and offered them for sale individually. Unbundling gave birth to the multibillion-dollar software and services industries, of which IBM is today a world leader''
+| accessdate=2010-11-12}}</ref> . 
+
+== Legal basis == . 
+
+{{see|Software law|Software copyright|Software patent|End-user license agreement}} . 
+
+Most software is covered by [[software copyright|copyright]] which, along with [[contract|contract law]], [[software patent|patents]], and [[trade secret]]s, provides legal basis for its owner to establish exclusive rights. <ref name="liberman">{{cite journal
+|last=Liberman
+|first=Michael
+|title=Overreaching Provisions in Software License Agreements
+|journal=[[Richmond Journal of Law and Technology]]
+|volume=1
+|year=1995
+|page=4
+|url=http://jolt.richmond.edu/v1i1/liberman.html
+|accessdate=November 29, 2011
+}}</ref> . 
+
+A software vendor delineates the specific terms of use in an [[end-user license agreement]] (EULA). The user may agree to this contract in writing, interactively, called [[clickwrap|clickwrap licensing]], or by opening the box containing the software, called [[shrink wrap license|shrink wrap licensing]]. License agreements are usually [[standard form contract|not negotiable]].{{Citation needed|date=March 2012}} . 
+
+[[Software patent]]s grant exclusive rights to algorithms, software features, or other [[patentable subject matter]]. Laws on software patents vary by jurisdiction and are a matter of [[software patent debate|ongoing debate]]. Vendors sometimes grant patent rights to the user in the license agreement. <ref name="tysver">{{cite web
+  | author = Daniel A. Tysver
+  | publisher = Bitlaw.com
+  | title = Why Protect Software Through Patents
+  | date = 2008-11-23
+  | url = http://www.bitlaw.com/software-patent/why-patent.html
+  | accessdate = 2009-06-03
+  | quote = In connection with software, an issued patent may prevent others from utilizing a certain algorithm (such as the GIF image compression algorithm) without permission, or may prevent others from creating software programs that perform a function in a certain way.  In connection with computer software, copyright law can be used to prevent the total duplication of a software program, as well as the copying of a portion of software code.}}</ref>
+For example, the [[algorithm]] for creating, or encoding, [[MP3]]s [[MP3#Licensing_and_patent_issues|is patented]]; [[LAME]] is an MP3 encoder which is open source but illegal to use without obtaining a license for the algorithm it contains.  . 
+
+Proprietary software vendors usually regard source code as a [[trade secret]]. <ref>{{Cite journal
+  | first = S. 
+  | last = Donovan
+  | title = Patent, copyright and trade secret protection for software
+  | journal = Potentials, IEEE
+  | volume = 13
+  | issue = 3
+  | year = 1994
+  | pages = 20
+  | quote = Essentially there are only three ways to protect computer software under the law: patent it, register a copyright for it, or keep it as a trade secret. 
+  | doi = 10.1109/45.310923
+  | postscript = <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref> . 
+
+[[Free software licence]]s and [[open-source licence]]s use the same legal basis as proprietary software. <ref>{{cite web
+ | url = http://www.fsf.org/licensing/licenses/why-assign.html
+ | title = Why the FSF gets copyright assignments from contributors
+ | author = Eben Moglen
+ | date = 2005-02-12
+ | accessdate = 2009-06-26
+ | quote = Under US copyright law, which is the law under which most free software programs have historically been first published, [...] only the copyright holder or someone having assignment of the copyright can enforce the license.}}</ref> Free software companies and projects are also joining into [[patent pool]]s like the [[Patent Commons]] and the [[Open Invention Network]].  . 
+
+=== Limitations === . 
+
+License agreements do not override applicable [[copyright|copyright law]] or [[contract|contract law]]. Provisions that conflict may not be enforceable.{{citation needed|date=August 2011}} . 
+
+Some vendors say that software licensing is not a sale, and that limitations of copyright like the [[first-sale doctrine]] do not apply. The EULA for [[Microsoft Windows]] states that the software is licensed, not sold. <ref>{{cite web
+  | author = [[Microsoft Corporation]]
+  | title =  End-User License Agreement for Microsoft Software: Microsoft Windows XP Professional Edition Service Pack 2
+  | page = Page 3
+  | date = 2005-04-01
+  | url = http://www.microsoft.com/about/legal/useterms/
+  | format = PDF
+  | accessdate = 2009-04-29
+}}</ref> . 
+
+== Exclusive rights == . 
+
+The owner of proprietary software exercises certain [[exclusive right]]s over the software. The owner can restrict use, inspection of source code, modification of source code, and redistribution. <!-- This sentence merely summarizes the following section, and says absolutely nothing controversial. --> . 
+
+=== Use of the software === . 
+
+{{See|Copy protection|Damaged good|Price discrimination}} . 
+
+Vendors typically limit the number of computers on which software can be used, and prohibit the user from installing the software on extra computers.{{Citation needed|date=March 2012}} Restricted use is sometimes enforced through a technical measure, such as [[product activation]], a [[product key]] or serial number, a [[dongle|hardware key]], or [[copy protection]].  . 
+
+Vendors may also distribute versions that remove particular features, or versions which allow only certain fields of endeavor, such as non-commercial, educational, or non-profit use.  . 
+
+Use restrictions vary by license:
+* [[Windows Vista Starter]] is restricted to running a maximum of three concurrent applications. 
+* The retail edition of [[Microsoft Office 2007#Editions|Microsoft Office Home and Student 2007]] is limited to non-commercial use on up three devices in one household. 
+* [[Windows XP]] can be installed on one computer, and limits the number of network file sharing connections to 10. <ref>{{cite web
+  | author = [[Microsoft Corporation]]
+  | title =  End-User License Agreement for Microsoft Software: Microsoft Windows XP Professional Edition Service Pack 2
+  | page = Page 1
+  | date = 2005-04-01
+  | url = http://www.microsoft.com/about/legal/useterms/
+  | format = PDF
+  | accessdate = 2009-04-29
+  | quote = You may install, use, access, display and run one copy of the Software on a single computer, such as a workstation, terminal or other device (“Workstation Computer”). The Software may not be used by more than two (2) processors at any one time on any single Workstation Computer. ... You may permit a maximum of ten (10) computers or other electronic devices (each a 'Device') to connect to the Workstation Computer to utilize one or more of the following services of the Software: File Services, Print Services, Internet Information Services, Internet Connection Sharing and telephony services.}}</ref> The [[Windows XP Home Edition|Home Edition]] disables features present in Windows XP Professional. 
+* Many [[Adobe Systems|Adobe]] licenses are limited to one user, but allow the user to install a second copy on a home computer or laptop. <ref>{{citation
+ |title = Adobe Software License Agreement
+ |author = Adobe Systems
+ |authorlink = Adobe Systems
+ |url = http://www.adobe.com/products/eulas/pdfs/gen_wwcombined_20091001_1604.pdf
+ |accessdate = 2010-06-09
+ }}</ref>
+* [[iWork|iWork '09]], Apple's productivity suite, is available in a five-user family pack, for use on up to five computers in a household.{{Citation needed|date=March 2012}} . 
+
+=== Inspection and modification of source code === . 
+
+{{See also2|[[Closed source software]]|[[Open source]]|[[Damaged good#Anti-features|Anti-features]]}} . 
+
+Vendors typically distribute proprietary software in [[compiler|compiled]] form, usually the [[machine code|machine language]] understood by the computer's [[central processing unit]]. They typically retain the [[source code]], or human-readable version of the software, written in a [[high-level programming language|higher level programming language]]. <ref>{{Cite journal
+  | first = Ira V. 
+  | last = Heffan
+  | title = Copyleft: Licensing Collaborative Works in the Digital Age
+  | journal = Stanford Law Review
+  | volume = 49
+  | year = 1997
+  | pages = 1490
+  | url = http://www.open-bar.org/docs/copyleft.pdf
+  | quote = Under the proprietary software model, most software developers withhold their source code from users. 
+  | postscript = <!--None-->}}</ref> This scheme is often referred to as [[closed source software|closed source]]. <ref name="dwheeler">{{cite web
+  | author = David A. Wheeler
+  | title = Free-Libre / Open Source Software (FLOSS) is Commercial Software
+  | date = 2009-02-03
+  | url = http://www.dwheeler.com/essays/commercial-floss.html
+  | accessdate = 2009-06-03}}</ref> . 
+
+By withholding source code, the software producer prevents the user from understanding how the software works and from changing how it works. <ref>{{cite book
+  | last = Margolis
+  | first = Philip E. 
+  | title = Webster's Computer & Internet Dictionary
+  | publisher = Random House
+  | year = 1999
+  | location = 
+  | pages = 452
+  | quote = [P]roprietary is the opposite of open. A proprietary design or technique is one that is owned by a company. It also implies that the company has not divulged specifications that would allow other companies to duplicate the product. 
+  | isbn = 0-375-70351-9}}</ref> This practice is denounced by some critics, who argue that users should be able to study and change the software they use, for example, to remove secret or malicious features, or look for security vulnerabilities. Richard Stallman says that proprietary software commonly contains "malicious features, such as spying on the users, restricting the users, back doors, and imposed upgrades."<ref>https://www.gnu.org/philosophy/open-source-misses-the-point.html</ref> Some proprietary software vendors say that retaining the source code makes their software more secure, because the widely available code for open-source software makes it easier to identify [[vulnerability (computing)|security vulnerabilities]]. <ref>{{cite news| url=http://news.bbc.co.uk/2/hi/business/4602325.stm | work=BBC News | first=Steve | last=Kingstone | title=Brazil adopts open-source software | date=2005-06-02}}</ref> Open source proponents pejoratively call this [[security through obscurity]], and say that wide availability results in increased scrutiny of the source code, making open source software more secure. <ref>http://www.technewsworld.com/story/57085.html?wlc=1276053152</ref> . 
+
+While most proprietary software is closed-source, some vendors distribute the source code or otherwise make it available to customers.{{Citation needed|date=March 2012}} The source code is covered by a [[non-disclosure agreement]] or a license that allows, for example, study and modification, but not redistribution.{{Citation needed|date=March 2012}} The text-based email client [[Pine (e-mail client)|Pine]] and certain implementations of [[Secure Shell]] are distributed with proprietary licenses that make the source code available.{{Citation needed|date=March 2012}} . 
+
+Some governments fear that proprietary software may include [[software bug|defects]] or [[malware|malicious features]] which would compromise sensitive information. In 2003 Microsoft established a Government Security Program (GSP) to allow governments to view source code and Microsoft security documentation, of which the [[Government of the People's Republic of China|Chinese government]] was an early participant. <ref>http://news.cnet.com/Governments-to-see-Windows-code/2100-1006_3-980666.html</ref><ref name="china">http://news.cnet.com/2100-1007-990526.html</ref> The program is part of Microsoft's broader [[shared source|Shared Source Initiative]] which provides source code access for some products. The Reference Source License (Ms-RSL) and Limited Public License (Ms-LPL) are proprietary software licenses where the source code is made available.  . 
+
+Software vendors sometimes use [[obfuscated code]] to impede users who would [[reverse engineer]] the software.{{Citation needed|date=March 2012}} This is particularly common with certain [[programming language]]s.{{Citation needed|date=March 2012}} For example, the [[Java bytecode|bytecode]] for programs written in [[Java (programming language)|Java]] can be easily [[decompiler|decompiled]] to somewhat usable code,{{citation needed|date=November 2010}} and the source code for programs written in [[scripting language]]s such as [[PHP]] or [[JavaScript]] is available at [[run time (program lifecycle phase)|run time]]. <ref>{{cite web
+  | author = Tony Patton 
+  | title =  Protect your JavaScript with obfuscation
+  | date = 2008-11-21
+  | url = http://blogs.techrepublic.com.com/programming-and-development/?p=762
+  | accessdate = 2009-06-12
+  | quote = While the Web promotes the sharing of such code, there are times when you or a client may not want to share their JavaScript code. This may be due to the sensitive nature of data within the code, proprietary calculations, or any other scenario.}}</ref> . 
+
+=== Redistribution === . 
+
+{{see|Shareware}}
+{{See also|Freely redistributable software}} . 
+
+Proprietary software vendors can prohibit users from sharing the software with others. Another unique license is required for another party to use the software.  . 
+
+In the case of proprietary software with source code available, the vendor may also prohibit customers from distributing their modifications to the source code.  . 
+
+<!-- Keep consistent with definition at [[shareware]]. -->
+[[Shareware]] is closed-source software whose owner encourages redistribution at no cost, but which the user sometimes must pay to use after a trial period. The fee usually allows use by a single user or computer. In some cases, software features are restricted during or after the trial period, a practice sometimes called [[damaged good|crippleware]].  . 
+
+== Interoperability with software and hardware ==. 
+{{Further2|[[Interoperability#Software|Interoperability of software]]}} . 
+
+=== Proprietary file formats and protocols === . 
+
+{{see|Proprietary format|Proprietary protocol}} . 
+
+Proprietary software often{{Citation needed|date=March 2012}} stores some of its data in file formats which are incompatible with other software, and may also communicate using [[communication protocol|protocols]] which are incompatible. Such formats and protocols may be restricted as [[trade secret]]s or subject to [[patent]]s.{{Citation needed|date=March 2012}} . 
+
+=== Proprietary APIs === . 
+
+A proprietary [[application programming interface]] (API) is a [[software library]] interface "specific to one device or, more likely to a number of devices within a particular manufacturer's product range."<ref name="techworld">http://features.techworld.com/applications/471/apis-what-they-are-and-what-theyre-for/</ref>  The motivation for using a proprietary API can be [[vendor lock-in]] or because standard APIs do not support the device's functionality. <ref name="techworld"/> . 
+
+The [[European Commission]], in its March 24, 2004 decision on Microsoft's business practices,<ref>{{cite web |url=http://ec.europa.eu/comm/competition/antitrust/cases/decisions/37792/en.pdf |title=Commission Decision of 24.03.2004 relating to a proceeding under Article 82 of the EC Treaty (Case COMP/C-3/37.792 Microsoft) |date=March 24, 2004 |publisher=[[European Commission]] |format=PDF |accessdate=June 17, 2009}}</ref> quotes, in paragraph 463, Microsoft general manager for [[C++]] development Aaron Contorer as stating in a February 21, 1997 internal Microsoft memo drafted for [[Bill Gates]]: . 
+
+:The Windows API is so broad, so deep, and so functional that most ISVs would be crazy not to use it. And it is so deeply embedded in the source code of many Windows apps that there is a huge switching cost to using a different operating system instead.  . 
+
+Early versions of the [[iOS SDK|iPhone SDK]] were covered by a [[non-disclosure agreement]]. The agreement forbade independent developers from discussing the content of the interfaces. Apple discontinued the NDA in October 2008. <ref name="nda">{{cite web
+|last=Wilson
+|first=Ben
+|title=Apple Drops NDA for Released iPhone Software
+|publisher=CNET Reviews
+|url=http://reviews.cnet.com/8301-19512_7-10115774-233.html
+|date=2008-10-01
+|accessdate=2010-12-17
+}}
+</ref> . 
+
+=== Vendor lock-in ===. 
+{{see|Vendor lock-in}} . 
+
+A dependency on the future versions and upgrades for a proprietary software package can create ''vendor lock-in'', entrenching a monopoly position. <ref>{{cite web
+ | author = The Linux Information Project
+ | title = Vendor Lock-in Definition
+ | date = 2006-04-29
+ | url = http://www.linfo.org/vendor_lockin.html
+ | accessdate = 2009-06-11
+ | quote = Vendor lock-in, or just lock-in, is the situation in which customers are dependent on a single manufacturer or supplier for some product [...]  This dependency is typically a result of standards that are controlled by the vendor [...] It can grant the vendor some extent of monopoly power [...] The best way for an organization to avoid becoming a victim of vendor lock-in is to use products that conform to free, industry-wide standards. Free standards are those that can be used by anyone and are not controlled by a single company. In the case of computers, this can usually be accomplished by using free software rather than proprietary software (i.e., commercial software).}}</ref> . 
+
+=== Software limited to certain hardware configurations ===. 
+Proprietary software may also have licensing terms that limit the usage of that software to a specific set of hardware. [[Apple Inc.|Apple]] has such a licensing model for [[Mac OS X]], an operating system which is limited to Apple hardware, both by licensing and various design decisions. This licensing model has been affirmed by the [[United States Court of Appeals]]. <ref>{{cite web
+ | author = Apple wins key battle against Psystar over Mac clones
+ | title = Apple court victory over Pystar
+ | date = 2011-09-29
+ | url = http://news.cnet.com/8301-13506_3-20113365-17/apple-wins-key-battle-against-psystar-over-mac-clones/
+ | accessdate = 2011-09-30}}</ref> . 
+
+== Abandonment by owners == . 
+
+{{main|Abandonware}} . 
+
+Proprietary software which is no longer marketed by its owner and is used without permission by users is called [[abandonware]] and may include source code.  Some abandonware has the source code released to the public domain either by its author or copyright holder and is therefore free software, and no longer proprietary software. <!-- Keep consistent with definition at [[abandonware]]. --> . 
+
+If the proprietor of a software package should cease to exist, or decide to cease or limit production or support for a proprietary software package, recipients and users of the package may have no recourse if problems are found with the software.  Proprietors can fail to improve and support software because of business problems. <ref>{{cite web|url=http://www.linux.com/archive/feature/32277|title=What happens when a proprietary software company dies?|month=October|year=2003|publisher=NewsForge|accessdate=2007-03-05}}</ref>  When no other vendor can provide support for the software, the ending of support for older or existing versions of a software package may be done to force users to upgrade and pay for newer versions; or migrate to either competing systems with longer support life cycles or to [[Free and open source software|FOSS]]-based systems. <ref>{{cite web|url=http://informationweek.com/news/showArticle.jhtml;jsessionid=GL4O5EZFOXYJGQSNDLPSKH0CJUNN2JVN?articleID=196700071|title=Microsoft Turns Up The Heat On Windows 2000 Users|month=December|year=2006|publisher=InformationWeek|accessdate=2008-09-16}}</ref> . 
+
+== Pricing and economics ==. 
+{{See also|Commercial software}} . 
+
+Proprietary software is not synonymous with [[commercial software]],<ref name="rosen2004">{{cite book
+  | last = Rosen
+  | first = Lawrence
+  | authorlink = Lawrence Rosen
+  | title = Open Source Licensing
+  | publisher = Prentice Hall
+  | year = 2004
+  | location = Upper Saddle River
+  | pages = 52, 255, 259
+  | url = http://rosenlaw.com/oslbook.htm
+  | isbn = 978-0-13-148787-1 }}</ref><ref name="pennington2008">{{cite web
+  | author = Havoc Pennington
+  | title = Debian Tutorial
+  | date = 2008-03-02
+  | url = http://www.debian.org/doc/manuals/debian-tutorial/
+  | accessdate = 2009-06-04
+  | quote = It is important to distinguish commercial software from proprietary software. Proprietary software is non-free software, while commercial software is software sold for money.}}</ref> though the industry commonly confuses{{Citation needed|date=March 2012}} the term,<ref>{{cite web
+  | author = Cynthia Keeshan
+  | publisher = [[Microsoft Corporation]], Canada
+  | title = The Software Ecosystem
+  | date = 2009-04-30
+  | url = http://www.microsoft.com/canada/media/ecosystem.mspx
+  | accessdate = 2009-04-30
+  | quote = ''Commercial software'' companies develop and distribute proprietary software to generate revenue. (original emphasis)}}</ref><ref>
+{{cite web
+  | author = Vinod Valloppillil, [[Microsoft Corporation]]
+  | publisher = Eric S. Raymond
+  | title =  Halloween Document 1
+  | work = [[Microsoft Halloween documents leak]]
+  | date = 2006-10-12
+  | url = http://www.catb.org/~esr/halloween/halloween1.html
+  | accessdate = 2009-04-30
+  | quote = Commercial software is classic Microsoft bread-and-butter. It must be purchased, may NOT be redistributed, and is typically only available as binaries to end users. (original emphasis)}}</ref>
+as does the [[free software community]]. <ref>{{cite web
+  | author = Russell McOrmond
+  | title =  What is "Commercial Software"?
+  | date = 2000-01-04
+  | url = http://www.linuxtoday.com/news_story.php3?ltsn=2000-01-04-005-05-NW-SM/halloween1.html
+  | accessdate = 2009-05-02}}</ref><ref>{{cite web
+  | author = Michael K. Johnson
+  | title = Licenses and Copyright
+  | date = 1996-09-01
+  | url = http://www.linuxjournal.com/article/1297
+  | accessdate = 2009-06-16
+  | quote = If you program for Linux, you do need to understand licensing, no matter if you are writing free software or commercial software.}}</ref>{{Citation needed|date=March 2012}} Proprietary software can be distributed at no cost or for a fee, and [[free software]] can be distributed at no cost or for a fee. <ref name="jargon2003proprietary">{{cite web
+  | author = Eric S. Raymond
+  | title = ''Proprietary'', Jargon File
+  | date = 2003-12-29
+  | url = http://www.catb.org/~esr/jargon/html/P/proprietary.html
+  | accessdate = 2009-06-12
+  | quote = Proprietary software should be distinguished from commercial software. It is possible for software to be commercial [...] without being proprietary. The reverse is also possible, for example in binary-only freeware.}}</ref>  The difference is that whether or not proprietary software can be distributed, and what the fee would be, is at the proprietor's discretion.  With free software, anyone who has a copy can decide whether, and how much, to charge for a copy or related services. <ref>{{cite web
+  | author = [[Free Software Foundation]]
+  | title = Selling Free Software
+  | date = 2008-12-31
+  | url = http://www.gnu.org/philosophy/selling.html
+  | accessdate = 2009-06-03}}</ref> . 
+
+Proprietary software that comes for no cost is called [[freeware]]. <!-- Keep consistent with definition at [[freeware]]. --> . 
+
+Proponents of commercial proprietary software argue that requiring users to pay for software as a product increases funding or time available for the [[research and development]] of software. For example, [[Microsoft]] says that per-copy fees maximise the profitability of software development. <ref>{{cite web|url=http://www.microsoft.com/presspass/exec/craig/05-03sharedsource.mspx|title=The Commercial Software Model|month=May|year=2001|publisher=[[Microsoft]]|accessdate=2007-03-05}}</ref> . 
+
+Proprietary software is generally creates greater commercial activity over free software, especially in regard to market revenues. <ref>{{cite web|
+url=http://www.informit.com/articles/article.aspx?p=420290&seqNum=3
+|title=Open Source Versus Commercial Software: Why Proprietary Software is Here to Stay
+|month=October
+|year=2005
+|publisher=Sams Publishing
+|accessdate=2007-03-05}}</ref> . 
+
+== Similar terms ==. 
+* The founder of free software movement, [[Richard Stallman]], sometimes uses the term "user-subjugating software"<ref>{{cite mailing list
+  |url=http://gcc.gnu.org/ml/gcc/2009-02/msg00275.html
+  |title=Re: GCC and the Visual Basic programmer.... 
+  |date=February 17, 2009
+  |mailinglist=gcc@gcc.gnu.org
+  |first=Richard
+  |last=Stallman
+  |authorlink=Richard Stallman 
+  |accessdate=September 24, 2009
+}}</ref> to describe proprietary software. 
+* [[Eben Moglen]] sometimes talks of "unfree software".{{Citation needed|date=December 2011}}
+* The term "non-free" is often used by [[Debian]] developers to describe any software whose license does not comply with [[Debian Free Software Guidelines]], and they use "proprietary software" specifically for non-free software that provides no source code.{{Citation needed|date=March 2012}}
+* The [[Open Source Initiative]] uses the terms "proprietary software" and "[[closed source software]]" interchangeably. <ref>{{cite web
+ | author = Russell Nelson
+ | title = Who speaks for the Open Source Community?
+ | date = 2008-03-14
+ | url = http://www.opensource.org/node/272
+ | accessdate = 2008-06-11
+ | quote = When we, the open source community, want to make an agreement with the proprietary software vendors, who do we talk to?}}</ref><ref>{{cite web
+ | author = Russell Nelson
+ | title = Patent owners and Open Source
+ | date = 2008-03-24
+ | url = http://www.opensource.org/node/279
+ | accessdate = 2009-06-11
+ | quote = The purpose of closed-source software is to give you ownership over the code.}}</ref>
+*{{Anchor|semi-free}}''Semi-free software'' was used by the [[Free Software Foundation]] to describe software that is not [[free software]], but comes with permission for individuals to use, copy, distribute, and modify either for non-profit purposes only or with the prohibition to redistribute modified copies or derived works. <ref>[http://www.gnu.org/philosophy/categories.html#semi-freeSoftware Semi-free software], definition by the Free Software Foundation</ref>  Such software is also rejected by the [[Open Source Initiative]] and [[Debian]].  [[Pretty Good Privacy|PGP]] is an example of a semi-free program.  The Free Software Foundation classifies semi-free software as non-free software and no longer draws a distinction between semi-free software and proprietary software.  . 
+
+== Examples ==. 
+Well known examples of proprietary software include [[Microsoft Windows]], [[Adobe Flash Player]], [[PlayStation 3|PS3]] OS, [[iTunes]], [[Adobe Photoshop]], [[Google Earth]], [[Mac OS X]], [[Skype]], [[WinRAR]], and some versions of [[Unix]].  . 
+
+Software distributions considered as proprietary may in fact incorporate a "mixed source" model including both free and non-free software in the same distribution. <ref>{{cite journal
+  | last = Engelfriet
+  | first = Arnoud
+  | authorlink = 
+  | coauthors = 
+  | title = The best of both worlds
+  | journal = Intellectual Asset Management (IAM)
+  | volume = 
+  | issue = 19
+  | pages = 
+  | publisher = Gavin Stewart
+  | location = New Hibernia House, Winchester Walk, London Bridge, London SE1 9AG, United Kingdom
+  | date = August/September 2006
+  | url = http://www.iam-magazine.com/issues/article.ashx?g=64d0a423-1249-4de3-929c-91b57c15f702
+  | doi = 
+  | id = 
+  | accessdate = 2008-05-19}}</ref> Most if not all so-called proprietary [[UNIX]] distributions are mixed source software, bundling open source components like [[BIND]], [[Sendmail]], [[X Window System]], [[DHCP]], and others along with a purely proprietary [[Kernel (computer science)|kernel]] and system utilities. <ref>{{cite web
+  | last = Loftus
+  | first = Jack
+  | authorlink = 
+  | coauthors = 
+  | title =  LinuxWorld: Managing mixed source software stacks
+  | work = 
+  | publisher = SearchEnterpriseLinux.com
+  | date = 2007-02-19
+  | url = http://searchenterpriselinux.techtarget.com/news/article/0,289142,sid39_gci1244277,00.html
+  | doi = 
+  | accessdate = }}
+</ref><ref>{{cite web
+  | last = Tan
+  | first = Aaron
+  | authorlink = 
+  | coauthors = 
+  | title = Novell: We're a 'mixed-source' company
+  | work = 
+  | publisher = CNET Networks, Inc
+  | date = 2006-12-28
+  | url = http://www.zdnetasia.com/news/software/0,39044164,61977995,00.htm
+  | doi = 
+  | accessdate = }}</ref> . 
+
+Some free software packages are also simultaneously available under proprietary terms.  Examples include [[MySQL]], [[Sendmail]] and ssh.  The original copyright holders for a work of free software, even copyleft free software, can use [[dual-licensing]] to allow themselves or others to redistribute proprietary versions.   Non-copyleft free software (i.e. software distributed under a permissive free software license or released to the public domain) allows anyone to make proprietary redistributions. <ref name="rosenberg2000p109">{{cite book
+  | last = Rosenberg
+  | first = Donald
+  | title = Open Source: The Unauthorized White Papers
+  | publisher = IDG
+  | year = 2000
+  | location = Foster City
+  | pages = 109
+  | url = http://www.stromian.com/Book/FrontMatter.html
+  | isbn = 0-7645-4660-0 }}</ref><ref name="fsfandpublicdomain">{{cite web| title = Categories of Free and Non-Free Software - Free Software Foundation| url = http://www.fsf.org/licensing/essays/categories.html#PublicDomainSoftware}}</ref>  Free software that depends on proprietary software is considered "trapped" by the Free Software Foundation.  This includes software written only for Microsoft Windows,<ref>{{cite web
+ | url = http://www.gnu.org/licenses/gpl-faq.html#WindowsRuntimeAndGPL
+ | title = Frequently Asked Questions about the GNU Licenses
+ | author = Free Software Foundation
+ | date = 2009-05-05
+ | accessdate = 2009-06-25}}</ref> or software that could only run on [[Java (programming language)|Java]], before it became free software. <ref>{{cite web
+ | url = http://www.gnu.org/philosophy/java-trap.html
+ | title = Free But Shackled - The Java Trap
+ | author = Richard Stallman
+ | date = 2004-04-12
+ | accessdate = 2009-06-25}}</ref> . 
+
+== See also ==. 
+{{columns-list|2|
+* [[Business software]]
+* [[Commercial off-the-shelf]]
+* [[Comparison of open source and closed source]]
+* [[List of proprietary software for Linux]]
+* [[Proprietary hardware]]
+* [[Retail software]]
+}} . 
+
+== References ==. 
+{{reflist|2}} . 
+
+{{software distribution}}
+{{FOSS}} . 
+
+{{DEFAULTSORT:Proprietary Software}}
+[[Category:Proprietary software| ]]
+[[Category:Software licenses]]
+[[Category:Computer law]]

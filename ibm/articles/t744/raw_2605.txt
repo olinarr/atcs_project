@@ -1,0 +1,1904 @@
+{{Use dmy dates|date = April 2012}}
+{{current}} . 
+
+{{Infobox Election
+| election_name      = Burmese (Myanma) by-election, 2012
+| country            = Burma
+| type               = parliamentary
+| ongoing            = no
+| previous_election  = Burmese general election, 2010
+| previous_year      = 2010
+| next_election      = Next Burmese general election
+| next_year          = Next
+| seats_for_election = 40 (of the 440) seats to the [[Pyithu Hluttaw]] <br/> and 6 (of the 224) seats to the [[Amyotha Hluttaw]]
+| election_date      = 1 April 2012 . 
+
+| image1             = [[File:TheinSeinASEAN.jpg|100px]]
+| leader1            = [[Thein Sein]]
+| party1             = Union Solidarity and Development Party
+| last_election1     = 259 (Pyithu) <br> 129 (Amyotha)
+| percentage1        =
+| seats_before1      = 
+| seats_after1       = 219 (Pyithu) <br> 124 (Amyotha)
+| seat_change1       = {{decrease}} 37 (Pyithu) <br> {{decrease}} 5 (Amyotha) . 
+
+| image2             = [[Image:Aung San Suu Kyi gives speech.jpg|100px]]
+| leader2            = [[Aung San Suu Kyi]]
+| party2             = National League for Democracy
+| last_election2     = ''Did not contest''
+| percentage2        =
+| seats_after2       = 37 (Pyithu) <br> 4 (Amyotha)
+| seat_change2       = {{increase}} 37 (Pyithu) <br> {{increase}} 4 (Amyotha) . 
+
+| image3             = [[Image:Replace this image male.svg|100px]]
+| leader3            = [[Sai Ai Pao]]
+| party3             = Shan Nationalities Democratic Party
+| last_election3     = 18 (Pyithu) <br> 3 (Amyotha)
+| percentage3        =
+| seats_before3      = 
+| seats_after3       = 18 (Pyithu) <br> 4 (Amyotha)
+| seat_change3       = {{steady}} (Pyithu) <br> {{increase}} 1 (Amyotha) . 
+
+| image4             = [[Image:Replace this image male.svg|100px]]
+| leader4            = [[Tun Yi]]
+| party4             = National Unity Party (Burma)
+| last_election4     = 12 (Pyithu) <br> 5 (Amyotha)
+| percentage4        =
+| seats_before4      = 
+| seats_after4       = 12 (Pyithu) <br> 5 (Amyotha)
+| seat_change4       = {{steady}} (Pyithu) <br> {{steady}} (Amyotha) . 
+
+| image5             = [[Image:Replace this image male.svg|100px]]
+| leader5            = [[Khin Maung Swe]]
+| party5             = National Democratic Force
+| last_election5     = 12 (Pyithu) <br> 5 (Amyotha)
+| percentage5        =
+| seats_before5      = 
+| seats_after5       = 6 (Pyithu) <br> 5 (Amyotha)
+| seat_change5       = {{decrease}} 6 (Pyithu) <br> {{decrease}} 3 (Amyotha) . 
+
+| title              = 
+| posttitle          = 
+| before_election    = 
+| before_party       = 
+| after_election     = 
+| after_party        = 
+}} . 
+
+The '''2012 Burmese by-elections''' were held on 1 April 2012. <ref>{{cite web |url=http://www.mherrera.org/elections.htm |title=Electoral Calendar – international elections world elections |accessdate=12 May 2011 }}</ref> The elections were held to fill 45 vacant parliamentary seats<!--: 40 in the [[Pyithu Hluttaw]], six in the [[Amyotha Hluttaw]] and two in regional parliaments (of [[Ayeyarwady Region|Ayeyarwady]] and [[Bago Region]]s), all of which were vacated by appointed ministers from the [[Union Solidarity and Development Party]] following the [[Burmese general election, 2010|2010 general election]]-->. <ref>{{cite news|url=http://www.aljazeera.com/video/asia-pacific/2012/03/2012329184512429532.html|first=Aela|last=Callan|title=High stakes in Myanmar election|date=29 March 2012|work=Al Jazeera|accessdate=2 April 2012}}</ref><ref>{{cite news|url=http://www.google.com/hostednews/afp/article/ALeqM5hgbHIX2zt3sT0p0HfJA2YoIgPxYw?docId=CNG.30b3d6dd8339de2bcb1a783e5b922d18.751|title=Myanmar sets by-election date|author=Hla Hla Htay|date=30 December 2011|agency=AFP|accessdate=15 March 2012}}</ref> . 
+
+The main opposition party [[National League for Democracy]] was re-registered for the by-elections on 13 December 2011 as part of the [[reforms in Burma]] since 2010. NLD leader [[Aung San Suu Kyi]] ran in the seat of [[Kawhmu]],<ref>{{cite news|url=http://www.bbc.co.uk/news/world-asia-16606608|title=Aung San Suu Kyi registers for Burma election run|date=18 January 2012|work=BBC News|accessdate=15 March 2012}}</ref> which she won and her party won in 40 of the 44 seats they contested (out of 45). <ref>http://www.rfa.org/english/news/burma/elections-04022012160808.html</ref><ref name=ndtvresult>{{cite news|title=Suu Kyi's party wins Myanmar by-election landslide|url=http://www.ndtv.com/article/world/suu-kyis-party-wins-myanmar-by-election-landslide-193001|accessdate=2 April 2012|newspaper=[[NDTV]]|date=2 April 2012}}</ref> . 
+
+==Election observers==. 
+In February 2012, President [[Thein Sein]] remarked that the government would "seriously consider" allowing Southeast Asian observers from the [[Association of South East Asian Nations]] to observe the election. <ref>{{cite news|url=http://www.reuters.com/article/2012/02/21/us-myanmar-election-idUSTRE81K0GK20120221|title=Myanmar says will consider ASEAN poll observers|last=Petty|first=Martin|date=21 February 2012|work=Reuters|accessdate=15 March 2012}}</ref> The Burmese government confirmed that it had requested for ASEAN election observers to arrive on 28 March, five days before the election. <ref>{{cite news|url=http://www.dvb.no/news/burma-gets-asean-poll-monitor-boost/20949|title=Burma gets ASEAN poll monitor boost|date=20 March 2012|work=Democratic Voice of Burma|accessdate=20 March 2012}}</ref> The United States, European Union, China, and [[North Korea]], as well as ASEAN dialogue partners (India, Japan, New Zealand, South Korea, Russia and Australia), were also invited to observe the election, although it remains unclear the degree of access these international observers will have. <ref name="ap">{{cite news|url=http://www.google.com/hostednews/ap/article/ALeqM5i2MtzOtTrY43akKi2oqIhNEzVIoQ?docId=387f3a0642ad463793fc630c4515a07d|title=Myanmar will allow US, EU monitors for April vote|last=Sopheng Cheang|date=21 March 2012|agency=Associated Press|accessdate=22 March 2012}}</ref><ref>{{cite news|url=http://www.bbc.co.uk/news/world-asia-17455883|title=Burma invites US and EU observers to April by-elections|date=21 March 2012|work=BBC News|accessdate=22 March 2012}}</ref> The United States sent two election observers and three journalists. <ref>{{cite news|url=http://www.voanews.com/english/news/asia/US-Accepts-Burmas-Invitation-to-Observe-April-Vote-143686666.html|title=US Accepts Burma's Invitation to Observe April 1 Vote|date=21 March 2012|work=Voice of America|accessdate=22 March 2012}}</ref> . 
+
+On 13 March 2012, the [[Union Election Commission]], approved political party monitors to monitor polling stations during the election. <ref name="sa">{{cite news|url=http://www.dvb.no/news/uec-okays-poll-monitors/20768|title=UEC okays poll monitors|last=Shwe Aung|date=14 March 2012|work=Democratic Voice of Burma|accessdate=15 March 2012}}</ref> In the previous election, only [[Union Solidarity and Development Party]] monitors had been allowed to observe the elections and ballot counts. <ref name="sa"/> A civilian-led monitoring group, including members of the [[88 Generation Students Group]], will also be scrutinizing election irregularities. <ref>{{cite news|url=http://www.rfa.org/english/news/burma/monitor-03232012154753.html|title=Citizens to Monitor Elections|date=23 March 2012|work=Radio Free Asia|accessdate=24 March 2012}}</ref> . 
+
+==Controversies==. 
+Aung Din of the [[US Campaign for Burma]] has said that the Burmese government is exploiting the elections to have Western sanctions lifted as quickly as possible, since a free and transparent election has been one of the conditions set by the European Union and American governments. <ref name="ap"/> Moreover, the [[National League for Democracy]] has pointed out irregularities in voter lists and rule violations by local election committees. <ref name="rfa">{{cite news|url=http://www.rfa.org/english/news/burma/election-03212012170629.html|title=Western Election Observers Invited|date=21 March 2012|work=Radio Free Asia|accessdate=22 March 2012}}</ref> On 21 March 2012, [[Aung San Suu Kyi]] was quoted as saying "Fraud and rule violations are continuing and we can even say they are increasing."<ref name="rfa"/> . 
+
+With regard to the invitations of international election observers, a [[US State Department]] spokesperson said that the Burmese government fell short of expectations to accomodate observers during the entirety of the campaign season (as typically done), which is nearing the end, as a select number of observers were allowed only to observe the election:<ref>{{cite news|url=http://www.irrawaddy.org/article.php?art_id=23261|title=Good First Step, But Short of Complete Transparency: US|last=Kha|first=Lalit K.|date=22 March 2012|work=The Irrawaddy|accessdate=24 March 2012}}</ref><ref>{{cite web|url=http://www.state.gov/r/pa/prs/dpb/2012/03/186587.htm#BURMA|title=Daily Press Briefing|last=Nuland|first=Victoria|date=21 March 2012|work=US Department of State|accessdate=24 March 2012|location=Washington, DC}}</ref> . 
+
+{{cquote|"...it does fall short of international complete transparency on an election, and we hope they’ll continue to keep the system open, and open it further... A full-scale international observation effort would typically include quite a bit of pre-Election Day observation, systematic coverage on Election Day, post-election follow-up, and professional monitors from nongovernmental organizations."}} . 
+
+Asian Network for Free Elections (ANFREL), a Bangkok-based election monitoring organization, has publicly called the election observations inadequate, failing to meet international standards, being too restrictive (only two observers are allowed per government, or five for ASEAN nations), and coming too late (invitations were sent less than two weeks before the election date), all of which which make it logistically impossible to monitor all 48 polling stations. <ref>{{cite news|url=http://anfrel.org/myanmar-election-observation-encouraging-but-inadequate/|title=Myanmar Election Observation Encouraging But Inadequate|first=22 March 2012|work=Asian Network for Free Elections|accessdate=24 March 2012|location=Bangkok}}</ref> On 20 March 2012, Somsri Hananuntasuk, executive director of ANFREL, was deported from Yangon, purportedly for entering the country a tourist visa. <ref>{{cite news|url=http://www.asiantribune.com/news/2012/03/22/burma%E2%80%99s-election-monitoring-window-dressing|title=Is Burma’s election monitoring a window-dressing?|last=Zin Linn|date=23 March 2012|work=Asia Tribune|accessdate=24 March 2012}}</ref> . 
+
+On 23 March 2012, the three by-elections in [[Kachin State]], namely in the constituencies of [[Mogaung Township|Mogaung]], [[Hpakant Township|Hpakant]] and [[Bhamo Township]]s, were postponed due to the security situation there. <ref>{{cite news|url=http://www.washingtonpost.com/world/asia_pacific/myanmar-postpones-vote-in-3-of-48-constituencies-because-of-security-concerns/2012/03/23/gIQAJ7cfVS_story.html|title=Myanmar postpones vote in three of 48 constituencies because of security concerns|date=23 March 2012|agency=Associated Press|accessdate=24 March 2012}}</ref><ref>{{cite news|url=http://www.bbc.co.uk/news/world-asia-17491613|title=Burma postpones by-elections in troubled Kachin state|date=23 March 2012|publisher=BBC News|accessdate=2 April 2012}}</ref> . 
+
+On 1 April, the opposition [[National League for Democracy]] alleged irregularities, claiming that ballot sheets had been tampered to allow the election commission to cancel the vote for Suu Kyi's party. <ref>{{cite news|title=Myanmar opposition alleges ballot irregularities|url=http://www.montrealgazette.com/news/world/Myanmar+opposition+alleges+ballot+irregularities/6393115/story.html|publisher=[[Montreal Gazette]]|date=1 April 2012}}</ref> . 
+
+==Races==. 
+{{Politics of Burma}}
+===Overview===. 
+{{Election summary begin| title = Amyotha Hluttaw by-elections, 2012}}
+{{Election summary party|
+  |party      = National League for Democracy
+  |seats      = 4
+  |net        = +4
+  |gain       = +4
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 1.78
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = Union Solidarity and Development Party
+  |seats      = 1
+  |net        = -5
+  |gain       = +1
+  |loss       = -6
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = National Unity Party (Burma)
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = Kokang Democracy and Unity Party
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = Lahu National Development Party
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = Shan Nationalities Democratic Party
+  |seats      = 1
+  |net        = +1
+  |gain       = +1
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 0.44
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = Unity and Peace Party
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus = . 
+
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+{{Election box end}} . 
+
+{{Election summary begin| title = Pyithu Hluttaw by-elections, 2012}}
+{{Election summary party|
+  |party      = National League for Democracy
+  |seats      = 37
+  |net        = +37
+  |gain       = +37
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 8.73
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = Union Solidarity and Development Party
+  |seats      = 
+  |net        = -37
+  |gain       = 
+  |loss       = -37
+  |votes      = 
+  |votes %    = 
+  |seats %    = 49.77%
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = National Unity Party (Burma)
+  |seats      = 
+  |net        = 
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = National Democratic Force
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = New National Democracy Party
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = Myanmar National Congress
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = All Mon Region Democracy Party
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = Democratic Party (Burma)
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = Pa-O National Organization
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = Union of Myanmar Federation of National Politics
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = Modern People's Party
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus = . 
+
+}}
+{{Election summary party|
+  |party      = Independent
+  |seats      = 
+  |net        = +
+  |gain       = 
+  |loss       = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 
+  |plus/minus = . 
+
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+{{Election box end}} . 
+
+===Amyotha Hluttaw=== . 
+
+====Ayeyarwady Region====. 
+[[Pyapon Township|Pyapon]] and [[Dedaye Township]]s make up Constituency № 10. 
+{{Election box begin no change
+| title = [[Ayeyarwady Region]]'s Constituency № 10 by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Thein Swe
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Aye Kyaing
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Mahn Thein Hla
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Bago Region====. 
+[[Oktwin Township|Oktwin]] and [[Htantabin Township]]s make up Constituency № 7. 
+{{Election box begin no change
+| title = [[Bago Region]]'s Constituency № 7 by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Min Oo
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Than Than Nwe
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Magway Region====. 
+{{Election box begin no change
+| title = [[Magway Region]]'s Constituency № 4 ([[Taungdwingyi Township]]) by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Aung Kyi Nyunt
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Maung Maung Win
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Maung Win (Aung Win)
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Unity and Peace Party
+| candidate = Aung Than Tin
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Sagaing Region====. 
+[[Kanbalu Township|Kanbalu]], [[Kyunhla Township|Kyunhla]], [[Ye Oo Township|Ye-U]] and [[Taze Township]]s make up Constituency № 3. 
+{{Election box begin no change
+| title = [[Sagaing Region]]'s Constituency № 3 by-election, 2012
+}}
+{{Election box candidate with party link no change
+| party = National League for Democracy
+| candidate = Myint Naing
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Tin Maung Win
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Bo Myint Aung
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Shan Nationalities Democratic Party
+| candidate = Sai Sam Min
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+[[Banmauk Township|Banmauk]], [[Kawlin Township|Kawlin]], [[Wuntho Township|Wuntho]] and [[Pinlebu Township]]s make up Constituency № 7. 
+{{Election box begin no change
+| title = [[Sagaing Region]]'s Constituency № 7 by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Tin Mya
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National League for Democracy
+| candidate = Saw Hlaing (disqualified)
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Chit Han
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Shan Nationalities Democratic Party
+| candidate = Mar Kyin
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Shan State====. 
+[[Lashio Township|Lashio]], [[Tangyan Township|Tangyan]], [[Mongyai Township|Mongyai]], [[Hsenwi Township|Hsenwi]] and [[Kunlong Township]]s make up Constituency № 3. 
+{{Election box begin no change
+| title = [[Shan State]]'s Constituency № 3 by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = Shan Nationalities Democratic Party
+| candidate = Sai Sam Min
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = National League for Democracy
+| candidate = Sai Myint Maung
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Nang Keng Phawng Tip
+| votes =  
+| percentage = 
+}}
+<!---
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Mahn Thein Hla
+| votes = 
+| percentage =
+}}
+-->
+{{Election box candidate with party link no change
+| party = Lahu National Development Party
+| candidate = Yaw Thup
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Kokang Democracy and Unity Party
+| candidate = Luo Xingguang (Law Shin Kwan)
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+===Pyithu Hluttaw===. 
+====Ayeyarwady Region==== . 
+
+{{Election box begin no change
+| title = [[Maubin Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Sein Win Han (Sein Win)
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Myo Thant Tin
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Maung Maung Thin
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Khin Su Su Aung
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Modern People's Party
+| candidate = Thein Shwe
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Myanaung Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Kyaw Myint
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Than Htut
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Win Hlaing
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Myaungmya Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Mahn Johnny
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Phyo Ko Ko Tint San
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Aung Myo Hlaing
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Pathein Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Win Myint
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Aung Tin Myint
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Tin Win
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Wakema Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Myint Myint San
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Htun Aung Kyaw
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Than Aung
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Bago Region==== . 
+
+{{Election box begin no change
+| title = [[Htantabin Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Sein Htun
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Kyaw Kyaw Oo
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Tin Win
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Unity and Peace Party
+| candidate = Thet Oo
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Letpadan Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Kyaw Min
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Aung Thein
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Win Hlaing
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Nan Kyu Than Win
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Taungoo Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Aung Soe Myint
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Wai Wai Tha
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Win Tun
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Thanatpin Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Myint Oo
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Sein Htoo
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Than Hlaing
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Mandalay Region==== . 
+
+{{Election box begin no change
+| title = [[Kyaukpadaung Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Zaw Myint Maung
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Aung Win Kyi
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Maha Aungmye Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Ohn Kyaing
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Than Htun
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Tun Kyi
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Hla Ko
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Kyaw Kyaw
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Nyunt Oo
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Sein Hla
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Meiktila Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Win Htein
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Hla Myint
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union of Myanmar Federation of National Politics
+| candidate = Win Zan
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Myint Myint Aye
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Natogyi Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Paw Khin
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Soe Naing Win
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Aung Than
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Pyinoolwin Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Kyaw Thiha
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Khin Maung Win
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Tada-U Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Khin Thanda
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Aung Mon
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Nan Htaik Zaw
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Unity and Peace Party
+| candidate = San Htun
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Magway Region==== . 
+
+{{Election box begin no change
+| title = [[Magway Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Myint Thein
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Aung Thein Kyaw
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Hla Myint
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Kyaw Sein Han
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union of Myanmar Federation of National Politics
+| candidate = Kyaw Swa Soe
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Myaing Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Myint Aung
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Kyaw Myint Than
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Win Hlaing
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Pakokku Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Paik Ko
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Kyaw Tint
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Pwintbyu Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Aung Myo Nyo
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Tint Lwin
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party
+| candidate = Tint Lwin
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Yezagyo Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Tin Htay Aung
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Bo Win
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Han Shin Win
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Mon State==== . 
+
+{{Election box begin no change
+| title = [[Mawlamyine Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Khin Htay Kywe
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Tin Soe Moe Naing
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Aung Than Oo
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = All Mon Region Democracy Party
+| candidate = Myint Myint Wai 
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Naypyidaw Union Territory==== . 
+
+{{Election box begin no change
+| title = [[Dekkhinathiri Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Naing-Ngan Lin
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Maung Shein
+| votes =  
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Ottarathiri Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Min Thu
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Hla Thein Swe
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Kyi Myint
+| votes = 
+| percentage =
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Pobbathiri Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = [[Zayar Thaw]] (Phyo Zeyar Thaw)
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Tha Htay
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Lwin Myint Than
+| votes = 
+| percentage =
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Zabuthiri Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = [[Sanda Min]] (Shwee)
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Win Htay
+| votes =  
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Sagaing Region==== . 
+
+{{Election box begin no change
+| title = [[Mingin Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Khin Hmway Lwin
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = San Win
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Htay Aung
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Pale Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Khin San Hlaing
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Htay Naing
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Sagaing Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Khin Maung Thein
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Soe Naing
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Shan State==== . 
+
+{{Election box begin no change
+| title = [[Kalaw Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Daw Than Ngwe
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Mya Win
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Khin Maung Hla
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Shan Nationalities Democratic Party
+| candidate = Sao Tha Oo
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Pa-O National Organization
+| candidate = Khun Than Maung
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Taninthayi Region==== . 
+
+{{Election box begin no change
+| title = [[Launglon Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Aung Soe
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Sein Maung
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Kyunsu Township]] by-election, 2012
+}}
+{{Election box candidate with party link no change
+| party = National League for Democracy
+| candidate = Tin Tin Yi
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Chit Than
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+====Yangon Region====. 
+{{Election box begin no change
+| title = [[Dagon Seikkan Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Myo Aung
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Aung Win
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Win Myint
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Kyee Myint
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = New National Democracy Party
+| candidate = Win Shwe
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Hlegu Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Phyo Min Thein
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Aung Myat Thu
+| votes =  
+| percentage = 
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}}
+{{Election box begin no change
+| title = [[Kawhmu Township]] by-election, 2012<ref>{{cite news|url=http://news.xinhuanet.com/english/world/2012-04/02/c_131504585.htm|title=Myanmar election commission announces NLD wins overwhelmingly in by-elections|date=2 April 2012|publisher=Xinhua|accessdate=2 April 2012}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = [[Aung San Suu Kyi]]
+| votes = 55,902
+| percentage = 85.38
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Soe Min
+| votes = 9,172
+| percentage = 14.10
+}}
+{{Election box candidate with party link no change
+| party = Unity and Peace Party
+| candidate = Tin Yi
+| votes = 397
+| percentage = 0.61
+}}
+{{Election box total no change
+| votes = 65,471
+| percentage = 100%
+}}
+<!--
+{{Election box hold with party link no change
+| winner = National League for Democracy
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Mayangon Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = [[May Win Myint]]
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Ye Htut
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Khin Phyu Phyu Nyein
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = New National Democracy Party
+| candidate = Ye Min Thein (Yatha)
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Khin Hlaing (Zawtika)
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Myanmar National Congress
+| candidate = Hayma Htay
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Mingala Taungnyunt Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = [[Phyu Phyu Thin]]
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Lei Lei Aye
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Sanda Myint (disqualified)
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = New National Democracy Party
+| candidate = Phone Myint
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (Burma)
+| candidate = Thu Wai
+| votes = 
+| percentage =
+}}
+{{Election box candidate with party link no change
+| party = Myanmar National Congress
+| candidate = Kaung Myint Htut
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+{{Election box begin no change
+| title = [[Thongwa Township]] by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Su Su Lwin
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Aung Kyaw Min
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Democratic Force
+| candidate = Kyi Than
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+===Regional Hluttaws===. 
+{{Election box begin no change
+| title = [[Bago Region]] Hluttaw's [[Kawa Township]] № 2 by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Myo Khaing
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Aye Win
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Kyi Lwin
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}}
+{{Election box begin no change
+| title = [[Ayeyarwady Region]] Hluttaw's [[Yekyi Township]] № 2 by-election, 2012
+}}
+{{Election box winning candidate with party link no change
+| party = National League for Democracy
+| candidate = Hla Myat Thway
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Union Solidarity and Development Party
+| candidate = Tin Soe
+| votes =  
+| percentage = 
+}}
+{{Election box candidate with party link no change
+| party = National Unity Party (Burma)
+| candidate = Win Kyi
+| votes = 
+| percentage =
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+<!--
+{{Election box hold with party link no change
+| winner = 
+}}
+--->
+{{Election box end}} . 
+
+==References==. 
+{{reflist|colwidth=30em}} . 
+
+==See also==. 
+*[[2011–2012 Burmese political reforms]] . 
+
+{{Burmese elections}} . 
+
+[[Category:Elections in Burma]]
+[[Category:2012 elections in Asia]]
+[[Category:2012 in Burma|Elections]]

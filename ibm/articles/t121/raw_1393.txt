@@ -1,0 +1,85 @@
+{{Infobox disease
+ | Name           = Dementia pugilistica
+ | Image          =Gatica1.png
+ | Width          = 250px
+ | Caption        = Boxers receive many blows involving rotational force, which is implicated in [[concussion]].  Repeat concussions can lead to dementia pugilistica. 
+ | DiseasesDB     = 11042
+ | ICD10          =
+ | ICD9           =
+ | ICDO           =
+ | OMIM           =
+ | MedlinePlus    =
+ | eMedicineSubj  = sports
+ | eMedicineTopic = 113
+ | MeshID         =
+}} . 
+
+'''Dementia pugilistica''' ('''DP''')  [[neurodegenerative]] disease or [[dementia]] that may affect amateur or professional [[boxing|boxers]] as well as athletes in other sports who suffer [[concussion]]s. A variant of [[chronic traumatic encephalopathy]] (CTE) it is also called '''chronic boxer’s encephalopathy''', '''traumatic boxer’s encephalopathy''', '''boxer's dementia''', '''chronic traumatic brain injury associated with boxing''' ('''CTBI-B'''), and '''punch-drunk syndrome ('punchy')'''. Symptoms and signs of DP develop progressively over a long [[latent]] period sometimes amounting to decades, with the average time of onset being about 12&ndash;16 years after the start of a career in boxing.  The condition is thought to affect around 15-20% of professional boxers.  . 
+
+The condition is caused by repeated concussive and sub-concussive blows (blows that are below the threshold of force necessary to cause concussion), or both. <ref name="Erlanger99">
+{{cite journal |author=Erlanger DM, Kutner KC, Barth JT, Barnes R |title=Neuropsychology of sports-related head injury: Dementia pugilistica to post concussion syndrome |journal=The Clinical Neuropsychologist |volume=13 |issue=2 |pages=193–209 |year=1999 |pmid=10949160 |doi=10.1076/clin.13.2.193.1963
+}}
+</ref>  Because of the concern that boxing may cause DP, there is a movement among medical professionals to ban the sport. <ref name="Mendez"/>  Medical professionals have called for such a ban since as early as the 1950s. <ref name="Corsellis89">
+{{cite journal |author=Corsellis JA |title=Boxing and the Brain |journal=BMJ |volume=298 |issue=6666 |pages=105–109 |year=1989 |pmid=2493277 |doi= 10.1136/bmj.298.6666.105|pmc=1835400
+}}
+</ref> . 
+
+The word ''pugilistica'' comes from the [[Latin]] root '''pugil''', for ''boxer''. <ref>NCERx. 2005.  [http://www.about-dementia.com/dementia/brain-trauma.php Brain Trauma, Subdural Hematoma and Dementia Pugilistica].  About-dementia.com. Retrieved on 2007-12-19. </ref> . 
+
+==Symptoms==. 
+The condition, which occurs in boxers having suffered repeated blows to the head, manifests as [[dementia]], or declining mental ability, problems with memory, and [[parkinsonism]], or tremors and lack of coordination. <ref name="Mendez"/> It can also cause [[dysarthria|speech problems]]<ref name="Mendez"/> and an unsteady gait.  Patients with DP may be prone to inappropriate or explosive behavior and may display pathological [[jealousy]] or [[paranoia]]. <ref name="Mendez">
+{{cite journal |author=Mendez MF |title=The neuropsychiatric aspects of boxing |journal=International Journal of Psychiatry in Medicine |volume=25 |issue=3 |pages=249–262 |year=1995 |pmid=8567192 |doi=10.2190/CUMK-THT1-X98M-WB4C
+}}
+</ref>  Individuals displaying these symptoms also can be characterized as "punchy", another term for a person suffering from DP.  . 
+
+Sufferers may be treated with drugs used for Alzheimer's disease and Parkinsonism. <ref name="pmid10946737">
+{{cite journal |author=Jordan BD |title=Chronic traumatic brain injury associated with boxing |journal=Seminars in Neurology |volume=20 |issue=2 |pages=179–85 |year=2000 |pmid=10946737 |doi=10.1055/s-2000-9826
+}}
+</ref> . 
+
+==Mechanism==. 
+It is not well understood why this syndrome occurs. <ref name="drake">
+{{cite web | url=http://www.emedicine.com/sports/topic113.htm | title=Repetitive Head Injury syndrome | author=Cifu D and Drake D | date=2006-08-17 | publisher=eMedicine.com|accessdate=2007-12-19
+}}
+</ref> Loss of [[neuron]]s, scarring of [[human brain|brain]] tissue, collection of [[protein]]aceous, senile plaques, [[hydrocephalus]], attenuation of [[corpus callosum]], [[diffuse axonal injury]], [[neurofibrillary tangle]]s, and damage to the [[cerebellum]] are implicated in the syndrome. <ref name="Graham">Graham DI and Gennareli TA.  Chapter 5, "Pathology of Brain Damage After Head Injury"  In, Cooper P and Golfinos G.  2000.  ''Head Injury'', 4th Ed. Morgan Hill, New York. </ref> The condition may be [[etiology|etiologically]] related to [[Alzheimer's disease]]. <ref name="Graham"/> Neurofibrillary tangles have been found in the brains of dementia pugilistica patients, but not in the same distribution as is usually found in Alzheimer's sufferers. <ref name="Hof">
+{{cite journal |author=Hof PR, Bouras C, Buée L, Delacourte A, Perl DP, Morrison JH |title=Differential Distribution of Neurofibrillary Tangles in the Cerebral Cortex of Dementia Pugilistica and Alzheimer's Disease Cases |journal=Acta Neuropathologica |volume=85 |issue=1 |pages=23–30 |year=1992 |pmid=1285493 |doi=10.1007/BF00304630
+}}
+</ref> One group examined slices of brain from patients having had multiple mild traumatic brain injuries and found changes in the cells' [[cytoskeleton]]s, which they suggested might be due to damage to cerebral [[blood vessels]]. <ref>{{cite journal | doi = 10.1007/s004010051066 | author = Geddes JF, Vowles GH, Nicoll JA, Révész T | year = 1999 | title = Neuronal Cytoskeletal Changes are an Early Consequence of Repetitive Head Injury | url = | journal = Acta Neuropathologica | volume = 98 | issue = 2| pages = 171–178 | pmid = 10442557 }}</ref> . 
+
+Increased exposure to concussions and sub-concussive blows is regarded as the most important risk factor, which can depend on the total number of fights, number of knockout losses, the duration of career, fight frequency, age of retirement, and boxing style. <ref>Jordan, B. D. (2009). Brain injury in boxing. Clinics in Sports Medicine, 28(4), 561-78, vi. </ref>  Findings in one study even suggest that boxers with high exposure may have a genetic susceptibility to developing more severe neurological deficits. 30 professional boxers underwent neurological assessment and genetic testing for the [[Apolipoprotein E|ApoE4]] allele, a known genetic risk factor for late-onset sporadic Alzheimer's disease.  The severity of their cognitive, motor, and behavioral impairments was stratified using the Chronic Brain Injury scale, ranging from 0-9 with a score of greater than 0 identified as abnormal. Among 18 boxers with more than 12 professional bouts, those who possessed at least one ApoE4 allele had a higher CBI score (mean 3.9 ± 2.3) compared to boxers without the allele (mean 1.8 ± 1.2). The remaining boxers with less traumatic exposure had a mean score of 0.33, regardless of ApoE genotype. <ref>Jordan, B. D., Relkin, N. R., Ravdin, L. D., Jacobs, A. R., Bennett, A., & Gandy, S. (1997). Apolipoprotein E epsilon4 associated with chronic traumatic brain injury in boxing. JAMA : The Journal of the American Medical Association, 278(2), 136-140. </ref> . 
+
+==History==. 
+DP was first described in 1928 by a forensic pathologist, Dr. [[Harrison Stanford Martland]], who was the chief medical examiner of [[Essex County, New Jersey|Essex County]] in [[Newark, New Jersey]] in a ''[[Journal of the American Medical Association]]'' article, in which he noted the tremors, slowed movement, confusion, and speech problems typical of the condition. <ref>{{cite journal |author= Martland HS|title=Punch Drunk |journal=Journal of the American Medical Association |volume=91 |issue=15 |pages=1103–1107|year=1928 |month= |doi=10.1001/jama.1928.02700150029009  |url=http://jama.ama-assn.org/content/91/15/1103.extract}}</ref> In 1973, a group led by J.A. Corsellis<ref name="Corsellis">{{cite journal |author=Corsellis JA, Bruton CJ, Freeman-Browne D |title=The aftermath of boxing |journal=Psychological Medicine |volume=3 |issue=3 |pages=270–303 |year=1973 |month=August |pmid=4729191 |doi=10.1017/S0033291700049588}}</ref> described the typical neuropathological findings of DP after post-mortem examinations of the brains of 15 former boxers. <ref name="Corsellis"/> . 
+
+==Famous cases==. 
+Dementia pugilistica is relatively common among boxers having had long careers and received a great many blows to the head. It is perhaps under-reported because the symptoms often do not become overt until middle age or even later, and are often indistinguishable from Alzheimer's. On the other hand, dementia pugilistica has often been falsely reported. It has been rumored that [[Jack Dempsey]] suffered from it, when in fact he retained his mental vigor until his death at 87 {{Citation needed|date=January 2009}}. [[Joe Louis]] developed signs of [[paranoid schizophrenia]] that have been attributed to [[cocaine]] abuse but may also have a genetic element (his father was institutionalised for mental illness){{Citation needed|date=January 2009}}. Other ex-boxers have been said to have had dementia pugilistica when in fact they suffer from nothing worse than a working-class accent and a gruff demeanor, e.g. [[Rocky Graziano]], [[Tony Zale]].  . 
+
+However, [[Jimmy Ellis]], [[Floyd Patterson]] (who resigned from the New York State Athletic Commission because of his deteriorating memory), [[Bobby Chacon]], [[Jerry Quarry]], [[Mike Quarry]], [[Wilfred Benitez]], [[Emile Griffith]], [[Willie Pep]], [[Freddie Roach (boxing)|Freddie Roach]], [[Sugar Ray Robinson]], [[Billy Conn]], [[Joe Frazier]], [[Fritzie Zivic]], and [[Meldrick Taylor]] appear to have been genuinely affected by the disorder {{Citation needed|date=January 2009}}. [[Ingemar Johansson]] may be another victim. In addition, [[Muhammad Ali]]'s [[Parkinson's disease]] was said to be caused by his boxing career, but Ali's own physician Ferdie Pacheco MD states in his Book 'Fight Doctor' that  Ali's condition is often misquoted and that Ali in fact has [[Parkinson's Syndrome]], which he advises is caused by physical trauma. However, some maintain that this sort of dementia is precisely diagnosed only in autopsy, and claims of retired athletes not having DP are rarely accompanied by autopsy results{{Citation needed|date=September 2011}}. On the other hand, diagnosis of Parkinson's disease on the basis of clinical observations is 75-80% accurate.. <ref name=Jankovic2008>{{cite journal |author=Jankovic J |title=Parkinson's disease: clinical features and diagnosis |journal=J. Neurol. Neurosurg. Psychiatr. |volume=79 |issue=4 |pages=368–76 |year=2008 |month=April |pmid=18344392 |url=http://jnnp.bmj.com/content/79/4/368.full|doi=10.1136/jnnp.2007.131045}}</ref> . 
+
+It can be noted that autopsies of eleven professional American football players by Dr. Ann McKee, of Boston University School of Medicine, found CTE in all cases. <ref>http://www.abc.net.au/worldtoday/content/2009/s2727506.htm</ref>  CTE has been diagnosed (also by the Boston University group<ref>http://www.bu.edu/cste/2010/09/13/penn-football-player-had-brain-trauma-autopsy-shows/</ref>) in one amateur football player, University of Pennsylvania lineman [[Owen Thomas (football)|Owen Thomas]], following his suicide. <ref>{{cite news |author= |coauthors= |title=Suicide Reveals Signs of a Disease Seen in N.F.L. |url=http://www.nytimes.com/2010/09/14/sports/14football.html |quote=A brain autopsy of a University of Pennsylvania football player who killed himself in April has revealed the same trauma-induced disease found in more than 20 deceased National Football League players, raising questions of how young football players may be at risk for the disease. |work=[[New York Times]] |date=September 13, 2010 |accessdate=2010-11-01 }}</ref> . 
+
+Professional wrestler [[Chris Benoit]] was discovered to have suffered from CTE following his [[Chris Benoit double murder and suicide|2007 murders and subsequent suicide]], as was his former colleague, [[Andrew Martin]], following his 2009 overdose death. Ice Hockey enforcer [[Derek Boogaard]]'s death in May of 2011 has been linked to CTE which may have developed as a result of bareknuckle fights. News of his ailment has sparked debate about the role of fighting in professional hockey. <ref>http://www.nytimes.com/2011/12/04/sports/hockey/derek-boogaard-a-boy-learns-to-brawl.html?pagewanted=all</ref> . 
+
+==See also==. 
+* [[Traumatic brain injury]]
+* [[Concussion]]
+* [[Post-concussion syndrome]]
+* [[Proteopathy]]
+* [[Second-impact syndrome]] . 
+
+==References==. 
+{{reflist|colwidth=30em}} . 
+
+==External links==. 
+*[http://sportslegacy.org/documents/cantu.pdf Chronic Traumatic Encephalopathy In The National Football League: Pages 223-225 (Courtesy of http://www.sportslegacy.org) ]
+*[http://boxingwriter.co.uk/2007/08/14/pugilistic-dementia-something-old-something-new/ Pugilistic Dementia; Something old, something new - from Boxingwriter.co.uk]
+*[http://www.newyorker.com/reporting/2009/10/19/091019fa_fact_gladwell?currentPage=all Offensive Play: How different are dogfighting and football?], [[Malcolm Gladwell]], ''[[The New Yorker]],'' October 19, 2009 – article on the serious dangers of suffering long-term chronic traumatic encephalopathy brain damage in American football
+*[http://www.bu.edu/cste Boston University Center for the Study of Traumatic Encephalopathy] . 
+
+{{Neurotrauma}}
+{{Boxing}} . 
+
+{{DEFAULTSORT:Dementia Pugilistica}}
+[[Category:Neurotrauma]]
+[[Category:Boxing]]
+[[Category:Parkinson's disease]]

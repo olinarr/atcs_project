@@ -1,0 +1,466 @@
+{{About|structures for water impoundment}} . 
+
+[[Image:Hoover Dam Nevada Luftaufnahme.jpg|right|300px|thumb|[[Hoover Dam]], a concrete [[arch-gravity dam]] in [[Black Canyon of the Colorado|Black Canyon of the Colorado River]]. [[Lake Mead]] in the background is [[Reservoir|impounded]] by the dam.]]
+[[Image:Glen canyon dam.jpg|thumb|right|300px||[[Glen Canyon Dam]]]]
+A '''dam''' is a barrier that [[Reservoir|impound]]s [[surface water|water]] or underground streams. Dams generally serve the primary purpose of retaining water, while other structures such as [[floodgates]] or [[levee]]s (also known as [[Dike (construction)|dikes]]) are used to manage or prevent water flow into specific land regions. [[Hydropower]] and [[pumped-storage hydroelectricity]] are often used in conjunction with dams to generate electricity. A dam can also be used to collect water or for storage of water which can be evenly distributed between locations.  . 
+
+==History== . 
+
+[[File:Roman Cornalvo dam, Extremadura, Spain. Pic 01.jpg|thumb|300px|The [[Cornalvo Dam|Roman dam at Cornalvo]] in [[Spain]] has been in use for almost two millennia.]]
+[[File:Anaicut.JPG|thumb|right|300px|[[Grand Anicut]] dam on river [[Kaveri]] in [[Tamil Nadu]], [[India|South India]] (19th century on 1st-2nd century foundation)]] . 
+
+The word ''dam'' can be traced back to [[Middle English]],<ref>[http://www.bartleby.com/61/45/D0014500.html The American Heritage Dictionary of the English Language, Fourth Edition]</ref> and before that, from [[Middle Dutch]], as seen in the names of many old cities. <ref>Source: ''Tijdschrift voor Nederlandse Taal- en Letterkunde'' (''Magazine for Dutch Language and Literature''), 1947. The first known appearance of the word ''dam'' stems from 1165. However, there is one village, Obdam, that is already mentioned in 1120. The word seems to be related to the Greek word ''taphos'', meaning ''grave'' or ''grave hill''. So the word should be understood as ''dike from dug out earth''. The names of more than 40 places (with minor changes) from the Middle Dutch era (1150–1500 CE) such as [[Amsterdam]] (founded as 'Amstelredam' in the late 12th century) and [[Rotterdam]], also bear testimony to the use of the word in Middle Dutch at that time. </ref> Early dam building took place in [[Mesopotamia]] and the [[Middle East]]. Dams were used to control the water level, for Mesopotamia's weather affected the [[Tigris]] and [[Euphrates]] rivers, and could be quite unpredictable.  . 
+
+The earliest known dam is the [[Jawa Dam]] in [[Jordan]],  {{convert|100|km}} northeast of the capital [[Amman]]. This gravity dam featured a  {{convert|4.5|m|abbr=on}} high and  {{convert|1|m|abbr=on}} wide stone wall, supported by a  {{convert|50|m|abbr=on}} wide earth rampart. The structure is dated to 3000 BC. <ref>Günther Garbrecht: "Wasserspeicher (Talsperren) in der Antike", ''Antike Welt'', 2nd special edition: ''Antiker Wasserbau'' (1986), pp.51-64 (52)</ref><ref>S.W. Helms: "Jawa Excavations 1975. Third Preliminary Report", Levant 1977</ref> The [[Ancient Egypt]]ian [[Sadd-el-Kafara Dam]] at Wadi Al-Garawi, located about  {{convert|25|km|abbr=on}} south of [[Cairo]], was  {{convert|102|m|abbr=on}} long at its base and  {{convert|87|m|abbr=on}} wide. The structure was built around 2800<ref name="Günther Garbrecht 52f.">Günther Garbrecht: "Wasserspeicher (Talsperren) in der Antike", ''Antike Welt'', 2nd special edition: ''Antiker Wasserbau'' (1986), pp.51-64 (52f.)</ref> or 2600 B.C. <ref name=Bazzasowr>{{cite web |url=http://www.fao.org/world/Regional/RNE/morelinks/Publications/English/HYSTORY-OF-WATER-RESOURCES.pdf |format=PDF|title=overview of the hystory of water resources and irrigation management in the near east region |accessdate=1 August 2007 |author=Mohamed Bazza |authorlink= |coauthors= |date=28-30 |year=2006 |month= October Food and Agriculture Organization of the United Nations| pages= }}</ref> as a [[diversion dam]] for flood control, but was destroyed by heavy rain during construction or shortly afterwards. <ref name="Günther Garbrecht 52f."/><ref name=Bazzasowr /> By the mid-late third century BC, an intricate water-management system within [[Dholavira]] in modern day India, was built. The system included 16 reservoirs, dams and various channels for collecting water and storing it. <ref>{{cite web|title=The reservoirs of Dholavira|url=http://himalmag.com/component/content/article/44/1062-The-reservoirs-of-Dholavira.html|publisher=The Southasia Trust|accessdate=27 February 2011|date=December 2008}}</ref> . 
+
+[[Roman dam|Roman dam construction]] was characterized by "the Romans' ability to plan and organize engineering construction on a grand scale". <ref name="Smith 1971, 49">{{harnvb|Smith|1971|p=49}}</ref> Roman planners introduced the then novel concept of large [[reservoir dam]]s which could secure a permanent [[water supply]] for urban settlements also over the dry season. <ref>{{harnvb|Smith|1971|p=49}}; {{harnvb|Hodge|1992|pp=79f.}}</ref> Their pioneering use of water-proof hydraulic [[mortar (masonry)|mortar]] and particularly [[opus caementicium|Roman concrete]] allowed for much larger dam structures than previously built,<ref name="Smith 1971, 49"/> such as the [[Lake Homs Dam]], possibly the largest water barrier to that date,<ref name="Smith 1971, 42">{{harnvb|Smith|1971|p=42}}</ref> and the [[Harbaqa Dam]], both in [[Roman Syria]]. The highest Roman dam was the [[Subiaco Dam]] near [[Rome]]; its record height of  {{convert|50|m|abbr=on}} remained unsurpassed until its accidental destruction in 1305. <ref name="Hodge 1992, 87">{{harnvb|Hodge|1992|p=87}}</ref> . 
+
+Roman engineers made routine use of ancient standard designs like embankment dams and masonry gravity dams. <ref>{{harnvb|Hodge|2000|pp=331f.}}</ref> Apart from that, they displayed a high degree of inventiveness, introducing most of the other basic dam designs which had been unknown until then. These include [[arch-gravity dam]]s,<ref>{{harnvb|Hodge|2000|p=332}}; {{harnvb|James|Chanson|2002}}</ref> [[arch dam]]s,<ref name="Earliest known arch dam">{{harnvb|Smith|1971|pp=33–35}}; {{harnvb|Schnitter|1978|pp=31f.}}; {{harnvb|Schnitter|1987a|p=12}}; {{harnvb|Schnitter|1987c|p=80}}; {{harnvb|Hodge|2000|p=332, fn. 2}}</ref> [[buttress dam]]s<ref>{{harnvb|Schnitter|1987b|pp=59–62}}</ref> and [[Arch dam#Variations|multiple arch buttress dam]]s,<ref name="Earliest known multiple arch buttress dam">{{harnvb|Schnitter|1978|p=29}}; {{harnvb|Schnitter|1987b|pp=60, table 1, 62}}; {{harnvb|James|Chanson|2002}}; {{harnvb|Arenillas|Castillo|2003}}</ref> all of which were known and employed by the 2nd century AD (see [[List of Roman dams]]). Roman workforces also were the first to build dam bridges, such as the [[Bridge of Valerian]] in Iran. <ref>{{harvnb|Vogel|1987|p=50}}</ref> . 
+
+[[Eflatun Pınar]] is a Hittite dam and spring temple near Konya, Turkey. It's thought to be from the time of the Hittite empire between the 15th and 13 century BC.  . 
+
+The [[Kallanai]] is constructed of unhewn stone, over  {{convert|300|m|abbr=on}} long,  {{convert|4.5|m|abbr=on}} high and  {{convert|20|m|abbr=on}} wide, across the main stream of the [[Kaveri]] river in [[Tamil Nadu]], [[India|South India]]. The basic structure dates to the 2nd century AD<ref>{{cite web |url=http://lawlibrary.unm.edu/nrj/48/3/03_agoramoorthy_indian.pdf|title=The Check-Dam Route to Mitigate India's Water Shortages |author=Govindasamy Agoramoorthy, Sunitha chaudhary & Minna J. HSU |date= |work= |publisher=Law library - University of New Mexico|accessdate=8 November 2011}}</ref> and is considered one of the oldest water-diversion or water-regulator structures in the world, which is still in use. <ref name="kallanai_oldest">{{cite web
+  | url = http://www.hindunet.org/saraswati/traditionwater.pdf
+  | title = ''This is the oldest stone water-diversion or water-regulator structure in the world''
+  | accessdate = 27 May 2007 |archiveurl = http://web.archive.org/web/20070206130842/http://www.hindunet.org/saraswati/traditionwater.pdf <!-- Bot retrieved archive --> |archivedate = 6 February 2007}}</ref> The purpose of the dam was to divert the waters of the Kaveri across the fertile Delta region for irrigation via canals. <ref name="kallanai_googlebook">{{Citation
+  | last = Singh
+  | first = Vijay P. 
+  | coauthors = Ram Narayan Yadava
+  | title = Water Resources System Operation: Proceedings of the International Conference on Water and Environment
+  | publisher = Allied Publishers
+  | year = 2003
+  | url = http://books.google.com/?id=Bge-0XX6ip8C&pg=PA508&dq=kallanai#PPA508,M1
+  | isbn = 81-7764-548-X
+  | page = 508}}</ref> . 
+
+[[Du Jiang Yan Irrigation System|Du Jiang Yan]] is the oldest surviving irrigation system in China that included a dam that directed waterflow. It was finished in 251 B.C. A large earthen dam, made by the [[Prime Minister]] of [[Chu (state)]], [[Sunshu Ao]], flooded a valley in modern-day northern [[Anhui]] province that created an enormous [[irrigation]] reservoir  {{convert|62|mi|disp=flip|abbr=on}} in circumference), a reservoir that is still present today. <ref name="needham volume 4 part 3 271">
+Needham, Joseph (1986). ''Science and Civilization in China: Volume 4, Part 3''. Taipei: Caves Books, Ltd. 
+</ref> . 
+
+In [[Iran]], bridge dams such as the [[Band-e Kaisar]] were used to provide [[hydropower]] through [[water wheel]]s, which often powered water-raising mechanisms. One of the first was the Roman-built dam bridge in [[Dezful]],<ref>{{harvnb|Hartung|Kuros|1987|pp=232, 238, fig. 13; 249}}</ref> which could raise water 50 [[cubit]]s in height for the [[water supply]] to all houses in the town. Also [[diversion dam]]s were known. <ref name=Hill-Engineering>[[Donald Routledge Hill]] (1996), "Engineering", p. 759, in {{Citation |last1=Rashed |first1=Roshdi |last2=Morelon  |first2=Régis |year=1996 |title=[[Encyclopedia of the History of Arabic Science]] |publisher=[[Routledge]] |isbn=0-415-12410-7 |pages=751–795}}</ref> [[Mill (grinding)|Milling]] dams were introduced which the [[Muslim Agricultural Revolution|Muslim engineers]] called the ''Pul-i-Bulaiti''. The first was built at Shustar on the River [[Karun]], [[Iran]], and many of these were later built in other parts of the [[Islamic world]]. <ref name=Hill-Engineering/> Water was conducted from the back of the dam through a large pipe to drive a water wheel and [[watermill]]. <ref name=Lucas>Adam Lucas (2006), ''Wind, Water, Work: Ancient and Medieval Milling Technology'', p. 62. BRILL, ISBN 90-04-14649-0. </ref> In the 10th century, [[Al-Muqaddasi]] described several dams in Persia. He reported that one in [[Ahvaz|Ahwaz]] was more than  {{convert|3000|ft|disp=flip|abbr=on}} long,<ref name=Hill-56-8/> and that and it had many water-wheels raising the water into [[aqueduct]]s through which it flowed into [[reservoir]]s of the city. <ref name=Hill-31>{{citation|title=A history of engineering in classical and medieval times|author=Donald Routledge Hill|publisher=Routledge|year=1996|isbn=0-415-15291-7|page=31}}</ref> Another one, the ''Band-i-Amir'' dam, provided irrigation for 300 villages. <ref name=Hill-56-8>{{citation|title=A history of engineering in classical and medieval times|author=Donald Routledge Hill|publisher=[[Routledge]]|year=1996|isbn=0-415-15291-7|pages=56–8|authorlink=Donald Routledge Hill}}</ref> . 
+
+In the [[Netherlands]], a low-lying country, ''dams'' were often applied to block rivers in order to regulate the water level and to prevent the sea from entering the marsh lands. Such dams often marked the beginning of a town or city because it was easy to cross the river at such a place, and often gave rise to the respective place's names in Dutch. For instance the Dutch capital [[Amsterdam]] (old name Amstelredam) started with a ''dam'' through the river [[Amstel]] in the late 12th century, and [[Rotterdam]] started with a ''dam'' through the river Rotte, a minor tributary of the [[Nieuwe Maas]]. The central square of Amsterdam, covering the original place of the 800 year old dam, still carries the name ''[[Dam Square]]'' or simply ''the Dam''.  . 
+
+French engineer [[Benoît Fourneyron]] developed the first successful [[water turbine]] in 1832. The era of large dams was initiated after [[Hoover Dam]] was completed on the [[Colorado River]] near Las Vegas in 1936. By 1997, there were an estimated 800,000 dams worldwide, some 40,000 of them over  {{convert|15|m|abbr=on}} high. <ref>"[http://ehp.niehs.nih.gov/qa/105-10focus/focus.html Is it Worth a Dam? ]". ''[[Environmental Health Perspectives]]'' Volume 105, Number 10, October 1997</ref> . 
+
+== Types of dams ==. 
+Dams can be formed by human agency, natural causes, or even by the intervention of wildlife such as [[beaver]]s. Man-made dams are typically classified according to their size (height), intended purpose or structure.  . 
+
+=== By structure ===. 
+Based on structure and material used, dams are classified as [[timber]] dams, [[arch-gravity dam]]s, [[embankment dam]]s or [[masonry dam]]s, with several subtypes.  . 
+
+==== Arch dams ====. 
+[[File:Gordon Dam.jpg|thumb|right|200px|[[Gordon Dam]], [[Tasmania]] is an [[arch dam]].]]
+{{Main|Arch dam}} . 
+
+In the arch dam, stability is obtained by a combination of arch and gravity action. If the upstream face is vertical the entire weight of the dam must be carried to the foundation by gravity, while the distribution of the normal [[Fluid pressure|hydrostatic pressure]] between vertical [[cantilever]] and arch action will depend upon the [[stiffness]] of the dam in a vertical and horizontal direction. When the upstream face is sloped the distribution is more complicated. The [[Normal (geometry)|normal]] component of the weight of the arch ring may be taken by the arch action, while the normal hydrostatic pressure will be distributed as described above. For this type of dam, firm reliable supports at the abutments (either [[buttress]] or [[canyon]] side wall) are more important. The most desirable place for an arch dam is a narrow canyon with steep side walls composed of sound rock. <ref name="pbsarch">{{cite web|url=http://www.pbs.org/wgbh/buildingbig/dam/basics.html#arch|title=Arch Dam Forces|accessdate=7 January 2007}}</ref>
+The safety of an arch dam is dependent on the strength of the side wall abutments, hence not only should the arch be well seated on the side walls but also the character of the rock should be carefully inspected.  . 
+
+[[File:Barrage Daniel-Johnson2.jpg|thumb|left|250px|[[Daniel-Johnson Dam]], [[Quebec]], is a multiple-arch buttress dam.]]
+Two types of single-arch dams are in use, namely the constant-angle and the constant-radius dam. The constant-radius type employs the same face radius at all elevations of the dam, which means that as the channel grows narrower towards the bottom of the dam the central angle subtended by the face of the dam becomes smaller. [[Jones Falls Dam]], in Canada, is a constant radius dam. In a constant-angle dam, also known as a variable radius dam, this subtended angle is kept a constant and the variation in distance between the abutments at various levels are taken care of by varying the radii. Constant-radius dams are much less common than constant-angle dams. [[Parker Dam]] is a constant-angle arch dam.  . 
+
+A similar type is the double-curvature or thin-shell dam. Wildhorse Dam near Mountain City, Nevada in the United States is an example of the type. This method of construction minimizes the amount of concrete necessary for construction but transmits large loads to the foundation and abutments. The appearance is similar to a single-arch dam but with a distinct vertical curvature to it as well lending it the vague appearance of a concave lens as viewed from downstream.  . 
+
+The multiple-arch dam consists of a number of single-arch dams with concrete buttresses as the supporting abutments, as for example the [[Daniel-Johnson Dam]], Québec, Canada. The multiple-arch dam does not require as many buttresses as the hollow gravity type, but requires good rock foundation because the buttress loads are heavy.  . 
+
+====Gravity dams====. 
+{{Unreferenced section|date=March 2011}}
+[[File:Grand Coulee Dam spillway.jpg|thumb|right|200px|The [[Grand Coulee Dam]] is an example of a solid gravity dam.]]
+In a gravity dam, the force that holds the dam in place against the push from the water is Earth's gravity pulling down on the mass of the dam. <ref>Brittish Dam society http://www.britishdams.org/about_dams/gravity.htm</ref>  The water presses laterally (downstream) on the dam, tending to overturn the dam by rotating about its toe (a point at the bottom downstream side of the dam). The dam's weight counteracts that force, tending to rotate the dam the other way about its toe. The designer ensures that the dam is heavy enough that gravity wins that contest. In engineering terms, that is true whenever the resultant of the forces of gravity and water pressure on the dam acts in a line that passes upstream of the toe of the dam.  . 
+
+Furthermore, the designer tries to shape the dam so if one were to consider the part of dam above any particular height to be a whole dam itself, that dam also would be held in place by gravity. i.e. there is no tension in the upstream face of the dam holding the top of the dam down. The designer does this because it is usually more practical to make a dam of material essentially just piled up than to make the material stick together against vertical tension.  . 
+
+Note that the shape that prevents tension in the upstream face also eliminates a balancing compression stress in the downstream face, providing additional economy.  . 
+
+The designer also ensures that the toe of the dam is sunk deep enough in the earth that it does not slide forward.  . 
+
+For this type of dam, it is essential to have an impervious foundation with high ''bearing'' strength.  . 
+
+When situated on a suitable site, a gravity dam can prove to be a better alternative to other types of dams. When built on a carefully studied foundation, the gravity dam probably represents the best developed example of dam building. Since the fear of [[flood]] is a strong motivator in many regions, gravity dams are being built in some instances where an arch dam would have been more economical.  . 
+
+Gravity dams are classified as "solid" or "hollow" and are generally made of either concrete or masonry. This is called "zoning". The core of the dam is zoned depending on the availability of locally available materials, foundation conditions and the material attributes. The solid form is the more widely used of the two, though the hollow dam is frequently more economical to construct. Gravity dams can also be classified as "overflow" (spillway) and "non-overflow." [[Grand Coulee Dam]] is a solid gravity dam and [[Itaipu Dam]] is a hollow gravity dam.  . 
+
+==== Arch-gravity dams ====. 
+[[File:Hoover dam from air.jpg|thumb|right|200px|The [[Hoover Dam]] is an example of an arch-gravity dam.]]
+{{Main|Arch-gravity dam}}
+{{Expand section|date=November 2010}} . 
+
+A gravity dam can be combined with an arch dam into an [[arch-gravity dam]] for areas with massive amounts of water flow but less material available for a purely gravity dam. 
+{{clear}} . 
+
+==== Barrages ====. 
+[[File:Koshi.jpg|thumb|right|200px|The [[Koshi Barrage]]]]
+{{Main|Barrage (dam)|l1=Barrage dams}}
+A barrage dam is a special kind of dam which consists of a line of large gates that can be opened or closed to control the amount of water passing the dam. The gates are set between flanking piers which are responsible for supporting the water load. They are often used to control and stabilize water flow for irrigation systems.  . 
+
+Barrages that are built at the mouth of rivers or lagoons to prevent [[tide|tidal incursions]] or utilize the tidal flow for [[tidal power]] are known as [[tidal barrage]]s. <ref name="urlDams and Development: An Overview"/> . 
+
+==== Embankment dams ====. 
+{{main|Embankment dam}}
+Embankment dams are made from [[Soil compaction|compacted]] earth, and have two main types, rock-fill and earth-fill dams. Embankment dams rely on their weight to hold back the force of water, like the gravity dams made from concrete.  . 
+
+===== Rock-fill dams =====. 
+[[File:Gathrightdam4.jpg|thumb|right|200px|The [[Gathright Dam]] in [[Virginia]] is a rock-fill [[embankment dam]].]]
+[[Rock (geology)|Rock]]-fill dams are embankments of compacted free-draining granular earth with an impervious zone. The earth utilized often contains a large percentage of large particles hence the term ''rock-fill''. The impervious zone may be on the upstream face and made of [[masonry]], [[concrete]], plastic membrane, steel sheet piles, timber or other material. The impervious zone may also be within the embankment in which case it is referred to as a ''core''. In the instances where clay is utilized as the impervious material the dam is referred to as a ''composite'' dam. To prevent internal erosion of clay into the rock fill due to seepage forces, the core is separated using a filter. Filters are specifically graded soil designed to prevent the migration of fine grain soil particles. When suitable material is at hand, transportation is minimized leading to cost savings during construction. Rock-fill dams are resistant to damage from [[earthquake]]s. However, inadequate quality control during construction can lead to poor compaction and sand in the embankment which can lead to [[Earthquake liquefaction|liquefaction]] of the rock-fill during an earthquake. Liquefaction potential can be reduced by keeping susceptible material from being saturated, and by providing adequate compaction during construction. An example of a rock-fill dam is [[New Melones Dam]] in [[California]].  . 
+
+======Concrete-face rock-fill dams======. 
+A concrete-face rock-fill dam (CFRD) is a rock-fill dam with [[concrete slab]]s on its upstream face. This design offers the concrete slab as an impervious wall to prevent leakage and also a structure without concern for uplift pressure. In addition, the CFRD design is flexible for topography, faster to construct and less costly than earth-fill dams. The CFRD originated during the [[California Gold Rush]] in the 1860s when miners constructed rock-fill timber-face dams for [[Placer_mining#Sluice_box|sluice operations]]. The timber was later replaced by concrete as the design was applied to irrigation and power schemes. As CFRD designs grew in height during the 1960s, the fill was compacted and the slab's horizontal and vertical joints were replaced with improved vertical joints. In the last few decades, the design has become popular. <ref>{{cite book|last=Neves|first=edited by E. Maranha das|title=Advances in rockfill structures|year=1991|publisher=Kluwer Academic|location=Dordrecht|isbn=0-7923-1267-8|pages=341|url=http://books.google.com/books?id=USEyV8y9ZFQC&pg=PA341&dq=concrete+face+rock+fill+dams&hl=en&ei=b4JfTs-AGIjSmAXs_9Uf&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC4Q6AEwAA#v=onepage&q=concrete%20face%20rock%20fill%20dams&f=false}}</ref>
+Currently, the tallest CFRD in the world is the {{Convert|233|m|ft|abbr=on}} tall [[Shuibuya Dam]] in China which was completed in 2008. <ref>{{cite web|title=Shuibuya|url=http://www.chincold.org.cn/news/li080321-17-shuibuya.pdf|publisher=Chinese Committee on Large Dams|accessdate=23 August 2011}}</ref> . 
+
+===== Earth-fill dams =====. 
+'''Earth-fill dams''', also called '''earthen dams''', '''rolled-earth dams''' or simply '''earth dams''', are constructed as a simple [[embankment dam|embankment]] of well compacted earth. A ''[[:wikt:homogeneous|homogeneous]]'' rolled-earth dam is entirely constructed of one type of material but may contain a drain layer to collect ''seep'' water. A ''zoned-earth'' dam has distinct parts or ''zones'' of dissimilar material, typically a locally plentiful ''shell'' with a watertight [[clay]] core. Modern zoned-earth embankments employ filter and drain zones to collect and remove seep water and preserve the integrity of the downstream shell zone. An outdated method of zoned earth dam construction utilized a [[hydraulic fill]] to produce a watertight core. ''Rolled-earth'' dams may also employ a watertight facing or core in the manner of a rock-fill dam. An interesting type of temporary earth dam occasionally used in high latitudes is the ''frozen-core'' dam, in which a coolant is circulated through pipes inside the dam to maintain a watertight region of [[permafrost]] within it.  . 
+
+[[Tarbela Dam]] is a large dam on the [[Indus River]] in [[Pakistan]]. It is located about {{convert|50|km|mi|abbr=on}} northwest of Islamabad, and a height of {{convert|485|ft|m|abbr=on}} above the river bed and a reservoir size of {{convert|95|sqmi|km2|abbr=on}} makes it the largest earth filled dam in the world. The principal element of the project is an embankment {{convert|9000|ft|m|abbr=off}} long with a maximum height of {{convert|465|ft|m|abbr=off}}. The total volume of earth and rock used for the project is approximately 200 million cubic yards (152.8 million cu. Meters) which makes it the largest man made structure in the world, except for the Great Chinese Wall which consumed somewhat more material.  . 
+
+Because earthen dams can be constructed from materials found on-site or nearby, they can be very cost-effective in regions where the cost of producing or bringing in concrete would be prohibitive.  . 
+
+===== Asphalt-concrete core =====. 
+A third type of embankment dam is built with [[asphalt concrete]] core. The majority of such dams are built with rock and/or gravel as the main fill material. Almost 100 dams of this design have now been built worldwide since the first such dam was completed in 1962. All asphalt-concrete core dams built so far have an excellent performance record. The type of asphalt used is a [[viscoelastic]]-[[plastic]] material that can adjust to the movements and deformations imposed on the embankment as a whole, and to settlements in the foundation. The flexible properties of the [[asphalt]] make such dams especially suited in [[earthquake]] regions. <ref>{{cite web|title=Asphalt concrete cores for embankment dams|url=http://www.waterpowermagazine.com/story.asp?storyCode=472|publisher=International Water Power and Dam Construction|accessdate=3 April 2011}}</ref> . 
+
+=== By size ===. 
+International standards (including [[International Commission on Large Dams]], '''ICOLD''') define ''large dams'' as higher than 15 meters and ''major dams'' as over 150 meters in height. <ref>{{cite web|url=http://www.iucn.org/themes/wani/eatlas/html/technotes.html|quote=A large dam is defined by the industry as one higher than 15 meters high and a major dam as higher than 150.5 meters.|work=Watersheds of the World|title=Methodology and Technical Notes|accessdate=1 August 2007 |archiveurl = http://web.archive.org/web/20070704103642/http://www.iucn.org/themes/wani/eatlas/html/technotes.html <!-- Bot retrieved archive --> |archivedate = 4 July 2007}}</ref>  The ''Report of the World Commission on Dams'' also includes in the ''large'' category, dams, such as [[barrage (dam)|barrage]]s, which are between 5 and 15 meters high with a reservoir capacity of more than 3 million cubic meters. <ref name="urlDams and Development: An Overview">{{cite web|url=http://www.dams.org/report/wcd_overview.htm|title=Dams and Development: An Overview|date=16 November 2000|quote=Box 1. What is a large dam?|accessdate=24 October 2010}}</ref> . 
+
+The tallest dam in the world is the 300-meter-high [[Nurek Dam]] in [[Tajikistan]]. <ref name=gbor97p108109>Guinness Book of Records 1997 Pages 108-109 ISBN 0-85112-693-6</ref> . 
+
+=== By use ===. 
+==== Saddle dam ====. 
+A saddle dam is an auxiliary dam constructed to confine the reservoir created by a primary dam either to permit a higher water elevation and storage or to limit the extent of a reservoir for increased efficiency. An auxiliary dam is constructed in a low spot or ''saddle'' through which the reservoir would otherwise escape. On occasion, a reservoir is contained by a similar structure called a [[dike (construction)|dike]] to prevent inundation of nearby land. Dikes are commonly used for ''reclamation'' of arable land from a shallow lake. This is similar to a [[levee]], which is a wall or embankment built along a river or stream to protect adjacent land from [[flood]]ing.  . 
+
+==== Weir ====. 
+{{Main|Weir}}
+A weir (also sometimes called an ''overflow dam'') is a type of small overflow dam that is often used within a river channel to create an impoundment lake for water abstraction purposes and which can also be used for flow measurement.  . 
+
+==== Check dam ====. 
+{{Main|Check dam}}
+A check dam is a small dam designed to reduce flow velocity and control [[soil erosion]]. Conversely, a ''[[wing dam]]'' is a structure that only partly restricts a waterway, creating a faster channel that resists the accumulation of sediment.  . 
+
+==== Dry dam ====. 
+{{Main|Dry dam}}
+A dry dam also known as a flood retarding structure, is a dam designed to control flooding. It normally holds back no water and allows the channel to flow freely, except during periods of intense flow that would otherwise cause flooding downstream.  . 
+
+==== Diversionary dam ====. 
+{{Main|Diversionary dam}}
+A diversionary dam is a structure designed to divert all or a portion of the flow of a [[river]] from its natural course. The water may be redirected into a canal or tunnel for irrigation and/or hydroelectric power production.  . 
+
+====Tailings dam====. 
+A tailings dam is typically an earth-fill embankment dam used to store [[tailings]] — which are produced during [[mining]] operations after separating the valuable fraction from the uneconomic fraction of an [[ore]]. Conventional water retention dams can serve this purpose but due to cost, a tailings dam is more viable. Unlike water retention dams, a tailings dam is raised in succession throughout the life of the particular mine. Typically, a base or starter dam is constructed and as it fills with a mixture of tailings and water, it is raised. Material used to raise the dam can include the tailings (depending on their size) along with dirt. <ref>{{cite book|last=ICME|title=Case studies on tailings management|year=1998|publisher=UNEP|location=Paris, France|isbn=1-895720-29-X|pages=9–10|url=http://books.google.com/books?id=qG9Bux3RYWMC&pg=PA9&dq=tailings+dam&hl=en&ei=LTlCTv-tJs-HmQXKkPivCQ&sa=X&oi=book_result&ct=result&resnum=3&ved=0CDkQ6AEwAg#v=onepage&q=tailings%20dam&f=false|coauthors=Metals, International Council on, Programme, the Environment; UNEP, United Nations Environment|accessdate=10 August 2011}}</ref> . 
+
+There are three raised tailings dam designs, the ''upstream'', ''downstream'' and ''centerline'', named according to the movement of the crest during raising. The specific design used it dependent upon topography, geology, climate, the type of tailings and cost. An upstream tailings dam consists of [[trapezoidal]] embankments being constructed on top but toe to crest of another, moving the crest further upstream. This creates a relatively flat downstream side and a jagged upstream side which is supported by tailings [[slurry]] in the impoundment. The downstream design refers to the successive raising of the embankment that positions the fill and crest further downstream. A centerlined dam has sequential embankment dams constructed directly on top of another while fill is placed on the downstream side for support and slurry supports the upstream side. <ref>{{cite web|title=Properties of Tailings Dams|url=http://www.mining.ubc.ca/faculty/meech/MINE290/Tailings%20Dam%20Construction%20Methods.pdf|publisher=NBK Institute of Mining Engineering|accessdate=10 August 2011}}</ref><ref name=taildam>{{cite book|first=ed. by Raj K. Singhal|title=Environmental issues and management of waste in energy and mineral production: proceedings of the Sixth International Conference on Environmental Issues and Management of Waste in Energy and Mineral Production: SWEMP 2000 ; Calgary, Alberta, Canada, May 30 - June 2, 2000|year=2000|publisher=Balkema|location=Rotterdam [u.a.]|isbn=90-5809-085-X|pages=257–260|url=http://books.google.com/books?id=PqiYy538JFUC&pg=PA257&dq=tailings+dam&hl=en&ei=LTlCTv-tJs-HmQXKkPivCQ&sa=X&oi=book_result&ct=result&resnum=4&ved=0CD8Q6AEwAw#v=onepage&q=tailings%20dam&f=false}}</ref> . 
+
+Because tailings dams often store toxic chemicals from the mining process, they have an impervious liner to prevent seepage. Water/slurry levels in the tailings pond must be managed for stability and environmental purposes as well. <ref name=taildam/> . 
+
+=== By material ===. 
+==== Steel dams ====. 
+{{main|Steel dam}}
+[[File:RedridgeSteelDam02.jpg|thumb|right|200px|Red Ridge steel dam, b. 1905, Michigan.]]
+A [[steel dam]] is a type of dam briefly experimented with in around the turn of the 19th-20th Century which uses steel plating (at an angle) and load bearing beams as the structure. Intended as permanent structures, steel dams were an (arguably failed) experiment to determine if a construction technique could be devised that was cheaper than masonry, concrete or earthworks, but sturdier than timber crib dams.  . 
+
+==== Timber dams ====. 
+[[File:Dam Timber Crib.jpg|thumb|left|200px|A timber crib dam in [[Michigan]], photographed in 1978.]]
+[[Timber]] dams were widely used in the early part of the industrial revolution and in frontier areas due to ease and speed of construction. Rarely built in modern times because of relatively short lifespan and limited height to which they can be built, timber dams must be kept constantly wet in order to maintain their water retention properties and limit deterioration by rot, similar to a barrel. The locations where timber dams are most economical to build are those where timber is plentiful, [[cement]] is costly or difficult to transport, and either a low head diversion dam is required or longevity is not an issue. Timber dams were once numerous, especially in the North American west, but most have failed, been hidden under earth embankments or been replaced with entirely new structures. Two common variations of timber dams were the ''crib'' and the ''plank''.  . 
+
+''Timber crib dams'' were erected of heavy timbers or dressed logs in the manner of a log house and the interior filled with earth or rubble. The heavy crib structure supported the dam's face and the weight of the water. [[Splash dam]]s were timber crib dams used to help float [[logging|logs]] downstream in the late 19th and early 20th centuries.  . 
+
+''Timber plank dams'' were more elegant structures that employed a variety of construction methods utilizing heavy timbers to support a water retaining arrangement of planks.  . 
+
+=== Other types ===. 
+==== Cofferdams ====. 
+{{main|Cofferdam}}
+[[File:Dam Coffer.jpg|thumb|right|200px|A cofferdam during the construction of [[canal lock|locks]] at the [[Montgomery Point Lock and Dam]].]]
+A [[cofferdam]] is a (usually temporary) barrier constructed to exclude water from an area that is normally submerged. Made commonly of wood, [[concrete]] or [[steel]] sheet [[Deep foundation|piling]], cofferdams are used to allow construction on the [[Foundation (architecture)|foundation]] of permanent dams, bridges, and similar structures. When the project is completed, the cofferdam may be demolished or removed. See also [[causeway]] and [[retaining wall]]. Common uses for cofferdams include construction and repair of off shore oil platforms. In such cases the cofferdam is fabricated from sheet steel and welded into place under water. Air is pumped into the space, displacing the water allowing a dry work environment below the surface. Upon completion the cofferdam is usually deconstructed unless the area requires continuous maintenance.  . 
+
+==== Beaver dams ====. 
+{{main|Beaver dam}}
+[[Beaver]]s create dams primarily out of mud and sticks to flood a particular habitable area. By flooding a parcel of land, beavers can navigate below or near the surface and remain relatively well hidden or protected from predators. The flooded region also allows beavers access to food, especially during the winter.  . 
+
+== Construction elements ==. 
+=== Power generation plant ===. 
+[[Image:Water turbine.jpg|thumb|right|upright|[[Water turbine|Hydraulic turbine]] and [[electrical generator]].]] . 
+
+{{main|Hydroelectricity}} . 
+
+As of 2005, hydroelectric power, mostly from dams, supplies some 19% of the world's electricity, and over 63% of [[renewable energy]]. <ref name="REN21-2006">[http://www.ren21.net/globalstatusreport/download/RE_GSR_2006_Update.pdf Renewables Global Status Report 2006 Update], ''[[REN21]]'', published 2006, accessed 2007-05-16</ref> Much of this is generated by large dams, although [[China]] uses small scale hydro generation on a wide scale and is responsible for about 50% of world use of this type of power. <ref name="REN21-2006" /> . 
+
+Most hydroelectric power comes from the [[potential energy]] of dammed water driving a [[water turbine]] and [[electrical generator|generator]]; to boost the power generation capabilities of a dam, the water may be run through a large pipe called a [[penstock]] before the [[turbine]]. A variant on this simple model uses [[pumped storage hydroelectricity]] to produce electricity to match periods of high and low demand, by moving water between [[reservoir (water)|reservoirs]] at different elevations. At times of low electrical demand, excess generation capacity is used to pump water into the higher reservoir. When there is higher demand, water is released back into the lower reservoir through a turbine. (For example see [[Dinorwic Power Station]].) . 
+
+[[Image:Hydroelectric dam.svg|thumb|left|Hydroelectric dam in cross section.]] . 
+
+=== Spillways ===. 
+[[Image:Llyn Brianne spillway.jpg|right|upright|thumb|Spillway on [[Llyn Brianne]] dam, [[Wales]] soon after first fill.]] . 
+
+{{main|Spillway}} . 
+
+A ''spillway'' is a section of a dam designed to pass water from the upstream side of a dam to the downstream side. Many spillways have [[floodgate]]s designed to control the flow through the spillway. Types of spillway include: A ''service spillway'' or ''primary spillway'' passes normal flow. An ''auxiliary spillway'' releases flow in excess of the capacity of the service spillway. An ''emergency spillway'' is designed for extreme conditions, such as a serious malfunction of the service spillway. A ''[[fuse plug]] spillway'' is a low embankment designed to be over topped and washed away in the event of a large flood. Fusegate elements are independent free-standing block set side by side on the spillway which work without any remote control. They allow to increase the normal pool of the dam without compromising the security of the dam because they are designed to be gradually evacuated for exceptional events. They work as fixed [[weir]] most of the time allowing overspilling for the common floods.  . 
+
+The spillway can be gradually [[erosion|eroded]] by water flow, including [[cavitation]] or [[turbulence]] of the water flowing over the spillway, leading to its failure. It was the inadequate design of the spillway which led to the 1889 over-topping of the [[South Fork Dam]] in [[Johnstown, Pennsylvania|Johnstown]], [[Pennsylvania]], resulting in the infamous [[Johnstown Flood]] (the "great flood of 1889").  . 
+
+Erosion rates are often monitored, and the risk is ordinarily minimized, by shaping the downstream face of the spillway into a curve that minimizes turbulent flow, such as an [[ogee curve]].  . 
+
+==Dam creation==. 
+===Common purposes===. 
+{| class="wikitable"
+! Function
+!Example
+. |-
+!style="text-align:center"| Power generation
+| [[Hydroelectric power]] is a major source of electricity in the world. Many countries that have rivers with adequate water flow, that can be dammed for power generation purposes. For example, the [[Itaipu Dam]] on the [[Paraná River]] in [[South America]] generates 14 [[Watt|GW]] and supplied 93% of the energy consumed by [[Paraguay]] and 20% of that consumed by [[Brazil]] as of 2005. 
+. |-
+!style="text-align:center"| Water supply
+|Many urban areas of the world are supplied with water abstracted from rivers pent up behind low dams or weirs. Examples include [[London]] - with water from the [[River Thames]] and [[Chester]] with water taken from the [[River Dee, Wales|River Dee]]. Other major sources include deep upland reservoirs contained by high dams across deep valleys such as the [[Claerwen]] series of dams and reservoirs. 
+. |-
+!style="text-align:center"| Stabilize water flow / irrigation
+| Dams are often used to control and stabilize water ''flow'', often for [[agriculture|agricultural]] purposes and [[irrigation]]. <ref>{{cite web|title=The Impact of Agricultural Development on Aquatic Systems and its Effect on the Epidemiology of Schistosomes in Rhodesia|quote=Recently, agricultural development has concentrated on soil and water conservation and resulted in the construction of a multitude of dams of various capacities which tend to stabilize water flow in rivers and provide a significant amount of permanent and stable bodies of water.|work=IUCN|format=PDF|unused_data=/Chapter%208A%20-%20The%20Careless%20Technology.pdf}}</ref> Others such as the [[Berg Strait]] dam can help to stabilize or restore the water ''levels'' of inland lakes and seas, in this case the [[Aral Sea]]. <ref>{{cite web |title=Kazakhstan|work=Land and Water Development Division|year=1998|accessdate=1 August 2007|quote=construction of a dam (Berg Strait) to stabilize and increase the level of the northern part of the Aral Sea.}}</ref>
+. |-
+!style="text-align:center"| Flood prevention
+| Dams such as the Blackwater dam of [[Webster, New Hampshire|Webster]], [[New Hampshire]] and the [[Delta Works]] are created with flood control in mind. <ref>{{cite web|url=http://www.nae.usace.army.mil/recreati/bwd/bwdfc.htm|title=Blackwater Dam|work=US Army Corps of Engineers|quote=The principal objective of the dam and reservoir is to protect downstream communities}}</ref>
+. |-
+!style="text-align:center"| Land reclamation
+| Dams (often called [[Dike (construction)|dykes]] or [[levee]]s in this context) are used to prevent ingress of water to an area that would otherwise be submerged, allowing its [[Land reclamation|reclamation]] for human use. 
+. |-
+!style="text-align:center"| Water diversion
+| A typically small dam used to divert water for irrigation, power generation, or other uses, with usually no other function. Occasionally, they are used to divert water to another drainage or reservoir to increase flow there and improve water use in that particular area. See: [[diversion dam]]. 
+. |-
+!style="text-align:center"| Navigation
+| Dams create deep reservoirs and can also vary the flow of water downstream. This can in return affect upstream and downstream [[Navigability|navigation]] by altering the river's depth. Deeper water increases or creates freedom of movement for water vessels. Large dams can serve this purpose but most often [[weir]]s and [[canal lock|locks]] are used. 
+. |-
+!style="text-align:center"| Recreation and aquatic beauty
+| Dams built for any of the above purposes may find themselves displaced by time of their original uses. Nevertheless the local community may have come to enjoy the reservoir for recreational and aesthetic reasons. Often the reservoir will be placid and surrounded by greenery, and convey to visitors a natural sense of rest and relaxation. 
+|} . 
+
+=== Location ===. 
+[[File:Takato Dam discharge.jpg|thumb|right|200px|The discharge of [[Takato Dam]]]]
+One of the best places for building a dam is a narrow part of a deep [[river]] [[valley]]; the valley sides can then act as natural walls. The primary function of the dam's structure is to fill the gap in the natural reservoir line left by the stream channel. The sites are usually those where the gap becomes a minimum for the required storage capacity. The most economical arrangement is often a composite structure such as a [[masonry]] dam flanked by earth embankments. The current use of the land to be flooded should be dispensable.  . 
+
+Significant other [[engineering]] and [[engineering geology]] considerations when building a dam include:
+* [[Permeability (fluid)|permeability]] of the surrounding rock or soil
+* [[earthquake]] faults
+* [[landslides]] and [[slope stability]]
+* water table
+* peak flood flows
+* reservoir silting
+* [[Environmental impacts of reservoirs|environmental impacts]] on river fisheries, forests and wildlife (see also [[fish ladder]])
+* impacts on human habitations
+* compensation for land being flooded as well as population resettlement
+* removal of toxic materials and buildings from the proposed reservoir area . 
+
+===Impact assessment===. 
+Impact is assessed in several ways: the benefits to human society arising from the dam (agriculture, water, damage prevention and power), harm or benefit to nature and wildlife, impact on the geology of an area - whether the change to water flow and levels will increase or decrease stability, and the disruption to human lives (relocation, loss of [[archeological]] or cultural matters underwater).  . 
+
+====Environmental impact====. 
+[[Image:Dam-pollution.JPG|thumb|250px|Wood and garbage accumulated because of a dam]]
+{{main|Environmental impacts of reservoirs}}
+Reservoirs held behind dams affect many ecological aspects of a river. Rivers topography and dynamics depend on a wide range of flows whilst rivers below dams often experience long periods of very stable flow conditions or saw tooth flow patterns caused by releases followed by no releases. Water releases from a reservoir including that exiting a turbine usually contains very little suspended sediment, and this in turn can lead to scouring of river beds and loss of riverbanks; for example, the daily cyclic flow variation caused by the [[Glen Canyon Dam]] was a contributor to [[sand bar]] [[erosion]].  . 
+
+Older dams often lack a [[fish ladder]], which keeps many fish from moving up stream to their natural breeding grounds, causing failure of breeding cycles or blocking of migration paths. Even the presence of a fish ladder does not always prevent a reduction in fish reaching the [[spawn (biology)|spawning]] grounds upstream. In some areas, young fish ("smolt") are transported downstream by [[barge]] during parts of the year. Turbine and power-plant designs that have a lower impact upon aquatic life are an active area of research.  . 
+
+A large dam can cause the loss of entire [[ecology|ecosphere]]s, including [[endangered species|endangered]] and [[List of cryptids|undiscovered]] species in the area, and the replacement of the original environment by a new inland lake.  . 
+
+Large [[reservoir]]s formed behind dams have been indicated in the contribution of [[earthquake|seismic activity]], due to changes in water load and/or the height of the water table.  . 
+
+====Human social impact====. 
+The impact on human society is also significant.  [[Nick Cullather]] argues in ''Hungry World: America's Cold War Battle Against Poverty in Asia'' that dam construction requires [[the state]] to displace individual people in the name of the [[common good]], and that it often leads to abuses of the masses by planners. He cites [[Morarji Desai]], Interior Minister of India, in 1960 speaking to villagers upset about the [[Pong Dam]], who threatened to "release the waters" and drown the villagers if they did not cooperate. <ref>Cullather, 110. </ref> . 
+
+For example, the [[Three Gorges Dam]] on the [[Yangtze River]] in [[China]] is more than five times the size of the [[Hoover Dam]] ([[United States|U.S.]]), and will create a reservoir 600&nbsp;km long to be used for hydro-power generation. Its construction required the loss of over a million people's homes and their mass relocation, the loss of many valuable archaeological and cultural sites, as well as significant ecological change. <ref name=Bbc060520>{{cite news
+| publisher=china-embassy
+| url=http://www.china-embassy.org/eng/zt/sxgc/t36502.htm
+| title=Three Gorges dam wall completed
+| date=20 May 2006
+| accessdate=21 May 2006
+}}</ref> It is estimated that to date, 40-80 million people worldwide have been physically displaced from their homes as a result of dam construction. <ref>[http://internationalrivers.org/en/way-forward/world-commission-dams/world-commission-dams-framework-brief-introduction World Commission on Dams Report]</ref> . 
+
+====Economics====. 
+Construction of a [[hydroelectric plant]] requires a long lead-time for site studies, hydrological studies, and environmental impact assessment, and are large scale projects by comparison to traditional power generation based upon [[fossil fuel]]s. The number of sites that can be economically developed for hydroelectric production is limited; new sites tend to be far from population centers and usually require extensive [[power transmission]] lines. Hydroelectric generation can be vulnerable to major changes in the [[climate]], including variation of rainfall, ground and surface [[water level]]s, and glacial melt, causing additional expenditure for the extra capacity to ensure sufficient power is available in low water years.  . 
+
+Once completed, if it is well designed and maintained, a hydroelectric power source is usually comparatively cheap and reliable. It has no fuel and low escape risk, and as an [[alternative energy]] source it is cheaper than both nuclear and wind power.{{Citation needed|date=August 2007}} It is more easily regulated to store water as needed and generate high power levels on demand compared to [[wind power]].  . 
+
+==Dam failure==. 
+{{main|Dam failure}}
+[[Image:Teton Dam failure.jpg|thumb|right|The reservoir emptying through the failed [[Teton Dam]].]]
+[[Image:International special sign for works and installations containing dangerous forces.svg|thumb|right|International special sign for works and installations containing dangerous forces]]
+Dam failures are generally catastrophic if the structure is breached or significantly damaged. Routine [[Deformation Monitoring|deformation monitoring]] and monitoring of seepage from drains in and around larger dams is useful to anticipate any problems and permit remedial action to be taken before structural failure occurs. Most dams incorporate mechanisms to permit the reservoir to be lowered or even drained in the event of such problems. Another solution can be rock [[grout]]ing - [[Pressure grouting|pressure pumping]] [[portland cement]] [[slurry]] into weak fractured rock.  . 
+
+During an armed conflict, a dam is to be considered as an "installation containing dangerous forces" due to the massive impact of a possible destruction on the civilian population and the environment. As such, it is protected by the rules of [[International Humanitarian Law]] (IHL) and shall not be made the object of attack if that may cause severe losses among the civilian population. To facilitate the identification, a [[protective sign]] consisting of three bright orange circles placed on the same axis is defined by the rules of IHL.  . 
+
+The main causes of dam failure include inadequate spillway capacity, piping through the embankment, foundation or abutments, spillway design error ([[South Fork Dam]]), geological instability caused by changes to water levels during filling or poor surveying ([[Vajont Dam]], [[Malpasset]], [[Testalinden Creek]] Dam), poor maintenance, especially of outlet pipes ([[Lawn Lake Dam]], [[Val di Stava Dam collapse]]), extreme rainfall ([[Shakidor Dam]]), and human, computer or design error ([[Buffalo Creek Flood]], [[Dale Dike Reservoir]], [[Taum Sauk pumped storage plant]]).  . 
+
+A notable case of deliberate dam failure (prior to the above ruling) was the [[Royal Air Force]] [[No. 617 Squadron RAF|'Dambusters']] raid on [[Germany]] in [[World War II]] (codenamed ''"[[Operation Chastise]]"''), in which three German dams were selected to be breached in order to have an impact on German infrastructure and manufacturing and power capabilities deriving from the [[Ruhr (river)|Ruhr]] and [[Eder]] rivers. This raid later became the basis for several films.  . 
+
+Since 2007, the Dutch [[IJkdijk]] foundation is developing, with an [[open innovation]] model and early warning system for levee/dike failures. As a part of the development effort, full scale dikes are destroyed in the IJkdijk fieldlab. The destruction process is monitored by sensor networks from an international group of companies and scientific institutions.  . 
+
+==See also==. 
+{{commons|Dam}}
+* [[Canal lock]]
+* [[Grout curtain]]
+* [[Inflatable rubber dam]]
+* [[List of largest dams]]
+* [[List of reservoirs and dams]]
+* [[List of world's tallest dams]]
+* [[Bunding]] . 
+
+==References==. 
+{{reflist|2}} . 
+
+== Sources ==. 
+*{{Citation
+ | last1 = Arenillas
+ | first1 = Miguel
+ | last2 = Castillo
+ | first2 = Juan C. 
+ | title = Dams from the Roman Era in Spain. Analysis of Design Forms (with Appendix)
+ | journal = 1st International Congress on Construction History [20th–24th January]
+ | publication-place = Madrid
+ | year = 2003
+ | url = http://www.traianvs.net/textos/presas_in.htm#_ednref4
+}}
+*{{Citation
+ | last1 = Hartung
+ | first1 = Fritz
+ | last2 = Kuros
+ | first2 = Gh. R. 
+ | editor-last = Garbrecht
+ | editor-first = Günther
+ | contribution = Historische Talsperren im Iran
+ | title = Historische Talsperren
+ | place = Stuttgart
+ | publisher = Verlag Konrad Wittwer
+ | year = 1987
+ | volume = 1
+ | pages = 221–274
+ | isbn = 3-87919-145-X
+}}
+*{{Citation
+ | last = Hodge
+ | first = A. Trevor
+ | title = Roman Aqueducts & Water Supply
+ | place = London
+ | publisher = Duckworth
+ | year = 1992
+ | isbn = 0-7156-2194-7
+}}
+*{{Citation
+ | last = Hodge
+ | first = A. Trevor
+ | editor-last = Wikander
+ | editor-first = Örjan
+ | contribution = Reservoirs and Dams
+ | title = Handbook of Ancient Water Technology
+ | series = Technology and Change in History
+ | volume = 2
+ | year = 2000
+ | publisher = Brill
+ | location = Leiden
+ | isbn = 90-04-11123-9
+ | pages = 331–339
+}}
+*{{Citation
+ | last1 = James
+ | first1 = Patrick
+ | last2 = Chanson
+ | first2 = Hubert
+ | title = Historical Development of Arch Dams. From Roman Arch Dams to Modern Concrete Designs
+ | journal = Australian Civil Engineering Transactions
+ | volume = CE43
+ | year = 2002
+ | pages = 39–56
+ | url = http://traianus.rediris.es/textos/archdams_en.htm
+}}
+*{{Citation
+ | last = Schnitter
+ | first = Niklaus
+ | title = Römische Talsperren
+ | journal = Antike Welt
+ | volume = 8
+ | issue = 2
+ | pages = 25–32
+ | year = 1978
+}}
+*{{Citation
+ | last = Schnitter
+ | first = Niklaus
+ | editor-last = Garbrecht
+ | editor-first = Günther
+ | contribution = Verzeichnis geschichtlicher Talsperren bis Ende des 17. Jahrhunderts
+ | title = Historische Talsperren
+ | place = Stuttgart
+ | publisher = Verlag Konrad Wittwer
+ | year = 1987a
+ | volume = 1
+ | pages = 9–20
+ | isbn = 3-87919-145-X
+}}
+*{{Citation
+ | last = Schnitter
+ | first = Niklaus
+ | editor-last = Garbrecht
+ | editor-first = Günther
+ | contribution = Die Entwicklungsgeschichte der Pfeilerstaumauer
+ | title = Historische Talsperren
+ | place = Stuttgart
+ | publisher = Verlag Konrad Wittwer
+ | year = 1987b
+ | volume = 1
+ | pages = 57–74
+ | isbn = 3-87919-145-X
+}}
+*{{Citation
+ | last = Schnitter
+ | first = Niklaus
+ | editor-last = Garbrecht
+ | editor-first = Günther
+ | contribution = Die Entwicklungsgeschichte der Bogenstaumauer
+ | title = Historische Talsperren
+ | place = Stuttgart
+ | publisher = Verlag Konrad Wittwer
+ | year = 1987c
+ | volume = 1
+ | pages = 75–96
+ | isbn = 3-87919-145-X
+}}
+*{{Citation
+ | doi = 10.2307/3102810
+ | last = Smith
+ | first = Norman
+ | title = The Roman Dams of Subiaco
+ | jstor = 3102810
+ | journal = Technology and Culture
+ | volume = 11
+ | issue = 1
+ | pages = 58–68
+ | year = 1970
+}}
+*{{Citation
+ | last = Smith
+ | first = Norman
+ | title = A History of Dams
+ | place = London
+ | publisher = Peter Davies
+ | year = 1971
+ | pages = 25–49
+ | isbn = 0-432-15090-0
+}}
+*{{Citation
+ | last = Vogel
+ | first = Alexius
+ | editor-last = Garbrecht
+ | editor-first = Günther
+ | contribution = Die historische Entwicklung der Gewichtsmauer
+ | title = Historische Talsperren
+ | place = Stuttgart
+ | publisher = Verlag Konrad Wittwer
+ | year = 1987
+ | volume = 1
+ | pages = 47–56 (50)
+ | isbn = 3-87919-145-X
+}} . 
+
+==External links==. 
+{{Wiktionary|dam}}
+*[http://cereview.info/book/fluid-mechanics-and-hydraulics/analysis-gravity-dam Gravity Dam Analysis]
+*[http://en.structurae.de/structures/stype/index.cfm?doi=3 Structurae: Dams and Retaining Structures] . 
+
+{{Hydropower}}
+{{Use dmy dates|date=January 2011}} . 
+
+[[Category:Dams| ]]
+[[Category:Barrages]]
+[[Category:Hydraulic structures]]

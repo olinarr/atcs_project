@@ -1,0 +1,32 @@
+{{Atheism and Irreligion Sidebar}}
+[[Image:Atheists Agnostics Zuckerman en.svg|thumb|250px|Fraction of atheists and agnostics in different countries. The values for China, Cuba, and North Korea must be viewed with skepticism as comparatively little data is available in these countries.]]
+'''Agnostic atheism''', also called '''atheistic agnosticism''', is a philosophical position that encompasses both [[atheism]] and [[agnosticism]]. Agnostic atheists are atheistic because they do not hold a [[belief]] in the existence of any deity and agnostic because they claim that the existence of a [[deity]] is either unknowable in principle or currently unknown in fact. The agnostic atheist may be contrasted with the [[agnostic theist]], who does believe that one or more deities exist but claims that the existence or nonexistence of such is unknown or cannot be known. <ref>{{cite book|title=The Ascent of Faith: or, the Grounds of Certainty in Science and Religion|year=1894|first=Alexander James|last=Harrison|authorlink=Alexander James Harrison|publisher=Hodder and Stroughton|location=London|page=21|oclc=7234849|ol=21834002M|url=http://books.google.com/books?id=c3QrAAAAYAAJ&pg=PA21|quote=Let Agnostic Theism stand for that kind of Agnosticism which admits a Divine existence; Agnostic Atheism for that kind of Agnosticism which thinks it does not.}}</ref> . 
+
+==Examples==. 
+[[Bertrand Russell]] uses the example of the [[celestial teapot]]. He argues that although it is impossible to know that the teapot does not exist, most people would not believe in it. Therefore, one's view with respect to the teapot would be an agnostic "ateapotist", because while they don't believe in the existence of the teapot, they don't claim to know for certain. <ref>[http://www.cfpf.org.uk/articles/religion/br/br_god.html Bertrand Russell: Is There a God?]</ref> . 
+
+==History==. 
+One of the earliest definitions of agnostic atheism is that of [[Robert Flint]], in his Croall Lecture of 1887–1888 (published in 1903 under the title ''Agnosticism'').  . 
+
+<blockquote>The atheist may however be, and not unfrequently is, an agnostic. There is an agnostic atheism or atheistic agnosticism, and the combination of atheism with agnosticism which may be so named is not an uncommon one. <ref name=flint>{{cite book|last=Flint|first=Robert|authorlink=Robert Flint|title=Agnosticism: The Croall Lecture for 1887–88|year=1903|publisher=William Blackwood and Sons|ol=7193167M|pages=49–51|url=http://books.google.com/books?id=DWMtAAAAYAAJ&pg=PA49}}</ref></blockquote> . 
+
+<blockquote>If a man has failed to find any good reason for believing that there is a God, it is perfectly natural and rational that he should not believe that there is a God; and if so, he is an atheist... if he goes farther, and, after an investigation into the nature and reach of human knowledge, ending in the conclusion that the existence of God is incapable of proof, cease to believe in it on the ground that he cannot know it to be true, he is an agnostic and also an atheist – an agnostic-atheist – an atheist because an agnostic... while, then, it is erroneous to identify agnosticism and atheism, it is equally erroneous so to separate them as if the one were exclusive of the other... <ref name=flint/></blockquote> . 
+
+==References==. 
+{{Reflist}} . 
+
+==Further reading==. 
+*Howe, Frederic R. ''Challenge and Response.'' Grand Rapids: The Zondervan Corporation, 1982. ISBN 0-310-45070-5
+*Martin, Michael. ''Theism.'' MSN Encarta, 2000. Microsoft Corporation. 
+*Martin, Michael. ''Atheism: A Philosophical Justification.'' Philadelphia: Temple UP, 1992. ISBN 0-87722-943-0
+*Smith, George H. ''Atheism: The Case Against God.'' 1st ed. Amherst: Prometheus Books, 1980. ISBN 0-87975-124-X
+*Stein, Gordon. ''The Encyclopedia of Unbelief.'' Amherst: Prometheus Books, 1985. ISBN 0-87975-307-2 . 
+
+==External links==. 
+{{Portal|Atheism}} . 
+
+{{irreligion}}
+{{Belief systems}} . 
+
+[[Category:Agnosticism]]
+[[Category:Atheism]]

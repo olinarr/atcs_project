@@ -1,0 +1,219 @@
+'''Wind power in Australia''' is a proven and reliable technology that can be and is readily deployed. <ref name=ie/> As of October 2010, there were 52 [[wind farm]]s in Australia, most of which had turbines of from 1.5 to 3 megawatts (MW). The total operating wind generating capacity at this time was 1,880 MW, with annual production of almost 5,000 GWh providing close to two percent of Australia's national electricity demand.  . 
+
+[[Wind power in South Australia|South Australia]] had close to half of the nation's [[wind power]] capacity,<ref name=ie>[[International Energy Agency]] (2009).[http://www.ieawind.org/AnnualReports_PDF/2008/2008%20AR_small.pdf  IEA Wind Energy: Annual Report 2008] pp. 79-82. </ref> accounting for almost twenty percent of that state's electricity needs of as October 2010. Victoria also had a substantial system, with about a quarter of the nation's capacity, and projects under construction forecast to more than double that capacity by the end of 2013.  . 
+
+A full listing of all the wind farms in Australia, can be found in [[List of wind farms in Australia]].  . 
+
+==Overview==. 
+[[Image:Wattle Point windmill.jpg|thumb|right|The information centre near the base of one of the towers at Wattle Point Wind Farm]]
+Australia has excellent wind resources by world standards. <ref>[http://www.environment.gov.au/settlements/renewable/atlas/pubs/mean-wind-speed.pdf Wind Atlas for Australia 2008]</ref> The southern coastline lies in the [[roaring forties]] and hundreds of sites have average wind speeds above 8 or even 9&nbsp;m/s at 50&nbsp;m above ground (the hub height of a modern [[wind generator]]). [[Southwest corner of Western Australia|The southwest of Western Australia]], southern [[South Australia]], [[Western District, Victoria|western Victoria]], northern [[Tasmania]] and elevated areas of [[New South Wales]] and [[Queensland]] have good wind resources. Several states engaged in systematic wind speed monitoring in the 1980s and 1990s, the results of which are publicly available. <ref>{{cite journal |url=http://www.jamesnixon.com/SolarwindANU.pdf |author=A.W. Blakers, |title=Solar and Wind Electricity in Australia |journal=Australian Journal of Environmental Management, Vol 7, pp. 223–36, 2000 |accessdate=2007-03-23 |format=pdf |archiveurl = http://web.archive.org/web/20070830054518/http://www.jamesnixon.com/SolarwindANU.pdf <!-- Bot retrieved archive --> |archivedate = 2007-08-30}}</ref> Australian wind farms produce on average [[capacity factor]]s of 30–35%, making wind an attractive option. <ref>[http://www.greenhouse.gov.au/renewable/publications/pubs/wind-discussionpaper.pdf National code for wind farms: A discussion paper]</ref>  . 
+
+As of October 2010, wind power accounted for approximately 5&nbsp;[[Kilowatt_hour#Watt_hour_multiples_and_billing_units|TWh]] out of a total of 251&nbsp;TWh of electricity used per year,<ref name=cea-2010report5>{{cite web|title=Clean Energy Australia 2010 (Report)|url=http://www.cleanenergycouncil.org.au/dms/cec/reports/clean-energy-australia/B--Clean-Energy-Australia-Report-2010/Clean%20Energy%20Australia%20Report%202010-C.pdf|work=Official site|publisher=[http://www.cleanenergycouncil.org.au/cec/home.html Clean Energy Council]|accessdate=12 June 2011|pages=5}}</ref> enough electricity to power
+more than 700,000 homes,<ref name=cea-2010report49-53>{{cite web|title=Clean Energy Australia 2010 (Report): Wind Power|url=http://www.cleanenergycouncil.org.au/dms/cec/reports/clean-energy-australia/B--Clean-Energy-Australia-Report-2010/Clean%20Energy%20Australia%20Report%202010-C.pdf|work=Official site|publisher=[http://www.cleanenergycouncil.org.au/cec/home.html Clean Energy Council]|accessdate=12 June 2011|pages=49–53}}</ref> and amounting to about two percent of Australia's total electricity consumption. <ref name=cea-2010report5 /> This came from 52 operating wind farms with greater than 100&nbsp;kW capacity, consisting of a total of 1,052&nbsp;turbines. This figure represented approximately a 30% increase in wind power generation each year over the previous decade, or a total increase of more than 1,000% over that time. The total installed capacity at October 2010 was 1,880&nbsp;[[Watt#Megawatt|MW]] (1.88&nbsp;GW), counting only projects over 100&nbsp;kW, with a further 1,043&nbsp;MW under construction. <ref name=cea-2010report49-53 /> . 
+
+==Wind farms==. 
+As of October 2010, there were 52 wind farms of greater than 100&nbsp;kW capacity operating in Australia. <ref name=cea-2010report49-53 /> The [[Waubra Wind Farm]] near [[Ballarat, Victoria]], completed in 2009, was the largest wind farm in the southern hemisphere,<ref name="ABS 2010">[http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4613.0Chapter35Jan+2010 ABS: Australia's Environment: Issues and Trends, Jan 2010], retrieved 19 November 2010</ref> consisting of 128&nbsp;turbines spread over 173&nbsp;km<sup>2</sup><ref name=cea-2010report49-53 /> and rated at 192&nbsp;MW, however in terms of generating capacity [[Lake Bonney Wind Farm]] near [[Millicent, South Australia]] was the largest with 239.5&nbsp;MW, despite only having 99&nbsp;turbines. These figures were set to be surpassed by the [[Macarthur Wind Farm]] at [[Macarthur, Victoria]], scheduled to open in 2013 with a capacity of 420&nbsp;MW. <ref name=cea-2010report49-53 /> . 
+
+By generating capacity, the ten largest wind farms in Australia were:
+{| class="wikitable sortable"
+. |- bgcolor=#efefef
+. |-
+! scope="col" width="40" |No. 
+! scope="col" width="240" |Project
+! scope="col" width="120" |State
+! scope="col" width="120" |Capacity (MW)
+. |-
+| 1 || [[Lake Bonney Wind Farm]] || South Australia || align=center| 240
+. |-
+| 2 || [[Portland Wind Farm]] || Victoria || align=center| 195
+. |-
+| 3 || [[Waubra Wind Farm]] || Victoria || align=center| 192
+. |-
+| 4 || [[Hallett Wind Farm]] || South Australia || align=center| 166
+. |-
+| 5 || [[Woolnorth Wind Farm]] || Tasmania || align=center| 140
+. |-
+| 6 || [[Snowtown Wind Farm]] || South Australia || align=center| 99
+. |-
+| 7 || [[Wattle Point Wind Farm]] || South Australia || align=center| 91
+. |-
+| 8 || [[Walkaway Wind Farm]] || Western Australia || align=center| 90
+. |-
+| 9 || [[Emu Downs Wind Farm]] || Western Australia || align=center| 80
+. |-
+| 10 || [[Mount Millar Wind Farm]] || South Australia || align=center| 70
+. |-
+|} . 
+
+Australia's first commercial wind farm, [[Salmon Beach Wind Farm]] near Esperance in Western Australia operated for 15 years from 1987, but was decommissioned due to urban encroachment; it has been replaced by [[Ten Mile Lagoon Wind Farm]] and [[Nine Mile Beach Wind Farm]]. In August 2009, [[The Age]] newspaper reported that the first of three new large-scale wind farming projects to offset Australia's power-hungry desalination plants would be going ahead. <ref>{{cite news | last = Morton | first = Adam | title = A glimpse of the future for Victoria's hilltops | work = The Age | date = 2009-08-01 | pages = 1, 6 | url = http://www.theage.com.au/national/a-glimpse-of-the-future-for-victorias-hilltops-20090731-e4kv.html | accessdate = 2009-08-02}}</ref> . 
+
+==Wind power by state==. 
+A full listing of all the wind farms in Australia, can be found in [[List of wind farms in Australia]]. Relevant state articles are:
+*[[Wind power in New South Wales, Australia|New South Wales wind power]]
+*[[List of wind farms in Queensland|Queensland wind farms]]
+*[[Wind power in South Australia|South Australia wind power]]
+*[[List of wind farms in Tasmania|Tasmania wind farms]]
+*[[List of wind farms in Victoria|Victoria wind farms]]
+*[[List of wind farms in Western Australia|Western Australia wind farms]] . 
+
+==Installed and proposed capacity by state==. 
+The following figures were based on capacity as of October 2010, and included only projects larger than 100&nbsp;kW. In world terms, South Australia's market penetration of 19.4%<ref name=cea-2010report49-53 /> placed it on par the world's leading nation, Denmark, who provided approximately 19% of their total electricity from wind. <ref name=wwea-report2010 /> . 
+
+{| border="1" cellpadding="4" cellspacing="0" style="text-align:center; font-size:90%; border-collapse:collapse;" width=80%
+. |- style="background:#C1D8FF;"
+!rowspan=3|#
+!rowspan=3|State /
+Territory
+!colspan=4|Wind Power Capacity<ref name=cea-2010report49-53 />
+!colspan=6|Proposed Projects' Publicly Announced Status<ref name=cea-2010report49-53 /><ref>[http://www.auswea.com.au/auswea/projects/proposed.asp Wind Energy Projects in Australia – Proposed Projects]{{Dead link|date=June 2011}}</ref> (MW)
+. |-
+!colspan=4|Installed capacity
+!rowspan=2|Feasibility
+!rowspan=2|Seeking
+approval
+!rowspan=2|Planning
+approved
+!rowspan=2|Under
+tender
+!rowspan=2|Abandoned
+or suspended
+!rowspan=2|Under
+construction
+. |-
+!Projects
+!Turbines
+!Total MW
+!Penetration (%)
+. |-
+| 1 || {{rh}}|<center>[[South Australia|SA]]<center> || 14 || 435 || 907 || 19.4 || 890 || — || 725 || — || 117 || 296
+. |-
+| 2 || {{rh}}|<center>[[Victoria (Australia)|Vic]]<center> || 9 || 267 || 428 || 4.3 || 846 || 275 || 1,369 || 165 || 120 || 487
+. |-
+| 3 || {{rh}}|<center>[[Western Australia|WA]]<center> || 14 || 142 || 202 || 1.2 || 99 || 2 || 142 || — || — || —
+. |-
+| 4 || {{rh}}|<center>[[New South Wales|NSW]]<center> || 7 || 116 || 187 || 1.0 || 525 || 269 || 1,315 || — || 80 || 92
+. |-
+| 5 || {{rh}}|<center>[[Tasmania|Tas]]<center> || 6 || 68 || 143 || 4.7 || 190 || — || 130 || — || 160 || 168
+. |-
+| 6 || {{rh}}|<center>[[Queensland|Qld]]<center> || 2 || 22 || 12 || 0.1 || 52 || — || 624 || — || — || —
+. |-
+| 7 || {{rh}}|<center>[[Australian Antarctic Territory|AAT]]<center> || 1 || 2 || 1 || — || — || — || 0.3 || — || — || —
+. |-
+| 8 || {{rh}}|<center>[[Northern Territory|NT]]<center> || 0 || 0 || 0 || — || — || — || — || — || — || —
+. |-
+| 9 || {{rh}}|<center>[[Australian Capital Territory|ACT]]<center> || 0 || 0 || 0 || — || — || — || — || — || — || —
+. |-
+| || {{rh}}|Australia || 52 || 1,052 || 1,880  || — || 2,602 || 545 || 4,304 || 165 || 477 || 1,043
+. |-
+|} . 
+
+==Competitiveness of wind power==. 
+{{Main|Wind power#Economics}}
+Making comparisons between wind and other sources of energy can be difficult because of the cost profiles associated with wind developments. The vast majority of the costs associated with wind developments are upfront capital costs. The operating costs are relatively low, with each additional unit of wind power costing very little to produce. By comparison, conventional gas and coal developments have large capital costs, as well as significant operating costs. The difference in cost profiles creates difficulties when trying to compare the cost of alternative energy sources. <ref name="AI">The Australia Institute (2006).[http://www.tai.org.au/documents/dp_fulltext/DP91.pdf Wind Farms The facts and the fallacies] Discussion Paper Number 91, October, ISSN 1322-5421</ref> . 
+
+Despite these complexities, most of the data indicate that wind energy is one of the most cost efficient sources of renewable energy and that when the costs associated with pollution are factored in it is competitive with coal- and gas-fired power stations. <ref name="AI" /> . 
+
+==Environmental impact==. 
+{{Main|Environmental impact of wind power}}
+[[Image:WEAs in Neuenkirchen.JPG|right|thumb|[[Wind power]] is one of the most environmentally friendly sources of renewable energy]] . 
+
+Australia is the fifth highest per capita emitter of [[greenhouse gases]] with 25.8 tonne CO<sub>2</sub>-e per person annually, ranking first of the industrialized countries, and ranks sixteenth of all countries in total country emissions with 495 Mt CO<sub>2</sub>-e per annum. <ref>[http://cait.wri.org/cait.php?page=yearly&mode=view&sort=pc-desc&pHints=shut&url=form&year=2000&sector=natl&co2=1&ch4=1&n2o=1&pfc=1&hfc=1&sf6=1&update=Update World Resources Institute]</ref> It is one of the major exporters of [[coal]], the burning of which releases CO<sub>2</sub> into the atmosphere. It is also one of the countries most at risk from [[climate change]] according to the [[Stern report]]. This is partially because of the size of its [[agriculture]] sector and long coastline.  . 
+
+A wind farm, when installed on agricultural land, has one of the lowest environmental impacts of all energy sources:<ref name=windpowers>[http://www.sustainabilitycentre.com.au/WindPowersStrength.pdf Why Australia needs wind power]</ref> . 
+
+* It occupies less land area per kilowatt-hour (kWh) of electricity generated than any other energy conversion system, apart from rooftop solar energy, and is compatible with grazing and crops. 
+* It generates the energy used in its construction in just 3 months of operation, yet its operational lifetime is 20–25 years. 
+* Greenhouse gas emissions and air pollution produced by its construction are small and declining. There is very little emission or pollution produced by its operation. 
+* In substituting for base-load (mostly coal power) in mainland Australia, wind power produces a net decrease in greenhouse gas emissions and air pollution. 
+* Modern wind turbines are almost silent and rotate so slowly (in terms of revolutions per minute) that they are rarely a hazard to birds. <ref name=windpowers/> . 
+
+Landscape and heritage issues may be a significant issue for certain wind farms,however these are minimal when compared with the [[Environmental effects of coal]]. However, when appropriate planning procedures are followed, the heritage and landscape risks should be minimal. Some people may still object to wind farms, perhaps on the grounds of aesthetics, but their concerns should be weighed against the need to address the threats posed by climate change and the opinions of the broader community. <ref name="AI" /> . 
+
+Overseas experience has shown that community consultation and direct involvement of the general public in wind farm projects has helped to increase community approval. <ref>[http://www.scandinavica.com/culture/nature/wind.htm The world's leader in Wind Power]</ref> Some wind farms become tourist attractions. <ref>[http://www.westernaustralia.com/en/search/product.htm?pname=Ten_Mile_Lagoon_Wind_Farm&ID=9003410 Ten Mile Lagoon Wind Farm]</ref> . 
+
+The [[Garnaut Climate Change Review]], the [[Carbon Pollution Reduction Scheme]] and the Mandatory Renewable energy Target announced by the Australian Government involve a reduction in Australian [[greenhouse gas]] emissions. Australia is the highest emitter of [[greenhouse gases]] per capita in the developed world<ref name="Global Warming: The Facts">[http://www.cana.net.au/index.php?site_var=337 Global Warming: The Facts]</ref><ref name="smh.com.au">[http://www.smh.com.au/articles/2004/06/18/1087245110190.html Australia tops greenhouse pollution index]</ref> and [[wind power]] is well placed to grow and deliver [[greenhouse gas emission]] cuts on a cost competitive basis. A typical 50-megawatt (MW) [[wind farm]] in Australia can reduce greenhouse gas emissions by between 65,000 and 115,000&nbsp;tonnes a year. <!--Is that at rated capacity? If so, it's highly misleading, since 30% of that is standard. The reference link is dead.--><ref name="National code for wind farms">[http://www.greenhouse.gov.au/renewable/publications/pubs/wind-discussionpaper.pdf National code for wind farms]</ref> . 
+
+Based on the 2010 figures for electricity production of 5 TWh nationally, it is estimated that wind power saved Australia 5,100,000&nbsp;tonnes of CO<sub>2</sub> emissions in that year. In relative terms, that is calculated to be the equivalent of removing 1,133,000 cars from the nation's roads. <ref name=cec-wind-how /> . 
+
+==Politics of wind power==. 
+From 2001 to early 2006, the main driving force for the establishment of wind farms in Australia was the Government's [[Mandatory renewable energy targets#Australia|Mandatory Renewable Energy Target]] (MRET). <ref>Lovegrove, Keith. [http://www.australianreview.net/digest/2004/09/lovegrove.html Election 2004: The Government’s non policy on energy] ''Australian Review of Public Affairs'', 10 September 2004. </ref><ref name=diesendorf>Diesendorf, Mark (2007). ''Greenhouse Solutions with Sustainable Energy'', UNSW Press, p. 107. </ref> However, by mid-2006, sufficient renewable energy had been installed or was under construction to meet the small MRET target for 2010. Also, in 2006, several Federal Government Ministers spoke out against a number of wind farm proposals. <ref name=diesendorf/> . 
+
+Dr [[Mark Diesendorf]] has suggested that the Australian Government has tried to stop the development of wind power, the lowest-cost, new, renewable electricity source, until such time as coal-fired power stations with CO<sub>2</sub> capture and sequestration and possibly nuclear power stations are available. However, "clean coal" technologies may not be commercially available for at least 20 years. Furthermore, to bring down the high cost of nuclear power to a level where it could compete with wind power would require a new generation of nuclear power stations that is still on the drawing board, which could take at least 15 years. <ref name=diesendorf/> . 
+
+In November 2007 the Rudd (Labor) government was elected in Australia, replacing the Howard (Liberal/National Coalition) government. The new government ratified Australia's commitment to the Kyoto Protocol, promised a target of 20% renewable power by 2020 and to do more to reduce Australia's greenhouse gas emissions. As a result, several new wind power projects have been proposed in anticipation of an expanded MRET.  . 
+
+In July 2011 the [[Australian Broadcasting Corporation]] [[Four Corners (TV program)|4 Corners]] program explored health concerns connected with Australian wind farms in its "[http://www.abc.net.au/4corners/content/2011/s3277568.htm Against the Wind]" report.  . 
+
+==Major wind power companies==. 
+===Meridian Energy===. 
+[[Meridian Energy]] is the largest electricity generator in [[New Zealand]] and has in recent years expanded into Australia. It uses only [[renewable energy]] generation sources, and its Australian operations are currently focused on [[windpower]]. Projects completed or currently being developed include: . 
+
+* [[Macarthur Wind Farm]], 140 wind turbines, 420&nbsp;MW
+* [[Mount Mercer Wind Farm]], 64 wind turbines, 131&nbsp;MW
+* [[Mount Millar Wind Farm]], 35 wind turbines, 70&nbsp;MW . 
+
+===Pacific Hydro===. 
+[[Pacific Hydro]] is an Australian company that specialises in electricity generation using [[renewable energy]]. Its focus is on [[hydroelectricity]] and [[windpower]]. Wind power stations owned by Pacific Hydro include: . 
+
+* [[Codrington Wind Farm, Victoria|Codrington Wind Farm]]
+* [[Challicum Hills Wind Farm, Victoria (Australia)|Challicum Hills Wind Farm]]
+* [[Portland Wind Project]] . 
+
+=== Roaring 40s ===. 
+[[Roaring 40s]] is based in Tasmania and has two wind farms operating in Australia: [[Woolnorth Wind Farm, Tasmania|Woolnorth Wind Farm]] in Tasmania and [[Cathedral Rocks Wind Farm]] in South Australia. It is currently (as of December 2009) constructing the 117MW [[Waterloo Wind Farm]] in the Mid North of [[South Australia]].  . 
+
+===Suzlon===. 
+[[Suzlon]] Energy Australia Pty. Ltd. (SEA), is based in Melbourne, and is a subsidiary of Suzlon Energy, an Indian multinational based in [[Pune]], [[India]]. <ref>[http://www.suzlon.com/about_suzlon/l2.aspx?l1=1&l2=1 About Suzlon]</ref> Suzlon will install 45 units of its S88 – 2.1 megawatt wind turbines for AGL at the [[Hallett Wind Farm]] to be located on the Brown Hill Range, which is situated approximately 220 kilometers north of Adelaide. <ref>[http://www.suzlon.com/images/you/AGL%20Press%20Release%20Rv.%20Final.pdf Suzlon enters Australian market]</ref> . 
+
+===TrustPower===. 
+[[TrustPower]] is a renewable electricity generating company operating in Australia and New Zealand.  Wind farms in Australia include [[Snowtown Wind Farm|Snowtown]] and the proposed [[Myponga Wind Farm|Myponga]], both in South Australia.  . 
+
+===Wind Prospect===. 
+[[Wind Prospect]] undertakes all aspects of wind energy development, including design, construction, operation and commercial services, with offices in the UK, Ireland, Canada, Australia, New Zealand and China. With over 18 years of successful development within the industry, the Wind Prospect Group has been involved in over 2,500MW of approved wind farms, including onshore and offshore projects, in terms of development, construction, operations and commercial services, and has a further 4000MW in the early phase of development. The company’s civil, electrical and mechanical engineers have been involved in the commissioning of over 50 wind farms around the world.  . 
+
+Wind Prospect’s development offices in Australia are in Adelaide, Newcastle, Brisbane and Melbourne. Wind Prospect Pty Ltd (WPPL) is the most successful developer in Australia, having achieved planning approval for 10 wind farms totalling over 860 MW, of which 565MW is operating or under construction. Two recent successes in South Australia are the North Brown Hill Wind Farm (132.3MW) and The Bluff Range Wind Farm (52.1MW), both approximately 270&nbsp;km north east of Adelaide, which are Wind Prospect’s sixth and seventh wind farm developments respectively to progress to construction in South Australia. More projects in this region have received planning approval and are expected to proceed to construction.  . 
+
+===Windlab===. 
+Windlab Systems is an Australian company with operations in the USA, Canada and South Africa. It was established in 2003 as a CSIRO spin-off. The company uses self developed technologies, Windscape which is based on CSIRO’s atmospheric modelling technology and advanced wind monitoring tools, to undertake a program of site identification, site validation and wind farm development. Approximately 1500 megawatts of projects in Australia have used Windlab intellectual property for site identification purposes. The company co-developed the Oakland's Hill (67MW) wind farm and the [[Collgar Wind Farm]] (206MW). Windlab has since become a full wind farm developer and takes projects to the point of construction. <ref>http://www.windlab.com/projects/australia</ref> . 
+
+==International comparisons==. 
+Australia's total wind generation capacity of 1,880&nbsp;MW in 2010<ref name=cea-2010report49-53 /> was considerably lower in comparison to many other developed and developing nations, ranking 15th globally behind leaders such as China with 44,733&nbsp;MW, the US with 40,180&nbsp;MW, [[Wind power in Germany|Germany]] with 27,215&nbsp;MW, [[Wind power in Spain|Spain]] with 20,676&nbsp;MW, and India with 13,066&nbsp;MW. <ref name=wwea-report2010>{{cite web | publisher = [[World Wind Energy Association]] | title = World Wind Energy Report 2010 | format = PDF | work = Report |date = February 2011| url = http://www.wwindea.org/home/images/stories/pdfs/worldwindenergyreport2010_s.pdf | accessdate = 30-April-2011}}</ref> . 
+
+In terms of installed capacity per head of population, Australia ranked 18th in the world in 2010, with 0.086&nbsp;kW per person. This was only around one eighth of world leader [[Wind power in Denmark|Denmark]], who had 0.675&nbsp;kW per person, while other top countries were Spain with 0.442&nbsp;kW per person, [[Wind power in Portugal|Portugal]] with 0.344&nbsp;kW per person, and Germany with 0.334&nbsp;kW per person. The top two countries in terms of total capacity, China and the US, only ranked 27th and 9th in terms of capacity per head, with 0.033&nbsp;kW per person and 0.128&nbsp;kW per person respectively. <ref name=wwea-report2010 /> . 
+
+While Australia produced almost 2% of its electricity from wind power,<ref name=cec-wind-how>{{cite web|title=Technologies: Wind: Wind Energy – how it works|url=http://www.cleanenergycouncil.org.au/cec/technologies/wind.html|work=Official website|publisher=[http://www.cleanenergycouncil.org.au/cec/home.html Clean Energy Council]|accessdate=12 June 2011|year=2011}}</ref> in comparison to other countries it again lagged well behind world leaders in 2010. Again Denmark topped this list, accounting for approximately 19% of electricity production, with Portugal at 18%, Spain at 16%, and Germany at 9%. Global leaders in terms of total capacity, China and the US, had contributions as a percentage of total electricity supply closer to that of Australia, with 1.2% and 2% respectively. <ref name=wwea-report2010 /> . 
+
+==See also==. 
+{{Portal box|Energy|Renewable energy|Australia|Environment}}
+* [[Energy policy of Australia]]
+* [[List of large wind farms]]
+* [[Renewable energy in Australia]]
+* [[Solar power in Australia]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+{{Commons category|Wind power in Australia}}
+* {{cite web | url= http://windfarmperformance.info/ | title= Wind Farm Performance
+ | first= Andrew |last= Miskelly | year= 2010 |work= |publisher=
+ | accessdate= 2010-10-08 }} Australian wind energy production since 14&nbsp;May 2008 (data from [[Australian Energy Market Operator|AEMO]])
+* [http://ramblingsdc.net/Australia/WindPower.html Wind Power and Wind Farms in Australia: Wind in the Bush]
+* [http://www.science.org.au/nova/037/037sit.htm List of useful links about renewable energy in Australia]
+* [http://www.environment.gov.au/settlements/renewable/ Renewable Energy Atlas of Australia]
+* [http://www.sustainabilitycentre.com.au/WindPowersStrength.pdf "Why Australia needs wind power" by Mark Diesendorf]
+* [http://www.esipc.sa.gov.au/site/page.cfm?u=275 SA Electricity Industry Supply Planning Council 2005 Wind Study]
+* [http://www.sustainability.vic.gov.au/resources/documents/SV_Wind_Energy.pdf Sustainability Victoria ''Wind Energy: The Myths and the Facts'']
+* [http://www.originenergy.com.au/home/template.php?pageid=1142 Why does Green Power cost extra?]
+* [http://www.sustainabilitycentre.com.au/BaseloadFallacy.pdf The base-load fallacy]
+* [http://www.ceem.unsw.edu.au/content/userDocs/200608WREC9_WindIntegrationNEM.pdf Integrating wind energy in the Australian National Electricity Market]
+* [http://www.publish.csiro.au/?act=view_file&file_id=EC141p35.pdf Wind energy round the clock] . 
+
+<br>
+{{wind farms in Australia}}
+{{wind power by country}}
+{{Energy in Australia}}
+{{Use dmy dates|date=September 2011}} . 
+
+{{DEFAULTSORT:Wind Power In Australia}}
+[[Category:Wind power in Australia| ]]

@@ -1,0 +1,55 @@
+{{Refimprove|date=January 2011}}
+{{Infobox birth control 
+|name                 = Barrier contraception
+|image                =
+|width                = 
+|caption              =  A [[Condom]] is the most commonly used barrier contraceptive. 
+|bc_type              = Barrier
+|date_first_use       = Plastic & silicone (1900s) <br>Rubber/latex (1800s) <br>Other materials (Ancient)
+|rate_type            = Failure
+|perfect_failure%     = method dependent
+|typical_failure%     = method dependent
+|duration_effect      = 
+|reversibility        = 
+|user_reminders       = Must be applied prior to intercourse. 
+|clinic_interval      = Size assessment for some methods
+|STD_protection_YesNo = Method dependent
+|periods_advantage    = 
+|benefits             = No external drugs taken
+|periods_disadvantage = 
+|weight_gain_YesNo    = No
+|risks                = 
+|medical_notes        = 
+}} . 
+
+'''Barrier contraception''' methods prevent [[pregnancy]] by physically preventing [[sperm]] from entering the [[uterus]].  . 
+
+==History==. 
+The earliest recorded barrier methods are those of stem [[pessaries]], found in Egypt.  The diaphragm and reusable condoms became common after the invention of rubber [[vulcanization]] in the early nineteenth century. Condoms became even more popular after the 1930s invention of latex, which enabled the creation of thinner, disposable [[Prophylaxis|prophylactic]]s.  . 
+
+Barrier methods of contraception grew in popularity and availability in the post war years with greater abundance of synthetic materials (latex and later silicon). The use of the condom exploded in the 1980s and 1990s with the discovery of the HIV/AIDS virus but other methods of barrier contraception fell into a decline with adverse reports from the WHO regarding [[Nonoxynol-9]]-based spermicides which consequently hindered their use." . 
+
+==Methods==. 
+The following are barrier methods of [[contraception]]. 
+* [[Condom]]
+* [[Female condom]]
+* [[Cervical cap]] (including Lea's Shield)
+* [[Diaphragm (contraceptive)|Diaphragm]]
+* [[SILCS diaphragm]] (still in clinical testing) . 
+
+The [[contraceptive sponge]] is usually considered a barrier method, but not always, as its effectiveness relies largely on [[spermicide]].  . 
+
+The male condom provides excellent protection against [[sexually transmitted infection]]s.  Using a condom is sometimes referred to as "practicing [[safe sex|safer sex]]".  . 
+
+==Risks==. 
+Barrier contraceptives may increase the risk of [[pregnancy complications]] such as [[pre-eclampsia]] and [[miscarriage]] by interfering with the process of [[paternal tolerance]]. <ref name=NewScientist>{{cite news | last=Fox | first=Douglas | title=Gentle Persuasion | publisher=The New Scientist | date=2002-02-09 | accessdate=2007-06-17 | url=http://www.newscientist.com/article/mg17323294.200-gentle-persuasion.html}}</ref> . 
+
+==See also==. 
+* [[Dental dam]]s have no contraceptive use, but offer STD protection during oral sex (see [[unprotected sex]]).  . 
+
+==References==. 
+{{reflist}} . 
+
+{{Birth control methods}} . 
+
+[[Category:Barrier contraception| ]]

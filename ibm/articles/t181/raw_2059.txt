@@ -1,0 +1,73 @@
+'''Ethnocentrism''' is judging another culture solely by the values and standards of one's own culture. <ref>{{cite book|title=Thinking like an Anthropologist: A practical introduction to Cultural Anthropology|author= John T. Omohundro|publisher= Mc Graw Hill|isbn=0073195804|url=http://books.google.co.nz/books/about/Thinking_Like_an_Anthropologist.html?id=SkSfAAAACAAJ&redir_esc=y|year=2008}}</ref> The ethnocentric individual will judge other groups relative to his or her own particular ethnic group or culture, especially with concern to [[language]], behavior, customs, and [[religion]]. These ethnic distinctions and subdivisions serve to define each [[ethnicity]]'s unique [[cultural identity]]. <ref>{{cite book|title=Sociology: Understanding a Diverse Society|author= Margaret L. Andersen, Howard Francis Taylor|publisher= Wadsworth|isbn=0534617166|url=http://books.google.com/?id=LP9bIrZ9xacC&pg=PA67|year=2006}}</ref> . 
+
+== Origins of the concept and its study ==. 
+The term ethnocentrism was coined by [[William G. Sumner]], upon observing the tendency for people to differentiate between the [[ingroup]] and others. He defined it as "the technical name for the view of things in which one's own group is the center of everything, and all others are scaled and rated with reference to it."<ref name="MertonSztompka1996">{{cite book|author1=Robert King Merton|authorlink=Robert K. Merton|editor=[[Piotr Sztompka]]|title=On social structure and science|url=http://books.google.com/books?id=vQWgLH1fZ2EC&pg=PA248|year=1996|publisher=University of Chicago Press|isbn=9780226520704|page=248}}</ref> He further characterized it as often leading to pride, vanity, beliefs of one's own group's superiority, and contempt of outsiders. <ref>Sumner, W. G. ''Folkways''. New York: Ginn, 1906. </ref> [[Robert K. Merton]] comments that Sumner's additional characterization robbed the concept of some analytical power because, Merton argues, centrality and superiority are often correlated, but need to be kept analytically distinct. <ref name="MertonSztompka1996"/> . 
+
+[[Anthropology|Anthropologists]] such as [[Franz Boas]] and [[Bronislaw Malinowski]] argued that any human science had to transcend the ethnocentrism of the scientist.  Both urged anthropologists to conduct [[ethnography|ethnographic]] [[field work|fieldwork]] in order to overcome their ethnocentrism.  Boas developed the principle of [[cultural relativism]] and Malinowski developed the theory of [[structural functionalism|functionalism]] as guides for producing non-ethnocentric studies of different cultures.  The books ''[[The Sexual Life of Savages in North-Western Melanesia]]'', by [[Bronisław Malinowski]], ''[[Patterns of Culture]]'' by [[Ruth Benedict]], and ''[[Coming of Age in Samoa]]'' by [[Margaret Mead]] (two of Boas's students) are classic examples of anti-ethnocentric anthropology.  . 
+
+== Anthropology ==. 
+People who are born into a particular culture and grow up absorbing the values and behaviors of the culture will develop patterns of thought reflecting the culture as normal. <ref>Stanley S. Seidner, Ethnicity, ''Language, and Power from a Psycholinguistic Perspective''. Bruxelles: Centre de recherche sur le pluralinguisme, 1982. </ref>  If people then experience other cultures that have different values and normal behaviors, they will find that the thought patterns appropriate to their birth culture and the meanings their birth culture attaches to behaviors are not appropriate for the new cultures.  However, since people are accustomed to their birth culture, it can be difficult for them to see the behaviors of people from a different culture from the viewpoint of that culture rather than from their own. <ref>Seidner, Ethnicity, ''Language, and Power....''. </ref> . 
+
+Examples of ethnocentrism include religiously patterned constructs claiming a [[divine]] association like "divine nation", "[[Pledge of Allegiance|One Nation under God]]", "[[God's Own Country]]", "[[God's Chosen People]]" and "God's Promised Land". <ref name="HavilandPrins2009">{{cite book|author1=William A. Haviland|author2=Harald E. L. Prins|author3=Dana Walrath|coauthors=Bunny McBride|title=The Essence of Anthropology|url=http://books.google.com/books?id=AmvJ1XtnIQoC&pg=PA159|year=2009|publisher=Cengage Learning|isbn=9780495599814|page=159}}</ref> . 
+
+In ''Precarious Life'', [[Judith Butler]] discusses recognizing the Other in order to sustain the Self and the problems of not being able to identify the Other. Butler notes 'that identification always relies upon a difference that it seeks to overcome, and that its aim is accomplished only by reintroducing the difference it claims to have vanquished. The one with whom I identify is not me, and that 'not being me' is the condition of the identification. Otherwise, as Jacqueline Rose reminds us, 'identification collapses into identity, which spells the death of identification itself' (146). <ref>Butler, Judith. ''Precarious Life: The Powers of Mourning and Violence''. New York: Verso, 2004. </ref> However, Butler's understanding of Self and Other is [[Eurocentrism|Eurocentric]] itself because she writes that one cannot recognize Self unless it is through the Other. Therefore, Self and Other are limited through a language of binary codes. Considering that language is essential to culture, individuals will know themselves through the result of language plus culture. Dichotomous language is embedded in English and similar languages; however, dichotomous language is not universal. Indeed, there are few dichotomies in many Indigenous and non-European languages (Battiste and Henderson 76). <ref>Battiste, Marie and James Youngblood Henderson. ''Protecting Indigenous Knowledge and Heritage: A Global Challenge''. Saskatoon: Purich publishing, 2000. </ref> It is by looking into the language of a culture that one will be able to see oneself in relation to one's environment and one's place in the world.  . 
+
+== Biology and evolutionary theory ==. 
+A 2011 paper in [[PNAS]] suggested that ethnocentrism may be mediated by the [[oxytocin]] hormone. It found that in [[randomized controlled trial]]s "oxytocin creates intergroup bias because oxytocin motivates in-group favoritism and, to a lesser extent, out-group derogation". <ref>De Dreu, Carsten K. W., [http://www.pnas.org/content/early/2011/01/06/1015316108 "Oxytocin promotes human ethnocentrism,"] Proceedings of the National Academy of Sciences, Jan. 10, 2011. </ref> . 
+
+In ''[[The Selfish Gene]]'', evolutionary biologist [[Richard Dawkins]] writes that "Blood-feuds and inter-clan warfare are easily interpretable in terms of Hamilton's [[kin selection|genetic theory]]."<ref name="Dawkins2006">{{cite book|author=Richard Dawkins|title=The selfish gene|url=http://books.google.com/books?id=go0e5sBRznYC&pg=PA99|year=2006|publisher=Oxford University Press|isbn=9780199291151|page=99}}</ref> Simulation-based experiments in [[evolutionary game theory]] have attempted to provide an explanation for the selection of ethnocentric-strategy phenotypes. <ref>{{cite doi|10.1177/0022002706293470}}</ref> . 
+
+==See also==. 
+{{columns-list|4|
+*[[Afrocentrism]]
+*[[American Exceptionalism]]
+*[[Americentrism]]
+*[[Collective narcissism]]
+*[[Consumer ethnocentrism]]
+*[[Cross-cultural communication]]
+*[[Cultural bias]]
+*[[Cultural competence]]
+*[[Cultural diversity]]
+*[[Cultural relativism]]
+*[[Endogamy]]
+*[[Ethnic nationalism]]
+*[[Ethnic nepotism]]
+*[[Eurocentrism]]
+*[[Imperialism]]
+*[[Indocentrism]]
+*[[In-group–out-group bias]]
+*[[Intercultural communication principles]]
+*[[Intercultural competence]]
+*[[Nationalism]]
+*[[Polycentrism]]
+*[[Pseudospeciation]]
+*[[Racism]]
+*[[Relativism]]
+*[[Sinocentrism]]
+*[[Stereotype]]
+*[[Supremacism]]
+*[[Universalism in geography]]
+*[[Xenocentrism]]
+}} . 
+
+==References==. 
+{{reflist}} . 
+
+==Further reading==. 
+* Ankerl, G. ''Coexisting Contemporary Civilizations: Arabo-Muslim, Bharati, Chinese, and Western.'' Geneva: INU PRESS, 2000, ISBN 2-88155-004-5
+* Reynolds, V., Falger, V., & Vine, I. (Eds.) (1987). ''The Sociobiology of Ethnocentrism.'' Athens, GA: [[University of Georgia Press]]. 
+* Salter, F. K., ed. 2002. ''Risky Transactions. Trust, Kinship, and Ethnicity''. Oxford and New York: Berghahn. 
+* Seidner, S. S. (1982). ''Ethnicity, Language, and Power from a Psycholinguistic Perspective''. Bruxelles: Centre de recherche sur le pluralinguisme. 
+* van den Berghe, P. L. (1981). ''The ethnic phenomenon''. Westport, CT: Praeger. 
+* Martineau, H. (1838). "How to Observe Morals and manners". Charles Knight and Co., London. 
+*Wade, Nicholas, [http://www.nytimes.com/2011/01/11/science/11hormone.html?_r=1 "Depth of the Kindness Hormone Appears to Know Some Bounds,"] ''New York Times'', Jan. 10, 2011.  . 
+
+==External links==. 
+* [http://gpi.sagepub.com/ Group Processes and Intergroup Relations] . 
+
+{{Ethnicity}} . 
+
+[[Category:Ethnicity]]
+[[Category:Ethnocentrism|*]]
+[[Category:Cultural geography]]
+[[Category:Sociology of culture]]

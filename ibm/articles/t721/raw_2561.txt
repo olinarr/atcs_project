@@ -1,0 +1,288 @@
+{{About|the welfare state as a general concept|the system known as "the Welfare State" in the [[United Kingdom]]|Welfare State}} . 
+
+[[Image:Social-expenditures-2001-OCSE.png|thumb|right|400px|% of [[gross domestic product|GDP]] in social expenditures in [[Organisation for Economic Co-operation and Development|OECD]] states, 2001.]]
+A '''welfare state''' is a "concept of government in which the state plays a key role in the protection and promotion of the economic and social well-being of its citizens. It is based on the principles of [[equality of opportunity]], equitable [[distribution of wealth]], and public responsibility for those unable to avail themselves of the minimal provisions for a good life. The general term may cover a variety of forms of economic and social organization."<ref>[http://www.britannica.com/EBchecked/topic/639266/welfare-state Welfare state], Britannica Online Encyclopedia</ref> . 
+
+Modern welfare states include countries such as [[Sweden]], [[Norway]], [[Denmark]] and [[Finland]]<ref>Paul K. Edwards and Tony Elger, ''The global economy, national states and the regulation of labour'' (1999) p, 111</ref> which employ a system known as the [[Nordic model]]. The welfare state involves a transfer of funds from the state, to the services provided (i.e. healthcare, education) as well as directly to individuals ("benefits"). The welfare state is funded through [[redistribution (economics)|redistributionist]] [[taxation]] and is often referred to as a type of "[[mixed economy]]". <ref>"Welfare state." Encyclopedia of Political Economy. Ed. Phillip Anthony O'Hara. Routledge, 1999. p. 1245</ref> . 
+
+== Etymology ==. 
+The [[German language|German]] term (''Sozialstaat'', "social state") has been used since 1870 to describe state support programs being developed by the German ''[[Sozialpolitiker]]''&mdash;"Social Politicians" and implemented through Bismarck's conservative reforms. <ref>S. B. Fay, 'Bismarck's Welfare State', ''Current History'', Vol. XVIII (January 1950), pp. 1-7. </ref> . 
+
+Despite early attempts to use an equivalent phrase in English,<ref>[[Munroe Smith]]'s text "Four German Jurists"{{cite journal |last=Smith |first=Munroe |year=1901 |month=December |title=Four German Jurists. IV |journal=Political Science Quarterly |volume=16 |issue=4 |pages=669 |doi=10.2307/2140421 |publisher=The Academy of Political Science |issn=0032-3195 |jstor=2140421 }}</ref> the term was uncommon until [[William Temple (archbishop)|William Temple]] popularized it during the [[Second World War]], contrasting wartime Britain's ''welfare state'' with the "warfare state" of [[Nazi Germany]]. <ref>{{cite journal |last=Megginson |first=William L. |coauthors=Jeffry M. Netter |year=2001 |month=June |title=From State to Market: A Survey of Empirical Studies on Privatization |journal=Journal of Economic Literature |volume=39 |issue=2 |pages=321–389 |url=http://faculty-staff.ou.edu/M/William.L.Megginson-1/prvsvpapJLE.pdf |format=PDF |issn=0022-0515 |doi=10.1257/jel.39.2.321 }}</ref> . 
+
+The Italian term "social state" (''Stato sociale'') has the same origin. The [[Swedish welfare state]] is called [[Folkhemmet]] (literally; the folk home) and goes back to the 1936 compromise between the [[Trade unions]] and big [[companies]]. It is a [[mixed economy]], built on strong unions and a strong system of [[Social security]] and [[universal health care]]. The term "Wohlfahrtsstaat", a direct translation from English, is used in Germany to describe Sweden. In [[Spanish language|Spanish]] and many other languages, an analogous term is used: ''estado del bienestar''; translated literally: "state of well-being". In [[Portuguese language|Portuguese]], two similar phrases exist: ''estado do bem-estar social'', which means "state of social well-being", and ''estado de providência'', which means "providing state", as in the state should provide citizens their demands in order to achieve people's well-being. In [[Brazil]], it is referred to as ''previdência social'', translated as social providence.  . 
+
+== History of welfare states ==. 
+===Germany===. 
+In Germany, Chancellor [[Otto von Bismarck]] created the modern welfare state by building on a tradition of welfare programs in Prussia and Saxony that began as early as in the 1840s, and by winning the support of business. In the 1880s he introduced old age pensions, accident insurance, medical care and unemployment insurance that formed the basis of the modern European welfare state. His paternalistic programs won the support of German industry because its goals were to win the support of the working classes for the Empire and reduce the outflow of immigrants to America, where wages were higher but welfare did not exist. <ref>E. P.  Hennock, ''The Origin of the Welfare State in England and Germany, 1850–1914: Social Policies Compared'' (2007)</ref><ref>Hermann Beck, ''Origins of the Authoritarian Welfare State in Prussia, 1815-1870'' (1995)</ref>  Bismarck further won the support of both industry and skilled workers by his high tariff policies, which protected profits and wages from American competition, although they alienated the liberal intellectuals who wanted free trade. <ref>Elaine Glovka Spencer, "Rules of the Ruhr: Leadership and Authority in German Big Business Before 1914," ''Business History Review,'' Spring 1979, Vol. 53 Issue 1, pp 40-64</ref><ref>Ivo N. Lambi, "The Protectionist Interests of the German Iron and Steel Industry, 1873-1879," ''Journal of Economic History,'' March 1962, Vol. 22 Issue 1, pp 59-70</ref> . 
+
+===The United States===. 
+Although the United States lagged far behind European countries in instituting concrete social welfare policies, the earliest and most comprehensive philosophical justification for the welfare state was produced by the American sociologist [[Lester Frank Ward]] (1841–1913) whom the historian [[Henry Steele Commager]] called "the father of the modern welfare state". Reforms like those instituted by Bismarck were strongly opposed by conservative thinkers such as the very influential English philosopher and evolutionary theorist [[Herbert Spencer]] who argued that coddling the poor and unfit would simply allow them to reproduce and delay social progress. Ward set out to systematically dismantle Spencer's arguments which he saw as delaying and paralyzing progressive government action. Central to Ward's theories was his belief that a universal and comprehensive system of education was necessary if a democratic government was to successfully function. Ward's writings had a profound influence on a young generation of progressive thinkers and politicians whose work culminated in President [[Franklin D. Roosevelt]]'s [[New Deal]] welfare state policies of the 1930s. <ref>Commager, Henry Steele, ed.; Lester Ward and the Welfare State. New York: Bobbs-Merrill, 1967</ref> . 
+
+===Modern model===. 
+Modern welfare programs differed from previous schemes of poverty relief due to their relatively universal coverage. The development of [[social insurance]] in Germany under Bismarck was particularly influential. Some schemes were based largely in the development of autonomous, mutualist provision of benefits. Others were founded on state provision. The term was not, however, applied to all states offering social protection. The sociologist [[Thomas Humphrey Marshall|T.H. Marshall]] identified the welfare state as a distinctive combination of [[democracy]], [[social welfare|welfare]] and [[capitalism]]. Examples of early welfare states in the modern world are [[Germany]], all of the [[Nordic Countries]], the [[Netherlands]], [[Uruguay]] and [[New Zealand]] and the [[United Kingdom]] in the 1930s.  . 
+
+Changed attitudes in reaction to the [[Great Depression]] were instrumental in the move to the welfare state in many countries, a harbinger of new times where "cradle-to-grave" services became a reality after the [[poverty]] of the Depression. During the Great Depression, it was seen as an alternative "middle way" between [[communism]] and [[capitalism]]. <ref>"welfare state." O'Hara, Phillip Anthony (editor). Encyclopedia of political economy. Routledge 1999. p. 1245</ref> In the period following the [[Second World War]], many countries in [[Europe]] moved from partial or selective provision of [[social service]]s to relatively comprehensive coverage of the population.  . 
+
+The activities of present-day welfare states extend to the provision of both cash welfare benefits (such as old-age pensions or unemployment benefits) and in-kind welfare services (such as health or childcare services). Through these provisions, welfare states can affect the distribution of wellbeing and personal autonomy among their citizens, as well as influencing how their citizens consume and how they spend their time. <ref>{{cite book |last=Esping-Andersen |first=Gøsta |title=Social Foundations of Postindustrial Economies |year=1999 |publisher=Oxford University Press |location=Oxford |isbn=0-19-874200-2 }}</ref><ref>{{cite journal |last=Rice |first=James Mahmud |coauthors=Robert E. Goodin, Antti Parpo |year=2006 |month=September–December |title=The Temporal Welfare State: A Crossnational Comparison |journal=Journal of Public Policy |volume=26 |issue=3 |pages=195–228 |url=http://www.jamesmahmudrice.info/Welfare.pdf |format=PDF |doi=10.1017/S0143814X06000523 |issn=0143-814X }}</ref> . 
+
+===United Kingdom===. 
+In the United Kingdom, the modern welfare state. <ref>http://www.ifs.org.uk/bns/bn13.pdf</ref>
+started to emerge with the [[Liberal welfare reforms|Liberal welfare reforms of 1906–1914]] under [[Liberal Party (UK)|Liberal]] [[Prime Minister of the United Kingdom|Prime Minister]] [[H. H. Asquith|Herbert Asquith]]. <ref name=vshort1>''Nineteenth-Century Britain: A Very Short Introduction'', Christopher Harvie and Colin Matthew, Oxford Paperbacks, published Aug 10, 2000, ISBN 978-0-19-285398-1)</ref> These included the passing of the [[Old-Age Pensions Act 1908|Old-Age Pensions Act]] in 1908, the introduction of [[free school meal]]s in 1909, the [[Labour Exchanges Act 1909|1909 Labour Exchanges Act]],<ref name=vshort1 /> the [[Development Act 1909]], which heralded greater [[Government intervention]] in [[economic development]],<ref>''Politics and Modern Democracies'', Volume 2, Charles W. Pipkin, The Macmillan Company, New York, 1931</ref> and the enacting of the [[National Insurance Act 1911]] setting up a [[national insurance contribution]] for unemployment and health benefits from work. <ref>Bentley  Gilbert, "David Lloyd George: Land, the Budget, and Social Reform," ''American Historical Review,'' Dec 1976, Vol. 81 Issue 5, pp 1058-66 [http://www.jstor.org/pss/1852870 in JSTOR]</ref> . 
+
+In December 1942, the ''Report of the Inter-Departmental Committee on Social Insurance and Allied Services'' was published, known commonly as the [[Beveridge Report]] after its chairman, Sir [[William Beveridge]], proposing a series of measures to aid those who were in need of help, or in poverty. Beveridge recommended to the government that they should find ways of tackling the five giants, being Want, Disease, Ignorance, Squalor and Idleness. He argued to cure these problems, the government should provide adequate income to people, adequate health care, adequate education, adequate housing and adequate employment. It proposed that 'All people of working age should pay a weekly [[National Insurance]] contribution. In return, benefits would be paid to people who were sick, unemployed, retired or widowed.' . 
+
+The basic assumptions of the report were that the [[National Health Service]] would provide free health care to all citizens. The Universal Child Benefit was a scheme to give benefits to parents, encouraging people to have children by enabling them to feed and support a family. One theme of the report was the relative cheapness of universal benefits. Beveridge quoted miners' pension schemes as some of the most efficient available, and argued that a state scheme would be cheaper to run than individual friendly societies and private insurance schemes, as well as being cheaper than means-tested government-run schemes for the poor.  . 
+
+The report's recommendations were adopted by the Liberal Party, [[Conservative Party (UK)|Conservative Party]] and then by the [[Labour Party (UK)|Labour Party]]. <ref>Beveridge, ''Power and Influence''</ref> Following the Labour election victory in the [[United Kingdom general election, 1945|1945 general election]] many of Beveridge's reforms were implemented through a series of Acts of Parliament. On 5 July 1948, the [[National Insurance Act 1946|National Insurance Act]], [[National Assistance Act 1948|National Assistance Act]] and [[National Health Service Act 1946|National Health Service Act]] came into force, forming the key planks of the modern UK welfare state. The cheapness of what was to be called National Insurance was an argument alongside fairness, and justified a scheme in which the rich paid in and the state paid out to the rich, just as for the poor. In the original scheme, only some benefits called National Assistance were to be paid regardless of contribution. Universal benefits paid to rich and poor such as child benefit were particularly beneficial after the Second World War when the birth rate was low. Universal Child Benefit may have helped drive the [[baby boom]].  . 
+
+Before 1939, most health care had to be paid for through non government organisations &ndash;  through a vast network of friendly societies, trade unions and other insurance companies which counted the vast majority of the UK working population as members. These friendly societies provided insurance for sickness, unemployment and invalidity, therefore providing people with an income when they were unable to work. Following the implementation of Beveridge's recommendations, institutions run by local councils to provide health services for the uninsured poor, part of the poor law tradition of workhouses, were merged into the new national system. As part of the reforms, the [[Church of England]] also closed down its voluntary relief networks and passed the ownership of thousands of church schools, hospitals and other bodies to the state. <ref>[http://www.economist.com/node/21541399 Bagehot: God in austerity Britain] [[The Economist]], published 2011-12-10</ref> . 
+
+Welfare systems continued to develop over the following decades. By the end of the 20th century parts of the welfare system had been restructured, with some provision channelled through [[non-governmental organization]]s which became important providers of social services. <ref name="globall">Pawel Zaleski ''Global Non-governmental Administrative System: Geosociology of the Third Sector'', [in:] Gawin, Dariusz & Glinski, Piotr [ed.]: "Civil Society in the Making", IFiS Publishers, Warszawa 2006</ref> . 
+
+===Oil countries===. 
+[[Saudi Arabia]],<ref>[http://saudinf.com/main/h814.htm Social Services (2) - Saudi Arabia Information<!--Bot-generated title-->]</ref><ref>[http://www.mofa.gov.sa/Detail.asp?InSectionID=1516&InNewsItemID=1746 Royal Embassy of Saudi Arabia London<!--Bot-generated title-->]</ref> [[Brunei]], [[Kuwait]], [[Qatar]], [[Bahrain]], [[Oman]], and the [[United Arab Emirates]] have become welfare states exclusively for their citizens. All foreign nationals, including legal residents and legal long term employees are prohibited from partaking in the benefits of the welfare state.  . 
+
+==Three worlds of the welfare state==. 
+According to Esping-Andersen (1990),<ref>Gosta Esping-Andersen. 1990. The Three Worlds of Welfare Capitalism. Princeton, New Jersey: Princeton University Press. </ref> there are three ways of organizing a welfare state instead of only two. <ref>Bo Rothstein: Just Institutions Matter: The Moral and Political Logic of the Universal Welfare State (Theories of Institutional Design), Cambridge 1998</ref> . 
+
+Esping-Andersen categorised three different types of welfare states in the 1990 book '[[The Three Worlds of Welfare Capitalism]]'. Though increasingly criticised (for a review of the debate on the Three worlds of Welfare Capitalism see Art and Gelissen [2002] and Ferragina and Seeleib-Kaiser[2011]), these classifications remain the most commonly used in distinguishing types of modern welfare states, and offer a solid starting point in such analysis. It has been argued that these typologies remain a fundamental heuristic tool for welfare state scholars, even for those who claim that in-depth analysis of a single case is more suited to capture the complexity of different social policy arrangements. Welfare typologies have the function to provide a comparative lens and place even the single case into a comparative perspective (Ferragina and Seeleib-Kaiser 2011). <ref>{{cite book|title=Welfare regime debate: past, present, futures|year=2011|publisher=Policy & Politics vol. 39 (4)|author=Emanuele Ferragina and Martin Seeleib-Kaiser|page=598}}</ref> . 
+
+Esping-Andersen (1990) constructed the welfare regime typology acknowledging the ideational importance and power of the three dominant political movements of the long 20th century in Western Europe and North America, that is Social Democracy, Christian Democracy (conservatism) and Liberalism (Stephens 1979; Korpi 1983; Van Kersbergen 1995; Ferragina and Seeleib-Kaiser 2011).  . 
+
+# The ideal Social-Democratic welfare state is based on the principle of universalism granting access to benefits and services based on citizenship. Such a welfare state is said to provide a relatively high degree of autonomy, limiting the reliance of family and market (Ferragina and Seeleib-Kaiser 2011). <ref name="Emanuele Ferragina and Martin Seeleib-Kaiser 2011 584">{{cite book|title=Welfare regime debate: past, present, futures|year=2011|publisher=Policy & Politics, vol. 39 (4)|author=Emanuele Ferragina and Martin Seeleib-Kaiser|page=584}}</ref> In this context, social policies are perceived as 'politics against the market' (Esping-Andersen 1985). 
+# Christian-democratic welfare states are based on the principle of subsidiarity and the dominance of social insurance schemes, offering a medium level of decommodification and a high degree of social stratification. 
+# The liberal regime is based on the notion of market dominance and private provision; ideally, the state only interferes to ameliorate poverty and provide for basic needs, largely on a means-tested basis. Hence, the decommodification potential of state benefits is assumed to be low and social stratification high (Ferragina and Seeleib-Kaiser 2011). <ref name="Emanuele Ferragina and Martin Seeleib-Kaiser 2011 584"/> . 
+
+Based on the decommodification index Esping-Andersen divided into the following regimes 18 OECD countries (Esping-Andersen 1990: 71):
+# Social Democratic: Denmark, Finland, the Netherlands, Norway and Sweden
+# Conservative: Austria, Belgium, France, Germany, Spain and Italy;
+# Liberal: Australia, Canada, Japan, Switzerland and the US;
+# Not clearly classified: Ireland, New Zealand and the United Kingdom.  . 
+
+These 18 countries can be placed on a continuum from the most purely social-democratic, Sweden, to the most liberal country, the United States (Ferragina and Seeleib-Kaiser 2011). <ref>{{cite book|title=Welfare regime debate: past, present, futures|year=2011|publisher=Policy & Politics, vol. 39 (4)|author=Emanuele Ferragina and Martin Seeleib-Kaiser|page=597}}</ref> . 
+
+Rothstein argues that in the first model, the state is primarily concerned with directing the resources to “the people most in need”. This requires a tight bureaucratic control over the people concerned. Under the second model, the state distributes welfare with as little bureaucratic interference as possible, to all people who fulfill easily established criteria (e.g. having children, receiving medical treatment, etc.). This requires high [[tax]]ation. This model was constructed by the Scandinavian ministers [[Karl Kristian Steincke]] and [[Gustav Möller]] in the 30s and is dominant in Scandinavia. The third model is similar to the one found in Britain (Beveridge model) and is based more on citizenship and a certain level of welfare ‘as a right’, which may then be modified according to needs.  . 
+
+== Effects on poverty ==. 
+{{Main|Welfare's effect on poverty}}
+Empirical evidence suggests that taxes and transfers considerably reduce poverty in most countries, whose welfare states commonly constitute at least a fifth of GDP. <ref name="Kenworthy">Kenworthy, L. (1999). [http://www.lisproject.org/publications/liswps/188.pdf Do social-welfare policies reduce poverty? A cross-national assessment]. ''Social Forces, 77''(3), 1119-1139. </ref><ref name="Bradley et al.">Bradley, D., Huber, E., Moller, S., Nielson, F. & Stephens, J. D. (2003). Determinants of relative poverty in advanced capitalist democracies. ''American Sociological Review, 68''(3), 22-51. </ref> Most "welfare states" have considerably lower poverty rates than they had before the implementation of welfare programs. 
+{| class="sortable wikitable"
+. |-
+!rowspan=1|Country||colspan=2|Absolute poverty rate (1960–1991)<br>(threshold set at 40% of U.S. median household income)<ref name="Kenworthy" />||colspan=2|Relative poverty rate
+(1970–1997)<ref name="Bradley et al." />
+. |-
+| ||Pre-welfare||Post-welfare||Pre-welfare||Post-welfare
+. |-
+|[[Sweden]]||23.7||5.8||14.8||4.8
+. |-
+|[[Norway]]||9.2||1.7||12.4||4.0
+. |-
+|[[Netherlands]]||22.1||7.3||18.5||11.5
+. |-
+|[[Finland]]||11.9||3.7||12.4||3.1
+. |-
+|[[Denmark]]||26.4||5.9||17.4||4.8
+. |-
+|[[Germany]]||15.2||4.3||9.7||5.1
+. |-
+|[[Switzerland]]||12.5||3.8||10.9||9.1
+. |-
+|[[Canada]]||22.5||6.5||17.1||11.9
+. |-
+|[[France]]||36.1||9.8||21.8||6.1
+. |-
+|[[Belgium]]||26.8||6.0||19.5||4.1
+. |-
+|[[Australia]]||23.3||11.9||16.2||9.2
+. |-
+|[[United Kingdom]]||16.8||8.7||16.4||8.2
+. |-
+|[[United States]]||21.0||11.7||17.2||15.1
+. |-
+|[[Italy]]||30.7||14.3||19.7||9.1
+. |-
+|} . 
+
+== Welfare expenditure == . 
+
+There is very little correlation between economic performance and welfare expenditure. <ref name="atkinson1995">{{cite book |last=Atkinson |first=A. B. |title=Incomes and the Welfare State |year=1995|publisher=Cambridge University Press |location=Cambridge |isbn=0-521-55796-8 }}</ref> . 
+
+The table does not show the effect of expenditure on income inequalities, and does not encompass some other forms of welfare provision (such as [[occupational welfare]]).  . 
+
+The table below shows, first, welfare expenditure as a percentage of [[gross domestic product|GDP]] for some (selected) [[Organisation for Economic Co-operation and Development|OECD]] member states, with and without public education,<ref name="Barr">Barr, N. (2004). ''Economics of the welfare state''. New York: Oxford University Press (USA). </ref> and second, GDP per capita ([[Purchasing power parity|PPP]] [[United States Dollar|US$]]) in 2001: . 
+
+{|cellpadding="2" class="wikitable sortable"
+! Nation !! Welfare expenditure<br>(% of GDP)<br>omitting education !! Welfare expenditure<br>(% of GDP)<br>including education !! GDP per capita (PPP US$)
+. |-
+| [[Denmark]]
+|align="right"| 29.2 ||align="right"| 37.9 ||align="right"| $29,000
+. |-
+| [[Sweden]]
+|align="right"| 28.9 ||align="right"| 38.2 ||align="right"| $24,180
+. |-
+| [[France]]
+|align="right"| 28.5 ||align="right"| 34.9 ||align="right"| $23,990
+. |-
+| [[Germany]]
+|align="right"| 27.4 ||align="right"| 33.2 ||align="right"| $25,350
+. |-
+| [[Belgium]]
+|align="right"| 27.2 ||align="right"| 32.7 ||align="right"| $25,520
+. |-
+| [[Switzerland]]
+|align="right"| 26.4 ||align="right"| 31.6 ||align="right"| $28,100
+. |-
+| [[Austria]]
+|align="right"| 26.0 ||align="right"| 32.4 ||align="right"| $26,730
+. |-
+| [[Finland]]
+|align="right"| 24.8 ||align="right"| 32.3 ||align="right"| $24,430
+. |-
+| [[Netherlands]]
+|align="right"| 24.3 ||align="right"| 27.3 ||align="right"| $27,190
+. |-
+| [[Italy]]
+|align="right"| 24.4 ||align="right"| 28.6 ||align="right"| $24,670
+. |-
+| [[Greece]]
+|align="right"| 24.3 ||align="right"| 28.4 ||align="right"| $17,440
+. |-
+| [[Norway]]
+|align="right"| 23.9 ||align="right"| 33.2 ||align="right"| $29,620
+. |-
+| [[Poland]]
+|align="right"| 23.0 ||align="right"| N/A ||align="right"| $9,450
+. |-
+| [[United Kingdom]]
+|align="right"| 21.8 ||align="right"| 25.9 ||align="right"| $24,160
+. |-
+| [[Portugal]]
+|align="right"| 21.1 ||align="right"| 25.5 ||align="right"| $18,150
+. |-
+| [[Luxembourg]]
+|align="right"| 20.8 ||align="right"| N/A ||align="right"| $53,780
+. |-
+| [[Czech Republic]]
+|align="right"| 20.1 ||align="right"| N/A ||align="right"| $14,720
+. |-
+| [[Hungary]]
+|align="right"| 20.1 ||align="right"| N/A ||align="right"| $12,340
+. |-
+| [[Iceland]]
+|align="right"| 19.8 ||align="right"| 23.2 ||align="right"| $29,990
+. |-
+| [[Spain]]
+|align="right"| 19.6 ||align="right"| 25.3 ||align="right"| $20,150
+. |-
+| [[New Zealand]]
+|align="right"| 18.5 ||align="right"| 25.8 ||align="right"| $19,160
+. |-
+| [[Australia]]
+|align="right"| 18.0 ||align="right"| 22.5 ||align="right"| $25,370
+. |-
+| [[Slovakia]]
+|align="right"| 17.9 ||align="right"| N/A ||align="right"| $11,960
+. |-
+| [[Canada]]
+|align="right"| 17.8 ||align="right"| 23.1 ||align="right"| $27,130
+. |-
+| [[Japan]]
+|align="right"| 16.9 ||align="right"| 18.6 ||align="right"| $25,130
+. |-
+| [[United States]]
+|align="right"| 14.8 ||align="right"| 19.4 ||align="right"| $36,000
+. |-
+| [[Ireland]]
+|align="right"| 13.8 ||align="right"| 18.5 ||align="right"| $32,410
+. |-
+| [[Mexico]]
+|align="right"| 11.8 ||align="right"| N/A ||align="right"| $8,430
+. |-
+| [[South Korea]]
+|align="right"| 6.1 ||align="right"| 11.0 ||align="right"| $15,090
+|} . 
+
+Figures from the OECD<ref>{{cite news |author=Organisation for Economic Co-operation and Development (OECD) |title=Welfare Expenditure Report |url=http://www.oecd.org/dataoecd/56/37/31613113.xls |format=Microsoft Excel Workbook |publisher=OECD |year=2001 }}</ref> and the UNDP. <ref>{{cite book |author=United Nations Development Programme (UNDP) |title=Human Development Report 2003 |url=http://hdr.undp.org/reports/global/2003/ |year=2003 |publisher=Oxford University Press for the UNDP |location=New York |chapter=Human Development Indicators |chapterurl= http://hdr.undp.org/reports/global/2003/pdf/hdr03_HDI.pdf }}</ref> . 
+
+==Criticisms of welfare==. 
+{{Main|Criticisms of welfare}}
+The notion, and the extent of, the modern welfare state has been criticized on economic, social, and ideological grounds from both the Left and the Right of the political spectrum.  . 
+
+== See also ==. 
+{{Forms of government}} . 
+
+{{columns
+|col1 =
+*[[Constitutional economics]]
+*[[Corporate welfare]]
+*[[Fifth power]]
+*[[Flexicurity]]
+*[[Hidden Welfare State]]
+*[[Malibu surfer problem]]
+*[[Mixed economy]]
+*[[Nanny state]]
+|col2 =
+*[[Social protection]]
+*[[Social security]]
+*[[Social stratification]]
+*[[Social welfare provision]]
+*[[Welfare reform]]
+}} . 
+
+'''Models:'''
+*[[Swedish welfare state]]
+*[[Third Way (centrism)|Third way]]
+*[[Nordic model]]
+*[[European welfare state]]
+*[[American welfare state]]
+*[[Welfare State]] (United Kingdom) . 
+
+'''Transfer of wealth:'''
+* [[Transfer payment]]
+* [[Redistribution (economics)]]
+* [[Tax rates of Europe]]
+* [[Cloward–Piven strategy]] . 
+
+'''Housing:'''
+* [[Public housing]]
+* [[Housing estate]]
+* [[Council house]] . 
+
+'''Technology:'''
+* [[Welfare Management System]] . 
+
+==Notes==. 
+{{Reflist|2}} . 
+
+==References==. 
+*Arts, Wil and Gelissen John; "Three Worlds of Welfare Capitalism or More? A State-of-the-art report"; Journal of European Social Policy, vol. 12 (2), pp.&nbsp;137–158 (2002). 
+* Esping-Andersen, Gosta; Politics against markets, Princeton, NJ: Princeton University Press (1985). 
+*Esping-Andersen, Gosta; "The Three Worlds of Welfare Capitalism", Princeton NJ: Princeton University Press (1990). 
+* Ferragina, Emanuele and Seeleib-Kaiser, Martin; Welfare Regime Debate: Past, Present, Futures?; Policy & Politics, Vol. 39 (4), pp.&nbsp;583–611 (2011).http://www.ingentaconnect.com/content/tpp/pap/2011/00000039/00000004/art00010. 
+*Korpi, Walter; "The Demcoratic Class Struggle"; London: Routledge (1983). 
+*Stein Kuhnle ''[http://books.google.com/books?id=4yEAp_BdfGkC Survival of the European Welfare State]'' 2000 Routledge ISBN 0-415-21291-X
+* Stephens, John D. "The Transition from Capitalism to SOcialism"; Urbana, IL: University of Illinois Press (1979). 
+*Van Kesbergen "Social Capitalism"; London: Routledge (1995).  . 
+
+== External links ==. 
+* [http://www2.rgu.ac.uk/publicpolicy/ Center for Public Policy]
+* [http://www.bath.ac.uk/~hsstp/world3.htm Social Policy Virtual Library]
+* [http://www.sosig.ac.uk/roads/subject-listing/World/socwel.html Social Sciences Information Gateway]
+* [http://www.brynmawr.edu/Acads/GSSW/schram/sosspresentation.pdf Race and Welfare in the United States]
+* [http://www.che-lives.com/home/modules.php?name=News&file=article&sid=97 The Welfare State: A Critique]
+* [http://www.law.harvard.edu/faculty/shavell/pdf/109_J_Political_Econ_281.pdf Shavell's criticism of social justice programmes]
+* [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=224946 Kaplow's criticism of social justice programmes]. 
+* [https://sites.google.com/site/politicalreading/home/analysisofwelfaresociety García Calvo's ''Analysis of Welfare Society'']
+* [http://www.ssa.gov/policy/docs/progdesc/ssptw/ World report on Welfare State]
+* [http://www.west-info.eu/ Journal containing free daily information on welfare policies at local, national and EU level] . 
+
+===Data and statistics===. 
+*[http://www.oecd.org/department/0,2688,en_2649_33929_1_1_1_1_1,00.html OECD - Health Policy and Data: Health Division Website]
+*[http://www.oecd.org/topicstatsportal/0,2647,en_2825_495684_1_1_1_1_1,00.html OECD - National Accounts: Statistics Portal]
+*[http://www.oecd.org/els/social/expenditure OECD - Social Expenditure database (SOCX) Website]
+{{Use dmy dates|date=July 2011}} . 
+
+{{DEFAULTSORT:Welfare State}}
+[[Category:Articles with inconsistent citation formats]]
+[[Category:Welfare state| ]]

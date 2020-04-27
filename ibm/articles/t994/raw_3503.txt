@@ -1,0 +1,363 @@
+[[Image:Teton Dam failure.jpg|thumb|300px|right|The reservoir emptying through the failed [[Teton Dam]]]]
+A '''[[dam]]''' is a barrier across flowing water that obstructs, directs or slows down the flow, often creating a [[reservoir (water)|reservoir]], [[lake]] or impoundments. Most dams have a section called a ''[[spillway]] or [[weir]]'' over which, or through which, water flows, either intermittently or continuously, and some have [[hydroelectricity|hydroelectric power generation]] systems installed.  . 
+
+Dams are considered "installations containing dangerous forces" under [[International Humanitarian Law]] due to the massive impact of a possible destruction on the civilian population and the environment. Dam failures are comparatively rare, but can cause immense damage and loss of life when they occur.   In 1975 the failure of the [[Banqiao Dam|Banqiao Reservoir Dam]] and other dams in [[Henan Province]],  [[China]] caused more casualties than any other dam failure in history.  The disaster killed an estimated 171,000 people<ref>Osnos, Evan. “Faust, China, and Nuclear Power,” ''The New Yorker'', Wednesday October 12, 2011. Retrieved at  http://www.newyorker.com/online/blogs/evanosnos/2011/10/faust-china-and-nuclear-power.html on October 12, 2011</ref> and 11 million people lost their homes.  . 
+
+==Main causes of dam failure==. 
+[[Image:International special sign for works and installations containing dangerous forces.svg|thumb|160px|right|International special sign for works and installations containing dangerous forces]] . 
+
+Common causes of dam failure include:
+:* Sub-standard construction materials/techniques ([[Gleno Dam]])
+:* [[Spillway]] design error ([[South Fork Dam]], near failure of [[Glen Canyon Dam]])
+:* Geological instability caused by changes to water levels during filling or poor surveying ([[Malpasset]]). 
+:* Sliding of a mountain into the reservoir ([[Vaiont Dam]] – not exactly a dam failure, but caused nearly the entire volume of said reservoir to be displaced and overtop the dam)
+:* Poor maintenance, especially of outlet pipes ([[Lawn Lake Dam]], [[Val di Stava Dam collapse]])
+:* Extreme inflow ([[Shakidor Dam]])
+:* Human, computer or design error ([[Buffalo Creek Flood]], [[Dale Dike Reservoir]], [[Taum Sauk pumped storage plant]])
+:* [[Internal erosion]], especially in earthen dams. 
+:* Earthquake
+===Deliberate dam failure===. 
+A notable case of deliberate dam failure (prior to the Humanitarian Law rulings) was the [[United Kingdom|British]] [[Royal Air Force]] [[Operation Chastise|Dambusters]] raid on [[Germany]] in [[World War II]] (codenamed ''"[[Operation Chastise]]"''), in which three German dams were selected to be breached in order to impact on German infrastructure and manufacturing and power capabilities deriving from the [[Ruhr (river)|Ruhr]] and [[Eder]] rivers. This raid later became the basis for several films.  . 
+
+==List of major dam failures== . 
+
+{| class="wikitable sortable"
+! Dam/incident
+! Year
+! Location
+! Details
+. |-
+| [[Marib Dam]]
+| 575
+| [[Sheba]], [[Yemen]]
+| Unknown (possibly neglect)
+. |-
+| [[Pantano de Puentes]]
+| 1802
+| [[Lorca, Spain]]
+| 608 deaths, 1800 houses and 40000 trees destroyed<ref>[http://www.regmurcia.com/servlet/s.Sl?sit=c,373,m,1096&r=ReP-16664-DETALLE_REPORTAJES La rotura del pantano de Puentes]</ref>
+. |-
+| [[Dale Dike Reservoir]]
+| 1864
+| [[South Yorkshire]], [[England]], [[United Kingdom]]
+| Defective construction, small leak in wall grew until dam failed. 
+. |-
+| [[South Fork Dam]]
+| 1889
+| [[Johnstown, Pennsylvania]], [[United States]]
+| Blamed locally on poor maintenance by owners; court deemed it an "[[Act of God]]". Followed exceptionally heavy rainfall. Caused [[Johnstown flood]]. 
+. |-
+| Walnut Grove Dam
+| 1890
+| [[Wickenburg, Arizona|Wickenburg, Arizona Territory]], [[United States]]
+| Heavy snow and rain following public calls by the dam's chief engineer to strengthen the earthen structure. 
+. |-
+| [[McDonald Dam failure|McDonald Dam]]
+| 1900
+| [[Texas]], [[United States]]
+| Extreme current caused failure. 
+. |-
+|[[Hauser Dam]]
+|1908
+|[[Helena, Montana]], [[United States]]
+|Heavy flooding coupled with poor foundation quality
+. |-
+| [[Austin Dam]]
+| 1911
+| [[Austin, Pennsylvania]], [[United States]]
+| Poor design, use of dynamite to remedy structural problems. 
+. |-
+| Desná Dam
+| 1916
+| [[Desná (Jablonec nad Nisou District)|Desná]], [[Austria-Hungary]] (now [[Czech Republic]])
+| Construction flaws caused the dam failure
+. |-
+| [[Lake Toxaway]] Dam
+| 1916
+| [[Transylvania County, North Carolina]]
+| Heavy rains caused the dam to give way.  Dam was later rebuilt in the 1960s
+. |-
+| [[Sweetwater Dam]]
+| 1916
+| [[San Diego County]], [[California]]
+| Over-topped from flooding
+. |-
+| [[Lower Otay Lake|Lower Otay Dam]]
+| 1916
+| [[San Diego County]], [[California]]
+| Over-topped from flooding; 40 deaths
+. |-
+| [[Gleno Dam]]
+| 1923
+| [[Province of Bergamo]], [[Italy]]
+| Poor construction and design
+. |-
+| [[Llyn Eigiau]] dam and the outflow also destroyed [[Coedty reservoir]] dam. 
+| 1925
+| [[Dolgarrog]], [[North Wales]], [[UK]]
+| Contractor blamed cost-cutting in construction but 25" of rain had fallen in preceding 5 days. This was the last dam failure to cause death in the UK to date (2010). 
+. |-
+| [[St. Francis Dam]]
+| 1928
+| [[Valencia, California]], [[Los Angeles County]], [[United States]]
+| Geological instability of canyon wall that could not have been detected with available technology of the time, combined with human error that assessed developing cracks as "normal" for a dam of that type. 
+. |-
+| Nanty Gro Reservoir in Wales
+| 1942
+| Nanty Gro Valley, [[Wales]]
+| Destroyed  during preparation for [[Operation Chastise]] in World War II. 
+. |-
+| [[Edersee Dam|Eder]], [[Möhne Reservoir|Möhne]] Dams
+| 1943
+| Eder Valley, [[Ruhr]], [[Germany]]
+| Destroyed by bombing during [[Operation Chastise]] in World War II. 
+. |-
+| Vega de Tera
+| 1959
+| [[Ribadelago]], [[Spain]]
+| 144 deaths<ref>[http://www.gearthhacks.com/dlfile31396/Broken-dam-anniversary,-Vega-de-tera.htm ]</ref><ref>[http://www.elpais.com/articulo/espana/ZAMORA/anos/tragedia/Ribadelago/murieron/144/personas/elpepiesp/19990110elpepinac_18/Tes 40 años de la tragedia de Ribadelago, en la que murieron 144 personas] {{es}}</ref>
+. |-
+| [[Malpasset]]
+| 1959
+| [[Côte d'Azur]], [[France]]
+| Geological fault possibly enhanced by explosives work during construction; initial geo-study was not thorough. 
+. |-
+| [[Baldwin Hills Reservoir]]
+| 1963
+| [[Los Angeles, California]], [[United States]]
+| [[Subsidence]] caused by [[over-exploitation]] of local oil field
+. |-
+| [[Spaulding Pond Dam]] (Mohegan Park)
+| 1963
+| [[Norwich, Connecticut]], [[United States]]
+| 6 deaths, more than $6 million estimated damages
+. |-
+| [[Vaiont Dam]]
+| 1963
+| [[Italy]]
+| Strictly not a dam failure, since the dam structure did not collapse and is still standing. Filling the reservoir caused geological failure in valley wall, leading to 110&nbsp;km/h landslide into the lake; water escaped in a seiche over the top of dam. Valley had been incorrectly assessed stable. 
+. |-
+| [[Mina Plakalnitsa]], ([[Vratsa]])
+| 1966
+| [[Vratsa]], [[Bulgaria]]
+| A tailings dam at Plakalnitsa copper mine near the city of Vratsa failed. A total 450,000 cu m of mud and water inundated Vratsa and the nearby village of Zgorigrad, which suffered widespread damage. The official death toll is 107, but the unofficial estimate is around 500 killed. <ref>http://zgorigrad.com/tragediata</ref>
+. |-
+| [[Buffalo Creek Flood]]
+| 1972
+| [[West Virginia]], [[United States]]
+| Unstable loose constructed dam created by local [[coal mining]] company, collapsed in heavy rain
+. |-
+| [[Black Hills flood|Canyon Lake Dam]]
+| 1972
+| [[South Dakota]], [[United States]]
+| Flooding, dam outlets flooded with debris. 
+. |-
+| [[Banqiao Dam|Banqiao]] and [[Shimantan Dam]]s
+| 1975
+| [[China]]
+| Extreme rainfall beyond the planned design capability of the dam
+. |-
+| [[Teton Dam]]
+| 1976
+| [[Idaho]], [[United States]]
+| Water leakage through earthen wall, leading to dam failure. 
+. |-
+| [[Laurel Run Dam]]
+| 1977
+| [[Pennsylvania]], [[United States]]
+| Heavy rainfall and flooding that over-topped the dam. 
+. |-
+| [[Kelly Barnes Dam]]
+| 1977
+| [[Georgia (U.S. state)|Georgia]], [[United States]]
+| Unknown, possibly design error as dam was raised several times by owners to improve power generation. 
+. |-
+| [[Morvi dam failure|Machchu-2 Dam]]
+| 1979
+| [[Morvi|Morbi]], [[Gujarat]], [[India]]
+| Heavy rain and flooding beyond spillway capacity. 
+. |-
+| [[Wadi Qattara Dam]]
+| 1979
+| [[Benghazi]], [[Libya]]
+| Flooding beyond discharge and storage capacity damaged the main dam and destroyed the secondary dam in the scheme. 
+. |-
+| [[Lawn Lake Dam]]
+| 1982
+| [[Rocky Mountain National Park]], [[United States]]
+| Outlet pipe erosion; dam under-maintained due to location
+. |-
+| [[Tous Dam]]
+| 1982
+| [[Valencia, Spain]]
+| &nbsp;
+. |-
+| [[Val di Stava Dam collapse]]
+| 1985
+| [[Italy]]
+| Poor maintenance and low margin for error in design; outlet pipes failed leading to pressure on dam. 
+. |-
+| Upriver Dam
+| 1986
+| [[Washington state]], [[United States]]
+| Lightning struck power system, turbines shut down. Water rose behind dam while trying to restart. Backup power systems failed, could not raise spillway gates in time. Dam overtopped(rebuilt). 
+. |-
+| [[Peruća]] Dam detonation
+| 1993
+| [[Croatia]]
+| Not strictly a dam failure as there was a detonation of pre-positioned [[explosives]] by retreating [[Military of Serbian Krajina|Serb Forces]]. 
+. |-
+| [[Saguenay Flood]]
+| 1996
+| [[Quebec]], [[Canada]]
+| Problems started after two weeks of constant rain, which severely engorged soils, rivers and reservoirs. Post-flood enquiries discovered that the network of dikes and dams protecting the city was poorly maintained. 
+. |-
+| [[Meadow Pond Dam]]
+| 1996
+| [[New Hampshire]], [[United States]]
+| Design and construction deficiencies resulted in failure in heavy icing conditions
+. |-
+| [[Opuha Dam]]
+| 1997
+| [[New Zealand]]
+| Heavy rain during construction caused failure, dam was later completed
+. |-
+| Vodní nádrž Soběnov
+| 2002
+| [[Soběnov]], [[Czech Republic]]
+| Extreme rainfall during the [[2002 European floods]]
+. |-
+| [[Zeyzoun Dam]]
+| 2002
+| Zeyzoun, Syria
+| Failed 4 June 2002, killing 22 and effecting 10,000. <ref>{{cite web|title=Syria - Collapse of Dam/floods OCHA Situation Report No. 4|url=http://reliefweb.int/sites/reliefweb.int/files/reliefweb_pdf/node-102909.pdf|publisher=ReliefWeb|accessdate=26 February 2012}}</ref><ref>{{cite journal|last=Chanson|first=Hubert Chanson Hubert|title=Embankment Overflow Protection Systems and Earth Dam Spillways|journal=Dams: Impacts, Stability and Design|year=2009|url=http://espace.uq.edu.au/eserv/UQ:185350/chanson_nova09.pdf}}</ref> 
+. |- 
+| Ringdijk Groot-Mijdrecht
+| 2003
+| [[Wilnis]], [[Netherlands]]
+| Peat dam became lighter than water during droughts and floated away
+. |-
+| [[Hope Mills Dam]]
+| 2003
+| [[North Carolina]], [[United States]]
+| Heavy rains caused earthen dam and bank to wash away
+. |-
+| [[Big Bay Dam]]
+| 2004
+| [[Mississippi]], [[United States]]
+| A small hole in the dam, grew bigger and eventually led to failure. 
+. |-
+| [[Camará Dam]]
+| 2004
+| [[Brasil]]
+| &nbsp;
+. |-
+| [[Shakidor Dam]]
+| 2005
+| [[Pakistan]]
+| Sudden and extreme flooding caused by abnormally severe rain, 70 deaths
+. |-
+| [[Taum Sauk pumped storage plant|Taum Sauk reservoir]]
+| 2005
+| [[Lesterville, Missouri]], [[United States]]
+| Computer/operator error; gauges intended to mark dam full were not respected; dam continued to fill. Minor leakages had also weakened the wall through [[Internal erosion|piping]]. 
+. |-
+| [[Campos Novos Dam]]
+| 2006
+| [[Campos Novos]], [[Brazil]]
+| Tunnel collapse
+. |-
+| [[Gusau Dam]]
+| 2006
+| [[Gusau]], [[Nigeria]]
+| Heavy flooding
+. |-
+| [[Ka Loko Reservoir|Ka Loko Dam]]
+| 2006
+| [[Kauai]], [[Hawaii]]
+| Heavy rain and flooding. Several possible specific factors to include poor maintenance, lack of inspection and illegal modifications. 
+. |-
+| [[Lake_Delton#2008_washout|Lake Delton]]
+| 9 June 2008
+| [[Lake Delton]], [[Wisconsin]]
+| Failure due to [[June 2008 Midwest floods]]. 
+. |-
+| [[Koshi Barrage]]
+| 2008
+| [[Kusha]], [[Nepal]]
+| Heavy rain
+. |-
+| [[Algodões Dam]]
+| 27 May 2009
+| [[Piau]], [[Brazil]]
+| Heavy rain<ref>{{cite web|title=Breaching of the Algodões dam and the threat of mega-projects|url=http://www.mabnacional.org.br/english/noticias/290509_barragem_algodoes.html|publisher=Movement of Dam Affected People|accessdate=6 January 2012|date=29 May 2009}}</ref>
+. |- 
+| [[Situ Gintung]] Dam
+| 2009
+| [[Tangerang]], [[Indonesia]]
+| Poor maintenance and heavy monsoon rain
+. |-
+| [[Kyzyl-Agash Dam]]
+| 2010
+| [[Kazakhstan]]
+| Heavy rain and snowmelt
+. |-
+| [[Hope Mills Dam]]
+| 2010
+| [[North Carolina]], [[United States]]
+| [[Sinkhole]] caused dam failure
+. |-
+| [[Delhi Dam]]
+| 2010
+| [[Iowa]], [[United States]]
+| Heavy rain, flooding. 
+. |-
+| [[Ajka alumina plant accident]]
+| October 4, 2010
+| [[Hungary]]
+| Failure of concrete impound wall on alumina plant tailings dam. 
+. |-
+| [[Kenmare Resources]] tailings dam
+| October 8, 2010
+| [[Mozambique]]
+| Failure of tailings dam at [[titanium]] mine. 
+. |-
+| [[Fujinuma Dam]]
+| March 11, 2011
+| [[Japan]]
+| Failed after [[2011 Tōhoku earthquake and tsunami|2011 Tōhoku earthquake]]. 
+. |-
+| Dam in [[Campos de Goytacazes]], Brazil
+| January 4, 2012
+| [[Rio de Janeiro State]], [[Brazil]]
+| Failed after a period of flooding. <ref>{{cite news|title=Brazil dam burst forces thousands from homes|url=http://www.bbc.co.uk/news/world-latin-america-16426732|accessdate=6 January 2012|newspaper=BBC|date=5 January 2012}}</ref>
+. |-
+| [[Ivanovo Dam]]
+| February 6, 2012
+| Biser, Bulgaria
+| Failed after a period of heavy snowmelt. A crack in the dam went un-repaired for years. Eight people killed and several communities flooded. <ref>{{cite web|title=Bulgarian Dam Collapsed over Unrepaired Crack since 2003|url=http://www.novinite.com/view_news.php?id=136412|publisher=NoVinite|accessdate=26 February 2012|date=6 February 2012}}</ref>
+. |-  
+| [[Köprü Dam]]
+| February 24, 2012
+| [[Adana Province]], [[Turkey]]
+| A gate in the diversion tunnel broke after a period of heavy rain; killing ten workers and leaving as many as 5 workers missing. <ref>{{cite web|title=Cover Kozan Dam Explosion|url=http://www.haberler.com/kozan-da-baraj-kapaginin-patlamasi-3429296-haberi/|publisher=Haberler|accessdate=11 March 2012|language=Turkish|date=8 March 2012}}</ref><ref>{{cite web|title=Holding Ozaltin conscience|url=http://haber.emlakkulisi.com/ozaltin-holdingin-vicdani-patlayan-kopru-baraji-kapagindan-dolayi-rahat/13564|publisher=Emlak Kulisi|accessdate=11 March 2012|language=Turkish|date=10 March 2012}}</ref>
+. |-
+|} . 
+
+== References ==. 
+<references /> . 
+
+==External links==. 
+*[http://www.damsafety.org/media/Documents/PRESS/US_FailuresIncidents.pdf A list of dam failures and incidents in the United States] Dam Safety.org
+*[http://www.wise-uranium.org/mdaf.html Chronology of major tailings dam failures from 1960] WISE Uranium Project
+*[[Hubert Chanson|Chanson, H.]] (2009) [http://espace.library.uq.edu.au/view/UQ:164021 Application of the Method of Characteristics to the Dam Break Wave Problem] Journal of Hydraulic Research, IAHR, Vol. 47, No. 1, pp.&nbsp;41–49 (DOI: 10.3826/jhr.2009.2865) (ISSN 0022-1686). Available as a pdf at [http://espace.library.uq.edu.au/eserv/UQ:164021/jhr09_01b.pdf] . 
+
+==See also==. 
+*[[List of hydroelectric power station failures]]
+*[[Grout curtain]]
+*[[Structural failure]] . 
+
+{{Disasters}}  . 
+
+{{DEFAULTSORT:Dam Failure}}
+[[Category:Dam disasters| ]]

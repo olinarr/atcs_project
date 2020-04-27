@@ -1,0 +1,215 @@
+{{Use British English|date=May 2011}}
+{{Infobox
+| above   =South Africa
+| image   =[[File:LocationSouthAfrica.svg|250px|center|]]
+| label1  = Nuclear program start date
+| data1   =1967<ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)"/>
+| label2  = First nuclear weapon test
+| data2   =Possible, 22 September 1979<br>(See [[Operation Phenix]])
+| label3  = First fusion weapon test
+| data3   =''Unknown'' 
+| label4  = Last nuclear test
+| data4   = ''Unknown'' 
+| label5  = Largest yield test
+| data5   =''Unknown'' 
+| label6  = Total tests
+| data6   =[[South Atlantic Flash|''Unknown'']]
+| label7  = Peak stockpile
+| data7   =6
+| label8  = Current stockpile
+| data8   =''None''; the programme was voluntarily [[South Africa and weapons of mass destruction#Dismantling|dismantled]] in 1989. 
+| label9  = Maximum missile range
+| data9   = {{convert|1300|km|mi}} ([[English Electric Canberra]])
+| label10 = [[Nuclear Non-Proliferation Treaty|NPT]] signatory
+| data10  ='''Yes'''
+}} . 
+
+From the 1960s to the 1980s, [[South Africa|'''South Africa''']] pursued research into [[weapons of mass destruction]], including [[nuclear weapon|nuclear]], [[biological weapon|biological]], and [[chemical weapon]]s. Six nuclear weapons were assembled. <ref>{{cite web|author=John Pike |url=http://www.globalsecurity.org/wmd/world/rsa/nuke.htm |title=Nuclear Weapons Program – South Africa |publisher=Globalsecurity.org |accessdate=15 May 2011}}</ref> With the anticipated changeover to a majority-elected government in the 1990s, the South African government dismantled all of its nuclear weapons, the first nation in the world which voluntarily gave up nuclear arms it had developed itself.  . 
+
+The country has been a signatory of the [[Biological Weapons Convention]] since 1975, the [[Nuclear Non-Proliferation Treaty]] since 1991, and the [[Chemical Weapons Convention]] since 1995.  . 
+
+==Nuclear weapons==. 
+[[File:South African nuclear bomb casings.jpg|thumb|left|Spare bomb casings from South Africa's nuclear weapon programme]]
+{{Weapons of mass destruction}}
+{{nuclear weapons}} . 
+
+The [[Republic of South Africa]]'s ambitions to develop nuclear weapons began in 1948 after giving commission to [[South African Nuclear Energy Corporation|South African Atomic Energy Corporation]] (SAAEC), the forerunner corporation to oversee nation's [[uranium mining]] and industrial trade. <ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)">{{cite web|last=Executive release|title=South African nuclear bomb|url=http://www.nti.org/country-profiles/south-africa/nuclear/|work=Nuclear Threat Initiatives|publisher=Nuclear Threat Initiatives, South Africa (NTI South Africa)|accessdate=13 March 2012}}</ref>  In 1957, South Africa reached an understanding with the [[United States]] after signing a 50-year collaboration under the U.S.-sanctioned programme, the [[Atoms for Peace]]. <ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)"/> The treaty concluded the South African acquisition of a single [[nuclear research]] [[Research reactor|reactor]] and an accompanying supply of the [[High-enriched uranium|Highly Enriched Uranium]] (HEU) fuel, located in [[Pelindaba]]. <ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)"/> In 1965, the American subsidiary, the [[Allis-Chalmers|Allis-Chalmers Corporation]], delivered the 20[[Megawatt|MW]] research [[nuclear reactor]], [[SAFARI-1|''SAFARI-1'']], along with ~90% HEU fuel to South African nuclear authority. <ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)"/> In 1967, South Africa decided to pursue the plutonium capability and constructed its own reactor, [[List of nuclear reactors|''SAFARI-2'']] reactor also at the Pelindaba, that went [[Subcritical reactor |critical]] using 606[[Kilogram|kg]] of 2% HEU fuel, and 5.4 metric tons of [[heavy water]], both supplied by the United States. <ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)"/>  . 
+
+The ''SAFARI-2'' reactor was intended to be moderated by heavy water, fueled by [[natural uranium]] while the reactor's [[Cooling system (nuclear reactor)|cooling system]] used the molten [[sodium]]. <ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)"/> However in 1969, the project was abandoned by the South African government because the reactor was draining resources from the uranium enrichment program that was initiated in 1967. <ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)"/> South Africa began focusing on the success of its uranium enrichment programme which was seen by its scientists as easier compared to plutonium. <ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)"/> South Africa was able to mine [[uranium]] ore domestically, and used [[Uranium enrichment#Aerodynamic processes|aerodynamic nozzle]] enrichment techniques to produce weapons-grade material. South Africa is suspected of having received technical assistance from various sources, including assistance from Israel in building its first nuclear device. In 1969, a pair of senior South African scientists met with [[Sultan Bashiruddin Mahmood|Sültan Mahmoud]], a nuclear engineer from Pakistan at the [[University of Birmingham|Birmingham University]], to conduct studies, research and an independent experiments on [[uranium enrichment]]. <ref name="M.A. Chaudhry's article published at the ''The Nation, 1999''">{{cite web|last=Chaudhry, PhD (Political science)|first=M.A.|title=Separating Myth from Reality§ The Uranium Enrichment programme: Building Kahuta Research Laboratories (KRL)|url=http://owlstree.blogspot.com/2006/06/pakistani-nuclear-program-2-5.html|work=Professor Mohammad Ali Chaudhry (professor of Political Science)|publisher=M.A. Chaudhry's article published at the ''The Nation, 1999''|accessdate=5 March 2012}}</ref>  The South African and Pakistan scientists studied the use of aerodynamic-jet nozzle process to enrich the fuel at the [[University of Birmingham]], later building their nations programs in 1970s. <ref name="M.A. Chaudhry's article published at the ''The Nation, 1999''"/> However it is not clear how much knowledge they gained and to what extent they cooperated. <ref name="M.A. Chaudhry's article published at the ''The Nation, 1999''"/>  South African gained sufficient experience with the nuclear technology to capitalize on the promotion of the U.S. government's [[Peaceful nuclear explosions|Peaceful Nuclear Explosions]] (PNE) program. <ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)"/> Finally in 1971, South African minister of mines Carl de Wet gave approval of country's own PNE programme with the publicly stated objective of using PNEs in the mining industry. The date when the South African PNE program transformed into a weapons program is a matter of some dispute. <ref name="Nuclear Threat Initiatives, South Africa (NTI South Africa)"/>  . 
+
+South Africa developed a small [[Mutual assured destruction|finite deterrence]] arsenal of [[gun-type fission weapon]]s in the 1980s. Six were constructed and another was under construction at the time the program ended. <ref>{{cite web|publisher=[[National Security Archive]]|date=19 December 1993|accessdate=26 August 2008|title=South Africa: Nuclear Case Closed?|url=http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB181/sa34.pdf|format=PDF}}</ref>   . 
+
+===Testing the first device===. 
+The South African Atomic Energy Board (AEB) selected a test site in the [[Kalahari Desert]] at the [[Vastrap]] weapons range north of [[Upington]]. Two test shafts were completed in 1976 and 1977. One shaft was 385 metres deep, the other, 216 metres. In 1977, the AEB established its own high-security weapons research and development facilities at [[Pelindaba]], and during that year the program was transferred from Somchem to [[Pelindaba]]. In mid-1977, the AEB produced a gun-type device—without a [[Enriched uranium#Highly enriched uranium (HEU)|highly enriched uranium]] (HEU) core. Although the Y-Plant was operating, it had not yet produced enough weapons-grade uranium for a device. As has happened in programmes in other nations, the development of the devices had outpaced the production of the fissile material.  . 
+
+Atomic Energy Commission officials say that a "cold test" (a test without [[uranium-235]]) was planned for August 1977. An [[Armscor (South Africa)|Armscor]] official who was not involved at the time said that the test would have been a fully instrumented underground test, with a dummy core. Its major purpose was to test the logistical plans for an actual detonation.  . 
+
+How that test was cancelled has been well publicised. [[Soviet]] intelligence detected test preparations and in early August alerted the United States; [[Central Intelligence Agency|U.S. intelligence]] confirmed the existence of the test site with an overflight of a [[SR-71 Blackbird|Lockheed SR-71]] spy plane. <ref>{{cite book|url=http://books.google.com/books?id=nQGSAAAAIAAJ|title=U.S. Military Involvement in Southern Africa|publisher=[[South End Press]]|year=1978|isbn=0-89608-041-2}}</ref>  On 28 August, the [[Washington Post]] quoted a U.S. official: "I'd say we were 99 percent certain that the construction was preparation for an atomic test."<ref>{{cite journal|url=http://books.google.com.au/books?id=VAwAAAAAMBAJ|page=41|journal=Bulletin of the Atomic Scientists|volume=Jul 1994|title=South Africa and the Affordable Bomb}}</ref> . 
+
+The [[Soviet]] and Western governments were convinced that South Africa was preparing for a full-scale nuclear test. During the next two weeks in August, the Western nations pressed South Africa not to test. The French foreign minister warned on 22 August of "grave consequences" for French-South African relations. Although he did not elaborate, his statement implied that France was willing to cancel its contract to provide South Africa with the [[Koeberg nuclear power station|Koeberg]] nuclear power reactors.  . 
+
+In 1993 [[Wynand de Villiers]] said that when the test site was exposed, he ordered its immediate shutdown. The site was abandoned and the holes sealed. One of the shafts was temporarily reopened in 1988 in preparation for another test, which did not take place; the move was intended to strengthen South Africa's bargaining position during negotiations to end the [[South African Border War|war]] with [[Angola]] and [[Cuba]]. <ref name="JMCNS">{{cite web|url=http://cns.miis.edu/npr/pdfs/31pabian.pdf|page=8|title=South Africa’s Nuclear Weapon Program: Lessons For U.S. Non Proliferation Policy|author=Frank V. Pabian|publisher=James Martin Center for Nonproliferation Studies|accessdate=8 December 2008}}</ref> . 
+
+===Viable delivery===. 
+[[File:Canberra B12 - 453.jpg|thumb|left|SAAF Canberra B12 with inertial navigation and special sensors package over [[Transvaal Province|Transvaal]]]]
+The warheads were originally configured to be delivered from one of several aircraft types then in service with the [[South African Air Force]] (SAAF), including the [[English Electric Canberra|Canberra B12]] and the [[Blackburn Buccaneer]].  Concerns about the vulnerability of the aircraft to the Cuban anti-aircraft defence network in Angola subsequently led the SADF investigate missile-based delivery system. <ref>http://books.google.com/books?id=M7wIryQK6UkC&pg=PA10</ref> . 
+
+The missiles were to be based on the RSA-3 and RSA-4 launchers that had already been built and tested for the South African space programme. Three rockets had already been launched into suborbital trajectories in the late 1980s in support of development of the RSA-3 launched Greensat Orbital Management System (for commercial satellite applications of vehicle tracking and regional planning). Following the decision in 1989 to cancel the nuclear weapons program, the missile programs were allowed to continue until 1992, when military funding ended, and all ballistic missile work was stopped by mid-1993. In order to join the Missile Technology Control Regime the government had to allow American supervision of the destruction of key facilities applicable to both the long range missile and the space launch programmes. <ref>[http://web.archive.org/web/20100529204936/http://www.astronautix.com/lvfam/jericho.htm Jericho]</ref> . 
+
+===Alleged collaboration with Israel===. 
+[[David Albright]] and [[Chris McGreal]] have claimed that South African projects to develop nuclear weapons during the 1970s and 1980s were undertaken with some cooperation from Israel. <ref name="guardian1">{{cite news
+|url=http://www.guardian.co.uk/israel/Story/0,,1704037,00.html
+|title=Brothers in arms&nbsp;— Israel's secret pact with Pretoria
+|date=7 February 2006
+|author=[[Chris McGreal]]
+|work=The Guardian | location=London
+}}</ref><ref>{{cite news
+|title=South Africa and the affordable bomb
+|publisher=[[Bulletin of the Atomic Scientists]]
+|date=August 1994
+|url=http://books.google.com/books?id=VAwAAAAAMBAJ&pg=PA37&dq South Africa and the affordable bomb (David Albright)
+}}</ref><ref>{{cite web
+|url=http://www.fas.org/nuke/guide/rsa/nuke/
+|author=Unknown author
+|title=RSA Nuclear Weapons Program
+|publisher=[[Federation of American Scientists]]
+}}</ref> The [[United Nations Security Council Resolution 418]] of 4 November 1977 introduced a mandatory arms embargo against South Africa, also requiring all states to refrain from "any co-operation with South Africa in the manufacture and development of nuclear weapons". <ref>{{cite web|url=http://www.un.org/documents/sc/res/1977/scres77.htm |title=UNSCR 418 of 4 November 1977: States should refrain from "any co-operation with South Africa in the manufacture and development of nuclear weapons" |publisher=United Nations  |accessdate=15 May 2011}}</ref> . 
+
+According to the [[Nuclear Threat Initiative]], in 1977 Israel traded 30&nbsp;grams of [[tritium]] for 50 tons of South African [[uranium]]{{Citation needed|date=March 2012}} and in the mid-1980s assisted with the development of the RSA-3 and RSA-4 [[ballistic missile]]s, which are similar to Israeli [[Shavit]] and [[Jericho (missile)|Jericho]] missiles. <ref name="nti1">{{cite web |url=http://www.nti.org/country-profiles/south-africa/delivery-systems/
+|title=South Africa: Missile |publisher=[[Nuclear Threat Initiative]] |month=November |year=2011}}</ref>  Also in 1977, according to foreign press reports, it was suspected that South Africa signed a pact with Israel that included the transfer of military technology and the manufacture of at least six nuclear bombs. <ref name="jpost1">{{cite news
+|url=http://fr.jpost.com/servlet/Satellite?cid=1162378307806&pagename=JPost/JPArticle/ShowFull
+|title=P.W. Botha felt Israel had betrayed him
+|accessdate = 2 November 2006
+|publisher=[[Jerusalem Post]]
+|date= 2 November 2006}}</ref> . 
+
+In September 1979, a US [[Vela (satellite)|Vela satellite]] detected a double flash over the Indian Ocean that was suspected, but never confirmed to be a nuclear test, despite extensive air sampling by [[Boeing WC-135 Constant Phoenix|WC-135]] aircraft of the [[United States Air Force]]. If the [[Vela Incident]] was a nuclear test, South Africa is one of the countries, possibly in collaboration with [[Israel]], that is suspected of carrying it out. No official confirmation of it being a nuclear test has been made by South Africa, and expert agencies{{who|date=January 2011}} have disagreed on their assessments. In 1997, South African Deputy Foreign Minister [[Aziz Pahad]] stated that South Africa had conducted a test, but later retracted his statement as being a report of rumours. <ref>{{cite web|url=http://nuclearweaponarchive.org/Safrica/Vela.html |title=Aziz Pahad's statement and retraction discussed here |publisher=Nuclearweaponarchive.org |accessdate=15 May 2011}}</ref> In February 1994, Commodore [[Dieter Gerhardt]], the convicted Soviet spy and former commander of South Africa's [[Simon's Town]] naval base was reported to have said:
+:"Although I was not directly involved in planning or carrying out the operation, I learned unofficially that the flash was produced by an Israeli-South African test code-named ''[[Vela Incident|Operation Phoenix]]''. The explosion was clean and was not supposed to be detected. But they were not as smart as they thought, and the weather changed{{spaced ndash}}so the Americans were able to pick it up."<ref>[http://books.google.com/books?id=VAwAAAAAMBAJ&pg=PA1&source=gbs_toc_pages&cad=0_1#PPA37,M1 South Africa and the affordable bomb], David Albright, [http://thebulletin.org ''The Bulletin of the Atomic Scientists''] Jul 1994, pp 37. </ref><ref>[http://books.google.com/books?id=vgwAAAAAMBAJ&pg=PA15 Proliferation: A flash from the past] David Albright, [http://thebulletin.org ''The Bulletin of the Atomic Scientists''] Nov 1997, pp. 15</ref> . 
+
+In 2000, Dieter Gerhardt claimed that Israel agreed in 1974 to arm eight [[Jericho missile|Jericho II]] missiles with "special warheads" for South Africa. <ref>{{cite web |publisher=[[PBS Newshour]] |date=2 May 2005  |title=Tracking Nuclear Proliferation |url=http://www.pbs.org/newshour/indepth_coverage/military/proliferation/countries/s-africa.html}}</ref> . 
+
+In 2010, [[The Guardian]] released South African government documents that it alleged confirmed the existence of Israel's nuclear arsenal. According to The Guardian, the documents were associated with an Israeli offer to sell South Africa nuclear weapons in 1975. <ref>{{cite news
+|title=Revealed: how Israel offered to sell South Africa nuclear weapons
+|url=http://www.guardian.co.uk/world/2010/may/23/israel-south-africa-nuclear-weapons
+|work=The Guardian |location=UK |date=24 May 2010 . 
+
+| first=Chris
+| last=McGreal
+| accessdate=24 May 2010}}</ref><ref>{{cite news
+|title=The memos and minutes that confirm Israel's nuclear stockpile
+|url=http://www.guardian.co.uk/world/2010/may/23/israel-south-africa-nuclear-documents
+|work=The Guardian |location=UK |date=24 May 2010 . 
+
+| first=Chris
+| last=McGreal
+| accessdate=24 May 2010}}</ref> Israel categorically denied these allegations and said that the documents do not indicate any offer for a sale of nuclear weapons. Israeli President [[Shimon Peres]] said that The Guardian article was based on "selective interpretation... and not on concrete facts."<ref>{{cite news| url=http://www.nytimes.com/2010/05/25/world/middleeast/25israel.html | work=The New York Times | title=Israel Denies It Offered South Africa Warheads | first=Isabel | last=Kershner | date=24 May 2010}}</ref> [[Avner Cohen]], author of ''Israel and the Bomb'' and the forthcoming ''The Worst-Kept Secret: Israel's Bargain with the Bomb'', said "Nothing in the documents suggests there was an actual offer by Israel to sell nuclear weapons to the regime in Pretoria."<ref>{{cite news| url=http://www.independent.co.uk/opinion/commentators/avner-cohen-yitzhak-rabin-would-have-opposed-sale-of-nuclear-weapons-1981962.html | location=London | work=The Independent | title=Avner Cohen: Yitzhak Rabin would have opposed sale of nuclear weapons | date=25 May 2010}}</ref> . 
+
+==Dismantling==. 
+South African forces feared the threat of a "[[Domino theory|domino effect]]" in favour of Communism, represented in southern Africa by [[Cuban intervention in Angola|Cuban proxy forces in Angola]] and threatening Namibia. In 1988 South Africa signed the [[Tripartite Accord (Angola)|Tripartite Accord]] with Cuba and Angola, which led to the withdrawal of South African and Cuban troops from Angola and independence for Namibia.  . 
+
+Another possible motivation for eliminating nuclear weapons in South Africa was the probability of an ANC government in the near future.{{Citation needed|date=January 2011}} The ANC was listed as a terrorist organisation by the USA,<ref>{{cite news| url=http://news.bbc.co.uk/2/hi/africa/7340248.stm |work=BBC News  | title=US shamed by Mandela terror link | date=10 April 2008}}</ref><ref>{{cite web|url=http://www.johnkerry.com/news/entry/congress_lifts_terrorist_ban_on_mandela_anc/ |title=Congress Lifts Terrorist Ban on Mandela, ANC |publisher=John Kerry |date=3 July 2008 |accessdate=15 May 2011}}</ref><ref>{{cite news| url=http://www.usatoday.com/news/world/2008-04-30-watchlist_N.htm?csp=34 | work=USA Today | first=Mimi | last=Hall | title=U.S. has Mandela on terrorist list | date=30 April 2008}}</ref><ref>{{cite web|url=http://www.abc.net.au/news/stories/2008/07/02/2291630.htm?section=world |title=US drops Mandela from terrorist list – ABC News (Australian Broadcasting Corporation) |publisher=Australian Broadcasting Corporation  |date=2 July 2008 |accessdate=15 May 2011}}</ref> and it had a long history of co-operation with leaders like [[Muammar Gaddafi]] and organisations such as the [[Palestine Liberation Organization|PLO]]. <ref>[http://elections.mg.co.za/story/2009-03-21-ancs-dodgy-funders ]{{dead link|date=May 2011}}</ref><ref>{{cite web|url=http://www.southafrica.info/ess_info/sa_glance/history/mandela.htm |title=Mandela: leader among leaders |publisher=SouthAfrica.info |date=20 April 1964 |accessdate=15 May 2011}}</ref> The pre-emptive elimination of nuclear weapons would "make a 'significant contribution...toward peace, stability and progress,'" improving South Africa's relations with and restoring their credibility in regional and international politics. Reiss also states the opinion that the white government greatly feared the unpredictability of a black government inheriting nuclear technologies.{{Citation needed|date=April 2010}} . 
+
+South Africa dismantled its nuclear weapons program in 1989. All the bombs (six constructed and one under construction) were destroyed and South Africa acceded to the [[Nuclear Non-Proliferation Treaty]] when South African Ambassador to the United States [[Harry Schwarz]] signed the treaty in 1991. On 19 August 1994, after completing its inspection, the IAEA confirmed that one partially completed and six fully completed [[nuclear weapons]] had been dismantled. As a result, the IAEA was satisfied that South Africa's nuclear program had been converted to peaceful applications. Following this, South Africa joined the [[Nuclear Suppliers Group]] (NSG) as a full member on 5 April 1995. South Africa played a leading role in the establishment of the [[African Nuclear Weapons Free Zone Treaty]] (the [[Treaty of Pelindaba]]) in 1996, becoming one of the first members in 1997. South Africa also signed the [[Comprehensive Test Ban Treaty]] in 1996 and ratified it in 1999.  . 
+
+The Treaty of Pelindaba came into effect on 15 July 2009 once it had been ratified by 28 countries. <ref>[http://disarmament.un.org/TreatyStatus.nsf/Pelindaba%20Treaty%20(in%20chronological%20order%20by%20deposit)?Open disarmament.un.org - Pelindaba Treaty - View chronological order by deposit]</ref> This treaty requires that parties will not engage in the research, development, manufacture, stockpiling acquisition, testing, possession, control or stationing of nuclear explosive devices in the territory of parties to the Treaty and the dumping of radioactive wastes in the African zone by Treaty parties. The African Commission on Nuclear Energy, in order to verify compliance with the treaty, has been established and will be headquartered in South Africa. <ref>{{cite web | title=African Nuclear Weapons Free Zone Treaty | publisher=Department of Foreign Affairs, Republic of South Africa | url=http://www.dfa.gov.za/foreign/Multilateral/africa/treaties/anwfz.htm | accessdate=2006-07-28}}</ref> . 
+
+{| class="wikitable"
+|+ Timeline of South African Nuclear Weapons Programme<ref>{{cite book|url=http://books.google.com/books?id=M7wIryQK6UkC&pg=PA17|page=17|title=Out of (South) Africa: Pretoria's Nuclear Weapons Experience|year=1999|author=Roy E. Horton, USAF Institute for National Security Studies|publisher=Dianne Publishing}}</ref>
+. |-
+! Year
+! Activity
+. |-
+| 1950s and 1960s
+| Scientific work on the feasibility of peaceful nuclear explosives and support to nuclear power production efforts
+. |-
+| 1969
+| Atomic Energy Board forms group to evaluate technical and economic aspects of nuclear explosives
+. |-
+| 1970
+| Atomic Energy Commission (AEC) releases report identifying uses for nuclear explosives
+. |-
+| 1971
+| R&D approval granted for "peaceful use of nuclear explosives"
+. |-
+| 1973
+| AEC prioritises work on a [[Gun-type fission weapon|gun-type design]]
+. |-
+| 1974
+| Work on a nuclear device and the [[Vastrap]] test site are authorised
+. |-
+| 1977
+| AEC completes bomb assembly for "cold" test
+. |-
+| 1978
+| First [[Enriched uranium|HEU]] produced; Armscor assumes control of weapons programme
+. |-
+| 1979
+| [[Vela incident]]; First bomb with HEU core produced by AEC
+. |-
+| 1982
+| First deliverable bomb built; work on weapons safety
+. |-
+| 1985
+| Three-phase nuclear strategy reviewed
+. |-
+| 1987
+| First production bomb built; seven produced, with an eighth under construction
+. |-
+| 1988
+| Armscor prepares Vastrap for a nuclear test
+. |-
+| 1989
+| Nuclear weapons dismantled
+. |-
+| 1991
+| Accedes to [[Nuclear Non-Proliferation Treaty|NPT]]
+|} . 
+
+==Biological and chemical weapons==. 
+In October 1998, the report of the South African [[Truth and Reconciliation Commission (South Africa)|Truth and Reconciliation Commission]] included a chapter on [[Project Coast]], a clandestine government chemical and biological warfare program conducted during the 1980s and 1990s. [[Project Coast]] started in 1983, ostensibly to produce equipment for [[Defense (military)|defensive]] purposes, including masks and protective suits. Despite vehement assertions to the contrary, some testimony appeared to show that the programme went well beyond defensive purposes. 
+{{Expand section|date=May 2011}} . 
+
+==See also==. 
+*[[African Nuclear Weapons Free Zone Treaty]]
+*[[History of biological warfare]]
+*[[Helikon vortex separation process]]
+*[[Military history of South Africa]]
+*[[Nuclear weapons and Israel]]
+*[[South African Border War]]
+*[[Overberg Test Range]]
+*[[Cold War]] . 
+
+==Notes==. 
+{{reflist|2}} . 
+
+==References==. 
+{{Refbegin}}
+*Joseph Cirincione, Jon B. Wolfsthal, Miriam Rajkumar. ''Deadly Arsenals: Nuclear, Biological, and Chemical Threats.'' Washington D.C.: Carnegie Endowment For International Peace, 2005. 
+{{Refend}} . 
+
+==External links==. 
+{{Commons category|Nuclear weapons program of South Africa}}
+*[http://www.fas.org/nuke/guide/rsa/nuke/stumpf.htm Birth and Death of the South African Nuclear Weapons Programme], Waldo Stumpf, Atomic Energy Corporation of South Africa, October 1995
+*[http://web.archive.org/web/20091026074007/http://geocities.com/sadf_scrapbook/sanuc.htm South Africa and the nuclear option], Marcus Duvenhage, 1998
+*[http://acdis.illinois.edu/publications/207/publication-OutofSouthAfricaPretoria39sNuclearWeaponsExperience.html Out of ''South'' Africa: Pretoria’s Nuclear Weapons Experience] (in pdf), Lt. Col. Roy E. Horton, ACDIS Occasional Paper, Program in Arms Control, Disarmament, and International Security, University of Illinois, August 2000
+*[http://www.fas.org/nuke/guide/rsa/nuke/ocp27.htm Out of (South) Africa: Pretoria’s Nuclear Weapons Experience], Roy E. Horton, USAF Institute for National Security Studies, August 1999
+*[http://www.nuclearfiles.org/menu/key-issues/nuclear-weapons/issues/proliferation/south-africa/index.htm Nuclear Files.org guide to proliferation – South Africa]
+*[http://nuclearweaponarchive.org/Safrica/index.html The Nuclear Weapon Archive account of South Africa]
+*[http://www.zaman.com/?bl=hotnews&alt=&trh=20060519&hn=33254 Israel conducted nuclear experiment in 1979]
+*[http://www.wisconsinproject.org/countries/safrica/autopsy.html South Africa's Nuclear Autopsy: The Risk Report], Winconsin Project on Nuclear Arms Control, 1996
+*[http://www.fas.org/news/safrica/baeckmann.html Nuclear verification in South Africa], Adolf von Baeckmann, Gary Dillon and Demetrius Perricos, IAEA Bulletin Volume 37 Number 1
+*[http://alsos.wlu.edu/adv_rst.aspx?keyword=south*african*nuclear*program&creator=&title=&media=all&genre=all&disc=all&level=all&sortby=relevance&results=10&period=15 Annotated bibliography for the South African Nuclear Program from the Alsos Digital Library for Nuclear Issues]
+*[http://isis-online.org/isis-reports/detail/south-africas-nuclear-weapons-storage-vault/ South Africa's Nuclear Weapons Storage Vault]
+*[http://qcpages.qc.edu/Political_Science/profmat/Israel%20and%20the%20South%20African%20bomb.pdf Israel and the South African Bomb]
+*[http://www.wilsoncenter.org/nuclear-history-documents/ The Woodrow Wilson Center's Nuclear Proliferation International History Project] The Wilson Center's Nuclear Proliferation International History Project conatins primary source material on South Africa's nuclear weapons program.  . 
+
+{{Foreign relations of South Africa}}
+{{South Africa topics}}
+{{Use dmy dates|date=May 2011}} . 
+
+{{DEFAULTSORT:South Africa And Weapons Of Mass Destruction}}
+[[Category:Weapons of mass destruction]]
+[[Category:Military of South Africa]]
+[[Category:Foreign relations of South Africa]]
+[[Category:Nuclear weapons of South Africa]]
+[[Category:Israel–South Africa relations]]

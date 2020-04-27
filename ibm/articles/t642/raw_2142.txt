@@ -1,0 +1,104 @@
+{{for|the failed 1995 bill|Partial-Birth Abortion Ban Act of 1995}}
+{{Infobox U.S. legislation
+| name = Partial-Birth Abortion Ban Act of 2003
+| fullname = An Act to prohibit the procedure commonly known as partial-birth abortion. 
+| acronym = 
+| nickname = PBA Ban
+| enacted by = 108th
+| effective date = 
+| public law url = 
+| cite public law = {{USPL|108|105}}
+| cite statutes at large = {{USStat|117|1201}}
+| acts amended = 
+| title amended = 
+| sections created = 
+| sections amended = 
+| leghisturl = http://thomas.loc.gov/cgi-bin/bdquery/z?d108:SN00003:@@@S
+| introducedin = Senate
+| introducedbill = {{USBill|108|s|3}}
+| introducedby = [[Rick Santorum]] ([[Republican Party (United States)|R]]-[[Pennsylvania|PA]])
+| introduceddate = February 14, 2003
+| committees = 
+| passedbody1 = Senate
+| passeddate1 = March 13, 2003
+| passedvote1 = [http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=108&session=1&vote=00051 64–33]
+| passedbody2 = House
+| passeddate2 = June 4, 2003
+| passedvote2 = [http://clerk.house.gov/cgi-bin/vote.asp?year=2003&rollnumber=242 282–139] as {{USBill|108|hr|760}}, inserted in lieu by unanimous consent
+| conferencedate = September 30, 2003
+| passedbody3 = House
+| passeddate3 = October 2, 2003
+| passedvote3 = [http://clerk.house.gov/cgi-bin/vote.asp?year=2003&rollnumber=530 281–142]
+| passedbody4 = Senate
+| passeddate4 = October 21, 2003
+| passedvote4 = [http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=108&session=1&vote=00402 64–34]
+| signedpresident = [[George W. Bush]]
+| signeddate = November 5, 2003
+| amendments = 
+| SCOTUS cases = ''[[Gonzales v. Carhart]]''
+}}
+{{wikisource|Partial-Birth Abortion Ban Act of 2003}} . 
+
+The '''Partial-Birth Abortion Ban Act of 2003''' ({{USStatute|108|105|117|1201|2003|11|05}}, {{USC|18|1531}},<ref name="act">[http://www.nrlc.org/abortion/pba/partial_birth_abortion_Ban_act_final_language.htm Partial-Birth Abortion Ban Act of 2003, Enrolled as Agreed to or Passed by Both House and Senate] ''(HTML)''; * [http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=108_cong_bills&docid=f:h760rh.txt.pdf same], from the [[United States Government Printing Office|U.S. Government Printing Office]] ''(PDF)''</ref> '''PBA Ban''') is a [[Law of the United States|United States law]] prohibiting a form of [[late-term abortion]] that the Act calls "[[Intact dilation and extraction#Partial-birth_abortion|partial-birth abortion]]", often referred to in medical literature as [[intact dilation and extraction]]. <ref name="gonzales">''Gonzales v. Carhart'', [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=000&invol=05-380 550 U.S. ____ (2007)]. Findlaw.com. Retrieved 2007-04-19.  (“The medical community has not reached unanimity on the appropriate name for this D&E variation. It has been referred to as 'intact D&E,' 'dilation and extraction' (D&X), and 'intact D&X' ....For discussion purposes this D&E variation will be referred to as intact D&E....A straightforward reading of the Act's text demonstrates its purpose and the scope of its provisions: It regulates and proscribes, with exceptions or qualifications to be discussed, performing the intact D&E procedure.”)</ref> Under this law, "Any physician who, in or affecting interstate or foreign commerce, knowingly performs a partial-birth abortion and thereby kills a human fetus shall be fined under this title or imprisoned not more than 2 years, or both."  The law was enacted in 2003, and in 2007 its constitutionality was upheld by the U.S. Supreme Court, in the case of ''[[Gonzales v. Carhart]]''.  . 
+
+==Provisions==. 
+This statute prohibits a method of [[abortion in the United States]] that it names "partial birth abortion". The procedure described in the statute is usually used in the second trimester,<ref>[http://caselaw.lp.findlaw.com/scripts/getcase.pl?navby=CASE&court=US&vol=530&page=914 ''Stenberg v. Carhart''], 530 U.S. 914 (2000), in which the Court stated: "In sum, using this law some present prosecutors and future Attorneys General may choose to pursue physicians who use D&E procedures, the most commonly used method for performing '''''previability second trimester abortions'''''."</ref> from 15 to 26 weeks, some of which occur before and some of which occur after [[Fetus#Viability|viability]]. The law itself contains no reference to gestational age or viability. The present statute is directed only at a method of [[abortion]], rather than at preventing any woman from obtaining an abortion. <ref>See [http://caselaw.lp.findlaw.com/scripts/getcase.pl?navby=CASE&court=US&vol=530&page=914 ''Stenberg v. Carhart''], 530 U.S. 914 (2000), in which Justice Ginsburg stated in concurrence: "As the Court observes, this law does not save any fetus from destruction, for it targets only 'a method of performing abortion.'"</ref> . 
+
+The statute includes two findings of Congress:{{cquote|(1) A moral, medical, and ethical consensus exists that the practice of performing a partial-birth abortion... is a gruesome and inhumane procedure that is never medically necessary and should be prohibited.  . 
+
+(2) Rather than being an abortion procedure that is embraced by the medical community, particularly among physicians who routinely perform other abortion procedures, partial-birth abortion remains a disfavored procedure that is not only unnecessary to preserve the health of the mother, but in fact poses serious risks to the long-term health of women and in some circumstances, their lives. As a result, at least 27 States banned the procedure as did the United States Congress which voted to ban the procedure during the 104th, 105th, and 106th Congresses.}} . 
+
+Despite its finding that "partial-birth abortion ... is ... unnecessary to preserve the health of the mother", the statute includes the following provision: . 
+
+{{cquote|A defendant accused of an offense under this section may seek a hearing before the State Medical Board on whether the physician's conduct was necessary to save the life of the mother whose life was endangered by a physical disorder, physical illness, or physical injury, including a life-endangering physical condition caused by or arising from the pregnancy itself.}} . 
+
+[[Hadley Arkes]] commented, in an editorial in the ''[[National Review]]'', "[t]hat provision went even further than the law was obliged to go, for as the American Medical Association testified during the hearings, a partial-birth abortion bore no relevance to any measure needed to advance the health of any woman."<ref>[[Hadley Arkes]], [http://www.nationalreview.com/arkes/arkes200410131241.asp Talking Partial-Birth Abortion], National Review (October 13, 2004). </ref> . 
+
+Citing the Supreme Court case of ''[[Doe v. Bolton]]'', some pro-life supporters have asserted that the word "health" would render any legal restriction meaningless, because of the broad and vague interpretation of "health". <ref>[http://www.clsnet.org/clrfPages/amicus/2006/AmicusPBAbortionCase.pdf Amicus Brief of Christian Legal Society] in [[Gonzales v. Carhart|Gonzales v. Planned Parenthood]] (2006-08-03). </ref>  This was of particular concern when it came to anticipated arguments that such a definition would encompass "mental health", which some thought would inevitably be expanded by court decisions to include the prevention of depression or other non-physical conditions. [[Pro-choice]] groups object to this statute primarily because there is no exemption if the health of a woman is at risk. <ref>"[http://www.religioustolerance.org/abo_pba7.htm D&X / PBA PROCEDURES: Reactions to the 2003 federal law.]" ''ReligiousTolerance.org'' Retrieved April 18, 2007. </ref> . 
+
+== "Partial-birth abortion" defined by law == . 
+
+The term "partial-birth abortion" was first coined by Douglas Johnson of the [[National Right to Life Committee]]. <ref>[http://www.npr.org/templates/story/story.php?storyId=5168163 'Partial-Birth Abortion:' Separating Fact from Spin]</ref> The term has been used in numerous state and federal bills and laws, although the legal definition of the term is not always the same. The Partial-Birth Abortion Ban Act defines  "partial-birth abortion" as follows: . 
+
+{{cquote|An [[abortion]] in which the person performing the abortion, deliberately and intentionally vaginally delivers a living fetus until, in the case of a head-first presentation, the entire fetal head is outside the body of the mother, or, in the case of breech presentation, any part of the fetal trunk past the [[navel]] is outside the body of the mother, for the purpose of performing an [[overt act]] that the person knows will kill the partially delivered living fetus; and performs the overt act, other than completion of delivery, that kills the partially delivered living fetus. (18 U.S. Code 1531)}} . 
+
+In the 2000 Supreme Court case of ''[[Stenberg v. Carhart]]'', a Nebraska law banning "partial-birth abortion" was ruled unconstitutional, in part because the language defining "partial-birth abortion" was deemed vague. <ref>[http://www.aclu.org/reproductiverights/abortionbans/12669res20040326.html Abortion Bans: Myths and Facts]. American Civil Liberties Union. Accessed April 14, 2006. <br />[http://www.law.cornell.edu/supct-cgi/get-us-cite?530+914 Stenberg v. Carhart, 530 U.S. 914 (2000)]</ref> In 2006, the Supreme Court in ''[[Gonzales v. Carhart]]'' found that the 2003 act "departs in material ways" from the Nebraska law and that it pertains only to a specific abortion procedure, [[intact dilation and extraction]]. <ref name="gonzales" /> Some commentators have noted that the Partial-Birth Abortion Ban Act's language was carefully crafted to take into account previous rulings. <ref>"[http://www.washingtontimes.com/op-ed/20031108-111532-9290r.htm Defending the Innocent]" ''Washington Times'' 2003. Retrieved May 3, 2007. </ref> Although in most cases the procedure legally defined as "partial birth abortion" would be medically defined as "intact dilation and extraction", these overlapping terms do not always coincide. For example, the IDX procedure may be used to remove a deceased fetus (e.g. due to a [[miscarriage]] or [[feticide]]) that is developed enough to require dilation of the cervix for its extraction. <ref name="extract">''[[Gonzales v. Carhart]]'', [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=000&invol=05-380 550 U.S. ____ (2007)]. Findlaw.com. Retrieved 2007-04-30. ("If the intact D&E procedure is truly necessary in some circumstances, it appears likely an injection that kills the fetus is an alternative under the Act that allows the doctor to perform the procedure.")</ref>  Removing a dead fetus does not meet the federal legal definition of "partial-birth abortion," which specifies that partial live delivery must precede "the overt act, other than completion of delivery, that kills the partially delivered living fetus."<ref>[http://www.law.cornell.edu/uscode/html/uscode18/usc_sec_18_00001531----000-.html U.S. Code, Title 18, Part I, Chapter 74, Section 1531], "Partial-birth abortions prohibited."</ref>  Additionally, a doctor may extract a fetus past the navel and then "disarticulate at the neck", which could fall within the terms of the statute even though it would not result in an intact body and therefore would not be an intact dilation and extraction. <ref name="harpers">Gorney, Cynthia. [http://www.harpers.org/GamblingWithAbortion.html Gambling With Abortion]. Harper's Magazine, November 2004. </ref> . 
+
+==Legislative and judicial history==. 
+[[File:Signing the Partial-Birth Abortion ban.jpg|thumb|right|250px|[[George W. Bush]] signing the Partial-Birth Abortion Ban Act of 2003, surrounded by members of Congress]]
+The GOP led Congress first passed similar laws banning [[Partial-Birth Abortion Ban Act of 1995|"partial-birth abortion" in December 1995]], and again October 1997, but they were vetoed by President [[Bill Clinton]]. <ref>[http://www.npr.org/templates/story/story.php?storyId=5168163 'Partial-Birth Abortion:' Separating Fact from Spin: NPR<!--Bot-generated title-->]</ref> . 
+
+In the [[United States House of Representatives|House]], the final legislation was supported in 2003 by 218 [[Republican Party (United States)|Republicans]] and 63 [[Democratic Party (United States)|Democrats]]. It was opposed by 4 Republicans, 137 Democrats, and 1 independent. Twelve members were absent, 7 Republicans and 5 Democrats. <ref name="House">[http://clerk.house.gov/evs/2003/roll530.xml House Roll Call No. 530], (2003-10-02). </ref> In the [[United States Senate|Senate]] the bill was supported by 47 Republicans and 17 Democrats. It was opposed by 3 Republicans, 30 Democrats, and 1 independent. <ref name="Senate">[http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=108&session=1&vote=00402 Senate Roll Call No. 402] (2003-10-21). </ref> Two Senators were absent, [[Kay Bailey Hutchison]] (R-Tx.), a supporter of the bill, and [[John Edwards]] (D-NC), an opponent of the bill.  . 
+
+The only substantive difference between the House and Senate versions was the [[Tom Harkin|Harkin]] Amendment expressing support for ''[[Roe v. Wade]]''. <ref>[http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=108&session=1&vote=00048 Senate Roll Call on Harkin Amendment]. </ref> A House-Senate conference committee deleted the Harkin Amendment, which therefore is absent from the final legislation. <ref name="act" /> On November 5, 2003, after being passed by both the House and the Senate, the bill was signed by President [[George W. Bush]] to become law.  . 
+
+The constitutionality of the law was challenged immediately after the signing. Three different [[United States district court|U.S. district courts]] declared the law unconstitutional. <ref>[http://fl1.findlaw.com/news.findlaw.com/cnn/docs/abortion/ppash60104ord.pdf ''Planned Parenthood v. Ashcroft'', Order Granting Permanent Injunction, Findings of Fact and Conclusions of Law in Support Thereof], United States District Court for the Northern District of California (June 1, 2004)</ref><ref>[http://www.nysd.uscourts.gov/rulings/03CV8695_Order_083004.pdf ''National Abortion Federation v. Ashcroft'', Opinion and Order], United States District Court for the Southern District of New York (August 26, 2004)</ref><ref>[http://www.crlp.org/pdf/pdf_crt_carVash_op090804.pdf ''Carhart v. Ashcroft'', Memorandum and Order], United States District Court for the District of Nebraska (September 8, 2004)</ref>  All three cited the law's omission of an exception for the health of the woman (as opposed to the life of the woman), and all three decisions cited precedent set by ''[[Roe v. Wade]]'' (1973) and ''[[Stenberg v. Carhart]]'' (2000). The federal government appealed the district court rulings, which were then affirmed by three courts of appeals. <ref>[http://caselaw.lp.findlaw.com/data2/circs/8th/043379p.pdf ''Gonzales v. Carhart''], United States Court of Appeals for the Eighth Circuit (July 8, 2005)</ref><ref>[http://caselaw.lp.findlaw.com/data2/circs/9th/0416621p.pdf ''Planned Parenthood Federation v. Gonzalez''], United States Court of Appeals for the Ninth Circuit (January 31, 2006)</ref><ref>[http://www.nrlc.org/abortion/pba/2ndCircuitPBArulingdissent.pdf ''National Abortion Federation v. Gonzalez''], United States Court of Appeals for the Second Circuit (January 31, 2006)</ref>  The Supreme Court agreed to hear the ''Carhart'' case on February 21, 2006,<ref>[http://supreme.lp.findlaw.com/supreme_court/docket/2006/november/05-380-gonzales-v-carhart.html Supreme Court Docket, ''Gonzales v. Carhart'' (No. 05-380)], providing copies of briefs, courtesy of Findlaw.com. </ref> and agreed to hear the companion ''Planned Parenthood'' case on June 19, 2006. <ref>[http://supreme.lp.findlaw.com/supreme_court/docket/2006/november/05-1382-gonzales-v-planned-parenthood.html Supreme Court Docket, ''Gonzales v. Planned Parenthood'' (No. 05-1382)], providing copies of briefs, courtesy of Findlaw.com. </ref> . 
+
+On April 18, 2007 the [[Supreme Court of the United States|Supreme Court]] in a 5-4 decision, ''[[Gonzales v. Carhart]]'', held that the statute does not violate the Constitution. Justice [[Anthony Kennedy]] wrote for the majority which included Justices [[Samuel Alito]], [[Clarence Thomas]], [[Antonin Scalia]], and Chief Justice [[John G. Roberts|John Roberts]]. Justice [[Ruth Bader Ginsburg]] wrote the dissent which was joined by [[Stephen Breyer]], [[David Souter]], and [[John Paul Stevens]]. <ref>[http://news.yahoo.com/s/ap/20070418/ap_on_go_su_co/scotus_abortion_9 Yahoo! News], 2007-04-18. </ref> Kennedy's majority opinion argued that the case differed from ''Stenberg v. Carhart'', a 2000 case in which the Supreme Court struck down a state ban on "partial-birth abortion" as unconstitutional, in that the Partial Birth Abortion Act defined the banned procedure more clearly. In dissent, Ginsburg argued that the decision departed from established abortion jurisprudence, and that lack of a health exception "jeopardizes women’s health and places doctors in an untenable position." The replacement of O'Connor by Alito was identified as a key difference between the 5-4 decision against the Nebraska law in ''Stenberg'' and the 5-4 support for the abortion ban in ''Gonzalez''. <ref name="nyt-greenhouse">{{cite news | title = Justices Back Ban on Method of Abortion | first = Linda | last = Greenhouse | work = [[New York Times]] | url = http://www.nytimes.com/2007/04/19/washington/19scotus.html | date = April 19, 2007 | accessdate = August 27, 2009}}</ref> . 
+
+==Public opinion==. 
+{{see also|Abortion in the United States#Public opinion|l1=U.S. Polls on Abortion}} . 
+
+A [[Rasmussen Reports]] poll 4 days after the court's decision found that 40% of respondents "knew the ruling allowed states to place some restrictions on specific abortion procedures." Of those who knew of the decision, 56% agreed with the decision and 32% were opposed. <ref>[http://www.rasmussenreports.com/2007/April%20Dailies/partialBirthAbortion.htm Most Who Know of Decision Agree With Supreme Court on Partial Birth Abortion] ''Rasmussen Reports''. April 22, 2007. Retrieved on April 26, 2007</ref> An ABC poll from 2003 found that 62% of respondents thought "partial-birth abortion" should be illegal; a similar number of respondents wanted an exception "if it would prevent a serious threat to the woman's health." Additional polls from 2003 found between 47&ndash;70% in favor of banning partial-birth abortions and between 25&ndash;40% opposed. <ref>[http://www.pollingreport.com/abortion.htm Abortion and Birth Control]. ''PollingReports.com'' Retrieved April 26, 2007</ref> . 
+
+==Effect==. 
+A 2007 article in [[The Boston Globe]] reported that, in response to this statute, many abortion providers had adopted the practice of [[Feticide#Use during legal abortion|injecting the fetus with lethal drugs]] before all late-term abortions.  Typically, a concentrated salt solution is injected directly into the fetal heart using ultrasound to guide the needle.  Even though these providers do not perform intact dilation and extraction procedures, they feel the broad wording of the ban compels them "to do all they can to protect themselves and their staff from the possibility of being accused."<ref>{{cite news |last=Goldberg |first=Carey |title=Shots assist in aborting fetuses |publisher=The Boston Globe |date=2007-08-10 |url=http://www.boston.com/yourlife/health/women/articles/2007/08/10/shots_assist_in_aborting_fetuses/?page=1 |accessdate=2007-09-16 }}</ref> . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+* [http://www.religioustolerance.org/abo_pba.htm ReligiousTolerance.org: D&X Procedure (aka Partial Birth Abortion) - All sides]
+* [http://usliberals.about.com/od/healthcare/i/PBAbortion.htm About.com's Pros & Cons of Partial Birth Abortion]
+* [http://www.nrlc.org/abortion/pba/index.html NRLC archive on the partial-birth abortion issue from 1995 to date.]
+* American Right To Life's [http://www.americanrtl.org/pba list of dozens of anti-abortion leaders who condemned the PBA "ban" as a scam.]
+* Gina Gonzales as told to Barry Yeoman, [http://www.barryyeoman.com/articles/gina.html "I Had An Abortion When I Was Six Months Pregnant,"] Glamour . 
+
+{{Social Policy in the United States|state=autocollapse}}
+{{Abortion}} . 
+
+[[Category:2003 in law]]
+[[Category:United States federal abortion legislation]]
+[[Category:108th United States Congress]]
+[[Category:Legal articles without infoboxes]]
+[[Category:Pro-life movement]]

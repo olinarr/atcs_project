@@ -1,0 +1,807 @@
+{{Infobox pipeline
+| name        = Keystone Pipeline<br/>(Finished Phase 1)<ref name="system-doc">[http://www.transcanada.com/docs/Key_Projects/keystone.pdf Keystone Pipeline System; TransCanada; February 2011.]</ref>
+| type        = [[Crude oil]]
+| photo       =
+| caption     =
+| map         =
+| map_caption = Location of Keystone Pipeline
+| country     = [[Canada]]<br>[[United States]]
+| state       =
+| province    =
+| coordinates =
+| lat         =
+| long        =
+| direction   = 
+| start       = [[Hardisty, Alberta]]
+| through     = [[Regina, Saskatchewan]]<br/>[[Steele City, Nebraska]]
+| finish      = [[Wood River, Illinois]]<br/>[[Patoka, Illinois]] (end)
+| par         =
+| owner       = [[TransCanada Corporation|TransCanada]]
+| partners    =
+| operator    =
+| technical_service_provider=
+| contractors =
+| construction= 2008
+| expected    =
+| est         = June 2010
+| decom       =
+| length_km   = 3456
+| discharge   =
+| discharge_bbl_d= 0.59
+| diameter_in = 30
+| pumping_stations_no=39
+| pumping_stations=
+}}
+{{Infobox pipeline
+| name        = Cushing Extension<br/>(Finished Phase 2)<ref name="system-doc" />
+| type        = [[Crude oil]] 
+| photo       =
+| caption     =
+| map         =
+| map_caption = Location of Keystone Pipeline
+| country     = [[United States]]
+| state       =
+| province    =
+| coordinates =
+| lat         =
+| long        =
+| direction   = 
+| start       = [[Steele City, Nebraska]]
+| through     = 
+| finish      = [[Cushing, Oklahoma]]
+| par         =
+| owner       = 
+| partners    =
+| operator    =
+| technical_service_provider=
+| contractors =
+| construction= 
+| expected    =
+| est         = February 2011
+| decom       =
+| length_km   = 480
+| discharge   =
+| discharge_bbl_d= 
+| diameter_in = 36
+| pumping_stations_no=4
+| pumping_stations=
+}}
+{{Infobox pipeline
+| name        = Gulf Coast Expansion (XL)<br/>(Proposed Phase 3) <ref name="system-doc" />
+| type        = [[Crude oil]] 
+| photo       =
+| caption     =
+| map         =
+| country     = [[United States]]
+| state       =
+| province    =
+| coordinates =
+| lat         =
+| long        =
+| direction   = 
+| start       = [[Cushing, Oklahoma]]
+| through     = 
+| finish      = [[Port Arthur, Texas]]<br>[[Houston, Texas]]
+| par         =
+| owner       = 
+| partners    =
+| operator    =
+| technical_service_provider=
+| contractors =
+| construction=
+| expected    = Unknown
+| est         =
+| decom       =
+| length_km   = 700
+| discharge   =
+| discharge_bbl_d=
+| diameter_in = 36
+| pumping_stations_no=
+| pumping_stations=
+}}
+{{Infobox pipeline
+| name        = Steele City Expansion (XL)<br/>(Proposed Phase 4)<ref name="system-doc" />
+| type        = [[Crude oil]] 
+| photo       =
+| caption     =
+| map         =
+| country     = [[Canada]]<br/>[[United States]]
+| state       =
+| province    =
+| coordinates =
+| lat         =
+| long        =
+| direction   = 
+| start       = [[Hardisty, Alberta]]
+| through     = [[Baker, Montana]]
+| finish      = [[Steele City, Nebraska]]
+| par         =
+| owner       = 
+| partners    =
+| operator    =
+| technical_service_provider=
+| contractors =
+| construction=
+| expected    = Unknown
+| est         =
+| decom       =
+| length_km   = 526
+| discharge   =
+| discharge_bbl_d=
+| diameter_in = 36
+| pumping_stations_no=
+| pumping_stations=
+}} . 
+
+The '''Keystone Pipeline System''' is a [[Pipeline transport|pipeline]] system to transport [[synthetic crude oil]] and diluted [[bitumen]] ("[[dilbit]]") from the [[Athabasca Oil Sands]] in northeastern [[Alberta]], [[Canada]] to multiple destinations in the [[United States]], which include refineries in [[Illinois]], the Cushing oil distribution hub in [[Oklahoma]], and proposed connections to refineries and export terminals<ref name="ILR Cornell Study" /><ref name="NYTKeystoneXL" >{{cite news|title=Keystone XL Pipeline |date=28 February 2012 |publisher=New York Times |http=http://topics.nytimes.com/top/reference/timestopics/subjects/k/keystone_pipeline/index.html}}</ref> along the [[Gulf Coast of the United States|Gulf Coast]] of [[Texas]].  It consists of the operational "Keystone Pipeline" (Phase 1) and "Keystone-Cushing Extension" (Phase 2), and two proposed Keystone XL pipeline expansion segments.  After the Keystone XL pipeline segments are completed, American crude oil would enter the XL pipelines at [[Baker, Montana]] and [[Cushing, Oklahoma]]. <ref name="system-doc" /> . 
+
+The Keystone XL has faced [[lawsuit]]s from [[oil refinery|oil refineries]] and criticism from [[environmentalist]]s and some members of the [[United States Congress]].  The [[U.S. Department of State]] in 2010 extended the deadline for [[federal agencies]] to decide if the pipeline is in the [[national interest]], and in November, 2011, [[Presidency of Barack Obama|President Obama]] postponed the decision until 2013.  . 
+
+==History==. 
+===Keystone Pipeline===. 
+[[TransCanada Corporation]] proposed the project  on February 9, 2005. In October 2007, the [[Communications, Energy and Paperworkers Union of Canada]] asked the Canadian federal government to block regulatory approvals for the pipeline, with union president Dave Coles stating that 'the Keystone pipeline will exclusively serve US markets, create permanent employment for very few Canadians, reduce our energy security, and hinder investment and job creation in the Canadian energy sector'. <ref>
+{{cite news
+ | title= Union calls on Ottawa to block Keystone
+ | url= http://www.upstreamonline.com/live/article142842.ece
+ | date= 2007-10-24
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | accessdate= 2010-07-22
+ | id = {{subscription required}}}}
+</ref>  However, the [[National Energy Board]] of Canada approved the construction of the Canadian section of the pipeline, including converting a portion of TransCanada's Canadian Mainline gas pipeline to crude oil pipeline, on September 21, 2007. <ref name=downstream5>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=6118
+ | title = TransCanada: Keystone Construction to Start Early Next Year
+ | work = [[TransCanada Corporation]]
+ | publisher = Downstream Today
+ | date = 2007-09-21
+ | accessdate = 2008-07-18}}
+</ref>  On March 17, 2008, the U.S. Department of State issued a Presidential Permit authorizing the construction, maintenance and operation of facilities at the United States and Canada border. <ref name=downstream7>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=9385
+ | title = State Dept. Grants Keystone Permit; Work To Start In Q2
+ | work = [[TransCanada Corporation]]
+ | publisher = Downstream Today
+ | date = 2008-03-17
+ | accessdate = 2008-07-18}}
+</ref> . 
+
+On January 22, 2008, [[ConocoPhillips]] acquired a 50% stake in the project. <ref name=downstream6>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=8220
+ | title = ConocoPhillips Acquires 50% Stake in Keystone
+ | work = [[ConocoPhillips]]
+ | publisher = Downstream Today
+ | date = 2008-01-22
+ | accessdate = 2008-07-18}}
+</ref>  However, on June 17, 2009, TransCanada agreed that they would buy out ConocoPhillips' share in the project and revert to being the sole owner. <ref name="transcanada-keystone"/>  It took TransCanada more than two years to acquire all the necessary state and federal permits for the pipeline. Construction took another two years. <ref name=edmontonjournal.com20100608>
+{{cite news
+ | url = http://www.edmontonjournal.com/business/TransCanada+Keystone+pipeline+ready+flow+market+there/3126407/story.html
+ | title = TransCanada's Keystone pipeline ready for flow, but is the market there?
+ | newspaper = St. Louis Post-Dispatch
+ | publisher = MCT
+ | first = Phillip | last = O'Connor
+ | date = 2010-06-08
+ | accessdate = 2011-02-23}}
+</ref> The pipeline became operational in June 2010. <ref name=downstream090610>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=22938
+ | title = Oil Flows Through Keystone
+ | newspaper = St. Joseph News-Press
+ | publisher = Downstream Today
+ | first = Ken | last = Newton
+ | date = 2010-06-09
+ | accessdate = 2010-08-01}}
+</ref> . 
+
+===Keystone XL===. 
+The Keystone XL extension was proposed in 2008. <ref name=downstream4>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=11336
+ | title = TransCanada Proposes Second Oil Pipeline
+ | newspaper = Lincoln Journal-Star
+ | publisher = Downstream Today
+ | first = Art | last = Hovey
+ | date = 2008-06-12
+ | accessdate = 2008-07-18}}
+</ref>  The application was filed in the beginning of 2009 and the National Energy Board of Canada started hearings in September 2009. <ref name=downstream130509>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=16359
+ | title = NEB Sets Keystone XL Hearing
+ | work = National Energy Board
+ | publisher = Downstream Today
+ | date = 2009-05-13
+ | accessdate = 2010-08-01}}
+</ref>  On March 11, 2010 the Canadian National Energy Board approved the project. <ref name="ILR Cornell Study">
+{{cite report
+ |url= http://www.ilr.cornell.edu/globallaborinstitute/research/upload/GLI_KeystoneXL_Reportpdf.pdf
+ |title= Pipe dreams? Jobs Gained, Jobs Lost by the Construction of Keystone XL
+ |publisher= [[Cornell University School of Industrial and Labor Relations|ILR School Global Labor Institute]]
+ |format = PDF
+ |year = 2011 | month = September
+ |accessdate=2011-10-12}}
+</ref><ref name="NYTKeystoneXL" >
+{{cite news
+ |title=Keystone XL Pipeline
+ |date=28 February 2012
+ |newspaper = [[The New York Times]]
+ |http=http://topics.nytimes.com/top/reference/timestopics/subjects/k/keystone_pipeline/index.html
+ |accessdate=March 26, 2012}}
+</ref><ref name=downstream110310>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=21604
+ | title = NEB Okays Keystone XL
+ | work = National Energy Board
+ | publisher = Downstream Today
+ | date = 2010-03-11
+ | accessdate = 2010-08-01}}
+</ref>  The [[South Dakota Public Utilities Commission]] granted a permit on February 19, 2010. <ref name=downstream190210>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=21202
+ | title = Keystone XL Clears Hurdle In South Dakota
+ | work = South Dakota Public Utilities Commission
+ | publisher = Downstream Today
+ | date = 2010-02-19
+ | accessdate = 2010-08-01}}
+</ref>   . 
+
+On July 21, 2010, the [[Environmental Protection Agency]] said the draft environmental impact study for Keystone XL was inadequate and should be revised, indicating that the State Department's original report was "unduly narrow" because it did not fully look at oil spill response plans, safety issues and [[greenhouse gas]] concerns. <ref name="abcnews-11219127">
+{{cite news
+ | title= EPA: Keystone XL impact statement needs revising
+ | url= http://abcnews.go.com/Business/wireStory?id=11219127
+ | date= 2010-07-21
+ | first = Maria | last = Sudekum Fisher
+ | agency = [[Associated Press]]
+ | accessdate = 2011-04-27}}
+</ref><ref name=downstream210710>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=23434
+ | title = EPA Calls for Further Study of Keystone XL
+ | agency = [[Dow Jones Newswires]]
+ | first = Edward | last = Welsch
+ | publisher = Downstream Today
+ | date = 2010-07-21
+ | accessdate = 2010-08-01}}
+</ref><ref name=mcclatchydc.com20110213>
+{{cite news
+ | url = http://www.mcclatchydc.com/2011/02/13/108558/canada-pipeline-deal-too-costly.html
+ | title = Oil pipeline from Canada stirring anger in U.S. Great Plains
+ | newspaper = [[McClatchy Newspapers]]
+ | first1 = David | last1 = Goldstein
+ | publisher = McClatchy Washington Bureau
+ | date = 2011-02-13
+ | accessdate = 2011-02-15}}
+</ref>  The final environmental impact report was released on August 26, 2011. It stated that the pipeline would pose "no significant impacts" to most resources if environmental protection measures are followed, but it would present "significant adverse effects to certain cultural resources". <ref name=downstream260811>
+{{cite news
+ | url = http://downstreamtoday.com/news/article.aspx?a_id=27703
+ | title = Keystone Poses 'No Significant Impacts' to Most Resources Along Path - US
+ | agency = [[Dow Jones Newswires]]
+ | publisher = Downstream Today
+ | first1 = Tennille | last1 = Tracy
+ | first2 = Edward | last2 = Welsch
+ | date = 2011-08-26
+ | accessdate = 2011-08-27}}
+</ref>  In September, 2011, [[Cornell University School of Industrial and Labor Relations|Cornell ILR Global Labor Institute]] released the results of the GLI KeystoneXL Report which evaluated the pipeline's impact on employment, the environment, energy independence, the economy, and other critical areas. <ref name="ILR Cornell Study">
+{{cite journal
+ |url= http://www.ilr.cornell.edu/globallaborinstitute/research/upload/GLI_KeystoneXL_Reportpdf.pdf
+ |title= Pipe dreams? Jobs Gained, Jobs Lost by the Construction of Keystone XL
+ |publisher= [[Cornell University School of Industrial and Labor Relations|ILR School Global Labor Institute]]
+ |format = PDF
+ |year = 2011 | month = September
+ |accessdate=2011-10-12}}
+</ref> In the summer and fall of 2011, [[#2011 protests and postponement|protests]] brought the challenge to the [[White House]], leading ultimately to the President's November, 2011 postponement of the decision until 2013.  . 
+
+On November 10, 2011, TransCanada stated they have spoken with the U.S. Department of State and will have conversations to discuss next steps. TransCanada pointed out fourteen different routes for Keystone XL were being studied, eight that impacted Nebraska. They included one potential alternative route in Nebraska that would have avoided the entire Sandhills region and Ogallala aquifer and six alternatives that would have reduced pipeline mileage crossing the Sandhills or the aquifer. <ref name='TransCanada-5893'>
+{{cite press release
+ | url = http://www.transcanada.com/5893.html
+ | title = TransCanada to Work with Department of State on New Keystone XL Route Options
+ | publisher = TransCanada
+ | date = 2011-11-10
+ | accessdate = 2011-11-26}}
+</ref><ref>
+{{cite press release
+ | url = http://www.transcanada.com/5896.html
+ | title = Media Advisory - State of Nebraska to Play Major Role in Defining New Keystone XL Route Away From the Sandhills
+ | publisher = TransCanada
+ | date = 2011-11-14
+ | accessdate = 2011-11-26}}
+</ref>  On November 22, 2011, the governor of Nebraska signed two bills that enacted a compromise agreed upon with the pipeline builder to move the route, and approved up to US$2&nbsp;million in state funding for an environmental study. <ref>
+{{cite news
+ | url = http://www.reuters.com/article/2011/11/22/us-oil-pipeline-nebraska-idUSTRE7AL1M120111122
+ | title = Nebraska governor signs bills to reroute Keystone pipeline
+ | first = Michael | last = Avok
+ | agency = Reuters
+ | date = 2011-11-22
+ | accessdate = 2011-11-30}}
+</ref>   . 
+
+On November 30, 2011, a group of leading Republican senators introduced legislation aimed at forcing the Obama administration to make a decision on the Keystone XL pipeline within 60&nbsp;days. <ref name=ap301111> 
+{{cite news
+| url = http://www.deseretnews.com/article/700202839/GOP-bill-would-force-action-on-Canada-oil-pipeline.html
+| title = GOP bill would force action on Canada oil pipeline
+| first = Matthew | last = Daly
+| agency = [[Associated Press]]
+| newspaper = [[Deseret News]]
+| date = 2011-11-30
+| accessdate = 2012-01-19}}
+</ref>  On December 13, 2011, the Republicans attached this provision on a bill that also would extend the payroll tax cut set to expire at the end of the year, despite Obama threatening to veto it. <ref name=ap301111>
+{{cite news
+ | url = http://www.deseretnews.com/article/700202839/GOP-bill-would-force-action-on-Canada-oil-pipeline.html
+ | title = GOP bill would force action on Canada oil pipeline
+ | first = Matthew | last = Daly
+ | agency = [[Associated Press]]
+ | newspaper = [[Deseret News]]
+ | date = 2011-11-30
+ | accessdate = 2012-01-19}}
+</ref><ref name=cnn1412>
+{{cite news
+ | url = http://edition.cnn.com/2011/12/13/politics/congress-pipeline-politics/index.html
+ | title = Keystone pipeline a tough decision for Obama
+ | first = Tom | last = Cohen
+ | agency = [[CNN]]
+ | date = 2011-12-14
+ | accessdate = 2011-12-34}}
+</ref> . 
+
+In December 2011, Congress voted to give the Obama Administration a 60-day deadline to make a decision on TransCanada's application for the construction of the Keystone XL Pipeline. <ref name=Montopoli>{{cite news |title=Obama denies Keystone XL pipeline permit |author=Brian Montopoli |url=http://www.cbsnews.com/8301-503544_162-57361324-503544/obama-denies-keystone-xl-pipeline-permit/?tag=stack |work=CBS News |date=January 18, 2012 |accessdate=January 20, 2012}}</ref>  On January 18, 2012, President Obama confirmed his rejection of the application stating that the deadline for the decision had "prevented a full assessment of the pipeline's impact". <ref name=Goldenberg>{{cite news |title=Keystone XL pipeline: Obama rejects controversial project |author=Suzanne Goldenberg |url=http://www.guardian.co.uk/environment/2012/jan/18/obama-administration-rejects-keystone-xl-pipeline?newsfeed=true |work=The Guardian (UK) |date=January 18, 2012 |accessdate= January 20, 2012 |location=London}}</ref>  Legislation proposed by congressman [[Lee Terry]] would place the [[Federal Energy Regulatory Commission]] in authority over the pipeline and require the commission to approve a permit for construction within 30 days of receiving a new application if the project is deemed safe. Following the rejection, a hearing by the House Energy and Commerce Committee's energy and power subcommittee was planned for January 25. <ref>{{cite news |title=Republicans Look for Keystone XL Alternatives |author=Jim Snyder |url=http://www.bloomberg.com/news/2012-01-20/republicans-look-for-alternatives-after-keystone-xl-rejected.html |work=Bloomberg  |date=January 20, 2012 |accessdate=January 20, 2012}}</ref><ref>{{cite news |title=Lawmakers seek to undo pipeline denial |author=Puneet Kollipara |url=http://www.chron.com/business/article/Lawmakers-seek-to-undo-pipeline-denial-2642901.php |work=Houston Chronicle |date=January 19, 2012 |accessdate=20 January 2012}}</ref> . 
+
+==Route==. 
+===Phase 1===. 
+The {{convert|3456|km|mi}} long pipeline runs from [[Hardisty, Alberta|Hardisty]], [[Alberta]] to the United States refineries in [[Wood River, Illinois]] and [[Patoka, Illinois]]. <ref name=upstream1>
+{{cite news
+ | url = http://www.upstreamonline.com/live/article150750.ece
+ | title = Canada-US link gets green light
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | date = 2008-03-14
+ | accessdate = 2008-03-14
+ | id = {{subscription required}}}}
+</ref>  The Canadian section involves approximately {{convert|864|km}} of pipeline converted from the Canadian Mainline natural gas pipeline and {{convert|373|km}} of new pipeline, pump stations and terminal facilities at Hardisty, Alberta. The United States section is {{convert|2219|km}} long. <ref name=downstream3>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=6776
+ | title = TransCanada: Keystone Construction to Begin in Spring
+ | work = TransCanada Corporation
+ | publisher = Downstream Today
+ | date = 2007-10-30
+ | accessdate = 2008-07-18}}
+</ref>  It runs through [[Buchanan County, Missouri|Buchanan]], [[Clinton County, Missouri|Clinton]] and [[Caldwell County, Missouri|Caldwell]] counties in [[Missouri]], and [[Nemaha County, Kansas|Nemaha]], [[Brown County, Kansas|Brown]] and [[Doniphan County, Kansas|Doniphan]] counties in [[Kansas]]. <ref name=downstream090610/>  Phase 1 went online in June 2010.  . 
+
+===Phase 2===. 
+From [[Steele City, Nebraska]], the {{convert|291|mi|km}} Keystone-Cushing pipeline was routed through Kansas to the oil hub and tank farm in [[Cushing, Oklahoma]] in 2010 and went online in February 2011. <ref name="system-doc" /> . 
+
+===Phase 3===. 
+This phase, known as '''Cushing MarketLink''', is part of the Keystone XL pipeline.  This proposed phase would start from [[Cushing, Oklahoma]] where domestic oil would be added to the pipeline, then it would expand {{convert|435|mi|km}} to a delivery point near terminals in [[Nederland, Texas]] to serve the [[Port Arthur, Texas]] marketplace. <ref name="system-doc" />  Also proposed is an approximate {{convert|47|mi|km}} previous pipeline to transport crude oil from the pipeline in [[Liberty County, Texas]] to the [[Houston, Texas]] area. <ref name="system-doc" /><ref>
+{{cite news
+ | url = http://www.canada.com/vancouversun/news/business/story.html?id=6511d14c-939b-45dc-a1cf-68dac22afbf3
+ | title = TransCanada's quarterly profit rises to $390 million
+ | work = [[Canada.com]]
+ | publisher = CanWest MediaWorks Publications Inc. 
+ | date = 2008-10-29
+ | accessdate = 2011-11-26}}
+</ref> . 
+
+Domestic oil producers in the USA are pushing for this phase so the glut of oil can be distributed out of the large oil tank farms and distribution center in [[Cushing, Oklahoma]].  On November 16, 2011, [[Enbridge]] announced it is buying ConocoPhillips' 50% interest in the Seaway pipeline that flows from the Gulf of Mexico to the Cushing hub. In cooperation with [[Enterprise Products|Enterprise Products Partners LP]] it plans to reverse the Seaway pipeline so that an oversupply of oil at Cushing could reach the Gulf. <ref name=bloomberg161111>
+{{cite news
+ | url = http://www.bloomberg.com/news/2011-11-16/conocophillips-sells-seaway-colonial-stakes-for-2-billion.html
+ | title = Enbridge Plans to Reverse Pipe Between Cushing and Houston
+ | first1 = Mike | last1 = Lee
+ | first2 = Edward | last2 = Klump
+ | agency = [[Bloomberg L.P.|Bloomberg]]
+ | date = 2011-11-16
+ | accessdate = 2011-11-26}}
+</ref>  This project will replace the earlier proposed alternative Wrangler pipeline project from Cushing to the Gulf Coast. <ref name=bloomberg161111/><ref name=bloomberg290911>
+{{cite news
+ | url = http://www.businessweek.com/news/2011-09-29/enterprise-enbridge-propose-keystone-pipeline-alternative.html
+ | title = Enterprise, Enbridge Propose Keystone Pipeline Alternative
+ | first1 = Mike | last1 = Lee
+ | first2 = Bradley | last2 = Olson
+ | work = [[Bloomberg Businessweek]]
+ | agency = [[Bloomberg L.P.|Bloomberg]]
+ | date = 2011-09-29
+ | accessdate = 2011-11-26}}
+</ref>  However, according to industries, the Seaway line alone is not enough for oil transportation to the Gulf Coast. <ref name=wsj181111>
+{{cite news
+ | url = http://online.wsj.com/article/SB10001424052970203699404577046270455388032.html
+ | title = More Pipelines Needed to Follow Seaway's Path 
+ | first1 = Ben| last1 = Lefebvre
+ | newspaper = [[The Wall Street Journal]]
+ | date = 2011-11-18
+ | accessdate = 2011-11-26
+ | id = {{required subscription}}}}
+</ref> . 
+
+===Phase 4===. 
+This phase is part of the Keystone XL pipeline and would start from the same area in Alberta, Canada as the main pipeline. <ref name=downstream4/>  The Canadian section would consist of {{convert|526|km}} of new pipeline. <ref name=downstream110310/>  It would enter the United States at Morgan, Montana and travel through [[Baker, Montana]] where domestic oil would be added to the pipeline, then it would travel through South Dakota and Nebraska, where it would join the existing Keystone pipelines at [[Steele City, Nebraska]]. <ref name="system-doc" />  This phase has generated the greatest controversy because of its routing over the top of the [[Ogallala Aquifer]] in Nebraska. <ref name=gm241211>
+{{cite news
+ | url = http://www.theglobeandmail.com/globe-investor/the-politics-of-pipe-keystones-troubled-route/article2282805/singlepage/#articlecontent
+ | title = The politics of pipe: Keystone's troubled route 
+ | first = Nathan | last = VanderKlippe
+ | newspaper  = [[The Globe and Mail]]
+ | date = 2011-12-24
+ | accessdate = 2012-12-09
+ | location=Toronto}}
+</ref><ref name=USDS_Keystone2011_11_10/><ref name=Ecoregions/>
+[[File:Truck Hauling 36-inch Pipe To Build Keystone XL Pipeline.jpg|500px|thumb|left|Truck hauling 36-Inch pipe to build Keystone-Cushing Pipeline (Phase 2) south-east of [[Peabody, Kansas]], 2010]]
+{{clear}} . 
+
+==Description==. 
+The initial capacity of Keystone Pipeline is {{convert|435000|oilbbl/d}} which will be increased up to {{convert|590000|oilbbl/d}}. <ref name="U.S. delays decision on Keystone XL">
+{{cite news
+ | url = http://www.calgaryherald.com/business/delays+decision+Keystone/3327111/story.html
+ | title = U.S. delays decision on Keystone XL
+ | newspaper = [[The Calgary Herald]]
+ | first = Dina | last = O'Meara
+ | date = 2010-07-27
+ | accessdate = 2010-07-27}}
+</ref>  The diameter of the pipeline is {{convert|36|in|mm. |-1}}. <ref name=downstream2/>  It will have a minimum ground cover of {{convert|4|ft}}. <ref name=downstream4/>  The Keystone XL will add {{convert|510000|oilbbl/d}} increasing the total capacity up to {{convert|1.1|Moilbbl/d}}. <ref name="U.S. delays decision on Keystone XL"/><ref name=downstream2/> . 
+
+The original Keystone Pipeline cost US$5.2&nbsp;billion with the Keystone XL expansion slated to cost approximately US$7&nbsp;billion.  The Keystone XL is expected to be completed by 2012–2013. <ref name=downstream2/> . 
+
+==Partnership==. 
+The project was originally developed as a partnership between TransCanada and ConocoPhillips. Certain parties who have agreed to make volume commitments to the Keystone expansion have an option to acquire up to a combined 15% equity ownership. <ref name=downstream2>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=11890
+ | title = TransCanada, ConocoPhillips To Expand Keystone To Gulf Coast
+ | work = TransCanada
+ | publisher = Downstream Today
+ | date = 2008-07-16
+ | accessdate = 2008-07-18}}
+</ref>  One of such companies is [[Valero Energy Corporation]]. <ref name=downstream1>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=11910
+ | title = Valero: Prospective Keystone Shipper
+ | work = Valero Energy
+ | publisher = Downstream Today
+ | date = 2008-07-16
+ | accessdate = 2008-07-18}}
+</ref>
+On August 12, 2009, however, TransCanada received regulatory approval to purchase ConocoPhillips' interest in the project and is now the sole owner of the Keystone Pipeline System. <ref name="transcanada-keystone">{{cite web |title= Keystone Pipeline System |url= http://www.transcanada.com/keystone/ |publisher= TransCanada Corp.|accessdate=8 September 2009}}</ref> . 
+
+==Lawsuits==. 
+In September 2009, independent refiner CVR sued TransCanada for Keystone Pipeline tolls seeking $250&nbsp;million damage compensation or release from transportation agreements. CVR alleged that the final tolls for the Canadian segment of the pipeline were 146% higher than initially presented, while the tolls for the US segment were 92% higher. <ref name=oildaily>
+{{cite news
+ | title= Independent refiner CVR sues TransCanada's Keystone Pipeline
+ | url= http://www.allbusiness.com/transportation/pipeline-transportation-oil-gas/13114806-1.html
+ | date= 2009-09-18
+ | work = The Oil Daily
+ | first = Barbara | last = Shook
+ | publisher= AllBusiness.com, Inc
+ | accessdate= 2010-08-01}}
+</ref>  In April 2010, three smaller refineries sued TransCanada to break Keystone transportation contracts, saying the new pipeline has been beset with cost overruns. <ref name = "theglobeandmail-1548807"/> . 
+
+In October 2009, a suit was filed by the [[Natural Resources Defense Council]] that challenged the pipeline on the grounds that its permit was based on a deficient environmental impact statement. The suit was thrown out by a federal judge on procedural grounds, ruling that the NRDC lacked the authority to bring it. <ref>
+{{cite news
+ | title= NRDC's Suit to Block Canada-US Oil Pipeline Thrown Out
+ | url= http://www.heatingoil.com/blog/nrdcs-suit-to-block-canada-us-oil-pipeline-thrown-out102/
+ | date= 2009-10-02
+ | agency = [[Associated Press]]
+ |accessdate= 2010-07-22}}
+</ref> . 
+
+==Keystone XL controversies==. 
+===Environmental issues===. 
+{{See also|Environmental risks of the Keystone XL pipeline}}
+Some environmental groups, citizens, and politicians have raised concerns about the potential impacts of the Keystone XL extension. <ref>
+{{cite web
+|publisher=Natural Resource Defense Council
+|title=Tar Sands and Safety Risk
+|url=http://www.nrdc.org/energy/tarsandssafetyrisks.asp
+|accessdate=22 November 2011}}
+</ref><ref>
+{{cite web
+|publisher=[[Sierra Club]] Nebraska
+|title=XL Pipeline
+|url=http://sierranebraska.org/xl-pipeline/
+|accessdate=22 November 2011}}
+</ref><ref>
+{{cite press release
+|title= Gov. Heineman: Pipeline Re-Routing is Nebraska Common Sense
+|publisher=Office of Governor of Nebraska
+|url=http://www.governor.nebraska.gov/news/2011/11/15_pipline.html
+|date= 15 November 2011
+|accessdate=22 November 2011}}</ref>  One concern is that the pipeline could pollute air and water supplies and harm migratory birds and other wildlife. <ref name="abcnews-11219127"/>  Its original route crosses the [[Sandhills (Nebraska)|Sandhills]] in Nebraska, the large wetland ecosystem, and the Ogallala Aquifer, one of the largest reserves of [[fresh water]] in the world. <ref name>
+{{cite news
+ | title= World's Largest Aquifer Going Dry
+ | url= http://www.uswaternews.com/archives/arcsupply/6worllarg2.html
+ | year = 2006  | month = February
+ | work = U.S. Water News Online
+ | accessdate = 2010-12-30}}
+</ref><ref name=USDS_Keystone2011_11_10>
+{{cite report
+|url=http://www.state.gov/r/pa/prs/ps/2011/11/176964.htm
+|author=U.S.State Department
+|title=Media Notes on Keystone XL Pipeline Project Review Process: Decision to Seek Additional Information
+|publisher=
+|city=Washington, DC
+|date=November 10, 2011
+|accessdate=March 22, 2012}}
+</ref>  The Ogallala Aquifer spans eight states, provides [[drinking water]] for two million people, and supports $20 billion in agriculture. <ref name="thetyee-20100707">
+{{cite news |title= Ed Stelmach's Clumsy American Romance
+ | url= http://thetyee.ca/Opinion/2010/07/07/StelmachsClumsyRomance/
+ | date= 2010-07-07
+ | newspaper = The Tyee
+ | first = Mitchell | last= Anderson
+ | accessdate= 2010-07-22}}
+</ref>  A major leak could ruin drinking water and devastate the mid-western U.S. economy. <ref name="thetyee-20100621">
+{{cite news
+ | title= Gulf Disaster Raises Alarms about Alberta to Texas Pipeline
+ | url= http://thetyee.ca/News/2010/06/21/AlbertaToTexasPipeline/
+ | date= 2010-06-21
+ | newspaper = The Tyee
+ | first= Geoff | last= Dembicki
+ | accessdate=2010-07-22}}
+</ref><ref name=Ecoregions>
+{{cite report
+|url=http://www.kdheks.gov/befs/download/bibliography/ksne_ecoregions.pdf
+|format = PDF
+|title=Level IV Ecoregions of Kansas and Nebraska
+|year=2001
+|accessed=March 26, 2012
+}}</ref>   After opposition for laying the pipeline in this area, TransCanada agreed to change the route and skip the Sand Hills. <ref name=gm241211/> . 
+
+Portions of the pipeline will also cross an active [[seismic]] zone that had a 4.3 magnitude [[earthquake]] as recently as 2002. <ref name="thetyee-20100707"/>  Opponents claim that TransCanada applied to the U.S. government to use thinner steel and pump at higher pressures than normal. <ref name="thetyee-20100621"/> In October 2011, ''The New York Times'' questioned the impartiality of the environmental analysis of the pipeline done by [[Cardno Entrix]], an environmental contractor based in Houston. The study found that the pipeline would have`limited adverse environmental impacts, but was authored by a firm that had "previously worked on projects with TransCanada and describes the pipeline company as a 'major client' in its marketing materials." According to ''The New York Times'', legal experts questioned whether the US government was "flouting the intent" of the Federal [[National Environmental Policy Act]] which "[was] meant to ensure an impartial environmental analysis of major projects."<ref name = "Question of Conflict">
+{{cite news 
+|url= http://www.nytimes.com/2011/10/08/science/earth/08pipeline.html?_r=1
+|title=Pipeline Review Is Faced With Question of Conflict
+|author=News
+|newspaper=The New York Times
+|date=2011-10-07
+|publisher=New York Times Company
+|issn=0362-4331
+|accessdate=2011-10-31}}</ref>  The report prompted 14 senators and congressmen to ask the State Department inspector general on October 26, 2011 "to investigate whether conflicts of interest tainted the process" for reviewing environmental impact. <ref>[http://sanders.senate.gov/newsroom/news/?id=BD202829-66E3-4088-A108-289E6E445CE9 Tar Sands Pipeline Probe Urged] Sen. Bernie Sanders  October 26, 2011</ref> . 
+
+TransCanada CEO Russ  Girling has described the Keystone Pipeline as "routine," noting that TransCanada has been building similar pipelines in North America for half a century and that there are {{convert|200,000|mi}} of similar oil pipelines in the United States today. He also stated that the Keystone Pipeline will include 57&nbsp;improvements above standard requirements demanded by U.S. regulators so far, making it "the safest pipeline ever built."<ref name='cattaneo'/>  Rep. [[Ed Whitfield]], a member of the [[House Committee on Energy and Commerce]] concurred, saying "this is the most technologically advanced and safest pipeline ever proposed."<ref>[http://www.sunnewsnetwork.ca/sunnews/world/archives/2011/12/20111202-162023.html "Keystone XL the 'safest pipeline ever'"], ''[[Sun News Network]]'', 2 December 2011. </ref>  However, while TransCanada had asserted that a set of 57&nbsp;conditions will ensure Keystone XL's safe operation, Anthony Swift of the Natural Resources Defense Council asserted that all but a few of these conditions simply restate current minimum standards. <ref>
+{{cite news
+ |url= http://insideclimatenews.org/news/20110919/keystone-xl-pipeline-safety-regulations-phmsa-transcanada-oil-sands-bitumen
+ |title=Keystone XL Pipeline Safety Standards Not as Rigorous as They Seem
+ |first = Elizabeth |last = McGowan
+ |newspaper= InsideClimate News
+ |date=2011-09-19
+ |accessdate=2011-12-01}}
+</ref>  . 
+
+Some environmental groups, such as the [[Natural Resources Defense Council]] (NRDC), oppose the project due to usage of crude from oil sands and emissions of greenhouse gases. <ref>
+{{cite news
+|url= http://www.nytimes.com/2011/08/22/opinion/tar-sands-and-the-carbon-numbers.html
+|title=Tar Sands and the Carbon Numbers
+|newspaper=[[The New York Times]]
+|date=2011-08-21
+|publisher=New York Times Company
+|issn=0362-4331
+|accessdate=2011-08-25}}
+</ref>  In its March 2010 report, the NRDC stated that "the Keystone XL Pipeline undermines the U.S. commitment to a [[clean energy]] economy," instead "delivering dirty fuel at high costs". <ref name="nrdc-tsp4">
+{{cite news |title= Say No to Tar Sands Pipeline
+ | url= http://www.nrdc.org/land/files/TarSandsPipeline4pgr.pdf
+ | date= 2010-03-10
+ | publisher= NRDC
+ | format = PDF
+ | accessdate= 2010-07-22}}
+</ref>  On June 23, 2010, 50&nbsp;Democrats in Congress in their letter to Secretary of State [[Hillary Clinton]] warned that "building this pipeline has the potential to undermine America's clean energy future and international leadership on climate change."<ref>
+{{cite news
+ | url = http://switchboard.nrdc.org/blogs/sclefkowitz/house_members_say_proposed_tar_1.html
+ | title = House members say tar sands pipeline will undermine clean energy future
+ | publisher = NRDC
+ | first = Susan | last = Casey-Lefkowitz
+ | date = 2010-06-23
+ | accessdate = 2010-07-27}}
+</ref><ref name=downstream240610>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=23134
+ | title = Enviro Groups, 50 Congressmen Mobilize Against Keystone XL
+ | newspaper = The Commercial Appeal
+ | first = Bartholomew | last = Sullivan
+ | publisher = Downstream Today
+ | date = 2010-06-24
+ | accessdate = 2010-08-01}}
+</ref>  On July 6, 2010, [[House Energy and Commerce Committee]] chairman [[Henry Waxman]] urged the State Department to block Keystone XL, saying in a letter to the department that 'this pipeline is a multi-billion dollar investment to expand our reliance on the dirtiest source of transportation fuel currently available'. <ref>
+{{cite news
+ | url = http://www.reuters.com/article/idUSN0611124720100706
+ | title = Key US lawmaker opposes Canadian oil sands pipeline
+ | agency = Reuters
+ | first1 = Ayesha | last1 = Rascoe
+ | first2 = Scott | last2 = Haggett
+ | date = 2010-07-06
+ | accessdate = 2010-07-27}}
+</ref><ref name=downstream080710>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=23312
+ | title = Oil Sands Push Tests US-Canada Ties
+ | newspaper = [[The Wall Street Journal]]
+ | first1 = Phred | last1 = Dvorak
+ | first2 = Edward | last2 = Welsch
+ | publisher = Downstream Today
+ | date = 2010-07-08
+ | accessdate = 2010-08-01}}
+</ref>  In December, 2010, No Tar Sands Oil campaign, sponsored by action groups including Corporate Ethics International, NRDC, [[Sierra Club]], [[National Wildlife Federation]], [[Friends of the Earth]], [[Greenpeace]], and [[Rainforest Action Network]], was launched. <ref name=calgaryherald081210>
+{{cite news
+ | url = http://www.commondreams.org/headline/2010/12/08-6
+ | title = Pressure in U.S. mounts against oilsands pipeline
+ | first = Dina | last = O'Meara
+ | newspaper = [[The Calgary Herald]]
+ | date = 2010-12-08
+ | accessdate = 2012-01-20}}
+</ref>  These arguments were questioned by the ''[[National Post]]'' columnist [[Diane Francis]] who argues that opposition to the pipeline "makes no sense because emissions from the oil sands are a fraction of the emissions from coal and equivalent to California heavy crude oils or ethanol" and questioned why "None of these has been getting the same attention as the oil sands and this pipeline."<ref name=financialpost230911/>  In a speech to the Canadian Club in Toronto on September 23, 2011, [[Joe Oliver (politician)|Joe Oliver]], [[Minister of Natural Resources (Canada)|Canada's Minister of Natural Resources]], sharply criticized opponents of oil sands development and the pipeline, arguing that:
+*The total area that has been affected by surface mining represents only 0.1% of [[Boreal forest of Canada|Canada's boreal forest]]. 
+*The oil sands account for about 0.1% of global greenhouse-gas emissions. 
+*Electricity plants powered by coal in the U.S. generate almost 40 times more greenhouse-gas emissions than Canada's oil sands (the coal-fired electricity plants in the State of Wisconsin alone produce the equivalent of the entire GHG emissions of the oil sands). 
+*California bitumen is more GHG-intensive than the oil sands. 
+Oliver criticized opponents of the pipeline, stating that all of the above facts are ignored by "celebrity protestors."<ref>[http://www.nationalpost.com/news/NOTA+Bene/5452294/story.html NOTA Bene], National Post, September. 24, 2011. </ref> . 
+
+===Political issues===. 
+In February 2011, environmental journalist David Sassoon of Inside Climate News reported that [[Koch Industries]] were poised to be "big winners" from the pipeline. <ref>
+{{cite news
+ |url= http://www.reuters.com/article/2011/02/10/idUS292515702420110210
+ |title=Koch Brothers Positioned To Be Big Winners If Keystone XL Pipeline Is Approved
+ |first= David |last= Sassoon
+ |agency =Reuters
+ |date=2011-02-10
+ |accessdate=2011-08-25}}
+</ref> In May 2011, Congressmen [[Henry Waxman|Waxman]] and [[Bobby Rush|Rush]] wrote a letter to the [[United States House Committee on Energy and Commerce|Energy and Commerce Committee]] which cited the Reuters story, and which urged the Committee to request documents from Koch Industries which relate to the Keystone XL pipeline. <ref>
+{{cite web
+ |url= http://democrats.energycommerce.house.gov/index.php?q=news/reps-waxman-and-rush-urge-committee-to-request-documents-from-koch-industries-regarding-keyston
+ |title=Reps. Waxman and Rush Urge Committee to Request Documents from Koch Industries Regarding Keystone XL Pipeline
+ |publisher=Committee on Energy and Commerce Democrats
+ |first= Henry A. |last= Waxman
+ |first2= Bobby L. |last2=Rush
+ |date=2011-05-20
+ |accessdate=2011-08-25}}
+</ref><ref>
+{{cite web
+ |url= http://motherjones.com/blue-marble/2011/05/will-kochs-benefit-proposed-tar-sands-pipeline
+ |title=Waxman Targets the Koch Brothers
+ |first=Kate |last=Sheppard
+ |publisher=Mother Jones
+ |date= 2011-05-23
+ |accessdate=2011-08-25}}
+</ref> . 
+
+Landowners in the path of the pipeline have complained about threats by TransCanada to confiscate private land and lawsuits to allow the "pipeline on their property even though the controversial project has yet to receive federal approval."<ref name=nyt111017 /> As of 17 October 2011, TransCanada had "34 [[eminent domain]] actions against landowners in Texas" and "22 in South Dakota."  Some of those landowners gave testimony for a [[United States House Committee on Energy and Commerce|House Energy and Commerce Committee]] hearing in May 2011. <ref name=nyt111017>
+{{cite news
+ |url= http://www.nytimes.com/2011/10/18/us/transcanada-in-eminent-domain-fight-over-pipeline.html?pagewanted=all
+ |title= Eminent Domain Fight Has a Canadian Twist
+ |newspaper = [[The New York Times]]
+ |publisher=New York Times Company
+ |first1 = Leslie | last1 = Kaufman
+ |first2 = Dan | last2 = Frosch
+ |date = 2011-10-17
+ |accessdate=2011-10-31}}
+</ref> . 
+
+Commentator Bill Mann has linked the Keystone postponement to the Michigan Senate's rejection of Canadian funding for the proposed [[Detroit River International Crossing]] and to other recent instances of "U.S. government actions (and inactions) that show little concern about Canadian concerns". Mann drew attention to a ''[[Maclean's]]''' article sub-titled "we used to be friends"<ref>Mann, Bill, [http://www.marketwatch.com/story/americans-should-be-thankful-for-canada-2011-11-24 "Americans should be thankful for Canada"], ''[[MarketWatch]]'', November 24, 2011. Retrieved 2011-11-24. </ref> about U.S./Canada relations after President Obama had "insulted Canada (yet again)" over the pipeline. <ref>Savage, Luiza Ch., [http://www2.macleans.ca/2011/11/21/friends-like-these/ "The U.S. and Canada: we used to be friends"], ''[[Maclean's]]'', November 21, 2011 8:00 am. Retrieved 2011-11-24. </ref>  . 
+
+===Geopolitical issues===. 
+Proponents for the Keystone XL pipeline argue that it would allow the U.S. to increase its energy security and reduce its dependence on foreign oil. <ref>
+{{cite web
+ |url= http://energycommerce.house.gov/keystonexl.shtml
+ |title=U.S. House of Representatives, Committee on Energy and Commerce: The Keystone XL Pipeline
+ |publisher=U.S. House of Representatives Committee on Energy and Commerce
+ |accessdate=2012-01-10}}
+</ref><ref>
+{{cite news
+ |url= http://www.usatoday.com/news/opinion/editorials/story/2011-10-26/Keystone-oil-pipeline-build/50941230/1
+ |title=Say Yes To Building The Keystone Oil Pipeline
+ |first= Editorial
+ |agency =USA Today
+ |date=2011-10-26
+ |accessdate=2012-01-10}}
+</ref>
+An independent study conducted by the [[Cornell University School of Industrial and Labor Relations|Cornell ILR Global Labor Institute]] 
+reports that the crude oil routed to the Gulf Coast will end up being exported to Asia, and not contribute to energy independence or national security. <ref name="ILR Cornell Study">
+{{cite journal
+ |url= http://www.ilr.cornell.edu/globallaborinstitute/research/upload/GLI_KeystoneXL_Reportpdf.pdf
+ |title= Pipe dreams? Jobs Gained, Jobs Lost by the Construction of Keystone XL
+ |publisher= [[Cornell University School of Industrial and Labor Relations|ILR School Global Labor Institute]]
+ |format = PDF
+ |year = 2011 | month = September
+ |accessdate=2011-10-12}}
+</ref>  TransCanada CEO Russ Girling has argued that "the U.S. needs 10 million barrels a day of imported oil" and the debate over the proposed pipeline "is not a debate of oil versus alternative energy. This is a debate about whether you want to get your oil from Canada or Venezuela or Nigeria."<ref>{{cite news
+|url=http://www.financialpost.com/news/Keystone+exaggerated+rhetoric+untrue+Canada/5449012/story.html 
+|title=Keystone 'exaggerated rhetoric' untrue 
+|first=Yadullah |last=Hussein
+|newspaper= Financial Post
+|date=2011-09-23}}</ref>  Girling has also argued that if Canadian oil doesn't reach the Gulf through an environmentally friendly buried pipeline, that the alternative is oil that will be brought in by tanker, a mode of transportation that produces higher greenhouse-gas emissions and that puts the environment at greater risk. <ref name='cattaneo'>{{cite news 
+|url=http://www.financialpost.com/news/TransCanada+storm/5374290/story.html 
+|title=TransCanada in eye of the storm
+|first=Claudia |last=Cattaneo |newspaper=Financial Post |date=September 9, 2011}}
+</ref>  Diane Francis has argued that much of the opposition to the oil sands actually comes from foreign countries such as Nigeria, Venezuela, and Saudi Arabia, all of whom supply oil to the United States and who could be affected if the price of oil drops due to the new availability of oil from the pipeline. She cited as an example an effort by Saudi Arabia to stop pro-oil sands television commercials. <ref name=financialpost230911>[http://opinion.financialpost.com/2011/09/23/foreign-interests-attack-oil-sands/ Foreign interests attack oil sands] by Diane Francis, [[Financial Post]], September 23, 2011. </ref><ref>[http://www.nationalpost.com/news/Saudi+Ethical+Warfare/5433024/story.html Saudi oil's Ethical Warfare] by Claudia Cattaneo, National Post, September 21, 2011. </ref> . 
+
+TransCanada had said that development of oil sands will expand regardless of whether the crude oil is exported to the United States or alternatively to Asian markets through the [[Enbridge Northern Gateway Pipelines]] or the [[Kinder Morgan]]'s Trans-Mountain line. <ref name=downstream300610>{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=23197
+ | title = TransCanada: Oil Sands Exports Will Go To Asia If Blocked In US
+ | agency = [[Dow Jones Newswires]]
+ | first = Edward | last = Welsch
+ | publisher = Downstream Today
+ | date = 2010-06-30
+ | accessdate = 2010-08-01}}
+</ref> The Cornell study says that the oil will be sold on Asian markets regardless of pipeline route. <ref name="ILR Cornell Study" /> . 
+
+===Economic issues===. 
+In response to negative publicity, president and CEO of TransCanada [[Russ Girling]] touted the positive impact of the project by "putting 20,000&nbsp;US workers to work and spending $7&nbsp;billion stimulating the US economy."<ref>
+{{cite video
+ | date        = 2011-08-31
+ | title       = TransCanada CEO on Proposed Pipeline
+ | url         = http://video.foxbusiness.com/v/1136627843001/transcanada-ceo-on-proposed-pipeline/
+ | publisher   = [[Fox News Channel]]
+ | accessdate  = 2011-10-12
+}}</ref>  These numbers come from a 2010 report written by The Perryman Group, a financial analysis firm based in Texas that was hired by TransCanada to evaluate Keystone XL. <ref name="Perryman Report 2010">
+{{cite report
+ | date        = 2010-06
+ | title       = The Impact of Developing the Keystone XL Pipeline Project on Business Activity in the US: An Analysis Including State-by-State Construction Effects and an Assessment of the Potential Benefits of a More Stable Source of Domestic Supply
+ | url         = http://www.perrymangroup.com/reports/TransCanada.pdf
+ | publisher   = [[Perryman Group]]
+ | accessdate  = 2012-03-18
+}}</ref><ref name="Keystone XL jobs">
+{{cite journal
+ | date        = 2012-01-12
+ | title       = Keystone XL Jobs Bewilder Media. Reporters still fumbling numbers in wake of pipeline’s rejection
+ | author      = Brainard, Curtis
+ | url         = http://www.cjr.org/the_observatory/keystone_xl_jobs_bewilder_medi.php?page=all&print=true
+ | work        = The Observatory
+ | publisher   = [[Columbia Journalism Review]]
+ | accessdate  = 2012-03-18
+}}</ref> The numbers in the Perryman Group report have been disputed by an independent study conducted by the [[Cornell University School of Industrial and Labor Relations|Cornell ILR Global Labor Institute]] which found that while the Keystone XL would result in 2,500 to 4,650 temporary construction jobs, this impact will be reduced by higher oil prices in the Midwest which will likely reduce national employment. <ref name="ILR Cornell Study" /> The US State Department estimates that the pipeline will create 5,000 to 6,000 U.S. jobs. <ref name=USSD jobs 2012>{{cite news
+ | date        = 2012-01-19
+ | title       = Keystone pipeline: How many jobs really at stake?
+ | author      = Sherter, Alain  
+ | url         = http://www.cbsnews.com/8301-505123_162-57361212/keystone-pipeline-how-many-jobs-really-at-stake/
+ | publisher   = [[CBS News]]
+ | accessdate  = 2012-03-18
+}}</ref>     . 
+
+Glen Perry, a petroleum engineer for Adira Energy Ltd., has warned that including the Alberta Clipper pipeline owned by TransCanada's competitor Enbridge, there is an extensive overcapacity of oil pipelines from Canada. <ref name = "theglobeandmail-1543726">
+{{Cite news
+ | last = Vanderklippe | first = Nathan
+ | title = Oil sands awash in excess pipeline capacity
+ | newspaper = [[The Globe and Mail]]
+ | date = April 23, 2010
+ | url = http://www.theglobeandmail.com/report-on-business/industry-news/energy-and-resources/oil-sands-awash-in-excess-pipeline-capacity/article1543726/
+ | accessdate = 2012-02-22}}
+</ref> After completion of the Keystone XL line, oil pipelines to the U.S. may run nearly half-empty. The expected lack of volume combined with extensive construction cost overruns has prompted several petroleum refining companies to sue TransCanada.  Suncor Energy hoped to recoup significant construction-related tolls, though the U.S. Energy Regulatory Commission did not rule in their favor.  According to [[The Globe and Mail]], 
+<blockquote>The refiners argue that construction overruns have raised the cost of shipping on the Canadian portion of Keystone by 145 per cent while the U.S. portion has run 92 per cent over budget. They accuse TransCanada of misleading them when they signed shipping contracts in the summer of 2007. TransCanada nearly doubled its construction estimates in October, 2007, from $2.8-billion (U.S.) to $5.2-billion. <ref name = "theglobeandmail-1548807">
+{{cite news
+ | title= Pipeline fees revolt widens
+ | url= http://www.theglobeandmail.com/report-on-business/pipeline-fees-revolt-widens/article1548807/
+ | first= Nathan | last= Vanderklippe
+ | date= 2010-04-29
+ | newspaper = [[The Globe and Mail]]
+ | accessdate=2010-08-01
+ | location=Toronto}}
+</ref></blockquote> . 
+
+Due to an exemption the state of Kansas gave TransCanada, the local authorities would lose $50&nbsp;million public revenue from property taxes for a decade. <ref name="mcclatchydc.com20110213"/> . 
+
+===2011 protests and postponement===. 
+[[Image:Keystone XL demonstration, 8-2011.jpg|thumb|Demonstration against the Keystone XL extension, [[White House]],  August 2011.]]
+Starting in spring, 2011, environmental and [[global warming]] activist [[Bill McKibben]] took the question of the pipeline to NASA scientist [[James Hansen]], who told McKibben the pipeline would be "game over for the planet". <ref>{{cite web | url=http://www.countercurrents.org/ross050112.htm | title="Game Over" For Planet If XL Oil Pipeline Is Built | publisher=countercurrents.org | date=January 5, 2012 | accessdate=January 10, 2012 | author=Ross, Sherwood}}</ref> McKibben and other activists moved toward a new oppositional approach which coalesced in August with over 1000&nbsp;nonviolent arrests at the [[White House]]. They promised to continue to challenge President Obama to stand by his 2008 call to "be the generation that finally frees America from the tyranny of oil"<ref name=NYer01 /> as he entered the 2012 reelection campaign. A relatively broad coalition came together, including the Republican governor [[Dave Heineman]] and senators [[Ben Nelson]] (D) and [[Mike Johanns]] (R) from Nebraska, and some Democratic funders like [[Susie Tompkins Buell]]. <ref name=NYer01>
+{{cite news
+ |url= http://www.newyorker.com/talk/comment/2011/11/28/111128taco_talk_mayer#ixzz1eftWuSRW
+ |title= Taking It to the Streets
+ |first = Jane |last = Mayer
+ |newspaper=[[The New Yorker]]
+ |date=2011-11-28
+ |accessdate=2011-12-01}}
+</ref> . 
+
+On November 7, 2011, several thousand environmentalist supporters, some shouldering a long black inflatable replica of a pipeline, formed a human chain around the White House to try to convince Barack Obama to block the controversial Keystone XL project. Organiser Bill McKibben said, "this has become not only the biggest environmental flash point in many, many years, but maybe the issue in recent times in the Obama administration when he's been most directly confronted by people in the street. In this case, people willing, hopeful, almost dying for him to be the Barack Obama of 2008."<ref>{{cite news| url=http://www.guardian.co.uk/commentisfree/cifamerica/2011/nov/09/keystone-xl-pipeline-obama-reelection | location=London | work=The Guardian | first=Amy | last=Goodman | title=Keystone: pipeline to Obama's re-election | date=2011-11-09}}</ref>  . 
+
+On November 10, 2011, four days after twelve thousand people encircled the White House, the culmination of months of protests, President Obama announced "the decision on the pipeline permit would be delayed until at least 2013, pending further environmental review". <ref name=NYer01/> TransCanada stated they have been in conversation with the U.S. Department of State (DOS) and fourteen different routes were being studied, including eight impacting Nebraska. They included one potential alternative route in Nebraska that would have avoided the entire Sandhills region and [[Ogallala aquifer]] and six alternatives that would have reduced pipeline mileage crossing the Sandhills or the aquifer. <ref name="TransCanada-5893"/> . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+{{Portal|Infrastructure|Energy}}
+{{Commons category|Keystone Pipeline}}
+* [http://www.transcanada.com/keystone.html Keystone Pipeline Project], TransCanada
+* [http://www.transcanada.com/docs/Key_Projects/keystone.pdf Keystone Pipeline System], TransCanada
+* [http://www.transcanada.com/5494.html Keystone Pipeline Reports and Publications], TransCanada
+* [http://www.transcanada.com/docs/Key_Projects/detailed_system_map.pdf Detailed Keystone System Map (3MB PDF)], TransCanada
+* [http://www.dirtyoilsands.org/dirtyspots/category/keystone_xl Keystone XL], DirtyOilSands.org
+* [http://www.mediabadger.com/2011/12/keystone-xl-and-the-impact-of-social-media-study/ Study on Impact of Social Media on Keystone XL], MediaBadger.com . 
+
+[[Category:Buildings and structures completed in 2010]]
+[[Category:Crude oil pipelines in the United States]]
+[[Category:Oil pipelines in Canada]]
+[[Category:Energy infrastructure under construction]]
+[[Category:Proposed pipelines]]
+[[Category:Canada–United States relations]]

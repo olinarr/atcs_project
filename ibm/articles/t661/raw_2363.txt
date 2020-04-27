@@ -1,0 +1,55 @@
+{{Refimprove|date=July 2009}}
+'''Mandatory retirement''' is the age at which persons who hold certain jobs or offices are required by industry custom or by law to leave their employment, or [[retire]]. Typically, mandatory retirement is justified by the argument that certain occupations are either too dangerous (military personnel) or require high levels of physical and mental skill ([[air traffic controllers]], [[Aviator|airline pilots]]).  However, since the age at which retirement is mandated is often somewhat arbitrary and not based upon an actual physical evaluation of an individual person, many view the practice as a form of age [[discrimination]], or [[ageism]]. <ref>[http://www.nature.com/nature/journal/v453/n7195/full/453588a.html Retiring Retirement]</ref> . 
+
+== United States ==. 
+Mandatory retirement is generally unlawful in the United States, except in certain industries and occupations that are regulated by law, and are often part of the government (such as military service and federal police agencies, such as the [[Federal Bureau of Investigation]].  . 
+
+From the U.S. Equal Employment Opportunity Commission Website:
+:The Age Discrimination in Employment Act of 1967 (ADEA) protects individuals who are 40 years of age or older from employment discrimination based on age. The ADEA's protections apply to both employees and job applicants. Under the ADEA, it is unlawful to discriminate against a person because of his/her age with respect to any term, condition, or privilege of employment, including hiring, firing, promotion, layoff, compensation, benefits, job assignments, and training.  . 
+
+From the U.S. Code of Federal Regulations discussing the [[Age Discrimination in Employment Act]]: . 
+
+:…one of the original purposes of this provision, namely, that the exception does not authorize an employer to  require or permit involuntary retirement of an employee within the  protected age group on account of age, . 
+
+:…an employer can no longer force retirement or otherwise discriminate on the basis of age against an individual because (s)he is 70 or older. <ref>[http://www.eeoc.gov/ US Equal Employment Opportunity Commission]</ref> . 
+
+==Canada==. 
+The normal age for retirement in Canada is 65, however one cannot be forced to retire at that age. <ref>http://www.agediscrimination.info/international/Pages/Canada.aspx</ref> Labour laws in the country do not specify a retirement age. <ref> http://www.hrsdc.gc.ca/eng/lp/spila/clli/eslc/19Mandatory_Retirement.shtml </ref> Age 65 is when federal [[Old Age Security]] pension benefits begin, and most private and public retirement plans have been designed to provide income to the person starting at 65 (an age is needed to select premium payments by contributors to be able to calculate how much money is available to retirees when they leave the program, i.e., retire). <ref> http://www.hrsdc.gc.ca/eng/oas-cpp/index.shtml </ref> It is not forced upon you to retire , it is your choice.  . 
+
+Mandatory retirement of federally regulated employees is prohibited from December 2012. <ref>http://www.agediscrimination.info/News/Pages/ItemPage.aspx?Item=568</ref> . 
+
+== Australia ==. 
+In Australia, compulsory retirement is expressly unlawful throughout the various State and Territory jurisdictions in Australia. <ref>http://www.agediscrimination.info/international/Pages/australia.aspx</ref> . 
+
+The Governor-General can remove Justices of the High Court (and other Parliament-created courts) in limited circumstances (because of the constitutional separation of powers doctrine) so a [[Australian referendum, 1977|Constitutional amendment was passed in 1977]] to enforce a [[Australian referendum, 1977 (Retirement of Judges)|mandatory retirement age]] of 70 for federal judges{{Citation needed|date=July 2010}}.  . 
+
+== Roman Catholic Church ==. 
+In the [[Roman Catholic Church]], [[Pope Paul VI]] introduced a mandatory retirement age of 70 for [[priest]]s and 75 for [[bishop]]s and [[archbishop]]s; there is no mandatory retirement age for the pope as [[Life tenure|he holds that position for life]].  . 
+
+== United Kingdom ==. 
+In October 2006 the [[Employment Equality (Age) Regulations 2006]], the UK Labour Government introduced a Default Retirement Age, whereby employers are able to terminate or deny employment to people over 65 without a reason. A legal challenge to this failed in September 2009, although a review of the legislation was expected in 2010 by the new Conservative/Liberal Democrat coalition government. <ref name=BBCChallengeFails>{{cite web
+|url=http://news.bbc.co.uk/1/hi/business/8274328.stm
+|title=UK retirement age challenge fails
+|publisher=[[BBC News]]
+|date=2009-09-25
+|accessdate=2009-09-25
+}}</ref><ref name=BBCQnA>{{cite web
+|url=http://news.bbc.co.uk/1/hi/business/8273789.stm
+|title=Q&A: Retirement ruling
+|publisher=[[BBC News]]
+|date=2009-09-25
+|accessdate=2009-09-25
+}}</ref> This review has taken place and on 17 February 2011 [[Department for Business, Innovation and Skills|BIS]] published the draft Regulations abolishing the Default Retirement Age. <ref>http://www.agediscrimination.info/Pages/ItemPage.aspx?Item=344</ref> The draft Regulations were later revised and the final version was laid before [[Parliament of the United Kingdom|Parliament]] on 1 March 2011. <ref>http://www.agediscrimination.info/Pages/ItemPage.aspx?Item=353</ref> As of 6 April 2011, employers can no longer give employees notice of retirement under Default Retirement Age provisions and will need to objectively justify any compulsory retirement age still in place to avoid age discrimination claims. <ref>http://www.agediscrimination.info/News/Pages/ItemPage.aspx?Item=384</ref> . 
+
+== See also ==. 
+*[[Pension]]
+*[[Retirement]]
+*[[Retirement age]] . 
+
+== References ==. 
+{{Reflist}}
+{{Use dmy dates|date=February 2011}} . 
+
+{{DEFAULTSORT:Mandatory Retirement}}
+[[Category:Aging]]
+[[Category:Retirement]]

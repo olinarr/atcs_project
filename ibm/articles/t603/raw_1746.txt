@@ -1,0 +1,1229 @@
+{{Main|Lobbying}}
+'''Lobbying in the United States''' describes paid activity in which special interests hire well-connected professional advocates, often lawyers, to argue for specific legislation in decision-making bodies such as the [[United States Congress]]. It is a highly controversial phenomenon, often seen in a negative light by journalists and the American public, and frequently misunderstood. <ref name=twsN411>{{cite news
+ |author= Evangeline Marzec of Demand Media
+ |title= What Is Corporate Lobbying?
+ |publisher= ''Chron.com''
+ |date= 2012-01-14
+ |url= http://smallbusiness.chron.com/corporate-lobbying-11729.html
+ |accessdate= 2012-01-14
+}}</ref> While lobbying is subject to extensive and often complex rules which, if not followed, can lead to penalties including jail, the activity of lobbying has been interpreted by court rulings as [[free speech]] and protected by the [[United States Constitution|Constitution]]. Since the 1970s, lobbying activity has grown immensely in terms of the numbers of lobbyists and the size of lobbying budgets, and has become the focus of much criticism of American governance. Since lobbying rules require extensive disclosure, there is a wealth of data in the [[public sphere]] about which entities lobby, how, at whom, and for how much. The current pattern suggests much lobbying is done by corporations although a wide variety of coalitions representing diverse groups is possible. Lobbying happens at every level of government, including federal, state, county, municipal, and even local governments. In Washington, lobbying usually targets congresspersons, although there have been efforts to influence executive agency officials as well as Supreme Court appointments. It has been the subject of academic inquiry in various fields, including law, public policy, and economics. While the number of lobbyists in Washington is over nine thousand, those with real clout number in the dozens, and a small group of firms handles much of lobbying in terms of expenditures. As an activity, lobbying takes time to learn, and requires skill and sensitivity, and depends on the deft persuasion, and has much in common with generally non-political activities such as [[management consulting]] and [[public relations]].  . 
+
+==Overview==. 
+Political scientist [[Thomas R. Dye]] once said that [[politics]] is about battling over scarce governmental resources: who gets them, where, when, why and how. <ref name=twsL18/> Since government makes the rules in a complex economy such as the [[United States]], it is logical that various organizations, businesses, individuals, nonprofits, trade groups, religions, charities and others—which are affected by these rules—will exert as much influence as they can to have rulings favorable to their cause. And the battling for influence has happened in every organized society since the beginning of civilization, whether it was [[Ancient Athens]], Florence during the time of the [[House of Medici|Medici]], [[Late Imperial China]], and the present-day [[United States]]. Modern-day lobbyists in one sense are like the [[courtier]]s of the [[Ancien Régime]]. If [[voting]] is a general way for a public to control a government, lobbying is a more specific, targeted effort, focused on a narrower set of issues. <ref name=twsN411/> . 
+
+[[File:The Lobby of the House of Commons, 1886 by Liborio Prosperi ('Lib').jpg|thumb|right|The lobby of the House of Commons. Painting 1886 by Liborio Prosperi.]]
+The term ''[[lobbying|lobby]]'' has etymological roots in the physical structure of the British Parliament, in which there was an intermediary covered room outside the main hall. People pushing an agenda would try to meet with members of Parliament in this room, and they came to be known, by [[metonymy]], as ''lobbyists'', although one account in 1890 suggested that the application of the word "lobby" is American and that the term is not used as much in [[United Kingdom|Britain]]. <ref name=twsN512>{{cite news
+ |author= John Joseph Lalor (editor)
+ |title= Cyclopaedia of political science, political economy... 
+ |publisher= ''Charles E. Merrill & Co.''
+ |quote= see page 78
+ |date= 1890
+ |url= http://books.google.com/books?id=pKY9AAAAYAAJ&pg=PA778&lpg=PA778&dq=%22lobby%22+%22house+of+commons%22+%22origin%22+%22word%22&source=bl&ots=hZIJ0TFKr4&sig=B1D94nJfFVqxCLixOlNgSQWI6kQ&hl=en&sa=X&ei=xV4TT7SWNcL40gHu5OybAw&ved=0CFwQ6AEwBg#v=onepage&q=%22lobby%22%20%22house%20of%20commons%22%20%22origin%22%20%22word%22&f=false
+ |accessdate= 2012-01-14
+}}</ref> . 
+
+[[File:Grandma Green.jpg|thumb|right|Activist and lobbyist Flora "Grandma" Green of the Seniors Coalition.]]
+The term ''lobbying'' in everyday parlance can describe a wide variety of actions, and in its general sense, suggests advocacy, advertising, or promoting a cause. In this sense, anybody who tries to influence any political position can be thought of as "lobbying", and sometimes the term is used in this loose sense. A person who writes a letter to a congressperson, or even questions a candidate at a political meeting, could be construed as being a ''lobbyist''. <ref name=twsL16>{{cite news
+ |author= Donald E. deKieffer
+ |title= The Citizen's Guide to Lobbying Congress: Revised and Updated
+ |publisher= ''Chicago Review Press''
+ |quote= see Ch.1
+ |date= 2007
+ |isbn= 13:978-1-55652-718-0
+ |url= http://books.google.com/books?id=_8BuewFmfZEC&printsec=frontcover&dq=%22lobbying%22&hl=en&sa=X&ei=o40PT-reG8fv0gGUlbmOAw&ved=0CGIQ6AEwCQ#v=onepage&q=%22lobbying%22&f=false
+ |accessdate= 2012-01-12
+}}</ref><ref name=twsN411/> And a retired school administrator from [[Ohio]] who met with [[Speaker of the United States House of Representatives|House Speaker]] [[John Boehner]] in 2011 to discuss [[Social Security (United States)|social security]] could be considered as a lobbyist, in this sense of the term. <ref name=twsM31>{{cite news
+ |author= Fredreka Schouten
+ |title= Fearing budget cuts, interest groups take lobbying local
+ |publisher= ''USA Today''
+ |date= Oct 9, 2011
+ |url= http://www.usatoday.com/news/washington/story/2011-10-09/special-interest-groups-try-local-lobbying-to-reach-supercommittee-deficit-panel/50713738/1
+ |accessdate= 2012-01-13
+}}</ref> . 
+
+However, the term "lobbying" is generally used in the [[public sphere]] to describe a paid activity with the purpose of attempting to "influence or sway" a public official, including bureaucrats as well as elected officials, towards a desired specific action often relating to specific legislation. <ref name=twsL19/> If ''advocacy'' is disseminating information, including attempts to educate public officials as well as the public and media, to plead the cause of something and support it,<ref name=twsL19/> then when this activity becomes focused on specific legislation, either in support or in opposition, then it crosses the line from ''advocacy'' and becomes ''lobbying''. <ref name=twsL19/> This is the usual sense in mainstream media. One account suggested that much of the activity of [[nonprofit organization|nonprofits]] was not ''lobbying'' per se, since it usually did not mean changes in legislation. <ref name=twsL19/> . 
+
+A lobbyist, according to the legal sense of the word, is a professional, often a lawyer. Lobbyists are intermediaries between client organizations and lawmakers: they explain to legislators what their organizations want, and they explain to their clients what obstacles elected officials face. One definition of a lobbyist is someone "employed to persuade legislators to pass legislation that will help the lobbyist's employer."<ref name=twsN511>{{cite news
+ |author= Lisa Magloff of Demand Media
+ |title= Federal Lobbying Guidelines
+ |publisher= ''chron.com''
+ |date= 2012-01-14
+ |url= http://smallbusiness.chron.com/federal-lobbying-guidelines-14110.html
+ |accessdate= 2012-01-14
+}}</ref> Many lobbyists work in lobbying firms or law firms, some of which retain clients outside lobbying. Others work for [[advocacy group]]s, [[trade association]]s, companies, and state and local governments. Lobbyists can be one type of government official, such as a governor of a state, who presses officials in Washington for specific legislation. <ref name=twsL21>{{cite news
+ |author= Donald H. Haider
+ |title= When governments come to Washington: Governors, mayors, and intergovernmental lobbying
+ |publisher= ''Free Press''
+ |date= 1974
+ |isbn= 002913370X 
+ |url= http://www.getcited.org/pub/101414241
+ |accessdate= 2012-01-12
+}}</ref> Generally, an elected official who tries to persuade another elected official to adopt a particular position is not considered as a lobbyist in the usual sense, although one could make a case that one official was ''lobbying'' another. In addition, there is a sense in which the term ''lobbyist'' is too limiting in that it fails to convey the power and influence of persons who advise public officials; in this sense, these people have many roles, including being "influence peddlers, campaign contributors and fundraisers, political advisers, restaurateurs, benefactors of local cultural and charitable institutions, country gentlemen and more," according to one view. <ref name=twsM33fsa/> A lobbyist may put together a diverse coalition of organizations and people, sometimes including lawmakers and corporations, and the whole effort may be considered to be a ''lobby''; for example, in the abortion issue, there is a "pro-choice lobby" and a "pro-life lobby".  . 
+
+In 2007, according to one estimate, there were more than 17,000 federal lobbyists based in [[Washington, DC]]. <ref>{{cite book |title=Washington Representatives
+|edition=32
+|year=2007
+|month=November
+|publisher=Columbia Books
+|location=Bethesda, MD
+|isbn=1-880873-55-9
+|page=949}}</ref> A second estimate, for 2011, suggested that the count of registered lobbyists who have actually lobbied was around 12,000. <ref>{{cite web|title=Number of Lobbyists|url=http://www.opensecrets.org/lobby/index.php|work=Lobbying Database|publisher=[[Center for Responsive Politics]]|accessdate=26 December 2011}}</ref> While numbers like these suggest that lobbying is a widespread activity, most accounts suggest that the Washington lobbying industry is an exclusive one run by a few well-connected firms and players, with serious barriers to entry for firms wanting to get into the lobbying business, since it requires them to have been "roaming the halls of Congress for years and years."<ref name=twsM21/> . 
+
+==Different types of lobbying==. 
+===The focus of lobbying efforts===. 
+Generally, lobbyists focus their energies on trying to persuade decision-makers: Congress, executive branch agencies such as the Treasury Department and the [[Securities and Exchange Commission]],<ref name=twsN111/> the Supreme Court,<ref name=twsL28/> state governments (including governors). Federal agencies have been targeted by lobbyists since they write industry-specific rules; accordingly, interest groups spend "massive sums of money" trying to persuade them to make so-called "carve-outs" or try to block specific provisions from being enacted. <ref name=twsL37/> A large fraction of overall lobbying happens only a few sets of issues, according to one report. <ref name=twsL12/> It is possible for one level of government to lobby another level; for example, the [[District of Columbia]], seeking better voting rights for its citizens, has been lobbying Congress and the president for greater power including possible statehood or voting representation in Congress; one assessment in 2011 suggested that the district needed to rethink its lobbying strategy, since its past efforts have only had "mixed results". <ref name=twsN112>{{cite news
+ |author= Ben Pershing
+ |title= As frustrations mount, does D.C. need new lobbying strategy?
+ |work= [[The Washington Post]]
+ |date= April 16, 2011
+ |url= http://www.washingtonpost.com/local/politics/as-frustrations-mount-does-dc-need-new-lobbying-strategy/2011/04/15/AFLuUhqD_story.html
+ |accessdate= 2012-01-14
+}}</ref> Many [[executive branch]] agencies have the power to write specific rules and are a target of lobbying. Federal agencies such as the [[United States Department of State|State Department]] make rules such as giving aid money to countries such as [[Egypt]], and in one example, an Egyptian-American businessman named Kais Menoufy organized a lobby to try to halt U.S. aid to Egypt. <ref name=twsM212>{{cite news
+ |author= Stephen Magagnini of the Sacramento Bee
+ |title= California man leads lobbying to halt U.S. aid to Egypt
+ |publisher= ''Miami Herald''
+ |date= December 19, 2011
+ |url= http://www.miamiherald.com/2011/12/19/2553049/california-man-leads-lobbying.html
+ |accessdate= 2012-01-13
+}}</ref> Since the [[Supreme Court of the United States|Supreme Court]] has the power of [[judicial review]] and can render a congressional law unconstitutional, it has great power to influence the course of American life. For example, in the [[Roe v Wade]] decision, it ruled on the legality of [[abortion]]. A variety of forces use lobbying tactics to pressure the court to overturn this decision.  . 
+
+[[File:Michelle Rhee at NOAA (cropped).jpg|thumb|right|Schools superintendent [[Michelle Rhee]] lobbies for educational reform and ending teacher tenure.]]
+Lobbyists represent their clients' or organizations' interests in state capitols. An example is a former school superintendent who has been lobbying state legislatures in California, Michigan and Nevada to overhaul teacher evaluations, and trying to end the "Last In, First Out" teacher hiring processes; according to one report, [[Michelle Rhee]] is becoming a "political force."<ref name=twsM12>{{cite news
+ |author= Greg Toppo
+ |title= Former D.C. schools chief busy lobbying, helping politicians
+ |publisher= ''USA Today''
+ |date= Dec. 30, 2011
+ |url= http://www.usatoday.com/news/education/story/2011-12-29/michelle-rhee-lobbying/52276930/1
+ |accessdate= 2012-01-13
+}}</ref> State governments can be lobbied by groups which represent ''other governments'' within the state, such as a city authority; for example, the cities of [[Tallahassee, Florida|Tallahassee]]<ref name=twsM32>{{cite news
+ |author= MARTHA BRANNIGAN
+ |title= Mayor Gimenez vetoes new Tallahassee lobbying contracts: Asserting the county commission failed in its aim to cut spending, Miami-Dade Mayor Carlos Gimenez vetoed a measure that would have paid $450,000 to lobbying firms. 
+ |publisher= ''Miami Herald''
+ |date= 12.28.11
+ |url= http://www.miamiherald.com/2011/12/28/2564782/mayor-gimenez-vetoes-new-tallahassee.html
+ |accessdate= 2012-01-13
+}}</ref> and [[St. Petersburg, Florida|St. Petersburg]]<ref name=twsN314>{{cite news
+ |author= William Mansell
+ |title= Florida's Lobbying Powerhouses Vie for City of St. Pete Contract 
+ |publisher= ''Old Northeast-Downtown St. Pete Patch''
+ |date= August 18, 2011
+ |url= http://oldnortheast.patch.com/blog_posts/floridas-lobbying-powerhouses-vie-for-city-of-st-pete-contract
+ |accessdate= 2012-01-14
+}}</ref> lobbied the [[Florida]] legislature using paid lobbyists to represent the city's interests. There is lobbying activity at the county<ref name=twsN313>{{cite news
+ |author= Alison Knezevich
+ |title= County ethics bill would restrict lobbying, add enforcement
+ |publisher= ''Baltimore Sun''
+ |date= November 2, 2011
+ |url= http://weblogs.baltimoresun.com/news/local/politics/2011/11/county_ethics_bill_would_restr.html
+ |accessdate= 2012-01-14
+}}</ref> and municipal levels, especially in larger cities and populous counties. For example, officials within the city government of [[Chicago, Illinois|Chicago]] called aldermen became lobbyists after serving in municipal government, following a one-year period required by city ethics rules to abstain from lobbying. <ref name=twsN215>{{cite news
+ |author= TIM NOVAK
+ |title= Seven former Chicago aldermen now lobbying City Hall 
+ |publisher= ''Chicago Sun-Times''
+ |date= September 26, 2011
+ |url= http://www.suntimes.com/news/cityhall/7766875-418/former-chicago-aldermen-now-lobbying-city-hall.html
+ |accessdate= 2012-01-14
+}}</ref> . 
+
+===Paid versus free lobbying===. 
+While the bulk of lobbying happens by business and professional interests who hire paid professionals, some lobbyists represent non-profits [[pro-bono]] for issues in which they are personally interested. [[Pro bono publico]] clients offer activities to meet and socialize with local legislators on neutral territory like fundraisers and awards ceremonies.  . 
+
+===Single issue versus multiple issue lobbying===. 
+Lobbies which push for a single issue have grown in importance during the past twenty years, according to one source. <ref name=twsL16/> Corporations generally would be considered as ''single issue'' lobbies. If a corporation wishes to change public policy, or to influence legislation which impacts its success as a business, it may use lobbying as a "primary avenue" for this purpose. <ref name=twsM214>{{cite news
+ |author= William Kerr, William Lincoln, Prachi Mishra
+ |title= The dynamics of firm lobbying
+ |publisher= ''VOX''
+ |date= 22 November 2011
+ |url= http://www.voxeu.org/index.php?q=node/7315
+ |accessdate= 2012-01-13
+}}</ref> One research study suggested that ''single issue'' lobbies often operate in different kinds of institutional venues, sometimes bringing the same message to different groups. <ref name=twsL26/> Lobbies which represent groups such as [[labor union]]s, business organizations, trade associations and such are sometimes considered to be ''multiple issue lobbies'', and to succeed they must be somewhat more flexible politically and be willing to accept compromise. <ref name=twsL16/> . 
+
+===Inside versus outside lobbying===. 
+* '''Inside lobbying''', or sometimes called ''direct lobbying'', describes efforts by lobbyists to influence legislation or rule-making directly by contacting legislators and their assistants, sometimes called staffers or aides.  . 
+
+* '''Outside lobbying''', or sometimes ''indirect lobbying'', includes attempts by interest group leaders to mobilize citizens outside the policymaking community, perhaps by [[public relations]] methods or [[advertising]], to prompt them to pressure public officials within the policymaking community. <ref name=twsL17/> One example of an outside lobbying effort is a film entitled ''InJustice'', made by a group promoting lawsuit reform. <ref name=twsM43>{{cite news
+ |author= Dan Eggen & T.W. Farnam
+ |title= The Influence Industry: Coming soon to a screen near you — a lobbying campaign
+ |work= [[The Washington Post]]
+ |date= July 13, 2011
+ |url= http://www.washingtonpost.com/politics/the-influence-industry-coming-soon-to-a-screen-near-you--a-lobbying-campaign/2011/07/13/gIQAFyK9CI_story.html
+ |accessdate= 2012-01-13
+}}</ref> . 
+
+==History of lobbying==. 
+{{Main|History of lobbying in the United States}}
+[[File:Federalist Papers.jpg|thumb|right|The [[Federalist Papers]], in which Framers Madison, Hamilton and Jay strove to sway public opinion, could be considered according to current usage as an ''outside lobbying'' effort.]]
+The Constitution was crafted to solve the problem of special interests by having factions compete. It protected [[free speech]], including the right to petition the government. <ref name="<ref name="ifac1">{{cite web|url=http://www.illinoisfirstamendmentcenter.com/petition.php|publisher=Illinois First Amendment Center|title=The Right to Petition}}</ref><ref name=twsL16/> Throughout the nation's history, there has been lobbying at every level of government, particularly in state governments<ref name=twsC11>{{cite news
+ |title= A NOTED LOTTERY MAN DEAD.; CAREER OF CHARLES T. HOWARD, OF THE LOUISIANA COMPANY
+ |publisher= ''The New York Times''
+ |date= June 1, 1885
+ |url= http://query.nytimes.com/gst/abstract.html?res=F40916FF3F5D10738DDDA80894DE405B8584F0D3
+ |accessdate= 2011-12-03
+}}</ref> during the nineteenth century, but increasingly in the federal government in the twentieth century. The last few decades has been marked by an exponential increase in lobbying activity and expenditures. <ref name=twsM33fsa>{{cite news
+ |author= Robert G. Kaiser; Alice Crites (research contributor)
+ |work = Citizen K Street
+ |title=How lobbying became Washington's biggest business -- Big money creates a new capital city. As lobbying booms, Washington and politics are transformed. 
+ |publisher= ''[[The Washington Post]]''
+ |date= 2007
+ |url= http://blog.washingtonpost.com/citizen-k-street/chapters/conclusion/
+ |accessdate= 2012-01-13
+}}</ref> . 
+
+==Lobbying as a business==. 
+===Key players===. 
+====Lobbyists====. 
+[[File:Haas Moore 2009.jpg|thumb|right|Ellen Haas, former Under Secretary of Agriculture for Food, Nutrition, and Consumer Services and lobbyist for the Podesta Group in 2009.]]
+The number of registered Washington lobbyists is substantial. There was one estimate that there were 13,700 registered lobbyists<ref name=twsM21/><ref name=twsJanQ2ww3/> and thousands more unregistered,<ref name=twsJanQ2ww3/> in 2009 which led the ''[[Washington Post]]'' to describe the nation's Capitol as "teeming with lobbyists."<ref name=twsM21>{{cite news
+ |author= Brad Plumer
+ |title= Corporate lobbying is a very exclusive club 
+ |publisher= ''[[The Washington Post]]''
+ |date= Nov. 8, 2011
+ |url= http://www.washingtonpost.com/blogs/ezra-klein/post/corporate-lobbying-is-a-very-exclusive-club/2011/11/08/gIQAPLln0M_blog.html
+ |accessdate= 2012-01-13
+}}</ref> The ratio of lobbyists employed by the healthcare industry, compared with every elected politician, was six to one, according to one account. <ref name=twsJanQ2ww3/> Nevertheless, the numbers of lobbyists actively engaged in lobbying is considerably less, and the ones occupied with lobbying full-time and making significant money is even less.  . 
+
+* '''Law firms'''. Several law firms had sizeable departments devoted to so-called "government relations", and these included firms such as [[Patton Boggs]], [[Akin Gump Strauss Hauer & Feld|Akin Gump]] and [[Holland & Knight]]. <ref name=twsL42/> One account suggested that the lobbying arms of these law firms were not held as separate subsidiaries, but that the law practices involved in government lobbying were integrated into the overall framework of the law firm. <ref name=twsL42/> A benefit to an integrated arrangement was that the law firm and the lobbying department could "share and refer clients back and forth". <ref name=twsL42/> Generally, law firms tend to bill for lobbying in the same way they bill other clients: by billable hour, although there was a report that Holland & Knight was considering shifting to a retainer basis of payment. <ref name=twsL34>{{cite news
+ |author= Catherine Ho
+ |title= Holland & Knight’s lobbying group to shed traditional hourly billing
+ |work= [[The Washington Post]]
+ |date= December 14, 2011
+ |url= http://www.washingtonpost.com/business/capitalbusiness/holland-and-knights-lobbying-group-to-shed-traditional-hourly-billing/2011/12/14/gIQAYH6luO_story.html
+ |accessdate= 2012-01-12
+}}</ref> Holland & Knight earned $13.9 million from lobbying revenue in a recent year. <ref name=twsL34/> One law firm employs so-called "power brokers" including former Treasury department officials such as Marti Thomas, former presidential advisers such as Daniel Meyer. <ref name=twsL41/> There was a report that two law firms were treating their lobbying groups as separate business units, and giving the non-lawyer lobbyists an equity stake in the firm. <ref name=twsL42>{{cite news
+ |author= Catherine Ho
+ |title= Lobbying practices leave law firms for more independence, equity for non-lawyers
+ |publisher= ''[[The Washington Post]]''
+ |date= December 25, 2011
+ |url= http://www.washingtonpost.com/business/capitalbusiness/lobbying-practices-leave-law-firms-for-more-independence-equity-for-non-lawyers/2011/12/13/gIQAtmhUHP_story.html
+ |accessdate= 2012-01-12
+}}</ref> . 
+
+* '''Lobbying firms'''. These firms usually have some lawyers in them, and are often founded by former congressional staffers, legislators, or other politicians. One report suggested that lobbyists prefer to be paid according to a "fixed fee", not to be paid according to an hourly billing arrangement, and that many chose not to work for big law firms to avoid the billable hour arrangement. <ref name=twsL42/> Some lobbying groups have been bought by large advertising conglomerates, such as [[Interpublic Group of Companies|InterPublic Group]]. <ref name=twsM33fsa/> . 
+
+====Corporations====. 
+Corporations which lobby actively tend to be few in number, large, and often sell to the government. Most corporations do not hire lobbyists. One study found that the actual number of firms which do lobbying regularly is fewer than 300, and that the percent of firms engaged in lobbying was 10% from 1998&ndash;2006,<ref name=twsM214/> and that they were "mainly large, rich firms getting in on the fun."<ref name=twsM21/> These firms hired lobbyists year after year, and there was not much evidence of other large firms taking much interest in lobbying. <ref name=twsM21/> Corporations considering lobbying run into substantial barriers to entry: corporations have to research the relevant laws about lobbying, hire lobbying firms, and cultivate influential people and make connections. <ref name=twsM21/><ref>Salamon, Lester M, and John J Siegfried (1977), “Economic Power and Political Influence: The Impact of Industry Structure on Public Policy,” American Political Science Review 71. </ref><ref>Masters, Marick F, and Gerald D Keim (1985), “Determinants of PAC Participation Among Large Corporations,” Journal of Politics 47. </ref><ref>Bombardini, Matilde (2008), “Firm Heterogeneity and Lobby Participation,” Journal of International Economics 75</ref> When an issue regarding a change in immigration policy arose, large corporations currently lobbying switched focus somewhat to take account of the new regulatory world, but that new corporations—even ones likely to be affected by any possible rulings on immigration—stayed out of the lobbying fray, according to the study. <ref name=twsM214/> . 
+
+[[File:McDonnell Douglas Long Beach 03.jpg|thumb|right|Defense contractors such as [[McDonnell Douglas]] sell extensively to the government and must, of necessity, engage in lobbying to win contracts.]]
+Still, of all the entities doing lobbying in Washington, the biggest overall spenders are, in fact, corporations. In the first decade of the 2000s, the most lucrative clients for [[Gerald Cassidy]]'s lobbying firm were corporations, displacing fees from the appropriations business. <ref name=twsM33fsa/> [[Wall Street]] lobbyists and the financial industry spent upwards of $100 million in one year to "court regulators and lawmakers", particularly since they were "finalizing new regulations for lending, trading and debit card fees."<ref name=twsM211>{{cite news
+ |author= BEN PROTESS
+ |title= Wall Street Continues to Spend Big on Lobbying
+ |publisher= ''New York Times''
+ |date= August 1, 2011
+ |url= http://dealbook.nytimes.com/2011/08/01/wall-street-continues-to-spend-big-on-lobbying/
+ |accessdate= 2012-01-13
+}}</ref> One academic analysis in 1987 found that firms were more likely to spend on lobbying if they were both large and concerned about "adverse financial statement consequences" if they did not lobby. <ref name=twsL31>{{cite news
+ |author= Jere R. Francis
+ |title= Lobbying against proposed accounting standards: The case of employers' pension accounting
+ |publisher= ''Journal of Accounting and Public Policy''
+ |quote= Volume 6, Issue 1, Pages 35–57
+ |date= Spring 1987
+ |url= http://www.sciencedirect.com/science/article/pii/0278425487900044
+ |accessdate= 2012-01-12
+}}</ref> Big banks were "prolific spenders" on lobbying; [[JPMorgan Chase]] has an in-house team of lobbyists who spent $3.3 million in 2010;<ref name=twsM211/> the [[American Bankers Association]] spent $4.6 million on lobbying;<ref name=twsM211/> an organization representing 100 of the nation's largest financial firms called the ''Financial Services Roundtable'' spent heavily as well. <ref name=twsM211/> A trade group representing Hedge Funds spent more than $1 million in one quarter trying to influence the government about financial regulations, including an effort to try to change a rule that might demand greater disclosure requirements for funds. <ref name=twsN111>{{cite news
+ |author= Associated Press
+ |title= Hedge fund group spent $1 million lobbying in 3Q
+ |publisher= ''CBS News''
+ |date= December 12, 2011 
+ |url= http://www.cbsnews.com/8301-505245_162-57341854/hedge-fund-group-spent-$1-million-lobbying-in-3q/
+ |accessdate= 2012-01-14
+}}</ref> [[Amazon.com]] spent $450,000 in one quarter lobbying about a possible online sales tax as well as rules about data protection and privacy. <ref name=twsM215>{{cite news
+ |author= staff writer
+ |title= Amazon spent $450,000 lobbying gov’t in Q3
+ |publisher= ''Boston Globe''
+ |date= December 16, 2011
+ |url= http://articles.boston.com/2011-12-16/business/30525729_1_online-sales-tax-main-street-fairness-act-online-retailers
+ |accessdate= 2012-01-13
+}}</ref> Corporations which sell substantially to the government tend to be active lobbiers. For example, aircraft manufacturer [[Boeing]], which has sizeable defense contracts, pours "millions into lobbying":<ref name=twsM61>{{cite news
+ |author= Lynn Sweet
+ |title= Chicago based Boeing flexing lobbying, political muscle
+ |publisher= ''Chicago Sun-Times''
+ |date= November 21, 2011
+ |url= http://blogs.suntimes.com/sweet/2011/11/chicago_based_boeing_political.html
+ |accessdate= 2012-01-13
+}}</ref> . 
+
+{{Quote|Boeing Co. is one of the most influential companies in airline manufacturing and has continually shown its influence in lobbying Congress ... Between January and September, Boeing spent a total of $12 million lobbying according to research by the Center for Responsive Politics. Additionally, Boeing has its own political action committee, which donated more than $2.2 million to federal candidates during the 2010 election cycle. Of that sum, 53 percent went to Democrats. ...Through September, Boeing's PAC has donated $748,000 to federal politicians.|''[[Chicago Sun-Times]]'' quoting ''[[OpenSecrets.org]]'', 2011<ref name=twsM61/>}} . 
+
+====Unions====. 
+One report suggested the [[United Food and Commercial Workers|United Food & Commercial Workers International Union]] spent $80,000 lobbying the federal government on issues relating to "the tax code, food safety, immigration reform and other issues."<ref name=twsM115>{{cite news
+ |author= Associated Press
+ |title= UFCW union spent $80K lobbying federal gov't
+ |publisher= ''CBS News''
+ |date= December 27, 2011
+ |url= http://www.cbsnews.com/8301-505245_162-57348975/ufcw-union-spent-$80k-lobbying-federal-govt/
+ |accessdate= 2012-01-13
+}}</ref> . 
+
+====Other players====. 
+Other possible players in the lobbying arena are those who might influence legislation: House & Senate colleagues, public opinion in the district, the White House, party leaders, union leaders, and other influential persons and groups. <ref name=twsL17/> Interest groups are often thought of as "nonparty organizations" which regularly try to change or influence government decision-making. <ref name=twsL17/> . 
+
+===Lobbying methods and techniques===. 
+Lobbying has much in common with highly people-intensive businesses such as [[management consulting]] and [[public relations]], but with a political and legal sensibility. Like lawmakers, many lobbyists are lawyers, and the persons they are trying to influence have the duty of writing laws. That the disciplines of law and lobbying are intertwined could be seen in the case of a Texas lawyer who had been seeking compensation for his unfairly imprisoned client; since his exonerated-prisoner client had trouble paying the legal expenses, the lawyer lobbied the Texas state legislature to raise the state's payment for unfairly imprisoned prisoners from $50,000 per year to $80,000 per year; it succeeded, making it possible for his newly freed client to pay the lawyer's fees. <ref name=twsM213>{{cite news
+ |author= JOHN SCHWARTZ
+ |title= Exonerated Inmates Fight Lawyer’s Lobbying Fees
+ |publisher= ''The New York Times''
+ |date= May 9, 2011
+ |url= http://www.nytimes.com/2011/05/10/us/10exonerate.html
+ |accessdate= 2012-01-13
+}}</ref> . 
+
+[[File:Heather Podesta Thomas Perriello.jpg|thumb|right|Connections count: Congressperson Tom Perriello with lobbyist Heather Podesta at an inauguration party for Barack Obama.]]
+Well-connected lobbyists work in Washington for years, know the issues, are highly skilled advocates,<ref name=twsL13/> and have cultivated close connections with members of Congress, regulators, specialists, and others. They understand strategy and have excellent communication skills; many are well suited to be able to choose which clients they would like to represent. <ref name=twsL13/> Lobbyists patiently cultivate networks of powerful people, over many years, trying to build trust and maintain confidence and friendships. When a client hires them to push a specific issue or agenda, they usually form coalitions to exert political pressure. <ref name=twsL16/> Lobbying, as a result, depends on trying to be flexible to new opportunities, but at the same time, to act as an agent for a client. As one lobbyist put it: . 
+
+:{{Quote|It's my job to advance the interests of my association or client. Period.|comment by a lobbyist<ref name=twsL13/>}} . 
+
+Access is important and often means a one-on-one meeting with a legislator. <ref name=twsL14>{{cite news
+ |author= Willard C. Richan
+ |title= Lobbying for Social Change: Third Edition
+ |publisher= ''The Haworth Press''
+ |date= 2006
+ |url= http://books.google.com/books?id=CtxGFj_8RUQC&printsec=frontcover&dq=%22lobbying%22&hl=en&sa=X&ei=o40PT-reG8fv0gGUlbmOAw&ved=0CFEQ6AEwBg#v=onepage&q=%22lobbying%22&f=false
+ |accessdate= 2012-01-12
+}}</ref> Getting access can sometimes be difficult, but there are various avenues: email, personal letters, phone calls, face-to-face meetings, meals, get-togethers, and even chasing after congresspersons in the Capitol building: . 
+
+::{{Quote|My style of lobbying is not to have big formal meetings, but to catch members on the fly as they're walking between the House and the office buildings.|Lobbyist, commenting on access<ref name=twsL13/>}} . 
+
+When getting access is difficult, there are ways to wear down the walls surrounding a legislator. [[Jack Abramoff]] explained: . 
+
+::{{Quote|Access is vital in lobbying. If you can't get in your door, you can't make your case. Here we had a hostile senator, whose staff was hostile, and we had to get in. So that's the lobbyist safe-cracker method: is throw fundraisers, raise money, and become a big donor.|Lobbyist [[Jack Abramoff]] in 2011<ref name=twsM13/>}} . 
+
+Lobbyists often assist congresspersons with [[campaign finance]]<ref name=twsL13/> by arranging fundraisers, assembling PACs,<ref name=twsM214/><ref name=twsM33fsa/> and seeking donations from other clients. Many lobbyists become campaign treasurers and fundraisers for congresspersons. This helps incumbent members cope with the substantial amounts of time required to raise money for reelection bids; one estimate was that congresspersons had to spend a third of their working hours on fundraising activity. <ref name=twsM33fsa/> PACs are fairly easy to set up; it requires a lawyer and about $300, roughly. <ref name=twsL16/> An even steeper possible reward which can be used in exchange for favors is the lure of a high-paying job as a lobbyist; according to Jack Abramoff, one of the best ways to "get what he wanted" was to offer a high-ranking congressional aide a high-paying job after they decided to leave public office. <ref name=twsM111/> When such a promise of future employment was accepted, according to Abramoff, "we owned them". <ref name=twsM111/> This helped the lobbying firm exert influence on that particular congressperson by going through the staff member or aide. At the same time, it is hard for outside observers to argue that a particular decision, such as hiring a former staffer into a lobbying position, was purely as a reward for some past political decision, since staffers often have valuable connections and policy experience needed by lobbying firms. <ref name=twsM45/> Research economist Mirko Draca suggested that hiring a staffer was an ideal way for a lobbying firm to try to sway their old bosses—a congressperson—in the future. <ref name=twsM45/> . 
+
+Lobbyists, according to several sources, strive for communications which are clear, straightforward, and direct. <ref name=twsL13/> In a one-on-one meeting with a lobbyist, it helps to understand precisely what goal is wanted. <ref name=twsL16/> A lobbyist wants action on a bill; a legislator wants to be re-elected. <ref name=twsL14/> The idea is to persuade a legislator that what the lobbyist wants is good public policy. <ref name=twsL17/> Lobbyists often urge lawmakers to try to persuade other lawmakers to approve a bill. <ref name=twsL14/> . 
+
+[[File:Robert Byrd official portrait.jpg|thumb|right|Senator [[Robert Byrd]] in 2005.]]
+Still, persuasion is a subtle business, requiring a deft touch, and carelessness can boomerang. <ref name=twsL17/> In one instance of a public relations reversal, a lobbying initiative by the Cassidy firm which targeted Senator [[Robert C. Byrd]] blew up when the Cassidy-Byrd connection was published in the ''[[Washington Post]]''; this resulted in a furious Byrd reversing his previous pro-Cassidy position and throwing a "theatrical temper tantrum" regarding an $18 million facility. <ref name=twsM33>{{cite news
+ |author= Robert G. Kaiser; Alice Crites (research contributor)
+ |work = Citizen K Street
+ |title=How lobbying became Washington's biggest business -- Big money creates a new capital city. As lobbying booms, Washington and politics are transformed. 
+ |publisher= ''[[The Washington Post]]''
+ |date= 2007
+ |url= http://blog.washingtonpost.com/citizen-k-street/chapters/introduction/
+ |accessdate= 2012-01-13
+}}</ref> Byrd denounced "lobbyists who collect exorbitant fees to create projects and have them earmarked in appropriation bills... for the benefit of their clients."<ref name=twsM33/> . 
+
+Since it often takes a long time to build the network of relationships within the lobbying industry, ethical interpersonal dealings are important. A maxim in the industry is for lobbyists to be truthful with people they are trying to persuade; one lobbyist described it this way: "what you've basically got is your word and reputation". <ref name=twsL13/> An untruth, a lie is too risky to the successful development of a long-term relationship and is not worth it. <ref name=twsL13/> One report suggested that below-the-belt tactics generally do not work. <ref name=twsL16/> One account suggest that groping for "personal dirt" on opponents was counterproductive since it would undermine respect for the lobbyist and their clients. <ref name=twsL16/> And, by reverse logic, if an untruth is told by an opponent or opposing lobby, then it makes sense to publicize it. <ref name=twsL16/> But the general code among lobbyists is that unsubstantiated claims are bad business. <ref name=twsL16/> Even worse is planting an informant in an opponent's camp, since if this subterfuge is ever discovered, it will boomerang negatively in a hundred ways, and credibility will drop to zero. <ref name=twsL16/> The importance of personal relationships in lobbying can be seen in the state of [[Illinois]], in which father-son ties helped push a smart-grid energy bill, although there were accusations of favoritism. <ref name=twsL33>{{cite news
+ |author= JOHN SULLIVAN, FREDRIC N. TULSKY and KRISTEN McQUEARY
+ |title= Public Officials Found Helping Clients of Family
+ |publisher= ''The New York Times''
+ |date= January 7, 2012
+ |url= http://www.nytimes.com/2012/01/08/us/illinois-public-officials-aid-lobbying-clients-of-family.html?partner=rss&emc=rss
+ |accessdate= 2012-01-12
+}}</ref> And there is anecdotal evidence that a business firm seeking to profitably influence legislation has to pay particular attention to which lobbyist it hires. <ref name=twsM23/> . 
+
+Strategic considerations for lobbyists, trying to influence legislation, include "locating a power base" or a constituency logically predisposed to support a given policy. <ref name=twsL14/> Timing, as well, is usually important, in the sense of knowing when to propose a certain action and having a big-picture view of the possible sequence of desired actions. <ref name=twsL17/> Strategic lobbying tries to estimate the possible responses of different groups to a possible lobby approach; one study suggested that the "expectations of opposition from other interests" was a key factor helping to determine how a lobby should operate. <ref name=twsL26>{{cite news
+ |author= Thomas T. Holyoke
+ |title= Choosing Battlegrounds: Interest Group Lobbying Across Multiple Venues
+ |publisher= ''Political Research Quarterly''
+ |quote= September 2003 vol. 56 no. 3 325-336 
+ |url= http://prq.sagepub.com/content/56/3/325.short
+ |accessdate= 2012-01-12
+}}</ref> . 
+
+Increasingly, lobbyists seek to put together coalitions and use ''outside lobbying'' by swaying public opinion. <ref name=twsL17/> Bigger, more diverse and deep pocketed coalitions tend to be more effective in outside lobbying, and the "strength in numbers" principle often applies. <ref name=twsM62>{{cite news
+ |author= Dara Olmsted
+ |title= Lobbying for waterways
+ |publisher= ''Boston Globe''
+ |date= March 28, 2011
+ |url= http://articles.boston.com/2011-03-28/business/29360516_1_water-issues-water-quality-water-quality
+ |accessdate= 2012-01-13
+}}</ref> Interest groups try to build "sustainable coalitions of similarly situated individual organizations in pursuit of like-minded goals". <ref name=twsL19/> According to one study, it is often difficult for a lobbyist to influence a staff member in Congress directly, since staffers tend to be well-informed and subject to views from competing interests. As an indirect tactic, lobbyists can try to manipulate [[public opinion]] which, in turn, can sometimes exert pressure on congresspersons. <ref name=twsL13/> Activities for these purposes include trying to use the mass media, cultivating contacts with reporters and editors, encouraging them to write editorials and cover stories to influence public opinion, which may have the secondary effect of influencing Congress. <ref name=twsL13/> According to analyst Ken Kollman, it is easier to sway public opinion than a congressional staff member since it is possible to bombard the public with "half-truths, distortion, scare tactics, and misinformation."<ref name=twsL13/> Kollman suggests there should be two goals: (1) communicate that there is public support behind an issue to policymakers and (2) increase public support for the issue among constituents. <ref name=twsL17/> Kollman suggested outside lobbying was a "powerful tool" for interest group leaders. <ref name=twsL17>{{cite news
+ |author= Ken Kollman
+ |title= Outside Lobbying: Public Opinion & Interest Group Strategies
+ |publisher= ''Princeton University Press''
+ |quote= (See Preface & Introduction)
+ |date= 1998
+ |url= http://books.google.com/books?id=OIEb7hpN4jcC&printsec=frontcover&dq=%22lobbying%22&hl=en&sa=X&ei=iqYPT6fdH4b30gGPqu21Aw&ved=0CDgQ6AEwAjgK#v=onepage&q=%22lobbying%22&f=false
+ |isbn= 0-691-01740-9
+ |accessdate= 2012-01-12
+}}</ref> In a sense, using these criteria, one could consider [[James Madison]] as having engaged in ''outside lobbying'', since after the Constitution was proposed, he wrote many of the 85 newspaper editorials arguing for people to support the Constitution, and these writings later became the ''[[Federalist Papers]]''. <ref name=twsL18/> As a result of this "lobbying" effort, the Constitution was ratified, although there were narrow margins of victory in four of the state legislatures. Lobbying today generally requires mounting a coordinated campaign, using targeted blitzes of telephone calls, letters, emails to congressional lawmakers, marches down the [[Washington Mall]], bus caravans, and such, and these are often put together by lobbyists who coordinate a variety of interest group leaders to unite behind a hopefully simple easy-to-grasp and persuasive message. <ref name=twsL17/> . 
+
+[[File:Abramoff scotland3.jpg|thumb|right|Lobbyists. Left to right: [[Jack Abramoff]], golf organizer Jason Murdoch, former Christian Coalition leader [[Ralph E. Reed, Jr.|Ralph Reed]], convicted former Bush administration official [[David Safavian]], and [[Bob Ney]].]]
+Gifts for congresspersons and staffers can be problematic, since anything of sizeable value must be disclosed and generally such gifts are illegal. <ref name=twsM111/> Failure to observe gift restrictions was one factor which caused lobbyist [[Jack Abramoff]] to eventually plead guilty to a "raft of federal corruption charges" and led to convictions for 20 lobbyists and public officials, including congressperson [[Bob Ney]] and [[George W. Bush|Bush]] deputy interior secretary [[J. Steven Griles|Stephen Griles]]. <ref name=twsM111/> . 
+
+Wealthy lobbyists often encourage other lobbying clients to donate to a particular cause, in the hope that favors will be returned at a later date. Lobbyist [[Gerald Cassidy]] encouraged other clients to give for causes dear to a particular client engaged in a current lobbying effort. <ref name=twsM33/> Some lobbyists give their own money: Cassidy reportedly donated a million dollars on one project, according to one report, which noted that Cassidy's firm received "many times that much in fees from their clients" paid in monthly retainers. <ref name=twsM33/> And their clients, in turn, had received "hundreds of millions in earmarked appropriations" and benefits worth "hundreds of millions more". <ref name=twsM33/> . 
+
+It is important for lobbyists to follow rules governing lobbying behavior. These can be difficult and complex, take time to learn, require full disclosure,<ref name=twsL13/> and mistakes can land a lobbyist in serious legal trouble. Generally gifts to congresspersons or their staffs or federal officials are not allowed, but with a few exceptions: books are permitted, provided that the inside cover is inscribed with the congressperson's name and the name of one's organization. <ref name=twsL16/> Gifts under $5 are allowed. <ref name=twsL16/> Another exception is awards, so it is permitted to give a congressperson a plaque thanking him or her for support on a given issue. <ref name=twsL16/> Cash gifts payable by check only can only be made to campaign committees, not to a candidate personally or to his or her staff; it is not permitted to give cash or stock. <ref name=twsL16/>  . 
+
+The dynamics of the lobbying world make it fairly easy for a semi-skilled operator to defraud a client. This is essentially what happened in the [[Jack Abramoff Indian lobbying scandal]]. There was a concerned client—in this case, an [[Native American gaming|Indian casino]]—worried about possible ill-effects of legislation on its gambling business; and there were lobbyists such as [[Jack Abramoff]] who knew how to exploit these fears. The lobbyists actively lobbied ''against'' their own casino-client as a way to ratchet up their fears of adverse legislation as well as stoke possible future contributions; the lobbyists committed other violations such as grossly overbilling their clients as well as violating rules about giving gifts to congresspersons. Numerous persons went to jail after the scandal. The following are factors which can make fraud a fairly easy-to-do activity: that lobbyists are paid only to ''try to'' influence decision-makers, and may or may not succeed, making it hard to tell if a lobbyist did actual work;<ref name=twsL13/> that much of what happens regarding interpersonal relations is obscure despite rather strict disclosure and transparency requirements; that there are sizable monies involved—factors such as these almost guarantee that there will be future scandals involving fraudulent lobbying activity, according to one assessment. A fraud similar to Abramoff's was perpetuated in [[Maryland]] by lobbyist Gerald E. Evans, who was convicted of mail and wire fraud in 2000 in a case involving falsely creating a "fictitious legislative threat" against a client, and then billing the client to work against this supposed threat. <ref name=twsL32xx>{{cite news
+ |author= John Wagner
+ |title= Evans regains top lobbying spot in Annapolis
+ |publisher= ''[[The Washington Post]]''
+ |quote= ... Evans was convicted ... accusations of concocting a fictitious legislative threat that he charged clients to lobby against... 
+ |date= Jan 2, 2012
+ |url= http://www.washingtonpost.com/blogs/maryland-politics/post/evans-regains-top-lobbying-spot-in-annapolis/2012/01/02/gIQAvt8UWP_blog.html
+ |accessdate= 2012-01-12
+}}</ref> . 
+
+Lobbyists routinely monitor how congressional officials vote, sometimes checking the past voting records of congresspersons. <ref name=twsL16/> One report suggested that reforms requiring "publicly recorded committee votes" were not used much by news media or voters but rather helped lobbyists were voting as they had promised earlier. <ref name=twsW11/> As a general rule, candidates and lawmakers must vote as a particular interest group wishes them to vote, or risk losing support. <ref name=twsL16/> . 
+
+Strategy usually dictates targeting specific office holders. On the state level, one study suggested that much of the lobbying activity targeted the offices of governors as well as state-level executive bureaucrats; state lobbying was an "intensely personal game" with face-to-face contact being required for important decisions. <ref name=twsL27>{{cite news
+ |author= Anthony J. Nownes, Krissy Walker DeAlejandro
+ |title= Lobbying in the New Millennium: Evidence of Continuity and Change in Three States
+ |publisher= ''State Politics & Policy Quarterly''
+ |quote= vol. 9 no. 4 pages 429-455 
+ |date= December 11, 2011
+ |url= http://spa.sagepub.com/content/9/4/429.abstract
+ |accessdate= 2012-01-12
+}}</ref> . 
+
+Lobbying can be a counteractive response to the lobbying efforts of others. One study suggested this was particularly true for battles surrounding possible decisions by the [[Supreme Court of the United States|Supreme Court]] which is considered as a "battleground for public policy" in which differing groups try to "etch their policy preferences into law". <ref name=twsL28>{{cite news
+ |author= Lisa A. Solowiej, Paul M. Collins jr
+ |title= Counteractive Lobbying in the U.S. Supreme Court
+ |publisher= ''American Politics Research''
+ |quote= vol. 37 no. 4 670-699  doi: 10.1177/1532673X08328674 
+ |date= July 2009 
+ |url= http://apr.sagepub.com/content/37/4/670.abstract
+ |accessdate= 2012-01-12
+}}</ref> Sometimes there are lobbying efforts to slow or derail other legislative processes; for example, when the [[Food and Drug Administration|FDA]] began considering a cheaper generic version of the costly anti-clotting drug [[Enoxaparin sodium|Lovenox]], the French pharmaceutical firm Sanofi "sprang into action to try and slow the process."<ref name=twsN212>{{cite news
+ |author= Nancy Cordes
+ |title= Senators rail at big pharma's secretive lobbying
+ |publisher= ''CBS News''
+ |date= May 29, 2011
+ |url= http://www.cbsnews.com/stories/2011/05/29/eveningnews/main20067228.shtml
+ |accessdate= 2012-01-14
+}}</ref> Lobbyists are often assembled in anticipation of a potential takeover bid, particularly when there are large high-profile companies, or a large foreign company involved, and substantial concern that the takeover may be blocked by regulatory authorities. <ref name=twsL41/> . 
+
+An example may illustrate. The company [[Tyco International|Tyco]] had learned that there had been discussion about a possible new tax provision that might have cost it $4 billion overall. <ref name=twsM13/> So the firm hired Jack Abramoff and paid him a retainer of $100,000 a month. <ref name=twsM13/> He assembled dozens of lobbyists with connections to key congressional committees with the ultimate objective being to influence powerful [[United State Senate|Senator]] [[Charles Grassley]]. <ref name=twsM13>{{cite news
+ |title= The Tuesday Podcast: Jack Abramoff On Lobbying
+ |publisher= ''NPR''
+ |date= December 20, 2011
+ |url= http://www.npr.org/blogs/money/2011/12/20/144028899/the-tuesday-podcast-jack-abramoff-on-lobbying
+ |accessdate= 2012-01-13
+}}</ref> Abramoff began with a fundraising effort to round up "every check" possible. <ref name=twsM13/> He sought funds from his other lobbying clients: . 
+
+:{{Quote|I had my clients understand that just as other clients who had nothing to do with them, would step up and give contributions to congressmen they needed to have some sway with, so similarly they needed to do the same. I went to every client I could, and rounded up every check we could for him.|Lobbyist [[Jack Abramoff]] in 2011<ref name=twsM13/>}} . 
+
+===Lobbyists as educators and advisors===. 
+Since government has grown increasingly complex, having to deal with new technologies, the task of writing rules has become more complex. "Government has grown so complex that it is a virtual certainty that more than one agency would be affected by any piece of legislation," according to one view. <ref name=twsL16/> Lobbyists, therefore, spend considerable time learning the ins and outs of issues, and can use their expertise to educate lawmakers<ref name=twsN115/> and help them cope with difficult issues. <ref name=twsL19/> Lobbyists' knowledge has been considered to be an intellectual subsidy for lawmakers. <ref> RICHARD L. HALL and ALAN V. DEARDORFF (2006). Lobbying as Legislative Subsidy. American Political Science Review, 100 , pp 69-84 doi:10.1017/S0003055406062010</ref><ref name=twsN115/> Some lobbyists become specialists with expertise in a particular set of issues, although one study suggested that of two competing criteria for lobbyists—expertise or access—that access was far more important. <ref name=twsM214/><ref>Bertrand, Marianne, Matilde Bombardini, and Francesco Trebbi (2011), “Is It Whom You Know or What You Know? An Empirical Assessment of the Lobbying Process,” University of British Columbia Working Paper. </ref><ref>Blanes i Vidal, Jordi, Mirko Dracaz, and Christian Fons-Rosen (2011), “Revolving Door Lobbyists,” London School of Economics Working Paper. </ref> . 
+
+[[Lobby groups]] and their members sometimes also write legislation and [[Whip (politics)|whip]] bills, and in these instances, it is helpful to have lawyers skilled in writing legislation to assist with these efforts. <ref name=twsL16/> It is often necessary to research relevant laws and issues beforehand. <ref name=twsN411/> In many instances lobbyists write the actual text of the proposed law, and hire lawyers to "get the language down pat"—an omission in wording or an unclear phrase may open up a loophole for opponents to wrangle over for years. <ref name=twsL16/> And lobbyists can often advise a lawmaker on how to navigate the approval process. <ref name=twsN115/> . 
+
+Lobbying firms can serve as mentors and guides. For example, after months of protesting by the [[Occupy Wall Street]], one lobbying firm prepared a memo to its clients warning that Republicans may "turn on big banks, at least in public" which may have the effect of "altering the political ground for years to come."<ref name=twsL43>{{cite news
+ |author= Jason Cherkis
+ |title= Lobbying Firm Memo To Advise Wall Street Clients On Occupy Movement 
+ |publisher= ''Huffington Post''
+ |date= Nov. 23, 2011
+ |url= http://www.huffingtonpost.com/2011/11/18/lobbying-firm-occupy-wall-street_n_1102310.html
+ |accessdate= 2012-01-12
+}}</ref> Here are parts of the memo which were broadcast on the [[MSNBC]] network.  . 
+
+{{Quote|Leading Democratic party strategists have begun to openly discuss the benefits of embracing the growing and increasingly organized Occupy Wall Street (OWS) movement ... This would mean more than just short-term discomfort for Wall Street firms. If vilifying the leading companies of this sector is allowed to become an unchallenged centerpiece of a coordinated Democratic campaign, it has the potential to have very long-lasting political, policy and financial impacts on the companies in the center of the bullseye. ... the bigger concern should be that Republicans will no longer defend Wall Street companies...|Clark, Lytle, Geduldig, Cranford, law/lobbying firm, to a Wall Street client<ref name=twsL43/>}} . 
+
+===A growing billion dollar business===. 
+{| class="wikitable" style="float:right;"
+. |-
+|+Top lobbying sectors 1998-2010<ref>{{cite web|url=http://www.opensecrets.org/lobby/index.php|publisher=OpenSecrets.org|title=Lobbying Database|publisher=[[Open Secrets]]}}</ref><ref>{{cite web|url=http://www.opensecrets.org/lobby/top.php?indexType=c|publisher=OpenSecrets.org|title=Ranked Sectors|publisher=[[Open Secrets]]}}</ref>
+. |-
+! !! Client !! Amount Spent !! %
+. |-
+! 1
+| Finance, Insurance & Real Estate || $4,274,060,331 || 15%
+. |-
+! 2
+| Health || $4,222,427,808 || 15%
+. |-
+! 3
+| Misc Business || $4,149,842,571 || 14%
+. |-
+! 4
+| Communications/Electronics || $3,497,881,399 || 12%
+. |-
+! 5
+| Energy & Natural Resources || $3,104,104,518 || 11%
+. |-
+! 6
+| Transportation || $2,245,118,222 || 8%
+. |-
+! 7
+| Other || $2,207,772,363 || 7%
+. |-
+! 8
+| Ideological/Single-Issue || $1,477,294,241 || 5%
+. |-
+! 9
+| Agribusiness || $1,280,824,983 || 4%
+. |-
+! 10
+| Defense || $1,216,469,173 || 4%
+. |-
+! 11
+| Construction || $480,363,108 || 2%
+. |-
+! 12
+| Labor || $427,355,408 || 1%
+. |-
+! 13
+| Lawyers & Lobbyists themselves || $336,170,306 || 1%
+. |-
+! 
+|'''Total''' || $28,919,684,431 || 99%<ref>Note: numbers do not add to 100% because of rounding error. </ref>
+. |-
+! 
+|<small>Note: Amounts do ''not'' include<br>campaign contributions. </small><ref>http://www.opensecrets.org/lobby/index.php</ref><ref name=twsM18>{{cite book
+  | last = Sachs
+  | first = Jeffrey
+  | title = ''The Price of Civilization''
+  | publisher = Random House
+  | date = 2011
+  | location = New York
+  | quote= Center for Responsive Politics, cited in ''The Price of Civilization'' by Jeffrey D. Sachs (p.112) Numbers for 1998 to 20'''11''' in USD billions: Finance, Insurance and Real Estate $4.5; Health $4.5; Miscellaneous Business $4.5; Communications and Electronics $3.7; Energy and Natural Resources $3.3; Transportation $2.4; Other $2.3; Ideology/Single-Issue $1.5; Agribusiness $1.3; Defense $1.3; Construction $0.5; Labor $0.5; Lawyers and Lobbyists $0.4
+  | pages = 112
+  | language = English
+  | isbn = 978-1-4000-6841-8}}</ref>  ||  || 
+. |-
+|} . 
+
+Since the 1970s, there has been explosive growth in the lobbying industry, particularly in [[Washington D.C.]]. By 2011, one estimate of overall lobbying spending nationally was $30+ billion dollars. <ref name=twsM18/> An estimate of lobbying expenses in the federal arena was $3.5 billion in 2010, while it had been only $1.4 billion in 1998. <ref name=twsJanQ2ww3/> And there is prodigious data since firms are required to disclose lobbying expenditures on a quarterly basis.  . 
+
+The industry, however, is not immune to economic downturns. If Congress is gridlocked, such as during the summer and early fall of 2011, lobbying activity dipped considerably, according to ''[[The Washington Post]]''. <ref name=twsM63>{{cite news
+ |author= Catherine Ho
+ |title= Lobbying revenue lags in wake of gridlocked Congress
+ |work= [[The Washington Post]]
+ |date= October 30, 2011
+ |url= http://www.washingtonpost.com/business/capitalbusiness/lobbying-slumps-in-third-quarter/2011/10/24/gIQAYbt7WM_story.html
+ |accessdate= 2012-01-13
+}}</ref> Lobbying firm Patton Boggs reported drops in revenue during that year, from $12 million in 2010 to $11 million in 2011. <ref name=twsM63/> To cope with the downturn, some law firms compensated by increasing activity in litigation, regulatory work, and representing clients in congressional investigations. <ref name=twsM63/> . 
+
+A sea-change in government, such as a shift in control of the legislature from one political party to the other, can affect the lobbying business profoundly. For example, the primarily Democratic-serving lobbying firm [[Cassidy & Associates]] learned that control of Congress would change hands from Democrats to Republicans in 1994, and the firm acquired Republican lobbyists before the congressional handover of power, and the move helped the lobbying firm stay on top of the new political realities. <ref name=twsM33ljjk>{{cite news
+ |author= Robert G. Kaiser; Alice Crites (research contributor)
+ |work = Citizen K Street
+ |title= How lobbying became Washington's biggest business -- Big money creates a new capital city. As lobbying booms, Washington and politics are transformed. 
+ |publisher= ''Washington Post''
+ |date= 2007
+ |url= http://blog.washingtonpost.com/citizen-k-street/chapters/chapter_10/
+ |accessdate= 2012-01-13
+}}</ref> . 
+
+===Examples of lobbying===. 
+There are numerous examples of lobbying activity reported by the media. One report chronicled a somewhat unusual alliance of consumer advocates and industry groups to boost funding for the [[Food and Drug Administration]]; the general pattern of lobbying efforts had been to try to reduce the regulatory oversight of such an agency. In this case, however, lobbying groups wanted the federal watchdog agency to have tougher policing authority to avert expensive problems when oversight was lax; in this case, industry and consumer groups were in harmony, and lobbyists were able to persuade officials that higher FDA budgets were in the public interest. <ref name=twsM15>{{cite news
+ |author= Dina ElBoghdady
+ |title= FDA funding boosted through lobbying effort
+ |work= [[The Washington Post]]
+ |date= November 30, 2011
+ |url= http://www.washingtonpost.com/business/economy/fda-funding-boosted-through-lobbying-effort/2011/11/23/gIQAXHQ6CO_story.html
+ |accessdate= 2012-01-13
+}}</ref> Religious consortiums, according to one report, have engaged in a $400 million lobbying effort on such issues as the relation between church and state, civil rights for religious minorities, bioethics issues including abortion and capital punishment and end-of-life issues, and family issues. <ref name=twsM25>{{cite news
+ |author= Dan Gilgoff
+ |title= Report tracks explosion of religious lobbying in Washington
+ |publisher= ''CNN''
+ |date= November 22, 2011 
+ |url= http://religion.blogs.cnn.com/2011/11/22/report-tracks-explosion-of-religious-lobbying-in-washington/
+ |accessdate= 2012-01-13
+}}</ref> . 
+
+===Lobbying as a career===. 
+While national-level lobbyists working in Washington have the highest salaries, many lobbyists operating at the state level can earn substantial salaries. The table shows the top lobbyists in one state—[[Maryland]]—in 2011.  . 
+
+{| class="wikitable" style="float:right;"
+|+Top Maryland lobbyists (2011)
+. |-
+!'''Lobbyist'''
+!'''Income'''
+. |-
+|align="left"|Gerard E. Evans
+|align="right"|${{nts|1232000}}
+. |-
+|align="left"|Timothy A. Perry
+|align="right"|${{nts|1217793}}
+. |-
+|align="left"|Joel D. Rozner
+|align="right"|${{nts|1215161}}
+. |-
+|align="left"|Robin F. Shaivitz
+|align="right"|${{nts|1156368}}
+. |-
+|align="left"|Gregory S. Proctor Jr. 
+|align="right"|${{nts|1107144}}
+. |-
+|align="left"|John R. Stierhoff
+|align="right"|${{nts|1059766}}
+. |-
+|align="left"|Michael V. Johansen
+|align="right"|${{nts|1050234}}
+. |-
+|align="left"|Nicholas G. Manis
+|align="right"|${{nts|1016250}}
+. |-
+|align="left"|D. Robert Enten
+|align="right"|${{nts|863193}}
+. |-
+|align="left"|Lisa Harris Jones
+|align="right"|${{nts|857000}}
+. |-
+|align="left"|
+|align="right"|<small>Source:<br> State Ethics<br>Commission</small><ref name=twsL32>{{cite news
+ |author= John Wagner
+ |title= Evans regains top lobbying spot in Annapolis
+ |work= [[The Washington Post]]
+ |date= Jan 2, 2012
+ |url= http://www.washingtonpost.com/blogs/maryland-politics/post/evans-regains-top-lobbying-spot-in-annapolis/2012/01/02/gIQAvt8UWP_blog.html
+ |accessdate= 2012-01-12
+}}</ref>
+. |-
+|} . 
+
+Top power-brokers such as [[Gerald Cassidy]] have made fortunes from lobbying: . 
+
+{{Quote|Cassidy's reaction to his own wealth has been complicated. He lives large, riding around town in his chauffeured car, spending thousands on custom-made clothes, investing big money in, for example, the Charlie Palmer Steak restaurant at the foot of Capitol Hill just for the fun of it. He has fashioned a wine cellar of more than 7,000 bottles. He loves to go to England and live like a gentleman of the kind his Irish antecedents would have considered an anathema.|journalist [[Robert G. Kaiser]] in 2007 in the ''[[Washington Post]]''<ref name=twsM33fsa/>}} . 
+
+===Effectiveness of lobbying===. 
+[[File:USCurrency Federal Reserve.jpg|thumb|right|There is general agreement that money is a key variable in lobbying.]]
+The general consensus view is that lobbying generally works overall in achieving sought-after results for clients, particularly since it has become so prevalent with substantial and growing budgets, although there are dissenting views. A study by the investment-research firm Strategas which was cited in ''[[The Economist]]'' and the ''[[Washington Post]]'' compared the 50 firms that spent the most on lobbying relative to their assets, and compared their financial performance against that of the [[S&P 500]] in the stock market; the study concluded that spending on lobbying was a "spectacular investment" yielding "blistering" returns comparable to a high-flying hedge fund, even despite the financial downturn of the past few years. <ref name=twsM23>{{cite news
+ |author= Brad Plumer
+ |title= The outsized returns from lobbying
+ |work= [[The Washington Post]]
+ |quote= ...Hiring a top-flight lobbyist looks like a spectacular investment ... 
+ |date= October 10, 2011
+ |url= http://www.washingtonpost.com/blogs/ezra-klein/post/the-outsized-returns-from-lobbying/2011/10/10/gIQADSNEaL_blog.html
+ |accessdate= 2012-01-13
+}}</ref> The key ingredient necessary for making any lobbying effective is almost always [[money]]. <ref name=twsW16>{{cite news
+ |author= Tony Burman
+ |title= Burman: Campaign funding in U.S. makes a joke of democracy
+ |work= The Star
+ |date= Dec 17 2011
+ |url= http://www.thestar.com/news/article/1102453
+ |accessdate= 2012-01-23
+}}</ref> There is strong consensus that this is true, particularly among players in the lobbying industry.  . 
+
+{{Quote|Deep pockets speak; the money trumps it all.|Anonymous lobbyist, 2002<ref name=twsL13>{{cite news
+ |author= Woodstock Theological Center
+ |title= The Ethics of Lobbying: Organized Interests, Political Power, and the Common Good
+ |publisher= ''Georgetown University Press''
+ |quote= (see page 1 of "The Ethics of Lobbying" chapter)
+ |date= 2002
+ |isbn= 0-84740-905-X
+ |url= http://books.google.com/books?id=eAwAOswq5VMC&printsec=frontcover&dq=%22lobbying%22&hl=en&sa=X&ei=o40PT-reG8fv0gGUlbmOAw&ved=0CEYQ6AEwBA#v=onepage&q=%22lobbying%22&f=false
+ |accessdate= 2012-01-12
+}}</ref>}} . 
+
+Still, effectiveness can vary depending on the situational context. One view is that large multiple-issue lobbies tend to be effective in getting results for their clients if they are sophisticated, managed by a legislative director familiar with the art of compromise, and play "political hardball". <ref name=twsL16/> But if such lobbies became too big, such as large industrial trade organizations, they became harder to control, often leading to lackluster results. <ref name=twsL16/> A study in 2001 which compared lobbying activity in US-style congressional versus European-style parliamentary systems, found that in congressional systems there was an advantage favoring the "agenda-setters", but that in both systems, "lobbying has a marked effect on policies". <ref name=twsL24>{{cite news
+ |author= Helpman, Elhanan and Persson, Torsten
+ |title= Lobbying and Legislative Bargaining
+ |publisher= ''Advances in Economic Analysis & Policy''
+ |quote= Vol. 1: Iss. 1, Article 3. 
+ |date= November 3, 2001
+ |url= http://www.bepress.com/bejeap/advances/vol1/iss1/art3/
+ |accessdate= 2012-01-12
+}}</ref> One report suggested that the 1,000 registered lobbyists in [[California]] were highly influential such that they were called the ''Third House''. <ref name=twsM54>{{cite news
+ |author= Karen de Sá
+ |title= State senator aims to double lobby fee in California -- to 14 cents a day
+ |publisher= ''San Jose Mercury News''
+ |quote= ... California's 1,000 registered lobbyists are so influential they're known as the "The Third House." ... 
+ |date= December 26, 2011
+ |url= http://www.mercurynews.com/california/ci_19619569
+ |accessdate= 2012-01-13
+}}</ref> . 
+
+Studies of lobbying by academics in previous decades painted a picture of lobbying being an ineffectual activity, although many of these studies were done before lobbying became prevalent in American politics. A study in 1963 by by Bauer, Pool, & Dexter suggested lobbyists were mostly "impotent" in exerting influence. <ref name=twsL17/> Studies in the early 1990s suggested that lobbying exerted influence only "marginally", although it suggested that when lobbying activity did achieve political impacts, that the results of the political choices were sufficient to justify the expenditure on lobbying. <ref name=twsL17/> A fairly recent study in 2009 is that Washington lobbies are "far less influential than political rhetoric suggests", and that most lobbying campaigns do not change any views and that there was a strong entrenchment of the [[status quo]]. <ref name=twsL12>{{cite news
+ |author= Baumgartner, Berry, Hojnacki, Kimball, Leach
+ |title= Lobbying and Policy Change: Who wins, who loses, and why
+ |publisher= ''The University of Chicago Press''
+ |quote= (see back book jacket in green)
+ |date= 2009
+ |isbn= 13:978-0-226-038045-0
+ |url= http://books.google.com/books?id=0UIYWSPxnLkC&printsec=frontcover&dq=%22lobbying%22&hl=en&sa=X&ei=o40PT-reG8fv0gGUlbmOAw&ved=0CEAQ6AEwAw#v=onepage&q=%22lobbying%22&f=false
+ |accessdate= 2012-01-12
+}}</ref> But it depends on what is seen as "effective", since many lobbying battles result in a stalemate, since powerful interests battle, and in many cases, merely keeping the "status quo" could be seen as a victory of sorts. What happens often is that varying coalitions find themselves in "diametrical opposition to each other" and that stalemates result. <ref name=twsL19/><ref name=twsL25>{{cite news
+ |author= Morten Bennedsena, Sven E. Feldmann
+ |title= Informational lobbying and political contributions
+ |publisher= ''Journal of Public Economics''
+ |quote= Volume 90, Issues 4–5, May 2006, Pages 631–656
+ |date= May 2006
+ |url= http://www.sciencedirect.com/science/article/pii/S0047272705001222#search=%22lobbying%22
+ |accessdate= 2012-01-12
+}}</ref> . 
+
+There is anecdotal evidence from numerous newspaper accounts of different groups battling that lobbying activity usually achieves results. For example, the [[Barack Obama|Obama]] administration pledged to stop for-profit colleges from "luring students with false promises", but with this threat, the lobbying industry sprang into action with a $16 million campaign, and their efforts succeeded in watering down the proposed restrictions. <ref name=twsM14>{{cite news
+ |author= ERIC LICHTBLAU
+ |title= With Lobbying Blitz, For-Profit Colleges Diluted New Rules
+ |publisher= ''The New York Times''
+ |date= December 9, 2011 
+ |url= http://www.nytimes.com/2011/12/10/us/politics/for-profit-college-rules-scaled-back-after-lobbying.html?pagewanted=all
+ |accessdate= 2012-01-13
+}}</ref> How did the lobbying campaign succeed? Actions taken included:
+::#spent $16 million<ref name=twsM14/>
+::#hired "all-star list" of prominent players including Democrats with White House ties<ref name=twsM14/>
+::#plotted strategy<ref name=twsM14/>
+::#worked with "fund-raising bundler" Jamie Rubin, a former Obama communications director<ref name=twsM14/>
+::#won support from influential people including congressperson-turned-lobbyist [[Richard A. Gephardt|Dick Gephardt]], senator-turned-lobbyist [[John Breaux]], lobbyist [[Tony Podesta]], Washington Post CEO [[Donald E. Graham]], education entrepreneur and [[University of Phoenix]] founder [[John Sperling]], others<ref name=twsM14/>
+::#key leaders made "impassioned appeals"<ref name=twsM14/>
+::#mobilization effort produced 90,000 public documents to the Education department advocating against changes<ref name=twsM14/> . 
+
+And sometimes merely keeping the [[status quo]] could be seen as a victory. When gridlock led to the supposed [[United States Congress Joint Select Committee on Deficit Reduction|supercommittee]] solution, numerous lobbyists from all parts of the political spectrum worked hard, and a stalemate resulted, but with each side defended their own special interests. <ref name=twsM41>{{cite news
+ |author= Alex M. Parker
+ |title= Super-Committee Lobbying Begins in Earnest
+ |publisher= ''US News''
+ |date= October 13, 2011
+ |url= http://www.usnews.com/news/articles/2011/10/13/super-committee-lobbying-begins-in-earnest
+ |accessdate= 2012-01-13
+}}</ref> And while money is an important variable, it is one among many variables, and there have been instances in which huge sums have been spent on lobbying only to have the result backfire. One report suggested that the communications firm [[AT&T]] failed to achieve substantial results from its lobbying efforts in 2011, since government antitrust officials rejected its plan to acquire rival [[T-Mobile]]. <ref name=twsM35>{{cite news
+ |author= Jim Puzzanghera
+ |title= AT&T finds big-money lobbying, ad efforts don't always pay off
+ |publisher= ''Los Angeles Times''
+ |quote= ... But the rejection of its proposed $39-billion purchase of T-Mobile USA showed that money can't necessarily buy you love from antitrust officials... 
+ |date= December 21, 2011
+ |url= http://articles.latimes.com/2011/dec/21/business/la-fi-att-regulators-20111221
+ |accessdate= 2012-01-13
+}}</ref> . 
+
+Lobbying is a practical necessity for firms that "live and die" by government decisions, such as large government contractors such as Boeing. A study done in 2006 by ''[[Bloomberg News]]'' suggested that lobbying was a "sound money-making strategy" for the 20 largest federal contractors. The largest contractor, Lockheed Martin Corporation, received almost $40 billion in federal contracts in 2003-4, and spent $16 million on lobbying expenses and campaign donations. <ref name=twsM23/> For each dollar of lobbying investment, the firm received $2,517 in revenues, according to the report. <ref name=twsM23/> When the lobbying firm [[Cassidy & Associates]] began achieving results with earmarks for colleges and universities and medical centers, new lobbying firms rose to compete with them to win "earmarks of their own", a clear sign that the lobbying was exceedingly effective. <ref name=twsM33fsa/> . 
+
+==Lobbying controversies==. 
+Lobbying has been the subject of much debate and discussion. There is general consensus that lobbying has been a significant [[Political corruption|corrupting influence]] in American politics, although criticism is not universal, and there have been arguments put forward to suggest that the system is working properly.  . 
+
+===Negative image===. 
+Generally the image of lobbyists and lobbying in the [[public sphere]] is not a positive one, although this is not a universal sentiment. Lobbyists have been described as a "hired gun" without principles or positions. <ref name=twsL13/> Scandals involving lobbying have helped taint the image of the profession, such as ones involving Jack Abramoff, Randy "Duke" Cunningham, and Bob Nye and others, and which featured words such as "bribery", "lobbyist", "member of Congress" and "prison" tending to appear together in the same articles. <ref name=twsL18/> Negative publicity can sully lobbying's image to a great extent: high-profile cases of lobbying fraud such as Abramoff's;<ref name=twsL18/> dubious father-son exchange-of-favors ties;<ref name=twsL33/> public officials such as [[Newt Gingrich]] being accused and then denying accusations of having done lobbying and earning $1.6 million from "strategic advice". <ref name=twsL35>{{cite news
+ |author= Nia-Malika Henderson
+ |title= Newt Gingrich insists he did ‘no lobbying of any kind’ while working for Freddie Mac
+ |work= [[The Washington Post]]
+ |quote= Gingrich ... earned $1.6 million for providing the lender strategic advice. ... 
+ |date= December 15, 2011
+ |url= http://www.washingtonpost.com/blogs/election-2012/post/newt-gingrich-insists-he-did-no-lobbying-of-any-kind-while-working-for-freddie-mac/2011/12/15/gIQArow3wO_blog.html
+ |accessdate= 2012-01-12
+}}</ref> There are a variety of reasons why lobbying has acquired a negative image in public consciousness. While there is much disclosure, much of it happens in hard-to-disclose personal meetings, and the resulting secrecy and confidentiality can serve to lower lobbying's status. <ref name=twsL16/>  . 
+
+===Revolving door===. 
+[[File:HK 中環 Central 中國銀行大廈 Bank of China Building front door 旋轉門 revolving door June-2010.JPG|thumb|right|The image of a revolving door has been used to describe the relation between working in government and for lobbyists.]]
+Since the 1980s, congresspersons and staffers have been "going downtown" -- becoming lobbyists -- and the big draw is money. <ref name=twsN113/> The "lucrative world of K Street" means that former congresspersons with even "modest seniority" can move into jobs paying $1 million or more annually, without including bonuses for bringing in new clients. <ref name=twsN113>{{cite news
+ |author= THOMAS B. EDSALL
+ |title= The Trouble With That Revolving Door
+ |publisher= ''The New York Times''
+ |date= 2011
+ |url= http://campaignstops.blogs.nytimes.com/2011/12/18/the-trouble-with-that-revolving-door/
+ |accessdate= 2012-01-14
+}}</ref> The general concern of this revolving-door activity is that elected officials—persons who were supposed to represent the interests of citizens—have instead become entangled with the big-money interests of for-profit corporations and interest groups with narrow concerns, and that public officials have been taken over by private interests. <ref name=twsW11/> . 
+
+In July 2005, [[Public Citizen]] published a report entitled "The Journey from Congress to [[K Street (Washington, D.C.)|K Street]]": the report analyzed hundreds of lobbyist registration documents filed in compliance with the [[Lobbying Disclosure Act]] and the [[Foreign Agents Registration Act]] among other sources. It found that since 1998, 43 percent of the 198 members of Congress who left government to join private life have registered to lobby. A similar report from the [[Center for Responsive Politics]] found 370 former members were in the "influence-peddling business", with 285 officially registered as federal lobbyists, and 85 others who were described as providing "strategic advice" or "public relations" to corporate clients. <ref name=twsN113/> ''[[The Washington Post]]'' described these results as reflecting the "sea change that has occurred in lawmakers' attitudes toward lobbying in recent years." The report included a [[case study]] of one particularly successful lobbyist, [[Bob Livingston]], who stepped down as [[Speaker of the United States House of Representatives|Speaker-elect]] and resigned his seat in 1999. In the six years since his resignation, [[The Livingston Group]] grew into the 12th largest non-law lobbying firm, earning nearly $40 million by the end of 2004. During roughly the same time period, Livingston, his wife, and his two [[political action committee]]s (PACs) contributed over $500,000 to the campaign funds of various candidates.  . 
+
+Numerous reports chronicle the ''revolving door'' phenomenon. <ref name=twsL13/> A 2011 estimate suggested that nearly 5,400 former congressional staffers had become federal lobbyists over a ten-year period, and 400 lawmakers made a similar jump. <ref name=twsM45>{{cite news
+ |author= T.W. Farnam,
+ |title= Revolving door of employment between Congress, lobbying firms, study shows
+ |work= [[The Washington Post]]
+ |date= September 13, 2011
+ |url= http://www.washingtonpost.com/politics/study-shows-revolving-door-of-employment-between-congress-lobbying-firms/2011/09/12/gIQAxPYROK_story.html
+ |accessdate= 2012-01-13
+}}</ref> It is a "symbiotic relationship" in the sense that lobbying firms can exploit the "experience and connections gleaned from working inside the legislative process", and lawmakers find a "ready pool of experienced talent."<ref name=twsM45/> There is movement in the other direction as well: one report found that 605 former lobbyists had taken jobs working for lawmakers over a ten-year period. <ref name=twsM45/> A study by the [[London School of Economics]] found 1,113 lobbyists who had formerly worked in lawmakers' offices. <ref name=twsM45/> The lobbying option is a way for staffers and lawmakers to "cash in on their experience", according to one view. <ref name=twsM33fsa/> Before the 1980s, staffers and aides worked many years for congresspersons, sometimes decades, and tended to stay in their jobs; now, with the lure of higher-paying lobbying jobs, many would quit their posts after a few years at most to "go downtown."<ref name=twsM33fsa/> . 
+
+[[File:Dick Gephardt.jpg|thumb|right|Lawmaker turned lobbyist: Democratic congressperson [[Dick Gephardt]] switched to lobbying and has been making millions annually working for clients such as [[Goldman Sachs]].]]
+And it is not just staffers, but lawmakers as well, including high-profile ones such as congressperson [[Richard Gephardt]]. He represented a "working-class" district in [[Missouri]] for many years but after leaving Congress, he became a lobbyist. <ref name=twsN113/> In 2007, he began his own lobbying firm called "Gephardt Government Affairs Group" and in 2010 it was earning close to $7 million in revenues with clients including [[Goldman Sachs]], [[Boeing]], [[Visa Inc.]], [[Ameren Corporation]], and [[Waste Management Inc.]]. <ref name=twsN113/> Senators [[Bob Bennett (politician)|Robert Bennett]] and [[Byron Dorgan]] became lobbyists too. <ref name=twsN213>{{cite news
+ |author= Catalina Camia
+ |title= Two ex-senators join major lobbying firm 
+ |publisher= ''USA Today''
+ |date= 2011-01-11
+ |url= http://content.usatoday.com/communities/onpolitics/post/2011/01/robert-bennett-byron-dorgan-arent-fox-/1
+ |accessdate= 2012-01-14
+}}</ref> Alabama governor [[Haley Barbour]] became a lobbyist. <ref name=twsM51>{{cite news
+ |author= Lucy Madison
+ |title= Haley Barbour will return to lobbying after governorship ends
+ |publisher= ''CBS News''
+ |date= December 22, 2011
+ |url= http://www.cbsnews.com/8301-503544_162-57347135-503544/haley-barbour-will-return-to-lobbying-after-governorship-ends/
+ |accessdate= 2012-01-13
+}}</ref> In 2010, former representative [[Billy Tauzin]] earned $11 million running the drug industry's lobbying organization. called the [[Pharmaceutical Research and Manufacturers of America]]. <ref name=twsN113/> Many former representatives earned over $1 million in one year, including [[James C. Greenwood|James Greenwood]] and [[Daniel Glickman]]. <ref name=twsN113/> . 
+
+===Insider's game===. 
+[[File:Occupy Wall Street spreads to Portland.jpg|thumb|right|[[Occupy Wall Street]] protesters have been critical of lobbying in government.]]
+A similar concern voiced by critics of lobbying is that Washington politics has become dominated by elites, and that it is an "insider's game" excluding regular citizens<ref name=twsL13/> and which favors entrenched firms. <ref name=twsN114>{{cite news
+ |author= CASEY B. MULLIGAN
+ |title= Financial Lobbying and the Housing Crisis
+ |publisher= ''The New York Times''
+ |date= May 25, 2011
+ |url= http://economix.blogs.nytimes.com/2011/05/25/financial-lobbying-and-the-housing-crisis/
+ |accessdate= 2012-01-14
+}}</ref> Individuals generally can not afford to lobby, and critics question whether corporations with "deeper pockets" should have greater power than regular persons. <ref name=twsN411/> In this view, the system favors the rich, such that the "rich have gotten richer, the weak weaker", admits lobbyist [[Gerald Cassidy]]. <ref name=twsM33fsa/> There is concern that those having more money and better political connections can exert more influence than others. <ref name=twsN411/> However, analyst Barry Hessenius made a case that the excessive for-profit lobbying could be counteracted if there were more efforts to increase nonprofit lobbying and boost their effectiveness. <ref name=twsL19/><ref name=twsL13/> There is so much money that it has been described as a "flood" that has a "corrupting influence",<ref name=twsJanQ2ww3/> so that the United States appears to be "awash" in interest groups. <ref name=twsL18>{{cite news
+ |author= Ronald J. Hrebenar, Bryson B. Morgan
+ |title= Lobbying in America
+ |publisher= ''ABC-CLIO''
+ |quote= see Preface page xv
+ |date= 2009
+ |isbn= 978-1-59884-112-1
+ |url= http://books.google.com/books?id=cPkFSExXeWsC&printsec=frontcover&dq=%22lobbying%22&hl=en&sa=X&ei=iqYPT6fdH4b30gGPqu21Aw&ved=0CFwQ6AEwCTgK#v=onepage&q=%22lobbying%22&f=false
+ |accessdate= 2012-01-12
+}}</ref> If coalitions of different forces battle in the political arena for favorable treatment and better rules and tax breaks, it can be seen as fair if both sides have equal resources and try to fight for their interests as best they can. <ref name=twsM42>{{cite news
+ |author= Alan Zibel
+ |title= Lobbying Titans Square Off Over Loan Limits
+ |publisher= ''Wall Street Journal''
+ |date= November 4, 2011
+ |url= http://blogs.wsj.com/developments/2011/11/04/lobbying-titans-square-off-over-loan-limits/
+ |accessdate= 2012-01-13
+}}</ref><ref name=twsL41/> Gerald Cassidy said: . 
+
+{{Quote|In a lot of areas, the stakes are between big companies, and it's hard to argue that one solution is better than another solution with regard to the consumer's interest ... The issue ... is whether Company A's solution, or Company B's solution, based on their technology or their footprint, is the right one.|Lobbyist Gerald Cassidy<ref name=twsM33fsa/>}} . 
+
+A related but slightly different criticism is that the problem with lobbying as it exists today is that it creates an "inequity of access to the decision-making process". <ref name=twsL19/> As a result, important needs get left out of the political evaluation, such that there are no anti-hunger lobbies or lobbies seeking serious solutions to the problem of poverty. <ref name=twsM33fsa/> Nonprofit advocacy has been "conspicuously absent" from lobbying efforts, according to one view. <ref name=twsL19/> Critics suggest that when a powerful coalition battles a less powerful one, or one which is poorly connected or underfunded, the result may be seen as unfair and potentially harmful for the entire society. The increasing number of former lawmakers becoming lobbyists has led Senator [[Russ Feingold]] (D-WI) to propose paring back the many [[Capitol Hill]] privileges enjoyed by former senators and representatives. His plan would deprive lawmakers-turned-lobbyists of privileges such as unfettered access to otherwise "members only" areas such as the House and Senate floors and the House gym.  . 
+
+===Decision-making issues===. 
+[[File:Sign of the Times-Foreclosure.jpg|thumb|right|Studies have linked problems in the housing industry with lobbying efforts.]]
+A concern among many critics is that influence peddling hurts overall decision making, according to this criticism. Proposals with merit are dropped in favor of proposals backed by political expediency. <ref name=twsL19/> An example cited in the media is the recent battling between food industry lobbyists and healthcare lobbyists regarding school lunches. A group supported by the [[United States Department of Agriculture]] proposed healthier lunches as a way to combat [[childhood obesity]] by limiting the number of potatoes served, limiting salty foods, and adding more fresh vegetables, but this group was countered by a strong food lobby backed by [[Coca-Cola]], [[Del Monte Foods|Del Monte]], and makers of frozen pizza. <ref name=twsM34>{{cite news
+ |author= KJ Dell'Antonia
+ |title= Lobbying Against the Too-Healthy School Lunch
+ |publisher= ''Slate Magazine''
+ |date= Nov. 3, 2011
+ |url= http://www.slate.com/blogs/xx_factor/2011/11/03/congress_wants_the_agriculture_department_to_rethink_its_healthy.html
+ |accessdate= 2012-01-13
+}}</ref> The food lobbyists succeeded in blocking the proposed reforms, even writing rules suggesting that the [[tomato paste]] on a [[pizza]] qualified as a [[vegetable]],<ref name=twsJanQ2ww3>{{cite news
+ |author= Paul Harris
+ |title= 'America is better than this': paralysis at the top leaves voters desperate for change
+ |publisher= ''The Guardian''
+ |date= 19 November 2011
+ |url= http://www.guardian.co.uk/world/2011/nov/20/paralysis-in-us-politics-extremism
+ |accessdate= 2012-01-17
+}}</ref> but overall, according to critics, this case appeared to be an example where business interests won out over health concerns. <ref name=twsM34/> Critics use examples such as these to suggest that lobbying distorts sound governance. <ref name=twsM34/> A study by [[International Monetary Fund|IMF]] economists found that the "heaviest lobbying came from lenders making riskier loans and expanding their mortgage business most rapidly during the housing boom," and that there were indications that heavy-lobbying lenders were more likely to receive bailout funds. <ref name=twsN114>{{cite news
+ |author= CASEY B. MULLIGAN
+ |title= Financial Lobbying and the Housing Crisis
+ |publisher= ''The New York Times''
+ |quote= ... The study by the I.M.F. economists found that the heaviest lobbying came from lenders making riskier loans ... 
+ |date= May 25, 2011
+ |url= http://economix.blogs.nytimes.com/2011/05/25/financial-lobbying-and-the-housing-crisis/
+ |accessdate= 2012-01-14
+}}</ref><ref name=twsN311>{{cite news
+ |author= Stephen Gandel
+ |title= Wall Street and Markets: Did Lobbying Cause the Financial Crisis?
+ |publisher= ''Time Magazine''
+ |quote= ... The IMF economists found that lenders that lobbied the most also tended to make riskier loans. ... areas of the country dominated by lenders who spent the most lobbying dollars also tended to higher rates of default.... 
+ |date= May 26, 2011 
+ |url= http://curiouscapitalist.blogs.time.com/2011/05/26/did-lobbying-cause-the-financial-crisis/
+ |accessdate= 2012-01-14
+}}</ref><ref name=twsN312>{{cite news
+ |author= Deniz Igan, Prachi Mishra, Thierry Tressel
+ |title= A Fistful of Dollars: Lobbying and the Financial Crisis
+ |publisher= ''National Bureau of Economic Research''
+ |quote= NBER Working Paper No. 17076
+ |date= May 2011
+ |url= http://www.nber.org/papers/w17076
+ |accessdate= 2012-01-14
+}}</ref> The study found a correlation between lobbying by financial institutions and excessive risk-taking during 2000-2007, and the authors concluded that "politically active lenders played a role in accumulation of risks and thus contributed to the financial crisis". <ref name=twsN312/> Another study suggested that governments tend to protect domestic industries, and have a habit of shunting monies to ailing sectors; the study suggested that "it is not that government policy picks losers, it is that losers pick government policy."<ref name=twsL23>{{cite news
+ |author= Richard E. Baldwin, Frédéric Robert-Nicoud
+ |title= ENTRY AND ASYMMETRIC LOBBYING: WHY GOVERNMENTS PICK LOSERS
+ |publisher= ''Journal of the European Economic Association''
+ |quote= 5: 1064–1093. doi: 10.1162/JEEA.2007.5.5.1064
+ |date= 13 DEC 2010
+ |url= http://onlinelibrary.wiley.com/doi/10.1162/JEEA.2007.5.5.1064/abstract
+ |accessdate= 2012-01-12
+}}</ref> One critic suggested that the financial industry has successfully blocked attempts at regulation in the aftermath of the 2008 financial collapse. <ref name=twsW15>{{cite news
+ |author= NPR Staff
+ |title= Occupy Wall Street, Tea Party: United In Distrust
+ |work= NPR
+ |date= October 22, 2011
+ |url= http://www.npr.org/2011/10/22/141619672/finding-common-ground-between-two-movements
+ |accessdate= 2012-01-23
+}}</ref> . 
+
+===Legislative focus===. 
+[[File:Pizza.png|thumb|right|Lobbyists collided over school lunches. [[Pizza]] can be served to schoolchildren since [[tomato paste]] can be considered as a [[vegetable]] and part of a healthy meal.]]
+Critics have contended that when lawmakers are drawn into battles to determine issues such as the composition over school lunches or how much an ATM fee should be,<ref name=twsM52>{{cite news
+ |author= Tamara Keith
+ |title= Banks, Retailers In Lobbying Race Over Debit Fees
+ |publisher= ''NPR''
+ |date= May 10, 2011
+ |url= http://www.npr.org/2011/05/10/136147726/banks-retailers-in-lobbying-race-over-debit-fees
+ |accessdate= 2012-01-13
+}}</ref> more serious issues such as [[Deficit reduction in the United States|deficit reduction]] or [[global warming]] or [[Social Security (United States)|social security]] are neglected. <ref name=twsJanQ2ww3/><ref name=twsW11>{{cite news
+ |author= THOMAS B. EDSALL
+ |title= Putting Political Reform Right Into the Pockets of the Nation’s Voters
+ |work= The New York Times
+ |date= December 14, 2011
+ |url= http://www.nytimes.com/2011/12/15/books/republic-lost-campaign-finance-reform-book-review.html?pagewanted=all
+ |accessdate= 2012-01-23
+}}</ref> It leads to legislative inertia. <ref name=twsW14>{{cite news
+ |author= -Tom Ashbrook
+ |title= Lawrence Lessig on Money, Corruption and Politics
+ |work= 90.9 wbur (Boston's NPR)
+ |date= January 2, 2012 
+ |url= http://onpoint.wbur.org/2012/01/02/lawrence-lessig-on-money-corruption-and-politics
+ |accessdate= 2012-01-23
+}}</ref> The concern is that the preoccupation with what are seen as superficial issues prevents attention to long-term problems. Critics suggested that the 2011 Congress spent more time discussing per-transaction debit-card fees while neglecting issues seen as more pressing. <ref name=twsW11/><ref name=twsW13/> . 
+
+===Systemic issues===. 
+In this line of reasoning, critics contend that lobbying, in and of itself, is not the sole problem, but only one aspect of a larger problem with American governance. Critics point to an interplay of factors: citizens being uninvolved politically;<ref name=twsL13/> congresspersons needing huge sums of money for expensive television advertising campaigns; increased complexity in terms of technologies; congresspersons spending three days of every week raising money;<ref name=twsW13>{{cite news
+ |author= Margaret Carlson of Bloomberg News
+ |title= Book review: Harvard law professor Lawrence Lessig offers plan to smash culture of money in politics
+ |work= Chicago Tribune
+ |date= December 26, 2011
+ |url= http://articles.chicagotribune.com/2011-12-26/business/ct-biz-1226-book-review-lessig-20111226_1_rigs-harvard-law-book-review
+ |accessdate= 2012-01-23
+}}</ref> and so forth. Given these temptations, lobbying came along as a logical response to meet the needs of congresspersons seeking campaign funds and staffers seeking personal enrichment. In a sense, in competitive politics, the [[common good]] gets lost: . 
+
+{{Quote|I know what my client wants; no one knows what the common good is.|Anonymous lobbyist<ref name=twsL13/>}} . 
+
+A lobbyist can identify a client's needs. But it is hard for a single individual to say what is best for the whole group. The intent of the Constitution's Framers was to have built-in constitutional protections to protect the common good, but according to these critics, these protections do not seem to be working well: . 
+
+{{Quote|The structure of representative government, elected by the people, was to be our system's built-in protection of the whole of us—fairly elected officeholders were to represent their constituent groups, free from any obligations to special interests. Unfortunately, money has corrupted the system and compromised both the fairness of the electoral process as well as the independence and impartiality of elected officials.|Barry Hessenius in ''Hardball Lobbying for Nonprofits'', 2007<ref name=twsL19>{{cite news
+ |author= Barry Hessenius
+ |title= Hardball Lobbying for Nonprofits: Real advocacy for nonprofits in the new century
+ |publisher= ''Palgrave Macmillan''
+ |date= 2007
+ |isbn= 10: 1-4039-8202-3
+ |url= http://books.google.com/books?id=78tw9nkvcRsC&printsec=frontcover&dq=%22lobbying%22&hl=en&sa=X&ei=52YQT-G9EeHt0gGvjPHOAw&ved=0CDUQ6AEwATgU#v=onepage&q=%22lobbying%22&f=false
+ |accessdate= 2012-01-12
+}}</ref>}} . 
+
+[[File:Jack Abramoff and Lawrence Lessig at "In the Dock" 2011 (3).jpg|thumb|right|350px|Former convicted lobbyist [[Jack Abramoff]] (left) listens to Harvard law professor [[Lawrence Lessig]] in 2011.]]
+[[Lawrence Lessig]], a professor at [[Harvard Law School]] and author of ''[[Republic, Lost]]'', suggested that the moneyed persuasive power of special interests has insinuated itself between the people and the lawmakers. <ref name=twsDecM433s>{{cite news
+ |author= Lawrence Lessig
+ |title= Republic, Lost: How Money Corrupts Congress—and a Plan to Stop It 
+ |publisher= ''Google, YouTube, Huffington Post''
+ |quote= (see 32.06 minutes into the video)
+ |date= Nov 16, 2011
+ |url= http://www.youtube.com/watch?v=Ik1AK56FtVc
+ |accessdate= 2011-12-13
+}}</ref><ref>{{cite web|last=Lessig |first=Lawrence |url=http://lessig.org/blog/2007/06/required_reading_the_next_10_y_1.html |title=Required Reading: the next 10 years (Lessig Blog) |publisher=Lessig.org |date=2007-06-19 |accessdate=2011-01-23}}</ref><ref name=lessigbook>Lessig, L. (2011) [http://www.twelvebooks.com/books/republic_lost.asp ''Republic, Lost: How Money Corrupts Congress – and a Plan to Stop It''] (New York City: Hachette/Twelve) [http://www.rollingstone.com/politics/blogs/national-affairs/lawrence-lessig-on-how-we-lost-our-democracy-20111005 excerpt]</ref> He quoted [[United States Congress|congressperson]] [[Jim Cooper]] who remarked that Congress had become a "Farm League for K Street" in the sense that congresspersons were focused on lucrative lobbying careers after Congress rather than on serving the public interest while in office. <ref name=twsDecM9009>{{cite news
+ |author= Lawrence Lessig
+ |title= How to Get Our Democracy Back
+ |publisher= ''CBS News'', ''The Nation''
+ |date= February 8, 2010
+ |url= http://www.cbsnews.com/2100-215_162-6186201.html?pageNum=2
+ |accessdate= 2011-12-14
+}}</ref> In a speech, Lessig suggested the structure of incentives was such that legislators were tempted to propose unnecessary regulations as a way to further lobbying industry activity. <ref name=twsDecMupoi>{{cite news
+ |author= Lawrence Lessig
+ |title= Republic, Lost: How Money Corrupts Congress—and a Plan to Stop It 
+ |publisher= ''Google, YouTube''
+ |date= Nov 16, 2011
+ |url= http://www.youtube.com/watch?v=Ik1AK56FtVc
+ |accessdate= 2011-12-13
+}}</ref> According to one view, major legislation such as proposed Wall Street reforms have spurred demand for "participating in the regulatory process."<ref name=twsM63/> Lessig suggested the possibility that it was not corporations deciding to take up lobbying, but Congress choosing to debate less-than-important issues to bring well-heeled corporations into the political fray as lobbyists. As a result of his concerns, Lessig has called on state governments to summon a [[Second Constitution of the United States]] to propose substantive reform. <ref name=lessigbook/> Lessig believes that a constitutional amendment should be written to limit political contributions from non-citizens, including corporations, anonymous organizations, and foreign nationals. <ref>Hill, Adriene (October 4, 2011) [http://marketplace.publicradio.org/display/web/2011/10/04/am-campaign-finance-lobbying-major-roadblocks-to-effective-government/ "Campaign finance, lobbying major roadblocks to effective government"] ''Marketplace Morning Report'' (American Public Media)</ref> . 
+
+{{Quote|Our current tax system with all its complexities is in part designed to make it easier for candidates, in particular congressmen, to raise money to get back to congress ... All sorts of special exceptions which expire after a limited period of time are just a reason to pick up the phone and call somebody and say 'Your exception is about to expire, here’s a good reason for you to help us fight to get it to extend.' And that gives them the opportunity to practice what is really a type of extortion – shaking the trees of money in the private sector into their campaign coffers so that they can run for congress again.|[[Lawrence Lessig]], 2011<ref name=twsW14/>}} . 
+
+Scholars such as [[Richard Labunski]], [[Sanford Levinson]], [[Glenn Reynolds]],<ref name=twsDecM3435>{{cite news
+ |author= James O'Toole
+ |title= Constitutional convention call gains traction
+ |publisher= ''Pittsburgh Post-Gazette''
+ |date= December 12, 2011
+ |url= http://www.post-gazette.com/pg/11346/1196301-84-0.stm?cmpid=newspanel5
+ |accessdate= 2011-12-14
+}}</ref> [[Larry Sabato]],<ref name=twsNovW22>{{cite news
+ |title= America's constitution: If it ain't broke
+ |publisher= ''The Economist''
+ |date= Nov 8th 2007
+ |url= http://www.economist.com/node/10097645
+ |accessdate= 2011-12-23
+}}</ref> as well as newspaper columnist [[William Safire]],<ref name=twsNovW31>{{cite news
+ |author= Letter to the editor
+ |title= In Defense of John Jay, Our First Chief Justice
+ |publisher= ''The New York Times''
+ |date= October 10, 1987
+ |url= http://www.nytimes.com/1987/10/10/opinion/l-in-defense-of-john-jay-our-first-chief-justice-792787.html
+ |accessdate= 2011-12-23
+}}</ref> and activists such as John Booth of ''RestoringFreedom.org'' have called for constitutional changes that would curb the powerful role of money in politics. <ref name=twsDecM9009/> . 
+
+===Growth of lobbying===. 
+Law in the United States is generally made by [[United States Congress|Congress]], but as the federal government has expanded during much of the twentieth century, there are a sizeable number of federal agencies, generally under the control of the [[President of the United States|president]]. These agencies write often industry-specific rules and regulations regarding such things as automobile safety and air quality. <ref name=twsNovW22>{{cite news
+ |title= America's constitution: If it ain't broke
+ |publisher= ''The Economist''
+ |date= Nov 8th 2007
+ |url= http://www.economist.com/node/10097645
+ |accessdate= 2011-12-23
+}}</ref> Unlike elected congresspersons who are constantly seeking campaign funds, these appointed officials are harder to influence, generally. However, there are indications that lobbyists seek to expand their influence from the halls of Congress deeper into the federal bureaucracy. <ref name=twsN115/><ref name=twsN211>{{cite news
+ |author= Howard Marlowe, president
+ |title= (letter from All American League of Lobbyists to President Obama, May 31, 2011)
+ |publisher= ''docstoc.com''
+ |date= May 31, 2011
+ |url= http://www.docstoc.com/docs/80757442/ALLletter
+ |accessdate= 2012-01-14
+}}</ref> . 
+
+President Obama pledged during the election campaign to rein in lobbying. As president in January 2009, he signed two [[Executive order (United States)|executive orders]] and three [[Presidential memorandum|presidential memoranda]]<ref>http://www.whitehouse.gov/issues/ethics/ Ethics</ref> to help ensure his administration would be more open, transparent, and accountable. These documents attempted to bring increased accountability to federal spending and limit the influence of special interests, and included a lobbyist gift ban and a revolving door ban. In May 2009, the ''Recovery Act Lobbying Rules''. <ref>{{cite web|url=http://www.whitehouse.gov/blog/Update-on-Recovery-Act-Lobbying-Rules-New-Limits-on-Special-Interest-Influence/|title=Update on Recovery Act Lobbying Rules: New Limits on Special Interest Influence|author=Jesse Lee|date=29 May 2009|work=White House}}</ref> The [[Executive Branch Reform Act]], H.R. 985, was a bill which would have required over 8,000 Executive Branch officials to report into a public database nearly any "significant contact" from any "private party." The purpose was to identify lobbying activity. <ref name=twsM22>{{cite news
+ |author= Fredreka Schouten
+ |title= Proposed lobbying restrictions upset business groups
+ |publisher= ''USA Today''
+ |date= Nov. 22, 2011
+ |url= http://www.usatoday.com/news/washington/story/2011-11-22/lobbying-restrictions-on-gifts-to-federal-workers/51358652/1
+ |accessdate= 2012-01-13
+}}</ref> The bill was supported by proponents as an expansion of "government in the sunshine" including groups such as ''[[Public Citizen]]''. <ref name=twsM22/> . 
+
+[[File:National Association of Realtors building (Washington DC).JPG|thumb|right|The [[National Association of Realtors]] is a special interest representing home-selling agents. Photo: its Washington headquarters.]]
+But the proposals ran into serious opposition from various groups including the lobbying industry itself. <ref name=twsM22/> Opponents argued that the proposed reporting rules would have infringed on the right to petition, making it difficult not just for lobbyists, but for regular citizens to communicate their views on controversial issues without having their names and viewpoints entered into a government database. <ref>[http://www.nrlc.org/FreeSpeech/WaxmanDavisHR984.pdf Memorandum]: "Congressman Waxman advances grave new threat to citizens' 'right to petition' government officials," by Douglas Johnson and Susan Muskett, J.D., National Right to Life Committee, February 20, 2007. </ref> Opposition groups suggested that although the proposed rules were promoted as a way to regulate "lobbyists," persons described as a "private party" could be practically anybody, and that anybody contacting a federal official might be deemed to be a "lobbyist". The [[U.S. Department of Justice]] raised constitutional and other objections to the bill. <ref>[http://www.nrlc.org/FreeSpeech/DoJletteronHR984.pdf Letter from Richard D. Hertling], Acting Assistant Attorney General, Office of Legislative Affairs, U.S. Department of Justice, to the Honorable Henry A. Waxman, Chairman, Committee on Oversight and Government Reform, U.S. House of Representatives, March 8, 2007. </ref> Opponents mobilized over 450 groups including the [[U.S. Chamber of Commerce]] and [[National Association of Realtors]] with letter writing campaigns against the proposed restrictions. Lobbyist Howard Marlowe argued in a "stern letter"<ref name=twsN115>{{cite news
+ |author= Sam Stein
+ |title= Lobbying Group For Lobbyists Demands Obama Drop Executive Order On Contracting Donations 
+ |publisher= ''Huffington Post''
+ |date= June 1, 2011
+ |url= http://www.huffingtonpost.com/2011/06/01/lobbyists-obama_n_869819.html
+ |accessdate= 2012-01-14
+}}</ref> that the restriction on gift-giving to federal employees would create "fear of retribution for political donations": . 
+
+{{Quote|Since your announcement to seek the Presidency you have consistently attacked the honorable profession of lobbying ... Lobbyists play an important role in the legislative process, serving as educators to elected officials. It is in the best interest to government to have informed individuals who serve as experts in every arena of public policy. Our ability to access and navigate the legislative process and push issues forward through a bureaucratic cluster is a vital service to the nation. The Draft Order would inhibit one of the most vital tools in the advocate's arsenal by creating fear of retribution for political donations. Making this kind of disclosure a part of the bidding process tarnishes a competition based on qualifications, adds an unneeded level of bureaucracy, and endangers the protection of free speech afforded to all Americans by the First Amendment of the Constitution...|Howard Marlowe, president of the ''All American League of Lobbyists'', in a letter to President Obama, May 31, 2011<ref name=twsN115/><ref name=twsN211/>}} . 
+
+In 2011, there were efforts to "shift regulatory power from the executive branch to Congress" by requiring that any "major rule" which may cost the economy more than $100 million must be decided by Congress with an up-or-down vote. <ref name=twsL37>{{cite news
+ |author= Suzy Khimm
+ |title= Would shifting regulatory power to Congress usher in a lobbying bonanza?
+ |work= [[The Washington Post]]
+ |date= Dec 7, 2011
+ |url= http://www.washingtonpost.com/blogs/ezra-klein/post/would-shifting-regulatory-power-to-congress-usher-in-a-lobbying-bonanza/2011/12/07/gIQA88fVcO_blog.html
+ |accessdate= 2012-01-12
+}}</ref> But skeptics think that such a move proposed by Republican lawmakers could "usher in a lobbying bonanza from industry and other special-interest groups" to use campaign contributions to reshape the regulatory milieu. <ref name=twsL37/> . 
+
+===Attempts at reform===. 
+Critics suggest that Congress has the power to fix itself, but is reluctant to sacrifice money and power. One report suggested that those in control had an "unbroken record of finding ways to navigate around reform laws or turn regulatory standards to their own advantage."<ref name=twsW11/> . 
+
+===Arguments for lobbying===. 
+There are counterarguments that the system is working as it should, despite being rather messy. According to this line of argument, the Madisonian view of politics—in which factions were supposed to compete with other factions—is working exactly as it should. Competing factions, or in this case, competing interest groups, square off. Battling happens within the federal government, but instead of by settling arguments by elections, arguments are settled by powerful interest groups fighting each other, often financially. <ref name=twsN411/> And it might appear to members of groups which lost in a lobbying battle that the ''reason'' for their loss was that the other side lobbied unfairly using more money. <ref name=twsN411/> There are numerous instances in which opposed lobbies stalemate, and instances in which these stalemates have been seen as a positive result. And sometimes powerful financial interests lose the battle.  . 
+
+Lobbying brings valuable information to policymakers, according to another argument in favor of lobbying. Since lobbyists often become highly knowledgeable about a specific issue by studying it in depth over years, they can bring considerable expertise to help legislators avoid errors as well as grasp the nuances of complex issues. This information can also help Congress oversee numerous federal agencies which often regulate complex industries and issue highly detailed and specific rulings. <ref name=EpsteinOHalloran/> Accordingly, it is difficult for Congress to keep track of what these agencies do. <ref name=EpsteinOHalloran/> It has been argued that lobbyists can help Congress monitor this activity by possibly raising "red flags" about proposed administrative rulings. <ref name=EpsteinOHalloran>{{cite journal|last=Epstein|first=David|coauthors=Sharyn O'Halloran|title=A Theory of Strategic Oversight: Congress, Lobbyists, and the Bureaucracy|journal=Journal of Law, Economics, & Organization |year=1995| month=October|volume=11|issue=2|pages=227-255 |url=http://www.jstor.org/stable/764997|accessdate=1 April 2012}}</ref> Further, congresspersons can quickly gauge where they stand about a proposed administrative ruling simply by seeing which lobbying groups support the proposal, and which oppose it. <ref name=EpsteinOHalloran/> . 
+
+Another argument in support of lobbying is that different interest groups and lobbyists, while trying to build coalitions and win support, often amend or soften or change their positions in this process, and that interest groups and lobbyists regulate each other, in a sense. <ref name=EpsteinOHalloran/>  . 
+
+But a more general sentiment supporting the lobbying arrangement is that every citizen can be construed as being "represented" by dozens of  special interests:<ref name=twsL16/> . 
+
+{{Quote|Every citizen is a special interest... Blacks, consumers, teachers, pro-choicers, gun control advocates, handicapped people, aliens, exporters, and salesmen -- are all special interests... There is not an American today who is not represented (whether he or she knows it or not) by at least a dozen special interest groups. ... One person's special interest is another person's despotism...|Donald E. deKieffer, author of ''The Citizen's Guide to Lobbying Congress'', 2007<ref name=twsL16/>}} . 
+
+[[File:History Wikipedia English SOPA 2012 Blackout2 Cropped2.png|thumb|right|350px|This is what users saw when they tried to access Wikipedia on January 18, 2012. Wikipedia participated in a lobbying campaign by blacking out the encyclopedia for a day, and encouraged users to contact congresspersons to support positions it favored as part of an ''outside lobbying'' effort.]]
+If powerful groups such as the oil industry succeed in winning a battle in government, consumers who drive gas-powered cars stand to benefit a little bit, according to this view. Even readers of Wikipedia could be conceived as being a ''special interest'' and represented by various lobbies. For example, when rules were proposed in Congress to try to curtail [[online piracy]], opponents wondered whether such rules might restrict sites such as [[Wikipedia]]; on January 18, 2012, as a form of protest and as a way to encourage readers and contributors of Wikipedia to write their congresspersons, the online encyclopedia was "blacked out" for a day as part of an effort to lobby the government. <ref name=twsJanSkff>{{cite news
+ |author= Tiffany Hsu and Andrea Chang
+ |title= Websites go dark to protest SOPA, PIPA bills: Thousands of popular websites including Wikipedia, Reddit and Boing Boing have shut down for as long as 24 hours to protest congressional antipiracy bills they say amount to censorship. 
+ |publisher= ''Los Angeles Times''
+ |date= January 18, 2012
+ |url= http://www.latimes.com/business/la-fi-internet-strike-20120119,0,147220.story
+ |accessdate= 2012-01-19
+}}</ref><ref name=twsNioouuy>{{cite news
+ |title= SOPA and PIPA - Learn more
+ |publisher= ''Wikimedia''
+ |quote= (Screen image when readers tried to access Wikipedia:) ...Right now, the U.S. Congress is considering legislation that could fatally damage the free and open Internet. For 24 hours, to raise awareness, we are blacking out Wikipedia. ... 
+ |date= January 18, 2012
+ |url= http://en.wikipedia.org/wiki/Wikipedia:SOPA_initiative/Learn_more
+ |accessdate= 2012-01-18
+}}</ref> . 
+
+Another view in support of lobbying is that it serves a helpful purpose as helping guard against extremism. <ref name=twsL16/> According to this view, lobbying adds "built-in delays" and permits and encourages opposing lobbies to battle. <ref name=twsL16/> In the battling, possibly damaging decrees and incorrect decisions are stymied by seemingly unhelpful delays and waits. <ref name=twsL16/> . 
+
+A slightly different view is that lobbying is no different from other professions: . 
+
+{{Quote|Lobbying is no more perfect than is the practice of law or the practice of medicine.|Lobbyist Gerald S. J. Cassidy, 2007<ref name=twsM33fsa/>}} . 
+
+==The regulatory environment==. 
+===Disclosure and domestic regulations===. 
+Generally, the United States requires systematic disclosure of lobbying, and it may be one of the few countries to have such extensive requirements. <ref name=twsM214/> Disclosure in one sense allows lobbyists and public officials to justify their actions under the banner of openness and with full compliance of the law. <ref name=twsL36/> The rules often specify how much a lobbyist can spend on specific activities, and how to report expenses; many of the laws and guidelines are specified in the [[Lobbying Disclosure Act of 1995]]. <ref name=twsN511/> Transparency and disclosure requirements mean that there are volumes of statistics available for all kinds of analyses -- by journalists, by the public, by rival lobbying efforts. <ref name=twsN214/> Researchers can subdivide lobbying expenditures by numerous breakdowns, such as by contributions from energy companies. <ref name=twsN214>{{cite news
+ |author= via the ''New York Times''
+ |title= Most popular lobbying firms for energy policy 
+ |publisher= ''Boston Globe''
+ |date= 2005
+ |url= http://www.boston.com/news/specials/closed_for_business/chart_energy/
+ |accessdate= 2012-01-14
+}}</ref> . 
+
+Sometimes defining clearly who is a "lobbyist" and what precisely are ''lobbying activities'' can be difficult. According to the Lobbying Disclosure Act, several authorized definitions include: . 
+
+* ''Lobbying activities'' means "lobbying contacts and efforts in support of such contacts, including preparation and planning activities, research and other background work that is intended, at the time it is performed, for use in contacts, and coordination with the lobbying activities of others."<ref name=twsM214/>
+* ''Lobbying contact'' means "any oral or written communication (including an electronic communication) to a covered executive branch official or a covered legislative branch official". <ref name=twsM214/> . 
+
+Still, distinguishing ''lobbyists'' from a ''strategic adviser'' can be difficult, since the duties of each can often overlap and are hard to define precisely. <ref name=twsN113/> There have been issues raised about what constitutes the difference between a ''lobbyist'' and a ''bundler''; one report described ''bundlers'' as "supporters who contribute their own money to his campaign and solicit it from others", and there was a question whether such persons were really ''lobbyists'' involved with raising campaign monies for the election of [[Barack Obama]], and whether Obama had broken his own pledge not to receive money from lobbyists. <ref name=twsM24>{{cite news
+ |author= ERIC LICHTBLAU
+ |title= Obama Backers Tied to Lobbies Raise Millions
+ |publisher= ''The New York Times''
+ |date= October 27, 2011
+ |url= http://www.nytimes.com/2011/10/28/us/politics/obama-bundlers-have-ties-to-lobbying.html?pagewanted=all
+ |accessdate= 2012-01-13
+}}</ref> The legal ramifications of lobbying are further intertangled with aspects of campaign finance reform, since lobbyists often spend time seeking donations for the reelection efforts of congresspersons; sorting out these issues can pose  ethical challenges. <ref name=twsL13/> . 
+
+There are numerous regulations governing the practice of lobbying, often ones requiring transparency and disclosure. <ref name=twsN511/> People paid to lobby must register with the secretary of the Senate and the clerk of the House of Representatives within 45 days of contacting a legislator for the first time, or 45 days after being employed. <ref name=twsN511/><ref name=twsL16/> An exception is that lobbyists who earn less than $3,000 per client for each fiscal quarter, or whose total lobbying expenses are less than $11,500 each quarter, do not need to register. <ref name=twsN511/> Part-time lobbyists are exempt from registering unless they spend more than 20% of their working hours doing lobbying activities in any quarter. If lobbyists have two or more contacts with a legislator as a lobbyist, then they must register. <ref name=twsN511/><ref name=twsL16/> Requirements for registering also apply to companies that specialize in lobbying, or ones that have an in-house lobbyist, particularly if they spend more than $11,500 on lobbying. <ref name=twsN511/> Generally, nonprofit organizations, other than churches, are exempt from registering if they hire an outside lobbying firm. <ref name=twsN511/> Filing must be made each quarter, and a separate file is needed for each of the lobbyist's clients, and include information such as the name and title of the client, an estimate of lobbying expenses, and an estimate of income the lobbyist achieved after doing the lobbying. <ref name=twsN511/> . 
+
+States, in addition, are moving in the direction of greater disclosure and transparency regarding lobbying activities. [[California]] has an online database called ''Cal-Access'' although there were reports that it has been underfunded. <ref name=twsM55>{{cite news
+ |author= Patrick McGreevy
+ |title= CalAccess database for campaign money crashes again ... and again
+ |publisher= ''Los Angeles Times''
+ |date= December 9, 2011
+ |url= http://latimesblogs.latimes.com/california-politics/lobbying/
+ |accessdate= 2012-01-13
+}}</ref><ref name=twsM53>{{cite news
+ |author= Times' Opinion Staff
+ |title= Lobbying ... for just pennies a day!
+ |publisher= ''Los Angeles Times''
+ |date= December 28, 2011 
+ |url= http://opinion.latimes.com/opinionla/2011/12/lobbying-for-just-pennies-a-day.html
+ |accessdate= 2012-01-13
+}}</ref> Money collected from registration fees are often used to pay for the disclosure services such as Cal-Access. <ref name=twsM54>{{cite news
+ |author= Karen de Sá
+ |title= State senator aims to double lobby fee in California -- to 14 cents a day
+ |publisher= ''San Jose Mercury News''
+ |date= December 26, 2011
+ |url= http://www.mercurynews.com/california/ci_19619569
+ |accessdate= 2012-01-13
+}}</ref> There were complaints in [[Illinois]] that the disclosure requirements were often not rigorous enough and allowed lobbyists to work "without public notice" and with possible "conflicts of interest". <ref name=twsL36>{{cite news
+ |author= FREDRIC N. TULSKY and JOHN SULLIVAN
+ |title= Disclosure Often Spotty or Inaccurate
+ |publisher= ''The New York Times''
+ |date= January 7, 2012
+ |url= http://www.nytimes.com/2012/01/08/us/illinois-lobbying-disclosure-rules-often-leave-holes.html
+ |accessdate= 2012-01-12
+}}</ref> Many local municipalities are requiring legislative agents register as lobbyists to represent the interests of clients to local city council members such as in the swing state of Ohio cities such as Columbus and Cincinnati.{{Citation needed|date=May 2011}}  . 
+
+Laws requiring disclosure have been more prevalent in the twentieth century. In 1946, there was a so-called "sunshine law" requiring lobbyists to disclose what they were doing, on whose behalf, and how much they received in payment. <ref>1946 law (60 Stat. 839) August 2 1946. Federal Regulation of Lobbying Act</ref><ref name=twsL16/> The resulting Federal Regulation of Lobbying Act (1946) governed lobbying rules up until 1995 when the Lobbying Disclosure Act replaced it. <ref name=twsL16/> The Federal Election Campaign Act of 1971, later amended in 2002 as the [[Bipartisan Campaign Reform Act|McCain Feingold Act]], had rules governing campaign contributions. <ref name=twsL16/> Each branch of Congress has rules as well. <ref name=twsL16/> Legislation generally requires reports containing an accounting of major expenditures as well as legislation that was influenced; the wording of some of the pertinent laws can be found in {{usctc|2|26}}. <ref>{{cite web |url=http://www.fas.org/sgp/crs/misc/RL33065.pdf |title=Lobbying Reform: Background and Legislative Proposals, 109th Congress |accessdate=2007-01-09 |format=.pdf |work=R. Eric Petersen }}</ref>   . 
+
+[[File:American Bar Association Washington DC.JPG|thumb|right|The [[American Bar Association]] published a book about lobbying regulations.]]
+Lobbying law is a constantly evolving field; the [[American Bar Association]] published a book of guidelines in 2009 with over 800 pages. <ref name=twsL15>{{cite news
+ |author= William V. Luneburg, Thomas M. Susman and Rebecca H. Gordon, editors
+ |title= The Lobbying Manual: A Complete Guide to Federal Lobbying Law and Practice -- Fourth Edition
+ |publisher= ''American Bar Association''
+ |date= 2009
+ |url= http://books.google.com/books?id=V8MwU86D_5EC&printsec=frontcover&dq=%22lobbying%22&hl=en&sa=X&ei=o40PT-reG8fv0gGUlbmOAw&ved=0CFcQ6AEwBw#v=onepage&q=%22lobbying%22&f=false
+ |accessdate= 2012-01-12
+}}</ref> The laws are often rather specific, and when not observed, can lead to serious trouble. <ref name=twsM33/> Failing to file a quarterly report, or knowingly filing an incorrect report, or failing to correct an incorrect report, can lead to fines up to $200,000 and imprisonment up to five years. <ref name=twsN511/> Penalties can apply to lobbyists who fail to list gifts made to a legislator. <ref name=twsN511/><ref name=twsM33/> In other situations, the punishment can be light: for example, Congressional aide-turned-lobbyist Fraser Verrusio spent a few hours in jail after pleading guilty to report taking a client to a [[World Series]] baseball game and failing to report it. <ref name=twsM114>{{cite news
+ |author= ASSOCIATED PRESS
+ |title= Hours-Long Sentence Is Given in Lobbying Case
+ |publisher= ''The New York Times''
+ |date= August 6, 2011 
+ |url= http://www.nytimes.com/2011/08/06/us/06brfs-HOURSLONGSEN_BRF.html
+ |accessdate= 2012-01-13
+}}</ref> Tax rules can apply to lobbying. In one situation, the charity ''Hawaii Family Forum'' risked losing its tax-exempt status after it had engaged in lobbying activity; federal tax law requires charities such as that one to limit their lobbying to 20% of their overall expenditures or else be eligible for being taxed like a for-profit corporation. <ref name=twsN315>{{cite news
+ |title= It's lobbying, and it's taxable (editorial)
+ |publisher= ''Staradvertiser''
+ |date= Sep 21, 2010 
+ |url= http://www.staradvertiser.com/editorials/20100921_Its_lobbying_and_its_taxable.html?id=103409064
+ |accessdate= 2012-01-14
+}}</ref> . 
+
+Lobbyists sometimes support rules requiring greater transparency and disclosure: . 
+
+:{{Quote|Our profession is at a critical point where we can either embrace the constructive changes and reforms by Congress or we can seek out loopholes and continue the slippery slide into history along side the ranks of snake oil salesmen.|Lobbyist Gerald S. J. Cassidy, 2007<ref name=twsM33fsa/>}}. 
+Scandals can spur impetus towards greater regulation as well. The [[Jack Abramoff Indian lobbying scandal]], which started in the 1990s and led to a guilt plea in 2006, inspired the 'Legislative Transparency and Accountability Act of 2006' ({{USBill|109|S|2349}}). According to ''[[Time Magazine]]'' the Senate bill:
+# barred lobbyists themselves from buying gifts and meals for legislators, but left a loophole in which firms and organizations represented by those lobbyists could still dole out gifts and perks;
+# allowed privately funded trips if lawmakers got prior approval from a commissioned ethics committee;
+# required lobbyists to file frequent and detailed activity reports and have them posted publicly. The bill was approved in 2006 by a 90-8 vote.  . 
+
+In 1995, the [[104th Congress]] tried to reform Lobbying by passing the ''[[Lobbying Disclosure Act of 1995]]'' which defines and requires lobbyists who are compensated for their actions to register with congressional officials. The legislation was later amended by the ''Lobbying Disclosure Technical Amendments Act of 1998''. There were subsequent modifications leading to the Honest Leadership and Open Government Act of 2007. <ref name=twsM214/> The ''Lobbying Transparency and Accountability Act of 2006'' ({{USBill|109|HR|4975}}) legislation modified Senate rules, although some senators and a coalition of good-government groups assailed the bill as being too weak. <ref>[http://releases.usnewswire.com/GetRelease.asp?id=63157 Statement of Reform Groups on Lobbying Legislation Passed by Senate], March 29, 2006. [[Campaign Legal Center]], [[Common Cause]], [[Democracy 21]], the [[League of Women Voters]], [[Public Citizen]] and [[U.S. PIRG]]. </ref> The [[Honest Leadership and Open Government Act]] of 2007 was a comprehensive [[ethics]] and lobbying reform bill, ({{USBill|110|HR|2316}}), which passed in 2007 in the [[United States House of Representatives|House]] and [[110th United States Congress|Congress]] by a large majority. <ref>{{cite web
+  |title=H.R. 2316: Honest Leadership and Open Government Act of 2007
+  |publisher=GovTrack.us
+  |url=http://www.govtrack.us/congress/bill.xpd?bill=h110-2316
+  |accessdate=2007-08-02}}</ref> A parallel Senate version of the legislation, ({{USBill|110|S|1}}), passed in 2007 by a nearly unanimous vote. <ref name="Fox 2007-07-31">{{cite web
+  |last=Turner
+  |first=Trish
+  |coauthors=[[Associated Press]]
+  |title=House Approves Tighter Earmark, Lobbying Rules
+  |publisher=[[Fox News]]
+  |date=2007-07-31
+  |url=http://www.foxnews.com/story/0,2933,291550,00.html
+  |accessdate=2007-08-02 }}</ref> After the House & Senate resolved their differences and passed an amended revision, President Bush signed the enrolled bill into law ({{uspl|110|81}}).  . 
+
+Some states have considered banning government employees permanently from lobbying on issues they had worked on. For example, there was a proposal along these lines to prevent county employees in [[Maryland]] from ever lobbying on issues they had worked on. The proposal insisted that county officials post financial disclosures as well as prohibit gifts from contractors. <ref name=twsN313>{{cite news
+ |author= Alison Knezevich
+ |title= County ethics bill would restrict lobbying, add enforcement
+ |publisher= ''Baltimore Sun''
+ |date= November 2, 2011
+ |url= http://weblogs.baltimoresun.com/news/local/politics/2011/11/county_ethics_bill_would_restr.html
+ |accessdate= 2012-01-14
+}}</ref> . 
+
+Jack Abramoff, emerging from prison, has spoken publicly about lobbying. In his view, regulations designed to rein in the excesses of lobbying have not been effective, and that reforms and regulations have not cleaned up the system "at all". Abramoff said lobbyists could "find a way around just about any reform Congress enacted", and gave an example: . 
+
+{{Quote|You can't take a congressman to lunch for $25 and buy him a hamburger or a steak or something like that ... But you can take him to a fund-raising lunch and not only buy him that steak, but give him $25,000 extra and call it a fund-raiser -- and have all the same access and all the same interactions with that congressman.|[[Jack Abramoff]], commenting on ''[[60 Minutes]]'', according to ''[[CNN]]''<ref name=twsM111>{{cite news
+ |author= CNN Wire Staff
+ |title= Abramoff: Lobbying reforms haven't fixed 'flawed' system
+ |publisher= ''CNN''
+ |date= November 06, 2011
+ |url= http://articles.cnn.com/2011-11-06/politics/politics_abramoff-ethics_1_neil-volz-high-rolling-lobbyist-lobbyists-and-public-officials?_s=PM:POLITICS
+ |accessdate= 2012-01-13
+}}</ref>}} . 
+
+A similar view suggested that lobbying reform efforts have been "fought tooth and nail to prevent its passage" since the people with the power to reform would curtail their own powers and income flows. <ref name=twsL19/> . 
+
+===Foreign lobbying===. 
+Since commerce worldwide is becoming more integrated, with firms headquartered in one country increasingly doing business in many other countries, it is logical to expect that lobbying efforts will reflect the increasing [[globalization]]. Sometimes foreign-owned corporations will want to lobby the United States government, and in such instances, new rules can apply, since it can be particularly thorny resolving whether [[national security]] interests are at stake and how they might be affected.  . 
+
+In 1938, the ''Foreign Agents Registration Act''<ref>(52 Stat. 631) of June 8, 1938</ref> required an explicit listing of all political activities undertaken by a lobbyist on behalf of any foreign principal. <ref name=twsL16/> There had serious concerns about lobbying firms representing foreign entities – and potentially values opposed to American principles - after [[Axis power]] agitprop was planted in American soils during [[World War II]]<ref>The Harvard Law Reviews Association. " 'Foreign' Campaign Contributions and the First Amendment. Harvard Law Review, 110.8 (1986): 1886-1903</ref> through the efforts of public-relations specialist Ivy Lee's proxy firm "German Dye Trust". <ref>Silverstein, Ken. "Their Men in Washington: Undercover with D.C.'s lobbyists for hire". Harpers Magazine. July 2007. <http://www.harpers.org/archive/2007/07/0081591></ref> As a result, in 1938, the [[Foreign Agents Registration Act]] or FARA was passed by Congress, and this law required foreign lobbyists to share information about their contracts with the Justice Department. <ref>Silverstein, Ken. "Their Men in Washington: Undercover with D.C.'s lobbyists for hire". Harpers Magazine. July 2007. <http://www.harpers.org/archive/2007/07/0081591></ref> FARA's mandate was to disclose to policymakers the sources of information that influenced public opinions, policies, and law. <ref>Zhang, Juyan. "World system and its agents: An analysis of the registrants of Foreign Agent Registration Act (FARA)" Paper presented at the annual meeting of the International Communication Association, New Orleans Sheraton, New Orleans, LA, May 27, 2004 <Not Available>. 2009-05-26 <http://www.allacademic.com/meta/p112875_index.html></ref> However, the goal was not to restrict the speech of the lobbyist or the content of the lobbying. <ref>Atieh, Jahad. "Foreign Agents: Updating FARA to Protect American Democracy." University of Pennsylvania Journal of International Law.  pp. 1051-1088,  Fall 2009: 1052</ref> Nonetheless, it was estimated that less than half of foreign lobbyists who should have registered under FARA actually did so. <ref>Silverstein, Ken. "Their Men in Washington: Undercover with D.C.'s lobbyists for hire". Harpers Magazine. July 2007. <http://www.harpers.org/archive/2007/07/0081591></ref> . 
+
+By the 1960s, perceived failures in FARA’s enforcement led to public outcry against lobbying excesses, while revelations of foreign bribery circulated regularly well into the early 1970’s. <ref name="Business Ethics 1997">Keffer, Jone M. and Hill, Roland Paul. "Ethical Approach to Lobbying Activities of Businesses in the United States", Journal of Business Ethics, 16.12/13 (1997): 1371-1379</ref> This prompted legislation proposed to reduce the autonomy of foreign firms, most of which was not ratified for concerns over a lack of constitutionality. <ref name="Business Ethics 1997"/> While the House of Representatives passed a rule<ref>Bill S. 349 in 1994 by a vote of 315-110</ref> to increase public scrutiny of foreign lobbying, one estimate was that about 75% of lobbyists were exempt from a registration requirement, including individuals representing foreign interests. <ref>Dunham, R. S.: 1994, 'Why Lobbying Reform Could Get Lobbied to Death', Business Week, 57</ref>  . 
+
+A general trend is that the number of lobbyists representing foreign companies is rising. <ref>Zhang, Juyan. "World system and its agents: An analysis of the registrants of Foreign Agent Registration Act (FARA)" Paper presented at the annual meeting of the International Communication Association, New Orleans Sheraton, New Orleans, LA, May 27, 2004. 2009-05-26 <http://www.allacademic.com/meta/p112875_index.html></ref> The case of Washington’s [[APCO Worldwide]], a firm which represented the dictatorship of [[Sani Abacha|General Sani Abacha]] of Nigeria in 1995 whose regime had hanged nine pro-democracy activists, attracted negative publicity. <ref>Silverstein, Ken. "Their Men in Washington: Undercover with D.C.'s lobbyists for hire". Harpers Magazine. July 2007. <http://www.harpers.org/archive/2007/07/0081591></ref> While current law forbids foreign nations from contributing to federal, state, or local elections, loopholes allow American subsidiaries of foreign corporations to establish so-called ''separated segregated funds'' or SSFs to raise money. <ref name="Harvard Law Reviews Association 1986">The Harvard Law Reviews Association. "Foreign" Campaign Contributions and the First Amendment. Harvard Law Review, 110.8 (1986): 1886-1903</ref> According to one view, the definition of which firms are defined as "foreign" was unclear, and the lack of clarity undermines the ability to regulate their activity. Foreign-funded lobbying efforts include those of [[Israel lobby in the United States|Israel]]{{Citation needed|date=October 2011}}, [[Saudi Arabia lobby in the United States|Saudi Arabia]], [[Turkish lobby in the United States|Turkey]], [[Egypt lobby in the United States|Egypt]], [[Pakistani lobby in the United States|Pakistan]], [[Libya lobby in the United States|Libya]], and [[China Lobby|China]] lobbies.  . 
+
+While Congress has tried to quell criticisms against the leverage of domestic lobbying firms by updating domestic lobbying legislation&ndash:&ndash;such as the revision of the [[Lobbyist Disclosure Act]] in 1997)<ref name="Atieh, Jahad 2009">Atieh, Jahad. "Foreign Agents: Updating FARA to Protect American Democracy." University of Pennsylvania Journal of International Law. 1052 (Fall 2009): 1051–1088</ref>—there was a report that its inaction in rectifying loopholes in foreign lobbying regulation has led to scandals. <ref name="Atieh, Jahad 2009"/> There was a report of an upsurge of lobbying by foreign-owned U.S. subsidiaries against Democratic efforts to limit campaign spending in early 2010. <ref name="Bravin">Bravin, Jess and Mullins, Brody. [http://online.wsj.com/article/SB10001424052748704194504575031584009869108.html "Foreign Spending on Politics Fought"]. ''[[The Wall Street Journal]]''. January 9, 2010. </ref> The proposed was to restrict lobbying by U.S. subsidiaries of foreign firms. <ref name="Bravin"/> In 2011, the Chinese firm [[Alibaba]] hired a lobbying firm in Washington when it began contemplating a purchase of the U.S. firm [[Yahoo!]]. <ref name=twsL41>{{cite news
+ |author= BEN PROTESS
+ |title= Alibaba Taps Lobbying Firm
+ |publisher= ''The New York Times''
+ |date= December 29, 2011
+ |url= http://dealbook.nytimes.com/2011/12/29/alibaba-taps-lobbying-firm/
+ |accessdate= 2012-01-12
+}}</ref> There was a case in which a lobbying effort described as "extraordinary" was trying to change the designation of a fringe Iranian opposition group from being a terrorist organization to being a benign organization. <ref name=twsM11/> Lobbyists seeking to downgrade the designation hired influential foreign affairs officials, including former [[Central Intelligence Agency|CIA]] directors, a former [[Federal Bureau of Investigation|FBI]] director, and others to advocate for the change of designation. <ref name=twsM11>{{cite news
+ |author= SCOTT SHANE
+ |title= For Obscure Iranian Exile Group, Broad Support in U.S. 
+ |publisher= ''The New York Times''
+ |date= November 26, 2011
+ |url= http://www.nytimes.com/2011/11/27/us/politics/lobbying-support-for-iranian-exile-group-crosses-party-lines.html?pagewanted=all
+ |accessdate= 2012-01-13
+}}</ref> But there have been others accused of illegally lobbying for foreign nations<ref name=twsM44>{{cite news
+ |author= Richard A. Serrano
+ |title= Pair charged with illegally lobbying for Pakistan: Two U.S. citizens are accused of secretly being paid by Pakistan's spy service and failing to register as foreign agents. The charges are likely to further strain Washington-Islamabad relations. 
+ |publisher= ''Los Angeles Times''
+ |date= July 20, 2011
+ |url= http://articles.latimes.com/2011/jul/20/nation/la-na-pakistani-arrest-20110720
+ |accessdate= 2012-01-13
+}}</ref> or who failed to register as a foreign agent<ref name=twsM312>{{cite news
+ |author= C.M. Matthews
+ |title= Former Congressman Gets One Year For Lobbying For Terror Sponsor
+ |publisher= ''Wall Street Journal''
+ |date= January 12, 2012
+ |url= http://blogs.wsj.com/corruption-currents/2012/01/12/former-congressman-gets-one-year-for-lobbying-for-terror-sponsor/
+ |accessdate= 2012-01-13
+}}</ref> who may face prison time as a result.  . 
+
+==See also==. 
+* [[American Israel Public Affairs Committee|AIPAC]]
+* [[Albanian American Civic League|AACL]]
+* [[AARP]]
+* [[American Automobile Association|AAA]]
+* [[Arab lobby in the United States]]
+* [[Center for Responsive Politics]]
+* [[Diaspora politics in the United States]]
+* [[Jack Abramoff Indian lobbying scandal]]
+* [[Jerry Lewis - Lowery lobbying firm controversy]]
+* [[History of lobbying in the United States]]
+* [[Honest Leadership and Open Government Act]] of 2007
+* [[Lobbying Disclosure Act of 1995]]
+* [[Money loop]]
+* [[Mothers Against Drunk Driving|MADD]]
+* [[National Rifle Association|NRA]]
+* [[Political action committee|PAC]]
+* ''[[United States v. Harriss]]''
+* [[NARFE]] (National Active and Retired Federal Employees) . 
+
+== References ==. 
+{{Reflist|2}} . 
+
+==Further reading==. 
+* Balogh, Brian "'Mirrors of Desires': Interest Groups, Elections, and the Targeted Style in Twentieth-Century America," in Meg Jacobs, William J. Novak, and Julian Zelizer, eds. ''The Democratic Experiment: New Directions in American Political Theory,'' (2003), 222–49
+* Baumgartner, Frank R.,  and Beth L. Leech. ''Basic Interests: The Importance of Groups in Politics and in Political Science'' (1998), 64–82, reviews the political science literature on interest groups
+* Blanes i Vidal, Jordi; Mirko Draca and Christian Fons-Rosen: [http://www.econ.ed.ac.uk/papers/J_Blanes.pdf Revolving Door Lobbyists], 5th Annual Conference on Empirical Legal Studies Paper, July 2010
+* Clemens, Elisabeth S. ''The People’s Lobby: Organizational Innovation and the Rise of Interest-Group Politics in the United States, 1890–1925'' (1997)
+* Hansen, John M. ''Gaining Access: Congress and the Farm Lobby, 1919–1981'' (1991);
+* Kaiser, Robert G. "So Damn Much Money: The Triumph of Lobbying and the Corrosion of American Government" (2009). 
+* Loomis, Christopher M. "The Politics of Uncertainty: Lobbyists and Propaganda in Early Twentieth-Century America," ''Journal of Policy History'' Volume 21, Number 2, 2009  in [[Project MUSE]]
+* Thompson, Margaret S. ''The "Spider Web": Congress and Lobbying in the Age of Grant'' (1985) on 1870s
+* Tichenor, Daniel J.  and Richard A. Harris, "Organized Interests and American Political Development," Political Science Quarterly 117 (Winter 2002–3): 587–612 [http://www.soc.washington.edu/users/burstein/Tichenor_Organized_Interests.pdf online]
+* Zelizer, Julian E. ''Arsenal of Democracy: The Politics of National Security - From World War II to the War on Terrorism'' (2009) [http://www.amazon.com/dp/0465015077 excerpt and text search] . 
+
+== External links ==. 
+;General:
+* [http://www.publicaffairsworld.com Public Affairs World] The world's first global news and information site on the subject of lobbying, public affairs and communications within a political context. 
+* [http://www.nova.edu/~kornblau/lobbying_links.htm Nova Southeastern University: Lobbying Links]
+* [http://www.publicprivatedialogue.org/ Public Private Dialogue] A resource for practitioners wishing to promote policy reforms through dialogue (sponsored by World Bank, IFC, OCED, DFID, GTZ)
+* [http://www.affinityohio.com/Why%20hire%20a%20lobbyist.html/ Why Hire a Local Lobbyist?] A resource to answer clients questions on why their organization may need representation by a lobbyist/legislative agent
+* [http://www.affinityohio.com/How%20do%20lobbyists%20get%20paid.html/ How Do Lobbyists Get Paid?] An excellent resource to answer questions on how lobbyists are compensated. 
+* [[Israel lobby in the United States|Israel Lobby in The United States]] . 
+
+;Lobbying in the United States:
+* [http://firststreetresearch.cqpress.com First Street Research Group] powered by First Street reports and analysis on the lobbying industry
+* [http://www.publicintegrity.org/lobby/ LobbyWatch] from [[The Center for Public Integrity]]
+* [http://www.opensecrets.org/lobby/ Lobbying Database] from [[Center for Responsive Politics|OpenSecrets.org]]
+* [http://www.cleanupwashington.org/ Clean Up Washington] [[Public Citizen]] project
+* [http://www.lobbyinginfo.org/ Lobbying Info] archives of [[Public Citizen]] project
+* [http://moneyline.cq.com/ CQ MoneyLine]
+* [http://www.followthemoney.org/ FollowtheMoney.org]
+* [http://www.fundrace.org/ FundRace.org]
+* [http://www.startguide.org/orgs/orgs01.html#cat7 Government Accountability Groups] (from "500 Leading U.S. Progressive Organizations by Category")
+* [http://www.sourcewatch.org/ Sourcewatch]
+* [http://www.jps-consulting.net/steel_tariffs.pdf/ A case study about lobbying concerning the U.S. steel tariffs in 2002-2003]
+* {{Cite episode |title=Take the Money and Run for Office |url=http://www.thisamericanlife.org/radio-archives/episode/461/take-the-money-and-run-for-office |series=This American Life |serieslink=This American Life |network=[[Public Radio International]] |airdate=30 March 2012 |number=461}} An in-depth look at American campaign finance from the viewpoints of both politicians and lobbyists.  . 
+
+;Lobbyists
+* [http://www.senate.gov/legislative/Public_Disclosure/LDA_reports.htm Lobbying Discloser Act Reports] and [http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm Lobbyist Public Disclosure] from the [[United States Senate]] Office of Public Records
+* [http://www.lobbyists.info Lobbyists.info] database of lobbyists and government relations professionals
+* [http://dir.yahoo.com/Business_and_Economy/Business_to_Business/Government/Lobbying/ Government Lobbying] from [[Yahoo!]] Directory
+* [http://www.publicaffairslinks.co.uk/index_us.html/  Public Affairs Links - US Portal], independent information on the US lobbying industry
+* [http://www.opensecrets.org/resources/learn/glossary.php Open Secrets glossary]
+* [http://blog.washingtonpost.com/citizen-k-street/chapters/conclusion/index.html Case study in lobbying]
+* [http://www.legistorm.com/ Legistorm website] . 
+
+{{Lobbying in the United States}} . 
+
+{{DEFAULTSORT:Lobbying In The United States}}
+[[Category:Lobbying in the United States]]

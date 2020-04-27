@@ -1,0 +1,472 @@
+{{Infobox Election
+| election_name      = Burmese (Myanma) general election, 2010
+| country            = Burma
+| type               = parliamentary
+| ongoing            = no
+| previous_election  = Burmese general election, 1990
+| previous_year      = 1990
+| next_election      =
+| next_year          = 2015
+| seats_for_election = 330 (of the 440) seats to the [[Hluttaw|Pyithu Hluttaw]] <br/> and 168 (of the 224) seats to the [[Hluttaw|Amyotha Hluttaw]]
+| election_date      = 7 November 2010 . 
+
+| image1             = [[File:TheinSeinASEAN.jpg|100px]]
+| leader1            = [[Thein Sein]]
+| party1             = Union Solidarity and Development Party
+| percentage1        = 76.79% (Amyotha)<br>78.48% (Pyithu)
+| seats1             = 129 (Amyotha)<br>259 (Pyithu)
+| seat_change1       = {{Increase}}129 (Amyotha)<br>{{Increase}}259 (Pyithu) . 
+
+| image2             = [[Image:Replace this image male.svg|100px]]
+| leader2            = [[Tun Yi]]
+| party2             = National Unity Party (Burma)
+| percentage2        = 2.98% (Amyotha)<br>3.64% (Pyithu)
+| seats2             = 5 (Amyotha)<br>12 (Pyithu)
+| seat_change2       = {{Increase}}5 (Amyotha)<br>{{Increase}}12 (Pyithu) . 
+
+| image4             = [[Image:Replace this image male.svg|100px]]
+| leader4            = [[Khin Maung Swe]]
+| party4             = National Democratic Force
+| percentage4        = 2.38% (Amyotha)<br>3.64% (Pyithu)
+| seats4             = 4 (Amyotha)<br>12 (Pyithu)
+| seat_change4       = {{Increase}}4 (Amyotha)<br>{{Increase}}12 (Pyithu) . 
+
+| image5             = [[Image:Replace this image male.svg|100px]]
+| leader5            = [[Sai Ai Pao]]
+| party5             = Shan Nationalities Democratic Party
+| percentage5        = 1.78% (Amyotha)<br>5.45% (Pyithu)
+| seats5             = 3 (Amyotha)<br>18 (Pyithu)
+| seat_change5       = {{Increase}}3 (Amyotha)<br>{{Increase}}18 (Pyithu) . 
+
+| title              = [[Prime Minister of Burma|Prime Minister]]
+| posttitle          = [[President of Burma|President]]-designate<ref>[http://www.bbc.co.uk/news/world-asia-pacific-12362745 Burma ex-Prime Minster Thein Sein named new president], ''[[BBC]]'', 4 February 2011. </ref>
+| before_election    = [[Thein Sein]]
+| before_party       = Union Solidarity and Development Party
+| after_election     = [[Thein Sein]]
+| after_party        = Union Solidarity and Development Party
+}}
+{{Politics of Burma}} . 
+
+A '''general election''' was held in [[Burma]] (officially '''Myanmar''') on {{Nowrap|7 November}} 2010, in accordance with the new [[Constitution of Burma|constitution]] which was approved in a [[Burmese constitutional referendum, 2008|referendum]] held in {{Nowrap|May 2008}}. The date of the election, 7 November, was announced by the SPDC on {{Nowrap|13 August}}. <ref>{{cite news | title = Myanmar's Government Schedules Elections | url = http://www.nytimes.com/aponline/2010/08/13/world/asia/AP-AS-Myanmar-Election.html | work = [[The New York Times]] | agency = [[Associated Press]] | date = 13 August 2010 | accessdate = 13 August 2010}} {{Dead link|date=September 2010|bot=RjwilmsiBot}}</ref> . 
+
+The general election forms the fifth step of the seven-step "[[roadmap to democracy]]" proposed by the [[State Peace and Development Council]] (SPDC) in 2003,<ref>[http://www.kuwaittimes.net/read_news.php?newsid=MjM3NTc0NzU0 Myanmar leader says 2010 election plans on course]. ''[[Kuwait Times]]''. {{Nowrap|November 30}}, 2008. </ref><ref name=Bernama>[http://www.bernama.com/bernama/v5/newsworld.php?id=465849 Myanmar Top Leader Advises People To Make Correct Choice With Upcoming Election]. [[Bernama]]. {{Nowrap|4 January}} 2010. </ref> the sixth and seventh steps being the convening of elected representatives and the building of a modern, democratic nation, respectively. <ref>{{cite news|url=http://www.koreatimes.co.kr/www/news/opinon/2009/12/137_58118.html|title=Reconciliation Myanmar Needs|last=Kipgen|first=Nehginpao|date=29 December 2009|publisher=[[Korea Times]]}}</ref> However, the [[National League for Democracy]] boycotted the election.  . 
+
+The [[Union Solidarity and Development Party]] declared victory, after at least two opposition parties conceded. The United Nations and Western countries have condemned the elections as fraudulent.  . 
+
+==Background==. 
+Article 59F of the new constitution bars from the Presidency (not public office in general) people who are married to citizens of states other than Myanmar. Some commentators claim that this means [[Aung San Suu Kyi]] will be unable to contest the election,<ref>[http://afp.google.com/article/ALeqM5hdzlET4wtgI_H2_23kAR75kNhr8A Ban on Suu Kyi shatters hopes for Myanmar polls: analysts]. AFP. {{Nowrap|19 February}} 2008. </ref><ref>[http://diepresse.com/home/politik/aussenpolitik/364216/index.do?_vl_backlink=/home/politik/aussenpolitik/index.do Burma: Militärjunta schließt Suu Kyi von Wahlen aus]. DiePresse.com. (in German). {{Nowrap|20 February}} 2008. </ref> but since her husband is deceased, she would not appear to be barred on this basis. <ref>[http://www.crisisgroup.org/home/index.cfm?id=6280 International Crisis Group: Myanmar - Towards the Elections, p.11.]{{Dead link|date=May 2010}}</ref> The [[United Nations]], members of [[ASEAN]] and Western nations have insisted that the elections will not be credible without the participation of Suu Kyi. <ref>Pichai, Usa ({{Nowrap|21 July}} 2009). [http://www.mizzima.com/news/regional/2479-asean-foreign-ministers-expect-burma-to-act-responsively-.html ASEAN Foreign Ministers expect Burma to act responsively]. [[Mizzima]]. </ref><ref>Aziakou, Gerard ({{Nowrap|13 July}} 2009). [http://www.google.com/hostednews/afp/article/ALeqM5hS3550qL38y2An64Ovl7DMVdbr5A UN chief tells Myanmar to deliver on poll pledge]. [[Agence France-Presse|AFP]]. </ref><ref>Gray, Dennis ({{Nowrap|21 July}} 2009). [http://www.etaiwannews.com/etn/news_content.php?id=1009160&lang=eng_news Indonesia criticizes military-ruled Myanmar]. ''[[Taiwan News]]''. </ref> . 
+
+The [[National League for Democracy]] (NLD) had set a number of conditions for participating in the poll, including changes to the constitution to reduce the army's influence, international supervision for free and fair polls, and freeing all [[political prisoner]]s including Suu Kyi. <ref>[http://www.voanews.com/english/2009-04-29-voa41.cfm Burmese Opposition Party Sets Conditions for Elections]. [[Voice of America]]. {{Nowrap|29 April}} 2009. </ref> Senior General [[Than Shwe]], leader of the ruling [[military junta]], has pledged to release political prisoners in an [[amnesty]] before the election, though he has not stated when this would occur. <ref>[http://www.zeenews.com/news546925.html Myanmar considering amnesty for pol prisoners]. [[Zee News]]. {{Nowrap|14 July}} 2009. </ref> On {{Nowrap|11 August}} 2009, Suu Kyi was sentenced to imprisonment for three years with hard labour over [[Suu Kyi trespasser incidents|a trespass incident]].  This sentence was commuted by the military rulers to further house arrest of eighteen months. <ref>[http://news.bbc.co.uk/1/hi/world/asia-pacific/8194596.stm Burma court finds Suu Kyi guilty]. BBC News. {{Nowrap|11 August}} 2009. </ref> The NLD later announced they would not take part in the election due to the election laws. <ref>{{cite news|url=http://news.bbc.co.uk/1/hi/world/asia-pacific/8592365.stm|title=Suu Kyi's NLD party to boycott Burma election|date=29 March 2010|publisher=BBC News}}</ref> . 
+
+Key ministries including justice, defence and the interior will remain under the control of the military and under the 2008 constitution, a quarter of the 440 parliament seats will be reserved for the military officials. <ref name=reuin>{{cite news|url=http://in.reuters.com/article/southAsiaNews/idINIndia-45657720100125?sp=true|title=What do we know about Myanmar's election?|date=25 January 2010|publisher=[[Reuters|Reuters India]]}}</ref> People holding military positions are not permitted to contest the election;<ref>{{cite news|url=http://sify.com/news/myanmar-ministers-resign-military-posts-news-international-ke0xkchgbid.html|title=Myanmar ministers resign military posts |date=26 April 2010|publisher=[[Sify]]}}</ref> as such, 20 members of the junta, including Prime Minister [[Thein Sein]], retired from their posts to participate in the election. <ref>{{cite news|url=http://news.bbc.co.uk/1/hi/world/asia-pacific/8646575.stm|title=Burma leaders 'shed uniforms for polls'|date=27 April 2010|publisher=BBC News}}</ref> . 
+
+===New election laws===. 
+The first of five election laws was announced in March 2010, concerning the creation of an election commission. <ref>{{cite news|url=http://www.timesonline.co.uk/tol/news/world/asia/article7054903.ece|title=Burma publishes new election laws|last=Parry|first=Richard Lloyd|date=March 9, 2010|publisher=The Times | location=London}}</ref> The [[Union Election Commission]] Law states that the military government will appoint all members of the commission and have the final say over the election results. Members of the commission must be "an eminent person, to have integrity and experience, to be loyal to the state and its citizens". <ref>{{cite news|url=http://english.aljazeera.net/news/asia-pacific/2010/03/2010394417778884.html|title=Myanmar unveils election law  |last=Agencies|date=March 9, 2010|publisher=[[Al Jazeera]]}}</ref> A 17-member [[Union Election Commission|election commission]] was later named, headed by a former military officer. <ref>{{cite news|url=http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2010/2/10/Burma-laws-condemned-mockery-democracy,31d358ca-c3d9-4358-be56-66562c5adb05.html|title=Burma laws condemned as a 'mockery' of democracy|date=March 11, 2010|publisher=Angola Press}}</ref> . 
+
+The second law bans anyone currently serving a prison term from belonging to a political party, and therefore over 2,000 [[political prisoner]]s will not be able to participate, possibly including Aung San Suu Kyi (depending on whether her house arrest is deemed to fall under the definition of "serving a prison term"). <ref>{{cite news|url=http://news.bbc.co.uk/1/hi/world/asia-pacific/8559048.stm|title= Burma law formally bars Aung San Suu Kyi from election|date=March 10, 2010|publisher=BBC News}}</ref><ref>{{cite news|url=http://timesofindia.indiatimes.com/world/rest-of-world/Myanmars-Aung-San-Suu-Kyi-to-be-barred-from-party-and-polls-/articleshow/5666682.cms|title=Myanmar's Aung San Suu Kyi to be barred from party and polls |last=AFP|date=March 11, 2010|publisher=[[The Times of India]]}}</ref> The Political Parties Registration Law also bars members of religious orders, members of insurgent groups 'as defined by the state' and foreigners from joining political parties. <ref>{{cite news|url=http://sify.com/news/myanmar-election-law-bars-aung-san-suu-kyi-from-polls-news-international-kdkladbjiba.html|title=Myanmar election law bars Aung San Suu Kyi from polls |date=March 10, 2010|publisher=[[Sify]]}}</ref> This separation of Buddhism and politics is a long-standing feature of Burmese politics, dating back to before independence, and was incorporated in the 1947 independence Constitution at the request of the monkhood. <ref>[http://www.crisisgroup.org/home/index.cfm?id=6280 International Crisis Group: Myanmar - Towards the Elections, p.8.]{{Dead link|date=May 2010}}</ref> . 
+
+The other laws stipulate that anyone currently serving a prison term is barred from running or voting in the elections for the upper and lower houses. <ref name=ap2>{{cite news|url=http://www.google.com/hostednews/ap/article/ALeqM5gR7Ynyd2tM3aj2CQ75jX3joFYjXQD9ECARQO0|title=Law bars Myanmar's Aung San Suu Kyi from voting|last=[[Associated Press]]|date=March 11, 2010}}</ref> A 224-member House of Nationalities will have 168 elected candidates and 56 nominated by the military chief, while the 440-member House of Representatives will have 330 elected civilians and 110 military representatives. <ref name=ap2/> At the same time, the results of the [[Burmese general election, 1990|1990 elections]] were annulled as they did not comply with the new election laws. <ref>{{cite news|url=http://www.washingtonpost.com/wp-dyn/content/article/2010/03/11/AR2010031100582.html|title=Myanmar junta annuls election held 20 years ago|last=Reuters|date=March 11, 2010|publisher=The Washington Post}}</ref> . 
+
+The new laws have been described as a "farce" by the [[Philippines]]<ref>{{cite news|url=http://news.ph.msn.com/regional/article.aspx?cp-documentid=3940490|title=Philippines hits out at Myanmar junta over Suu Kyi|last=AFP|date=March 11, 2010|publisher=MSN Philippines News}}</ref> and a "mockery" by the United States. <ref>{{cite news|url=http://english.aljazeera.net/news/asia-pacific/2010/03/201031133928575295.html|title=US condemns Myanmar poll 'mockery'  |last=Agencies|date=March 11, 2010|publisher=[[Al Jazeera]]}}</ref> . 
+
+==Results==. 
+The final results were announced by the Myanmar [[Union Election Commission]] on 17 November 2010. <ref>http://news.xinhuanet.com/english2010/world/2010-11/17/c_13611242.htm</ref><ref>{{cite web|url=http://www.ajmmc.org/2010/11/6013.html |title=下院60人上院13人の当選発表 - 日本ミャンマー交流協会 AJMMC |publisher=Ajmmc.org |date= |accessdate=2011-02-04}}</ref><ref>{{cite web|url=http://www.ajmmc.org/2010/11/14786.html |title=下院147人上院86人の当選発表 - 日本ミャンマー交流協会 AJMMC |publisher=Ajmmc.org |date= |accessdate=2011-02-04}}</ref><ref>{{cite web|url=http://www.ajmmc.org/atom.xml |title=日本ミャンマー交流協会 AJMMC |publisher=Ajmmc.org |date= |accessdate=2011-02-04}}</ref> . 
+
+===Results for the Amyotha Hluttaw===. 
+168 of the 224 seats in the [[Amyotha Hluttaw]] (House of Nationalities) were up for election. The remaining 56 seats (25%) were not elected, and instead reserved for military appointees (taken from Defense Services personnel), technically called Army Representatives (AR).  . 
+
+{{Election Summary net Begin| title = Amyotha Hluttaw elections, 2010}}
+{{Election Summary net Party|
+  |party      = Union Solidarity and Development Party
+  |seats      = 129
+  |net        = 
+  |votes      = <!----11,156,442---- Needs to be verified---->
+  |votes %    = 
+  |seats %    = 57.59
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Appointed
+  |seats      = 56
+  |net        = +56
+  |votes      = -
+  |votes %    = -
+  |seats %    = 25.00
+  |plus/minus = +56 . 
+
+}}
+{{Election Summary net Party|
+  |party      = Rakhine Nationalities Development Party
+  |seats      = 7
+  |net        = 
+  |votes      = 263,678
+  |votes %    = 
+  |seats %    = 3.13
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = National Unity Party (Burma)
+  |seats      = 5
+  |net        = 
+  |votes      = 4,302,082
+  |votes %    = 
+  |seats %    = 2.23
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = National Democratic Force
+  |seats      = 4
+  |net        = 
+  |votes      = 1,488,543
+  |votes %    = 
+  |seats %    = 1.79
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Chin Progressive Party
+  |seats      = 4
+  |net        = 
+  |votes      = 86,211
+  |votes %    = 
+  |seats %    = 1.79
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = All Mon Region Democracy Party
+  |seats      = 4
+  |net        = 
+  |votes      = 172,806
+  |votes %    = 
+  |seats %    = 1.79
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Shan Nationalities Democratic Party
+  |seats      = 3
+  |net        = 
+  |votes      = 496,039
+  |votes %    = 
+  |seats %    = 1.34
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Phalon-Sawaw Democratic Party
+  |seats      = 3
+  |net        = 
+  |votes      = 77,825
+  |votes %    = 
+  |seats %    = 1.34
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Chin National Party
+  |seats      = 2
+  |net        = 
+  |votes      = 37,450
+  |votes %    = 
+  |seats %    = 0.89
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Others
+  |seats      = 7
+  |net        = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 7
+  |plus/minus = . 
+
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+{{Election box end}} . 
+
+===Results for the Pyithu Hluttaw===. 
+330 of the 440 seats in the [[Pyithu Hluttaw]] (House of Representatives) were up for election. The remaining 110 seats (25%) were not elected, and instead reserved for military appointees (taken from Defense Services personnel), technically called Army Representatives (AR).  . 
+
+{{Election Summary net Begin| title = Pyithu Hluttaw elections, 2010}}<ref>{{cite news|url=http://psephos.adam-carr.net/countries/b/burma/burma2010.txt|title=LEGISLATIVE ELECTION OF 7 NOVEMBER 2010|date=2010|publisher=Adam Carr's Election Archive|accessdate=3 April 2012}}</ref>
+{{Election Summary net Party|
+  |party      = Union Solidarity and Development Party
+  |seats      = 259
+  |net        = 
+  |votes      = 11,858,125
+  |votes %    = 56.83
+  |seats %    = 58.86
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Appointed
+  |seats      = 110
+  |net        = +110
+  |votes      = -
+  |votes %    = -
+  |seats %    = 25.00
+  |plus/minus = +110 . 
+
+}}
+{{Election Summary net Party|
+  |party      = Shan Nationalities Democratic Party
+  |seats      = 18
+  |net        = 
+  |votes      = 508,780
+  |votes %    = 2.43
+  |seats %    = 4.09
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = National Unity Party (Burma)
+  |seats      = 12
+  |net        = 
+  |votes      = 4,060,802
+  |votes %    = 19.46
+  |seats %    = 2.73
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Rakhine Nationalities Development Party
+  |seats      = 9
+  |net        = 
+  |votes      = 599,008
+  |votes %    = 2.87
+  |seats %    = 2.05
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = National Democratic Force
+  |seats      = 8
+  |net        = 
+  |votes      = 1,483,329
+  |votes %    = 7.11
+  |seats %    = 1.82
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = All Mon Region Democracy Party
+  |seats      = 3
+  |net        = 
+  |votes      = 167,928
+  |votes %    = 0.80
+  |seats %    = 0.68
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Pa-O National Organization
+  |seats      = 3
+  |net        = 
+  |votes      = 
+  |votes %    = 
+  |seats %    = 0.68
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Chin National Party
+  |seats      = 2
+  |net        = 
+  |votes      = 36,098
+  |votes %    = 0.17
+  |seats %    = 0.45
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Chin Progressive Party
+  |seats      = 2
+  |net        = 
+  |votes      = 76,463
+  |votes %    = 0.37
+  |seats %    = 0.45
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Phalon-Sawaw Democratic Party
+  |seats      = 2
+  |net        = 
+  |votes      = 82,038
+  |votes %    = 0.39
+  |seats %    = 0.45
+  |plus/minus = . 
+
+}}
+{{Election Summary net Party|
+  |party      = Wa Democratic Party
+  |seats      = 2
+  |net        = 
+  |votes      = 27,546
+  |votes %    = 0.13
+  |seats %    = 0.45
+  |plus/minus =
+}}
+{{Election Summary net Party|
+  |party      = Others
+  |seats      = 10
+  |net        = 
+  |votes      = 1,992,590
+  |votes %    = 9.55
+  |seats %    = 2.28
+  |plus/minus = . 
+
+}}
+{{Election box total no change
+| votes = 
+| percentage = 
+}}
+{{Election box end}} . 
+
+==Political parties== . 
+
+Parties are required to have at least 1,000 members to participate in the election and had to register by {{Nowrap|6 June}}. 40 parties have been approved by the Electoral Commission to contest the elections,<ref>{{cite news|last=Buncombe|first=Andrew|title=Burma bans marching and chanting during rallies |url=http://www.independent.co.uk/news/world/asia/burma-bans-marching-and-chanting-during--rallies-2008359.html|newspaper=[[The Independent]]|date=23 June 2010|location=London}}</ref> some of which are linked to [[List of ethnic groups in Burma|ethnic minorities]]. <ref name=ReuNDF>[http://www.reuters.com/article/idUSTRE6455UR20100506 Suu Kyi party splits, faction to run in Myanmar poll]. [[Reuters]]. {{Nowrap|7 May}} 2010</ref> . 
+
+The [[National League for Democracy]], which overwhelmingly won the previous [[Burmese general election, 1990|1990 elections]] but were never allowed to take power, decided not to participate. Nonetheless, some senior members have formed the [[National Democratic Force]] to contest the elections, claiming that a boycott would play into the hands of the government. <ref name=ReuNDF/> . 
+
+The government has established the [[Union Solidarity and Development Party]], the successor to the mass organization [[Union Solidarity and Development Association]], which claims to have around half the population as members. The [[National Unity Party (Burma)|National Unity Party]], which contested the [[Burmese general election, 1990|1990 election]] as the main pro-government party and won 10 seats, has also registered to run. Reuters estimates that six parties in total are allied to the government. <ref name=ReuNDF/> . 
+
+The new [[Democratic Party (Burma)|Democratic Party]], established by Mya Than Than Nu, the daughter of former [[Prime Minister of Burma]], [[U Nu]] and Nay Ye Ba Swe, the daughter of former Prime Minister [[Ba Swe]], is aiming to take part in the election. <ref>[http://www.taipeitimes.com/News/world/archives/2009/09/17/2003453736 Daughters of Burma's leaders join new party]. ''[[Taipei Times]]''. {{Nowrap|17 September}} 2009. </ref><ref>{{cite news|author=Jack Davies in Rangoon |url=http://www.guardian.co.uk/world/2010/jul/22/burma-three-princesses-electoral-fight |title=Burma's 'three princesses' prepare for election they have no chance of winning |publisher=The Guardian |date= 22 July 2010|accessdate=2010-08-21 | location=London}}</ref> Mya Than Than Nu will run as General Secretary of the party. <ref>[http://english.dvb.no/news.php?id=2856 U Nu's daughter to enter elections]. [[Democratic Voice of Burma]]. {{Nowrap|September 15}}, 2009. </ref> Media coverage of the party has been banned by the military government. <ref>[http://www.mizzima.com/news/inside-burma/2798-junta-bans-weekly-journals-from-pro-election-media-coverage-.html Junta bans weekly journals from pro-election media coverage]. [[Mizzima]]. {{Nowrap|22 September}} 2009. </ref> . 
+
+Another new party is being formed comprising members of a ceasefire group and a party that won seats in the 1990 elections. Five former members of the New Mon State Party (NMSP) and five members of Mon National Democratic Front (MNDF) together with five other Mon elites, who make up the new party, founded a 15-member committee and later announced that they are not going to participate in the upcoming election. <ref>[http://www.khitpyaing.org/news/April2010/7410a.php အမျိုးသားပြန်လည်သင့်မြတ်ရေး တောင်းဆိုချက်များ မရပါက ယူအန်အေ ရွေးကောက်ပွဲမဝင်]. (in Burmese). ''The New Era Journal''. </ref> . 
+
+The [[Shan Nationalities League for Democracy]], a [[Shan people|Shan]] political party that came second in the 1990 election, is participating in the election as the [[Shan Nationalities Democratic Party]]. <ref>{{cite news|url=http://english.dvb.no/news.php?id=3205|title=Shan party eye 2010 elections |last=Kaew|first=Nan Kham|date=7 January 2009|publisher=[[Democratic Voice of Burma]]}}</ref><ref>{{cite web|url=http://www.mizzima.com/political-pro/new-parties/sndp.html |title=Shan Nationalities Democratic Party |publisher=Mizzima.com |date= |accessdate=2010-08-21}}</ref> . 
+
+The SPDC has not answered opposition calls to amend the 2008 constitution or state clearly how the electoral process will be managed and the terms that new political parties can organise. <ref name=ato>McCartan, Brian ({{Nowrap|30 September}} 2009). [http://www.atimes.com/atimes/Southeast_Asia/KI30Ae01.html US takes a radical turn on Myanmar]. ''[[Asia Times Online]]''. </ref> In a speech to military retirees, Than Shwe said that the transition to a parliamentary system meant various parties with different opinions would appear, but he warned that the new parties should "avoid anything that leads to harming state interests". <ref>[http://www.voanews.com/english/2009-10-10-voa14.cfm Burma's Ruling General Confirms 2010 Election]. [[Voice of America]]. {{Nowrap|10 October}} 2009. </ref> . 
+
+The constituencies available for contesting are 330 civilian seats in the House of Representatives (out of 440) and 168 civilian seats in the House of Nationalities (out of 224). <ref>{{cite web|url=http://www.irrawaddy.org/election/news/405-burma-designates-constituencies-for-parliament.html |title=Burma Designates Constituencies for "Parliament" |publisher=Irrawaddy.org |date=2010-08-12 |accessdate=2010-08-21}}</ref> The remaining seats are designated for military officials and to be selected by the military chief.  . 
+
+During an East Asian summit in Vietnam, Foreign Minister [[Nyan Win]] confirmed [[Than Shwe]] would not be running in the election. <ref>{{cite web|url=http://english.aljazeera.net/news/asia-pacific/2010/10/2010102874537360769.html |title=Myanmar ruler 'not running in poll' |publisher=Al Jazeera English |date=2010-10-28 |accessdate=2010-11-11}}</ref> . 
+
+===Contesting political parties===. 
+#Mro or Khami National Solidarity Organization (MKNSO)
+#[[National Unity Party (Burma)|National Unity Party]] (NUP)
+#Lahu National Development Party (LNDP)
+#Kokang Democracy and Unity Party (KDUP)
+#Pa-Oh National Organisation (PNO)
+#[[Democratic Party (Burma)]] (DPM)
+#Kayan National Party (KNP)
+#Rakhine State National Force of Myanmar (RSNF)
+#Kayin People's Party (KPP)
+#Wa National Unity Party (WNUP)
+#Union of Karen/Kayin League (UKL)
+#Taaung (Palaung) National Party (TPNP)
+#[[All Mon Region Democracy Party]] (AMRDP)
+#[[Democracy and Peace Party]] (DPP)
+#[[Shan Nationalities League for Democracy|Shan Nationalities Democratic Party]] (SNDP)
+#United Democratic Party (UnitedDP)
+#888 Generation Student Youths (Union of Myanmar, 8GSY)
+#Union of Myanmar Federation of National Politics (UMNPF)
+#National Political Alliances League (NPAL)
+#Democratic Party for Myanmar New Society (DPMNS)
+#Chin National Party (CNP)
+#Wuntharnu NLD (Union of Myanmar, WNLD)
+# Modern People Party  (MPP)
+# Union Democratic Party  (UnionDP)
+# Peace and Diversity Party  (PDP)
+# Chin Progressive Party  (CPP)
+# Inn National Progressive Party (INPP)
+# Rakhine Nationalities Development Party  (RNDP)
+# Wa Democratic Party (WDP)
+# Phalon-Sawaw Democratic Party (PSDP)
+# National Democratic Party for Development (NDPD)
+#[[Union Solidarity and Development Party]] (USDP)
+# Ethnic National Development Party (ENDP)
+# Myanmar Democracy Congress (MDC)
+# Mro National Party (MNP)
+# Kaman National Progressive Party (KNPP)
+# Khami National Development Party (KNDP)
+# [[National Democratic Force]] (NDF)
+# Regional Development Party (Pyay, RDPP)
+# Unity and Democracy Party of Kachin State (UDPKS) . 
+
+==Campaign==. 
+{{Expand section|date=November 2010}}
+Campaigning was low-key for the first election in 20 years. <ref>{{cite web|url=http://english.aljazeera.net/video/asia-pacific/2010/11/2010113103521880770.html |title=Restrictions mar Myanmar election |publisher=Al Jazeera English |date=2010-11-03 |accessdate=2010-11-11}}</ref> . 
+
+==Controversy==. 
+{{Expand section|date=September 2010}}<!-- see talk--> . 
+
+===Cancelled election===. 
+The election has been cancelled{{clarify|date=November 2010}}<!--what does it mean canceled in these parts? Will they not take part in the election or is it another [local] election that is put off--> in parts of [[Mon State]] (4.08% of village-tracts), [[Shan State]] (10.69%), [[Kayah State]] (11.93%), [[Kachin State]] (16.60%), and [[Kayin State]] (47.25%). <ref>{{cite web|url=http://www.altsean.org/Research/2010/Key%20Facts/Constituencies/Black%20areas.php |title=Areas where elections are cancelled - 2010 Election Watch - ALTSEAN Burma |publisher=Altsean.org |date= |accessdate=2010-11-11}}</ref> The only unaffected state is [[Chin State]].  . 
+
+===Violence===. 
+There have been concerns from aid agencies that the upcoming election could see a growing number of refugees fleeing to [[Thailand]] and China, due to alleged government repression, poverty and [[Internal conflict in Burma|low-level ethnic conflict]]. <ref>{{cite news|url=http://www.telegraph.co.uk/expat/expatnews/6946188/Burma-election-could-provoke-a-rise-in-refugees-into-Thailand-and-China.html|title=Burma election could provoke a rise in refugees into Thailand and China|last=Sagolj|first=Damir|date=7 January 2010|publisher=The Daily Telegraph | location=London}}</ref> Ceasefires between the military government and ethnic groups were also deteriorating. <ref>{{cite news|url=http://www.google.com/hostednews/ap/article/ALeqM5ju_ugOE7wq6t8yEqSWvitNeLlr-wD9F68P7G2|title=Ethnic group in Myanmar gears up for war, peace|last=Tran|first=Tini|date=19 April 2010|agency=Associated Press}}</ref> . 
+
+In the run up to the election, there were several bomb blasts in Burma. A bomb attack on the [[Thingyan|Burmese New Year]] killed at least nine people in [[Yangon]] and injured many others, including the regional commander of the [[Tatmadaw|Burmese Army]],<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/world/asia-pacific/8622068.stm|title= Blasts 'kill nine' in Burmese city of Rangoon|date=15 April 2010|publisher=BBC News}}</ref><ref>{{cite news|url=http://www.mizzima.com/news/inside-burma/3825-military-commander-critically-injured-in-rangoon-blasts.html|title= Military commander critically injured in Rangoon blasts |last=Maung|first=Myint|date=19 April 2010|publisher=[[Mizzima]]}}</ref> while a series of explosions were reported at a hydroelectric project being jointly built by a Chinese company in the north of the country, the latter thought to be the work of anti-government groups. <ref>{{cite news|url=http://www.irishtimes.com/newspaper/world/2010/0419/1224268628510.html|title=Series of explosions reported at hydroelectric project in Burma|last=Coonan|first=Clifford|date=19 April 2010|publisher=[[The Irish Times]]}}</ref><ref>{{cite news|url=http://www.reuters.com/article/idUSSGE63G036|title=Bomb blasts rock China JV hydropower site in Myanmar|last=Tun|first=Aung Hla|date=17 April 2010|publisher=Reuters}}</ref> . 
+
+===International response===. 
+The [[United Nations]] has expressed concern about the fairness of the election<ref>{{cite news|url=http://www.nytimes.com/2010/10/22/world/asia/22nations.html|date=22 October 2010|publisher=The New York Times | first=Neil|last=MacFarquhar|title=U.N. Doubts Fairness of Election in Myanmar}}</ref> and [[United Nations Secretary-General]] [[Ban Ki-moon]] expressed "grave concern" that Aung San Suu Kyi would not be released before the election and thus it would "lack credibility." He accused the government of being "slow and incomplete" to meet political commitments, and said it was "deeply frustrating" that the government would not hold talks with the "international community."<ref>[http://burmaelection2010.com/international/521.html ]{{dead link|date=November 2010}}</ref> . 
+
+The Chinese Foreign Ministry spokeswoman, Jiang Yu, commented on the election during Than Shwe's visit to China. "The international community can provide constructive help [for the elections] and refrain from any negative impact on the domestic political process of Myanmar and on regional peace and stability."<ref>{{cite web|url=http://english.aljazeera.net/news/asia-pacific/2010/09/2010971090798336.html |title=China hosts Myanmar military leader |publisher=Al Jazeera English |date=2010-09-07 |accessdate=2010-11-11}}</ref> . 
+
+The following day, US Secretary of State [[Hillary Clinton]] spoke to the US Senate Appropriations Committee Subcommittee on State and Foreign Affairs where she mentioned that the trial against Aung San Suu Kyi was allegedly "baseless charges." She also added that the government was "continuing resistance to a free and open electoral process. If they stay on the track they're on, their elections in 2010 will be totally illegitimate and without any meaning in the international community." She admitted that "We are absolutely committed to trying to come up with an approach that might influence the regime. We are going to try to do our best to influence them to see that this repressive regime is not one that we should continue to support, and hopefully get a greater international base to take action against them." She claimed to have support from other countries, "I have been heartened by the response that we have received. I have spoken to a number of the foreign secretaries of [[ASEAN]] countries, who've issued strong statements." She added that she was working to get more support in the United Nations. <ref>{{cite web|url=http://www.irrawaddy.org/article.php?art_id=15692 |title=2010 Burmese Election may be Illegitimate: Clinton |publisher=Irrawaddy.org |date= |accessdate=2010-11-11}}</ref> . 
+
+UK Foreign Minister [[William Hague]] said that "holding flawed elections does not represent change."<ref>{{cite news|author= |url=http://www.bbc.co.uk/news/world-asia-pacific-11707294 |title=BBC News - Western states dismiss Burma's election |publisher=Bbc.co.uk |date= 8 November 2010|accessdate=2010-11-11}}</ref> . 
+
+==Monitors==. 
+Burma barred foreign observers and the international media from the election. The election commission chief, Thein Soe, did add, however, that diplomats and representatives from UN organisations in the country would be allowed to observe the election. He justified the decision saying "We are holding the election for this country. It's not for other countries&nbsp;... We will have credibility after holding the election in front of all the people."<ref>{{cite web|url=http://english.aljazeera.net/news/asia-pacific/2010/10/2010101811659430825.html |title=Myanmar bars 'outsiders' from polls |publisher=Al Jazeera English |date=2010-10-18 |accessdate=2010-11-11}}</ref> . 
+
+==Election==. 
+{{update|date=November 2010}}
+The election was held amid tight security. <ref>{{cite web|url=http://english.aljazeera.net/news/asia-pacific/2010/11/20101170373336867.html |title=Voting ends in Myanmar election |publisher=Al Jazeera English |date=2010-11-07 |accessdate=2010-11-11}}</ref> Initial reports pointed to a light turnout across the country, possibly as low as 20% in some areas, and the possibility of irregularities. <ref name=autogenerated1>{{cite news|author=Jack Davies in Rangoon and Haroon Siddique |url=http://www.guardian.co.uk/world/2010/nov/08/burma-election-voter-intimidation |title=Burma election observers report voter intimidation |publisher=The Guardian |date= 8 November 2010|accessdate=2010-11-11 |location=London}}</ref><ref>{{cite news| url=http://www.nytimes.com/2010/11/08/world/asia/08myanmar.html | work=The New York Times | title=Turnout Appears Light in Myanmar's Election | date=7 November 2010}}</ref> ''[[The Guardian]]'' reported that independent local observers were reporting "widespread voter intimidation and bribery" in the election. <ref name=autogenerated1 /> . 
+
+The Union Solidarity and Development Party (USDP) took 80% of the seats that were up for election. The two largest opposition parties, the National Democratic Front and the Democratic Party (Burma) conceded defeat, however, along with four other opposition parties, filed formal complaints about fraud with the election commission. <ref name=autogenerated2>{{cite news|author=Reuters in Rangoon |url=http://www.guardian.co.uk/world/2010/nov/09/burma-usdp-wins-election |title=Burmese election won by military-backed party |publisher=guardian.co.uk |date= 9 November 2010|accessdate=2010-11-11 |location=London}}</ref> . 
+
+On November 11, state radio announced the results for 147 constituencies in the Lower House, with the USDP winning 133. The USDP won 81 of 86 races newly announced for the Upper House.{{Clarify|date=November 2010}} . 
+
+The new and previously announced results show the USDP gained majorities in both houses of parliament: 190 out of the 219 (86%) seats announced for the 330-seat lower house, and 95 out of 107 (88%) seats announced for the 168-seat upper house. <ref>{{cite web|url=http://irrawaddy.org/article.php?art_id=20051 |title=Burma's Pro-junta Party Wins Parliament Majority |publisher=Irrawaddy.org |date=2010-11-12 |accessdate=2011-02-04}}</ref> . 
+
+===Reactions===. 
+Than Nyein, the chairman of the National Democratic Force, claimed the election was marred by irregularities. "We have our evidence. Some candidates complained&nbsp;... because there was vote cheating." Khin Maung Swe, the leader of the opposition National Democratic Force alleged: "We took the lead at the beginning but the USDP later came up with so-called advance votes and that changed the results completely, so we lost." . 
+
+UN Secretary-General [[Ban Ki-moon]] claimed voting conditions had been "insufficiently inclusive, participatory and transparent."<ref>{{cite web|url=http://english.aljazeera.net/news/asia-pacific/2010/11/201011953329831880.html |title=Myanmar parties concede poll defeat |publisher=Al Jazeera English |date= |accessdate=2010-11-11}}</ref> . 
+
+The People's Republic of China's Foreign Ministry  said the election was "a critical step for Myanmar in implementing the seven-step road map in the transition to an elected government, and thus is welcome."<ref>{{cite web|url=http://www.mysinchew.com/node/47776 |title=China praises much-criticised Myanmar election |publisher=My Sinchew |date= |accessdate=2010-11-11}}</ref> . 
+
+India was conspicuously silent with segments of the Indian media questioning whether principle gave way to expediency. <ref>CNBC-TV 18. November 11, 2010. </ref> . 
+
+Russian Foreign Minister [[Sergey Lavrov]] welcomed the vote and characterized it as a "step forward in the democratisation of Burmese society."<ref name=autogenerated2 /> . 
+
+During a speech to the Indian parliament, US President [[Barack Obama]] said of the election that "When peaceful democratic movements are suppressed – as in Burma – then the democracies of the world cannot remain silent&nbsp;... It is unacceptable to steal an election as the regime in Burma has done again for the world to see."<ref>{{cite web|author=ITGD Bureau |url=http://www.indiatoday.intoday.in/site/Story/119262/Top%20Stories/obama-supports-india-on-un-security-council-bid.html |title=Obama supports India on UN Security Council bid: Obama Visit : India Today |publisher=Indiatoday.intoday.in |date= |accessdate=2010-11-11}}</ref> . 
+
+[[Edwin Lacierda]], the spokesperson of [[Philippines|Philippine]] [[President of the Philippines|President]] [[Benigno Aquino III]], said in a press conference at [[Malacañang Palace]] that " [We] express our disappointment towards the actions done by the Burmese government towards the NLD, and also with regards to such a farce-like elections which just appeared to be a display." . 
+
+==Analysis==. 
+The relevance of [[Aung San Suu Kyi]] was questioned in light of the election. Prior to the election, she was regarded to be "the icon of the country's struggling democracy movement" outside the country. It was asked that following the election: "How much power and reach would she still have to rally her followers barely a week after the south-east Asian nation's first general election in two decades?" One such reason was because the NLD's boycott may have failed if it does not play the right cards in dealing with at least a semblance of an elected opposition in a "semi-legitimate" parliament. Pending her release from jail, the political atmosphere would have changed because of a new military leadership that may not be as "cosmopolitan" and "practical" in dealing both with her and external players. The British ambassador to Myanmar, Andrew Heyn, also said: "What they [[Military junta|the junta]] do when Suu Kyi is released will send a message. She is well informed and committed and wants to stay involved."<ref>{{cite web|author=Marwaan Macan-Markar |url=http://english.aljazeera.net/indepth/2010/11/201011813425351859.html |title=How relevant is Aung San Suu Kyi? - In Depth |publisher=Al Jazeera English |date= |accessdate=2010-11-11}}</ref> . 
+
+==Aftermath==. 
+{{Main|2010 Burma border clashes}}
+The following day clashes erupted between the [[Democratic Karen Buddhist Army]] (DKBA) and government forces in [[Myawaddy]] by the Thai border. <ref>{{cite web|url=http://english.aljazeera.net/news/asia-pacific/2010/11/2010118479326824.html |title=Thousands flee Myanmar clashes |publisher=Al Jazeera English |date= |accessdate=2010-11-11}}</ref> The fighting spilled over to the town of [[Three Pagodas Pass]] with reports that the DKBA had seized the town from the military. According to some reports, the DKBA planned the action in the towns of Myawaddy and Three Pagodas Pass to take advantage of the deployment of the military for election monitoring. Many voters in the area, fearing an attack, stayed away from the polls. <ref>{{cite web|url=http://www.irrawaddy.org/article.php?art_id=20004 |title=DKBA Troops Seize Three Pagodas Pass |publisher=Irrawaddy.org |date= |accessdate=2010-11-11}}</ref> . 
+
+Opposition leader Aung San Suu Kyi was released from house arrest on November 13,<ref>[http://www.nytimes.com/2010/11/14/world/asia/14myanmar.html?_r=1&hp >> Burmese Dissident Is Freed After Long Detention]</ref> despite a court ruling quashing her release. <ref>{{cite web|url=http://english.aljazeera.net/news/asia-pacific/2010/11/2010111110038160996.html |title=>> Myanmar court denies Suu Kyi appeal |publisher=English.aljazeera.net |date=2010-11-11 |accessdate=2011-02-04}}</ref> She then said there were no regrets over her party's boycott of the election. In order to have change, she said, "The people have to want it, and they have to be united."<ref>{{cite web|url=http://english.aljazeera.net/news/asia-pacific/2010/11/20101118101724623904.html |title=Suu Kyi defends election boycott - Asia-Pacific |publisher=Al Jazeera English |date=2010-11-18 |accessdate=2011-02-04}}</ref> . 
+
+Suu Kyi and her party participated and won seats in the subsequent [[Burmese by-elections, 2012|2012 by-elections]].  . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+* [http://www.irrawaddy.org/election/ Burma Election 2010] – ''[[The Irrawaddy]]''
+* [http://burmaelection2010.com Election Information]
+* [http://ictj.org/publication/impunity-or-reconciliation-burmas-transition Pierce, Patrick. ''Impunity or Reconciliation in Burma's Transition,'' [[International Center for Transitional Justice]].]
+* [http://www.mizzima.com/news/election-2010.html Election coverage] – [[Mizzima]]
+{{Burmese elections}} . 
+
+{{DEFAULTSORT:Burmese General Election, 2010}}
+[[Category:Elections in Burma]]
+[[Category:2010 elections in Asia]]
+[[Category:2010 in Burma]]

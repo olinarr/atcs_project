@@ -1,0 +1,80 @@
+{{Refimprove|date=October 2008}}
+[[File:USCISLogoEnglish.jpg|right|thumb|United States Citizenship and Immigration Services English logo]]
+'''United States Citizenship and Immigration Services''' ('''USCIS''') is a component of the [[United States]] [[Department of Homeland Security]] (DHS). It performs many administrative functions formerly carried out by the legacy [[United States Immigration and Naturalization Service]] (INS), which was part of the [[United States Department of Justice|Department of Justice]]. The stated priorities of the USCIS are to promote national security, to eliminate [[immigration]] case backlogs, and to improve customer services. USCIS is headed by a director who reports directly to the Deputy Secretary for Homeland Security.  USCIS was formerly and briefly named the U.S. Bureau of Citizenship and Immigration Services (BCIS), before becoming USCIS. <ref>http://www.uscis.gov/ilink/docView/FR/HTML/FR/0-0-0-1/0-0-0-94157/0-0-0-94177/0-0-0-95352.html</ref>  Alejandro Mayorkas was sworn in as USCIS Director on August 12, 2009. <ref name ="Leadership">[http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=c0fbab0a43b5d010VgnVCM10000048f3d6a1RCRD&vgnextchannel=c0fbab0a43b5d010VgnVCM10000048f3d6a1RCRD Leadership info] at www.uscis.gov</ref> . 
+
+==The number of employees==. 
+According to the [http://www.uscis.gov/aboutus USCIS website], USCIS consists of 18,000 federal employees and contractors working at 250 offices around the world.  . 
+
+==Functions==. 
+{{Unreferenced section|date=October 2008}} . 
+
+USCIS is charged with processing immigrant [[Visa (document)|visa]] petitions, [[naturalization]] petitions, and [[right of asylum|asylum]] and [[refugee]] applications, as well as making [[adjudicative]] decisions performed at the service centers, and managing all other immigration benefits functions (i.e., not immigration enforcement) performed by the former INS. Other responsibilities include: . 
+
+* Administration of immigration services and benefits
+* Adjudicating asylum claims
+* Issuing employment authorization documents (EAD)
+* Adjudicating petitions for non-immigrant temporary workers ([[H-1B visa|H-1B]], [[O-1 visa|O-1]], etc.)
+* Granting lawful [[Permanent residence (United States)|permanent resident]] status
+* Granting [[United States nationality law|United States citizenship]] . 
+
+The [[Executive Office for Immigration Review]], which includes the [[United States Immigration Court|Immigration Court]] and the [[Board of Immigration Appeals]], and which reviews decisions made by USCIS, remains under the jurisdiction of the [[United States Department of Justice|Department of Justice]]. The bureau consists of approximately 15,000 federal government employees and contractors who work in 250 local and field offices in the U.S. and all around the world.  . 
+
+While core immigration benefits functions remain the same as under the INS, a new goal is to process applications efficiently and effectively. Improvement efforts have included attempts to reduce the applicant backlog, as well as providing customer service through different channels, including the National Customer Service Center (NCSC) with information in English and Spanish, Application Support Centers (ASCs), the [[Internet]] and other channels.  . 
+
+USCIS focuses on two key points on the immigrant's journey towards civic integration: when they first become permanent residents and when they are ready to begin the formal [[United States nationality law#Naturalization|naturalization]] process. A lawful permanent resident is eligible to become a citizen of the United States after holding the [[United States Permanent Resident Card|Permanent Resident Card]] for at least five continuous years, with no trips out of the United States that last for 180 days or more. If, however, the lawful permanent resident marries a U.S. citizen, eligibility for U.S. citizenship is shortened to three years so long as the resident has been living with the spouse continuously for at least three years and the spouse has been a citizen for at least three years.  . 
+
+==History==. 
+The INS was widely seen as ineffective, particularly after scandals that arose after September 11, 2001. <ref>[http://www.usdoj.gov/oig/special/0205/fullreport.pdf Special report "The INS's Contacts With Two September 11 Terrorists" by the U.S. DOJ Inspector General], May 20, 2002, at www.usdoj.gov</ref> On November 25, 2002, President [[George W. Bush]] signed the [[Homeland Security Act of 2002]] into law. This law transferred the [[United States Immigration and Naturalization Service|Immigration and Naturalization Service]] (INS) functions to the [[Department of Homeland Security]] (DHS). Immigration enforcement functions were placed within the [[U.S. Immigration and Customs Enforcement]] (ICE) and the immigration service functions were placed into the separate USCIS.  On March 1, 2003, the INS ceased to exist and services provided by that organization transitioned into USCIS. Eduardo Aguirre was appointed the first USCIS Director by President Bush. In December 2005, [[Emilio T. Gonzalez]], Ph. D., was confirmed by the U.S. Senate as the Director of USCIS, and he held this position until April 2008. <ref name="Leadership" /> . 
+
+Nominated by President Obama on April 24 and unanimously confirmed on August 7 by the U.S. Senate, Alejandro Mayorkas was sworn in as USCIS Director on August 12, 2009.  . 
+
+==Official website==. 
+USCIS's official website is [http://www.uscis.gov/ USCIS.gov]. The site was redesigned in 2009 and unveiled on September 22, 2009. <ref>{{cite press release|url=http://www.dhs.gov/ynews/releases/pr_1253635145896.shtm|title=Secretary Napolitano and USCIS Director Mayorkas Launch Redesigned USCIS Website|date=September 22, 2009|accessdate=April 10, 2010|publisher=[[United States Department of Homeland Security]]}}</ref> . 
+
+The redesign made the web page interface more similar to the [http://www.dhs.gov Department of Homeland Security's official website]. The last major redesign before 2009 took place in October 2006.  . 
+
+Also, USCIS runs an online appointment scheduling service known as INFOPASS. This system allows people with questions about immigration to come into their local USCIS office and speak directly with a government employee about their case and so on. This is an important way in which USCIS serves the public.  . 
+
+==Social media presence==. 
+USCIS maintains a blog entitled [http://blog.uscis.gov/ "The Beacon"] as well as the "@uscis" Twitter account.  . 
+
+==Funding==. 
+Unlike most other federal agencies, USCIS is funded almost entirely by user fees. <ref>[http://www.dhs.gov/xlibrary/assets/CISOMB_Annual_Report_2007.pdf CIS Ombudsman's 2007 Annual Report], pages 46-47</ref> 
+Under President [[George W. Bush]]'s FY2008 budget request, direct congressional appropriations made about 1% of the USCIS budget and about 99% of the budget was funded through fees. The total USCIS FY2008 budget was projected to be $2.6 billion. <ref>[http://www.uscis.gov/files/pressrelease/FY08Budget020507FS.pdf  USCIS FY2008 budget request fact sheet]</ref> . 
+
+==Forms==. 
+USCIS handles all forms and processing materials related to immigration and naturalization.  This is evident from USCIS's predecessor, the [[Immigration and Naturalization Service|INS]], ([[Immigration and Naturalization Service]]) which is defunct as of May 9, 2003.  . 
+
+USCIS currently handles two kinds of forms: those relating to immigration, and those related to naturalization.  Forms are designated by a specific name, and an alphanumeric sequence consisting of one letter, followed by two or three digits.  Forms related to immigration are designated with an I (for example, [[United States Permanent Resident Card|I-551, Permanent Resident Card]]) and forms related to [[naturalization]] are designated by an N (for example, [[Form N-400|N-400]], Application for Naturalization).  . 
+
+==See also==. 
+{{Portal|Government of the United States}}
+* [[Attorney General]]
+* [[Immigration and Customs Enforcement]]
+* [[Immigration and Naturalization Service]]
+* [[Immigration to the United States]]
+* [[List of United States immigration legislation]]
+* [[Naturalization]]
+* [[Private bill]] . 
+
+==References==. 
+{{DHS}}
+<references/> . 
+
+==External links==. 
+{{Commons category}}
+<!-- Please do not add commercial and/or how-to links. This purpose of the article is to learn about this bureau of the government, not to learn how to immigrate. Thanks -->
+*[http://www.uscis.gov United States Citizenship and Immigration Services]
+*[http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=107_cong_public_laws&docid=f:publ296.107.pdf Homeland Security Act of 2002]
+*[http://infopass.uscis.gov USCIS INFOPASS Appointment Scheduler]
+*[http://www.immigrationvoice.org United States Immigration Trackers]
+*[http://immigrationroad.com/resource/uscis-ins-history.php USCIS History]: Major milestones of USCIS and other immigration agencies, from the 19th century to 2003 . 
+
+{{DHS agencies}} . 
+
+{{DEFAULTSORT:United States Citizenship And Immigration Services}}
+[[Category:History of immigration to the United States|Citizenship and Immigration Services]]
+[[Category:Immigration to the United States|Citizenship and Immigration Services]]
+[[Category:Immigration services]]
+[[Category:United States Department of Homeland Security agencies|Citizenship and Immigration Services]]
+[[Category:Organizations established in 2003|Citizenship and Immigration Services]]

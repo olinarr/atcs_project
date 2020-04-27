@@ -1,0 +1,64 @@
+{{Other uses}} . 
+
+[[Image:Christer Fuglesang underwater EVA simulation for STS-116.jpg|thumb|An astronaut in training for an [[extra-vehicular activity]] mission using an underwater simulation environment.]] . 
+
+The term ''''' training''''' refers to the acquisition of [[knowledge]], [[skill]]s, and [[Competence (human resources)|competencies]] as a result of the teaching of [[vocational education|vocational]] or practical skills and knowledge that relate to specific useful competencies. Training has specific goals of improving one's [[capability]], [[capacity]], and [[performance (disambiguation)|performance]]. It forms the core of [[apprenticeship]]s and provides the backbone of content at [[institute of technology|institutes of technology]] (also known as technical colleges or polytechnics). In addition to the basic training required for a [[Trade (profession)|trade]], [[Employment|occupation]] or [[profession]], observers of the labor-market{{Who|date=March 2009}} recognize {{As of|2008| lc = on}} the need to continue training beyond initial qualifications: to maintain, upgrade and update skills throughout [[career|working life]]. People within many professions and occupations may refer to this sort of training as [[professional development]].  . 
+
+Compare: . 
+
+* [[Education]]
+* [[Learning]] . 
+
+== Types of training ==. 
+=== Physical training ===. 
+[[File:Training drill, St Kilda FC 01.jpg|thumb|350px|The [[Australian Football League]] club [[St Kilda Football Club|St Kilda]] take part in a ball handling training drill prior to the [[2009 AFL Grand Final]]]] . 
+
+Physical training concentrates on mechanistic goals: training-programs in this area develop specific skills or muscles, often with a view to peaking at a particular time. Some physical training programs focus on raising overall [[physical fitness]].  . 
+
+In [[military]] use, training means gaining the physical ability to perform and survive in [[combat]], and learning the many skills needed in a time of [[war]]. These include how to use a variety of [[weapons]], outdoor [[surviving|survival]] skills, and how to survive capture by the enemy, among others.  See [[military education and training]].  . 
+
+For psychological or physiological reasons, people who believe it may be beneficial to them can choose to practice [[Relaxation (psychology)|relaxation]] training, or [[autogenic training]], in an attempt to increase their ability to relax or deal with stress. <ref>[http://www.thaindian.com/newsportal/india-news/relaxation-training-may-cut-hypertension-medication-among-elderly_10032216.html » Relaxation training may cut hypertension medication among elderly - Thaindian News<!-- Bot generated title -->]</ref>
+While some studies have indicated relaxation training is useful for some medical conditions, autogenic training has limited results or has been the result of few studies.  . 
+
+=== Job Training and Development=== . 
+
+Some commentators use a similar term for workplace learning to [[Performance improvement | improve performance]]: "[[training and development]]". There are also additional services available online for those who wish to receive training above and beyond that which is offered by their employers. Some examples of these services include career counseling, skill assessment, and supportive services<ref>[http://www.jobs.state.ak.us/jt/» Job Training - Alaska Department of Labor and Workforce Development<!-- Bot generated title -->]</ref>. One can generally categorize such training as ''on-the-job'' or ''off-the-job'': . 
+
+* On-the-job training takes place in a normal working situation, using the actual [[tool]]s, equipment, documents or materials that trainees will use when fully trained. On-the-job training has a general reputation{{Citation needed|date=May 2011}} as most effective for vocational work. 
+* Off-the-job training takes place away from normal work situations — implying that the employee does not count as a directly productive worker while such training takes place.  Off-the-job training has the advantage that it allows people to get away from work and concentrate more thoroughly on the training itself. This type of training has proven more effective{{Citation needed|date=February 2008}} in inculcating concepts and ideas. 
+*A more recent development in job training is the On the Job Training Plan or OJT Plan. According to the United States Department of the Interior, a proper OJT plan should include: An overview of the subjects to be covered, the number of hours the training is expected to take, an estimated completion date, and a method by which the training will be evaluated. <ref>http://www.jobs.state.ak.us/jt/</ref> . 
+
+=== Religion and spirituality === . 
+
+In [[religion|religious]] and [[Spirituality|spiritual]] use, training may refer to the purification of the mind, heart, understanding and actions to obtain a variety of spiritual goals such as (for example) closeness to [[God]] or freedom from [[dukkha|suffering]].  Note for example the institutionalized spiritual training of [[Threefold Training]] in Buddhism, Meditation in [[Hinduism]] or [[discipleship]] in [[Christianity]]. These aspects of training can be short term or last a lifetime, depending on the context of the training and which religious group it is a part of.  . 
+
+Compare religious [[ritual]].  . 
+
+===Parochial Schools=== . 
+
+Parochial schools are a fairly widespread idea in the United States. A parochial school is a primary or secondary school supervised by a religious organization, especially a Roman Catholic day school affiliated with a parish or a holy order. <ref>[Dictionary.com http://dictionary.reference.com/browse/parochial school » Parochial school </ref>. As of 2004, out of the approximately 50 million children who were enrolled in American grade schools, 4.2 million children attend a church affiliated school, which is approximately 1 in 12 students. <ref>http://www.boston.com/news/globe/editorial_opinion/oped/articles/2004/05/09/making_the_case_for_parochial_schools/</ref> Within the Christian religion, for example, one can attend a church affiliated college with the intent of getting a degree in a field associated with religious studies. Some people may also attend church affiliated colleges in pursuit of a non-religious degree, and typically do it just to deepen their understanding of the specific religion that the school is associated with. The largest non-public school system in the United States is the Catholic school system, with 5,744 elementary schools and 1,206 secondary schools. <ref>http://www.ncea.org/news/annualdatareport.asp</ref> . 
+
+=== Artificial-intelligence feedback === . 
+
+Researchers have developed training-methods for [[artificial intelligence|artificial-intelligence]] devices as well. [[Evolutionary algorithms]], including [[genetic programming]] and other methods of [[machine learning]], use a system of [[feedback]] based on "fitness functions" to allow [[computer programs]] to determine how well an entity performs a task. The methods construct a series of programs, known as a “population” of programs, and then automatically test them for "fitness", observing how well they perform the intended task. The system automatically generates new programs based on members of the population that perform the best. These new members replace programs that perform the worst. The procedure repeats until the achievement of optimum performance. <ref>
+''Genetic Programming: An Introduction'', Wolfgang Banzhaf, [[Peter Nordin]], Robert E. Keller, and Frank D. Francone, Morgan Kaufmann Publishers, Inc., 1998
+</ref>
+In [[robotics]], such a system can continue to run in [[Real time (media)|real-time]] after initial training, allowing [[robot]]s to adapt to new situations and to changes in themselves, for example, due to wear or damage. Researchers have also developed robots that can appear to mimic simple human behavior as a starting point for training. <ref>
+{{cite web  |url=http://www.etek.chalmers.se/~almir/  |title=HR-2 Robot can mimic simple human behavior}}</ref> . 
+
+== See also ==. 
+[[File:Aforsys training.PNG|thumb|1150px|Training pictogram]]
+* [[Course evaluation]]
+* [[Talent development|HRD (human resource development)]]
+* [[Training Simulation]]
+* [[Physical education]]
+* [[Practice (learning method)]]
+* [[Retraining]]
+* [[Supercompensation]] (physical fitness)
+* [[Trainer (business)]]
+* [[Athletic Training]] . 
+
+== References ==. 
+{{reflist}} . 
+
+[[Category:Training| ]]

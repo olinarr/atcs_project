@@ -1,0 +1,61 @@
+:''For the film and television director, see [[Kevin Dowling (director)]].''
+{{infobox bishopstyles |
+    name=Kevin Dowling|
+    dipstyle=[[The Most Reverend]] |
+    offstyle=[[Your Excellency]] |
+    relstyle=[[Bishop]] |
+    deathstyle=not applicable |}}
+'''Kevin Patrick Dowling''', [[Congregation of the Most Holy Redeemer|C.SS.R.]], (born 14 February, 1944) is a [[South Africa]]n [[prelate]] of the [[Roman Catholic Church]]. A [[Congregation of the Most Holy Redeemer|Redemptorist]], he is the second and current [[Roman Catholic Diocese of Rustenburg|Bishop of Rustenburg]].  . 
+
+==Early life and ordination==. 
+Born in [[Pretoria]], Dowling was [[Holy Orders|ordained]] a [[Priesthood (Catholic Church)|priest]] of the [[Congregation of the Most Holy Redeemer]], more commonly known as the Redemptorists, on July 9, 1967.   . 
+
+==Bishop==. 
+He was appointed [[Roman Catholic Diocese of Rustenburg|Bishop of Rustenburg]] on December 2, 1990, receiving his [[Bishop (Catholic Church)|episcopal consecration]] on January 27, 1991 from [[Denis Hurley (bishop)|Archbishop Denis Hurley]].  . 
+
+==Views==. 
+===Condoms and HIV===. 
+He is best known for his position that condoms should be used to prevent [[HIV]] transmission,
+<ref>{{cite news|url=http://www.time.com/time/europe/hero2005/dowling.html|title=European Heroes 2005: Lives in the Balance|first=Megan|last=Lindow|publisher=Time|date=2005|accessdate=2007-04-23}}</ref> a position he first announced in 2001 in response to a question by a Catholic news agency reporter during a meeting in New York City. After stating that the Bishops' Conference had not taken a position on condom use, Dowling was asked for his personal opinion, and said that he believed condoms should be used to prevent the spread of HIV.  . 
+
+This was widely interpreted as contradicting the official stance of the Catholic Church, which opposes the promotion of condom use, while not having a definite, recognized policy on individuals using condoms for the precise purpose of protecting themselves against AIDS. <ref>[http://www.cardinalrating.com/cardinal_60__article_3817.htm Catholic Cardinal: Condoms are a “Lesser Evil”]</ref><ref>[http://www.thetablet.co.uk/article/2284 The Truth about Condoms]</ref> In private conversations the [[papal nuncio]] to South Africa told Dowling that he had strayed from the official line. <ref>[http://www.religiousconsultation.org/News_Tracker/AIDS_crisis_shapes_bishops_stance.htm AIDS Crisis Shapes Bishop's Stance]</ref> The Southern African Bishops Conference also described condoms as "an immoral and misguided weapon" in the fight against HIV, arguing that condom use could even encourage the spread of HIV by promoting extramarital sex. <ref>{{cite news|url=http://www.theglobeandmail.com/servlet/story/RTGAM.20070407.wcondom0407/BNStory/International/home|title=South African bishop defies Vatican on condoms|first=Stephanie|last=Nolen|publisher=Globe and Mail|date=7 April 2007|accessdate=2007-04-23}}</ref> . 
+
+For his stance on this matter, [[Utne Reader]], a United States magazine that provides "alternative coverage of politics, culture, and new ideas", named Dowling one of its "50 Visionaries Who Are Changing the World". <ref>[http://www.utne.com/2008-11-13/50-Visionaries-Who-Are-Changing-Your-World.aspx Visionaries Who Are Changing the World]</ref> . 
+
+===New translation of the Mass liturgy===. 
+Dowling was also critical of the premature application by the [[Southern African Catholic Bishops Conference]] of the [[Mass of Paul VI#Preparing a more literal English translation|revision of the English translation of the Mass liturgy]]<ref>[http://www.google.com/hostednews/ap/article/ALeqM5izGBXjejSklazOAV28OEwt9ELS2AD96VLU5G0 SAfrica protest over new Catholic Mass translation]</ref> and he objected to the revision itself, which had received the Holy See's confirmation after being agreed on by English-speaking [[Episcopal Conference]]s: "I am concerned that this latest decision from the Vatican may be interpreted as another example of what is perceived to be a systematic and well-managed dismantling of the vision, theology and ecclesiology of [[Second Vatican Council|Vatican II]]."<ref>[http://www.scross.co.za/2009/01/why-the-liturgical-anger-is-fair/ Letter to ''The Southern Cross'']</ref> . 
+
+{{s-start}}
+{{succession box |
+before=[[Laurent Monsengwo Pasinya]] |
+title= [[Pax Christi|International President of Pax Christi]]|
+after=Incumbent |
+years=2010&mdash;present}}
+{{s-end}} . 
+
+== References ==. 
+<references/> . 
+
+==External links==. 
+*[http://www.catholic-hierarchy.org/bishop/bdowk.html Information on Dowling], from catholic-hierarchy.org . 
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Dowling, Kevin
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Catholic bishop
+| DATE OF BIRTH     = 1944
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Dowling, Kevin}}
+[[Category:Living people]]
+[[Category:1944 births]]
+[[Category:20th-century Roman Catholic bishops]]
+[[Category:21st-century Roman Catholic bishops]]
+[[Category:South African bishops]]
+[[Category:South African Roman Catholic priests]]
+[[Category:South African people of Irish descent]]
+[[Category:HIV/AIDS in South Africa|Dowling, Kevin]]
+[[Category:People from Pretoria]]
+[[Category:Redemptorists]]

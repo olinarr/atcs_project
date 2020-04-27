@@ -1,0 +1,189 @@
+{{marketing}}
+'''Marketing ethics''' is the area of [[applied ethics]] which deals with the moral principles behind the operation and regulation of [[marketing]]. Some areas of marketing ethics (ethics of [[advertising]] and [[Promotion (marketing)|promotion]]) overlap with [[media ethics]].  . 
+
+==Fundamental issues in the ethics of marketing ==. 
+===Frameworks of analysis for marketing ethically===. 
+Possible frameworks:
+* [[Value theory|Value]]-oriented framework, analyzing ethical problems on the basis of the values which they infringe (e.g. [[honesty]], [[autonomy]], [[privacy]], [[Transparency (market)|transparency]]). An example of such an approach is the AMA [[Statement of Ethics]]. <ref>[http://www.marketingpower.com/AboutAMA/Pages/Statement%20of%20Ethics.aspx American Marketing Association Statement of Ethics] (2004)</ref>
+* Stakeholder-oriented framework, analysing ethical problems on the basis of whom they affect (e.g. consumers, competitors, society as a whole). 
+* Process-oriented framework, analysing ethical problems in terms of the categories used by marketing specialists (e.g. research, price, promotion, placement).  . 
+
+None of these frameworks allows, by itself, a convenient and complete categorization of the great variety of issues in marketing ethics.  . 
+
+===Power-based analysis===. 
+Contrary to popular impressions, not all marketing is adversarial, and not all marketing is stacked in favour of the marketer. In marketing, the relationship between producer/consumer or buyer/seller can be adversarial or cooperative. For an example of cooperative marketing, see [[relationship marketing]]. If the marketing situation is adversarial, another dimension of difference emerges, describing the power balance 
+between producer/consumer or buyer/seller. Power may be concentrated with the producer (''caveat emptor''),
+but factors such as over-supply or legislation can shift the power towards the consumer (''caveat vendor''). Identifying where the power in the relationship lies and whether the power balance is relevant at all are important to understanding the background to an ethical dilemma in marketing ethics. <ref>Lizabeth England,[http://exchanges.state.gov/forum/journal/bus10background.htm Marketing With A Conscience: Sales and Ethics], US Dept. of State. </ref> . 
+
+=== Is marketing inherently evil? ===. 
+A popularist anti-marketing stance commonly discussed on the blogosphere<ref>A.J.Kandy, [http://www.kingmarketing.ca/weblogs/ajkandy/archives/2004/09/is_marketing_ev.html Is marketing evil?], King Marketing, 2004; William DeJong, [http://www.youthtoday.org/youthtoday/insert/branded.html Marketing Gets Unfairly Branded as Evil], Youth Today; Kathy Sierra, [http://headrush.typepad.com/creating_passionate_users/2005/08/you_are_a_marke.html You ARE a marketer. Deal with it], 2005. 
+</ref> and popular literature<ref>The vastness of the literature on this topic is perhaps best conveyed by D. Slaters 1999 [http://homepages.gold.ac.uk/slater/consumer/biblioa.htm bibliography of consumer culture] with over 1500 items. W.R. Childs (Ohio State University) has posted a [http://people.cohums.ohio-state.edu/childs1/BibliographyConsumer%20Culture.htm shorter bibliography of consumer culture]. </ref> is that any kind of marketing is inherently evil. The position is based on the argument that marketing necessarily commits at least one of three wrongs:
+* Damaging personal [[autonomy]]. The victim of marketing in this case is the intended buyer whose right to self-determination is infringed. 
+* Causing harm to competitors. Excessively fierce competition and unethical marketing tactics are especially associated with [[market saturation|saturated markets]]. 
+* Manipulating social values. The victim in this case is society as a whole, or the environment as well. The argument is that marketing promotes [[consumerism]] and waste. See also: [[affluenza]], [[ethical consumerism]], [[anti-consumerism]]. 
+*Marketing has a major impact on our self-images, our ability to relate to one another, and it ruins any knowledge and action that might help to change that climate. 
+*Marketing/Advertising creates artificiality and influences sexual attitudes.  . 
+
+==Specific issues in marketing ethics==. 
+===Market research===. 
+Ethical danger points in market research include:
+* Invasion of [[privacy]]. 
+* [[Stereotyping]].  . 
+
+Stereotyping occurs because any analysis of real populations needs to make approximations and place individuals into groups. However if conducted irresponsibly, stereotyping can lead to a variety of ethically undesirable results. In the [[American Marketing Association]] Statement of Ethics, stereotyping is countered by the obligation to show respect ("acknowledge the basic human dignity of all [[Project stakeholder|stakeholders]]"). <ref>[http://www.marketingpower.com/content435.php American Marketing Association Statement of Ethics]</ref> . 
+
+===Market audience===. 
+Ethical danger points include:
+* Excluding potential customers from the market: selective marketing is used to discourage demand from undesirable market sectors or disenfranchise them altogether. 
+* Targeting the vulnerable (e.g. children, the elderly).  . 
+
+Examples of unethical market exclusion<ref>The term "selective marketing" is preferred. The term [[market exclusion]] is normally used in the different context of a cartel of suppliers excluding newcomers from distribution chains. </ref> or selective marketing are past industry attitudes to the gay, ethnic minority and
+obese ("[[Plus size clothing|plus-size]]") markets. Contrary to the popular myth that ethics and profits do not mix,
+the tapping of these markets has proved highly profitable. For example, 20% of US clothing sales are now plus-size. <ref>CBS News, [http://www.cbsnews.com/stories/2003/12/01/health/main586142.shtml Plus-Size People, Plus-Size Stuff], Nov 10, 2003</ref> Another example is the selective marketing of health care, so that unprofitable sectors (i.e. the elderly) will not
+attempt to take benefits to which they are entitled. <ref>Mark H. Waymack, [http://www.springerlink.com/content/u272127w46m1631v/ The ethics of selectively marketing the Health Maintenance Organization], Journal of Theoretical Medicine and Bioethics, Issue Volume 11, Number 4 / December, 1990, Pages 301-309</ref>
+A further example of market exclusion is the pharmaceutical industry's exclusion of developing countries
+from [[AIDS drugs]]. <ref>Ruairí Brugha, [http://bmj.bmjjournals.com/cgi/content/full/326/7403/1382 Antiretroviral treatment in developing countries], BMJ 2003;326:1382-1384</ref> . 
+
+Examples of marketing which unethically targets the elderly include: [[living trust]]s, [[time share]] fraud, mass marketing fraud<ref>Senior Journal, [http://www.seniorjournal.com/NEWS/Alerts/6-05-24-HundredsArrested.htm Hundreds Arrested in Mass-Marketing Fraud Targeting Senior Citizens], May 24, 2006</ref> and others. <ref>Washington State Department of Financial Institutions, [http://www.dfi.wa.gov/consumers/education/seniors/elderly_frauds.htm Frauds That Target The Elderly], July 11, 2006 (Originally from: [[Federal Deposit Insurance Corporation]] Consumer News)</ref>
+The elderly hold a disproportionate amount of the world's wealth and are therefore the target of financial exploitation. <ref>US Federal Trade Commission, [http://www.ftc.gov/bcp/conline/pubs/services/apact/apact01.htm Consumer fraud against the elderly]. </ref> . 
+
+In the case of children, the main products are unhealthy food, fashionware and entertainment goods. Children are a lucrative market: "...children 12 and under spend more than $11 billion of their own money and influence family spending decisions worth another $165 billion",<ref name="Getting Inside Kids' Heads">Tom McGee and Kevin Heubusch, `Getting Inside Kids' Heads', American Demographics, Vol. 19, No. 1 (1997), quoted in Sharon Beder, [http://www.uow.edu.au/arts/sts/sbeder/children.html Marketing to Children], University of Wollongong, 1998. </ref> but are not capable of resisting or understanding marketing tactics at younger ages ("children don't understand persuasive intent until they are eight or nine years old"<ref name="Getting Inside Kids' Heads" />). At older ages competitive feelings towards other children are stronger than financial sense. The practice of extending children's marketing from television to the schoolground is also controversial (see [[marketing in schools]]). The following is a select list of online articles:
+* Sharon Beder, ''Marketing to Children<ref>[http://www.uow.edu.au/arts/sts/sbeder/children.html UOW.edu.au]</ref> ([[University of Wollongong]], 1998). 
+* Miriam H. Zoll, Psychologists Challenge Ethics of Marketing to Children, (2000). <ref>[http://www.mediachannel.org/originals/kidsell.shtml Mediachannel.org]</ref>
+* Donnell Alexander and Aliza Dichter, ''Ads and Kids: How young is too young?<ref>[http://www.mediachannel.org/atissue/consumingkids Mediachannel.org]</ref>
+* Rebecca Clay, ''Advertising to children: Is it ethical?''<ref>[http://www.apa.org/monitor/sep00/advertising.html PA.org]</ref> (Monitor on Psychology, Volume 31, No. 8 September 2000), [[American Psychological Association]]
+* Media Awareness Network. ''How marketers target kids''. <ref>[http://www.media-awareness.ca/english/parents/marketing/marketers_target_kids.cfm Media-awareness.ca]</ref> . 
+
+Other vulnerable audiences include emerging markets in developing countries, where the public may not be sufficiently aware of skilled marketing ploys transferred from developed countries, and where, conversely, marketers may not be aware how excessively powerful their tactics may be. See [[Nestlé boycott|Nestle infant milk formula scandal]]. Another vulnerable group are mentally unstable consumers. <ref>Deborah Josefson, [http://bmj.bmjjournals.com/cgi/content/full/316/7132/645/g Marketing of antipsychotic drugs attacked] [[BMJ]] 1998;316:645</ref> The definition of vulnerability is also problematic: for example, when should [[debt|endebtedness]] be seen as a vulnerability and when should "cheap" loan providers be seen as [[loan sharks]], unethically exploiting the economically disadvantaged? . 
+
+Chris Akabusi is the leading academic author of Marketing Ethics and his theories are widely debated.  . 
+
+===Pricing ethics===. 
+{{Expand section|date=June 2008}} . 
+
+List of unethical pricing practices. 
+* [[Bid rigging]]
+* [[Dumping (pricing policy)]]
+* [[Predatory pricing]]
+* [[Price discrimination]]
+* [[Price fixing]]
+* [[Price skimming]]
+* [[Price war]]
+* [[Supra competitive pricing]]
+* [[Variable pricing]] . 
+
+===Ethics in advertising and promotion===. 
+====Content====. 
+<!-- Deleted image removed: [[Image:Gucci_big.jpg|250px|thumb|right|[[Gucci]] advert]] -->
+Ethical pitfalls in advertising and promotional content include:
+* Issues over truth and honesty. In the 1940s and 1950s, [[tobacco]] used to be advertised as ''promoting'' health. <ref>Chickenhead Productions, [http://www.chickenhead.com/truth/index.html Truth in Advertising]. </ref> Today an advertiser who fails to tell the truth not only offends against morality but also against the law. However the law permits "[[puffery]]" (a legal term). <ref>Lew McCreary, [http://www.cmoresource.com/read/070105/lies_puffery.html Lies, Damn Lies and Puffery: Is it OK to bend the truth if no one believes you anyway?], CMO Magazine, July 2005. </ref> The difference between mere [[puffery]] and [[fraud]] is a [[slippery slope]]: "The problem... is the slippery slope by which variations on puffery can descend fairly quickly to lies."<ref>S.Gilman, [http://www.ethics.org/today/et_v2n10903.html Ethics Today Newsletter], September 17, 2003</ref> See main article: [[false advertising]]. 
+* Issues with violence, sex and profanity. [[Sexual innuendo]] is a mainstay of advertising content (see [[sex in advertising]]), and yet is also regarded as a form of [[sexual harassment]]. <ref>S.J.Gould, [http://www.findarticles.com/p/articles/mi_qa3694/is_199409/ai_n8721609 Sexuality and ethics in advertising: A research agenda and policy guideline perspective], Journal of Advertising, Sep 2004. </ref> Violence is an issue especially for children's advertising and advertising likely to be seen by children. 
+* Taste and controversy. The advertising of certain products may strongly offend some people while being in the interests of others. Examples include: [[feminine hygiene]] products, [[hemorrhoid]] and [[constipation]] medication. <ref>David S. Waller, [http://conferences.arts.usyd.edu.au/viewpaper.php?id=233&cf=3 What factors make controversial advertising offensive?], ANZCA04 Conference, Sydney, July 2004</ref> The advertising of [[condoms]] has become acceptable in the interests of [[AIDS]]-prevention, but are nevertheless seen by some as promoting [[promiscuity]]. Some companies have actually marketed themselves on the basis of controversial advertising - see [[Benetton Group|Benetton]]. [[Sony]] has also frequently attracted criticism for unethical content (portrayals of Jesus which infuriated religious groups; racial innuendo in marketing black and white versions of its PSP product; graffiti adverts in major US cities). <ref>Vladimir Cole, [http://www.joystiq.com/2005/12/03/sonys-fony-graffiti-sparks-lashback/ Sony's fony graffiti sparks lashback], Joystiq, Dec 3, 2005</ref>
+* [[Negative advertising]] techniques, such as [[attack ad]]s. In negative advertising, the advertiser highlights the disadvantages of competitor products rather than the advantages of their own. The methods are most familiar from the political sphere: see [[negative campaigning]].  . 
+
+====Delivery channels====. 
+* [[Direct marketing]] is the most controversial of advertising channels, particularly when approaches are unsolicited. TV commercials and direct mail are common examples. Electronic [[Spam (electronic)|spam]] and [[telemarketing]] push the borders of ethics and legality more strongly. 
+* [[Shill]]s and [[astroturfing|astroturfers]] are examples of ways for delivering a marketing message under the guise of independent product reviews and endorsements, or creating supposedly independent watchdog or review organisations. For example, fake reviews can be published on Amazon. <ref>Richard Monson-Haefel, [http://weblogs.java.net/blog/monsonhaefel/archive/2003/11/amazoncom_revie.html Amazon.com reviews are a farce], Jave.net, Nov 16, 2003. </ref> Shills are primarily for message-delivery, but they can also be used to drive up prices in auctions, such as [[Ebay]] auctions. <ref>[http://www.consumeraffairs.com/news04/shills.html Shill Bidding Exposed in E-Bay Auctions], Consume Affairs, November 2004. </ref> . 
+
+====Deceptive Advertising and Ethics====. 
+Another breach of marketing ethics has to do with the use of deceptive advertising. This form of advertising is not specific to one target market, and can sometimes go unnoticed by the public. There are a number of different ways in which deceptive marketing can be presented to consumers; one of these methods is accomplished through the use of humor. In a study conducted by Hassib Shabbir and Des Thwaites, 238 advertisements were assessed and 73.5% of them were found to have used deceptive marketing practices. Of those advertisements that were conducted deceptively, 74.5% of them used humor as a masking device in order to mislead potential customers. Part of what drives this study is the idea that humor provides an escape or relief from some kind of human constraint, and that some advertisers intend to take advantage of this by deceptively advertising a product that can potentially alleviate that constraint through humor. Through the study it was also found that all types of humor are used to deceive consumers, and that there are certain types of humor that are used when making certain deceptive claims.  . 
+
+It is important to understand that humor is not the only method that is used to deter consumer’s minds from what a product actually offers. Before making important purchases, one should always conduct their own research in order to gain a better understanding of what it is they are investing in. ]<ref> Shabbir, H., & Thwaites, D. (2007). THE USE OF HUMOR TO MASK DECEPTIVE ADVERTISING. Journal Of Advertising, 36(2), 75-85. </ref> . 
+
+===The use of ethics as a marketing tactic===. 
+Business ethics has been an increasing concern among larger companies, at least since the 1990s. Major corporations increasingly fear the damage to their image associated with press revelations of unethical practices. Marketers have been among the fastest to perceive the market's preference for ethical companies, often moving faster to take advantage of this shift in consumer taste. This results in the expropriation of ethics itself as a selling point or a component of a corporate image. 
+* [[The Body Shop]] is an example of a company which marketed itself and its entire product range solely on an ethical message. 
+*[[Greenwash]] is an example of a strategy used to make a company appear ethical when its unethical practices continue. 
+* [[Liberation marketing]] is another strategy whereby a product can masquerade behind an image that appeals to a range of values, including ethical values related to lifestyle and anti-consumerism. <ref>[http://www.klminc.com/marketing/lib_marketing.html Liberation Marketing and Consumer Society], KLM Inc., 2001. </ref>
+<blockquote>''"Liberation marketing takes the old mass culture critique — consumerism as conformity — fully into account, acknowledges it, addresses it, and solves it. Liberation marketing imagines consumers breaking free from the old enforcers of order, tearing loose from the shackles with which capitalism has bound us, escaping the routine of bureaucracy and hierarchy, getting in touch with our true selves, and finally, finding authenticity, that holiest of consumer grails."'' ([[Thomas Frank]])<ref>Thomas Frank, [http://www.casualarts.net/Liberation%20Marketing.pdf Liberation Marketing and the Culture Trust], (date unknown). </ref>
+</blockquote> . 
+
+===Marketing strategy===. 
+The main theoretical issue here is the debate between [[free markets]] and [[controlled market|regulated markets]]. 
+In a truly free market, any participant can make or change the rules. However when new rules
+are invented which shift power too suddenly or too far, other participants may respond with
+accusations of unethical behaviour, rather than modifying their own behaviour to suit (which they
+might not be able to anyway). Most markets are not fully free: the real debate is as to the
+appropriate extent of regulation.  . 
+
+Case: [[California electricity crisis]], which demonstrates how constant innovation of
+new marketing strategies by companies such as [[Enron]] outwitted the regulatory bodies
+and caused substantial harm to consumers and competitors.  . 
+
+A list of known unethical or controversial marketing strategies:
+* [[Anti-competitive practices]]
+* [[Bait and switch]]
+* [[Planned obsolescence]]
+* [[Pyramid scheme]]
+* [[Vendor lock-in]] / [[Vendor lock-out]]
+* [[Viral marketing]] / [[guerilla marketing]] . 
+
+Controversial marketing strategies associated with the internet:
+* [[Embrace, extend and extinguish]]
+* [[Search engine optimisation]]
+* [[Spamdexing]]
+* [[Spyware]] / [[Adware]] . 
+
+=== Further issues in marketing ethics ===. 
+Marketing ethics overlaps with environmental ethics in respect of waste problems associated with the packaging of products. <ref>[http://www.hhl.de/fileadmin/LS/marketing/Download/Marketingethik.pdf Definition of marketing ethics] (in German), excerpted from: Bruhn, M., Homburg, C.: Gabler Marketing Lexikon, Wiesbaden 2001. </ref> . 
+
+Some, such as members of the advocacy group [[No Free Lunch (organization)|No Free Lunch]], have argued that marketing by [[pharmaceutical company|pharmaceutical companies]] is negatively impacting physicians' prescribing practices, influencing them to prescribe the marketed drugs rather than others which may be cheaper or better for the patient. <ref name="Koerner">Brendan I. Koerner. [http://www.motherjones.com/news/hellraiser/2003/03/ma_290_01.html Dr. No Free Lunch].  ''Mother Jones'', March/April, 2003. Retrieved on 2007-10-06. </ref> . 
+
+Ethically thinking is responding to situations that deal with principles concerning human behavior in respect to the appropriateness and inappropriateness of certain communication and to the decency and indecency of the intention and results of such actions.  In other words, ethics are distinctions between right and wrong.  Businesses are confronted with ethical decision making every day, and whether employees decide to use ethics as a guiding force when conducting business is something that business leaders, such as managers, need to instill. Marketers are ethically responsible for what is marketed and the image that a product portrays.  With that said, marketers need to understand what good ethics are and how to incorporate good ethics in various marketing campaigns to better reach a targeted audience and to gain trust from customers.   . 
+
+Marketing ethics, regardless of the product offered or the market targeted, sets the guidelines for which good marketing is practiced.  When companies create high ethical standards upon which to approach marketing they are participating in ethical marketing. To market ethically and effectively one should be reminded that all marketing decisions and efforts are necessary to meet and suit the needs of customers, suppliers, and business partners.  Ethical behavior should be enforced throughout company culture and through company practices.  . 
+
+==Regulation and enforcement==. 
+{{Expand section|date=June 2008}} . 
+
+Marketing ethics and [[consumer law|marketing law]] are related subjects. Relevant areas of law include [[consumer law]] which protects consumers and [[antitrust|antitrust law]] which protects competitors - in both cases, against unethical marketing practices. Regulation extends beyond the law to lobbies, watchdog bodies and self-regulatory industry bodies. 
+* [[Advertising regulation]]
+* [[Consumer protection]] . 
+
+== See also ==. 
+* [[Consumerism]]
+* [[Customer relationship management]]
+* [[Ethical marketing]]
+* [[False advertising]]
+* [[List of business ethics, political economy, and philosophy of business topics]]
+* [[Marketing]]
+* [[Marketing warfare strategies]]
+* [[Media ethics]]
+* [[Propaganda]] . 
+
+== References ==. 
+{{Reflist|2}} . 
+
+== Bibliography ==. 
+* {{cite book
+ | last = Davidson
+ | first = D. Kirk
+ | authorlink =
+ | title = The Moral Dimension of Marketing: Essays on Business Ethics
+ | publisher = South-Western Educational
+ | year = 2002
+ | isbn = 0-87757-300-X }}
+* {{cite book
+ | last = Murphy
+ | first = Patrick E. 
+ | coauthors = Gene R. Laczniak, [[Norman E. Bowie]]
+ | title = Ethical Marketing
+ | publisher = Prentice Hall
+ | year = 2004
+ | oclc = 54805964
+ | isbn = ISBN 0-13-184814-3
+}} . 
+
+== External links ==. 
+* [http://www.marketingpower.com/AboutAMA/Pages/Statement%20of%20Ethics.aspx American Marketing Association Statement of Ethics] (2004)
+* "[http://business.enotes.com/business-finance-encyclopedia/ethics-marketing Ethics in Marketing]." Encyclopedia of Business and Finance. Mohandeep Singh. Thomson Gale, 2001. [[eNotes]].  2006. 16 Oct, 2006
+* [http://www.iit.edu/departments/csep/resources/marketingethics.html Marketing Ethics Resources] from the [[Center for the Study of Ethics in the Professions]], [[Illinois Institute of Technology]]. 
+* [[Direct Marketing Association]], [http://www.the-dma.org/guidelines/EthicsGuidelines.pdf Guidelines for Ethical Business Practice] (September 2006)
+* [http://advertising.utexas.edu/research/law/catholic.html The Catholic Church's Handbook on Ethics in Advertising]
+* [[Federal Trade Commission]], [http://www.ftc.gov/bcp/conline/pubs/buspubs/ad-faqs.htm FTC Guidelines on Advertising] . 
+
+{{ethics}}
+* [http://www.48HoursActionPlan.com Easy Affiliate Commission in 48 Hours] . 
+
+{{DEFAULTSORT:Marketing Ethics}}
+[[Category:Business ethics]]

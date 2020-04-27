@@ -1,0 +1,257 @@
+{{Infobox organization
+|name         = Project on Government Oversight
+|image        = 
+|image_border = 
+|size         = <!-- default 200 -->
+|alt          = <!-- alt text; see [[WP:ALT]] -->
+|caption      = 
+|map          = <!-- optional -->
+|msize        = <!-- map size, optional, default 200px -->
+|malt         = <!-- map alt text -->
+|mcaption     = <!-- optional -->
+|abbreviation = POGO
+|motto        = 
+|formation    = {{Start date |1981|02|}}
+|extinction   = <!-- date of extinction, optional -->
+|type         = [[501(c)|501(c)(3) Non-Profit Organization]]<!-- GO, NGO, IGO, INGO, etc -->
+|status       = <!-- ad hoc, treaty, foundation, etc -->
+|purpose      = Government Watchdog<!-- focus as e.g. humanitarian, peacekeeping, etc -->
+|headquarters = 
+|location     = [[Washington, DC]]
+|coords       = <!-- Coordinates of location using a coordinates template -->
+|region_served =
+|membership   = 
+|language     = <!-- official languages -->
+|leader_title = Director<!-- position title for the leader of the org -->
+|leader_name  = Danielle Brian<!-- name of leader -->
+|main_organ   = <!-- gral. assembly, board of directors, etc -->
+|parent_organization = <!-- if one -->
+|affiliations = <!-- if any -->
+|num_staff    = 
+|num_volunteers =
+|budget       = 
+|website      = http://www.pogo.org
+|remarks      = Founder: [[Dina Rasor]]
+|founder = Dina Rasor
+}}
+The '''Project On Government Oversight''' ('''POGO'''), founded in 1981, is an independent [[non-profit organization]] in the United States which investigates and seeks to expose corruption and other misconduct.  POGO assists [[whistleblower]]s and investigates [[List of United States federal agencies|federal agencies]], [[United States Congress|Congress]], and government contractors.   POGO is currently led by executive director Danielle Brian.  . 
+
+==Scope and methods==. 
+POGO’s range of investigations includes: [[Military budget of the United States|national defense]] and [[United States Department of Homeland Security|homeland security]]; abuse in [[Government procurement in the United States|government contracting]]; excessive secrecy that fails to consider the [[public interest]]; and mismanagement of [[natural resources]] by federal agencies. POGO uses [[investigative journalism]] techniques to shed light on the government's activities, including working with [[whistleblower]]s and anonymous sources and accessing information through the [[Freedom of Information Act (United States)|Freedom of Information Act]] (FOIA).  POGO’s Federal Contractor Misconduct Database<ref>[http://www.contractormisconduct.org Federal Contractor Misconduct Database]</ref> is often used by investigative journalists and others who are interested in contractor misconduct.  . 
+
+Corporate whistleblowers and government insiders bring POGO many of its investigative topics. POGO informs the public of its findings, mainly through reports that contain extensive documentation and recommendations for how to solve the problems identified. Once a report has been released, more insiders usually approach POGO to provide further documentation and information.  . 
+
+==History==. 
+===Early history===. 
+While working for the National Taxpayers Legal Fund, Dina Rasor led its investigation into the [[C-5A]] transport aircraft. In February 1981 Rasor started "Project on Military Procurement", as an arm of the Fund. <ref name="Rasor">Webbe, Stephen (January 14, 1982). [http://www.csmonitor.com/1982/0114/011458.html Dina Rasor: blowing the whistle on the Pentagon] [[The Christian Science Monitor]]. Retrieved 2010-07-21. </ref> The organization was intended as a watchdog group to perform oversight of the military. Early interests included the [[M1 Abrams]] tank. <ref name="M1">Webbe, Stephen (April 22, 1981). [http://www.csmonitor.com/1981/0422/042242.html M-1 tank already in war -- of words]. [[The Christian Science Monitor]].  Retrieved 2010-07-21. </ref><!-- when did the name change occur?--> The Project first gained wide attention in the mid-1980s uncovering [[The Pentagon|Pentagon]] waste and fraud by publishing reports,{{When|date=August 2010}} provided by whistleblowers, exposing $640 [[toilet seat]]s, $7,600 coffee makers, $436 hammers and other overpriced spare parts used by the military. <ref name="ChronSpares">[http://www.chron.com/CDA/archives/archive.mpl?id=1985_37485 "Air Force Still Paying Top Price for Spares"]. ''[[The Houston Chronicle]]''; Scripps-Howard News Service. September 12, 1985.  Retrieved 2010-07-07. </ref> <!-- still missing massive details of the internals - staffing, locations, funding --> The group was renamed Project on Government Oversight in the late 1990s.  . 
+
+===Whistleblower award incident===. 
+In the 1990s POGO investigated<!--expand a bit, please - received tips about?--> the [[Department of the Interior]] [[Mineral Management Service]]'s collection of oil royalties.  POGO and other plaintiffs sued the 14<!-- per this source, others say 15 --> largest oil and gas companies for defrauding the government by underpaying royalties owed for drilling on Federal lands, under the [[False Claims Act]]. <ref>{{cite web|title=U.S. Justice Department joins suit alleging royalty fraud|date=March 2, 1998|publisher=[[PennWell Corporation]]|work=[[Oil & Gas Journal]] |url=http://www.ogj.com/index/article-display/21169/articles/oil-gas-journal/volume-96/issue-9/in-this-issue/drilling/us-justice-department-joins-suit-alleging-royalty-fraud.html |archivedate=2010-10-01 |archiveurl=http://www.webcitation.org/5t9jcVIYy |accessdate=2010-10-01}}</ref>  
+In 1998 POGO shared proceeds of the settlement of that lawsuit with two whistleblowers, federal employees, in the amount of $383,600 each for their assistance leading up to the lawsuit. This resulted in a preliminary investigation and report in 2000<ref>Thompson, Paul (July 20, 2000). [http://books.google.com/books?id=Z8jFG884WKQC&pg=PA4&dq=Project+On+Government+Oversight&hl=en&ei=bxs-TLDNF4WosQOow8DaCg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDEQ6AEwAA#v=onepage&q&f=false Report on an Inquiry into Payments Made by the Project on Government Oversight] Committee on Energy and Natural Resources. Report was ordered by Rep. [[Frank Murkowski]] (Chairman) ex committee.  Retrieved 2010-07-15. </ref> 
+which alleged that POGO's payments were for influence on [[Department of the Interior]] actions and policies.  While calling the payments "a mistake", committee member U.S. Senator [[Jeff Bingaman]] disputed any claims of influence, citing the timeline of events. <ref>Bingaman, Jeff (U.S. Sen) (September 5, 2000). [http://books.google.com/books?id=vLg4iJR0J9kC&pg=PA16998&dq=Project+On+Government+Oversight&hl=en&ei=bxs-TLDNF4WosQOow8DaCg&sa=X&oi=book_result&ct=result&resnum=5&ved=0CEMQ6AEwBA#v=onepage&q=Project%20On%20Government%20Oversight&f=false Congressional Record, 106th Congress, Volume 145 Part 12. Pg. 16998] U.S. Government Printing Office. </ref> 
+POGO did not hand over phone records relating to the incident, and was threatened by Rep. [[Don Young]] with [[Contempt of Congress]],<ref>[http://nl.newsbank.com/nl-search/we/Archives?p_product=SL&p_theme=sl&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB05285C5D897A1&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM House Panel Seeks Contempt of Congress Charges Against Watchdog Group - Organization exposed oil companies' underpayment of royalties to government]. [[St. Louis Post-Dispatch]] ([[Associated Press|AP]]), July 20, 2000.  Retrieved 2010-07-15. </ref> 
+which he withdrew, lacking the votes for passage. <ref>Whitney, David (October 28, 2000). [http://nl.newsbank.com/nl-search/we/Archives?p_product=AS&p_theme=as&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0F793BC69905225D&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM Whistle-blower vote stopped]. [[Anchorage Daily News]] (AK). </ref>  
+The report, hearings, and contempt threat were described by Martin Lobel, an attorney involved in the dispute, as being driven by "oil company congressional lapdogs" bent on hounding oil industry enemies and derailing regulatory reform. <ref>Lobel, Martin (September 20, 2000). [http://www.tompaine.com/Archive/scontent/3642.html  WITH A VENGEANCE: Big Oil Uses Its Congressional Lapdogs to Hound Its Enemies]. ''TomPaine.com''; [[Institute for America's Future]]</ref><!-- original URL has date of publication --> . 
+
+<!-- if there are citable reliable sources of Oil Industry persecution, cite them.-->
+In 2003 the United States Department of Justice, under George W. Bush, filed a civil action against POGO and one of the employees, and moved for [[summary judgment]] for violation of 18 U.S.C. § 209(a) (Restriction on Supplementation of Salary). <ref name="Lex306"/><ref>[http://www.usoge.gov/laws_regs/other_ethics_guidance/othr_gdnc/og_sum209_pg1_02.html Summary of the Restriction on Supplementation of Salary] [[United States Office of Government Ethics]]</ref> This was granted in 2004, appealed, reversed in 2006,<ref name="Lex306">[http://www.lexisone.com/lx1/caselaw/freecaselaw?action=OCLGetCaseDetail&format=FULL&sourceID=gdjh&searchTerm=eLEE.hEda.aadi.YaUI&searchFlag=y&l1loc=FCLOW 454 F.3d 306; 372 U.S. App. D.C. 110; 2006 U.S. App. United States of America, Appellee v. Project on Government Oversight] (Lexis). </ref> and went to trial in 2008, where the jury found that a violation had occurred. The court imposed penalties of the original dollar amount on the employee and $120,000 on POGO, which submitted a sworn declaration that the organization will not issue any future settlement payments to Government employees. <ref>[http://www.usoge.gov/laws_regs/other_ethics_guidance/othr_gdnc/pros_srvy_07.html DAEOgram -- DO-08-036 -- 11/06/2008 -- 2007 Conflict of Interest Prosecution Survey] [[United States Office of Government Ethics]] Memorandum, Robert I. Cusick, Director.  November 6, 2008.  Retrieved 2010-07-15. </ref><!-- http://www.webcitation.org/5rEn0Oymh --> . 
+
+On August 3, 2010, a three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit reversed the District Court judge’s jury instructions which had prevented POGO from defending itself in the civil suit. The Court struck down the DOJ’s position that POGO’s intent was not relevant – a position that had prevented POGO from using the word “whistleblower” in its defense.  Accordingly, the jury verdict was vacated by the Court. <ref>{{cite web| url=http://pacer.cadc.uscourts.gov/common/opinions/201008/08-5182-1258669.pdf |title= Project on Government Oversight, Appellant |format=PDF |date=August 3, 2010|publisher=United States Court of Appeals|accessdate=August 3, 2010}}</ref> . 
+
+===The Art of Anonymous Activism=== . 
+
+In 2002 the watchdog groups POGO, [[Government Accountability Project]], and [[Public Employees for Environmental Responsibility]], co-published the book ''The Art of Anonymous Activism: Serving the Public while Surviving Public Service.'' It is described as a "how-to guide" for government employees who wish to expose corruption or misconduct in their organization without endangering their careers. <ref>[http://nl.newsbank.com/nl-search/we/Archives?p_product=BX&s_site=sunherald&p_multi=BX&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0FB33521B5E539F5&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D Your life may depend on a whistleblower, so protect him]. [[Sun Herald]] p. E3. December 11, 2002. Retrieved 2010-08-03.'''(Payment required)'''</ref><ref>[http://www.pogo.org/pogo-files/alerts/whistleblower-issues/wi-wp-20021114.html "How-to Guide for Public Employees Exposing Problems-Support Groups Warn: Anonymous Whistleblowing Safer"]. The Project On Government Oversight. </ref><!-- 3rd party source 1st--> . 
+
+==Program areas and impact==. 
+===Defense=== . 
+
+''Program areas include'': [http://www.pogo.org/investigations/national-security/ Acquisition Reform], [http://www.pogo.org/investigations/transportation/faulty-aircraft-wiring.html Faulty Aircraft Wiring], and [http://www.pogo.org/investigations/national-security/wasteful-defense-spending.html Wasteful Defense Spending]. <!-- These would better be stated as non-linked text, with a 3rd-party citation. At a minimum, cite a page on POGO's site which concisely supports this claim.--> . 
+
+POGO investigates military weapons to expose improper influence by some defense contractors on [[The Pentagon|Pentagon]] decision making. For example, POGO has claimed that members of the [[United States Congress]] ardently support [[weapons systems]] built or maintained in their districts, regardless of effectiveness or even Pentagon requests for these weapons. POGO believes that this behavior leads to misspending on military weapons programs, placing tax dollars and [[defense (military)|national defense]] at risk. <ref>[http://www.pogo.org/investigations/national-security/ "National Security Investigations."] The Project On Government Oversight. </ref> . 
+
+POGO has a history of investigating and actively opposing the production of weapons that it believes to be wasteful or inefficient. Weapon systems that POGO has investigated and opposed include the [[F/A-22]] Fighter Aircraft,<ref>Williams, Matthew (July 31, 2009). [http://www.defensenews.com/story.php?i=4214557&c=AME&s=AIR "House Reverses Itself, Votes to Kill F-22 Buy."] [[Defense News]]. </ref>  [[B-1 Lancer|B-1]] Bomber,<ref>Dad, James (August 1, 2001). [http://www.nytimes.com/2001/08/01/us/much-maligned-b-1-bomber-proves-hard-to-kill.html?pagewanted=2 "Much Maligned B-1 Bomber Proves Hard to Kill"]. [[New York Times]]. </ref> [[Future Combat Systems]], [[B-2 Spirit|B-2 Bomber]], [[EA-18 Growler|Growler]] (Internally Transportable Vehicle – ITV), [[Ballistic Missile Defense]], [[Joint Strike Fighter]] Aircraft, [[UH-60 Black Hawk|Black Hawk]] Helicopter, [[Patriot Missile]], [[C-17 Globemaster]] Airlifter, Predator Unmanned Aerial Vehicle, [[C-130J]] Transport Aircraft, [[Stryker]], [[Comanche Helicopter]], [[V-22 Osprey]] Tilt-Rotor Aircraft, and [[Crusader Howitzer]]. <ref name="Pogo1">[http://www.pogo.org/investigations/national-security/ National Security Resources]. The Project on Government Oversight Website. </ref> On the other hand, POGO has supported the production of the [[A-10 Warthog]] Aircraft for its relative effectiveness and inexpensiveness compared to what POGO considers more wasteful weapons. <ref>[http://www.pogo.org/pogo-files/alerts/national-security/ns-a10-20030604.html "Air Force Begins Witch Hunt for A-10 Warthog Defenders."] The Project On Government Oversight. </ref> . 
+
+===Homeland security=== . 
+
+''Program areas include'': [http://www.pogo.org/investigations/homeland-security/biodefense.html Biodefense Security and Oversight], [http://www.pogo.org/investigations/nuclear-security/nuclear-power.html Nuclear Power Plant Security], [http://www.pogo.org/investigations/nuclear-security/nuclear-weapons.html Nuclear Weapons Complex Security], and [http://www.pogo.org/investigations/homeland-security/aviation.html Post 9/11 Security].   . 
+
+In 2006, POGO published a report detailing its investigation of the [[Y-12 National Security Complex]] and [[Oak Ridge National Laboratory]] security complexes. The report claimed that the complexes were "at high risk, and [could] not meet the government's security standards." It also claimed that a terrorist with an [[improvised nuclear device]] at either site could kill more than 60,000 people in the area. <ref>[http://www.pogo.org/pogo-files/reports/nuclear-security-safety/Y-12/nss-y12-20061016.html "U.S. Nuclear Weapons Complex: Y-12 and Oak Ridge National Laboratory At High Risk]. The Project On Government Oversight. October 16, 2006. </ref>  . 
+
+POGO has conducted numerous investigations into the [[Los Alamos National Laboratory]]. <ref>[http://www.pogo.org/investigations/nuclear-security/lanl.html Los Alamos National Laboratory Files]. The Project On Government Oversight website. </ref> LANL has been the subject of several controversies in the past, including employees charging personal expenses to government accounts,<ref>Schactman, Noah. (November 8, 2002) [http://www.wired.com/politics/law/news/2002/11/56270 "Los Alamos on Hot Seat Again]. [[Wired News]]. </ref> lost equipment or documents (including hundreds of computers containing classified information),<ref>Kilian, Michael. (January 3, 2003) [http://pogoarchives.org/m/ep/ep-030103-chicagotribune.pdf "Los Alamos Loses Director Under Clouds of Scandals"](PDF). [[Chicago Tribune]]. </ref><ref>Trulock, Notra. (March 5, 2003) [http://www.aim.org/publications/weekly_column/2003/03/05.html "Lab Scandal Undermines Nuclear Credibility]. [[Accuracy in Media]]. </ref><ref>Trounson, Rebecca and Ralph Vartabedian. (January 29, 2005) [http://pogoarchives.org/m/hsp/hsp-LATimes-01292005.pdf "A Slew of Safety, Security Weaknesses Found at Los Alamos]. [[Los Angeles Times]]. </ref> and a memorandum to employees to "be careful what they say" to safety and security inspectors. <ref>Wald, Matthew. (July 5, 2003) [http://www.nytimes.com/2003/07/05/world/threats-responses-nuclear-safety-arms-official-brushes-off-complaint-about-audit.html "Arms Official Brushes Off a Complaint About Audit"]. [[New York Times]]. </ref> Most recently, in 2009, 69 computers disappeared, although plant officials insisted that the computers did not contain the most highly classified information. <ref>Reichbach, Matthew. (February 12, 2009) [http://newmexicoindependent.com/18263/69-computers-missing-at-lanl "69 Computers Missing at LANL"]. [[The New Mexico Independent]]. </ref> 2009 also saw a scare in which 2.2 pounds of missing plutonium prompted a [[United States Department of Energy|Department of Energy]] investigation into the plant. The investigation found that the "missing plutonium" was a result of miscalculation by LANL's statisticians and did not actually exist, but the investigation did lead to heavy criticism of the plant by the DOE for security flaws and weaknesses that the DOE claimed to have found. <ref>Vartabedian, Ralph. (March 26, 2009) [http://articles.latimes.com/2009/mar/26/nation/na-nuke26 "Los Alamos' Security Flaws Exposed"]. [[Los Angeles Times]]. </ref><ref>Webb, Greg. (February 27, 2009). [http://www.globalsecuritynewswire.org/gsn/ts_20090227_5921.php "New Security Lapse at Los Alamos Triggers Angry Response from Energy Department"]. [[NTI]]. </ref> . 
+
+===Energy and natural resources=== . 
+
+''Program areas include'': Bug Bombs and [[Fogger|Insecticide Foggers]], [http://www.pogo.org/investigations/natural-resources/epa-oversight.html Environmental Protection Agency (EPA) Oversight],[http://www.pogo.org/investigations/natural-resources/moab.html Moab and the NRC], and [http://www.pogo.org/investigations/natural-resources/dept-of-interior.html Oil and Gas Industry Fraud and Corruption].  . 
+
+In 1994, POGO released a report criticizing the [[Environmental Protection Agency]] for failing to require the aerosol industry to warn the public about their use of "bug bombs," or insecticide foggers, which are highly flammable and potentially dangerous to its users. <ref>[http://www.pogo.org/pogo-files/reports/public-health/aerosols-give-big-business-and-public-big-boom/ph-bugbombs-19940501.html#94rpt2 "Aerosols Give Big Business and Public Big Boom: Where is the Protection from the EPA?"] The Project On Government Oversight. May 1, 1994. </ref> By 1999, the EPA had passed a rule stating that insecticide foggers must be properly labeled to alert consumers to their dangers. <ref>Skrzycki, Cindy. (October 1, 1999) [http://pogoarchives.org/m/ep/ep-washpost-10199.pdf "After Misfire, EPA Aims at Bug Bombs"](PDF). [[The Washington Post]]. </ref> . 
+
+POGO investigated the [[Department of the Interior]]'s [[Minerals Management Service]], which manages natural resources on the nation's [[outer continental shelf]]. Their 2008 report documented corruption and mismanagement in the MMS's royalty-in-kind program, including inadequate royalty accounting and provision of sex, drugs, and other favors to MMS officials by oil company representatives in exchange for favorable business deals. <ref>[http://www.pogo.org/pogo-files/reports/natural-resources/drilling-the-taxpayer/nr-rik-20080918.html#08rpt5 "Drilling the Taxpayer: Department of Interior's Royalty-In-Kind Program"]. Project On Government Oversight. September 18, 2008. </ref> Following this report and others by oversight groups including the [[Government Accountability Office]], the royalty-in-kind program was terminated. <ref>Carlstrom, Gregg (September 16, 2009). [http://blogs.federaltimes.com/federal-times-blog/2009/09/16/salazar-buries-the-rik-program/ "Salazar buries the royalty-in-kind program"].  ''[[Federal Times]]''. </ref><ref name="TNRMMS">DePillis, Lydia (September 18, 2009). [http://www.tnr.com/blog/no-more-sex-and-drugs-the-interior-department "No More Sex and Drugs in the Interior Department"].  ''[[The New Republic]]''. Retrieved 2010-07-01. </ref> . 
+
+===Contract oversight=== . 
+
+''Program areas include'': [http://www.pogo.org/investigations/contract-oversight/ Acquisition Reform (including consolidation effects, overpriced weapons, proposed "reforms", purchase cards, and share in savings)], [http://www.pogo.org/investigations/contract-oversight/federal-contractor-misconduct.html Federal Contractor Misconduct], [http://www.pogo.org/investigations/contract-oversight/competition-in-federal.html Competition in Federal Contracting],[http://www.pogo.org/investigations/contract-oversight/contractor-accountability.html Contractor Accountability], [http://www.pogo.org/investigations/contract-oversight/arms-length-negotiations.html Contractor Sweetheart Deals] (including the [http://www.pogo.org/pogo-files/reports/national-security/heavy-lifting/co-aln-20010301.html Boeing Tanker Lease]), [http://www.pogo.org/investigations/contract-oversight/iraq-reconstruction-contracts.html Iraq Reconstruction Contracts], [http://www.pogo.org/investigations/contract-oversight/cost-accounting-standards.html Cost Accounting Standards], [http://www.pogo.org/investigations/contract-oversight/katrina-contracting.html Katrina Contracting], [http://www.pogo.org/investigations/contract-oversight/federal-grants.html Federal Grant Programs],[http://www.pogo.org/investigations/government-corruption/revolving-door.html Revolving Door: Politics of Contracting], (including [http://www.pogo.org/investigations/government-corruption/conflict-of-interest-ethics-resources/ conflict of interest and ethics resources]),[http://www.pogo.org/investigations/transportation/faulty-aircraft-wiring.html Faulty Aircraft Wiring], and [http://www.pogo.org/investigations/contract-oversight/small-business-contractors.html Small Business].  . 
+
+POGO maintains a Federal Contractor Misconduct Database that lists the United States government's 100 biggest contractors, how much is spent on them per year, their instances of misconduct since 1995, and the total cost of their misconduct, according to POGO. <ref>[http://www.contractormisconduct.org/ Federal Contractor Misconduct Database.] The Project On Government Oversight. </ref> Eventually, the federal government adopted a similar database through the 2009 [[National Defense Authorization Act]]. This provision was spearheaded by Rep. [[Carolyn Maloney]] (D-NY) and other senators and representatives. <ref>Lipowicz, Alice. [http://washingtontechnology.com/articles/2008/11/04/contractor-watchdog-updates-misconduct-database.aspx "Contractor Watchdog Updates Misconduct Database."] [[Washington Technology]]. </ref> . 
+
+In September 2009, POGO conducted an investigation into [[Armorgroup]], a private security contractor in charge of protecting the U.S. embassy in Kabul, and uncovered and released documents, photos, and videos depicting drunken behavior, nudity, and hazing among the guards. <ref>Schulman, Daniel. (September 1, 2009). [http://motherjones.com/mojo/2009/09/animal-house-afghanistan "Animal House in Afghanistan] [[Mother Jones (magazine)|Mother Jones]]. </ref> This led to the dismissal of several managers and eight guards, the resignation of an additional two guards,<ref>Cole, August;  [[Yochi Dreazen|Dreazen, Yochi J.]] (September 5, 2009). [http://online.wsj.com/article/SB125211017112687951.html?mod=googlenews_wsj "Firm Fires U.S. Embassy Guards in Kabul"]. ''[[Wall Street Journal]]''. </ref> and ultimately the cancellation of the United States military's contract with Armorgroup. <ref>Schulman, Daniel (December 8, 2009). [http://motherjones.com/mojo/2009/12/armorgroup-axed-kabul-embassy-contract "ArmorGroup Loses Kabul Embassy Contract"]. ''[[Mother Jones (magazine)|Mother Jones]]''. Retrieved 2010-07-01. </ref> . 
+
+===Open government=== . 
+
+''Program areas include'': Campaign Finance Disclosure and Reporting, [http://www.pogo.org/investigations/contract-oversight/false-claims-act.html False Claims Act], [http://www.pogo.org/investigations/government-secrecy/foia.html#Related_Resources Freedom of Information Act - FOIA], [http://www.pogo.org/investigations/government-secrecy/ Government Secrecy],  and [http://www.pogo.org/investigations/whistleblower-issues/whistleblower-protections.html Protecting Whistleblowers]. POGO also has a collection of documents concerning the [[Office of Special Counsel]], the agency that is supposed to protect the federal government’s whistleblowers.{{Off-topic?|date=August 2010}} . 
+
+POGO, along with several other public interest groups, has been involved in the investigation and trial of [[Scott Bloch]], ex-head of the U.S. [[Office of Special Counsel]] (OSC). Bloch was accused by former OSC employees of ignoring and dismissing hundreds of whistleblower complaints, removing language guaranteeing protection against sexual orientation discrimination from OSC's website and official documents, and "relocating" several of his own employees who came forward with these allegations. <ref>{{cite web|url=http://pogoarchives.org/m/gp/gp-OSCcomplaint-03032005.pdf |format=PDF|title=Complaint of Prohibited Personnel Practices Against Special Counsel Scott Bloch|date=March 3, 2005|author=Adams & Katz, Esq |publisher=POGO |accessdate=August 3, 2010}}</ref> When these accusations led to a Congressional Investigation of Bloch, Bloch allegedly hired a technology company, [[Geeks On Call]], to conduct a 7-layer memory wipe of his computer and several other OSC laptops in order to hide key evidence from the investigators; Bloch initially claimed that he ordered this as protection against a virus that had infected his computer, but he later admitted he was trying to withhold information. <ref>Wilke, John (November 28, 2007). [http://online.wsj.com/article/SB119621772122306160.html?mod=hpp_us_whats_news "Head of Rove Inquiry in Hot Seat Himself."] [[The Wall Street Journal]]</ref> Bloch ultimately resigned his position as head of the OSC, pled guilty to withholding information from Congress. {{As of|2010|July}}, Bloch is awaiting sentencing. <ref>Ingram, David and Scarcella, Mike (July 19, 2010). [http://legaltimes.typepad.com/blt/2010/07/whistleblowers-want-tough-sentence-for-scott-bloch.html "Whistleblowers Want Tough Sentence for Scott Bloch"].  The Blog of LegalTimes. Retrieved August 3, 2010. </ref> <!-- need better source than blog --> . 
+
+===Financial Sector Oversight=== . 
+
+''Program Areas include'': [http://www.pogo.org/investigations/financial-oversight/bailout.html#bailout Bailout Oversight], [http://www.pogo.org/investigations/financial-oversight/financial-regulatory-agencies.html#fra Financial Regulatory Reform], [http://www.pogo.org/investigations/financial-oversight/stimulus.html#stim Stimulus Oversight], and [http://www.pogo.org/investigations/financial-oversight/state-stimulus.html#statestim State Stimulus Oversight].  . 
+
+POGO has pushed for stronger oversight of the financial bailout and stimulus package. <!-- already cited above--> In 2009, POGO helped uncover payments totaling approximately $1.2 billion dollars paid to at least 30 companies that had violated the law through the stimulus package. <ref>[http://www.upi.com/Top_News/US/2009/10/26/Suspect-contractors-got-stimulus-contracts/UPI-28971256565674 "Suspect Contractors Got Stimulus Contracts"]. [[UPI]], October 26, 2009. </ref><ref>Kimberly, Kindy (October 29, 2009). [http://www.washingtonpost.com/wp-dyn/content/article/2009/10/28/AR2009102804540.html "Stimulus dollars going to accused contractors."] [[The Washington Post]]. Retrieved 2010-07-28. </ref> POGO also wrote letters to Congress calling for strong oversight of financial industry representatives that give the government advice on the bailout and stimulus packages, citing this as a potential conflict of interest that could lead to pro-industry policies that do not help the taxpayer. <ref>Eviatar, Daphne (May 19, 2009). [http://washingtonindependent.com/43602/watchdog-calls-for-oversight-of-private-fund-managers-advising-government "Watchdog calls for oversight of private fund managers advising government."] The Washington Independent. </ref><ref>[http://www.huffingtonpost.com/2009/06/02/treasury-toxic-asset-prog_n_210268.html "Treasury Toxic Asset Program Rife with Conflicts of Interest."] [[The Huffington Post]], June 2, 2009. Retrieved 2010-07-28. </ref><!-- find BETTER source --> . 
+
+In 2009, POGO sent a letter to Congress criticizing the [[Securities and Exchange Commission]] for failing to implement more than half of the recommendations made to it by its Inspector General<ref>Johnson, Fawn. (December 17, 2009) [http://www.nasdaq.com/aspx/stock-market-news-story.aspx?storyid=200912171553dowjonesdjonline000580&title=group-alleges-slack-sec-response-to-internal-watchdog "Group Alleges Slack SEC Response to Internal Watchdog"]. [NASDAQ]. </ref> According to POGO, in the past 2 years, the SEC had taken no action on 27 out of 52 recommended reforms suggested in Inspector General reports, and still had a "pending" status on 197 of the 312 recommendations made in audit reports. Some of these recommendations included imposing disciplinary action on SEC employees who receive improper gifts or other favors from financial companies and investigating and reporting the causes of the failures to detect the Madoff ponzi scheme. <ref>Brian, Danielle. (December 16, 2009) [http://www.pogo.org/pogo-files/letters/financial-oversight/er-fra-20091216.html "POGO Letter to SEC Chairman Mary Schapiro regarding SEC's failure to act on hundreds of Inspector General recommendations"]. The Project On Government Oversight Website. </ref> . 
+
+POGO made several recommendations that were ultimately included in the [[Dodd-Frank Wall Street Reform and Consumer Protection Act]], including promoting stronger whistleblower protections and rewards for financial industry employees, giving the Government Accountability Office the power to audit the [[Federal Reserve]], creating a Consumer Financial Protection Bureau, and giving [[Inspector Generals]] more independence. <ref>[http://www.pogo.org/pogo-files/alerts/financial-oversight/fo-fra-20100715.html "POGO Recommended Transparency and Accountability Measures in the Dodd-Frank Wall Street Reform and Consumer Protection Act."] Project On Government Oversight. Retrieved 2010-07-28. </ref> . 
+
+==Reports==. 
+===2006-2010=== . 
+
+''May 20, 2010'': [http://www.pogo.org/pogo-files/reports/contract-oversight/contract-spending/co-tic-20100520.html#10rpt Contract Spending: Escaping the Dark Ages] . 
+
+''April 8, 2009'': [http://www.pogo.org/pogo-files/reports/nuclear-security-safety/transforming-the-us-strategic-posture-and-weapons-complex-for-transition/nss-nwc-20090408.html#09rpt4 Transforming the U.S. Strategic Posture and Weapons Complex for Transition to a Nuclear Weapons-Free World] . 
+
+''March 20, 2009'': [http://www.pogo.org/pogo-files/reports/government-oversight/inspectors-general-accountability-is-a-balancing-act/go-igi-20090320.html#09rpt3 Inspectors General: Accountability is a Balancing Act] . 
+
+''February 27, 2009'': [http://www.pogo.org/pogo-files/reports/good-government/gg-20090227.html#09rpt2 Easy Money: Top Five Recommendations for Increasing Revenue and Cutting Costs] . 
+
+''February 18, 2009'': [http://www.pogo.org/pogo-files/reports/public-health/safety-of-medical-devices/ph-fda-20090218.html#09rpt1 The FDA's Deadly Gamble with the Safety of Medical Devices] . 
+
+''November 25, 2008'': [http://www.pogo.org/pogo-files/reports/homeland-security/breaking-the-sound-barrier/hs-as-20081125.html#08rpt7 Breaking the Sound Barrier: Experiences of Air Marshals Confirm Need for Reform at the OSC] . 
+
+''October 16, 2008'': [http://www.pogo.org/pogo-files/reports/good-government/pogos-recommended-good-government-reforms/gg-ptp-20081016.html#08rpt6 POGO's Recommended Good Government Reforms for Presidential Transition Teams] . 
+
+''September 18, 2008'': [http://www.pogo.org/pogo-files/reports/natural-resources/drilling-the-taxpayer/nr-rik-20080918.html#08rpt5 Drilling the Taxpayer: Department of Interior's Royalty-In-Kind Program] . 
+
+''June 19, 2008'': [http://www.pogo.org/pogo-files/reports/government-corruption/getting-byrned-by-justice/gc-coi-20080619.html#08rpt4 Getting Byrned by Justice: Favoritism in the Department of Justice Byrne Discretionary Grant Program] . 
+
+''March 17, 2008'': [http://www.pogo.org/pogo-files/reports/nuclear-security-safety/livermore/nss-livermore-20080317.html#08rpt3 U.S. Nuclear Weapons Complex: Livermore Homes and Plutonium Make Bad Neighbors] . 
+
+''March 6, 2008'': [http://www.pogo.org/pogo-files/reports/public-health/pandemic-flu-vaccine-program/pandemic-flu-vaccine-program.html#08rpt2 Pandemic Flu: Lack of Leadership and Disclosure Plague Vaccine Program] . 
+
+''February 26, 2008'': [http://www.pogo.org/pogo-files/reports/government-oversight/inspectors-general-many-lack-essential-tools-for-independence/go-ig-20080226.html#08rpt1 Inspectors General: Many Lack Essential Tools for Independence] . 
+
+''November 13, 2007'': [http://www.pogo.org/pogo-files/reports/national-security/rescue-at-risk/ns-csarx-20071113.html#07rpt Rescue At Risk: Crucial Helicopter Requirement Weakened] . 
+
+''October 16, 2006'': [http://www.pogo.org/pogo-files/reports/nuclear-security-safety/Y-12/nss-y12-20061016.html U.S. Nuclear Weapons Complex: Y-12 and Oak Ridge National Laboratory at High Risk] . 
+
+''August 28, 2006'': [http://www.pogo.org/pogo-files/reports/contract-oversight/federal-contracting-katrina/ Federal Contracting: Lessons Learned from Hurricane Katrina] . 
+
+''July 25, 2006'': [http://www.pogo.org/pogo-files/reports/national-security/f-22a-raptor/ns-f-22a-raptor-2006.html Preying On The Taxpayer: The F-22A Raptor] . 
+
+''March 31, 2006'': [http://www.pogo.org/pogo-files/reports/contract-oversight/bajaguas-no-bid-deal/co-cfc-bajagua-2006.html The Politics of Contracting: Bajagua's No-Bid Deal] . 
+
+===2001-2005=== . 
+
+''May 19, 2005'': [http://www.pogo.org/pogo-files/reports/nuclear-security-safety/homeland-security-opportunities/ U.S. Nuclear Weapons Complex: Homeland Security Opportunities] . 
+
+''April 28, 2005'': [http://www.pogo.org/pogo-files/reports/whistleblower-issues/the-unfinished-agenda/ Homeland and National Security Whistleblower Protections: The Unfinished Agenda] . 
+
+''March 15, 2005'': [http://www.pogo.org/pogo-files/reports/national-security/taxpayers-carry-the-load/ns-c130j-20050315.html Taxpayers Carry The Load: The C-130J Cargo Plane Does Not] . 
+
+''June 29, 2004'': [http://www.pogo.org/pogo-files/reports/government-corruption/the-politics-of-contracting/gc-rd-20040629.html The Politics of Contracting] . 
+
+''March 11, 2004'': [http://www.pogo.org/pogo-files/reports/contract-oversight/federal-contracting-and-iraq-reconstruction/co-irc-20040311.html Federal Contracting and Iraq Reconstruction] . 
+
+''February 10, 2003'': [http://www.pogo.org/pogo-files/reports/government-secrecy/congressional-research-service/gs-ia-20030210.html Congressional Research Service Products: Taxpayers Should Have Easy Access] . 
+
+''September 12, 2002'': [http://www.pogo.org/pogo-files/reports/nuclear-security-safety/voices-from-inside-the-fences/ Nuclear Power Plant Security: Voices from Inside the Fences] . 
+
+''July 16, 2002'': [http://www.pogo.org/pogo-files/reports/national-security/missile-defense-testing/ Big Dreams Still Need Oversight: Missile Defense Testing and Accountability are Being Circumvented] . 
+
+''May 10, 2002'': [http://www.pogo.org/pogo-files/reports/contract-oversight/federal-contractor-misconduct/co-fcm-20020510.html Federal Contractor Misconduct: Failures of the Suspension and Debarment System] . 
+
+''May 7, 2002'': [http://www.pogo.org/pogo-files/reports/national-security/back-door-deal-for-boeing/ns-btld-back-door-deal-for-boeing.html Fill 'Er Up: Back-Door Deal For Boeing Will Leave The Taxpayer on Empty] . 
+
+''March 11, 2002'':  [http://www.pogo.org/pogo-files/reports/contract-oversight/pickpocketing-the-taxpayer/co-rcv-20020311.html Pick Pocketing the Taxpayer: The Insidious Effects of Acquisition Reform] . 
+
+''October 1, 2001'': [http://www.pogo.org/pogo-files/reports/nuclear-security-safety/security-at-risk/#01rpt5 U.S. Nuclear Weapons Complex: Security At Risk] . 
+
+''August 2, 2001'': [http://www.pogo.org/pogo-files/reports/national-security/unilateral-disarmament/#01rpt4 Is the Air Force Spending Itself Into Unilateral Disarmament?] . 
+
+''March 28, 2001'': [http://www.pogo.org/pogo-files/reports/government-oversight/at-the-federal-election-commission-things-dont-add-up/go-ei-20010328.html#01rpt3 At The Federal Election Commission Things Don't Add Up] . 
+
+''March 19, 2001'': [http://www.pogo.org/pogo-files/reports/national-security/heavy-lifting/co-aln-20010301.html#01rpt2 Heavy Lifting for Boeing: Sweetheart Deal Helps Defense Contractor and Hurts Taxpayers] . 
+
+''January 2, 2001'': [http://www.pogo.org/pogo-files/reports/national-security/will-we-ever-fly-before-we-buy/ns-fa22-20010102.html#01rpt1  Will We Ever Fly Before We Buy? F-22: Doesn't Meet Basic Testing Criteria] . 
+
+===1996-2000=== . 
+
+''August 10, 2000'': [http://www.pogo.org/pogo-files/reports/national-security/fact-vs-fiction/ns-fa22-20000810.html#00rpt F-22: Fact or Fiction?] . 
+
+''September 1, 1999'': [http://www.pogo.org/pogo-files/reports/national-security/defense-waste-fraud/ns-wds-19990901.html#99rpt2 Defense Waste & Fraud Camouflaged As Reinventing Government] . 
+
+''March 23, 1999'': [http://www.pogo.org/pogo-files/reports/natural-resources/nrc-sells-environment-down-the-river/nr-moab-19990323.html#99rpt1 NRC Sells Environment Down the River: Radiation Flows Unchecked into the Colorado River] . 
+
+''May 11, 1998'': [http://www.pogo.org/pogo-files/reports/transportation/tripwired-document-trail-of-faulty-airplane-wiring-demonstrates-need-for-comprehensive-review/tr-faw-19980511.html#98rpt4 Tripwired?: Document Trail of Faulty Airplane Wiring Demonstrates Need For Comprehensive Review] . 
+
+''April 27, 1998'': [http://www.pogo.org/pogo-files/reports/contract-oversight/addicted-to-fraud/co-fca19980427.html#98rpt3 Addicted to Fraud? Health Care Industriy Forced to Return Nearly $2 Billion to Taxpayers Under the False Claims Act] . 
+
+''March 5, 1998'': [http://www.pogo.org/pogo-files/reports/government-oversight/re-establishing-institutional-integrity-at-the-fec/go-ei-19980305.html#98rpt2 Re-Establishing Institutional Integrity at the FEC: Ten Common Sense Campaign Finance Disclosure Reforms] . 
+
+''March 1, 1998'': [http://www.pogo.org/pogo-files/reports/national-security/more-brass-more-bucks-officer-inflation-in-todays-military/ns-wds-19980301.html#98rpt1 More Brass, More Bucks, Officer Inflation in Today's Military] . 
+
+''January 1, 1997'': [http://www.pogo.org/pogo-files/reports/contract-oversight/defense-and-health-care-industries/co-fca-1997.html#97rpt2 Defense and Health Care Industries: Rather Than Clean Up Their Act, They Attack the Act] . 
+
+''January 1, 1997'': [http://www.pogo.org/pogo-files/reports/natural-resources/drilling-for-the-truth-more-information-surfaces-on-unpaid-oil-royalties/nr-oil-1997.html#97rpt1 Drilling For the Truth: More Information Surfaces On Unpaid Oil Royalties] . 
+
+''September 1, 1996'': [http://www.pogo.org/pogo-files/reports/nuclear-security-safety/who-the-hell-is-regulating-who/nss-npp-19960901.html#96rpt3 Who the Hell is Regulating Who? The NRC's Abdication of Responsibility] . 
+
+''March 1, 1996'': [http://www.pogo.org/pogo-files/reports/natural-resources/with-a-wink-and-a-nod/nr-oil-19960301.html#96rpt2 With A Wink And A Nod: How the Oil Industry and the Department of Interior Are Cheating the American Public and California School Children] . 
+
+''January 1, 1996'': [http://www.pogo.org/pogo-files/reports/natural-resources/wait-there-is-more-money-to-collect/nr-oil-1996.html#96rpt1 Wait! There Is More Money to Collect...Unpaid Oil Royalties Across the Nation] . 
+
+===1990-1995=== . 
+
+''February 1, 1995'': [http://www.pogo.org/pogo-files/reports/transportation/no-light--at-the-end-of-this-tunnel/tr-bigdig-19950201.html#95rpt2 No Light At the End Of This Tunnel: Boston's Central Artery/Third Harbor Tunnel Project] . 
+
+''January 1, 1995'': [http://www.pogo.org/pogo-files/reports/natural-resources/department-of-interior-looks-the-other-way/nr-oil-1995.html#95rpt1 Department of Interior Looks the Other Way: The Government's Slick Deal for the Oil Industry] . 
+
+''August 1, 1994'': [http://www.pogo.org/pogo-files/reports/public-health/childrens-ears-antibiotics/ph-ears-19940801.html#94rpt3 Children's Ears & Antibiotics: Gold Mine For Pharmaceutical Companies, Land Mine for Children] . 
+
+''May 1, 1994'': [http://www.pogo.org/pogo-files/reports/public-health/aerosols-give-big-business-and-public-big-boom/ph-bugbombs-19940501.html#94rpt2 Aerosols Give Business and Public Big Boom: Where is the Protection in the EPA?] . 
+
+''January 1, 1994'': [http://www.pogo.org/pogo-files/reports/contract-oversight/survey-of-defense-contractor-signatories/co-fca-1994.html#94rpt1 Survey of Defense Contractor Signatories of the "Position Paper: Reform of the Federal Civil False Claims Act] . 
+
+''June 29, 1993'': [http://www.pogo.org/pogo-files/letters/contract-oversight/co-ca-19930629.html POGO letter to DOE Secretary Hazel O'Leary concerning recent visit by DOE IG] . 
+
+''June 22, 1993'': Released draft audit report by [[United States Department of Energy|Department of Energy]] Inspector General on [[Superconducting Super Collider]] costs and management. <ref name="MilwaukeeJournal">{{cite news | title=Super Collider's first collision is with auditors | author = Wire Services | date=June 23, 1993 | publisher = [[The Milwaukee Journal]] | accessdate=2010-06-29 | page=A9 | url=http://news.google.com/newspapers?id=7aIaAAAAIBAJ&sjid=piwEAAAAIBAJ&dq=project%20on%20government%20oversight&pg=6784%2C6938021}}</ref> . 
+
+''June 7, 1993'': [http://www.pogo.org/pogo-files/letters/contract-oversight/co-ca-19930607.html POGO letter to President Clinton regarding cost over runs of Superconducting Super Collider] . 
+
+''January 1, 1993'': [http://www.pogo.org/pogo-files/reports/contract-oversight/the-superconducting-super-colliders-super-excesses/co-ca-19930101.html The Superconducting Super Collider's Super Excesses]{{Dead link|date=July 2010}}<!-- added June 1993 because this one is missing from POGO as of June 2010 --Lexein--> . 
+
+''July 1, 1992'': [http://www.pogo.org/pogo-files/reports/national-security/high-tech-weapons/ns-puav-19920701.html#92rpt High Tech Weapons In Desert Storm: Hype or Reality?] . 
+
+''November 1, 1991'': [http://www.pogo.org/pogo-files/reports/nuclear-security-safety/cleaning-up-nuclear-waste-why-is-doe-five-years-behind-and-billions-over-budget/nss-npp-19911101.html#91rpt Cleaning Up Nuclear Waste: Why Is DOE Five Years Behind and Billions Over Budget?] . 
+
+''January 1, 1990'': [http://www.pogo.org/pogo-files/reports/national-security/the-armys-m1-tank/ns-m1tank-1990.html#90rpt The Army's M1 Tank: Has It Lived Up To Expectations?] . 
+
+==See also==. 
+*[[Goldsmith Prize for Investigative Reporting]]
+*[[Center for Public Integrity]]
+*[[OMB Watch]]
+*[[Center for Democracy and Technology]]
+*[[Sunlight Foundation]]
+*[[Taxpayers for Common Sense]] . 
+
+==References==. 
+{{reflist|colwidth=30em}} . 
+
+== External links ==. 
+* [http://www.pogo.org Project on Government Oversight website]
+* [http://www.gao.gov Government Accountability Office website]
+* [http://www.contractormisconduct.org Federal Contractor Misconduct Database]
+* [http://dnipogo.org/ Defense and the National Interest website] . 
+
+[[Category:Government watchdog groups in the United States]]
+[[Category:Whistleblower support organizations]]
+[[Category:Organizations established in 1981]]
+[[Category:Non-profit organizations based in Washington, D.C.]]

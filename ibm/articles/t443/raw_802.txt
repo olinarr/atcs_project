@@ -1,0 +1,47 @@
+In the field of [[human resource management]], '''training and development''' is the field which is concerned with organizational activity aimed at bettering the performance of individuals and groups in [[organization]]al settings.  It has been known by several names, including '''human resource development''', and '''learning and development'''. <ref name=Harrison>{{cite book|title=Learning and Development|author=Rosemary Harrison|pages=5|publisher=CIPD Publishing|date=2005|isbn=1843980509|isbn13=9781843980506}}</ref> . 
+
+Harrison observes that the name was endlessly debated by the [[Chartered Institute of Personnel and Development]] during its review of professional standards in 1999/2000.  "Employee Development" was seen as too evocative of the master-slave relationship between employer and employee for those who refer to their employees as "partners" or "associates" to be comfortable with.  "Human Resource Development" was rejected by academics, who objected to the idea that people were "resources" &mdash; an idea that they felt to be demeaning to the individual.  Eventually, the CIPD settled upon "Learning and Development", although that was itself not free from problems, "learning" being an overgeneral and ambiguous name.  Moreover, the field is still widely known by the other names. <ref name=Harrison /> . 
+
+Training and development encompasses three main activities: training, education, and development. Garavan, Costine, and Heraty, of the Irish Institute of Training and Development, note that these ideas are often considered to be synonymous.  However, to practitioners, they encompass three separate, although interrelated, activities:<ref name=Harrison /><ref>{{cite book|title=Management|author=Patrick J. Montana and Bruce H. Charnov|pages=225|chapter=Training and Development|publisher=Barron's Educational Series|date=2000|isbn=0764112767|isbn13=9780764112768}}</ref><ref name=IITD>{{cite book|title=Training and Development in Ireland|author=Thomas N. Garavan, Pat Costine, and Noreen Heraty|publisher=Cengage Learning EMEA|date=1995|pages=1|chapter=Training and Development: Concepts, Attitudes, and Issues|isbn=1872853927|isbn13=9781872853925}}</ref>
+*'''Training''': This activity is both focused upon, and evaluated against, the job that an individual currently holds. <ref name=IITD />
+*'''Education''': This activity focuses upon the jobs that an individual may potentially hold in the future, and is evaluated against those jobs. <ref name=IITD />
+*'''Development''': This activity focuses upon the activities that the organization employing the individual, or that the individual is part of, may partake in the future, and is almost impossible to evaluate. <ref name=IITD /> . 
+
+The "stakeholders" in training and development are categorized into several classes.  The ''sponsors'' of training and development are senior managers.  The ''clients'' of training and development are business planners.  Line managers are responsible for coaching, resources, and performance.  The ''participants'' are those who actually undergo the processes.  The ''facilitators'' are Human Resource Management staff.  And the ''providers'' are specialists in the field.  Each of these groups has its own agenda and motivations, which sometimes conflict with the agendas and motivations of the others. <ref>{{cite book|title=Human Resource Management|author=Derek Torrington, Laura Hall, and Stephen Taylor|pages=363|publisher=Pearson Education|date=2004|isbn=0273687131|isbn13=9780273687139}}</ref> . 
+
+The conflicts are the best part of career consequences are those that take place between employees and their bosses.  The number one reason people leave their jobs is conflict with their bosses.  And yet, as author, workplace relationship authority, and executive coach, Dr. John Hoover<ref>John Hoover, PhD ''"How to Work for an Idiot: Survive and Thrive Without Killing Your Boss"'' (Career Press ISBN 1564147045/ISBN 978-1564147042) http://www.amazon.com/dp/1564147045</ref> points out, "Tempting as it is, nobody ever enhanced his or her career by making the boss look stupid." [http://www.amazon.com/dp/1564147045] Training an employee to get along well with authority and with people who entertain diverse points of view is one of the best guarantees of long-term success.  Talent, knowledge, and skill alone won't compensate for a sour relationship with a superior, peer, or customer.  . 
+
+== Talent development ==. 
+'''Talent development''', part of [[human resources|human resource]] development, is the process of changing an [[organization]], its [[employee]]s, its [[Stakeholder (corporate)|stakeholder]]s, and groups of people within it, using planned and unplanned learning, in order to achieve and maintain a competitive advantage for the organization.  Rothwell notes that the name may well be a term in search of a meaning, like so much in management, and suggests that it be thought of as selective attention paid to the top 10% of employees, either by potential or performance. <ref>{{Cite book|title=The Strategic Development of Talent|author=William J. Rothwell and H. C. Kazanas|pages=4|date=2004|publisher=Human Resource Development Press|isbn=0874257522}}</ref><ref>{{Cite book|title=Effective Succession Planning|pages=xviii|author=William J. Rothwell|date=2005|publisher=AMACOM Div American Mgmt|isbn=0814408427}}</ref> . 
+
+While talent development is reserved for the top management it is becoming increasingly clear that ''career development'' is necessary for the [[Employee retention|retention]] of any employee, no matter what their level in the company.  Research has shown that some type of career path is necessary for  [[job satisfaction]] and hence job retention.  Perhaps organizations need to include this area in their overview of employee satisfaction.  . 
+
+The term ''talent development'' is becoming increasingly popular in several organizations, as companies are now moving from the traditional term ''training and development''. Talent development encompasses a variety of components such as training, career development, career management, and organizational development, and training and development. It is expected that during the 21st century more companies will begin to use more integrated terms such as ''talent development''.  . 
+
+Washington Group International, in their paper "The Nuclear Renaissance, A Life Cycle Perspective"<ref>{{cite web  | url=http://www.gnr2.org/html/2007/4-19.pdf | title=Welcome to the Website for the inaugural Conference on Global Nuclear Fuel Reprocessing and Recycling, GNR2, held in Seattle, Washington, USA, June 11-14, 2007 |publisher=gnr2.org |accessdate=20 October 2010}} {{Dead link|date=November 2010|bot=H3llBot}}</ref> defined two logical laws of talent development:
+* First law of talent development: "The beginnings of any technology-rich business are all characterized by a shortage of large numbers of technically trained people needed to support ultimate growth"
+* Second law of talent development: "The resources will come when the business becomes attractive to the best-and brightest who adapt skills to become part of an exciting opportunity" . 
+
+''Talent development'' refers to an organization's ability to align strategic training and career opportunities for employees.  . 
+
+== See also ==. 
+*[[Coaching]]
+*[[Life planning]]
+*[[Personal development]]
+*[[Mentoring]]
+*[[Training]]
+*[[Education]] . 
+
+== References ==. 
+{{reflist}} . 
+
+== Further reading ==. 
+* {{cite book|title=Gower Handbook of Training and Development|author=Anthony Landale|publisher=Gower Publishing, Ltd|date=1999|isbn=0566081229|isbn13=9780566081224}}
+* {{cite book|title=Managing Human Resources in Small & Mid-Sized Companies|author=Diane Arthur|chapter=Training and Development|publisher=AMACOM Div American Mgmt Assn|date=1995|isbn=0814473113,|isbn13=9780814473115}}
+* {{cite book|title=The HR Answer Book|author=Shawn A. Smith and Rebecca A. Mazin|chapter=Training and Development|publisher=AMACOM Div American Mgmt Assn|date=2004|isbn=0814472230|isbn13=9780814472231}}
+* {{Cite journal|journal=[[Harvard Business Review]]|date=October 2005|volume=83|issue=10|pages=62&ndash;70|title=Growing talent as if your business depended on it|author=Cohn JM, Khurana R, and Reeves L|pmid=16250625}}
+* {{Cite journal|journal=Human Resource Management|volume=36|issue=1|pages=141&ndash;146|date=1998-12-06|publisher=John Wiley &amp; Sons, Inc.|title=HR's role in building competitive edge leaders|author=Michael M. Lombardo and Robert W. Eichinger|doi=10.1002/(SICI)1099-050X(199721)36:1<141::AID-HRM22>3.0.CO;2-D}}
+* {{Cite journal|title=Why the leadership bench never gets deeper: Ten insights about executive talent development|url=http://www.chrs.net/images/chrs_papers/teninsights.pdf|format=PDF|author=Gregory C. Kesler|journal=HR Planning Society Journal|volume=25|issue=1|date=2002}} . 
+
+[[Category:Human resource management]]
+[[Category:Performance management]]

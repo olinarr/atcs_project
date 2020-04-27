@@ -1,0 +1,52 @@
+{{COI|date=August 2010}}
+{{Refimprove|date=January 2010}}
+{{Infobox Institute
+|name= The Foundation for Educational Choice
+|image_size= 259px
+|image_name= The Foundation for Educational Choice logo.gif
+|caption=
+|established=1996
+|chairman= [[Patrick M. Byrne|Dr. Patrick Byrne]]<ref>{{cite journal|url=http://www.philanthropyroundtable.org/article.asp?article=1616&cat=149|title=Patrick Byrne - Champion of Choice|journal=Philanthropy|volume=XXIV|issue=1|publisher=PhilanthropyRoundtable|last=|first=}}</ref>
+|head_label= President & CEO
+|head=[[Robert C. Enlow|Robert Enlow]]
+|faculty= 14
+|budget=
+|endowment =
+|debt=
+|location=[[Indianapolis, IN]]
+|address= One American Square, Suite 2420
+Indianapolis, IN 46282
+|website= [http://www.edchoice.org www.edchoice.org]
+}} . 
+
+'''The Foundation for Educational Choice''' is an [[Indianapolis]]-based [[non-profit]] organization dedicated to the issue of [[school choice]] and committed to assisting education reform efforts.  The Foundation was founded in 1996 by [[Nobel laureate]] [[Milton Friedman]] and his wife, economist [[Rose Friedman|Rose Director Friedman]], and was then known as the Milton & Rose D. Friedman Foundation. <ref>"School-choice charity fund aimed at the needy"  ''Toronto Star '' Feb 13, 2003t Page A.29  [http://pqasb.pqarchiver.com/thestar/access/421050611.html?dids=421050611:421050611&FMT=ABS&FMTS=ABS:FT&type=current&date=Feb+13%2C+2003&author=&pub=Toronto+Star&desc=School-choice+charity+fund+aimed+at+the+needy&pqatl=google link]</ref> . 
+
+The Foundation’s 14-member board is chaired by [[Patrick M. Byrne|Dr. Patrick Byrne]]. <ref>{{cite news|url=http://www.insideindianabusiness.com/newsitem.asp?ID=30535|title=New Chairman Named For Friedman Foundation|date= July 21, 2008|work=Inside Indiana Business|accessdate=12 April 2010}}</ref> . 
+
+== School Choice ==. 
+In 1955 Milton Friedman put forth an idea of using [[free market]] principles to improve the [[Education in the United States|United States public school system]].  Currently, public schools are funded by state and local taxes and a child is assigned their school based on where that student lives.  Friedman pointed out that by distributing [[School voucher|vouchers]] to the families of students equal to the tuition that he/she would receive at his/her local public school, a student’s family could then choose from options where best to send their child.  . 
+
+The Foundation, following Friedman’s view, is focused on the creation and growth of school choice programs either through vouchers or [[School choice#Tuition tax credits|tax-based incentive programs]]. <ref>{{cite news|url=http://www.insideindianabusiness.com/newsitem.asp?ID=33913|title=Friedman Foundation Calls for Tax Credits to Benefit K-12 Education|date=February 10, 2009|work=Inside Indiana Business|accessdate=12 April 2010}}</ref><ref>{{cite news|url=http://www.ajc.com/news/georgia-politics-elections/rally-to-unite-public-310078.html|title=Rally to unite public, private groups that back vouchers|last=Dodd  |first=D. Aileen |date=February 17, 2010|work= The Atlanta Journal-Constitution |accessdate=12 April 2010}}</ref> . 
+
+== Research ==. 
+The Foundation has three series of research dedicated to exploring the benefits and pitfalls of choice programs. 
+: '''School Choice Issues in the State''' – Focused on topics of education and education reform in given states. 
+: '''School Choice Issues in Depth''' – Focused on issues of education and education reform on a national or multi-state level. 
+: '''School Choice Survey in the State''' – Public opinion surveys focused on education and education reform in given states.  . 
+
+== Publications ==. 
+Other publications The Foundation is known to put out regularly include:
+: '''The School Choice Advocate''' – A publication dedicated to the current state of school choice and recent foundation activities. 
+: '''The ABC’s of School Choice''' – An annual publication that provides a detailed breakdown of current choice programs in different states as well as a glossary of school choice terms and FAQ’s.  . 
+
+== External links ==. 
+* [http://www.edchoice.org/ The Foundation for Educational Choice Website] . 
+
+==References==. 
+{{Reflist}}
+*{{cite news|url=http://goliath.ecnext.com/coms2/gi_0199-4674008/Keeping-an-orderly-foundation-funds.html|title=Keeping an orderly foundation |date=  July 18, 2005|work=National Review|accessdate=12 April 2010}} . 
+
+{{DEFAULTSORT:Foundation For Educational Choice}}
+[[Category:Education policy organizations in the United States]]
+[[Category:Organizations established in 1996]]
+[[Category:Non-profit organizations based in Indiana]]

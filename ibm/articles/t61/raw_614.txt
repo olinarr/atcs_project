@@ -1,0 +1,34 @@
+{{Ref improve|date=March 2007}}
+{{Doping in sport sidebar}}
+'''Performance-enhancing drugs''' are substances used by people to improve their performance in the sports in which they engage.  The term may also refer to drugs used by military personnel to enhance combat performance. <ref>[http://leda.law.harvard.edu/leda/data/628/Kochansky_anon.html Anon. Better Fighting Through Chemistry? The Role of FDA Regulation in Crafting the Warrior of the Future.] Food and Drug Law: Final Paper. March 8, 2004. </ref> . 
+
+== Types of performance-enhancing drugs ==. 
+Although the phrase ''performance-enhancing drugs'' is used in reference to [[anabolic steroids]] or their precursors, world anti-doping organizations apply the term broadly.  The phrase has been used to refer to several distinct classes of drugs: 
+* ''Lean mass builders'' are used to drive or amplify the growth of [[Body composition|muscle and lean body mass]], and sometimes to reduce body fat.  This class of drugs includes [[anabolic steroids]], [[Beta2-adrenergic agonist|beta-2 agonists]], [[selective androgen receptor modulator]]s (SARMs), and various human [[hormones]], most notably [[human growth hormone]], as well as some of their precursors. 
+* ''[[Stimulants]]'' are used to stimulate their body and mind to perform at optimal level by increasing focus, energy and aggression.  Examples include [[caffeine]], [[amphetamine]], and [[methamphetamine]]. 
+* ''[[Painkillers]]'' mask athletes' pain so they can continue to compete and perform beyond their usual pain thresholds.  [[Blood pressure]] is increased causing the cells in the muscles to be better supplied with vital oxygen.  Painkillers used by athletes range from common [[Over-the-counter drug|over-the-counter]] medicines such as [[NSAID]]s (such as [[ibuprofen]]) to powerful prescription [[narcotic]]s. 
+* ''[[Sedatives]]'' are sometimes used by athletes in sports like [[archery]] which require steady hands and accurate aim, and also by athletes attempting to overcome excessive nervousness or discomfort.  [[Ethanol#Alcoholic beverages|Alcohol]], [[valium]] and [[cannabis (drug)|marijuana]] are examples. 
+* ''[[Diuretics]]'' expel water from athletes' bodies.  They are often used by athletes such as [[Wrestling|wrestlers]], who need to meet weight restrictions.  Many stimulants also have [[therapeutic effect|secondary]] diuretic effect. 
+* ''Masking drugs'' are used to prevent the detection of other classes of drugs.  These evolve as quickly as do testing methods – which is very quick indeed<ref>{{cite book|last=Yesalis|first=Charles|title=Anabolic Steroids in Sport and Exercise|chapter=12|location=Champaign, IL|publisher=Human Kinetics|year=2007}}</ref> – although a time-tested classic example is the use of [[epitestosterone]], a drug with no performance-enhancing effects, to restore the [[testosterone]]/epitestosterone ratio (a common criterion in steroid testing) to normal levels after anabolic steroid supplementation.  . 
+
+== Definition == . 
+
+The classification of substances as performance-enhancing drugs is not entirely clear-cut and objective.  As in other types of [[categorization]], certain [[Prototype theory|prototype]] performance enhancers that are universally classified as such (like anabolic steroids), whereas other substances (like [[vitamins]] and [[protein]] supplements) are virtually never classified as performance enhancers despite their significant effects on athletes' performance.  As is usual with categorization, there are borderline cases; [[caffeine]], for example, is considered a performance enhancer by some athletic authorities but not others. <ref>{{cite web|url=http://www.vanderbilt.edu/AnS/psychology/health_psychology/caffeine_sports.htm |title=Caffeine and Sports Performance |publisher=Vanderbilt.edu |date= |accessdate=2012-03-04}}</ref> . 
+
+==See also==. 
+*[[Bodybuilding]]
+*[[Anabolic steroid]]
+*[[Steroid use in American football]]
+*[[Ergogenic aid]]
+*[[Ergogenic use of anabolic steroids]] . 
+
+== References == . 
+
+{{reflist}} . 
+
+== External links ==. 
+*[http://files.mlb.com/mitchrpt.pdf Mitchell Report] – regarding Major League Baseball. 
+*[http://www.mayoclinic.com/health/performance-enhancing-drugs/HQ01105 Risks to health] – from Mayo Clinic.  . 
+
+{{DEFAULTSORT:Performance-Enhancing Drugs}}
+[[Category:Drugs in sport]]

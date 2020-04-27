@@ -1,0 +1,487 @@
+{{About|the video game series|the first game in the series|Grand Theft Auto (video game)|other uses|Grand Theft Auto (disambiguation){{!}}Grand Theft Auto}}
+{{Infobox video game series
+|width=175
+|title=Grand Theft Auto
+|image=[[File:Grand Theft Auto logo series.svg|200px]]
+|caption=''Grand Theft Auto'' series logo, which has<br />been used since ''[[Grand Theft Auto III]]''
+|developer=[[Rockstar Games]]<br />[[Rockstar North]] (formerly DMA Design)<br />[[Rockstar Leeds]]<br />[[Rockstar Toronto]]<br />[[Rockstar Lincoln]]
+|publisher=[[Rockstar Games]]
+|genre=[[Action-adventure game|Action-adventure]], [[Open world]], [[Crime fiction|Crime]]
+|creator=[[David Jones (video game developer)|David Jones]]<br />[[Dan Houser]]<br />[[Sam Houser]]
+|first release version=''[[Grand Theft Auto (video game)|Grand Theft Auto]]''
+|first release date=October 1997
+|latest release version=''[[Grand Theft Auto III]] (for iOS, Android)''
+|latest release date=15 December  2011
+}} . 
+
+'''''Grand Theft Auto''''' (commonly abbreviated '''''GTA''''') is a multi-award-winning [[video game]] series created in the United Kingdom by [[David Jones (video game developer)|Dave Jones]], then later by brothers [[Dan Houser]] and [[Sam Houser]], and game designer Zachary Clarke. It is primarily developed by British developer [[Rockstar North]] (formerly DMA Design) and published by [[Rockstar Games]]. The name of the series is derived from ''grand theft auto'', a term referring to [[motor vehicle theft]].  . 
+
+The series is set in fictional locales heavily modelled on American cities, while an expansion for the original was based in [[London]]. [[Gameplay]] focuses on an [[open world]] where the player can choose missions to progress an overall story, as well as engaging in side activities, all consisting of [[Action-adventure game|action-adventure]], [[Racing game#On-road|driving]], occasional [[role-playing video game|role-playing]], [[Stealth game|stealth]], and [[racing game|racing]] elements. The subject of the games is usually a comedic satire of American culture, but the series has gained controversy for its [[Adult video game|adult]] nature and [[Video game controversy|violent]] themes. The series focuses around many different protagonists who attempt to rise through the ranks of the criminal underworld, although their motives for doing so vary in each game. The antagonists are commonly characters who have betrayed the protagonist or his organisation, or characters who have the most impact impeding the protagonist's progress.  . 
+
+Video game developer [[DMA Design]] began the series in {{vgy|1997}}, and it currently has ten stand-alone games and four [[expansion packs]]. The third chronological title, ''[[Grand Theft Auto III]]'', was widely acclaimed, as it brought the series to a 3D setting and more immersive experience, and is considered a landmark title that has subsequently influenced many other open world action games and led to the label "[[Grand Theft Auto clone|''Grand Theft Auto'' clone]]" on similar games. Subsequent titles would follow and build upon the concept established in ''Grand Theft Auto III''. Film veterans such as [[Michael Madsen]], [[Ray Liotta]], [[Burt Reynolds]], [[Dennis Hopper]], [[Danny Trejo]], [[Gary Busey]], [[Samuel L. Jackson]], [[Chris Penn]], [[James Woods]], [[Joe Pantoliano]], [[Jenna Jameson]], [[Frank Vincent]], [[Robert Loggia]], [[Kyle MacLachlan]], [[Phil Collins]] and [[Peter Fonda]] have all voiced major characters, and the series is critically acclaimed and commercially successful, having sold more than 114 million units, {{as of|2011|9|lc=yes}}. <ref name="TakeTwo2011Sep">{{Cite web |url=http://www.gamasutra.com/view/news/37228/Grand_Theft_Auto_IV_Passes_22M_Shipped_Franchise_Above_114M.php |title=''Grand Theft Auto IV'' Passes 22M Shipped, Franchise Above 114M |last=Orland |first=Kyle |date=September 14, 2011 |publisher=[[Gamasutra]] |accessdate=2011-09-21}}</ref> The fourth era of Grand Theft Auto included lesser known actors, such as [[Michael Hollick]], [[Jason Zumwalt]] and [[Scott Hill]].  . 
+
+== Overview ==. 
+Each game in this series allows players to take on the role of a [[criminal]] or a [[wikt:wannabe|wannabe]] in a big city, typically an individual who rises through the ranks of [[organized crime]] through the course of the game. The player is given various missions by kingpins and major idols in the city underworld which must be completed to progress through the storyline. [[Assassination]]s and other crimes feature regularly, but occasionally [[Taxicab|taxi]] driving, [[firefighting]], [[street racing]], [[bus driver|bus driving]], or learning to fly [[helicopters]] and [[fixed-wing aircraft]] are also involved.  . 
+
+In later titles, notably those released after ''[[Grand Theft Auto 2]]'', the player is given a more developed storyline in which he is forced to overcome an unfortunate event (e.g., being betrayed and left for dead), which serves as motivation for the character to advance up the criminal ladder and ultimately leads to the triumph of the character by the end of the storyline. 
+The ''Grand Theft Auto'' series belongs to a genre of free-roaming video games called [[sandbox game]]s, and grants a large amount of freedom to the player in deciding what to do and how to do it through multiple methods of transport and weapons. Most traditional action games are structured as a single track series of levels with [[linearity (video games)|linear gameplay]], but in ''GTA'' the player can determine the missions that he wants to undertake, and his relationships with various characters are changed based on these choices. The cities of the games can also be roamed freely at any point in the game, and are examples of [[open world]] video game environments which offer accessible buildings with minor missions in addition to the main storyline. There are exceptions: missions follow a linear, overarching plot, and some city areas must be unlocked over the course of the game.  . 
+
+''Grand Theft Auto III'' and later subsequent games have more prevalent voice acting, and [[radio station]]s, which simulate driving to music with [[disc jockey]]s, radio personalities, [[advertising|commercials]], [[talk radio]], [[popular music|pop music]], and American culture.  . 
+
+The use of vehicles in an explorable urban environment provides a basic simulation of a working city, complete with pedestrians who generally obey traffic signals. Further details are used to flesh out an open-ended atmosphere that has been used in several other games, such as ''[[The Simpsons Hit & Run]]'', which has less emphasis on crime or violence.  . 
+
+=== Setting ===. 
+The ''Grand Theft Auto'' series is set in a fictional version of the world, in a number of different time periods. The original ''[[Grand Theft Auto (video game)|Grand Theft Auto]]'' introduced three main locations: [[Liberty City (Grand Theft Auto)|Liberty City]], based upon [[New York City]], [[Vice City]], based upon [[Miami]], and San Andreas, based upon the western cities of [[Los Angeles]], [[San Francisco]] and [[Las Vegas metropolitan area|Las Vegas]].  . 
+
+Subsequent games in the series have re-imagined and expanded upon the original locales. ''[[Grand Theft Auto III]]'' is set in a different rendition of Liberty City only loosely based on New York City. <ref name="GTA IV: Building a Brave New World">IGN Feature [http://uk.xbox360.ign.com/articles/863/863028p1.html GTA IV: Building a Brave New World]. Retrieved May 03, 2008. </ref> A revised Vice City is depicted in ''[[Grand Theft Auto: Vice City]]''. In ''[[Grand Theft Auto: San Andreas]]'', the location of San Andreas takes the form of an entire state, instead of a single city. The [[Bayside, San Andreas|state of San Andreas]] is based on the [[U.S. state|states]] of [[California]] and [[Nevada]], and consists of three major cities: Los Santos ([[Los Angeles]]), San Fierro ([[San Francisco]]) and Las Venturas ([[Las Vegas metropolitan area|Las Vegas]]). Surrounding towns and areas of desert, water, woodland and countryside lie between the three cities.  . 
+
+''[[Grand Theft Auto: Liberty City Stories]]'' and ''[[Grand Theft Auto: Vice City Stories]]'', originally released on the [[PlayStation Portable]] handheld console, are set in the previous depictions of their respective [[eponymous]] cities.  . 
+
+''[[Grand Theft Auto IV]]'' and its subsequent expansion packs ''[[Grand Theft Auto IV: The Lost and Damned|The Lost and Damned]]'' and ''[[Grand Theft Auto: The Ballad of Gay Tony|The Ballad of Gay Tony]]'' are set in a third revision of Liberty City, set in 2008. A version of [[New Jersey]], known as [[Liberty City (Grand Theft Auto)#Alderney|Alderney]], is depicted adjacent to the city. ''[[Grand Theft Auto: Chinatown Wars]]'' is also set in this version of Liberty City, although the state of Alderney is not present.{{citation needed|date=March 2011}} . 
+
+Other places in the same [[fictional universe]] as the ''Grand Theft Auto'' series also exist. [[Carcer City]] and [[Manhunt 2|Cottonmouth]] are two different cities featured in the ''[[Manhunt (series)|Manhunt]]'' series. There is also the town of [[Bullworth]] from another Rockstar Game's release, ''[[Bully (video game)|Bully]]''.{{citation needed|date=March 2011}} . 
+
+Only the expansion packs for the original ''Grand Theft Auto'', ''[[Grand Theft Auto: London 1969|London 1969]]'' and ''[[Grand Theft Auto: Mission packs#Grand Theft Auto: London, 1961|London 1961]]'', set in [[London]], have featured a location outside of the United States.  . 
+
+== Games ==. 
+{| class="wikitable" style="width:100%;"
+|+
+. |-
+! rowspan="2"| Year
+! rowspan="2"| Title
+! rowspan="2"| Developer(s)
+! colspan="4"| Platform(s)
+! rowspan="2"| Era
+. |- style="text-align:center;"
+|| <small>'''[[Sony]]'''</small>
+|| <small>'''[[Microsoft]]'''</small>
+|| <small>'''[[Nintendo]]'''</small>
+|| <small>'''Other'''</small>
+. |-
+| style="text-align:center;"| 1997
+| ''[[Grand Theft Auto (video game)|Grand Theft Auto]]''
+| [[DMA Design]], [[Tarantula Studios]]
+| style="background:#dfd;"| [[PlayStation (console)|PS1]]
+| style="background:#dfd;"| [[Microsoft Windows|Windows]], [[MS-DOS]]
+| style="background:#dfd;"| [[Game Boy Color]]
+| style="background:#fdd;"|
+| rowspan="3" style="text-align:center;"| First
+. |-
+| rowspan="3" style="text-align:center;"| 1999
+| ''[[Grand Theft Auto: Mission packs#Grand Theft Auto: London, 1969|London, 1969]]''
+| rowspan="2"| DMA Design, Tarantula Studios, <br />[[Rockstar Toronto|Rockstar Canada]], [[Runecraft]]
+| style="background:#dfd;"| PS1
+| style="background:#dfd;"| Windows, MS-DOS
+| style="background:#fdd;"|
+| style="background:#fdd;"|
+. |-
+| ''[[Grand Theft Auto: Mission packs#Grand Theft Auto: London, 1961|London, 1961]]''
+| style="background:#fdd;"|
+| style="background:#dfd;"| Windows
+| style="background:#fdd;"|
+| style="background:#fdd;"|
+. |-
+| ''[[Grand Theft Auto 2]]''
+| DMA Design, Tarantula Studios
+| style="background:#dfd;"| PS1
+| style="background:#dfd;"| Windows
+| style="background:#dfd;"| Game Boy Color
+| style="background:#dfd;"| [[Dreamcast]]
+| style="text-align:center;"| Second
+. |-
+| style="text-align:center;"| 2001
+| ''[[Grand Theft Auto III]]''
+| DMA Design, [[Rockstar Vienna]]
+| style="background:#dfd;"| [[PlayStation 2|PS2]]
+| style="background:#dfd;"| Windows, [[Xbox]]
+| style="background:#fdd;"|
+| style="background:#dfd;"| [[Mac OS X]], [[iOS]], [[Android (operating system)|Android]]
+| rowspan="6" style="text-align:center;"| Third
+. |-
+| style="text-align:center;"| 2002
+| ''[[Grand Theft Auto: Vice City|Vice City]]''
+| [[Rockstar North]], Rockstar Vienna
+| style="background:#dfd;"| PS2
+| style="background:#dfd;"| Windows, Xbox
+| style="background:#fdd;"|
+| style="background:#dfd;"| Mac OS X
+. |-
+| rowspan="2" style="text-align:center;"| 2004
+| ''[[Grand Theft Auto Advance|Advance]]''
+| [[Backbone Entertainment|Digital Eclipse]]
+| style="background:#fdd;"|
+| style="background:#fdd;"|
+| style="background:#dfd;"| [[Game Boy Advance]]
+| style="background:#fdd;"|
+. |-
+| ''[[Grand Theft Auto: San Andreas|San Andreas]]''
+| Rockstar North
+| style="background:#dfd;"| PS2
+| style="background:#dfd;"| Windows, Xbox
+| style="background:#fdd;"| 
+| style="background:#dfd;"| Mac OS X
+. |-
+| style="text-align:center;"| 2005
+| ''[[Grand Theft Auto: Liberty City Stories|Liberty City Stories]]''
+| rowspan="2"| [[Rockstar Leeds]], Rockstar North
+| style="background:#dfd;"| [[PlayStation Portable|PSP]], PS2
+| style="background:#fdd;"|
+| style="background:#fdd;"|
+| style="background:#fdd;"|
+. |-
+| style="text-align:center;"| 2006
+| ''[[Grand Theft Auto: Vice City Stories|Vice City Stories]]''
+| style="background:#dfd;"| PSP, PS2
+| style="background:#fdd;"|
+| style="background:#fdd;"|
+| style="background:#fdd;"|
+. |-
+| style="text-align:center;"| 2008
+| ''[[Grand Theft Auto IV]]''
+| Rockstar North, [[Rockstar Toronto]]
+| style="background:#dfd;"| [[PlayStation 3|PS3]]
+| style="background:#dfd;"| Windows, [[Xbox&nbsp;360]]
+| style="background:#fdd;"|
+| style="background:#fdd;"|
+| rowspan="4" style="text-align:center;"| Fourth
+. |-
+| rowspan="3" style="text-align:center;"| 2009
+| ''[[Grand Theft Auto: The Lost and Damned|The Lost and Damned]]''
+| Rockstar North
+| style="background:#dfd;"| PS3
+| style="background:#dfd;"| Windows, Xbox&nbsp;360
+| style="background:#fdd;"|
+| style="background:#fdd;"|
+. |-
+| ''[[Grand Theft Auto: Chinatown Wars|Chinatown Wars]]''
+| Rockstar Leeds, Rockstar North
+| style="background:#dfd;"| PSP
+| style="background:#fdd;"|
+| style="background:#dfd;"| [[Nintendo DS|DS]]
+| style="background:#dfd;"| iOS
+. |-
+| ''[[Grand Theft Auto: The Ballad of Gay Tony|The Ballad of Gay Tony]]''
+| rowspan="2"| Rockstar North
+| style="background:#dfd;"| PS3
+| style="background:#dfd;"| Windows, Xbox&nbsp;360
+| style="background:#fdd;"|
+| style="background:#fdd;"| 
+. |-
+|style="text-align:center;"| TBA
+| ''[[Grand Theft Auto V]]''
+| style="background:#fdd;"| 
+| style="background:#fdd;"| 
+| style="background:#fdd;"|
+| style="background:#fdd;"|
+| style="text-align:center;"| Fifth
+|} . 
+
+== History ==. 
+The ''Grand Theft Auto'' series may be divided into [[Canon (fiction)|canons]], based on the inclusion of a numbering after the recognisable title name (e.g. ''Grand Theft Auto III'') after the original ''[[Grand Theft Auto (video game)|Grand Theft Auto]]''{{'}}s release, and to a certain extent, the type of [[Game engine|graphics engine]] used.  . 
+
+[[File:GTA1 PC in-game screenshot.png|right|thumb|The original ''[[Grand Theft Auto (video game)|Grand Theft Auto]]''.]] . 
+
+{{Grand Theft Auto chronology}} . 
+
+=== ''Grand Theft Auto'' ===. 
+{{Main|Grand Theft Auto (video game)|Grand Theft Auto: London}}
+''[[Grand Theft Auto (video game)|Grand Theft Auto]]'', the first game in the ''Grand Theft Auto'' series, was created by [[video game developer]] [[DMA Design]], and was released for Microsoft DOS/Windows in 1997/1998 and also for the [[PlayStation]]. <ref name="GTA1 release date">The actual release date of ''Grand Theft Auto'' is not clear. While Rockstar Games asserts in [http://www.rockstargames.com/ /classics/gta.html its official website] that the game was released in October 1997, [http://www.gamespot.com/pc/adventure/grandtheftauto/similar.html?mode=versions GameSpot] and [http://pc.ign.com/objects/002/002281.html IGN] indicated that the game was only released on February or March 1998, respectively. </ref> The game is set in three different fictional cities, [[Liberty City (Grand Theft Auto)|Liberty City]], San Andreas and [[Vice City]]. A reduced [[Game Boy Color]] port was later released.  . 
+
+Subsequently, two expansion packs, ''[[Grand Theft Auto: Mission packs|Grand Theft Auto: London, 1969]]'' and ''[[Grand Theft Auto: Mission packs|Grand Theft Auto: London, 1961]]'', were released on 31 March and 1 June 1999, respectively.  . 
+
+=== ''Grand Theft Auto 2'' ===. 
+{{Main|Grand Theft Auto 2}}
+The second game in the series, ''[[Grand Theft Auto 2]]'', was developed for Microsoft Windows, [[PlayStation]], and [[Dreamcast]] and released in the year 1999. Set in the indeterminable future,<ref name="GTA 2 timeline">''Grand Theft Auto 2''{{'}}s manual uses the phrase "three weeks into the future", and phrases such as "X weeks into the future" or "X minutes into the future" are common phrases meaning "near future"; fictional journal entries on the game's official website, however, suggest 2013 .[http://www.rockstargames.com/gta2/journal/journal_list.html Rockstargames.com]</ref> it featured updated graphics and somewhat different gameplay based upon the player's appeal to various criminal organisations. ''Grand Theft Auto 2'' takes place in a [[retrofuturism|retro-futuristic]] setting, in an unnamed American city.  . 
+
+A reduced [[Game Boy Color]] port was also produced. It is the only ''Grand Theft Auto'' game to have a "T" rating for a PlayStation console, it is also the only numbered sequel to have a digit in the title instead of a [[Roman numerals|Roman numeral]].  . 
+
+=== ''Grand Theft Auto III'' ===. 
+{{Main|Grand Theft Auto III|Grand Theft Auto: Vice City|Grand Theft Auto: San Andreas|Grand Theft Auto Advance|Grand Theft Auto: Liberty City Stories|Grand Theft Auto: Vice City Stories}}
+''[[Grand Theft Auto III]]'' was released in October 2001, and served as the breakthrough for the franchise. <ref>{{cite web|last=Moses |first=Travis |url=http://www.gamepro.com/article/previews/158028/grand-theft-auto-iv/ |title=Preview : Grand Theft Auto IV |publisher=Gamepro.com |date=2008-01-23 |accessdate=2009-07-21 |archiveurl=http://www.webcitation.org/5iR0mA6z8 |archivedate=2009-07-21}}</ref> The game's setting takes place around that time,<ref name="GTA%20III%20timeline">According to the final entry of the [http://www.rockstargames.com/libertytree/index.html official ''Liberty Tree'' "online newspaper"], ''Grand Theft Auto III'' is implied to be set around the first release of ''GTA III'', specifically, October 2001. </ref> in fictional [[Liberty City (Grand Theft Auto)|Liberty City]], which is loosely based on [[New York City]], but also incorporates elements of other American cities. <ref>{{cite web | title = GTA IV: Building a Brave New World | work = uk.xbox360.ign.com | url = http://uk.xbox360.ign.com/articles/863/863028p1.html | date = 2008-03-28 | accessdate = 2008-04-23}}</ref> ''Grand Theft Auto III'' brought a [[Third-person shooter|third-person view]] to the series, rather than the traditional top-down view of earlier titles (although the view is still made available as an optional camera angle). For the first time, the problem of navigating in the huge [[sandbox game]] was solved by implementing a constant [[Global Positioning System|GPS]] triggered [[mini-map]] that highlights the player's position as well as those of current targets. Graphics were also updated with a new 3D [[game engine]]. The gameplay engine expanded the explorable world of ''GTA III'', using a mission-based approach. Multiplayer was discarded (third party [[Mod (computer gaming)|mods]] were later released, allowing for multiplayer gameplay), but ''GTA III'' improved in many other areas such as voice-acting and plot (in previous games, there was speech only in short animated cut scenes between levels, while other communication was simply subtitles running on the bottom of the screen).  . 
+
+On 13 October 2011, Rockstar announced the release of Grand Theft Auto III on iPad, iPhone 4S and various other handheld consoles, celebrating the 10th year of the game's release. <ref>{{cite web|last=Q|first=R*|title=Announcing Grand Theft Auto III: 10th Anniversary Edition for Select Mobile Devices & the Limited Edition Claude Action Figure|url=http://www.rockstargames.com/newswire/article/19201/announcing-grand-theft-auto-iii-10th-anniversary-edition-for-sel.html}}</ref> . 
+
+After the success of ''Grand Theft Auto III'', ''[[Grand Theft Auto: Vice City]]'' was released in 2002. This game was set in 1986 in [[Vice City]], which was based on [[Miami|Miami, Florida]]. The game's plot focuses on the [[cocaine]] trade during the 1980s. ''Vice City'' was the first game to introduce fully functional flying vehicles that could be used by the player, such as seaplanes and helicopters. It also featured a variety of new weapons and vehicles.  . 
+
+''[[Grand Theft Auto: San Andreas]]'', released in October 2004, is set in 1992, focusing on California gang life and the awakening of the drug epidemic brought on by [[crack cocaine]]. The setting was in the fictional state of [[San Andreas (Grand Theft Auto)|San Andreas]], which was based on some [[California]] and [[Nevada]] cities, specifically [[Los Angeles]], [[San Francisco]], and [[Las Vegas, Nevada|Las Vegas]]. Their counterparts are [[Los Santos, San Andreas|Los Santos]], [[San Fierro, San Andreas|San Fierro]], and [[Las Venturas, San Andreas|Las Venturas]] respectively. The game also included a countryside in between Los Santos and San Fierro and also between Los Santos and Las Venturas, and a desert in between Las Venturas and San Fierro.  . 
+
+''[[Grand Theft Auto Advance]]'' (simply called ''Grand Theft Auto'' in the cover), for the [[Game Boy Advance]], was also released in 2004. Originally developed as a top-down conversion of ''GTA III'', it eventually became an original game. Unlike the Game Boy Color ports of ''Grand Theft Auto'' and ''Grand Theft Auto 2'', ''Grand Theft Auto'' did not tone down the violence and profanity common to the ''GTA'' series. The game received an "M" rating from the ESRB. It was developed by an external developer, [[Digital Eclipse]].  . 
+
+In 2005 and 2006, Rockstar released two games for the [[PlayStation Portable]], both developed by [[Rockstar Leeds]]. ''[[Grand Theft Auto: Liberty City Stories]]'' is a prequel to ''Grand Theft Auto III'' and set in Liberty City in 1998. A PlayStation 2 port was released by Rockstar on 6 June 2006.  . 
+
+''[[Grand Theft Auto: Vice City Stories]]'' was released for the [[PlayStation Portable]] on 31 October 2006 and set in Vice City in 1984, two years before the events of ''Grand Theft Auto: Vice City''. A PlayStation 2 port of the game was released on 6 March 2007. It is the last game of the third generation series, and the final game in the ''Grand Theft Auto III'' canon.  . 
+
+In in-game chronological order the third generation ''Grand Theft Auto'' games are: . 
+
+* ''[[Grand Theft Auto: Vice City Stories]]''; set in 1984, released in 2006
+* ''[[Grand Theft Auto: Vice City]]''; set in 1986, released in 2002
+* ''[[Grand Theft Auto: San Andreas]]''; set in 1992, released in 2004
+* ''[[Grand Theft Auto: Liberty City Stories]]''; set in 1998, released in 2005
+* ''[[Grand Theft Auto (Game Boy Advance)]]''; set in 2000, released in 2004
+* ''[[Grand Theft Auto III]]''; set and released in 2001 . 
+
+=== ''Grand Theft Auto IV'' ===. 
+{{Main|Grand Theft Auto IV|Grand Theft Auto: The Lost and Damned|Grand Theft Auto: The Ballad of Gay Tony|Grand Theft Auto: Chinatown Wars}}
+''[[Grand Theft Auto IV]]'' was released on 29 April 2008, after a six month delay. <ref>{{cite web| last =McWhertor| first =Michael| title =Take-Two Execs Explain GTA IV Delay| work =| publisher =kotaku.com| date =2 August 2007| url =http://kotaku.com/gaming/take_two-interactive/take+two-execs-explain-gta-iv-delay-285526.php| accessdate =2007-08-02}}</ref> It was the first ''Grand Theft Auto'' game to be released simultaneously for both Sony and Microsoft's video game consoles. In August 2008, Rockstar announced that it was going to publish ''GTA IV'' for PC. ''GTA IV'''s [[game engine]] is the [[Rockstar Advanced Game Engine]] (RAGE) used in ''[[Rockstar Games Presents Table Tennis]]'' and the Euphoria physics engine.  . 
+
+''Grand Theft Auto IV'' has much more realistic gameplay than its predecessors, no characters from previous games appear in ''GTA IV''; according to [[Dan Houser]] "virtually none of the [[Non-player character|characters]] from the previous games returned, as a lot of them are dead anyway."<ref name="OPSUKM">{{Cite document|title=GTA 4 UK Exclusive|author=Official PlayStation Magazine|publisher=Future Publishing|date=May 2007|postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref> The game once again takes place in a redesigned Liberty City that very closely resembles [[New York City]], much more than previous renditions. <ref>{{cite web | last = Totilo | first = Stephen | date = 2007-03-29 | url = http://www.mtv.com/news/articles/1555977/20070329/index.jhtml | title = 'GTA IV' Revealed: Game Returning To City That Made It Famous | publisher = MTV | accessdate = 2007-04-01}}</ref> . 
+
+[[Microsoft]] officially announced a "[[strategic alliance]]" with Rockstar Games over the rights to episodic content through their [[Xbox Live]] service at their [[X06 (Xbox show)|X06]] event. This content was released as ''[[Grand Theft Auto: The Lost and Damned]]'' on 17 February 2009, and it was available for download, exclusively for the Xbox 360, this was because of the substantial $50 million that Microsoft paid Rockstar to keep it exclusive. The strategic alliance was however timed and both DLC episodes and the compilation pack were released on 13 April 2010 on PS3 and PC. <ref name="GTAEpisodesPCPS3-R*">{{cite web|url=http://www.rockstargames.com/newswire/2010/01/29/2861/grand_theft_auto_episodes_from_liberty_city_coming_to_playstation_3_and_pc|title=Grand Theft Auto: Episodes from Liberty City Coming to PlayStation 3 and PC |date=January 29, 2010|publisher=Rockstar Games|accessdate=29 January 2010}}{{dead link|date=February 2011}}</ref> The expansion adds some new elements to the existing game and focuses on Johnny Klebitz, the vice president of "The Lost" motorcycle gang.  . 
+
+The second and last ''Grand Theft Auto IV'' downloadable content episode was called ''[[Grand Theft Auto: The Ballad of Gay Tony]]''<ref>{{cite web|url=http://www.rockstargames.com/theballadofgaytony |title=Grand Theft Auto: The Ballad of Gay Tony |publisher=RockstarGames.com |date=2009-05-26 |accessdate=2009-07-21}}</ref> and was released on 29 October 2009. ''Grand Theft Auto: Episodes from Liberty City'' is a compilation pack released for the Xbox 360 at the same time as ''The Ballad of Gay Tony''. It contains ''The Lost and Damned'' and ''The Ballad of Gay Tony'' on one disk and does not require an original copy of ''GTA IV''.  . 
+
+''Grand Theft Auto IV'' officially introduced online multiplayer to the series. In most games, a customisable character is used to play, and money earned in game is translated to levels, with more customisation available at higher levels. The game does not offer split screen or [[local area network]] (LAN) multiplayer modes on [[PlayStation 3]] or [[Xbox 360]], but there is LAN on the PC mode. Up to 16 (32 on PC) players can play together, doing a variety of games including Death Match, Cops 'n' Crooks, races, Deal Breaker, and Mafiya Work as well as team varieties of Death Match, and Mafiya Work to name just a few.  . 
+
+''Grand Theft Auto: Chinatown Wars'' is the first ''Grand Theft Auto'' game to be released on the [[Nintendo DS]], and was announced at the [[Electronic Entertainment Expo|E3]] Nintendo Press Conference on 15 July 2008. This game has several new features, such as touch screen mini-games. The game was released on 17 March 2009 in North America and 20 March 2009 to Australia and Europe. The game is rated 18+ by [[Pan European Game Information|PEGI]] and the [[British Board of Film Classification|BBFC]] (Europe, UK) and M by the [[Entertainment Software Rating Board|ESRB]] (North America). A PSP version was later announced on 22 June 2009<ref>{{cite web|author=Robert Purchese |url=http://www.eurogamer.net/articles/gta-chinatown-wars-for-psp |title=GTA: Chinatown Wars for PSP |publisher=Eurogamer.net |date=2009-06-22 |accessdate=2009-07-21}}</ref> and was released in North America on 20 October 2009. It was also released on the Apple iOS platform 18 January 2010.  . 
+
+In chronological order the fourth generation ''Grand Theft Auto'' games are in order:<ref>{{cite web|title=Grand Theft Auto Official Website |url=http://www.rockstargames.com/grandtheftauto/ |year=2000 |accessdate=2010-12-25}}</ref> . 
+
+* ''[[Grand Theft Auto IV]]''; set and released in 2008
+* ''[[Grand Theft Auto: The Lost and Damned]]''; set in 2008, released in 2009 for Xbox 360, in 2010 for PlayStation 3 and PC
+* ''[[Grand Theft Auto: The Ballad of Gay Tony]]''; set in 2008, released in 2009 for Xbox 360, in 2010 for PlayStation 3 and PC
+* ''[[Grand Theft Auto: Chinatown Wars]]''; set and released in 2009 . 
+
+=== ''Grand Theft Auto V'' ===. 
+{{Main|Grand Theft Auto V}}
+[[File:Grand Theft Auto V logo - transparent background.png|thumb|right|The logo for ''Grand Theft Auto V'' with the 'V' in the style of a bank note]]
+On 26 February 2011, five websites were discovered which seemed to indicate a new title in the ''Grand Theft Auto'' franchise. There have been several minor leaks of supposed ''GTA'' production including websites, casting calls featuring GTA characters,<ref>{{cite web|author=iGTA5.com |url=http://www.igta5.com/possible-gta-5-character-details-leaked |title=Possible GTA 5 Character Details Leaked |date=2011-03-29}}</ref> and an IGN editor who has said the next game will be released in 2012. <ref>{{cite web|author=Robert Purchese |url=http://www.eurogamer.net/articles/2011-02-28-grand-theft-auto-v-leak-a-typo |title=Grand Theft Auto V leak a "typo" News - Page 1 |publisher=Eurogamer.net |date=2011-02-28 |accessdate=2011-03-16}}</ref> . 
+
+On 25 October 2011, Rockstar changed their homepage to display the logo for ''Grand Theft Auto V'' with the 'V' styled like a bank note. <ref name="VLogo">{{cite web |url=http://www.eurogamer.net/articles/2011-10-25-rockstar-announces-grand-theft-auto-5 |title=Rockstar announces Grand Theft Auto 5 |date=October 25, 2011 |first=Tom |last=Phillips |publisher=Eurogamer Network |work=[[Eurogamer]] |accessdate=25 October 2011}}</ref> A message was printed below the logo stating that a trailer would be released on 2 November 2011. <ref>{{cite web |url=http://www.videogamer.com/xbox360/gta5/news/grand_theft_auto_v_confirmed.html# |title=Grand Theft Auto V confirmed |date=25 October 2011 |first=James |last=Orry |publisher=videogamer.com |accessdate=25 October 2011}}</ref> . 
+
+On 2 November 2011, Rockstar released a debut trailer for ''GTA V''. Giving fans a first look at the upcoming title, the trailer revealed the setting to be Los Santos, the fictional version of Los Angeles and its California surroundings, including Hollywood ("Vinewood") and rural hills and valleys. Additional features revealed in the trailer included golf, planes, jet skis, a working gym, and police chases, making it look like a spiritual successor to 2004's GTA: San Andreas. The song used in the trailer is "Ogdens' Nut Gone Flake" by the British band the [[Small Faces]]. <ref>{{cite web |url= http://www.computerandvideogames.com/324757/gta-5-goes-to-san-andreas-official/ |title=GTA 5 goes to San Andreas - OFFICIAL|date=2 November 2011 |publisher=computerandvideogames.com }}</ref><ref>{{cite web |url= http://www.vg247.com/2011/10/25/rumour-gta-v-to-feature-multiple-protagonists-set-in-la/# |title=GTA V to feature multiple protagonists, set in LA |date=2 November 2011 |publisher=vg247.com }}</ref> . 
+
+On 3 November 2011, Rockstar Games announced that ''Grand Theft Auto V'' was in full development and that it would take place within Los Santos and its "surrounding hills, countryside and beaches", and that it would be "the largest and the most ambitious game Rockstar has yet created". Rockstar parent Take-Two calls ''GTA V'' "a bold new direction in open-world freedom, storytelling, mission-based gameplay and online multiplayer," while confirming that its story will focus on "the pursuit of the almighty dollar in a re-imagined, present-day Southern California." . 
+
+=== ''Future'' ===. 
+ESRB has rated GTA 3 and VC for Playstation 3. It is unknown if they will be HD ports or PS2 classics. <ref>http://www.tgdaily.com/games-and-entertainment-brief/60959-gta-3-and-gta-vice-city-planned-for-ps3</ref> . 
+
+== Controversy ==. 
+Former lawyer [[Jack Thompson (activist)|Jack Thompson]] has been involved in a number of attempts to get families of murder victims to hold the ''Grand Theft Auto'' series accountable for the death of their loved ones. Due to his conduct in this and related cases, Thompson was [[disbarred]] in 2008<ref>[http://www.gamepolitics.com/2008/09/25/disbarred "Disbarred!"], GamePolitics.com, 25 September 2008</ref> and was fined more than $100,000 by the [[Florida Bar]] Association. <ref>[http://www.gamepolitics.com/2008/07/09/we-have-judge039s-report-recommending-permanent-disbarment-jack-thompson "Judge's report recommending Permanent disbarment for Jack Thompson"], Gamepolitics.com, 9 July 2008</ref> . 
+
+On 20 October 2003, the families of Aaron Hamel and Kimberly Bede, two young people shot by teens William and Josh Buckner (who in statements to investigators claimed their actions were inspired by ''GTA III'') filed a US$246 million lawsuit against publishers [[Rockstar Games]], [[Take-Two Interactive]] Software, retailer [[Wal-Mart]], and PlayStation 2 manufacturer [[Sony Computer Entertainment|Sony Computer Entertainment America]]. <ref name="bucknertrial_a1">{{cite news | url = http://www.cnn.com/2003/LAW/10/22/videogame.lawsuit.ap/index.html | title= Lawsuit filed against Sony, Wal-Mart over game linked to shootings | work = CNN | accessdate= 6 May 2006|archiveurl = http://web.archive.org/web/20060503074048/http://www.cnn.com/2003/LAW/10/22/videogame.lawsuit.ap/index.html |archivedate = May 3, 2006|deadurl=yes}}</ref><ref name="bucknertrial_a2">{{cite web | url = http://www.gamespot.com/ps2/adventure/grandtheftauto3/news_6077161.html | title= Families sue over ''GTAIII''-inspired shooting | work = GameSpot |accessdate= 6 May 2006}}</ref> Rockstar and its parent company, Take-Two, filed for dismissal of the lawsuit, stating in [[United States district court|U.S. District Court]] on 29 October 2003 that the "ideas and concepts as well as the 'purported psychological effects' on the Buckners are protected by the [[First Amendment to the United States Constitution|First Amendment's]] free-speech clause". The lawyer of the victims, Jack Thompson, denied that, but failed in his attempt to move the lawsuit into a state court and under [[Tennessee]]'s consumer protection act. <ref name="bucknertrial_b">{{cite web | url = http://www.gamespot.com/ps2/action/grandtheftauto3/news_6081737.html | title= Rockstar seeks to dismiss ''GTAIII'' lawsuit | work = GameSpot | accessdate= 6 May 2006}}</ref> Two days later, the plaintiffs filed a Notice of Voluntary Dismissal, and the case was closed.  . 
+
+In February 2005, a [[lawsuit]] was brought upon the makers and distributors of the ''Grand Theft Auto'' series claiming the games caused a teenager to shoot and kill three members of the [[Alabama]] police force. The shooting took place in June 2003 when [[Devin Moore (murderer)|Devin Moore]], 17 years old at the time, was taken in for questioning by police in [[Fayette, Alabama]] regarding a stolen vehicle. Moore then grabbed a pistol from one of the police officers and shot and killed him along with another officer and dispatcher before fleeing in a police car. <ref name = "Devin Moore">{{cite news | archiveurl = http://web.archive.org/web/20050307095559/http://abcnews.go.com/US/wireStory?id=502424 |url=http://abcnews.go.com/US/wireStory?id=502424 |archivedate=2005-03-07 | title = Suit: Video Game Sparked Police Shootings | work = ABC News | date = 2005-03-07}}</ref><ref name = "Devin Moore2">{{cite web | url = http://www.gamespot.com/pc/action/grandtheftautovicecity/news.html?sid=6118699 | title = ''Grand Theft Auto'' sparks another lawsuit | work = GameSpot | accessdate = 18 August 2006 }}</ref> One of Moore's attorneys, Jack Thompson, claimed it was ''GTA''{{'}}s graphic nature—with his constant playing time—that caused Moore to commit the murders, and Moore's family agrees. Damages are being sought from branches of [[GameStop]] and [[Wal-Mart]] in [[Jasper, Alabama]], the stores from which ''GTA III'' and ''Grand Theft Auto: Vice City'', respectively, were purchased and also from the games' publisher [[Take-Two Interactive]], and the [[PlayStation 2]] manufacturer [[Sony Computer Entertainment]]. On March 29, 2006 the case was dismissed and permission to appeal was denied. <ref name=dismissalUpheld>Reeves, Jay "[http://www.al.com/newsflash/regional/index.ssf?/base/news-20/1143662355218050.xml&storylist=alabamanews Court rejects appeal in Alabama suit blaming game for slayings]". ''Associated Press'', March 29, 2006. </ref> . 
+
+In May 2005, Thompson appeared via satellite on the ''[[Glenn Beck (TV program)|Glenn Beck]]'' program on [[CNN]]'s [[Headline News]]. Thompson mentioned Devin Moore and said regarding ''[[Grand Theft Auto III]]'' and ''[[Grand Theft Auto: Vice City]]'' "There's no doubt in my mind [...] that but for Devin Moore's training on this cop killing simulator, he would not have been able to kill three cops in [[Fayette, Alabama]] who are now dead and in the ground. We are suing [[Take-Two Interactive|Take-Two]], [[Sony]], [[Wal-Mart]], and [[GameStop]] for having trained Devin Moore to kill. He had no history of violence. No criminal record."<ref>[http://www.youtube.com/watch?v=ZqSCLrtioEI CNN Headline News - Grand Theft Morality Pt.2] [[YouTube]]. Retrieved 2008-05-07. </ref> . 
+
+In September 2006, Thompson brought another lawsuit, claiming that Cody Posey played the game obsessively before murdering his father Delbert Paul Posey, stepmother Tryone Schmid, and stepsister Marilea Schmid on a ranch in [[Albuquerque, New Mexico]]. The suit was filed on behalf of the victims' families. <ref name = "Cody Posey">{{cite web | url = http://www.abqtrib.com/news/2006/sep/25/video-game-maker-blamed-04-killing/ | title = Video-game maker blamed in '04 killing | work = The Albuquerque Tribune | accessdate = 27 September 2006 }}</ref> During the criminal trial, Posey's defense team argued he was abused by his father, and tormented by his stepmother. <ref name = "Posey Abuse">{{cite web | url = http://gamepolitics.com/2006/09/25/jack-thompson-lawsuit-to-be-filed-in-albuquerque/ | title = Jack Thompson Lawsuit to be Filed in Albuquerque | work = Game Politics.com | date=2006-09-25 | accessdate = 2007-07-11|archiveurl = http://web.archive.org/web/20071011151427/http://gamepolitics.com/2006/09/25/jack-thompson-lawsuit-to-be-filed-in-albuquerque/ |archivedate = October 11, 2007|deadurl=yes}}</ref> Posey was also taking [[Sertraline|Zoloft]] at the time of the killings. <ref name = "Cody Posey2a">{{cite web | url = http://www.courttv.com/talk/chat_transcripts/2006/0208posey-ockenfels.html | archiveurl = http://web.archive.org/web/20080502183241/http://www.courttv.com/talk/chat_transcripts/2006/0208posey-ockenfels.html | archivedate = 2008-05-02 | title = Vera Ockenfels, the Cody Posey defense team's mitigation specialist, discusses his conviction (transcript) (Feb. 8, 2006) | work = CourtTV | accessdate = 27 September 2006 }}</ref> The suit alleged that were it not for his obsessive playing of ''Grand Theft Auto: Vice City'', the murders would not have taken place. <ref name = "Cody Posey3">{{cite web | url = http://www.abqjournal.com/abqnews/index.php?option=com_content&task=view&id=1526&Itemid=2 | title = Antigame Crusader in ABQ | work = ABQnewsSeeker | accessdate = 27 September 2006 }}</ref> Named in the suit were Cody Posey, Rockstar Games, Take-Two Interactive, and Sony. The suit asked for US$600 million in damages. <ref name = "Suit Damage">{{cite web | url = http://www.joystiq.com/2006/09/27/jack-thompson-becomes-boring/ | title = Jack Thompson becomes boring | work = Joystiq | date=2006-09-27 |accessdate = 2007-07-11}}</ref> . 
+
+In 2009, a six-year-old boy, who claimed he had learned to drive from the game, took his family's car on a 10-mile trip before he crashed. <ref>{{cite news |title=Boy, 6, Misses Bus, Takes Mom's Car Instead |date=2009-01-07 |newspaper=The Washington Post |url=http://www.washingtonpost.com/wp-dyn/content/article/2009/01/06/AR2009010601195.html?hpid=topnews |accessdate=2009-01-07 | first=Tom | last=Jackman}}</ref> . 
+
+According to ''The Guinness World Records'' 2008 and 2009 Gamer's Edition, it is the most controversial video game series in history, with over 4,000 articles published about it, which include accusations of [[glamour (presentation)|glamorising]] violence, corrupting gamers, and connection to real life crimes. <ref name="guiness 2009">{{cite book | title = Guinness World Records 2009 Gamer's Edition | editor = [[Guinness World Records]] | pages = 108–109 | isbn = 1904994459 }}</ref> . 
+
+=== ''Grand Theft Auto'' ===. 
+The game was controversial from the very first incarnation of the series, in spite of its cartoonish graphics. <ref name="dock" /> ''[[Grand Theft Auto (video game)|Grand Theft Auto]]'' was condemned in Britain, Germany, and France due to its "extreme violence",<ref name="autogenerated1">{{cite web|author=ign|url=http://retro.ign.com/articles/863/863037p2|title=Ign presents the History of Grand Theft Auto}}</ref> and Brazil banned it outright. <ref name="autogenerated1"/> [[Publicist]] [[Max Clifford]] planted sensational stories in [[Tabloid (newspaper format)|tabloid]]s in order to help sell the first game. <ref name="dock">{{cite web|author=gamesindustry.biz |url=http://www.theregister.co.uk/2003/09/11/grand_theft_auto/ |title=Grand Theft Auto in the dock over JP road killing |publisher=''The Register'' |date=2003-09-11 |accessdate=2009-07-21}}</ref><ref>{{Cite web |title= Grand Theft Auto IV Joyride |date= 27 April 2008 |author= Peter Ross |work= [[Scotland on Sunday]] |url= http://scotlandonsunday.scotsman.com/comment/Grand-Theft-Auto-IV-Joyride.4024414.jp |postscript= <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref><ref name="gibson">{{Cite web |title= The history of Grand Theft Auto |author= Sam Gibson |publisher= Play.tm |date= 29 October 2004 |url= http://www.play.tm/article/4676/the-history-of-grand-theft-auto/ |postscript= <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref> . 
+
+=== ''Grand Theft Auto III'': general violence and crime ===. 
+{{Main|Grand Theft Auto III#Controversy}} . 
+
+The controversies flared up again with ''[[Grand Theft Auto III]]'', since the 3D graphics made the violence more realistic, and the player could pay the services of prostitutes to recover their health before killing them. <ref name="gibson" /> . 
+
+There is also criticism from the focus on illegal activities in comparison with traditional "heroic" roles that other games offer. The main character can commit a wide variety of crimes and violent acts while dealing with only temporary consequences, including the killing of policemen and military personnel.  . 
+
+=== ''Grand Theft Auto: Vice City'': alleged ethnic discrimination ===. 
+{{Main|Grand Theft Auto: Vice City#Controversy}} . 
+
+The sixth game in the series, ''[[Grand Theft Auto: Vice City]]'', also came under criticism. One mission in particular, in which the player must instigate a [[Gang|gang war]] between Haitian and Cuban gangs, has been controversial. Haitian and Cuban anti-defamation groups criticised the game.Platform PlayStation 2, Microsoft Windows, Xbox, Mac OS X and PSP.  . 
+
+Jean-Robert Lafortune of the Haitian American Grassroots Coalition is quoted as saying that "The game shouldn't be designed to destroy human life, it shouldn't be designed to destroy an ethnic group," for this and similar scenarios, including lines in the game's script such as "kill the Haitian dickheads" said by character "Diaz" during an altercation between the player and a Haitian gang. After the threat of a lawsuit by the Haitian-American Grassroots Coalition, Rockstar removed the word "Haitians" from this phrase in the game's subtitles. <ref name = "CubanHaitian4">{{cite web | url = http://uk.gamespot.com/ps2/action/grandtheftautovicecity/news.html?sid=6085346# | title = Take-Two self-censoring Vice City | work = GameSpot | accessdate = 2008-05-02}}</ref><!-- <ref name = "Thai cabbie killed in Grand Theft Auto copycat murder">{{cite web | url = http://www.abc.net.au/news/stories/2008/08/04/2323766.htm | title = Thai cabbie killed in Grand Theft Auto copycat murder | work = www.abc.net.au | accessdate = 2008-08-04}}</ref> --> . 
+
+=== ''Grand Theft Auto: San Andreas'': sex minigame ===. 
+{{Main|Hot Coffee minigame controversy}} . 
+
+''San Andreas'' was criticised initially due to its "gangster" elements, which include drugs, prostitution, and murder; but later due to the discovery of disabled interactive sex scenes, nicknamed Hot Coffee, which was a sexual [[minigame]] that was cut from the game, but remained in the game code, which was discovered in both the console and [[Microsoft Windows|Windows]] versions of the game. Dubbed the "[[Hot Coffee mod]]", the minigame allowed players to have sex with their in-game girlfriends and also record sextapes.  . 
+
+After the release of ''[[Grand Theft Auto: San Andreas]]'', [[Mod (video gaming)|modders]] managed to find the unused code in the game and released unofficial patches for the [[Microsoft Windows|Windows]] and [[Xbox]] (with a [[modchip]]) [[porting|versions]] and [[PlayStation 2]] version with the use of an [[Action Replay]] code enabling the player to engage in these sexual mini-games (dubbed "Hot Coffee" in reference to a euphemism for sex used in the game). These mini-games were left partially intact in the game's code. This prompted application of an AO (Adults Only) [[Entertainment Software Rating Board|ESRB]] rating to the version of the game containing the leftover code. Take-Two Interactive was forced to re-release the game in order to restore the M (Mature) rating. A class action lawsuit against Take-Two was also filed as a result of the "Hot Coffee" code. <ref>{{cite web | url = http://ps2.ign.com/articles/834/834150p1.html | title = IGN: Hot Coffee Lawsuit Finally Mopped Up | work = IGN | accessdate = 2008-05-02}}</ref><ref>{{cite web | url = http://www.gamasutra.com/php-bin/news_index.php?story=16182 | title = Take-Two Announces 'Hot Coffee' Lawsuit Settlements | work = Gamasutra | accessdate = 2008-05-02}}</ref> . 
+
+=== ''Grand Theft Auto IV'': drunk driving ===. 
+{{Main|Grand Theft Auto IV controversies}}
+One of the controversies involved with this game was [[Mothers Against Drunk Driving]]'s (MADD) criticism of the ability to [[Driving under the influence|drink and drive]] as a new feature. MADD had even requested [[Entertainment Software Rating Board|ESRB]] to change the rating of the game from "M" for ages seventeen and up to "AO", for adults only, because they felt it was inappropriate for children, even at the age of seventeen, to experience drunk driving in such a manner. <ref>{{cite web|url=http://www.gamespot.com/news/6190213.html?action=convert&om_clk=latestnews&tag=latestnews;title;3|title=Mothers against GTAIV's drunk driving|last=Sinclair|first=Brendan |date=2008-04-30|publisher=[[GameSpot]]|accessdate=2008-10-13}}</ref> In the final game, drunk driving is a playable event, but it is a crime that automatically generates a wanted rating and protagonist [[Niko Bellic]] loudly (and drunkenly) proclaims that it is a "bad idea" and that he "should know better". <ref>''Grand Theft Auto IV'', Xbox 360/PlayStation 3 release. </ref> . 
+
+=== ''The Lost and Damned'': full-frontal nudity ===. 
+''[[Grand Theft Auto IV: The Lost and Damned|The Lost and Damned]]'' expansion pack was condemned by U.S. parents group Common Sense Media who issued a public warning against the pack's content due to a full-frontal [[nudity]] scene during one of the cut scenes. They claimed the game was "more controversial than its predecessors" because it featured "full frontal male nudity". <ref>"[http://blog.wired.com/games/2009/02/parents-group-w.html Parents Group Warns Against Lost And Damned Nudity]", Wired.com, February 21, 2009</ref> . 
+
+=== ''Chinatown Wars'': drug dealing minigame ===. 
+There has been some controversy over a drug dealing minigame <ref>{{cite web|author=Mark Langshaw |url=http://www.digitalspy.com/gaming/feature/a315957/feature-video game-controversy.html |title=Feature: Video Game Controversy |publisher=Digital Spy |date=2011-04-24 |accessdate=2011-08-20}}</ref> along with comments that some Nintendo games are being aimed at children (despite the fact that the game was rated Mature). The drug dealing mini-game allows players to peddle six types of drugs around the city, but the profit the player makes depends on market conditions, which will be based on the area in which they deal, and the level of regular service this area receives from them. <ref>{{cite web|author=L.B. Jeffries |url=http://www.escapistmagazine.com/forums/read/7.72422-GTA-Chinatown-Wars-Features-Drug-Dealing-Minigame |title=GTA: Chinatown Wars Features Drug-Dealing Minigame |publisher=Escapistmagazine.com |date= |accessdate=2011-08-20}}</ref><ref>{{cite web|url=http://www.infendo.com/rockstar-nintendo-wanted-a-bad-ass-gta-title/ |title=Rockstar: Nintendo wanted a bad ass GTA title |publisher=Infendo.com |date=2008-09-24 |accessdate=2011-08-20}}</ref> . 
+
+{{cquote|Nintendo wanted us to make ''GTA'', and we wanted to make a game on their platform. They didn't want us to make a ''GTA'' for kids, and we weren't interested in making a game we wouldn't normally make. |author=Dan Houser<ref>{{cite web|url=http://www.maxconsole.net/content.php?32013-rockstar-nintendo-didnt-want-us-to-make-gta-for-kids&nocache=1&langid=2 |title=Rockstar: Nintendo didn't want us to make GTA for kids |publisher=MaxConsole |date=2008-09-25 |accessdate=2011-08-20}}</ref>}} . 
+
+== Reception ==. 
+{{VG Series Reviews
+|updated = March 26, 2011
+|game1 = [[Grand Theft Auto (video game)|Grand Theft Auto]]
+|gr1 = (PC) 78.50%<ref>{{cite web |url=http://www.gamerankings.com/pc/197476-grand-theft-auto/index.html |title=''Grand Theft Auto'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS1) 68.33%<ref>{{cite web |url=http://www.gamerankings.com/ps/197477-grand-theft-auto/index.html |title=''Grand Theft Auto'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(GBC) 57.33%<ref>{{cite web |url=http://www.gamerankings.com/gbc/576069-grand-theft-auto/index.html |title=''Grand Theft Auto'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc1 = –
+|game2 = [[Grand Theft Auto: London, 1969|London, 1969]]
+|gr2 = (PC) 75.44%<ref>{{cite web |url=http://www.gamerankings.com/pc/197482-grand-theft-auto-mission-pack-1-london-1969/index.html |title=''Grand Theft Auto: Mission Pack #1: London 1969'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS1) 69.00%<ref>{{cite web |url=http://www.gamerankings.com/ps/197481-grand-theft-auto-london-1969/index.html |title=''Grand Theft Auto: London, 1969'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc2 = –
+|game3 = [[Grand Theft Auto 2]]
+|gr3 = (PC) 71.50%<ref>{{cite web |url=http://www.gamerankings.com/pc/197478-grand-theft-auto-2/index.html |title=''Grand Theft Auto 2'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(DC) 70.80%<ref>{{cite web |url=http://www.gamerankings.com/dreamcast/197479-grand-theft-auto-2/index.html |title=''Grand Theft Auto 2'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS1) 69.92%<ref>{{cite web |url=http://www.gamerankings.com/ps/185853-grand-theft-auto-2/index.html |title=''Grand Theft Auto 2'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(GBC) 35.00%<ref>{{cite web |url=http://www.gamerankings.com/gbc/562989-grand-theft-auto-2/index.html |title=''Grand Theft Auto 2'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc3 = (PS1) 70<ref>{{cite web |url=http://www.metacritic.com/game/playstation/grand-theft-auto-2 |title=''Grand Theft Auto 2'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game4 = [[Grand Theft Auto III]]
+|gr4 = (PS2) 95.29%<ref>{{cite web |url=http://www.gamerankings.com/ps2/466217-grand-theft-auto-iii/index.html |title=''Grand Theft Auto III'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PC) 93.54%<ref>{{cite web |url=http://www.gamerankings.com/pc/548931-grand-theft-auto-iii/index.html |title=''Grand Theft Auto III'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc4 = (PS2) 97<ref>{{cite web |url=http://www.metacritic.com/game/playstation-2/grand-theft-auto-iii |title=''Grand Theft Auto III'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PC) 93<ref>{{cite web |url=http://www.metacritic.com/game/pc/grand-theft-auto-iii |title=''Grand Theft Auto III'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game5 = [[Grand Theft Auto: Vice City|Vice City]]
+|gr5 = (PS2) 94.44%<ref>{{cite web |url=http://www.gamerankings.com/ps2/561545-grand-theft-auto-vice-city/index.html |title=''Grand Theft Auto: Vice City'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PC) 94.34%<ref>{{cite web |url=http://www.gamerankings.com/pc/561641-grand-theft-auto-vice-city/index.html |title=''Grand Theft Auto: Vice City'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc5 = (PS2) 95<ref>{{cite web |url=http://www.metacritic.com/game/playstation-2/grand-theft-auto-vice-city |title=''Grand Theft Auto: Vice City'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PC) 94<ref>{{cite web |url=http://www.metacritic.com/game/pc/grand-theft-auto-vice-city |title=''Grand Theft Auto: Vice City'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game6 = [[Grand Theft Auto Advance|Advance]]
+|gr6 = (GBA) 70.94%<ref>{{cite web |url=http://www.gamerankings.com/gba/919434-grand-theft-auto/index.html |title=''Grand Theft Auto'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc6 = (GBA) 68<ref>{{cite web |url=http://www.metacritic.com/game/game-boy-advance/grand-theft-auto |title=''Grand Theft Auto'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game7 = [[Grand Theft Auto: San Andreas|San Andreas]]
+|gr7 = (PS2) 95.03%<ref>{{cite web |url=http://www.gamerankings.com/ps2/914983-grand-theft-auto-san-andreas/index.html |title=''Grand Theft Auto: San Andreas'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(Xbox) 92.17%<ref>{{cite web |url=http://www.gamerankings.com/xbox/925634-grand-theft-auto-san-andreas/index.html |title=''Grand Theft Auto: San Andreas'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PC) 91.94%<ref>{{cite web |url=http://www.gamerankings.com/pc/924362-grand-theft-auto-san-andreas/index.html |title=''Grand Theft Auto: San Andreas'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc7 = (PS2) 95<ref>{{cite web |url=http://www.metacritic.com/game/playstation-2/grand-theft-auto-san-andreas |title=''Grand Theft Auto: San Andreas'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(Xbox) 93<ref>{{cite web |url=http://www.metacritic.com/game/xbox/grand-theft-auto-san-andreas |title=''Grand Theft Auto: San Andreas'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PC) 93<ref>{{cite web |url=http://www.metacritic.com/game/pc/grand-theft-auto-san-andreas |title=''Grand Theft Auto: San Andreas'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game8 = [[Grand Theft Auto: Liberty City Stories|Liberty City Stories]]
+|gr8 = (PSP) 87.54%<ref>{{cite web |url=http://www.gamerankings.com/psp/925776-grand-theft-auto-liberty-city-stories/index.html |title=''Grand Theft Auto: Liberty City Stories'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS2) 78.03%<ref>{{cite web |url=http://www.gamerankings.com/ps2/931275-grand-theft-auto-liberty-city-stories/index.html |title=''Grand Theft Auto: Liberty City Stories'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc8 = (PSP) 88<ref>{{cite web |url=http://www.metacritic.com/game/psp/grand-theft-auto-liberty-city-stories |title=''Grand Theft Auto: Liberty City Stories'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS2) 78<ref>{{cite web |url=http://www.metacritic.com/game/playstation-2/grand-theft-auto-liberty-city-stories |title=''Grand Theft Auto: Liberty City Stories'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game9 = [[Grand Theft Auto: Vice City Stories|Vice City Stories]]
+|gr9 = (PSP) 85.10%<ref>{{cite web |url=http://www.gamerankings.com/psp/933097-grand-theft-auto-vice-city-stories/index.html |title=''Grand Theft Auto: Vice City Stories'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS2) 76.37%<ref>{{cite web |url=http://www.gamerankings.com/ps2/938211-grand-theft-auto-vice-city-stories/index.html |title=''Grand Theft Auto: Vice City Stories'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc9 = (PSP) 86<ref>{{cite web |url=http://www.metacritic.com/game/psp/grand-theft-auto-vice-city-stories |title=''Grand Theft Auto: Vice City Stories'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS2) 75<ref>{{cite web |url=http://www.metacritic.com/game/playstation-2/grand-theft-auto-vice-city-stories |title=''Grand Theft Auto: Vice City Stories'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game10 = [[Grand Theft Auto IV]]
+|gr10 = (PS3) 97.01%<ref>{{cite web |url=http://www.gamerankings.com/ps3/933036-grand-theft-auto-iv/index.html |title=''Grand Theft Auto IV'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(X360) 96.17%<ref>{{cite web |url=http://www.gamerankings.com/xbox360/933037-grand-theft-auto-iv/index.html |title=''Grand Theft Auto IV'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PC) 88.48%<ref>{{cite web |url=http://www.gamerankings.com/pc/952150-grand-theft-auto-iv/index.html |title=''Grand Theft Auto IV'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc10 = (PS3) 98<ref>{{cite web |url=http://www.metacritic.com/game/playstation-3/grand-theft-auto-iv |title=''Grand Theft Auto IV'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(X360) 98<ref>{{cite web |url=http://www.metacritic.com/game/xbox-360/grand-theft-auto-iv |title=''Grand Theft Auto IV'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PC) 90<ref>{{cite web |url=http://www.metacritic.com/game/pc/grand-theft-auto-iv |title=''Grand Theft Auto IV'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game11 = [[Grand Theft Auto: The Lost and Damned|The Lost and Damned]]
+|gr11 = (PC) 94.00%<ref>{{cite web |url=http://www.gamerankings.com/pc/987736-grand-theft-auto-iv-the-lost-and-damned/index.html |title=''Grand Theft Auto IV: The Lost and Damned'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS3) 94.00%<ref>{{cite web |url=http://www.gamerankings.com/ps3/987733-grand-theft-auto-iv-the-lost-and-damned/index.html |title=''Grand Theft Auto IV: The Lost and Damned'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(X360) 89.62%<ref>{{cite web |url=http://www.gamerankings.com/xbox360/955085-grand-theft-auto-iv-the-lost-and-damned/index.html |title=''Grand Theft Auto IV: The Lost and Damned'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc11 = (X360) 90<ref>{{cite web |url=http://www.metacritic.com/game/xbox-360/grand-theft-auto-iv-the-lost-and-damned |title=''Grand Theft Auto IV: The Lost and Damned'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS3) 88<ref>{{cite web |url=http://www.metacritic.com/game/playstation-3/grand-theft-auto-iv-the-lost-and-damned |title=''Grand Theft Auto IV: The Lost and Damned'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game12 = [[Grand Theft Auto: Chinatown Wars|Chinatown Wars]]
+|gr12 = (NDS) 92.75%<ref>{{cite web |url=http://www.gamerankings.com/ds/950922-grand-theft-auto-chinatown-wars/index.html |title=''Grand Theft Auto: Chinatown Wars'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PSP) 90.39%<ref>{{cite web |url=http://www.gamerankings.com/psp/961725-grand-theft-auto-chinatown-wars/index.html |title=''Grand Theft Auto: Chinatown Wars'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc12 = (NDS) 93<ref>{{cite web |url=http://www.metacritic.com/game/ds/grand-theft-auto-chinatown-wars |title=''Grand Theft Auto: Chinatown Wars'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PSP) 90<ref>{{cite web |url=http://www.metacritic.com/game/psp/grand-theft-auto-chinatown-wars |title=''Grand Theft Auto: Chinatown Wars'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game13 = [[Grand Theft Auto: The Ballad of Gay Tony|The Ballad of Gay Tony]]
+|gr13 = (PC) 90.00%<ref>{{cite web |url=http://www.gamerankings.com/pc/987735-grand-theft-auto-iv-the-ballad-of-gay-tony/index.html |title=''Grand Theft Auto IV: The Ballad of Gay Tony'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS3) 90.00%<ref>{{cite web |url=http://www.gamerankings.com/ps3/987734-grand-theft-auto-iv-the-ballad-of-gay-tony/index.html |title=''Grand Theft Auto IV: The Ballad of Gay Tony'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(X360) 89.55%<ref>{{cite web |url=http://www.gamerankings.com/xbox360/960355-grand-theft-auto-iv-the-ballad-of-gay-tony/index.html |title=''Grand Theft Auto IV: The Ballad of Gay Tony'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc13 = (X360) 89<ref>{{cite web |url=http://www.metacritic.com/game/xbox-360/grand-theft-auto-iv-the-ballad-of-gay-tony |title=''Grand Theft Auto IV: The Ballad of Gay Tony'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS3) 87<ref>{{cite web |url=http://www.metacritic.com/game/playstation-3/grand-theft-auto-iv-the-ballad-of-gay-tony |title=''Grand Theft Auto IV: The Ballad of Gay Tony'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[Metacritic]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|game14 = [[Grand Theft Auto: Episodes from Liberty City|Episodes from Liberty City]]
+|gr14 = (X360) 91.41%<ref>{{cite web |url=http://www.gamerankings.com/xbox360/960356-grand-theft-auto-iv-episodes-from-liberty-city/index.html |title=''Grand Theft Auto IV: Episodes from Liberty City'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PS3) 89.16%<ref>{{cite web |url=http://www.gamerankings.com/ps3/987732-grand-theft-auto-iv-episodes-from-liberty-city/index.html |title=''Grand Theft Auto IV: Episodes from Liberty City'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref><br />(PC) 84.57%<ref>{{cite web |url=http://www.gamerankings.com/pc/987737-grand-theft-auto-iv-episodes-from-liberty-city/index.html |title=''Grand Theft Auto IV: Episodes from Liberty City'' Reviews |accessdate=2011-03-26 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |work= |publisher=[[GameRankings]] |location= |pages= |doi= |archiveurl= |archivedate= |quote=}}</ref>
+|mc14 = –
+}} . 
+
+Ever since 2001, the ''Grand Theft Auto'' series has been a major success, both critically and financially. It has generated perfect or near perfect reviews and scores on almost all of the games, and has sold over 114 million copies worldwide, {{as of|2011|9|lc=yes}}. <ref name="TakeTwo2011Sep" /> ''[[The Times|The Times Online]]'' reported that ''Grand Theft Auto IV'', the latest console instalment, recorded 609,000 copies in the UK on its first day of release. <ref>Sabbagh, Dan. [http://technology.timesonline.co.uk/tol/news/tech_and_web/gadgets_and_gaming/article3856081.ece "Grand Theft Auto IV records 609,000 first-day sales"], ''The Times'', 1 May 2008</ref> In its first week, ''Grand Theft Auto IV'' sold approximately 6 million copies worldwide and grossed over $500 million. <ref>{{cite web|url=http://www.reuters.com/article/hotStocksNews/idUSWNAS233520080507 |title=Take-Two's Grand Theft Auto 4 sales top $500 million |accessdate=2008-05-08 |author=Franklin Paul |date=2008-05-07 |publisher=Reuters}}</ref> . 
+
+The series has broken several records, resulting in Guinness World Records awarding the series 10 world records in the ''Gamer's Edition 2008''. These records include Most Guest Stars in a Video Game Series, Largest Voice Cast in a Video Game (''GTA: San Andreas''), Largest In-Game Soundtrack (''GTA: San Andreas''). It also held the title of Most Successful Entertainment Launch of All Time (''GTA IV''), but has since been eclipsed by the release of ''Call of Duty: Modern Warfare 2''. Guinness World Records also ranked ''Grand Theft Auto'' in third place on their list of top 50 console games of all time based on initial impact and lasting legacy. <ref name="guinness50">{{cite web | last = Ivan |  first = Tom | title = Guinness ranks top 50 games of all time | publisher = ''[[Computer and Video Games]]'' | date = 2009-02-28 | url = http://www.computerandvideogames.com/article.php?id=209385 | accessdate = 2009-03-14}}</ref> ''GTA: San Andreas'' is listed as the most successful game in the PlayStation 2 according to ''The Guinness World Records 2009 Gamer's Edition''.  . 
+
+=== Sales ===. 
+{{Refimprove section|date=June 2010}}
+{| class="wikitable" 
+|+
+. |-
+! Year
+! Game
+! Sales
+! Acquired label(s)
+. |- style="background:#ccc;"
+| style="text-align:center;" colspan="4"| First era
+. |-
+| style="text-align:center;"| 1997
+| ''[[Grand Theft Auto (video game)|Grand Theft Auto]]''
+| 1 million
+| style="background:#dfd;"| PS1 ''[[List of Sony Greatest Hits games|Greatest Hits]]'' / ''[[Platinum Range|Platinum]]''
+. |-
+| rowspan="2" style="text-align:center;"| 1999
+| ''[[Grand Theft Auto: London, 1969]]''
+|
+| style="background:#fdd;"|
+. |-
+| ''[[Grand Theft Auto: Mission packs#Grand Theft Auto: London, 1961|Grand Theft Auto: London, 1961]]''
+|
+| style="background:#fdd;"|
+. |-
+!colspan="6"|Total era sales = 1 million+
+. |- style="background:#ccc;"
+| style="text-align:center;" colspan="6"| Second era
+. |-
+| style="text-align:center;"| 1999
+| ''[[Grand Theft Auto 2]]''
+| 2 million
+| style="background:#dfd;"| PS1 ''Greatest Hits''
+. |-
+!colspan="6"| Total era sales = 2 million
+. |- style="background:#ccc;"
+| style="text-align:center;" colspan="6"| Third era
+. |-
+| style="text-align:center;"| 2001
+| ''[[Grand Theft Auto III]]''
+| 15 million
+| style="background:#dfd;"| PS2 ''Greatest Hits'' / ''Platinum''
+. |-
+| style="text-align:center;"| 2002
+| ''[[Grand Theft Auto: Vice City]]''
+| 17.5 million
+| style="background:#dfd;"| PS2 ''Greatest Hits'' / ''Platinum''
+. |-
+| rowspan="2" style="text-align:center;"| 2004
+| ''[[Grand Theft Auto Advance]]''
+| 100,000
+| style="background:#fdd;"|
+. |-
+| ''[[Grand Theft Auto: San Andreas]]''
+| 27.5 million<ref>http://kotaku.com/5840484/gta-iv-overtakes-san-andreas-in-lifetime-sales</ref>
+| style="background:#dfd;"| PS2 ''Greatest Hits'' / ''Platinum'', Xbox ''[[Platinum Hits]]''
+. |-
+| style="text-align:center;"| 2005
+| ''[[Grand Theft Auto: Liberty City Stories]]''
+| 10 million
+| style="background:#dfd;"| PSP ''Greatest Hits'' / ''Platinum'', PS2 ''Platinum''
+. |-
+| style="text-align:center;"| 2006
+| ''[[Grand Theft Auto: Vice City Stories]]''
+| 5 million
+| style="background:#dfd;"| PSP ''Greatest Hits'' / ''Platinum'', PS2 ''Platinum''
+. |-
+!colspan="6"| Total era sales = 75.1 million
+. |- style="background:#ccc;"
+| style="text-align:center;" colspan="6"| Fourth era
+. |-
+| style="text-align:center;"| 2008
+| ''[[Grand Theft Auto IV]]''
+| 22 million+<ref name="TakeTwo2011Sep" />
+| style="background:#dfd;"| PS3 ''Greatest Hits'' / ''Platinum'', Xbox 360 ''Platinum Hits''
+. |-
+| rowspan="4" style="text-align:center;"| 2009
+| ''[[Grand Theft Auto: The Lost and Damned]]''
+| 1 million+<ref>[http://www.next-gen.biz/news/analyst-lost-damned-may-sell-2m-year-end Analyst: Lost & Damned May Sell 2m by Year-End] by Kris Graft (March 6, 2009) Edge Magazine.com</ref>
+| style="background:#fdd;"|
+. |-
+| ''[[Grand Theft Auto: Chinatown Wars]]''
+| 200,000<ref>{{cite web|author=By thorsen-ink |url=http://www.gamespot.com/news/6207855.html |title=Only 200,000 ''Chinatown Wars'' sold in March? - GameSpot Rumor Control |publisher=GameSpot.com |date= |accessdate=2009-07-21}}</ref>
+| style="background:#fdd;"|
+. |-
+| ''[[Grand Theft Auto: The Ballad of Gay Tony]]''
+|
+| style="background:#fdd;"|
+. |-
+| ''[[Grand Theft Auto: Episodes from Liberty City]]''
+| 160,000+<ref>[http://www.gamespot.com/xbox360/action/grandtheftautoivthelostanddamned/news.html?sid=6242842 GTA: Episodes from Liberty City sells under 160K in Oct.-Nov.] by Tor Thorsen (Dec. 11, 2009)  GameSpot.com</ref>
+| style="background:#fdd;"|
+. |-
+!colspan="6"| Total era sales = 23.36 million+
+. |-
+!colspan="6"| Total ''Grand Theft Auto'' series sales = 130.1 million+
+|} . 
+
+== Similar games ==. 
+{{Refimprove section|date=March 2011|talk=Talk:Grand Theft Auto (series)#Further referencing for "Similar games"}}
+{{See also|Grand Theft Auto clone}}
+<!-- This is a BRIEF list. Please DO NOT add any more games to this section. Please add them to the main article (Grand Theft Auto Clone) -->
+Critics sometimes treat the release of ''[[Grand Theft Auto III]]'' as a revolutionary event in the [[history of video games]], much like the release of ''[[Doom (video game)|Doom]]'' nearly a [[decade]] earlier. <ref>[[Game Informer]] Issue 138 p.73</ref> Subsequent games that follow this formula of driving and shooting have been called ''Grand Theft Auto clones''. Some reviewers even extended this label to the [[Driver (series)|''Driver'' series]], even though this series began years before the release of ''Grand Theft Auto III''. <ref name="driverseries">{{cite web |url=http://www.gamespot.com/ps2/driving/driver4/review.html |title=Driver: Parallel Lines Review |publisher=GameSpot |author=Jeff Gerstmann |date=2006-03-14 |accessdate=2008-07-24}}</ref>
+''Grand Theft Auto'' clones are a type of [[3D computer graphics|3D]] [[action-adventure game]],<ref>Sources that refer to ''GTA''-style games as [[action-adventure game]]s include: <br />i. {{cite web |url=http://www.pcw.co.uk/personal-computer-world/software/2154224/godfather |title= Review: The Godfather 3D action game |author=Jonathan Parkyn |publisher=''Personal Computer World'' |date=2006-04-18 |accessdate=2008-07-25}}<br />ii. {{cite web |url=http://wham.canoe.ca/wii/2007/03/30/3871537-torsun.html |author=Steve Tilley |publisher=[[Canadian Online Explorer|CANOE]] |title=Wii 'Godfather' for newbies only |date=2007-04-01 |accessdate=2008-07-25}};<br /> iii. {{cite web |url=http://ps2.ign.com/articles/403/403367p1.html |title=E3 2003: True Crime: Streets of L.A. Update |author=Sam Bishop |date=2003-05-16 |publisher=IGN |accessdate=2008-07-25 }}<br /> iv. {{cite web |url=http://xbox360.gamespy.com/xbox-360/saints-row/729563p1.html |title=''GameSpy'' Review&nbsp;— Saints Row |publisher=GameSpy |author=Will Tuttle |date=2006-08-30 |accessdate=2008-07-25}}; <br /> v. {{cite web |url=http://www.gamepro.com/news.cfm?article_id=158948 |publisher=''GamePro'' |title=Just Cause 2 announced for Xbox 360, PS3, PC |author=Blake Snow |date=2008-01-30 |accessdate=2008-07-24|archiveurl=http://web.archive.org/web/20080201011432/http://www.gamepro.com/news.cfm?article_id=158948|archivedate=2008-02-01}}</ref> where players are given the ability to drive any vehicle or fire any weapon as they explore an [[open world]]. <ref name="crackdownqa">{{cite web |url=http://www.eurogamer.net/articles/crackdown-community-q-and-a-interview |title=Crackdown Community Q&A |publisher=''EuroGamer'' |date=2007-03-27 |accessdate=2008-07-25}}</ref> These games often incorporate violent and criminal themes. Notable games that are comparable to ''Grand Theft Auto'' are ''[[Saints Row]]'',<ref>Douglass C. Perry, [http://xbox360.ign.com/articles/728/728829p1.html Saints Row Review], ''[[Saints Row 2]]'' ''IGN'', 28 August 2006</ref> ''[[True Crime: Streets of LA]]'',<ref>[http://ps2.ign.com/articles/457/457538p4.html True Crime: Streets of LA], ''IGN'', 31 October 2003</ref><ref>{{cite web|url=http://www.gamerankings.com/htmlpages2/561383.asp?q=True%20Crime |title=Gameranking PS2 Average 77% |publisher=Gamerankings.com |date=2003-11-03 |accessdate=2011-03-16}}</ref> and ''[[Scarface: The World Is Yours]]''. <ref>Chris Roper, [http://xbox.ign.com/articles/737/737782p1.html ''Scarface: The World Is Yours'' Review], [[IGN]], 6 October 2006</ref>
+<!-- This is a BRIEF list. Please DO NOT add any more games to this section. Please add them to the main article (Grand Theft Auto Clone) --> . 
+
+== Notes and references ==. 
+{{Reflist|2}} . 
+
+== External links ==. 
+{{Wikipedia books|Grand Theft Auto series}}
+*[http://www.rockstargames.com/grandtheftauto/ Official website]
+*{{Dmoz|Games/Video_Games/Driving_and_Racing/Combat/Grand_Theft_Auto_Series|''Grand Theft Auto'' series}}
+*[http://www.rockstargames.com/classics/ Download ''Grand Theft Auto'' and ''Grand Theft Auto 2'' from RockstarGames.com]
+*[http://www.grandtheftwiki.com/Main_Page Grand Theft Wiki, an External Wiki] {{en}} . 
+
+{{Grand Theft Auto}} . 
+
+{{Video game controversy}} . 
+
+{{DEFAULTSORT:Grand Theft Auto (Series)}}
+[[Category:1997 introductions]]
+[[Category:Action-adventure games]]
+[[Category:Criticisms of software and websites]]
+[[Category:Grand Theft Auto (series)|*series]]
+[[Category:Open world video games]]
+[[Category:Video game franchises]]

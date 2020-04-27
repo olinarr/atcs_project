@@ -1,0 +1,68 @@
+{{Infobox SCOTUS case
+  | Litigants               = United States v. Southwestern Cable Co. 
+  | ArgueDateA              = March 12
+  | ArgueDateB              = 13
+  | ArgueYear               = 1968
+  | DecideDate              = June 10
+  | DecideYear              = 1968
+  | FullName                = United States v. Southwestern Cable Co. 
+  | USVol                   = 392
+  | USPage                  = 157
+  | Citation                = 88 S. Ct. 1994; 20 L. Ed. 2d 1001; 1968 U.S. LEXIS 3148; 13 Rad. Reg. 2d (P & F) 2045; 1 Media L. Rep. 2247
+  | Prior                   = 
+  | Subsequent              = 
+  | Holding                 = The FCC has broad authority over "all interstate and foreign communication by wire or radio," which includes CATV systems as they are encompassed within the term "communication by wire or radio," and there is no doubt they are engaged in interstate communication. 
+  | SCOTUS                  = 1967-1969
+  | Majority                = Harlan
+  | JoinMajority            = 
+  | Concurrence             = 
+  | JoinConcurrence         = 
+  | Concurrence2            = 
+  | JoinConcurrence2        = 
+  | Concurrence/Dissent     = 
+  | JoinConcurrence/Dissent = 
+  | Dissent                 = 
+  | JoinDissent             = 
+  | Dissent2                = 
+  | JoinDissent2            = 
+  | NotParticipating        = Douglas, Marshall
+  | LawsApplied             = Communications Act of 1934
+}}
+{{wikisource|United States v. Southwestern Cable Company}}
+'''''United States v. Southwestern Cable Co.''''', [[Case citation|392 U.S. 157]] (1968), is a case in the development of [[American administrative law]].  . 
+
+==Legal principle==. 
+The scope of authority held by an agency is determined by the agency's [[organic statute]].  Where Congress grants an agency the power to maintain and regulate an area guided by the "public interest, convenience, or necessity," such a grant of power can include the regulation of areas not explicitly contemplated by the organic statute, as long as they are within the scope of the purpose of the original statute.  Where agency action is necessary to fulfill the agency's ultimate goal, the Court may not prohibit such action.  . 
+
+Note: The approach in this case takes a much more expansive approach than the earlier case of ''[[ICC v. Cincinnati, New Orleans and Texas Pacific Railway Co.]]'' which provided for more limited powers for administrative agencies.  Specifically, ''ICC'' held that regulative powers must be expressly granted by statute and not implied, while ''NBC v. US'', 319 U.S. 190 (1943), held that the issuance of regulations, though not expressly granted, are an acceptable way for the agency to fulfill its statutory obligations to serve the "public interest, convenience, or necessity." . 
+
+==Facts and procedural posture==. 
+The [[Federal Communications Commission|FCC]] established regulations over community antenna television (CATV, or "cable"), and issued an order on the basis of those new regulations.  Southwestern Cable filed an action to review the order, arguing that the regulations were impermissible.  The Court of Appeals ruled for Southwestern Cable.   . 
+
+The Supreme Court reversed, ruling for the FCC that the regulations were permissible.  . 
+
+==Analysis==. 
+The FCC's authority stemmed from the [[Communications Act of 1934]], as amended.  The Act provided that the Commission's responsibilities were to
+:"make available ... to all the people of the United States a rapid, efficient, Nation-wide, and world-wide wire and radio communication service ..." (47 USC 152(a))
+Further, the FCC was given:
+:"regulatory power over all forms of electrical communication, whether by telephone, telegraph, cable, or radio." . 
+
+Southwestern Cable argued that the Communications Act, properly understood, does not permit the regulation of CATV, because
+# The Commission sought legislation to explicitly allow regulation over CATV in 1959 and 1966, and both efforts were unsuccessful.  The Court ruled, however, that this was not dispositive. 
+# {{usc|47|152}} did not independently grant the power to regulate all those services, but named areas in which regulation could be permitted by later legislative act.  The Court rejected that argument, because it found no language in the statutes restricting regulation to radio, congress could not have foreseen the development of CATV at the time of the legislation, and ''[[National Broadcasting Co. v. United States]]'' had held that the Commission was granted "a comprehensive mandate" with "not niggardly but expansive powers." . 
+
+The Court then notes Commission reports indicating the importance of regulating CATV, because the failure to do so, the benefits of CATV would be "placed in jeopardy by the unregulated explosive growth of CATV." . 
+
+The Court notes finally that court precedents indicate that the Court may not, "in the absence of compelling evidence that such was Congress' intention ... prohibit administrative action imperative for the achievement of an agency's ultimate purposes." . 
+
+==See also==. 
+*[[List of United States Supreme Court cases, volume 392]] . 
+
+==Further reading==. 
+*{{cite journal |last=Gellhorn |first=Ernest |authorlink= |coauthors=Robinson, Glen O. |year=1975 |month= |title=Perspectives on Administrative Law |journal=Columbia Law Review |volume=75 |issue=4 |pages=771&ndash;799 |doi=10.2307/1121686|quote= |publisher=Columbia Law Review, Vol. 75, No. 4 |jstor= 1121686 }} . 
+
+[[Category:Censorship of broadcasting in the United States]]
+[[Category:United States administrative case law]]
+[[Category:United States communications regulation case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:1968 in United States case law]]

@@ -1,0 +1,382 @@
+{{Censorship}}
+A '''strategic lawsuit against public participation''' ('''SLAPP''') is a [[lawsuit]] that is intended to [[censorship|censor]], intimidate, and silence critics by burdening them with the cost of a [[legal defense]] until they abandon their criticism or opposition. <ref name="onthemedia_01">{{cite web
+| url = http://www.onthemedia.org/2010/apr/02/slapp-back/transcript/
+| title = SLAPP Back: Transcript
+| date = Friday, April 02, 2010
+| work = ON THE MEDIA ([http://onthemedia.org onthemedia.org])
+| publisher = [[WNYC]] ([[National Public Radio]], [[PBS]])
+| author = Nazanin Rafsanjani
+| accessdate = 2011-06-29}}</ref> . 
+
+The typical SLAPP plaintiff does not normally expect to win the lawsuit. The plaintiff's goals are accomplished if the defendant succumbs to fear, intimidation, mounting legal costs or simple exhaustion and abandons the criticism. A SLAPP may also intimidate others from participating in the debate. A SLAPP is often preceded by a [[legal threat]]. The difficulty, of course, is that plaintiffs do not present themselves to the Court admitting that their intent is to censor, intimidate or silence their critics. Hence, the difficulty in drafting SLAPP legislation, and in applying it, is to craft an approach which affords an early termination to invalid abusive suits, without denying a legitimate day in court to valid [[good faith]] claims.  . 
+
+SLAPPs take various forms but the most common is a civil suit for [[defamation]], which in the [[English common law]] tradition is a [[tort]]. The [[common law of libel]] dates to the early 17th century and (unusual in English law) is [[reverse onus]], meaning, once accused, the defendant is presumed guilty until they can prove innocence. While various abusive uses of this law including [[political libel]] (criticism of the political actions or views of others) have ceased to exist in most places but persist in some jurisdictions (notably [[British Columbia]] and [[Ontario]]) where political views can be held as defamatory. A common feature of SLAPP suits is [[forum shopping]] wherein plaintiffs find favourable courts that will permit claims that the court in which the defendant (or sometimes plaintiffs) live, will not.  . 
+
+Other widely mentioned elements of a SLAPP are the actual effectiveness at silencing critics, the timing of the suit, inclusion of extra or spurious defendants (such as relatives or hosts of legitimate defendants), inclusion of plaintiffs with no real claim (such as corporations that are affiliated with legitimate plaintiffs), making claims that are very difficult to disprove or rely on no written record, ambiguous or deliberately mangled wording that lets plaintiffs make spurious allegations without fear of [[perjury]], refusal to consider any settlement (or none other than cash), characterization of all offers to settle as insincere, extensive and unnecessary demands for discovery, attempts to identify [[anonymity|anonymous or pseudonymous]] critics, appeals on minor points of law, demands for broad rulings when appeal is accepted on such minor points of law, and attempts to run up defendants' costs even if this clearly costs more to the plaintiffs.  . 
+
+==History==. 
+The [[acronym]] was coined in the 1980s by [[University of Denver]] professors Penelope Canan and George W. Pring. 
+<ref name="pring_canan_01">{{cite book
+| title = SLAPPs: Getting Sued for Speaking Out
+| isbn = 0-375-75258-7
+| last = Pring
+| first = George W. 
+| last2 = Canan
+| first2 = Penelope
+| publisher = Temple University Press
+| pages = 8–9
+| year = 1996 }}</ref>
+The term was originally defined as "a lawsuit involving communications made to influence a governmental action or outcome, which resulted in a civil complaint or counterclaim filed against nongovernment individuals or organizations on a substantive issue of some public interest or social significance." The concept originators later dropped the notion that government contact had to be about a public issue to be protected by the [[Right to petition in the United States|Right to Petition]] the Government as provided in the [[First Amendment]]. It has since been defined less broadly by some states and more broadly in one state (California) where it includes suits about speech on any public issue. 
+<ref name = "ccp_425_16_01">{{cite web
+| url = http://www.casp.net/california-anti-slapp-first-amendment-law-resources/statutes/c-c-p-section-425-16
+| title = (California) Code of Civil Procedure – Section 425.16. 
+| publisher = California Anti-SLAPP Project [http://www.casp.net www.casp.net]
+| year = Ratified 1992, last amended 2009
+| quote = The Legislature finds and declares that it is in the public interest to encourage continued participation in matters of public significance, and that this participation should not be chilled through abuse of the judicial process.}}</ref> . 
+
+The original conceptualization proffered by Canan and Pring emphasized the right to petition as protected in the United States under the US Constitution's specific protection in the First Amendment's fifth clause. It is still definitional: SLAPPs refer to civil lawsuits filed against those who have communicated to government officialdom (in its entire constitutional apparatus). The Right to Petition granted by [[Edgar the Peaceful]], King of England in the 10th century, antedates the [[Magna Carta]] in terms of its significance in the development of democratic institutions. As currently conceived, the right claims that democracy cannot function if there are, or if interest groups can erect, barriers between the governed and the governing. <ref name="right_to_petition_01">{{cite journal|url=http://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=3486&context=flr|journal=Fordham Law Review|volume=66|issue=6|date=1998-01-01|title=The Vestigial Constitution: The History and Significance of the Right to Petition | author=Gregory A. Mark}}<br />{{cite web|url=http://www.kingsengland.co.uk/queen-mary-ii-of-stuart-1689%E2%80%931694.html|title=Queen Mary II of Stuart (1689–1694)|work=Kings of England [http://www.kingsengland.co.uk]|year=2010|accessdate=2011-06-29}}</ref> . 
+
+According to [[New York Supreme Court]] Judge J. Nicholas Colabella, "Short of a gun to the head, a greater threat to First Amendment expression can scarcely be imagined." A number of jurisdictions have made such suits illegal, provided that the appropriate standards of [[journalistic responsibility]] have been met by the critic.{{Citation needed|date=October 2011}} . 
+
+==Jurisdictional variations==. 
+===Canada===. 
+Some [[political libel]] and [[forum shopping]] incidents, both common in Canada, have been called SLAPP suits, because such suits load defendants with costs of responding in unfamiliar jurisdictions or at times (typically elections) when they're extremely busy and short of funds. Both types of suits are almost unique to Canada, so there is little academic concern nor examination of whether political subject matter or remote forums are a clear indicator of SLAPP.  . 
+
+====BC====. 
+One of the first cases in Canada to be explicitly ruled a SLAPP was ''Fraser v. Saanich'' (see [1999] B.C.J. No. 3100 (B.C. S.C.)) (QL), where the British Columbia Supreme Court struck out the claim of a hospital director against the District of Saanich, holding that it was a meritless action designed to silence or intimidate the residents who were opposed to the plaintiff’s plan to redevelop the hospital facilities.  . 
+
+Following the decision in ''Fraser v. Saanich'', the ''Protection of Public Participation Act'' went into effect in British Columbia in April, 2001. [http://www.adidem.org/images/a/a7/Wullum_AntiSLAPP.pdf The legislation] was repealed in August, 2001. There was [http://www.elc.uvic.ca/publications/documents/Reciel-2010-SLAPP-BC-Tollefson-Scott.pdf extensive debate on its merits and the necessity of having hard criteria for judges] and whether this tended to reduce or increase process abuse. The debate was largely formed by the first case to discuss and apply the Protection of Public Participation Act (PPPA), ''Home Equity Development v. Crow'', (see [2002] B.C.J. No. 1805 (B.C. S.C.)) (QL). The defendants' application to dismiss the action against them was dismissed. The defendants failed to meet the burden of proof required by the PPPA, that the plaintiffs had no reasonable prospect of success. While it was not the subject of the case, some felt that the plaintiffs did not bring their action for an improper purpose, and the suit did not inhibit the defendants in their public criticism of the particular project, and that the Act was therefore ineffective in this case.  . 
+
+Since the repeal, BC activists especially the [[BCCLA]] have argued repeatedly for a broad understanding of SLAPP and a broad interpretation of judicial powers especially in [http://www.bccla.org/othercontent/09Canwest_Intervener_application.pdf intervener applications in BC] and [http://www.bccla.org/othercontent/Ecosociete_BCCLA_argument.pdf other common law jurisdictions] and when [http://www.bccla.org/positions/political/11BC_Slapp.pdf arguing for new legislation to prevent SLAPPs]. The activist literature contains extensive research on particular cases and criteria. The [[West Coast Environmental Law Association]] agrees and generally considers BC to lag other jurisdictions [http://wcel.org/resources/environmental-law-alert/bc-trails-quebec-ontario-protecting-public-chilling-lawsuits]. So do some BC lawyers, again listing specific cases [http://envirolaw.com/unsuccessful-slapps/].  . 
+
+====Ontario====. 
+In Ontario, the decision in ''Daishowa v. Friends of the Lubicon'' (see [1996] O.J. No. 3855 Ont. Ct. Gen. Div.) (QL) was also instructive on SLAPPs. A motion brought by the corporate plaintiff Daishowa to impose conditions on the defendant Friends of the Lubicon Indian Band that they would not represent Daishowa’s action as a SLAPP was dismissed.  . 
+
+By 2010, the Ontario Attorney-General considered SLAPP a major problem and issued a major report on them
+[http://www.attorneygeneral.jus.gov.on.ca/english/anti_slapp/]. However, a year later nothing substantial had changed, according to commentators [http://lawiscool.com/2011/10/06/renewing-the-debate-on-anti-slapp-legislation-in-ontario/].  . 
+
+====Quebec====. 
+Québec's then Justice Minister, Jacques Dupuis, proposed an anti-SLAPP bill on June 13, 2008. 
+<ref name="ulcc_slapp_01">{{cite web|url=http://www.ulcc.ca/en/poam2/SLAPP%20Report.pdf|title=Strategic Lawsuits against Public Participation (SLAPPs) (and other abusive lawsuits)|last=Pelletier|first=Vincent|publisher=[http://www.ulcc.ca/ Uniform Law Conference of Canada, Civil Section] (English and French)|year=2008|month=August|accessdate=2011-06-29}}</ref>
+The bill was adopted by the [[National Assembly of Quebec]] on June 3, 2009. As of November 2011, Quebec's amended Code of Civil Procedure is the only anti-SLAPP mechanism in force in Canada.  . 
+
+This bill was invoked in Ontario (and then [[Supreme Court of Canada]] docket 33819) in the case of Les Editions Ecosociete Inc., [[Alain Deneault]], [[Delphine Abadie]] and [[William Sacher]] vs. [[Banro]] Inc., in which the publisher Ecosociete pled (supported by the [[BCCLA]] [http://www.bccla.org/othercontent/Ecosociete_BCCLA_argument.pdf]) that it should not face Ontario liability for a publication in Quebec, as the suit was a SLAPP and the Quebec law explicitly provided to dismiss these. ''As of November 15, 2011, the judgement was still pending, having been heard in the Court in March of 2011.'' . 
+
+The Quebec law is substantially different in structure than that of California [http://www.citmedialaw.org/legal-guide/anti-slapp-law-california] or other jurisdictions, however as Quebec's Constitution generally subordinates itself to [[international law]], the [[International Covenant on Civil and Political Rights]] applies. That treaty only permits liability for arbitrary and unlawful speech. The ICCPR has also been cited, in the BC case Crookes v. Newton, as the standard for balancing free speech versus reputation rights. The Supreme Court of Canada in October 2011, ruling in that case, neither reiterated nor rescinded that standard.  . 
+
+===United States===. 
+California has a unique variant of anti-SLAPP legislation which has led a significant volume of SLAPP litigation in that state. A search for reported cases on SLAPP litigation in 2009 found 1,386 cases for the State of California alone. The rest of the states combined had about 341, of which Massachusetts accounted for 176, raising the question whether California's SLAPP statute is accomplishing its primary objective of reducing costly litigation
+<ref name="navellier_v_sletten_01">{{cite web|url=http://www.casp.net/california-anti-slapp-first-amendment-law-resources/caselaw/california-supreme-court/navellier-v-sletten/|title=Navellier v. Sletten|publisher = California Anti-SLAPP Project [http://www.casp.net www.casp.net]|accessdate=2011-06-29}} 52 P.3d 703 (Cal. 2002) (dissenting opinion)</ref> The [[U.S. state]] of [[California]] enacted Code of Civil Procedure § 425.16 in [[1992]], a [[statute]] intended to frustrate SLAPPs by providing a quick and inexpensive defense. <ref name ="ccp_425_16_01"/> It provides for a special motion that a [[defendant]] can file at the outset of a lawsuit to strike a [[complaint]] when it arises from conduct that falls within the rights of [[petition]] or [[free speech]]. The statute expressly applies to any writing or speech made in connection with an issue under consideration or review by a legislative, executive, or judicial proceeding, or any other official proceeding authorized by law, but there is no requirement that the writing or speech be promulgated directly to the official body. It also applies to speech in a public forum about an issue of public interest and to any other petition or speech conduct about an issue of public interest.  . 
+
+To win an anti-SLAPP motion, the defendant must first show that the lawsuit is based on constitutionally protected activity. Then, the burden shifts to the plaintiff, to affirmatively present evidence to show that they have a reasonable probability of prevailing on the action. The filing of an anti-SLAPP motion stays all [[Discovery (law)|discovery]]. This feature acts to greatly reduce the cost of litigation to the anti-SLAPP defendant, and can make beating the motion extremely difficult for the plaintiff, because they effectively must prove their case without the benefit of discovery.  . 
+
+If the special motion is denied, the order denying the motion is immediately [[appeal]]able. Defendants prevailing on an anti-SLAPP motion (including any subsequent appeal) are entitled to a mandatory award of reasonable attorney’s fees. After an anti-SLAPP motion has been filed, a plaintiff cannot escape this mandatory fee award by amending its complaint. More than 300 published court opinions have interpreted and applied California's anti-SLAPP law. 
+<ref name="casp_cases_california_01">{{cite web
+| url = http://www.casp.net/cases/calcases.html
+| title = Cases Involving the California Anti-SLAPP Law
+| publisher = California Anti-SLAPP Project
+| accessdate = 2011-06-29 }}</ref> . 
+
+California's '''Code of Civil Procedure § 425.17''' corrects what the Legislature found to be abuse of the anti-SLAPP statute. 
+<ref name = "ccp_425_17_01">{{cite web
+| url = http://www.casp.net/california-anti-slapp-first-amendment-law-resources/statutes/c-c-p-section-425-17
+| title = (California) Code of Civil Procedure – Section 425.17. 
+| publisher = California Anti-SLAPP Project
+| date = Sep. 6, 2003
+| quote = "[P]articipation in matters of public significance ... should not be chilled through abuse of the judicial process or Section 425.16.}}</ref>
+Signed into law on September 6, 2003, this statute prohibits anti-SLAPP motions in response to certain public interest lawsuits and class actions, and actions that arise from commercial statements or conduct. '''Section 425.18''', signed into law on October 6, 2005, was enacted to facilitate SLAPP victims in recovering their damages through a SLAPPback (malicious prosecution action) against the SLAPP filers and their attorneys after the underlying SLAPP has been dismissed. 
+<ref name = "ccp_425_18_01">{{cite web
+| url = http://www.casp.net/california-anti-slapp-first-amendment-law-resources/statutes/c-c-p-section-425-18/
+| title = (California) Code of Civil Procedure – Section 425.18. 
+| publisher = California Anti-SLAPP Project
+| date = Oct. 5, 2005 }}</ref> . 
+
+At least 26 other states and one territory have also enacted statutory protections against SLAPPs. 
+<ref name="antislapp_org_statelist_01">{{cite web
+| url = http://www.anti-slapp.org/?q=node/12
+| title = Your State's Free Speech Protections
+| publisher = [http://www.anti-slapp.org The Public Participation Project]
+| accessdate = 2011-06-29 }}</ref>{{Verify source|r=May be outdated|date=January 2012}}
+These are Arizona, Arkansas, Delaware, Florida, Georgia, Guam, Hawaii, Illinois, Indiana, Louisiana, Maine, Maryland, Massachusetts, Minnesota,
+,<ref name="antislapp_minnesota">{{cite web
+| url = https://www.revisor.mn.gov/statutes/?id=554
+| title = FREE SPEECH PARTICIPATION IN GOVERNMENT, 2010 Minnesota Statutes
+| publisher = Minnesota Office of the Revisor of Statutes
+| year = 2010
+| accessdate = 2011-06-29}}</ref> Missouri, Nebraska, Nevada, New Mexico, New York, Oklahoma, Oregon, Pennsylvania, Rhode Island, Tennessee, Utah, Vermont, and Washington. In Colorado and West Virginia, the courts have adopted protections against SLAPPs. These laws vary dramatically in scope and level of protection, and the remaining states lack protections.  . 
+
+There is no federal anti-SLAPP law. The extent to which state laws apply in federal courts is unclear, and the Circuit courts have reached different conclusions. The [[United States Court of Appeals for the Ninth Circuit]] has allowed California litigants to use their state's special motion in [[United States district court|federal district courts]] located in California, in cases where the court is hearing at least one California state law claim through the doctrine of [[supplemental jurisdiction]]. 
+<ref name="casp_newsham_lockheed">{{cite web| url = http://www.casp.net/california-anti-slapp-first-amendment-law-resources/caselaw/slapp-cases-decided-by-the-ninth-circuit-court-of-appeals/united-states-v-lockheed-missiles-and-space-company/
+| title = United States v. Lockheed Missles and Space Company
+| publisher = California Anti-SLAPP Project
+| accessdate = 2011-06-29}}</ref>
+However, the [[United States Court of Appeals for the First Circuit]] has held that the Massachusetts anti-SLAPP law, as a mere matter of procedure, does not apply in federal courts. 
+<ref name="stuborn_01">{{cite web
+| url = http://www.anti-slapp.org/?q=node/32
+| work = First Amendment Cases and Scholarship
+| title = Stuborn Ltd. Partnership v. Bernstein, 245 F.Supp.2d 312 (D. Mass. 2003). 
+| publisher = [http://www.anti-slapp.org The Public Participation Project www.anti-slapp.org]
+| accessdate = 2011-06-29}} Holding that the Massachusetts anti-SLAPP statute is a “mere matter of procedure” and therefore not applicable in federal court. 
+<br />{{cite web
+| url = http://works.bepress.com/cgi/viewcontent.cgi?article=1000&context=lisa_litwiller&sei-redir=1
+| title = A SLAPP in the Face: Why Principles of Federalism Suggest that Federal District Courts Should Stop Turning the Other Cheek
+| work = From the SelectedWorks of Lisa Litwiller
+| publisher = Chapman University School of Law
+| year = 2007
+| month = August
+| accessdate = 2011-06-29}}</ref> . 
+
+It has been argued that the lack of uniform protection against SLAPPs has encouraged [[forum shopping]]; proponents of federal legislation have argued that the uncertainty about one's level of protection has likely magnified the [[chilling effect (law)|chilling effect]] of SLAPPs.  . 
+
+In December 2009, Rep. [[Steve Cohen]] introduced the Citizen Participation Act in the U.S. House. 
+<ref name="cohen_hr_4364">{{cite web
+| url = http://www.opencongress.org/bill/111-h4364/text
+| title = H.R.4364 - Citizen Participation Act of 2009 (As introduced in House Dec. 16, 2009)
+| work = [http://www.opencongress.org Open Congress for the 112th United States Congress]
+| publisher = [http://participatorypolitics.org/ Participatory Politics Foundation] and [http://sunlightfoundation.com/ Sunlight Foundation]
+| accessdate = 2011-06-26}}</ref>
+This marks the first time the Congress has considered federal anti-SLAPP legislation (though the Congress is currently considering the closely related issue of ''[[libel tourism]]''.) Like many state anti-SLAPP laws, H.R. 4364 would allow the defendant of a SLAPP to have the suit quickly dismissed and to recover fees and costs.  . 
+
+====Balancing the Right of Access to the Courts====. 
+The SLAPP penalty stands as a barrier to access to the Courts by providing an early penalty to claimants who seek judicial redress. In recent years, the courts in some states have recognized that enforcement of SLAPP legislation must recognize and balance the constitutional rights of both litigants. It has been said:
+<blockquote>Since the [[Magna Carta]], the world has recognized the importance of justice in a free society. “To no one will we sell, to no one will we refuse or delay, right or justice.” (Magna Carta, 1215.) This nation’s founding fathers knew people would never consent to be governed and surrender their right to decide disputes by force, unless government offered a just forum for resolving those disputes. 
+<ref name="social_contract"from_hobbes_to_rawls_01">{{cite book
+| title = The Social Contract from Hobbes to Rawls
+| last1 = Boucher
+| first1 = David
+| last2 = Kelly
+| first2 = Paul
+| year = 1994
+| isbn = 978-0-415-10846-1
+| publisher = Routledge ([[Routledge|Wikipedia]]) [http://www.routledge.com (Web)]
+| edition = 1st }}</ref>
+</blockquote> . 
+
+The right to bring grievances to the courts, in good faith, is protected by state and federal constitutions in a variety of ways. In most states, the right to trial by jury in civil cases is recognized. The right to cross-examine witnesses is fundamental to our judicial system. Moreover, the first amendment protects the right to petition the government for a redress of grievances. The “right to petition extends to all departments of the Government. The right of access to the courts is indeed but one aspect of the right of petition.”
+<ref name="california_motor_transport_v_trucking_unlimited">{{cite web
+| url = http://laws.findlaw.com/us/404/508.html
+| title = CALIFORNIA MOTOR TRANSPORT CO. ET AL. v. TRUCKING UNLIMITED ET AL. CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+| publisher = [http://findlaw.com FindLaw]
+| year = 1972 }} (404 U.S. 508, 510)</ref>
+Because “the right to petition is ‘among the most precious of the liberties safeguarded by the [[Bill of Rights]],’ ... the right of access to the courts shares this ‘preferred place’ in our hierarchy of constitutional freedoms and values. 
+<ref name="harrison_v_springdale_water_and_sewer">{{cite web
+| url = http://law.justia.com/cases/federal/appellate-courts/F2/780/1422/148372/
+| title = 780 F.2d 1422: Rondell Harrison and Sharon Harrison, Appellants, v. Springdale Water & Sewer Commission, Mcgoodwin, Williams &yates, Inc., Walter Turnbow, Larry Clinkscales Andharold Henson, Appellees
+| year = 1986
+| author = United States Court of Appeals, Eighth Circuit
+| publisher = [http://law.justia.com Justia.com U.S. Law] }} 780 F.2d 1422, 1427</ref>
+This balancing question is resolved differently in different states, often with substantial difficulty. 
+<ref name="denton_v_browns_mill_development_co_etc">{{cite web
+| url = http://caselaw.findlaw.com/ga-supreme-court/1138765.html
+| title = DENTON et al. v. BROWNS MILL DEVELOPMENT COMPANY, INC. et al. 
+| author = Supreme Court of Georgia
+| publisher = [http://findlaw.com FindLaw]
+| year = 2002 }} 561 S.E.2d 431
+<br />{{cite web
+| url = http://www.lawskills.com/case/ga/id/210/22/index.html
+| title = BROWNS MILL DEVELOPMENT COMPANY, INC. et al. v. DENTON et al. 
+| last1 = DeKalb (Georgia) Superior Court
+| last2 = Judge Workman
+| publisher = [http://www.lawskills.com LawSkills]
+| year = 2000 }} 543 S.E.2d 65
+<br />{{cite web
+| url = http://caselaw.findlaw.com/ga-supreme-court/1221440.html
+| title = EARTHRESOURCES, LLC v. MORGAN COUNTY, et al. (two cases)
+| author = Supreme Court of Georgia
+| date = Nov. 30, 2006
+| publisher = [http://findlaw.com FindLaw] }} Nos. S06A1150, S06A1713. 
+<br />{{cite web
+| url = http://www.courts.ri.gov/Courts/SupremeCourt/OpinionsOrders/pdf-files/03-181.pdf
+| title = Stephen Alves v. Hometown Newspapers, Inc., d/b/a The Kent County Daily Times et al. 
+| author = Supreme Court (Rhode Island)
+| date = August 4, 2004 (filed)
+| publisher = [http://www.courts.ri.gov Rhode Island Judiciary] }} 857 A.2d 743</ref> . 
+
+In Palazzo v. Alves (No. 2006-172-Appeal) the Court wrote:
+<blockquote>By the nature of their subject matter, anti-SLAPP statutes require meticulous drafting. On the one hand, it is desirable to seek to shield citizens from improper intimidation when exercising their constitutional right to be heard with respect to issues of public concern. On the other hand, it is important that such statutes be limited in scope lest the constitutional right of access to the courts (whether by private figures, public figures, or public officials) be improperly thwarted. There is a genuine double-edged challenge to those who legislate in this area.{{citation}}<ref name="palazzo_v_ives_944_a2d_144">{{cite web
+| url = http://caselaw.findlaw.com/ri-supreme-court/1214936.html
+| title = Alan G. PALAZZO et al. v. Stephen D. ALVES. 
+| author = Supreme Court of Rhode Island
+| date = April 3, 2008
+| publisher = [http://findlaw.com FindLaw] }} No. 2006-172-Appeal</ref></blockquote> . 
+
+The most challenging balancing problem arises in application to SLAPP claims which do not sound in [[tort]]. The [[common law]] and [[constitutional law]] have developed in the United States to create a high substantive burden to tort and tort-like claims which seek redress for [[public speech]], especially public speech which addresses matters of public concern. The common law in many states requires the pleader to state accurately the content of [[libel]]ous words. Constitutional law has provided substantive protection which bars recovery against a first amendment defense except upon clear and convincing evidence that there has been deliberate or reckless falsehood. For this reason, ferreting out the [[bad faith]] SLAPP claim at an early stage of litigation should be accomplished with relative ease. Extension of the SLAPP penalties to factually complex cases, where the substantive standard of proof at common law is lower presents special challenges.  . 
+
+A Minnesota Supreme Court case Middle-Snake-Tamarac Rivers Watershed Dist. v. Stengrim, 784 N.W.2d 834 (Minn. 2010) establishes a two step process to determine whether SLAPP procedure should be applied. The decision arises in the context of an effort to enforce a settlement agreement between a local government and an opponent of a flood control project. The landowner had accepted a significant monetary settlement in settlement of his opposition to land acquisition. The landowner agreed as part of the settlement to address no further challenges to the project. When the local government sued the landowner for breach of settlement, the landowner contended that enforcement of the settlement was a strategic lawsuit against public participation. The Supreme Court rejected that claim and affirmed the District Court's denial of SLAPP relief, holding “The District Court properly denied a motion to dismiss where the underlying claim involved an alleged breach of a settlement agreement that potentially limited the moving party’s rights to public participation.” The Supreme Court explained: <blockquote>
+Preexisting legal relationships, such as those based on a settlement agreement where a party waives certain rights, may legitimately limit a party’s public participation. It would be illogical to read sections 554.01-.05 as providing presumptive immunity to actions that a moving party may have contractually agreed to forgo or limit. </blockquote> . 
+
+Under the Minnesota approach, as a preliminary matter, the moving party must meet the burden of showing that the circumstances which bring the case within the purview of SLAPP protection exists. Until that has been accomplished, no clear and convincing burden has been shifted to the responding party.  . 
+
+==Notable SLAPPs==. 
+===Europe===. 
+* In 2010 and 2011, a French blogger was summoned twice by the communication company Cometik over exposing their quick-selling method (a.k.a. one shot method) and suggesting a financial compensation for his first trial. <ref name="cometik_2010_01">{{cite web
+| url = http://www.cometik.com/intl/en/
+| title = Cometik home page (English)
+| publisher = Cometik }} (''Warning: on each site, a video is automatically played after the loading of the page''.)<br />{{cite web
+| url = http://www.cometik.fr/
+| title = Cometik home page (French)
+| publisher = Cometik }} (''Attention: sur chaque site, une vidéo est automatiquement lu après le chargement de la page.''.)</ref> The company got dismissed in each affair, but lodged an appeal in each case. On March 31, 2011, the company received a severe condemnation (to its advantage):
+** the censorship of any reference (of its name) on Mathias Poujol-Rost′s weblog,
+** €2,000 as damages,
+** the obligation to publish the judicial decision for 3 months,
+** €2,000 as procedural allowance,
+** all justice charges for both first and appeal instances. <ref name="cometik_2010_02">{{cite web
+| url = http://affaireeo.wordpress.com/?page_id=2387
+| title = ''Publication judiciaire à la demande de la société Cometik ''(French)
+| work = weblog ''Agences Web surprenantes''
+| date = April 7, 2011
+| accessdate = 2011-06-29}}</ref> . 
+
+===United States===. 
+* Prominent foreclosure defense attorney Matthew Weidner was sued by Nationwide Title, a foreclosure processing firm. <ref name="nationwide_title_goes_on_attack_against_vocal_critics_01">{{cite web
+| url = http://www.tampabay.com/news/nationwide-title-goes-on-attack-against-vocal-critics/1139169
+| title = Nationwide Title goes on attack against vocal critics
+| work = [http://tampabay.com Tampa Bay Times]
+| publisher = [http://www.tampabay.com/publication/ St. Petersburg Times]
+| author = Susan Taylor Martin, Times Senior Correspondent
+| date = Dec. 10, 2010}}</ref> Nationwide Title also obtained a [[gag order]] against another foreclosure defense lawyer from posting videos of their employees admitting they lied under oath when processing foreclosure documents. The gag order—a prior restraint—was issued without the other party present and is under appeal by the [[American Civil Liberties Union]]. <ref name="youtube_postings_set_off_legal_furor">{{cite web
+| url = http://www.heraldtribune.com/article/20101210/ARTICLE/12101034/2416/NEWS?Title=YouTube-postings-set-off-legal-furor
+| title = YouTube postings set off legal furor: FORECLOSURES: Judge orders depositions in local case off website
+| author = Todd Ruger
+| date = Last Modified: Thursday, December 9, 2010 at 9:20 p.m. 
+| work = Herald-Tribune (Sarasota, Florida)
+| publisher = [http://www.heraldtribune.com Herald-Tribune.com]}}</ref>
+* [[Barbra Streisand]], as plaintiff, lost a SLAPP motion after she sued an aerial photographer involved in the [[California Coastal Records Project]]. ''[[Streisand v. Adelman et al.]], in California Superior Court; Case SC077257''<ref name="barbra_streisand_sues_to_suppress_free_speech_protection_for_widely_acclaimed_website_01_etc">{{cite web
+| url = http://www.californiacoastline.org/streisand/lawsuit.html
+| title = Streisand Sues to Suppress Free Speech Protection (and additional items)
+| work = [http://www.californiacoastline.org Californa Coastline.org]
+| publisher = Kenneth Adelman}}<br />{{cite web
+| url = http://www.mindfully.org/Reform/2003/Barbra-Streisand-Coastal3dec03.htm
+| title = Streisand’s Lawsuit to Silence Coastal Website Dismissed
+| work = [http://www.mindfully.org Mindfully.org]
+| publisher = Kenneth Adelman }}</ref> See [[Streisand effect]]
+* Nationally syndicated talk radio host [[Tom Martino]] prevailed in an anti-SLAPP motion after he was sued for libel by a watercraft retailer. The case received national attention for its suggestion that no one reasonably expects objective facts from a typical talk show host. <ref name="tom_martino_01">{{cite web
+| url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/25/BA4B178L0N.DTL
+| title = What Do You Expect? It's Talk Radio, Court Says
+| author = Bob Egelko, Chronicle Staff Writer
+| work = [http://www.sfgate.com SFGate]
+| date = Saturday, April 25, 2009
+| publisher = [http://www.hearst.com Hearst Communications]}}<br />{{cite web
+| url = http://www.metnews.com/articles/2009/gra042709.htm
+| title = Court: Radio Talk Show Host’s Statements Not Actionable: Panel Concludes Reasonable Listeners Would Consider Comments Opinion
+| date = April 27, 2009
+| publisher = [http://www.metnews.com Metropolitan News-Enterprise]}}<br />{{cite web
+| url = http://www.ca9.uscourts.gov/datastore/opinions/2009/04/23/0635437.pdf
+| title = Appeal from the United States District Court for the District of Oregon: Gardner v. Martino
+| last1 = United States Court of Appeals for the Ninth Circuit
+| last2 = Anna J. Brown, District Judge, Presiding
+| date = July 7, 2008
+| publisher = [http://uscourts.gov uscourts.gov]
+| accessdate = 2011-06-30 }}</ref>
+* Kim Shewalter and other neighborhood activists, as defendants, won an anti-SLAPP motion against apartment building owners. The owners had filed a SLAPP suit because of the defendants' protest activities. <ref name="shewalter_01">{{cite web
+| url = http://www.casp.net/cases/Coltrain%20v.%20Shewalter.html
+| title = Coltrain v. Shewalter (Appeal from the Superior Court of Riverside County, No. 278681)
+| publisher = California Anti-SLAPP Project}}</ref>
+* Barry King and another Internet poster, as defendants, won an anti-SLAPP motion against corporate plaintiffs based on critical posts on an Internet financial message board. <ref name="barry_king_01">{{cite web
+| url = http://www.casp.net/cases/Global%20Telemedia%20International%20v.%20Doe%201.html
+| title = Global Telemedia International, Inc. v. Doe 1 et al. 
+| publisher = California Anti-SLAPP Project}}</ref>
+* Kathi Mills won an anti-SLAPP motion against the Atlanta Humane Society, ''Atlanta Humane Society v. Mills, in Gwinnett County (Georgia) Superior Court; case 01-A-13269-1''<ref name="kathy_mills_01">{{cite web
+| title = ATLANTA HUMANE SOCIETY v. HARKINS, ATLANTA HUMANE SOCIETY et al. v. HARKINS, Atlanta Humane Society et al. v. Mills. Nos. S04G0613, S04G0684, S04G0685. 
+| url = http://caselaw.findlaw.com/ga-supreme-court/1050984.html
+| date = September 27, 2004
+| author = Supreme Court of Georgia}}<br />{{cite web
+| url = http://www.spotsociety.org/article112103.html
+| title = Kathi Mills' Atlanta Humane Case Thrown Out
+| work = [http://www.spotsociety.com Stop Pet Overpopulation Now]
+| publisher = SPOT
+| location = Atlanta, GA
+| date = November 21, 2003}}<br />{{cite web
+| url = http://www.citmedialaw.org/threats/atlanta-humane-society-v-mills
+| title = Atlanta Humane Society v. Mills
+| date = Feb 19, 2009
+| publisher = Citizen Media Law Project}}</ref>  She had been sued based on comments she made to an internet forum after a news program had aired critical of the AHS.  In part, the judge ruled that private citizens do not need to investigate news coverage before they make their own comments on it.  Also that governmental entities may not sue for defamation. <ref>[http://www.citmedialaw.org/threats/atlanta-humane-society-v-mills Citizen Media Law Project]</ref>
+* Karen Winner, the author of "Divorced From Justice, is recognized as "[the] catalyst for the changes that we adopted," said Leo Milonas, a retired justice with the Appellate Division of the New York state courts who chaired a special commission that recommended the changes adopted by Chief Judge Judith Kaye."<ref name="winner_01">{{cite book
+| title = Divorced from Justice: The Abuse of Women and Children by Divorce Lawyers and Judges
+| publisher = ReganBooks/Harper Collins
+| year = 1996
+| isbn = 978-0-06-039184-3}}<br />{{cite web
+| url = http://www.webcitation.org/query?url=http://www.geocities.com/promanowsky/firestorm.html&date=2009-10-26+01:03:08
+| title = The spark behind the court firestorm
+| publisher = [http://www.webcitation.org WebCite]}}</ref> But in 1999, Winner, along with a psychologist/whistleblower, and several citizens were SLAPPed for criticizing the [[Legal guardian#United States|guardian ad litem]] system and a former judge in South Carolina. Winner's report, "Findings on Judicial Practices & Court-appointed Personnel In The Family Courts In Dorchester, Charleston & Berkeley Counties, South Carolina" and citizen demonstrations led to the very first laws in South Carolina to establish minimum standards and licensing requirements for guardians ad litem — who represent the interests of children in court cases. <ref>William J. Cook, Final Reply Brief of Appellant/Respondent Ernie Weaver in the Charleston County case, 2001-CP-10-2967. </ref> The retaliatory SLAPPs have been dragging on for nearly 10 years, with judgments totaling more than $11 million against the co-defendants collectively. Reflecting the retaliatory nature of these suits, at least one of the co-defendants is still waiting to find out from the judges which particular statements if any he made were actually false. <ref>Final Reply Brief of Appellant/Respondent Ernie Weaver in the Charleston County case, 2001-CP-10-2967. </ref>
+* From 1981 to 1986, [[Pacific Legal Foundation]] and [[San Luis Obispo County, California]], filed a suit attempting to obtain the mailing list of the [[Abalone Alliance]] to get the group to pay for the police costs of the largest [[anti-nuclear]] [[civil disobedience|civil-disobedience]] act in U.S. history at the [[Diablo Canyon Power Plant]]. Pacific Legal Foundation lost at every court level and withdrew the suit the day before it was due to be heard by the [[U.S. Supreme Court]].{{citation needed|date=June 2011}}
+* In March 2009, [[MagicJack]] (a company who promotes a USB VOIP device) filed a defamation suit against [[Boing Boing]] for exposing their unfair and deceptive business tactics regarding their [[EULA]], visitor counter, and 30 day trial period. This was dismissed as a SLAPP by a California judge in late 2009. In the resulting ruling, MagicJack was made responsible for most of Boing Boing's legal cost. <ref name="magic_jack_boing_boing">{{cite web
+| url = http://www.boingboing.net/2010/02/23/magicjack-legal-docu.html
+| title = MagicJack Legal Documents
+| date = 7:00 AM Tuesday, Feb 23, 2010
+| author = Rob Beschizza
+| publisher = [http://www.boingboing.net BoingBoing]
+| accessdate = 2011-06-30}}</ref>
+* In the case Comins vs. VanVoorhis a Florida man named Christopher Comins filed a defamation suit against a University of Florida grad student after the student blogged about a video of Comins repeatedly shooting someone's pet dogs. This was cited as an example of a SLAPP suit by the radio show ''[[On the Media]]''. <ref name="onthemedia_01"/>
+* In January 2011 [[Sony Computer Entertainment America]] [[Sony Computer Entertainment America v. George Hotz|sued]] [[George Hotz]] and other individuals for [[jailbreaking]] the [[Playstation 3]] and publishing encryption and signing keys for various layers of the system's architecture. The defendants and the [[Electronic Frontier Foundation]] consider the case an egregious abuse of the [[Digital Millennium Copyright Act]]. Hotz settled with Sony before trial.{{Citation needed|date=June 2011}}
+* {{main|Congress Elementary School District v. Warren, et. al.}}
+:In effort to prevent four women from filing any Public Records Requests without first getting permission from a judge, or from filing future lawsuits, the Congress Elementary School District [[Congress Elementary School District v. Warren, et. al.|filed a SLAPP suit]] on January 28, 2010. [[The Goldwater Institute]], a think tank based in [[Phoenix, AZ]], represented the four defendants. The school district said that it has been harassed so often by Warren that it was not able to functionally educate its students. Toni Wayas, the school district’s superintendent, claimed "that it had, time and time again, complied with the requests" The Goldwater Institute argued that the school district had been in violation of state laws mandating government transparency in the past. Investigations in 2002 and 2007 by the state Ombudsman and Attorney General uncovered violations of the state’s open meeting law by the Attorney General’s Office. According to Carrie Ann Sitren of the Goldwater Institute, this was “a clear attempt to silence people in the community who have been critical of the board’s actions, and have made good-faith attempts to ensure the district is spending taxpayer money wisely.” None of the records requested were private or confidential, and thus, should have been readily available to be released to the public, according to the assistant state Ombudsman. <ref name="congress_school_district_v_warren">{{cite web
+| url = http://www.azcentral.com/members/Blog/SchoolGrounds/124005
+| date = March 31, 2011
+| title = Arizona appeals court tosses lawsuit filed against parents by school district
+| author = Amy B. Wang}}</ref>
+* {{main|Scientology versus the Internet}}
+"Scientology versus the Internet" refers to a number of disputes relating to the Church of Scientology's efforts to suppress material critical of Scientology on the Internet through the use of lawsuits and legal threats.  . 
+
+===Canada===. 
+* ''Daishowa Inc. v. Friends of the Lubicon'', from 1995 to 1998 a series of judgements [OJ 1536 1995] [OJ 1429 1998 (ONGD)] established that defendants, who had accused a global company of engaging in "[[genocide]]", were entitled to recover court costs<ref>http://sisis.nativeweb.org/lubicon/nov1098.html</ref> due to the public interest in the criticism, even if it was rhetorically unjustifiable. This was the first case to establish clearly the SLAPP criteria
+* ''Fraser v. Saanich (District)'' 1995, [BCJ 3100 BCSC] was held explicitly to be a SLAPP, the first known case to be so described. Justice Singh found plaintiff's conduct to be "reprehensible and deserving of censure", ordering he pay "special costs" [page 48, Strategic Lawsuits Against Public Participation: The British Columbia Experience, RECEIL 19(1) 2010 ISSN 0962 8797] to compensate. 
+* In 2011, in ''Robin Scory v. Glen Valley Watersheds Society'', a BC court ruled that "an order for special costs acts as a deterrent to litigants whose purpose is to interfere with the democratic process,” and that “Public participation and dissent is an important part of our democratic system.”<ref>http://www.ecojustice.ca/media-centre/press-releases/b.c.-developer-ordered-to-pay-for-failed-defamation-suit-against-local-conservation-group</ref><ref>http://www.ecojustice.ca/media-centre/press-releases/ecojustice-scores-big-victory-for-the-little-guys/?searchterm=glen%20valley</ref> However, such awards remained rare. <ref>http://wcel.org/resources/environmental-law-alert/bc-trails-quebec-ontario-protecting-public-chilling-lawsuits</ref>
+* ''Crookes v. Openpolitics.ca'', filed May 2006 [S063287, Supreme Court of BC], and a series of related suits leading to a unanimous October 2011 ruling by the [[Supreme Court of Canada]] in Crookes v. Newton upholding the rights of online debaters to link freely to third parties without fear of liability for contents at the other end of the link. <ref>http://www.thestar.com/news/article/1072362</ref> A number of related rulings had previously established that transient comments on the Internet could not be, in themselves, simply printed and used to prove that "publication" had occurred for purposes of libel and defamation law in Canada. Other elements of the ruling clarified how [[responsible journalism]] (and therefore the right to protect [[anonymous source]]s), [[qualified privilege]] and [[innocent dissemination]] defenses applied to persons accused of online defamation. 
+* In May 2010, [[Youthdale Treatment Centres]] of Toronto, Ontario filed a defamation suit against various former patients, parents of former patients, and other persons, claiming C$5,000.000.00 in damages.{{Citation needed|date=June 2011}} The lawsuit, filed on May 5, 2010 on behalf of Youthdale by Harvin Pitch and Jennifer Lake of Teplitsky, Colson LLP claimed that these persons were involved in a conspiracy to, among other things, have Youthdale's licence to operate revoked. Youthdale also claimed their reputation was damaged as a result of various actions by the named defendants, which Youthdale alleged included the creation of websites and blogs containing complaints against Youthdale, including alleged accusations of unlawful administration of psychotropic medications. A notable left-turn for Youthdale occurred in July 2010, when Youthdale became the subject of a [[Toronto Star]] investigation, in which it was found that Youthdale had been admitting children to its Secure Treatment Unit that did not have mental disorders. <ref>{{cite news|author=Zlomislic, Diana|url=http://www.thestar.com/News/Investigations/article/832911|title=Youth lock-ups blasted|newspaper=The Toronto Star|date=July 7, 2010}}</ref> The case is still ongoing against some of the named defendants. 
+* Businesspeople [[Garth Drabinsky]] and [[Conrad Black]] filed numerous suits against critics of their business activities. These received much publicity but were usually settled quickly. 
+* Canadian Prime Minister [[Stephen Harper]] filed a suit against the [[Liberal Party of Canada]], the Official Opposition, after the latter paid for trucks to drive through the streets playing a journalist's tape of Harper admitting he knew of "financial considerations" offered to dying MP [[Chuck Cadman]] before a critical [[Canadian House of Commons]] vote in 2005. This, the Liberals and most commentators and authorities agreed, would be a serious crime if proven. Harper alleged the tape had been altered but a court found no evidence of this. The suit was dropped by [[Michael Ignatieff]] after he replaced [[Stephane Dion]] as Leader of the Opposition, and so was not heard in court, but was transparently a (successful) effort to get the trucks off the streets.  . 
+
+===Brazil===. 
+* ThyssenKrupp Atlantic Steel Company (TKCSA), one of the largest private enterprises in Latin America, sues Brazilian researches from public universities as UERJ (Rio de Janeiro State University) and Fiocruz (Oswaldo Cruz Foundation) for moral damages<ref>http://www.justicanostrilhos.org/nota/882</ref>. <ref>http://www.ejolt.org/2012/01/urgent-campaign-to-stop-tkcsa-doing-damage/</ref> First, TKCSA sued the researcher pulmonologist, Hermano Albuquerque de Castro from Sergio Arouca National School of Public Health (ENSP – Fiocruz). Then TKCSA sued Alexandre Pessoa Dias research professor of the Joaquim Venâncio Polytechnic School of Health (EPSJV – Fiocruz) and the biologist Monica Cristina Lima, from Pedro Ernesto University Hospital and board member of the Public University Workers Union of Rio de Janeiro State (Sintuperj). The last two lawsuits occurred after the disclosure of the technical report “Evaluation of social, environmental and health impacts caused by the setup and operation of TKCSA in Santa Cruz”.  . 
+
+==See also==. 
+{{col-begin}}{{col-break}}
+* [[Barratry]]
+* [[Cease and desist]]
+* [[Chilling effect (term)|Chilling effect]]
+* [[Franchise fraud]]
+{{col-break}}
+* [[Lawfare]]
+* [[Legal threat]]
+* [[Media transparency]]
+* [[Public participation]]
+{{col-break}}
+* [[Spamigation]]
+* [[Vexatious litigation]] {{nb10}}
+* [[Frivolous litigation]]
+{{col-end}} . 
+
+===;Case studies===. 
+* [[McDonald's Restaurants v Morris & Steel]]
+* [[Scientology and the legal system]]
+* [[Varian v. Delfino]]
+* [[Horizon Group v. Bonnen]]
+* [[Santa Barbara News-Press controversy#Susan Paterno]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+* {{cite web| url=http://www.attorneygeneral.jus.gov.on.ca/english/anti_slapp|title=Anti-SLAPP Advisory Panel|publisher=[http://www.attorneygeneral.jus.gov.on.ca/english/justice-ont/default.asp Ontario (Canada) Office of the Attorney General]|accessdate=2011-06-29}}
+* Michelangelo Delfino and Mary E. Day, ''Be careful who you SLAPP'' (MoBeta Pub, 2002). ISBN 0-9725141-0-4
+* Ralph Nader and Wesley J. Smith, ''No Contest: Corporate Lawyers and the Perversion of Justice in America'' (Random House, 1998). ISBN 0-375-75258-7
+* [http://www.casp.net/slapps/survival.html Survival Guide for SLAPP Victims] from the [http://www.casp.net/ California Anti-SLAPP Project]
+* Activist SLAPPs Back [http://www.fortbendnow.com/news/activist-slaps-back-in-countersuit-against-sienna-developer/] from Texas [http://www.fortbendnow.com/news/activist-slaps-back-in-countersuit-against-sienna-developer/]
+* [http://query.nytimes.com/gst/fullpage.html?res=9E0CE0D8143EF933A25757C0A9639C8B63 Tenants Sound Off; Landlord Files Suit]
+* [http://www.lawlib.state.ma.us/subject/about/slapp.html Anti-SLAPP Law in Massachusetts]
+* [http://www.courtinfo.ca.gov/cgi-bin/slapp.cgi PDF materials for California suits]
+* [http://www.slapptelstra.com/ SLAPP Telstra] — A Telstra (Australian) SLAPP case. 
+* [http://www.horvitzlevy.com/rewivari.html Varian v. Delfino] — A California SLAPP case. 
+* [http://www.uow.edu.au/arts/sts/sbeder/SLAPPS.html SLAPPs—Strategic Lawsuits Against Public Participation: Coming to a Controversy Near You] — Australian article, includes history of SLAPPs
+* [http://news.bbc.co.uk/2/hi/uk_news/4266209.stm 'McLibel' pair win legal aid case] on BBC news website
+* [http://reclaimdemocracy.org/articles_2005/fine_frivolous_lawsuit.php U.S. judge fines major law firm for filing frivolous SLAPP suit](news story, Aug 2005). 
+* [http://www.phototour.minneapolis.mn.us/essays/vilana.html SLAPP suit in Minnesota against a photographer who spoke up about copyright violation by a corporation]
+* [http://www.orlandosentinel.com/news/local/orange/orl-mgiles2807mar28,0,2382483.story?coll=orl-home-headlines Florida SLAPP Suit, (Veranda Partners v. Larry Giles) – '''Orlando Sentinel''' Mar 2007 – ''Resident: Suit filed to silence criticism'']
+* [http://www.slappsuit.com Oklahoma SLAPP Suit, (Omega World Travel v. MummaGraphics, Inc.) – '''SLAPPSUIT.com''' Apr 2007 – ''Documentary Film.''] . 
+
+{{DEFAULTSORT:Strategic Lawsuit Against Public Participation}}
+[[Category:Legal terms]]
+[[Category:Tort law]]
+[[Category:Lawsuits]]
+[[Category:Abuse of the legal system]]

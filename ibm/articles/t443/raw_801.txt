@@ -1,0 +1,393 @@
+{{Infobox Education
+|country name = England
+|agency image = [[Image:Royal Coat of Arms of the United Kingdom.svg|150px]]
+|agency = [[Department for Education]]<br>[[Department for Business, Innovation and Skills]]
+|leader titles =[[Secretary of State for Education|Secretary of State (Education)]]<br>
+Minister for Universities and Science (BIS)
+|leader names = [[Michael Gove]]<br/><br/>[[David Willetts]]
+|budget = £62.2 billion<ref>Annex A: Total Departmental Spending, [http://publications.dcsf.gov.uk/default.aspx?PageFunction=productdetails&PageMode=publications&ProductId=CM 7391 Departmental report 2008], [[Department for Children, Schools and Families]]. £43 billion total spending on schools. </ref><ref>Table 1 Total Departmental spending, [http://www.dius.gov.uk/annual_report.html Departmental report 2008], [[Department for Innovation, Universities and Skills]].  £14.3 billion spending on HE, £4.9 billion on FE. </ref>
+|budget year = 2008&ndash;09
+|primary languages = [[English English|English]]
+|system type = National
+|established events = Compulsory education
+|established dates = 1880
+|literacy year = 2003<ref>Estimate for the United Kingdom, from [https://www.cia.gov/library/publications/the-world-factbook/geos/uk.html United Kingdom], [[CIA World Factbook]]</ref>
+|literacy total = 99 %
+|literacy men = 99 %
+|literacy women = 99 %
+|enroll total = 11.7 million
+|enroll primary = 4.4 million<ref name="DCSF statistics">Table 1.2: Full-time and Part-time pupils by age, gender and school type, [http://www.dcsf.gov.uk/rsgateway/DB/VOL/v000823/index.shtml Education and Training Statistics for the United Kingdom: 2008], [[Department for Children, Schools and Families]].  Enrolment at independent schools is not partitioned by stages in the source, and has been estimated using an equal division.  The error is within the precision of these figures. </ref>
+|enroll secondary = 3.6 million<ref name="DCSF statistics"/>
+|enroll post-secondary = 3.7 million<ref>{{cite web
+| title = Higher Education Enrolments, and Qualifications Obtained, at Higher Education Institutions in the UK in the Academic Year 2006/07
+| publisher = Higher Education Statistics Agency
+| date = 10 January 2008
+| url = http://www.dcsf.gov.uk/rsgateway/DB/SFR/s000770/index.shtml
+| quote = The total number of HE enrolments at English HEIs stood at 1,957,195 in 2006/07. 
+}}</ref><ref>{{cite web
+| title = Further Education, Work-Based Learning, Train to Gain and Adult Safeguarded Learning - Learner Numbers in England: October 2007
+| publisher = Learning and Skills Council
+| date = 10 April 2008
+| url = http://www.dcsf.gov.uk/rsgateway/DB/SFR/s000779/index.shtml
+| quote = There were 1.75 million learners in LSC-funded FE on 1 October 2007. 
+}}</ref>
+|attain secondary = [[National Qualifications Framework|Level 2 and above]]: 70.7%
+[[National Qualifications Framework|Level 3 and above]]: 50.6% . 
+
+|attain post-secondary = [[National Qualifications Framework|Level 4 and above]]: 30.9% . 
+
+(2007 statistics for population aged 19-64)<ref>http://www.education.gov.uk/rsgateway/DB/SFR/s000798/index.shtml</ref>
+|footnotes =
+}}
+'''Education in England''' is overseen by the [[Department for Education]] and the [[Department for Business, Innovation and Skills]]. [[Local government in England|Local authorities]] (LAs) take responsibility for implementing policy for [[public education]] and [[state schools]] at a regional level.  . 
+
+The education system is divided into [[Nursery school|nursery]] (ages 3–4), [[primary education]] (ages 4–11), [[secondary education]] (ages 11–18) and [[tertiary education]] (ages 18+).  . 
+
+Full-time education is compulsory for all children aged between 5 and 16, with a child beginning primary education during the school year he or she turns 5. <ref>{{cite web|url=http://www.rogalinski.com.pl/jezyki-obce/schools-in-britain/ |title=Schools in the Great Britain |publisher=Rogalinski.com | accessdate=2012-01-07}}</ref> Students may then continue their secondary studies for a further two years ([[sixth form]]), leading most typically to [[GCE Advanced Level|A-level]] qualifications, although other qualifications and courses exist, including [[Business and Technology Education Council]] (BTEC) qualifications, the [[International Baccalaureate]] (IB) and the [[Cambridge Pre-U]]. The leaving age for compulsory education was raised to 18 by the [[Education and Skills Act 2008]]. The change will take effect in 2013 for 16-year-olds and 2015 for 17-year-olds. <ref name="ESA2008">[http://www.opsi.gov.uk/acts/acts2008/ukpga_20080025_en_1 Education and Skills Act 2008], Office of Public Sector Information. </ref> State-provided schooling and sixth form education is paid for by taxes. England also has a tradition of [[Independent school (UK)|independent schooling]], but parents may choose to educate their children by any suitable means.  . 
+
+Higher education often begins with a three-year [[bachelor's degree]]. Postgraduate degrees include [[master's degree|master's degrees]], either taught or by research, and the [[doctorate#United_Kingdom|doctorate]], a research degree that usually takes at least three years. Universities require a [[Royal Charter]] in order to issue degrees, and all but one are financed by the state via tuition fees, which are increasing in size for both home and [[European Union]] students.  . 
+
+==Primary and secondary education==. 
+The school year begins on 1 September (or 1 August if a term starts in August). <ref>[http://www.opsi.gov.uk/si/si1994/Uksi_19941256_en_1.htm The Education (Information as to ''Provision of Education) (England) Regulations 1994''], Statutory Instrument 1994 No. 1256, UK Parliament. </ref> Education is compulsory for all children from their fifth birthday to the last Friday in June of the school year in which they turn 16. <ref>Section 8. Compulsory school age, [http://www.opsi.gov.uk/acts/acts1996/ukpga_19960056_en_1 ''Education Act 1996''], 1996 c.56, UK Parliament. </ref><ref name="School attendance">{{cite web
+| title = School attendance and absence: the law
+| publisher = [[Directgov]]
+| url = http://www.direct.gov.uk/en/Parents/Schoolslearninganddevelopment/YourChildsWelfareAtSchool/DG_066966
+}}</ref> This will be raised, in 2013, to the year in which they turn 17 and, in 2015, to their 18th birthday. <ref name="ESA2008"/> . 
+
+===State-funded school system===. 
+State-run schools and colleges are financed through national [[tax]]ation, and take pupils free of charge between the ages of 3 and 18. The schools may levy charges for activities such as swimming, theatre visits and field trips, provided the charges are voluntary, thus ensuring that those who cannot afford to pay are allowed to participate in such events.  Approximately 93% of English schoolchildren attend such schools.  . 
+
+A significant minority of state-funded schools are [[faith school]]s, which are attached to religious groups, most often the [[Church of England]] or the [[Roman Catholic Church]].  . 
+
+There is also a small number of [[List of state boarding schools in England and Wales|state-funded boarding schools]], which typically charge for board but not tuition. However, the charges are often substantial. For example, Wymondham College charged £8,100 per annum in 2010.  . 
+
+Nearly 90% of state-funded secondary schools are [[specialist school]]s, receiving extra funding to develop one or more subjects in which the school specialises.  . 
+
+====School years====. 
+The table below describes the most common patterns for schooling in the state sector in England. In most cases progression from one year group to another is based purely on chronological age, although it is possible in some circumstances for a student to repeat or skip a year. Repetition may be due to a lack of attendance, for example from a long illness, and especially in Years requiring standard tests. A child significantly more advanced than their classmates may be forwarded one or more years. 
+{| class="wikitable" style="text-align:center"
+. |-
+! Age on 31 August (before school year)
+! Year
+! Curriculum Stage
+! colspan=3 | Schools
+. |-
+| 3 || [[Nursery School|Nursery]] || rowspan=2 | [[Foundation Stage]]
+| colspan=3 | [[Nursery School]]
+. |-
+| 4 || [[Reception (school)|Reception]]
+| rowspan=3 | [[Infant School]]
+| rowspan=7 | [[Primary School]]
+| rowspan=5 | [[First School]]
+. |-
+| 5 || [[Year_One_(education)|Year 1]]  || rowspan=2 | [[Key Stage 1]]
+. |-
+| 6 || [[Year 2]]
+. |-
+| 7 || [[Year 3]]  || rowspan=4 | [[Key Stage 2]]
+| rowspan=4 | [[Junior School]]
+. |-
+| 8 || [[Year 4]]
+. |-
+| 9 || [[Year Five|Year 5]]
+| rowspan=4 | [[List of middle schools in England|Middle School]]
+. |-
+| 10 || [[Year 6]]
+. |-
+| 11 || [[Year 7]] || rowspan=3 | [[Key Stage 3]]
+| rowspan=5 | [[Secondary School|Senior School]]
+| rowspan=7 | Secondary School<br/>with&nbsp;Sixth Form
+. |-
+| 12 || [[Year 8]]
+. |-
+| 13 || [[Year 9]]
+| rowspan=5 | [[Upper School]]&nbsp;or<br/>[[High School]]
+. |-
+| 14 || [[Year 10]] || rowspan=2 | [[Key Stage 4]] / [[General Certificate of Secondary Education|GCSE]]
+. |-
+| 15 || [[Year 11]]
+. |-
+| 16 || [[Year 12]] (Lower Sixth) || rowspan=2 | [[Sixth Form]] / [[GCE Advanced Level|A&nbsp;Level]], [[International Baccalaureate]], [[Cambridge Pre-U]], etc. 
+| rowspan=2 | [[College]]/[[Sixth Form]]
+. |-
+| 17 || [[Year 13]] (Upper Sixth)
+|}
+In the vast majority of cases, pupils progress from primary to secondary levels at age 11; in some areas either or both of the primary and secondary levels are further subdivided. 
+A few areas have [[three-tier education]] systems with an intermediate middle level from age 9 to 13.  . 
+
+While the term ''Sixth Form'' is still widely used to describe years 12 and 13 of the schooling system, the terms ''Upper Sixth'' and ''Lower Sixth'', as well as ''First Year'' through ''Fifth Year'', have fallen out of common usage. That said it is not unusual to find schools, especially independent schools, that still refer to years 7 to 13 in this way.  . 
+
+State-funded nursery education is available from the age of 3, and may be full-time or part-time, though this is not compulsory. 
+If registered with a state school, attendance is compulsory beginning with the term following the child's fifth birthday. Children can be enrolled in the reception year in September of that school year, thus beginning school at age 4 or 4.5. Unless the student chooses to stay within the education system, compulsory school attendance ends on the last Friday in June during the academic year in which a student attains the age of 16. <ref name="School attendance"/> . 
+
+Under the [[National Curriculum (England, Wales and Northern Ireland)|National Curriculum]], all pupils undergo [[National Curriculum assessment|National Curriculum Tests]] (NCTs, commonly still referred to by their previous name of Standard Attainment Tests, or SATs) towards the ends of Key Stage 2 in the core subjects of [[Literacy]], [[Numeracy]] and [[Science]], but not in the foundation subjects such as [[Geography]], [[History]] and [[Information and communication technologies in education|Information & Communication Technology]] where individual teacher assessment is used instead. Pupils normally take [[General Certificate of Secondary Education|GCSE]] exams in the last two years of Key Stage 4, but may also choose to work towards the attainment of alternative qualifications, such as the [[GNVQ]]. 
+Former tests at the end of Key Stage 3 were abandoned after the 2008 tests, where severe problems emerged concerning the marking procedures. Now at the end of Key Stage 1 and Key Stage 3, progress is examined via individual teacher assessment against the National Curriculum Attainment Targets for all subjects. 
+Test results for schools are published, and are an important measure of their performance. <ref name="directgov">{{Cite web|url=http://www.direct.gov.uk/en/Parents/Schoolslearninganddevelopment/ExamsTestsAndTheCurriculum/DG_10013041|title=National Curriculum teacher assessments and key stage tests|accessdate=18 February 2008|publisher=H M Government|year=2008|work=DirectGov website}}</ref><ref name="dcsf">{{Cite web|url=http://www.dcsf.gov.uk/performancetables/|title=School and college achievement and attainment tables |accessdate=18 February 2008|publisher=Department for Children, Schools and Families|year=2008|work=DCSF website}}</ref> . 
+
+[[Image:ShrewsburySixthFormCollege.JPG|thumb|right|[[Shrewsbury Sixth Form College]] in [[Shropshire]]]]
+Years 12 and 13 are often referred to as "lower sixth form" and "upper sixth form" respectively, reflecting their distinct, voluntary nature as the [[GCE Advanced Level|A-level]] years. While most secondary schools enter their pupils for A-levels, some state schools have joined the independent sector in offering the [[International Baccalaureate]] or [[Cambridge Pre-U]] qualifications instead. 
+Some independent schools still refer to Years 7 to 11 as "first form" to "fifth form", reflecting earlier usage. 
+Historically, this arose from the system in [[Public school (UK)|public schools]], where all forms were divided into Lower, Upper, and sometimes Middle sections. Year 7 is equivalent to "Upper Third Form", Year 8 would have been known as "Lower Fourth", and so on. Some independent schools still employ this method of labelling Year groups.  . 
+
+====Curriculum====. 
+{{Main|National Curriculum (England, Wales and Northern Ireland)}}
+All maintained schools in England are required to follow the [[National Curriculum (England, Wales and Northern Ireland)|National Curriculum]], which is made up of twelve subjects. <ref name="teachernet">{{Cite web|url=http://www.teachernet.gov.uk/management/atoz/n/nationalcurriculum/|title=National curriculum|accessdate=19 February 2008|publisher=Department for Children, Schools and Families|year=2007|work=Teachernet}}</ref>
+The core subjects&mdash;[[English studies|English]], [[Mathematics]] and [[Science]]&mdash;are compulsory for all students aged 5 to 16. A range of other subjects, known as ''foundation'' subjects, are compulsory at one or more [[Key Stage]]s:
+* [[Art education|Art & Design]]
+* [[Citizenship education|Citizenship]]
+* [[Design & Technology]]
+* [[Geography]]
+* [[History]]
+* [[Information and communication technologies in education|Information & Communication Technology]]
+* [[Language education|Modern Foreign Languages]]
+* [[Music education|Music]]
+* [[Physical Education]] . 
+
+In addition, other subjects with a non-statutory programme of study in the National Curriculum are also taught, including [[Religious education]] in all Key Stages, [[Sex education]] from Key Stage 2, and Career education and Work-related learning in Key Stages 3 and 4. <ref name="teachernet"/>
+Religious education within community schools may be withdrawn for individual pupils with parental consent. Similarly, parents of children in community schools may choose to opt their child out of some or all sex education lessons.  . 
+
+====School governance====. 
+Almost all state-funded schools in England are maintained schools, which receive their funding from [[local authorities]], and are required to follow the National Curriculum. In such schools, all teachers are employed under the nationally agreed [[School Teachers' Pay and Conditions Document]].  . 
+
+Since 1998, there have been 4 main types of maintained school in England:<ref>{{cite web
+| title = Categories of Schools &ndash; Overview
+| work = GovernorNet | date = 5 September 2003
+| publisher = [[Department for Children, Schools and Families]]
+| url = http://www.governornet.co.uk/cropArticle.cfm?topicAreaId=1&contentId=548&mode=print
+| accessdate = 10 December 2008
+}}</ref><ref>{{cite web
+| title = The Composition of Schools in England
+| publisher = [[Department for Children, Schools and Families]]
+| month = June | year = 2008
+| url = http://www.dcsf.gov.uk/rsgateway/DB/SBU/b000796/TheCompositionOfSchoolsInEnglandFinal.pdf
+|format=PDF}}</ref><ref>[http://www.adviceguide.org.uk/n6w/index/family_parent/education/types_of_school.htm Types of School], [[Citizens Advice Bureau]]. </ref>
+* [[community school]]s (formerly county schools), in which the local authority employs the schools' staff, owns the schools' lands and buildings, and has primary responsibility for admissions. 
+[[Image:StBarnabasCoEPrimarySchoolOxford.jpg|thumb|right|St Barnabas Church of England Primary School, Oxford]]
+* [[voluntary controlled school]]s, which are almost always church schools, with the lands and buildings often owned by a charitable foundation. However, the local authority employs the schools' staff and has primary responsibility for admissions. 
+* [[voluntary aided school]]s, linked to a variety of organisations. They can be faith schools (often the [[Church of England]] or the [[Roman Catholic Church]]), or non-denominational schools, such as those linked to London [[Livery Companies]]. The charitable foundation contributes towards the capital costs of the school, and appoints a majority of the [[school governors]]. The governing body employs the staff and has primary responsibility for admissions. <ref>{{cite web
+| title = Voluntary Aided Schools
+| publisher = [[Department for Children, Schools and Families]]
+| work = Teachernet
+| date = 8 January 2008
+| url = http://www.teachernet.gov.uk/management/resourcesfinanceandbuilding/FSP/voluntaryaidedschools/
+}}</ref>
+* [[foundation school]]s, in which the governing body employs the staff and has primary responsibility for admissions. School land and buildings are owned by the governing body or by a charitable foundation. The Foundation appoints a minority of governors. Many of these schools were formerly [[grant maintained school]]s. In 2005 the Labour government proposed allowing all schools to become Foundation schools if they wished.  . 
+
+There are also a smaller number of [[City Technology College]]s and [[Academy (English school)|academies]], which are secondary schools funded and monitored directly by the Department for Education. <ref>{{cite web
+| title = What are Academies?
+| work = Standards Site
+| publisher = [[Department for Children, Schools and Families]]
+| url = http://www.standards.dfes.gov.uk/academies/what_are_academies/
+| accessdate = 10 December 2008
+}}</ref> Academies can also accept funding from private sources such as individuals or companies. The current government is greatly expanding the academy scheme by encouraging many schools to convert to Academy status.  . 
+
+All state-funded schools are regularly inspected by the [[Office for Standards in Education]], often known simply as Ofsted. Ofsted publish reports on the quality of education at a particular school on a regular basis. 
+Schools judged by Ofsted to be providing an inadequate standard of education may be subject to [[special measures]], which could include replacing the governing body and senior staff.  . 
+
+====Secondary schools by intake====. 
+[[Image:AllertonHigh1.jpg|thumb|right|[[Allerton High School]], a typical former [[secondary modern]] school in [[Leeds]], [[West Yorkshire]].]]
+English secondary schools are mostly [[comprehensive school|comprehensive]], except in a few areas that retain a form of the previous selective system (the [[Tripartite System]]), with students selected for [[grammar school]] by the [[eleven plus exam]]. 
+There are also a number of isolated fully selective grammar schools, and a few dozen [[partially selective school (England)|partially selective school]]s. 
+Specialist schools may also select up to 10% of their intake for aptitude in the specialism, though relatively few of them have taken up this option. 
+The intake of comprehensive schools can vary widely, especially in urban areas with several local schools. <ref>{{cite journal
+| title = The Right to a Comprehensive Education
+| author = Clyde Chitty
+| version = Second Caroline Benn Memorial Lecture
+| date = 16 November 2002
+| url = http://www.socialisteducation.org.uk/CB2.htm
+| accessdate = 22 January 2009
+}}</ref> . 
+
+[[Peter Newsam|Sir Peter Newsam]], Chief Schools Adjudicator 1999&ndash;2002, has argued that English schools can be divided into 8 types (with some overlap), based on the ability range of their intake:
+# "super-selective": almost all of the intake from the top 10%. These are the few highly selective grammar schools that dominate school performance tables. 
+# "selective": almost all of the intake from the top 25%. These include grammar schools in areas where the Tripartite system survives. 
+# "comprehensive (plus)": admit children of all abilities, but concentrated in the top 50%. These include partially selective schools and a few high-status [[faith school]]s in areas without selection. 
+# comprehensive: intake with an ability distribution matching the population. These schools are most common in rural areas and small towns with no nearby selection, but a few occur in urban areas. 
+# "comprehensive (minus)": admit children of all abilities, but with few in the top 25%. These include comprehensive schools with nearby selective schools "skimming" the intake. 
+# [[secondary modern]]: hardly any of the intake in the top 25%, but an even distribution of the rest. These include non-selective schools in areas where the Tripartite system survives. 
+# "secondary modern (minus)": no pupils in the top 25% and 10&ndash;15% in the next 25%. These schools are most common in urban areas where alternatives of types 1&ndash;5 are available. 
+# "sub-secondary modern": intake heavily weighted toward the low end of the ability range. 
+This ranking is reflected in performance tables, and thus the schools' attractiveness to parents. Thus, although schools may use the phrase 'comprehensive' in their prospectus or name, the schools at the higher end of the spectrum are not comprehensive in intake. Indeed, the variation in the social groupings in school intake, and the differences in academic performance, are enormous. <ref>Peter Newsam. "Diversity and Admissions to English Secondary Schools", Secondary Heads Association, 28 June 2002, revised and reprinted in [http://www.wwwords.co.uk/forum/content/pdfs/45/issue45_1.asp ''Forum'' 45:1] (2003) pp17-18. </ref><ref>Tim Brighouse. "Comprehensive Schools Then, Now and in the Future: is it time to draw a line in the sand and create a new ideal?",  [http://www.wwwords.co.uk/forum/content/pdfs/45/issue45_1.asp ''Forum'' 45:1] (2003) pp3-11. </ref> . 
+
+===Independent schools===. 
+{{Expand section|date=January 2009}}
+{{main|Independent school (UK)}}
+Approximately 7% of schoolchildren in England attend privately run [[independent schools]], commonly called "private schools", whilst private sixth forms are attended by around 18% of students. Independent schools do not have to follow the National Curriculum, and their teachers are not required or regulated by law to have official teaching qualifications. Some of the earliest established independent schools are known for historical reasons as "[[public school (Britain)|public school]]s". <ref name="DCSF statistics"/> . 
+
+Education at independent schools is usually chargeable. Such schools, some of which are [[boarding schools]], cover primary and/or secondary education and charge between £2,500 and £30,000 per year. <ref>{{cite web
+| title = ISC Annual Census 2009
+| publisher = Independent Schools Council
+| date = 29 April 2009
+| url = http://www.isc.co.uk/publication_8_0_0_11_561.htm
+| accessdate = 26 November 2009
+}}</ref>
+Some schools offer scholarships for those with particular skills or aptitudes, or [[bursary|bursaries]] to allow students from less financially well-off families to attend.  . 
+
+Traditionally, many private schools have been single-sex, but a growing number are now co-educational (mixed-sex). Traditional public schools such as [[Radley College|Radley]], [[Winchester College|Winchester]], [[Eton College|Eton]] and [[Harrow School|Harrow]] take boys at 13 years of age. Many students must pass the [[Common Entrance Exam]] at 11 or 13 to gain entry into highly selective schools. As in the state sector, there is a hierarchy of independent schools with schools towards the top of the hierarchy attracting applications from the strongest 11- or 13-year-olds. The net effect is one of 'distillation of talent', which may explain their academic success.  . 
+
+===Education by means other than schooling===. 
+The Education Act requires parents to ensure their children are educated either by attending school or alternative means. Small but increasing numbers of parents are choosing to educate their children by means other than schooling. <ref>{{cite news
+| title = Rising number of parents decide they can do a better job than the education system
+| author = Richard Garner
+| work = [[The Independent]] | location = London | date = 28 January 2002
+| url = http://www.independent.co.uk/news/education/education-news/rising-number-of-parents-decide-they-can-do-a-better-job-than-the-education-system-671478.html
+| accessdate = 9 December 2008
+}}</ref><ref>{{cite web
+| title = Growth market in home education
+| author = Mathew Charles
+| work = BBC News | date = 18 March 2005
+| url = http://news.bbc.co.uk/1/hi/education/4362145.stm
+| accessdate = 9 December 2008
+}}</ref><ref>{{cite web
+| title = UK home-school cases soar
+| author = Katie Razzall | coauthors = Lewis Hannam
+| work = Channel 4 News | date = 26 September 2007
+| url = http://www.channel4.com/news/articles/society/education/uk+homeschool+cases+soar/847157
+| accessdate = 9 December 2008
+}}</ref>  This style of education is often referred to as Elective Home Education. <ref>{{cite web
+| title = Elective Home Education: Guidelines for Local Authorities
+| publisher = [[Department for Children, Schools and Families]]
+| year = 2007
+| url = http://www.dcsf.gov.uk/localauthorities/_documents/content/7373-DCSF-Elective%20Home%20Education.pdf
+|format=PDF| accessdate = 10 December 2008
+}}</ref>  The education can take a variety of forms,<ref>{{cite book
+| title = Free Range Education: How Home Education Works
+| author = Terri Dowty (editor)
+| publisher = Hawthorn Press | year = 2000 | isbn = 1903458072
+}}</ref> ranging from [[Home_schooling#United_Kingdom|homeschooling]] where a school-style curriculum is followed at home, to [[unschooling]], where any semblance of structure in the educational provision is abandoned. Parents do not need permission to educate their own children. There is no requirement for parents to follow the National Curriculum, or to give formal lessons. Parents do not need to be qualified teachers, or to follow school hours and terms. <ref>{{cite web
+| title = Educating your child at home
+| work = Directgov
+| url = http://www.direct.gov.uk/en/Parents/Schoolslearninganddevelopment/ChoosingASchool/DG_4016124
+| accessdate = 9 December 2008
+}}</ref> Parents who choose to educate their children outside of school must finance their childrens education themselves.  . 
+
+===Further education===. 
+{{main|Further education#England}}
+Students at both state schools and independent schools typically take [[GCSE]] examinations, which mark the end of compulsory education. Above school-leaving age, the independent and state sectors are similarly structured. 
+In the 16–18 age group, sixth form education is not compulsory at present, although mandatory education until the age of 18 is to be phased in under the [[Education and Skills Act 2008]]. 
+This will take effect for 16-year-olds in 2013, and for 17-year-olds in 2015.  . 
+
+Students will typically study in the sixth form of a school, in a separate [[sixth form college]], or in a [[further education college]]. 
+These courses can also be studied by adults over 18. This sector is referred to as [[Further Education]]. Some 16-18 students will be encouraged to study [[Key Skills Qualification|Key Skills]] in Communication, Application of Number, and Information Technology at this time.  . 
+
+==Higher education==. 
+[[Image:KingsCollegeChapelWest.jpg|thumb|right|The chapel of [[King's College, Cambridge|King's College]], [[Cambridge University]].]]
+[[Image:LSE large.jpg|right|thumb|[[London School of Economics]] Library Roof]]
+{{main|Universities in the United Kingdom}}
+Students normally enter [[university]] from age 18 onwards, and study for an [[academic degree]]. Historically, all undergraduate education outside the private [[University of Buckingham]] and BPP University College was largely state-financed, with a small contribution from [[top-up fees]], however fees of up to £9,000 per annum will be charged from October 2012. There is a distinct hierarchy among universities, with the [[Russell Group]] containing most of the country's more prestigious, research-led and research-focused universities. The state does not control university syllabuses, but it does influence admission procedures through the [[Office for Fair Access]] (OfFA), which approves and monitors access agreements to safeguard and promote fair access to higher education. Unlike most degrees, the state still has control over [[teacher education|teacher training]] courses, and uses its [[Ofsted]] inspectors to maintain standards. <ref>{{cite web
+| title = Teacher training providers
+| publisher = [[Office for Standards in Education]]
+| date = 5 December 2008
+| url = http://www.ofsted.gov.uk/Ofsted-home/Forms-and-guidance/Browse-all-by/Education-and-skills/Teacher-training-providers
+}}</ref> . 
+
+The typical [[Undergraduate degree|first degree]] offered at English universities is the [[bachelor's degree]], and usually lasts for three years. Many institutions now offer an undergraduate [[master's degree]] as a first degree, which typically lasts for four years. During a first degree students are known as [[undergraduate]]s. The difference in fees between [[undergraduate]] and traditional [[postgraduate]] master's degrees (and the possibility of securing LEA funding for the former) makes taking an undergraduate master's degree as a first degree a more attractive option, although the novelty of undergraduate master's degrees means that the relative educational merit of the two is currently unclear.  . 
+
+Some universities offer a vocationally based [[foundation degree]], typically two years in length for those students who hope to continue on to a first degree but wish to remain in employment.  . 
+
+===Postgraduate education===. 
+Students who have completed a [[Undergraduate degree|first degree]] are eligible to undertake a [[postgraduate]] degree, which might be a: . 
+
+* [[Master's degree]] (typically taken in one year, though research-based master's degrees may last for two)
+* [[Doctorate]] (typically taken in three years) . 
+
+Postgraduate education is not automatically financed by the state, and so admissions are highly competitive.  . 
+
+===Specialist qualifications===. 
+[[Image:BirminghamUniversityChancellorsCourt.jpg|thumb|right|The [[University of Birmingham]], a '[[Red Brick university]]'.]]
+* Education: [[Postgraduate Certificate in Education]] (PGCE), [[Certificate in Education]] (Cert Ed), [[City and Guilds of London Institute]] (C&G), or [[Bachelor of Education]] (BA or BEd), most of which also incorporate [[Qualified Teacher Status]] (QTS). 
+* Law: [[Bachelor of Laws]] (LLB). 
+* Medicine: [[Bachelor of Medicine, Bachelor of Surgery]], studied at [[Medical school (United Kingdom)|medical school]]
+* Business: [[Master of Business Administration]] (MBA). 
+* Psychology:  Doctor of [[Educational Psychology]] (D.Ed.Ch.Psychol) or [[Clinical Psychology]] (D.Clin.Psych.).  . 
+
+===Fees===. 
+In the academic year 2011-2012, most undergraduates paid fees that were set at a maximum of £3,375 per annum. These fees are repayable after graduation, contingent on attaining a certain level of income, with the state paying all fees for students from the poorest backgrounds. UK students are generally entitled to [[student loan]]s for maintenance. Undergraduates admitted for the academic year 2012-2013 will pay tuition fees set at a maximum of up to £9,000 per annum, with most universities charging over £6,000 per annum, and other higher education providers charging less.  . 
+
+Postgraduate fees vary but are generally more than undergraduate fees, depending on the degree and university. There are numerous bursaries (awarded to low income applicants) to offset undergraduate fees and, for postgraduates, full scholarships are available for most subjects, and are usually awarded competitively.  . 
+
+Different arrangements will apply to English students studying in [[Education in Scotland|Scotland]], and to [[Education in Scotland|Scottish]] and [[Education in Wales|Welsh]] students studying in England. Students from outside the UK and the [[EU]] attending English universities are charged differing amounts, often in the region of £5,000 - £20,000 per annum<ref>{{cite web
+ |url=http://www.ukcisa.org.uk/student/fees_student_support.php
+ |title=UKCISA - Fees, funding and Student Support
+ |accessdate=25 February 2010}} UK Council for International Student Affairs > How much will the 'overseas' fee for my course be?</ref> for undergraduate and postgraduate degrees. The actual amount differs by institution and subject, with the lab based subjects charging a greater amount.  . 
+
+==Adult education==. 
+[[Adult education]], [[continuing education]] or [[lifelong learning]] is offered to students of all ages. This can include the vocational qualifications mentioned above, and also:
+* One or two year [[access course]]s, to allow adults without suitable qualifications access to university. 
+* The [[Open University]] runs undergraduate and postgraduate distance learning programmes. 
+* The [[Workers' Educational Association]] offers large number of semi-recreational courses, with or without qualifications, made available by Local Education Authorities under the guise of Adult Education. Courses are available in a wide variety of areas, such as holiday languages, crafts and yacht navigation.  . 
+
+==Progression==. 
+2007 statistics:<ref>http://www.education.gov.uk/rsgateway/DB/SFR/s000798/index.shtml</ref> Percentage of population aged 19-64 who have progressed to each level: . 
+
+*[[National Qualifications Framework|National Qualifications Framework (NQF) Level 2 and above]]: 70.7% (highest among 25-29 y/o - 76.9%)
+*[[National Qualifications Framework|NQF Level 3 and above]]: 50.6% (highest among 25-29 y/o - 57.7%)
+*[[National Qualifications Framework|NQF Level 4 and above]]: 30.9% (highest among 30-34 y/o - 39.1%) . 
+
+==Criticism==. 
+{| class="wikitable"  style="text-align:center" align="right" border="1"
+|+ Pupils claiming free school meals (2010)<ref name=guardiandata-20120305>{{cite news |url=http://www.guardian.co.uk/news/datablog/2012/mar/05/faith-schools-admissions |title=How many poor children go to faith schools? |newspaper=The Guardian |date=5 March 2012 |accessdate=7 March 2012}}</ref>
+. |-
+! School type !! Primary || Secondary
+. |-
+| All || 19.3% || 15.2%
+. |-
+| Church of England || 13.1% || 12.0%
+. |-
+| Roman Catholic || 16.3% || 14.0%
+. |-
+| Non-religious || 21.5% || 15.6%
+|}
+{| class="wikitable"  style="text-align:center" align="right" border="1"
+|+ Schools with less free school meal children than local postcode average (2010)<ref name=guardiandata-20120305 />
+. |-
+! School type !! Primary || Secondary
+. |-
+| Church of England || 63.5% || 39.6%
+. |-
+| Roman Catholic || 76.3% || 64.7%
+. |-
+| Non-religious || 47.3% || 28.8%
+|}
+An analysis of 2010 school data by ''[[The Guardian]]'' found that state faith schools were not taking a fair share of the poorest pupils in their local areas, as indicated by free school meal entitlement. Not only was this so at an overall national level, but also in the postcode areas nearby the schools. This suggested selection by religion was leading to selection of children from more well-off families. <ref>{{cite news |url=http://www.guardian.co.uk/education/2012/mar/05/church-schools-shun-poorest-pupils |title=Church schools shun poorest pupils |author=Jessica Shepherd and Simon Rogers |newspaper=The Guardian |date=5 March 2012 |accessdate=7 March 2012}}</ref> . 
+
+The [[Confederation of British Industry]] is complaining of falling academic standards.  Employers often experience difficulty in finding young people who have such basic employability skills as [[literacy]], [[numeracy]], [[problem solving]], [[teamwork]]ing and [[time management]]. As a result, employers either have to pay for employees' [[remedial education]], or they must hire foreign candidates. <ref>
+{{Cite web   | title = Education and skills survey 2011 | publisher = Confederation of British Industry  | url = http://www.cbi.org.uk/media/1051530/cbi__edi_education___skills_survey_2011.pdf | accessdate = 12 March 2012}}</ref><ref>
+{{Cite web  | title = Boosting employability skills  | publisher = Confederation of British Industry  | url = http://www.cbi.org.uk/business-issues/education-and-skills/in-focus/employability/| accessdate = 29 October 2011}}</ref> . 
+
+[[Katharine Birbalsingh]] has written of the problems she perceives in the English education system. She cites unruly and emotionally disturbed pupils, difficulty in getting a class to listen, broken homes, bad teachers who cannot be dismissed, and government policies encouraging "soft" subjects. Birbalsingh has visited schools in Jamaica and India where pupils are desperate to gain the kind of education to which pupils (and their parents) in her own school were indifferent. She was a deputy head teacher in south London until she spoke at a Conservative Party Conference in 2010 and was quickly sacked. <ref>Katharine Birbalsingh (2011). ''To Miss with Love''. Viking. ISBN 0670918997 </ref> Frank Chalk, who taught at an inner city school for ten years before resigning in frustration, makes similar claims. <ref>Frank Chalk (2006). ''It's Your Time You're Wasting: A Teacher's Tales of Classroom Hell''. Monday Books. ISBN 9780955285400</ref> . 
+
+A survey of 2000 [[teacher]]s by ''The Guardian'' in 2011 cited a recurring reason for not enjoying the job. A lack of trust was referred to by respondents in the survey's "free text" area for extra comments, and related to senior staff, parents and governments. <ref name="guardian treated as professionals">{{cite news | url=http://www.guardian.co.uk/education/2011/oct/03/teacher-survey-professionals-bullying-parents | title=Guardian survey finds teachers want to be treated as professionals | work=[[The Guardian]] | date=2011-10-03 | accessdate=October 05, 2011 | author=Berliner, Wendy | location=London | quote=Many wrote: 'I love teaching but...' [...] fed up with governments that don't trust them [...] One former solicitor, now questioning the sense of the career switch, said: "There is a profound lack of respect by senior staff and parents for the quality of work and quantity of work undertaken by teachers. [...]"}}</ref> Writing about her own reasons for leaving teaching, a contributing editor to the newspaper's ''Guardian Teacher Network'' described the realisation of needing to leave the profession as having slowly crept up on her. Being a mature entrant, she questioned things in her aspiration to improve education and was reluctant to "be moulded into a standard shape". <ref name="guardian why i left">{{cite news | url=http://www.guardian.co.uk/teacher-network/2011/oct/05/why-i-left-teaching-teacher-network-survey-career | title=Why I left teaching | work=[[The Guardian]] | date=2011-10-05 | accessdate=October 06, 2011 | author=Drury, Emma | location=London | quote=[leaving teaching] just kind of crept up on me until I had had enough. [...] The problem, I think, was me. I wasn't a fresh out of college squashy NQT ready to be moulded into a standard shape. [...] I questioned things and I answered back. I was determined to make things better.}}</ref> . 
+
+==See also==. 
+*[[School uniforms in England]]
+*[[Education by country]]
+*[[Education in Wales]]
+*[[Education in Scotland]]
+*[[List of schools in England]]
+*[[National Union of Students (United Kingdom)]]
+*[[City Learning Centre]]
+*[[Science Learning Centres]]
+*[[History of education in England]] . 
+
+==References==. 
+{{Reflist}} . 
+
+==External links==. 
+*[http://www.education.gov.uk/ Department for Education]
+*[http://www.bis.gov.uk/ Department for Business, Innovation and Skills]
+*[http://www.educationengland.org.uk/history/ A history of education in England by Derek Gillard, an advocate of the comprehensive system]
+*{{cite study | title = The Skills for Life survey: A national needs and impact survey of literacy, numeracy and ICT skills | work = Research Brief RB490 | publisher = [[Department for Education and Skills (United Kingdom)|Department for Education and Skills]] | year = 2003 | url = https://www.education.gov.uk/publications/standard/publicationDetail/Page1/RR490}}
+*{{cite study | title = Skills for Life: Progress in Improving Adult Literacy and Numeracy | publisher = House of Commons Public Accounts Committee | date = 14 January 2009 | url = http://www.publications.parliament.uk/pa/cm200809/cmselect/cmpubacc/154/154.pdf|format=PDF}}
+*[http://www.guardian.co.uk/education Guardian Special Report - Education] . 
+
+{{England topics}}
+{{Education in England}}
+{{Education in Europe}} . 
+
+{{Use dmy dates|date=January 2011}} . 
+
+{{DEFAULTSORT:Education In England}}
+<!--Categories-->
+[[Category:Education in England]]
+[[Category:Secondary education by country]]

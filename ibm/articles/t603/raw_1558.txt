@@ -1,0 +1,386 @@
+The '''United States Senate Committee on Appropriations''' is a [[standing committee]] of the [[United States Senate]]. It has jurisdiction over all [[discretionary spending]] [[legislation]] in the Senate. 
+[[Image:W corr1 us capitol.jpg|thumb|200px|The entrance to the Senate Appropriations Committee in the [[United States Capitol]]]]
+The Senate Appropriations Committee is the largest committee in the U.S. Senate, with 30 members at the end of the [[111th Congress]]. Its role is defined by the [[U.S. Constitution]], which requires "appropriations made by law" prior to the expenditure of any money from the Treasury, and is therefore one of the most powerful committees in the Senate.{{Ref|charter}} The committee was first organized on March 6, 1867, when power over appropriations was taken out of the hands of the [[U.S. Senate Committee on Finance|Finance Committee]].{{Ref|history}} . 
+
+The chairman of the Appropriations Committee has enormous power to bring home special projects (sometimes referred to as "[[Pork barrel|pork barrel spending]]") for his or her state as well as having the final say on other senators' appropriation requests.{{Ref|pork}} For example, in [[fiscal year]] 2005 [[per capita]] federal spending in Alaska, the home state of then-Chairman [[Ted Stevens]], was $12,000, double the national average. Alaska has 11,772 special earmarked projects for a combined cost of $15,780,623,000. This represents about 4% of the overall spending in the $388 billion Consolidated Appropriations Act of 2005 passed by Congress.{{Ref|12k}} . 
+
+==The appropriations process==. 
+[[Image:GATES APPRO.jpg|thumb|right|350px|Former Committee Chairman [[Robert Byrd]] (D-WV, far right) shakes hands with Secretary of Defense [[Robert Gates]] while Sen. [[Patrick Leahy]] (D-VT, center right) and Sen. [[Tom Harkin]] (D-IA) look on. The hearing was held to discuss further funding for the [[War in Iraq]].]] . 
+
+The federal budget is divided into two main categories: [[United States budget process#Discretionary vs. mandatory spending|discretionary spending and mandatory spending]]. Each appropriations subcommittee develops a draft [[appropriations bill]] covering each agency under its jurisdiction based on the [[United States budget process#Budget resolution|Congressional Budget Resolution]], which is drafted by an analogous Senate [[United States Senate Committee on Budget|Budget committee]]. Each subcommittee must adhere to the spending limits set by the budget resolution and allocations set by the full Appropriations Committee, though the full Senate may vote to waive those limits if 60 senators vote to do so. The committee also reviews supplemental spending bills (covering unforeseen or emergency expenses not previously budgeted).  . 
+
+Each appropriations bill must be passed by both houses of [[United States Congress|Congress]] and signed by the president prior to the start of the federal fiscal year, October 1. If that target is not met, as has been common in recent years, the committee drafts a [[continuing resolution]], which is then approved by Congress and signed by the President to keep the federal government operating until the individual bills are approved.  . 
+
+==Members, 112th Congress==. 
+The Committee is currently chaired by [[United States Democratic Party|Democrat]] [[Daniel Inouye]] of [[Hawaii]], and the [[Ranking Member]] is [[United States Republican Party|Republican]] [[Thad Cochran]], of [[Mississippi]].  . 
+
+{| class=wikitable
+! Majority
+! Minority
+. |-
+| {{party shading/Democratic}} valign=top |
+* [[Daniel Inouye]], Hawaii, ''Chairman''
+* [[Patrick Leahy]], Vermont
+* [[Tom Harkin]], Iowa
+* [[Barbara Mikulski]], Maryland
+* [[Herb Kohl]], Wisconsin
+* [[Patty Murray]], Washington
+* [[Dianne Feinstein]], California
+* [[Dick Durbin]], Illinois
+* [[Tim Johnson (U.S. Senator)|Tim Johnson]], South Dakota
+* [[Mary Landrieu]], Louisiana
+* [[Jack Reed (politician)|Jack Reed]], Rhode Island
+* [[Frank Lautenberg]], New Jersey
+* [[Ben Nelson]], Nebraska
+* [[Mark Pryor]], Arkansas
+* [[Jon Tester]], Montana
+* [[Sherrod Brown]], Ohio
+| {{party shading/Republican}} valign=top |
+* [[Thad Cochran]], Mississippi, ''Vice Chairman''
+* [[Mitch McConnell]], Kentucky
+* [[Richard Shelby]], Alabama
+* [[Kay Bailey Hutchison]], Texas
+* [[Lamar Alexander]], Tennessee
+* [[Susan Collins]], Maine
+* [[Lisa Murkowski]], Alaska
+* [[Lindsey Graham]], South Carolina
+* [[Mark Kirk]], Illinois
+* [[Dan Coats]], Indiana
+* [[Roy Blunt]], Missouri
+* [[Jerry Moran]], Kansas
+* [[John Hoeven]], North Dakota
+* [[Ron_Johnson_(Wisconsin_politician)|Ron Johnson]], Wisconsin
+|} . 
+
+Source: {{USCongRec|2011|S557}} . 
+
+==Subcommittees==. 
+{| class="wikitable"
+! width=50% | Subcommittee
+! Chair
+! Ranking Member
+. |-
+| [[United States Senate Appropriations Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies|Agriculture, Rural Development, Food and Drug Administration, and Related Agencies]]
+| [[Herb Kohl]] (D-WI)
+| [[Roy Blunt]] (R-MO)
+. |-
+| [[United States Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies|Commerce, Justice, Science, and Related Agencies]]
+| [[Barbara Mikulski]] (D-MD)
+| [[Kay Bailey Hutchison]] (R-TX)
+. |-
+| [[United States Senate Appropriations Subcommittee on Defense|Defense]]
+| [[Daniel Inouye]] (D-HI)
+| [[Thad Cochran]] (R-MS)
+. |-
+| [[United States Senate Appropriations Subcommittee on Energy and Water Development|Energy and Water Development]]
+| [[Dianne Feinstein]] (D-CA)
+| [[Lamar Alexander]] (R-TN)
+. |-
+| [[United States Senate Appropriations Subcommittee on Financial Services and General Government|Financial Services and General Government]]
+| [[Dick Durbin]] (D-IL)
+| [[Jerry Moran]] (R-KS)
+. |-
+| [[United States Senate Appropriations Subcommittee on Homeland Security|Homeland Security]]
+| [[Mary Landrieu]] (D-LA)
+| [[Dan Coats]] (R-IN)
+. |-
+| [[United States Senate Appropriations Subcommittee on Interior, Environment, and Related Agencies|Interior, Environment, and Related Agencies]]
+| [[Jack Reed (politician)|Jack Reed]] (D-RI)
+| [[Lisa Murkowski]] (R-AK)
+. |-
+| [[United States Senate Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies|Labor, Health and Human Services, Education, and Related Agencies]]
+| [[Tom Harkin]] (D-IA)
+| [[Richard Shelby]] (R-AL)
+. |-
+| [[United States Senate Appropriations Subcommittee on Legislative Branch|Legislative Branch]]
+| [[Ben Nelson]] (D-NE)
+| [[John Hoeven]] (R-ND)
+. |-
+| [[United States Senate Appropriations Subcommittee on Military Construction, Veterans Affairs, and Related Agencies|Military Construction, Veterans Affairs, and Related Agencies]]
+| [[Tim Johnson (U.S. Senator)|Tim Johnson]] (D-SD)
+| [[Mark Kirk]] (R-IL)
+. |-
+| [[United States Senate Appropriations Subcommittee on State, Foreign Operations, and Related Programs|State, Foreign Operations, and Related Programs]]
+| [[Patrick Leahy]] (D-VT)
+| [[Lindsey Graham]] (R-SC)
+. |-
+| [[United States Senate Appropriations Subcommittee on Transportation, Housing and Urban Development, and Related Agencies|Transportation, Housing and Urban Development, and Related Agencies]]
+| [[Patty Murray]] (D-WA)
+| [[Susan Collins]] (R-ME)
+|} . 
+
+===Committee reorganization during the 110th Congress===. 
+At the outset of the 110th Congress, Chairman Robert Byrd and Chairman [[Dave Obey]], his counterpart on the [[United States House Committee on Appropriations|House Appropriations Committee]], developed a committee reorganization plan that provided for common subcommittee structures between both houses, a move that the both chairmen hope will allow Congress to "complete action on each of the government funding on time for the first time since 1994."{{Ref|sub}}{{Ref|sub2}} The subcommittees were last overhauled between the [[107th United States Congress|107th]] and [[108th United States Congress|108th Congresses]], after the creation of the [[United States Senate Appropriations Subcommittee on Homeland Security|Subcommittee on Homeland Security]] and again during the [[109th United States Congress|109th Congress]], when the number of subcommittees was reduced from 13 to 12.  . 
+
+A key part of the new subcommittee organization was the establishment of a new [[United States Senate Appropriations Subcommittee on Financial Services and General Government|Subcommittee on Financial Services and General Government]], which consolidates funding for the [[United States Department of the Treasury|Treasury Department]], the [[United States federal courts|United States federal judiciary]], and the [[District of Columbia]]. These functions were previously handled by two separate Senate subcommittees.  . 
+
+==Chairmen of the Appropriations Committee, 1867-present==. 
+{| border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse"
+|
+|'''Name'''
+|'''Party'''
+|'''State'''
+|'''Years'''
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Lot M. Morrill]]
+| [[United States Republican Party|Republican]]
+| [[Maine]]
+|1867–1869
+. |-
+{{American politics/party colours/Republican/row}}
+| [[William P. Fessenden]]
+| [[United States Republican Party|Republican]]
+| [[Maine]]
+|1869
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Lot M. Morrill]]
+| [[United States Republican Party|Republican]]
+| [[Maine]]
+|1869–1871
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Cornelius Cole]]
+| [[United States Republican Party|Republican]]
+| [[California]]
+|1871–1873
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Lot M. Morrill]]
+| [[United States Republican Party|Republican]]
+| [[Maine]]
+|1873–1876
+. |-
+{{American politics/party colours/Republican/row}}
+| [[William Windom]]
+| [[United States Republican Party|Republican]]
+| [[Minnesota]]
+|1876–1879
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Henry G. Davis]]
+| [[United States Democratic Party|Democratic]]
+| [[West Virginia]]
+|1879–1881
+. |-
+{{American politics/party colours/Republican/row}}
+| [[William B. Allison]]
+| [[United States Republican Party|Republican]]
+| [[Iowa]]
+|1881–1893
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Francis M. Cockrell]]
+| [[United States Democratic Party|Democratic]]
+| [[Missouri]]
+|1893–1895
+. |-
+{{American politics/party colours/Republican/row}}
+| [[William B. Allison]]
+| [[United States Republican Party|Republican]]
+| [[Iowa]]
+|1895–1908
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Eugene Hale]]
+| [[United States Republican Party|Republican]]
+| [[Maine]]
+| 1908–1911
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Francis E. Warren]]
+| [[United States Republican Party|Republican]]
+| [[Wyoming]]
+| 1913–1919
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Thomas S. Martin]]
+| [[United States Democratic Party|Democratic]]
+| [[Virginia]]
+| 1913–1919
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Francis E. Warren]]
+| [[United States Republican Party|Republican]]
+| [[Wyoming]]
+| 1919–1929
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Wesley L. Jones]]
+| [[United States Republican Party|Republican]]
+| [[Washington (U.S. state)|Washington]]
+| 1929–1932
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Frederick Hale]]
+| [[United States Republican Party|Republican]]
+| [[Maine]]
+| 1932–1933
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Carter Glass]]
+| [[United States Democratic Party|Democratic]]
+| [[Virginia]]
+| 1933–1946
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Kenneth D. McKellar]]
+| [[United States Democratic Party|Democratic]]
+| [[Tennessee]]
+| 1946–1947
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Styles Bridges]]
+| [[United States Republican Party|Republican]]
+| [[New Hampshire]]
+| 1947–1949
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Kenneth D. McKellar]]
+| [[United States Democratic Party|Democratic]]
+| [[Tennessee]]
+| 1949–1953
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Styles Bridges]]
+| [[United States Republican Party|Republican]]
+| [[New Hampshire]]
+| 1953–1955
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Carl Hayden]]
+| [[United States Democratic Party|Democratic]]
+| [[Arizona]]
+| 1955–1969
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Richard Russell Jr.|Richard B. Russell Jr.]]
+| [[United States Democratic Party|Democratic]]
+| [[Georgia (U.S. state)|Georgia]]
+| 1969–1971
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Allen J. Ellender]]
+| [[United States Democratic Party|Democratic]]
+| [[Louisiana]]
+| 1971–1972
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[John L. McClellan]]
+| [[United States Democratic Party|Democratic]]
+| [[Arkansas]]
+| 1972–1977
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Warren G. Magnuson]]
+| [[United States Democratic Party|Democratic]]
+| [[Washington (U.S. state)|Washington]]
+| 1977–1981
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Mark O. Hatfield]]
+| [[United States Republican Party|Republican]]
+| [[Oregon]]
+| 1981–1987
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[John C. Stennis]]
+| [[United States Democratic Party|Democratic]]
+| [[Mississippi]]
+| 1987–1989
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Robert C. Byrd]]
+| [[United States Democratic Party|Democratic]]
+| [[West Virginia]]
+| 1989–1995
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Mark O. Hatfield]]
+| [[United States Republican Party|Republican]]
+| [[Oregon]]
+| 1995–1997
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Ted Stevens|Theodore F. Stevens]]
+| [[United States Republican Party|Republican]]
+| [[Alaska]]
+| 1997–2001
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Robert C. Byrd]]
+| [[United States Democratic Party|Democratic]]
+| [[West Virginia]]
+| 2001
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Ted Stevens|Theodore F. Stevens]]
+| [[United States Republican Party|Republican]]
+| [[Alaska]]
+| 2001
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Robert C. Byrd]]
+| [[United States Democratic Party|Democratic]]
+| [[West Virginia]]
+| 2001–2003
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Ted Stevens|Theodore F. Stevens]]
+| [[United States Republican Party|Republican]]
+| [[Alaska]]
+| 2003–2005
+. |-
+{{American politics/party colours/Republican/row}}
+| [[Thad Cochran|W. Thad Cochran]]
+| [[United States Republican Party|Republican]]
+| [[Mississippi]]
+| 2005–2007
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Robert C. Byrd]]
+| [[United States Democratic Party|Democratic]]
+| [[West Virginia]]
+| 2007–2009
+. |-
+{{American politics/party colours/Democratic/row}}
+| [[Daniel K. Inouye]]
+| [[United States Democratic Party|Democratic]]
+| [[Hawaii]]
+| 2009–Present
+|} . 
+
+==See also==. 
+*[[United States budget process|U.S. Budget process]]
+*[[United States House Committee on Appropriations|U.S. House Committee on Appropriations]]
+*[[United States Senate Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies|U.S. Senate Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies]]
+*[[U.S. Senate Budget Committee]] . 
+
+==References==. 
+# {{note|charter}} {{cite web | title=Overview of the Committee's role | work=U.S. Senate Committee on Appropriations | url=http://appropriations.senate.gov/jurisdiction/jurisdiction.htm | accessdate=October 14, 2005 |archiveurl = http://web.archive.org/web/20051013065730/http://appropriations.senate.gov/jurisdiction/jurisdiction.htm <!-- Bot retrieved archive --> |archivedate = October 13, 2005}}
+# {{note|history}} {{cite web | title=Creation of the Senate Committee on Appropriations | work=U.S. Senate Committee on Appropriations | url=http://appropriations.senate.gov/commhistory/commhistory.htm | accessdate=October 14, 2005 |archiveurl = http://web.archive.org/web/20050927235752/http://appropriations.senate.gov/commhistory/commhistory.htm <!-- Bot retrieved archive --> |archivedate = September 27, 2005}}
+# {{note|pork}} {{cite web | author=Courtney Mabeus | title=Buying Leadership | work=Capital Eye | url=http://www.capitaleye.org/inside.asp?ID=146 | accessdate=October 14, 2005 }}
+# {{note|12k}} {{cite news | last=Rosenbaum | first=David E. | title=Call it Pork or Necessity, but Alaska Comes Out Far Above the Rest in Spending | date=9 February 2005 | publisher=New York Times | url=http://www.cepr.net/err/nytimesarticles/call_pork_11_29.htm}}
+# {{note|sub}} {{cite web | title=Senate, House Appropriations Set Subcommittee Plans for New Congress | work=U.S. House Committee on Appropriations | url=http://appropriations.house.gov/News/pr_070104.shtml | accessdate=January 27, 2007 |archiveurl = http://web.archive.org/web/20070131202605/http://appropriations.house.gov/News/pr_070104.shtml <!-- Bot retrieved archive --> |archivedate = January 31, 2007}}
+# {{note|sub2}} {{cite web | title=Senate Appropriations Subcommittee Rosters Set | work=National Thoroughbred Racing Association | url=http://www.ntra.com/content.aspx?type=pac&style=red&id=22762 | accessdate=January 27, 2007 }} {{Dead link|date=October 2010|bot=H3llBot}} . 
+
+==Further reading==. 
+*Frumin, Alan S. "Appropriations" in ''[http://origin.www.gpoaccess.gov/riddick/150-213.pdf Riddick's Senate Procedure,]'' 150-213. Washington, D.C.: [[United States Government Printing Office|Government Printing Office]], 1992. 
+*Munson, Richard. ''The Cardinals of Capitol Hill; The Men and Women Who Control Government Spending''. Grove Press, 1993. ISBN 0-8021-1460-1. 
+*Senate Committee on Appropriations. [http://purl.access.gpo.gov/GPO/LPS95044 ''United States Senate Committee on Appropriations, United States Senate, 1867-2008'']. Washington, D.C.: Government Printing Office, 2008. 
+*Streeter, Sandy. [http://opencrs.com/document/97-684/2008-12-02/download/1013/ ''The Congressional Appropriations Process: An Introduction'']. Washington, D.C.: [[Congressional Research Service]], 2008.  . 
+
+==External links==. 
+*[http://appropriations.senate.gov/ U.S. Senate Committee on Appropriations Official Website], appropriations.senate.gov
+*[http://thomas.loc.gov/home/approp/app08.html Status of Appropriations Legislation], thomas.loc.gov
+*{{WhoRunsGov|people/Congress/Senate_Committees/Appropriations|Senate Appropriations Committee member profiles}}
+*[http://assets.opencrs.com/rpts/RL31572_20110308.pdf Appropriations Subcommittee Structure: History of Changes from 1920 to 2011] by [[Congressional Research Service]].  . 
+
+{{USCongressCommittees}} . 
+
+{{DEFAULTSORT:United States Senate Committee On Appropriations}}
+[[Category:Committees of the United States Senate|Appropriations]]
+[[Category:Article Feedback 5]]
+[[Category:1867 establishments in the United States]]
+[[Category:Organizations established in 1867]]

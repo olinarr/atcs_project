@@ -1,0 +1,81 @@
+{{About|the medical term|the anthropologic concept|sedentism}}
+{{Redirect|Couch Potato|the game show|Couch Potatoes (game show)|the song|Couch Potato (song)}}
+[[Image:Family watching television 1958.jpg|thumb|right|[[Exercise trends|Increases in sedentary behaviors]] such as watching television are characteristic of a sedentary lifestyle]][[File:Potatocouch1258.jpg|thumb|A sedentary person, or "typical couch potato"]] . 
+
+'''Sedentary lifestyle''' is a [[medical terminology|medical]] term used to denote a type of [[lifestyle (sociology)|lifestyle]] with  no or irregular [[physical exercise|physical activity]]. <ref>{{Cite web| title =Prevalence of Sedentary Lifestyle|publisher = [[Centers for Disease Control and Prevention]]|year= 1991| url = http://www.cdc.gov/mmwr/preview/mmwrhtml/00021313.htm | accessdate = January 24, 2010 }}</ref>  A person who lives a sedentary lifestyle may [[colloquially]] be known as a '''couch potato'''.  It is commonly found in both the developed and developing world.  Sedentary activities include  [[sitting]], [[Reading (process)|reading]], watching [[television]],  playing certain [[video game]]s, and [[computer use]] for much of the day with little or no vigorous physical exercise.  A sedentary lifestyle can contribute to many [[List of preventable causes of death|preventable causes of death]].  . 
+
+== Health effects ==. 
+A lack of [[physical exercise|physical activity]] is one of the leading [[List of preventable causes of death|causes of preventable death]] worldwide. <ref>{{cite journal |author=Lopez AD, Mathers CD, Ezzati M, Jamison DT, Murray CJ |title=Global and regional burden of disease and risk factors, 2001: systematic analysis of population health data |journal=Lancet |volume=367 |issue=9524 |pages=1747–57 |year=2006 |month=May |pmid=16731270 |doi=10.1016/S0140-6736(06)68770-9 |url=}}</ref> 
+<!-- 
+Physical inactivity is estimated to cause 1.9 million deaths globally. <ref name = WHOPA/>
+monthly ? yearly ? bi-yearly ? the number alone does not make sense without the period 
+--> . 
+
+A sedentary lifestyle and lack of physical activity can contribute to or be a risk factor for:
+* [[Anxiety]]<ref name=WHOPA>{{Cite web| title = Physical Activity|publisher = [[World Health Organization]]| url = http://www.who.int/dietphysicalactivity/pa/en/index.html| accessdate = January 23, 2010}}</ref><ref>{{Cite web|title = Depression and anxiety: Exercise eases symptoms| publisher = [[Mayo Clinic]]| url = http://www.mayoclinic.com/health/depression-and-exercise/MH00043/METHOD=print| accessdate = January 22, 2010 }}</ref><ref name = Exercise>{{Cite web| title = The Influence of Exercise on Mental Health| author = Daniel M. Landers| publisher = [[President's Council on Physical Fitness and Sports]] | quote = The research literature suggests that for many variables there is now ample evidence that a definite relationship exists between exercise and improved mental health. This is particularly evident in the case of a reduction of anxiety and depression.| url = http://www.fitness.gov/mentalhealth.htm| accessdate = February 05, 2010 }}</ref>
+* [[Cardiovascular disease]]<ref>{{Cite web| title = Risk Factors for Cardiovascular Diseases| publisher = [[United States Department of Veterans Affairs]]| url = http://aging.senate.gov/award/vet2.pdf| accessdate = January 22, 2010 }}</ref><ref>{{Cite web| title = Physical inactivity a leading cause of disease and disability, warns WHO |publisher = [[World Health Organization]]| url = http://www.who.int/mediacentre/news/releases/release23/en/index.html| accessdate = January 23, 2010 }}</ref> 
+*[[Death|Mortality]] in elderly men by 30% and double the risk in elderly women<ref>{{cite journal| last = Flicker|first = Leon|last2 = McCaul| first2 = Kieran A.|last3 = Hankey|first3 = Graeme J.|last4 = Jamrozik|first4 = Konrad|last5 = Brown|first5 = Wendy J.|last6 = Byles|first6 = Julie E.|last7 = Almeida|first7 = Osvaldo P.| date= January 27, 2010
+| title = Body Mass Index and Survival in Men and Women Aged 70 to 75|journal= Journal of the American Geriatrics Society|volume= 58|issue = 2|pages = 234–241|publisher = [[John Wiley & Sons]]
+| url = http://www3.interscience.wiley.com/journal/123265340/abstract|accessdate  = January 29, 2010| quote = Being sedentary doubled the mortality risk for women across all levels of BMI but resulted in only a 28% greater risk for men| pmid = 20370857| doi = 10.1111/j.1532-5415.2009.02677.x}}</ref>
+* [[Deep vein thrombosis]]
+* [[Depression (mood)|Depression]]<ref name=WHOPA/><ref name = Exercise/>
+* [[Diabetes]]<ref name=WHOPA/>
+* [[Colon cancer]]<ref name=WHOPA/>
+* [[Hypertension|High blood pressure]]<ref name=WHOPA/><ref>{{Cite web| title = Who Is At Risk for High Blood Pressure?|publisher = [[National Institutes of Health]]| url = http://www.nhlbi.nih.gov/health/dci/Diseases/Hbp/HBP_WhoIsAtRisk.html | accessdate = April 15, 2010 }}</ref>
+* [[Obesity]]<ref>{{Cite web| title = Obesity and Overweight for Professionals: Causes|publisher = [[Centers for Disease Control and Prevention]]| url = http://www.cdc.gov/obesity/causes/index.html| accessdate = January 19, 2010 }}</ref><ref>{{Cite web| title = Overweight and Obesity: What You Can Do| publisher = [[Surgeon General of the United States|Office of the Surgeon General]]| url = http://www.surgeongeneral.gov/topics/obesity/calltoaction/fact_whatcanyoudo.html| accessdate = January 19, 2010 }}</ref>
+* [[Osteoporosis]]<ref name=WHOPA/><ref>{{Cite web| title = Exercise and Bone Health|publisher = [[National Institute of Arthritis and Musculoskeletal and Skin Diseases]]|year= 2009| url = http://www.niams.nih.gov/Health_Info/Bone/Bone_Health/Exercise/default.asp | accessdate = February 01, 2010 }}</ref><ref>{{Cite web| title = Osteoporosis - Frequently Asked Questions|publisher = [[United States Department of Health and Human Services]]|year= 2009| url = http://www.womenshealth.gov/faq/osteoporosis.cfm | accessdate = February 1, 2010}}</ref> 
+* [[Lipid]] disorders<ref name=WHOPA/>
+* [[Kidney stone]]s . 
+
+==Solutions==. 
+One response that has been adopted by many organizations concerned with health and environment is the promotion of [[active travel]], which seeks to promote walking and cycling as safe and attractive alternatives to motorized transport. <ref>{{Cite web| title = KidsWalk-to-School: Barriers and Solutions|publisher = [[Centers for Disease Control and Prevention]]|year= 2008| url = http://www.cdc.gov/nccdphp/dnpa/kidswalk/then_and_now.htm | accessdate = January 25, 2010 }}</ref>   Given that many journeys are for relatively short distances, there is considerable scope to replace car use with walking or cycling, though in many settings this may require some infrastructure modification.  . 
+
+Implementing Wellness Programs is becoming another popular trend among organizations. Wellness programs can be unique to each organization and can focus on a variety of objectives. For example, some organizations try to get their employees moving through exercise classes at lunch or walking challenges among co-workers. Other organizations offer a number of different screenings for employees such as cholesterol or blood pressure screenings.  . 
+
+According to Worksite Health Promotion with Infinite Wellness Solutions, it is essential wellness programs have specific goals that provide a specific direction for the program. <ref>{{Cite web| title = Worksite Health Promotion|publisher = [[Infinite Wellness Solutions]]|url = http://worksitehealthpromotion.org/ | accessdate = November 28, 2011 }} </ref>   Goals can include keeping tracking of the number of participants who improved their fitness level or the number of participants screened.  . 
+
+==History==. 
+The term "couch potato" was coined by underground comics artist Robert Armstrong in the 1970s, in a series of comics featuring sedentary characters.  . 
+
+The condition, which predates the term, is characterized by [[sitting]] or remaining inactive for most of the day with little or no exercise.  . 
+
+Lack of exercise causes [[muscle atrophy]], i.e. shrinking and weakening of the muscles and accordingly increases susceptibility to physical injury. Additionally, [[physical fitness]] is correlated with immune system function<ref>{{Cite web| title = How can I give my immune system a boost? | publisher = [[National Health Service]]| url = http://www.nhs.uk/chq/Pages/1839.aspx?CategoryID=89&SubCategoryID=893| accessdate = January 24, 2010 }}</ref>; a reduction in physical fitness is generally accompanied by a weakening of the immune system. A review in [[Nature Reviews Cardiology]] suggests that since illness or injury are associated with prolonged periods of enforced rest, such sedentariness has physiologically become linked to life-preserving metabolic and stress related responses such as [[inflammation]] that aid recovery during illness and injury but which due to being nonadaptive during health now lead to chronic diseases. <ref>Charansonney OL, Després JP. (2010). Disease prevention--should we target obesity or sedentary lifestyle? Nat Rev Cardiol. 7(8):468-72. {{doi|10.1038/nrcardio.2010.68}} PMID 20498671</ref> . 
+
+Despite the well-known benefits of physical activity, many adults and many children lead a relatively sedentary lifestyle<ref>{{Cite web| title = Physical Activity Statistics| publisher = [[Centers for Disease Control and Prevention]]| url = http://www.cdc.gov/nccdphp/dnpa/physical/stats/index.htm| accessdate = January 22, 2010 }}</ref><ref>{{Cite web| title = Statistics on Obesity, Physical Activity and Diet: England, February 2009| publisher = [[National Health Service]]| url = http://www.ic.nhs.uk/statistics-and-data-collections/health-and-lifestyles/obesity/statistics-on-obesity-physical-activity-and-diet:-england-february-2009| accessdate = January 22, 2010 }}</ref> and are not active enough to achieve these health benefits.  . 
+
+In the 2008 United States American National Health Interview Survey (NHIS) 36% of adults were considered inactive. <ref name=NHIS>{{Cite document | first = John R. | last = Pleis| first2 = Jacqueline W. | last2 = Lucas | first3 = Brian W. | last3 = Ward | contribution = Summary Health Statistics for U.S. Adults: National Health Interview Survey | contribution-url = http://www.cdc.gov/nchs/data/series/sr_10/sr10_242.pdf | series = Series Reports from the National Health Interview Survey #10 | year = 2008 | pages = 11 | publisher = [[Centers for Disease Control and Prevention]] | url = http://www.cdc.gov/nchs/nhis/nhis_series.htm#08reports}}</ref> 59% of adult respondents never participated in vigorous physical activity lasting more than 10 minutes per week. <ref name=NHIS/> . 
+
+==See also==. 
+*[[Working time#9-to-5|9 to 5]]
+*[[Active travel]]
+*[[Exercise trends]]
+*[[Simple living]]
+*[[Workaholic]]
+*[[Childhood inactivity and obesity in the United States]] . 
+
+==References==. 
+{{reflist|2}} . 
+
+==External links==. 
+*{{cite web
+ | last = Judson | first = Olivia
+ | title = Stand Up While You Read This
+ | date = 2010-02-23 | publisher = New York Times | work = Opinionator
+ | url =  http://opinionator.blogs.nytimes.com/2010/02/23/stand-up-while-you-read-this/ 
+}}
+*{{cite web
+ | last = Gardner| first = Amanda
+ | title = Study: The longer you sit, the shorter your life
+ | date = 2010-07-27 | publisher = USA Today | work = Health Interactives
+ | url =  http://www.usatoday.com/news/health/2010-07-27-sitting-death_N.htm 
+}}
+*{{cite web
+ | last = Vlahos | first = James
+ | title = Is Sitting a Lethal Activity?
+ | date = 2011-04-14 | publisher = New York Times | work = Magazine
+ | url =  http://www.nytimes.com/2011/04/17/magazine/mag-17sitting-t.html 
+}} . 
+
+{{DEFAULTSORT:Sedentary Lifestyle}}
+[[Category:Obesity]]
+[[Category:Medical terms]]

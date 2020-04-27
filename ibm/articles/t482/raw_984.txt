@@ -1,0 +1,265 @@
+The '''Farm Security and Rural Investment Act of 2002''', also known as the '''2002 [[U.S. Farm Bill|Farm Bill]]''', includes ten titles, addressing a great variety of issues related to [[agriculture]], [[ecology]], [[energy]], [[trade]], and [[nutrition]].   . 
+
+The act directs approximately 16.5 billion dollars of funding toward [[agricultural subsidies]] each year. <ref>EconSouth (2003) [http://findarticles.com/p/articles/mi_m0KXG/is_1_5/ai_100962424 Funding for Farmers]</ref>  These subsidies have a dramatic effect on the production of grains, oilseeds, and upland cotton. The specialized nature of the farm bill, as well as the size and timing of the bill, made its passage highly contentious.   . 
+
+Debated in the [[U.S. House of Representatives]] during the immediate aftermath of the [[September 11th attacks]] in 2001, the bill drew criticism from the White House and was nearly amended.  The amendment, which failed by a close margin, was proposed by Rep. [[Ron Kind]] (D-WI) and would have shifted money away from grain subsidies to conservation measures.  Public debate over the farm bill continued, and the Senate proposed sweeping amendments to the bill, leading to a series of meetings from February through April.  As a result, the current farm bill was not passed until May 2002, after the 1996 farm bill had already expired.  . 
+
+==Contents==. 
+===Summary===. 
+{{Expand section|date=June 2008}}
+This act has been superseded by the [[2007 U.S. Farm Bill]].  . 
+
+===Spending tables=== . 
+
+The following is the subsidies by crop in 2004 in the United States. 
+<table border="0" cellspacing="0" cellpadding="3" align="center">
+    <tr>
+      <th valign="top">Commodity</th>
+      <th valign="top">US Dollars (in Millions)</th>
+      <th valign="top">Percentage of Total</th>
+    </tr>
+    <tr>
+      <td colspan="4"><hr></td>
+    </tr>
+    <tr bgcolor="#e0e0e0">
+      <td valign="top">Feed Grains</td>
+      <td valign="top">2,841</td>
+      <td valign="top">35.4</td>
+    </tr>
+    <tr>
+      <td valign="top">[[Wheat]]</td>
+      <td valign="top">1,173</td>
+      <td valign="top">14.6</td>
+    </tr>
+    <tr bgcolor="#e0e0e0">
+      <td valign="top">[[Rice]]</td>
+      <td valign="top">1,130</td>
+      <td valign="top">14.1</td>
+    </tr>
+    <tr>
+      <td valign="top">[[Upland cotton|Upland]] and ElS [[Cotton]]</td>
+      <td valign="top">1,420</td>
+      <td valign="top">17.7</td>
+    </tr>
+    <tr bgcolor="#e0e0e0">
+      <td valign="top">[[Tobacco]]</td>
+      <td valign="top">18</td>
+      <td valign="top">0.2</td>
+    </tr>
+    <tr>
+      <td valign="top">[[Dairy]]</td>
+      <td valign="top">295</td>
+      <td valign="top">3.7</td>
+    </tr>
+    <tr bgcolor="#e0e0e0">
+      <td valign="top">[[Soybeans]] and products</td>
+      <td valign="top">610</td>
+      <td valign="top">7.6</td>
+    </tr>
+    <tr>
+      <td valign="top">[[Minor Oilseeds]]</td>
+      <td valign="top">29</td>
+      <td valign="top">0.4</td>
+    </tr>
+    <tr bgcolor="#e0e0e0">
+      <td valign="top">[[Peanuts]]</td>
+      <td valign="top">259</td>
+      <td valign="top">3.2</td>
+    </tr>
+    <tr>
+      <td valign="top">[[Sugar]]</td>
+      <td valign="top">61</td>
+      <td valign="top">0.8</td>
+    </tr>
+    <tr bgcolor="#e0e0e0">
+      <td valign="top">[[Honey]]</td>
+      <td valign="top">3</td>
+      <td valign="top">0.0</td>
+    </tr>
+    <tr>
+      <td valign="top">[[Wool]] and [[Mohair]]</td>
+      <td valign="top">12</td>
+      <td valign="top">0.1</td>
+    </tr>
+    <tr bgcolor="#e0e0e0">
+      <td valign="top">[[Vegetable fats and oils|Vegetable Oil]] products</td>
+      <td valign="top">11</td>
+      <td valign="top">0.1</td>
+    </tr>
+    <tr>
+      <td valign="top">Other Crops</td>
+      <td valign="top">160</td>
+      <td valign="top">2.0</td>
+    </tr>
+    <tr bgcolor="#e0e0e0">
+      <td valign="top">'''Total'''</td>
+      <td valign="top">'''8,022'''</td>
+      <td valign="top">'''100'''</td>
+    </tr>
+</table>
+Source [[United States Department of Agriculture|USDA]] 2006 Fiscal Year Budget<ref>{{cite web
+  | title = USDA Budget Summary 2006.  Farm and Foreign Agriculture Services
+  | url = http://www.usda.gov/agency/obpa/Budget-Summary/2006/06.FFAS.htm
+  | doi =
+  | accessdate =  }}</ref> . 
+
+===Titles===. 
+{| class="wikitable"
+. |-
+! [http://www.ers.usda.gov/Features/Farmbill/ 2002 Farm Bill Titles]
+. |-
+| [http://www.ers.usda.gov/Features/Farmbill/titles/titleIcommodities.htm Title I: Commodity Programs]
+. |-
+| [http://www.ers.usda.gov/Features/farmbill/titles/titleIIconservation.htm Title II: Conservation]
+. |-
+| [http://www.ers.usda.gov/Features/Farmbill/titles/titleIIItrade.htm Title III: Trade]
+. |-
+| [http://www.ers.usda.gov/Features/Farmbill/titles/titleIVnutritionprograms.htm Title IV: Nutrition Programs]
+. |-
+| [http://www.ers.usda.gov/Features/Farmbill/titles/titleVcredit.htm Title V: Credit]
+. |-
+| [http://www.ers.usda.gov/Features/Farmbill/titles/titleVIruraldevelopment.htm Title VI: Rural Development]
+. |-
+| [http://www.ers.usda.gov/Features/Farmbill/titles/titleVIIagriculturalresearch.htm Title VII Agricultural Research]
+. |-
+| [http://www.ers.usda.gov/Features/Farmbill/titles/titleVIIIforestry.htm Title VIII: Forestry]
+. |-
+| [http://www.ers.usda.gov/Features/Farmbill/titles/titleIXenergy.htm Title IX: Energy]
+. |-
+| [http://www.ers.usda.gov/Features/Farmbill/titles/titleXmiscellaneous.htm Title X: Miscellaneous]
+|} . 
+
+== Passage of the bill ==. 
+{{quote|"Let's push the pedal to the metal and try to get something done this year."|Senator [[Ben Nelson]] (D-NE) after 9/11 <ref>War effort may stymie farm bill Lawmakers disagree over timing of change in current ag policies., Omaha World Herald (Nebraska), September 27, 2001, Thursday, MIDLANDS EDITION, Pg. 1A;</ref>}} . 
+
+=== Proponents of subsidy expansion === . 
+
+*Rep. [[Larry Combest]] (R-TX), chairman of the House Committee on Agriculture, drafts and sponsors initial house farm bill. His proposal would spend the equivalent of the entire federal budget surplus for FY2001, and included $76 billion in new spending on top of the previous bill's spending, for a total of $171 billion.  . 
+
+*Rep. [[Terry Everett]] (R-AL), owner of {{convert|400|acre|km2}} of peanut crops, drafted $3.5 billion peanut provision in [http://www.ers.usda.gov/Features/Farmbill/titles/titleIcommodities.htm Title I] . 
+
+*Sen. [[Tom Daschle]] (D-SD), Majority Leader, reassured South Dakotans that commodity subsidies would not be diminished as a result of heightened national security concerns.  Credited with prioritizing the Senate version of the farm bill.  . 
+
+=== Shifting subsidies to conservation === . 
+
+*Rep. [[Ron Kind]] (D-WI) brought an amendment to shift $19 billion from commodities ([http://www.ers.usda.gov/Features/Farmbill/titles/titleIcommodities.htm Title I]) to conservation ([http://www.ers.usda.gov/Features/Farmbill/titles/titleIIconservation.htm Title II]) (amendment fails 10/4/2001, 200-226)
+**Kind plans to re-introduce the content of his failed amendment in the next farm bill, with his [[Healthy Farms and Forests Act of 2006]].  This is the first farm bill to be proposed in the current cycle, and may form the foundation of the 2008 farm bill.  . 
+
+*Rep. [[Sherwood Boehlert]] (R-NY) co-sponsored the Kind amendment.  He looked to Florida fruit and vegetable growers for support, because they received no subsidies in 2001.  "The inability to persuade more Florida members to vote yes was a key to its defeat." <ref>Proposed farm subsidy reforms bring praise, St. Petersburg Times (Florida), October 21, 2001, Sunday, 0 South Pinellas Edition, NATIONAL; WASHINGTON JOURNAL; Pg. 3A</ref> . 
+
+*Rep. [[Wayne T. Gilchrest]] (R-MD) also co-sponsored the Kind amendment.  . 
+
+*Rep. [[Leonard Boswell]] (D-IA) brought an amendment to put $650 million into renewable energy, which failed (10/3/2001) . 
+
+*Sen. [[Tom Harkin]] (D-IA), senior Democrat on the Senate Committee on Agriculture, revised the House bill [http://frwebgate.access.gpo.gov/cgi-bin/useftp.cgi?IPaddress=162.140.64.31&filename=h2646rh.txt&directory=/disk2/wais/data/107_cong_bills (H.R.2646)] for passage in the Senate.  After the passage of the House version, he told reporters about his ideas for "green" payments rewarding conservation methods.  . 
+
+*Rep. [[Gil Gutknecht]] (R-MN) spoke for many legislators who complained that this was a "farm bill not an environmental bill" (10/4) . 
+
+=== Subsidy caps === . 
+
+The largest difference between the House bill and its Senate counterpart was that the total amount of subsidies received by an individual farmer was capped by the Senate.  Voicing concerns that "millionaire farmers" were reaping all the benefits of the farm bill legislation, a coalition of farm-state Senators pushed for these limits.  . 
+
+*Sen. [[Charles Grassley]] (R-IA) was vehement about lowering subsidy caps from $500,000 to $225,000  "we don't want 10 percent of the farmers getting 60 percent of the farm bill." <ref>Rein in ag subsidies, Grassley says The Iowa senator, directly challenging Democrats on the mired farm bill, wants it amended to lower the annual cap in a bid to distribute funds more evenly., Omaha World Herald (Nebraska), January 17, 2002, Thursday, IOWA EDITION, Pg. 1B</ref> . 
+
+*Sen. [[Byron Dorgan]] (D-ND) cosponsored the subsidy cap amendment.  . 
+
+*Sen. [[Ben Nelson]] (D-NE) supported subsidy caps "I believe, along with most Nebraskans, that our farm program should discourage consolidation in agriculture... These enormous payments do exactly the opposite." . 
+
+*Sen. [[Blanche Lincoln]] (D-AR) and Sen. [[Thad Cochran]] (R-MS) opposed capping subidies. Lincoln was the only Democrat in opposition. Cochran said the caps would be "catastrophic for southern farm interests" <ref>Senate Passes $44.9 Billion Farm Bill Limiting Subsidies ,  The New York Times, February 14, 2002 Thursday,  Late Edition - Final , Section A; Column 1; National Desk; Pg. 26</ref> . 
+
+=== Opposing overproduction === . 
+
+After September 11, the farm bill was considered problematic for three reasons.  First, it would neither receive nor deserve the careful attention necessary during the aftermath of the terrorist attacks.  Second, its expenditures would consume the entire budget surplus, money that could be necessary for the American [[invasion of Afghanistan]].  Finally, Secretary of Agriculture [[Ann Veneman]] opposed the new farm bill.  On September 19, her office issued a report criticizing traditional agricultural policies and calling for a shift from subsidies to conservation.  According to her assessments, commodity subsidies would lead to overproduction and expensive land. <ref> Agriculture Secretary Says Wartime Budget Leaves $171 Billion Farm Bill in Doubt ,  The New York Times, September 27, 2001 Thursday,  Late Edition - Final , Section A; Column 1; National Desk; Pg. 14</ref>  Her position was supported by various other groups and legislators.  . 
+
+*The White House [[Office of Management and Budget]] issued a formal manifesto (10/3) opposing the initial farm bill, calling it expensive and unresponsive to changes in agriculture.  . 
+
+*Sen. [[Richard Lugar]] (R-IN), a farmer with a modest operation, was outraged that the farm bill remained on Congressional agendas after the terrorist attacks.  (Omaha Herald 9/27/01)
+**Agreeing with Secretary Veneman and the White House, he argued that the farm bill causes overproduction so bad "we've got it coming out of our ears."
+**Proposed 6 percent payment to cover premium on crop insurance instead of guaranteeing income. (1/21) . 
+
+*Sen. [[Chuck Hagel]] (R-NE) and Rep. [[Earl Pomeroy]] (D-ND) also opposed the revised bill, concerned that it will continue to subsidize overproduction.  . 
+
+=== Eggplant Caucus === . 
+
+With mounting opposition from both sides of the aisle, the fate of the farm bill was unclear in early 2002.  Anxious farmers were frustrated by the gridlocked Senate, which had promised a quick resolution to the impending expiration of the previous bill.  The emergence of the Eggplant Caucus, so named for a major New Jersey crop, was a major factor in the passage of the bill.  . 
+
+Sen. [[Patrick Leahy]] (D-VT) saw the opportunity for what he considered to be a more fair and equitable farm bill, and sought to unite over 20 senators from states with less powerful farming interests in support of subsidies for specialty crops and conservation.  Active members of the Eggplant Caucus included: 
+*Sen. [[Hillary Clinton]] (D-NY)
+*Sen. [[Charles E. Schumer]] (D-NY)
+*Sen. [[Harry Reid]] (D-NV) . 
+
+This was the first time the farm bill was shaped directly by senators from outside the major farm states.  . 
+
+== Timeline ==. 
+=== The House of Representatives === . 
+
+September 10, 2001: $171 billion, 10-year farm bill (with $73 billion in new spending) reported out of committee, to be considered by the full House of Representatives.  . 
+
+September 11: [[September 11, 2001 attacks]] . 
+
+September 19: Secretary of Agriculture [[Ann Veneman]] criticizes traditional farm policy, calls for a shift from commodity subsidies to conservation measures  . 
+
+September 27: Secretary Veneman criticizes the new bill as expensive in post-9/11 budget, claims it will lead to overproduction and expensive land.  . 
+
+October 2: Rep. [[Ron Kind]] (D-WI) introduces an amendment to shift $19 billion (approx. 15%) of commodity subsides to conservation measures.  . 
+
+October 2: Rep. [[Larry Combest]] (R-TX), farm bill sponsor, threatens to pull the bill if it is amended.  . 
+
+October 3: Rep. [[Leonard Boswell]] (D-IA), proposes shifting $650 million to ethanol, amendment fails.  . 
+
+October 4: Kind amendment falls 26 votes short, fails.  . 
+
+October 5: 10 year, $73 billion farm bill increase passes in the House of Representatives.  . 
+
+:''Source:'' [http://frwebgate.access.gpo.gov/cgi-bin/useftp.cgi?IPaddress=162.140.64.31&filename=h2646rh.txt&directory=/disk2/wais/data/107_cong_bills (H.R.2646)] . 
+
+=== The Senate === . 
+
+October 24: Senators [[Ben Nelson]] (D-NE) and [[Tom Harkin]] (D-IA) reject Sec. Veneman's request that the Senate delay consideration of the farm bill to focus on war effort.  . 
+
+December 14: Sen. [[Patrick Leahy]] (D-VT) and his Eggplant Caucus add dramatic increases in conservation spending ($21.3 billion). Co-sponsors Nelson and Harkin cut the House version in half (5 year life, $45 billion in new spending).  . 
+
+January 17, 2002: Spurred by a website listing absentee landlords of huge farms, Sen. [[Chuck Grassley]] (R-IA) supports an amendment to cap subsidy payments at $225,000. Amendment passes, shifting $1.3 billion to programs for beginning farmers.  . 
+
+February 14: Senate passes a 5 year version of the bill, with a $45 billion spending increase, by a 58:40 vote.  . 
+
+:''Source:'' [http://frwebgate.access.gpo.gov/cgi-bin/useftp.cgi?IPaddress=162.140.64.31&filename=s1731pcs.txt&directory=/disk2/wais/data/107_cong_bills (S. 1731)] . 
+
+=== Reconciling the bills === . 
+
+March 19: After two weeks of closed door negotiations, House agrees to $17 billion for conservation.  . 
+
+April 19: House passes non-binding resolution capping subsidies at $275,000 per farm (a $50,000 increase from the Senate bill).  . 
+
+April 26: Final version agreed upon: $360,000 subsidy cap, $17.1 billion for conservation. Expected to cost a total of $190 billion over ten years, an increase of over $90 billion (expires in September, 2007, six years later)  . 
+
+May 13: The 
+[http://www.ers.usda.gov/Features/FarmBill/2002FarmAct.pdf Farm Security and Rural Investment Act of 2002] signed into law by [[George W. Bush|President Bush]][http://georgewbush-whitehouse.archives.gov/news/releases/2002/05/20020513-2.html# (video)] . 
+
+== Criticism == . 
+
+Critics of U.S. agricultural policy claim that it may be in violation of [[World Trade Organization]] agreements, asserting that domestic subsidies may be considered to be a [[non-tariff trade barrier]].  Others, including the [[Cato Institute]]'s Center for Trade Policy Studies, the [[Union of Concerned Scientists]], the Iowa Corn Growers Association, and [[Oxfam America]], argue that subsidizing domestic grains leads to overproduction that is harmful both for farmers and for the general public.  They claim that subsidies depress market prices while increasing land values.  Many farmers do not own their land, and as a result, the subsidies they receive are capitalized into the value of the land they farm, and therefore provide little benefit to the farmers themselves.  . 
+
+Author [[Michael Pollan]]'s recent book, ''[[The Omnivore's Dilemma]]'' suggests that corn subsidies in particular have led to the success of the feedlots or [[CAFO]]s that he and journalist [[Eric Schlosser]] have blamed for the emergence of [[e. coli]] as a major health concern.  Subsidized corn is so inexpensive that beef companies find it profitable to build large facilities to feed corn to their cattle.  Cows do not normally live in enclosed areas or consume corn, so these CAFOs generate large amounts of waste and require antibiotics and other drugs to keep the animals healthy.  . 
+
+Others have criticised the balance of subsidies on nutritional grounds, saying that oilseed crops (used to make [[vegetable oil]]) and corn should be subsidized less (because it can be made into [[high fructose corn syrup]]) and that fruits and vegetables should be subsidized more. <ref>{{cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/07/26/MNG9AR6V6S1.DTL&type=printable | work=The San Francisco Chronicle | first=Carolyn | last=Lochhead | date=November 1, 2007}}</ref> . 
+
+== See also ==. 
+* [[Conservation Reserve Program]]
+* [[Conservation Security Program]]
+* [[Triple base plan]] . 
+
+== References ==. 
+{{reflist}} . 
+
+== External links ==. 
+* [http://www.freetrade.org/pubs/briefs/tpa-034es.html Freeing the Farm: A Farm Bill For All Americans]
+* [http://georgewbush-whitehouse.archives.gov/infocus/farminfo/ White House Farm Bill Summary] . 
+
+{{US farm acts}} . 
+
+{{DEFAULTSORT:Farm Security And Rural Investment Act Of 2002}}
+[[Category:2002 in law]]
+[[Category:United States federal agriculture legislation]]
+[[Category:107th United States Congress]]
+[[Category:Farm Security and Rural Investment Act of 2002|*]]

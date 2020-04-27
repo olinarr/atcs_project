@@ -1,0 +1,423 @@
+{{pp-protected|expiry=2012-04-24T21:30:57Z|small=yes}}
+{{Infobox disease|
+  Name           = Concussion |
+  Image          = Concussion mechanics.svg |
+  Caption        = [[Acceleration]] (g-forces) can exert rotational forces in the brain, especially the [[midbrain]] and [[diencephalon]]. |
+  DiseasesDB     = |
+  ICD10          = {{ICD10|S|06|0|s|00}} |
+  ICD9           = {{ICD9|850}} |
+  ICDO           = |
+  OMIM           = |
+  MedlinePlus    = 000799 |
+  eMedicineSubj  = aaem |
+  eMedicineTopic = 123 |
+  eMedicine_mult = {{eMedicine2|sports|27}} |
+  MeshID         = D001924 |
+}} . 
+
+'''Concussion''', from the [[Latin]] ''concutere'' ("to shake violently")<ref name=Pearce>
+{{Cite journal|author=Pearce JM |title=Observations on concussion. A review |journal=European Neurology |volume=59 |issue=3–4 |pages=113–9 |year=2007 |pmid=18057896 |doi=10.1159/000111872 |url=http://content.karger.com/produktedb/produkte.asp?typ=fulltext&file=000111872
+}}
+</ref> or the [[Latin]] ''concussus'' ("action of striking together"),<ref name=Brooks>
+{{Cite journal|author=Brooks D, Hunt B
+|title=Current concepts in concussion diagnosis and management in sports: A clinical review
+|journal=BC Medical Journal  |volume=48 |issue= 9 |pages=453–459 |year=2006  |pmid= |doi= |url=http://www.bcmj.org/node/851
+}}
+</ref> is the most common type of [[traumatic brain injury]]. The terms '''mild brain injury''', '''mild traumatic brain injury''' ('''MTBI'''), '''mild head injury''' ('''MHI'''), '''minor head trauma''', and concussion may be used interchangeably,<ref name=ncipc>
+{{Cite web|author=National Center for Injury Prevention and Control |year=2003 |url=http://www.cdc.gov/ncipc/pub-res/mtbi/mtbireport.pdf|format=PDF|title=Report to congress on mild traumatic brain injury in the United States: Steps to prevent a serious public health problem |location=Atlanta, GA |publisher=Centers for Disease Control and Prevention |accessdate=2008-01-19
+}}
+</ref><ref name=Petchprapai07/> although the latter is often treated as a narrower category. <ref name=sivak/> The term "concussion" has been used for centuries and is still commonly used in [[sports medicine]], while "MTBI" is a technical term used more commonly nowadays in general medical contexts. Frequently defined as a [[head injury]] with a temporary loss of [[brain function]], concussion can cause a variety of physical, [[cognition|cognitive]], and emotional symptoms.  . 
+
+Treatment of concussion involves monitoring and rest. Symptoms usually go away entirely within three weeks, though they may persist, or complications may occur. <ref name=AndersonT>
+{{cite journal|author=Anderson T, Heitger M, Macleod AD |year=2006 |url=http://www.vanderveer.org.nz/research/publications/papers/0344.pdf |title=Concussion and mild head injury |journal=[[Practical Neurology]] |volume=6 |pages=342–57 |issn=1474-7758  |doi=10.1136/jnnp.2006.106583|issue=6
+}}<!-- No PMID found -->
+</ref> Repeated concussions can cause cumulative [[brain damage]] such as [[dementia pugilistica]] or severe complications such as [[second-impact syndrome]].  . 
+
+Due to factors such as widely varying definitions and possible underreporting of concussion, the rate at which it occurs annually is not known; however it may be more than 6 per 1,000 people. <ref name=CassidyWHO/> Common causes include sports injuries, bicycle accidents, car accidents, and falls; the latter two are the most frequent causes among adults. <ref name=pmid17215534/> Concussion may be caused by a blow to the head, or by [[acceleration]] forces without a direct impact. The forces involved disrupt cellular processes in the [[brain]] for days or weeks.  On the battlefield, MTBI is a potential consequence of nearby explosions. <ref>{{cite journal |last1=Warden |first1=Deborah L. |last2=French |first2=Louis M. |last3=Shupenko |first3=Leslie |last4=Fargus |first4=Jamie |last5=Riedy |first5=Gerard |last6=Erickson |first6=Marleigh E. |last7=Jaffee |first7=Michael S. |last8=Moore |first8=David F. |title=Case report of a soldier with primary blast brain injury |journal=NeuroImage |volume=47 |pages=T152–3 |year=2009 |pmid=19457364 |doi=10.1016/j.neuroimage.2009.01.060}}</ref> . 
+
+It is not known whether the concussed brain is structurally damaged the way it is in other types of brain injury (albeit to a lesser extent) or whether concussion mainly entails a loss of function with [[physiology|physiological]] but not structural changes. <ref name=Shaw02>
+{{Cite journal|author=Shaw NA |title=The neurophysiology of concussion |journal=Progress in Neurobiology |volume=67 |issue=4 |pages=281–344 |year=2002 |pmid=12207973 |doi=10.1016/S0301-0082(02)00018-7
+}}</ref> Cellular damage has reportedly been found in concussed brains, but it may have been due to artifacts from the studies. <ref name=Rees03/>  It is now thought that structural and psychiatric factors may both  be responsible for the effects of concussion. <ref>{{cite journal |author=Riggio S, Wong M |title=Neurobehavioral sequelae of traumatic brain injury |journal=[[Mt Sinai J Med]] |date=2009 Apr |volume=76 |issue=2 |pages=163–72 |pmid=19306386 |doi=10.1002/msj.20097}}</ref> . 
+
+==Classification==. 
+No single definition of concussion, minor head injury,<ref name="SatzZaucha">
+{{Cite journal|author=Satz P, Zaucha K, McCleary C, Light R, Asarnow R, Becker D |title=Mild head injury in children and adolescents: A review of studies (1970–1995) |journal=Psychological Bulletin |volume=122 |issue=2 |pages=107–131 |year=1997 |pmid=9283296 |doi=10.1037/0033-2909.122.2.107
+}}</ref> or mild traumatic brain injury is universally accepted, though a variety of definitions have been offered. <ref name="ComperBisschop">
+{{Cite journal|author=Comper P, Bisschop SM, Carnide N, Tricco A |title=A systematic review of treatments for mild traumatic brain injury |journal=Brain Injury |volume=19 |issue=11 |pages=863–880 |year=2005 |pmid=16296570 |doi=10.1080/02699050400025042 |issn=0269-9052 }}
+</ref>  In 2001, the first International Symposium on Concussion in Sport was organized by the International Olympic Committee Medical Commission and other sports federations. <ref name="aubry"/> A group of experts called the Concussion in Sport Group met there and defined concussion as "a complex pathophysiological process affecting the brain, induced by traumatic biomechanical forces."<ref name="canturc06">
+{{Cite journal|author=Cantu RC |year=2006 |url=http://www.aans.org/education/journal/neurosurgical/Oct06/21-4-3-1067.pdf |format=PDF |title=An overview of concussion consensus statements since 2000 |journal=Neurosurgical Focus |volume=21 |issue=4:E3 |pages=1–6
+}}<!-- No PMID found -->
+</ref>  They agreed that concussion typically involves temporary impairment of neurological function that heals by itself within time, and that [[neuroimaging]] normally shows no gross structural changes to the brain as the result of the condition. <ref name="AndersonT"/> . 
+
+According to the classic definition, no structural brain damage occurs in concussion;<ref>
+{{Cite journal|author=Parkinson D |year=1999 |title=Concussion confusion |journal=Critical Reviews in Neurosurgery |volume=9 |issue=6 |pages=335–339 |issn=1433-0377 |doi=10.1007/s003290050153
+}}<!--Not indexed on Pubmed--></ref> it is a functional state, meaning that symptoms are caused primarily by temporary [[biochemistry|biochemical]] changes in [[neuron]]s, taking place for example at their [[cell membrane]]s and [[synapse]]s. <ref name="AndersonT"/> However, in recent years researchers have included [[injury|injuries]] in which structural damage does occur under the rubric of concussion. According to the [[National Institute for Health and Clinical Excellence]] definition, concussion may involve a physiological or physical disruption in the brain's [[chemical synapse|synapse]]s. <ref name="NICE">
+{{Cite book|url=http://www.nice.org.uk/nicemedia/pdf/CG56guidance.pdf|format=PDF |publisher=National Institute for Health and Clinical Excellence |title=Head Injury: Triage, Assessment, Investigation and Early Management of Head Injury in Infants, Children and Adults |isbn=0-9549760-5-3 |month=September | year=2007 |accessdate=2008-01-26
+}}</ref> . 
+
+Definitions of mild traumatic brain injury (M.T.B.I) have been inconsistent since the 1970s, but the [[World Health Organization]]'s [[ICD-10|International Statistical Classification of Diseases and Related Health Problems]] (ICD-10) described MTBI-related conditions in 1992, providing a consistent, authoritative definition across specialties. <ref name="Petchprapai07"/> In 1993, the American Congress of Rehabilitation Medicine defined MTBI as 30&nbsp;minutes or fewer of [[loss of consciousness]] (LOC), 24&nbsp;hours or fewer of [[post-traumatic amnesia]] (PTA), and a [[Glasgow Coma Scale]] (GCS) score of at least 13. <ref name="Kushner98">
+{{Cite journal|author=Kushner D |title=Mild Traumatic brain injury: Toward understanding manifestations and treatment |journal=Archives of Internal Medicine |volume=158 |issue=15 |pages=1617–1624 |year=1998 |pmid=9701095 |doi= 10.1001/archinte.158.15.1617|url=http://archinte.highwire.org/cgi/content/full/158/15/1617
+}}</ref> In 1994, the [[American Psychiatric Association]]'s ''[[Diagnostic and Statistical Manual of Mental Disorders]]'' defined MTBI using PTA and LOC. <ref name="Petchprapai07"/> Other definitions of MTBI incorporate focal neurological deficit and altered mental status, in addition to PTA and GCS. <ref name="ComperBisschop"/> . 
+
+Concussion falls under the classification of mild TBI. <ref name="LeeLK07">
+{{Cite journal|author=Lee LK |title=Controversies in the sequelae of pediatric mild traumatic brain injury |journal=Pediatric Emergency Care |volume=23 |issue=8 |pages=580–583 |year=2007 |pmid=17726422 |doi=10.1097/PEC.0b013e31813444ea
+}}</ref> It is not clear whether concussion is implied in mild brain injury or mild head injury. <ref name=LevinHS>
+{{Cite book|author=Benton AL, Levin HS, Eisenberg HM |title=Mild Head Injury |publisher=Oxford University Press |location=Oxford [Oxfordshire] |year=1989 |pages=v |isbn=0-19-505301-X |oclc= |doi=
+}}</ref> "MTBI" and "concussion" are often treated as synonyms in medical literature. <ref name="Kushner98"/>  However, other injuries such as [[intracranial hemorrhage]]s (e.g. [[intra-axial hematoma]], [[epidural hematoma]], and [[subdural hematoma]]) are not necessarily precluded in MTBI<ref name="AndersonT"/> or mild head injury,<ref name="vanderNaalt">
+{{Cite journal|author=van der Naalt J |title=Prediction of outcome in mild to moderate head injury: A review |journal=Journal of Clinical and Experimental Neuropsychology |volume=23 |issue=6 |pages=837–851 |year=2001 |pmid=11910548 |doi=10.1076/jcen.23.6.837.1018
+}}</ref><ref name="Savitsky00">
+{{Cite journal|author=Savitsky EA, Votey SR |title=Current controversies in the management of minor pediatric head injuries |journal=American Journal of Emergency Medicine |volume=18 |issue=1 |pages=96–101 |year=2000 |pmid=10674544 |doi=10.1016/S0735-6757(00)90060-3 |url=
+}}</ref> but they are in concussion. <ref name="ParikhKoch">
+{{Cite journal|author=Parikh S, Koch M, Narayan RK |title=Traumatic brain injury |journal=International Anesthesiology Clinics |volume=45 |issue=3 |pages=119–135 |year=2007 |pmid=17622833 |doi=10.1097/AIA.0b013e318078cfe7
+}}</ref> MTBI associated with abnormal neuroimaging may be considered "complicated MTBI". <ref name="Iverson2005"/>  "Concussion" can be considered to imply a state in which brain function is temporarily impaired and "MTBI" to imply a [[pathophysiology|pathophysiological]] state, but in practice few researchers and clinicians distinguish between the terms. <ref name="AndersonT"/>  Descriptions of the condition, including the severity and the area of the brain affected, are now used more often than "concussion" in clinical neurology. <ref name="LarnerAJ">
+{{Cite book|author=Larner AJ, Barker RJ, Scolding N, Rowe D |title=The A-Z of Neurological Practice: a Guide to Clinical Neurology |publisher=Cambridge University Press |location=Cambridge, UK |year=2005 |pages=199 |isbn=0521629608 |oclc= |doi=
+}}</ref> . 
+
+Although the term "concussion" is still used in sports literature as interchangeable with "MHI" or "MTBI", the general clinical medical literature now uses "MTBI" instead. <ref name="BarthVarney99">
+{{Cite book|author=Barth JT, Varney NR, Ruchinskas RA, Francis JP |chapter=Mild head injury: The new frontier in sports medicine |editor=Varney NR, Roberts RJ |title=The Evaluation and Treatment of Mild Traumatic Brain Injury |publisher=Lawrence Erlbaum Associates |location=Hillsdale, New Jersey |year=1999 |pages=85–86 |isbn=0-8058-2394-8 |oclc= |doi= |accessdate=2008-03-06 |url= http://books.google.com/?id=i4Tpx6wHvJ4C&pg=PA21&vq=concussion#PPA357,M1
+}}</ref> . 
+
+Controversy exists about whether the definition of concussion should include only those injuries in which [[unconsciousness|loss of consciousness]] occurs. <ref name="Pearce"/> . 
+
+Historically, by definition, concussion involved a loss of consciousness. However, the definition has evolved over time to include a change in consciousness, such as amnesia. <ref name="RuffGrant">{{Cite book|author=Ruff RM, Grant I |chapter=Postconcussional disorder: Background to DSM-IV and future considerations |editor=Varney NR, Roberts RJ |title=The Evaluation and Treatment of Mild Traumatic Brain Injury |publisher=Lawrence Erlbaum Associates |location=Hillsdale, New Jersey |year=1999 |pages=320 |isbn=0-8058-2394-8 |oclc= |doi= |url=http://books.google.com/?id=i4Tpx6wHvJ4C&pg=PA21&vq=concussion#PPA357,M1}}</ref>  The best-known concussion grading scales count head injuries in which loss of consciousness does not occur to be mild concussions and those in which it does to be more severe. <ref name=cobb/> . 
+
+===Grading systems===. 
+{{Main|Concussion grading systems}}
+At least 41 systems exist to measure the severity, or grade, of a mild head injury,<ref name=AndersonT/> and there is little agreement among professionals about which is the best. <ref name=cantu01>
+{{Cite journal|author=Cantu RC |year=2001 |pmc=155413 |title=Posttraumatic Retrograde and Anterograde Amnesia: Pathophysiology and Implications in Grading and Safe Return to Play |journal=Journal of Athletic Training |volume=36 |issue=3 |pages=244–8 |pmid=12937491
+}}
+</ref> Several of the systems use loss of consciousness and amnesia as the primary determinants of the severity of the concussion. <ref name=cantu01/>  . 
+
+In the past, the decision about when to allow athletes to return to contact sports was frequently based on the grade of concussion. However current research and recommendations by professional organizations such as the National Athletic Trainers Association recommend not using these grading systems for determination of severity of injury or for making return to play decisions. Every concussion and symptoms are different for each person. Someone could have symptoms from each category, which makes it hard to know where one would fit in this system. <ref name="No concussion is the same">{{cite journal|last=McKeag|first=Douglas B.|title=Understanding Sports-Related Concussion Coming Into Focus but Still Fuzzy|journal=The Journal of the American Medical Association|date=19|year=2003|month=November|volume=290|issue=19|pages=2604-2605|url=http://jama.ama-assn.org.proxy1.lib.uwo.ca:2048/content/290/19/2604.full.pdf+html|accessdate=March 12, 2012}}</ref>  Injured athletes are prohibited from returning to play before they are symptom-free during rest and exertion and neuropsychological tests are normal again. This is to avoid cumulative effects.  . 
+
+Three grading systems were followed most widely: one was developed by Robert Cantu, one by the [[Colorado Medical Society]], and a third by the [[American Academy of Neurology]]. <ref name=cobb>
+{{Cite journal|author=Cobb S, Battin B |year=2004 |title=Second-impact syndrome |journal=The Journal of School Nursing |volume=20 |issue=5 |pages=262–7 |pmid=15469376|doi=10.1177/10598405040200050401
+}}
+<!--doi 10.1622/1059-8405(2004)20[262:SS]2.0.CO;2 apparently broken--></ref> Each divides concussion into three grades, as summarized in the following table:<ref name=cantu01/>
+{| class="wikitable" style="margin: 1em auto 1em auto; text-align:center"
+|+ ''' Comparison of historic concussion grading scales – not currently recommended for use by medical professionals'''
+! &nbsp; !! Grade&nbsp;I !! Grade&nbsp;II !! Grade&nbsp;III
+. |-
+! Cantu guidelines
+|width="25%"| Post-traumatic amnesia <30&nbsp;minutes, no loss of consciousness ||width="25%"| Loss of consciousness <5&nbsp;minutes or amnesia lasting 30&nbsp;minutes–24&nbsp;hours ||width="25%"| Loss of consciousness >5&nbsp;minutes or amnesia >24&nbsp;hours
+. |-
+! Colorado Medical Society guidelines
+| Confusion, no loss of consciousness || Confusion, post-traumatic amnesia, no loss of consciousness || Any loss of consciousness
+. |-
+! American Academy of Neurology guidelines
+| Confusion, symptoms last <15&nbsp;minutes, no loss of consciousness || Symptoms last >15&nbsp;minutes, no loss of consciousness || Loss of consciousness (IIIa, coma lasts seconds, IIIb for minutes)
+|} . 
+
+==Signs and symptoms==. 
+Concussion can be associated with a variety of symptoms, which typically occur rapidly after the injury. <ref name=aubry>
+{{Cite journal|author=Aubry M, Cantu R, Dvorak J, Graf-Baumann T, Johnston K, Kelly J, Lovell M, McCrory P, Meeuwisse W, Schamasch P; Concussion in Sport Group. |title=Summary and agreement statement of the first International Conference on Concussion in Sport, Vienna 2001* |journal=British Journal of Sports Medicine |volume=36 |issue=1 |pages=6–10 |year=2002 |pmid=11867482 |pmc=1724447
+}}
+</ref>  Early symptoms usually subside within days or weeks. <ref name=Rees03/> The number and type of symptoms a person suffers varies widely. <ref name=ComperBisschop /> . 
+
+===Physical===. 
+[[Headache]] is the most common MTBI symptom. <ref name=Kushner98/> Other symptoms include dizziness, vomiting, nausea, lack of [[motor coordination]], difficulty [[Balance (ability)|balancing]],<ref name=Kushner98/> or other problems with movement or sensation. Visual symptoms include  [[photophobia|light sensitivity]],<ref name=Bowen03>
+{{Cite journal|author=Bowen AP |title=Second impact syndrome: A rare, catastrophic, preventable complication of concussion in young athletes |journal=Journal of Emergency Nursing |volume=29 |issue=3 |pages=287–9 |year=2003 |pmid=12776088 |doi=10.1067/men.2003.90
+}}
+</ref> seeing bright lights,<ref name=cantu01/> [[blurred vision]],<ref name=Rees03/> and [[diplopia|double vision]]. <ref name=Erlanger99>
+{{Cite journal|author=Erlanger DM, Kutner KC, Barth JT, Barnes R |title=Neuropsychology of sports-related head enjury: Dementia pugilistica to post concussion syndrome |journal=The Clinical Neuropsychologist |volume=13 |issue=2 |pages=193–209 |year=1999 |pmid=10949160 |doi=10.1076/clin.13.2.193.1963
+}}
+</ref> [[Tinnitus]], or a ringing in the ears, is also commonly reported. <ref name=Rees03/>  In one in about seventy concussions, concussive [[convulsion]]s occur, but these seizures that take place during or immediately after the concussion are not the same as [[post-traumatic seizure]]s, and they, unlike post-traumatic seizures, are not in themselves predictive of [[post-traumatic epilepsy]], which requires some form of structural brain damage, not just a momentary disruption in normal brain functioning. <ref name=McCrory1998>
+{{Cite journal|author=McCrory PR, Berkovic SF |title=Concussive convulsions. Incidence in sport and treatment recommendations |journal=Sports Medicine |volume=25 |issue=2 |pages=131–6 |year=1998 |pmid=9519401
+}}
+</ref> Concussive convulsions are thought to result from temporary loss or inhibition of motor function, and are not associated either with epilepsy or with more serious structural damage. They are not associated with any particular [[sequela]]e and have the same high rate of favorable outcomes as concussions without convulsions. <ref name=Perron>
+{{Cite journal|author=Perron AD, Brady WJ, Huff JS |title=Concussive convulsions: Emergency department assessment and management of a frequently misunderstood entity |journal=Academic Emergency Medicine |volume=8 |issue=3 |pages=296–8 |year=2001 |pmid=11229957 |doi=10.1111/j.1553-2712.2001.tb01312.x
+}}
+</ref> . 
+
+===Cognitive and emotional===. 
+Cognitive symptoms include confusion, [[disorientation]], and difficulty focusing [[attention]]. Loss of consciousness may occur but is not necessarily correlated with the severity of the concussion if it is brief. <ref name="canturc06"/> [[Post-traumatic amnesia]], in which the person cannot remember events leading up to the injury or after it, or both, is a hallmark of concussion. <ref name=Kushner98/>  [[Mental confusion|Confusion]], another concussion hallmark, may be present immediately or may develop over several minutes. <ref name=Kushner98/> A patient may, for example, repeatedly ask the same questions,<ref name=aanMgmt>
+{{Cite web|author= Quality Standards Subcommittee of the American Academy of Neurology |url=http://www.aan.com/professionals/practice/pdfs/pdf_1995_thru_1998/1997.48.581.pdf |format=PDF |title=Practice Parameter: The Management of Concussion in Sports (Summary Statement) |publisher=American Academy of Neurology| year=1997 |pages=1–7 |accessdate=2008-03-05
+}}
+</ref> be slow to respond to questions or directions, have a vacant stare, or have slurred<ref name=Kushner98/> or incoherent speech. <ref name=foundations>
+{{Cite book|author=Anderson MK, Hall SJ, Martin M |year=2004 |url=http://books.google.com/?id=g-q0rwBZAcsC&pg=PA235&lpg=PA235&dq=%22colorado+medical+society+guidelines%22+concussion+grade#PPA236,M1 |title=Foundations of Athletic Training: Prevention, Assessment, and Management |publisher=Lippincott Williams & Wilkins |pages=236 |isbn=0781750016|accessdate=2008-01-09
+}}
+</ref> Other MTBI symptoms include changes in sleeping patterns<ref name=Rees03/> and difficulty with reasoning,<ref name=Erlanger99/> concentrating, and performing everyday activities. <ref name=Kushner98/> . 
+
+[[Affect (psychology)|Affect]]ive results of concussion include crankiness, loss of interest in favorite activities or items,<ref name=mayoc/> tearfulness,<ref name=sivak/> and displays of emotion that are inappropriate to the situation. <ref name=foundations/>  Common symptoms in concussed children include restlessness, lethargy, and irritability. <ref name=Heegaard07>
+{{Cite journal|author=Heegaard W, Biros M |title=Traumatic brain injury |journal=Emergency Medicine Clinics of North America |volume=25 |issue=3 |pages=655–678, viii |year=2007 |pmid=17826211 |doi=10.1016/j.emc.2007.07.001 |url=http://linkinghub.elsevier.com/retrieve/pii/S0733-8627(07)00071-5
+}}
+</ref> . 
+
+==Mechanism==. 
+[[Image:Gatica1.png|thumb|Rotational force is key in concussion. Punches in [[boxing]] deliver more rotational force to the head than impacts in sports such as [[American football]], and boxing carries a higher risk of concussion than football. <ref name=Pellman/>]] . 
+
+The [[human brain|brain]] is surrounded by [[cerebrospinal fluid]], one of the functions of which is to protect it from light trauma, but more severe impacts or the forces associated with rapid acceleration may not be absorbed by this cushion. <ref name=Shaw02/>  Concussion may be caused by impact [[force]]s, in which the head strikes or is struck by something, or impulsive forces, in which the head moves without itself being subject to [[blunt trauma]] (for example, when the chest hits something and the head snaps forward). <ref name=sivak/> . 
+
+Forces may cause linear, rotational, or angular movement of the brain, or a combination of these types of motion. <ref name=sivak/> In rotational movement, the head turns around its center of gravity, and in angular movement it turns on an axis not through its center of gravity. <ref name=sivak/>  The amount of rotational force is thought to be the major type of force to cause concussion<ref name=Poirier/> and the largest component in its severity. <ref name=AndersonT/>  Studies with athletes have shown that the amount of force and the location of the impact are not necessarily correlated to the severity of the concussion or its symptoms, and have called into question the threshold for concussion previously thought to exist at around 70–75[[G-force|g]]. <ref name=Guskiewicz>
+{{Cite journal|author=Guskiewicz KM, Mihalik JP, Shankar V, ''et al.'' |title=Measurement of head impacts in collegiate football players: Relationship between head impact biomechanics and acute clinical outcome after concussion |journal=Neurosurgery |volume=61 |issue=6 |pages=1244–52; discussion 1252–3 |year=2007 |pmid=18162904 |doi=10.1227/01.neu.0000306103.68635.1a }}
+</ref><ref name=Gever07>
+{{Cite web |url=http://www.medpagetoday.com/Neurology/GeneralNeurology/tb/7625 |title=Any football helmet hit can cause potential concussion | date= December 7, 2007 |author=Gever D |publisher=[[MedPage Today]] |accessdate=2008-02-27 }}
+</ref> . 
+
+The parts of the brain most affected by rotational forces are the [[midbrain]] and [[diencephalon]]. <ref name=Pearce/><ref name=pmid17215534/>  It is thought that the forces from the injury disrupt the normal [[cell (biology)|cell]]ular activities in the [[reticular activating system]] located in these areas, and that this disruption produces the loss of consciousness often seen in concussion. <ref name=pmid17215534/>  Other areas of the brain that may be affected include the upper part of the [[brain stem]], the [[fornix of brain|fornix]], the [[corpus callosum]], the [[temporal lobe]], and the [[frontal lobe]]. <ref name=biglered>
+{{Cite journal|author=Bigler ED |title=Neuropsychology and clinical neuroscience of persistent post-concussive syndrome |journal=Journal of the International Neuropsychological Society |volume=14 |issue=1 |pages=1–22 |year=2008 |pmid=18078527 |doi=10.1017/S135561770808017X
+}}
+</ref> [[Angular acceleration]]s of 4600, 5900, or 7900 [[radian]]/s<sup>2</sup> are estimated to have 25, 50, or 80% risk of MTBI respectively. <ref>{{cite journal |author=P Rousseau, A Post, T B Hoshizaki |title=The effects of impact management materials in ice hockey helmets on head injury criteria |journal=Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology |issn=1754-3371 |issue=4 |volume=223 |year=2009  |pages=159–65 |doi=10.1243/17543371JSET36 }}</ref> . 
+
+===Pathophysiology===. 
+In both animals and humans, MTBI can alter the brain's physiology for hours to weeks, setting into motion a variety of [[pathology|pathological]] events. <ref name=pmid11910544>
+{{Cite journal|author=McAllister TW, Sparling MB, Flashman LA, Saykin AJ |title=Neuroimaging findings in mild traumatic brain injury |journal=Journal of Clinical and Experimental Neuropsychology |volume=23 |issue=6 |pages=775–91 |year=2001 |pmid=11910544 |doi=10.1076/jcen.23.6.775.1026
+}}
+</ref> Though these events are thought to interfere with neuronal and brain function, the [[metabolism|metabolic]] processes that follow concussion are reversed in a large majority of affected [[brain cell]]s; however a few cells may die after the injury. <ref name=Iverson2005/> . 
+
+Included in the cascade of events unleashed in the brain by concussion is impaired [[neurotransmission]], loss of regulation of [[ion]]s, deregulation of energy use and cellular metabolism, and a reduction in [[cerebral blood flow]]. <ref name=Iverson2005/> Excitatory [[neurotransmitter]]s, chemicals such as [[glutamate]] that serve to stimulate nerve cells, are released in excessive amounts as the result of the injury. <ref name=Team/> The resulting cellular excitation causes [[action potential|neurons to fire]] excessively. <ref name=GizaHovda>
+{{Cite journal|author=Giza CC, Hovda DA |title=The Neurometabolic Cascade of Concussion |journal=Journal of Athletic Training |volume=36 |issue=3 |pages=228–35 |year=2001 |pmid=12937489 |pmc=155411
+}}
+</ref>  This creates an imbalance of ions such as [[potassium in biology|potassium]] and [[calcium in biology|calcium]] across the cell membranes of neurons (a process like [[excitotoxicity]]). <ref name=Iverson2005/> Since the neuron firing involves a net influx of [[positive charge|positively charged]] ions into the cell, the ionic imbalance causes cells to have a more positive [[membrane potential]] (i.e. it leads to neuronal [[depolarization]]). This depolarization in turn causes [[Ion transporter|ion pump]]s that serve to restore [[resting potential]] within cells to work more than they normally do. <ref name=Iverson2005/>  This increased need for energy leads cells to require greater-than-usual amounts of [[glucose]], which is made into [[Adenosine triphosphate|ATP]], an important source of energy for cells. <ref name=Iverson2005/>  The brain may stay in this state of [[hypermetabolism]] for days or weeks. <ref name=Heegaard07/> At the same time, cerebral blood flow is relatively reduced for unknown reasons,<ref name=Bowen03/> though the reduction in blood flow is not as severe as it is in [[ischemia]]. <ref name=Iverson2005/>  Thus cells get less glucose than they normally do, which causes an "energy crisis". <ref name=Bowen03/> . 
+
+Concurrently with these processes, the activity of [[Mitochondrion|mitochondria]] may be reduced, which causes cells to rely on [[anaerobic metabolism]] to produce energy, which increases levels of the byproduct [[lactic acid|lactate]]. <ref name=Iverson2005/> . 
+
+For a period of minutes to days after a concussion, the brain is especially vulnerable to changes in [[intracranial pressure]], blood flow, and [[hypoxia (medical)|anoxia]]. <ref name=Bowen03/>  According to [[animal study|studies performed on animals]] (which are not always applicable to humans), large numbers of neurons can die during this period in response to slight, normally innocuous changes in blood flow. <ref name=Bowen03/> . 
+
+Concussion involves [[Focal and diffuse brain injury|diffuse (as opposed to focal) brain injury]], meaning that the dysfunction occurs over a widespread area of the brain rather than in a particular spot. <ref name=Hardman02>
+{{Cite journal|author=Hardman JM, Manoukian A |title=Pathology of head trauma |journal=Neuroimaging Clinics of North America |volume=12 |issue=2 |pages=175–87, vii |year=2002 |pmid=12391630 |doi=10.1016/S1052-5149(02)00009-6
+}}
+</ref>  Concussion is thought to be a milder type of [[diffuse axonal injury]] because [[axon]]s may be injured to a minor extent due to stretching. <ref name=sivak/> [[Animal experimentation|Animal studies]] in which primates were concussed have revealed damage to brain tissues such as small [[petechial hemorrhage]]s and axonal injury. <ref name=Hall05>
+{{Cite journal|author=Hall RC, Hall RC, Chapman MJ |title=Definition, diagnosis, and forensic implications of postconcussional syndrome |journal=Psychosomatics |volume=46 |issue=3 |pages=195–202 |year=2005 |pmid=15883140 |doi=10.1176/appi.psy.46.3.195|url=http://psy.psychiatryonline.org/cgi/content/full/46/3/195
+}}
+</ref> Axonal damage has been found in the brains of concussion sufferers who died from other causes, but inadequate blood flow to the brain due to other injuries may have contributed to the damage. <ref name=Rees03>
+{{Cite journal|author=Rees PM |title=Contemporary issues in mild traumatic brain injury |journal=Archives of Physical Medicine and Rehabilitation |volume=84 |issue=12 |pages=1885–94 |year=2003 |pmid=14669199 |doi=10.1016/j.apmr.2003.03.001
+}}
+</ref>  Findings from a study of the brains of dead NFL athletes who received concussions suggest there is lasting damage to the brain after experiencing one; this damage can lead to a variety of other health issues. <ref name="cnn">
+{{Cite news|author=CNN |url=http://www.cnn.com/2009/HEALTH/01/26/athlete.brains/index.html|title=Dead Athletes Brains Show Damage From Concussions |location=Boston University |publisher=Center for the Study of Traumatic Encephalopathy |accessdate=2009-01-28 | date=2009-01-27
+}}</ref> . 
+
+The debate over whether concussion is a functional or structural phenomenon is ongoing. <ref name=McCrory/> Structural damage has been found in the mildly traumatically injured brains of animals, but it is not clear whether these changes would be applicable to humans. <ref name=Pearce/> Such changes in brain structure could be responsible for certain symptoms such as visual disturbances, but other sets of symptoms, especially those of a psychological nature, are more likely to be caused by reversible pathophysiological changes in cellular function that occur after concussion, such as alterations in neurons' biochemistry. <ref name=AndersonT/> These reversible changes could also explain why dysfunction is frequently temporary. <ref name=McCrory/> A task force of head injury experts called the Concussion In Sport Group met in 2001 and decided that "concussion may result in neuropathological changes but the acute clinical symptoms largely reflect a functional disturbance rather than structural injury."<ref name=aubry/> . 
+
+==Diagnosis==. 
+[[Image:Anizokoria.JPG|thumb|[[Anisocoria|Unequal pupil size]] is a sign of a brain injury more serious than concussion.]]
+Diagnosis of MTBI is based on physical and neurological exams, duration of unconsciousness (usually less than 30&nbsp;minutes) and post-traumatic amnesia (PTA; usually less than 24&nbsp;hours), and the [[Glasgow Coma Scale]] (MTBI sufferers have scores of 13 to 15). <ref name=BorgHolm04/> [[Neuropsychological test]]s exist to measure cognitive function, the international consensus meeting in Zurich recommend the use of the SCAT2. <ref name=Rees03/>
+<ref name="pmid 19423971">
+{{Cite journal|author=McCrory P, Meeuwisse W, Johnston K, Dvorak J, Aubry M, Molloy M, Cantu R |title=Consensus statement on Concussion in Sport 3rd International Conference on Concussion in Sport held in Zurich, November 2008|journal=Clin J Sport Med |volume=19 |issue=3 |pages=185–200|year=2009 |pmid=19423971|doi=10.1097/JSM.0b013e3181a501db}}</ref>  The tests may be administered hours, days, or weeks after the injury, or at different times to determine whether there is a trend in the patient's condition. <ref name=moser>
+{{Cite journal|author=Moser RS, Iverson GL, Echemendia RJ, Lovell MR, Schatz P, Webbe FM ''et al.'' |year=2007 |title=Neuropsychological evaluation in the diagnosis and management of sports-related concussion |journal=Archives of Clinical Neuropsychology |volume=22 |issue=8 |pages=909–16 |pmid=17988831|doi=10.1016/j.acn.2007.09.004}}</ref>   Athletes may be tested before a sports season begins to provide a baseline neurocognitive test for comparison in the event of an injury, though it may not reduce risk or effect return to play. <ref name=pmid10981754>
+{{Cite journal|author=Maroon JC, Lovell MR, Norwig J, Podell K, Powell JW, Hartl R |title=Cerebral concussion in athletes: Evaluation and neuropsychological testing |journal=Neurosurgery |volume=47 |issue=3 |pages=659–69; discussion 669–72 |year=2000 |pmid=10981754 |doi=10.1097/00006123-200009000-00027}}</ref><ref name=pmid21228656 >{{Cite journal|author=Randolph C|title=Baseline neuropsychological testing in managing sport-related concussion: does it modify risk?|journal= Curr Sports Med Rep|volume=10 |issue=1 |pages=21–26|year=2011|pmid=21228656|doi=10.1249/JSR.0b013e318207831d}}</ref> . 
+
+Health care providers examine head trauma survivors to ensure that the injury is not a more severe [[medical emergency]] such as an intracranial hemorrhage. Indications that screening for more serious injury is needed include worsening of symptoms such as headache, persistent vomiting,<ref name=CookSchweer>
+{{Cite journal|author=Cook RS, Schweer L, Shebesta KF, Hartjes K, Falcone RA |title=Mild traumatic brain injury in children: Just another bump on the head? |journal=Journal of Trauma Nursing |volume=13 |issue=2 |pages=58–65 |year=2006 |pmid=16884134
+}}
+</ref> increasing disorientation or a deteriorating level of consciousness,<ref name=Kayteasdale>
+{{Cite journal|author=Kay A, Teasdale G |title=Head injury in the United Kingdom |journal=World Journal of Surgery |volume=25 |issue=9 |pages=1210–20 |year=2001 |pmid=11571960 |doi=10.1007/s00268-001-0084-6
+}}
+</ref> seizures, and [[anisocoria|unequal pupil size]]. <ref name=cdcfacts>
+{{Cite web|publisher=Centers for Disease Control and Prevention |year=2006 |url=http://www.cdc.gov/ncipc/tbi/contents.htm |title=Facts About Concussion and Brain Injury |accessdate=2008-01-13
+}}
+</ref>  People with such symptoms, or who are at higher risk for a more serious brain injury, are [[CT scan]]ned to detect brain lesions and are frequently observed for 24 – 48 hours.  . 
+
+If the [[Glasgow Coma Scale]] is less than 15 at two hours or less than 14 at any time a CT is recommended. <ref name=pmid17215534>
+{{Cite journal|author=Ropper AH, Gorson KC |title=Clinical practice. Concussion |journal=New England Journal of Medicine |volume=356 |issue=2 |pages=166–72 |year=2007|url=http://content.nejm.org/cgi/content/full/356/2/166 |doi=10.1056/NEJMcp064645 |pmid=17215534
+}}
+</ref> In addition, they may be more likely to perform a CT scan on people who would be difficult to observe after discharge or those who are [[Substance intoxication|intoxicated]], at risk for bleeding, older than 60,<ref name=pmid17215534/> or younger than 16. Most concussions cannot be detected with MRI or CT scans. <ref name=Poirier>
+{{Cite journal|author=Poirier MP |year=2003 |url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B75BD-49H1C2F-7&_user=3356446&_origUdi=B6VDJ-44KHFBN-8&_fmt=high&_coverDate=09%2F30%2F2003&_rdoc=1&_orig=article&_acct=C000060332&_version=1&_urlVersion=0&_userid=3356446&md5=9c2a61c0c62684c26cf317a8ea637458|title=Concussions: Assessment, management, and recommendations for return to activity |journal=Clinical Pediatric Emergency Medicine |volume=4 |issue=3 |pages=179–85 |doi=10.1016/S1522-8401(03)00061-2
+}}
+<!--abstract linked with url because doi doesn't take you right to it. no PMID found--></ref> However, changes have been reported to show up on MRI and SPECT imaging in concussed people with normal CT scans, and [[post-concussion syndrome]] may be associated with abnormalities visible on [[single photon emission computed tomography|SPECT]] and [[Positron emission tomography|PET scan]]s. <ref name=Iverson2005/>  Mild head injury may or may not produce abnormal [[Electroencephalography|EEG]] readings. <ref name=Binder86>
+{{Cite journal|author=Binder LM |title=Persisting symptoms after mild head injury: A review of the postconcussive syndrome |journal=Journal of Clinical and Experimental Neuropsychology|volume=8 |issue=4 |pages=323–46 |year=1986 |pmid=3091631 |doi=10.1080/01688638608401325
+}}</ref> . 
+
+Concussion may be under-diagnosed. The lack of the highly noticeable signs and symptoms that are frequently present in other forms of head injury could lead [[clinician]]s to miss the injury, and athletes may cover up their injuries to remain in the competition. <ref name=BarthVarney99>
+{{Cite book|author=Barth JT, Varney NR, Ruchinskas RA, Francis JP |chapter=Mild head injury: The new frontier in sports medicine |editor=Varney NR, Roberts RJ |title=The Evaluation and Treatment of Mild Traumatic Brain Injury |publisher=Lawrence Erlbaum Associates |location=Hillsdale, New Jersey |year=1999 |pages=85–6 |isbn=0-8058-2394-8 |accessdate=2008-03-06 |url= http://books.google.com/?id=i4Tpx6wHvJ4C&pg=PA21&vq=concussion#PPA357,M1
+}}</ref>  A retrospective survey in 2005 found that more than 88% of concussions go unrecognized. <ref name=Delaney>
+{{Cite journal|author=Delaney JS, Abuzeyad F, Correa JA, Foxford R |title=Recognition and characteristics of concussions in the emergency department population |journal=Journal of Emergency Medicine |volume=29 |issue=2 |pages=189–97 |year=2005 |pmid=16029831 |doi=10.1016/j.jemermed.2005.01.020
+}}</ref> . 
+
+Diagnosis of concussion can be complicated because it shares symptoms with other conditions. For example, post-concussion symptoms such as cognitive problems may be misattributed to brain injury when they are in fact due to [[post-traumatic stress disorder]] (PTSD). <ref name=Bryant08/> . 
+
+In 2011, the [[Georgia Tech Research Institute]] researchers are investigating the use of radar as a possible concussion detection tool. No clinic studies have been done to prove it is accurate, therefore currently not ready for use. <ref>{{cite news|url=http://www.wired.com/playbook/2011/04/concussion-test-radar-scans/|title=Next Big Wave in Concussion Testing: Radar Scans|first=Erik|last=Malinowski|work=[[Wired (magazine)|Wired]]|date=2011-04-26|accessdate=2011-05-08}}</ref><ref>{{cite news|url=http://abcnews.go.com/Technology/diagnosing-concussions-high-tech-radar-detects-brain-injuries/story?id=13462046|title=Concussion Symptoms: New Technology Uses Simple Radar to Detect Brain Injuries|publisher=[[ABC News]]|date=2011-04-27|accessdate=2011-05-08}}</ref><ref>{{cite web|url=http://www.gtri.gatech.edu/casestudy/radar-analysis-shows-promise-detecting-concussions|title=Multitasking Challenge: Radar Analysis of Walking Patterns Shows Promise for Detecting Concussions in Athletes and Soldiers|publisher=[[Georgia Tech Research Institute]]|accessdate=2011-05-08}}</ref><ref>{{cite news|first=Elizabeth Armstrong|last=Moore|url=http://news.cnet.com/8301-27083_3-20057150-247.html|title=Scientists use radar to detect concussion|publisher=[[CNET]]|date=2011-04-25|accessdate=2011-05-08}}</ref><ref>{{cite news|url=http://www.popsci.com/science/article/2011-05/radar-gun-concussions-diagnoses-head-trauma-persons-gait|publisher=[[CNET]]|date=2011-05-10|accessdate=2011-05-21}}</ref> . 
+
+==Prevention==. 
+{{See|Association football headgear|Bicycle helmet|Football helmet|Hockey helmet|Motorcycle helmet|Ski helmet}}
+Prevention of MTBI involves taking general measures to prevent traumatic brain injury, such as wearing [[seat belt]]s and using [[airbag]]s in cars. <ref name=Kushner98/> Older people are encouraged to try to prevent falls, for example by keeping floors free of clutter and wearing thin, flat, shoes with hard soles that do not interfere with balance. <ref name=mayoc>
+{{Cite web|publisher=Mayo Clinic |author=Mayo Clinic Staff |year=2007  |title=Concussion |url=http://www.mayoclinic.com/print/concussion/DS00320/DSECTION=all&METHOD=print |accessdate=2008-01-10
+}}
+</ref> . 
+
+Use of protective equipment such as headgear has been found to reduce the number of concussions in athletes. <ref name=Pellman/>  Improvements in the design of protective athletic gear such as helmets may decrease the number and severity of such injuries. <ref name=LevyOzgur>
+{{Cite journal|author=Levy ML, Ozgur BM, Berry C, Aryan HE, Apuzzo ML |title=Birth and evolution of the football helmet |journal=Neurosurgery |volume=55 |issue=3 |pages=656–61; discussion 661–2 |year=2004 |pmid=15335433 |doi=10.1227/01.NEU.0000134599.01917.AA
+}}
+</ref> New "Head Impact Telemetry System" technology is being placed in helmets to study injury mechanisms and potentially help reduce the risk of concussions among American Football players. Changes to the rules or the practices of enforcing existing rules in sports, such as those against "head-down tackling", or "spearing", which is associated with a high injury rate, may also prevent concussions. <ref name=Pellman/> . 
+
+==Treatment==. 
+Usually concussion symptoms go away without treatment,<ref name=Komaroff99>
+{{Cite book|author=Komaroff A |title=The Harvard Medical School family health guide |publisher=Simon & Schuster |location=New York |year=1999 |pages=359 |isbn=0-684-84703-5
+}}
+</ref> and no specific treatment exists. <ref name=Willer06/> There has been one treatment intervention that has shown to be particularly effective. It is called activation database guided EEG biofeedback. and has been shown to return the memory abilities of the concussed individual to levels better than the control group. <ref>
+Thornton K, Carmody D., Efficacy of Traumatic Brain Injury Rehabilitation: Interventions of QEEG-Guided Biofeedback, Computers, Strategies, and Medications, Applied Psychophysiology and Biofeedback,33,2,101-124,2008 </ref> About one percent of people who receive treatment for MTBI need surgery for a brain injury. <ref name=BorgHolm04>
+{{Cite journal|author=Borg J, Holm L, Cassidy JD, ''et al.'' |title=Diagnostic procedures in mild traumatic brain injury: Results of the WHO collaborating centre task force on mild traumatic brain injury |journal=Journal of Rehabilitation Medicine |volume=36 |issue=Supplement 43  |pages=61–75 |year=2004 |pmid=15083871 |doi=10.1080/16501960410023822
+}}
+</ref> Traditionally, concussion sufferers are prescribed rest,<ref name=Willer06>
+{{Cite journal|author=Willer B, Leddy JJ |title=Management of concussion and post-concussion syndrome |journal=Current Treatment Options in Neurology |volume=8 |issue=5 |pages=415–26 |year=2006 |pmid=16901381 |doi=10.1007/s11940-006-0031-9 |issn=1534-3138
+}}
+</ref> including plenty of sleep at night plus rest during the day. <ref name=cdcfacts/>  Health care providers recommend a gradual return to normal activities at a pace that does not cause symptoms to worsen. <ref name=cdcfacts/>  Education about symptoms, how to manage them, and their normal time course can lead to an improved outcome. <ref name=ComperBisschop/> . 
+
+Medications may be prescribed to treat symptoms such as sleep problems and depression. <ref name=ComperBisschop/> [[Analgesic]]s such as [[ibuprofen]] can be taken for the headaches that frequently occur after concussion,<ref name=AndersonT/> but [[paracetamol|paracetamol (acetaminophen)]] is preferred to minimize the risk for complications such as intracranial hemorrhage. <ref>{{Cite journal|author=Reymond MA, Marbet G, Radü EW, Gratzl O |title=Aspirin as a risk factor for hemorrhage in patients with head injuries |journal=Neurosurgical Review |year=1992 |volume=15 |issue=1 |pages=21–5 |pmid=1584433 |doi=10.1007/BF02352062
+}}</ref> Concussed individuals are advised not to drink [[Alcoholic beverage|alcohol]] or take [[drug]]s that have not been approved by a doctor as they can impede healing <ref>{{Cite web |url=http://www.cdc.gov/concussion/feel_better.html |ref=cdcfeelbeter |date=March 8, 2010 |publisher=Center of Disease Control |location=Atlanta, GA |title=What Can I Do to Help Feel Better After a Concussion?}}</ref> . 
+
+Observation to monitor for worsening condition is an important part of treatment. <ref name=Anderson03>
+{{Cite book|author=Anderson MK |title=Fundamentals of sports injury management |publisher=Lippincott Williams & Wilkins |location=Hagerstown, MD |year=2003 |pages=79 |isbn=0-7817-3272-7
+}}
+</ref> [[Health care]] providers recommend that those suffering from concussion return for further medical care and evaluation 24 to 72&nbsp;hours after the concussive event if the symptoms worsen. Athletes, especially intercollegiate or [[Professional sports|professional athletes]], are typically followed closely by team athletic trainers during this period. But others may not have access to this level of health care and may be sent home with no medical person monitoring them unless the situation gets worse. Patients may be released from the hospital to the care of a trusted person with orders to return if they display worsening symptoms<ref name=pmid17215534/> or those that might indicate an emergent condition, like unconsciousness or altered [[mental status]]; convulsions; severe, persistent headache; extremity weakness; vomiting; or new bleeding or deafness in either or both ears. <ref name=NICE1>
+{{Cite web|url=http://www.nice.org.uk/nicemedia/pdf/CG56publicinfo.pdf |format=PDF |publisher=National Institute for Health and Clinical Excellence |title=Information about NICE clinical guideline | month=September | year=2007 |accessdate=2008-01-26
+}}
+</ref>  Repeated observation for the first 24&nbsp;hours after concussion is recommended; however it is not known whether it is necessary to wake the patient up every few hours. <ref name=pmid17215534/> . 
+
+==Prognosis==. 
+MTBI has a mortality rate of almost zero. <ref name=BorgHolm04/> The symptoms of most concussions resolve within weeks, but problems may persist. <ref name=AndersonT/> Problems are seldom permanent, and outcome is usually excellent. <ref name=Iverson2005/> People over age&nbsp;55 may take longer to heal from MTBI or may heal incompletely. <ref name=AlexanderMP95>
+{{Cite journal|author=Alexander MP |title=Mild traumatic brain injury: Pathophysiology, natural history, and clinical management |journal=Neurology |volume=45 |issue=7 |pages=1253–60 |year=1995 |pmid=7617178
+}}
+</ref> Similarly, factors such as a previous head injury or a coexisting medical condition have been found to predict longer-lasting post-concussion symptoms. <ref name=Hall05/>  Other factors that may lengthen recovery time after MTBI include psychological problems such as [[substance abuse]] or [[clinical depression]], poor health before the injury or additional injuries sustained during it, and life stress. <ref name=Iverson2005>
+{{Cite journal|author=Iverson GL |title=Outcome from mild traumatic brain injury |journal=Current Opinion in Psychiatry |volume=18 |issue=3 |pages=301–17 |year=2005 |pmid=16639155 |doi=10.1097/01.yco.0000165601.29047.ae
+}}
+</ref> Longer periods of amnesia or loss of consciousness immediately after the injury may indicate longer recovery times from residual symptoms. <ref name=Masferrer/>  For unknown reasons, having had one concussion significantly increases a person's risk of having another. <ref name=moser/> Having previously sustained a sports concussion has been found to be a strong factor increasing the likelihood of a concussion in the future. Other strong factors include participation in a contact sport and body mass size. <ref name=Schulz04>{{Cite journal|author=Schulz MR, Marshall SW, Mueller FO, ''et al.'' |title=Incidence and risk factors for concussion in high school athletes, North Carolina, 1996–1999 |journal=American Journal of Epidemiology |volume=160 |issue=10 |pages=937–44 |year=2004 |month=November |pmid=15522850 |doi=10.1093/aje/kwh304 |url=http://aje.oxfordjournals.org/cgi/content/full/160/10/937}}</ref> The prognosis may differ between concussed adults and children; little research has been done on concussion in the [[pediatric]] population, but concern exists that severe concussions could interfere with [[neural development|brain development]] in children. <ref name=moser/> . 
+
+A 2009 study published in [[Brain (journal)|''Brain'']] found that individuals with a history of concussions might demonstrate a decline in both physical and mental performance for longer than 30 years. Compared to their peers with no history of brain trauma, sufferers of concussion exhibited effects including loss of [[episodic memory]] and [[bradykinesia|reduced muscle speed]]. <ref name=De2009>{{Cite journal
+ | last1 = De Beaumont | first1 = Louis
+ | last2 = Theoret | first2 = Hugo
+ | last3 = Mongeon | first3 = David
+ | last4 = Messier | first4 = Julie
+ | last5 = Leclerc | first5 = Suzanne
+ | last6 = Tremblay | first6 = Sebastien
+ | last7 = Ellemberg | first7 = Dave
+ | last8 = Lassonde | first8 = Maryse
+ | year = 2009
+ | title = Brain function decline in healthy retired athletes who sustained their last sports concussion in early adulthood
+ | journal = Brain
+ | doi = 10.1093/brain/awn347
+ | pmid = 19176544
+ | volume = 132
+ | pages = 695–708
+ | issue = Pt 3
+}}</ref> . 
+
+===Post-concussion syndrome===. 
+{{Main|Post-concussion syndrome}}
+In post-concussion syndrome, symptoms do not resolve for weeks, months, or years after a concussion, and may occasionally be permanent. <ref name=Ryan03>
+{{Cite journal|author=Ryan LM, Warden DL |title=Post concussion syndrome |journal=International Review of Psychiatry |volume=15 |issue=4 |pages=310–316 |year=2003 |pmid=15276952 |doi=10.1080/09540260310001606692
+}}
+</ref>  Symptoms may include headaches, dizziness, fatigue, [[anxiety]], memory and attention problems, sleep problems, and irritability. <ref name=Boake>
+{{Cite journal|author=Boake C, McCauley SR, Levin HS, Pedroza C, Contant CF, Song JX, ''et al.'' |year=2005 | url=http://neuro.psychiatryonline.org/cgi/content/full/17/3/350 |title=Diagnostic criteria for postconcussional syndrome after mild to moderate traumatic brain injury |journal=Journal of Neuropsychiatry and Clinical Neurosciences |volume=17 |issue=3 |pages=350–6 |pmid=16179657 |doi=10.1176/appi.neuropsych.17.3.350
+}}
+</ref>  There is no scientifically established treatment, and rest, a recommended recovery technique, has limited effectiveness. <ref name=Willer06/> Symptoms usually go away on their own within months. <ref name=ParikhKoch>
+{{Cite journal|author=Parikh S, Koch M, Narayan RK |title=Traumatic brain injury |journal=International Anesthesiology Clinics |volume=45 |issue=3 |pages=119–35 |year=2007 |pmid=17622833 |doi=10.1097/AIA.0b013e318078cfe7
+}}</ref> The question of whether the syndrome is due to structural damage or other factors such as psychological ones, or a combination of these, has long been the subject of debate. <ref name=Bryant08>
+{{Cite journal|author=Bryant RA |title=Disentangling mild traumatic brain injury and stress reactions |journal=New England Journal of Medicine |volume=358 |issue=5 |pages=525–7 |year=2008 |pmid=18234757 |doi=10.1056/NEJMe078235
+}}
+</ref> . 
+
+===Cumulative effects===. 
+Cumulative effects of concussions are poorly understood. The severity of concussions and their symptoms may worsen with successive injuries, even if a subsequent injury occurs months or years after an initial one. <ref name=harmon>
+{{Cite journal|author=Harmon KG |year=1999 |url=http://www.aafp.org/afp/990901ap/887.html |title=Assessment and management of concussion in sports |journal=American Family Physician |volume=60 |issue=3 |pages=887–892, 894 |pmid=10498114
+}}
+</ref>  Symptoms may be more severe and changes in [[neurophysiology]] can occur with the third and subsequent concussions. <ref name=moser/> Studies have had conflicting findings on whether athletes have longer recovery times after repeat concussions and whether cumulative effects such as impairment in cognition and memory occur. <ref name=Pellman>
+{{Cite journal|author=Pellman EJ, Viano DC |title=Concussion in professional football: Summary of the research conducted by the National Football League's Committee on Mild Traumatic Brain Injury|journal=Neurosurgical Focus |volume=21 |issue=4 |pages=E12 |year=2006 |pmid=17112190 |url=http://www.aans.org/education/journal/neurosurgical/Oct06/21-4-12-1028.pdf |format=PDF
+}}
+</ref> . 
+
+Cumulative effects may include [[mental disorder|psychiatric disorder]]s and loss of [[long-term memory]]. For example, the risk of developing clinical depression has been found to be significantly greater for retired [[American football]] players with a history of three or more concussions than for those with no concussion history. <ref name=cantuCTE>
+{{Cite journal|author=Cantu RC |title=Chronic traumatic encephalopathy in the National Football League |journal=Neurosurgery |volume=61 |issue=2 |pages=223–5 |year=2007 |pmid=17762733 |doi=10.1227/01.NEU.0000255514.73967.90
+}}
+</ref>  Three or more concussions is also associated with a fivefold greater chance of developing [[Alzheimer's disease]] earlier and a threefold greater chance of developing [[memory]] deficits. <ref name=cantuCTE/> . 
+
+===Dementia pugilistica===. 
+{{Main|Dementia pugilistica}}
+Chronic [[encephalopathy]] is an example of the cumulative damage that can occur as the result of multiple concussions or less severe blows to the head. The condition called dementia pugilistica, or "punch drunk" syndrome, which is associated with boxers, can result in cognitive and physical deficits such as [[parkinsonism]], speech and memory problems, slowed mental processing, tremor, and inappropriate behavior. <ref name=Mendez>
+{{Cite journal|doi=10.2190/CUMK-THT1-X98M-WB4C |author=Mendez MF |title=The neuropsychiatric aspects of boxing |journal=International Journal of Psychiatry in Medicine |volume=25 |issue=3 |pages=249–62 |year=1995 |pmid=8567192
+}}
+</ref>  It shares features with Alzheimer's disease. <ref name=Jordan00>
+{{Cite journal|author=Jordan BD |title=Chronic traumatic brain injury associated with boxing |journal=Seminars in Neurology |volume=20 |issue=2 |pages=179–85 |year=2000 |pmid=10946737 |doi=10.1055/s-2000-9826
+}}
+</ref> . 
+
+===Second-impact syndrome===. 
+{{Main|Second-impact syndrome}}
+Second-impact syndrome, in which the brain swells dangerously after a minor blow, may occur in very rare cases. The condition may develop in people who receive a second blow days or weeks after an initial concussion, before its symptoms have gone away. <ref name=Bowen03/>  No one is certain of the cause of this often fatal complication, but it is commonly thought that the swelling occurs because the brain's [[arteriole]]s lose the ability to regulate their diameter, causing a loss of control over cerebral blood flow. <ref name=moser/> As the brain [[Swelling (medical)|swells]], intracranial pressure rapidly rises. <ref name=CookSchweer/> The brain can [[brain herniation|herniate]], and the brain stem can fail within five minutes. <ref name=Bowen03/> Except in boxing, all cases have occurred in athletes under age&nbsp;20. <ref name=Team/>  Due to the very small number of documented cases, the diagnosis is controversial, and doubt exists about its validity. <ref name=McCroryP01>
+{{Cite journal|author=McCrory P |year=2001 |title=Does second impact syndrome exist? |journal=Clinical Journal of Sport Medicine |volume=11 |issue=3 |pages=144–149 |pmid=11495318|doi=10.1097/00042752-200107000-00004
+}}
+</ref> . 
+
+==Epidemiology==. 
+[[Image:MTBI incidince bar graph.svg|thumb|right|Annual incidence of MTBI by age group in Canada<ref name=gordonke/>]]
+Most cases of traumatic brain injury are concussions. A World Health Organization (WHO) study estimated that between 70 and 90% of head injuries that receive treatment are mild. <ref name=CassidyWHO/>  However, due to underreporting and to the widely varying definitions of concussion and MTBI, it is difficult to estimate how common the condition is. <ref name=Petchprapai07>
+{{Cite journal|author=Petchprapai N, Winkelman C |title=Mild traumatic brain injury: determinants and subsequent quality of life. A review of the literature |journal=Journal of Neuroscience Nursing |volume=39 |issue=5 |pages=260–72 |year=2007 |pmid=17966292
+}}
+</ref>  Estimates of the incidence of concussion may be artificially low, for example due to underreporting. At least 25% of MTBI sufferers fail to get assessed by a medical professional. <ref name=Iverson2005/>  The WHO group reviewed studies on the epidemiology of MTBI and found a hospital treatment rate of 1–3 per 1000 people, but since not all concussions are treated in hospitals, they estimated that the rate per year in the general population is over 6 per 1000 people. <ref name=CassidyWHO>
+{{Cite journal|author=Cassidy JD, Carroll LJ, Peloso PM, Borg J, von Holst H, Holm L, ''et al.'' |title=Incidence, risk factors and prevention of mild traumatic brain injury: Results of the WHO Collaborating Centre Task Force on Mild Traumatic Brain Injury |journal=Journal of Rehabilitation Medicine |volume=36 |issue=Supplement 43 |pages=28–60 |year=2004 |pmid=15083870 |doi=10.1080/16501960410023732
+}}
+</ref> . 
+
+Young children have the highest concussion rate among all age groups. <ref name=pmid17215534/>  However, most people who suffer concussion are young adults. <ref name=Ryan03/> A Canadian study found that the yearly [[incidence (epidemiology)|incidence]] of MTBI is lower in older age groups (graph at right). <ref name=gordonke>
+{{Cite journal|author=Gordon KE, Dooley JM, Wood EP |title=Descriptive epidemiology of concussion |journal=Pediatric Neurology |volume=34 |issue=5 |pages=376–8 |year=2006 |pmid=16647998 |doi=10.1016/j.pediatrneurol.2005.09.007
+}}
+</ref> Studies suggest males suffer MTBI at about twice the rate of their female counterparts. <ref name=CassidyWHO/>  However, female athletes may be at a higher risk for suffering concussion than their male counterparts. <ref name=McKeever03>
+{{Cite journal|author=McKeever CK, Schatz P |title=Current issues in the identification, assessment, and management of concussions in sports-related injuries |journal=Applied Neuropsychology |volume=10 |issue=1 |pages=4–11 |year=2003 |pmid=12734070 |doi=10.1207/S15324826AN1001_2
+}}
+</ref> . 
+
+Up to five percent of [[sports injury|sports injuries]] are concussions. <ref name=Team>
+{{Cite journal|url=http://www.aoasm.org/pdf/ConcussionandtheTeamPhysician.pdf|format=PDF |author= Herring SA, Bergfeld JA, Boland A, Boyajian-O'Neil LA, Cantu RC, Hershman E, ''et al.'' |year=2005 |title=Concussion (mild traumatic brain injury) and the team physician: A consensus statement |journal=Medicine and Science in Sports and Exercise|pmid=16286874 |publisher =American College of Sports Medicine, American Academy of Family Physicians, American Academy of Orthopaedic Surgeons, American Medical Society for Sports Medicine, American Orthopaedic Society for Sports Medicine, American Osteopathic Academy of Sports Medicine |pages=2012–6|issue=11 | doi=10.1249/01.mss.0000186726.18341.70|volume=37
+}}
+</ref>  The U.S. [[Centers for Disease Control and Prevention]] estimates that 300,000 sports-related concussions occur yearly in the U.S., but that number includes only athletes who lost consciousness. <ref name=Langlois06/>  Since loss of consciousness is thought to occur in less than 10% of concussions,<ref name=Cantu98>
+{{Cite journal|author=Cantu RC |year=1998 |title=Second-impact syndrome |journal=Clinics in Sports Medicine |volume=17 |issue=1 |pages=37–44 |pmid=9475969 |doi=10.1016/S0278-5919(05)70059-4
+}}
+</ref> the CDC estimate is likely lower than the real number. <ref name=Langlois06>
+{{Cite journal|author=Langlois JA, Rutland-Brown W, Wald MM |title=The epidemiology and impact of traumatic brain injury: A brief overview |journal=Journal of Head Trauma Rehabilitation |volume=21 |issue=5 |pages=375–8 |year=2006 |pmid=16983222 |doi=10.1097/00001199-200609000-00001
+}}
+</ref> Sports in which concussion is particularly common include football and boxing (a boxer aims to "[[Knockout|knock out]]", i.e. give a mild traumatic brain injury to, the opponent). The injury is so common in the latter that several medical groups have called for a ban on the sport, including the American Academy of Neurology, the [[World Medical Association]], and the medical associations of the UK, the U.S., Australia, and Canada. <ref>
+{{Cite book|author=Solomon GS, Johnston KM, Lovell MR |year=2006 |url=http://books.google.com/?id=B01qwcnzDrQC&pg=PA77&lpg=PA77&dq=boxing+ban+concussion+%22american+academy+of+neurology%22#PPA77,M1 |title=The Heads-up on Sport Concussion |isbn=0736060081 |publisher=Human Kinetics Pub |location=Champaign, IL |accessdate=2008-03-06 |pages=77
+}}
+</ref> . 
+
+Due to the lack of a consistent definition, the economic costs of MTBI are not known, but they are estimated to be very high. <ref name=BorgWHO>
+{{Cite journal|author=Borg J, Holm L, Peloso PM, Cassidy JD, Carroll LJ, von Holst H, ''et al.'' |title=Non-surgical intervention and cost for mild traumatic brain injury: Results of the WHO Collaborating Centre Task Force on Mild Traumatic Brain Injury |journal=Journal of Rehabilitation Medicine |volume=36 |issue=Supplement 43 |pages=76–83 |year=2004 |pmid=15083872 |doi=10.1080/16501960410023840
+}}
+</ref>  These high costs are due in part to the large percentage of hospital admissions for head injury that are due to mild head trauma,<ref name="LevinHS"/> but indirect costs such as lost work time and early retirement account for the bulk of the costs. <ref name=BorgWHO/>  These direct and indirect costs cause the expense of mild brain trauma to rival that of moderate and severe head injuries. <ref name=Silver05>
+{{Cite book| author= Kraus JF, Chu LD |chapter=Epidemiology |editor=Silver JM, McAllister TW, Yudofsky SC |year=2005 | title=Textbook Of Traumatic Brain Injury |publisher=American Psychiatric Pub., Inc |isbn=1585621056 |pages=23
+}}
+</ref> . 
+
+==History==. 
+[[Image:HippocraticOath.jpg|thumb|left|The [[Hippocratic Corpus]] mentioned concussion. <ref name=Masferrer/>]]
+The Hippocratic Corpus, collection of medical works from ancient Greece, mentions concussion, later translated to ''commotio cerebri'', and discusses loss of speech, hearing and sight that can result from "commotion of the brain". <ref name=Masferrer>
+{{Cite journal|author=Masferrer R, Masferrer M, Prendergast V, Harrington TR |year=2000 |url=http://www.emergemd.com/bniq/article.asp?article_ref_id=16-1-1 |title=Grading scale for cerebral concussions |journal=BNI Quarterly |volume=16 |issue=1 |publisher=Barrow Neurological Institute |issn=0894-5799|format=
+}} {{Dead link|date=January 2010}}
+</ref> This idea of disruption of mental function by "shaking of the brain" remained the widely accepted understanding of concussion until the 19th&nbsp;century. <ref name=Masferrer/> The Persian physician [[Muhammad ibn Zakarīya Rāzi]] was the first to write about concussion as distinct from other types of head injury in the 10th&nbsp;century AD. <ref name=McCrory>
+{{Cite journal|author=McCrory PR, Berkovic SF |year=2001 |title=Concussion: The history of clinical and pathophysiological concepts and misconceptions |journal=Neurology |volume=57 |issue=12 |pages=2283–89 |pmid=11756611
+}}
+</ref> He may have been the first to use the term "cerebral concussion", and his definition of the condition, a transient loss of function with no physical damage, set the stage for the medical understanding of the condition for centuries. <ref name=sivak>
+{{Cite journal|author=Sivák Š, Kurča E, Jančovič D, Petriščák Š, Kučera P |year=2005
+|url=http://www.clsjep.cz/odkazy/clc0507_445.pdf |format=PDF |title=An outline of the current concepts of mild brain injury with emphasis on the adult population |journal=Časopis Lėkařů Českých |volume=144 |issue=7 |pages=445–450
+}}
+</ref> In the 13th&nbsp;century, the physician [[Lanfranc of Milan]]'s ''Chiurgia Magna'' described concussion as brain "commotion", also recognizing a difference between concussion and other types of traumatic brain injury (though many of his contemporaries did not), and discussing the transience of post-concussion symptoms as a result of temporary loss of function from the injury. <ref name=McCrory/> In the 14th&nbsp;century, the surgeon [[Guy de Chauliac]] pointed out the relatively good prognosis of concussion as compared to more severe types of head trauma such as [[skull fracture]]s and [[penetrating head trauma]]. <ref name=McCrory/> In the 16th&nbsp;century, the term "concussion" came into use, and symptoms such as confusion, lethargy, and memory problems were described. <ref name=McCrory/>  The 16th&nbsp;century physician [[Ambroise Paré]] used the term ''commotio cerebri'',<ref name=sivak/> as well as "shaking of the brain", "commotion", and "concussion". <ref name=Masferrer/> . 
+
+[[Image:Guillaume Dupuytren.jpg|thumb|right|[[Guillaume Dupuytren]] distinguished between concussion and unconsciousness associated with [[brain contusion]]. <ref name=Masferrer/>]]
+Until the 17th&nbsp;century, concussion was usually described by its clinical features, but after the invention of the microscope, more physicians began exploring underlying physical and structural mechanisms. <ref name=McCrory/> However, the prevailing view in the 17th century was that the injury did not result from physical damage, and this view continued to be widely held throughout the 18th&nbsp;century. <ref name=McCrory/>  The word "concussion" was used at the time to describe the state of unconsciousness and other functional problems that resulted from the impact, rather than a physiological condition. <ref name=McCrory/> . 
+
+In 1839, Guillaume Dupuytren described brain contusions, which involve many small hemorrhages, as ''contusio cerebri'' and showed the difference between unconsciousness associated with damage to the brain [[parenchyma]] and that due to concussion, without such injury. <ref name=Masferrer/>  In 1941, animal experiments showed that no [[macroscopic]] damage occurs in concussion. <ref name=Masferrer/><ref name="Denny-Brown">
+{{Cite journal|author=Denny-Brown D, Russell WR |title=Experimental cerebral concussion |journal=Journal of Physiology |volume=99 |issue=1 |pages=153 |year=1940 |pmid=16995229 |url=http://www.jphysiol.org/cgi/pmidlookup?view=long&pmid=16995229 |pmc=1394062
+}}
+</ref> . 
+
+==See also==. 
+*[[Concussion grading systems]]
+*[[Head injury criterion]]
+*[[Chronic traumatic encephalopathy]]
+{{clear}} . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+*[http://www.cdc.gov/ncipc/tbi/default.htm "Facts about Concussion and Brain Injury and Where to Get Help"] [[US Centers for Disease Control and Prevention]]
+*[http://www.cdc.gov/ncipc/tbi/Coaches_Tool_Kit.htm "Concussion in High School Sports"] [[US Centers for Disease Control and Prevention]]
+* [http://www.headway.org.uk/default.asp Headway – the brain injury association] UK based charity providing information and support
+{{Injuries, other than fractures, dislocations, sprains and strains}}
+{{Neurotrauma}} . 
+
+{{Good article}} . 
+
+[[Category:Neurotrauma]]
+[[Category:Athletic training]]
+[[Category:Psychiatric diagnosis]]

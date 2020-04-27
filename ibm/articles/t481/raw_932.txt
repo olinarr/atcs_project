@@ -1,0 +1,55 @@
+A '''gag rule''' is a rule that limits or forbids the raising, consideration or discussion of a particular topic by members of a legislative or decision-making body.  . 
+
+==Origin and pros and cons==. 
+The term “gag rule” originated in the mid-1830s when the U.S. House of Representatives barred discussion or referral to committee of antislavery petitions. <ref>Fergus M. Bordewich, Bound for Canaan: The Epic Story of the Underground Railroad, America's First Civil Rights Movement, at 155 (Amistad 2005). </ref> Such rules are often criticized because they abridge freedom of speech, which is normally given extremely high value when exercised by members of legislative or decision-making bodies (see [[Parliamentary privilege]] and [[Congressional immunity]]). On the other hand, gag rules are typically defended on the ground that they help preserve consensus by placing potentially divisive controversies "off the table" of debate.  . 
+
+==Examples==. 
+===Malaysia===. 
+A present-day example can be found in the [[Dewan Negara]] (Senate) of Malaysia, which has a standing order prohibiting any member from proposing the repeal of those articles of the [[Malaysian Constitution]] that reserve certain privileges for [[Bumiputra]] (ethnic Malay) citizens.  . 
+
+===England===. 
+A gag rule may be formally neutral, that is, forbidding discussions or arguments either for or against a particular policy. For example, [[William Laud]], the [[Archbishop of Canterbury]] during the reign of King [[Charles I of England]]:
+<blockquote>
+... forbade ministers to discuss the sublime mysteries associated with Calvin's doctrine of predestination. They could not preach it, nor could they preach against it. They could not mention it at all... For Laud, what was at stake was not so much the promotion of his own theological opinions as the suppression of the furor theologicus that had caused so much devastation in England and throughout Europe in the aftermath of the Reformation. <ref name="titleSpeaking of Islam">
+{{cite journal | quotes = | author = Lee Harris  | date = February 11, 2008 | title =Speaking of Islam: Liberty and grievance in Canada  | journal =[[The Weekly Standard]] | volume = 13| issue =21   | pages = | publisher = | location = | doi = | bibcode = | oclc = | id = | url =http://www.weeklystandard.com/Content/Public/Articles/000/000/014/687vefpl.asp?pg=1 | language = | format = | accessdate =2008-03-25 | laysummary = | laysource = | laydate = | quote = }}</ref>
+</blockquote> . 
+
+However, in practice, the effect (and in most cases, the intent) of even an ''even-handed'' ban on advocating or opposing a particular policy will be to entrench the status quo.  . 
+
+===United States===. 
+After the beginning of the earnest agitation of the Northern [[abolitionist]]s against the institution of [[slavery]] about 1831, petitions of various kinds poured into the [[United States House of Representatives]] and the [[United States Senate]] praying for the abolition or the restriction of that institution. These were generally presented by [[John Quincy Adams]], who as a member of Congress identified himself particularly with the struggle against any Congressional abridgment of the right of petition. <ref name=nie>{{Cite NIE|Gag rules|year=1906}}</ref> It was Adams who ultimately repealed the rule, by authoring a resolution for repeal, and assembling the coalition necessary to pass it. <ref name="NagelPaul">Nagel, Paul. "John Quincy Adams: A Public Life, a Private Life". p359. 1999, Harvard University Press</ref> . 
+
+The pro-slavery forces responded with a series of gag rules that automatically [[Table (United States parliamentary)|"tabled"]] all such petitions, preventing them from being read or discussed. 
+The [[United States House of Representatives|House]] passed  the Pinckney Resolutions on May 26, 1836, the third of which was known from the beginning as the "gag rule" and passed with a vote of 117 to 68  (The first stated that Congress had no constitutional authority to interfere with slavery in the states and the second that it "ought not" do so in the [[District of Columbia]].) . 
+
+From the inception of the gag resolutions, Adams was a central figure in the opposition to the gag rules.  He argued that they were a direct violation of the [[First Amendment to the United States Constitution|First Amendment]] right "to petition the Government for a redress of grievances".  A majority of Northern [[Whig Party (United States)|Whigs]] joined the opposition.  Rather than suppress anti-slavery petitions, however, the gag rules only served to offend Americans from Northern states, and dramatically increase the number of petitions. <ref>Miller, 112</ref>  The growing offense to the gag rule, as well as the [[Panic of 1837]], may have contributed to the first Whig majority, in the [[27th United States Congress|27th Congress]].  . 
+
+Since the original gag was a resolution, not a standing House Rule, it had to be renewed every session, and Adams and others had free rein until then.  In January 1837, the Pinckney Resolutions were substantially renewed, more than a month into the session.  The pro-gag forces gradually succeeded in shortening the debate and tightening the gag. In December 1837, the Congress passed the Patton Resolutions, introduced by [[John M. Patton]] of Virginia.  In December 1838, the Congress passed the Atherton Gag, composed by Democratic States-Rights Congressman [[Charles G. Atherton|Atherton]] of [[New Hampshire]], on the first petition day of the session.  . 
+
+In January 1840, the House of Representatives passed the Twenty-first Rule, which greatly changed the nature of the fight - it prohibited even the reception of anti-slavery petitions and was a standing House rule. Before, the pro-slavery forces had to struggle to impose a gag before the anti-slavery forces got the floor.  Now men like Adams or [[William Slade|Slade]] were trying to revoke a standing rule. However, it had less support than the original Pinckney gag, passing only by 114 to 108, with substantial opposition among Northern Democrats and even some Southern Whigs, and with serious doubts about its constitutionality.  Throughout the gag period, Adams' "superior talent in using and abusing parliamentary rules" and skill in baiting his enemies into making mistakes, enabled him to evade the rule. The gag was finally rescinded December 3, 1844, by a vote of 108-80, all the Northern and 4 Southern Whigs voting for repeal, along with 78% of the Northern Democrats. <ref>Miller, pp. 476, 479-481</ref> It was John Quincy Adams who had successfully assembled the coalition that approved his resolution to repeal the rule. <ref name="NagelPaul" /> . 
+
+In the [[United States Senate|Senate]] in 1836, [[John C. Calhoun]] attempted to introduce a gag rule. The Senate rejected this proposal, but agreed on a method which, while technically not violating the right to petition, would achieve the same effect. If an anti-slavery petition was presented, the Senate would vote not on whether to accept the petition but on whether to consider the question of receiving the petition. <ref name=Richards>Richards, pp.30-50</ref> . 
+
+==See also==. 
+* [[Global gag rule]] . 
+
+==References==. 
+{{Refbegin}}
+*{{cite book |author=Holmes, Stephen | title="Gag Rules, or the Politics of Omission." In Jon Elster and Rune Slagstad (eds) Constitutionalism and Democracy, pp 19-58. |year=1988 |location=Cambridge: Cambridge UP.}}
+* {{cite book |author=Miller, William Lee |title=Arguing About Slavery. John Quincy Adams and the Great Battle in the United States Congress |publisher=Vintage Books |location=New York |year=1995 |isbn=0-394-56922-9}}
+*{{cite book |author=Richards, Leonard L |title=The Life and Times of Congressman John Quincy Adams |publisher=Oxford University Press |location=Oxford  |year=1986 |pages= |isbn=0-19-504026-0}}
+{{Refend}} . 
+
+== Notes ==. 
+{{Reflist|2}} . 
+
+==External links==. 
+*[http://clerk.house.gov/legislative/rules110/rule21.html House of Representatives - Rule XXI]
+*[http://www.senate.gov/artandhistory/history/minute/Gag_Rule.htm Senate - History on Gag Rule]
+*[http://lcweb2.loc.gov/ammem/amlaw/lwsllink.html Search Congress]
+*[http://memory.loc.gov/ammem/hlawquery.html Web Site with Congressional archives]
+*[http://college.hmco.com/history/readerscomp/rcah/html/ah_034800_gagrule.htm ''The Reader's Companion to American History'']
+*{{cite web |url=http://www.arches.uga.edu/~th/gagrule.pdf |title=The Gag Rule, Congressional Politics, and the Growth of Anti-Slavery Popular Politics | author= Jeffery A. Jenkins, Charles Stewart III| date= 2003-07-10|accessdate=2007-09-16|format =pdf}} . 
+
+[[Category:Slavery in the United States]]
+[[Category:History of the United States Congress]]

@@ -1,0 +1,250 @@
+{{ref improve|date=December 2011}}
+{{update|date=December 2011}}
+[[Image:School leaving age.svg|thumb|380px|World map to show school leaving age]] . 
+
+The '''school leaving age''' is the minimum age a person is legally allowed to leave [[compulsory education|compulsory]] [[secondary education]]. Most countries have their school leaving age set the same as their minimum full-time employment age, thus allowing smooth transition from education into employment, whilst a few have it set just below the age at which a person is allowed to be employed.  . 
+
+In contrast, there are numerous countries that have several years between their school leaving age and their legal minimum employment age, thus in some cases preventing any such transition for several years. Countries which have their employment age set below the school leaving age (mostly developing countries), risk giving children the opportunity to leave their education early to earn money for their families.  . 
+
+The table below states the school leaving ages in countries across the world and their respective minimum employment age, showing a comparison of how many countries have synchronised these ages. <ref>[http://www.right-to-education.org/node/279 Country Table - [At What Age?...are school-children employed, married and taken to court&#93;<!-- Bot generated title -->]</ref> . 
+
+==Leaving age by country==. 
+Some countries have different leaving or employment ages, but in certain countries like China and Japan, the average age at which people graduate is 15, depending upon part-time or full-time learning or employment.  . 
+
+'''Legend'''
+{|
+. |-
+| ''Color legend'' || ''Ages legend''
+. |-
+|width="340"|{{legend|#E65959|School leaving age higher}} || '''0''' denotes education is not compulsory
+. |-
+|width="340"|{{legend|#F4EA66|Employment age higher}} || '''0''' denotes no minimum employment age as children could be, in theory, employed from birth
+. |-
+|width="340"|{{legend|#3F9BBB|Both ages synchronised}} || '''―''' denotes no information available
+. |-
+|width="340"|{{legend|#FFFFFF|No information / No age set}} || '''?''' denotes the age set is unknown
+. |-
+|} . 
+
+===[[Africa]]===. 
+{| class="wikitable"
+! rowspan=2 | [[#Legend|#]]
+! rowspan=2 | Country
+! colspan=2 | ''[[De facto|De jure]]''
+! rowspan=2 | Education/<br/>Employment gap
+! rowspan=2 | Notes
+. |-
+! School leaving age
+! Employment age
+{{SLA|Algeria|16|16|}}
+{{SLA|Benin|?|14|}}
+{{SLA|Burkina Faso|16|0|}}
+{{SLA|Burundi|12|16|}}
+{{SLA|Cameroon|0|14|}}
+{{SLA|Cape Verde|16|14|}}
+{{SLA|Chad|15|0|}}
+{{SLA|Comoros|14|0|}}
+{{SLA|Egypt|14|14|}}
+{{SLA|Eritrea|0|14|}}
+{{SLA|Ethiopia|0|14|}}
+{{SLA|Gabon|16|16|}}
+{{SLA|Ghana|15|12|}}
+{{SLA|Guinea|16|16|}}
+{{SLA|Kenya|0|1|}}
+{{SLA|Libya|15|15|}}
+{{SLA|Morocco|13|15|}}
+{{SLA|Niger|16|14|}}
+{{SLA|Rwanda|12|0|}}
+{{SLA|Seychelles|15|15|}}
+{{SLA|Sierra Leone|15|0|}}
+{{SLA|South Africa|15|15|A child between the ages of 15 and 18 may only be employed if he or she has completed the [[ninth grade]]. <ref>{{cite web |url=http://www.ci.org.za/depts/ci/pubs/pdf/resources/general/2011/ages_guide_april_2011.pdf |title=Legal guide to age thresholds for children and young people |first1=Prinslean |last1=Mahery |first2=Paula |last2=Proudlock |publisher=Children's Institute, University of Cape Town |date=April 2011 |edition=5 |page=12 |accessdate=8 October 2011}}</ref>}}
+{{SLA|Sudan|0|16|}}
+{{SLA|Tanzania|13|0|}}
+{{SLA|Togo|15|14|}}
+{{SLA|Tunisia|16|16|}}
+{{SLA|Zambia|0|14|}}
+. |-
+|} . 
+
+===[[Asia]]===. 
+{| class="wikitable"
+! rowspan=2 | [[#Legend|#]]
+! rowspan=2 | Country
+! colspan=2 | ''[[De facto|De jure]]''
+! rowspan=2 | Education/<br/>Employment gap
+! rowspan=2 | Notes
+. |-
+! School leaving age
+! Employment age
+{{SLA|Bangladesh|10|0|}}
+{{SLA|Bahrain|0|15|}}
+{{SLA|Brunei|0|14|Compulsory Education in Brunei from Primary Education to Secondary Education. Tertiary Education is encouraged.}}
+{{SLA|People's Republic of China|15|16|Compulsory education lasts 9 years. School leaving age is calculated under the assumption that pupils will enroll in school at age 6 or graduate high school at age 18.}}
+{{SLA|India|14|18|The Government is making a law of compulsory education up to 14 years. Any person who wishes to continue his education can continue to work.}}
+{{SLA|Hong Kong|15|16|}}
+{{SLA|Indonesia|15|14|The school leaving age varies among provinces with most having a leaving age of 15, but a handful having a leaving age of 18.}} 
+{{SLA|Iran|16|15|}}
+{{SLA|Iraq|?|15|}}
+{{SLA|Israel|18|14|The age of employment has been lowered, the school leaving age raised.}}
+{{SLA|Japan|15|15|The vast majority (>90%) of Japanese students complete senior secondary education due to social pressures, despite the leaving age.}}
+{{SLA|Jordan|17|16|}}
+{{SLA|North Korea|15|15|}}
+{{SLA|South Korea|15|15|The vast majority of Korean students complete senior secondary education due to social pressures as well as self-satisfaction, despite the leaving age.  Government assistance is available to families .}}
+{{SLA|Kuwait|14|14|}}
+{{SLA|Malaysia|16|16|Students must complete secondary education up to Form 3 and then have the choice of proceeding to upper secondary, vocasional schools or dropping out, however due to social pressures most students finish their secondary education and proceed to sixth form, matriculation or other forms of pre-university education.}}
+{{SLA|Maldives|0|16|}}
+{{SLA|Pakistan|10|14|Although the minimum age for leaving school is 10 years or primary, which means a 7 year education, the minimum age of employment is considered to be 14.The 14 years old can do only light work and not hazardous employment}}
+{{SLA|Philippines|16|18|The legal employment age in the Philippines is 18, but it is also violated by some.}}
+{{SLA|Saudi Arabia|15|18|A student may leave school after the age of 15 if permission of his/her father is given. Otherwise, the student must complete school until the age of 18. The employment age in a part-time job or during school holidays is 15.}}
+{{SLA|Singapore|16|15|Primary school is compulsory, followed by secondary school. 16 is the school leaving age; one may leave only after the release of [[Singaporean GCE 'O' Level]] results for admission to polytechnics, junior colleges, [[Institute of Technical Education]], or work. 15 is the minimum employment age. Under-aged people are not allowed to be employed or they risk fines by the [[Ministry of Manpower]].}}
+{{SLA|Sri Lanka|14|10|}}
+{{SLA|Syria|12|12|}}
+{{SLA|Taiwan|15|15|}}
+{{SLA|Thailand|15|13|Employment age: Most occupation at 15, some occupations 13}}
+{{SLA|United Arab Emirates|11|15|}}
+{{SLA|Vietnam|18|15|Junior High schools are now compulsory, but in some mountainous regions, many children leave schools earlier to help their parents. The government is trying to reduce that happening. Children must be at least 15 to be legally employed.}}
+. |-
+|} . 
+
+===[[Europe]]===. 
+{| class="wikitable"
+! rowspan=2 | [[#Legend|#]]
+! rowspan=2 | Country
+! colspan=2 | ''[[De facto|De jure]]''
+! rowspan=2 | Education/<br/>Employment gap
+! rowspan=2 | Notes
+. |-
+! School leaving age
+! Employment age
+{{SLA|Andorra|16|16|}}
+{{SLA|Austria|15|15|}}
+{{SLA|Belarus|15|14|}}
+{{SLA|Belgium|18|18|Full-time education is compulsory from the age of 6 to 15. From the person's 16th to their 18th birthday, they are obliged to pursue at least part-time education so they have a choice between full-time or part-time education.}}
+{{SLA|Bulgaria|16|16|}}
+{{SLA|Cyprus|15|15|}}
+{{SLA|Czech Republic|15|15|}}
+{{SLA|Denmark|16|15|}}
+{{SLA|England|16 now 18|14|Full-time employment is illegal before the last Friday in June of [[Year Eleven]] even if the child is already 16. <ref name="sla">{{Cite web|url=http://www.connexions-direct.com/index.cfm?catalogueContentID=116&pid=75#5|title=Getting a full-time Job at 16|accessdate=2009-01-11|publisher=Connexions Direct}}</ref> Part-time employment may be undertaken from 14 and in certain cases, for example delivering newspapers, at 13. Rules coming into application in 2011 require all young people to continue with some kind of education or training until 18. Young people aged 16 or 17 may be employed if they enter [[apprenticeship]].}}
+{{SLA|Estonia|15|18|}}
+{{SLA|Finland|varies|14|Citizens must complete comprehensive school. The age of finishing it varies depending on the age of starting school (mostly 7) and years held back. Most graduate from comprehensive school at the age of 16. Pupils who have not finished comprehensive school by the age of 17 (which is marginal) may quit school. Secondary education is voluntary.}}
+{{SLA|France|16|16|The statutory minimum school leaving age is 16. There are, however, a few specific cases where young people may enter employment before the age of 16, such as employment in the parents' company, sporadic work, or young people who have left school early taking up an [[apprenticeship]] at 15, to name a few. <ref>[http://www.eurofound.europa.eu/eiro/2005/12/tfeature/fr0512101t.html Contribution to EIRO thematic feature on Youth and work - case of France<!-- Bot generated title -->]</ref>}}
+{{SLA|Germany|18|15|The statutory minimum school leaving age is essentially set at 18. <ref>[http://www.onlineopinion.com.au/view.asp?article=217"School: leaving it too early" - by Andrew Leigh]</ref> The federal ''Jugendarbeitsschutzgesetz'' (Youth Employment Protection Act) regulates the minimum employment age, which is set at 15. <ref>[http://bundesrecht.juris.de/jarbschg/index.html  Text of the German Youth Employment Protection Act in German], provided by the German [[Federal Ministry of Justice (Germany)|Federal Ministry of Justice]]. </ref> However, from the person's 15th to their 18th birthday, they are obliged by [[States of Germany|state]] law to pursue at least part-time [[Vocational education|vocational]] secondary education, usually within the German [[dual education system]].}}
+{{SLA|Greece|16|16|}}
+{{SLA|Hungary|18|16|}}
+{{SLA|Iceland|15|15|}}
+{{SLA|Ireland|16|15|16 is the minimum school leaving age, though students must complete three years of basic secondary education (ie. the [[Junior Certificate]]) regardless of age.  Young people may be employed in a part-time job during school holidays at age 14, part-time year-round at age 15 and may be employed full-time at age 18. Persons under the age of 18 are subject to restrictions on their work. People under 16 must have written parental approval before they take a job.}}
+{{SLA|Italy|16|16|}}
+{{SLA|Latvia|15|15|}}
+{{SLA|Liechtenstein|15|15|}}
+{{SLA|Lithuania|16|16|}}
+{{SLA|Luxembourg|15|15|}}
+{{SLA|Republic of Macedonia|18|15|Compulsory secondary education starts year 2008 (Official Gazette of the Republic of Macedonia No. 49 from 18.04.2007)}}
+{{SLA|Malta|16|16|Although the compulsory education ends at 16, an increasing number of children opt to further their studies while taking up part-time employment.}}
+{{SLA|Monaco|16|16|}}
+{{SLA|Netherlands|18|16|Full-time education is compulsory from the age of 5 to 16. From the person's 16th to their 18th birthday, they are obliged to pursue at least part-time education so they have a choice between full-time or part-time education.}}
+{{SLA|Netherlands Antilles|15|12|}}
+{{SLA|Norway|16|15|}}
+{{SLA|Poland|18|15|}}
+{{SLA|Portugal|16|16|}}
+{{SLA|Romania|16|16|}}
+{{SLA|Russia|15|14|}}
+{{SLA|San Marino|16|16|}}
+{{SLA|Scotland|16|13|Compulsory education ends usually after the age of 16 which is generally after [[fourth year]] though for some is halfway through [[fifth year]] usually. However, many students stay on to fifth and/or sixth year, where qualifications are gained for entry to [[university]]. Restrictions apply to working hours of those 13 to 16 year (i.e. maximum  hours, work permits, type of work) to ensure that employment fits round requirements of full-time education.}}
+{{SLA|Slovakia|16|14|From 14 to 17, only part-time jobs allowed. <br/>Student can leave school after 10 years of school atendance (usually 16 years) or when first school year after his/her 16th birthday is finished (whatever comes first). Most students continue until ''maturita'' exam in last year of high school (student is usually 18 at that time).}}
+{{SLA|Slovenia|15|15|}}
+{{SLA|Spain|16|16|}}
+{{SLA|Sweden|16|16|}}
+{{SLA|Switzerland|15|15|}}
+{{SLA|Turkey|14|12|}}
+{{SLA|Ukraine|17|16|}}
+{{SLA|Wales|16|14|Full-time work starts at 16}}
+. |-
+|} . 
+
+===[[North America]] and [[Caribbean]]===. 
+{| class="wikitable"
+! rowspan=2 | [[#Legend|#]]
+! rowspan=2 | Country
+! colspan=2 | ''[[De facto|De jure]]''
+! rowspan=2 | Education/<br/>Employment gap
+! rowspan=2 | Notes
+. |-
+! School leaving age
+! Employment age
+{{SLA|Barbados|16|16|}}
+{{SLA|Belize|14|12|}}
+{{SLA|Canada|16|14|The provinces of Ontario and New Brunswick have their school leaving age at the age of 18 years.}}
+{{SLA|Dominica|16|12|}}
+{{SLA|Dominican Republic|15|15|}}
+{{SLA|Grenada|14|14|}}
+{{SLA|Haiti|?|15|}}
+{{SLA|Honduras|13|14|}}
+{{SLA|Jamaica|16|18|}}
+{{SLA|Mexico|15|14|}}
+{{SLA|Saint Kitts and Nevis|16|16|}}
+{{SLA|Saint Vincent and the Grenadines|0|14|}}
+{{SLA|Trinidad and Tobago|12|12|}}
+{{SLA|United States|16|15|The school leaving age varies from state to state with most having a leaving age of 16 or 17, but a handful having a leaving age of above that number. Students who complete a certain level of secondary education ("high school") may take a standardized test and be graduated from compulsory education, the [[General Equivalency Degree]].  Gifted and talented students are also generally permitted by several states to accelerate their education so as to obtain a diploma prior to attaining the leaving age.  Young people may seek employment at 14 in many states but, in practice, most employers seek someone slightly older.}}. |-
+|} . 
+
+===[[South America]]===. 
+{| class="wikitable"
+! rowspan=2 | [[#Legend|#]]
+! rowspan=2 | Country
+! colspan=2 | ''[[De facto|De jure]]''
+! rowspan=2 | Education/<br/>Employment gap
+! rowspan=2 | Notes
+. |-
+! School leaving age
+! Employment age
+{{SLA|Argentina|15|14|}}
+{{SLA|Bolivia|15|?}}
+{{SLA|Brazil|15|14|Schooling is mandatory for children 6-14 (years 1-9 in the new Brazilian school system).  After that, there is no legal obligation to stay in school. Students who want to qualify for university admission must however complete three additional years (years 10-12) of secondary school (''ensino médio''), thus normally leaving school at age 17 or 18, depending on one's birthday date. The minimum age for legal work is 16; at 14, one is allowed to have an apprenticeship contract.}}
+{{SLA|Chile|18|17|Students finish their secondary education (''Educación Media'' in Spanish) at age 18, and working is legal only if the underaged employee (age 17 or younger) is authorised by legal guardian or parents,}}
+{{SLA|Colombia|15|14|}}
+{{SLA|Paraguay|15|0|Since the initiation of the Education Reform in 1993, basic education is for a period of nine years to the age of 15. According to the Constitution, compulsory education ends at 12.}}
+{{SLA|Peru|16|12|Employers are obliged to report regularly on the performance and attendance of students who they employ to help ensuring their education does not suffer because of their employment.}}
+{{SLA|Suriname|10|14|}}
+{{SLA|Venezuela|10|14|}}
+. |-
+|} . 
+
+===[[Oceania]]===. 
+{| class="wikitable"
+! rowspan=2 | [[#Legend|#]]
+! rowspan=2 | Country
+! colspan=2 | ''[[De facto|De jure]]''
+! rowspan=2 | Education/<br/>Employment gap
+! rowspan=2 | Notes
+. |-
+! School leaving age
+! Employment age
+{{SLA|Australia|17|15|School leaving age varies from state to state with 17 being the most popular.{{Citation needed|date=August 2008}}It is common for students to have an unskilled job until they finish their schooling.}}
+{{SLA|Fiji|0|12|}}
+{{SLA|Marshall Islands|14|0|}}
+{{SLA|Federated States of Micronesia|14|0|}}
+{{SLA|New Zealand|16|0|Those at least 15 may leave school with permission from the Ministry of Education}}
+{{SLA|Palau|17|0|}}
+{{SLA|Solomon Islands|0|12|}}
+. |-
+|} . 
+
+==See also==. 
+*[[Education Index]]
+*[[Legal working age]]
+*[[Compulsory education]]
+*[[Raising of school leaving age]] . 
+
+==Notes==. 
+{{reflist}} . 
+
+==External links==. 
+*[http://www.right-to-education.org/ Right to Education] . 
+
+{{Lists by country}}
+{{Law country lists}} . 
+
+[[Category:Education policy]]
+[[Category:Juvenile law]]
+[[Category:Students]]
+[[Category:High schools and secondary schools]]

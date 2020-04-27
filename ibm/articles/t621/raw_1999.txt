@@ -1,0 +1,164 @@
+{{About|the World War II nuclear weapon}}
+{{Infobox Weapon
+|name            = Fat Man
+|image           = [[File:Fat man.jpg|250px|center]]
+|caption         = Mockup of the original weapon
+|l. 
+|origin          = United States
+|type            = [[Nuclear weapon]]
+<!--Type selection -->
+|is_explosive    = yes
+<!-- General specifications -->
+<!-- Note on units - the weapon was designed and specified in inches (or feet) and pounds.  All the original references are in inches and pounds.  Wikipedia policy is to use as the primary values the original units system and provide conversions from that to the other unit system.  Changing the natively english units values to metric as the base unit violates Wikipedia policy.  As does removing the english units entirely.  Please leave this alone.  -->
+|weight          = {{convert|10213|lb|kg}}
+|length          = {{convert|10.7|ft|m}}
+|part_length     =
+|width           =
+|height          =
+|diameter        = {{convert|5|ft|m}}
+|crew            =
+<!-- Explosive specifications -->
+|filling         =
+|filling_weight  =
+|detonation      =
+|yield           = {{convert|21|kt(TNT)|abbr=on|lk=in}} ~75 Million sticks of dynamite. 
+}} . 
+
+"'''Fat Man'''" is the codename for the [[atomic bomb]] that was [[Atomic bombings of Hiroshima and Nagasaki|detonated over Nagasaki]], Japan, by the United States on August 9, 1945. It was the second of only two nuclear weapons to be used in warfare to date (the other being "[[Little Boy]]"), and its detonation caused the third man-made nuclear explosion. The name also refers more generically to the early [[nuclear weapon design]]s of U.S. weapons based on the "Fat Man" model. It was an [[nuclear weapon design|implosion-type]] weapon with a [[plutonium core]], similar to "[[The gadget]]", the experimental device [[Trinity (nuclear test)|detonated]] only a month earlier in New Mexico. <ref>{{cite book
+  | last       = Hakim
+  | first      = Joy
+  | authorlink =
+  | coauthors  =
+  | title      = A History of Us: War, Peace and all that Jazz
+  | publisher  = Oxford University Press
+  | year       = 1995
+  | location   = New York
+  | pages      =
+  | url        =
+  | doi        =
+  | id         =
+  | isbn       = 0-19-509514-6 }}</ref> . 
+
+"Fat Man" was possibly named after [[Winston Churchill]],<ref>{{cite news| url=http://news.bbc.co.uk/onthisday/hi/dates/stories/august/9/newsid_3580000/3580143.stm | work=BBC News | title=1945: Atom bomb hits Nagasaki | date=August 9, 1945 | accessdate=May 2, 2010}}</ref> though [[ the Robert Serber]] said in his memoirs that as the "Fat Man" bomb was round and fat, he named it after [[Sydney Greenstreet]]'s character of "Kasper Gutman" in ''[[The Maltese Falcon (1941 film)|The Maltese Falcon]]''.  . 
+
+The original target for the bomb was the city of [[Kokura]], but obscuring clouds necessitated changing course to the alternative target, Nagasaki. "Fat Man" was dropped from the [[Boeing B-29 Superfortress|B-29]] bomber ''[[Bockscar]]'', piloted by Major [[Charles Sweeney]] of the [[393d Bomb Squadron|393d Bombardment Squadron, Heavy]], and exploded at 11:02 AM (JST), at an altitude of about {{convert|1,650|ft}}, with a yield of about {{convert|21|ktonTNT|disp=or}}. <ref>[http://www.warbirdforum.com/hiroshim.htm What was the yield of the Hiroshima bomb?<!-- Bot generated title -->]</ref> Because of poor visibility due to cloud cover, the bomb missed its intended detonation point, and damage was somewhat less extensive than that in [[Hiroshima]]. An estimated 39,000 people were killed outright by the bombing at Nagasaki, and a further 25,000 were injured. <ref>[http://www.yale.edu/lawweb/avalon/abomb/mp10.htm The Avalon Project : The Atomic Bombings of Hiroshima and Nagasaki<!-- Bot generated title -->]</ref> Thousands more died later from related blast and burn injuries, and hundreds more from [[radiation poisoning|radiation illnesses]] from exposure to the bomb's initial radiation. The bombing raid on [[Nagasaki, Nagasaki|Nagasaki]] had the third highest fatality rate in World War II<ref>[http://www.cfo.doe.gov/me70/manhattan/nagasaki.htm The Atomic Bombing of Nagasaki, August 9, 1945]</ref> after the [[Atomic bombings of Hiroshima and Nagasaki|nuclear strike on Hiroshima]]<ref>[http://books.nap.edu/openbook.php?record_id=11340&page=141 Health Risks from Exposure to Low Levels of Ionizing Radiation: BEIR VII Phase 2]</ref><ref>[http://www.rerf.or.jp/general/qa_e/ Frequently Asked Questions - Radiation Effects Research Foundation<!-- Bot generated title -->]</ref><ref>Radiobiology for the radiologist. Lippincott Williams & Wilkins, 6th edition. Chapter 10, Sections 3,4,5. </ref><ref>[http://www.cfo.doe.gov/me70/manhattan/hiroshima.htm The Atomic Bombing of Hiroshima, August 6, 1945<!-- Bot generated title -->]</ref> and the [[Bombing of Tokyo in World War II|March 9/10 1945 fire bombing raid on Tokyo]]. <ref>Richard B. Frank, ''Downfall'', p. 17–18. </ref> . 
+
+==Technology==. 
+[[Image:AirForceMuseum FatManReplica.jpg|200px|thumb|alt=Fat Man Replica|Replica displayed in the [[National Museum of the United States Air Force|Wright-Patterson Air Force Museum]]]]
+[[Image:Implosion Nuclear weapon.svg|left|300px|Illustration of the implosion concept.]]
+[[File:Nagasakibomb.jpg|left|200px|thumb|''Fat Man'' exploding over [[Nagasaki, Japan]], August 9, 1945.]]
+[[File:Nagasaki temple destroyed.jpg|left|200px|thumb|Weapon effects]] . 
+
+It was {{convert|128|in}} long, {{convert|5|ft}} in diameter, and weighed {{convert|10200|lbs}}.  In accordance with the name, it was more than twice as wide as [[Little Boy]], which was dropped on [[Hiroshima]] three days earlier; however, the mass was only 15% more than that of Little Boy.  . 
+
+"Fat Man" was an [[Implosion (mechanical process)|implosion]]-type device using [[plutonium-239]].  A [[subcritical]] sphere of plutonium was placed in the center of a hollow sphere of [[high explosives]].  Thirty-two pairs of [[exploding-bridgewire detonator|detonators]] located on the surface of the high explosive were fired simultaneously to produce a powerful inward [[pressure]] on the core, squeezing it and increasing its [[density]], resulting in a supercritical condition and a nuclear initiation.  . 
+
+At first it was thought that two pieces of subcritical plutonium (Pu-239) could simply be shot into one another to create a nuclear explosion, and a plutonium gun-type design of this sort (known as the "[[Mark 2 nuclear bomb|Thin Man]]" bomb) was worked on for some time during the Manhattan Project. In April 1944, [[Emilio Segrè]] discovered that plutonium created for the bomb in the [[nuclear reactor]]s at [[Hanford Site|Hanford, Washington]]—even though it was [[supergrade plutonium]] containing only about 0.9% [[Pu-240]]—was not as pure as the initial samples of plutonium developed at the [[cyclotron]]s at [[Ernest O. Lawrence|Ernest O. Lawrence's]] [[Lawrence Berkeley National Laboratory|Radiation Laboratory]] in [[Berkeley, California]]. Because of the presence of the Pu-240 isotope, reactor-bred plutonium had a much higher rate of spontaneous [[neutron emission]] than was previously thought, and if a gun-type device was used it would most likely pre-initiate and result in a messy and costly "[[Fizzle (nuclear test)|fizzle]]". The [[spontaneous fission]] rate of Pu-240 is 40,000 times greater than that of Pu-239, so that in a gun-type plutonium device of the sort planned during the Manhattan Project, the last few centimeters would have to be traveled in less than 40 microseconds. After this problem was realized, the entire [[Los Alamos National Laboratory|Los Alamos]] laboratory re-organized around the problem of  the implosion bomb, the "Fat Man" starting in June 1944.  . 
+
+[[Image:Trinity Gadget.png|thumb|right|The "[[Trinity test|Trinity]]" device was similar to the "Fat Man" bomb.]]
+[[Image:X-Ray-Image-HE-Lens-Test-Shot.gif|thumb|right|Flash X-Ray images of the converging shock waves formed during a test of the high explosive lens system.]] . 
+
+The difficulty in the design of an implosion device lay primarily in properly compressing the plutonium core into a near-perfect sphere; if the compression was not symmetrical it would cause the plutonium to be ejected from the weapon, making it an inefficient "[[dirty bomb]]". In order to accomplish the compression, the high explosive system had to be carefully designed as a series of [[explosive lens]]es which used alternating fast- and slow-burning explosives to shape the explosive [[shock wave]] into the desired spherical shape. An early idea of this sort had been raised by [[physicist]] [[Richard Tolman]] during early discussions of possible bomb designs, specifically in having many pieces of fissile material attached to explosives that would then assemble them in a spherical fashion. This idea was further developed by [[Seth Neddermeyer]], who attempted to find a way to collapse a hollow sphere of plutonium onto a solid sphere of it inside itself. Neither of these ideas relied on compression of the plutonium, and neither would assemble the device fast enough to avoid preinitiation (see discussion below). <ref name="TellerMemoirs">Edward Teller, ''Memoirs: A Twentieth-Century Journey in Science and Politics'' (Cambridge, MA: Perseus Publishing, 2001): 174-176. </ref> . 
+
+The idea of using [[shaped charge]]s came from [[James L. Tuck]]<ref>[http://www.lanl.gov/history/wartime/britishmission.shtml Tuck at Los Alamos web site]</ref> and was developed by mathematician [[John von Neumann]],<ref>[http://www.lanl.gov/history/atomicbomb/implosion.shtml Von neuman at Los Alamos web site]</ref> and the idea that under such pressures the plutonium metal itself would be compressed may have come about from conversations with [[Edward Teller]], whose knowledge of how dense metals behaved under heavy pressure was influenced by his theoretical studies of the [[earth core|Earth's core]] with [[George Gamow]]. <ref name="TellerMemoirs"/> Von Neumann and [[George Kistiakowsky]] eventually became the principal architects behind the lens system. [[Robert Christy]] is credited with doing the final calculations that showed that a solid subcritical sphere of plutonium could be compressed to a critical state greatly simplifying the task since earlier efforts had attempted the more difficult compression of 3D shapes like spherical shells. After Christy's report, the solid-plutonium core weapon was referred to as the "'''Christy Gadget'''".  . 
+
+Because of its complicated firing mechanism, and the need for previously untested synchronization of explosives and precision design, it was felt that a full test of the concept was needed before the scientists and military representatives could be confident it would perform correctly under combat conditions. On July 16, 1945, a device using a similar mechanism (called the "[[the gadget|gadget]]" for security reasons) detonated in a [[nuclear testing|test explosion]] at a remote site in [[New Mexico]], known as the "[[Trinity test|Trinity]]" test. It gave about 20 kt (80 TJ), 2 to 4 times the expected yield.  . 
+
+The gun-type method, though inadequate for plutonium, could still be used for highly enriched [[uranium]], and was employed in the "[[Little Boy]]" device, used against [[Hiroshima]]. The implosion method is more efficient than the gun-type method, and also far safer, as a perfect synchronization of the explosion lenses is required for the core to properly detonate, greatly reducing the chances of an accidental nuclear initiation. After the success of the first implosion "gadget", almost all subsequent American fission designs utilized implosion, with a rare few that used the gun-type design out of special design requirements (like extreme narrowness of weapon, such as [[nuclear artillery]]).  . 
+
+[[Image:RDS-1.jpg|right|thumb|Espionage information procured by [[Klaus Fuchs]] and [[Theodore Hall]], and to a lesser extent [[David Greenglass]], led to the first Soviet device, "[[Joe 1|RDS–1]]" (above) closely resembling Fat Man, even in its external shape.]] . 
+
+The [[Soviet atomic bomb project|Soviet Union's first nuclear weapon]] detonated at Operation First Lightning (known as "[[Joe 1]]" in the West) was closely based on the "Fat Man" device, on which they had obtained detailed information from the spies [[Klaus Fuchs]], [[Theodore Hall]], and [[David Greenglass]]. <ref>{{cite journal |last1=Holloway |first1=David |year=1993 |title=Soviet Scientists Speak Out |journal=Bulletin of the Atomic Scientists |volume=49 |issue=4 |pages=18–19 |publisher=Educational foundation for Nuclear Science |doi= |url=http://books.google.com/books?id=qQwAAAAAMBAJ&pg=PA18#v=onepage&q&f=false |accessdate= August 14, 2011 }}</ref><ref>{{cite web |url=http://www.nuclearweaponarchive.org/Nwfaq/Nfaq8.html#nfaq8.1.1 |title=The Design of Gadget, Fat Man, and "Joe 1" (RDS-1)  |author=Carey Sublette |date=July 3, 2007 |work=Nuclear Weapons FAQ |accessdate=12 August 2011}}</ref>  . 
+
+The names for all three projects ("Fat Man", "Thin Man", and "Little Boy") were allegedly created by [[Robert Serber]], a former student of Los Alamos director [[Robert Oppenheimer]] who worked on the project, according to Serber. According to his later memoirs, he chose them based on their design shapes; the "Thin Man" would be a very long device, and the name came from the [[Dashiell Hammett]] [[The Thin Man|detective novel]] and [[The Thin Man (film)|series of movies]] by the same name; the "Fat Man" bomb would be round and fat and was named after [[Sidney Greenstreet]]'s "Kasper Gutman" character in ''[[The Maltese Falcon (1941 film)|The Maltese Falcon]]''. "Little Boy" would come last and be named only to contrast to the "Thin Man" bomb. <ref>Robert Serber, ''Peace & War: Reminiscences of a Life on the Frontiers of Science'' (New York: Columbia University Press, 1998): 104. </ref> . 
+
+Other sources say the names originated with the [[Army Air Forces]]. According to this version, the B-29 bombers would need certain modifications to enable them to carry the weapons.  A cover story was created that the modifications were to fit out two B-29s as transportation aircraft for President [[Franklin D. Roosevelt]] and British Prime Minister [[Winston Churchill]].  The "Fat Man" was supposedly Churchill, the "Thin Man", Roosevelt. <ref>Paul W Tibbets, Clair C Stebbins, and Harry Franken, ''The Tibbets Story'' (New York; Stein and Day, 1978. ISBN 9780812821574)</ref>  When it was discovered that the gun-bomb could be shorter than first thought, "Thin Man" was renamed "Little Boy." . 
+
+After the war, the ''Fat Man'' (technically the ''model 1561 Fat Man'') was modified—improved detonators, a more reliable firing system, and other minor changes.  It thus emerged as the '''Mark III''' (or '''Mark 3''') atomic bomb. Approximately 100 units were added to the arsenal before retirement by 1950.  . 
+
+==Interior of bomb==. 
+The original blueprints of the interior of both Fat Man and Little Boy have been classified since World War II. However, much information about the main parts is available in the unclassified public literature. Of particular interest is a description of Fat Man sent to Moscow by Soviet spies at Los Alamos in 1945.  It was released by the Russian government in 1992. <ref>V.P. Visgin, ed. 1992. At the source of the Soviet atomic project: the role of espionage, 1941-1946. ''Problems in the History of Science and Technology'' 3:97.  Described in Richard Rhodes, ''Dark Sun: The Making of the Hydrogen Bomb''.  Simon and Schuster, 1995. pp. 193-8. </ref> . 
+
+Below is a diagram of the main parts of the "Fat Man" device itself, followed by a more detailed look at the different materials used in the [[physics package]] of the device (the part responsible for the nuclear initiation).  . 
+
+{| border="0"
+|
+[[Image:Fat Man External.svg|410px|center]]
+|
+# AN 219 contact [[fuze]] (four)
+# ''Archie'' radar antenna
+# Plate with batteries (to detonate charge surrounding nuclear components)
+# ''X-Unit,'' a firing set placed near the charge
+# Hinge fixing the two ellipsoidal parts of the bomb
+# Physics package (see details below)
+# Plate with instruments (radars, baroswitches and timers)
+# Barotube collector
+# ''California Parachute'' tail assembly ({{convert|0.20|in|mm|adj=on}} aluminium sheet)
+|} . 
+
+===Physics package=== . 
+
+[[Image:Fat Man Internal Components.png]] . 
+
+===Assembly===. 
+[[Image:Sanborn Critical Assembly Installation.jpg|thumb|left|[[Jim Sanborn]]'s 2003 re-creation, ''Critical Assembly''. The bottom hemisphere of the pusher, with pieces of the boron shell, tamper, pit, and urchin.]]
+[[Image:Fat Man Assembly Tinian 1945.jpg|thumb|right|The physics package getting its shell]]
+[[Image:Fat Man Assembled Tinian 1945.jpg|thumb|right|Fat Man on its transport carriage]] . 
+
+To allow insertion of the 3.62&nbsp;inch (92&nbsp;mm) diameter plutonium pit, containing the 0.83&nbsp;inch (21&nbsp;mm) diameter "Urchin" initiator, as late as possible in the device's assembly, the spherical 8.75&nbsp;inch (222&nbsp;mm) diameter U-238 tamper surrounded by a 0.125&nbsp;inch (3.2&nbsp;mm) thick shell of boron impregnated plastic had a 5&nbsp;inch (130&nbsp;mm) diameter cylindrical hole running through it, like the hole in a cored apple.  The missing U-238 tamper cylinder, containing the [[plutonium pit]], could be slipped in through a hole in the surrounding 18.5&nbsp;inch (470&nbsp;mm) diameter [[aluminium]] pusher.  . 
+
+In August 1945, it was assembled on [[Tinian Island]].  When the physics package was fully assembled and wired, it was placed inside its ellipsoidal aerodynamic bombshell and wheeled to the bomb bay of the [[B-29 Superfortress]] named "[[Bockscar]]", after its normally assigned command pilot, Fred Bock (who flew a different plane on the Nagasaki mission). <ref>http://awesometalks.wordpress.com/2008/08/07/bockscar-the-forgotten-plane-that-dropped-the-atomic-bomb/</ref> . 
+
+In 2003, these concentric spheres and cylinder were recreated as the centerpiece of an art installation called ''Critical Assembly'' by sculptor [[Jim Sanborn]].  Using non-nuclear materials, he replicated the internal components of the "Trinity" device, which had the same design as Fat Man. ''Critical Assembly'' was first displayed at the [[Corcoran Gallery of Art]], in Washington, DC. <ref>Jim Sanborn, ''Atomic Time: Pure Science and Seduction'', Jonathan Binstock, ed., Corcoran Gallery of Art, 2003, p. 23. </ref> . 
+
+The plutonium must be compressed to twice its normal density before free neutrons are added to start the fission chain reaction: . 
+
+*{{legend|#ffff00|An [[exploding-bridgewire detonator]] simultaneously starts a [[detonation wave]] in each of the 32 tapered high explosive columns (pentagons and hexagons arranged as on a [[soccer ball]]—a [[truncated icosahedron]]). }}
+*{{legend|#cc6633|The detonation wave (arrows) is initially convex in the}}
+*{{legend|#d79563|faster explosive, [[Composition B]]: 60% [[RDX]], 39% [[Trinitrotoluene|TNT]], 1% [[wax]].  The [[wavefront]] shape becomes concave in the}}
+*{{legend|#ffcc99|slower explosive ([[Baratol (explosive)|Baratol]]).  The 32 waves merge into a single spherical implosive wave before they hit the}}
+*{{legend|#d79563|faster explosive, [[Composition B]], of the inner charges.}}
+*{{legend|#c6c6c6|The medium-density [[aluminium]] "pusher" transfers the imploding shock wave from low-density explosive to high-density uranium, minimizing undesirable [[turbulence]]; the shock wave then compresses the inner components.  At the very center, the}}
+[[Image:Fat Man Detonation.png|thumb|right|Fat Man Detonation]]
+*{{legend|#008000|[[beryllium]]–[[polonium]]-210 "initiator" (the "[[urchin (detonator)|urchin]]") is crushed, bringing the two metals in contact to release a burst of neutrons into the compressed}}
+*{{legend|#ff0000|"[[plutonium pit|pit]]" of [[plutonium]]-239–plutonium-240–[[gallium]] [[plutonium-gallium alloy|delta-phase alloy]] (96%–1%–3% by [[Concentration#Molarity|molarity]]).  A fission chain reaction starts.  The tendency of the fissioning pit to prematurely blow itself apart is retarded by the inward momentum of the}}
+*{{legend|#808080|natural-[[uranium]] "tamper" (inertial containment).  The tamper also [[neutron reflector|reflects neutrons]] back into the pit, speeding up the chain reaction.}}
+*{{legend|#0000ff|The [[boron]] plastic shell was intended to protect the pit from stray neutrons, but was later deemed unnecessary.}} . 
+
+The result was that in the Fat Man bomb, about {{convert|1|kg}} of the {{convert|6.2|kg}} of plutonium in the pit (about 17%) [[nuclear fission|fissioned]]. In this process {{convert|1|g}} of [[matter]] in the bomb <!--do not change to [[mass]] which is incorrect; see TALK--> was converted into the active energy of heat and radiation (see [[mass-energy equivalence]] for detail), releasing the energy equivalent of {{convert|21|ktonTNT|disp=or}}.  . 
+
+==See also==. 
+{{commons}}
+* [[Atomic bombings of Hiroshima and Nagasaki]]
+* [[Bockscar]]
+* [[Enola Gay]]
+* ''[[Fat Man and Little Boy]]'', a 1989 film that reenacts the Manhattan Project
+* [[The gadget]]
+* [[Little Boy]]
+* [[RDS-1]], the first [[Soviet Union|Soviet]] atomic device, closely modeled after "Fat Man"
+* [[Thin Man nuclear bomb]]
+* [[Trinity test]]
+* [[Tsar Bomba]] aka Kuzka's mother . 
+
+==References==. 
+{{reflist}} . 
+
+==External links==. 
+*[http://nuclearweaponarchive.org/Nwfaq/Nfaq8.html#nfaq8.1.1 thorough descriptions of Gadget] ("a great deal of tissue paper and Scotch tape were used to make everything fit snugly") and [http://nuclearweaponarchive.org/Nwfaq/Nfaq8.html#nfaq8.1.4 Fat Man] at Nuclear Weapons Archive
+*[http://www.cartage.org.lb/en/themes/Sciences/Chemistry/NuclearChemistry/NuclearWeapons/FirstChainReaction/FirstNuclWeapons/DesignGadget.htm The Design of Gadget, Fat Man, and "Joe 1" (RDS-1)]
+* [http://www.atomicarchive.com/Movies/Movie3.shtml Fat Man Model] in QuickTime VR format
+*[http://www.mbe.doe.gov/me70/manhattan/implosion_necessity.htm Naming of "Fat Man" & "Thin Man" after Churchill, Roosevelt]
+*[http://www.mbe.doe.gov/me70/manhattan/final_design.htm The final bomb design, with pictures]
+*[http://www.newyorker.com/reporting/2008/12/15/081215fa_fact_samuels Atomic John: A truck driver uncovers secrets about the first nuclear bombs.] Essay and interview with John Coster-Mullen by David Samuels in the New Yorker, December 15, 2008 issue. Coster-Mullen is the author of ''Atom Bombs: The Top Secret Inside Story of Little Boy and Fat Man'', 2003 (first printed in 1996, self-published), considered a definitive text about Fat Man; illustrations from which are used in the [[Fat Man#Physics package|Physics Package]] section above.  . 
+
+{{Manhattan Project}}
+{{World War II}} . 
+
+{{coord|32|46|25.5|N|129|51|47.5|E|type:landmark|display=title}} . 
+
+[[Category:Manhattan Project]]
+[[Category:Nuclear bombs of the United States]]
+[[Category:Atomic bombings of Hiroshima and Nagasaki]]
+[[Category:Cold War nuclear bombs of the United States]]
+[[Category:World War II weapons of the United States]]
+[[Category:Code names]]

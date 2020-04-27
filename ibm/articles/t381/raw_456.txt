@@ -1,0 +1,50 @@
+The '''Monarchomachs''' ({{lang-fr|Monarchomaques}}) were originally [[Early Modern France|French]] [[Huguenot]] [[political theory|theorists]] who opposed [[absolute monarchy]] at the end of the 16th century, known in particular for having theoretically justified [[tyrannicide]]. The term was originally a pejorative word coined in 1600 by the Scottish royalist and Catholic [[William Barclay (jurist)|William Barclay]] (1548–1608) from the [[Ancient Greek|Greek]] μόναρχος (''monarchos'' - "monarch, sole ruler") and μάχομαι ("makhomai" - the verb meaning "to fight"), meaning "those who fight against monarchs." . 
+
+Born out of the context of the [[French Wars of Religion]], they were most active between 1573, a year after the [[St. Bartholomew's Day massacre]], and 1584. The Monarchomachs pleaded in favour of a form of "[[popular sovereignty]]." Arguing for a sort of contract between the sovereign and the people, they have been considered as the precursors of [[social contract]] theories. <ref name=Gallica>[http://gallica.bnf.fr/themes/PolXVI6.htm Les Monarchomaques], ''[[Gallica]]'' {{fr icon}}</ref> . 
+
+== The Monarchomachs and the theory of tyrannicide == . 
+
+The Monarchomachs included jurists such as the Calvinists [[François Hotman]] (1524–1590), [[Théodore de Bèze]] (1519–1605), [[Simon Goulart]] (1543–1628), [[Nicolas Barnaud]] (1538–1604), [[Hubert Languet]] (1518–1581), [[Philippe de Mornay]] (1549–1623) and [[George Buchanan]] (1506–1582). Through the means of [[libel (poetry)|libels]] and theoretical tracts, they revived the doctrine of the [[tyrannicide]]. It had been opposed during the [[Middle Ages]] by the "legists" (jurists who theorized the royal power) who attempted to reserve the title of [[tyrant]] to those who tried to overturn the ruling monarch. Legists thus ended up legitimizing, under the name of "tyrannicide," the assassinations of political opponents ordered by the monarch.  . 
+
+Monarchomachs considered that the end of the [[Sovereign state|state]] was prosperity of the whole social group, as the true sovereign, granting effective practice of power to the king, whose authority remained of [[divine right of king|divine right]]. <ref name=Gallica/> Exercise of popular sovereignty was to be delegated to the magistrates and the officers of the crown. They considered that the people were a collective body, possessed of a specific wisdom, which allowed them to understand better than the king the common good, distinct from the interest of each of its parties. Assimilated to the medieval ''[[universitas]]'', the people was thus considered as a legal subject, whose interests were represented by the [[French States-General|General Estates]]. <ref>[http://www.memo.fr/dossier.asp?ID=1011 Memo.fr] {{fr icon}}</ref><ref>[http://multitudes.samizdat.net/Un-pouvoir-constituant-pour-libres.html Un pouvoir constituant... pour libres professeurs ?] (on the book of Jean Fabien Spitz, ''[[John Locke]] et les fondements de la liberté moderne''), by François Matheron, ''[[Multitudes]]'', June 2002 {{fr icon}}</ref> This conception of the magistrates and the association of wise people as best representants of the people separated them from modern conception of [[democracy]], as they restricted effective power to a minority. [[Max Weber]] considered them in his lecture ''[[Politics as a Vocation]]'' as participants of the movement of [[rationalization (sociology)|rationalization]] of law in Europe.  . 
+
+The Monarchomachs also claimed that if the sovereign persecuted true religion, he would violate the contract concluded between God and the people, who were thus granted a [[right of rebellion]]. They were inspired by [[Aristotle]], [[Thomas Aquinas]], and the [[School of Salamanca]] on the killing of "bad kings." This legimitization of tyrannicide may have inspired as much the [[Jacques Clément|friar Clément]], who assassinated [[Henry III of France|Henry III]] in 1589, as [[François Ravaillac|Ravaillac]], who assassinated [[Henry IV of France|Henry IV]] in 1610. <ref>[http://www.lefigaro.fr/litteraire/20061130.FIG000000196_jacques_clement_avant_ravaillac.html Jacques Clément avant Ravaillac], ''[[Le Figaro]]'', 30 November 2006 {{fr icon}}</ref> Rebellion against tyranny was considered not only as necessary, but as a divine right.  . 
+
+== Monarchomach theory in the 16th century == . 
+
+The term ''Monarchomachs'' was coined by [[William Barclay (jurist)|William Barclay]]<ref name=Skinner>[[Quentin Skinner]], ''The Foundations of Modern Political Thought'', Cambridge University Press, 1978, p. 301. </ref> in his book ''De Regno et Regali Potestate'' (About the Powers of Authority and Royalty), published in 1600. Barclay's theory was that the Huguenots had lost their struggle with the Catholic Church and were turning their battle towards the government to undermine the king's support of the Catholics. Eventually, the term was used to classify anyone who was opposed to the king's rule.  . 
+
+At first a Protestant doctrine, the notion of tyrannicide was reappropriated by the Catholics when Protestants came to be kings. It was then used in [[French Revolution|revolutionary]] discourses during the debates concerning the execution of [[Louis XVI of France|Louis XVI]], while the right of rebellion was included in the 1789 [[Declaration of the Rights of Man and of the Citizen]].  . 
+
+Influenced by the Huguenots, some British thinkers also embraced the Monarchomaque movement.  . 
+
+== See also ==. 
+*[[Right of rebellion]]
+*[[Tyrannicide]]
+*[[Early Modern France]]
+*[[Beerwolf]], a concept introduced by [[Martin Luther]] . 
+
+== References ==. 
+{{reflist}} . 
+
+== Sources ==. 
+*Original works:
+**[[François Hotman]]. ''Francogallia. - Francofurti, apud heredes'' A. Wecheli, 1856. 
+**[[François Hotman]] and [[Joseph de Paris]], capucin. ''Dessein perpétuel des Espagnols à la monarchie universelle, avec les preuves d'iceluy''. - S.l., s.n., 1624. 
+**[[Théodore de Bèze]]. [[Right of Magistrates|''Du droit des magistrats sur leurs subjets, traité très nécessaire en ce temps, pour advertir de leur devoir, tant les magistrats que les subjets]].'' - S. l., s. n., 1575.. 
+**Stephanus Junius Brutus (pseudonym attributed to [[Hubert Languet]] and [[Philippe de Mornay]]). ''De la puissance légitime du prince sur le peuple, et du peuple sur le Prince, traité très-utile et digne de lecture en ce temps escrit en Latin par Estienne Iunius Brutus, et nouvellement traduit en françois''. - S.l., s.n., 1581. 
+**Anonym. ''Le Réveille matin des François. Touchant les troubles & mouvements de ce temps.'' - S.l., s.n., 1622. 
+**[[Nicolas Barnaud]]. ''Le Réveille-matin des françois et de leurs voisins, composé par Eusebe Philadelphe cosmopolite''. - Edimbourg, Impr. de Jaques James, 1574. 
+**Anonym. ''Le caractère de la royauté et de la tyrannie, faisant voir par un discours politique : 1. Les Qualitez nécessaires à un Prince pour bien gouverner ses sujects. 2. Les Maux qui arrivent aux peuples lorsque les souverains sont incapables de les gouverner.'' - Paris, 1652. 
+**[[William Allen (cardinal)|William Allen]]. ''A treatise made in defence of the lauful power and authoritie of priesthod to remitte sinnes : of the peoples duetie for confession of their sinnes to Gods ministers : And of the churches meaning concerning indulgences, commonly called the Popes Pardos...''- 1567, Ioannem Foulerum. 
+**[[Juan de Mariana]]. ''Joannis Marianae, ... de Rege et regis Institutione libri III...'' - Tolède, Rodericus, 1599. 
+*Articles and commentary:
+**Paul-Alexis Mellet (dir.), ''Et de sa bouche sortait un glaive. Les Monarchomaques au XVIème siècle'', Genève, [[Droz]], 2006.  . 
+
+== External links ==. 
+*[http://www.dbpia.co.kr/view/ar_view.asp?pid=794&isid=35602&arid=749165&topMenu=&topMenu1= The Political Theory of French Protestant Monarchomach(1572-1584)] {{en icon}} . 
+
+[[Category:Monarchomachs|*]]
+[[Category:Political philosophy]]
+[[Category:Philosophy of law]]
+[[Category:Political terms]]

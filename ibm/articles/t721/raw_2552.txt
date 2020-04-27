@@ -1,0 +1,113 @@
+The '''paradox of thrift''' (or '''paradox of saving''') is a [[paradox]] of [[economics]], popularized by [[John Maynard Keynes]], though it had been stated as early as 1714 in ''[[The Fable of the Bees]],''<ref name="keynes23">Keynes, [[The General Theory of Employment, Interest and Money]], [http://www.marxists.org/reference/subject/economics/keynes/general-theory/ch23.htm Chapter 23. Notes on Merchantilism, the Usury Laws, Stamped Money and Theories of Under-consumption]</ref> and similar sentiments date to antiquity. <ref name="neglect">{{cite journal
+|title=A Neglected Early Statement the Paradox of Thrift
+|first1=Robert T. 
+|last1=Nash
+|first2=William P. 
+|last2=Gramm
+|journal=History of Political Economy
+|year=1969
+|volume=1
+|issue=2
+|pages=395–400
+|url=http://hope.dukejournals.org/cgi/pdf_extract/1/2/395
+|doi=10.1215/00182702-1-2-395
+}}</ref><ref>See [[#History|history]] section for further discussion. </ref> The paradox states that if everyone tries to [[saving (economics)|save]] more money during times of recession, then [[aggregate demand]] will fall and will in turn lower ''total'' savings in the population because of the decrease in consumption and economic growth. The paradox is, narrowly speaking, that total savings may fall even when individual savings attempt to rise, and, broadly speaking, that increase in savings may be harmful to an economy. <ref>These two formulations are given in Campbell R. McConnell (1960: 261–62), emphasis added:
+"By attempting to ''increase its rate of saving,'' society may create conditions under which the amount it can ''actually save'' is reduced. This phenomenon is called the paradox of thrift....[T]hrift, which has always been held in ''high esteem'' in our economy, now becomes something of a ''social vice.''"</ref> Both the narrow and broad claims are paradoxical within the assumption underlying the [[fallacy of composition]], namely that what is true of the parts must be true of the whole. The narrow claim transparently contradicts this assumption, and the broad one does so by implication, because while individual thrift is generally averred to be good for the economy, the paradox of thrift holds that collective thrift may be bad for the economy.  . 
+
+The paradox of thrift is a central component of [[Keynesian economics]], and has formed part of [[mainstream economics]] since the late 1940s, though it is [[#Criticisms|criticized]] on a number of grounds.  . 
+
+==Overview==. 
+The argument is that, in equilibrium, total income (and thus demand) must equal total output, and that total investment must equal total saving.  Assuming that saving rises faster as a function of income than the relationship between investment and output, then an increase in the [[marginal propensity to save]], ''[[ceteris paribus]]'', will move the equilibrium point at which income equals output and investment equals savings to lower values.  . 
+
+In this form it represents a [[prisoner's dilemma]] as saving is beneficial to each individual but deleterious to the general population. This is a "paradox" because it runs contrary to intuition.  One who does not know about the paradox of thrift would fall into a [[fallacy of composition]] wherein one generalizes what is perceived to be true for an individual within the economy to the overall population.  Although exercising thrift may be good for an individual by enabling that individual to save for a "rainy day", it may not be good for the economy as a whole.  . 
+
+This paradox can be explained by analyzing the place, and impact, of increased savings in an economy. If a population saves more money (that is the [[marginal propensity to save]] increases across all income levels), then total revenues for companies will decline.  This decrease in economic growth means fewer salary increases and perhaps [[downsizing]].  Eventually the population's total savings will have remained the same or even declined because of lower incomes and a weaker economy. This paradox is based on the proposition, put forth in [[Keynesian economics]], that many economic downturns are demand based.  Hypothetically, if all people will save their money, savings will rise but there is a tendency that the macroeconomic status will fall.{{Citation needed|date=January 2012}} . 
+
+==History==. 
+While the paradox of thrift was popularized by Keynes, and is often attributed to him,<ref name="neglect" /> it was stated by a number of others prior to Keynes, and the proposition that spending may help and saving may hurt an economy dates to antiquity; similar sentiments occur in the [[Bible]] verse:
+{{quote|There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty. 
+|[[s:Bible_(King_James)/Proverbs#11:24|Proverbs 11:24]]}}
+which has found occasional use as an epigram in underconsumptionist writings. <ref name="neglect" /><ref>''English, Irish and Subversives Among the Dismal Scientists,'' Noel Thompson, Nigel Allington, 2010, [http://books.google.com/books?id=4fjwxnH8VPcC&pg=PA122&dq=%22scattereth,+and+yet+increaseth%22 p. 122]:<br/>
+"A suggestion that a more equal distribution of income might be a remedy for general stagnation – and that excess saving can be harmful – is implicit in the quotation from the Old Testament on the ''Reply to Mr. Say'' [by John Cazenove (1788–1879)]. </ref><ref>''A Reply to Mr. Say’s Letters to Mr. Malthus,'' by John Cazenove, uses the verse as an epigram</ref><ref>''Studies in economics,'' [[William Smart]], 1895, [http://books.google.com/books?id=YwUPAAAAQAAJ&dq=%22scattereth,+and+yet+increaseth%22 p. 249]</ref> . 
+
+Keynes himself notes the appearance of the paradox in ''[[The Fable of the Bees]]: or, Private Vices, Publick Benefits'' (1714) by Bernard Mandeville, the title itself hinting at the paradox, and Keynes citing the passage: . 
+
+:As this prudent economy, which some people call Saving, is in private families the most certain method to increase an estate, so some imagine that, whether a country be barren or fruitful, the same method if generally pursued (which they think practicable) will have the same effect upon a whole nation, and that, for example, the English might be much richer than they are, if they would be as frugal as some of their neighbours. This, I think, is an error.  . 
+
+Keynes suggests [[Adam Smith]] was referring to this passage when he wrote "What is prudence in the conduct of every private family can scarce be folly in that of a great Kingdom." . 
+
+The problem of underconsumption and oversaving, as they saw it, was developed by [[underconsumption]]ist economists of the 19th century, and the paradox of thrift in the strict sense that "collective attempts to save yield lower overall savings" was explicitly stated by [[J. M. Robertson|John M. Robertson]] in
+his 1892 book ''The Fallacy of Saving,''<ref name="neglect" /><ref>{{cite book
+|first=John M. 
+|last=Robertson
+|authorlink=J. M. Robertson
+|title=The Fallacy of Saving
+|year=1892
+|url=http://www.archive.org/stream/fallacyofsavings00robe/fallacyofsavings00robe_djvu.txt
+}}</ref> writing:
+{{quote|Had the whole population been alike bent on saving, the total saved would positively have been much less, inasmuch as (other tendencies remaining the same) industrial paralysis would have been reached sooner or oftener, profits would be less, interest much lower, and earnings smaller and more precarious. This ... is no idle paradox, but the strictest economic truth.|John M. Robertson, ''The Fallacy of Saving,'' p. 131–2}} . 
+
+Similar ideas were forwarded by [[William Trufant Foster]] and [[Waddill Catchings]] in the 1920s in ''[http://books.google.com/books?id=0flCPQAACAAJ The Dilemma of Thrift]''.  . 
+
+Keynes distinguished between business activity/investment ("Enterprise") and savings ("Thrift") in his ''[[A Treatise on Money|Treatise on Money]]'' (1930):
+{{quote|...mere abstinence is not enough by itself to build cities or drain fens. ... If Enterprise is afoot, wealth accumulates whatever may be happening to Thrift; and if Enterprise is asleep, wealth decays whatever Thrift may be doing. Thus, Thrift may be the handmaiden of Enterprise. 
+But equally she may not. And, perhaps, even usually she is not.}}
+and stated the paradox of thrift in ''The General Theory,'' 1936:
+{{quote|For although the amount of his own saving is unlikely to have any significant influence on his own income, the reactions of the amount of his consumption on the incomes of others makes it impossible for all individuals simultaneously to save any given sums. Every such attempt to save more by reducing consumption will so affect incomes that the attempt necessarily defeats itself. It is, of course, just as impossible for the community as a whole to save less than the amount of current investment, since the attempt to do so will necessarily raise incomes to a level at which the sums which individuals choose to save add up to a figure exactly equal to the amount of investment. 
+|John Maynard Keynes, ''[[The General Theory of Employment, Interest and Money]],'' Chapter 7, p. 84}} . 
+
+The theory is referred to as the "paradox of thrift" in [[Paul Samuelson|Samuelson's]] influential ''[[Economics (textbook)|Economics]]'' of 1948, which popularized the term.  . 
+
+==Related concepts==. 
+The paradox of thrift has been related to the [[debt deflation]] theory of [[economic crises]], being called "the paradox of debt"<ref>[http://krugman.blogs.nytimes.com/2009/02/03/paradox-of-thrift/ Paradox of thrift], [[Paul Krugman]]</ref> – people save not to increase savings, but rather to pay down debt.  As well, a [[paradox of toil]] and a [[paradox of flexibility]] have been proposed: A willingness to work more in a [[liquidity trap]] and wage flexibility after a [[debt deflation]] shock may lead not only to lower wages, but lower employment. <ref name=krugmaneggertsson2011>{{Citation
+  | last1 = Eggertsson
+  | first1 = Gauti B. 
+  | author-link1 = Gauti B. Eggertsson
+  | last2 = Krugman
+  | first2 = Paul
+  | author2-link = Paul Krugman
+  | title = Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo Approach
+  | date=14 February 2011
+  | url = http://faculty.wcas.northwestern.edu/~gep575/seminars/spring2011/EK.pdf
+  | doi =  | accessdate = 2011-12-15 }}
+</ref> . 
+
+==Criticisms==. 
+Within [[mainstream economics]], non-Keynesian economists, particularly [[Neoclassical economics|neoclassical economists]], criticize this theory on three principal grounds.  . 
+
+The first criticism is that, following [[Say's law]] and the related circle of ideas, if demand slackens, prices will fall (barring government intervention), and the resulting lower price will stimulate demand (though at lower profit or cost – possibly even lower wages). This criticism in turn has been questioned by Keynesian economists, who reject Say's law and instead point to evidence of [[Sticky (economics)|sticky prices]] as a reason why prices do not fall in recession; this remains a debated point. 
+The second criticism is that savings represent [[loanable funds]], particularly at banks, assuming the savings are held at banks, rather than currency itself being held ("stashed under one's mattress"). Thus an accumulation of savings yields an increase in potential lending, which will lower interest rates and stimulate borrowing. So a decline in consumer spending is offset by an increase in lending, and subsequent investment and spending.  . 
+
+Two caveats are added to this criticism. Firstly, if savings are held as cash, rather than being loaned out (directly by savers, or indirectly, as via bank deposits), then loanable funds do not increase, and thus a recession may be caused – but this is due to holding cash, not to saving per se. <ref>See section 9.9 and 9.11 http://www.auburn.edu/~garriro/cbm.htm</ref> Secondly, banks themselves may hold cash, rather than loaning it out, which results in the growth of [[excess reserves]] – funds on deposit but not loaned out. This is argued to occur in [[liquidity trap]] situations, when interest rates are at a zero lower bound (or near it) and savings still exceed investment demand. Within Keynesian economics, the desire to hold currency rather than loan it out is discussed under [[liquidity preference]].  . 
+
+Third, the paradox assumes a closed economy in which savings are not invested abroad (to fund exports of local production abroad). Thus, while the paradox may hold at the global level, it need not hold at the local or national level: if one nation increases savings, this can be offset by trading partners consuming a greater amount relative to their own production, i.e., if the saving nation increases exports, and its partners increase imports. This criticism is not very controversial, and is generally accepted by Keynesian economists as well,<ref>[http://krugman.blogs.nytimes.com/2009/07/07/the-paradox-of-thrift-for-real/ The paradox of thrift — for real], [[Paul Krugman]], July 7, 2009</ref> who refer to it as "exporting one's way out of a recession". They further note that this frequently occurs in concert with [[currency devaluation]]<ref name="devaluing">[http://krugman.blogs.nytimes.com/2010/11/24/devaluing-history/ Devaluing History], [[Paul Krugman]], November 24, 2010</ref> (hence increasing exports and decreasing imports), and cannot work as a solution to a global problem, because the global economy is a closed system – not ''every'' nation can increase exports.  . 
+
+===Austrian School criticism===. 
+Within [[heterodox economics]], the paradox was criticized by the [[Austrian School]] economist and [[Nobel Memorial Prize in Economic Sciences|Nobel Prize]] winner [[Friedrich Hayek]] in a 1929 article, "The 'Paradox' of Savings", attacking the paradox as proposed by Foster and Catchings. <ref>[http://mises.org/story/2804 Hayek on the Paradox of Saving]</ref> Hayek and later Austrian School economists agree that if a population saves more money, total revenues for companies will decline, but they deny the assertion that lower revenues lead to lower economic growth.  . 
+
+Austrian School economists believe the productivity of the economy is determined by the ''consumption-investment ratio'', and the [[demand for money]] only tells us the degree to which people prefer the utility of money (protection against uncertainty) to the utility of goods. They argue that hoarding of money (an increase in the demand for money) does not necessarily lead to a change in the population's consumption-investment ratio;<ref>Pages 37-39 of http://www.mises.org/rothbard/agd.pdf</ref> instead, it may simply be reflected in the [[price level]]. For example, if spending falls by half and prices also uniformly fall by half, the consumption-investment ratio and productivity would be left unchanged.  . 
+
+==See also==. 
+*[[Capitol Hill Baby-Sitting Co-op]]
+*[[Frugality]]
+*[[List of paradoxes]]
+*[[Social trap]]
+*[[Vicious circle]] . 
+
+==Notes==. 
+{{Reflist}} . 
+
+==References==. 
+<references />
+* {{cite book | author=Samuelson, Paul& Nordhaus, William| title=[[Economics (textbook)|Economics]] | edition=18th | location=New York | publisher=McGraw-Hill | year=2005 | isbn=007-123932-4}} . 
+
+==External links==. 
+*[http://ingrimayne.saintjoe.edu/econ/Keynes/Paradox.html The paradox of thrift explained] . 
+
+===Criticisms===. 
+*[http://www.cato.org/pubs/journal/cj16n1-7.html The Paradox of Thrift: RIP], by Clifford F. Thies, The Cato Journal, Volume 16, Number 1
+*[http://mises.org/story/3194 Consumers don't cause recessions] by [[Robert P. Murphy]] (an [[Austrian School]] critique of the paradox of thrift) . 
+
+{{DEFAULTSORT:Paradox Of Thrift}}
+[[Category:Keynesian economics]]
+[[Category:Economics paradoxes]]

@@ -1,0 +1,50 @@
+{{merge|The Impact of Legalized Abortion on Crime|discuss=Talk:Legalized abortion and crime effect#Merge or move|date=August 2011}} . 
+
+The '''effect of legalized abortion on crime''' (sometimes referred to as the '''Donohue-Levitt hypothesis''') is the [[theory]] that legal [[abortion]] reduces [[crime]].  Proponents of the theory generally argue that since unwanted children are more likely to become criminals and that an inverse correlation is observed between the availability of abortion and subsequent crime. Not only that, but children born under these conditions are usually less fortunate as enough preparation was not put in place for their birth and upbringing.  In particular, it is argued that the [[legal]]ization of abortion in the [[United States]], largely due to the [[Supreme Court of the United States|Supreme Court]]'s decision in ''[[Roe v. Wade]]'', has reduced crime in the late 20th and early 21st centuries.  Opponents generally reject these statistics, and argue that abortion has negative effects on society or decrease in crime is brought about in other ways.  . 
+
+==1972 Rockefeller Commission on Population and the American Future==. 
+The 1972 Rockefeller Commission on Population and the American Future is one of the better known early versions of this claim, although it was surely not the first. <ref>[http://www.population-security.org/rockefeller/011_human_reproduction.htm Rockefeller Commission on Population and the American Future]</ref>  The Commission cited research purporting that the children of women denied an abortion “turned out to have been registered more often with psychiatric services, engaged in more antisocial and criminal behavior, and have been more dependent on public assistance.”  A study by Hans Forssman and Inga Thuwe was cited by the Rockefeller Commission and is probably the first serious empirical research on this topic. They studied the children of 188 women who were denied abortions from 1939 to 1941 at the hospital in Gothenburg, Sweden. They compared these unwanted children to another group – the next children born after each of the unwanted children at the hospital. The unwanted children were more likely to grow up in adverse conditions, such as having divorced parents or being raised in foster homes and were more likely to become delinquents and engaged in crime. <ref>Hans Forssman and Inga Thuwe, "One hundred and twenty children born after application for therapeutic abortion refused," [[Acta Psychiatrica Scandinavica]], 1966, 71–78</ref> . 
+
+==Donohue and Levitt study==. 
+{{main|The Impact of Legalized Abortion on Crime}}
+[[Steven Levitt]] of the [[University of Chicago]] and [[John Donohue]] of [[Yale University]] revived discussion of this claim with their 2001 paper "[[The Impact of Legalized Abortion on Crime]]". Donohue and Levitt point to the fact that males aged 18 to 24 are most likely to commit crimes. Data indicates that crime in the United States started to decline in 1992. Donohue and Levitt suggest that the absence of unwanted aborted children, following legalization in 1973, led to a reduction in crime 18 years later, starting in 1992 and dropping sharply in 1995. These would have been the peak crime-committing years of the unborn children.  . 
+
+The authors argue that states that had abortion legalized earlier and more widespread should have the earliest reductions in crime.  Donohue and Levitt's study indicates that this indeed has happened: [[Alaska]], [[California]], [[Hawaii]], [[New York]], and [[Washington (U.S. state)|Washington]] experienced steeper drops in crime, and had legalized abortion before ''[[Roe v. Wade]]''.  Further, states with a high abortion rate have experienced a greater reduction in crime, when corrected for factors like average income. <ref name="chapter4">[[Freakonomics]], [http://freakonomicsbook.com/freakonomics/chapter-excerpts/chapter-4/ Chapter 4], ''Where Did All the Criminals Go?''</ref>  Finally, studies in Canada and Australia purport to have established a correlation between legalized abortion and overall crime reduction. <ref name="chapter4" /> . 
+
+The study was criticized by various authors, including a 2005 article by Christopher Foote and Christopher Goetz, in which the pair claim that a computer error in Levitt and Donahue's statistical analysis lead to an artificially inflated relationship between legalized abortion and crime reduction. Once other crime-associated factors were properly controlled for, the effect of abortion on arrests was reduced by about half. Foote and Goetz also criticize Levitt and Donahue's use of arrest totals rather than arrests per capita, which takes population size into account. Using Census Bureau population estimates, Foote and Goetz repeated the analysis using arrest rates in place of simple arrest totals, and found that the effect of abortion disappeared entirely. <ref>[http://www.economist.com/node/5246700?story_id=5246700 Oops-onomics]</ref> . 
+
+In 2005 Levitt published rebuttal to these criticisms in which he re-ran his numbers to address the shortcomings and variables missing from the original study. The new results are nearly identical to those of the original study. Levitt posits that any reasonable use of the data available reinforces the results of the original 2001 paper. <ref>[http://www.freakonomics.com/2005/05/15/abortion-and-crime-who-should-you-believe/ Abortion and crime: who should you believe?]</ref> . 
+
+==See also==. 
+* [[Causes and correlates of crime]]
+* [[Roe effect]]
+* ''[[Freakonomics]]'' by Levitt and [[Stephen J. Dubner]]; Chapter 4 discusses this effect. 
+* ''[[Freedomnomics]]'' by [[John Lott]]; Chapter 4 discusses this effect. 
+* [[Title X]]
+* [[Unintended pregnancy]] . 
+
+==References==. 
+{{reflist}} . 
+
+==Further reading==. 
+* Charles, Kerwin Ko., and Melvin Stephens, Jr. 2002. "Abortion Legalization and Adolescent Substance Abuse." NBER Working paper No. 9193. 
+* Leigh, Andrew, and Justin Wolfers, "Abortion and Crime," ''AQ: Journal of Contemporary Analysis'' 2000, ''72''(4), pp.&nbsp;28–30. 
+* Pop-Eleches, Christian. 2003. "The Impact of an Abortion Ban on Socio-Economic Outcomes of Children: Evidence from Romania." Harvard University Department of Economics. Unpublished. 
+* Sen, Anindya. 2002. "Does Increased Abortion Lead to Lower Crime? Evaluating the Relationship between Crime, Abortion, and Fertility." University of Waterloo Department of Economics. Unpublished. 
+* Sorenson, Susan, Douglas Wiebe, and Richard Berk, "Legalized Abortion and the Homicide of Young Children: An Empirical Investigation," ''Analyses of Social Issues and Public Policy'' 2002, ''2''(1), pp.&nbsp;239–56.  . 
+
+==External links==. 
+*Donohue and Levitt, [http://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID174508_code010501110.pdf?abstractid=174508&mirid=1 "The Impact of Legalized Abortion on Crime" (PDF)] [[Quarterly Journal of Economics]], May 2001. 
+*[[John Lott]] and [[John Whitley]] [http://ei.oxfordjournals.org/cgi/content/abstract/cbl003v1 Abortion and Crime: Unwanted Children and Out-of-Wedlock Births] [[Economic Inquiry]], April 2007.{{dead link|date=September 2011}}
+*Foote and Goetz, [http://www.bos.frb.org/economic/wp/wp2005/wp0515.pdf "Testing Economic Hypotheses with State-Level Data: A comment on Donohue and Levitt (2001)" (PDF)]. [[Federal Reserve Bank of Boston]] working paper. November 2005. 
+*[[Steve Sailer]], [http://www.isteve.com/abortion.htm ''Did Legalizing Abortion Cut Crime?]. 
+*Ted Joyce [http://www.ssc.wisc.edu/jhr/2004ab/joyce1.htm''Did Legalized Abortion Lower Crime?''](He has two papers showing problems with claims that abortion reduces crime.)
+*[http://www.economist.com/finance/PrinterFriendly.cfm?story_id=5246700 Oops-onomics], [[The Economist]], 1 December 2005
+*[http://www.freakonomics.com/blog/2005/12/05/back-to-the-drawing-board-for-our-latest-criticsand-also-the-wall-street-journal-and-oops-the-economist/ Back to the drawing board for our latest critics…and also the Wall Street Journal and (Oops!) the Economist.], [[blog]] entry rebuttal of Foote and Goetz by Levitt.  Includes in its comments section an interplay between Steve Sailer and other commentators
+*[[Josh Wright]], [http://www.truthonthemarket.com/2006/04/10/a-brief-primer-on-the-abortion-and-crime-debate/ "A Brief Primer on the Abortion and Crime Debate"]
+*John D. Mueller, [http://www.claremont.org/writings/crb/spring2006/mueller.html "Dismal Science"] [[Claremont Review of Books]], Spring 2006 . 
+
+{{Abortion}} . 
+
+[[Category:Abortion debate]]
+[[Category:Criminology]]

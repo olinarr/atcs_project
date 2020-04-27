@@ -1,0 +1,48 @@
+{{out of date|date=February 2012}}
+{{expert-subject|1=United States|date=November 2011}}
+__NOTOC__
+[[File:panic1837 crop.jpg|thumb|An 1837 political cartoon about unemployment in the United States.]]
+As of April 2010, the [[unemployment]] rate in the [[United States]] was 9.9%, but the government’s broader U-6 unemployment rate was 17.1%. <ref>"[http://blogs.wsj.com/economics/2010/05/07/broader-u-6-unemployment-rate-increases-to-171-in-april/ Broader U-6 Unemployment Rate Increases to 17.1% in April]". [[The Wall Street Journal]]. May 7, 2010. </ref> There are six unemployed people, on average, for each available job. <ref name="unemployment"/> Men account for at least 7 of 10 workers who lost jobs, according to Bureau of Labor Statistics data. <ref>"[http://articles.latimes.com/2010/mar/22/opinion/la-oe-kuhn22-2010mar22?pg=2 Revenge of the white men]". Los Angeles Times. March 22, 2010 (Page 2 of 2). </ref> The youth unemployment rate was 18.5% in July 2009, the highest July rate since 1948. <ref>"[http://www.bls.gov/news.release/youth.nr0.htm Employment and Unemployment Among Youth Summary]". United States Department of Labor. </ref> 34.5% of young African American men were unemployed in October 2009. <ref>"[http://www.washingtonpost.com/wp-dyn/content/article/2009/11/23/AR2009112304092.html Blacks hit hard by economy's punch]". The Washington Post. November 24, 2009. </ref> Officially, [[Detroit]]’s unemployment rate is 27%, but the ''Detroit News'' suggests that nearly half of this city’s working-age population may be unemployed. <ref>"[http://detnews.com/article/20091216/METRO01/912160374/Nearly-half-of-Detroit-s-workers-are-unemployed Nearly half of Detroit's workers are unemployed]". The Detroit News. December 16, 2009. </ref>  3.8 million Americans lost their jobs in 2009. <ref name="unemployment">"[http://www.msnbc.msn.com/id/34641146/ns/business-stocks_and_economy/ Unemployment sets a grim record in 2009]". Msnbc.msn.com. December 31, 2009. </ref> . 
+
+In ''Out of Work: Unemployment and Government in the Twentieth-Century America'', economists [[Richard Vedder]] and Lowell Gallaway argue that the empirical record of wages rates, productivity, and unemployment in American validates the classical unemployment theory. Their data shows a strong correlation between the adjusted real wage and unemployment in the [[United States]] from 1900 to 1990. However, they maintain that their data take into account [[exogeny|exogenous events]].  . 
+
+{{-}} . 
+
+==Statistics==. 
+{{multiple image
+| footer    =
+| align     = left
+| image1    = US Unemployment 1800-1890.gif
+| width1    = {{#expr: (200 * 628 / 398) round 0}}
+| alt1      = US Unemployment 1800-1890
+| caption1  = Estimated U.S. Unemployment rate from 1800-1890. All data are estimates based on data compiled by Lebergott. <ref>Stanley Lebergott (1964). Manpower in Economic Growth: The American Record since 1800. Pages 164-190. New York: McGraw-Hill. </ref>  See limitations section below regarding how to interpret unemployment statistics in self-employed, agricultural economies.  See image info for complete data. 
+| image2    = US Unemployment 1890-2009.gif
+| width2    = {{#expr: (200 * 796 / 416) round 0}}
+| alt2      = US Unemployment 1890-2009
+| caption2  = Estimated U.S. Unemployment rate from 1890-2010. 1890–1930 data are from [[Christina Romer|Romer]]. <ref>[[Christina Romer]] (1986). "Spurious Volatility in Historical Unemployment Data", ''The Journal of Political Economy, 94''(1): 1–37. </ref> 1930–1940 data are from Coen. <ref>Robert M. Coen (1973). "Labor Force and Unemployment in the 1920s and 1930s: A Re-Examination Based on Postwar Experience", ''The Review of Economics and Statistics, 55''(1): 46–55. </ref> 1940–2009 data are from [[Bureau of Labor Statistics]]. <ref>Bureau of Labor Statistics, [ftp://ftp.bls.gov/pub/special.requests/lf/aat1.txt Employment status of the civilian noninstitutional population, 1940 to date.] Retrieved March 6, 2009. </ref><ref>"[http://www.bls.gov/cps/eetech_methods.pdf Historical Comparability"] (2006). Employment and Earnings. Household Data Explanatory Notes, February 2006. </ref> See image info for complete data. 
+}} . 
+
+{{-}} . 
+
+==Unemployment in popular culture==. 
+John Steinbeck's 1939 novel ''[[Grapes of Wrath]]'' is set during the [[Great Depression]] and focuses on the Joads, a poor family of sharecroppers driven from their Oklahoma home by drought, economic hardship, and changes in financial and agricultural industries.  . 
+
+==See also==. 
+*[[Bureau of Labor Statistics]]
+*[[Economy of the United States]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==External links==. 
+{{Commons category}}
+*[http://www.bls.gov/ Bureau of Labor Statistics]
+*[http://fileunemployment.org/unemployment-benefits-comparison-by-state Unemployment Benefits Comparison By State]
+*[http://backstoryradio.org/looking-for-work-a-history-of-unemployment/ ''Looking for Work: A History of Unemployment''] - an hour-long history public radio program exploring U.S. unemployment over more than three centuries
+*[http://metricmash.com/unemployment.aspx Historical US Unemployment Rate Chart] - interactive chart for U.S. unemployment rate data - 1948 to present including subcategories
+*[http://www.blogmybrain.com/stock_apps/graphical_economy/Employment%20vs.%20Unemployment/n00/00r/a U.S. Unemployment Rate] – unemployment rate in U.S., since 1976, annual data
+*[http://finance-data.com/series/UNRATE Historical US unemployment rate] – since 1948 till June 2009, monthly data
+*[http://www.miseryindex.us/URbymonth.asp The United States Unemployment Rate] – unemployment rate in U.S., since January 1948, monthly data
+*[ftp://ftp.bls.gov/pub/special.requests/lf/aat1.txt Official Bureau of Labor Statistics table] – unemployment rate and some other statistics for U.S., since 1940, annual data . 
+
+[[Category:Unemployment in the United States| ]]

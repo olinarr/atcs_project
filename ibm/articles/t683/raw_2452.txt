@@ -1,0 +1,478 @@
+Modern '''United States Wind Energy Policy''' coincided with the beginning of modern wind industry of the United States, which began in the early 1980s with the arrival of utility-scale wind turbines in California (see [[Altamont Pass]]). <ref name="State of the Wind Energy Industry in 2004">{{cite journal|last=Gray|first=Tom|title=State of the Wind Energy Industry in 2004|year=2004|month=September|url=http://www.ewashtenaw.org/government/departments/planning_environment/planning/wind_power/Wind%20Energy%20Birds%20and%20Bats%20Workshop|accessdate=17 April 2011|publisher=American Wind Energy Association}}</ref> Since then, the industry has had to endure the financial uncertainties caused by a highly fluctuating tax incentive program. Because these early wind projects were fueled by investment tax credits based on installation rather than performance, they were plagued with issues of low productivity and equipment reliability. <ref name="State of the Wind Energy Industry in 2004" /> Those investment tax credits expired in 1986, which forced investors to focus on improving the reliability and efficiency of their turbines. <ref name="State of the Wind Energy Industry in 2004" />  The 1990s saw rise to a new type of tax credit, the production tax credit, which propelled technological improvements to the wind turbine even further by encouraging investors to focus on electricity output rather than installation. <ref name="CRS Report for Congress: Wind Power in the United States: Technology, Economic, and Policy Issues">{{cite journal|last=Logan|first=Jeffrey|coauthors=Stan Mark Kaplan|title=CRS Report for Congress: Wind Power in the United States: Technology, Economic, and Policy Issues|journal=Congressional Research Service|date=June 20, 2008|id=RL34546}}</ref>  . 
+
+Wind energy policy is generally directed at three categories of constituents:
+# Research and Development Organizations
+# Commercial/Residential Generators
+# Manufacturers and Producers . 
+
+with one of two goals:
+#incentivize or require production and installation of wind turbines or production of electricity from wind, or
+#facilitate the appropriate location of wind turbines.  . 
+
+Historically, incentives have come in the form of production or installation [[tax credits]], [[grants]], and [[renewable portfolio standard]]s, at the federal, state, and local levels of government. Policy facilitating appropriate location has historically come in the form of local ordinances and permitting requirements.  . 
+
+__TOC__ . 
+
+==Background==. 
+{{Main|Wind power in the United States}}
+[[File:GreenMountainWindFarm Fluvanna 2004.jpg|thumb|right|[[Brazos Wind Ranch]] in Texas.]]
+[[File:Barn wind turbines 0504.jpg|thumb|[[Mendota Hills Wind Farm]] in northern Illinois]]
+[[File:Windmills south of Dumas, TX IMG 0570.JPG|thumb|right|Landowners typically receive $3,000 to $5,000 per year in rental income from each wind turbine, while farmers continue to grow crops or graze cattle up to the foot of the turbines. <ref name=nine/>]] . 
+
+At the end of 2010, the installed capacity of wind power in the United States was just over 40,000 [[megawatts]] (MW),<ref name="platts-6773195">{{cite web | url= http://www.platts.com/RSSFeedDetailedNews/RSSFeed/ElectricPower/6773195 | title= Wind power installation slowed in 2010, outlook for 2011 stronger: AWEA |first= Jeffrey |last=Ryser |date= 24 January 2011 |publisher= Platts | accessdate= 2011-02-26 }}</ref><ref name=reuters2009>{{cite news| url=http://www.reuters.com/article/idUSN2211296320100126?type=marketsNews | title=US wind power capacity up in '09, but jobs stalled | date=2010-01-26 | work=Reuters}}</ref> making it second in the world behind [[Wind power in China|China]]. In 2010 [[Wind power]] accounted for 2.3% of the electricity generated in the United States. <ref>[http://www.sciencedaily.com/releases/2011/04/110426151040.htm Wind turbines: In the wake of the wind]</ref> This amounted to 94,650 thousand megawatt-hours of electricity. <ref>Electric Power Monthly - April 2011, Table 1.1A</ref> . 
+
+Driven by state renewable energy targets, fourteen states have installed over 1,000&nbsp;MW of wind capacity, and a total of 37&nbsp;states now have installed at least some utility-scale wind power. <ref name=naw2010>{{cite web |url=http://www.nawindpower.com/e107_plugins/content/content.php?content.7122 |title=AWEA: U.S. Wind Power Surmounted Challenges In 2010 |author= |date=January 3, 2010 |work=North American Windpower }}</ref> [[Wind power in Texas|Texas]], with 9,728&nbsp;MW of capacity, has the most installed wind power capacity of any U.S. state, followed by [[Wind power in Iowa|Iowa]] with 3,670&nbsp;MW. <ref name=awea_q4_09>[http://www.awea.org/publications/reports/4Q09.pdf] Wind Energy Grows By Record 8,300&nbsp;MW in 2008]{{dead link|date=February 2011}}</ref>  The [[Roscoe Wind Farm]] (780&nbsp;MW) in [[Wind power in Texas|Texas]] is the world's largest [[wind farm]]. <ref name="webecoist.com">[http://webecoist.com/2009/04/10/9-of-the-worlds-most-amazing-wind-farms/ 9 of the World’s Most Amazing Wind Farms]</ref>  . 
+
+Wind power is a clean, domestic, renewable resource that assists the U.S. in meeting energy, environmental, and economic challenges. <ref name=usdept>{{cite web |url=http://www.nrel.gov/docs/fy11osti/49222.pdf |title=Strengthening America’s Energy Security with Offshore Wind |date=February 2011 |work= |publisher=U.S. Department of Energy }}</ref>  The U.S. wind industry generates tens of thousands of jobs and billions of dollars of economic activity. <ref name=usdept/> Wind projects boost local tax bases, and revitalize the economy of rural communities by providing a steady income stream to farmers with wind turbines on their land. <ref name=nine>American Wind Energy Association (2009). [http://www.awea.org/publications/reports/AWEA-Annual-Wind-Report-2009.pdf Annual Wind Industry Report, Year Ending 2008]{{dead link|date=June 2011}} pp. 9–10. </ref> [[GE Energy]] is the largest domestic [[wind turbine]] manufacturer. <ref name=nine/> . 
+
+There are currently 5,600 [[Megawatt|MW]] of projects under construction in 2011. <ref name="platts-6773195"/> The U.S. Department of Energy’s report ''20% Wind Energy by 2030'' envisioned that wind power could supply 20% of all U.S. electricity, which included a contribution of 4% from [[offshore wind power]]. <ref name=usdept/> . 
+
+==Federal Policy==. 
+{{Empty section|date=May 2011}} . 
+
+==United States Energy Legislative History==. 
+Renewable energy policy gained interest after the oil shocks in the 1970s and environmental concerns because it offered diversification in the US energy portfolio [[Energy Policy and Conservation Act]] (P.L. 
+94-163). Wind energy was among the renewable energy options incorporated in energy policy beginning in the 1970s and continuing into the present day. The growth in wind energy can largely be accredited to the public policy's providing incentives and technological advances, making wind energy one of the few cost competitive renewable energy options. <ref name="Creating Incentives for Environmentally Enhancing Technological Change: Lessons From 30 Years of U.S. Energy Technology Policy">{{cite journal|last=Norber-Bohm|first=Vicki|title=Creating Incentives for Environmentally Enhancing Technological Change: Lessons From 30 Years of U.S. Energy Technology Policy|journal=Technological forecasting & social change|date=2|year=2000|month=November|volume=65|issue=2|pages=125–148|url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V71-41JTST5-1&_user=650596&_coverDate=10%2F31%2F2000&_rdoc=1&_fmt=high&_orig=gateway&_origin=gateway&_sort=d&_docanchor=&view=c&_acct=C000035098&_version=1&_urlVersion=0&_userid=650596&md5=04e2701f9c5618ce2eaeb8ca0bb18f82&searchtype=a#toc5|accessdate=24 March 2011|doi=10.1016/S0040-1625(00)00076-7}}</ref> Although there has been a significant decrease in the cost per kilowatt hour of wind energy since the 1980s, wind energy only accounts for a small portion of the U.S.'s electrical demand. <ref name="Creating Incentives for Environmentally Enhancing Technological Change: Lessons From 30 Years of U.S. Energy Technology Policy" />   . 
+
+Wind energy policy has had two approaches to advance the industry. One approach has been to increase implementation or improve the technology. Alternatively, there has also been policy aimed to advance the entire industry as a whole, combining the implementation and technology. <ref name="Technology Policy and Renewable Energy: Public Roles in the Development of New Energy Technologies">{{cite journal|last=Loiter|first=Jeffrey|coauthors=Vicki Norberg-Bohm|title=Technology Policy and Renewable Energy: Public Roles in the Development of New Energy Technologies|journal=Energy Policy|year=1999|month=February|volume=27|issue=2|pages=85–97|url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V2W-3WSV0KV-2&_user=650596&_coverDate=02%2F28%2F1999&_rdoc=1&_fmt=high&_orig=gateway&_origin=gateway&_sort=d&_docanchor=&view=c&_acct=C000035098&_version=1&_urlVersion=0&_userid=650596&md5=dec0656edcd09fa820a642ae2169d91b&searchtype=a|accessdate=24 March 2011|doi=10.1016/S0301-4215(99)00013-0}}</ref> The legislative history outlines the public policy that has taken place starting the 1970s leading up to current energy legislation and what effects it has made on renewable energy, specifically wind.  . 
+
+===Energy Policy and Conservation Act 1975===. 
+Signed into law in 1975 by President Ford, this act was designed to cut the energy demand. <ref>{{cite web|last=Window on State Governement|title=Efficiency and Conservation|url=http://www.window.state.tx.us/specialrpt/energy/conservation/|accessdate=17 April 2011}}</ref> Although this act primarily enacted because of oil shocks in the 1970s, it also encouraged programs, research and projects which dealt with alternative fuels. The Secretary of Energy was instructed to report feasibility and progress on this matter to Congress. <ref name="E and C Act 1975">{{cite web|last=Kravchak|first=Matthew|title=Energy Policy and Conservation Act of 1975 and corporate average fuel economy (CAFE)|url=http://friedmanpedia.pbworks.com/w/page/8231903/Energy-Policy-and-Conservation-Act-of-1975-and-corporate-average-fuel-economy-(CAFE)|accessdate=17 April 2011}}</ref> . 
+
+===Public Utility Regulatory Policies Act 1978===. 
+The [[Public Utility Regulatory Policies Act]] (PURPA P.L. 95-617) passed in 1978 was very important to increasing electricity production from renewable energy facilities. PURPA required that electric utilities must interconnect with renewable power production facilities. They  then would have to buy that power at a price mandated by their state equal to avoided cost; avoided cost is the cost a utility escapes by purchasing this power, opposed to building a new plant, consisting of capital and operating costs of the forgone plant. <ref name = "Renewable Energy Policy tax credit">{{cite web|last=Sissine|first=Fred|title=Renewable Energy Policy: tex credit, budget, and regulatory|url=http://www.nationalaglawcenter.org/assets/crs/RL33588.pdf|work=CRS Report|accessdate=24 March 2011}}</ref> . 
+
+===Renewable Energy and Energy Efficiency Technology Competitiveness Act 1989===. 
+The purpose of the Renewable Energy and Energy Efficiency Competitiveness Act 1989 (P.L. 101-218) was to set specific goals for the U.S. on the matter of wind, photovoltaics, and solar thermal energy programs. <ref name="Leg History 1989 - Thomas">{{cite web|last=The Library of Congress - Thomas|title=Bill Summary & Status 101st Congress (1989-1990) S. 488 CRS Summary|url=http://thomas.loc.gov/cgi-bin/bdquery/z?d101:SN00488:@@@D&summ2=m&|accessdate=19 April 2011}}</ref> For wind energy, the specific goals set include, "improving design methodologies and developing more reliable and efficient wind turbines to increase the cost competitiveness of wind energy. Research efforts shall emphasize: (i) activities that address near-term technical problems and assist private sector exploitation of market opportunities of the wind energy industry; (ii) developing technologies such as advanced airfoils and variable speed generators to increase wind turbine output and reduce maintenance costs by decreasing structural stress and fatigue;(iii) increasing the basic knowledge of aerodynamics,structural dynamics, fatigue, and electrical systems interactions as applied to wind energy technology; and (iv) improving the compatibility of electricity produced from wind farms with conventional utility needs."  . 
+
+The legislation continues by specifying goals for the Wind Energy Research Program, "(i) reduce average wind energy costs to 3 to 5 cents per kilowatt hour by 1995;(ii) reduce capital costs of new wind energy systems to $500 to $750 per kilowatt of installed capacity by 1995; (iii) reduce operation and maintenance costs for wind energy systems to less than one cent per kilowatt hour by 1995; and(iv) increase capacity factors for new wind energy systems to 25 to 35 percent by 1995." <ref name="Leg History 1989 - US Code">{{cite web|last=42 USC Chapter 125|title=Renewable Energy and Energy Efficiency Technology Competitiveness|url=http://uscode.house.gov/download/pls/42C125.txt|accessdate=19 April 2011}}</ref> . 
+
+===Solar, Wind, Waste, and Geothermal Power Production Incentives Act 1990===. 
+This act is an amendment to the [[Public Utility Regulatory Policies Act]] (PURPA) of 1978 and the [[Federal Power Act]]. The main purpose is the remove the size limitations placed on renewable energy facilities, such as solar and wind, to receive PURPA benefits. <ref name="Lib of Congress - Thomas SWWG 1990">{{cite web|last=Bill Summary and Status 101st Congress (1989-1990) H.R. 4808 CRS Summary|title=Bill Summary and Status|url=http://thomas.loc.gov/cgi-bin/bdquery/z?d101:HR04808:@@@D&summ2=1&|accessdate=17 April 2011}}</ref>  This will encourage the development of renewable energy production. <ref name="SWWG 1990">{{cite web|last=The Encyclopedia of Earth|title=Solar, Wind, Waste, and Geothermal Power Production Act of 1990, United States|url=http://www.eoearth.org/article/Solar,_Wind,_Waste,_and_Geothermal_Power_Production_Incentives_Act_of_1990,_United_States|accessdate=17 April 2011}}</ref>  The act specifies the qualification, application, and construction deadlines and requirements for the facilities. <ref name="Lib of Congress - Thomas SWWG 1990" />  The act was amended in 1991, because of a technicality, to include renewable energy facilities of all sizes. <ref name="SWWG 1990" /> . 
+
+===Energy Policy Act (EPACT) 1992===. 
+The [[Energy Policy Act of 1992]] (P.L. 102-486) replaced the National Energy Conservation Act (NECPA) and focused on the following issues: water conservation, Federal energy efficiency fund, utility incentive programs, financial incentive program, demonstration of new technology, general services administration Federal building fund, energy savings performance contracts, energy audit teams, energy-efficient product procurement; U.S. Postal Service and Congressional building regulations, and fleet management. <ref name="EPACT 1992 - EERE">{{cite web|last=Energy Efficiency and Renewable Energy|title=Energy Policy Act of 1992|url=http://www1.eere.energy.gov/femp/regulations/m/epact1992.html|accessdate=19 April 2011}}</ref>   . 
+
+Title XII of this Act directly discusses renewable energy and amends the Renewable Energy and Efficiency Technology Competitiveness Act of 1989 by, "(1) implement a five-year program to further the commercialization of renewable energy and energy efficiency technologies by soliciting proposals for demonstration and commercial application projects; and (2) establish an Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies."  . 
+
+It further instructs the Secretary to, "(1) prepare and submit to the Congress a three-year national renewable energy and energy efficiency management plan with specified contents; (2) establish a renewable energy export technology training program for individuals from developing countries; (3) make Renewable Energy Advancement Awards in recognition of developments that advance the practical application of certain renewable energy technologies; and (4) study and report to the Congress on whether certain conventional taxation and ratemaking procedures result in economic barriers to, or incentives for, renewable energy power plants compared to conventional power plants." <ref name="EPACT 1992 - Thomas">{{cite web|last=The Library of Congress - Thomas|title=Bill Summary & Status 102nd Congress (1991-1992) H.R. 776 CRS Summary|url=http://thomas.loc.gov/cgi-bin/bdquery/z?d102:HR00776:@@@D&summ2=m&|accessdate=19 April 2011}}</ref> . 
+
+====Renewable Electricity Production Tax Credit====. 
+EPACT '92 enacted the renewable electricity production tax credit (PTC). The PTC is a corporate tax credit for several renewable sources including wind, which credited 1.5₡ per kWh for electricity produced by wind power. The PTC expired in July 1999 and has been expanded and extended several times through many different laws including  the [[Job Creation and Worker Assistance Act of 2002]] (P.L. 107-47), [[American Jobs Creation Act of 2004]] (P.L. 108-357), [[Energy Policy Act of 2005]] (P.L. 109-58) and several others . Most recently, the PTC was extended by the [[American Recovery and Reinvestment Act of 2009]] (P.L. 111-5). It will expire at the end of 2012 and now credits 2.2₡ per kWh for electricity produced by wind power. <ref>{{cite web|title=Renewable Electricity Production Tax Credit (PTC)|url=http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=US13F|accessdate=24 March 2011}}</ref>  The PTC has been a major incentive for wind power, and has helped to spur independent wind energy power producers. <ref name="Renewable Energy Policy tax credit"/> . 
+
+====Renewable Energy Production Incentive====. 
+EPACT '92 also established a federal performance based incentive for renewable energy, which includes wind energy. The Renewable Energy Production Incentive's (REPI) purpose is to give incentive payments for electricity generated and sold by new qualifying renewable energy sources. Eligible facilities could receive 1.5 cents per kilowatt-hour (kWh), in 1993 dollars, now adjusted for inflation to equal 2.2 cents per kilowatt-hour, for the first 10 years of operation. This incentives is to be in addition to the federal renewable energy production tax credit (PTC). This incentive's deadline is October 1, 2016 and applies only to electricity sold to another entity. <ref name="Renewable Energy Production Incentive (REPI)">{{cite web|title=Renewable Energy Production Incentive (REPI)|url=http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=US33F&re=|publisher=Database of State Incentives for Renewables and Efficiency|accessdate=24 March 2011|date=18|month=January|year=2011}}</ref> . 
+
+===Energy Policy Act (EPACT) 2005===. 
+EPACT 2005 (P.L. 109-58) addresses numerous energy management goals for Federal facilities. The act also makes amendments to the National Energy Conservation Policy Act (NECPA). Several issues it addresses include: metering and reporting, energy-efficient product procurement, energy savings performance contracts, building performance standards, renewable energy requirements, and alternative fuel use. The effect on wind energy is through the renewable energy requirements.   . 
+
+'''Renewable energy requirement''' . 
+
+The Secretary of Energy shall, when technically and economically feasible, require the total electric energy consumed to be provided by renewable energy for the Federal government:  . 
+
+1. Not less than 3% from 2007–2009  . 
+
+2. Not less than 5% from 2010–2012  . 
+
+3. Not less than 7.5% from 2013 and beyond . 
+
+Double credit must be given if the renewable energy is produced at a Federal facility, on Federal lands or Native American Lands.  . 
+
+A PV commercialization program must be established for Federal buildings and 20,000 solar energy systems must be installed in Federal buildings.  . 
+
+In order to meet these requirements, government agencies must submit an annual report to the Department of Energy. This must detail their progress towards meeting the standards as a part of their annual data reporting. The Secretary of Energy then must provide a report to Congress, using the agencies information. 
+<ref name="EPACT 2005- FEMP">{{cite web|last=US Department of Energy - Office of Energy Efficiency and Renewable Energy - Federal Energy Management Progrma|title=Renewable Energy Requirement Guidance for EPACT 20005 and Executive Order 13423|url=http://www1.eere.energy.gov/femp/pdfs/epact05_fedrenewenergyguid.pdf|accessdate=17 April 2011}}</ref><ref name="EPACT 2005 - specifications">{{cite web|last=Federal Energy Management Progrma|title=Energy Policy Act of 2005|url=http://www1.eere.energy.gov/femp/regulations/epact2005.html|accessdate=18 April 2011}}</ref> . 
+
+===Energy Independence and Security Act of 2007 (EISA 2007)=== . 
+
+The [[Energy Independence and Security Act of 2007]] (PL 110-140) had very few policy provisions with regards to the wind industry. The only major stipulation regarding wind is in section 656 of the act. It directs the DOE to set up a cost-shared Renewable Energy Innovation Manufacturing Partnership Program. This program would make awards to support research, development and demonstration of advanced manufacturing processes, materials and infrastructure for renewable energy technologies. Wind systems are one of the several alternative forms of energy equipment that are eligible for these rewards. This section sets further goals to increase domestic renewable energy production as well as to better coordinate federal state and private sector resources. <ref>{{cite web|last=Sissine|first=Fred|title=Energy Independence and Security Act of 2007: A Summary of Major Provision|url=http://energy.senate.gov/public/_files/RL342941.pdf|work=CRS Report for Congress|accessdate=18 April 2011}}</ref> . 
+
+===American Reinvestment and Recovery Act (ARRA) 2009===. 
+Most recently, wind energy policy has continued through the [[American Recovery and Reinvestment Act of 2009]] (P.L. 111-5), signed into law by President Obama. In terms of wind energy, five areas were advanced: 1. an extension was given for the federal production tax credit (PTC) until December 31, 2012; 2. wind energy facilities can make use of an investment tax credit (ITC) for certain property in substitution for PTC; 3. wind projects initiated in 2009 and 2010 can receive a 30% grant from the Treasury Department for the cost of the property; 4. general business credits were modified; 5. the 2009 bonus depreciation was extended. Qualifying for an ITC gives a credit of 30% on the cost of the property used for a wind facility. Cash grants,  eliminate the need for a partner to utilize tax credits. The carryback period was extended for the business credit, along with the bonus depreciation. Additional related incentives include 30% investment credits for manufacturers of renewable energy technologies, an increase in new clean renewable energy bonds to finance wind facilities, and funding towards advancing the electrical grid. <ref name="American Recovery and Reinvestment Act of 2009 - Wind Energy Provisions">{{cite web|last=Mertens|first=Alexandra|title=American Recovery and Reinvestment Act of 2009 - Wind Energy Provisions|url=http://www.fredlaw.com/articles/energy/energy_0902_day_alm.html|publisher=Fredrikson & Byron, P.A.|accessdate=24 March 2011|coauthors=Daniel Yarano}}</ref>  . 
+
+Along with these advancements in policy, $1.64 billion was allocated for renewable energy, with $93 million for wind energy projects. <ref name=Energy.gov>{{cite web|last=Department of Energy|title=Renewable Energy|url=http://www.energy.gov/recovery/renewableenergy.htm|accessdate=17 April 2011}}</ref> $45 million will go towards wind turbine drivetrain R&D and testing, $14 million for technology development, $24 million for wind power research and development, and $10 million for the National Wind Technology Center. Along with this funding the National Renewable Energy Laboratory (NREL) will receive more than $100 million from ARRA. <ref name="ARRA $$">{{cite web|last=Energy Efficiency and Renewable Energy|title=Secretary Chu Announces $93 Million for Recovery Act to Support Wind Energy Projects|url=http://apps1.eere.energy.gov/news/daily.cfm/hp_news_id=163|accessdate=17 April 2011}}</ref> . 
+
+==Wind Production Tax Credit (PTC)== . 
+
+Production Tax Credits (PTC) were a part of the [[Energy Policy Act of 1992]](102nd Congress H.R.776.ENR, abbreviated as EPACT92)and are intended for wind and bioenergy resources. The purpose of the Production Tax Credit is to support renewable energy based upon the environmental, economic, and energy security benefits that renewable energy resources can provide. Besides wind energy, the PTC also covers closed loop biomass, geothermal power, and half the rate for open loop [[biomass]], [[hydropower]], [[landfill gas]], and [[municipal solid waste]]. <ref>{{cite journal|last=Wiser|first=Ryan|title= Wind Power and the Production Tax Credit: An Overview of Research Results|date=29|year=2007|month=March|accessdate=16 April 2011}}</ref> The PTC provides a 2.1 cent per kilowatt-hour benefit for the first ten years of a renewable energy facility's operation. <ref name="ucsusa.org">{{cite web|title=Production Tax Credit for Renewable Energy|url=http://www.ucsusa.org/clean_energy/solutions/big_picture_solutions/production-tax-credit-for.html|accessdate=25 March 2011|date=22 April 2009}}</ref> It is only available for wind energy equipment located within the United States and only if electricity produced is sold to an unrelated party. <ref name=http://site.ebrary.com/lib/jmulibrary/docDetail.action?docID>{{cite journal|last=Anderson|first=Heidi|title=The Federal Production Tax Credit: Will Its Expiration Mean the End of the United States Wind Industry?|journal=The Environmental Law Reporter|year=2003|accessdate=16 April 2011}}</ref> Any unused credits may be carried forward for up to 20 years following generation. <ref>{{cite web|title=Renewable Electricity Production Tax Credit(PTC)|url=http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=US13F|work=DSIRE|accessdate=16 April 2011}}</ref>  . 
+
+'''History of the Production Tax Credit''' . 
+
+The [[Energy Policy Act of 1992]] originally enacted the Production Tax Credit and the first lapse came in June 1999. The PTC was extended in December 1999 until December 31, 2001. Once again the PTC expired in December 2001 and was not enacted again until March 2002 where it was then extended for another two years. At the end of 2003 the PTC expired for a third time until a one year extension was granted in October 2004. With the 2004 extension, former President George Bush included the Production Tax Credit within a group of tax incentives for businesses. The PTC was extended through 2005 and also expanded the different types of renewable energies that would be included under the bill. <ref name="ucsusa.org"/> The Energy Policy Act of 2005 (H.R. 6) modified the credit and extended it through the end of 2007. In December 2006, the PTC was extended for another year by the Tax Relief and Health Care Act of 2006 (H.R. 6111). President [[Barack Obama]] extended the PTC by signing into law the American Recovery and Reinvestment Act of 2009 (H.R. 1). The Wind PTC was extended an additional two years, expiring the end of 2012. <ref name="ucsusa.org"/> The EIA reported that wind generation would be more than doubled by 2012 due to the extended tax credit options. <ref name="ucsusa.org"/>  . 
+
+'''Impacts of Production Tax Credit''' . 
+
+The Production Tax Credit has been the primary incentive for wind energy and has been essential to the industry’s research and development. Wind Power development in the United States has shown a great dependence on the PTC. The wind industry has experienced growth during the years leading up to the expiration of the PTC and a dramatic decrease in installed wind capacity in years where the PTC has lapsed. In 2003, 1687 MW of capacity were installed leading up to a lapse of the PTC in 2004. In 2004, only 400 MW of capacity were installed in the United States. With the PTC reinstated in 2005, 2431 MW of capacity were installed which was a record at the time for the United States. <ref name="ucsusa.org"/> The PTC allowed for the United States to lead the world in wind power additions in 2005 and 2006 with 16% of the worldwide capacity being installed in 2006 coming from the United States. <ref name="Wiser 2007">{{cite journal|last=Wiser|first=Ryan|title=Wind Power and the Production Tax Credit: An Overview of Research Results|date=29|year=2007|month=March|accessdate=16 April 2011}}</ref>  The planning and permitting process for wind energy can take up to two years. With short-term extensions of the PTC, big investments from companies for research and development are less likely to occur. <ref name="ucsusa.org"/> The current trend of short-term extensions of the Production Tax Credit have led to a boom and bust cycle of short-term planning and low number of investments. As the PTC expires many investors hurry to finish projects thus producing smaller capacity installations and creating higher electricity costs. <ref>{{cite web|last=Steve|first=Jaime|title=Wind Energy Production Tax Credit(PTC)|url=http://api.ning.com/files/7u1eapyLI6hnmNvAavydPtHsp1Pq7zgvVs7G*NV6*0z3t17f00hykx-XoG2K1y*xxyffGPjpIjgsMEFmH1siJU3GViiYep3i/AWEAWindEnergyProductionTaxCreditFactSheet.pdf|work=American Wind Energy Association|accessdate=16 April 2011}}</ref> Longer term Production Tax Credit policy would stimulate low-cost wind development and establish a more stable policy for wind development. Having short-term extensions on the PTC can potentially slow wind development, raise costs, require a greater reliance on foreign manufacturing, produce transmission issues, and most importantly can reduce the amount of research and development of wind energy. <ref name="Wiser 2007"/> The world energy council has estimated that new wind capacity worldwide will amount to $150 to $ 400 billion in new business over the next twenty years. <ref name=http://site.ebrary.com/lib/jmulibrary/docDetail.action?docID>{{cite journal|last=Anderson|first=Heidi|title=The Federal Production Tax Credit: Will Its Expiration Mean the End of the United States Wind Industry?|journal=The Environmental Law Reporter|year=2003|accessdate=16 April 2011}}</ref>  . 
+
+'''Incentives of PTC''' . 
+
+There are several incentives that go along with a Wind Production Tax Credit.The PTC provides a 2.1 cent per kilowatt-hour benefit for the first ten years of a renewable energy facility's operation. A second incentive of PTC is wind developers can receive a 30% Investment Tax Credit(ITC) in place of the Production Tax Credit. This only applies if the projects are placed in service between 2009 and 2013. <ref>{{cite web|title=Production Tax Credit(PTC): Policy Recommendation|url=http://www.newwindagenda.org/ptc.html|accessdate=25 March 2011}}</ref> Lastly, a third incentive of the Production Tax Credit is providing grants that cover up to 30% of the renewable energy projects. This program is under the Department of Treasury and is effective for wind projects that are placed in service in 2009-2010 or the construction is begun by 2010 and plans to be in service before 2013. <ref name="Mark Bolinger">{{cite web|title=PTC, ITC, or Cash Grant? An Analysis of the Choice Facing Renewable Power Projects in the United States|accessdate=25 March 2011|author=Mark Bolinger|coauthors=Ryan Wiser, Karlynn Cory, Ted James|date=March 2009}}</ref>  . 
+
+According to the National Renewable Energy Laboratory, released in a report titled "PTC, ITC, or Cash Grant? An Analysis of the Choice Facing Renewable Power Projects in the United States" in March 2009, projects that cost $1,500/kW or less are likely to receive more value from the PTC, while 
+projects that cost more than $2,500/kW are likely to be better off with the ITC. <ref name="Mark Bolinger"/> . 
+
+==State Policy==. 
+Wind energy policy mostly comes from a state level due to the limited access to relevant federal incentives.  Most states in the US have energy policies to help support wind energy development.  State policies offer incentives and tax credits for both producers and consumers to make wind energy more affordable.  These tax credits are towards personal finances or property value. <ref name="Energy Bible">{{cite web|title=Wind Energy for State Incentives|url=http://energybible.com/wind_energy/state_incentives.html|publisher=Energy Bible|accessdate=2011-03-14}}</ref> Renewable Portfolio Standard (RPS) and state grant programs are also used to increase wind energy usage in the United States.  By using these incentives, the US can make wind power more prominent to push for renewable energy sources, in an effort to lessen its dependence on foreign oil, protect the environment, and stabilize its energy costs. <ref>{{cite web|title=Helping You Change the World|url=http://www.ctcleanenergy.com/|publisher=Connecticut Clean Energy Fund|accessdate=2011-03-22}}</ref>  This section outlines different financial incentives available by state, and programs designed to increase the development and use of wind power.  It also displays state permitting and ordinance requirements, usually done on a county level, that are important to know before installing wind turbines.  . 
+
+==Tax Credits==. 
+Tax credits for renewable energy technology support the adoption of clean energy technologies by reducing net project costs to consumers, and encouraging market acceptance of clean energy practices.  They offer personal financial incentives and property value financial incentives for investing in renewable energy technologies like wind power.  They can be used to exempt wind energy equipment from sales taxes to reduce capital investment. They can also be used to reduce property taxes for wind power facilities, or to reduce federal income taxes for qualified tax-paying owners based on the capital investments incurred in wind project development. <ref name=autogenerated1>{{cite web|title=State Incentives for Wind Energy|url=http://energybible.com/wind_energy/state_incentives.html|publisher=Energy Bible|accessdate=2011-03-14}}</ref><ref>{{cite web|last=Goodword|first=Jenna|title=Bottom Line on Renewable Energy Tax Credits|url=http://www.wri.org/publication/bottom-line-series-renewable-energy-tax-credits|publisher=World Resources Institute|accessdate=2011-03-23}}</ref> At the state level, the terms of credit, the amount of credit, and the cost of the credit differs between states. Using state incentives and tax credits helps meet state clean energy policy objectives.  . 
+
+According to the Department of Energy, tax credits are generally more valuable than an equivalent tax deduction.  They reduce dollar-by-dollar as opposed to removing a percentage of a tax that is owed. <ref name="Consumer Energy Tax Incentives">{{cite web|title=Consumer Energy Tax Incentives|url=http://www.energy.gov/taxbreaks.htm|publisher=The United States Department of Energy|accessdate=2011-04-18}}</ref>  They target and benefit: manufacturers, purchasers, building operators, and commercial, industrial, and residential customers. <ref>{{cite web|title=Clean Energy Tax Incentives -- Background|url=http://www.epa.gov/statelocalclimate/documents/pdf/4_20_06_Background_tax_incentives.pdf|publisher=STATE CLEAN ENERGY - ENVIRONMENT TECHNICAL FORUM|accessdate=2011-04-18}}</ref> Tax credits and incentives appear to be most effective when linked to other policies, which is important to consider when designing state tax incentive programs to most effectively leverage the tax credits in EPAct 2005. <ref name="Consumer Energy Tax Incentives"/>  . 
+
+Below is a table that shows tax credits by state for wind development in the United states. For more information on wind policy see also [http://www.dsireusa.org/ Database of State Incentives for Renewables & Efficiency].  . 
+
+<big>'''Table 1:''' Personal and property state tax credits for renewable energy taken from the Database of State Incentives for Renewables and Efficiency (DSIRE)</big>   
+{| class="wikitable"
+. |-
+! State !! Tax Credits
+. |-
+|Alaska || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=AK16F&re=1&ee=1 Local Option - Property Tax Exemption for Renewable Energy Systems] (Property)
+. |-
+|Arizona || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=AZ19F&re=1&ee=0 Non-Residential Solar & Wind Tax Credit] (Personal),
+[http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=AZ47F&re=1&ee=0 Renewable Energy Production Tax Credit] (Personal),
+[http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=AZ01F&re=1&ee=0 Residential Solar and Wind Energy Systems Tax Credit], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=AZ20F&re=1&ee=1 Energy Equipment Property Tax Exemption] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=AZ30F&re=1&ee=1 Property Tax Assessment for Renewable Energy Equipment] (Property)
+. |-
+|Colorado || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=CO49F&re=1&ee=1 Local Option - Property Tax Exemption for Renewable Energy Systems ] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=CO188F&re=1&ee=1 Property Tax Exemption for Residential Renewable Energy Equipment] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=CO46F&re=1&ee=1 Renewable Energy Property Tax Assessment ] (Property)
+. |-
+|Connecticut || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=CT07F&re=1&ee=1 Property Tax Exemption for Renewable Energy Systems] (Property)
+. |-
+| Georgia|| [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=AZ01F&re=1&ee=0 Clean Energy Tax Credit] (Personal)
+. |-
+| Hawaii || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=HI01F&re=1&ee=0 Solar and Wind Energy Credit] (Personal)
+. |-
+| Idaho || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=ID01F&re=1&ee=0 Residential Alternative Energy Tax Deduction] (Personal), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=ID34F&re=1&ee=1 Property Tax Exemption for Wind and Geothermal Energy Producers] (Property)
+. |-
+|Illinois || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=IL25F&re=1&ee=1 Commercial Wind Energy Property Valuation] (Property)
+. |-
+|Indiana  || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=IN01F&re=1&ee=1 Renewable Energy Property Tax Exemption ] (Property)
+. |-
+| Iowa || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=IA14F&re=1&ee=0 Renewable Energy Production Tax Credit] (Personal), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=IA02F&re=1&ee=1 Local Option - Special Assessment of Wind Energy Devices] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=IA08F&re=1&ee=1 Property Tax Exemption for Renewable Energy Systems] (Property)
+. |-
+| Kansas || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=KS22F&re=1&ee=0 Renewable Electricity Facility Tax Credit] (Personal), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=KS02F&re=1&ee=1 Renewable Energy Property Tax Exemption] (Property)
+. |-
+| Kentucky || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=KY28F&re=1&ee=0 Renewable Energy Tax Credit] (Personal)
+. |-
+| Louisiana || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=LA11F&re=1&ee=0 Tax Credit for Solar and Wind Energy Systems on Residential Property] (Personal)
+. |-
+| Maryland || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MD17F&re=1&ee=0 Clean Energy Production Tax Credit] (Personal),
+[http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MD10F&re=1&ee=0 Income Tax Credit for Green Building] (Personal), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MD19F&re=1&ee=1 Local Option - Property Tax Credit for High Performance Buildings] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MD20F&re=1&ee=1 Property Tax Exemption for Solar and Wind Energy Systems] (Property)
+. |-
+| Massachusetts || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MA06F&re=1&ee=0 Residential Renewable Energy Income Tax Credit], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MA01F&re=1&ee=1 Renewable Energy Property Tax Exemption] (Property)
+. |-
+|Michigan || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MI18F&re=1&ee=1 Alternative Energy Personal Property Tax Exemption] (Property)
+. |-
+|Minnesota || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MN01F&re=1&ee=1 Wind and Solar-Electric (PV) Systems Exemption] (Property) 
+. |-
+| Montana || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MT40F&re=1&ee=0 Alternative Energy Investment Tax Credit] (Personal),
+[http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MT13F&re=1&ee=0 Residential Alternative Energy System Tax Credit], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MT22F&re=1&ee=1 Corporate Property Tax Reduction for New/Expanded Generating Facilities] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MT20F&re=1&ee=1 Generation Facility Corporate Tax Exemption ] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MT03F&re=1&ee=1Renewable Energy Systems Exemption] (Property)
+. |-
+|Nevada || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NV10F&re=1&ee=1 Property Tax Abatement for Green Buildings] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NV01F&re=1&ee=1 Renewable Energy Producers Property Tax Abatement] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NV02F&re=1&ee=1 Renewable Energy Systems Property Tax Exemption] (Property)
+. |-
+|New Hampshire || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NH01F&re=1&ee=1 Local Option - Property Tax Exemption for Renewable Energy] (Property)
+. |-
+|New Jersey || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NJ36F&re=1&ee=1 Assessment of Farmland Hosting Renewable Energy Systems ] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NJ25F&re=1&ee=1 Property Tax Exemption for Renewable Energy Systems] (Property)
+. |-
+|New York || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NY27F&re=1&ee=1 Energy Conservation Improvements Property Tax Exemption] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NY07F&re=1&ee=1 Local Option - Solar, Wind & Biomass Energy Systems Exemption] (Property)
+. |-
+| New Mexico ||[http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NM17F&re=1&ee=0 Renewable Energy Production Tax Credit] (Personal),
+[http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NM15F&re=1&ee=0 Sustainable Building Tax Credit] (Personal)
+. |-
+| North Carolina|| [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NC20F&re=1&ee=0 Renewable Energy Tax Credit] (Personal)
+. |-
+|North Dakota || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=ND04F&re=1&ee=1 Large Wind Property Tax Reduction] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=ND02F&re=1&ee=1 Renewable Energy Property Tax Exemption] (Property)
+. |-
+|Ohio || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=OH56F&re=1&ee=1 Qualified Energy Property Tax Exemption for Projects 250 kW or Less] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=OH60F&re=1&ee=1 Qualified Energy Property Tax Exemption for Projects over 250 kW (Payment in Lieu)] (Property)
+. |-
+| Oregon|| [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=OR17F&re=1&ee=0 Residential Energy Tax Credit], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=OR01F&re=1&ee=1 Renewable Energy Systems Exemption] (Property)
+. |-
+|Pennsylvania || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PA26F&re=1&ee=1 Property Tax Assessment for Commercial Wind Farms]" (Property)
+. |-
+|Puerto Rico || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PR01F&re=1&ee=0 Puerto Rico - Tax Deduction for Solar and Wind Energy Systems], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PR05F&re=1&ee=1 Puerto Rico - Property Tax Exemption for Solar and Renewable Energy Equipment] (Property)
+. |-
+| Rhodes Island || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=RI07F&re=1&ee=0 Residential Renewable Energy Tax Credit] (Personal), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=RI20F&re=1&ee=1 Local Option - Property Tax Exemption for Renewable Energy Systems] (Property)
+. |-
+|South Dakota || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=SD12F&re=1&ee=1 Large Commercial Wind Exemption and Alternative Taxes ] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=SD51F&re=1&ee=1 Renewable Energy System Exemption] (Property), [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=SD05F&re=1&ee=1 Small Commercial Wind Energy Property Tax Assessment] (Property)
+. |-
+|Tennessee || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=TN03F&re=1&ee=1 Wind Energy Systems Exemption ] (Property)
+. |-
+|Texas || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=TX03F&re=1&ee=1 Renewable Energy Systems Property Tax Exemption] (Property)
+. |-
+| Utah || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=UT03F&re=1&ee=0 Renewable Energy Systems Tax Credit] (Personal)
+. |-
+|Vermont || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=VT02F&re=1&ee=1 Local Option - Property Tax Exemption] (Property)
+. |-
+|West Virginia || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=WV01F&re=1&ee=1 Special Assessment for Wind Energy Systems] (Property)
+. |-
+|Wisconsin || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=WI01F&re=1&ee=1 Solar and Wind Energy Equipment Exemption] (Property)
+|} . 
+
+==Renewable Portfolio Standards (RPS)==. 
+Renewable Portfolio Standards are written policy designed to require retail power suppliers to provide a certain minimum percentage of electricity, from a specific renewable power source, for a specified period of time. <ref name="Energy Bible"/>  RPS programs are often used because of the energy, environmental, and economic benefits created by using renewable energy.  RPS programs create market demand for renewable energy supplies by aiming to stimulating the energy market to make clean energy economically competitive with conventional forms of electric power. <ref name="epa.gov"/>  According to The Environmental Protection Agency in "[http://www.epa.gov/chp/state-policy/renewable_fs.html Renewable Portfolio Standards: An Effective Policy to Support Clean Energy Supply]", current states with RPS requirements mandate that 4% - 30%  of electricity be generated from renewable sources by a specified date, however, Renewable Portfolio Standards can have multiple goals. <ref name="epa.gov"/>  Current RPS programs also include goals for local, regional, or global environmental benefits, local economic development, reducing the risks fossil fuel pricing, and advancing renewable energy technologies. <ref name="epa.gov"/>    . 
+
+There are two types of Renewable Portfolio Standards: mandatory and voluntary.  As stated before, mandatory markets require the electricity service providers a minimum amount of renewable energy in their electricity supply while voluntary electricity markets allow the consumer to choose to surpass required policy and reduce the environmental impact of their electricity use further than required. Mandatory RPS programs are rarely applied to municipal utilities which are usually self regulated, but rather to investor-owned utilities and electric service providers. <ref name="epa.gov">{{cite web|title=Renewable Portfolio Standards: An Effective Policy to Support Clean Energy Supply|url=http://www.epa.gov/chp/state-policy/renewable_fs.html|publisher=United States Environmental Protection Agency|accessdate=2011-04-17}}</ref>  Voluntary markets help create renewable energy capacity that exceeds what mandatory markets contribute nationwide. <ref>{{cite web|title=Voluntary and Mandatory Markets|url=http://www.epa.gov/greenpower/gpmarket/markets.htm|publisher=Envrionmental Protection Agency|accessdate=2011-04-17}}</ref>    . 
+
+According to the EPA, based on knowledge gained from states with successful Renewable Portfolio Standards, designing and implementing an effective RPS program relies heavily on: support of state government, facilitated discussions with important stakeholders focusing on an appropriate RPS design, clear goals and objectives, and designing a clear and easy-to-use accounting system for compliance.  It is also important to conduct a mid-term performance review.  This should be done to identify the causes for any delay in meeting the RPS targets, and to make program changes as needed to meet the original goals of the RPS. <ref name="epa.gov"/>  As of 2009 33 states including Washington DC had enacted successful Renewable Portfolio Standards, and currently there are 37. <ref name="epa.gov"/> In 2003 RPS programs produced more than 2,300 megawatts (MW) of new renewable energy capacity. <ref name="epa.gov"/> In February 2009, the Union of Concerned Scientists project stated that RPS will account for 76,750 megawatts (MW) of new renewable power by 2025. <ref name="epa.gov"/> . 
+
+Below is a table of the current states with  Renewable Portfolio Standards. For more information on wind policy see also [http://www.dsireusa.org/ Database of State Incentives for Renewables & Efficiency].  . 
+
+'''Table 2:''' State Renewable Portfolio Standards for renewable energy from the Database of State Incentives for Renewables and Efficiency (DSIRE) 
+{| class="wikitable"
+. |-!</big>'''State''' !! </big>'''Renewable Portfolio Standards'''
+. |-
+|Arizona || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=AZ03R&re=1&ee=1 RPS: 15% by 2025]
+. |-
+|California || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=CA25R&re=1&ee=1 RPS: 20% by 2010 and 33% by 2020]
+. |-
+|Colorado || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=CO24R&re=1&ee=1 RPS: Investor-owned utilities 30% by 2020, Electric cooperatives 10% by 2020, Municipal utilities serving more than 40,000 customers 10% by 2020]
+. |-
+|Connecticut || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=CT04R&re=1&ee=1 RPS: 27% by 2020]
+. |-
+|Delaware || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=DE06R&re=1&ee=1 RPS: 25% by compliance year 2025-2026]
+. |-
+|District of Columbia || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=DC04R&re=1&ee=1 RPS: 20% by 2020]
+. |-
+|Hawaii || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=HI06R&re=1&ee=1 RPS: 40% by 2030]
+. |-
+|Illinois || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=IL04R&re=1&ee=1 RPS: 25% by compliance year 2025 - 2026]
+. |-
+|Iowa || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=IA01R&re=1&ee=1 Alternative Energy Law (AEL): 105 MW of renewable generating capacity]
+. |-
+|Maine || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=ME01R&re=1&ee=1 RPS: Total: 40% by 2017, Class I (New Resources) 10% by 2017]
+. |-
+|Maryland || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MD05R&re=1&ee=1 RPS: 20% by 2022]
+. |-
+|Massachusetts || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MA05R&re=1&ee=1 RPS: Class I (New Resources) 15% of by 2020 and an additional 1% each year thereafter; Class II (Existing Resources) 7.1% in 2009 and thereafter (3.6% renewables and 3.5% [[waste-to-energy]])]
+. |-
+|Michigan || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MI16R&re=1&ee=1 RPS: All utilities: 10% by 2015]
+. |-
+|Minnesota || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MN14R&re=1&ee=1 RPS: Xcel Energy 30% by 2020, Other utilities 25% by 2025], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MN03R&re=1&ee=1 Renewables Portfolio Standard Xcel Energy Wind and Biomass Generation Mandate: 825 MW wind]
+. |-
+|Missouri || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MO08R&re=1&ee=1 RPS: 15% by 2021]
+. |-
+|Montana || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MT11R&re=1&ee=1 RPS: 15% by 2015]
+. |-
+|Nevada || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NV01R&re=1&ee=1 RPS: 25% by 2025]
+. |-
+|New Hampshire || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NH09R&re=1&ee=1 RPS: 23.8% by 2025]
+. |-
+|New Jersey || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NJ05R&re=1&ee=1 RPS: 22.5% by compliance year 2020-2021]
+. |-
+|New Mexico || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NM05R&re=1&ee=1 RPS: Investor-owned utilities 20% by 2020; Rural electric cooperatives 10% by 2020]
+. |-
+|New York || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NY03R&re=1&ee=1 RPS: 29% by 2015]
+. |-
+|North Carolina || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NC09R&re=1&ee=1 Renewable Energy and Energy Efficiency Portfolio Standard: Investor-owned utilities 12.5% by 2021, Electric cooperatives, municipal utilities: 10% by 2018]
+. |-
+|North Dakota || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=ND04R&re=1&ee=1 Renewable and Recycled Energy Objective: 10% by 2015]
+. |-
+|Ohio || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=OH14R&re=1&ee=1 Alternative Energy Resource Standard: 25% alternative energy resources by 2025 ]
+. |-
+|Oklahoma || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=OK05R&re=1&ee=1 RPS: 15% by 2015]
+. |-
+|Oregon || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=OR22R&re=1&ee=1 RPS: Large utilities 25% by 2025, Small utilities 10% by 2025, Smallest utilities 5% by 2025]
+. |-
+|Pennsylvania || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PA06R&re=1&ee=1 RPS:  ~18% alternative energy resources by compliance year 2020-2021]
+. |-
+|Puerto Rico || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PR07R&re=1&ee=1 RPS: 20% by 2035]
+. |-
+|Rhodes Island || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=RI08R&re=1&ee=1 RPS: 16% by 2019]
+. |-
+|South Dakota || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=SD02R&re=1&ee=1 Renewable, Recycled and Conserved Energy Objective: 10% by 2015]
+. |-
+|Texas || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=TX03R&re=1&ee=1 RPS: 5,880 MW by 2015; goal of 10,000 MW by 2025]
+. |-
+|Utah || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=UT13R&re=1&ee=1 RPS: 20% of adjusted retail sales by 2025]
+. |-
+|Vermont || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=VT04R&re=1&ee=1 Sustainably Priced Energy Enterprise Development (SPEED) Goals: 20% by 2017]
+. |-
+|Virginia || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=VA10R&re=1&ee=1 Voluntary Renewable Energy Portfolio Goal: 15% of base year (2007) sales by 2025]
+. |-
+|Washington || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=WA15R&re=1&ee=1 RPS: 15% renewables by 2020 and all cost-effective conservation]
+. |-
+|West Virginia || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=WV05R&re=1&ee=1 Alternative and Renewable Energy Portfolio Standard: 25% alternative and renewable energy resources by 2025]
+. |-
+|Wisconsin || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=WI05R&re=1&ee=1 RPS: 10% by 2015]
+|} . 
+
+==Grant Programs== . 
+
+States offer a variety of grant programs to encourage the use and growth of renewable energy. Wind energy project grants are offered primarily for the use in  the commercial, industrial, utility, education, and government sectors. <ref name="DSIRE: Database of State Incentives for Renewables & Efficiency">{{cite web|title=Incentives/Policies for Renewables & Efficiency|url=http://www.dsireusa.org/|publisher=North Carolina State University, under NREL|accessdate=2011-04-17}}</ref> Applying for grants offers consumers a way to ease the investments costs in wind development projects. They can also be used to support research and development.  They are obtained by applying to the different state programs and are offered in the form of cash or tax credits.  Grant programs offer a way to pay for large portions of wind project initial costs and help support a national renewable energy system to be less dependent on traditional energy sources, and to protect the environment from future harm.  . 
+
+Below is a table listing available grant programs for renewable energy development, including wind power, by state. For more information on wind policy see also [http://www.dsireusa.org/ Database of State Incentives for Renewables & Efficiency].  . 
+
+'''Table 3''': State grant programs for renewable energy from the Database of State Incentives for Renewables and Efficiency (DSIRE)  . 
+
+{| class="wikitable"
+. |-!</big>'''State''' !! </big>'''Grant Programs'''
+. |-
+|Alaska || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=AK12F&re=1&ee=1 Alaska Energy Authority - Renewable Energy Grant Program] 
+. |-
+|Colorado || [http://www.dsireusa.org/incentives/index.cfm?EE=1&RE=1&SPV=0&ST=0&implementingsector=S&searchtype=Grant&technology=Wind&sh=1 New Energy Economic Development Grant Program]
+. |-
+|Connecticut || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=CT16F&re=1&ee=1 CCEF - On-Site Renewable DG Program]
+. |-
+|Delaware || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=DE04F&re=1&ee=1 Research and Development Grants],[http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=DE02F&re=1&ee=1 Technology and Demonstration Grants]
+. |-
+|Illinois || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=IL67F&re=1&ee=1 Illinois State Board of Education - School Energy Efficiency Grant Program]
+. |-
+|Maine || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=ME03F&re=1&ee=1 Voluntary Renewable Resources Grants]
+. |-
+|Massachusetts || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MA101F&re=1&ee=1 DOER - Green Communities Grant Program], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MA88F&re=1&ee=1 MassCEC - Commonwealth Wind Incentive Program - Commercial Wind Initiative Grant], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MA82F&re=1&ee=1 MassCEC - Commonwealth Wind Incentive Program - Community-Scale Wind Initiative]
+. |-
+|Michigan || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MI14F&re=1&ee=1 Energy Efficiency Grants]
+. |-
+|New Hampshire || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NH45F&re=1&ee=1 Community Development Finance Authority - Enterprise Energy Fund (Grant)]
+. |-
+|North Carolina || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NC47F&re=1&ee=1 North Carolina Green Business Fund]
+. |-
+|Oregon || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=OR140F&re=1&ee=1 Community Renewable Energy Feasibility Fund Program]
+. |-
+|Pennsylvania || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PA45F&re=1&ee=1 DCED - Alternative and Clean Energy Program], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PA36F&re=1&ee=1 DCED - High Performance Building Incentives Program], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PA40F&re=1&ee=1 DCED - Wind and Geothermal Incentives Program], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PA25F&re=1&ee=1 High Performance Green Schools Planning Grants], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PA16F&re=1&ee=1 Pennsylvania Energy Development Authority (PEDA) - Grants], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PA20F&re=1&ee=1 Small Business Advantage Grant Program] 
+. |-
+|Rhode Island || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=RI28F&re=1&ee=1 RIEDC - Renewable Energy Fund Grants]
+. |-
+|Texas || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=TX89F&re=1&ee=1 Department of Rural Affairs - Renewable Energy Demonstration Pilot Program]
+. |-
+|Virgin Islands || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=VI02F&re=1&ee=1 U.S. Virgin Islands - Discretionary Grant Program]
+. |-
+|Wisconsin || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=WI23F&re=1&ee=1 Focus on Energy - Renewable Energy Grant Programs]
+|} . 
+
+==Permitting and Ordinances== . 
+
+Wind power investors frequently encounter non-financial dilemmas in the wind energy development process, due to zoning ordinances and permits. Zoning was first implemented in the 1920s, and it is one form of a land-use law. According to the National Renewable Energy Laboratory, "having zoning requirements is the principle means for local governments to implement land-use planning". <ref name="Green">{{cite web|last=Green|first=J.|title=Zoning for Distributed Wind Power – Breaking Down Barriers|url=http://www.nrel.gov/docs/fy05osti/38167.pdf|publisher=National Renewable Energy Laboratory|accessdate=2011-04-19}}</ref>  The intent of establishing zoning laws is that land-use choices and regulation be done at a local level staying as close as possible to the property owners affected by the installation. <ref name="Green"/> However, according to the Database of State Incentives for Renewables and Efficiency there are some states with permitting requirements and ordinances decided by state government.   . 
+
+Oftentimes established ordinances do not address technologies like wind turbines.  They also frequently have height restrictions, typically structures built taller than 35 feet require special use permits. <ref name="Green"/> Wind turbines are rarely identified as an allowed use of property, therefore the development of a wind power system requires more than just a large investment. <ref name="Green"/> Projects often need permits to monitor environmental impacts such as soil erosion and sedimentation, as well.  It is important to be aware of these requirements, and to look further into county policy when pursuing a wind project.   . 
+
+Below is a table of state policy for land use. For more information on wind policy see also [http://www.dsireusa.org/ Database of State Incentives for Renewables & Efficiency].  . 
+
+'''Table 4''': State rules, regulations & policies for wind project development from the Database of State Incentives for Renewables and Efficiency (DSIRE)  . 
+
+{| class="wikitable"
+. |-!</big>'''State''' !! </big>'''Regulation'''
+. |-
+|California || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=CA61R&re=1&ee=1 California - County Wind Ordinance Standards]
+. |-
+|Delaware || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=DE14R&re=1&ee=1 Wind Access and Permitting Law]
+. |-
+|Illinois || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=IL17R&re=1&ee=1 Statewide Renewable Energy Setback Standards]
+. |-
+|Maine || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=ME13R&re=1&ee=1 Maine Model Wind Energy Facility Ordinance]
+. |-
+|Massachusetts || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MA14R&re=1&ee=1 Model As-of Right Zoning Ordinance or Bylaw: Allowing Use of Wind Energy Facilities]
+. |-
+|Michigan || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MI14R&re=1&ee=1 Model Ordinance for Wind Energy Systems ]
+. |-
+|New Hampshire || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NH10R&re=1&ee=1 New Hampshire - Standards for Municipal Small Wind Regulations and Small Wind Model Wind Ordinance]
+. |-
+|New Jersey || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NJ17R&re=1&ee=1 Solar and Wind Permitting Laws]
+. |-
+|New York || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NY15R&re=1&ee=1 Guidance for Local Wind Energy Ordinances ]
+. |-
+|North Carolina || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NC18R&re=1&ee=1 North Carolina Model Wind Ordinance ], [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=NC24R&re=1&ee=1 Carteret County - Wind Energy System Ordinance]
+. |-
+|Oklahoma || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=OK06R&re=1&ee=1 Requirements for Wind Development]
+. |-
+|Oregon || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=OR25R&re=1&ee=1 Model Ordinance for Renewable Energy Projects]
+. |-
+|Pennsylvania || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=PA11R&re=1&ee=1 Model Wind Ordinance for Local Governments ]
+. |-
+|South Dakota || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=SD05R&re=1&ee=1 Model Ordinance for Siting of Wind-Energy Systems]
+. |-
+|Wisconsin || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=WI16R&re=1&ee=1 Wisconsin - Wind Siting Rules and Model Small Wind Ordinance]
+. |-
+|Wyoming || [http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=WY04R&re=1&ee=1 Wyoming Wind Energy Permitting Law]
+|} . 
+
+==Environmental Impacts==. 
+{{Main|Environmental impact of wind power}}
+[[File:Wb deichh drei kuhs.jpg|thumb|right|Livestock ignore wind turbines,<ref name="livestock_ignore">
+ {{cite web
+ | url= http://www.uintacountyherald.com/V2_news_articles.php?heading=0&page=72&story_id=1299
+ | title =Capturing the wind
+ | first =Erin
+ | last =Buller
+ | date =2008-07-11
+ | publisher =Uinta County Herald
+ | accessdate =2008-12-04
+}}"The animals don’t care at all. We find cows and antelope napping in the shade of the turbines." - Mike Cadieux, site manager, Wyoming Wind Farm</ref> and continue to graze as they did before wind turbines were installed.]]
+Compared to the environmental impact of traditional energy sources, the environmental impact of wind power is relatively minor. [[Wind power]] consumes no fuel, and emits no [[air pollution]], unlike fossil fuel power sources. The energy consumed to manufacture and transport the materials used to build a wind power plant is equal to the new energy produced by the plant within a few months. While a wind farm may cover a large area of land, many land uses such as agriculture are compatible, with only small areas of turbine foundations and infrastructure made unavailable for use. <ref name=mar>[http://www.sustainabilitycentre.com.au/WindPowersStrength.pdf  Why Australia needs wind power]</ref> . 
+
+There are reports of bird and bat mortality at wind turbines, as there are around other artificial structures. The scale of the ecological impact may<ref name="Eilperin">
+ {{cite news
+ | url = http://www.washingtonpost.com/wp-dyn/content/article/2009/04/15/AR2009041503622_2.html?hpid=topnews&sid=ST2009041602328
+ | title = Renewable Energy's Environmental Paradox
+ | last = Eilperin | first= Juliet |coauthors= Steven Mufson
+ | date = April 16, 2009
+ | work = [[The Washington Post]] |publisher=
+ | accessdate= 2009-04-17 }}
+</ref> or may not<ref name="rspb"> . 
+
+ {{cite web
+  | url = http://www.rspb.org.uk/ourwork/policy/windfarms/index.asp
+  | title = Wind farms
+  | publisher = [[Royal Society for the Protection of Birds]]
+  | accessdate = 2008-09-07
+  | date = 2005-09-14 . 
+
+}}</ref> be significant, depending on specific circumstances. Prevention and mitigation of wildlife fatalities, and protection of [[peat bogs]],<ref name="blanketpeat">{{cite journal|last=Lindsay|first=Richard|date=October 2004|title=WIND FARMS AND BLANKET PEAT The Bog Slide of 16th October 2003 at Derrybrien, Co. Galway, Ireland|publisher=The Derrybrien Development Cooperatve Ltd|url=http://www.uel.ac.uk/erg/documents/Derrybrien.pdf|accessdate=20 May 2009}}</ref> affect the siting and operation of wind turbines.  . 
+
+There are conflicting reports about the effects of noise on people who live very close to a wind turbine.  . 
+
+==Transmission==. 
+The electric transmission grid in the United States is an aging infrastructure that poses limitations for new wind development that includes limited geographic access and capacity, scheduling difficulties, and delays in interconnecting. <ref name="CRS Report for Congress: Wind Power in the United States: Technology, Economic, and Policy Issues" />   . 
+
+Because much of the nation's most promising wind resources are located in remote regions of the country, locating access to existing transmission lines is often a challenge. Investment in new transmission infrastructure is a costly and often economically unfeasible prospect. The expense of constructing new transmission access is such a high barrier to market entry that private companies have begun investing in transmission infrastructure with the hope of lowering the cost of new wind projects (see [[Atlantic Wind Connection]]).  . 
+
+Congestion in existing lines also presents a threat to new wind facilities. Requests for transmission are often denied due to congestion. In 2006, the [[North American Electric Reliability Corporation]] reported 2,397 transmission request denials. <ref name="Electric Transmission: Approaches for Energizing a Sagging Industry">{{cite journal|last=Abel|first=Amy|title=Electric Transmission: Approaches for Energizing a Sagging Industry|date=January 30, 2008|page=11|url=http://www.policyarchive.org/handle/10207/bitstreams/3136.pdf|accessdate=27 March 2011|id=RL33875}}</ref> The high frequency of transmission congestion also leads to long interconnection queues that are a required part of the development process. <ref>{{cite journal|last=Wiser|first=Ryan|coauthors=Mark Bolinger, et al.|title=Annual Report on U.S. Wind Power Installation, Cost, and Performance Trends: 2007|year=2008|month=May|url=Annual Report on U.S. Wind Power Installation, Cost, and Performance Trends: 2007|accessdate=27 March 2011}}</ref>  . 
+
+The intermittent nature of wind power has conflicted with the original policies placed on power generators. Under these policies, electricity generators would be charged economic penalties if they did not meet their promised quotas. Because wind facilities do not have full control over the times and quantities of their electricity output, the [[FERC|Federal Energy Regulatory Commission (FERC)]] issued Order No. 890 to reform these generator imbalance charges. <ref name="Order No. 890: Preventing Undue Discriminatin and Preference in Transmission Service">{{cite journal|last=Federal Energy Regulatory Commission|title=Order No. 890: Preventing Undue Discriminatin and Preference in Transmission Service|date=February 16, 2007|url=http://www.ferc.gov/whats-new/comm-meet/2007/021507/E-1.pdf|accessdate=27 March 2011}}</ref> . 
+
+==United States Offshore Wind Policy==. 
+The framework for offshore wind policy in the United States has been shaped since the late 1800s. Though not directly associated, the first policy regulation was stated in the [[Rivers and Harbors Act of 1899]], where the [[United States Army Corps of Engineers]] had authority over any construction in federal waters. It wasn't until 2005 that the authority changed, when the [[Energy Policy Act of 2005]](Pub.L. 109-58) was enacted, and established the Secretary of the Interior to administer the federal water, within the federal regulatory agency of the [[Bureau of Ocean Energy Management, Regulation and Enforcement]] (BOEMRE), previously known as the Minerals Management Service (MMS).  The agency is "responsible for overseeing the safe and environmentally responsible development of energy and mineral resources on the [[Outer Continental Shelf]].". <ref>{{cite web|title=Bureau of Ocean Energy Management, Regulation and Enforcement|url=http://www.boemre.gov/|work=The Department of the Interior|accessdate=17 April 2011}}</ref>  Other policies that have affected offshore wind development in federal waters include the Outer Continental Shelf Lands Act (43 U.S.C. 1337), and the [[National Environmental Policy Act]](NEPA) (42 U.S.C. 4321-4347).  The only policy in state waters is the [[Coastal Zone Management Act]] of 1972 (Pub.L. 92-583).  . 
+
+===History===. 
+The first offshore wind project in the U.S. was proposed in 2001 by [[Cape Wind]].  The [[United States Army Corps of Engineers]] assumed the lead federal regulatory role under the [[Rivers and Harbors Act of 1899]], and issued a draft Environmental Impact Statement (EIS) in 2004.  In 2004, the [[United States Department of Energy]] (DOE) produced “[http://www.usowc.org/pdfs/final_09_20.pdf A Framework for Offshore Wind Energy Development in the United States].’’  The report explored the potential and feasibility for installing wind turbines off the Mid Atlantic Coast, Gulf Coast, and in the Great Lakes.  The framework also discusses in great detail the major challenges that would lie ahead such as technology development, environmental compatibility, economic financial viability, regulation and government policies, and leadership coordination. <ref>{{cite web|title=A Framework for Offshore Wind Energy Development in the United States|url=http://www.usowc.org/pdfs/final_09_20.pdf|publisher=Department of Energy|accessdate=1 April 2011}}</ref>  . 
+
+Following the [[Energy Policy Act of 2005]] (Public Law 109-58), the [[Bureau of Ocean Energy Management, Regulation and Enforcement]] (BOEMRE), assumed lead federal responsibility and initiated its own independent environmental review pursuant to the [[National Environmental Policy Act]] (NEPA).   While the DOE focused on onshore wind development, several coastal states launched significant initiatives to attract, incentivize, and plan for wind development offshore.  In 2009, the U.S. Offshore Wind Collaborative (USOWC) released the paper “[http://www.usowc.org/pdfs/PathForwardfinal.pdf U.S. Offshore Wind Energy: A Path Forward].”  This document presents a snapshot of U.S. offshore wind energy and serves as a resource for government, industry, and non-governmental stakeholders.ref>{{cite web|last=Clarke|first=Steven|title=U.S. Offshore Wind Energy:  A Path Forward|url=http://www.usowc.org/pdfs/PathForwardfinal.pdf|publisher=US Offshore Wind Collaborative|accessdate=1 April 2011}}</ref> . 
+
+On October 6, 2010 the [[United States Department of the Interior]] Secretary [[Ken Salazar]] and Cape Wind Associates President Jim Gordon signed the nation’s first lease for commercial wind energy development on the Outer Continental Shelf (OCS).  On February 7, 2011, Energy Secretary Chu announced [http://www1.eere.energy.gov/windandhydro/pdfs/national_offshore_wind_strategy.pdf A National Offshore Wind Strategy].  The strategy comes with $50 million of funding to be dispersed to technology development, removing market barriers, and next generation drivetrain.  The new strategy will pursue offshore opportunities in both federal and state waters. <ref>{{cite web|last=Beaudry‐Losique|first=Jacques|title=A National Offshore Wind Strategy|url=http://www1.eere.energy.gov/windandhydro/pdfs/national_offshore_wind_strategy.pdf|publisher=Department of Energy|accessdate=1 April 2011}}</ref> . 
+
+==Policies==. 
+===State Permitting===. 
+Offshore wind energy projects in state waters are subject to permitting based on the Coastal Zone Management Plans established in each state.  The majority of states operate under parallel agencies that provide policy regulation.  Wind projects that would stretch between coastal states would require permitting consistent within each states coastal plan.  Permitting discrepancies for such projects may arise causing lengthy delays in construction of offshore wind farms.  . 
+
+====Coastal Zone Management Act (CZMA)====. 
+The [[Coastal Zone Management Act]] of 1972 (Pub.L. 92-583, 86 Stat. 1280, enacted October 27, 1972, 16 U.S.C. §§ 1451–1464, Chapter 33) (see [[Coastal Zone Management Act]]) was enacted  in an effort to encourage states to establish coastal zone management plans.  The plans would focus on preservation through protecting wildlife and natural resources.  Each state program must allocate preservation measures and permitted uses for land and water resources. <ref>{{cite web|last=Vann|first=Adam|title=Wind Energy:  Offshore Permitting|url=http://www.cnie.org/nle/crsreports/10Sep/R40175.pdf|publisher=Congressional Research Service|accessdate=16 April 2011}}</ref>  The Act was amended through the [[Energy Policy Act of 2005]] to investigate the most recent issues that face the coastal land and waters.  Congress listed several findings, including "a national objective of attaining a greater degree of energy self sufficieny through expanding energy activity in the coastal region."<ref>{{cite web|title=Coastal Zone Management Act of 1972|url=http://coastalmanagement.noaa.gov/about/czma.html#section302|publisher=Department of Commerce|accessdate=17 April 2011}}</ref> . 
+
+===Federal Permitting===. 
+Offshore wind energy projects in federal waters are subject to permitting based on lease agreements given by the Secretary of the Department of the Interior with [[BOEMRE]]. The President announced on April 22, 2009 that the Interior Department completed the Final Renewable Energy Framework to govern management of the Renewable Energy Program. "The final rule establishes a program to grant leases, easements, and rights-of-way for orderly, safe, and environmentally responsible renewable energy development activities, such as the sitting and construction of offshore wind farms on the OCS as well as other forms of renewable energy such as wave, current, and solar.". <ref>{{cite web|title=Renewable Energy|url=http://www.boemre.gov/|work=Bureau of Ocean Energy Management, Regulation and Enforcement|accessdate=21 April 2011}}</ref> . 
+
+====Rivers & Harbors Act====. 
+The [[Rivers and Harbors Act of 1899]] stated that the [[U.S. Army Corps of Engineers]] was the governing body for construction of any structure in federal waters.  Any obstruction not approved by Congress would be prohibited from being constructed in any of the waters of the United States.  The Chief of Engineers had to recommend any structures built and then gain approval from the Secretary of War. <ref>{{cite web|title=Section 10 of the Rivers and Harbors Appropriation Act of 1899|url=http://water.epa.gov/lawsregs/guidance/wetlands/sect10.cfm|publisher=Environmental Protection Agency|accessdate=17 April 2011}}</ref> Although the Corps jurisdiction over offshore wind projects was never explicitly stated in the Act, Section 388 of the Energy Policy Act of 2005 sought out to clear up any misconceptions.  . 
+
+====Energy Policy Act of 2005====. 
+Section 388 of the [[Energy Policy Act of 2005]] (Pub.L. 109-58) amends the Outer Continental Shelf Lands Act ((43 U.S.C. 1337)).  The amendment states that the Secretary of the Interior may grant a lease, easement, or right-of-way on the outer Continental Shelf not otherwise stated in the Act.  Offshore wind related projects could now be given leases at the disposal of the Sectretary of the Interior within the federal regulating agency of BOEMRE.  Prior to any lease agreements, all alternate energy projects must meet the standards of the National Environmental Policy Act.  . 
+
+====National Environmental Policy Act====. 
+The [[National Environmental Policy Act of 1969]] (42 U.S.C. 4321-4347) was enacted as the framework for environmental policy making in the U.S., with a goal of protecting, restoring, and enhancing the environment. <ref>{{cite web|title=Branch of Environmental Assessment|url=http://www.boemre.gov/eppd/compliance/nepa/index.htm|work=BOEMRE|publisher=Department of Interior|accessdate=17 April 2011}}</ref>  The BOEMRE created documents for energy development planning to meet NEPA standards.  They prepare Environmental Assessments (EA) to determine if there are environmental consequences for a potential offshore project, and also Categorical Exclusion Reviews (CER) to verify if and EA or an Environmental Impact Statement (EIS) is necessary in the first place.  . 
+
+==First Offshore Lease==. 
+===Cape Wind===. 
+[[Cape Wind]] is the first offshore wind project in the U.S. to be granted a lease in federal waters after nearly 10 years of strenuous permitting. The Cape Wind Associates first applied for a lease in 2001 to the US Army Corps of Engineers, who at the time were responsible for granting leases under Section 10 of the Rivers and Harbors Act of 1899.  Immediately following, the Alliance to Protect Nantucket Sound was created to oppose the project. <ref name="energyboom.com">{{cite news|title=History of the Cap Cod Offshore Wind Energy Project|url=http://www.energyboom.com/wind/history-cape-cod-offshore-wind-energy-project|accessdate=17 April 2011|newspaper=Energy Boom|date=28 April 2010}}</ref>  In 2002 the Corps announced that an Environmental Impact Statement (EIS) would be required from the Cape Wind Associates.  The EIS was submitted in 2004 stating that the project would bring many benefits to the people of Cape Cod and had positive environmental impacts.  After the Energy Policy Act of 2005, the Department of the Interior assumed main responsibility for granting a lease to the project and acknowledged the need for a new EIS. <ref name="energyboom.com"/> In 2009, the new EIS is released to the public, and in April 2010 the project is approved.  On October 6, 2010, Secretary of the Department of the Interior Ken Salazar signs the first offshore lease with the Cape Wind Associates. <ref>{{cite news|title=First US Offshore Wind Farm Lease is Signed|url=http://www.capewind.org/news1139.htm|accessdate=17 April 2011|newspaper=Cape Wind|date=6 October 2010}}</ref> . 
+
+==References==. 
+{{Reflist|colwidth=30em}} . 
+
+==External links==. 
+{{Refbegin}}
+*[http://www.ncseonline.org/nle/crsreports/08July/RL34546.pdf CRS Report - Wind Power in the United States: Technology, Economic, and Policy Issues]
+*[http://www1.eere.energy.gov/windandhydro/federalwindsiting/policies_regulations.html DOE Wind Siting Policies and Regulations]
+*[http://www.awea.org/issues/federal_policy/index.cfm AWEA Federal Policy Highlights]
+*[http://www.newwindagenda.org/ New Wind Agenda]
+*[http://leeterry.house.gov/Media/media/Sum_Fed_Incentives_Renewable_Energy.pdf Renewable Energy and Energy Efficiency Incentives: A Summary of Federal Programs]{{dead link|date=June 2011}}
+*[http://www.dsireusa.org/ Database for State Incentives for Renewables & Efficiency]
+{{Refend}} . 
+
+[[Category:Renewable energy policy in the United States]]
+[[Category:Wind power in the United States]]

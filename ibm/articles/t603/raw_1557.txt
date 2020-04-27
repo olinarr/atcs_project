@@ -1,0 +1,169 @@
+{{Infobox bridge
+| bridge_name      = Gravina Island Bridge
+| native_name      =
+| native_name_lang =
+| image            =
+| image_size       =
+| alt              =
+| caption          =
+| official_name    =
+| other_name       =The Bridge to Nowhere
+| carries          =
+| crosses          = Inside Passage
+| locale           =
+| owner            =
+| maint            =
+| id               =
+| architect        =
+| designer         =
+| engineering      =
+| design           =
+| material         =
+| length           =
+| width            =
+| height           =
+| mainspan         =
+| spans            =
+| pierswater       =
+| load             =
+| clearance        =
+| below            =
+| life             =
+| builder          =
+| fabricator       =
+| begin            = Never constructed
+| complete         =
+| cost             = Would have cost $398 million
+| open             =
+| inaugurated      =
+| toll             =
+| traffic          =
+| preceded         =
+| followed         =
+| heritage         =
+| collapsed        =
+| closed           =
+| replaces         =
+| map_cue          =
+| map_image        =
+| map_alt          =
+| map_text         =
+| map_width        =
+| coordinates      =
+| lat              =
+| long             =
+| references       =
+| extra            =
+}}
+The '''Gravina Island Bridge''', commonly referred to as the "'''Bridge to Nowhere'''", was a proposed bridge to replace the [[ferry]] that currently connects the town of [[Ketchikan, Alaska]], with [[Gravina Island]], an island that contains the [[Ketchikan International Airport]] as well as 50 residents. The bridge was projected to cost $398 million. Members of the Alaskan congressional delegation, particularly Representative [[Don Young]] and Senator [[Ted Stevens]], were the bridge's biggest advocates in Congress, and helped push for federal funding. <ref>{{cite journal |title= $315 Million Bridge to Nowhere |url=http://www.taxpayer.net/user_uploads/file/Transportation/gravinabridge.pdf |publisher=Taxpayers for Common Sense | format = PDF |date=2005-08-22 |accessdate=2006-11-06}}</ref> The project encountered fierce opposition outside of Alaska as a symbol of [[pork barrel]] spending and is labeled as one of the more prominent "[[Bridge to Nowhere (disambiguation)|bridges to nowhere]]". <ref>{{cite news |title=Alaska: End Sought For 'bridge To Nowhere' |url=http://query.nytimes.com/gst/fullpage.html?res=9A04E7D81F3AF931A1575AC0A9619C8B63 |publisher= The New York Times |date=2007-09-22}}</ref> As a result, [[United States Congress|Congress]] removed the federal [[Earmark (politics)|earmark]] for the bridge in 2005. <ref name="Tumble">{{Cite news
+|last=Hulse
+|first=Carl
+|title=Two 'Bridges to Nowhere' Tumble Down in Congress
+|newspaper=[[The New York Times]]
+|date=2005-11-17
+|url=http://www.nytimes.com/2005/11/17/politics/17spend.html}} '''Registration required.'''</ref>
+Funding for the "Bridge to Nowhere" has continued as of March 2, 2011, in the passing of H.R. 662: Surface Transportation Extension Act of 2011<ref name="HR662">[http://www.govtrack.us/congress/bill.xpd?bill=h112-662 H.R. 662], ''Legislation''. GovTrack.us. Retrieved March 4, 2011. "Surface Transportation Extension Act of 2011"</ref><ref name="HR662 Roll Call Votes">[http://www.govtrack.us/congress/bill.xpd?bill=h112-662&tab=votes H.R. 662 Roll Call Votes], ''Legislation''. GovTrack.us. Retrieved March 4, 2011. "Surface Transportation Extension Act of 2011 Roll Call Votes"</ref><ref name="Motion to Recommit with Instructions">[http://www.govtrack.us/congress/vote.xpd?vote=h2011-159 House Vote #159 (Mar 2, 2011) On Motion to Recommit with Instructions: H R 662 Surface Transportation Extension Act of 2011], ''Legislation''. GovTrack.us. Retrieved March 4, 2011. "159 House Vote #159 (Mar 2, 2011) On Motion to Recommit with Instructions: H R 662 Surface Transportation Extension Act of 2011"</ref>
+by the House of Representatives.  . 
+
+==Background==. 
+According to the [[Alaska Department of Transportation & Public Facilities]], the project's goal was to "provide better service to the airport and allow for development of large tracts of land on the island". <ref>{{cite web |title = Ketchikan Gravina Island Access Project |url=http://dot.alaska.gov/stwdplng/projectinfo/ser/Gravina/index1.shtml |publisher= Alaska DOT |accessdate=2008-08-31}}</ref> . 
+
+[[File:Ketchikan and Gravina Island Ferry.jpg|thumb|alt=Ketchikan and Gravina Island Ferry.|The Ketchikan and Gravina Island Ferry in 2005]]
+A ferry runs to the island every thirty minutes, and every fifteen minutes during the May–September peak tourist season. It charges $5 per adult, with free same-day return, and $6 per automobile each way ({{As of|2011|lc=on}}). <ref>{{cite web |title=Airport Ferry Fees |url=http://www.borough.ketchikan.ak.us/airport/airport_fees.htm}}</ref> . 
+
+According to ''[[USA Today]]'', the bridge was to have been nearly as long as the [[Golden Gate Bridge]] and taller<!--higher means altitude; taller means height--> than the [[Brooklyn Bridge]]. <ref>{{cite news |last=Jans |first=Nick |title= Alaska thanks you |url=http://www.usatoday.com/news/opinion/editorials/2005-05-17-alaska-edit_x.htm |publisher=[[USA Today]] | date=2005-05-17 |accessdate=2006-11-06}}</ref> The bridge would cross the Tongass Narrows, part of Alaska's [[Inside Passage]], so the bridge was designed to be tall enough to accommodate ship traffic, including the [[Alaska Marine Highway]] and the [[cruise ship]]s that frequent Alaskan waters during the summer.  . 
+
+Ketchikan's airport is the second largest in [[Southeast Alaska]], after [[Juneau International Airport]], handles over 200,000 passengers a year, while the ferry shuttled 350,000 people in the same time period ({{As of|2006|12|lc=on}}). <ref>{{cite web |title= Ketchikan airport and ferry statistics for December 2006 |url=http://www.borough.ketchikan.ak.us/airport/documents/2006DECEMBER.pdf |format= PDF}}</ref> In comparison<!--this compares "passengers" with "vehicles"; isn't there a better comparison?-->, the Golden Gate Bridge carried more than 43,000,000 vehicles in 2006, or about 118,000 vehicles each day. <ref name=calrpt2006>{{cite web |title= Annual Average Daily Truck Traffic on the California State Highway System, 2006, p. 169 |url=http://www.dot.ca.gov/hq/traffops/saferesr/trafdata/truck2006final.pdf | format = PDF}}</ref> . 
+
+A number of alternative bridge routes were considered. The decision in September 2004 was actually for two bridges, connecting [[Pennock Island]] in the middle, and is known as Alternative F1. <ref name=AKDOT2004>
+{{cite web
+| url         = http://dot.alaska.gov/stwdplng/projectinfo/ser/Gravina/assetts/ROD/Final_GAP_ROD.pdf
+| title       = Gravina Access Project, Record of Decision, U.S. Department of Transportation, Federal Highway Administration, Ketchikan, Alaska. FHWA-AK-EIS-03-01-F, DOT&PF Project 67698, Federal Project ACHP-0922(5)
+| date        = September 2004
+| publisher   = Alaska DOT
+| quote       = The selected alternative for the Gravina Access Project is Alternative F1, which would consist of two bridges across Tongass Narrows connecting Revillagigedo Island and Gravina Island via Pennock Island. 
+| accessdate  = February 24, 2011
+}}
+</ref> A map is available at [[#AKDOT2004-01|dot.alaska.gov/stwdplng/projectinfo/ser/Gravina/assetts/Final_EIS/Figures/Figure_2-10.pdf]]. The west span of the bridge was designed to have a vertical clearance of {{convert|120|ft}}, and the east span of the bridge was to have a vertical clearance of {{convert|200|ft}}.  . 
+
+==History==. 
+The controversy began with the 2006 National Appropriations Bill, an [[omnibus spending bill]] covering transportation, housing, and urban development for the following year.  On October 20, 2005, H.R. 3058 [109th] act's first version passed with 93 votes for, 1 against. <ref>{{cite web |title=National Transportation Budget |url=http://www.govtrack.us/congress/vote.xpd?vote=s2005-264 2006}}</ref> . 
+
+On October 21, 2005, Sen [[Tom Coburn]] (R-OK) offered an amendment to remove funds for the Gravina Island and [[Knik Arm Bridge|Knik Arm]] bridges, and divert the funds to rebuild a bridge over Lake Pontchartrain that was damaged by [[Hurricane Katrina]]. Republican Senator [[Ted Stevens]] of Alaska became the object of strong media criticism when he strongly opposed diverting the Gravina and [[Knik Arm Bridge]] funds to help in the [[Hurricane Katrina|disaster]] aid. <ref>{{cite web |title=Stevens Vehemently Opposes Coburn Amendment to Eliminate Alaska Bridges |url=http://stevens.senate.gov/public/index.cfm?FuseAction=NewsRoom.PressReleases&ContentRecord_id=73d6f214-4950-4b3c-a3a5-974e3a0ae163}}</ref> In his speech on the Senate floor, Stevens threatened to quit Congress if the funds were removed from his state. <ref name = "Ruskin">{{cite news | last = Ruskin | first = Liz | title = Stevens says he'll quit if bridge funds diverted | url = http://www.adn.com/news/alaska/story/7112853p-7020074c.html | publisher = [[Anchorage Daily News]] | date = 2005-10-21 | accessdate = 2006-11-06 |archiveurl = http://web.archive.org/web/20061014174402/http://www.adn.com/news/alaska/story/7112853p-7020074c.html |archivedate = October 14, 2006}}</ref> On November 16, 2005, [[United States Congress|Congress]] stripped the specific [[Earmark (politics)|earmark]] allocation of federal funds for the two bridges in the final edition of the [[omnibus spending bill]], without changing the amount of money allocated for use by Alaska. <ref name="Tumble"/><ref>{{cite news | title = 'Bridge to nowhere' abandoned | agency = Associated Press | work = CNN.com | date = 2007-09-22 | url = http://www.cnn.com/2007/US/09/22/alaska.bridge.ap/ }} {{Dead link|date=August 2010|bot=RjwilmsiBot}}</ref><ref>{{cite news |last=Murray |first=Shailagh |title=For a Senate Foe of Pork Barrel Spending, Two Bridges Too Far |url=http://www.washingtonpost.com/wp-dyn/content/article/2005/10/20/AR2005102001931.html |publisher=Washington Post |date=2005-10-20}}</ref> The Coburn Amendment was defeated with a heavy bipartisan majority, 82-15 in opposition. <ref>{{cite web | title= Coburn Amendment | publisher = United States Senate | url= http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=109&session=1&vote=00262 }}</ref> . 
+
+[[Image:Palin Nowhere 99901.jpg|thumb|300px|right|On September 20, 2006, [[Sarah Palin]] visited [[Ketchikan]] on her gubernatorial campaign and said the bridge was essential for the town's prosperity. <ref name="ADN-511471">{{cite web | last = Kizzia |first= Tom | title = Palin touts stance on 'Bridge to Nowhere,' doesn't note flip-flop | url = http://www.adn.com/sarahpalin/story/511471.html | publisher = Anchorage Daily News | date = 2008-08-31 | accessdate = 2008-09-10}}</ref>]] . 
+
+In September 2006, during her campaign for Governor, [[Sarah Palin]] visited Ketchikan to express her support for the Gravina Island Bridge project. At a public forum, Palin held up a pro-bridge t-shirt designed by a Ketchikan artist, [[Mary Ida Henrikson]]. The legend on the shirt was "Nowhere Alaska 99901", referencing the [[buzzword]] of "Bridge to Nowhere" and the primary zip code of Ketchikan. In her public comments, referring to her own residence in the [[Matanuska-Susitna Valley]], she said: "OK, you’ve got Valley trash standing here in the middle of nowhere. I think we’re going to make a good team as we progress that bridge project" in response to an insult expressed by the state Senate president, [[Ben Stevens]]. <ref name="ADN-511471"/> . 
+
+In October 2006, when asked, "Would you continue state funding for the proposed Knik Arm and Gravina Island bridges?", she answered: "Yes. I would like to see Alaska's infrastructure projects built sooner rather than later. The window is now – while our congressional delegation is in a strong position to assist."<ref>{{cite web | title = Where they stand (10/22/2006) | publisher = [[Anchorage Daily News]] | date = October 22, 2006 | url = http://www.adn.com/sarahpalin/story/510378.html | accessdate = 2008-10-23 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref> Later that month, at a Chamber of Commerce meeting in [[Wasilla, Alaska]], [[Democratic Party (United States)|Democratic]] candidate [[Tony Knowles (politician)|Tony Knowles]] criticized Palin for supporting the Knik Arm Bridge, the Gravina Island Bridge, and a road north out of [[Juneau]] instead of rebuilding the [[Parks Highway]].  The ''Ketchikan Daily News'' noted that, of the gubernatorial candidates, "Only Palin is consistent in support all of the projects". <ref>{{cite web |title= Palin Criticized during gubernatorial campaign for her support of Gravina Island Bridge |url=http://archive.ketchikandailynews.com/archive_detail.php?archiveFile=./pubfiles/kdn/archive/2006/October/28/Unspecified/10282006_B-02.pdf.xml |date= 2006-10-26}}</ref><ref>{{cite web |title= Palin voiced initial support for the proposed Gravina Island bridge during campaign |url= http://archive.ketchikandailynews.com/archive_detail.php?archiveFile=./pubfiles/kdn/archive/2006/September/21/LocalNews/5472.xml |date=2006-09-21}}</ref><ref>{{cite web |title= Palin defends the bridge project, asks people to band together |url= http://archive.ketchikandailynews.com/archive_detail.php?archiveFile=./pubfiles/kdn/archive/2006/October/02/LocalNews/5692.xml |date= 2006-10-02}}</ref><ref>[http://google.com/search?q=cache:nPTPaW0w62sJ:archive.ketchikandailynews.com/archive_detail.php%3FarchiveFile%3D./pubfiles/kdn/archive/2006/October/21/StateNews/6220.xml%26start%3D0%26numPer%3D20%26keyword%3Dsupports%2Bthe%2BKetchikan%2Bbridge%2Bproject%26sectionSearch%3D%26begindate%3D1%252F1%252F2003%26enddate%3D9%252F3%252F2008%26authorSearch%3D%26IncludeStories%3D1%26pubsection%3D%26page%3D%26IncludePages%3D1%26IncludeImages%3D1%26mode%3Dallwords DOT says hurry ordered on bridge] Ketchikan Daily News, October 21 2006</ref><ref>{{cite web |title= Palin Criticized during gubernatorial campaign for her support of Gravina Island Bridge |url= http://archive.ketchikandailynews.com/archive_detail.php?archiveFile=./pubfiles/kdn/archive/2006/October/28/Unspecified/10282006_B-02.pdf.xml |date= 2006-10-28}}</ref> . 
+
+During her inaugural address on December 4, 2006, Governor Palin pledged responsible spending. <ref>{{cite web | first = Kyle | last = Hopkins | title =  Palin era begins at inauguration | publisher = Anchorage Daily News | date = December 5, 2006  | url = http://dwb.adn.com/news/alaska/story/8467079p-8361038c.html | accessdate = 2008-10-23}}</ref>  On January 17, 2007, she sent a revised budget to the president of the Alaska Senate that would restrict capital spending and rescinded the $185M state share of the bridge funding. <ref>[http://replay.web.archive.org/20101106115617/http://www.gov.state.ak.us/omb/08_OMB/budget12.15.07/bills/Cap_letter_Sen.PDF Letter from Governor Palin to Alaska State Senate President, January 17 2007] archived on November 6 2010 from [http://www.gov.state.ak.us/omb/08_OMB/budget12.15.07/bills/Cap_letter_Sen.PDF the original]</ref> . 
+
+In August 2007, Alaska's [[Department of Transportation]] stated that it was "leaning" toward alternative ferry options, citing bridge costs and the reluctance of Governor Palin to pay the state's match to the appropriated federal funds. <ref>{{cite web|url=http://www.ketchikandailynews.com/premium/314635183702147.php |title=DOT 'leaning' toward ferries; cites bridge cost |publisher=Ketchikandailynews.com |date= |accessdate=2009-07-01}}</ref> A month later, in September 2007, Palin formally canceled the project. <ref>{{cite web |title= Palin was for the bridge to nowhere before she was against it |url= http://hotair.com/archives/2008/09/01/palin-was-for-the-bridge-to-nowhere-before-she-was-against-it/ |date= 2008-09-01}}</ref><ref>{{cite web |title= Congress earmark alteration for Alaska prompts Governor Palin's new state budget without bridge.  |url= http://archive.ketchikandailynews.com/archive_detail.php?archiveFile=./pubfiles/kdn/archive/2007/March/02/Unspecified/03022007_A-02.pdf.xml |date= 2007-02-03}}</ref><ref>{{cite news |title= Lawmakers deal with voter anger over 'pork' |url= http://www.usatoday.com/news/washington/2006-05-02-pork-voters_x.htm |agency= Associated Press |work= [[USA Today]] |date= 2006-05-02  |accessdate= 2008-09-10 }}</ref> Palin stated: . 
+
+<blockquote>[[Ketchikan]] desires a better way to reach the airport, but the $398 million bridge is not the answer. Despite the work of our congressional delegation, we are about $329 million short of full funding for the bridge project, and it’s clear that [[United States Congress|Congress]] has little interest in spending any more money on a bridge between Ketchikan and [[Gravina Island]]. Much of the public’s attitude toward Alaska bridges is based on inaccurate portrayals of the projects here. But we need to focus on what we can do, rather than fight over what has happened. <ref>{{cite press release |title= Gravina Access Project Redirected |publisher= State of Alaska |date= 2007-09-21 |url= http://gov.state.ak.us/archive-28635.html |accessdate= 2008-09-25}}</ref><ref>{{cite web |title= Ted Earmarked Funds for Bridge that Goes Nowhere |url= http://www.retireted.com/category/real-estate/gravina-bridge/ |publisher= The Alaska Democratic Party |work= RetireTed.com}}</ref></blockquote> . 
+
+Asked why she initially supported the bridge, Palin's communications director [[Bill McAllister]] said, "It was never at the top of her priority list, and in fact the project isn't necessarily dead … there's still the potential for improved ferry service or even a bridge of a less costly design". She changed her mind, he said, when "she saw that Alaska was being perceived as taking from the country and not giving". <ref>{{cite web |last=F. |first=Robert |title= Palin changed her mind for public expediency |url=http://www.gather.com/viewArticle.jsp?articleId=281474977435685 |publisher= Gather Inc. |date=2008-08-31 |accessdate=2008-09-25}}</ref> . 
+
+The city of [[Ketchikan]] has already begun to develop roads and a small amount of infrastructure for [[Gravina Island]]'s 50 inhabitants. However, residents continue to seek funding for the Ketchikan-Gravina span. <ref>{{cite news |last= Quinn |first= Steve |title= Alaska abandons controversial Ketchikan bridge project |url= http://seattletimes.nwsource.com/html/localnews/2003897011_webbridge22.html |agency= Associated Press |work= The Seattle Times |date= 2007-09-22 |accessdate= 2008-09-10}}</ref> . 
+
+==2008 campaign issue==. 
+On August 29, 2008, when introduced as [[Republican Party (United States)|Republican]] [[presidential nominee]] [[John McCain]]'s [[running mate]], Governor Palin told the crowd: "I told Congress, thanks but no thanks on that bridge to nowhere" — a line that garnered big applause but upset political leaders in [[Ketchikan]]. Palin's campaign coordinator in the city, Republican [[Mike Elerding]], remarked, "She said 'thanks but no thanks,' but they kept the money." Ketchikan's [[Democratic Party (United States)|Democratic]] Mayor [[Bob Weinstein (Mayor)|Bob Weinstein]] also criticized Palin for using the term ''bridge to nowhere'', which she had said was insulting when she was in favor of the bridge. <ref>{{cite news |first= Yereth |last= Rosen |title= Palin "bridge to nowhere" line angers many Alaskans |url= http://www.reuters.com/article/vcCandidateFeed7/idUSN3125537020080901 |publisher= Reuters |date= 2008-01-01 }}</ref> . 
+
+Although Palin was originally a main proponent of the bridge, McCain–Palin television advertisements claimed that Palin "stopped the Bridge to Nowhere". <ref name="Whopper">{{cite news |last= Kurtz |first= Howard |author-link= Howard Kurtz |title= Claiming the 'Maverick' Brand |url= http://voices.washingtonpost.com/the-trail/2008/09/08/claiming_the_maverick_brand.html |work = [[The Washington Post]] |date= 2008-09-08 |accessdate= 2008-09-25}}</ref><ref>{{cite news |last=Romano |first=Andrew |title=The Politics of the 'Bridge to Nowhere' |url=http://blog.newsweek.com/blogs/stumper/archive/2008/09/08/politics-of-the-bridge-to-nowhere.aspx |publisher=[[Newsweek]] |work=Stumper |date=2008-09-08 |accessdate=2008-09-08}}</ref> These claims have been widely questioned or described as misleading in several newspapers across the political spectrum. <ref>{{cite web |last=Holmes  |first=Elizabeth |coauthors= Meckler, Laura |title=Record Contradicts Palin's 'Bridge' Claims |url=http://online.wsj.com/article/SB122090791901411709.html?mod=loomia&loomia_si=t0:a16:g2:r4:c0.0766691  |publisher= Wall Street Journal |date=2008-09-09 |accessdate=2008-09-11}}</ref><ref>{{cite news |last=Woodward |first=Calvin |title= Fact Check: Palin and the Bridge to Nowhere |url= http://news.yahoo.com/story//ap/20080908/ap_on_el_pr/bridge_to_nowhere_fact_check |agency= Associated Press |date= 2008-09-08 |accessdate=2008-09-10}} {{Dead link|date=September 2010|bot=H3llBot}}</ref><ref>{{cite news |last= Kirkpatrick |first=David |coauthors = Rohter, Larry |title= Account of a Bridge’s Death Slightly Exaggerated |url=http://www.nytimes.com/2008/09/01/us/politics/01bridge.html |work= [[The New York Times]] |date= 2008-08-31 |accessdate=2008-09-10}}</ref><ref>{{cite news |last= Weisman |first= Jonathan |title=As Campaign Heats Up, Untruths Can Become Facts Before They're Undone |url= http://www.washingtonpost.com/wp-dyn/content/article/2008/09/09/AR2008090903727.html |work= [[The Washington Post]] |date= 2008-09-10 |accessdate=2008-09-10}}</ref> [[Howard Kurtz]] called this a "whopper", writing: "She endorsed the remote project while running for governor in 2006, claimed to be an opponent only after Congress killed its funding the next year and has used the $223 million provided for it for other state ventures."<ref name="Whopper"/> ''[[Newsweek]]'', commenting on Palin's "astonishing pivot", remarked: "Now she talks as if she always opposed the funding."<ref name="An Apostle of Alaska">{{cite news |title=An Apostle of Alaska |url=http://www.newsweek.com/id/157696/page/3 |work=[[Newsweek]] |publisher= |date=2008-09-06 |accessdate=2008-09-08}}</ref> . 
+
+McCain also weighed in on the Gravina Island Bridge. In advertisements, McCain labeled the bridge as wasteful spending,<ref>{{cite web |title=Advertisement for John McCain 2008 |url=http://vodpod.com/watch/998189-mccain-blamed-palins-bridge-to-nowhere-for-the-minnesota-bridge-collapse}}</ref> and in an August 2007 town hall speech recorded on video<ref>{{cite web |date=2008-09-10 |url=http://www.youtube.com/watch?v=dMpbaApaBNg |title=McCain Blasts Palin's "Bridge to Nowhere" |publisher=YouTube |accessdate=2009-07-01}}</ref> and quoted again on April 30, 2008,<ref>{{cite web |title=McCain Blamed Bridge collapse on Bridge to Nowhere |url=http://www.dailykos.com/story/2008/9/10/14325/4860/872/593066 |publisher= Kos Media LLC. |date=2008-09-10}}</ref> he blamed the [[I-35W Mississippi River bridge|Minneapolis I-35 bridge collapse]] on the Gravina Island Bridge. His advertising and comments that (before September 21, 2006) contradicted Governor [[Sarah Palin]]'s support of the bridge drew the attention of the media<ref>{{cite web |last= Elko |first= Tom |title=McCain connected 35W bridge collapse to Palin’s pork |url=http://www.minnesotaindependent.com/8052/mccain-connected-35w-bridge-collapse-to-palins-pork |work= Minnesota Independent |publisher=The Center for Independent Media |date=2008-09-09 |accessdate=2008-09-23}}</ref> when he chose Palin as his running mate, opening the ticket to charges of [[hypocrisy]].  . 
+
+While discussing the Gravina Island Bridge during an [[ABC News]] interview that aired on September 12, 2008, [[Charles Gibson]] made the following comment: "but it's now pretty clearly documented. You supported that bridge before you opposed it. You were wearing a t-shirt in the 2006 campaign, showed your support for the bridge to nowhere."  Palin interrupted Gibson and insisted, "I was wearing a t-shirt with the zip code of the community that was asking for that bridge. Not all the people in that community even were asking for a $400 million or $300 million bridge."<ref>{{cite web |last=Gibson |first=Charles |title= Excerpts: Charlie Gibson Interviews GOP Vice Presidential Candidate Sarah Palin |url=http://www.abcnews.go.com/Politics/Vote2008/story?id=5789483&page=1 |publisher= [[ABC News]] |date=2008-09-12 |accessdate= 2008-09-13}}</ref> . 
+
+Many media groups in the U.S. noted that Palin changed her position regarding the bridges, and concluded that she exaggerated her claim that she stopped the proposals from going through. <ref name="Sydney Morning Herald">{{cite news |last= Davies |first= Anne |url=http://www.smh.com.au/articles/2008/09/15/1221330749077.html |title=Press picks over litter of lies on the Palin trail - US Election |work=Sydney Morning Herald |date=2008-09-15 |accessdate=2009-09-15}}</ref> According to the ''Los Angeles Times'', for instance, while seeking votes for her governorship race, Palin told Ketchikan residents that she backed the "bridge to nowhere"; as governor, she spent the money elsewhere and moved ahead with a $26-million road to the nonexistent bridge. <ref name=LATIMES20080919>{{cite news |last=Hayasaki |first=Erika |title=Sarah Palin said yes, thanks, to a road to nowhere in Alaska |url=http://www.latimes.com/news/printedition/front/la-na-bridge19-2008sep19,0,5316609.story |publisher=[[Los Angeles Times]]|work= |date=2008-09-19 |accessdate=2008-09-19}}</ref> . 
+
+==Road to Nowhere==. 
+After canceling the bridge, Palin's administration spent more than $25 million to build the Gravina Island Highway, which would have connected with the proposed bridge.  According to Alaskan state officials, the road project went ahead because the money came from the federal government, and would otherwise have had to be returned. <ref>Kizzia, Tom. [http://www.adn.com/sarahpalin/story/511471.html "Palin touts stance on 'Bridge to Nowhere,' doesn't note flip-flop"], ''Anchorage Daily News'' (2008-08-31)</ref> Because "no one seems to use" this road, it has been called the "road to nowhere" by [[CNN]], many local Alaskans, and hundreds of other media sources. <ref name="CNN09-23-08">{{cite news |title= Bailout Negotiations Continue; FBI Targets Wall Street Firms |url= http://transcripts.cnn.com/TRANSCRIPTS/0809/23/ec.01.html |publisher= CNN |date= 2008-09-23}}</ref><ref>{{cite web|url=http://www.google.com/search?q=%22road+to+nowhere%22+gravina&rls=com.microsoft:*:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7DKUS |title="road to nowhere" gravina - Google zoeken |publisher=Google.com |date= |accessdate=2010-11-21}}</ref> . 
+
+CNN reporter Abbie Boudreau took a helicopter over the road.  "There's no one on this road," she said. "It kind of just curves around then it just stops.  That's where the bridge was supposed to pick up."  Boudreau spoke to Mike Elerding, Palin's former campaign coordinator.  When asked if he felt the road was "a waste of taxpayer money," he responded, "Without the bridge, yeah."  Boudreau also spoke to the McCain–Palin campaign spokesperson Meghan Stapleton, who defended the road: "The governor could not change that earmark. … That had to be spent on the Gravina road and nothing else. And so, the governor had no options."  In response to an inquiry of whether Palin could have stopped construction, Stapleton told Boudreau that Palin had "no viable alternative" because Congress had already granted the earmark and the contract for the road was signed before Palin took office. <ref name="CNN09-23-08"/><ref>{{cite web| url=http://www.cnn.com/2008/POLITICS/09/24/palin.road.to.nowhere/index.html#cnnSTCText |title='Road to nowhere' stands alone |publisher=[[CNN]] | date=2008-09-24 | accessdate=2010-12-12}}</ref> . 
+
+Alaska Department of Transportation spokesman Roger Wetherell disagreed, stating that Palin could have canceled the contract upon taking office and reimbursed contractors for any expenses incurred in association with the project, as happened when Palin cancelled a $18.6 million contract on a Juneau road and reimbursed the contractor for $65,500 in expenses. Federal Highway Administration spokesman Doug Hecox stated that Palin could have opted not to use the federal earmark, which would have allowed Congress the opportunity to send it to other federal needs. <ref>{{cite web|url=http://www.propublica.org/article/palin-defends-construction-of-road-to-nowhere-925/ |title=Palin Defends Construction of ‘Road to Nowhere’ |publisher=ProPublica |date= |accessdate=2009-07-01}}</ref> . 
+
+==2011 activity== . 
+
+{{Confusing|Section|date=March 2012}} . 
+
+In HR662 there is continued funding for the above project. Rep. Jared Polis (D-CO), spoke in support of a motion to recommit the bill, with a very specific amendment, explained in his words, "This motion rescinds all remaining funds, about $183 million, provided for the planning, design, and construction of the two bridges under SAFETEA-LU" and that "According to the CBO this motion will reduce the deficit by $160 million by eliminating funding for these two bridges, nothing else."<ref name=" House Session Mar 2, 2011">[http://www.c-spanvideo.org/program/HouseSession4016/start/15073/stop/15600 House Session Mar 2, 2011], ''Legislation''. c-spanvideo.org. Retrieved March 4, 2011. " C-SPAN Video Library "</ref> . 
+
+:3/2/2011 4:10pm: Floor summary: DEBATE - The House proceeded with ten minutes of debate on the Polis motion to recommit with instructions. The instructions contained in the motion seek to require the Committee on Transportation to report the bill back to the House forthwith with an amendment which inserts a section rescinding all unobligated balances of contract authority provided or reserved for planning, design, or construction of the Gravina Island bridge, Alaska, or the Knik Arm bridge, Alaska. <ref>{{cite web|url=http://thomas.loc.gov/cgi-bin/bdquery/z?d112:HR00662:@@@X |title=H.R.662: Surface Transportation Extension Act of 2011 - On motion to recommit with instructions Failed by recorded vote: 181 - 246, 2 Present |publisher=thomas.loc.gov Library of Congress |accessdate=2011-03-04}}</ref>
+In response Rep. Mica (R-FL), spoke in opposition responding "Well congratulations my colleagues welcome to the era of smoke and mirrors and that's exactly what this motion to recommit is and I urge its defeat. And you heard the gentleman describing bridges and he again is trying to mislead the entire house on this particular motion to recommit. It is smoke and mirrors, and I urge the defeat of the motion to recommit." which was the complete argument and explanation he gave, even though he was allotted a full 5 minutes to respond. <ref name=" House Session Mar 2, 2011" /> . 
+
+"On motion to recommit with instructions Failed by recorded vote: 181 - 246, 2 Present"<ref>{{cite web|url=http://clerk.house.gov/evs/2011/roll159.xml |title=On Motion to Recommit with Instructions |publisher=thomas.loc.gov Library of Congress |accessdate=2011-03-04}}</ref> . 
+
+See also [[Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users#"Bridge to Nowhere"|Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users - "Bridge to Nowhere"]] for original act and original earmark for this project.  . 
+
+==References==. 
+{{Reflist|2}} . 
+
+== Bibliography ==. 
+*{{cite web
+ | url         = http://dot.alaska.gov/stwdplng/projectinfo/ser/Gravina/assetts/Final_EIS/Figures/Figure_2-10.pdf
+ | title       = Gravina Access Project, Environmental Impact Statement, Figure 2.10, Alternative F1, Bridges (200' East and 120' West), Between Tongass Avenue and Airport, via Pennock Island: Alignment. 
+ | date        = January 21, 2004
+ | publisher   = Alaska DOT
+ | accessdate  = February 24, 2011
+ | ref         = AKDOT2004-01
+}} (Map of the bridge route chosen in September 2004, Alternative F1.) . 
+
+==External links==. 
+* [http://dot.alaska.gov/stwdplng/projectinfo/ser/Gravina/index1.shtml Alaska DOT Official site]
+* [http://www.taxpayer.net/Transportation/gravinabridge.htm Taxpayers for Common Sense (opposition)]{{Dead link|date=February 2011}}
+* [http://www.tollroadsnews.com/cgi-bin/a.cgi/uvmy4IsWEdiRW6r2jfFwDw TollRoads.com]{{Dead link|date=February 2011}}
+* [http://www.plastic.com/comments.html;sid=05/08/18/07013830;cid=29 $220 Million+ For A Bridge To An Island With 50 People?!?] — on Plastic.com
+* [http://blogs.chicagotribune.com/news_columnists_ezorn/2008/09/webliography-th.html Webliography: `The Bridge to Nowhere'] [[Eric Zorn]], ''[[Chicago Tribune]]'', September 9, 2008
+* [http://www.govtrack.us/congress/bill.xpd?bill=h112-662 H.R. 662: Surface Transportation Extension Act of 2011] ''Legislation.'' GovTrack.us. Retrieved March 4, 2011. "Surface Transportation Extension Act of 2011" . 
+
+{{Coord|55.3219175. |-131.6323471|region:US|format=dms|display=title}} . 
+
+[[Category:Political controversies in the United States]]
+[[Category:Sarah Palin]]
+[[Category:Road bridges in Alaska]]
+[[Category:Buildings and structures in Ketchikan Gateway Borough, Alaska]]
+[[Category:Proposed bridges in the United States]]
+[[Category:Transportation in Ketchikan Gateway Borough, Alaska]]

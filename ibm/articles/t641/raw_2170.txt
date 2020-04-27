@@ -1,0 +1,117 @@
+{{Infobox Court Case
+| name = Demir and Baykara v Turkey
+| court = [[European Court of Human Rights]]
+| image = Gaziantep street large.jpg
+| date decided = 12 November 2008
+| full name = 
+| citations = [2008] [http://www.bailii.org/eu/cases/ECHR/2008/1345.html ECHR 1345], (2009) 48 EHRR 54 
+| judges = Judge Rozakis (President); Judges Bratza, Tulkens, Casadevall, Bonello, Türmen, Traja, Zupančič, Zagrebelsky, Pavlovschi, Garlicki, Gyulumyan, Mijović, Spielmann, Šikuta, Villiger, Hirvelä
+| prior actions =  
+| subsequent actions = 
+| opinions = 
+| transcripts = [http://www.bailii.org/eu/cases/ECHR/2008/1345.html Full text of judgment]
+| keywords = [[Collective bargaining]]
+}} . 
+
+'''''Demir and Baykara v Turkey''''' [2008] [http://www.bailii.org/eu/cases/ECHR/2008/1345.html ECHR 1345] is a landmark [[European Court of Human Rights]] case concerning [[Article 11 ECHR]] and the right to engage in [[collective bargaining]]. It affirmed the fundamental right of workers to engage in collective bargaining and take collective action to achieve that end.  . 
+
+==Facts==. 
+Ms Vemal Demir was a member, and Mr Vicdan Baykara was the president, of the Turkish trade union for civil servants, Tüm Bel Sen. The union signed a two year collective agreement in 1993, but the employer, the [[Gaziantep]] Municipal Council did not comply with its provisions. Demir and Baykara brought proceedings in the District Court, and won their claim. However, on appeal the Court of Cassation quashed the decision. This Court held there was a right to join a union, but the union itself had "no authority to enter into collective agreements as the law stood".  . 
+
+The matter was then remitted to the District Court, which in definance restated its view that Demir and Baykara did have a right to collective agreements, because this accorded with [[International Labour Organisation]] Conventions ratified by Turkey. But again, the Court of Cassation overturned the District Court's decision. Furthermore, a separate claim in the Audit Court had been brought, which found that civil servants had no authority to engage in the collective agreement, and so the civil servants had to get the union to repay extra benefits it had got under the "defunct" collective agreement.  . 
+
+After these domestic avenues were exhausted, in 1996 the union made an application to the European Court of Human Rights, alleging breach of freedom of association under [[article 11 ECHR]] and protection against discrimination under [[article 14 ECHR]]. After some time, in 2006, the case was heard by seven judges of the second section. It was held that article 11 had been violated, and there was no need to examine article 14. <ref>Application No 34503/97 21 November 2006</ref> The Turkish Government then requested that the matter be referred to the Grand Chamber.  . 
+
+==Judgment==. 
+The Grand Chamber of the European Court of Human Rights held unanimously that there had been a disproportionate and unjustified interference with the right to freedom of association. <ref>(2009) 48 EHRR 54, at [119]-[127]</ref> . 
+
+{{quote|119.  As to the necessity of such interference in a democratic society, the Court reiterates that lawful restrictions may be imposed on the exercise of trade-union rights by members of the armed forces, of the police or of the administration of the State. However, it must also be borne in mind that the exceptions set out in Article 11 are to be construed strictly; only convincing and compelling reasons can justify restrictions on such parties' freedom of association. In determining in such cases whether a “necessity” – and therefore a “pressing social need” – within the meaning of Article 11 § 2 exists, States have only a limited margin of appreciation, which goes hand in hand with rigorous European supervision embracing both the law and the decisions applying it, including those given by independent courts (see, for example, ''[[Sidiropoulos and Others v Greece]]'', 10 July 1998, § 40, Reports 1998-IV). The Court must also look at the interference complained of in the light of the case as a whole and determine whether it was “proportionate to the legitimate aim pursued” and whether the reasons adduced by the national authorities to justify it were “relevant and sufficient”. In so doing, the Court has to satisfy itself that the national authorities applied standards which were in conformity with the principles embodied in the appropriate provision of the Convention and, moreover, that they based their decisions on an acceptable assessment of the relevant facts (see, for example, ''[[Yazar and Others v Turkey]]'', nos. 22723/93, 22724/93 and 22725/93, § 51, ECHR 2002-II).  . 
+
+120.  As to whether, in the present case, the non-recognition of the applicants' union was justified by a “pressing social need”, the Grand Chamber endorses the following assessment of the Chamber: . 
+
+<blockquote>“it has not been shown before it that the absolute prohibition on forming trade unions imposed on civil servants ... by Turkish law, as it applied at the material time, met a 'pressing social need'. The mere fact that the 'legislation did not provide for such a possibility' is not sufficient to warrant as radical a measure as the dissolution of a trade union."</blockquote> . 
+
+121.  The Court further considers that at the material time there were a number of additional arguments in support of the idea that the non-recognition of the right of the applicants, as municipal civil servants, to form a trade union did not correspond to a “necessity”...  . 
+
+126.  The Court thus considers that the combined effect of the restrictive interpretation by the Court of Cassation and the legislature's inactivity between 1993 and 2001 prevented the State from fulfilling its obligation to secure to the applicants the enjoyment of their trade-union rights and cannot be justified as “necessary in a democratic society” within the meaning of Article 11 § 2 of the Convention.  . 
+
+127.  Accordingly, there has been a violation of Article 11 of the Convention on account of the failure to recognise the right of the applicants, as municipal civil servants, to form a trade union...}} . 
+
+The Grand Chamber then turned to whether the Court of Cassation's annulment of the collective agreement between the trade union Tüm Bel Sen and the authority which had been applied for the previous two years was lawful, based on its interference with [[article 11 ECHR]]. <ref>(2009) 48 EHRR 54, at [140]-[154]</ref> . 
+
+{{quote|''3.  Whether there was interference'' . 
+
+'''(a) General principles concerning the substance of the right of association''' . 
+
+''(i) Evolution of case-law'' . 
+
+140.  The development of the Court's case-law concerning the constituent elements of the right of association can be summarised as follows: the Court has always considered that Article 11 of the Convention safeguards freedom to protect the occupational interests of trade-union members by the union's collective action, the conduct and development of which the Contracting States must both permit and make possible (see ''[[National Union of Belgian Police]]'', cited above, § 39; ''[[Swedish Engine Drivers' Union]]'', cited above, § 40; and Schmidt and ''[[Dahlström v Sweden]]'', 6 February 1976, § 36, Series A no. 21).  . 
+
+141.  As to the substance of the right of association enshrined in Article 11 of the Convention, the Court has taken the view that paragraph 1 of that Article affords members of a trade union a right, in order to protect their interests, that the trade union should be heard, but has left each State a free choice of the means to be used towards this end. What the Convention requires, in the Court's view, is that under national law trade unions should be enabled, in conditions not at variance with Article 11, to strive for the protection of their members' interests (see ''[[National Union of Belgian Police]]'', cited above, § 39; ''[[Swedish Engine Drivers' Union]]'', cited above, § 40; and ''[[Schmidt and Dahlström]]'', cited above, § 36).  . 
+
+142.  As regards the right to enter into collective agreements, the Court initially considered that Article 11 did not secure any particular treatment of trade unions, such as a right for them to enter into collective agreements (see ''[[Swedish Engine Drivers' Union]]'', cited above, § 39). It further stated that this right in no way constituted an element necessarily inherent in a right guaranteed by the Convention (see ''[[Schmidt and Dahlström]]'', cited above, § 34).  . 
+
+143.  Subsequently, in the case of Wilson, National Union of Journalists and Others, the Court considered that even if collective bargaining was not indispensable for the effective enjoyment of trade-union freedom, it might be one of the ways by which trade unions could be enabled to protect their members' interests. The union had to be free, in one way or another, to seek to persuade the employer to listen to what it had to say on behalf of its members (''[[Wilson, National Union of Journalists and Others]]'', cited above, § 44).  . 
+
+144.  As a result of the foregoing, the evolution of case-law as to the substance of the right of association enshrined in Article 11 is marked by two guiding principles: firstly, the Court takes into consideration the totality of the measures taken by the State concerned in order to secure trade-union freedom, subject to its margin of appreciation; secondly, the Court does not accept restrictions that affect the essential elements of trade-union freedom, without which that freedom would become devoid of substance. These two principles are not contradictory but are correlated. This correlation implies that the Contracting State in question, whilst in principle being free to decide what measures it wishes to take in order to ensure compliance with Article 11, is under an obligation to take account of the elements regarded as essential by the Court's case-law.  . 
+
+145.  From the Court's case-law as it stands, the following essential elements of the right of association can be established: the right to form and join a trade union (see, as a recent authority, ''[[Tüm Haber Sen and Çınar]]'', cited above), the prohibition of [[Closed-shop agreement|closed-shop agreements]] (see, for example, ''[[Sørensen and Rasmussen]]'', cited above) and the right for a trade union to seek to persuade the employer to hear what it has to say on behalf of its members (''[[Wilson, National Union of Journalists and Others]]'', cited above, § 44).  . 
+
+146.  This list is not finite. On the contrary, it is subject to evolution depending on particular developments in labour relations. In this connection it is appropriate to remember that the Convention is a living instrument which must be interpreted in the light of present-day conditions, and in accordance with developments in international law, so as to reflect the increasingly high standard being required in the area of the protection of human rights, thus necessitating greater firmness in assessing breaches of the fundamental values of democratic societies. In other words, limitations to rights must be construed restrictively, in a manner which gives practical and effective protection to human rights (see, mutatis mutandis, ''[[Refah Partisi]] (the Welfare Party) and Others v Turkey'' [GC], nos. 41340/98, 41342/98, 41343/98 and 41344/98, § 100, ECHR 2003-II; and ''[[Selmouni v France]]'' [GC], no. 25803/94, § 101, ECHR 1999-V).  . 
+
+''(ii)  The right to bargain collectively'' . 
+
+147.  The Court observes that in international law, the right to bargain collectively is protected by ILO Convention No. 98 concerning the Right to Organise and to Bargain Collectively. Adopted in 1949, this text, which is one of the fundamental instruments concerning international labour standards, was ratified by Turkey in 1952. It states in Article 6 that it does not deal with the position of “public servants engaged in the administration of the State”. However, the ILO's Committee of Experts interpreted this provision as excluding only those officials whose activities were specific to the administration of the State. With that exception, all other persons employed by government, by public enterprises or by autonomous public institutions should benefit, according to the Committee, from the guarantees provided for in Convention No. 98 in the same manner as other employees, and consequently should be able to engage in collective bargaining in respect of their conditions of employment, including wages (see paragraph 43 above).  . 
+
+148.  The Court further notes that ILO Convention No. 151 (which was adopted in 1978, entered into force in 1981 and has been ratified by Turkey) on labour relations in the public service (“[[Convention concerning Protection of the Right to Organise and Procedures for Determining Conditions of Employment in the Public Service]]”) leaves States free to choose whether or not members of the armed forces or of the police should be accorded the right to take part in the determination of working conditions, but provides that this right applies everywhere else in the public service, if need be under specific conditions. In addition, the provisions of Convention No. 151, under its Article 1 § 1, cannot be used to reduce the extent of the guarantees provided for in Convention No. 98 (see paragraph 44 above).  . 
+
+149.  As to European instruments, the Court finds that the [[European Social Charter]], in its Article 6 § 2 (which Turkey has not ratified), affords to all workers, and to all unions, the right to bargain collectively, thus imposing on the public authorities the corresponding obligation to promote actively a culture of dialogue and negotiation in the economy, so as to ensure broad coverage for collective agreements. The Court observes, however, that this obligation does not oblige authorities to enter into collective agreements. According to the meaning attributed by the [[European Committee of Social Rights]] (ECSR) to Article 6 § 2 of the Charter, which in fact fully applies to public officials, States which impose restrictions on collective bargaining in the public sector have an obligation, in order to comply with this provision, to arrange for the involvement of staff representatives in the drafting of the applicable employment regulations.  . 
+
+150.  As to the European Union's Charter of Fundamental Rights, which is one of the most recent European instruments, it provides in Article 28 that workers and employers, or their respective organisations, have, in accordance with Community law and national laws and practices, the right to negotiate and conclude collective agreements at the appropriate levels.  . 
+
+151.  As to the practice of European States, the Court reiterates that, in the vast majority of them, the right of civil servants to bargain collectively with the authorities has been recognised, subject to various exceptions so as to exclude certain areas regarded as sensitive or certain categories of civil servants who hold exclusive powers of the State. In particular, the right of public servants employed by local authorities and not holding State powers to engage in collective bargaining in order to determine their wages and working conditions has been recognised in the majority of Contracting States. The remaining exceptions can be justified only by particular circumstances (see paragraph 52 above).  . 
+
+152.  It is also appropriate to take into account the evolution in the Turkish situation since the application was lodged. Following its ratification of Convention No. 87 on freedom of association and the protection of the right to organise, Turkey amended, in 1995, Article 53 of its Constitution by inserting a paragraph providing for the right of unions formed by public officials to take or defend court proceedings and to engage in collective bargaining with authorities. Later on, Law no. 4688 of 25 June 2001 laid down the terms governing the exercise by civil servants of their right to bargain collectively.  . 
+
+153.  In the light of these developments, the Court considers that its case-law to the effect that the right to bargain collectively and to enter into collective agreements does not constitute an inherent element of Article 11 (''[[Swedish Engine Drivers' Union]]'', cited above, § 39, and ''[[Schmidt and Dahlström]]'', cited above, § 34) should be reconsidered, so as to take account of the perceptible evolution in such matters, in both international law and domestic legal systems. While it is in the interests of [[legal certainty]], foreseeability and equality before the law that the Court should not depart, without good reason, from precedents established in previous cases, a failure by the Court to maintain a dynamic and evolutive approach would risk rendering it a bar to reform or improvement (see ''[[Vilho Eskelinen and Others]]'', cited above, § 56).  . 
+
+154.  Consequently, the Court considers that, having regard to the developments in labour law, both international and national, and to the practice of Contracting States in such matters, the right to bargain collectively with the employer has, in principle, become one of the essential elements of the “right to form and to join trade unions for the protection of [one's] interests” set forth in Article 11 of the Convention, it being understood that States remain free to organise their system so as, if appropriate, to grant special status to representative trade unions. Like other workers, civil servants, except in very specific cases, should enjoy such rights, but without prejudice to the effects of any “lawful restrictions” that may have to be imposed on “members of the administration of the State” within the meaning of Article 11 § 2 – a category to which the applicants in the present case do not, however, belong (see paragraph 108 above).}} . 
+
+==Significance==. 
+''Demir and Baykara v Turkey'' has widely been seen as a landmark case in the international development of freedom of association. Its significance lies in confirming that there is an inherent right to collective bargaining protected by article 11 ECHR, within the right to freedom of association. Only interference that is strictly necessary in a democratic society can be justified.  . 
+
+A particular point of interest is its apparent tension with decisions of the [[European Court of Justice]] of the [[European Union]] in ''[[The Rosella]]'' and ''Laval'', which held that there is a qualified right to strike, but one which can only be exercised when it does not disproportionately affect the EU business right to freedom of establishment or providing services. It is highly open to question that these two cases, which preceded the judgment in ''Demir'' could be reconciled, given that Convention jurisprudence places the emphasis on justifying restrictions on the human right to free association, and would seem to favour greater attention to the need to collectively bargain. This had led to predictions that there could be a "showdown" between the Strasbourg and Luxembourg courts. Ewing and Hendy write,<ref>[[KD Ewing]] and J Hendy QC, 'The Dramatic Implications of Demir and Baykara' (2010) 39(1) [[Industrial Law Journal]] 2, 42</ref> . 
+
+{{quote|It is difficult ten to see how the ECtHR could avoid upholding Article 11 and the right to collective bargaining and to strike over the business freedoms contained in what are now Articles 49 and 56 of the TFEU. And so issues would bat to and fro between the two courts in a titanic battle of the juristocrats, each vying for supremacy in the European legal order, one determined to impale trade union rights on the long lance of economic freedom and the other subordinating economic freedom to the modest demands of human rights and constitutionalism.}} . 
+
+==See also==. 
+;ECHR cases
+*''[[Swedish Engine Drivers’ Union v Sweden]]'' (1976) 1 EHRR 617, para 40, ‘the members of a trade union have a right, in order to protect their interests, that the trade union should be heard. Article 11(1) certainly leaves each State a free choice of the means to be used towards this end. Whilst the concluding of collective agreements is one of these means, there are others.’
+*''[[Sigurjónsson v Iceland]]'' (1993) 16 EHRR 462
+*''[[Wilson v United Kingdom]]'' (2002) 35 EHRR 20, [2002] [http://www.bailii.org/eu/cases/ECHR/2002/552.html ECHR 552]
+*''[[Associated Society of Locomotive Engineers and Firemen v United Kingdom]]'' [2007] IRLR 361 
+*''[[Enerji Yapi-yol Sen v Turkey]]'' [2009] [http://www.bailii.org/eu/cases/ECHR/2009/2251.html ECHR 2251] 
+;EU cases
+*''[[The Rosella]]'' [2008] IRLR 143 ([http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:62005J0438:EN:HTML C-438/05]), on freedom of establishment
+*''[[Laval Un Partneri Ltd v Svenska Byggnadsarbetareforbundet]]'' [2008] IRLR 160 ([http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:62005J0341:EN:HTML C-319/05], see also ([http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:62006J0319:EN:HTML C-319/06]), on free movement of services . 
+
+;Other
+*''[[Health Services and Support-Facilities Subsector Bargaining Association v British Columbia]]'' [2007] 2 SCR 391 . 
+
+==Notes==. 
+{{refs|2}} . 
+
+==References==. 
+*[[KD Ewing]] and J Hendy QC, 'The Dramatic Implications of ''Demir and Baykara''' (2010) 39(1) [[Industrial Law Journal]] 2 . 
+
+==External links==. 
+*[http://www.eurofound.europa.eu/eiro/2009/05/articles/eu0905029i.htm Eurofound.europa.eu summary of the case]
+*[2008] ECHR 1345 [http://www.bailii.org/eu/cases/ECHR/2008/1345.html Full text of judgment]
+http://www.law.utoronto.ca/documents/conferences2/StrikeSymposium09_Ewing-Hendy.pdf . 
+
+[[Category:Labour case law]]
+[[Category:Article 11 of the European Convention on Human Rights]]
+[[Category:European Court of Human Rights cases involving Turkey]]
+[[Category:2008 in case law]]
+[[Category:Trade union case law]]
+[[Category:2008 in Turkey]]

@@ -1,0 +1,62 @@
+{{globalize/US|date=December 2011}}
+'''Adapted Physical Education''' (APE) is the art and science of developing, implementing, and monitoring a carefully designed [[physical education]] instructional program for a learner with a disability, based on a comprehensive assessment, to give the learner the skills necessary for a lifetime of rich leisure, recreation, and sport experiences to enhance physical fitness and wellness. <ref name="Auxter">[Auxter, D, Pyfer, J, Zittel, L, & Roth, K. (Ed.). (2010). Principles and Methods of Adapted Physical Education and Recreation. New York, NY: McGraw-Hill. <!-- Bot generated title -->]</ref> . 
+
+==Adapted Physical Education National Standards (APENS)==. 
+The [http://www.apens.org/ Adapted Physical Education National Standards] promotes qualified, nationally certified educators to provide physical education services to students with disabilities.  . 
+
+== Key legislation ==. 
+===Education of all Handicapped Children Act of 1975 (P.L. 94–142)===. 
+The history of Adapted Physical Education began with the implementation of [[Education for All Handicapped Children Act|P.L. 94–142]] in 1975. <ref name="Auxter" /> This act recognized physical education as a direct service. Specially designed physical education programs must be made available to every handicapped child receiving a [http://www2.ed.gov/about/offices/list/ocr/docs/edlite-FAPE504.html Free, Appropriate Public Education] (FAPE). <ref>[http://www.nhcs.k12.nc.us/sped/APE%20Pages/APE%20Web%20Page.htm – Adapted Physical Education- North Carolina Department of Instruction<!-- Bot generated title -->]</ref> . 
+
+===Americans with Disabilities Act (P.L. 101–336)===. 
+The [[Americans with Disabilities Act]] (ADA) was enacted in 1990 to prohibit the discrimination of individuals with disabilities in the public and private sectors. The ADA outlaws discrimination against a person with a disability in five spheres: employment, public services, transportation, public accommodations, and telecommunications.  ADA Requires accessibility in physical education facilities.  Examples include: Weight rooms that accommodate wheelchair users, gym lockers that use keys instead of combination locks, playgrounds surrounded by a fence, and well lighted gymnasiums to aid students with visual impairments. <ref name="Auxter" /> . 
+
+=== Individuals with Disabilities Education Act (IDEA) ===. 
+Enacted in 1990 (and reauthorized in 1997 and 2004), [[Individuals with Disabilities Education Act|IDEA]] was the reauthorization of [[Education for All Handicapped Children Act|PL 94–142]] and continued the emphasis upon [[Free Appropriate Public Education|FAPE]], [[Individualized Education Program|IEP]], [[Least Restrictive Environment|LRE]], and [[physical education]] as a direct educational service. With this reauthorization, person-first terminology was instituted, and emphasis was placed on the education of students with disabilities within the general curriculum and parent involvement in educational programming. Under Federal Law, in order to qualify for this special education programming, students must fall within one of the thirteen disability categories identified under IDEA and demonstrate an academic need.  . 
+
+== Individual Education Program or IEP ==. 
+An [[Individualized Education Program|Individualized Educational Plan]] (IEP) can be defined as a plan for each student, ages 3 to 21, who qualifies for special education services, based on an evaluation. All IEP's are outcome-oriented giving assurance that the student will benefit from special education and have real opportunities, full participation, independent living, and economic self-efficiency. If a student is receiving adapted physical education services, it must be identified on the IEP and APE goals should be developed and implemented. IEPs are revised once a year by an IEP team. IEP's are developed by the IEP team and based on comprehensive assessment as outlined by guidelines established in [[Individuals with Disabilities Education Act|IDEA]].  . 
+
+=== Purpose ===. 
+Federal law mandates that each student receiving special education and related services must have an [[Individualized Education Program]] (IEP) developed for them.  An IEP must be designed and written specifically for one student, outlining individualized needs, and used to establish an appropriate educational placement. Some consider the IEP to be a "management" program to guide appropriate service delivery, which includes the area of physical education.  The IEP creates an opportunity for teachers, parents, school administrators, related services personnel and students (when appropriate) to work together to improve educational results for learners with disabilities.  . 
+
+=== Do all students with disabilities need an IEP for physical education? ===. 
+No, IDEA 2004 mandates each individual with a disability have an IEP developed if necessary to benefit their education. If an appropriate assessment is completed and the IEP team decides the student is not safe and/or successful in general physical education without supplementary aids and services, then an IEP is developed and services provided. A student can have IEP goals related to physical education needs regardless of their educational placement. <ref>[http://www.pecentral.org/adapted/idea04.html PE Central: Adapted Physical Education Web Sites<!-- Bot generated title -->]</ref> . 
+
+=== Placement options ===. 
+What is the relationship between placement and the IEP?
+:Decisions based on [[Individuals with Disabilities Education Act|IDEA]] qualifications are generally discussed and determined during an [[Individualized Education Program|Individual Education Plan]] (IEP) meeting. IEP recommendations for services and supports must consider a student's unique needs, as well as the [[Least Restrictive Environment]] (LRE)."<ref name="Conatser">Conatser, P., & Summar, C. (2004, September/October). Individual Education Programs for Adapted Physical Education. Strategies, 18(1), 35–28. </ref> The LRE will be based upon the assessment process and where the IEP goals can best be met. There are a variety of placement option which should be considered including:<ref name="Auxter" /> . 
+
+:*Full-time General PE (GPE)
+:*General PE with a younger class
+:*Part-time Adapted PE (GPE for some units or parts of a lesson)
+:*Reverse Mainstreaming
+:*Small Group or One on One PE
+:*Separate School
+:*Home/Hospital . 
+
+== Section 504 Plan ==. 
+[[Section 504]] of the [[Rehabilitation Act of 1973]] protects the rights of individuals with disabilities in programs and activities that receive federal financial assistance, including federal funds. Section 504 provides that: “No otherwise qualified individual with a disability in the United States . . . shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance... <ref>[Section 504 of the Rehabilitation Act of 1973, as amended, 29 U.S.C. 794. <!-- Bot generated title -->]</ref> . 
+
+=== What is the difference between an IEP and a Section 504 Plan? ===. 
+If a student has one of the thirteen disabilities identified by [[Individuals with Disabilities Education Act|IDEA]] and demonstrates an educational need, special services are provided. These services are guided by the IEP.  Students who do not meet the qualifications for IDEA but still have a disability and require some assistance to be able to participate in physical education would be candidates for a [[Section 504|Section 504 Plan]]. A Section 504 Plan spells out the modifications and accommodations that will be needed for these students to have an opportunity to perform at the same level as their peers (might include things like a wheelchair ramp, blood sugar monitoring, etc.). <ref>[http://wsfcs.k12.nc.us/Page/284<!-- Bot generated title -->]</ref> . 
+
+== Use of technology ==. 
+With the development of new and improved technology with [[physical education]], and especially adapted physical education, it is important for the APE teacher to know and understand different ways to implement technology for increased success for their students. APE teachers can develop an updated website regarding a fitness workout plan, in which students can download and follow at home with a sibling or parent. Students can be taught how to keep track of their physical fitness goals and record the data on a spreadsheet. Video files can also be used to demonstrate proper technique. Teachers can easily create videos of students doing an activity and download them onto an iPod or computer so students have an easily accessible reference to use during transition periods or after they graduate. <ref>[http://www.ncpad.org/videos/ NCPAD:Videos<!-- Bot generated title -->]</ref> Video files or iMovies can be utilized as report cards or as evidence of IEP goal attainment. In APE pedometers can easily be introduced into any lesson and taught how to use and how to keep track of steps. Teachers can also play appropriate and motivating music for aerobic activities. Video games are also starting to become more and more predominant in physical education classes, such games can be used outside of school as well. Some games are particularly accessible for individuals with disabilities including Wii and Eye Toy Play. New applications (Apps) are constantly being created to assist people with disabilities in numerous ways.  With technology growing, APE teachers need to continue to develop as professionals in providing new ways to enhance their students physical development.  . 
+
+== Notes==. 
+{{reflist}} . 
+
+== References ==. 
+*Auxter, D, Pyfer, J, Zittel, L, & Roth, K. (Ed.). (2010). Principles and Methods of Adapted Physical Education and Recreation. New York, NY: McGraw-Hill. 
+*Roth, K.  (2010, March).  Transition.  Retrieved May 6, 2010, from http://twu.edu/inspire/transition.asp
+*Cortiella, C.  (2005).  IDEA 2004 close-up: transition planning.  Retrieved May 6, 2010, from http://www.sacramentoasis.com/docs/7-13-07/idea_2004_close_up.pdf
+*http://fchr.state.fl.us/fchr/resources/commissioners_speak_out/americans_with_disabilities_act_big_changes_in_2009
+*http://www.apens.org/15standards.html
+*Section 504 of the Rehabilitation Act of 1973, as amended, 29 U.S.C. 794. 
+*http://www.nhcs.k12.nc.us/sped/APE%20Pages/APE%20Web%20Page.htm
+*http://www.pecentral.org/adapted/idea04.html
+*http://wsfcs.k12.nc.us/Page/284
+*http://www.nisd.net/reddixww/APE.htm . 
+
+[[Category:Physical education]]

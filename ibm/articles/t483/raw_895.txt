@@ -1,0 +1,73 @@
+{{censorship}} . 
+
+'''Book censorship''' can be enacted at the national or subnational level, and can carry legal penalties for their infraction. Books may also be [[Challenge (literature)|challenged]] at a local, community level. As a result, books can be removed from schools or libraries, although these bans do not extend outside of that area. Similarly, religions may issue lists of banned books – a historical example being the [[Roman Catholic Church]]'s ''[[Index Librorum Prohibitorum]]'' – which do not always carry legal force.  . 
+
+==Background==. 
+"Almost every country places some restrictions on what may be published, although the emphasis and the degree of control differ from country to country and at different periods."<ref>[http://www.teara.govt.nz/en/1966/censorship-of-books/1 A.H. McLintock, An Encyclopaedia of New Zealand: ''Censorship of Books'']. Teara.govt.nz (2009-04-23). Retrieved on 2012-01-21. </ref> There are a variety of reasons for which books may be banned. Materials are often suppressed due to the perceived notion of obscenity. This obscenity can apply to materials that are about sexuality, race, drugs, or social standing.  . 
+
+Governments have also sought to ban certain books which they perceive to contain material that could threaten, embarrass, or criticize them. <ref>
+{{cite news
+ | first = Walter
+ | last = Skold
+ | title = Ray Bradbury Condemns Cuban Book Burning; 'Fahrenheit 451' Author Takes Stance While U.S. Librarians Ignore Counterparts
+ | curly = y
+ | url = http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=45050
+ | work = [[WorldNetDaily]]
+ | accessdate = 10 Jan 2009
+ | quote = Among some of the many thousands of materials burned or destroyed by the Cuban Department of Interior were books on the [[United States Constitution]], [[Martin Luther King, Jr.]], journalism manuals, a book called 'Fidel's Secret Wars,' and in one case, even a book by [[José Martí]], the Cuban hero of independence beloved by most Cubans and often quoted by Castro.}}</ref> . 
+
+Other leaders outside of the government have banned books, including religious authorities. <ref>{{cite encyclopedia
+ | title = Index Librorum Prohibitorum
+ | encyclopedia = Encyclopædia Britannica Online}}</ref> Church leaders who prohibit members of their faith from reading the banned books may want to shelter them from perceived obscene, immoral, or profane ideas or situations.  . 
+
+But even religious materials have been subject to censorship. For example, various [[religious text|scriptures]] have been banned (and sometimes burned at several points in history). The [[Bible]], and other religious scriptures have all been subjected to censorship and have been banned by various governments. Similarly, books based on the scriptures have also been banned, such as [[Leo Tolstoy]]'s ''[[The Kingdom of God Is Within You]]'', which was banned in the [[Russian Empire]] for being [[anti-establishment]].  . 
+
+==Book burning==. 
+[[Book burning]] is the practice of destroying, often ceremoniously, books or other written material. It is usually carried out in public, and is generally motivated by moral, religious, or political objections to the it, with a desire to censor the material. 
+<!-- . 
+
+==Book censorship in religion==. 
+{{See also|Censorship by religion}} . 
+
+ -->
+==Banned books==. 
+{{Main|List of books banned by governments}}
+<!--
+===Specific cases===. 
+*The sale of Adolf Hitler's book ''[[Mein Kampf]]'' is banned in some countries.  . 
+
+*In 1996, Roger Garaudy published his most controversial work, ''[[The Founding Myths of Modern Israel]]]'', whose contents were translated into English in 2000 by the Institute for Historical Review. Its original French title is Les Mythes fondateurs de la politique israélienne.  . 
+
+*''[[Making of a Godol|Making of a Godol: A Study of Episodes in the Lives of Great Torah Personalities]]''
+ -->
+==Book censorship by country==. 
+{{Main|Book censorship in Canada}}
+{{Main|Book censorship in Germany}}
+{{Main|Book censorship in Iran}}
+{{Main|Book censorship in the Republic of Ireland}}
+{{Main|Book censorship in the United States}} . 
+
+==See also==. 
+*[[List of banned writers]]
+*[[List of authors and works on the Index Librorum Prohibitorum]]
+*[[Burning of books and burying of scholars]]
+*[[Where they burn books, they will in the end also burn people]] . 
+
+==References==. 
+{{Reflist|2}} . 
+
+==Further reading==. 
+*{{Cite book
+| edition = 3d ed. 
+| publisher = R.R. Bowker
+| isbn = 978-0-8352-0204-6
+| last = Haight
+| first = Anne
+| title = Banned books  informal notes on some books banned for various reasons at various times and in various places. 
+| location = New York
+| date = 1970
+}} . 
+
+{{prose|date=February 2012}} . 
+
+[[Category:Book censorship| ]]
