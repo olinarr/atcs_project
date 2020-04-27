@@ -13,7 +13,9 @@ from utils.MultiNLIBatchManager import MultiNLIBatchManager, IBMBatchManager
 MODELS_PATH = './state_dicts/'
 if not os.path.exists(MODELS_PATH):
     os.makedirs(MODELS_PATH)
-MODELS_PATH += 'state_dict.pt'
+
+def path_to_dicts(config):
+    return MODELS_PATH + config.dataset + ".pt"
 
 def get_accuracy(model, iter):
     """compute accuracy on a certain iterator
@@ -52,12 +54,12 @@ def load_model(config):
     # if we saved the state dictionary, load it.
     if config.resume:
         try :
-            model.load_state_dict(torch.load(MODELS_PATH, map_location = config.device))
+            model.load_state_dict(torch.load(path_to_dicts(config), map_location = config.device))
         except Exception:
-            print(f"WARNING: the `--resume` flag was passed, but `{MODELS_PATH}` was NOT found!")
+            print(f"WARNING: the `--resume` flag was passed, but `{path_to_dicts(config)}` was NOT found!")
     else:
-        if os.path.exists(MODELS_PATH):
-            print(f"WARNING: `--resume` flag was NOT passed, but `{MODELS_PATH}` was found!")   
+        if os.path.exists(path_to_dicts(config)):
+            print(f"WARNING: `--resume` flag was NOT passed, but `{path_to_dicts(config)}` was found!")   
 
     return model
 
@@ -155,8 +157,12 @@ if __name__ == "__main__":
 
     model = load_model(config)
     if config.dataset in ('NLI', 'nli', 'Nli'): 
+        # normalize
+        config.dataset = 'NLI'
         batchmanager = MultiNLIBatchManager(batch_size = config.batch_size, device = config.device)
     if config.dataset in ("IBM", "ibm", "Ibm", "stance","Stance"):
+        # normalize
+        config.dataset = 'IBM'
         batchmanager = IBMBatchManager(batch_size = config.batch_size, device = config.device)
 
     # Train the model
@@ -165,4 +171,4 @@ if __name__ == "__main__":
     print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
 
     #save model
-    torch.save(state_dict, MODELS_PATH)
+    torch.save(state_dict, path_to_dicts(config))
