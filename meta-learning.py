@@ -1,7 +1,7 @@
 """
 
 This is just to mess around and get a feel for how LEOPARD might look in code.
-Almost more pseudocode than real python.
+Partially pseudocode, partially python.
 
 Variable names chosen to make sense in context of paper on LEOPARD, well hopefully ;-) .
 
@@ -35,7 +35,13 @@ def leopard():
     g_psi = LeopardEncoder()
     h_phi = MLP() 
 
-    optimizer = optim.Adam(task_model.parameters(), lr=alpha)
+    params = itertools.chain(
+        f_theta.parameters(),
+        g_psi.parameters(),
+        h_phi.parameters()
+    )
+
+    optimizer = optim.Adam(params, lr=beta)
     criterion = torch.nn.CrossEntropyLoss()    
 
     # outer loop
@@ -53,9 +59,10 @@ def leopard():
             # ---
             # G     number of batches, and thus SGD steps.   
 
+
             # Calculate initial parameters for softmax.
             # Get batch specially for generation of softmax params.
-            batch = next(suppert_iter)                 
+            batch = next(support_iter)                 
             batch_input = batch.input               # d x t x k
             batch_target = batch.target             # k
 
@@ -69,7 +76,7 @@ def leopard():
                 cls, _, _ = f_theta(cls_input)      # d x C
 
                 # apply generator
-                encoded = g_psi(encoded)            # l+1 x C
+                encoded = g_psi(cls)                # l+1 x C
 
                 encoded = encoded.mean(dim=1)       # l+1
                 Wb.append(encoded)
@@ -80,65 +87,69 @@ def leopard():
             
             # Update parameters
 
-            # TODO copy model and update parameters on copy
-            # use that copy to calculate the loss for this task
-            # in the meta step.
-            f_theta_prime = f_theta.copy() # not this simple (?/!)
-            # can probably save/load to and from a buffer instead
+            h_phi_prime = h_phi.copy()
+            f_theta_prime = f_theta.copy() 
+            # not this simple...
+            # Make shallow copy of state_dict, and then replace
+            # references of task-specific parameters with those to
+            # deep clones? then use that state dict for new 
+            # f_theta_prime instance of model?
+            # Use Tensor.clone so we can backprop through it and 
+            # update f_theta as well.
 
-            task_optimizer = optim.Adam(task_model.parameters(), lr=alpha)
+
+            # TODO make sure that task-specific parameters in f_theta_prime
+            # as well as parameters in h_phi_prime, W and b and no others 
+            # have requires_grad = True.
+
+            params = itertools.chain(
+                    f_theta_prime.parameters(), 
+                    h_phi_prime.parameters(),
+                    [W], [b]
+                )
+            task_optimizer = optim.Adam(params, lr=alpha)
             task_criterion = torch.nn.CrossEntropyLoss()    
+            
+            def process_batch(batch_input):
+                batch_output = f_theta_prime(batch_input)       # d x k
+                batch_output = h_phi_prime(batch_output)              # l x k
+                batch_output = W @ batch_output + b             # N x k
+                batch_output = F.softmax(batch_output, dim=0)   # N x k
+                loss = task_criterion(batch_output, batch_target)
+                return loss
 
+            # update task-specific parameters 
             for step, batch in enumerate(support_iter):
                 if step >= G - 1:
                     break
 
                 batch_input = batch.input                       # d x t x k
                 batch_target = batch.target
-
-                batch_output = f_theta_prime(batch_input)       # d x k
-                batch_output = h_phi(batch_output)              # l x k
-                batch_output = W @ batch_output + b             # N x k
-                batch_output = F.softmax(batch_output, dim=0)   # N x k
-
-                loss = task_criterion(batch_output, batch_target)
-
-                task_optimizer.zero_grad()
+               
+                loss = proces_batch(batch_input)
+                
+                task_optimizer.zero_grad() 
                 loss.backward()
                 task_optimizer.step()
 
-                # logging
+                # TODO logging
 
 
-            # evaluate 
+            # TODO now set all parameters in f_theta, g_psi, h_phi 
+            # to have requires_grad = True
+            
+
+            # evaluate on query set (D_val) 
             for step, batch in enumerate(query_iter):
-                if step >= ??: #TODO what should this number be called? or is it always 1?
+                if step >= ??: #TODO name number, or is it always 1?
                     break
 
                 batch_input = batch.input                       # d x t x k
                 batch_target = batch.target
 
-                batch_output = f_theta_prime(batch_input)       # d x k
-                batch_output = h_phi(batch_output)              # l x k
-                batch_output = W @ batch_output + b             # N x k
-                batch_output = F.softmax(batch_output, dim=0)   # N x k
+                loss = proces_batch(batch_input)
+                loss.backward()
 
-                loss = criterion(batch_output, batch_target)
-
-                #TODO decide if we literally sum losses like this
-                # or if we backward all of them
-                total_loss += loss  
-
-
-        # TODO determine how we transfer gradients from theta_prime to theta
-        # this might be a start? (source: https://discuss.pytorch.org/t/solved-copy-gradient-values/21731)
-#        for paramName, paramValue, in net.named_parameters():
-#            for netCopyName, netCopyValue, in netCopy.named_parameters():
-#                if paramName == netCopyName:
-#                    netCopyValue.grad = paramValue.grad.clone()
-
-        
-            
                 
 
 
