@@ -30,17 +30,16 @@ class EpisodeLoader()
 
 def leopard():
 
+    # initialization
+    f_theta = BertEncoder()
+    g_psi = LeopardEncoder()
+    h_phi = MLP() 
+
+    optimizer = optim.Adam(task_model.parameters(), lr=alpha)
+    criterion = torch.nn.CrossEntropyLoss()    
+
     # outer loop
     while not done:
-
-        # initialization
-        f_theta = BertEncoder()
-        g_psi = LeopardEncoder()
-        h_phi = MLP() 
-
-        optimizer = optim.Adam(task_model.parameters(), lr=alpha)
-        criterion = torch.nn.CrossEntropyLoss()    
-
 
         # sample batch of tasks
         tasks = MagicTaskSampler.sample()
