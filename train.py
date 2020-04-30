@@ -6,7 +6,7 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 import torch
 from transformers import AdamW, get_linear_schedule_with_warmup
 
-from modules.MultiNLI_BERT import MultiNLI_BERT
+from modules.FineTunedBERT import FineTunedBERT
 from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
 
 # path of the trained state dict
@@ -21,7 +21,7 @@ def get_accuracy(model, iter):
     """compute accuracy on a certain iterator
 
     Parameters:
-    model (MultiNLI_BERT): the model to train
+    model (FineTunedBERT): the model to train
     iter (MyIterator): iterator on a set
 
     Returns:
@@ -47,13 +47,13 @@ def load_model(config):
     config: argparse flags
 
     Returns:
-    MultiNLI_BERT: the loaded model"""
+    FineTunedBERT: the loaded model"""
 
     # some datasets have 3 classes, some other 2!
     n_classes = 3 if config.dataset != 'MRPC' else 2
-    trainable_layers = [10, 11]
+    trainable_layers = [9, 10, 11]
     assert min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
-    model = MultiNLI_BERT(device = config.device, n_classes = n_classes, trainable_layers = trainable_layers)
+    model = FineTunedBERT(device = config.device, n_classes = n_classes, trainable_layers = trainable_layers)
 
     # if we saved the state dictionary, load it.
     if config.resume:
@@ -73,7 +73,7 @@ def train(config, batchmanager, model):
     Parameters:
     config: argparse flags
     batchmanager (MultiNLIBatchManager): indeed, the batchmanager
-    model (MultiNLI_BERT): the model to train
+    model (FineTunedBERT): the model to train
 
     Returns:
     (dict, float): the state dictionary of the best model and its dev accuracy"""

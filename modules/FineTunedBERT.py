@@ -1,9 +1,9 @@
 from transformers import BertModel, BertTokenizerFast
 import torch.nn as nn
 
-class MultiNLI_BERT(nn.Module):
+class FineTunedBERT(nn.Module):
 
-    def __init__(self, n_classes = 3, device = 'cpu', trainable_layers = [10,11]):
+    def __init__(self, n_classes = 3, device = 'cpu', trainable_layers = [9, 10,11]):
         """Init of the model
 
         Parameters:
@@ -12,7 +12,7 @@ class MultiNLI_BERT(nn.Module):
         trainable_layers (list(int)): BERT layers to be trained
 
         """
-        super(MultiNLI_BERT, self).__init__()
+        super(FineTunedBERT, self).__init__()
         
         # load pre-trained BERT: tokenizer and the model.
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
