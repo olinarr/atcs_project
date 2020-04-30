@@ -13,60 +13,140 @@ class LeopardEncoder(nn.Module):
     def __init__(self, cls_dim, l):
         super(LeopardEncoder, self).__init__()
 
+        #TODO ask if this hidden dim size is okay.
         self.fc1 = nn.Linear(cls_dim, cls_dim)
         self.fc2 = nn.Linear(cls_dim, l + 1)
 
-
     def forward(self, x):
-        
         x = self.fc1(x).tanh()
         x = self.fc2(x).tanh()
         return x
 
+
+class EpisodeLoader()
+# TODO make dataloader that combines the iterators for each task
+# and bundles batches for those tasks into batches of episodes for meta-learning
+
+
 def leopard():
 
-    # This is the training data per task for an episode.
-    iter_by_task = {
-            "MultiNLI" : None,
-            "IBMStance" : None,
-            "MSParaphrase" : None,
-            "Discourse" : None,
-        }
+    # outer loop
+    while not done:
 
-    
-    f_theta = BertEncoder()
-    g_psi = LeopardEncoder()
-    h_phi = MLP() 
+        # initialization
+        f_theta = BertEncoder()
+        g_psi = LeopardEncoder()
+        h_phi = MLP() 
 
-    for task, data_iter in data_by_task.items():
+        optimizer = optim.Adam(task_model.parameters(), lr=alpha)
+        criterion = torch.nn.CrossEntropyLoss()    
 
-        batch = next(data_iter)                 # d x t x B
-        batch_input = batch.input           
-        batch_target = batch.target
 
-        classes = batch_target.unique()         # N
-        W_ = []
-        b_ = []
-        for cls in classes:
+        # sample batch of tasks
+        tasks = MagicTaskSampler.sample()
+        total_loss = 0
 
-            # Bool index for current class
-            cls_idx = batch_target == cls
-            
-            # Input data for current class
-            # TODO this doesn't work directly cls_idx needs to be same shape...
-            cls_input = batch_input[cls_idx]    # d x t x C
+        # inner loop
+        for support_iter, query_iter in tasks:
+            # k     samples per task
+            # t     length of sequence per sample
+            # d     features per sequence-element (assuming same in and out)
+            # ---
+            # G     number of batches, and thus SGD steps.   
 
-            # create
-            cls, _, _ = f_theta(cls_input)      # d x C
-            encoded = g_psi(encoded)            # l+1 x C
-            encoded = encoded.mean(dim=1)       # l+1
-            w, b = encoded[:-1], encoded[-1]    # l, 1
-            W_.append(w)
-            b_.append(w)
-            
-        # TODO should probably not split into w,b until after stacking?
-        W = torch.stack(W_)                     # N x l
-        b = torch.stack(b_)                     # N
+            # Calculate initial parameters for softmax.
+            # Get batch specially for generation of softmax params.
+            batch = next(suppert_iter)                 
+            batch_input = batch.input               # d x t x k
+            batch_target = batch.target             # k
+
+            classes = batch_target.unique()         # N
+            Wb = []
+            for cls in classes:
+                cls_idx   = (batch_target == cls).non_zero()
+                cls_input = torch.index_select(batch_input, dim=2, cls_idx)
+                                                    # d x t x C
+                # encode sequences 
+                cls, _, _ = f_theta(cls_input)      # d x C
+
+                # apply generator
+                encoded = g_psi(encoded)            # l+1 x C
+
+                encoded = encoded.mean(dim=1)       # l+1
+                Wb.append(encoded)
+                
+            Wb = torch.stack(Wb)                    # N x l+1
+            W, b = Wb[:,:-1], Wb[:,-1]              # N x l, N x 1
         
-        batch_pred = F.softmax(W @ h_phi(f_theta(
+            
+            # Update parameters
+
+            # TODO copy model and update parameters on copy
+            # use that copy to calculate the loss for this task
+            # in the meta step.
+            f_theta_prime = f_theta.copy() # not this simple (?/!)
+            # can probably save/load to and from a buffer instead
+
+            task_optimizer = optim.Adam(task_model.parameters(), lr=alpha)
+            task_criterion = torch.nn.CrossEntropyLoss()    
+
+            for step, batch in enumerate(support_iter):
+                if step >= G - 1:
+                    break
+
+                batch_input = batch.input                       # d x t x k
+                batch_target = batch.target
+
+                batch_output = f_theta_prime(batch_input)       # d x k
+                batch_output = h_phi(batch_output)              # l x k
+                batch_output = W @ batch_output + b             # N x k
+                batch_output = F.softmax(batch_output, dim=0)   # N x k
+
+                loss = task_criterion(batch_output, batch_target)
+
+                task_optimizer.zero_grad()
+                loss.backward()
+                task_optimizer.step()
+
+                # logging
+
+
+            # evaluate 
+            for step, batch in enumerate(query_iter):
+                if step >= ??: #TODO what should this number be called? or is it always 1?
+                    break
+
+                batch_input = batch.input                       # d x t x k
+                batch_target = batch.target
+
+                batch_output = f_theta_prime(batch_input)       # d x k
+                batch_output = h_phi(batch_output)              # l x k
+                batch_output = W @ batch_output + b             # N x k
+                batch_output = F.softmax(batch_output, dim=0)   # N x k
+
+                loss = criterion(batch_output, batch_target)
+
+                #TODO decide if we literally sum losses like this
+                # or if we backward all of them
+                total_loss += loss  
+
+
+        # TODO determine how we transfer gradients from theta_prime to theta
+        # this might be a start? (source: https://discuss.pytorch.org/t/solved-copy-gradient-values/21731)
+#        for paramName, paramValue, in net.named_parameters():
+#            for netCopyName, netCopyValue, in netCopy.named_parameters():
+#                if paramName == netCopyName:
+#                    netCopyValue.grad = paramValue.grad.clone()
+
         
+            
+                
+
+
+
+
+            
+
+            
+
+            
