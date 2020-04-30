@@ -138,9 +138,14 @@ def leopard():
 
 
             # [3] Evaluate adapted params on query set, calc grads.
-            # TODO now set all parameters in f_theta, g_psi, h_phi 
-            # to have requires_grad = True
-
+            
+            if first_order_approx:
+                # TODO set all parameters in f_theta, h_phi, g_psi
+                # to have requires_grad = True
+            else:
+                # TODO set parameters in f_theta_prime, h_phi_prime, 
+                # g_psi to have requires_grad = True
+            
             # evaluate on query set (D_val) 
             for step, batch in enumerate(query_iter):
                 if step >= ??: #TODO name number, or is it always 1?
@@ -151,6 +156,9 @@ def leopard():
 
                 loss = process_batch(batch_input)
                 loss.backward()
+
+            if first_order_approx:
+                # TODO copy gradients from primes to originals
 
             # end of inner loop
 
