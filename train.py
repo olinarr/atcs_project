@@ -7,7 +7,7 @@ import torch
 from transformers import AdamW, get_linear_schedule_with_warmup
 
 from modules.MultiNLI_BERT import MultiNLI_BERT
-from utils.MultiNLIBatchManager import MultiNLIBatchManager, IBMBatchManager
+from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager
 
 # path of the trained state dict
 MODELS_PATH = './state_dicts/'
