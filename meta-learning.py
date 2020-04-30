@@ -47,6 +47,8 @@ def leopard():
     # outer loop
     while not done:
 
+        optimizer.zero_grad()
+
         # sample batch of tasks
         tasks = MagicTaskSampler.sample()
         total_loss = 0
@@ -60,7 +62,7 @@ def leopard():
             # G     number of batches, and thus SGD steps.   
 
 
-            # Calculate initial parameters for softmax.
+            # [1] Calculate initial parameters for softmax.
             # Get batch specially for generation of softmax params.
             batch = next(support_iter)                 
             batch_input = batch.input               # d x t x k
@@ -85,7 +87,7 @@ def leopard():
             W, b = Wb[:,:-1], Wb[:,-1]              # N x l, N x 1
         
             
-            # Update parameters
+            # [2] Adapt task-specific parameters
 
             h_phi_prime = h_phi.copy()
             f_theta_prime = f_theta.copy() 
@@ -112,13 +114,13 @@ def leopard():
             
             def process_batch(batch_input):
                 batch_output = f_theta_prime(batch_input)       # d x k
-                batch_output = h_phi_prime(batch_output)              # l x k
+                batch_output = h_phi_prime(batch_output)        # l x k
                 batch_output = W @ batch_output + b             # N x k
                 batch_output = F.softmax(batch_output, dim=0)   # N x k
                 loss = task_criterion(batch_output, batch_target)
                 return loss
 
-            # update task-specific parameters 
+            # update task-specific parameters on support set (D_tr)
             for step, batch in enumerate(support_iter):
                 if step >= G - 1:
                     break
@@ -126,7 +128,7 @@ def leopard():
                 batch_input = batch.input                       # d x t x k
                 batch_target = batch.target
                
-                loss = proces_batch(batch_input)
+                loss = process_batch(batch_input)
                 
                 task_optimizer.zero_grad() 
                 loss.backward()
@@ -135,9 +137,9 @@ def leopard():
                 # TODO logging
 
 
+            # [3] Evaluate adapted params on query set, calc grads.
             # TODO now set all parameters in f_theta, g_psi, h_phi 
             # to have requires_grad = True
-            
 
             # evaluate on query set (D_val) 
             for step, batch in enumerate(query_iter):
@@ -147,10 +149,12 @@ def leopard():
                 batch_input = batch.input                       # d x t x k
                 batch_target = batch.target
 
-                loss = proces_batch(batch_input)
+                loss = process_batch(batch_input)
                 loss.backward()
 
-                
+            # end of inner loop
+
+        optimizer.step()        
 
 
 
