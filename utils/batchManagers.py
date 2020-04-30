@@ -50,7 +50,7 @@ class MyIterator():
                 return [(example.premise, example.hypothesis) for example in batch],\
                     torch.tensor([self.l2i[example.label] for example in batch], device = self.device, requires_grad = False)
             elif self.name == 'MRPC':
-                # MRPC is of the form: label, sent_1, sent_2
+                # MRPC is of the form: label (int already, no mapping needed), sent_1, sent_2
                 return [(example[1], example[2]) for example in batch],\
                     torch.tensor([example[0] for example in batch], device = self.device, requires_grad = False)
             else:
@@ -69,7 +69,7 @@ class MyIterator():
 
 
 class MultiNLIBatchManager():
-    def __init__(self, batch_size = 256, device = 'cpu'):
+    def __init__(self, batch_size = 32, device = 'cpu'):
         # sequential false -> no tokenization. Why? Because right now this
         # happens instead of BERT
         TEXT = torchtext.data.Field(use_vocab = False, sequential = False)
@@ -92,7 +92,7 @@ class IBMBatchManager():
     """
     Batch Manager for the IBM dataset
     """
-    def __init__(self, batch_size = 256, device = 'cpu'):
+    def __init__(self, batch_size = 32, device = 'cpu'):
         """
         Initializes the dataset
 
@@ -119,7 +119,7 @@ class MRPCBatchManager():
     """
     Batch Manager for the Microsoft Research Paraphrase Corpus dataset
     """
-    def __init__(self, batch_size = 256, device = 'cpu'):
+    def __init__(self, batch_size = 32, device = 'cpu'):
         """
         Initializes the dataset
 

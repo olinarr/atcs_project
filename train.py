@@ -7,7 +7,7 @@ import torch
 from transformers import AdamW, get_linear_schedule_with_warmup
 
 from modules.MultiNLI_BERT import MultiNLI_BERT
-from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager
+from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
 
 # path of the trained state dict
 MODELS_PATH = './state_dicts/'
@@ -49,7 +49,11 @@ def load_model(config):
     Returns:
     MultiNLI_BERT: the loaded model"""
 
-    model = MultiNLI_BERT(device = config.device)
+    # some datasets have 3 classes, some other 2!
+    n_classes = 3 if config.dataset != 'MRPC' else 2
+    trainable_layers = [10, 11]
+    assert min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
+    model = MultiNLI_BERT(device = config.device, n_classes = n_classes, trainable_layers = trainable_layers)
 
     # if we saved the state dictionary, load it.
     if config.resume:
@@ -156,14 +160,21 @@ if __name__ == "__main__":
     config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
     model = load_model(config)
-    if config.dataset in ('NLI', 'nli', 'Nli'): 
+
+    # choose the dataset!
+    if config.dataset.lower() in ('nli', 'multinli', 'mnli'): 
         # normalize
         config.dataset = 'NLI'
         batchmanager = MultiNLIBatchManager(batch_size = config.batch_size, device = config.device)
-    if config.dataset in ("IBM", "ibm", "Ibm", "stance","Stance"):
+    elif config.dataset.lower() in ("ibm", "stance"):
         # normalize
         config.dataset = 'IBM'
         batchmanager = IBMBatchManager(batch_size = config.batch_size, device = config.device)
+    elif config.dataset.lower() in ('paraphrase', 'mrp', 'mrpc'):
+        config.dataset = 'MRPC'
+        batchmanager = MRPCBatchManager(batch_size = config.batch_size, device = config.device)        
+    else:
+        raise NotImplementedError
 
     # Train the model
     print('Beginning the training...', flush = True)
