@@ -42,7 +42,7 @@ Essentially a dataset of dataloaders.
         self.valid_sets = valid_sets
 
 
-    def __iter__(self, idx):
+    def __iter__(self):
         
         worker_info = torch.utils.data.get_worker_info()
         if worker_info is None:
@@ -52,12 +52,15 @@ Essentially a dataset of dataloaders.
             nr_workers = worker_info.num_workers
             worker_id = worker_info.id
 
-        for dataset in self.datasets:
+        iter_starts = []
+        iter_ends = []
+        iter_lengths = []
+
+        for dataset in self.train_sets:
             setsize = len(dataset)
             per_worker = int(math.ceil(setsize/float(nr_workers)))
-
-            iter_start = worker_id * per_worker
-            iter_end = min(iter_start + per_worker, setsize-1)
+            iter_starts.append(worker_id * per_worker)
+            iter_ends.append(min(iter_start + per_worker, setsize-1))
 
 
 
