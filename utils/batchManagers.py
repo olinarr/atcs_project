@@ -24,7 +24,6 @@ class BatchManager():
     
     def initialize(self, batch_size):
         # create the three iterators
-        print(self.SHUFFLE)
         self.train_iter = DataLoader(self.train_set, batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
         self.dev_iter   = DataLoader(self.dev_set,   batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
         self.test_iter  = DataLoader(self.test_set,  batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
