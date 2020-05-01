@@ -12,7 +12,9 @@ Project on Meta-Learning for the "Advanced Topics on Computational Semantics" co
 
 ## Dataset Locations
 
-* `.data` for the NLI dataset
+* `.data/multinli` for the NLI dataset
   * Downloading is taken care of by PyTorch
-* `IBM` for the IBM dataset
+* `.data/ibm` for the IBM dataset
   * Download dataset 3.1 from [here](https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Claim%20Stance). 
+* `.data/MRPC` for the MRPC dataset
+  * Download dataset from [here](https://github.com/wasiahmad/paraphrase_identification/tree/master/dataset/msr-paraphrase-corpus).
