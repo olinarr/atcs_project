@@ -1,4 +1,5 @@
 import torchtext, torch
+from torch.utils.data import DataLoader
 import pandas as pd
 import os
 
@@ -69,6 +70,9 @@ class MyIterator():
 
 
 class MultiNLIBatchManager():
+    
+    SHUFFLE = True
+    
     def __init__(self, batch_size = 32, device = 'cpu'):
         # sequential false -> no tokenization. Why? Because right now this
         # happens instead of BERT
@@ -81,13 +85,18 @@ class MultiNLIBatchManager():
         # mapping from classes to integers
         self.l2i = {'entailment': 0, 'neutral': 1, 'contradiction': 2}
 
+        def collate_fn(samples):
+            return [(example.premise, example.hypothesis) for example in samples],\
+                    torch.tensor([self.l2i[example.label] for example in samples], device = self.device, requires_grad = False)
+        
         # create the three iterators
-        self.train_iter = MyIterator(self.train_set, batch_size, self.l2i, device, 'NLI')
-        self.dev_iter = MyIterator(self.dev_set, batch_size, self.l2i, device, 'NLI')
-        self.test_iter = MyIterator(self.test_set, batch_size, self.l2i, device, 'NLI')
+        self.train_iter = DataLoader(self.train_set, batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=collate_fn)
+        self.dev_iter   = DataLoader(self.dev_set,   batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=collate_fn)
+        self.test_iter  = DataLoader(self.test_set,  batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=collate_fn)
 
         self.device = device
 
+        
 class IBMBatchManager():
     """
     Batch Manager for the IBM dataset
