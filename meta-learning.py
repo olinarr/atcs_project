@@ -6,8 +6,7 @@ Partially pseudocode, partially python.
 Variable names chosen to make sense in context of paper on LEOPARD, well hopefully ;-) .
 
 """
-
-
+            
 class LeopardEncoder(nn.Module):
 
     def __init__(self, cls_dim, l):
@@ -21,46 +20,6 @@ class LeopardEncoder(nn.Module):
         x = self.fc1(x).tanh()
         x = self.fc2(x).tanh()
         return x
-
-
-class EpisodeLoader(data.IterableDataset)
-"""
-Used to obtain episodes for meta-learning, i.e. batches of 'tasks' (support and query sets).
-Essentially a dataset of dataloaders.
-"""
-
-    def __init__(self, k, train_sets, valid_sets):
-        """
-        Params:
-          k: the amount of samples included in every support set.
-          datasets: the 
-        """
-        super(EpisodeLoader).__init__()
-
-        self.k = k
-        self.train_sets = train_sets
-        self.valid_sets = valid_sets
-
-
-    def __iter__(self):
-        
-        worker_info = torch.utils.data.get_worker_info()
-        if worker_info is None:
-            nr_workers = 1
-            worker_id = 0
-        else:
-            nr_workers = worker_info.num_workers
-            worker_id = worker_info.id
-
-        iter_starts = []
-        iter_ends = []
-        iter_lengths = []
-
-        for dataset in self.train_sets:
-            setsize = len(dataset)
-            per_worker = int(math.ceil(setsize/float(nr_workers)))
-            iter_starts.append(worker_id * per_worker)
-            iter_ends.append(min(iter_start + per_worker, setsize-1))
 
 
 
