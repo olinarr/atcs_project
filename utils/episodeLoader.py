@@ -1,25 +1,37 @@
+import numpy as np
+
+import torch
+import torch.utils.data as data
+
 import math
+
 from heapq import heappop, heappush, heapify
 
 
-class EpisodeLoader(data.IterableDataset)
-"""
-Used to obtain episodes for meta-learning, i.e. batches of 'tasks' (support and query sets).
-Essentially a dataset of dataloaders.
-"""
+class EpisodeLoader(data.IterableDataset):
+    """
+    Used to obtain episodes for meta-learning, i.e. batches of 'tasks' (support and query sets).
+    Essentially a dataset of dataloaders.
+    """
+    
     @classmethod
-    def weight_equal(length):
+    def weight_equal(cls, length):
         return 1
     
     @classmethod
-    def weight_sqrt(length):
+    def weight_sqrt(cls, length):
         return math.sqrt(length)
     
     @classmethod
-    def weight_proportional(length):
+    def weight_proportional(cls, length):
         return length
     
-
+    @classmethod
+    def create_dataloader(cls, k, batch_managers, batch_size, samples_per_episode=2, weight_fn=None, num_workers=0):
+        episodeDataset = EpisodeLoader(k, batch_managers, samples_per_episode=samples_per_episode, weight_fn=weight_fn)
+        collate_fn = lambda x : x # have identity function as collate_fn so we just get list.
+        return data.DataLoader(episodeDataset, collate_fn = collate_fn, batch_size = batch_size, num_workers=num_workers)
+    
     def __init__(self, k, batch_managers, samples_per_episode=2, weight_fn=None):
         """
         Params:
@@ -42,12 +54,14 @@ Essentially a dataset of dataloaders.
         self.batch_managers = batch_managers
         self.weight_fn = weight_fn
 
-        self.weighted_lengths = [self.weight_fn(len(btchmngr.train.set)) for btchmngr in batch_managers]
-        self.total_weighted = sum(weighted_lengths)
+        self.weighted_lengths = [self.weight_fn(len(btchmngr.train_set)) for btchmngr in batch_managers]
+        self.total_weighted = sum(self.weighted_lengths)
         self.target_proportions = [weighted / self.total_weighted for weighted in self.weighted_lengths]
         
         
     def __iter__(self):
+        
+        # If we have multiple workers, we make sure to not have them all return the same data.
         worker_info = torch.utils.data.get_worker_info()
         if worker_info is None:
             nr_workers = 1
@@ -58,37 +72,80 @@ Essentially a dataset of dataloaders.
 
         iter_starts = []
         iter_ends = []
-        iter_lengths = []
 
         for btchmngr in self.batch_managers:
             setsize = len(btchmngr.train_set)
             
             per_worker = int(math.ceil(setsize/float(nr_workers)))
             iter_starts.append(worker_id * per_worker)
-            iter_ends.append(min(iter_start + per_worker, setsize-1))
-            iter_lengths.append(iter_ends[-1] - iter_starts[-1])
+            iter_ends.append(min(iter_starts[-1] + per_worker, setsize-1))
 
             
-        def create_dataloader(i):
-            subset = self.batch_managers[i].train_set[iter_starts[i]:iter_ends[i]]
-            return DataLoader(subset, batch_size=self.k, shuffle=True, collate_fn=self.batch_manager[i].collate, drop_last=True)
+        def get_dataloader(i):
+            samples = np.arange(iter_starts[i], iter_ends[i])
+            sampler = data.SubsetRandomSampler(samples)
+            return data.DataLoader(self.batch_managers[i].train_set, batch_size=self.k,\
+                                   sampler=sampler, collate_fn=self.batch_managers[i].collate, drop_last=True)
         
-        # Use heap as prioqueue to select tasks in correct proportion.
-        worker_subsets = [(0, 0, iter_lengths[i], create_dataloader(i), i) for i,_ in enumerate(self.batch_managers)]
+        
+        # Use heap for prioqueue to select tasks in correct proportion.
+        worker_subsets = [(0, 0, i, get_dataloader(i)) for i,_ in enumerate(self.batch_managers)]
         heapify(worker_subsets)
         
-        while not done:
-            prio, count, length, next_set, i = heappop(worker_subsets)
+        while True:
+            prio, count, i, next_set = worker_subsets[0]
             
-            # check if dataloader is done, if so replace
-            if length - self.samples_per_episode >= count % length:
-                next_set = create_dataloader(i)
-            
-            # push it back on with new priority before yielding.
+            # update count
             count += 1
-            cur_prop = count / self.total_weighted
-            prio = cur_prop - self.target_proportions[i]
-            heappush( worker_subsets, (prio, count, length, next_set, i) )
+            worker_subsets[0] = (prio, count, i, next_set)
+            
+            # calculate new priorities
+            def calc_prio(i, count, total_count):
+                return (count / total_count) - self.target_proportions[i]
+            
+            total_count = sum(count for _, count, _, _ in worker_subsets)
+            worker_subsets = [(calc_prio(i, count, total_count), count, i, next_set) \
+                              for prio, count, i, next_set in worker_subsets]
+            
+            # update heap with new priorities before yielding.
+            heapify(worker_subsets)
                               
             yield next_set # this is the T_i from which we draw D_tr and D_val
+        
+        
+        
+if __name__ == "__main__":
+    # test this class
+    
+    k = 8
+    samples_per_episode = 2
+    batch_size = 4
+    
+    device = "cpu"
+    from batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
+    batchManager1 = IBMBatchManager(batch_size = k, device = device)
+    batchManager2 = MRPCBatchManager(batch_size = k, device = device)      
+        
+    episodeLoader = EpisodeLoader.create_dataloader(
+        k,  [batchManager1, batchManager2], batch_size,
+        samples_per_episode = samples_per_episode, 
+        num_workers = 2
+    )
+    
+    for i, batch in enumerate(episodeLoader): 
+        if i == 5000:
+            break
+            
+        for j, episode in enumerate(batch):
+            for k, task in enumerate(episode):
+                
+                #print(task)
+                
+                if k + 1 == samples_per_episode:
+                    break
+                    
+            assert k + 1 == samples_per_episode
+        assert j + 1 == batch_size
+
+
             
