@@ -54,6 +54,12 @@ def protomaml(config, batch_managers, model):
             batch_input = support_set[0]            # d x t x k
             batch_target = support_set[1]           # k
 
+            # encode sequences 
+            # TODO this won't work we should probably adapt
+            # FineTunedBERT so it can forward without immediatly 
+            # applying the classifier.
+            batch_input = f_theta(batch_input)      # d x k
+            
             classes = batch_target.unique()         # N
             W = []
             b = []
@@ -61,12 +67,7 @@ def protomaml(config, batch_managers, model):
                 cls_idx   = (batch_target == cls).non_zero()
                 cls_input = torch.index_select(batch_input, dim=2, cls_idx)
                                                     # d x t x C
-                # encode sequences 
-                # TODO this won't work we should probably adapt
-                # FineTunedBERT so it can forward without immediatly 
-                # applying the classifier.
-                cls, _, _ = f_theta(cls_input)      # d x C
-                
+                                
                 # prototype is mean of support samples (also c_k)
                 prototype = cls.mean(dim=1)         # d
                 
