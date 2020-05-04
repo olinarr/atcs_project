@@ -1,57 +1,46 @@
-"""
+import itertools
 
-This is just to mess around and get a feel for how LEOPARD might look in code.
-Partially pseudocode, partially python.
-
-Variable names chosen to make sense in context of paper on LEOPARD, well hopefully ;-) .
-
-"""
-            
-class LeopardEncoder(nn.Module):
-
-    def __init__(self, cls_dim, l):
-        super(LeopardEncoder, self).__init__()
-
-        #TODO ask if this hidden dim size is okay.
-        self.fc1 = nn.Linear(cls_dim, cls_dim)
-        self.fc2 = nn.Linear(cls_dim, l + 1)
-
-    def forward(self, x):
-        x = self.fc1(x).tanh()
-        x = self.fc2(x).tanh()
-        return x
+from utils.episodeLoader import EpisodeLoader
 
 
+def protomaml(config, batch_managers, model):
 
-def leopard():
-
+    # TODO figure out best way to load BERT without having the
+    # classification layer included inside.
+    
     # initialization
-    f_theta = BertEncoder()
-    g_psi = LeopardEncoder()
+    f_theta = model
     h_phi = MLP() 
 
     params = itertools.chain(
         f_theta.parameters(),
-        g_psi.parameters(),
         h_phi.parameters()
     )
 
+    # TODO learnable alpha, beta learning rates?
+    
     optimizer = optim.Adam(params, lr=beta)
     criterion = torch.nn.CrossEntropyLoss()    
 
-    episode_loader = EpisodeLoader()
+    # for protomaml we use two samples (support and query)
+    SAMPLES_PER_EPISODE = 2
+    
+    NUM_WORKERS = 3 
+    episode_loader = EpisodeLoader.create_dataloader(
+        config.k, batch_managers, config.batch_size,
+        samples_per_episode = SAMPLES_PER_EPISODE, 
+        num_workers = NUM_WORKERS
+    )
 
     # outer loop
-    while not done:
+    for batch in episode_loader:
 
-        optimizer.zero_grad()
-
-        # sample batch of tasks
-        tasks = next(iter(episode_loader))
         total_loss = 0
-
+        
+        optimizer.zero_grad()
+        
         # inner loop
-        for support_iter, query_iter in tasks:
+        for task_iter in batch:
             # k     samples per task
             # t     length of sequence per sample
             # d     features per sequence-element (assuming same in and out)
@@ -59,27 +48,12 @@ def leopard():
             # G     number of batches, and thus SGD steps.   
 
 
-            # [1] Calculate initial parameters for softmax.
-            # Get batch specially for generation of softmax params.
-            batch = next(support_iter)                 
-            batch_input = batch.input               # d x t x k
-            batch_target = batch.target             # k
+            # [1] Calculate parameters for softmax.
+            
+            
+            # TODO prototypical calculation of W and b
 
-            classes = batch_target.unique()         # N
-            Wb = []
-            for cls in classes:
-                cls_idx   = (batch_target == cls).non_zero()
-                cls_input = torch.index_select(batch_input, dim=2, cls_idx)
-                                                    # d x t x C
-                # encode sequences 
-                cls, _, _ = f_theta(cls_input)      # d x C
-
-                # apply generator
-                encoded = g_psi(cls)                # l+1 x C
-
-                encoded = encoded.mean(dim=1)       # l+1
-                Wb.append(encoded)
-                
+            
             Wb = torch.stack(Wb)                    # N x l+1
             W, b = Wb[:,:-1], Wb[:,-1]              # N x l, N x 1
         
@@ -100,7 +74,7 @@ def leopard():
             # TODO make sure that task-specific parameters in f_theta_prime
             # as well as parameters in h_phi_prime, W and b 
             # have requires_grad = True.
-       
+    
             params = [
                 f_theta_prime.parameters(), 
                 h_phi_prime.parameters(),
@@ -120,9 +94,7 @@ def leopard():
                 return loss
 
             # update task-specific parameters on support set (D_tr)
-            for step, batch in enumerate(support_iter):
-                if step >= G - 1:
-                    break
+            for step, batch in enumerate(itertools.islice(task_iter, 1)):
 
                 loss = process_batch(batch)
                 
@@ -137,17 +109,15 @@ def leopard():
             
             if first_order_approx:
                 # TODO set parameters in f_theta_prime, h_phi_prime, 
-                # g_psi to have requires_grad = True
-            else:
-                # TODO set parameters in f_theta, h_phi, g_psi
                 # to have requires_grad = True
-                           
+            else:
+                # TODO set parameters in f_theta, h_phi
+                # to have requires_grad = True
+                        
 
             # evaluate on query set (D_val) 
-            for step, batch in enumerate(query_iter):
-                if step >= ??: #TODO name number, or is it always 1?
-                    break
-
+            for step, batch in enumerate(itertools.islice(task_iter, 1)):
+                
                 loss = process_batch(batch)
                 loss.backward()
 
@@ -167,14 +137,39 @@ def leopard():
             # end of inner loop
 
         #TODO divide gradients by number of tasks?
-
         optimizer.step()        
 
+        
+        
+if __name__ == "__main__":
+     # Parse training configuration
+    parser = argparse.ArgumentParser()
 
+    # Model params
+    parser.add_argument('--batch_size', type=int, default="32", help="Batch size")
+    parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
+    parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
+    #parser.add_argument('--lr', type=float, help='Learning rate', default = 2e-5)
+    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
+    #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
+    config = parser.parse_args()
 
+    torch.manual_seed(config.random_seed)
+    config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
-            
+    model = load_model(config)
 
-            
+    batchmanager1 = MultiNLIBatchManager(batch_size = config.batch_size, device = config.device)
+    batchmanager2 = IBMBatchManager(batch_size = config.batch_size, device = config.device)
+    batchmanager3 = MRPCBatchManager(batch_size = config.batch_size, device = config.device)        
 
-            
+    batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
+
+    # Train the model
+    print('Beginning the training...', flush = True)
+    state_dict, dev_acc = protomaml(config, batchmanagers, model)
+    
+    print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
+
+    #save model
+    torch.save(state_dict, path_to_dicts(config))
