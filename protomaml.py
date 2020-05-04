@@ -1,3 +1,6 @@
+import torch
+import torch.nn as nn
+
 import itertools
 
 from utils.episodeLoader import EpisodeLoader
@@ -5,12 +8,14 @@ from utils.episodeLoader import EpisodeLoader
 
 def protomaml(config, batch_managers, model):
 
-    # TODO figure out best way to load BERT without having the
-    # classification layer included inside.
+    CLASSIFIER_DIMS = 768
+    
+    # TODO figure out proper strategy for saving/loading these 
+    # meta-learning models.
     
     # initialization
-    f_theta = model
-    h_phi = MLP() 
+    f_theta = model.BERT
+    h_phi = nn.Linear(CLASSIFIER_DIMS, CLASSIFIER_DIMS)
 
     params = itertools.chain(
         f_theta.parameters(),
@@ -32,14 +37,12 @@ def protomaml(config, batch_managers, model):
         num_workers = NUM_WORKERS
     )
 
-    # outer loop
     for batch in episode_loader:
-
-        total_loss = 0
+        # a batch of episodes
         
+        total_loss = 0
         optimizer.zero_grad()
         
-        # inner loop
         for task_iter in batch:
             # k     samples per task
             # t     length of sequence per sample
@@ -93,7 +96,6 @@ def protomaml(config, batch_managers, model):
                 loss = task_criterion(batch_output, batch.target)
                 return loss
 
-            # update task-specific parameters on support set (D_tr)
             for step, batch in enumerate(itertools.islice(task_iter, 1)):
 
                 loss = process_batch(batch)
