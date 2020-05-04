@@ -40,25 +40,43 @@ def protomaml(config, batch_managers, model):
     for batch in episode_loader:
         # a batch of episodes
         
-        total_loss = 0
         optimizer.zero_grad()
         
         for task_iter in batch:
             # k     samples per task
             # t     length of sequence per sample
             # d     features per sequence-element (assuming same in and out)
-            # ---
-            # G     number of batches, and thus SGD steps.   
 
+            support_set = next(iter(task_iter))
 
             # [1] Calculate parameters for softmax.
             
-            
-            # TODO prototypical calculation of W and b
+            batch_input = support_set[0]            # d x t x k
+            batch_target = support_set[1]           # k
 
+            classes = batch_target.unique()         # N
+            W = []
+            b = []
+            for cls in classes:
+                cls_idx   = (batch_target == cls).non_zero()
+                cls_input = torch.index_select(batch_input, dim=2, cls_idx)
+                                                    # d x t x C
+                # encode sequences 
+                # TODO this won't work we should probably adapt
+                # FineTunedBERT so it can forward without immediatly 
+                # applying the classifier.
+                cls, _, _ = f_theta(cls_input)      # d x C
+                
+                # prototype is mean of support samples (also c_k)
+                prototype = cls.mean(dim=1)         # d
+                
+                # see proto-maml paper, this corresponds to euclidean distance
+                W.append(2 * prototype)
+                b.append(- prototype.norm() ** 2)
             
-            Wb = torch.stack(Wb)                    # N x l+1
-            W, b = Wb[:,:-1], Wb[:,-1]              # N x l, N x 1
+            W = torch.stack(W)                      
+            b = torch.stack(b)
+            # h_phi, W, b together now make up the classifier.
         
             
             # [2] Adapt task-specific parameters
@@ -66,37 +84,37 @@ def protomaml(config, batch_managers, model):
             h_phi_prime = h_phi.copy()
             f_theta_prime = f_theta.copy() 
             # not this simple...
-            # Make shallow copy of state_dict, and then replace
+            # TODO Make shallow copy of state_dict, and then replace
             # references of task-specific parameters with those to
-            # deep clones? then use that state dict for new 
+            # clones? then use that state dict for a new 
             # f_theta_prime instance of model?
             # Use Tensor.clone so we can backprop through it and 
             # update f_theta as well (if no first order approx).
 
 
-            # TODO make sure that task-specific parameters in f_theta_prime
+            # TODO have task-specific parameters in f_theta_prime
             # as well as parameters in h_phi_prime, W and b 
-            # have requires_grad = True.
+            # set with requires_grad = True.
     
             params = [
                 f_theta_prime.parameters(), 
                 h_phi_prime.parameters(),
                 [W, b]
             ]
-
             params = itertools.chain(*params)
             task_optimizer = optim.Adam(params, lr=alpha)
             task_criterion = torch.nn.CrossEntropyLoss()    
             
             def process_batch(batch):
-                batch_output = f_theta_prime(batch.input)       # d x k
+                batch_input, batch_target = batch
+                batch_output = f_theta_prime(batch_input)       # d x k
                 batch_output = h_phi_prime(batch_output)        # l x k
                 batch_output = W @ batch_output + b             # N x k
                 batch_output = F.softmax(batch_output, dim=0)   # N x k
-                loss = task_criterion(batch_output, batch.target)
+                loss = task_criterion(batch_output, batch_target)
                 return loss
 
-            for step, batch in enumerate(itertools.islice(task_iter, 1)):
+            for step, batch in enumerate([support_set]):
 
                 loss = process_batch(batch)
                 
@@ -110,20 +128,27 @@ def protomaml(config, batch_managers, model):
             # [3] Evaluate adapted params on query set, calc grads.
             
             if first_order_approx:
+                # We are using the approximation so we only backpropagate to the
+                # 'prime' models and will then copy gradients to originals later.
+                
                 # TODO set parameters in f_theta_prime, h_phi_prime, 
                 # to have requires_grad = True
             else:
-                # TODO set parameters in f_theta, h_phi
-                # to have requires_grad = True
-                        
+                # Backpropagate all the way back to originals (through optimization
+                # on the support set and thus requiring second order gradients.)
 
+                # TODO set parameters in f_theta, h_phi (originals)
+                # to have requires_grad = True
+                
+                
             # evaluate on query set (D_val) 
             for step, batch in enumerate(itertools.islice(task_iter, 1)):
-                
                 loss = process_batch(batch)
                 loss.backward()
 
 
+            # if we use first-order approximation, copy gradients to originals manually.
+            # TODO test if this actually works.
             if first_order_approx:
                 with torch.no_grad():
                     pairs = [(f_theta_prime, f_theta), (h_phi_prime, h_phi)]
@@ -131,17 +156,18 @@ def protomaml(config, batch_managers, model):
                         params = zip(prime.named_parameters(), original.named_parameters())
                         for (pNamePr, pValueOr), (pNamePr, pValueOr) in params:
                             if pNamePr != pNameOr:
-                                print(pNamePr)
-                                print(pNameOr)
-                                raise Error("Order in which named parameters are returned is probably not deterministic?")
+                                raise Error("Order in which named parameters are returned is probably not deterministic? \n names: {}, {}"
+                                           .format(pNamePr, pNameOr))
                             pValueOr.grad += pValuePr.grad.clone()
 
             # end of inner loop
 
-        #TODO divide gradients by number of tasks?
-        optimizer.step()        
+        # we have now accumulated gradients in the originals
+        #TODO divide gradients by number of tasks? or just have learning rate be lower?
+        optimizer.step()
 
-        
+    
+    
         
 if __name__ == "__main__":
      # Parse training configuration
