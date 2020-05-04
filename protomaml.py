@@ -110,6 +110,7 @@ def protomaml(config, batch_managers, model):
                 batch_input, batch_target = batch
                 batch_output = f_theta_prime(batch_input)       # d x k
                 batch_output = h_phi_prime(batch_output)        # l x k
+                # TODO add nonlinearity?
                 batch_output = W @ batch_output + b             # N x k
                 batch_output = F.softmax(batch_output, dim=0)   # N x k
                 loss = task_criterion(batch_output, batch_target)
