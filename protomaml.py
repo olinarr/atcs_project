@@ -196,6 +196,10 @@ def protomaml(config, batch_managers, model):
             if p.requires_grad:
                 p.grad.data = accumulated_gradients[n]
         optimizer.step()
+
+
+    model.deactivate_linear_layer()
+    return model.state_dict(), None
     
         
 if __name__ == "__main__":
