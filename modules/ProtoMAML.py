@@ -111,49 +111,14 @@ class ProtoMAML(nn.Module):
             # self.FFN = nn.Sequential(nn.Linear(768, 768).to(device), nn.ReLU(), linear)
             self.FFN = linear
 
-    def duplicate(self, first_order = True):
-        """ Duplicate this model. 
+    def revert_state(self, state_dict):
+        """ Revert to the original model. Of course, we deactivate the generated layer.
 
         Parameters:
-        first_order (bool): whether to use fo approximation of MAML. If False, then the gradients should flow through it.
+        state_dict: the original weights"""
 
-        Returns:
-        (ProtoMAML): a copy of this model"""
-
-        if first_order:
-            # TODO figure out why deepcopy won't work
-            with torch.no_grad():
-                new_model = ProtoMAML(device = self.device, trainable_layers = self.trainable_layers)
-                new_model.FFN = None if self.FFN is None else nn.Linear(768, self.FFN.out_features)
-                new_model.load_state_dict(self.state_dict())
-                return new_model 
-        else:
-            raise NotImplementedError("Second order not implemtented.")
-
-    def accumulateGradients(self, model_prime, first_order = True):
-        """Accumulate (add) the gradients from another model.
-
-        Parameters:
-        model_prime (ProtoMAML): the model from which the gradients must be 'Inherited'
-        first_order (bool): whether to use fo approximation of MAML"""
-
-        # if we use first-order approximation, copy gradients to originals manually.
-        # TODO test if this actually works.
-        if first_order:
-            with torch.no_grad():
-                params = zip(model_prime.named_parameters(), self.named_parameters())
-                for (pNamePr, pValuePr), (pNameOr, pValueOr) in params:
-                    assert pNamePr == pNameOr, \
-                        "Order in which named parameters are returned is probably not deterministic? \n names: {}, {}".format(pNamePr, pNameOr)
-
-                    if pValuePr.requires_grad:
-                        assert pValueOr.requires_grad, \
-                            "A parameter which did not need the gradients, now needs it!\nparameter {}:".format(pNameOr)
-
-                        # sum to the original if it was already something, otherwise init with it
-                        pValueOr.grad = pValuePr.grad if pValueOr.grad is None else pValueOr.grad + pValuePr.grad
-        else:
-            raise NotImplementedError("Second order not implemtented.")
+        self.FFN = None
+        self.load_state_dict(state_dict)
 
     def forward(self, inputs):
         """Forward function of the model

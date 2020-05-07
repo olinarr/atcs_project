@@ -1,5 +1,4 @@
 # Main TODO :
-# * improve efficiency of the copy of the model. Try to use deepcopy similarly as done in here https://openai.com/blog/reptile/
 # * figure out how to make gradients flow through the parameter generation OR repeat that operation to accumulate the gradients
 # * implement second order (perhaps)
 
@@ -11,6 +10,8 @@ import itertools
 
 import os
 import argparse
+from copy import deepcopy
+from collections import defaultdict
 
 from utils.episodeLoader import EpisodeLoader
 from modules.ProtoMAML import ProtoMAML
@@ -82,13 +83,24 @@ def protomaml(config, batch_managers, model):
         samples_per_episode = SAMPLES_PER_EPISODE, 
         num_workers = NUM_WORKERS
     )
+
     for i, batch in enumerate(episode_loader):        
 
         # a batch of episodes
         
         optimizer.zero_grad()
+
+        # external data structured used to accumulate gradients.
+        # TODO: are we sure we are accumulating the gradients
+        # across different tasks?
+
+        accumulated_gradients = defaultdict(lambda : None)   
         
         for j, task_iter in enumerate(batch):
+
+            # save original parameters. Will be reloaded later.
+
+            original_weights = deepcopy(model.state_dict())
 
             print(f'episode {i}, task {j}', flush = True)
 
@@ -99,11 +111,9 @@ def protomaml(config, batch_managers, model):
             support_set = next(iter(task_iter))
 
             # [1] Calculate parameters for softmax.
-            
-            # TODO: change this. Deepcopy should be faster. Probably this is currently the bottleneck
-            model_prime = model.duplicate(config.first_order_approx)
+
             # TODO: make gradients flow inside this function. (Or create them again)
-            model_prime.generateParams(support_set)
+            model.generateParams(support_set)
             
             # [2] Adapt task-specific parameters
 
@@ -123,14 +133,14 @@ def protomaml(config, batch_managers, model):
             ]
             params = itertools.chain(*params)"""
 
-            task_optimizer = optim.SGD(model_prime.parameters(), lr=alpha)
+            task_optimizer = optim.SGD(model.parameters(), lr=alpha)
             task_criterion = torch.nn.CrossEntropyLoss()
 
             for step, batch in enumerate([support_set] * config.k):
 
                 batch_inputs, batch_targets = batch
 
-                out = model_prime(batch_inputs)
+                out = model(batch_inputs)
                 loss = task_criterion(out, batch_targets)
                 
                 task_optimizer.zero_grad()
@@ -158,20 +168,33 @@ def protomaml(config, batch_managers, model):
             # evaluate on query set (D_val) 
             for step, batch in enumerate(itertools.islice(task_iter, 1)):
                 batch_inputs, batch_targets = batch
-                out = model_prime(batch_inputs)
+                out = model(batch_inputs)
                 
                 loss = task_criterion(out, batch_targets)
 
-                model_prime.zero_grad()
+                model.zero_grad()
                 loss.backward()
 
-            model.accumulateGradients(model_prime, config.first_order_approx)
+            # accumulate the gradients
+            for n, p in model.named_parameters():
+                if p.requires_grad and n not in ('FFN.weight', 'FFN.bias'):
+                    if accumulated_gradients[n] is None:
+                        accumulated_gradients[n] = p.grad.data
+                    else:
+                        accumulated_gradients[n] += p.grad.data
+
+            # return to original model
+            model.revert_state(original_weights)
 
             # end of inner loop
 
         # we have now accumulated gradients in the originals
-        #TODO divide gradients by number of tasks? or just have learning rate be lower?
+        # TODO divide gradients by number of tasks? or just have learning rate be lower?
 
+        # load the accumulated gradients and optimize
+        for n, p in model.named_parameters():
+            if p.requires_grad:
+                p.grad.data = accumulated_gradients[n]
         optimizer.step()
     
         
