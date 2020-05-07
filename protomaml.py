@@ -1,5 +1,11 @@
+# Main TODO :
+# * improve efficiency of the copy of the model. Try to use deepcopy similarly as done in here https://openai.com/blog/reptile/
+# * figure out how to make gradients flow through the parameter generation OR repeat that operation to accumulate the gradients
+# * implement second order (perhaps)
+
 import torch
 import torch.nn as nn
+import torch.optim as optim
 
 import itertools
 
@@ -7,7 +13,7 @@ import os
 import argparse
 
 from utils.episodeLoader import EpisodeLoader
-from modules.FineTunedBERT import FineTunedBERT
+from modules.ProtoMAML import ProtoMAML
 from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
 
 from transformers import AdamW, get_linear_schedule_with_warmup
@@ -38,7 +44,7 @@ def load_model(config):
 
     # n_classes = None cause we don't use it
     # use_classifier = False cause we don't use it
-    model = FineTunedBERT(device = config.device, n_classes = None, trainable_layers = trainable_layers, use_classifier = False)
+    model = ProtoMAML(device = config.device, trainable_layers = trainable_layers)
 
     """# if we saved the state dictionary, load it.
     if config.resume:
@@ -53,27 +59,18 @@ def load_model(config):
     return model
 
 
-def protomaml(config, batch_managers, BERT):
+def protomaml(config, batch_managers, model):
 
     CLASSIFIER_DIMS = 768
     
     # TODO figure out proper strategy for saving/loading these 
     # meta-learning models.
-    
-    # initialization
-    f_theta = BERT
-    h_phi = nn.Linear(CLASSIFIER_DIMS, CLASSIFIER_DIMS).to(config.device)
-
-    params = itertools.chain(
-        f_theta.parameters(),
-        h_phi.parameters()
-    )
 
     # TODO learnable alpha, beta learning rates?
     beta = config.beta
     alpha = config.alpha
     
-    optimizer = AdamW(params, lr=beta)
+    optimizer = AdamW(model.parameters(), lr=beta)
     criterion = torch.nn.CrossEntropyLoss()    
 
     # for protomaml we use two samples (support and query)
@@ -102,43 +99,14 @@ def protomaml(config, batch_managers, BERT):
             support_set = next(iter(task_iter))
 
             # [1] Calculate parameters for softmax.
-
-            with torch.no_grad():
             
-                batch_input = support_set[0]            # d x t x k <-- TODO this is not the dimension!
-                batch_target = support_set[1]           # k
-
-                # encode sequences 
-                batch_input = f_theta(batch_input)      # k x d
-                
-                classes = batch_target.unique()         # N
-                W = []
-                b = []
-                for cls in classes:
-                    cls_idx   = (batch_target == cls).nonzero()
-                    cls_input = torch.index_select(batch_input, dim=0, index=cls_idx.flatten())
-                                                        # C x d
-                                    
-                    # prototype is mean of support samples (also c_k)
-                    prototype = cls_input.mean(dim=0)         # d
-                    
-                    # see proto-maml paper, this corresponds to euclidean distance
-                    W.append(2 * prototype)
-                    b.append(- prototype.norm() ** 2)
-                
-                # the transposes are because the dimensions were wrong!
-                W = torch.stack(W).t()         # d x C
-                b = torch.stack(b)
-                # h_phi, W, b together now make up the classifier.
-        
+            # TODO: change this. Deepcopy should be faster. Probably this is currently the bottleneck
+            model_prime = model.duplicate(config.first_order_approx)
+            # TODO: make gradients flow inside this function. (Or create them again)
+            model_prime.generateParams(support_set)
             
             # [2] Adapt task-specific parameters
 
-            h_phi_prime = nn.Linear(CLASSIFIER_DIMS, CLASSIFIER_DIMS).to(config.device)
-            h_phi_prime.load_state_dict(h_phi.state_dict())
-
-            f_theta_prime = load_model(config)
-            f_theta_prime.load_state_dict(f_theta.state_dict())
             # not this simple...
             # TODO Make shallow copy of state_dict, and then replace
             # references of task-specific parameters with those to
@@ -147,38 +115,27 @@ def protomaml(config, batch_managers, BERT):
             # Use Tensor.clone so we can backprop through it and 
             # update f_theta as well (if no first order approx).
     
-            W.requires_grad, b.requires_grad = True, True
+            """W.requires_grad, b.requires_grad = True, True
             params = [
                 f_theta_prime.parameters(), 
                 h_phi_prime.parameters(),
                 [W, b]
             ]
-            params = itertools.chain(*params)
+            params = itertools.chain(*params)"""
 
-            task_optimizer = AdamW(params, lr=alpha)
-            task_criterion = torch.nn.CrossEntropyLoss()    
-            
-            def process_batch(batch):
-                # pass to device!
-                batch_input, batch_target = batch
-                batch_output = f_theta_prime(batch_input)       # k x d
-                batch_output = h_phi_prime(batch_output)        # k x l
-                # TODO add nonlinearity?
-                batch_output = batch_output @ W + b             # k x N
-                # TODO no softmax, right? it's already in CELoss
-                # batch_output = F.softmax(batch_output, dim=0)   # k x N
-                loss = task_criterion(batch_output, batch_target)
-                return loss
+            task_optimizer = optim.SGD(model_prime.parameters(), lr=alpha)
+            task_criterion = torch.nn.CrossEntropyLoss()
 
-            for step, batch in enumerate([support_set]):
+            for step, batch in enumerate([support_set] * config.k):
 
-                loss = process_batch(batch)
+                batch_inputs, batch_targets = batch
+
+                out = model_prime(batch_inputs)
+                loss = task_criterion(out, batch_targets)
                 
-                task_optimizer.zero_grad() 
+                task_optimizer.zero_grad()
                 loss.backward()
                 task_optimizer.step()
-
-                # TODO logging
 
             # [3] Evaluate adapted params on query set, calc grads.
             
@@ -200,39 +157,22 @@ def protomaml(config, batch_managers, BERT):
                 
             # evaluate on query set (D_val) 
             for step, batch in enumerate(itertools.islice(task_iter, 1)):
-                f_theta_prime.zero_grad()
-                h_phi_prime.zero_grad()
-                W.grad.data.zero_()
-                b.grad.data.zero_() # TODO can we avoid these last two?
+                batch_inputs, batch_targets = batch
+                out = model_prime(batch_inputs)
+                
+                loss = task_criterion(out, batch_targets)
 
-                loss = process_batch(batch)
+                model_prime.zero_grad()
                 loss.backward()
 
-
-            # if we use first-order approximation, copy gradients to originals manually.
-            # TODO test if this actually works.
-            if config.first_order_approx:
-                with torch.no_grad():
-                    pairs = [(f_theta_prime, f_theta), (h_phi_prime, h_phi)]
-                    for prime, original in pairs:
-                        params = zip(prime.named_parameters(), original.named_parameters())
-                        for (pNamePr, pValuePr), (pNameOr, pValueOr) in params:
-                            if pNamePr != pNameOr:
-                                raise Error("Order in which named parameters are returned is probably not deterministic? \n names: {}, {}"
-                                           .format(pNamePr, pNameOr))
-                            if pValuePr.requires_grad:
-                                assert pValueOr.requires_grad # check we did not add new parameters
-                                pValueOr.grad = pValuePr.grad if pValueOr.grad is None else pValueOr.grad + pValuePr.grad
-            else:
-                raise NotImplementedError()
+            model.accumulateGradients(model_prime, config.first_order_approx)
 
             # end of inner loop
 
         # we have now accumulated gradients in the originals
         #TODO divide gradients by number of tasks? or just have learning rate be lower?
-        optimizer.step()
 
-    
+        optimizer.step()
     
         
 if __name__ == "__main__":
@@ -241,6 +181,7 @@ if __name__ == "__main__":
 
     # Model params
     parser.add_argument('--batch_size', type=int, default="4", help="Batch size")
+    parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 2e-5)
@@ -257,7 +198,7 @@ if __name__ == "__main__":
     torch.manual_seed(config.random_seed)
     config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
-    BERT = load_model(config)
+    model = load_model(config)
 
     batchmanager1 = MultiNLIBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
@@ -267,7 +208,7 @@ if __name__ == "__main__":
 
     # Train the model
     print('Beginning the training...', flush = True)
-    state_dict, dev_acc = protomaml(config, batchmanagers, BERT)
+    state_dict, dev_acc = protomaml(config, batchmanagers, model)
     
     print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
 

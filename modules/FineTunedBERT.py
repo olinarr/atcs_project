@@ -3,20 +3,18 @@ import torch.nn as nn
 
 class FineTunedBERT(nn.Module):
 
-    def __init__(self, n_classes = 3, device = 'cpu', trainable_layers = [9, 10,11], use_classifier = True):
+    def __init__(self, n_classes = 3, device = 'cpu', trainable_layers = [9, 10,11]):
         """Init of the model
 
         Parameters:
         n_classes (int): Number of output classes
         device (str): CUDA or cpu
         trainable_layers (list(int)): BERT layers to be trained
-        use_classifier (bool): if true, we use the classifier. If false, we return the raw BERT output
 
         """
         super(FineTunedBERT, self).__init__()
 
         self.device = device
-        self.use_classifier = use_classifier
         
         # load pre-trained BERT: tokenizer and the model.
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
@@ -25,7 +23,7 @@ class FineTunedBERT(nn.Module):
         # FFN: classifier to fine-tune.
         # 768 is the dimension of BERT hidden layers!
         # if no classifier is used: None, so we don't use the params
-        self.classifier = nn.Linear(768, n_classes).to(device) if self.use_classifier else None
+        self.classifier = nn.Linear(768, n_classes).to(device)
 
 
         # deactivate gradients on the parameters we do not need.
@@ -74,14 +72,4 @@ class FineTunedBERT(nn.Module):
 
         # out is BATCH x SENT_LENGTH x EMBEDDING LENGTH
         # we get the first token (the [CLS] token) and classify on it.
-        # If no classifier, return the raw BERT encoded seq
-        return self.classifier(out[:, 0, :]) if self.use_classifier else out[:, 0, :]
-
-    #def parameters(self):
-        """Returns the non-frozen parameters
-
-        Returns:
-        Generator object of parameters s.t. require_grads = True
-
-        """
-    #    return filter(lambda p: p.requires_grad, super(FineTunedBERT, self).parameters())
+        return self.classifier(out[:, 0, :])
