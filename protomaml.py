@@ -1,4 +1,7 @@
-# Main TODO :
+# Main TODO (decreasing order of urgence):
+# * biggest issue right now: support and query might have different number of labels!!
+# * labels shuffling
+# * have more samples in D_train than in D_val |D_train| > |D_val|
 # * figure out how to make gradients flow through the parameter generation OR repeat that operation to accumulate the gradients
 # * implement second order (perhaps)
 
@@ -100,9 +103,9 @@ def protomaml(config, batch_managers, model):
 
             # save original parameters. Will be reloaded later.
 
-            original_weights = deepcopy(model.state_dict())
+            print(f'batch {i}, task {j}', flush = True)
 
-            print(f'episode {i}, task {j}', flush = True)
+            original_weights = deepcopy(model.state_dict())
 
             # k     samples per tasks
             # t     length of sequence per sample
@@ -169,7 +172,7 @@ def protomaml(config, batch_managers, model):
             for step, batch in enumerate(itertools.islice(task_iter, 1)):
                 batch_inputs, batch_targets = batch
                 out = model(batch_inputs)
-                
+
                 loss = task_criterion(out, batch_targets)
 
                 model.zero_grad()
