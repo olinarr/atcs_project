@@ -149,6 +149,40 @@ class MRPCBatchManager(BatchManager):
         self.initialize(batch_size)
         self.device = device
 
+class PDBBatchManager(BatchManager):
+    """
+    Batch Manager for the Penn Discourse Bank dataset
+    """
+
+    def collate(self,samples):
+        batch = [(sample['sent1'], sample['sent2']) for sample in samples]
+        labels = [sample['label'] for sample in samples]
+        labels = [self.l2i[label] for label in labels]
+        return batch, torch.tensor(labels, device = self.device, requires_grad = False)
+
+    def __init__(self, batch_size = 32, device = 'cpu'):
+                # Get a mapping from relations to labels
+        self.l2i = {'Temporal.Asynchronous.Succession': 0, 'Comparison.Contrast': 1, 'Expansion.Level-of-detail.Arg2-as-detail': 2, 'Contingency.Cause.Result': 3, 
+                    'Temporal.Asynchronous.Precedence': 4, 'Expansion.Conjunction': 5, 'Contingency.Cause.Reason': 6, 'Comparison.Concession.Arg1-as-denier': 7, 
+                    'Comparison.Concession.Arg2-as-denier': 8, 'Expansion.Instantiation.Arg2-as-instance': 9, 'Comparison.Similarity': 10, 'Contingency.Condition.Arg2-as-cond': 11, 
+                    'Temporal.Synchronous': 12, 'Expansion.Equivalence': 13, 'Expansion.Manner.Arg2-as-manner': 14, 'Expansion.Level-of-detail.Arg1-as-detail': 15, 
+                    'Contingency.Purpose.Arg2-as-goal': 16, 'Expansion.Disjunction': 17, 'Expansion.Substitution.Arg2-as-subst': 18, 
+                    'Contingency.Negative-condition.Arg2-as-negCond': 19, 'Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct': 20, 'Contingency.Cause+Belief.Reason+Belief': 21, 
+                    'Contingency.Condition+SpeechAct': 22, 'Contingency.Negative-condition.Arg1-as-negCond': 23, 'Expansion.Manner.Arg1-as-manner': 24, 
+                    'Contingency.Cause+Belief.Result+Belief': 25, 'Expansion.Substitution.Arg1-as-subst': 26, 'Contingency.Cause+SpeechAct.Result+SpeechAct': 27, 
+                    'Expansion.Exception.Arg2-as-excpt': 28, 'Contingency.Condition.Arg1-as-cond': 29, 'Expansion.Exception.Arg1-as-excpt': 30, 'Contingency.Purpose.Arg1-as-goal': 31, 
+                    'Contingency.Negative-cause.NegResult': 32, 'Expansion.Instantiation.Arg1-as-instance': 33, 'Contingency.Cause+SpeechAct.Reason+SpeechAct': 34, 'EntRel': 35, 
+                    'NoRel': 36, 'Hypophora': 37}
+        
+        train = pd.read_csv('./data/pdb/PDB_train_labeled.csv',sep="|")
+        dev = pd.read_csv('./data/pdb/PDB_dev_labeled.csv',sep="|")
+        test = pd.read_csv('./data/pdb/PDB_test_labeled.csv',sep="|")
+        self.train_set = train[['sent1','sent2','label']]
+        self.dev_set   = dev[['sent1','sent2','label']]
+        self.test_set  = test[['sent1','sent2','label']]
+
+        self.initialize(batch_size)
+        self.device = device
 
 if __name__ == "__main__":
     batchmanager = IBMBatchManager()

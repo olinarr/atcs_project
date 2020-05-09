@@ -7,7 +7,7 @@ import torch
 from transformers import AdamW, get_linear_schedule_with_warmup
 
 from modules.FineTunedBERT import FineTunedBERT
-from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
+from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager
 
 # path of the trained state dict
 MODELS_PATH = './state_dicts/'
@@ -153,7 +153,7 @@ if __name__ == "__main__":
     parser.add_argument('--lr', type=float, help='Learning rate', default = 2e-5)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
-    parser.add_argument('--dataset', type=str, default='IBM', help='Select the dataset to be used')
+    parser.add_argument('--dataset', type=str, default='PDB', help='Select the dataset to be used')
     config = parser.parse_args()
 
     torch.manual_seed(config.random_seed)
@@ -172,7 +172,10 @@ if __name__ == "__main__":
         batchmanager = IBMBatchManager(batch_size = config.batch_size, device = config.device)
     elif config.dataset.lower() in ('paraphrase', 'mrp', 'mrpc'):
         config.dataset = 'MRPC'
-        batchmanager = MRPCBatchManager(batch_size = config.batch_size, device = config.device)        
+        batchmanager = MRPCBatchManager(batch_size = config.batch_size, device = config.device)
+    elif config.dataset.lower() in ('discourse', 'pdb'):
+        config.dataset = 'PDB'
+        batchmanager = PDBBatchManager(batch_size = config.batch_size, device= config.device)
     else:
         raise NotImplementedError
 
