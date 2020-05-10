@@ -7,7 +7,7 @@ import torch
 from transformers import AdamW, get_linear_schedule_with_warmup
 
 from modules.FineTunedBERT import FineTunedBERT
-from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
+from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager
 
 # path of the trained state dict
 MODELS_PATH = './state_dicts/'
@@ -50,7 +50,12 @@ def load_model(config):
     FineTunedBERT: the loaded model"""
 
     # some datasets have 3 classes, some other 2!
-    n_classes = 3 if config.dataset != 'MRPC' else 2
+    if config.dataset == 'PDB':
+        n_classes = 38
+    elif config.dataset != 'MRPC':
+        n_classes = 3 
+    else:
+        n_classes = 2
     trainable_layers = [9, 10, 11]
     assert min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
     model = FineTunedBERT(device = config.device, n_classes = n_classes, trainable_layers = trainable_layers)
@@ -153,13 +158,11 @@ if __name__ == "__main__":
     parser.add_argument('--lr', type=float, help='Learning rate', default = 2e-5)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
-    parser.add_argument('--dataset', type=str, default='IBM', help='Select the dataset to be used')
+    parser.add_argument('--dataset', type=str, default='PDB', help='Select the dataset to be used')
     config = parser.parse_args()
 
     torch.manual_seed(config.random_seed)
     config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
-
-    model = load_model(config)
 
     # choose the dataset!
     if config.dataset.lower() in ('nli', 'multinli', 'mnli'): 
@@ -172,9 +175,14 @@ if __name__ == "__main__":
         batchmanager = IBMBatchManager(batch_size = config.batch_size, device = config.device)
     elif config.dataset.lower() in ('paraphrase', 'mrp', 'mrpc'):
         config.dataset = 'MRPC'
-        batchmanager = MRPCBatchManager(batch_size = config.batch_size, device = config.device)        
+        batchmanager = MRPCBatchManager(batch_size = config.batch_size, device = config.device)
+    elif config.dataset.lower() in ('discourse', 'pdb'):
+        config.dataset = 'PDB'
+        batchmanager = PDBBatchManager(batch_size = config.batch_size, device= config.device)
     else:
         raise NotImplementedError
+
+    model = load_model(config)
 
     # Train the model
     print('Beginning the training...', flush = True)
