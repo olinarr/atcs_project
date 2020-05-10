@@ -50,7 +50,12 @@ def load_model(config):
     FineTunedBERT: the loaded model"""
 
     # some datasets have 3 classes, some other 2!
-    n_classes = 3 if config.dataset != 'MRPC' else 2
+    if config.dataset == 'PDB':
+        n_classes = 38
+    elif config.dataset != 'MRPC':
+        n_classes = 3 
+    else:
+        n_classes = 2
     trainable_layers = [9, 10, 11]
     assert min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
     model = FineTunedBERT(device = config.device, n_classes = n_classes, trainable_layers = trainable_layers)
@@ -159,8 +164,6 @@ if __name__ == "__main__":
     torch.manual_seed(config.random_seed)
     config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
-    model = load_model(config)
-
     # choose the dataset!
     if config.dataset.lower() in ('nli', 'multinli', 'mnli'): 
         # normalize
@@ -178,6 +181,8 @@ if __name__ == "__main__":
         batchmanager = PDBBatchManager(batch_size = config.batch_size, device= config.device)
     else:
         raise NotImplementedError
+
+    model = load_model(config)
 
     # Train the model
     print('Beginning the training...', flush = True)

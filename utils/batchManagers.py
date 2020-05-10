@@ -177,9 +177,9 @@ class PDBBatchManager(BatchManager):
         train = pd.read_csv('./data/pdb/PDB_train_labeled.csv',sep="|")
         dev = pd.read_csv('./data/pdb/PDB_dev_labeled.csv',sep="|")
         test = pd.read_csv('./data/pdb/PDB_test_labeled.csv',sep="|")
-        self.train_set = train[['sent1','sent2','label']]
-        self.dev_set   = dev[['sent1','sent2','label']]
-        self.test_set  = test[['sent1','sent2','label']]
+        self.train_set = DataframeDataset(train[['sent1','sent2','label']])
+        self.dev_set   = DataframeDataset(dev[['sent1','sent2','label']])
+        self.test_set  = DataframeDataset(test[['sent1','sent2','label']])
 
         self.initialize(batch_size)
         self.device = device
