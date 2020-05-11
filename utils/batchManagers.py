@@ -44,6 +44,11 @@ class MultiNLIBatchManager(BatchManager):
         LABEL = torchtext.data.Field(sequential = False)
 
         self.train_set, self.dev_set, self.test_set = torchtext.datasets.MultiNLI.splits(TEXT, LABEL)
+
+        self.train_set = ListDataset(list(self.train_set))
+        self.dev_set   = ListDataset(list(self.dev_set))
+        self.test_set  = ListDataset(list(self.test_set))
+
         self.batch_size = batch_size
 
         # mapping from classes to integers
