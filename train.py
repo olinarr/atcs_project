@@ -90,7 +90,7 @@ def train(config, batchmanager, model):
 
     # filter out from the optimizer the "frozen" parameters,
     # which are the parameters without requires grad.
-    optimizer = AdamW(model.trainable_parameters(), lr=config.lr)
+    optimizer = AdamW(model.parameters(), lr=config.lr)
     scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps = 0, num_training_steps = len(batchmanager.train_iter) * config.epochs)
 
     # compute initial dev accuracy (to check whether it is 1/n_classes)
@@ -116,7 +116,7 @@ def train(config, batchmanager, model):
                 if i != 0 and i % config.loss_print_rate == 0:
                     print(f'epoch #{epoch+1}/{config.epochs}, batch #{i}/{len(batchmanager.train_iter)}: loss = {loss.item()}', flush = True)
 
-                torch.nn.utils.clip_grad_norm_(model.trainable_parameters(), 1.0)
+                torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
 
                 optimizer.step()
                 scheduler.step() # update lr
