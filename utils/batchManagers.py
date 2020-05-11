@@ -13,6 +13,8 @@ class BatchManager():
      *  call the initialize function at the end of your constructor;
      *  override the collate function which should take a list of dataset elements 
      and combine them into a batch.
+     *  override the classes function which should return a Tensor with the possible 
+        class indices
      
      Override class variables in your subclass as needed.
     """
@@ -21,7 +23,10 @@ class BatchManager():
     
     def collate(self):
         pass
-    
+   
+    def classes(self):
+        pass
+
     def initialize(self, batch_size):
         # create the three iterators
         self.train_iter = DataLoader(self.train_set, batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
@@ -36,7 +41,10 @@ class MultiNLIBatchManager(BatchManager):
     def collate(self, samples):
         return [(example.premise, example.hypothesis) for example in samples],\
                 torch.tensor([self.l2i[example.label] for example in samples], device = self.device, requires_grad = False)
-    
+   
+    def classes(self):
+        return list(self.l2i.values())
+
     def __init__(self, batch_size = 32, device = 'cpu'):
         # sequential false -> no tokenization. Why? Because right now this
         # happens instead of BERT
@@ -70,6 +78,9 @@ class IBMBatchManager(BatchManager):
     Batch Manager for the IBM dataset
     """
     
+    def classes(self):
+        return list(self.l2i.values())
+
     def collate(self, samples):
         batch = [(sample['topicText'], sample['claims.claimCorrectedText']) for sample in samples]
         labels = [sample['claims.stance'] for sample in samples]
@@ -121,6 +132,9 @@ class MRPCBatchManager(BatchManager):
         return [(example[1], example[2]) for example in samples],\
                     torch.tensor([example[0] for example in samples], device = self.device, requires_grad = False)
     
+    def classes(self):
+        return [0, 1] 
+
     def __init__(self, batch_size = 32, device = 'cpu'):
         """
         Initializes the dataset
@@ -159,6 +173,9 @@ class PDBBatchManager(BatchManager):
         labels = [sample['label'] for sample in samples]
         labels = [self.l2i[label] for label in labels]
         return batch, torch.tensor(labels, device = self.device, requires_grad = False)
+
+    def classes(self):
+        return list(self.l2i.values())
 
     def __init__(self, batch_size = 32, device = 'cpu'):
                 # Get a mapping from relations to labels

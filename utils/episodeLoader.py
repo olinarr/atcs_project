@@ -28,6 +28,10 @@ class EpisodeLoader(data.IterableDataset):
     
     @classmethod
     def create_dataloader(cls, k, batch_managers, batch_size, samples_per_episode=2, weight_fn=None, num_workers=0):
+        # TODO actually fix this problem with multithreading...
+        print("num_workers overriden to 0 as temporary fix for problem with MultiNLI")
+        num_workers=0
+
         episodeDataset = EpisodeLoader(k, batch_managers, samples_per_episode=samples_per_episode, weight_fn=weight_fn)
         collate_fn = lambda x : x # have identity function as collate_fn so we just get list.
         return data.DataLoader(episodeDataset, collate_fn = collate_fn, batch_size = batch_size, num_workers=num_workers)
@@ -87,30 +91,30 @@ class EpisodeLoader(data.IterableDataset):
             return data.DataLoader(self.batch_managers[i].train_set, batch_size=self.k,\
                                    sampler=sampler, collate_fn=self.batch_managers[i].collate, drop_last=True)
         
-        
+
         # Use heap for prioqueue to select tasks in correct proportion.
-        worker_subsets = [(0, 0, i, get_dataloader(i)) for i,_ in enumerate(self.batch_managers)]
+        worker_subsets = [(0, 0, i, get_dataloader(i), bm) for i,bm in enumerate(self.batch_managers)]
         heapify(worker_subsets)
         
         while True:
-            prio, count, i, next_set = worker_subsets[0]
+            prio, count, i, next_set, bm = worker_subsets[0]
             
             # update count
             count += 1
-            worker_subsets[0] = (prio, count, i, next_set)
+            worker_subsets[0] = (prio, count, i, next_set, bm)
             
             # calculate new priorities
             def calc_prio(i, count, total_count):
                 return (count / total_count) - self.target_proportions[i]
             
-            total_count = sum(count for _, count, _, _ in worker_subsets)
-            worker_subsets = [(calc_prio(i, count, total_count), count, i, next_set) \
-                              for prio, count, i, next_set in worker_subsets]
+            total_count = sum(count for _, count, _, _, _ in worker_subsets)
+            worker_subsets = [(calc_prio(i, count, total_count), count, i, next_set, bm) \
+                              for prio, count, i, next_set, bm in worker_subsets]
             
             # update heap with new priorities before yielding.
             heapify(worker_subsets)
                               
-            yield next_set # this is the T_i from which we draw D_tr and D_val
+            yield (next_set, bm) # next_set is the T_i from which we draw D_tr and D_val
         
         
         
@@ -122,24 +126,38 @@ if __name__ == "__main__":
     batch_size = 4
     
     device = "cpu"
-    from batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
+    from batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager
     batchManager1 = IBMBatchManager(batch_size = k, device = device)
     batchManager2 = MRPCBatchManager(batch_size = k, device = device)      
-        
-    episodeLoader = EpisodeLoader.create_dataloader(
-        k,  [batchManager1, batchManager2], batch_size,
-        samples_per_episode = samples_per_episode, 
-        num_workers = 2
-    )
+    batchManager3 = MultiNLIBatchManager(batch_size = k, device = device)      
+    batchManager4 = PDBBatchManager(batch_size = k, device = device)
+
+    samples = np.arange(0, 50)
+    sampler = data.SubsetRandomSampler(samples)
+
+    print("Confirming that MultiNLI can work with dataloader")
+    test = data.DataLoader(batchManager3.train_set, batch_size=k,\
+                           sampler=sampler, collate_fn=batchManager3.collate, drop_last=True, num_workers=2)
+    for x in test:
+        print(x)
     
+
+
+    episodeLoader = EpisodeLoader.create_dataloader(
+        k,  [batchManager1, batchManager2, batchManager3, batchManager4], batch_size,
+        samples_per_episode = samples_per_episode
+    )
+   
+
     for i, batch in enumerate(episodeLoader): 
         if i == 5000:
             break
             
-        for j, episode in enumerate(batch):
+        for j, (episode, bm) in enumerate(batch):
+           
+            print("Episode of {:>25} can have class-indices: {}".format(type(bm).__name__, bm.classes()))
+            
             for k, task in enumerate(episode):
-                
-                #print(task)
                 
                 if k + 1 == samples_per_episode:
                     break
