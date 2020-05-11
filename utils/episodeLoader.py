@@ -3,7 +3,7 @@ import numpy as np
 import torch
 import torch.utils.data as data
 
-import math
+import math, itertools
 
 from heapq import heappop, heappush, heapify
 
@@ -29,8 +29,9 @@ class EpisodeLoader(data.IterableDataset):
     @classmethod
     def create_dataloader(cls, k, batch_managers, batch_size, samples_per_episode=2, weight_fn=None, num_workers=0):
         # TODO actually fix this problem with multithreading...
-        print("num_workers overriden to 0 as temporary fix for problem with MultiNLI")
-        num_workers=0
+        if num_workers != 0:
+            print("num_workers overriden to 0 as temporary fix for problem with MultiNLI")
+            num_workers=0
 
         episodeDataset = EpisodeLoader(k, batch_managers, samples_per_episode=samples_per_episode, weight_fn=weight_fn)
         collate_fn = lambda x : x # have identity function as collate_fn so we just get list.
@@ -58,7 +59,7 @@ class EpisodeLoader(data.IterableDataset):
         self.batch_managers = batch_managers
         self.weight_fn = weight_fn
 
-        self.weighted_lengths = [self.weight_fn(len(btchmngr.train_set)) for btchmngr in batch_managers]
+        self.weighted_lengths = [self.weight_fn(btchmngr.task_size()) for btchmngr in batch_managers]
         self.total_weighted = sum(self.weighted_lengths)
         self.target_proportions = [weighted / self.total_weighted for weighted in self.weighted_lengths]
         
@@ -130,8 +131,9 @@ if __name__ == "__main__":
     batchManager1 = IBMBatchManager(batch_size = k, device = device)
     batchManager2 = MRPCBatchManager(batch_size = k, device = device)      
     batchManager3 = MultiNLIBatchManager(batch_size = k, device = device)      
-    batchManager4 = PDBBatchManager(batch_size = k, device = device)
+    #batchManager4 = PDBBatchManager(batch_size = k, device = device)
 
+    """
     samples = np.arange(0, 50)
     sampler = data.SubsetRandomSampler(samples)
 
@@ -140,14 +142,15 @@ if __name__ == "__main__":
                            sampler=sampler, collate_fn=batchManager3.collate, drop_last=True, num_workers=2)
     for x in test:
         print(x)
-    
+    """    
 
+    bms = [batchManager1, batchManager2]
+    bms.extend(list(batchManager3.get_subtasks(2)))
 
     episodeLoader = EpisodeLoader.create_dataloader(
-        k,  [batchManager1, batchManager2, batchManager3, batchManager4], batch_size,
+        k, bms, batch_size,
         samples_per_episode = samples_per_episode
     )
-   
 
     for i, batch in enumerate(episodeLoader): 
         if i == 5000:
@@ -155,7 +158,7 @@ if __name__ == "__main__":
             
         for j, (episode, bm) in enumerate(batch):
            
-            print("Episode of {:>25} can have class-indices: {}".format(type(bm).__name__, bm.classes()))
+            print("Episode of {:>25} can have class-indices: {:12} {}".format(type(bm).__name__, str(bm.classes()), str(bm.l2i)))
             
             for k, task in enumerate(episode):
                 
