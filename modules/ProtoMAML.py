@@ -71,7 +71,7 @@ class ProtoMAML(nn.Module):
         # we get the first token (the [CLS] token)
         return out[:, 0, :]
 
-    def generateParams(self, support_set):
+    def generateParams(self, support_set, classes):
         """ Generate linear classifier form support set.
 
         support (list((str, str)), torch.Tensor): support set to generate the parameters W and B from."""
@@ -83,7 +83,6 @@ class ProtoMAML(nn.Module):
             # encode sequences 
             batch_input = self._applyBERT(batch_input)      # k x d
             
-            classes = batch_target.unique()                 # N
             W = []
             b = []
             for cls in classes:

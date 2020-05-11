@@ -99,7 +99,7 @@ def protomaml(config, batch_managers, model):
 
         accumulated_gradients = defaultdict(lambda : None)   
         
-        for j, task_iter in enumerate(batch):
+        for j, (task_iter, bm) in enumerate(batch):
 
             # save original parameters. Will be reloaded later.
 
@@ -116,7 +116,8 @@ def protomaml(config, batch_managers, model):
             # [1] Calculate parameters for softmax.
 
             # TODO: make gradients flow inside this function. (Or create them again)
-            model.generateParams(support_set)
+            classes = bm.classes()
+            model.generateParams(support_set, classes)
             
             # [2] Adapt task-specific parameters
 
