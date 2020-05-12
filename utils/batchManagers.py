@@ -179,6 +179,47 @@ class MRPCBatchManager(BatchManager):
         self.initialize(batch_size)
         self.device = device
 
+class SICKBatchManager(BatchManager):
+    """
+    Batch Manager for the Microsoft Research Paraphrase Corpus dataset
+    """
+    
+    def collate(self, samples):
+        return [(example[1], example[2]) for example in samples],\
+                    torch.tensor([example[0] for example in samples], device = self.device, requires_grad = False)
+    
+    def __init__(self, batch_size = 32, device = 'cpu'):
+        """
+        Initializes the dataset
+
+        Args:
+            batch_size: Number of elements per batch
+            device    : Device to run it on: cpu or gpu
+        """
+
+        reader =  open('.data/SICK/SICK.txt', 'r')
+        data = [example.split("\t") for example in reader.readlines()][1:]
+        # datasets are of the form: see files
+        # we only keep [label, sent_1, sent_2]
+        train_set, dev_set, test_set = [], [], []
+        for sample in data:
+            if sample[-1] == 'TRAIN\n':
+                train_set.append((float(sample[4]), sample[1], sample[2]))
+            elif sample[-1] == 'TRIAL\n':
+                train_set.append((float(sample[4]), sample[1], sample[2]))
+            elif sample[-1] == 'TEST\n':
+                test_set.append((float(sample[4]), sample[1], sample[2]))
+            else:
+                raise Exception()
+        
+        self.train_set = ListDataset(train_set)
+        self.dev_set   = ListDataset(dev_set)
+        self.test_set  = ListDataset(test_set)
+
+        self.initialize(batch_size)
+        self.device = device
+
+
 class PDBBatchManager(BatchManager):
     """
     Batch Manager for the Penn Discourse Bank dataset
@@ -205,9 +246,9 @@ class PDBBatchManager(BatchManager):
                     'Contingency.Negative-cause.NegResult': 32, 'Expansion.Instantiation.Arg1-as-instance': 33, 'Contingency.Cause+SpeechAct.Reason+SpeechAct': 34, 'EntRel': 35, 
                     'NoRel': 36, 'Hypophora': 37}
         
-        train = pd.read_csv('./data/pdb/PDB_train_labeled.csv',sep="|")
-        dev = pd.read_csv('./data/pdb/PDB_dev_labeled.csv',sep="|")
-        test = pd.read_csv('./data/pdb/PDB_test_labeled.csv',sep="|")
+        train = pd.read_csv('./.data/pdb/PDB_train_labeled.csv',sep="|")
+        dev = pd.read_csv('./.data/pdb/PDB_dev_labeled.csv',sep="|")
+        test = pd.read_csv('./.data/pdb/PDB_test_labeled.csv',sep="|")
         self.train_set = DataframeDataset(train[['sent1','sent2','label']])
         self.dev_set   = DataframeDataset(dev[['sent1','sent2','label']])
         self.test_set  = DataframeDataset(test[['sent1','sent2','label']])

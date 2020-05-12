@@ -23,7 +23,7 @@ from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatch
 from transformers import AdamW, get_linear_schedule_with_warmup
 
 import warnings
-warnings.filterwarnings("ignore", category = UserWarning) 
+warnings.filterwarnings("ignore", category = UserWarning)
 
 # path of the trained state dict
 MODELS_PATH = './state_dicts/'
