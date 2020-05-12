@@ -122,7 +122,7 @@ if __name__ == "__main__":
     batch_size = 4
     
     device = "cpu"
-    from batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
+    from batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, SICKBatchManager
     batchManager1 = IBMBatchManager(batch_size = k, device = device)
     batchManager2 = MRPCBatchManager(batch_size = k, device = device)      
         
