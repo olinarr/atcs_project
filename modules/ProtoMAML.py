@@ -19,6 +19,7 @@ class ProtoMAML(nn.Module):
         # load pre-trained BERT: tokenizer and the model.
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
         self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
+        self.sharedLinear = nn.Sequential(nn.Linear(768, 768), nn.ReLU()).to(device)
 
         # until we initialize it, it will be None.
         self.FFN = None
@@ -82,6 +83,7 @@ class ProtoMAML(nn.Module):
 
             # encode sequences 
             batch_input = self._applyBERT(batch_input)      # k x d
+            batch_input = self.sharedLinear(batch_input)      # k x d
             
             W = []
             b = []
@@ -101,7 +103,7 @@ class ProtoMAML(nn.Module):
             W = torch.stack(W)                          # C x d
             b = torch.stack(b)
 
-            linear = nn.Linear(768, W.shape[0])
+            linear = nn.Linear(768, W.shape[0]).to(self.device)
             linear.weight = nn.Parameter(W)
             linear.bias = nn.Parameter(b)
 
@@ -138,5 +140,6 @@ class ProtoMAML(nn.Module):
             raise Exception('You have called the forward function without having initialized the parameters! Call generateParams() on the support first.')
         else:
             output = self._applyBERT(inputs)
+            output = self.sharedLinear(output)
             output = self.FFN(output)
             return output
