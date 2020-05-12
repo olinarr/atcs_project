@@ -10,9 +10,11 @@ class BatchManager():
      *  create a subclass;
      *  in the constructer create a self.train_set, self.dev_set and self.test_set;
      all of which should be subclasses of the torch.utils.data.Dataset class;
+     *  also create a l2i dictionary that maps between labels in the data and indices
      *  call the initialize function at the end of your constructor;
      *  override the collate function which should take a list of dataset elements 
      and combine them into a batch.
+  
      
      Override class variables in your subclass as needed.
     """
@@ -21,14 +23,34 @@ class BatchManager():
     
     def collate(self):
         pass
-    
+   
+    def classes(self):
+        return list(self.l2i.values())
+
+    def task_size(self):
+        return len(self.train_set)
+
     def initialize(self, batch_size):
         # create the three iterators
         self.train_iter = DataLoader(self.train_set, batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
         self.dev_iter   = DataLoader(self.dev_set,   batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
         self.test_iter  = DataLoader(self.test_set,  batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
 
+    def get_subtasks(self, k = None):
+        import copy, random, more_itertools
         
+        partitions = list(more_itertools.set_partitions(self.l2i.keys(), k))
+        for part in partitions:
+            subtask = copy.copy(self)
+            subtask.l2i = {label : i for i,sub in enumerate(part) for label in sub}
+
+            def task_size():
+                return self.task_size() / len(partitions)
+            subtask.task_size = task_size
+
+            yield subtask
+       
+
 class MultiNLIBatchManager(BatchManager):
     
     SHUFFLE = True
@@ -36,7 +58,7 @@ class MultiNLIBatchManager(BatchManager):
     def collate(self, samples):
         return [(example.premise, example.hypothesis) for example in samples],\
                 torch.tensor([self.l2i[example.label] for example in samples], device = self.device, requires_grad = False)
-    
+
     def __init__(self, batch_size = 32, device = 'cpu'):
         # sequential false -> no tokenization. Why? Because right now this
         # happens instead of BERT
@@ -126,6 +148,7 @@ class MRPCBatchManager(BatchManager):
         return [(example[1], example[2]) for example in samples],\
                     torch.tensor([example[0] for example in samples], device = self.device, requires_grad = False)
     
+
     def __init__(self, batch_size = 32, device = 'cpu'):
         """
         Initializes the dataset
@@ -150,6 +173,8 @@ class MRPCBatchManager(BatchManager):
         self.train_set = ListDataset(train_set)
         self.dev_set   = ListDataset(test_set)
         self.test_set  = ListDataset(test_set)
+
+        self.l2i = {0: 0, 1: 1}
 
         self.initialize(batch_size)
         self.device = device
@@ -206,6 +231,7 @@ class PDBBatchManager(BatchManager):
         labels = [self.l2i[label] for label in labels]
         return batch, torch.tensor(labels, device = self.device, requires_grad = False)
 
+
     def __init__(self, batch_size = 32, device = 'cpu'):
                 # Get a mapping from relations to labels
         self.l2i = {'Temporal.Asynchronous.Succession': 0, 'Comparison.Contrast': 1, 'Expansion.Level-of-detail.Arg2-as-detail': 2, 'Contingency.Cause.Result': 3, 
@@ -231,5 +257,9 @@ class PDBBatchManager(BatchManager):
         self.device = device
 
 if __name__ == "__main__":
-    batchmanager = IBMBatchManager()
-    #batchmanager = MultiNLIBatchManager()
+    #batchmanager = PDBBatchManager()
+    #batchmanager = IBMBatchManager()
+    batchmanager = MultiNLIBatchManager()
+
+    for test in batchmanager.get_subtasks(2):
+        print(test.l2i) 
