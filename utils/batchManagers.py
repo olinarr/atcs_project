@@ -91,7 +91,7 @@ class IBMBatchManager(BatchManager):
         # IBM dataset doesn't offer a separate validation set!
         #TODO: maybe make new train/valid/test split so we have validation data?
         
-        df = pd.read_csv(os.path.join(".data/ibm", "claim_stance_dataset_v1.csv"))
+        df = pd.read_csv(os.path.join("ibm", "claim_stance_dataset_v1.csv"))
         self.train_set = DataframeDataset(df.query("split == 'train'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
         self.dev_set   = DataframeDataset(df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
         self.test_set  = DataframeDataset(df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
