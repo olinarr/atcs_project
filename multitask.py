@@ -6,11 +6,14 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 import torch
 from transformers import AdamW, get_linear_schedule_with_warmup
 import torch.utils.data as data
-
-import random
+from torch.optim import Adam
 
 from modules.MultiTaskBERT import MultiTaskBERT
-from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager, SICKBatchManager
+from utils.MultiTaskTrainLoader import MultiTaskTrainLoader
+from utils.BatchManagers import SICKBatchManager
+
+from utils.episodeLoader import EpisodeLoader
+
 
 # path of the trained state dict
 MODELS_PATH = './state_dicts/'
@@ -20,19 +23,21 @@ if not os.path.exists(MODELS_PATH):
 def path_to_dicts(config):
     return MODELS_PATH + "multitask.pt"
 
-def get_accuracy(model, iter, task):
+
+def evaluateModel(model, episodeLoader):
     """compute accuracy on a certain iterator
 
     Parameters:
-    model (MultiTaskBERT): the model to train
-    iter (MyIterator): iterator on a set
-    task (str): name of the task
+    model (MultiTaskBERT): the model to evaluate
+    devEpisodeLoader (EpisodeLoader): episode loader used to validate
 
     Returns:
-    float: said accuracy"""
+    float: loss on new task """
+
+    # TODO: finish here
 
     model.eval()
-    count, num = 0., 0
+    model.initTask('SICK', 5)
     with torch.no_grad():
         for i, batch in enumerate(iter):
             data, targets = batch
@@ -44,20 +49,20 @@ def get_accuracy(model, iter, task):
     model.train()
     return count / num
 
-def load_model(config, batchmanagers):
+def load_model(config, batchmanager):
     """Load a model (either a new one or from disk)
 
     Parameters:
     config: argparse flags
-    batchmanagers (dict(str, BatchManager)): the batchmanagers with names
+    batchmanager (MultiTaskTrainLoader): the batchmanager
 
     Returns:
     MultiTaskBERT: the loaded model"""
 
-    # some datasets have 3 classes, some other 2!
     trainable_layers = [9, 10, 11]
     assert min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
-    tasks = [(name, len(bm.classes())) for name, bm in batchmanagers.items()]
+    # this method retuns a list of tuples (str, int) of form (name_of_task, n_of_classes)
+    tasks = batchmanager.getTasksWithNClasses()
     model = MultiTaskBERT(device = config.device, trainable_layers = trainable_layers, tasks = tasks)
 
     # if we saved the state dictionary, load it.
@@ -72,39 +77,17 @@ def load_model(config, batchmanagers):
 
     return model
 
-def getProportions(batchmanagers):
-    """Define the training proportions
-
-    Parameters:
-    batchmanagers (dict(str, BatchManager)): batchamangers with name
-
-    Returns:
-    (list(str)): list representing the proportions"""
-
-    min_size = min((bm.task_size() for bm in batchmanagers.values()))
-    proportions = []
-    for name, bm in batchmanagers.items():
-        size = round(bm.task_size() / min_size)
-        proportions += [name] * size
-
-    return proportions
-
-def train(config, batchmanagers, model):
+def train(config, batchmanager, model, devEpisodeLoader):
     """Main training loop
 
     Parameters:
     config: argparse flags
-    batchmanagers (dict(str, BatchManager)): batchamangers with name
+    batchmanager (MultiTaskTrainLoader): the batchmanager
     model (MultiTaskBERT): the model to train
+    devEpisodeLoader (EpisodeLoader): episode loader used to validate
 
     Returns:
     (dict, float): the state dictionary of the best model and its dev accuracy"""
-
-    dev_iter = batchmanagers['NLI'].dev_iter
-
-    iter_dataloaders = {task:iter(bm.train_iter) for task, bm in batchmanagers.items()}
-    proportions = getProportions(batchmanagers)
-    totalBatches = sum((bm.task_size() for bm in batchmanagers.values())) // config.batch_size
 
     model.train()
 
@@ -113,30 +96,29 @@ def train(config, batchmanagers, model):
 
     # filter out from the optimizer the "frozen" parameters,
     # which are the parameters without requires grad.
-    optimizer = AdamW(model.parameters(), lr=config.lr)
-    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps = 0, num_training_steps = totalBatches * config.epochs)
+    globalOptimizer = AdamW(model.parameters(), lr=config.lr)    
+    scheduler = get_linear_schedule_with_warmup(globalOptimizer, num_warmup_steps = 0, num_training_steps = batchmanager.totalBatches * config.epochs)
+
+    # TODO: task specific lr
+
+    taskOptimizer = {task: Adam(model.taskParameters(task), lr=config.lr) for task in batchmanager.tasks}
 
     # compute initial dev accuracy (to check whether it is 1/n_classes)
-    last_dev_acc = get_accuracy(model, dev_iter, 'NLI')
+    """last_dev_acc = get_accuracy(model, dev_iter, 'NLI')
     best_dev_acc = last_dev_acc # to save the best model
     best_model_dict = model.state_dict() # to save the best model
-    print(f'inital dev accuracy: {last_dev_acc}', flush = True)
+    print(f'inital dev accuracy: {last_dev_acc}', flush = True)"""
+
+    # TODO check all the parameters are registered correctly.
 
     try :
         for epoch in range(config.epochs):
-            loss_c = 0.
-            for i in range(totalBatches):
-                task = random.choice(proportions)
-                dataloader = iter_dataloaders[task]
+            for i, (task, batch) in enumerate(batchmanager):
 
-                try:
-                    batch = next(dataloader)
-                except StopIteration:
-                    dataloaders[task] = iter(batchamangers[task].train_iter)
-                    dataloader = iter_dataloaders[task]
-                    batch = next(dataloader)
+                print(i, flush = True)
 
-                optimizer.zero_grad()
+                globalOptimizer.zero_grad()
+                taskOptimizer[task].zero_grad()
 
                 data, targets = batch
                 out = model(data, task)
@@ -144,14 +126,12 @@ def train(config, batchmanagers, model):
                 loss = criterion(out, targets)
                 loss.backward()
 
-                loss_c += loss.item()
-
-                if i != 0 and i % config.loss_print_rate == 0:
-                    print(f'epoch #{epoch+1}/{config.epochs}, batch #{i}/{len(batchmanager.train_iter)}: loss = {loss.item()}', flush = True)
+                print(loss.item(), flush = True) # remove this later
 
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
 
-                optimizer.step()
+                globalOptimizer.step()
+                taskOptimizer[task].step()
                 scheduler.step() # update lr
 
             # end of an epoch
@@ -197,18 +177,21 @@ if __name__ == "__main__":
     torch.manual_seed(config.random_seed)
     config.device = 'cuda:0' if torch.cuda.is_available() and not config.force_cpu else 'cpu'
 
-    batchmanagers = {
-        'NLI'  : MultiNLIBatchManager(config.batch_size, config.device),
-        'IBM'  : IBMBatchManager(config.batch_size, config.device),
-        'PDB'  : PDBBatchManager(config.batch_size, config.device),
-        'MRPC' : MRPCBatchManager(config.batch_size, config.device)
-    }
+    batchmanager = MultiTaskTrainLoader(batch_size = config.batch_size, device = config.device)
+    model = load_model(config, batchmanager)
 
-    model = load_model(config, batchmanagers)
+    # stuff to do evaluatoon
+    # TO VALIDATE
+    SICK = SICKBatchManager(batch_size = 8, device = config.device)
+    devEpisodeLoader = EpisodeLoader.create_dataloader(
+            8, [SICK], config.batch_size,
+            samples_per_episode = 2, 
+            num_workers = 2
+        )
 
     # Train the model
     print('Beginning the training...', flush = True)
-    state_dict, dev_acc = train(config, batchmanagers, model)
+    state_dict, dev_acc = train(config, batchmanager, model, devEpisodeLoader)
     print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
 
     #save model

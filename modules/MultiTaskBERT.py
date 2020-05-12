@@ -20,14 +20,14 @@ class MultiTaskBERT(nn.Module):
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
         self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
 
-        # FFN: classifier to fine-tune.
-        # 768 is the dimension of BERT hidden layers!
-        # if no classifier is used: None, so we don't use the params
         self.sharedLinear = nn.Sequential(nn.Linear(768, 768), nn.ReLU()).to(device)
 
+        self.tasks = (name for name, labels in tasks)
+
+        # add the special layers. BIG NOTICE: these are not returned into the .parameters() !
         self.taskSpecificLayer = dict()
         for name, labels in tasks:
-            self.taskSpecificLayer[name] = nn.Linear(768, labels)
+            self.initTask(name, labels)
 
         # deactivate gradients on the parameters we do not need.
 
@@ -47,6 +47,10 @@ class MultiTaskBERT(nn.Module):
             # deactivate gradients.
             if not flag:
                 params.requires_grad = False
+
+    def initTask(self, name, n_labels):
+        """ Register a new task. """
+        self.taskSpecificLayer[name] = nn.Linear(768, n_labels).to(self.device)
 
     def forward(self, inputs, task):
         """Forward function of the model
@@ -81,3 +85,6 @@ class MultiTaskBERT(nn.Module):
         # return the task specific output
 
         return self.taskSpecificLayer[task](out)
+
+    def taskParameters(self, task):
+        return [self.taskSpecificLayer[task].weight, self.taskSpecificLayer[task].bias]
