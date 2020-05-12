@@ -18,7 +18,7 @@ from collections import defaultdict
 
 from utils.episodeLoader import EpisodeLoader
 from modules.ProtoMAML import ProtoMAML
-from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
+from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager
 
 from transformers import AdamW, get_linear_schedule_with_warmup
 
@@ -234,8 +234,10 @@ if __name__ == "__main__":
     batchmanager1 = MultiNLIBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
+    batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
 
     batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
+    batchmanagers.extend(batchmanager4.get_subtasks(2))
 
     # Train the model
     print('Beginning the training...', flush = True)

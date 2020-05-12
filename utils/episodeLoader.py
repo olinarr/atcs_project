@@ -37,7 +37,7 @@ class EpisodeLoader(data.IterableDataset):
         collate_fn = lambda x : x # have identity function as collate_fn so we just get list.
         return data.DataLoader(episodeDataset, collate_fn = collate_fn, batch_size = batch_size, num_workers=num_workers)
     
-    def __init__(self, k, batch_managers, samples_per_episode=2, weight_fn=None):
+    def __init__(self, k, batch_managers, samples_per_episode=2, shuffle_labels=True, weight_fn=None):
         """
         Params:
           k: the amount of samples included in every support set.
@@ -56,6 +56,7 @@ class EpisodeLoader(data.IterableDataset):
         
         self.k = k
         self.samples_per_episode = samples_per_episode
+        self.shuffle_labels = shuffle_labels
         self.batch_managers = batch_managers
         self.weight_fn = weight_fn
 
@@ -99,7 +100,10 @@ class EpisodeLoader(data.IterableDataset):
         
         while True:
             prio, count, i, next_set, bm = worker_subsets[0]
-            
+           
+            if self.shuffle_labels:
+                bm.randomize_class_indices()
+
             # update count
             count += 1
             worker_subsets[0] = (prio, count, i, next_set, bm)
@@ -131,7 +135,8 @@ if __name__ == "__main__":
     batchManager1 = IBMBatchManager(batch_size = k, device = device)
     batchManager2 = MRPCBatchManager(batch_size = k, device = device)      
     batchManager3 = MultiNLIBatchManager(batch_size = k, device = device)      
-    #batchManager4 = PDBBatchManager(batch_size = k, device = device)
+    batchManager4 = PDBBatchManager(batch_size = k, device = device)
+    #batchManager5 = SICKBatchManager(batch_size = k, device = device)
 
     """
     samples = np.arange(0, 50)
@@ -144,8 +149,9 @@ if __name__ == "__main__":
         print(x)
     """    
 
-    bms = [batchManager1, batchManager2]
-    bms.extend(list(batchManager3.get_subtasks(2)))
+    bms = [batchManager1, batchManager2, batchManager3]
+    #bms.extend(list(batchManager3.get_subtasks(2)))
+    bms.extend(list(batchManager4.get_subtasks(2)))
 
     episodeLoader = EpisodeLoader.create_dataloader(
         k, bms, batch_size,
@@ -155,7 +161,7 @@ if __name__ == "__main__":
     for i, batch in enumerate(episodeLoader): 
         if i == 5000:
             break
-            
+        print("=====")            
         for j, (episode, bm) in enumerate(batch):
            
             print("Episode of {:>25} can have class-indices: {:12} {}".format(type(bm).__name__, str(bm.classes()), str(bm.l2i)))
