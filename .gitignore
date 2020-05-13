@@ -137,6 +137,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# tensorboard logs
+runs/
+
 # vim files
 *~
 *.swp

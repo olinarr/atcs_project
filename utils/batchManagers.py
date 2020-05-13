@@ -74,9 +74,10 @@ class BatchManager():
         if len(partitions) > self.MAX_NR_OF_SUBTASKS:
             print("WARNING: the amount of partitions for {} is {} > {}.".format(self, len(partitions), self.MAX_NR_OF_SUBTASKS))
 
-        for part in partitions:
+        for j, part in enumerate(partitions):
             subtask = copy.copy(self)
             subtask.l2i = { label : i for i,sub in enumerate(part) for label in sub }
+            subtask.name = self.name + '_st{}'.format(j)
 
             def task_size():
                 return self.task_size() / len(partitions)
@@ -112,6 +113,7 @@ class MultiNLIBatchManager(BatchManager):
         
         self.initialize(batch_size)
         self.device = device
+        self.name = 'multinli'
 
         
 class DataframeDataset(Dataset):
@@ -158,6 +160,7 @@ class IBMBatchManager(BatchManager):
 
         self.initialize(batch_size)
         self.device = device
+        self.name = 'ibm'
 
 
 class ListDataset(Dataset):
@@ -211,6 +214,7 @@ class MRPCBatchManager(BatchManager):
 
         self.initialize(batch_size)
         self.device = device
+        self.name = 'mrpc'
 
 class SICKBatchManager(BatchManager):
     """
@@ -258,6 +262,7 @@ class SICKBatchManager(BatchManager):
 
         self.initialize(batch_size)
         self.device = device
+        self.name = 'sick'
 
 
 class PDBBatchManager(BatchManager):
@@ -294,6 +299,8 @@ class PDBBatchManager(BatchManager):
 
         self.initialize(batch_size)
         self.device = device
+        self.name = 'pdb'
+
 
     def _get_partitions(self, k):
         # Returning all possible ways to partition the set of classes is not possible for so many classes.

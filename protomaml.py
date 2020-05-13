@@ -9,7 +9,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 
-import itertools
+import itertools as it
 
 import os
 import argparse
@@ -21,6 +21,8 @@ from modules.ProtoMAML import ProtoMAML
 from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager
 
 from transformers import AdamW, get_linear_schedule_with_warmup
+
+from torch.utils.tensorboard import SummaryWriter
 
 import warnings
 warnings.filterwarnings("ignore", category = UserWarning)
@@ -63,13 +65,10 @@ def load_model(config):
     return model
 
 
-def protomaml(config, batch_managers, model):
+def protomaml(config, sw, batch_managers, model):
 
     CLASSIFIER_DIMS = 768
     
-    # TODO figure out proper strategy for saving/loading these 
-    # meta-learning models.
-
     # TODO learnable alpha, beta learning rates?
     beta = config.beta
     alpha = config.alpha
@@ -86,61 +85,34 @@ def protomaml(config, batch_managers, model):
         num_workers = NUM_WORKERS
     )
 
+    global_step = 0
     for i, batch in enumerate(episode_loader):        
-
-        # a batch of episodes
-        
         optimizer.zero_grad()
 
         # external data structured used to accumulate gradients.
-        # TODO: are we sure we are accumulating the gradients
-        # across different tasks?
-
         accumulated_gradients = defaultdict(lambda : None)   
         
         for j, (support_iter, query_iter, bm) in enumerate(batch):
 
+            print(f'batch {i}, task {j} : {bm.name}', flush = True)
+
             # save original parameters. Will be reloaded later.
-
-            print(f'batch {i}, task {j}', flush = True)
-
             original_weights = deepcopy(model.state_dict())
-
-            # k     samples per tasks
-            # t     length of sequence per sample
-            # d     features per sequence-element (assuming same in and out)
 
             support_set = next(iter(support_iter))
 
             # [1] Calculate parameters for softmax.
-
             # TODO: make gradients flow inside this function. (Or create them again)
             classes = bm.classes()
             model.generateParams(support_set, classes)
-            
+           
+
+            tbname = 'train/{}/loss'.format(bm.name)
+
             # [2] Adapt task-specific parameters
-
-            # not this simple...
-            # TODO Make shallow copy of state_dict, and then replace
-            # references of task-specific parameters with those to
-            # clones? then use that state dict for a new 
-            # f_theta_prime instance of model?
-            # Use Tensor.clone so we can backprop through it and 
-            # update f_theta as well (if no first order approx).
-    
-            """W.requires_grad, b.requires_grad = True, True
-            params = [
-                f_theta_prime.parameters(), 
-                h_phi_prime.parameters(),
-                [W, b]
-            ]
-            params = itertools.chain(*params)"""
-
             task_optimizer = optim.SGD(model.parameters(), lr=alpha)
             task_criterion = torch.nn.CrossEntropyLoss()
-
             for step, batch in enumerate([support_set] * config.k):
-
                 batch_inputs, batch_targets = batch
 
                 out = model(batch_inputs)
@@ -150,26 +122,16 @@ def protomaml(config, batch_managers, model):
                 loss.backward()
                 task_optimizer.step()
 
-            # [3] Evaluate adapted params on query set, calc grads.
-            
-            if config.first_order_approx:
-                # We are using the approximation so we only backpropagate to the
-                # 'prime' models and will then copy gradients to originals later.
-                
-                # TODO set parameters in f_theta_prime, h_phi_prime, 
-                # to have requires_grad = True
-                pass
-            else:
-                raise NotImplementedError()
-                # Backpropagate all the way back to originals (through optimization
-                # on the support set and thus requiring second order gradients.)
+                if step == 0:
+                    sw.add_scalar(tbname+'@1', loss.item(), global_step)
+                if step == config.k-1:
+                    sw.add_scalar(tbname+'@k', loss.item(), global_step)
 
-                # TODO set parameters in f_theta, h_phi (originals)
-                # to have requires_grad = True
-                
-                
-            # evaluate on query set (D_val) 
-            for step, batch in enumerate(itertools.islice(query_iter, 1)):
+                global_step += 1
+
+
+            # [3] Evaluate adapted params on query set, calc grads.            
+            for step, batch in enumerate(it.islice(query_iter, 1)):
                 batch_inputs, batch_targets = batch
                 out = model(batch_inputs)
 
@@ -177,6 +139,10 @@ def protomaml(config, batch_managers, model):
 
                 model.zero_grad()
                 loss.backward()
+
+                sw.add_scalar(tbname+'@q', loss.item(), global_step)
+                global_step += 1
+
 
             # accumulate the gradients
             for n, p in model.named_parameters():
@@ -186,18 +152,18 @@ def protomaml(config, batch_managers, model):
                     else:
                         accumulated_gradients[n] += p.grad.data
 
+
             # return to original model
             model.revert_state(original_weights)
 
             # end of inner loop
 
-        # we have now accumulated gradients in the originals
-        # TODO divide gradients by number of tasks? or just have learning rate be lower?
-
+        
         # load the accumulated gradients and optimize
         for n, p in model.named_parameters():
             if p.requires_grad:
                 p.grad.data = accumulated_gradients[n]
+
         optimizer.step()
 
 
@@ -210,14 +176,14 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
     # Model params
-    parser.add_argument('--batch_size', type=int, default="4", help="Batch size")
-    parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
+    parser.add_argument('--batch_size', type=int, default="4", help="How many tasks in an episode over which gradients for M_init are accumulated")
+    parser.add_argument('--k', type=int, default="8", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 2e-5)
-    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 2e-5)
+    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 2e-3)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
-    parser.add_argument('--samples_per_support', type=int, help='Number of samples per each episode', default = 8)
+    parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
     parser.add_argument('--use_second_order', action='store_true', help='Use the second order version of MAML')
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
 
@@ -235,12 +201,18 @@ if __name__ == "__main__":
     batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
     batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
 
-    batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
-    batchmanagers.extend(batchmanager4.get_subtasks(2))
+    #batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
+    #batchmanagers.extend(batchmanager4.get_subtasks(2))
+    batchmanagers = [batchmanager1]
+
+    #TODO decide on final mix of tasks in training.
+
+    sw = SummaryWriter()
+
 
     # Train the model
     print('Beginning the training...', flush = True)
-    state_dict, dev_acc = protomaml(config, batchmanagers, model)
+    state_dict, dev_acc = protomaml(config, sw, batchmanagers, model)
     
     print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
 
