@@ -25,10 +25,17 @@ class BatchManager():
     
     SHUFFLE = True 
     MAX_NR_OF_SUBTASKS = 100
-    
-    def collate(self):
-        raise NotImplementedError 
    
+    def _extract_label(self, sample):
+        raise NotImplementedError
+
+    def _extract_sentences(self, sample):
+        raise NotImplementedError
+
+    def collate(self, samples):
+        return [self._extract_sentences(example) for example in samples],\
+                torch.tensor([self.l2i[self._extract_label(example)] for example in samples], device = self.device, requires_grad = False)
+
     def classes(self):
         return list(set(self.l2i.values()))
 
@@ -40,6 +47,13 @@ class BatchManager():
         self.train_iter = DataLoader(self.train_set, batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
         self.dev_iter   = DataLoader(self.dev_set,   batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
         self.test_iter  = DataLoader(self.test_set,  batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
+
+        sets = [ self.train_set, self.dev_set, self.test_set ]
+        self.label_indices = { s : { lbl : [] for lbl in self.l2i.keys() } for s in sets }
+        for s in sets:
+            for i,e in enumerate(s):
+                lbl = self._extract_label(e)
+                self.label_indices[s][lbl].append(i)
 
     def randomize_class_indices(self):
         classes = self.classes()
@@ -73,9 +87,11 @@ class BatchManager():
 
 class MultiNLIBatchManager(BatchManager):
     
-    def collate(self, samples):
-        return [(example.premise, example.hypothesis) for example in samples],\
-                torch.tensor([self.l2i[example.label] for example in samples], device = self.device, requires_grad = False)
+    def _extract_sentences(self, example):
+        return (example.premise, example.hypothesis)
+
+    def _extract_label(self, example):
+        return example.label
 
     def __init__(self, batch_size = 32, device = 'cpu'):
         # sequential false -> no tokenization. Why? Because right now this
@@ -114,13 +130,12 @@ class IBMBatchManager(BatchManager):
     """
     Batch Manager for the IBM dataset
     """
-    
-    def collate(self, samples):
-        batch = [(sample['topicText'], sample['claims.claimCorrectedText']) for sample in samples]
-        labels = [sample['claims.stance'] for sample in samples]
-        labels = [self.l2i[label] for label in labels]
-        return batch, torch.tensor(labels, device = self.device, requires_grad = False)
-    
+    def _extract_sentences(self, sample):
+        return (sample['topicText'], sample['claims.claimCorrectedText']) 
+
+    def _extract_label(self, sample):
+        return sample['claims.stance']    
+
     def __init__(self, batch_size = 32, device = 'cpu'):
         """
         Initializes the dataset
@@ -161,11 +176,11 @@ class MRPCBatchManager(BatchManager):
     """
     Batch Manager for the Microsoft Research Paraphrase Corpus dataset
     """
-    
-    def collate(self, samples):
-        return [(example[1], example[2]) for example in samples],\
-                    torch.tensor([self.l2i[example[0]] for example in samples], device = self.device, requires_grad = False)
-    
+    def _extract_sentences(self, example):
+        return (example[1], example[2])
+
+    def _extract_label(self, example):
+        return example[0]
 
     def __init__(self, batch_size = 32, device = 'cpu'):
         """
@@ -201,11 +216,13 @@ class SICKBatchManager(BatchManager):
     """
     Batch Manager for the Microsoft Research Paraphrase Corpus dataset
     """
-    
-    def collate(self, samples):
-        return [(example[1], example[2]) for example in samples],\
-                    torch.tensor([self.l2i[example[0]] for example in samples], device = self.device, requires_grad = False)
-    
+
+    def _extract_sentences(self, example):
+        return (example[1], example[2])
+
+    def _extract_label(self, example):
+        return example[0]
+
     def __init__(self, batch_size = 32, device = 'cpu'):
         """
         Initializes the dataset
@@ -244,12 +261,11 @@ class PDBBatchManager(BatchManager):
     """
     Batch Manager for the Penn Discourse Bank dataset
     """
+    def _extract_sentences(self, sample):
+        return (sample['sent1'], sample['sent2'])
 
-    def collate(self,samples):
-        batch = [(sample['sent1'], sample['sent2']) for sample in samples]
-        labels = [sample['label'] for sample in samples]
-        labels = [self.l2i[label] for label in labels]
-        return batch, torch.tensor(labels, device = self.device, requires_grad = False)
+    def _extract_label(self, sample):
+        return sample['label']
 
 
     def __init__(self, batch_size = 32, device = 'cpu'):
@@ -298,10 +314,13 @@ if __name__ == "__main__":
     #batchmanager = IBMBatchManager()
     batchmanager2 = MultiNLIBatchManager()
 
-    for k in range(2,5):
-        parts = batchmanager1._get_partitions(5)
-        for part in parts:
-            print(part)
+
+    #for k in range(2,5):
+    #    parts = batchmanager1._get_partitions(5)
+    #    for part in parts:
+    #        print(part)
+
+    print(batchmanager1.label_indices)
 
     for test in batchmanager2.get_subtasks(2):
         print(test.l2i) 
