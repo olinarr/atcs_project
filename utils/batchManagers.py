@@ -236,16 +236,19 @@ class SICKBatchManager(BatchManager):
         data = [example.split("\t") for example in reader.readlines()][1:]
         # datasets are of the form: see files
         # we only keep [label, sent_1, sent_2]
+        # labels are rounded cuz we want to do classification
         train_set, dev_set, test_set = [], [], []
         for sample in data:
             if sample[-1] == 'TRAIN\n':
-                train_set.append((float(sample[4]), sample[1], sample[2]))
+                train_set.append((round(sample[4]), sample[1], sample[2]))
             elif sample[-1] == 'TRIAL\n':
-                train_set.append((float(sample[4]), sample[1], sample[2]))
+                train_set.append((round(sample[4]), sample[1], sample[2]))
             elif sample[-1] == 'TEST\n':
-                test_set.append((float(sample[4]), sample[1], sample[2]))
+                test_set.append((round(sample[4]), sample[1], sample[2]))
             else:
                 raise Exception()
+
+        self.l2i = {i: i for i in [1,2,3,4,5]}
         
         self.train_set = ListDataset(train_set)
         self.dev_set   = ListDataset(dev_set)
