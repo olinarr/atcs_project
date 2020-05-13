@@ -185,7 +185,6 @@ if __name__ == "__main__":
     SICK = SICKBatchManager(batch_size = 8, device = config.device)
     devEpisodeLoader = EpisodeLoader.create_dataloader(
             8, [SICK], config.batch_size,
-            samples_per_episode = 2, 
             num_workers = 2
         )
 

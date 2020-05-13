@@ -18,7 +18,7 @@ from collections import defaultdict
 
 from utils.episodeLoader import EpisodeLoader
 from modules.ProtoMAML import ProtoMAML
-from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
+from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager
 
 from transformers import AdamW, get_linear_schedule_with_warmup
 
@@ -83,7 +83,6 @@ def protomaml(config, batch_managers, model):
     NUM_WORKERS = 3 
     episode_loader = EpisodeLoader.create_dataloader(
         config.samples_per_support, batch_managers, config.batch_size,
-        samples_per_episode = SAMPLES_PER_EPISODE, 
         num_workers = NUM_WORKERS
     )
 
@@ -99,7 +98,7 @@ def protomaml(config, batch_managers, model):
 
         accumulated_gradients = defaultdict(lambda : None)   
         
-        for j, (task_iter, bm) in enumerate(batch):
+        for j, (support_iter, query_iter, bm) in enumerate(batch):
 
             # save original parameters. Will be reloaded later.
 
@@ -111,7 +110,7 @@ def protomaml(config, batch_managers, model):
             # t     length of sequence per sample
             # d     features per sequence-element (assuming same in and out)
 
-            support_set = next(iter(task_iter))
+            support_set = next(iter(support_iter))
 
             # [1] Calculate parameters for softmax.
 
@@ -170,7 +169,7 @@ def protomaml(config, batch_managers, model):
                 
                 
             # evaluate on query set (D_val) 
-            for step, batch in enumerate(itertools.islice(task_iter, 1)):
+            for step, batch in enumerate(itertools.islice(query_iter, 1)):
                 batch_inputs, batch_targets = batch
                 out = model(batch_inputs)
 
@@ -234,8 +233,10 @@ if __name__ == "__main__":
     batchmanager1 = MultiNLIBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
+    batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
 
     batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
+    batchmanagers.extend(batchmanager4.get_subtasks(2))
 
     # Train the model
     print('Beginning the training...', flush = True)

@@ -1,7 +1,11 @@
+import os, random
+  
 import torchtext, torch
 from torch.utils.data import Dataset, DataLoader
+
 import pandas as pd
-import os
+
+import numpy as np
 
 class BatchManager():
     """
@@ -10,22 +14,30 @@ class BatchManager():
      *  create a subclass;
      *  in the constructer create a self.train_set, self.dev_set and self.test_set;
      all of which should be subclasses of the torch.utils.data.Dataset class;
-     *  also create a l2i dictionary that maps between labels in the data and indices
+     *  create a l2i dictionary that maps between labels in the data and indices
      *  call the initialize function at the end of your constructor;
      *  override the collate function which should take a list of dataset elements 
-     and combine them into a batch.
+     and combine them into a batch, make sure to use the l2i dict to get the labels
   
      
      Override class variables in your subclass as needed.
     """
     
-    SHUFFLE = False
-    
-    def collate(self):
-        pass
+    SHUFFLE = True 
+    MAX_NR_OF_SUBTASKS = 100
    
+    def _extract_label(self, sample):
+        raise NotImplementedError
+
+    def _extract_sentences(self, sample):
+        raise NotImplementedError
+
+    def collate(self, samples):
+        return [self._extract_sentences(example) for example in samples],\
+                torch.tensor([self.l2i[self._extract_label(example)] for example in samples], device = self.device, requires_grad = False)
+
     def classes(self):
-        return list(self.l2i.values())
+        return list(set(self.l2i.values()))
 
     def task_size(self):
         return len(self.train_set)
@@ -36,28 +48,50 @@ class BatchManager():
         self.dev_iter   = DataLoader(self.dev_set,   batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
         self.test_iter  = DataLoader(self.test_set,  batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
 
-    def get_subtasks(self, k = None):
-        import copy, random, more_itertools
+        sets = [ self.train_set, self.dev_set, self.test_set ]
+        self.label_indices = { s : { lbl : [] for lbl in self.l2i.keys() } for s in sets }
+        for s in sets:
+            for i,e in enumerate(s):
+                lbl = self._extract_label(e)
+                self.label_indices[s][lbl].append(i)
+
+    def randomize_class_indices(self):
+        classes = self.classes()
+        random.shuffle(classes)
         
-        partitions = list(more_itertools.set_partitions(self.l2i.keys(), k))
+        mapping = dict(enumerate(classes))
+        self.l2i = { lbl : mapping[i] for lbl, i in self.l2i.items() }
+
+    def _get_partitions(self, k):
+        import more_itertools
+        return more_itertools.set_partitions(self.l2i.keys(), k)
+
+    def get_subtasks(self, k = None):
+        import copy 
+        
+        partitions = list(self._get_partitions(k))
+
+        if len(partitions) > self.MAX_NR_OF_SUBTASKS:
+            print("WARNING: the amount of partitions for {} is {} > {}.".format(self, len(partitions), self.MAX_NR_OF_SUBTASKS))
+
         for part in partitions:
             subtask = copy.copy(self)
-            subtask.l2i = {label : i for i,sub in enumerate(part) for label in sub}
+            subtask.l2i = { label : i for i,sub in enumerate(part) for label in sub }
 
             def task_size():
                 return self.task_size() / len(partitions)
             subtask.task_size = task_size
 
             yield subtask
-       
+    
 
 class MultiNLIBatchManager(BatchManager):
     
-    SHUFFLE = True
-    
-    def collate(self, samples):
-        return [(example.premise, example.hypothesis) for example in samples],\
-                torch.tensor([self.l2i[example.label] for example in samples], device = self.device, requires_grad = False)
+    def _extract_sentences(self, example):
+        return (example.premise, example.hypothesis)
+
+    def _extract_label(self, example):
+        return example.label
 
     def __init__(self, batch_size = 32, device = 'cpu'):
         # sequential false -> no tokenization. Why? Because right now this
@@ -96,13 +130,12 @@ class IBMBatchManager(BatchManager):
     """
     Batch Manager for the IBM dataset
     """
-    
-    def collate(self, samples):
-        batch = [(sample['topicText'], sample['claims.claimCorrectedText']) for sample in samples]
-        labels = [sample['claims.stance'] for sample in samples]
-        labels = [self.l2i[label] for label in labels]
-        return batch, torch.tensor(labels, device = self.device, requires_grad = False)
-    
+    def _extract_sentences(self, sample):
+        return (sample['topicText'], sample['claims.claimCorrectedText']) 
+
+    def _extract_label(self, sample):
+        return sample['claims.stance']    
+
     def __init__(self, batch_size = 32, device = 'cpu'):
         """
         Initializes the dataset
@@ -143,11 +176,11 @@ class MRPCBatchManager(BatchManager):
     """
     Batch Manager for the Microsoft Research Paraphrase Corpus dataset
     """
-    
-    def collate(self, samples):
-        return [(example[1], example[2]) for example in samples],\
-                    torch.tensor([example[0] for example in samples], device = self.device, requires_grad = False)
-    
+    def _extract_sentences(self, example):
+        return (example[1], example[2])
+
+    def _extract_label(self, example):
+        return example[0]
 
     def __init__(self, batch_size = 32, device = 'cpu'):
         """
@@ -183,11 +216,13 @@ class SICKBatchManager(BatchManager):
     """
     Batch Manager for the Microsoft Research Paraphrase Corpus dataset
     """
-    
-    def collate(self, samples):
-        return [(example[1], example[2]) for example in samples],\
-                    torch.tensor([example[0] for example in samples], device = self.device, requires_grad = False)
-    
+
+    def _extract_sentences(self, example):
+        return (example[1], example[2])
+
+    def _extract_label(self, example):
+        return example[0]
+
     def __init__(self, batch_size = 32, device = 'cpu'):
         """
         Initializes the dataset
@@ -219,6 +254,8 @@ class SICKBatchManager(BatchManager):
         self.dev_set   = ListDataset(dev_set)
         self.test_set  = ListDataset(test_set)
 
+        self.l2i = {0: 0, 1: 1}
+
         self.initialize(batch_size)
         self.device = device
 
@@ -227,12 +264,11 @@ class PDBBatchManager(BatchManager):
     """
     Batch Manager for the Penn Discourse Bank dataset
     """
+    def _extract_sentences(self, sample):
+        return (sample['sent1'], sample['sent2'])
 
-    def collate(self,samples):
-        batch = [(sample['sent1'], sample['sent2']) for sample in samples]
-        labels = [sample['label'] for sample in samples]
-        labels = [self.l2i[label] for label in labels]
-        return batch, torch.tensor(labels, device = self.device, requires_grad = False)
+    def _extract_label(self, sample):
+        return sample['label']
 
 
     def __init__(self, batch_size = 32, device = 'cpu'):
@@ -259,10 +295,35 @@ class PDBBatchManager(BatchManager):
         self.initialize(batch_size)
         self.device = device
 
-if __name__ == "__main__":
-    #batchmanager = PDBBatchManager()
-    #batchmanager = IBMBatchManager()
-    batchmanager = MultiNLIBatchManager()
+    def _get_partitions(self, k):
+        # Returning all possible ways to partition the set of classes is not possible for so many classes.
+        # So here we just return a fixed number of random partitions, using a fixed seed for replicability.
+        # While also making sure not, for example put different kinds of 'Contingency' in different partitions.
+    
+        LUCKY_SEED = 29071993
+        random.seed(LUCKY_SEED)
 
-    for test in batchmanager.get_subtasks(2):
+        classes = ['Temporal', 'Comparison', 'Expansion', 'Contingency', 'EntRel', 'NoRel', 'Hypophora']
+        for _ in range(self.MAX_NR_OF_SUBTASKS):
+            random.shuffle(classes)
+
+            parts = np.array_split(classes, k) 
+            parts = [[cls for cls in self.l2i.keys() for Cls in part if cls.startswith(Cls)] for part in parts] 
+            yield parts
+        
+
+if __name__ == "__main__":
+    batchmanager1 = PDBBatchManager()
+    #batchmanager = IBMBatchManager()
+    batchmanager2 = MultiNLIBatchManager()
+
+
+    #for k in range(2,5):
+    #    parts = batchmanager1._get_partitions(5)
+    #    for part in parts:
+    #        print(part)
+
+    print(batchmanager1.label_indices)
+
+    for test in batchmanager2.get_subtasks(2):
         print(test.l2i) 
