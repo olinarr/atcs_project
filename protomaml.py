@@ -211,7 +211,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
     # Training params
-    parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 3)#500)
+    parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 100)
     parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 20)
     parser.add_argument('--batch_size', type=int, default="4", help="How many tasks in an episode over which gradients for M_init are accumulated")
     parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
