@@ -145,30 +145,6 @@ class IBMBatchManager(BatchManager):
     def _extract_label(self, sample):
         return sample['claims.stance']    
 
-    # def __init__(self, batch_size = 32, device = 'cpu'):
-    #     """
-    #     Initializes the dataset
-
-    #     Args:
-    #         batch_size: Number of elements per batch
-    #         device    : Device to run it on: cpu or gpu
-    #     """
-        
-    #     # Get a mapping from stances to labels
-    #     self.l2i = {'PRO': 0, 'CON':1}
-
-    #     # IBM dataset doesn't offer a separate validation set!
-    #     #TODO: maybe make new train/valid/test split so we have validation data?
-        
-    #     df = pd.read_csv(os.path.join("ibm", "claim_stance_dataset_v1.csv"))
-    #     self.train_set = DataframeDataset(df.query("split == 'train'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
-    #     self.dev_set   = DataframeDataset(df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
-    #     self.test_set  = DataframeDataset(df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
-
-    #     self.initialize(batch_size)
-    #     self.device = device
-    #     self.name = 'ibm'
-
     def __init__(self, batch_size = 256, device = 'cpu'):
         """
         Initializes the dataset
@@ -182,7 +158,7 @@ class IBMBatchManager(BatchManager):
         self.l2i = {'PRO': 0, 'CON':1}
 
         # IBM dataset doesn't offer a separate validation set!
-        df = pd.read_csv(os.path.join("ibm", "claim_stance_dataset_v1.csv"))
+        df = pd.read_csv(os.path.join(".data", "ibm", "claim_stance_dataset_v1.csv"))
 
         # Shuffle and reset index for loc
         df = shuffle(df)
