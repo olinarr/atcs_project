@@ -11,6 +11,8 @@ import itertools as it
 
 import os
 import argparse
+import random 
+
 from copy import deepcopy
 from collections import defaultdict
 
@@ -78,15 +80,28 @@ def protomaml(config, sw, batch_managers, model, val_bms):
     SAMPLES_PER_EPISODE = 2
     
     NUM_WORKERS = 3 
-    train_episodes = EpisodeLoader.create_dataloader(
+    train_episodes = iter(EpisodeLoader.create_dataloader(
         config.samples_per_support, batch_managers, config.batch_size,
         num_workers = NUM_WORKERS
-    )
+    ))
 
     global_step = 0
 
     def do_epoch(episode_loader, epoch_length, train=True):
         nonlocal global_step
+
+        totals = {}
+        avg_n = 0
+        def log(loss, step, bm, avg):
+            nonlocal avg_n
+            tbname = '{}/{}/loss'.format('train' if train else 'val', bm.name)
+            tag = tbname+'@{}'.format(step)
+            sw.add_scalar(tag, loss, global_step)
+            if hasattr(bm, 'parent'):
+                log(loss, step, bm.parent, avg)
+            if avg:
+                totals[step] = loss if step not in totals else totals[step] + loss
+                avg_n += 1
 
         for i, batch in enumerate (it.islice(episode_loader, epoch_length)):
             optimizer.zero_grad()
@@ -108,12 +123,7 @@ def protomaml(config, sw, batch_managers, model, val_bms):
                 classes = bm.classes()
                 model.generateParams(support_set, classes)
             
-                def log(loss, step, bm):
-                    tbname = '{}/{}/loss'.format('train' if train else 'val', bm.name)
-                    sw.add_scalar(tbname+'@{}'.format(step), loss, global_step)
-                    if hasattr(bm, 'parent'):
-                        log(loss, step, bm.parent)
-
+                
                 # [2] Adapt task-specific parameters
                 task_optimizer = optim.SGD(model.parameters(), lr=alpha)
                 task_criterion = torch.nn.CrossEntropyLoss()
@@ -128,9 +138,9 @@ def protomaml(config, sw, batch_managers, model, val_bms):
                     task_optimizer.step()
 
                     if step == 0:
-                        log(loss.item(), '1', bm)
+                        log(loss.item(), '1', bm, not train)
                     elif step == config.k-1:
-                        log(loss.item(), 'k', bm)
+                        log(loss.item(), 'k', bm, not train)
 
                     global_step += 1
 
@@ -145,7 +155,7 @@ def protomaml(config, sw, batch_managers, model, val_bms):
                     model.zero_grad()
                     loss.backward()
 
-                    log(loss.item(), 'q', bm)
+                    log(loss.item(), 'q', bm, not train)
                     global_step += 1
 
 
@@ -169,12 +179,15 @@ def protomaml(config, sw, batch_managers, model, val_bms):
                 for n, p in model.named_parameters():
                     if p.requires_grad:
                         p.grad.data = accumulated_gradients[n]
-
                 optimizer.step()
+        
+        for step, total in totals.items():
+            log(total/avg_n, step+'/avg', bm, False)
+
  
-    val_episodes = EpisodeLoader.create_dataloader(
-        config.samples_per_support, val_bms, 1
-    )
+    val_episodes = iter(EpisodeLoader.create_dataloader(
+        config.samples_per_support, val_bms, 4 # make parameter or define as constant
+    ))
 
     for epoch in range(config.nr_epochs):
         
@@ -204,7 +217,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
     # Training params
-    parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 100)
+    parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
     parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 20)
     parser.add_argument('--batch_size', type=int, default="4", help="How many tasks in an episode over which gradients for M_init are accumulated")
     parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
@@ -225,6 +238,8 @@ if __name__ == "__main__":
     config.first_order_approx = not config.use_second_order
 
     torch.manual_seed(config.random_seed)
+    random.seed(config.random_seed)
+
     config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
     model = load_model(config)

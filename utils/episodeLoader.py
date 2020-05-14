@@ -3,7 +3,7 @@ import numpy as np
 import torch
 import torch.utils.data as data
 
-import math, itertools
+import math, random, itertools
 
 from heapq import heappop, heappush, heapify
 
@@ -57,11 +57,10 @@ class EpisodeLoader(data.IterableDataset):
         self.batch_managers = batch_managers
         self.weight_fn = weight_fn
 
-        self.weighted_lengths = [btchmngr.weight_factor * self.weight_fn(btchmngr.task_size()) for btchmngr in batch_managers]
+        weighted_lengths = [btchmngr.weight_factor * self.weight_fn(btchmngr.task_size()) for btchmngr in batch_managers]
+        self.total_weighted = sum(weighted_lengths)
+        self.target_proportions = [weighted / self.total_weighted for weighted in weighted_lengths]
 
-        self.total_weighted = sum(self.weighted_lengths)
-        self.target_proportions = [weighted / self.total_weighted for weighted in self.weighted_lengths]
-        
         
     def __iter__(self):
         
@@ -76,6 +75,8 @@ class EpisodeLoader(data.IterableDataset):
 
         iter_starts = []
         iter_ends = []
+
+        random.shuffle(self.batch_managers)
 
         for btchmngr in self.batch_managers:
             setsize = len(btchmngr.train_set)
