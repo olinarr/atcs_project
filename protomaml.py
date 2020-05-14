@@ -208,12 +208,12 @@ if __name__ == "__main__":
 
     batchmanager1 = MultiNLIBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
-    batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
-    #batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
+    #batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
+    batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
 
-    batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
-    #batchmanagers.extend(batchmanager4.get_subtasks(2))
-    #batchmanagers = [batchmanager1]
+    batchmanagers = [ batchmanager2 ]
+    batchmanagers.extend(batchmanager1.get_subtasks(2))
+    batchmanagers.extend(batchmanager4.get_subtasks(2))
 
     #TODO decide on final mix of tasks in training.
 
