@@ -9,7 +9,7 @@ import argparse
 from utils.episodeLoader import EpisodeLoader
 from modules.FineTunedBERT import FineTunedBERT
 from modules.PrototypeModel import ProtoMODEL
-from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
+from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager
 
 from transformers import AdamW, get_linear_schedule_with_warmup
 
@@ -68,9 +68,10 @@ def run_prototype(config, batch_managers, model):
     NUM_WORKERS = 0
     episode_loader = EpisodeLoader.create_dataloader(
         config.samples_per_support, batch_managers, config.batch_size,
-        samples_per_episode = SAMPLES_PER_EPISODE, 
         num_workers = NUM_WORKERS
     )
+
+    losses = []
 
     # Run over episode loader
     for i, batch in enumerate(episode_loader):
@@ -78,9 +79,10 @@ def run_prototype(config, batch_managers, model):
         print(len(batch))
         batch_loss = 0
         
-        for j, task_iter in enumerate(batch):
-            print(task_iter)
-            support_set = next(iter(task_iter))
+        # episodeloader returns tuples of supp iter, query iter, batchmanager
+        for j, (support_iter, query_iter, bm) in enumerate(batch):
+            support_set = next(iter(support_iter))
+            query_set = next(iter(query_iter))
             # Support_set is a tuple of len 2
             print(len(support_set))
 
@@ -104,7 +106,7 @@ def run_prototype(config, batch_managers, model):
                     prototypes[cls.item(), :] = proto
 
             # evaluate on query set (D_val) 
-            for step, batch in enumerate(itertools.islice(task_iter, 1)):
+            for step, batch in enumerate([query_set]):
                 inputs, targets = batch
                 outputs = model(inputs)
 
@@ -118,7 +120,9 @@ def run_prototype(config, batch_managers, model):
                 loss.backward()
                 optimizer.step()
 
-        print(f"The loss for this batch is {loss:.4f}")
+        print(f"The loss for this batch is {batch_loss:.4f}")
+        losses.append(batch_loss)
+    print(losses)
 
 
 if __name__ == "__main__":
@@ -132,7 +136,7 @@ if __name__ == "__main__":
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 2e-5)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 2e-5)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
-    parser.add_argument('--samples_per_support', type=int, help='Number of samples per each episode', default = 8)
+    parser.add_argument('--samples_per_support', type=int, help='Number of samples per each episode', default = 32)
     parser.add_argument('--use_second_order', action='store_true', help='Use the second order version of MAML')
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
 
@@ -147,10 +151,11 @@ if __name__ == "__main__":
 
     batchmanager1 = MultiNLIBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
-    #batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
+    batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
+    batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)    
 
     #batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
-    batchmanagers = [batchmanager1, batchmanager2]
+    batchmanagers = [batchmanager1, batchmanager2, batchmanager3, batchmanager4]
 
     # Train the model
     print('Beginning the training...', flush = True)
