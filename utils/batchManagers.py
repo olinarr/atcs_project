@@ -7,6 +7,8 @@ import pandas as pd
 
 import numpy as np
 
+from sklearn.utils import shuffle
+
 class BatchManager():
     """
     Class to define a batch manager.
@@ -192,7 +194,6 @@ class IBMBatchManager(BatchManager):
         df.loc[int(0.9*len(df)):,'split'] = 'dev'
 
         # Generate splits
-
         self.train_set = DataframeDataset(df.query("split == 'train'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
         self.dev_set   = DataframeDataset(df.query("split == 'dev'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
         self.test_set  = DataframeDataset(df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
@@ -202,9 +203,10 @@ class IBMBatchManager(BatchManager):
         assert len(self.test_set ) == 239
         assert len(self.dev_set  ) == 240
 
-        self.initialize(batch_size)
         self.device = device
         self.name = 'ibm'
+
+        super(IBMBatchManager, self).__init__(batch_size)
         
 class ListDataset(Dataset):
     
