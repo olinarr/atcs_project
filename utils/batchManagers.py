@@ -244,21 +244,21 @@ class SICKBatchManager(BatchManager):
         train_set, dev_set, test_set = [], [], []
         for sample in data:
             if sample[-1] == 'TRAIN\n':
-                train_set.append((round(sample[4]), sample[1], sample[2]))
+                # we get the REAL valued in [1,5] label
+                # we round it and map it to {0,1,2,3,4} (easier to use torch losses)
+                train_set.append((round(float(sample[4]))-1, sample[1], sample[2]))
             elif sample[-1] == 'TRIAL\n':
-                train_set.append((round(sample[4]), sample[1], sample[2]))
+                dev_set.append((round(float(sample[4]))-1, sample[1], sample[2]))
             elif sample[-1] == 'TEST\n':
-                test_set.append((round(sample[4]), sample[1], sample[2]))
+                test_set.append((round(float(sample[4]))-1, sample[1], sample[2]))
             else:
                 raise Exception()
 
-        self.l2i = {i: i for i in [1,2,3,4,5]}
+        self.l2i = {i: i for i in [0,1,2,3,4]}
         
         self.train_set = ListDataset(train_set)
         self.dev_set   = ListDataset(dev_set)
         self.test_set  = ListDataset(test_set)
-
-        self.l2i = {0: 0, 1: 1}
 
         self.initialize(batch_size)
         self.device = device
