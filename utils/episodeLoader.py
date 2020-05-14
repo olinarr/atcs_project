@@ -57,11 +57,13 @@ class EpisodeLoader(data.IterableDataset):
         self.batch_managers = batch_managers
         self.weight_fn = weight_fn
 
-        weighted_lengths = [btchmngr.weight_factor * self.weight_fn(btchmngr.task_size()) for btchmngr in batch_managers]
-        self.total_weighted = sum(weighted_lengths)
-        self.target_proportions = [weighted / self.total_weighted for weighted in weighted_lengths]
+        weighted_lengths = { bm : bm.weight_factor * self.weight_fn(bm.task_size()) for bm in batch_managers }
+        self.total_weighted = sum(weighted_lengths.values())
+        self.target_proportions = {bm : weighted / self.total_weighted for bm, weighted in weighted_lengths.items()}
+       
+        print("Target proportions: \n {}".format(self.target_proportions))
 
-        
+
     def __iter__(self):
         
         # If we have multiple workers, we make sure to not have them all return the same data.
@@ -95,8 +97,8 @@ class EpisodeLoader(data.IterableDataset):
         
 
         # Use heap for prioqueue to select tasks in correct proportion.
-        # TODO split train_set in to query and support set for each task!!! and replace train/dev set below 
-        worker_subsets = [(0, 0, i, get_dataloader(bm, bm.train_set), get_dataloader(bm, bm.dev_set), bm) for i,bm in enumerate(self.batch_managers)]
+        # TODO split train_set in to query and support set for each task!!! and replace train set below 
+        worker_subsets = [(0, 0, i, get_dataloader(bm, bm.train_set), get_dataloader(bm, bm.train_set), bm) for i,bm in enumerate(self.batch_managers)]
         heapify(worker_subsets)
         
         while True:
@@ -110,11 +112,11 @@ class EpisodeLoader(data.IterableDataset):
             worker_subsets[0] = (prio, count, i, support_set, query_set, bm)
             
             # calculate new priorities
-            def calc_prio(i, count, total_count):
-                return (count / total_count) - self.target_proportions[i]
+            def calc_prio(bm, count, total_count):
+                return (count / total_count) - self.target_proportions[bm]
             
             total_count = sum(count for _, count, _, _, _, _ in worker_subsets)
-            worker_subsets = [(calc_prio(i, count, total_count), count, i, support_set, query_set, bm) \
+            worker_subsets = [(calc_prio(bm, count, total_count), count, i, support_set, query_set, bm) \
                               for prio, count, i, support_set, query_set, bm in worker_subsets]
             
             # update heap with new priorities before yielding.

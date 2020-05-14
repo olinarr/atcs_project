@@ -250,7 +250,7 @@ if __name__ == "__main__":
     batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
     batchmanager5 = SICKBatchManager(batch_size = config.samples_per_support, device = config.device)
 
-    train_bms = [ batchmanager2 ]
+    train_bms = [ batchmanager2, batchmanager3 ]
     train_bms.extend(batchmanager1.get_subtasks(2))
     train_bms.extend(batchmanager4.get_subtasks(2))
     #TODO decide on final mix of tasks in training.
