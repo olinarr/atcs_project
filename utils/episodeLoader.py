@@ -57,7 +57,8 @@ class EpisodeLoader(data.IterableDataset):
         self.batch_managers = batch_managers
         self.weight_fn = weight_fn
 
-        self.weighted_lengths = [self.weight_fn(btchmngr.task_size()) for btchmngr in batch_managers]
+        self.weighted_lengths = [btchmngr.weight_factor * self.weight_fn(btchmngr.task_size()) for btchmngr in batch_managers]
+
         self.total_weighted = sum(self.weighted_lengths)
         self.target_proportions = [weighted / self.total_weighted for weighted in self.weighted_lengths]
         

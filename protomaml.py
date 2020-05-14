@@ -1,6 +1,4 @@
 # Main TODO (decreasing order of urgence):
-# * biggest issue right now: support and query might have different number of labels!!
-# * labels shuffling
 # * have more samples in D_train than in D_val |D_train| > |D_val|
 # * figure out how to make gradients flow through the parameter generation OR repeat that operation to accumulate the gradients
 # * implement second order (perhaps)
@@ -18,7 +16,7 @@ from collections import defaultdict
 
 from utils.episodeLoader import EpisodeLoader
 from modules.ProtoMAML import ProtoMAML
-from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager
+from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager, SICKBatchManager
 
 from transformers import AdamW, get_linear_schedule_with_warmup
 
@@ -65,7 +63,7 @@ def load_model(config):
     return model
 
 
-def protomaml(config, sw, batch_managers, model):
+def protomaml(config, sw, batch_managers, model, val_bms):
 
     CLASSIFIER_DIMS = 768
     
@@ -80,115 +78,150 @@ def protomaml(config, sw, batch_managers, model):
     SAMPLES_PER_EPISODE = 2
     
     NUM_WORKERS = 3 
-    episode_loader = EpisodeLoader.create_dataloader(
+    train_episodes = EpisodeLoader.create_dataloader(
         config.samples_per_support, batch_managers, config.batch_size,
         num_workers = NUM_WORKERS
     )
 
     global_step = 0
-    for i, batch in enumerate(episode_loader):        
-        optimizer.zero_grad()
 
-        # external data structured used to accumulate gradients.
-        accumulated_gradients = defaultdict(lambda : None)   
-        
-        for j, (support_iter, query_iter, bm) in enumerate(batch):
+    def do_epoch(episode_loader, epoch_length, train=True):
+        nonlocal global_step
 
-            print(f'batch {i}, task {j} : {bm.name}', flush = True)
+        for i, batch in enumerate (it.islice(episode_loader, epoch_length)):
+            optimizer.zero_grad()
 
+            # external data structured used to accumulate gradients.
+            accumulated_gradients = defaultdict(lambda : None)   
+            
             # save original parameters. Will be reloaded later.
             original_weights = deepcopy(model.state_dict())
 
-            support_set = next(iter(support_iter))
+            for j, (support_iter, query_iter, bm) in enumerate(batch):
 
-            # [1] Calculate parameters for softmax.
-            # TODO: make gradients flow inside this function. (Or create them again)
-            classes = bm.classes()
-            model.generateParams(support_set, classes)
-           
-
-            tbname = 'train/{}/loss'.format(bm.name)
-
-            # [2] Adapt task-specific parameters
-            task_optimizer = optim.SGD(model.parameters(), lr=alpha)
-            task_criterion = torch.nn.CrossEntropyLoss()
-            for step, batch in enumerate([support_set] * config.k):
-                batch_inputs, batch_targets = batch
-
-                out = model(batch_inputs)
-                loss = task_criterion(out, batch_targets)
+                print(f'batch {i}, task {j} : {bm.name}', flush = True)
                 
-                task_optimizer.zero_grad()
-                loss.backward()
-                task_optimizer.step()
+                support_set = next(iter(support_iter))
 
-                if step == 0:
-                    sw.add_scalar(tbname+'@1', loss.item(), global_step)
-                if step == config.k-1:
-                    sw.add_scalar(tbname+'@k', loss.item(), global_step)
+                # [1] Calculate parameters for softmax.
+                # TODO: make gradients flow inside this function. (Or create them again)
+                classes = bm.classes()
+                model.generateParams(support_set, classes)
+            
+                def log(loss, step, bm):
+                    tbname = '{}/{}/loss'.format('train' if train else 'val', bm.name)
+                    sw.add_scalar(tbname+'@{}'.format(step), loss, global_step)
+                    if hasattr(bm, 'parent'):
+                        log(loss, step, bm.parent)
 
-                global_step += 1
+                # [2] Adapt task-specific parameters
+                task_optimizer = optim.SGD(model.parameters(), lr=alpha)
+                task_criterion = torch.nn.CrossEntropyLoss()
+                for step, batch in enumerate([support_set] * config.k):
+                    batch_inputs, batch_targets = batch
+
+                    out = model(batch_inputs)
+                    loss = task_criterion(out, batch_targets)
+                    
+                    task_optimizer.zero_grad()
+                    loss.backward()
+                    task_optimizer.step()
+
+                    if step == 0:
+                        log(loss.item(), '1', bm)
+                    elif step == config.k-1:
+                        log(loss.item(), 'k', bm)
+
+                    global_step += 1
 
 
-            # [3] Evaluate adapted params on query set, calc grads.            
-            for step, batch in enumerate(it.islice(query_iter, 1)):
-                batch_inputs, batch_targets = batch
-                out = model(batch_inputs)
+                # [3] Evaluate adapted params on query set, calc grads.            
+                for step, batch in enumerate(it.islice(query_iter, 1)):
+                    batch_inputs, batch_targets = batch
+                    out = model(batch_inputs)
 
-                loss = task_criterion(out, batch_targets)
+                    loss = task_criterion(out, batch_targets)
 
-                model.zero_grad()
-                loss.backward()
+                    model.zero_grad()
+                    loss.backward()
 
-                sw.add_scalar(tbname+'@q', loss.item(), global_step)
-                global_step += 1
-
-
-            # accumulate the gradients
-            for n, p in model.named_parameters():
-                if p.requires_grad and n not in ('FFN.weight', 'FFN.bias'):
-                    if accumulated_gradients[n] is None:
-                        accumulated_gradients[n] = p.grad.data
-                    else:
-                        accumulated_gradients[n] += p.grad.data
+                    log(loss.item(), 'q', bm)
+                    global_step += 1
 
 
-            # return to original model
-            model.revert_state(original_weights)
+                # accumulate the gradients
+                for n, p in model.named_parameters():
+                    if p.requires_grad and n not in ('FFN.weight', 'FFN.bias'):
+                        if accumulated_gradients[n] is None:
+                            accumulated_gradients[n] = p.grad.data
+                        else:
+                            accumulated_gradients[n] += p.grad.data
 
-            # end of inner loop
 
+                # return to original model
+                model.revert_state(original_weights)
+
+                # end of inner loop
+
+           
+            if train:
+                # load the accumulated gradients and optimize
+                for n, p in model.named_parameters():
+                    if p.requires_grad:
+                        p.grad.data = accumulated_gradients[n]
+
+                optimizer.step()
+ 
+    val_episodes = EpisodeLoader.create_dataloader(
+        config.samples_per_support, val_bms, 1
+    )
+
+    for epoch in range(config.nr_epochs):
         
-        # load the accumulated gradients and optimize
-        for n, p in model.named_parameters():
-            if p.requires_grad:
-                p.grad.data = accumulated_gradients[n]
+        # train
+        print('training...')
+        do_epoch(train_episodes, config.nr_episodes)
 
-        optimizer.step()
+        # validate
+        print('validating...')
+        do_epoch(val_episodes, 1, train=False)
 
 
     model.deactivate_linear_layer()
     return model.state_dict(), None
-    
+ 
+###########
+
+def logloc(comment='',dir_name='runs'):
+    import socket
+    from datetime import datetime
+    current_time = datetime.now().strftime('%b%d_%H-%M-%S')
+    log_dir = os.path.join(dir_name, current_time + '_' + socket.gethostname() + comment)
+    return log_dir   
         
 if __name__ == "__main__":
      # Parse training configuration
     parser = argparse.ArgumentParser()
 
-    # Model params
+    # Training params
+    parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 100)
+    parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 20)
     parser.add_argument('--batch_size', type=int, default="4", help="How many tasks in an episode over which gradients for M_init are accumulated")
-    parser.add_argument('--k', type=int, default="8", help="How many times do we update weights prime")
+    parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 2e-5)
-    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 2e-3)
-    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-5)
+    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-2)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
     parser.add_argument('--use_second_order', action='store_true', help='Use the second order version of MAML')
+
+    #TODO use a learning rate decay?
+
+    # Misc
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
-
+    parser.add_argument('--sw_log_dir', type=str, default='runs', help='The directory in which to create the default logdir.')
+    
     config = parser.parse_args()
-
     config.first_order_approx = not config.use_second_order
 
     torch.manual_seed(config.random_seed)
@@ -200,19 +233,22 @@ if __name__ == "__main__":
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
     batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
+    batchmanager5 = SICKBatchManager(batch_size = config.samples_per_support, device = config.device)
 
-    #batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
-    #batchmanagers.extend(batchmanager4.get_subtasks(2))
-    batchmanagers = [batchmanager1]
-
+    train_bms = [ batchmanager2 ]
+    train_bms.extend(batchmanager1.get_subtasks(2))
+    train_bms.extend(batchmanager4.get_subtasks(2))
     #TODO decide on final mix of tasks in training.
 
-    sw = SummaryWriter()
+    val_bms = [ batchmanager5 ]
+    #val_bms.extend(batchmanager5.get_subtasks(2))
 
+
+    logdir = logloc(dir_name=config.sw_log_dir)
+    sw = SummaryWriter(log_dir=logdir)
 
     # Train the model
-    print('Beginning the training...', flush = True)
-    state_dict, dev_acc = protomaml(config, sw, batchmanagers, model)
+    state_dict, dev_acc = protomaml(config, sw, train_bms, model, val_bms)
     
     print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
 

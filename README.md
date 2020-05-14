@@ -18,3 +18,15 @@ Project on Meta-Learning for the "Advanced Topics on Computational Semantics" co
   * Download dataset 3.1 from [here](https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Claim%20Stance). 
 * `.data/MRPC` for the MRPC dataset
   * Download dataset from [here](https://github.com/wasiahmad/paraphrase_identification/tree/master/dataset/msr-paraphrase-corpus).
+
+## TO DO:
+
+* [x] ..
+* [ ] New test / dev split for MRPC
+* [ ] Sort out splits
+* [ ] Fix number of workers for multi-threading
+* [ ] protomaml.py
+  * [ ] Make gradients flow inside this function?
+* [ ] TODO's in episodeLoader.py?
+* [ ] Retrieve IBM BatchManager that actually did shuffle
+* [ ] Shall we have taskspecific learning rates in multi-task?

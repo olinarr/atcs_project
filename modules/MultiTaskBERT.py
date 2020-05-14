@@ -9,7 +9,7 @@ class MultiTaskBERT(nn.Module):
         Parameters:
         device (str): CUDA or cpu
         trainable_layers (list(int)): BERT layers to be trained
-        tasks (list(str, int)): list of tuples: name of the tasks, number of labels
+        tasks (dict(str, int)): dictionary mapping name of the tasks to number of labels
 
         """
         super(MultiTaskBERT, self).__init__()
@@ -20,14 +20,15 @@ class MultiTaskBERT(nn.Module):
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
         self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
 
+        # shared linear layer
         self.sharedLinear = nn.Sequential(nn.Linear(768, 768), nn.ReLU()).to(device)
 
+        # all the tasks
         self.tasks = (name for name, labels in tasks)
 
-        # add the special layers. BIG NOTICE: these are not returned into the .parameters() !
-        self.taskSpecificLayer = dict()
-        for name, labels in tasks:
-            self.initTask(name, labels)
+        self.taskSpecificLayer = nn.ModuleDict(
+                {task: nn.Linear(768, n_labels) for task, n_labels in tasks.items()}
+            ).to(self.device)
 
         # deactivate gradients on the parameters we do not need.
 
@@ -48,9 +49,8 @@ class MultiTaskBERT(nn.Module):
             if not flag:
                 params.requires_grad = False
 
-    def initTask(self, name, n_labels):
-        """ Register a new task. """
-        self.taskSpecificLayer[name] = nn.Linear(768, n_labels).to(self.device)
+    def addTask(self, task, n_classes):
+        self.taskSpecificLayer[task] = nn.Linear(768, n_classes)
 
     def forward(self, inputs, task):
         """Forward function of the model
@@ -86,5 +86,18 @@ class MultiTaskBERT(nn.Module):
 
         return self.taskSpecificLayer[task](out)
 
+    def globalParameters(self):
+        """ Returns the global parameters """
+        return (p for n, p in self.named_parameters() if 'taskSpecificLayer' not in n)
+
+    def named_globalParameters(self):
+        """ Returns the global parameters """
+        return ((n, p) for n, p in self.named_parameters() if 'taskSpecificLayer' not in n)
+
     def taskParameters(self, task):
-        return [self.taskSpecificLayer[task].weight, self.taskSpecificLayer[task].bias]
+        """ Returns the task specific parameters """
+        return (p for n, p in self.named_parameters() if f'taskSpecificLayer.{task}' in n)
+
+    def named_taskParameters(self, task):
+        """ Returns the task specific parameters """
+        return ((n, p) for n, p in self.named_parameters() if f'taskSpecificLayer.{task}' in n)
