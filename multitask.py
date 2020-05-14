@@ -110,7 +110,7 @@ def train(config, batchmanager, model):
     print("#########\nInitial dev accuracies: ")
     for task in batchmanager.tasks:
         dev_acc = get_dev_accuracy(model, task, batchmanager)
-        print(f"dev acc of {task}: {dev_acc:.2f}")
+        print(f"dev acc of {task}: {dev_acc:.2f}", flush = True)
     print("#########", flush = True)
 
     try :
@@ -146,8 +146,7 @@ def train(config, batchmanager, model):
                     print(f'epoch #{epoch+1}/{config.epochs}, ', end = '')
                     print(f'batch #{i}/{len(batchmanager)}:')
                     for task, value in sorted(loss_c.items()):
-                        print(task + ": ")
-                        print(f'avg_loss = ', end = '')
+                        print(f'{task} avg_loss = ', end = '')
                         print(f'{sum(value) / len(value):.2f} ({len(value)} samples)')
                     # re-init cumulative loss
                     loss_c = defaultdict(lambda : [])                        
@@ -159,7 +158,7 @@ def train(config, batchmanager, model):
             # print accuracies
             for task in batchmanager.tasks:
                 dev_acc = get_dev_accuracy(model, task, batchmanager)
-                print(f"{task} dev_acc = {dev_acc:.2f}.")
+                print(f"{task} dev_acc = {dev_acc:.2f}.", flush = True)
             print(f'#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*\n\n', flush = True)
             torch.save(model.state_dict(), path_to_dicts(config))
 
