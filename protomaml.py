@@ -169,26 +169,36 @@ def protomaml(config, sw, batch_managers, model):
 
     model.deactivate_linear_layer()
     return model.state_dict(), None
-    
+ 
+###########
+
+def logloc(comment='',dir_name='runs'):
+    import socket
+    from datetime import datetime
+    current_time = datetime.now().strftime('%b%d_%H-%M-%S')
+    log_dir = os.path.join(dir_name, current_time + '_' + socket.gethostname() + comment)
+    return log_dir   
         
 if __name__ == "__main__":
      # Parse training configuration
     parser = argparse.ArgumentParser()
 
     # Model params
-    parser.add_argument('--batch_size', type=int, default="4", help="How many tasks in an episode over which gradients for M_init are accumulated")
-    parser.add_argument('--k', type=int, default="8", help="How many times do we update weights prime")
+    parser.add_argument('--batch_size', type=int, default="1", help="How many tasks in an episode over which gradients for M_init are accumulated")
+    parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 2e-5)
-    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 2e-3)
+    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-2)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
     parser.add_argument('--use_second_order', action='store_true', help='Use the second order version of MAML')
+
+    # Misc
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
-
+    parser.add_argument('--sw_log_dir', type=str, default='runs', help='The directory in which to create the default logdir.')
+    
     config = parser.parse_args()
-
     config.first_order_approx = not config.use_second_order
 
     torch.manual_seed(config.random_seed)
@@ -199,15 +209,16 @@ if __name__ == "__main__":
     batchmanager1 = MultiNLIBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
-    batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
+    #batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
 
-    #batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
+    batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
     #batchmanagers.extend(batchmanager4.get_subtasks(2))
-    batchmanagers = [batchmanager1]
+    #batchmanagers = [batchmanager1]
 
     #TODO decide on final mix of tasks in training.
 
-    sw = SummaryWriter()
+    logdir = logloc(dir_name=config.sw_log_dir)
+    sw = SummaryWriter(log_dir=logdir)
 
 
     # Train the model
