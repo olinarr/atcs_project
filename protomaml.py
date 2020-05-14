@@ -120,23 +120,16 @@ def protomaml(config, sw, batch_managers, model, val_bms):
                 for step, batch in enumerate([support_set] * config.k):
                     batch_inputs, batch_targets = batch
 
-<<<<<<< HEAD
-                if step == 0:
-                    log(loss.item(), '1', bm)
-                elif step == config.k-1:
-                    log(loss.item(), 'k', bm)
-=======
                     out = model(batch_inputs)
                     loss = task_criterion(out, batch_targets)
                     
                     task_optimizer.zero_grad()
                     loss.backward()
                     task_optimizer.step()
->>>>>>> 709aea807ff50472f211bf6318f90b7c38982062
 
                     if step == 0:
                         log(loss.item(), '1', bm)
-                    if step == config.k-1:
+                    elif step == config.k-1:
                         log(loss.item(), 'k', bm)
 
                     global_step += 1
