@@ -1,6 +1,4 @@
 # Main TODO (decreasing order of urgence):
-# * biggest issue right now: support and query might have different number of labels!!
-# * labels shuffling
 # * have more samples in D_train than in D_val |D_train| > |D_val|
 # * figure out how to make gradients flow through the parameter generation OR repeat that operation to accumulate the gradients
 # * implement second order (perhaps)
@@ -106,8 +104,11 @@ def protomaml(config, sw, batch_managers, model):
             classes = bm.classes()
             model.generateParams(support_set, classes)
            
-
-            tbname = 'train/{}/loss'.format(bm.name)
+            def log(loss, step, bm):
+                tbname = 'train/{}/loss'.format(bm.name)
+                sw.add_scalar(tbname+'@{}'.format(step), loss, global_step)
+                if hasattr(bm, 'parent'):
+                    log(loss, step, bm.parent)
 
             # [2] Adapt task-specific parameters
             task_optimizer = optim.SGD(model.parameters(), lr=alpha)
@@ -123,9 +124,9 @@ def protomaml(config, sw, batch_managers, model):
                 task_optimizer.step()
 
                 if step == 0:
-                    sw.add_scalar(tbname+'@1', loss.item(), global_step)
+                    log(loss.item(), '1', bm)
                 if step == config.k-1:
-                    sw.add_scalar(tbname+'@k', loss.item(), global_step)
+                    log(loss.item(), 'k', bm)
 
                 global_step += 1
 
@@ -140,7 +141,7 @@ def protomaml(config, sw, batch_managers, model):
                 model.zero_grad()
                 loss.backward()
 
-                sw.add_scalar(tbname+'@q', loss.item(), global_step)
+                log(loss.item(), 'q', bm)
                 global_step += 1
 
 
@@ -188,7 +189,7 @@ if __name__ == "__main__":
     parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 2e-5)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-6)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-2)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)

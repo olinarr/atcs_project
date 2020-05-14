@@ -24,7 +24,7 @@ class BatchManager():
     """
     
     SHUFFLE = True 
-    MAX_NR_OF_SUBTASKS = 100
+    MAX_NR_OF_SUBTASKS = 10
    
     def _extract_label(self, sample):
         raise NotImplementedError
@@ -87,6 +87,7 @@ class BatchManager():
             subtask.l2i = { label : i for i,sub in enumerate(part) for label in sub }
             subtask.name = self.name + '_st{}'.format(j)
             subtask.weight_factor = 1 / len(partitions)
+            subtask.parent = self
             yield subtask
     
 
