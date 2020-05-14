@@ -125,7 +125,7 @@ def protomaml(config, sw, batch_managers, model):
 
                 if step == 0:
                     log(loss.item(), '1', bm)
-                if step == config.k-1:
+                elif step == config.k-1:
                     log(loss.item(), 'k', bm)
 
                 global_step += 1
@@ -185,11 +185,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
     # Model params
-    parser.add_argument('--batch_size', type=int, default="1", help="How many tasks in an episode over which gradients for M_init are accumulated")
+    parser.add_argument('--batch_size', type=int, default="4", help="How many tasks in an episode over which gradients for M_init are accumulated")
     parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-6)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-5)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-2)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
