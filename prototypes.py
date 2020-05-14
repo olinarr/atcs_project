@@ -136,7 +136,7 @@ if __name__ == "__main__":
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 2e-5)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 2e-5)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
-    parser.add_argument('--samples_per_support', type=int, help='Number of samples per each episode', default = 32)
+    parser.add_argument('--samples_per_support', type=int, help='Number of samples per each episode', default = 8)
     parser.add_argument('--use_second_order', action='store_true', help='Use the second order version of MAML')
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
 
@@ -152,10 +152,10 @@ if __name__ == "__main__":
     batchmanager1 = MultiNLIBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
-    batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)    
+    #batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)    
 
     #batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
-    batchmanagers = [batchmanager1, batchmanager2, batchmanager3, batchmanager4]
+    batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
 
     # Train the model
     print('Beginning the training...', flush = True)
