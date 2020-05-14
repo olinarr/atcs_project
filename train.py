@@ -9,6 +9,8 @@ from transformers import AdamW, get_linear_schedule_with_warmup
 from modules.FineTunedBERT import FineTunedBERT
 from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager
 
+from copy import deepcopy
+
 # path of the trained state dict
 MODELS_PATH = './state_dicts/'
 if not os.path.exists(MODELS_PATH):
@@ -96,7 +98,7 @@ def train(config, batchmanager, model):
     # compute initial dev accuracy (to check whether it is 1/n_classes)
     last_dev_acc = get_accuracy(model, batchmanager.dev_iter)
     best_dev_acc = last_dev_acc # to save the best model
-    best_model_dict = model.state_dict() # to save the best model
+    best_model_dict = deepcopy(model.state_dict()) # to save the best model
     print(f'inital dev accuracy: {last_dev_acc}', flush = True)
 
     try :
@@ -134,7 +136,7 @@ def train(config, batchmanager, model):
             # if it improves, this is the best model
             if new_dev_acc > best_dev_acc:
                 best_dev_acc = new_dev_acc
-                best_model_dict = model.state_dict()
+                best_model_dict = deepcopy(model.state_dict())
 
     except KeyboardInterrupt:
         print("Training stopped!")
@@ -142,7 +144,7 @@ def train(config, batchmanager, model):
         print(f'Recomputing dev accuracy: {new_dev_acc}')
         if new_dev_acc > best_dev_acc:
             best_dev_acc = new_dev_acc
-            best_model_dict = model.state_dict()
+            best_model_dict = deepcopy(model.state_dict())
 
     return best_model_dict, best_dev_acc
 

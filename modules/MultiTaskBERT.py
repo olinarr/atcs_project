@@ -20,8 +20,10 @@ class MultiTaskBERT(nn.Module):
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
         self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
 
+        # shared linear layer
         self.sharedLinear = nn.Sequential(nn.Linear(768, 768), nn.ReLU()).to(device)
 
+        # all the tasks
         self.tasks = (name for name, labels in tasks)
 
         # add the special layers. BIG NOTICE: these are not returned into the .parameters() !
@@ -87,4 +89,5 @@ class MultiTaskBERT(nn.Module):
         return self.taskSpecificLayer[task](out)
 
     def taskParameters(self, task):
+        """ Returns the task specific parameters """
         return [self.taskSpecificLayer[task].weight, self.taskSpecificLayer[task].bias]

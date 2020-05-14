@@ -6,13 +6,17 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 import torch
 from transformers import AdamW, get_linear_schedule_with_warmup
 import torch.utils.data as data
-from torch.optim import Adam
+from torch.optim import Adam, SGD
 
 from modules.MultiTaskBERT import MultiTaskBERT
 from utils.MultiTaskTrainLoader import MultiTaskTrainLoader
-from utils.BatchManagers import SICKBatchManager
+from utils.batchManagers import SICKBatchManager
 
 from utils.episodeLoader import EpisodeLoader
+
+from collections import defaultdict
+
+from copy import deepcopy
 
 
 # path of the trained state dict
@@ -23,23 +27,22 @@ if not os.path.exists(MODELS_PATH):
 def path_to_dicts(config):
     return MODELS_PATH + "multitask.pt"
 
-
-def evaluateModel(model, episodeLoader):
-    """compute accuracy on a certain iterator
+def get_dev_accuracy(model, task, batchmanager):
+    """compute dev accuracy on a certain task
 
     Parameters:
-    model (MultiTaskBERT): the model to evaluate
-    devEpisodeLoader (EpisodeLoader): episode loader used to validate
+    model (MultiTaskBERT): the model to train
+    task (str): the task on which to eval
+    batchmanager (MultiTaskTrainLoader): the batchmanager
 
     Returns:
-    float: loss on new task """
-
-    # TODO: finish here
+    float: said accuracy"""
 
     model.eval()
-    model.initTask('SICK', 5)
+    count, num = 0., 0
+    dev_iter = batchmanager.batchmanagers[task].dev_iter
     with torch.no_grad():
-        for i, batch in enumerate(iter):
+        for batch in dev_iter:
             data, targets = batch
             out = model(data, task)
             predicted = out.argmax(dim=1)
@@ -48,6 +51,7 @@ def evaluateModel(model, episodeLoader):
 
     model.train()
     return count / num
+
 
 def load_model(config, batchmanager):
     """Load a model (either a new one or from disk)
@@ -58,12 +62,12 @@ def load_model(config, batchmanager):
 
     Returns:
     MultiTaskBERT: the loaded model"""
-
-    trainable_layers = [9, 10, 11]
-    assert min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
-    # this method retuns a list of tuples (str, int) of form (name_of_task, n_of_classes)
+    
+    # this function returns a list of tuples consisting of
+    # name of the task (string), number of classes in the task (int)
     tasks = batchmanager.getTasksWithNClasses()
-    model = MultiTaskBERT(device = config.device, trainable_layers = trainable_layers, tasks = tasks)
+    # this "tasks" object is used to initialize the model (with the right output layers)
+    model = MultiTaskBERT(device = config.device, tasks = tasks)
 
     # if we saved the state dictionary, load it.
     if config.resume:
@@ -77,56 +81,62 @@ def load_model(config, batchmanager):
 
     return model
 
-def train(config, batchmanager, model, devEpisodeLoader):
+def train(config, batchmanager, model):
     """Main training loop
 
     Parameters:
     config: argparse flags
     batchmanager (MultiTaskTrainLoader): the batchmanager
     model (MultiTaskBERT): the model to train
-    devEpisodeLoader (EpisodeLoader): episode loader used to validate
 
     Returns:
-    (dict, float): the state dictionary of the best model and its dev accuracy"""
+    (dict, float): the state dictionary of the final model"""
 
     model.train()
 
     # loss
     criterion = torch.nn.CrossEntropyLoss()
 
-    # filter out from the optimizer the "frozen" parameters,
-    # which are the parameters without requires grad.
+    # global optimizer. Lookout: model.parameter returns only the GLOBAL parameter
     globalOptimizer = AdamW(model.parameters(), lr=config.lr)    
+    # scheduler for lr
     scheduler = get_linear_schedule_with_warmup(globalOptimizer, num_warmup_steps = 0, num_training_steps = batchmanager.totalBatches * config.epochs)
 
-    # TODO: task specific lr
+    # TODO: task specific lr???
+    # TODO: SGD instead?
 
     taskOptimizer = {task: Adam(model.taskParameters(task), lr=config.lr) for task in batchmanager.tasks}
 
-    # compute initial dev accuracy (to check whether it is 1/n_classes)
-    """last_dev_acc = get_accuracy(model, dev_iter, 'NLI')
-    best_dev_acc = last_dev_acc # to save the best model
-    best_model_dict = model.state_dict() # to save the best model
-    print(f'inital dev accuracy: {last_dev_acc}', flush = True)"""
-
-    # TODO check all the parameters are registered correctly.
+    ## PRINT ACCURACY ON ALL TASKS
+    print("#########\nInitial dev accuracies: ")
+    for task in batchmanager.tasks:
+        dev_acc = get_dev_accuracy(model, task, batchmanager)
+        print(f"dev acc of {task}: {dev_acc}")
+    print("#########", flush = True)
 
     try :
         for epoch in range(config.epochs):
+            # cumulative loss for printing
+            loss_c = defaultdict(lambda : [])
+            # iterating over the batchmanager returns
+            # name_of_task, batch_of_the_task
             for i, (task, batch) in enumerate(batchmanager):
-
-                print(i, flush = True)
 
                 globalOptimizer.zero_grad()
                 taskOptimizer[task].zero_grad()
 
                 data, targets = batch
+                # the model needs to know the task
                 out = model(data, task)
 
                 loss = criterion(out, targets)
                 loss.backward()
 
-                print(loss.item(), flush = True) # remove this later
+                # cumulative loss (for printing)
+                loss_c[task].append(loss.item())
+
+                # I only clip global parameters 'cause the local-ones
+                # are only a layer, dosen't seem necessary to me.
 
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
 
@@ -134,30 +144,35 @@ def train(config, batchmanager, model, devEpisodeLoader):
                 taskOptimizer[task].step()
                 scheduler.step() # update lr
 
+                # printing: we print the avg loss for every
+                # task in the last loss_print_rate steps.
+                if i != 0 and i % config.loss_print_rate == 0:
+                    for task, value in sorted(loss_c.items()):
+                        print(f'epoch #{epoch+1}/{config.epochs}, ', end = '')
+                        print(f'batch #{i}/{batchmanager.totalBatches}, ', end = '')
+                        print(task + ": ")
+                        print(f'avg_loss = ', end = '')
+                        print(f'{sum(value) / len(value):.2f} ({len(value)} samples)')
+                    # re-init cumulative loss
+                    loss_c = defaultdict(lambda : [])                        
+
+                    print("***", flush = True)
+
             # end of an epoch
-            print(f'#####\nEpoch {epoch+1} concluded!\n')
-            print(f'Average train loss: {loss_c / len(batchmanager.train_iter)}')
-            print(f'Average train acc : {get_accuracy(model, dev_iter, "NLI")}')
-            new_dev_acc = get_accuracy(model, batchmanager.dev_iter)
-            last_dev_acc = new_dev_acc
-
-            print(f'dev accuracy: {new_dev_acc}')
-            print('#####', flush = True)
-
-            # if it improves, this is the best model
-            if new_dev_acc > best_dev_acc:
-                best_dev_acc = new_dev_acc
-                best_model_dict = model.state_dict()
+            print(f'\n\n#*#*#*#*# Epoch {epoch+1} concluded! #*#*#*#*#')
+            # print accuracies
+            for task in batchmanager.tasks:
+                dev_acc = get_dev_accuracy(model, task, batchmanager)
+                print(f"{task} dev_acc = {dev_acc}.")
+            print(f'#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*\n\n', flush = True)
+            torch.save(model.state_dict(), path_to_dicts(config))
 
     except KeyboardInterrupt:
-        print("Training stopped!")
-        new_dev_acc = get_accuracy(model, dev_iter, 'NLI')
-        print(f'Recomputing dev accuracy: {new_dev_acc}')
-        if new_dev_acc > best_dev_acc:
-            best_dev_acc = new_dev_acc
-            best_model_dict = model.state_dict()
+        print("Training stopped!", flush = True)
+        torch.save(model.state_dict(), path_to_dicts(config))
 
-    return best_model_dict, best_dev_acc
+    return model.state_dict()
+
 
 if __name__ == "__main__":
 
@@ -169,7 +184,7 @@ if __name__ == "__main__":
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--lr', type=float, help='Learning rate', default = 2e-5)
-    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
+    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 10)
     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
     parser.add_argument('--force_cpu', action = 'store_true', help = 'force the use of the cpu')
     config = parser.parse_args()
@@ -177,21 +192,12 @@ if __name__ == "__main__":
     torch.manual_seed(config.random_seed)
     config.device = 'cuda:0' if torch.cuda.is_available() and not config.force_cpu else 'cpu'
 
+    # iterating over this batchmanager yields 
+    # batches from one of the datasets NLI, PBC or MRPC. 
+    # ofc it's random and proportional to sizes
     batchmanager = MultiTaskTrainLoader(batch_size = config.batch_size, device = config.device)
     model = load_model(config, batchmanager)
 
-    # stuff to do evaluatoon
-    # TO VALIDATE
-    SICK = SICKBatchManager(batch_size = 8, device = config.device)
-    devEpisodeLoader = EpisodeLoader.create_dataloader(
-            8, [SICK], config.batch_size,
-            num_workers = 2
-        )
-
     # Train the model
     print('Beginning the training...', flush = True)
-    state_dict, dev_acc = train(config, batchmanager, model, devEpisodeLoader)
-    print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
-
-    #save model
-    torch.save(state_dict, path_to_dicts(config))
+    state_dict = train(config, batchmanager, model)

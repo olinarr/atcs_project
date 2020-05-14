@@ -2,8 +2,10 @@ from utils.batchManagers import MultiNLIBatchManager, MRPCBatchManager, PDBBatch
 from math import sqrt
 import random
 
+random.seed(42)
+
 class MultiTaskTrainLoader():
-    """ Custom batch manager for multi-task learning """
+    """ Custom batch manager for multi-task learning. Iterating over this object yields a batch from one of the datasets (randomly) """
 
     def __init__(self, batch_size, device):
         self.batch_size = batch_size
