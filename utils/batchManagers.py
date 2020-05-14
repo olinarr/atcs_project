@@ -200,49 +200,6 @@ class IBMBatchManager(BatchManager):
         self.device = device
         self.name = 'ibm'
 
-class IBMBatchManager():
-    """
-    Batch Manager for the IBM dataset
-    """
-    def __init__(self, batch_size = 256, device = 'cpu'):
-        """
-        Initializes the dataset
-
-        Args:
-            batch_size: Number of elements per batch
-            device    : Device to run it on: cpu or gpu
-        """
-        
-        # Get a mapping from stances to labels
-        self.l2i = {'PRO': 0, 'CON':1}
-
-        # IBM dataset doesn't offer a separate validation set!
-        df = pd.read_csv(os.path.join("ibm", "claim_stance_dataset_v1.csv"))
-
-        # Shuffle and reset index for loc
-        df = shuffle(df)
-        df.reset_index(inplace=True, drop = True)
-
-        # Get dataset split 80/20
-        df.loc[:int(0.8*len(df)),'split'] = 'train'
-        df.loc[int(0.8*len(df)):int(0.9*len(df)),'split'] = 'test'
-        df.loc[int(0.9*len(df)):,'split'] = 'dev'
-
-        # Generate splits
-        self.train_set = df.query("split == 'train'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']]
-        self.dev_set   = df.query("split == 'dev'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']]
-        self.test_set  = df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']]
-
-        # Sanity check for lengths
-        assert len(self.train_set) == 1915
-        assert len(self.test_set ) == 239
-        assert len(self.dev_set  ) == 240
-
-        # Turn the datasets into iterators
-        self.train_iter = MyIterator(self.train_set, batch_size, l2i = self.l2i, device = device, IBM = True)
-        self.dev_iter = MyIterator(self.dev_set, batch_size, l2i = self.l2i, device = device, IBM = True)
-        self.test_iter = MyIterator(self.test_set, batch_size, l2i = self.l2i, device = device, IBM = True)
-
 class ListDataset(Dataset):
     
     def __init__(self, lst):
