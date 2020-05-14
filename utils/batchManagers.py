@@ -24,7 +24,7 @@ class BatchManager():
     """
     
     SHUFFLE = True 
-    MAX_NR_OF_SUBTASKS = 100
+    MAX_NR_OF_SUBTASKS = 10
    
     def _extract_label(self, sample):
         raise NotImplementedError
@@ -42,7 +42,10 @@ class BatchManager():
     def task_size(self):
         return len(self.train_set)
 
-    def initialize(self, batch_size):
+    def __init__(self, batch_size):
+
+        self.weight_factor = 1
+
         # create the three iterators
         self.train_iter = DataLoader(self.train_set, batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
         self.dev_iter   = DataLoader(self.dev_set,   batch_size=batch_size, shuffle=self.SHUFFLE, collate_fn=self.collate)
@@ -54,6 +57,11 @@ class BatchManager():
             for i,e in enumerate(s):
                 lbl = self._extract_label(e)
                 self.label_indices[s][lbl].append(i)
+
+        sizes = [str(len(s)) for s in sets]
+        print("Split {} (train/dev/test): {}".format(self.name, '/'.join(sizes)))
+
+
 
     def randomize_class_indices(self):
         classes = self.classes()
@@ -78,11 +86,8 @@ class BatchManager():
             subtask = copy.copy(self)
             subtask.l2i = { label : i for i,sub in enumerate(part) for label in sub }
             subtask.name = self.name + '_st{}'.format(j)
-
-            def task_size():
-                return self.task_size() / len(partitions)
-            subtask.task_size = task_size
-
+            subtask.weight_factor = 1 / len(partitions)
+            subtask.parent = self
             yield subtask
     
 
@@ -111,10 +116,10 @@ class MultiNLIBatchManager(BatchManager):
         # mapping from classes to integers
         self.l2i = {'entailment': 0, 'neutral': 1, 'contradiction': 2}
         
-        self.initialize(batch_size)
         self.device = device
         self.name = 'multinli'
 
+        super(MultiNLIBatchManager, self).__init__(batch_size)
         
 class DataframeDataset(Dataset):
     
@@ -158,10 +163,10 @@ class IBMBatchManager(BatchManager):
         self.dev_set   = DataframeDataset(df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
         self.test_set  = DataframeDataset(df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
 
-        self.initialize(batch_size)
         self.device = device
         self.name = 'ibm'
 
+        super(IBMBatchManager, self).__init__(batch_size)
 
 class ListDataset(Dataset):
     
@@ -212,9 +217,10 @@ class MRPCBatchManager(BatchManager):
 
         self.l2i = {0: 0, 1: 1}
 
-        self.initialize(batch_size)
         self.device = device
         self.name = 'mrpc'
+
+        super(MRPCBatchManager, self).__init__(batch_size)
 
 class SICKBatchManager(BatchManager):
     """
@@ -260,9 +266,10 @@ class SICKBatchManager(BatchManager):
         self.dev_set   = ListDataset(dev_set)
         self.test_set  = ListDataset(test_set)
 
-        self.initialize(batch_size)
         self.device = device
         self.name = 'sick'
+
+        super(SICKBatchManager, self).__init__(batch_size)
 
 
 class PDBBatchManager(BatchManager):
@@ -296,10 +303,11 @@ class PDBBatchManager(BatchManager):
         self.train_set = DataframeDataset(train[['sent1','sent2','label']])
         self.dev_set   = DataframeDataset(dev[['sent1','sent2','label']])
         self.test_set  = DataframeDataset(test[['sent1','sent2','label']])
-
-        self.initialize(batch_size)
+    
         self.device = device
         self.name = 'pdb'
+
+        super(PDBBatchManager, self).__init__(batch_size)
 
 
     def _get_partitions(self, k):
