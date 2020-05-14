@@ -29,3 +29,4 @@ Project on Meta-Learning for the "Advanced Topics on Computational Semantics" co
   * [ ] Make gradients flow inside this function?
 * [ ] TODO's in episodeLoader.py?
 * [ ] Retrieve IBM BatchManager that actually did shuffle
+* [ ] Shall we have taskspecific learning rates in multi-task?

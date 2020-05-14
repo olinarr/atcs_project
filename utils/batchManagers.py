@@ -7,6 +7,8 @@ import pandas as pd
 
 import numpy as np
 
+from sklearn.utils import shuffle
+
 class BatchManager():
     """
     Class to define a batch manager.
@@ -143,7 +145,7 @@ class IBMBatchManager(BatchManager):
     def _extract_label(self, sample):
         return sample['claims.stance']    
 
-    def __init__(self, batch_size = 32, device = 'cpu'):
+    def __init__(self, batch_size = 256, device = 'cpu'):
         """
         Initializes the dataset
 
@@ -156,18 +158,32 @@ class IBMBatchManager(BatchManager):
         self.l2i = {'PRO': 0, 'CON':1}
 
         # IBM dataset doesn't offer a separate validation set!
-        #TODO: maybe make new train/valid/test split so we have validation data?
-        
-        df = pd.read_csv(os.path.join(".data/ibm", "claim_stance_dataset_v1.csv"))
+        df = pd.read_csv(os.path.join(".data", "ibm", "claim_stance_dataset_v1.csv"))
+
+        # Shuffle and reset index for loc
+        df = shuffle(df)
+        df.reset_index(inplace=True, drop = True)
+
+        # Get dataset split 80/20
+        df.loc[:int(0.8*len(df)),'split'] = 'train'
+        df.loc[int(0.8*len(df)):int(0.9*len(df)),'split'] = 'test'
+        df.loc[int(0.9*len(df)):,'split'] = 'dev'
+
+        # Generate splits
         self.train_set = DataframeDataset(df.query("split == 'train'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
-        self.dev_set   = DataframeDataset(df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
+        self.dev_set   = DataframeDataset(df.query("split == 'dev'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
         self.test_set  = DataframeDataset(df.query("split == 'test'")[['topicText', 'claims.claimCorrectedText', 'claims.stance']])
+
+        # Sanity check for lengths
+        assert len(self.train_set) == 1915
+        assert len(self.test_set ) == 239
+        assert len(self.dev_set  ) == 240
 
         self.device = device
         self.name = 'ibm'
 
         super(IBMBatchManager, self).__init__(batch_size)
-
+        
 class ListDataset(Dataset):
     
     def __init__(self, lst):
