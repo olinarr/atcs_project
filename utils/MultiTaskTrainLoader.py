@@ -34,7 +34,7 @@ class MultiTaskTrainLoader():
 
         # total number of batches per one epoch
 
-        self.totalBatches = sum((bm.task_size() for bm in self.batchmanagers.values())) // self.batch_size
+        self.totalBatches = max((bm.task_size() for bm in self.batchmanagers.values())) // self.batch_size
 
         # used to iterate.
 
@@ -56,6 +56,9 @@ class MultiTaskTrainLoader():
             proportions += [name] * size
 
         return proportions
+
+    def __len__(self):
+        return self.totalBatches
 
     def __iter__(self):
         return self

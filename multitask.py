@@ -100,7 +100,7 @@ def train(config, batchmanager, model):
     # global optimizer.
     globalOptimizer = AdamW(model.globalParameters(), lr=config.lr)    
     # scheduler for lr
-    scheduler = get_linear_schedule_with_warmup(globalOptimizer, num_warmup_steps = 0, num_training_steps = batchmanager.totalBatches * config.epochs)
+    scheduler = get_linear_schedule_with_warmup(globalOptimizer, num_warmup_steps = 0, num_training_steps = len(batchmanager) * config.epochs)
 
     # TODO: task specific lr???
 
@@ -144,7 +144,7 @@ def train(config, batchmanager, model):
                 # task in the last loss_print_rate steps.
                 if i != 0 and i % config.loss_print_rate == 0:
                     print(f'epoch #{epoch+1}/{config.epochs}, ', end = '')
-                    print(f'batch #{i}/{batchmanager.totalBatches}:')
+                    print(f'batch #{i}/{len(batchmanager)}:')
                     for task, value in sorted(loss_c.items()):
                         print(task + ": ")
                         print(f'avg_loss = ', end = '')
