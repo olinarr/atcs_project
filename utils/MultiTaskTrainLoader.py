@@ -28,6 +28,9 @@ class MultiTaskTrainLoader():
         # this is used to sample the dataloaders. See function description
 
         self.proportions = self._getProportions()
+        # task iterator (we shuffle every time)
+        random.shuffle(self.proportions)
+        self.task_iter = iter(self.proportions)
 
         # total number of batches per one epoch
 
@@ -38,7 +41,7 @@ class MultiTaskTrainLoader():
         self.counter = 0
 
     def getTasksWithNClasses(self):
-        return [(name, len(bm.classes())) for name, bm in self.batchmanagers.items()]
+        return {name: len(bm.classes()) for name, bm in self.batchmanagers.items()}
 
     def _getProportions(self):
         """ returns a list of strings, each string is the name of the task. The number of strings in this list are proportional to the sizes of the datasets (square rooted)
@@ -71,8 +74,16 @@ class MultiTaskTrainLoader():
         else:
             # augment the index
             self.counter += 1
+
             # pick a task (this is a string)
-            task = random.choice(self.proportions)
+            try:
+                task = next(self.task_iter)
+            except StopIteration:
+                random.shuffle(self.proportions)
+                self.task_iter = iter(self.proportions)
+
+                task = next(self.task_iter)
+
             # get the corresponding dataloader-iterator
             dataloader = self.iter_dataloaders[task]
 

@@ -63,8 +63,8 @@ def load_model(config, batchmanager):
     Returns:
     MultiTaskBERT: the loaded model"""
     
-    # this function returns a list of tuples consisting of
-    # name of the task (string), number of classes in the task (int)
+    # this function returns a dictionary mapping
+    # name of the task (string) --> number of classes in the task (int)
     tasks = batchmanager.getTasksWithNClasses()
     # this "tasks" object is used to initialize the model (with the right output layers)
     model = MultiTaskBERT(device = config.device, tasks = tasks)
@@ -97,13 +97,12 @@ def train(config, batchmanager, model):
     # loss
     criterion = torch.nn.CrossEntropyLoss()
 
-    # global optimizer. Lookout: model.parameter returns only the GLOBAL parameter
-    globalOptimizer = AdamW(model.parameters(), lr=config.lr)    
+    # global optimizer.
+    globalOptimizer = AdamW(model.globalParameters(), lr=config.lr)    
     # scheduler for lr
     scheduler = get_linear_schedule_with_warmup(globalOptimizer, num_warmup_steps = 0, num_training_steps = batchmanager.totalBatches * config.epochs)
 
     # TODO: task specific lr???
-    # TODO: SGD instead?
 
     taskOptimizer = {task: Adam(model.taskParameters(task), lr=config.lr) for task in batchmanager.tasks}
 
@@ -111,7 +110,7 @@ def train(config, batchmanager, model):
     print("#########\nInitial dev accuracies: ")
     for task in batchmanager.tasks:
         dev_acc = get_dev_accuracy(model, task, batchmanager)
-        print(f"dev acc of {task}: {dev_acc}")
+        print(f"dev acc of {task}: {dev_acc:.2f}")
     print("#########", flush = True)
 
     try :
@@ -135,9 +134,6 @@ def train(config, batchmanager, model):
                 # cumulative loss (for printing)
                 loss_c[task].append(loss.item())
 
-                # I only clip global parameters 'cause the local-ones
-                # are only a layer, dosen't seem necessary to me.
-
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
 
                 globalOptimizer.step()
@@ -147,9 +143,9 @@ def train(config, batchmanager, model):
                 # printing: we print the avg loss for every
                 # task in the last loss_print_rate steps.
                 if i != 0 and i % config.loss_print_rate == 0:
+                    print(f'epoch #{epoch+1}/{config.epochs}, ', end = '')
+                    print(f'batch #{i}/{batchmanager.totalBatches}:')
                     for task, value in sorted(loss_c.items()):
-                        print(f'epoch #{epoch+1}/{config.epochs}, ', end = '')
-                        print(f'batch #{i}/{batchmanager.totalBatches}, ', end = '')
                         print(task + ": ")
                         print(f'avg_loss = ', end = '')
                         print(f'{sum(value) / len(value):.2f} ({len(value)} samples)')
@@ -163,7 +159,7 @@ def train(config, batchmanager, model):
             # print accuracies
             for task in batchmanager.tasks:
                 dev_acc = get_dev_accuracy(model, task, batchmanager)
-                print(f"{task} dev_acc = {dev_acc}.")
+                print(f"{task} dev_acc = {dev_acc:.2f}.")
             print(f'#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*\n\n', flush = True)
             torch.save(model.state_dict(), path_to_dicts(config))
 
