@@ -8,6 +8,7 @@ import argparse
 
 from utils.episodeLoader import EpisodeLoader
 from modules.FineTunedBERT import FineTunedBERT
+from modules.PrototypeModel import ProtoMODEL
 from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager
 
 from transformers import AdamW, get_linear_schedule_with_warmup
@@ -27,29 +28,18 @@ def load_model(config):
     """Load a model (either a new one or from disk)
 
     Parameters:
-    config: argparse flags
+    config: Contains all predefined argparse arguments
 
     Returns:
-    FineTunedBERT: the loaded model"""
+    ProtoMODEL: the loaded model for the prototype network"""
 
-
+    # Retrieve all trainable layers for the model
     trainable_layers = [9, 10, 11]
     assert min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
 
-    # n_classes = None cause we don't use it
-    # use_classifier = False cause we don't use it
+    # Instantiate the prototype network model
     print(config.device)
-    #model = FineTunedBERT(device = config.device, n_classes = None, trainable_layers = trainable_layers)#, use_classifier = False)
-    model = FineTunedBERT(device = config.device, n_classes = 3, trainable_layers = trainable_layers)
-    """# if we saved the state dictionary, load it.
-    if config.resume:
-        try :
-            model.load_state_dict(torch.load(path_to_dicts(config), map_location = config.device))
-        except Exception:
-            print(f"WARNING: the `--resume` flag was passed, but `{path_to_dicts(config)}` was NOT found!")
-    else:
-        if os.path.exists(path_to_dicts(config)):
-            print(f"WARNING: `--resume` flag was NOT passed, but `{path_to_dicts(config)}` was found!")"""
+    model = ProtoMODEL(device = config.device, trainable_layers = trainable_layers)
 
     return model
 
@@ -65,16 +55,9 @@ def run_prototype(config, batch_managers, model):
       Nthn: Not really something to declare yet
     """
 
-    # TODO: Change all of this stuff to requirements for prototypes
-    CLASSIFIER_DIMS = 768
-    f_theta = BERT
-    h_phi = nn.Linear(CLASSIFIER_DIMS, CLASSIFIER_DIMS).to(config.device)
-    params = itertools.chain(
-        f_theta.parameters(),
-        h_phi.parameters()
-    )
-    beta = config.beta 
-    alpha = config.alpha
+    # Parameters
+    beta = config.beta
+    params = model.parameters() 
 
     # Standard NN variables
     optimizer = AdamW(params, lr = beta)#TODO: parameters
@@ -93,24 +76,49 @@ def run_prototype(config, batch_managers, model):
     for i, batch in enumerate(episode_loader):
         # batch is a list of length 4
         print(len(batch))
+        batch_loss = 0
         
         for j, task_iter in enumerate(batch):
             print(task_iter)
             support_set = next(iter(task_iter))
             # Support_set is a tuple of len 2
-            print(support_set)
             print(len(support_set))
 
             for step, batch in enumerate([support_set]):
                 
                 # Get inputs and targets
                 inputs, targets = batch
-                print(inputs)
-                print(targets)
+                classes = targets.unique()
 
-                # TODO: Figure out the number of classes thing
+                # Prototypes are mean of all support set points per class
                 outputs = model(inputs)
-                loss = criterion(outputs, targets)
+                prototypes = torch.empty(len(classes), outputs.shape[1]).to(config.device)
+
+                # Get prototype for each class and append
+                for cls in classes:
+                
+                    # Subset the correct class and take mean over ClassBatch dimension
+                    cls_idx = (targets == cls).nonzero().flatten()
+                    cls_input = torch.index_select(outputs, dim = 0, index=cls_idx)
+                    proto = cls_input.mean(dim=0)
+                    prototypes[cls.item(), :] = proto
+
+            # evaluate on query set (D_val) 
+            for step, batch in enumerate(itertools.islice(task_iter, 1)):
+                inputs, targets = batch
+                outputs = model(inputs)
+
+                # Calculate euclidean distance in a vectorized way
+                diffs = outputs.unsqueeze(1) - prototypes.unsqueeze(0)
+                distances = torch.sum(diffs*diffs, -1) * -1 # get negative distances
+                loss = criterion(distances, targets)
+                batch_loss += loss.item()
+
+                model.zero_grad()
+                loss.backward()
+                optimizer.step()
+
+        print(f"The loss for this batch is {loss:.4f}")
 
 
 if __name__ == "__main__":
@@ -135,7 +143,7 @@ if __name__ == "__main__":
     torch.manual_seed(config.random_seed)
     config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
-    BERT = load_model(config)
+    model = load_model(config)
 
     batchmanager1 = MultiNLIBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
@@ -147,7 +155,7 @@ if __name__ == "__main__":
     # Train the model
     print('Beginning the training...', flush = True)
     #state_dict, dev_acc = protomaml(config, batchmanagers, BERT)
-    run_prototype(config, batchmanagers, BERT)
+    run_prototype(config, batchmanagers, model)
     print("Finished the run_prototype function!")
     
     #print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
