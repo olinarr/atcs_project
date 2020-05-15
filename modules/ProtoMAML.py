@@ -61,6 +61,7 @@ class ProtoMAML(nn.Module):
         # we pad them and output is a pytorch.
         # output is a dict with ready to be passed to BERT directly
         encoded = self.tokenizer.batch_encode_plus(inputs, pad_to_max_length=True, return_tensors="pt", max_length = self.BERT.config.max_position_embeddings)
+        
         # to cuda
         encoded['input_ids'] = encoded['input_ids'].to(self.device)
         encoded['token_type_ids'] = encoded['token_type_ids'].to(self.device)
