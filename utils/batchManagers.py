@@ -331,9 +331,6 @@ class PDBBatchManager(BatchManager):
         # So here we just return a fixed number of random partitions, using a fixed seed for replicability.
         # While also making sure not, for example put different kinds of 'Contingency' in different partitions.
     
-        LUCKY_SEED = 29071993
-        random.seed(LUCKY_SEED)
-
         classes = ['Temporal', 'Comparison', 'Expansion', 'Contingency', 'EntRel', 'NoRel', 'Hypophora']
         for _ in range(self.MAX_NR_OF_SUBTASKS):
             random.shuffle(classes)

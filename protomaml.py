@@ -233,6 +233,7 @@ if __name__ == "__main__":
     # Misc
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
     parser.add_argument('--sw_log_dir', type=str, default='runs', help='The directory in which to create the default logdir.')
+    parser.add_argument('--device', type=str, help='')
     
     config = parser.parse_args()
     config.first_order_approx = not config.use_second_order
@@ -240,7 +241,10 @@ if __name__ == "__main__":
     torch.manual_seed(config.random_seed)
     random.seed(config.random_seed)
 
-    config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
+    if not config.device:
+        config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
+
+    print("Running on: {}".format(config.device))
 
     print("Encoding: {} (should probably be UTF-8)".format(sys.stdout.encoding), flush=True)
 
