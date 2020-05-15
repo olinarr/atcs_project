@@ -215,16 +215,17 @@ class MRPCBatchManager(BatchManager):
             device    : Device to run it on: cpu or gpu
         """
 
-        train_reader =  open('.data/MRPC/msr_paraphrase_train.txt', 'r')
+        train_reader =  open('.data/MRPC/msr_paraphrase_train.txt', 'r', encoding='utf-8')
         train_set = [example.split("\t") for example in train_reader.readlines()][1:]
         # datasets are of the form: [label, id, id, sent_1, sent_2]
         # we only keep [label, sent_1, sent_2]
         train_set = [(int(sample[0]), sample[3], sample[4]) for sample in train_set]
 
-        test_reader =  open('.data/MRPC/msr_paraphrase_test.txt', 'r')
+        test_reader =  open('.data/MRPC/msr_paraphrase_test.txt', 'r', encoding='utf-8')
         test_set = [example.split("\t") for example in test_reader.readlines()][1:]
         test_set = [(int(sample[0]), sample[3], sample[4]) for sample in test_set]
-        
+     
+
         #TODO: maybe make new train/valid/test split so we have validation data?
         
         self.train_set = ListDataset(train_set)
@@ -316,10 +317,16 @@ class PDBBatchManager(BatchManager):
         train = pd.read_csv('./.data/pdb/PDB_train_labeled.csv',sep="|")
         dev = pd.read_csv('./.data/pdb/PDB_dev_labeled.csv',sep="|")
         test = pd.read_csv('./.data/pdb/PDB_test_labeled.csv',sep="|")
+
+        train = train[ ( train['sent1'].map(len) + train['sent2'].map(len) ) < 512 ]
+        dev   =   dev[ (   dev['sent1'].map(len) +   dev['sent2'].map(len) ) < 512 ]
+        test  =  test[ (  test['sent1'].map(len) +  test['sent2'].map(len) ) < 512 ]
+
         self.train_set = DataframeDataset(train[['sent1','sent2','label']])
         self.dev_set   = DataframeDataset(dev[['sent1','sent2','label']])
         self.test_set  = DataframeDataset(test[['sent1','sent2','label']])
-    
+   
+        
         self.device = device
         self.name = 'pdb'
 

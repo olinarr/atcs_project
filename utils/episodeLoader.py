@@ -61,7 +61,7 @@ class EpisodeLoader(data.IterableDataset):
         self.total_weighted = sum(weighted_lengths.values())
         self.target_proportions = {bm : weighted / self.total_weighted for bm, weighted in weighted_lengths.items()}
        
-        print("Target proportions: \n {}".format(self.target_proportions))
+        print("Target proportions: \n {}".format({bm.name : weight for bm, weight in self.target_proportions.items()}))
 
 
     def __iter__(self):

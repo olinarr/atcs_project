@@ -60,7 +60,12 @@ class ProtoMAML(nn.Module):
         # it also adds [CLS], [SEQ], takes care of masked attention and all that racket.
         # we pad them and output is a pytorch.
         # output is a dict with ready to be passed to BERT directly
-        encoded = self.tokenizer.batch_encode_plus(inputs, pad_to_max_length=True, return_tensors="pt", max_length = self.BERT.config.max_position_embeddings)
+        encoded = self.tokenizer.batch_encode_plus(
+                inputs, 
+                pad_to_max_length=True, 
+                #max_length = self.BERT.config.max_position_embeddings,
+                return_tensors="pt"
+        )
         
         # to cuda
         encoded['input_ids'] = encoded['input_ids'].to(self.device)
