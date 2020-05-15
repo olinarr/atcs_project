@@ -9,7 +9,7 @@ import torch.optim as optim
 
 import itertools as it
 
-import os
+import os, sys
 import argparse
 import random 
 
@@ -242,6 +242,8 @@ if __name__ == "__main__":
 
     config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
+    print("Encoding: {} (should probably be UTF-8)".format(sys.stdout.encoding), flush=True)
+
     model = load_model(config)
 
     batchmanager1 = MultiNLIBatchManager(batch_size = config.samples_per_support, device = config.device)
@@ -251,13 +253,12 @@ if __name__ == "__main__":
     batchmanager5 = SICKBatchManager(batch_size = config.samples_per_support, device = config.device)
 
     train_bms = [ batchmanager2, batchmanager3 ]
+    #train_bms = [ batchmanager2 ]
     train_bms.extend(batchmanager1.get_subtasks(2))
     train_bms.extend(batchmanager4.get_subtasks(2))
     #TODO decide on final mix of tasks in training.
 
     val_bms = [ batchmanager5 ]
-    #val_bms.extend(batchmanager5.get_subtasks(2))
-
 
     logdir = logloc(dir_name=config.sw_log_dir)
     sw = SummaryWriter(log_dir=logdir)
