@@ -1,10 +1,10 @@
-from utils.batchManagers import MultiNLIBatchManager, MRPCBatchManager, PDBBatchManager, SICKBatchManager
+from utils.batchManagers import MultiNLIBatchManager, MRPCBatchManager, PDBBatchManager, SICKBatchManager, IBMBatchManager
 from math import sqrt
 import random
 
 random.seed(42)
 
-class MultiTaskTrainLoader():
+class MultiTaskLoader():
     """ Custom batch manager for multi-task learning. Iterating over this object yields a batch from one of the datasets (randomly) """
 
     def __init__(self, batch_size, device, eval_batch_size = 8):
@@ -19,7 +19,8 @@ class MultiTaskTrainLoader():
         }
         
         self.eval_batchmanagers = {
-            'SICK' : SICKBatchManager(eval_batch_size, device)
+            'SICK' : SICKBatchManager(eval_batch_size, device),
+            'IBM' : IBMBatchManager(eval_batch_size, device)
         }
 
         self.tasks = list(self.batchmanagers.keys())

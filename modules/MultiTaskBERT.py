@@ -50,14 +50,19 @@ class MultiTaskBERT(nn.Module):
                 params.requires_grad = False
 
     def addTask(self, task, n_classes):
-        assert task not in self.tasks, "Task already exists in model!"
+        assert task not in self.tasks and task not in self.taskSpecificLayer.keys(), "Task already exists in model!"
         self.tasks.append(task)
         self.taskSpecificLayer[task] = nn.Linear(768, n_classes).to(self.device)
 
     def removeTask(self, task):
         """ Deactivate a task """
+
+        # forget its name,
         self.tasks.remove(task)
+        # forget its parameters,
         self.taskSpecificLayer[task] = None
+        # forget it even existed!
+        del self.taskSpecificLayer[task]
 
     def forward(self, inputs, task):
         """Forward function of the model
