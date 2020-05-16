@@ -22,6 +22,8 @@ if not os.path.exists(MODELS_PATH):
 def path_to_dicts(config):
     return MODELS_PATH + "multitask.pt"
 
+# TODO: wrong, needs k examples per label.
+
 def k_shots(config, model, batchmanager, times = 10):
 
     """ Run k-shot evaluation. 
