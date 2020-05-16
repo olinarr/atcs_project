@@ -24,6 +24,7 @@ class MultiTaskLoader():
         }
 
         self.tasks = list(self.batchmanagers.keys())
+        self.eval_tasks = list(self.eval_batchmanagers.keys())
 
         # save the iterator of the dataloaders
         # need to do so because dataloaders are not iterators directly
