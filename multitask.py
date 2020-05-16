@@ -10,7 +10,6 @@ from torch.optim import Adam, SGD
 
 from modules.MultiTaskBERT import MultiTaskBERT
 from utils.MultiTaskTrainLoader import MultiTaskTrainLoader
-from utils.batchManagers import SICKBatchManager
 
 from utils.episodeLoader import EpisodeLoader
 
@@ -27,24 +26,79 @@ if not os.path.exists(MODELS_PATH):
 def path_to_dicts(config):
     return MODELS_PATH + "multitask.pt"
 
+def k_shots(config, model, batchmanager, times = 10):
+
+    task = config.eval_task
+    bm = batchmanager.eval_batchmanagers[task]
+    n_classes = len(bm.classes())
+
+    original_model_dict = deepcopy(model.state_dict())
+
+    globalOptimizer = SGD(model.globalParameters(), lr = config.lr)
+    criterion = torch.nn.CrossEntropyLoss()
+
+    train_iterator = iter(bm.train_iter)
+
+    test_acc = []
+    for _ in range(times):
+
+        model.addTask(task, n_classes)
+        taskOptimizer = SGD(model.taskParameters(task), lr = config.lr)
+        model.train()
+
+        # it's shuffled, so we can simply do next
+        batch = next(train_iterator)
+        data, targets = batch
+
+        for _ in range(config.k):
+
+            globalOptimizer.zero_grad()
+            taskOptimizer.zero_grad()
+
+            # the model needs to know the task
+            out = model(data, task)
+
+            loss = criterion(out, targets)
+            loss.backward()
+
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+
+            globalOptimizer.step()
+            taskOptimizer.step()
+
+        model.eval()
+
+        test_acc.append(get_dev_accuracy(model, task, batchmanager, test_set = True))
+        print(test_acc[-1], 'debug print, remove me', flush = True)
+
+        model.removeTask(task)
+
+        model.load_state_dict(original_model_dict)
+
+
+    return sum(test_acc) * 1. / len(test_acc)
+
+
 def get_dev_accuracy(model, task, batchmanager, test_set=False):
     """compute dev accuracy on a certain task
 
     Parameters:
     model (MultiTaskBERT): the model to train
     task (str): the task on which to eval
-    batchmanager (MultiTaskTrainLoader): the batchmanager
+    batchmanager ([MultiTaskTrainLoader, BatchManager]): the multi task batchmanager OR a single batch manager.
 
     Returns:
     float: said accuracy"""
 
     model.eval()
     count, num = 0., 0
-    batchmanager = batchmanager.batchmanagers[task]
+    batchmanager = batchmanager.batchmanagers[task] if task in batchmanager.batchmanagers.keys() \
+        else batchmanager.eval_batchmanagers[task]
+
     iter = batchmanager.test_iter if test_set else batchmanager.dev_iter
 
     with torch.no_grad():
-        for batch in iter:
+        for batch in iter:  
             data, targets = batch
             out = model(data, task)
             predicted = out.argmax(dim=1)
@@ -71,8 +125,16 @@ def load_model(config, batchmanager):
     # this "tasks" object is used to initialize the model (with the right output layers)
     model = MultiTaskBERT(device = config.device, tasks = tasks)
 
+    # if we evaluate only, model MUST be loaded.
+    if config.k_shot_only:
+        try :
+            model.load_state_dict(torch.load(path_to_dicts(config), map_location = config.device))
+        except Exception:
+            print(f"WARNING: the `--k_shot_only` flag was passed, but `{path_to_dicts(config)}` was NOT found!")
+            raise Exception()
+
     # if we saved the state dictionary, load it.
-    if config.resume:
+    if config.resume or config.k_shot_only:
         try :
             model.load_state_dict(torch.load(path_to_dicts(config), map_location = config.device))
         except Exception:
@@ -189,6 +251,10 @@ if __name__ == "__main__":
     parser.add_argument('--lr', type=float, help='Learning rate', default = 2e-5)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 10)
     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
+    parser.add_argument('--k', type=int, default='4', help='How many times do we perform backprop on the evaluation?')
+    parser.add_argument('--eval_task', type=str, default='SICK', help='Task to perform k-shot eval on')
+    parser.add_argument('--eval_batch_size', type=int, default='8', help='Support size in k-shot training')
+    parser.add_argument('--k_shot_only', action='store_true', help = 'Avoid training, load a model and evaluate it on the k-shot challenge')
     parser.add_argument('--force_cpu', action = 'store_true', help = 'force the use of the cpu')
     config = parser.parse_args()
 
@@ -198,9 +264,13 @@ if __name__ == "__main__":
     # iterating over this batchmanager yields 
     # batches from one of the datasets NLI, PBC or MRPC. 
     # ofc it's random and proportional to sizes
-    batchmanager = MultiTaskTrainLoader(batch_size = config.batch_size, device = config.device)
+    batchmanager = MultiTaskTrainLoader(batch_size = config.batch_size, device = config.device, eval_batch_size = config.eval_batch_size)
     model = load_model(config, batchmanager)
 
     # Train the model
-    print('Beginning the training...', flush = True)
-    state_dict = train(config, batchmanager, model)
+    if config.k_shot_only:
+        print(k_shots(config, model, batchmanager))
+    else:
+        #train
+        print('Beginning the training...', flush = True)
+        state_dict = train(config, batchmanager, model)
