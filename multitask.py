@@ -27,7 +27,7 @@ if not os.path.exists(MODELS_PATH):
 def path_to_dicts(config):
     return MODELS_PATH + "multitask.pt"
 
-def get_dev_accuracy(model, task, batchmanager):
+def get_dev_accuracy(model, task, batchmanager, test_set=False):
     """compute dev accuracy on a certain task
 
     Parameters:
@@ -40,9 +40,11 @@ def get_dev_accuracy(model, task, batchmanager):
 
     model.eval()
     count, num = 0., 0
-    dev_iter = batchmanager.batchmanagers[task].dev_iter
+    batchmanager = batchmanager.batchmanagers[task]
+    iter = batchmanager.test_iter if test_set else batchmanager.dev_iter
+
     with torch.no_grad():
-        for batch in dev_iter:
+        for batch in iter:
             data, targets = batch
             out = model(data, task)
             predicted = out.argmax(dim=1)
@@ -159,6 +161,12 @@ def train(config, batchmanager, model):
             for task in batchmanager.tasks:
                 dev_acc = get_dev_accuracy(model, task, batchmanager)
                 print(f"{task} dev_acc = {dev_acc:.2f}.", flush = True)
+
+            # zero-shot test on SICK dataset, TODO:should only be tested once after training
+            for task in batchmanager.eval_batchmanagers:
+                test_acc = get_dev_accuracy(model, task, batchmanager)
+                print(f"{task} test_acc = {test_acc:.2f}.", flush = True)
+
             print(f'#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*\n\n', flush = True)
             torch.save(model.state_dict(), path_to_dicts(config))
 

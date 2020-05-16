@@ -1,4 +1,4 @@
-from utils.batchManagers import MultiNLIBatchManager, MRPCBatchManager, PDBBatchManager
+from utils.batchManagers import MultiNLIBatchManager, MRPCBatchManager, PDBBatchManager, SICKBatchManager
 from math import sqrt
 import random
 
@@ -16,6 +16,10 @@ class MultiTaskTrainLoader():
             'NLI'  : MultiNLIBatchManager(batch_size, device),
             'PDB'  : PDBBatchManager(batch_size, device),
             'MRPC' : MRPCBatchManager(batch_size, device)
+        }
+        
+        self.eval_batchmanagers = {
+            'SICK' : SICKBatchManager(batch_size, device)
         }
 
         self.tasks = list(self.batchmanagers.keys())
