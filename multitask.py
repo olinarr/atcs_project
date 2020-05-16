@@ -8,7 +8,9 @@ from transformers import AdamW, get_linear_schedule_with_warmup
 from torch.optim import Adam, SGD
 
 from modules.MultiTaskBERT import MultiTaskBERT
-from utils.MultiTaskLoader import MultiTaskLoader
+from utils.MultiTaskTrainLoader import MultiTaskTrainLoader
+from utils.episodeLoader import EpisodeLoader
+from utils.batchManagers import BatchManager, SICKBatchManager, IBMBatchManager
 
 from collections import defaultdict
 
@@ -22,48 +24,63 @@ if not os.path.exists(MODELS_PATH):
 def path_to_dicts(config):
     return MODELS_PATH + "multitask.pt"
 
-# TODO: wrong, needs k examples per label.
-
-def k_shots(config, model, batchmanager, times = 10):
+def k_shots(config, model, times = 10):
 
     """ Run k-shot evaluation. 
 
     Parameters:
     config (Object): argparse flags
     model (MultiTaskBERT): the model to k-shot evaluate
-    batchmanager (MultiTaskLoader): the multi task batchmanager
     times (int): average over how many times?
 
     Returns:
     float: test acc mean over 'times' times
     float: test acc std over 'times' times """
 
-    print(f"Running {config.k}-shot evaluation on task {config.eval_task}, averaged over {times} times. Support size: {config.eval_batch_size}.", flush= True)
+    bm_dict = {
+        'SICK' : SICKBatchManager,
+        'IBM' : IBMBatchManager
+    }
+
+    classes_dict = {
+        'SICK' : 5,
+        'IBM' : 2
+    }
+
+    print(f"Running {config.k}-shot evaluation on task {config.eval_task}, averaged over {times} times. Number of examples per class: {config.examples_per_label}.", flush= True)
 
     task = config.eval_task
-    bm = batchmanager.eval_batchmanagers[task]
-    n_classes = len(bm.classes())
+    n_classes = classes_dict[task]
+
+    k_dim = classes_dict[task] * config.examples_per_label
+
+    bm = bm_dict[task](batch_size = 32, device = config.device)
+
+    episode_iter = iter(EpisodeLoader.create_dataloader(
+        k_dim, [bm], 1
+    ))
+
+    episode_iter = next(episode_iter)[0][0]
 
     # save model, so we can revert
     original_model_dict = deepcopy(model.state_dict())
 
     criterion = torch.nn.CrossEntropyLoss()
-    # we need to do this since DATALOADER is not an iterable by default
-    train_iterator = iter(bm.train_iter)
 
     # saved as a list, so we can get mean and std
     test_acc = []
     # repeat the experiment 'times' times...
-    for t in range(times):
+    for t, batch in enumerate(episode_iter):
+
+        if t == times:
+            break
+
+        data, targets = batch
 
         # init new task
         model.addTask(task, n_classes)
         globalOptimizer = SGD(model.globalParameters(), lr = config.lr)
         taskOptimizer = SGD(model.taskParameters(task), lr = config.lr)
-
-        # it's shuffled, so we can simply do next
-        batch = next(train_iterator)
-        data, targets = batch
 
         # repeat weight updates k times
         for _ in range(config.k):
@@ -82,7 +99,7 @@ def k_shots(config, model, batchmanager, times = 10):
             taskOptimizer.step()
 
         # get test accuracy of the k-shotted model
-        test_acc.append(get_accuracy(model, task, batchmanager, test_set = True))
+        test_acc.append(get_accuracy(model, task, bm, test_set = True))
         print(f'iteration {t+1}: test accuracy is {test_acc[-1]}', flush = True)
 
         # revert back to original model: remove test task and load old weights
@@ -102,15 +119,14 @@ def get_accuracy(model, task, batchmanager, test_set=False):
     Parameters:
     model (MultiTaskBERT): the model to train
     task (str): the task on which to eval
-    batchmanager (MultiTaskLoader): the multi task batchmanager
+    batchmanager (MultiTaskTrainLoader, BatchManager): the multi task batchmanager OR a single batchManagers
 
     Returns:
     float: said accuracy"""
 
     model.eval()
     count, num = 0., 0
-    batchmanager = batchmanager.batchmanagers[task] if task in batchmanager.batchmanagers.keys() \
-        else batchmanager.eval_batchmanagers[task]
+    batchmanager = batchmanager if isinstance(batchmanager, BatchManager) else batchmanager.batchmanagers[task]
 
     iter = batchmanager.test_iter if test_set else batchmanager.dev_iter
 
@@ -131,7 +147,7 @@ def load_model(config, batchmanager):
 
     Parameters:
     config (Object): argparse flags
-    batchmanager (MultiTaskLoader): the batchmanager
+    batchmanager (MultiTaskTrainLoader): the batchmanager
 
     Returns:
     MultiTaskBERT: the loaded model"""
@@ -169,7 +185,7 @@ def train(config, batchmanager, model):
 
     Parameters:
     config (Object): argparse flags
-    batchmanager (MultiTaskLoader): the batchmanager
+    batchmanager (MultiTaskTrainLoader): the batchmanager
     model (MultiTaskBERT): the model to train
 
     Returns:
@@ -272,7 +288,7 @@ if __name__ == "__main__":
     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
     parser.add_argument('--k', type=int, default='4', help='How many times do we perform backprop on the evaluation?')
     parser.add_argument('--eval_task', type=str, default='SICK', help='Task to perform k-shot eval on')
-    parser.add_argument('--eval_batch_size', type=int, default='8', help='Support size in k-shot training')
+    parser.add_argument('--examples_per_label', type=int, default='4', help='Examples per support set (per label)')
     parser.add_argument('--k_shot_only', action='store_true', help = 'Avoid training, load a model and evaluate it on the k-shot challenge')
     parser.add_argument('--force_cpu', action = 'store_true', help = 'force the use of the cpu')
     parser.add_argument('--untrained_baseline', action = 'store_true', help = 'eval the untrained model')
@@ -284,7 +300,7 @@ if __name__ == "__main__":
     # iterating over this batchmanager yields 
     # batches from one of the datasets NLI, PBC or MRPC. 
     # ofc it's random and proportional to sizes
-    batchmanager = MultiTaskLoader(batch_size = config.batch_size, device = config.device, eval_batch_size = config.eval_batch_size)
+    batchmanager = MultiTaskTrainLoader(batch_size = config.batch_size, device = config.device)
     model = load_model(config, batchmanager)
 
     if not config.k_shot_only and not config.untrained_baseline:
@@ -292,5 +308,5 @@ if __name__ == "__main__":
         print('Beginning the training...', flush = True)
         state_dict = train(config, batchmanager, model)
     # eval
-    mean, std = k_shots(config, model, batchmanager)
-    print(f'mean: {mean}, std: {std}')
+    mean, std = k_shots(config, model)
+    print(f'mean: {mean:.2f}, std: {std:.2f}')

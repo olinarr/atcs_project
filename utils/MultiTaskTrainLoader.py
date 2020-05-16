@@ -4,10 +4,10 @@ import random
 
 random.seed(42)
 
-class MultiTaskLoader():
+class MultiTaskTrainLoader():
     """ Custom batch manager for multi-task learning. Iterating over this object yields a batch from one of the datasets (randomly) """
 
-    def __init__(self, batch_size, device, eval_batch_size = 8):
+    def __init__(self, batch_size, device):
         self.batch_size = batch_size
         self.device = device
 
@@ -18,13 +18,7 @@ class MultiTaskLoader():
             'MRPC' : MRPCBatchManager(batch_size, device)
         }
         
-        self.eval_batchmanagers = {
-            'SICK' : SICKBatchManager(eval_batch_size, device),
-            'IBM' : IBMBatchManager(eval_batch_size, device)
-        }
-
         self.tasks = list(self.batchmanagers.keys())
-        self.eval_tasks = list(self.eval_batchmanagers.keys())
 
         # save the iterator of the dataloaders
         # need to do so because dataloaders are not iterators directly
