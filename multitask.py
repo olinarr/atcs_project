@@ -158,7 +158,7 @@ def train(config, batchmanager, model):
             # print accuracies
             for task in batchmanager.tasks:
                 dev_acc = get_dev_accuracy(model, task, batchmanager)
-                print(f"{task} dev_acc = {dev_acc:.2f}.", flush = True)
+                print(f"{task} dev_acc = {dev_acc:.2f}", flush = True)
             print(f'#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*\n\n', flush = True)
             torch.save(model.state_dict(), path_to_dicts(config))
 
