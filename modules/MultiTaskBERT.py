@@ -52,7 +52,7 @@ class MultiTaskBERT(nn.Module):
     def addTask(self, task, n_classes):
         assert task not in self.tasks, "Task already exists in model!"
         self.tasks.append(task)
-        self.taskSpecificLayer[task] = nn.Linear(768, n_classes)
+        self.taskSpecificLayer[task] = nn.Linear(768, n_classes).to(self.device)
 
     def removeTask(self, task):
         """ Deactivate a task """
