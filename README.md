@@ -23,7 +23,7 @@ Project on Meta-Learning for the "Advanced Topics on Computational Semantics" co
 
 * [x] ..
 * [ ] New test / dev split for MRPC
-* [ ] Implement the k-times-per-label thing on the multitask eval
+* [x] Implement the k-times-per-label thing on the multitask eval
 * [ ] Verify we are doing the k-times-per-label thing on PROTOMAML
 * [ ] Sort out splits
 * [ ] Fix number of workers for multi-threading
