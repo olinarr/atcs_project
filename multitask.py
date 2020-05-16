@@ -222,13 +222,8 @@ def train(config, batchmanager, model):
             # print accuracies
             for task in batchmanager.tasks:
                 dev_acc = get_dev_accuracy(model, task, batchmanager)
-                print(f"{task} dev_acc = {dev_acc:.2f}.", flush = True)
 
-            # zero-shot test on SICK dataset, TODO:should only be tested once after training
-            for task in batchmanager.eval_batchmanagers:
-                test_acc = get_dev_accuracy(model, task, batchmanager)
-                print(f"{task} test_acc = {test_acc:.2f}.", flush = True)
-
+                print(f"{task} dev_acc = {dev_acc:.2f}", flush = True)
             print(f'#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*\n\n', flush = True)
             torch.save(model.state_dict(), path_to_dicts(config))
 

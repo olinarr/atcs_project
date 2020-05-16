@@ -24,7 +24,7 @@ class MultiTaskBERT(nn.Module):
         self.sharedLinear = nn.Sequential(nn.Linear(768, 768), nn.ReLU()).to(device)
 
         # all the tasks
-        self.tasks = (name for name, labels in tasks)
+        self.tasks = [name for name, labels in tasks.items()]
 
         self.taskSpecificLayer = nn.ModuleDict(
                 {task: nn.Linear(768, n_labels) for task, n_labels in tasks.items()}
@@ -50,7 +50,14 @@ class MultiTaskBERT(nn.Module):
                 params.requires_grad = False
 
     def addTask(self, task, n_classes):
+        assert task not in self.tasks, "Task already exists in model!"
+        self.tasks.append(task)
         self.taskSpecificLayer[task] = nn.Linear(768, n_classes)
+
+    def removeTask(self, task):
+        """ Deactivate a task """
+        self.tasks.remove(task)
+        self.taskSpecificLayer[task] = None
 
     def forward(self, inputs, task):
         """Forward function of the model
