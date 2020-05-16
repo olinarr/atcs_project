@@ -245,6 +245,11 @@ def train(config, batchmanager, model):
                 print(f"{task} dev_acc = {dev_acc:.2f}", flush = True)
             print(f'#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*\n\n', flush = True)
             torch.save(model.state_dict(), path_to_dicts(config))
+        
+        for task in batchmanager.eval_tasks:
+            dev_acc = get_accuracy(model, task, batchmanager, test_set=True)
+
+            print(f"{task} test_acc = {dev_acc:.2f}", flush = True)
 
     except KeyboardInterrupt:
         print("Training stopped!", flush = True)
