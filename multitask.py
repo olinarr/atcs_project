@@ -45,9 +45,7 @@ def k_shots(config, model, batchmanager, times = 10):
     # save model, so we can revert
     original_model_dict = deepcopy(model.state_dict())
 
-    globalOptimizer = SGD(model.globalParameters(), lr = config.lr)
     criterion = torch.nn.CrossEntropyLoss()
-
     # we need to do this since DATALOADER is not an iterable by default
     train_iterator = iter(bm.train_iter)
 
@@ -58,6 +56,7 @@ def k_shots(config, model, batchmanager, times = 10):
 
         # init new task
         model.addTask(task, n_classes)
+        globalOptimizer = SGD(model.globalParameters(), lr = config.lr)
         taskOptimizer = SGD(model.taskParameters(task), lr = config.lr)
 
         # it's shuffled, so we can simply do next
@@ -268,15 +267,12 @@ if __name__ == "__main__":
     parser.add_argument('--eval_task', type=str, default='SICK', help='Task to perform k-shot eval on')
     parser.add_argument('--eval_batch_size', type=int, default='8', help='Support size in k-shot training')
     parser.add_argument('--k_shot_only', action='store_true', help = 'Avoid training, load a model and evaluate it on the k-shot challenge')
-    parser.add_argument('--train_only', action='store_true', help = 'train only, without doing k-shot eval')
     parser.add_argument('--force_cpu', action = 'store_true', help = 'force the use of the cpu')
     parser.add_argument('--untrained_baseline', action = 'store_true', help = 'eval the untrained model')
     config = parser.parse_args()
 
     torch.manual_seed(config.random_seed)
     config.device = 'cuda:0' if torch.cuda.is_available() and not config.force_cpu else 'cpu'
-
-    assert not (config.train_only and config.k_shot_only), "Your requests puzzle me."
 
     # iterating over this batchmanager yields 
     # batches from one of the datasets NLI, PBC or MRPC. 
@@ -288,7 +284,6 @@ if __name__ == "__main__":
         #train
         print('Beginning the training...', flush = True)
         state_dict = train(config, batchmanager, model)
-    if not config.train_only or config.untrained_baseline:
-        # eval
-        mean, std = k_shots(config, model, batchmanager)
-        print(f'mean: {mean}, std: {std}')
+    # eval
+    mean, std = k_shots(config, model, batchmanager)
+    print(f'mean: {mean}, std: {std}')
