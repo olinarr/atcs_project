@@ -13,7 +13,7 @@ import os, sys
 import argparse
 import random 
 
-from copy import deepcopy
+from copy import copy, deepcopy
 from collections import defaultdict
 
 from utils.episodeLoader import EpisodeLoader
@@ -65,7 +65,7 @@ def load_model(config):
     return model
 
 
-def protomaml(config, sw, batch_managers, model, val_bms):
+def protomaml(config, sw, batch_managers, model_init, val_bms):
 
     CLASSIFIER_DIMS = 768
     
@@ -73,7 +73,7 @@ def protomaml(config, sw, batch_managers, model, val_bms):
     beta = config.beta
     alpha = config.alpha
     
-    optimizer = AdamW(model.parameters(), lr=beta)
+    optimizer = AdamW(model_init.parameters(), lr=beta)
     criterion = torch.nn.CrossEntropyLoss()    
 
     # for protomaml we use two samples (support and query)
@@ -109,9 +109,7 @@ def protomaml(config, sw, batch_managers, model, val_bms):
             # external data structured used to accumulate gradients.
             accumulated_gradients = defaultdict(lambda : None)   
             
-            # save original parameters. Will be reloaded later.
-            original_weights = deepcopy(model.state_dict())
-
+                        
             for j, (support_iter, query_iter, bm) in enumerate(batch):
 
                 print(f'batch {i}, task {j} : {bm.name}', flush = True)
@@ -121,16 +119,19 @@ def protomaml(config, sw, batch_managers, model, val_bms):
                 # [1] Calculate parameters for softmax.
                 # TODO: make gradients flow inside this function. (Or create them again)
                 classes = bm.classes()
-                model.generateParams(support_set, classes)
-            
+                model_init.generateParams(support_set, classes)
+           
+                original_weights = deepcopy(model_init.state_dict())
+                model_episode = copy(model_init)
+                model_episode.revert_state(original_weights)
                 
                 # [2] Adapt task-specific parameters
-                task_optimizer = optim.SGD(model.parameters(), lr=alpha)
+                task_optimizer = optim.SGD(model_episode.parameters(), lr=alpha)
                 task_criterion = torch.nn.CrossEntropyLoss()
                 for step, batch in enumerate([support_set] * config.k):
                     batch_inputs, batch_targets = batch
 
-                    out = model(batch_inputs)
+                    out = model_episode(batch_inputs)
                     loss = task_criterion(out, batch_targets)
                     
                     task_optimizer.zero_grad()
@@ -143,40 +144,43 @@ def protomaml(config, sw, batch_managers, model, val_bms):
                         log(loss.item(), 'k', bm, not train)
 
                     global_step += 1
-
+    
+                # this will make gradients flow back to orignal model too.
+                model_episode.FFN.weight = model_episode.prototypes + (model_episode.FFN.weight - model_episode.prototypes).detach_()
+                model_episode.FFN.bias = model_episode.prototype_norms + (model_episode.FFN.bias - model_episode.prototype_norms).detach_()
 
                 # [3] Evaluate adapted params on query set, calc grads.            
                 for step, batch in enumerate(it.islice(query_iter, 1)):
                     batch_inputs, batch_targets = batch
-                    out = model(batch_inputs)
+                    out = model_episode(batch_inputs)
 
                     loss = task_criterion(out, batch_targets)
 
-                    model.zero_grad()
+                    model_episode.zero_grad()
                     loss.backward()
 
                     log(loss.item(), 'q', bm, not train)
                     global_step += 1
 
 
-                # accumulate the gradients
-                for n, p in model.named_parameters():
-                    if p.requires_grad and n not in ('FFN.weight', 'FFN.bias'):
-                        if accumulated_gradients[n] is None:
-                            accumulated_gradients[n] = p.grad.data
-                        else:
-                            accumulated_gradients[n] += p.grad.data
+                def accumulate_gradients(model):
+                    # accumulate the gradients
+                    for n, p in model.named_parameters():
+                        if p.requires_grad and n not in ('FFN.weight', 'FFN.bias'):
+                            if accumulated_gradients[n] is None:
+                                accumulated_gradients[n] = p.grad.data
+                            else:
+                                accumulated_gradients[n] += p.grad.data
 
-
-                # return to original model
-                model.revert_state(original_weights)
+                accumulate_gradients(model_episode)
+                accumulate_gradients(model_init)
 
                 # end of inner loop
 
            
             if train:
                 # load the accumulated gradients and optimize
-                for n, p in model.named_parameters():
+                for n, p in model_init.named_parameters():
                     if p.requires_grad:
                         p.grad.data = accumulated_gradients[n]
                 optimizer.step()

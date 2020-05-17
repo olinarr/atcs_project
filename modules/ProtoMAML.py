@@ -84,41 +84,40 @@ class ProtoMAML(nn.Module):
         """ Generate linear classifier form support set.
 
         support (list((str, str)), torch.Tensor): support set to generate the parameters W and B from."""
-        with torch.no_grad():
-            
-            batch_input = support_set[0]                    # k-length list of (str, str)
-            batch_target = support_set[1]                   # k
+        
+        batch_input = support_set[0]                    # k-length list of (str, str)
+        batch_target = support_set[1]                   # k
 
-            # encode sequences 
-            batch_input = self._applyBERT(batch_input)      # k x d
-            batch_input = self.sharedLinear(batch_input)      # k x d
-            
-            W = []
-            b = []
-            for cls in classes:
-                cls_idx   = (batch_target == cls).nonzero()
-                cls_input = torch.index_select(batch_input, dim=0, index=cls_idx.flatten())
-                                                    # C x d
-                                
-                # prototype is mean of support samples (also c_k)
-                prototype = cls_input.mean(dim=0)         # d
-                
-                # see proto-maml paper, this corresponds to euclidean distance
-                W.append(2 * prototype)
-                b.append(- prototype.norm() ** 2)
-            
-            # the transposes are because the dimensions were wrong!
-            W = torch.stack(W)                          # C x d
-            b = torch.stack(b)
+        # encode sequences 
+        batch_input = self._applyBERT(batch_input)      # k x d
+        batch_input = self.sharedLinear(batch_input)      # k x d
+        
+        prototypes = []
+        for cls in classes:
+            cls_idx   = (batch_target == cls).nonzero()
+            cls_input = torch.index_select(batch_input, dim=0, index=cls_idx.flatten())
+                                                # C x d
+                            
+            # prototype is mean of support samples (also c_k)
+            prototype = cls_input.mean(dim=0)         # d
+            prototypes.append(prototype)
+         
+        self.protoypes = torch.stack(prototypes)
+        self.prototype.detach_()
+        self.prototype_norms = prototype.norm(dim=0)
 
-            linear = nn.Linear(768, W.shape[0]).to(self.device)
-            linear.weight = nn.Parameter(W)
-            linear.bias = nn.Parameter(b)
+        # see proto-maml paper, this corresponds to euclidean distance
+        W = nn.Parameter(2 * prototype)         
+        b = nn.Parameter(- self.prototype_norms ** 2)
+        
+        linear = nn.Linear(768, W.shape[0]).to(self.device)
+        linear.weight = nn.Parameter(W)
+        linear.bias = nn.Parameter(b)
 
-            # two layers for more flexbility.
-            # TODO Decide on whether it makese sense to use it
-            # self.FFN = nn.Sequential(nn.Linear(768, 768).to(device), nn.ReLU(), linear)
-            self.FFN = linear
+        # two layers for more flexbility.
+        # TODO Decide on whether it makese sense to use it
+        # self.FFN = nn.Sequential(nn.Linear(768, 768).to(device), nn.ReLU(), linear)
+        self.FFN = linear
 
     def deactivate_linear_layer(self):
         """ Deactivate the linear layer (i.e., revert to "vanilla" bert)"""
