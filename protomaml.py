@@ -109,7 +109,6 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
             # external data structured used to accumulate gradients.
             accumulated_gradients = defaultdict(lambda : None)   
             
-                        
             for j, (support_iter, query_iter, bm) in enumerate(batch):
 
                 print(f'batch {i}, task {j} : {bm.name}', flush = True)
@@ -119,6 +118,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 # [1] Calculate parameters for softmax.
                 # TODO: make gradients flow inside this function. (Or create them again)
                 classes = bm.classes()
+                del model_init.FFN
                 model_init.generateParams(support_set, classes)
            
                 original_weights = deepcopy(model_init.state_dict())
@@ -146,8 +146,8 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                     global_step += 1
     
                 # this will make gradients flow back to orignal model too.
-                model_episode.FFN.weight = model_episode.prototypes + (model_episode.FFN.weight - model_episode.prototypes).detach_()
-                model_episode.FFN.bias = model_episode.prototype_norms + (model_episode.FFN.bias - model_episode.prototype_norms).detach_()
+                model_episode.FFN.weight = nn.Parameter(model_episode.prototypes + (model_episode.FFN.weight - model_episode.prototypes).detach_())
+                model_episode.FFN.bias = nn.Parameter(model_episode.prototype_norms + (model_episode.FFN.bias - model_episode.prototype_norms).detach_())
 
                 # [3] Evaluate adapted params on query set, calc grads.            
                 for step, batch in enumerate(it.islice(query_iter, 1)):
@@ -163,16 +163,16 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                     global_step += 1
 
 
-                def accumulate_gradients(model):
+                def accumulate_gradients(model, skip_ffn=True):
                     # accumulate the gradients
                     for n, p in model.named_parameters():
-                        if p.requires_grad and n not in ('FFN.weight', 'FFN.bias'):
+                        if p.requires_grad and not (skip_ffn and n in ('FFN.weight','FFN.bias')):
                             if accumulated_gradients[n] is None:
                                 accumulated_gradients[n] = p.grad.data
                             else:
                                 accumulated_gradients[n] += p.grad.data
 
-                accumulate_gradients(model_episode)
+                accumulate_gradients(model_episode, skip_ffn=False)
                 accumulate_gradients(model_init)
 
                 # end of inner loop

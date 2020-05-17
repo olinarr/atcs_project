@@ -23,10 +23,9 @@ class ProtoMAML(nn.Module):
         self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
         self.sharedLinear = nn.Sequential(nn.Linear(768, 768), nn.ReLU()).to(device)
 
-        # until we initialize it, it will be None.
-        self.FFN = None
-
         # deactivate gradients on the parameters we do not need.
+
+        self.FFN = None
 
         # generate the name of the layers
         trainable_param_names = ["encoder.layer."+str(ll) for ll in trainable_layers]
@@ -102,14 +101,14 @@ class ProtoMAML(nn.Module):
             prototype = cls_input.mean(dim=0)         # d
             prototypes.append(prototype)
          
-        self.protoypes = torch.stack(prototypes)
-        self.prototype.detach_()
-        self.prototype_norms = prototype.norm(dim=0)
+        self.prototypes = torch.stack(prototypes)
+        self.prototypes.detach_()
+        self.prototype_norms = self.prototypes.norm(dim=1)
 
         # see proto-maml paper, this corresponds to euclidean distance
-        W = nn.Parameter(2 * prototype)         
+        W = nn.Parameter(2 * self.prototypes)         
         b = nn.Parameter(- self.prototype_norms ** 2)
-        
+
         linear = nn.Linear(768, W.shape[0]).to(self.device)
         linear.weight = nn.Parameter(W)
         linear.bias = nn.Parameter(b)
@@ -117,11 +116,7 @@ class ProtoMAML(nn.Module):
         # two layers for more flexbility.
         # TODO Decide on whether it makese sense to use it
         # self.FFN = nn.Sequential(nn.Linear(768, 768).to(device), nn.ReLU(), linear)
-        self.FFN = linear
-
-    def deactivate_linear_layer(self):
-        """ Deactivate the linear layer (i.e., revert to "vanilla" bert)"""
-        self.FFN = None
+        self.add_module("FFN", linear)
 
     def revert_state(self, state_dict):
         """ Revert to the original model. Of course, we deactivate the generated layer.
@@ -129,7 +124,6 @@ class ProtoMAML(nn.Module):
         Parameters:
         state_dict: the original weights"""
 
-        self.deactivate_linear_layer()
         self.load_state_dict(state_dict)
 
     def forward(self, inputs):
