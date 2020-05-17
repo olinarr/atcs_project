@@ -75,6 +75,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
     
     optimizer = AdamW(model_init.parameters(), lr=beta)
     criterion = torch.nn.CrossEntropyLoss()    
+    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps = 100, num_training_steps = config.nr_epochs * config.nr_episodes)
 
     # for protomaml we use two samples (support and query)
     SAMPLES_PER_EPISODE = 2
@@ -177,22 +178,24 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
                 # end of inner loop
 
-           
-            if train:
+            if train: # and thus not validation
                 # load the accumulated gradients and optimize
                 for n, p in model_init.named_parameters():
                     if p.requires_grad:
                         p.grad.data = accumulated_gradients[n]
                 optimizer.step()
+                scheduler.step()
         
-        for step, total in totals.items():
-            log(total/avg_n, step+'/avg', bm, False)
+        for key, total in totals.items():
+            log(total/avg_n, key+'/avg', bm, False)
 
+        return { key : total/avg_n for key,total in totals.items() }
  
     val_episodes = iter(EpisodeLoader.create_dataloader(
-        config.samples_per_support, val_bms, 4 # make parameter or define as constant
+        config.samples_per_support, val_bms, 16 # make parameter or define as constant
     ))
 
+    best_loss = sys.maxsize
     for epoch in range(config.nr_epochs):
         
         # train
@@ -201,7 +204,10 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
         # validate
         print('validating...')
-        do_epoch(val_episodes, 1, train=False)
+        results = do_epoch(val_episodes, 1, train=False)
+        if results['q'] < best_loss:
+            best_loss = results['q']
+            torch.save(model_init.state_dict(), path_to_dicts(config))
 
 
     model.deactivate_linear_layer()
@@ -222,15 +228,14 @@ if __name__ == "__main__":
 
     # Training params
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
-    parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 20)
-    parser.add_argument('--batch_size', type=int, default="4", help="How many tasks in an episode over which gradients for M_init are accumulated")
+    parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 160)
+    parser.add_argument('--batch_size', type=int, default="16", help="How many tasks in an episode over which gradients for M_init are accumulated")
     parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-5)
-    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-2)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-4)
+    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-3)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
-    parser.add_argument('--use_second_order', action='store_true', help='Use the second order version of MAML')
 
     #TODO use a learning rate decay?
 
@@ -240,7 +245,6 @@ if __name__ == "__main__":
     parser.add_argument('--device', type=str, help='')
     
     config = parser.parse_args()
-    config.first_order_approx = not config.use_second_order
 
     torch.manual_seed(config.random_seed)
     random.seed(config.random_seed)
