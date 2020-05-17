@@ -54,12 +54,13 @@ def k_shots(config, model, times = 10):
 
     k_dim = classes_dict[task] * config.examples_per_label
 
-    bm = bm_dict[task](batch_size = 32, device = config.device)
+    bm = bm_dict[task](batch_size = k_dim, device = config.device)
+
 
     episode_iter = iter(EpisodeLoader.create_dataloader(
         k_dim, [bm], 1
     ))
-
+    # this object will yield balanced support sets of size k_dim
     episode_iter = next(episode_iter)[0][0]
 
     # save model, so we can revert
@@ -72,6 +73,7 @@ def k_shots(config, model, times = 10):
     # repeat the experiment 'times' times...
     for t, batch in enumerate(episode_iter):
 
+        # only 'times' steps...
         if t == times:
             break
 
@@ -79,6 +81,7 @@ def k_shots(config, model, times = 10):
 
         # init new task
         model.addTask(task, n_classes)
+        # TODO SGD or Adam?
         globalOptimizer = SGD(model.globalParameters(), lr = config.lr)
         taskOptimizer = SGD(model.taskParameters(task), lr = config.lr)
 
