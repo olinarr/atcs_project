@@ -22,7 +22,7 @@ if not os.path.exists(MODELS_PATH):
     os.makedirs(MODELS_PATH)
 
 def path_to_dicts(config):
-    return MODELS_PATH + "multitask.pt"
+    return MODELS_PATH + f"multitask_batch{config.batch_size}_BERTlr{config.bert_lr}_tasklr{config.task_lr}.pt"
 
 def k_shots(config, model, times = 10):
 
@@ -82,8 +82,8 @@ def k_shots(config, model, times = 10):
         # init new task
         model.addTask(task, n_classes)
         # TODO SGD or Adam?
-        globalOptimizer = SGD(model.globalParameters(), lr = config.lr)
-        taskOptimizer = SGD(model.taskParameters(task), lr = config.lr)
+        globalOptimizer = SGD(model.globalParameters(), lr = config.bert_lr)
+        taskOptimizer = SGD(model.taskParameters(task), lr = config.task_lr)
 
         # repeat weight updates k times
         for _ in range(config.k):
@@ -200,13 +200,11 @@ def train(config, batchmanager, model):
     criterion = torch.nn.CrossEntropyLoss()
 
     # global optimizer.
-    globalOptimizer = AdamW(model.globalParameters(), lr=config.lr)    
+    globalOptimizer = AdamW(model.globalParameters(), lr=config.bert_lr)    
     # scheduler for lr
     scheduler = get_linear_schedule_with_warmup(globalOptimizer, num_warmup_steps = 0, num_training_steps = len(batchmanager) * config.epochs)
 
-    # TODO: task specific lr???
-
-    taskOptimizer = {task: Adam(model.taskParameters(task), lr=config.lr) for task in batchmanager.tasks}
+    taskOptimizer = {task: Adam(model.taskParameters(task), lr=config.task_lr) for task in batchmanager.tasks}
 
     ## PRINT ACCURACY ON ALL TASKS
     print("#########\nInitial dev accuracies: ")
@@ -265,10 +263,11 @@ def train(config, batchmanager, model):
             print(f'#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*\n\n', flush = True)
             torch.save(model.state_dict(), path_to_dicts(config))
         
-        for task in batchmanager.eval_tasks:
+        # we would need to add SICK to the model's tasks before running this.
+        """ for task in batchmanager.eval_tasks:
             dev_acc = get_accuracy(model, task, batchmanager, test_set=True)
 
-            print(f"{task} test_acc = {dev_acc:.2f}", flush = True)
+            print(f"{task} test_acc = {dev_acc:.2f}", flush = True)"""
 
     except KeyboardInterrupt:
         print("Training stopped!", flush = True)
@@ -286,12 +285,13 @@ if __name__ == "__main__":
     parser.add_argument('--batch_size', type=int, default="32", help="Batch size")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--lr', type=float, help='Learning rate', default = 2e-5)
+    parser.add_argument('--task_lr', type=float, help='Learning rate', default = 2e-5)
+    parser.add_argument('--bert_lr', type=float, help='Learning rate', default = 2e-5)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 10)
     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
     parser.add_argument('--k', type=int, default='4', help='How many times do we perform backprop on the evaluation?')
     parser.add_argument('--eval_task', type=str, default='SICK', help='Task to perform k-shot eval on')
-    parser.add_argument('--examples_per_label', type=int, default='4', help='Examples per support set (per label)')
+    parser.add_argument('--examples_per_label', type=int, default='16', help='Examples per support set (per label)')
     parser.add_argument('--k_shot_only', action='store_true', help = 'Avoid training, load a model and evaluate it on the k-shot challenge')
     parser.add_argument('--force_cpu', action = 'store_true', help = 'force the use of the cpu')
     parser.add_argument('--untrained_baseline', action = 'store_true', help = 'eval the untrained model')
