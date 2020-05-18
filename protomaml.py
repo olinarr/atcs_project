@@ -261,23 +261,21 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                     global_step += 1
 
 
-                def accumulate_gradients(model, skip_ffn=True):
+                def accumulate_gradients(model):
                     # accumulate the gradients
                     for n, p in model.named_parameters():
-                        if p.requires_grad and not (skip_ffn and n in ('FFN.weight','FFN.bias')):
+                        if p.requires_grad and n not in ('FFN.weight','FFN.bias'):
                             if accumulated_gradients[n] is None:
                                 accumulated_gradients[n] = p.grad.data
                             else:
                                 accumulated_gradients[n] += p.grad.data
 
-                accumulate_gradients(model_episode, skip_ffn=False)
-                #TODO remove skip_ffn again (not necessary) but have to make sure
-                # to remove the FFN from model_init before copying gradients back
-                # because it will None in accumulated_gradients.
+                accumulate_gradients(model_episode)
                 accumulate_gradients(model_init)
 
                 # end of inner loop
 
+            model_init.deactivate_linear_layer()
             if train: # and thus not validation
                 # load the accumulated gradients and optimize
                 for n, p in model_init.named_parameters():
@@ -339,11 +337,11 @@ if __name__ == "__main__":
     # Training params
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
     parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 160)
-    parser.add_argument('--batch_size', type=int, default="16", help="How many tasks in an episode over which gradients for M_init are accumulated")
-    parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
+    parser.add_argument('--batch_size', type=int, default="32", help="How many tasks in an episode over which gradients for M_init are accumulated")
+    parser.add_argument('--k', type=int, default="5", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-5)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-4)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 5e-4)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
 

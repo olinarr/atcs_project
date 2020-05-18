@@ -108,12 +108,10 @@ class ProtoMAML(nn.Module):
         b = nn.Parameter(- self.prototype_norms ** 2)
 
         linear = nn.Linear(768, W.shape[0]).to(self.device)
-        linear.weight = nn.Parameter(W)
-        linear.bias = nn.Parameter(b)
+        linear.weight = W
+        linear.bias = b
 
         # two layers for more flexbility.
-        # TODO Decide on whether it makese sense to use it
-        # self.FFN = nn.Sequential(nn.Linear(768, 768).to(device), nn.ReLU(), linear)
         self.add_module("FFN", linear)
 
     def deactivate_linear_layer(self):
