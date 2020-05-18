@@ -124,6 +124,10 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
            
                 original_weights = deepcopy(model_init.state_dict())
                 model_episode = copy(model_init)
+                # TODO at this point, since we have removed the 
+                # deactivate_linear_layer function from revert
+                # state, why don't we simply call load_state_dicts()?
+                
                 model_episode.revert_state(original_weights)
                 
                 # [2] Adapt task-specific parameters
@@ -174,6 +178,9 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                                 accumulated_gradients[n] += p.grad.data
 
                 accumulate_gradients(model_episode, skip_ffn=False)
+                # why are we accumulating the gradients of FFN here? Is it
+                # for the parameter generation? Aren't those gradients
+                # in BERT?
                 accumulate_gradients(model_init)
 
                 # end of inner loop
@@ -209,7 +216,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
             best_loss = results['q']
             torch.save(model_init.state_dict(), path_to_dicts(config))
 
-
+    # TODO this should be del model.FFN() now, right?
     model.deactivate_linear_layer()
     return model.state_dict(), None
  
