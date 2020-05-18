@@ -12,6 +12,7 @@ import itertools as it
 import os, sys
 import argparse
 import random 
+import numpy
 
 from copy import copy, deepcopy
 from collections import defaultdict
@@ -34,6 +35,107 @@ if not os.path.exists(MODELS_PATH):
 
 def path_to_dicts(config):
     return MODELS_PATH + 'ProtoMAML' + ".pt"
+
+def k_shots(config, model, val_episodes, val_bms, times = 10):
+    """ Run k-shot evaluation. 
+
+    Parameters:
+    config (Object): argparse flags
+    model (protoMAML): the model to k-shot evaluate
+    val_episodes (Iterator): the episodeLoader iterator
+    val_bms (list(BatchManager)): evaluatio batch managers
+    times (int): average over how many times?
+
+    Returns:
+    float: test acc mean over 'times' times
+    float: test acc std over 'times' times """
+
+    assert not hasattr(model, 'FFN'), "You are k-shot testing a model with a linear layer. Are you sure you meant that?"
+    assert len(val_bms) == 1, "As of now, this test is thought to be only with one BMs (SICK)"
+
+    task = 'SICK'
+    bm = val_bms[0]
+    # why / 2? Because as of now, all train tasks are binary, so we have samples_per_support / 2 examples per label
+    # TODO change this to be a parameter: examples per support
+    examples_per_label = config.samples_per_support // 2
+
+    print(f"Running {config.k}-shot evaluation on task {task}, averaged over {times} times. Number of examples per class: {examples_per_label}.", flush= True)
+
+    # this object will yield balanced support sets of size k_dim
+    episode_iter = next(val_episodes)[0][0]
+
+    # save model, so we can revert
+    original_model_dict = deepcopy(model.state_dict())
+
+    criterion = torch.nn.CrossEntropyLoss()
+
+    # saved as a list, so we can get mean and std
+    test_acc = []
+    # repeat the experiment 'times' times...
+    for t, batch in enumerate(episode_iter):
+
+        # only 'times' steps...
+        if t == times:
+            break
+
+        data, targets = batch
+
+        # init new task
+        model.generateParams(batch, bm.classes())
+        # alpha = inner learning rate
+        optimizer = optim.SGD(model.parameters(), lr = config.alpha)
+
+        # repeat weight updates k times
+        for _ in range(config.k):
+
+            optimizer.zero_grad()
+
+            out = model(data)
+
+            loss = criterion(out, targets)
+            loss.backward()
+
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+
+            optimizer.step()
+
+        # get test accuracy of the k-shotted model
+        test_acc.append(get_accuracy(model, bm, test_set = True))
+        print(f'iteration {t+1}: test accuracy is {test_acc[-1]}', flush = True)
+
+        # revert back to original model: remove test task and load old weights
+
+        model.deactivate_linear_layer()
+        model.load_state_dict(original_model_dict)
+
+    print('Completed.')
+
+    test_acc = torch.tensor(test_acc)
+    return test_acc.mean().item(), test_acc.var().item()
+
+def get_accuracy(model, batchmanager, test_set=False):
+    """compute dev or test accuracy on a certain task
+    Parameters:
+    model (MultiTaskBERT): the model to train
+    batchmanager (MultiTaskTrainLoader, BatchManager): the multi task batchmanager OR a single batchManagers
+    Returns:
+    float: said accuracy"""
+
+    model.eval()
+    count, num = 0., 0
+
+    iter = batchmanager.test_iter if test_set else batchmanager.dev_iter
+
+    with torch.no_grad():
+        for batch in iter:  
+            data, targets = batch
+            out = model(data)
+            predicted = out.argmax(dim=1)
+            count += (predicted == targets).sum().item()
+            num += len(targets)
+
+    model.train()
+    return count / num
 
 def load_model(config):
     """Load a model (either a new one or from disk)
@@ -69,7 +171,6 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
     CLASSIFIER_DIMS = 768
     
-    # TODO learnable alpha, beta learning rates?
     beta = config.beta
     alpha = config.alpha
     
@@ -90,18 +191,18 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
         totals = {}
         avg_n = 0
-        def log(loss, step, bm, avg):
+        def log(loss, step, bm, avg, extra=""):
             nonlocal avg_n
-            tbname = '{}/{}/loss'.format('train' if train else 'val', bm.name)
+            tbname = '{}/{}{}/loss'.format('train' if train else 'val', bm.name, extra)
             tag = tbname+'@{}'.format(step)
             sw.add_scalar(tag, loss, global_step)
             if hasattr(bm, 'parent'):
-                log(loss, step, bm.parent, avg)
+                log(loss, step, bm.parent, avg, extra="_stX")
             if avg:
                 totals[step] = loss if step not in totals else totals[step] + loss
                 avg_n += 1
 
-        for i, batch in enumerate (it.islice(episode_loader, config.nr_episodes)):
+        for i, batch in enumerate(it.islice(episode_loader, config.nr_episodes)):
             optimizer.zero_grad()
 
             # external data structured used to accumulate gradients.
@@ -114,14 +215,13 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 support_set = next(iter(support_iter))
 
                 # [1] Calculate parameters for softmax.
-                # TODO: make gradients flow inside this function. (Or create them again)
                 classes = bm.classes()
-                del model_init.FFN
+                model_init.deactivate_linear_layer()
                 model_init.generateParams(support_set, classes)
            
-                original_weights = deepcopy(model_init.state_dict())
+                weights = deepcopy(model_init.state_dict())
                 model_episode = copy(model_init)
-                model_episode.revert_state(original_weights)
+                model_episode.load_state_dict(weights)
                 
                 # [2] Adapt task-specific parameters
                 task_optimizer = optim.SGD(model_episode.parameters(), lr=alpha)
@@ -171,6 +271,9 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                                 accumulated_gradients[n] += p.grad.data
 
                 accumulate_gradients(model_episode, skip_ffn=False)
+                #TODO remove skip_ffn again (not necessary) but have to make sure
+                # to remove the FFN from model_init before copying gradients back
+                # because it will None in accumulated_gradients.
                 accumulate_gradients(model_init)
 
                 # end of inner loop
@@ -189,7 +292,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
         return { key : total/avg_n for key,total in totals.items() }
  
     val_episodes = iter(EpisodeLoader.create_dataloader(
-        config.samples_per_support, val_bms, 16 # make parameter or define as constant
+        config.samples_per_support, val_bms, 16 * 5 # TODO: make parameter or define as constant. 32 / 2 = 16 per label (5)
     ))
 
     val_config = deepcopy(config)
@@ -211,10 +314,14 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
         if results['q'] < best_loss:
             best_loss = results['q']
             torch.save(model_init.state_dict(), path_to_dicts(config))
+    
+    model.deactivate_linear_layer()    
 
+    # K-SHOT VALIDATION!
+    test_mean, test_std = k_shots(config, model, val_episodes, val_bms)
+    print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
 
-    model.deactivate_linear_layer()
-    return model.state_dict(), None
+    return model.state_dict()
  
 ###########
 
@@ -240,7 +347,6 @@ if __name__ == "__main__":
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 5e-4)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
 
-
     # Misc
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
     parser.add_argument('--sw_log_dir', type=str, default='runs', help='The directory in which to create the default logdir.')
@@ -250,12 +356,12 @@ if __name__ == "__main__":
 
     torch.manual_seed(config.random_seed)
     random.seed(config.random_seed)
+    numpy.random.seed(config.random_seed)
 
     if not config.device:
         config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
     print("Running on: {}".format(config.device))
-
     print("Encoding: {} (should probably be UTF-8)".format(sys.stdout.encoding), flush=True)
 
     model = load_model(config)
@@ -266,20 +372,20 @@ if __name__ == "__main__":
     batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
     batchmanager5 = SICKBatchManager(batch_size = config.samples_per_support, device = config.device)
 
-    train_bms = [ batchmanager2, batchmanager3 ]
+
+    # MultiNLI, MRPC, PDB for training.
+    train_bms = [ batchmanager1, batchmanager3 ]
     train_bms.extend(batchmanager1.get_subtasks(2))
     train_bms.extend(batchmanager4.get_subtasks(2))
-    #TODO decide on final mix of tasks in training.
 
+    # SICK for validation
     val_bms = [ batchmanager5 ]
 
     logdir = logloc(dir_name=config.sw_log_dir)
     sw = SummaryWriter(log_dir=logdir)
 
     # Train the model
-    state_dict, dev_acc = protomaml(config, sw, train_bms, model, val_bms)
+    state_dict = protomaml(config, sw, train_bms, model, val_bms)
     
-    print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
-
     #save model
     torch.save(state_dict, path_to_dicts(config))
