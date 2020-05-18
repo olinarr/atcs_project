@@ -35,6 +35,108 @@ if not os.path.exists(MODELS_PATH):
 def path_to_dicts(config):
     return MODELS_PATH + 'ProtoMAML' + ".pt"
 
+def k_shots(config, model, val_episodes, val_bms, times = 10):
+
+    """ Run k-shot evaluation. 
+
+    Parameters:
+    config (Object): argparse flags
+    model (protoMAML): the model to k-shot evaluate
+    val_episodes (Iterator): the episodeLoader iterator
+    val_bms (list(BatchManager)): evaluatio batch managers
+    times (int): average over how many times?
+
+    Returns:
+    float: test acc mean over 'times' times
+    float: test acc std over 'times' times """
+
+    assert not hasattr(model, 'FFN'), "You are k-shot testing a model with a linear layer. Are you sure you meant that?"
+    assert len(val_bms) == 1, "As of now, this test is thought to be only with one BMs (SICK)"
+
+    task = 'SICK'
+    bm = val_bms[0]
+    # why / 2? Because as of now, all train tasks are binary, so we have samples_per_support / 2 examples per label
+    # TODO change this to be a parameter: examples per support
+    examples_per_label = config.samples_per_support // 2
+
+    print(f"Running {config.k}-shot evaluation on task {task}, averaged over {times} times. Number of examples per class: {examples_per_label}.", flush= True)
+
+    # this object will yield balanced support sets of size k_dim
+    episode_iter = next(val_episodes)[0][0]
+
+    # save model, so we can revert
+    original_model_dict = deepcopy(model.state_dict())
+
+    criterion = torch.nn.CrossEntropyLoss()
+
+    # saved as a list, so we can get mean and std
+    test_acc = []
+    # repeat the experiment 'times' times...
+    for t, batch in enumerate(episode_iter):
+
+        # only 'times' steps...
+        if t == times:
+            break
+
+        data, targets = batch
+
+        # init new task
+        model.generateParams(batch, bm.classes())
+        # alpha = inner learning rate
+        optimizer = optim.SGD(model.parameters(), lr = config.alpha)
+
+        # repeat weight updates k times
+        for _ in range(config.k):
+
+            optimizer.zero_grad()
+
+            out = model(data)
+
+            loss = criterion(out, targets)
+            loss.backward()
+
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+
+            optimizer.step()
+
+        # get test accuracy of the k-shotted model
+        test_acc.append(get_accuracy(model, bm, test_set = True))
+        print(f'iteration {t+1}: test accuracy is {test_acc[-1]}', flush = True)
+
+        # revert back to original model: remove test task and load old weights
+
+        model.deactivate_linear_layer()
+        model.load_state_dict(original_model_dict)
+
+    print('Completed.')
+
+    test_acc = torch.tensor(test_acc)
+    return test_acc.mean().item(), test_acc.var().item()
+
+def get_accuracy(model, batchmanager, test_set=False):
+    """compute dev or test accuracy on a certain task
+    Parameters:
+    model (MultiTaskBERT): the model to train
+    batchmanager (MultiTaskTrainLoader, BatchManager): the multi task batchmanager OR a single batchManagers
+    Returns:
+    float: said accuracy"""
+
+    model.eval()
+    count, num = 0., 0
+
+    iter = batchmanager.test_iter if test_set else batchmanager.dev_iter
+
+    with torch.no_grad():
+        for batch in iter:  
+            data, targets = batch
+            out = model(data)
+            predicted = out.argmax(dim=1)
+            count += (predicted == targets).sum().item()
+            num += len(targets)
+
+    model.train()
+    return count / num
+
 def load_model(config):
     """Load a model (either a new one or from disk)
 
@@ -119,7 +221,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 # [1] Calculate parameters for softmax.
                 # TODO: make gradients flow inside this function. (Or create them again)
                 classes = bm.classes()
-                del model_init.FFN
+                model_init.deactivate_linear_layer()
                 model_init.generateParams(support_set, classes)
            
                 original_weights = deepcopy(model_init.state_dict())
@@ -199,7 +301,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
         return { key : total/avg_n for key,total in totals.items() }
  
     val_episodes = iter(EpisodeLoader.create_dataloader(
-        config.samples_per_support, val_bms, 16 # make parameter or define as constant
+        config.samples_per_support, val_bms, 16 * 5 # TODO: make parameter or define as constant. 32 / 2 = 16 per label (5)
     ))
 
     best_loss = sys.maxsize
@@ -215,10 +317,14 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
         if results['q'] < best_loss:
             best_loss = results['q']
             torch.save(model_init.state_dict(), path_to_dicts(config))
+    
+    model.deactivate_linear_layer()    
 
-    # TODO this should be del model.FFN() now, right?
-    model.deactivate_linear_layer()
-    return model.state_dict(), None
+    # K-SHOT VALIDATION!
+    test_mean, test_std = k_shots(config, model, val_episodes, val_bms)
+    print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
+
+    return model.state_dict()
  
 ###########
 
@@ -283,9 +389,7 @@ if __name__ == "__main__":
     sw = SummaryWriter(log_dir=logdir)
 
     # Train the model
-    state_dict, dev_acc = protomaml(config, sw, train_bms, model, val_bms)
+    state_dict = protomaml(config, sw, train_bms, model, val_bms)
     
-    print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
-
     #save model
     torch.save(state_dict, path_to_dicts(config))

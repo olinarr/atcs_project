@@ -25,8 +25,6 @@ class ProtoMAML(nn.Module):
 
         # deactivate gradients on the parameters we do not need.
 
-        self.FFN = None
-
         # generate the name of the layers
         trainable_param_names = ["encoder.layer."+str(ll) for ll in trainable_layers]
         # for all the parameters...
@@ -126,6 +124,12 @@ class ProtoMAML(nn.Module):
 
         self.load_state_dict(state_dict)
 
+    def deactivate_linear_layer(self):
+        """ Deactivate the linear layer, if it exists """
+
+        if hasattr(self, 'FFN'):
+            del self.FFN
+
     def forward(self, inputs):
         """Forward function of the model
 
@@ -136,8 +140,7 @@ class ProtoMAML(nn.Module):
         torch.Tensor: a BATCH x N_CLASSES tensor
 
         """
-
-        if self.FFN is None:
+        if not hasattr(self, 'FFN'):
             raise Exception('You have called the forward function without having initialized the parameters! Call generateParams() on the support first.')
         else:
             output = self._applyBERT(inputs)
