@@ -116,14 +116,6 @@ class ProtoMAML(nn.Module):
         # self.FFN = nn.Sequential(nn.Linear(768, 768).to(device), nn.ReLU(), linear)
         self.add_module("FFN", linear)
 
-    def revert_state(self, state_dict):
-        """ Revert to the original model. Of course, we deactivate the generated layer.
-
-        Parameters:
-        state_dict: the original weights"""
-
-        self.load_state_dict(state_dict)
-
     def deactivate_linear_layer(self):
         """ Deactivate the linear layer, if it exists """
 

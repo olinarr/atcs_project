@@ -176,6 +176,7 @@ if __name__ == "__main__":
                 sentences, labels = inner_batch
                 print(labels)
                 assert tuple(torch.unique(labels).tolist()) == tuple(bm.classes())
+                assert tuple(bm.classes()) == tuple(sorted(bm.classes()))
 
                 if k + 1 == samples_per_episode:
                     break
