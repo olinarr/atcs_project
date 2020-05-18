@@ -77,9 +77,6 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
     criterion = torch.nn.CrossEntropyLoss()    
     scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps = 100, num_training_steps = config.nr_epochs * config.nr_episodes)
 
-    # for protomaml we use two samples (support and query)
-    SAMPLES_PER_EPISODE = 2
-    
     NUM_WORKERS = 3 
     train_episodes = iter(EpisodeLoader.create_dataloader(
         config.samples_per_support, batch_managers, config.batch_size,
@@ -88,7 +85,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
     global_step = 0
 
-    def do_epoch(episode_loader, epoch_length, train=True):
+    def do_epoch(episode_loader, config, train=True):
         nonlocal global_step
 
         totals = {}
@@ -104,7 +101,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 totals[step] = loss if step not in totals else totals[step] + loss
                 avg_n += 1
 
-        for i, batch in enumerate (it.islice(episode_loader, epoch_length)):
+        for i, batch in enumerate (it.islice(episode_loader, config.nr_episodes)):
             optimizer.zero_grad()
 
             # external data structured used to accumulate gradients.
@@ -195,15 +192,21 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
         config.samples_per_support, val_bms, 16 # make parameter or define as constant
     ))
 
+    val_config = deepcopy(config)
+    val_config.nr_episodes = 1
+    val_config.alpha *= 10
+    #val_config.k = 
+
     best_loss = sys.maxsize
     for epoch in range(config.nr_epochs):
         
         # train
         print('training...')
-        do_epoch(train_episodes, config.nr_episodes)
+        do_epoch(train_episodes, config)
 
         # validate
         print('validating...')
+
         results = do_epoch(val_episodes, 1, train=False)
         if results['q'] < best_loss:
             best_loss = results['q']
@@ -233,11 +236,10 @@ if __name__ == "__main__":
     parser.add_argument('--k', type=int, default="4", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-4)
-    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-3)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-5)
+    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 5e-4)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
 
-    #TODO use a learning rate decay?
 
     # Misc
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
@@ -265,7 +267,6 @@ if __name__ == "__main__":
     batchmanager5 = SICKBatchManager(batch_size = config.samples_per_support, device = config.device)
 
     train_bms = [ batchmanager2, batchmanager3 ]
-    #train_bms = [ batchmanager2 ]
     train_bms.extend(batchmanager1.get_subtasks(2))
     train_bms.extend(batchmanager4.get_subtasks(2))
     #TODO decide on final mix of tasks in training.
