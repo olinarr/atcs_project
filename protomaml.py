@@ -34,7 +34,9 @@ if not os.path.exists(MODELS_PATH):
     os.makedirs(MODELS_PATH)
 
 def path_to_dicts(config):
-    return MODELS_PATH + 'ProtoMAML' + ".pt"
+    from datetime import datetime
+    current_time = datetime.now().strftime('%b%d_%H-%M-%S')
+    return os.path.join(config.model_save_dir,'ProtoMAML{}.pt'.format(current_time))
 
 def k_shots(config, model, val_episodes, val_bms, times = 10):
     """ Run k-shot evaluation. 
@@ -176,7 +178,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
     
     optimizer = AdamW(model_init.parameters(), lr=beta)
     criterion = torch.nn.CrossEntropyLoss()    
-    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps = 100, num_training_steps = config.nr_epochs * config.nr_episodes)
+    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps = config.warmup, num_training_steps = config.nr_epochs * config.nr_episodes)
 
     NUM_WORKERS = 3 
     train_episodes = iter(EpisodeLoader.create_dataloader(
@@ -241,7 +243,8 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                     elif step == config.k-1:
                         log(loss.item(), 'k', bm, not train)
 
-                    global_step += 1
+                    if train:
+                        global_step += 1
     
                 # this will make gradients flow back to orignal model too.
                 model_episode.FFN.weight = nn.Parameter(model_episode.prototypes + (model_episode.FFN.weight - model_episode.prototypes).detach_())
@@ -258,7 +261,9 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                     loss.backward()
 
                     log(loss.item(), 'q', bm, not train)
-                    global_step += 1
+
+                    if train:
+                        global_step += 1
 
 
                 def accumulate_gradients(model):
@@ -280,7 +285,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 # load the accumulated gradients and optimize
                 for n, p in model_init.named_parameters():
                     if p.requires_grad:
-                        p.grad.data = accumulated_gradients[n]
+                        p.grad.data = accumulated_gradients[n] 
                 optimizer.step()
                 scheduler.step()
         
@@ -290,13 +295,14 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
         return { key : total/avg_n for key,total in totals.items() }
  
     val_episodes = iter(EpisodeLoader.create_dataloader(
-        config.samples_per_support, val_bms, 16 * 5 # TODO: make parameter or define as constant. 32 / 2 = 16 per label (5)
+        config.samples_per_support, val_bms, 32 
     ))
 
     val_config = deepcopy(config)
     val_config.nr_episodes = 1
-    val_config.alpha *= 10
-    #val_config.k = 
+    val_config.alpha *= 100
+
+    filename = path_to_dicts(config)
 
     best_loss = sys.maxsize
     for epoch in range(config.nr_epochs):
@@ -308,11 +314,17 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
         # validate
         print('validating...')
 
-        results = do_epoch(val_episodes, 1, train=False)
+        results = do_epoch(val_episodes, val_config, train=False)
+
         if results['q'] < best_loss:
             best_loss = results['q']
-            torch.save(model_init.state_dict(), path_to_dicts(config))
-    
+            torch.save(model_init.state_dict(), filename)
+            print("New best loss found at {}, written model to {}".format(best_loss, filename))
+            
+            test_mean, test_std = k_shots(config, model, val_episodes, val_bms)
+            sw.add_scalar('val/acc', test_mean, global_step)
+            print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
+
     model.deactivate_linear_layer()    
 
     # K-SHOT VALIDATION!
@@ -337,16 +349,18 @@ if __name__ == "__main__":
     # Training params
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
     parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 160)
-    parser.add_argument('--batch_size', type=int, default="32", help="How many tasks in an episode over which gradients for M_init are accumulated")
-    parser.add_argument('--k', type=int, default="5", help="How many times do we update weights prime")
+    parser.add_argument('--batch_size', type=int, default="16", help="How many tasks in an episode over which gradients for M_init are accumulated")
+    parser.add_argument('--k', type=int, default="7", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-4)
-    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 5e-4)
-    parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-5)
+    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 5e-5)
+    parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 100)
+    parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 16)
 
     # Misc
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
+    parser.add_argument('--model_save_dir', type=str, default=MODELS_PATH, help='The directory in which to store the models.')
     parser.add_argument('--sw_log_dir', type=str, default='runs', help='The directory in which to create the default logdir.')
     parser.add_argument('--device', type=str, help='')
     
@@ -370,11 +384,18 @@ if __name__ == "__main__":
     batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)        
     batchmanager5 = SICKBatchManager(batch_size = config.samples_per_support, device = config.device)
 
+    pdb_subtasks = list(batchmanager4.get_subtasks(2))
+    mnli_subtasks = list(batchmanager1.get_subtasks(2))
+
+    # Double the weighting of tasks that aren't represented twice (normal, binary-sub-tasks).
+    batchmanager3.weight_factor *= 2 # (only original)
+    for bm in pdb_subtasks:
+        bm.weight_factor *= 2        # (only subtasks)
 
     # MultiNLI, MRPC, PDB for training.
     train_bms = [ batchmanager1, batchmanager3 ]
-    train_bms.extend(batchmanager1.get_subtasks(2))
-    train_bms.extend(batchmanager4.get_subtasks(2))
+    train_bms.extend(mnli_subtasks)
+    train_bms.extend(pdb_subtasks)
 
     # SICK for validation
     val_bms = [ batchmanager5 ]

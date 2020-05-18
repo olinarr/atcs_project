@@ -100,12 +100,15 @@ class ProtoMAML(nn.Module):
             prototypes.append(prototype)
          
         self.prototypes = torch.stack(prototypes)
-        self.prototypes.detach_()
         self.prototype_norms = self.prototypes.norm(dim=1)
+        
+        # detach for param gen
+        prototypes = self.prototypes.detach()
+        prototype_norms = self.prototype_norms.detach()
 
         # see proto-maml paper, this corresponds to euclidean distance
-        W = nn.Parameter(2 * self.prototypes)         
-        b = nn.Parameter(- self.prototype_norms ** 2)
+        W = nn.Parameter(2 * prototypes)         
+        b = nn.Parameter(- prototype_norms ** 2)
 
         linear = nn.Linear(768, W.shape[0]).to(self.device)
         linear.weight = W
