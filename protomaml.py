@@ -365,6 +365,7 @@ if __name__ == "__main__":
     parser.add_argument('--device', type=str, help='')
     
     config = parser.parse_args()
+    print(config) #print config, so we have 'paper trail' where we can make double sure what paramaters caused a result.
 
     torch.manual_seed(config.random_seed)
     random.seed(config.random_seed)

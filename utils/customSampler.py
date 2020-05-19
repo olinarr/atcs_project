@@ -17,6 +17,7 @@ class BalancedSampler(torch.utils.data.Sampler):
         #TODO possibly allow for a subset to sample from to be specified
         # this would be usefule primarily for dividing samples between workers
 
+
     def __iter__(self):
         idxs = list(self.label_indices.values())
 
