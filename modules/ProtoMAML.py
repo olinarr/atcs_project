@@ -27,7 +27,10 @@ class ProtoMAML(nn.Module):
             self.BERT = BertModel(BertConfig()).to(device)
         else:
             self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
-        self.sharedLinear = nn.Sequential(nn.Linear(768, 768), nn.ReLU()).to(device)
+        
+        linear = nn.Linear(768, 768)
+        torch.nn.init.kaiming_uniform(linear.weight, nonlinearity='relu')
+        self.sharedLinear = nn.Sequential(linear, nn.ReLU()).to(device)
 
         # deactivate gradients on the parameters we do not need.
 
@@ -110,8 +113,8 @@ class ProtoMAML(nn.Module):
         
         # detach for param gen
         # TODO: since nn.Parameter s are leaf nodes anyway is there still any point to manually detaching as well?
-        prototypes = self.prototypes.detach()
-        prototype_norms = self.prototype_norms.detach()
+        #prototypes = self.prototypes.detach()
+        #prototype_norms = self.prototype_norms.detach()
 
         # see proto-maml paper, this corresponds to euclidean distance
         self.ffn_W = nn.Parameter(2 * prototypes)
