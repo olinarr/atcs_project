@@ -220,11 +220,11 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 weights = deepcopy(model_init.state_dict())
                 
                 model_init.generateParams(support_set, classes)
-                final = deepcopy(model_init.FFN)
 
                 model_episode = type(model_init)(device=config.device)
                 model_episode.load_state_dict(weights)
-                model_episode.FFN = final.to(config.device)
+                model_episode.ffn_W = deepcopy(model_init.ffn_W)
+                model_episode.ffn_b = deepcopy(model_init.ffn_b)
                 
                 # [2] Adapt task-specific parameters
                 task_optimizer = optim.SGD(model_episode.parameters(), lr=alpha)
@@ -250,8 +250,18 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 if not config.skip_prototypes:
                     print('backprop prototype trick')
                     # this will make gradients flow back to orignal model too.
-                    model_episode.FFN.weight = nn.Parameter(model_init.prototypes + (model_episode.FFN.weight - model_init.prototypes).detach_())
-                    model_episode.FFN.bias = nn.Parameter(model_init.prototype_norms + (model_episode.FFN.bias - model_init.prototype_norms).detach_())
+                    model_episode.ffn_W = nn.Parameter(model_init.prototypes + (model_episode.ffn_W - model_init.prototypes).detach(), requires_grad=True)
+                    model_episode.ffn_b = nn.Parameter(model_init.prototype_norms + (model_episode.ffn_b - model_init.prototype_norms).detach(), requires_grad=True)
+
+                # WORKS:
+                (model_init.prototypes + (model_episode.ffn_W - model_init.prototypes).detach())[0][0].backward()
+                
+                # DOESN'T WORK:
+                #nn.Parameter(model_init.prototypes + (model_episode.ffn_W - model_init.prototypes).detach(), requires_grad=True)[0][0].backward()
+                #model_episode.ffn_W[0][0].backward()
+
+                #test = F.linear(torch.ones(1,768), model_episode.ffn_W, model_episode.ffn_b)
+                #test.backward()
 
                 # [3] Evaluate adapted params on query set, calc grads.            
                 for step, batch in enumerate(it.islice(query_iter, 1)):
