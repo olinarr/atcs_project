@@ -301,7 +301,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
         return { key : total/avg_n for key,total in totals.items() }
  
     val_episodes = iter(EpisodeLoader.create_dataloader(
-        config.samples_per_support, val_bms, 16 * 5 # TODO: make parameter or define as constant. 32 / 2 = 16 per label (5)
+        config.samples_per_support, val_bms, config.samples_per_support
     ))
 
     best_loss = sys.maxsize
