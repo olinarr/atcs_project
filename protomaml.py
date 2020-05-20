@@ -249,19 +249,14 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
    
                 if not config.skip_prototypes:
                     print('backprop prototype trick')
+                    ffn_W = model_init.prototypes + (model_episode.ffn_W - model_init.prototypes).detach()
+                    ffn_b = model_init.prototype_norms + (model_episode.ffn_b - model_init.prototype_norms).detach()
+                    # First delete the nn.Parameter and replace with regular tensor,
                     # this will make gradients flow back to orignal model too.
-                    model_episode.ffn_W = nn.Parameter(model_init.prototypes + (model_episode.ffn_W - model_init.prototypes).detach(), requires_grad=True)
-                    model_episode.ffn_b = nn.Parameter(model_init.prototype_norms + (model_episode.ffn_b - model_init.prototype_norms).detach(), requires_grad=True)
-
-                # WORKS:
-                (model_init.prototypes + (model_episode.ffn_W - model_init.prototypes).detach())[0][0].backward()
-                
-                # DOESN'T WORK:
-                #nn.Parameter(model_init.prototypes + (model_episode.ffn_W - model_init.prototypes).detach(), requires_grad=True)[0][0].backward()
-                #model_episode.ffn_W[0][0].backward()
-
-                #test = F.linear(torch.ones(1,768), model_episode.ffn_W, model_episode.ffn_b)
-                #test.backward()
+                    del model_episode.ffn_W
+                    del model_episode.ffn_b
+                    model_episode.ffn_W = ffn_W
+                    model_episode.ffn_b = ffn_b
 
                 # [3] Evaluate adapted params on query set, calc grads.            
                 for step, batch in enumerate(it.islice(query_iter, 1)):
@@ -282,23 +277,14 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 def accumulate_gradients(model_):
                     # accumulate the gradients
                     for n, p in model_.named_parameters():
-                        if p.requires_grad and n not in ('FFN.weight','FFN.bias'):
+                        if p.requires_grad and n not in ('ffn_W','ffn_b'):
                             if accumulated_gradients[n] is None:
                                 accumulated_gradients[n] = p.grad.data
-                                print("setting: {} = {}".format(n, p.grad.data.norm()))
                             else:
-                                if p.grad == None:
-                                    print("{} is None".format(n))
-                                    continue
                                 accumulated_gradients[n] += p.grad.data
-                                print("adding: {} = {}".format(n, p.grad.data.norm()))
 
-                #model_init.zero_grad()
-                print("accumulating model_episode")
                 accumulate_gradients(model_episode)
-                print("accumulating model_init")
                 accumulate_gradients(model_init)
-
                 # end of inner loop
 
             model_init.deactivate_linear_layer()
@@ -308,7 +294,6 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 for n, p in model_init.named_parameters():
                     if p.requires_grad:
                         p.grad.data = accumulated_gradients[n] 
-                        print("setting back: {} = {}".format(n, accumulated_gradients[n]))
                 optimizer.step()
                 scheduler.step()
         

@@ -103,11 +103,12 @@ class ProtoMAML(nn.Module):
         self.prototype_norms = self.prototypes.norm(dim=1)
         
         # detach for param gen
+        # TODO: since nn.Parameter s are leaf nodes anyway is there still any point to manually detaching as well?
         prototypes = self.prototypes.detach()
         prototype_norms = self.prototype_norms.detach()
 
         # see proto-maml paper, this corresponds to euclidean distance
-        self.ffn_W = nn.Parameter(2 * prototypes)         
+        self.ffn_W = nn.Parameter(2 * prototypes)
         self.ffn_b = nn.Parameter(- prototype_norms ** 2)
 
     
