@@ -4,9 +4,11 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+from copy import copy, deepcopy
+
 class ProtoMAML(nn.Module):
 
-    def __init__(self, device = 'cpu', trainable_layers = [9, 10,11]):
+    def __init__(self, device = 'cpu', trainable_layers = [9, 10,11], load_empty=False):
         """Init of the model
 
         Parameters:
@@ -18,6 +20,9 @@ class ProtoMAML(nn.Module):
         self.device = device
         self.trainable_layers = trainable_layers
         
+        if load_empty:
+            return
+
         # load pre-trained BERT: tokenizer and the model.
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
         self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
@@ -41,6 +46,18 @@ class ProtoMAML(nn.Module):
             # deactivate gradients.
             if not flag:
                 params.requires_grad = False
+
+    def copy(self):
+        # Since the Tokenizer doesn't seem to want to be deepcopied,
+        # we just deepcopy our components instead.
+        mycopy = type(self)(device=self.device, load_empty=True)
+        mycopy.tokenizer = self.tokenizer
+        mycopy.BERT = deepcopy(self.BERT)
+        mycopy.sharedLinear = deepcopy(self.sharedLinear)
+        mycopy.ffn_W = deepcopy(self.ffn_W)
+        mycopy.ffn_b = deepcopy(self.ffn_b)
+        mycopy.zero_grad()
+        return mycopy
 
     def _applyBERT(self, inputs):
         """Forward function of BERT only
