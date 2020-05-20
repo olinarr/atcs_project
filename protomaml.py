@@ -55,13 +55,12 @@ def k_shots(config, model, val_episodes, val_bms, times = 10):
     assert not hasattr(model, 'FFN'), "You are k-shot testing a model with a linear layer. Are you sure you meant that?"
     assert len(val_bms) == 1, "As of now, this test is thought to be only with one BMs (SICK)"
 
-    task = 'SICK'
     bm = val_bms[0]
     # why / 2? Because as of now, all train tasks are binary, so we have samples_per_support / 2 examples per label
     # TODO change this to be a parameter: examples per support
     examples_per_label = config.samples_per_support // 2
 
-    print(f"Running {config.k}-shot evaluation on task {task}, averaged over {times} times. Number of examples per class: {examples_per_label}.", flush= True)
+    print(f"Running {config.k}-shot evaluation on task {bm.name}, averaged over {times} times. Number of examples per class: {examples_per_label}.", flush= True)
 
     # this object will yield balanced support sets of size k_dim
     episode_iter = next(val_episodes)[0][0]
@@ -205,7 +204,6 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 avg_n += 1
 
         for i, batch in enumerate(it.islice(episode_loader, config.nr_episodes)):
-            optimizer.zero_grad()
 
             # external data structured used to accumulate gradients.
             accumulated_gradients = defaultdict(lambda : None)   
@@ -245,10 +243,11 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
                     if train:
                         global_step += 1
-    
-                # this will make gradients flow back to orignal model too.
-                model_episode.FFN.weight = nn.Parameter(model_episode.prototypes + (model_episode.FFN.weight - model_episode.prototypes).detach_())
-                model_episode.FFN.bias = nn.Parameter(model_episode.prototype_norms + (model_episode.FFN.bias - model_episode.prototype_norms).detach_())
+   
+                if not config.skip_prototypes:
+                    # this will make gradients flow back to orignal model too.
+                    model_episode.FFN.weight = nn.Parameter(model_episode.prototypes + (model_episode.FFN.weight - model_episode.prototypes).detach())
+                    model_episode.FFN.bias = nn.Parameter(model_episode.prototype_norms + (model_episode.FFN.bias - model_episode.prototype_norms).detach())
 
                 # [3] Evaluate adapted params on query set, calc grads.            
                 for step, batch in enumerate(it.islice(query_iter, 1)):
@@ -282,6 +281,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
             model_init.deactivate_linear_layer()
             if train: # and thus not validation
+                optimizer.zero_grad()
                 # load the accumulated gradients and optimize
                 for n, p in model_init.named_parameters():
                     if p.requires_grad:
@@ -300,7 +300,6 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
     val_config = deepcopy(config)
     val_config.nr_episodes = 1
-    val_config.alpha *= 100
 
     filename = path_to_dicts(config)
 
@@ -321,7 +320,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
             torch.save(model_init.state_dict(), filename)
             print("New best loss found at {}, written model to {}".format(best_loss, filename))
             
-            test_mean, test_std = k_shots(config, model, val_episodes, val_bms)
+            test_mean, test_std = k_shots(config, model_init, val_episodes, val_bms)
             sw.add_scalar('val/acc', test_mean, global_step)
             print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
 
@@ -348,15 +347,16 @@ if __name__ == "__main__":
 
     # Training params
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
-    parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 160)
-    parser.add_argument('--batch_size', type=int, default="16", help="How many tasks in an episode over which gradients for M_init are accumulated")
-    parser.add_argument('--k', type=int, default="7", help="How many times do we update weights prime")
+    parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 80)
+    parser.add_argument('--batch_size', type=int, default="64", help="How many tasks in an episode over which gradients for M_init are accumulated")
+    parser.add_argument('--k', type=int, default="3", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-5)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-3)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 5e-5)
-    parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 100)
-    parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 16)
+    parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 200)
+    parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
+    parser.add_argument('--skip_prototypes', action='store_false')
 
     # Misc
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
@@ -396,10 +396,10 @@ if __name__ == "__main__":
     # MultiNLI, MRPC, PDB for training.
     train_bms = [ batchmanager1, batchmanager3 ]
     train_bms.extend(mnli_subtasks)
-    train_bms.extend(pdb_subtasks)
+    #train_bms.extend(pdb_subtasks)
 
     # SICK for validation
-    val_bms = [ batchmanager5 ]
+    val_bms = [ batchmanager5 ] #[ batchmanager2 ]
 
     logdir = logloc(dir_name=config.sw_log_dir)
     sw = SummaryWriter(log_dir=logdir)
