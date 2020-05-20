@@ -245,6 +245,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                         global_step += 1
    
                 if not config.skip_prototypes:
+                    print('backprop prototype trick')
                     # this will make gradients flow back to orignal model too.
                     model_episode.FFN.weight = nn.Parameter(model_episode.prototypes + (model_episode.FFN.weight - model_episode.prototypes).detach())
                     model_episode.FFN.bias = nn.Parameter(model_episode.prototype_norms + (model_episode.FFN.bias - model_episode.prototype_norms).detach())
@@ -356,7 +357,7 @@ if __name__ == "__main__":
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 5e-5)
     parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 200)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
-    parser.add_argument('--skip_prototypes', action='store_false')
+    parser.add_argument('--skip_prototypes', action='store_true')
 
     # Misc
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
