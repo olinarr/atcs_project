@@ -103,25 +103,22 @@ class ProtoMAML(nn.Module):
         self.prototype_norms = self.prototypes.norm(dim=1)
         
         # detach for param gen
+        # TODO: since nn.Parameter s are leaf nodes anyway is there still any point to manually detaching as well?
         prototypes = self.prototypes.detach()
         prototype_norms = self.prototype_norms.detach()
 
         # see proto-maml paper, this corresponds to euclidean distance
-        W = nn.Parameter(2 * prototypes)         
-        b = nn.Parameter(- prototype_norms ** 2)
+        self.ffn_W = nn.Parameter(2 * prototypes)
+        self.ffn_b = nn.Parameter(- prototype_norms ** 2)
 
-        linear = nn.Linear(768, W.shape[0]).to(self.device)
-        linear.weight = W
-        linear.bias = b
-
-        # two layers for more flexbility.
-        self.add_module("FFN", linear)
-
+    
     def deactivate_linear_layer(self):
         """ Deactivate the linear layer, if it exists """
 
-        if hasattr(self, 'FFN'):
-            del self.FFN
+        if hasattr(self, 'ffn_W'):
+            del self.ffn_W
+        if hasattr(self, 'ffn_b'):
+            del self.ffn_b
 
     def forward(self, inputs):
         """Forward function of the model
@@ -133,10 +130,10 @@ class ProtoMAML(nn.Module):
         torch.Tensor: a BATCH x N_CLASSES tensor
 
         """
-        if not hasattr(self, 'FFN'):
+        if not hasattr(self, 'ffn_W') or not hasattr(self, 'ffn_b'):
             raise Exception('You have called the forward function without having initialized the parameters! Call generateParams() on the support first.')
         else:
             output = self._applyBERT(inputs)
             output = self.sharedLinear(output)
-            output = self.FFN(output)
+            output = F.linear(output, self.ffn_W, self.ffn_b)
             return output
