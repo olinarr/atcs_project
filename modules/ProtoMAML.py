@@ -48,12 +48,6 @@ class ProtoMAML(nn.Module):
             if not flag:
                 params.requires_grad = False
 
-    def copy(self):
-        mycopy = type(self)(device=self.device, load_empty=True)
-        mycopy.load_state_dict(deepcopy(self.state_dict()))
-        mycopy.zero_grad()
-        return mycopy
-
     def _applyBERT(self, inputs):
         """Forward function of BERT only
 

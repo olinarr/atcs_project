@@ -170,6 +170,7 @@ def load_model(config):
 
 def protomaml(config, sw, batch_managers, model_init, val_bms):
     
+    model_episode = type(model_init)(device=model_init.device)#, load_empty=True) 
     CLASSIFIER_DIMS = 768
     
     beta = config.beta
@@ -218,11 +219,13 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 classes = bm.classes()
                 model_init.deactivate_linear_layer()
                 
-                model_episode = model_init.copy()
+                weights = deepcopy(model_init.state_dict())
+                model_episode.load_state_dict(weights)
                 
                 model_init.generateParams(support_set, classes)
                 model_episode.ffn_W = deepcopy(model_init.ffn_W)
                 model_episode.ffn_b = deepcopy(model_init.ffn_b)
+                model_episode.zero_grad()
 
                 # [2] Adapt task-specific parameters
                 task_optimizer = optim.SGD(model_episode.parameters(), lr=alpha)
