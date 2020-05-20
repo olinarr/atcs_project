@@ -217,11 +217,14 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 # [1] Calculate parameters for softmax.
                 classes = bm.classes()
                 model_init.deactivate_linear_layer()
-                model_init.generateParams(support_set, classes)
-           
                 weights = deepcopy(model_init.state_dict())
-                model_episode = copy(model_init)
+                
+                model_init.generateParams(support_set, classes)
+                final = deepcopy(model_init.FFN)
+
+                model_episode = type(model_init)(device=config.device)
                 model_episode.load_state_dict(weights)
+                model_episode.FFN = final.to(config.device)
                 
                 # [2] Adapt task-specific parameters
                 task_optimizer = optim.SGD(model_episode.parameters(), lr=alpha)
@@ -247,8 +250,8 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 if not config.skip_prototypes:
                     print('backprop prototype trick')
                     # this will make gradients flow back to orignal model too.
-                    model_episode.FFN.weight = nn.Parameter(model_episode.prototypes + (model_episode.FFN.weight - model_episode.prototypes).detach())
-                    model_episode.FFN.bias = nn.Parameter(model_episode.prototype_norms + (model_episode.FFN.bias - model_episode.prototype_norms).detach())
+                    model_episode.FFN.weight = nn.Parameter(model_init.prototypes + (model_episode.FFN.weight - model_init.prototypes).detach_())
+                    model_episode.FFN.bias = nn.Parameter(model_init.prototype_norms + (model_episode.FFN.bias - model_init.prototype_norms).detach_())
 
                 # [3] Evaluate adapted params on query set, calc grads.            
                 for step, batch in enumerate(it.islice(query_iter, 1)):
@@ -257,7 +260,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
                     loss = task_criterion(out, batch_targets)
 
-                    model_episode.zero_grad()
+                    task_optimizer.zero_grad()
                     loss.backward()
 
                     log(loss.item(), 'q', bm, not train)
@@ -266,16 +269,24 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                         global_step += 1
 
 
-                def accumulate_gradients(model):
+                def accumulate_gradients(model_):
                     # accumulate the gradients
-                    for n, p in model.named_parameters():
+                    for n, p in model_.named_parameters():
                         if p.requires_grad and n not in ('FFN.weight','FFN.bias'):
                             if accumulated_gradients[n] is None:
                                 accumulated_gradients[n] = p.grad.data
+                                print("setting: {} = {}".format(n, p.grad.data.norm()))
                             else:
+                                if p.grad == None:
+                                    print("{} is None".format(n))
+                                    continue
                                 accumulated_gradients[n] += p.grad.data
+                                print("adding: {} = {}".format(n, p.grad.data.norm()))
 
+                #model_init.zero_grad()
+                print("accumulating model_episode")
                 accumulate_gradients(model_episode)
+                print("accumulating model_init")
                 accumulate_gradients(model_init)
 
                 # end of inner loop
@@ -287,6 +298,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 for n, p in model_init.named_parameters():
                     if p.requires_grad:
                         p.grad.data = accumulated_gradients[n] 
+                        print("setting back: {} = {}".format(n, accumulated_gradients[n]))
                 optimizer.step()
                 scheduler.step()
         
