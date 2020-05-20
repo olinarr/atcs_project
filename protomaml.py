@@ -366,7 +366,7 @@ if __name__ == "__main__":
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-3)
-    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-3)
+    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-4)
     parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 100)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
     parser.add_argument('--skip_prototypes', action='store_true')

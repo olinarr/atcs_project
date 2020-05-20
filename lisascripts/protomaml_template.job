@@ -1,0 +1,31 @@
+#!/bin/bash
+
+#SBATCH --job-name=train_model
+#SBATCH --time=12:00:00
+
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=3
+#SBATCH --ntasks-per-node=1
+#SBATCH --mem=60000M
+#SBATCH --partition=gpu_shared_course
+#SBATCH --gres=gpu:1
+#SBATCH --mail-type=BEGIN,END
+#SBATCH --mail-user=
+
+module purge
+module load pre2019
+module load Python/3.6.3-foss-2017b
+module load cuDNN/7.0.5-CUDA-9.0.176
+module load NCCL/2.0.5-CUDA-9.0.176
+export LD_LIBRARY_PATH=/hpc/eb/Debian9/cuDNN/7.1-CUDA-8.0.44-GCCcore-5.4.0/lib64:$LD_LIBRARY_PATH
+
+export LANG=C.UTF-8
+
+REPO="$HOME/project/atcs_project"
+
+cp -r $REPO "$TMPDIR"
+cd "$TMPDIR/atcs_project"
+
+python protomaml.py --sw_log_dir="$REPO/runs" $*
+
+cp "./state_dicts/*" "$REPO/state_dicts"
