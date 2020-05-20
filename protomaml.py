@@ -303,6 +303,12 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
     filename = path_to_dicts(config)
 
+    # validate untrained model as 'baseline'
+    test_mean, test_std = k_shots(config, model_init, val_episodes, val_bms)
+    sw.add_scalar('val/acc', test_mean, global_step)
+    print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
+
+
     best_loss = sys.maxsize
     for epoch in range(config.nr_epochs):
         
@@ -312,7 +318,6 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
 
         # validate
         print('validating...')
-
         results = do_epoch(val_episodes, val_config, train=False)
 
         if results['q'] < best_loss:
@@ -320,9 +325,9 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
             torch.save(model_init.state_dict(), filename)
             print("New best loss found at {}, written model to {}".format(best_loss, filename))
             
-            test_mean, test_std = k_shots(config, model_init, val_episodes, val_bms)
-            sw.add_scalar('val/acc', test_mean, global_step)
-            print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
+        test_mean, test_std = k_shots(config, model_init, val_episodes, val_bms)
+        sw.add_scalar('val/acc', test_mean, global_step)
+        print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
 
     model.deactivate_linear_layer()    
 
