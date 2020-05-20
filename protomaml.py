@@ -149,7 +149,7 @@ def load_model(config):
 
 
     trainable_layers = [9, 10, 11]
-    assert min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
+    assert len(trainable_layers) == 0 or min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
 
     # n_classes = None cause we don't use it
     # use_classifier = False cause we don't use it
@@ -358,13 +358,13 @@ if __name__ == "__main__":
     # Training params
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
     parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 80)
-    parser.add_argument('--batch_size', type=int, default="64", help="How many tasks in an episode over which gradients for M_init are accumulated")
-    parser.add_argument('--k', type=int, default="3", help="How many times do we update weights prime")
+    parser.add_argument('--batch_size', type=int, default="32", help="How many tasks in an episode over which gradients for M_init are accumulated")
+    parser.add_argument('--k', type=int, default="5", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-3)
-    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 5e-5)
-    parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 200)
+    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-3)
+    parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 100)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
     parser.add_argument('--skip_prototypes', action='store_true')
 
