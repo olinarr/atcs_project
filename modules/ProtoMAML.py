@@ -1,4 +1,4 @@
-from transformers import BertModel, BertTokenizerFast
+from transformers import BertModel, BertTokenizerFast, BertConfig
 
 import torch
 import torch.nn as nn
@@ -20,12 +20,13 @@ class ProtoMAML(nn.Module):
         self.device = device
         self.trainable_layers = trainable_layers
         
-        if load_empty:
-            return
 
         # load pre-trained BERT: tokenizer and the model.
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
-        self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
+        if load_empty:
+            self.BERT = BertModel(BertConfig()).to(device)
+        else:
+            self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
         self.sharedLinear = nn.Sequential(nn.Linear(768, 768), nn.ReLU()).to(device)
 
         # deactivate gradients on the parameters we do not need.
@@ -48,14 +49,8 @@ class ProtoMAML(nn.Module):
                 params.requires_grad = False
 
     def copy(self):
-        # Since the Tokenizer doesn't seem to want to be deepcopied,
-        # we just deepcopy our components instead.
         mycopy = type(self)(device=self.device, load_empty=True)
-        mycopy.tokenizer = self.tokenizer
-        mycopy.BERT = deepcopy(self.BERT)
-        mycopy.sharedLinear = deepcopy(self.sharedLinear)
-        mycopy.ffn_W = deepcopy(self.ffn_W)
-        mycopy.ffn_b = deepcopy(self.ffn_b)
+        mycopy.load_state_dict(deepcopy(self.state_dict()))
         mycopy.zero_grad()
         return mycopy
 

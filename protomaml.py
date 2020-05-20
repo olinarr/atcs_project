@@ -217,9 +217,12 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 # [1] Calculate parameters for softmax.
                 classes = bm.classes()
                 model_init.deactivate_linear_layer()
-                model_init.generateParams(support_set, classes)
-               
+                
                 model_episode = model_init.copy()
+                
+                model_init.generateParams(support_set, classes)
+                model_episode.ffn_W = deepcopy(model_init.ffn_W)
+                model_episode.ffn_b = deepcopy(model_init.ffn_b)
 
                 # [2] Adapt task-specific parameters
                 task_optimizer = optim.SGD(model_episode.parameters(), lr=alpha)
