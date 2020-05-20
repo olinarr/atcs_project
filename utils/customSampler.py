@@ -8,15 +8,14 @@ class BalancedSampler(torch.utils.data.Sampler):
     Used to sample in a balanced way from one of a BatchManager's DataLoaders.
     """
 
-    def __init__(self, dataset, batch_manager):
+    def __init__(self, dataset, batch_manager, permissible_indices=None):
         l2i = batch_manager.l2i
         self.label_indices = { i : [] for lbl,i in l2i.items()  }
         for lbl, idx in batch_manager.label_indices[dataset].items():
+            if permissible_indices:
+                idx = set(idx) & set(permissible_indices)
             self.label_indices[l2i[lbl]].extend(idx)
-
-        #TODO possibly allow for a subset to sample from to be specified
-        # this would be usefule primarily for dividing samples between workers
-
+    
     def __iter__(self):
         idxs = list(self.label_indices.values())
 

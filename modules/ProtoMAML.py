@@ -100,29 +100,22 @@ class ProtoMAML(nn.Module):
             prototypes.append(prototype)
          
         self.prototypes = torch.stack(prototypes)
-        self.prototypes.detach_()
         self.prototype_norms = self.prototypes.norm(dim=1)
+        
+        # detach for param gen
+        prototypes = self.prototypes.detach()
+        prototype_norms = self.prototype_norms.detach()
 
         # see proto-maml paper, this corresponds to euclidean distance
-        W = nn.Parameter(2 * self.prototypes)         
-        b = nn.Parameter(- self.prototype_norms ** 2)
+        W = nn.Parameter(2 * prototypes)         
+        b = nn.Parameter(- prototype_norms ** 2)
 
         linear = nn.Linear(768, W.shape[0]).to(self.device)
-        linear.weight = nn.Parameter(W)
-        linear.bias = nn.Parameter(b)
+        linear.weight = W
+        linear.bias = b
 
         # two layers for more flexbility.
-        # TODO Decide on whether it makese sense to use it
-        # self.FFN = nn.Sequential(nn.Linear(768, 768).to(device), nn.ReLU(), linear)
         self.add_module("FFN", linear)
-
-    def revert_state(self, state_dict):
-        """ Revert to the original model. Of course, we deactivate the generated layer.
-
-        Parameters:
-        state_dict: the original weights"""
-
-        self.load_state_dict(state_dict)
 
     def deactivate_linear_layer(self):
         """ Deactivate the linear layer, if it exists """
