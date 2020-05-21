@@ -1,4 +1,4 @@
-from utils.batchManagers import MultiNLIBatchManager, MRPCBatchManager, PDBBatchManager
+from utils.batchManagers import MultiNLIBatchManager, MRPCBatchManager, PDBBatchManager, SICKBatchManager, IBMBatchManager
 from math import sqrt
 import random
 
@@ -17,7 +17,7 @@ class MultiTaskTrainLoader():
             'PDB'  : PDBBatchManager(batch_size, device),
             'MRPC' : MRPCBatchManager(batch_size, device)
         }
-
+        
         self.tasks = list(self.batchmanagers.keys())
 
         # save the iterator of the dataloaders
