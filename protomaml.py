@@ -279,10 +279,10 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                     for n, p in model_.named_parameters():
                         if p.requires_grad and n not in ('ffn_W','ffn_b'):
                             if accumulated_gradients[n] is None:
-                                accumulated_gradients[n] = p.grad.data
+                                accumulated_gradients[n] = p.grad.detach()
                                 #print(p.grad.data.norm())
                             else:
-                                accumulated_gradients[n] += p.grad.data
+                                accumulated_gradients[n] += p.grad.detach()
                                 #print(p.grad.data.norm())
 
                 accumulate_gradients(model_episode)
@@ -296,7 +296,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 # load the accumulated gradients and optimize
                 for n, p in model_init.named_parameters():
                     if p.requires_grad:
-                        p.grad.data = accumulated_gradients[n] 
+                        p.grad = accumulated_gradients[n]
                 optimizer.step()
                 scheduler.step()
         
@@ -364,12 +364,12 @@ if __name__ == "__main__":
     # Training params
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
     parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 80)
-    parser.add_argument('--batch_size', type=int, default="32", help="How many tasks in an episode over which gradients for M_init are accumulated")
-    parser.add_argument('--k', type=int, default="5", help="How many times do we update weights prime")
+    parser.add_argument('--batch_size', type=int, default="64", help="How many tasks in an episode over which gradients for M_init are accumulated")
+    parser.add_argument('--k', type=int, default="3", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-3)
-    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-4)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-4)
+    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-3)
     parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 100)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
     parser.add_argument('--skip_prototypes', action='store_true')
@@ -412,7 +412,7 @@ if __name__ == "__main__":
     # MultiNLI, MRPC, PDB for training.
     train_bms = [ batchmanager1, batchmanager3 ]
     train_bms.extend(mnli_subtasks)
-    #train_bms.extend(pdb_subtasks)
+    #rain_bms.extend(pdb_subtasks)
 
     # SICK for validation
     val_bms = [ batchmanager5 ] #[ batchmanager2 ]

@@ -1,5 +1,7 @@
 from transformers import BertModel, BertTokenizerFast, BertConfig
 
+import math
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -8,7 +10,7 @@ from copy import copy, deepcopy
 
 class ProtoMAML(nn.Module):
 
-    def __init__(self, device = 'cpu', trainable_layers = [9, 10,11], load_empty=False):
+    def __init__(self, device = 'cpu', trainable_layers = [9, 10, 11], load_empty=False):
         """Init of the model
 
         Parameters:
@@ -29,8 +31,7 @@ class ProtoMAML(nn.Module):
             self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
         
         linear = nn.Linear(768, 768)
-        torch.nn.init.kaiming_uniform(linear.weight, nonlinearity='relu')
-        self.sharedLinear = nn.Sequential(linear, nn.ReLU()).to(device)
+        self.sharedLinear = nn.Sequential(linear, nn.LeakyReLU()).to(device)
 
         # deactivate gradients on the parameters we do not need.
 
