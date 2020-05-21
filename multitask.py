@@ -43,7 +43,7 @@ def k_shots(config, model, times = 10):
     }
 
     classes_dict = {
-        'SICK' : 5,
+        'SICK' : 2,
         'IBM' : 2
     }
 
@@ -103,7 +103,7 @@ def k_shots(config, model, times = 10):
 
         # get test accuracy of the k-shotted model
         test_acc.append(get_accuracy(model, task, bm, test_set = True))
-        print(f'iteration {t+1}: test accuracy is {test_acc[-1]}', flush = True)
+        print(f'iteration {t+1}: test accuracy is {test_acc[-1]:.2f}', flush = True)
 
         # revert back to original model: remove test task and load old weights
 
