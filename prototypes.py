@@ -9,9 +9,10 @@ import argparse
 from utils.episodeLoader import EpisodeLoader
 from modules.FineTunedBERT import FineTunedBERT
 from modules.PrototypeModel import ProtoMODEL
-from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager
+from utils.batchManagers import MultiNLIBatchManager, IBMBatchManager, MRPCBatchManager, PDBBatchManager, SICKBatchManager
 
 from transformers import AdamW, get_linear_schedule_with_warmup
+from torch.utils.tensorboard import SummaryWriter
 
 import warnings
 warnings.filterwarnings("ignore", category = UserWarning) 
@@ -20,6 +21,9 @@ warnings.filterwarnings("ignore", category = UserWarning)
 MODELS_PATH = './state_dicts/'
 if not os.path.exists(MODELS_PATH):
     os.makedirs(MODELS_PATH)
+
+# To keep track of # of batches processed
+global_step = 0
 
 def path_to_dicts(config):
     return MODELS_PATH + 'Prototypes' + ".pt"
@@ -43,17 +47,74 @@ def load_model(config):
 
     return model
 
-def run_prototype(config, batch_managers, model):
+def get_dev_acc(config, val_loader, model, optimizer, criterion):
+    """
+    Function to get accuracy on validation task
+    """
+    count, num = 0., 0
+    model.eval()
+    with torch.no_grad():
+        for i, batch in enumerate(val_loader):
+            distances, targets = run_batch(config, val_loader, model, batch, optimizer, criterion, validate=True)
+            preds = distances.argmax(dim=1)
+            count += (preds == targets).sum().item()
+            num += len(targets)
+
+    model.train()
+    return count / num
+
+def k_shot_test(config, val_loader, model, optimizer, criterion):
+    """
+    Function that retrains with k samples 
+
+    Args:
+      Config: Contains all user-defined (hyper)parameters
+      Val_loader: Loader with the correct number of samples per label for the test task 
+      Model, optimizer, criterion are standard NN parameters
+      num_times: How many times we perform the k sample update
+    """
+
+    # Iterate for how_many_updates we update    
+    for i, batch in enumerate(val_loader):
+        if i >= config.how_many_updates:
+            break
+        run_batch(config, val_loader, model, batch, optimizer, criterion)
+    
+    # Get dev acc
+    dev_acc = get_dev_acc(config, val_loader, model, optimizer, criterion)
+    print(dev_acc)
+
+def run_prototype(config, train_bms, model, val_bms, sw):
     """
     Function to run a prototypical network
 
     Args:
-      Config:         Contains all of the parameters defined in train.py
-      batch_managers: Variable containing the batch managers
+      Config:    Contains all of the parameters defined in train.py
+      train_bms: Variable containing the batch managers for training data
+      model    : The model that we are using, in this case the ProtoMODEL
+      val_bms  : Batch managers for the validation task
+      sw       : Tensorboard Summary Writer
 
     Returns:
       Nthn: Not really something to declare yet
     """
+    
+    # Make a train loader with training tasks
+    NUM_WORKERS = 0
+    train_loader = EpisodeLoader.create_dataloader(
+        config.samples_per_support, 
+        train_bms, 
+        config.batch_size,
+        num_workers = NUM_WORKERS
+    )
+
+    # Make a validation loader with validation task
+    val_loader = EpisodeLoader.create_dataloader(
+        config.samples_per_support,
+        val_bms,
+        config.batch_size,
+        num_workers=NUM_WORKERS
+    )
 
     # Parameters
     beta = config.beta
@@ -62,57 +123,102 @@ def run_prototype(config, batch_managers, model):
     # Standard NN variables
     optimizer = AdamW(params, lr = beta)#TODO: parameters
     criterion = torch.nn.CrossEntropyLoss()
-    
-    # Episode Loader stuff
-    SAMPLES_PER_EPISODE = 2
-    NUM_WORKERS = 0
-    episode_loader = EpisodeLoader.create_dataloader(
-        config.samples_per_support, batch_managers, config.batch_size,
-        num_workers = NUM_WORKERS
-    )
 
+    # Iterate over epochs
+    for _ in range(config.epochs):
+        # Training
+        model.train()
+        run_epoch(config, train_loader, model, optimizer, criterion, val_loader = val_loader, sw = sw)
+
+        # Do the k-shot test thing and evaluate
+        model.eval()
+        k_shot_test(config, val_loader, model, optimizer, criterion)
+
+        # # Validation
+        # model.eval()
+        # with torch.no_grad():
+        #     run_epoch(config, val_loader, model, optimizer, criterion, val_loader = val_loader, sw = sw)
+
+def run_epoch(config, episode_loader, model, optimizer, criterion, val_loader, sw):
+    """
+    Function to run a full epoch for either training or validation
+
+    Args:
+      Config:     Argparse object containing all parameters
+      Loader:     Episodeloader for training data or validation data
+      Model :     The model to be used (e.g. ProtoMODEL)
+      Optimizer:  The optimizer to be used (default: ADAM)
+      Criterion:  Criterion to calculate loss (default: CrossEntropyLoss)
+      val_loader: Loader to get episodes for validation data for accuracy
+      sw        : Tensorboard Summary Writer
+
+    Returns:
+      Something
+    """
+
+    # To keep track of losses over batch
     losses = []
 
-    # Run over episode loader
-    for i, batch in enumerate(episode_loader):
-        # batch is a list of length 4
-        print(len(batch))
-        batch_loss = 0
-        
-        # episodeloader returns tuples of supp iter, query iter, batchmanager
-        for j, (support_iter, query_iter, bm) in enumerate(batch):
-            support_set = next(iter(support_iter))
-            query_set = next(iter(query_iter))
-            # Support_set is a tuple of len 2
-            print(len(support_set))
+    try:
+        # Run over episode loader
+        for i, batch in enumerate(episode_loader):
+            print(i, flush = True)
+            run_batch(config, episode_loader, model, batch, optimizer, criterion, sw = sw)
 
-            for step, batch in enumerate([support_set]):
-                
-                # Get inputs and targets
-                inputs, targets = batch
-                classes = targets.unique()
+            # if i % config.dev_acc_print_rate == 10000:
+            #     dev_acc = get_dev_acc(config, val_loader, model, optimizer, criterion)
+            #     print(f"DEV ACC IS: {dev_acc:.3f}")
 
-                # Prototypes are mean of all support set points per class
-                outputs = model(inputs)
-                prototypes = torch.empty(len(classes), outputs.shape[1]).to(config.device)
+    # .. so we can interrupt and still save a model
+    except KeyboardInterrupt:
+        print("Training stopped by KeyboardInterrupt!", flush = True)
+        torch.save(model.state_dict(), path_to_dicts(config))
 
-                # Get prototype for each class and append
-                for cls in classes:
-                
-                    # Subset the correct class and take mean over ClassBatch dimension
-                    cls_idx = (targets == cls).nonzero().flatten()
-                    cls_input = torch.index_select(outputs, dim = 0, index=cls_idx)
-                    proto = cls_input.mean(dim=0)
-                    prototypes[cls.item(), :] = proto
+def run_batch(config, episode_loader, model, batch, optimizer, criterion, validate = False, sw = None):
+    """
+    Function to process a single batch
+    """
 
-            # evaluate on query set (D_val) 
-            for step, batch in enumerate([query_set]):
-                inputs, targets = batch
-                outputs = model(inputs)
+    # batch is a list of length 4
+    batch_loss = 0
+    
+    # episodeloader returns tuples of supp iter, query iter, batchmanager
+    for j, (support_iter, query_iter, bm) in enumerate(batch):
+        support_set = next(iter(support_iter))
+        query_set = next(iter(query_iter))
+        # Support_set is a tuple of len 2
+        #print(len(support_set))
 
-                # Calculate euclidean distance in a vectorized way
-                diffs = outputs.unsqueeze(1) - prototypes.unsqueeze(0)
-                distances = torch.sum(diffs*diffs, -1) * -1 # get negative distances
+        for step, batch in enumerate([support_set]):
+            
+            # Get inputs and targets
+            inputs, targets = batch
+            classes = targets.unique()
+
+            # Prototypes are mean of all support set points per class
+            outputs = model(inputs)
+            prototypes = torch.empty(len(classes), outputs.shape[1]).to(config.device)
+
+            # Get prototype for each class and append
+            for cls in classes:
+            
+                # Subset the correct class and take mean over ClassBatch dimension
+                cls_idx = (targets == cls).nonzero().flatten()
+                cls_input = torch.index_select(outputs, dim = 0, index=cls_idx)
+                proto = cls_input.mean(dim=0)
+                prototypes[cls.item(), :] = proto
+
+        # evaluate on query set (D_val) 
+        for step, batch in enumerate([query_set]):
+            inputs, targets = batch
+            outputs = model(inputs)
+
+            # Calculate euclidean distance in a vectorized way
+            diffs = outputs.unsqueeze(1) - prototypes.unsqueeze(0)
+            distances = torch.sum(diffs*diffs, -1) * -1 # get negative distances
+
+            # If we optimize instead of calculating accuracy
+            if not validate:
                 loss = criterion(distances, targets)
                 batch_loss += loss.item()
 
@@ -120,10 +226,18 @@ def run_prototype(config, batch_managers, model):
                 loss.backward()
                 optimizer.step()
 
-        print(f"The loss for this batch is {batch_loss:.4f}")
-        losses.append(batch_loss)
-    print(losses)
+            else:
+                return distances, targets
 
+    #print(f"The loss for this batch is {batch_loss:.4f}")
+    
+    # Write to tensorboard
+    if sw != None:
+        # This is basically training data, so be careful with interpreting
+        global global_step
+        global_step += 1
+        sw.add_scalar('batch/acc', batch_loss, global_step)
+    
 
 if __name__ == "__main__":
      # Parse training configuration
@@ -135,32 +249,44 @@ if __name__ == "__main__":
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 2e-5)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 2e-5)
-    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
-    parser.add_argument('--samples_per_support', type=int, help='Number of samples per each episode', default = 8)
+    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 1)
+    parser.add_argument('--samples_per_support', type=int, help='Number of samples per each episode', default = 12)
     parser.add_argument('--use_second_order', action='store_true', help='Use the second order version of MAML')
+    parser.add_argument('--dev_acc_print_rate', type=int, help='How many iterations to report dev acc', default = 75)
+    parser.add_argument('--val_num_support', type=int, help='Number of samples per label for SICK validation thing', default = 16)
+    parser.add_argument('--how_many_updates', type=int, help='How often we run validation with k examples per label', default = 10)
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
 
     config = parser.parse_args()
 
     config.first_order_approx = not config.use_second_order
-
-    torch.manual_seed(config.random_seed)
-    config.device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
+    
+    config.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    print("Device: ", config.device)
 
     model = load_model(config)
 
     batchmanager1 = MultiNLIBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
-    #batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)    
+    batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)
+    batchmanager5 = SICKBatchManager(batch_size = config.samples_per_support, device = config.device)    
 
-    #batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
-    batchmanagers = [batchmanager1, batchmanager2, batchmanager3]
+    train_bms = [batchmanager2]
+    #train_bms.extend(batchmanager1.get_subtasks(2))
+    #train_bms.extend(batchmanager4.get_subtasks(2))
+
+    # We can set the number to val_num_support here
+    batchmanager5 = SICKBatchManager(batch_size = config.val_num_support, device = config.device)
+    val_bms = [batchmanager5]
+
+    # To write results
+    sw = SummaryWriter()
 
     # Train the model
     print('Beginning the training...', flush = True)
     #state_dict, dev_acc = protomaml(config, batchmanagers, BERT)
-    run_prototype(config, batchmanagers, model)
+    run_prototype(config, train_bms, model, val_bms, sw)
     print("Finished the run_prototype function!")
     
     #print(f"#*#*#*#*#*#*#*#*#*#*#\nFINAL BEST DEV ACC: {dev_acc}\n#*#*#*#*#*#*#*#*#*#*#", flush = True)
