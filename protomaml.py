@@ -1,8 +1,3 @@
-# Main TODO (decreasing order of urgence):
-# * have more samples in D_train than in D_val |D_train| > |D_val|
-# * figure out how to make gradients flow through the parameter generation OR repeat that operation to accumulate the gradients
-# * implement second order (perhaps)
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -108,7 +103,8 @@ def k_shots(config, model, val_episodes, val_bms, times = 10):
 
         model.deactivate_linear_layer()
         model.load_state_dict(original_model_dict)
-
+        model.zero_grad()
+        
     print('Completed.')
 
     test_acc = torch.tensor(test_acc)
@@ -170,7 +166,7 @@ def load_model(config):
 
 def protomaml(config, sw, batch_managers, model_init, val_bms):
     
-    model_episode = type(model_init)(device=model_init.device)#, load_empty=True) 
+    model_episode = type(model_init)(device=model_init.device) 
     CLASSIFIER_DIMS = 768
     
     beta = config.beta
@@ -266,6 +262,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                     loss = task_criterion(out, batch_targets)
 
                     task_optimizer.zero_grad()
+                    model_init.zero_grad()
                     loss.backward()
 
                     log(loss.item(), 'q', bm, not train)
@@ -412,7 +409,7 @@ if __name__ == "__main__":
     # MultiNLI, MRPC, PDB for training.
     train_bms = [ batchmanager1, batchmanager3 ]
     train_bms.extend(mnli_subtasks)
-    #rain_bms.extend(pdb_subtasks)
+    train_bms.extend(pdb_subtasks)
 
     # SICK for validation
     val_bms = [ batchmanager5 ] #[ batchmanager2 ]
