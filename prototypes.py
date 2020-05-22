@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-import itertools
+import itertools as it
 
 import os
 import argparse
@@ -54,7 +54,9 @@ def get_dev_acc(config, val_loader, model, optimizer, criterion):
     count, num = 0., 0
     model.eval()
     with torch.no_grad():
-        for i, batch in enumerate(val_loader):
+        # Epoch is defined as certain number of episodes
+        print(f"Validating now with {config.nr_val_episodes} val episodes!")
+        for i, batch in enumerate(it.islice(val_loader, config.nr_val_episodes)):
             distances, targets = run_batch(config, val_loader, model, batch, optimizer, criterion, validate=True)
             preds = distances.argmax(dim=1)
             count += (preds == targets).sum().item()
@@ -82,7 +84,7 @@ def k_shot_test(config, val_loader, model, optimizer, criterion):
     
     # Get dev acc
     dev_acc = get_dev_acc(config, val_loader, model, optimizer, criterion)
-    print(dev_acc)
+    print("DEV ACCURACY ON SICK: ", dev_acc)
 
 def run_prototype(config, train_bms, model, val_bms, sw):
     """
@@ -125,7 +127,12 @@ def run_prototype(config, train_bms, model, val_bms, sw):
     criterion = torch.nn.CrossEntropyLoss()
 
     # Iterate over epochs
-    for _ in range(config.epochs):
+    for i in range(config.epochs):
+
+        if i < 1:
+            model.eval()
+            print("NEXT RESULT IS FIRST RANDOM DEV EPOCH")
+            k_shot_test(config, val_loader, model, optimizer, criterion)
         # Training
         model.train()
         run_epoch(config, train_loader, model, optimizer, criterion, val_loader = val_loader, sw = sw)
@@ -161,7 +168,7 @@ def run_epoch(config, episode_loader, model, optimizer, criterion, val_loader, s
 
     try:
         # Run over episode loader
-        for i, batch in enumerate(episode_loader):
+        for i, batch in enumerate(it.islice(episode_loader, config.nr_episodes)):
             print(i, flush = True)
             run_batch(config, episode_loader, model, batch, optimizer, criterion, sw = sw)
 
@@ -249,10 +256,12 @@ if __name__ == "__main__":
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 2e-5)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 2e-5)
-    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 1)
+    parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 200)
+    parser.add_argument('--nr_val_episodes', type=int, help='Number of episodes in a val epoch', default = 1000)
+    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples per each episode', default = 12)
     parser.add_argument('--use_second_order', action='store_true', help='Use the second order version of MAML')
-    parser.add_argument('--dev_acc_print_rate', type=int, help='How many iterations to report dev acc', default = 75)
+    #parser.add_argument('--dev_acc_print_rate', type=int, help='How many iterations to report dev acc', default = 75)
     parser.add_argument('--val_num_support', type=int, help='Number of samples per label for SICK validation thing', default = 16)
     parser.add_argument('--how_many_updates', type=int, help='How often we run validation with k examples per label', default = 10)
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
@@ -263,6 +272,8 @@ if __name__ == "__main__":
     
     config.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print("Device: ", config.device)
+    print("Number of episodes: ", config.nr_episodes)
+    print("Number of val episodes: ", config.nr_val_episodes)
 
     model = load_model(config)
 
@@ -273,8 +284,9 @@ if __name__ == "__main__":
     batchmanager5 = SICKBatchManager(batch_size = config.samples_per_support, device = config.device)    
 
     train_bms = [batchmanager2]
-    #train_bms.extend(batchmanager1.get_subtasks(2))
-    #train_bms.extend(batchmanager4.get_subtasks(2))
+    train_bms.extend(batchmanager1.get_subtasks(2))
+    train_bms.extend(batchmanager4.get_subtasks(2))
+    train_bms.extend(batchmanager3.get_subtasks(2))
 
     # We can set the number to val_num_support here
     batchmanager5 = SICKBatchManager(batch_size = config.val_num_support, device = config.device)
