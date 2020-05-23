@@ -101,9 +101,9 @@ def k_shot_test(config, val_loader, val_bms, model):
             prototypes = compute_prototypes(model, batch)
             test_acc.append(get_test_acc(config, val_bm, model, prototypes))
 
+            print(f'experiment {t+1}, test acc: {test_acc[-1]:.2f}')
+
     test_acc = torch.tensor(test_acc)
-    print(torch.mean(test_acc), torch.std(test_acc))
-    exit()
     return torch.mean(test_acc), torch.std(test_acc)
 
 def run_prototype(config, train_bms, model, val_bms, sw):
