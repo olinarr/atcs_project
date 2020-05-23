@@ -69,7 +69,7 @@ def get_test_acc(config, val_bm, model, prototypes):
 
     return count / num
 
-def k_shot_test(config, val_loader, val_bms, model, optimizer, criterion):
+def k_shot_test(config, val_loader, val_bms, model):
     """
     Function that retrains with k samples 
 
@@ -150,14 +150,14 @@ def run_prototype(config, train_bms, model, val_bms, sw):
         if i < 1:
             model.eval()
             print("NEXT RESULT IS FIRST RANDOM DEV EPOCH")
-            k_shot_test(config, val_loader, val_bms, model, optimizer, criterion)
+            k_shot_test(config, val_loader, val_bms, model)
         # Training
         model.train()
         run_epoch(config, train_loader, model, optimizer, criterion, val_loader = val_loader, sw = sw)
 
         # Do the k-shot test thing and evaluate
         model.eval()
-        k_shot_test(config, val_loader, model, optimizer, criterion)
+        k_shot_test(config, val_loader, val_bms, model)
 
         # # Validation
         # model.eval()
