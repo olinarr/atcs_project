@@ -104,7 +104,9 @@ def k_shot_test(config, val_loader, val_bms, model):
             print(f'experiment {t+1}, test acc: {test_acc[-1]:.2f}')
 
     test_acc = torch.tensor(test_acc)
-    return torch.mean(test_acc), torch.std(test_acc)
+    mean, std = torch.mean(test_acc), torch.std(test_acc)
+    print(f'mean: {mean:.2f}, std: {std:.2f}')
+    return 
 
 def run_prototype(config, train_bms, model, val_bms, sw):
     """
@@ -250,7 +252,7 @@ def run_batch(config, episode_loader, model, batch, optimizer, criterion, sw = N
         #print(len(support_set))
             
         # Get inputs and targets
-        prototypes = compute_prototypes(model, batch)
+        prototypes = compute_prototypes(model, support_set)
 
         # evaluate on query set (D_val) 
         for step, batch in enumerate([query_set]):
