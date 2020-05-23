@@ -267,20 +267,21 @@ class SICKBatchManager(BatchManager):
         # datasets are of the form: see files
         # we only keep [label, sent_1, sent_2]
         # labels are rounded cuz we want to do classification
+
+        binarize = lambda n : 0 if float(n) < 3 else 1
+
         train_set, dev_set, test_set = [], [], []
         for sample in data:
             if sample[-1] == 'TRAIN\n':
-                # we get the REAL valued in [1,5] label
-                # we round it and map it to {0,1,2,3,4} (easier to use torch losses)
-                train_set.append((round(float(sample[4]))-1, sample[1], sample[2]))
+                train_set.append((binarize(sample[4]), sample[1], sample[2]))
             elif sample[-1] == 'TRIAL\n':
-                dev_set.append((round(float(sample[4]))-1, sample[1], sample[2]))
+                dev_set.append((binarize(sample[4]), sample[1], sample[2]))
             elif sample[-1] == 'TEST\n':
-                test_set.append((round(float(sample[4]))-1, sample[1], sample[2]))
+                test_set.append((binarize(sample[4]), sample[1], sample[2]))
             else:
                 raise Exception()
 
-        self.l2i = {i: i for i in [0,1,2,3,4]}
+        self.l2i = {0:0, 1:1}
         
         self.train_set = ListDataset(train_set)
         self.dev_set   = ListDataset(dev_set)
