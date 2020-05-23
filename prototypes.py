@@ -47,25 +47,29 @@ def load_model(config):
 
     return model
 
-def get_dev_acc(config, val_loader, model, optimizer, criterion):
+def get_test_acc(config, val_bm, model, prototypes):
     """
     Function to get accuracy on validation task
     """
     count, num = 0., 0
     model.eval()
     with torch.no_grad():
-        # Epoch is defined as certain number of episodes
-        print(f"Validating now with {config.nr_val_episodes} val episodes!")
-        for i, batch in enumerate(it.islice(val_loader, config.nr_val_episodes)):
-            distances, targets = run_batch(config, val_loader, model, batch, optimizer, criterion, validate=True)
+
+        for batch in val_bm.test_iter:
+
+            inputs, targets = batch
+
+            distances = compute_distances(model, prototypes, batch)
             preds = distances.argmax(dim=1)
+
             count += (preds == targets).sum().item()
             num += len(targets)
 
     model.train()
+
     return count / num
 
-def k_shot_test(config, val_loader, model, optimizer, criterion):
+def k_shot_test(config, val_loader, val_bms, model, optimizer, criterion):
     """
     Function that retrains with k samples 
 
@@ -76,15 +80,30 @@ def k_shot_test(config, val_loader, model, optimizer, criterion):
       num_times: How many times we perform the k sample update
     """
 
-    # Iterate for how_many_updates we update    
-    for i, batch in enumerate(val_loader):
-        if i >= config.how_many_updates:
-            break
-        run_batch(config, val_loader, model, batch, optimizer, criterion)
-    
-    # Get dev acc
-    dev_acc = get_dev_acc(config, val_loader, model, optimizer, criterion)
-    print("DEV ACCURACY ON SICK: ", dev_acc)
+    # Iterate for how_many_updates we update
+
+    test_acc = []
+
+    assert len(val_bms) == 1
+    val_bm = val_bms[0]
+
+    val_episodes = iter(val_loader)
+    episode_iter = next(val_episodes)[0][0]
+
+    with torch.no_grad():
+
+        for t, batch in enumerate(episode_iter):
+
+            # repeat experiment t times
+            if t >= config.nr_val_experiments:
+                break
+
+            prototypes = compute_prototypes(model, batch)
+            test_acc.append(get_test_acc(config, val_bm, model, prototypes))
+
+    print(torch.mean(test_acc), torch.std(test_acc))
+    exit()
+    return torch.mean(test_acc), torch.std(test_acc)
 
 def run_prototype(config, train_bms, model, val_bms, sw):
     """
@@ -119,11 +138,10 @@ def run_prototype(config, train_bms, model, val_bms, sw):
     )
 
     # Parameters
-    beta = config.beta
     params = model.parameters() 
 
     # Standard NN variables
-    optimizer = AdamW(params, lr = beta)#TODO: parameters
+    optimizer = AdamW(params, lr = config.lr)#TODO: parameters
     criterion = torch.nn.CrossEntropyLoss()
 
     # Iterate over epochs
@@ -132,7 +150,7 @@ def run_prototype(config, train_bms, model, val_bms, sw):
         if i < 1:
             model.eval()
             print("NEXT RESULT IS FIRST RANDOM DEV EPOCH")
-            k_shot_test(config, val_loader, model, optimizer, criterion)
+            k_shot_test(config, val_loader, val_bms, model, optimizer, criterion)
         # Training
         model.train()
         run_epoch(config, train_loader, model, optimizer, criterion, val_loader = val_loader, sw = sw)
@@ -181,7 +199,41 @@ def run_epoch(config, episode_loader, model, optimizer, criterion, val_loader, s
         print("Training stopped by KeyboardInterrupt!", flush = True)
         torch.save(model.state_dict(), path_to_dicts(config))
 
-def run_batch(config, episode_loader, model, batch, optimizer, criterion, validate = False, sw = None):
+def compute_prototypes(model, batch):
+    """ Compute prototypes """
+
+    inputs, targets = batch
+
+    classes = targets.unique()
+
+    # Prototypes are mean of all support set points per class
+    outputs = model(inputs)
+    prototypes = torch.empty(len(classes), outputs.shape[1]).to(config.device)
+
+    # Get prototype for each class and append
+    for cls in classes:
+    
+        # Subset the correct class and take mean over ClassBatch dimension
+        cls_idx = (targets == cls).nonzero().flatten()
+        cls_input = torch.index_select(outputs, dim = 0, index=cls_idx)
+        proto = cls_input.mean(dim=0)
+        prototypes[cls.item(), :] = proto
+
+    return prototypes
+
+def compute_distances(model, prototypes, batch):
+    inputs, targets = batch
+
+    outputs = model(inputs)
+
+    # Calculate euclidean distance in a vectorized way
+    diffs = outputs.unsqueeze(1) - prototypes.unsqueeze(0)
+    distances = torch.sum(diffs*diffs, -1) * -1 # get negative distances
+
+    return distances
+
+
+def run_batch(config, episode_loader, model, batch, optimizer, criterion, sw = None):
     """
     Function to process a single batch
     """
@@ -195,46 +247,21 @@ def run_batch(config, episode_loader, model, batch, optimizer, criterion, valida
         query_set = next(iter(query_iter))
         # Support_set is a tuple of len 2
         #print(len(support_set))
-
-        for step, batch in enumerate([support_set]):
             
-            # Get inputs and targets
-            inputs, targets = batch
-            classes = targets.unique()
-
-            # Prototypes are mean of all support set points per class
-            outputs = model(inputs)
-            prototypes = torch.empty(len(classes), outputs.shape[1]).to(config.device)
-
-            # Get prototype for each class and append
-            for cls in classes:
-            
-                # Subset the correct class and take mean over ClassBatch dimension
-                cls_idx = (targets == cls).nonzero().flatten()
-                cls_input = torch.index_select(outputs, dim = 0, index=cls_idx)
-                proto = cls_input.mean(dim=0)
-                prototypes[cls.item(), :] = proto
+        # Get inputs and targets
+        prototypes = compute_prototypes(model, batch)
 
         # evaluate on query set (D_val) 
         for step, batch in enumerate([query_set]):
             inputs, targets = batch
-            outputs = model(inputs)
+            distances = compute_distances(model, prototypes, batch)
 
-            # Calculate euclidean distance in a vectorized way
-            diffs = outputs.unsqueeze(1) - prototypes.unsqueeze(0)
-            distances = torch.sum(diffs*diffs, -1) * -1 # get negative distances
+            loss = criterion(distances, targets)
+            batch_loss += loss.item()
 
-            # If we optimize instead of calculating accuracy
-            if not validate:
-                loss = criterion(distances, targets)
-                batch_loss += loss.item()
-
-                model.zero_grad()
-                loss.backward()
-                optimizer.step()
-
-            else:
-                return distances, targets
+            model.zero_grad()
+            loss.backward()
+            optimizer.step()
 
     #print(f"The loss for this batch is {batch_loss:.4f}")
     
@@ -254,26 +281,21 @@ if __name__ == "__main__":
     parser.add_argument('--batch_size', type=int, default="4", help="Batch size")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 2e-5)
-    parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 2e-5)
+    parser.add_argument('--lr', type=float, help='learning rate', default = 2e-5)
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 200)
-    parser.add_argument('--nr_val_episodes', type=int, help='Number of episodes in a val epoch', default = 1000)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples per each episode', default = 12)
     parser.add_argument('--use_second_order', action='store_true', help='Use the second order version of MAML')
     #parser.add_argument('--dev_acc_print_rate', type=int, help='How many iterations to report dev acc', default = 75)
     parser.add_argument('--val_num_support', type=int, help='Number of samples per label for SICK validation thing', default = 16)
-    parser.add_argument('--how_many_updates', type=int, help='How often we run validation with k examples per label', default = 10)
+    parser.add_argument('--nr_val_experiments', type=int, help='How many times we perform validation on SICK', default = 10)
     #parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
 
     config = parser.parse_args()
-
-    config.first_order_approx = not config.use_second_order
     
     config.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print("Device: ", config.device)
     print("Number of episodes: ", config.nr_episodes)
-    print("Number of val episodes: ", config.nr_val_episodes)
 
     model = load_model(config)
 

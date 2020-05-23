@@ -20,9 +20,6 @@ class ProtoMODEL(nn.Module):
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
         self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
 
-        # until we initialize it, it will be None.
-        self.FFN = None
-
         # deactivate gradients on the parameters we do not need.
 
         # generate the name of the layers
@@ -70,10 +67,6 @@ class ProtoMODEL(nn.Module):
         # out is BATCH x SENT_LENGTH x EMBEDDING LENGTH
         # we get the first token (the [CLS] token)
         return out[:, 0, :]
-
-    def deactivate_linear_layer(self):
-        """ Deactivate the linear layer (i.e., revert to "vanilla" bert)"""
-        self.FFN = None
 
     def forward(self, inputs):
         """Forward function of the model
