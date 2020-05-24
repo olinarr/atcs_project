@@ -266,7 +266,7 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
             if epochs_since >= EARLY_STOPPING:
                 print(f"no improvement for {epochs_since}-th time.")
                 break
-            if epochs >= config.min_epochs - EARLY_STOPPING:
+            if epoch >= config.min_epochs - EARLY_STOPPING:
                 epochs_since += 1
 
         # train
