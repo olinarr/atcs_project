@@ -416,8 +416,8 @@ if __name__ == "__main__":
     #train_bms.extend(batchmanager4.get_subtasks(2))
     #train_bms.extend([batchmanager2])
     train_bms.extend(batchmanager1.get_subtasks(2))
-    #train_bms.extend(batchmanager4.get_subtasks(2))
-    #train_bms.extend(batchmanager3.get_subtasks(2))
+    train_bms.extend(batchmanager4.get_subtasks(2))
+    train_bms.extend(batchmanager3.get_subtasks(2))
 
     """ Batchmanagers for validation and test task """
     val_bms = [batchmanager5] # SICK
