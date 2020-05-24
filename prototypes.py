@@ -362,11 +362,11 @@ if __name__ == "__main__":
 
     # Model params
     parser.add_argument('--batch_size', type=int, default=64, help="Batch size")
-    parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
+    parser.add_argument('--random_seed', type=int, default=42, help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
     parser.add_argument('--lr', type=float, help='learning rate', default = 2e-5)
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
-    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 1)
+    parser.add_argument('--epochs', type=int, help='Number of epochs', default = 25)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples per each episode', default = 32)
     parser.add_argument('--nr_val_experiments', type=int, help='How many times we perform validation on SICK', default = 10)
 
@@ -375,8 +375,8 @@ if __name__ == "__main__":
     ############################################
 
     #parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
-    parser.add_argument('--val_task',  type=str, default="IBM" , help="Value for the validation task")
-    parser.add_argument('--test_task', type=str, default="SICK", help="Value for the test task")
+    #parser.add_argument('--val_task',  type=str, default="IBM" , help="Value for the validation task")
+    #parser.add_argument('--test_task', type=str, default="SICK", help="Value for the test task")
     
     # Model hyperparams
     parser.add_argument('--num_layers', type=int, default=3, help="Number of BERT layers to fine-tune")
@@ -398,6 +398,7 @@ if __name__ == "__main__":
     print("trainable_layers: ", trainable_layers)
 
     # Instantiate model
+    torch.manual_seed(config.random_seed)
     model = load_model(config, trainable_layers = trainable_layers)
 
     # All batchmanagers
@@ -430,11 +431,8 @@ if __name__ == "__main__":
         os.makedirs("csv")
 
     # Get model- and csv file name
-    model_name = os.path.join("csv", "lr"+str(config.lr) + 
-                              "_val" + config.val_task +
-                              "_test" + config.test_task +
-                              "_layers" + str(len(trainable_layers)))
-    csv_file_name = model_name + ".csv"       
+    model_name = "lr"+str(config.lr) + "_val" + config.val_task + "_test" + config.test_task + "_layers" + str(len(trainable_layers))
+    csv_file_name = os.path.join("csv", model_name + ".csv")
 
     # Create column headers in csv file
     with open(csv_file_name, "w", newline= "") as file:
