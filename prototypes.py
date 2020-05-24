@@ -375,8 +375,8 @@ if __name__ == "__main__":
     ############################################
 
     #parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
-    #parser.add_argument('--val_task',  type=str, default="IBM" , help="Value for the validation task")
-    #parser.add_argument('--test_task', type=str, default="SICK", help="Value for the test task")
+    parser.add_argument('--val_task',  type=str, default="SICK" , help="Value for the validation task")
+    parser.add_argument('--test_task', type=str, default="IBM", help="Value for the test task")
     
     # Model hyperparams
     parser.add_argument('--num_layers', type=int, default=3, help="Number of BERT layers to fine-tune")
@@ -420,8 +420,8 @@ if __name__ == "__main__":
     train_bms.extend(batchmanager3.get_subtasks(2))
 
     """ Batchmanagers for validation and test task """
-    val_bms = [batchmanager5] # SICK
-    test_bm = [batchmanager2] # IBM 
+    val_bms = [batchmanager5] 
+    test_bm = [batchmanager2]
 
     # To write results to sw and csv
     sw = SummaryWriter()
