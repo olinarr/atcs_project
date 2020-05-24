@@ -214,6 +214,7 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                 # [1] Calculate parameters for softmax.
                 classes = bm.classes()
                 model_init.deactivate_linear_layer()
+                model_episode.deactivate_linear_layer()
                 
                 weights = deepcopy(model_init.state_dict())
                 model_episode.load_state_dict(weights)
@@ -245,8 +246,8 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                         global_step += 1
    
                 if not config.skip_prototypes:
-                    ffn_W = model_init.prototypes + (model_episode.ffn_W - model_init.prototypes).detach()
-                    ffn_b = model_init.prototype_norms + (model_episode.ffn_b - model_init.prototype_norms).detach()
+                    ffn_W = model_init.original_W + (model_episode.ffn_W - model_init.original_W).detach()
+                    ffn_b = model_init.original_b + (model_episode.ffn_b - model_init.original_b).detach()
                     # First delete the nn.Parameter and replace with regular tensor,
                     # this will make gradients flow back to orignal model too.
                     del model_episode.ffn_W
@@ -276,11 +277,9 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
                     for n, p in model_.named_parameters():
                         if p.requires_grad and n not in ('ffn_W','ffn_b'):
                             if accumulated_gradients[n] is None:
-                                accumulated_gradients[n] = p.grad.detach()
-                                #print(p.grad.data.norm())
+                                accumulated_gradients[n] = p.grad.detach().clone()
                             else:
-                                accumulated_gradients[n] += p.grad.detach()
-                                #print(p.grad.data.norm())
+                                accumulated_gradients[n] += p.grad.detach().clone()
 
                 accumulate_gradients(model_episode)
                 if not config.skip_prototypes:
@@ -312,9 +311,9 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
     filename = path_to_dicts(config)
 
     # validate untrained model as 'baseline'
-    test_mean, test_std = k_shots(config, model_init, val_episodes, val_bms)
-    sw.add_scalar('val/acc', test_mean, global_step)
-    print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
+    #test_mean, test_std = k_shots(config, model_init, val_episodes, val_bms)
+    #sw.add_scalar('val/acc', test_mean, global_step)
+    #print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
 
 
     best_loss = sys.maxsize
@@ -333,15 +332,15 @@ def protomaml(config, sw, batch_managers, model_init, val_bms):
             torch.save(model_init.state_dict(), filename)
             print("New best loss found at {}, written model to {}".format(best_loss, filename))
             
-        test_mean, test_std = k_shots(config, model_init, val_episodes, val_bms)
-        sw.add_scalar('val/acc', test_mean, global_step)
-        print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
+        #test_mean, test_std = k_shots(config, model_init, val_episodes, val_bms)
+        #sw.add_scalar('val/acc', test_mean, global_step)
+        #print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
 
-    model.deactivate_linear_layer()    
+    #model.deactivate_linear_layer()    
 
     # K-SHOT VALIDATION!
-    test_mean, test_std = k_shots(config, model, val_episodes, val_bms)
-    print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
+    #test_mean, test_std = k_shots(config, model, val_episodes, val_bms)
+    #print(f'mean: {test_mean:.2f}, std: {test_std:.2f}')
 
     return model.state_dict()
  

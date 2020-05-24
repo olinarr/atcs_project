@@ -109,16 +109,12 @@ class ProtoMAML(nn.Module):
             prototype = cls_input.mean(dim=0)         # d
             prototypes.append(prototype)
          
-        self.prototypes = torch.stack(prototypes)
-        self.prototype_norms = self.prototypes.norm(dim=1)
-        
-        # detach for param gen
-        prototypes = self.prototypes.detach()
-        prototype_norms = self.prototype_norms.detach()
-
         # see proto-maml paper, this corresponds to euclidean distance
-        self.ffn_W = nn.Parameter(2 * prototypes)
-        self.ffn_b = nn.Parameter(- prototype_norms ** 2)
+        self.original_W = 2 * torch.stack(prototypes)
+        self.original_b = -self.prototypes.norm(dim=1)**2
+        
+        self.ffn_W = nn.Parameter(self.original_W.detach())
+        self.ffn_b = nn.Parameter(self.original_b.detach())
 
     
     def deactivate_linear_layer(self):
