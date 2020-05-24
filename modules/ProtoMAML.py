@@ -109,9 +109,11 @@ class ProtoMAML(nn.Module):
             prototype = cls_input.mean(dim=0)         # d
             prototypes.append(prototype)
          
+        prototypes = torch.stack(prototypes)
+
         # see proto-maml paper, this corresponds to euclidean distance
-        self.original_W = 2 * torch.stack(prototypes)
-        self.original_b = -self.prototypes.norm(dim=1)**2
+        self.original_W = 2 * prototypes
+        self.original_b = -prototypes.norm(dim=1)**2
         
         self.ffn_W = nn.Parameter(self.original_W.detach())
         self.ffn_b = nn.Parameter(self.original_b.detach())
