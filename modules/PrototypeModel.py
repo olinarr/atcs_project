@@ -4,7 +4,7 @@ import torch.nn as nn
 
 class ProtoMODEL(nn.Module):
 
-    def __init__(self, device = 'cpu', trainable_layers = [9, 10,11]):
+    def __init__(self, device = 'cpu', trainable_layers = [9,10,11]):
         """Init of the model
 
         Parameters:

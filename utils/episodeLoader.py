@@ -38,7 +38,7 @@ class EpisodeLoader(data.IterableDataset):
         collate_fn = lambda x : x # have identity function as collate_fn so we just get list.
         return data.DataLoader(episodeDataset, collate_fn = collate_fn, batch_size = batch_size, num_workers=num_workers)
     
-    def __init__(self, k, batch_managers, shuffle_labels=True, weight_fn=None):
+    def __init__(self, k, batch_managers, shuffle_labels=False, weight_fn=None):
         """
         Params:
           k: the amount of samples included in every support set.
