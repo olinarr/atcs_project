@@ -103,7 +103,7 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
     
     optimizer = AdamW(model_init.parameters(), lr=beta)
     criterion = torch.nn.CrossEntropyLoss()    
-    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps = config.warmup, num_training_steps = config.nr_epochs * config.nr_episodes)
+    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps = config.warmup, num_training_steps = config.max_epochs * config.nr_episodes)
 
     NUM_WORKERS = 3 
     train_episodes = iter(EpisodeLoader.create_dataloader(
@@ -120,9 +120,11 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
 
         totals = {}
         ns = {}
-        def log(value, bm, avg, extra="", name='loss'):
+        def log(value, bm, avg, extra="", name='loss', print_=False):
             tag = '{}/{}{}/{}'.format(mode, bm.name, extra, name)
             sw.add_scalar(tag, value, global_step)
+            if print_:
+                print(f'({global_step}) {tag}: {value}')
             if hasattr(bm, 'parent'):
                 log(value, bm.parent, avg, extra="_stX", name=name)
             if avg:
@@ -217,8 +219,7 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
                 # during validation/test we also measure performance on entire test set of task
                 if not train:
                     acc = get_accuracy(model_episode, bm, True)
-                    log(acc, bm, True, name='acc_test')
-
+                    log(acc, bm, True, name='acc_test', print_=True)
 
                 # end of inner loop
 
@@ -243,12 +244,14 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
 
     val_config = deepcopy(config)
     val_config.nr_episodes = 1 # we do 1 episode with config.nr_val_trials (32) batches of the val task
-
+    val_config.k = 20
+    
     filename = path_to_dict(config)
 
+    EARLY_STOPPING = 5
     epochs_since = 0
     best_acc = 0
-    for epoch in range(config.nr_epochs):
+    for epoch in range(config.max_epochs):
         
         # validate 
         print('validating...')
@@ -260,10 +263,11 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
             print("New best acc found at {}, written model to {}".format(best_acc, filename))
             epochs_since = 0
         else:
-            epochs_since += 1
-            if epochs_since >= 6:
+            if epochs_since >= EARLY_STOPPING:
                 print(f"no improvement for {epochs_since}-th time.")
                 break
+            if epochs >= config.min_epochs - EARLY_STOPPING:
+                epochs_since += 1
 
         # train
         print('training...')
@@ -297,11 +301,12 @@ if __name__ == "__main__":
 
     # Training params
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
-    parser.add_argument('--nr_epochs', type=int, help='Number of epochs', default = 80)
+    parser.add_argument('--max_epochs', type=int, help='Number of epochs', default = 80)
+    parser.add_argument('--min_epochs', type=int, help='Number of epochs', default = 15)
     parser.add_argument('--batch_size', type=int, default="64", help="How many tasks in an episode over which gradients for M_init are accumulated")
     parser.add_argument('--k', type=int, default="3", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-5)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-4)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-3)
     parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 100)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
