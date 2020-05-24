@@ -39,7 +39,10 @@ class BatchManager():
                 torch.tensor([self.l2i[self._extract_label(example)] for example in samples], device = self.device, requires_grad = False)
 
     def classes(self):
-        return list(set(self.l2i.values()))
+        """
+        Returns the possible classes or label indices, sorted from low to high.
+        """
+        return sorted(set(self.l2i.values()))
 
     def task_size(self):
         return len(self.train_set)

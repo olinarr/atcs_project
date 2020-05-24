@@ -1,12 +1,16 @@
-from transformers import BertModel, BertTokenizerFast
+from transformers import BertModel, BertTokenizerFast, BertConfig
+
+import math
 
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+from copy import copy, deepcopy
+
 class ProtoMAML(nn.Module):
 
-    def __init__(self, device = 'cpu', trainable_layers = [9, 10,11]):
+    def __init__(self, device = 'cpu', trainable_layers = [9, 10, 11], load_empty=False):
         """Init of the model
 
         Parameters:
@@ -18,13 +22,16 @@ class ProtoMAML(nn.Module):
         self.device = device
         self.trainable_layers = trainable_layers
         
+
         # load pre-trained BERT: tokenizer and the model.
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
-        self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
-        self.sharedLinear = nn.Sequential(nn.Linear(768, 768), nn.ReLU()).to(device)
-
-        # until we initialize it, it will be None.
-        self.FFN = None
+        if load_empty:
+            self.BERT = BertModel(BertConfig()).to(device)
+        else:
+            self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
+        
+        linear = nn.Linear(768, 768)
+        self.sharedLinear = nn.Sequential(linear, nn.LeakyReLU()).to(device)
 
         # deactivate gradients on the parameters we do not need.
 
@@ -84,54 +91,41 @@ class ProtoMAML(nn.Module):
         """ Generate linear classifier form support set.
 
         support (list((str, str)), torch.Tensor): support set to generate the parameters W and B from."""
-        with torch.no_grad():
-            
-            batch_input = support_set[0]                    # k-length list of (str, str)
-            batch_target = support_set[1]                   # k
+        
+        batch_input = support_set[0]                    # k-length list of (str, str)
+        batch_target = support_set[1]                   # k
 
-            # encode sequences 
-            batch_input = self._applyBERT(batch_input)      # k x d
-            batch_input = self.sharedLinear(batch_input)      # k x d
-            
-            W = []
-            b = []
-            for cls in classes:
-                cls_idx   = (batch_target == cls).nonzero()
-                cls_input = torch.index_select(batch_input, dim=0, index=cls_idx.flatten())
-                                                    # C x d
-                                
-                # prototype is mean of support samples (also c_k)
-                prototype = cls_input.mean(dim=0)         # d
-                
-                # see proto-maml paper, this corresponds to euclidean distance
-                W.append(2 * prototype)
-                b.append(- prototype.norm() ** 2)
-            
-            # the transposes are because the dimensions were wrong!
-            W = torch.stack(W)                          # C x d
-            b = torch.stack(b)
+        # encode sequences 
+        batch_input = self._applyBERT(batch_input)      # k x d
+        batch_input = self.sharedLinear(batch_input)      # k x d
+        
+        prototypes = []
+        for cls in classes:
+            cls_idx   = (batch_target == cls).nonzero()
+            cls_input = torch.index_select(batch_input, dim=0, index=cls_idx.flatten())
+                                                # C x d
+                            
+            # prototype is mean of support samples (also c_k)
+            prototype = cls_input.mean(dim=0)         # d
+            prototypes.append(prototype)
+         
+        prototypes = torch.stack(prototypes)
 
-            linear = nn.Linear(768, W.shape[0]).to(self.device)
-            linear.weight = nn.Parameter(W)
-            linear.bias = nn.Parameter(b)
+        # see proto-maml paper, this corresponds to euclidean distance
+        self.original_W = 2 * prototypes
+        self.original_b = -prototypes.norm(dim=1)**2
+        
+        self.ffn_W = nn.Parameter(self.original_W.detach())
+        self.ffn_b = nn.Parameter(self.original_b.detach())
 
-            # two layers for more flexbility.
-            # TODO Decide on whether it makese sense to use it
-            # self.FFN = nn.Sequential(nn.Linear(768, 768).to(device), nn.ReLU(), linear)
-            self.FFN = linear
-
+    
     def deactivate_linear_layer(self):
-        """ Deactivate the linear layer (i.e., revert to "vanilla" bert)"""
-        self.FFN = None
+        """ Deactivate the linear layer, if it exists """
 
-    def revert_state(self, state_dict):
-        """ Revert to the original model. Of course, we deactivate the generated layer.
-
-        Parameters:
-        state_dict: the original weights"""
-
-        self.deactivate_linear_layer()
-        self.load_state_dict(state_dict)
+        if hasattr(self, 'ffn_W'):
+            del self.ffn_W
+        if hasattr(self, 'ffn_b'):
+            del self.ffn_b
 
     def forward(self, inputs):
         """Forward function of the model
@@ -143,11 +137,10 @@ class ProtoMAML(nn.Module):
         torch.Tensor: a BATCH x N_CLASSES tensor
 
         """
-
-        if self.FFN is None:
+        if not hasattr(self, 'ffn_W') or not hasattr(self, 'ffn_b'):
             raise Exception('You have called the forward function without having initialized the parameters! Call generateParams() on the support first.')
         else:
             output = self._applyBERT(inputs)
             output = self.sharedLinear(output)
-            output = self.FFN(output)
+            output = F.linear(output, self.ffn_W, self.ffn_b)
             return output

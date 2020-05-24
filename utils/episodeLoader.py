@@ -75,30 +75,33 @@ class EpisodeLoader(data.IterableDataset):
             nr_workers = worker_info.num_workers
             worker_id = worker_info.id
 
-        iter_starts = []
-        iter_ends = []
+        #iter_starts = {}
+        #iter_ends = {}
 
         random.shuffle(self.batch_managers)
 
-        for btchmngr in self.batch_managers:
-            setsize = len(btchmngr.train_set)
+        #for btchmngr in self.batch_managers:
+        #    setsize = len(btchmngr.train_set)
+        #    
+        #    per_worker = int(math.ceil(setsize/float(nr_workers)))
+        #    iter_starts.append(worker_id * per_worker)
+        #    iter_ends.append(min(iter_starts[-1] + per_worker, setsize-1))
+        #TODO fix if we ever re-enable num_workers > 1
             
-            per_worker = int(math.ceil(setsize/float(nr_workers)))
-            iter_starts.append(worker_id * per_worker)
-            iter_ends.append(min(iter_starts[-1] + per_worker, setsize-1))
-
-            
-        def get_dataloader(bm, bm_set):
+        def get_dataloader(bm, bm_set, support=True):
             #samples = np.arange(iter_starts[i], iter_ends[i])
-            #TODO limit sampling to samples, see TODO in BalancedSampler
-            sampler = BalancedSampler(bm_set, bm)
+            split = int(len(bm_set)/2)
+            if support:
+                indices = range(0, split)
+            else:
+                indices = range(split, len(bm_set))
+
+            sampler = BalancedSampler(bm_set, bm, indices)
             return data.DataLoader(bm_set, batch_size=self.k, sampler=sampler,\
                     collate_fn=bm.collate, drop_last=True)
         
-
         # Use heap for prioqueue to select tasks in correct proportion.
-        # TODO split train_set in to query and support set for each task!!! and replace train set below 
-        worker_subsets = [(0, 0, i, get_dataloader(bm, bm.train_set), get_dataloader(bm, bm.train_set), bm) for i,bm in enumerate(self.batch_managers)]
+        worker_subsets = [(0, 0, i, get_dataloader(bm, bm.train_set), get_dataloader(bm, bm.train_set, False), bm) for i,bm in enumerate(self.batch_managers)]
         heapify(worker_subsets)
         
         while True:
@@ -172,14 +175,18 @@ if __name__ == "__main__":
             print("Episode of {:>25} can have class-indices: {:12} {}".format(type(bm).__name__, str(bm.classes()), str(bm.l2i)))
             
             for k, inner_batch in enumerate(support_set):
-              
+                print(inner_batch) 
                 sentences, labels = inner_batch
-                print(labels)
                 assert tuple(torch.unique(labels).tolist()) == tuple(bm.classes())
+                assert tuple(bm.classes()) == tuple(sorted(bm.classes()))
 
                 if k + 1 == samples_per_episode:
                     break
-                    
+
+            for l, inner_batch in enumerate(query_set):
+                print(inner_batch)
+                break
+                
             assert k + 1 == samples_per_episode
 
 
