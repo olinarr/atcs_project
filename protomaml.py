@@ -89,9 +89,6 @@ def load_model(config):
             model.load_state_dict(torch.load(path_to_dict(config), map_location = config.device))
         except Exception:
             print(f"WARNING: the `--resume_with` flag was passed, but `{path_to_dict(config)}` was NOT found!")
-    else:
-        if os.path.exists(path_to_dict(config)):
-            print(f"WARNING: `--resume_with` flag was NOT passed, but `{path_to_dict(config)}` was found!")
 
     return model
 
@@ -261,6 +258,7 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
             best_acc = results['acc_test']
             torch.save(model_init.state_dict(), filename)
             print("New best acc found at {}, written model to {}".format(best_acc, filename))
+            epochs_since = 0
         else:
             epochs_since += 1
             if epochs_since >= 6:
@@ -272,7 +270,7 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
         do_epoch(train_episodes, config)
 
     test_episodes = iter(EpisodeLoader.create_dataloader(
-        config.samples_per_support, test_bms, config.nr_val_trials
+        config.samples_per_support, test_bms, 8*config.nr_val_trials # do a lot of trials for test to get stddev down.
     ))
 
     # test
@@ -303,7 +301,7 @@ if __name__ == "__main__":
     parser.add_argument('--batch_size', type=int, default="64", help="How many tasks in an episode over which gradients for M_init are accumulated")
     parser.add_argument('--k', type=int, default="3", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
-    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-4)
+    parser.add_argument('--beta', type=float, help='Beta learning rate', default = 5e-5)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-3)
     parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 100)
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
