@@ -189,6 +189,7 @@ def run_prototype(config, train_bms, model, val_bms, sw):
         config.samples_per_support,
         val_bms,
         config.batch_size,
+        shuffle_labels = False, # in validation, we dont wanna
         num_workers=NUM_WORKERS
     )
 

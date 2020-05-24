@@ -28,17 +28,17 @@ class EpisodeLoader(data.IterableDataset):
         return length
     
     @classmethod
-    def create_dataloader(cls, k, batch_managers, batch_size, weight_fn=None, num_workers=0):
+    def create_dataloader(cls, k, batch_managers, batch_size, shuffle_labels=True, weight_fn=None, num_workers=0):
         # TODO actually fix this problem with multithreading...
         if num_workers != 0:
             print("num_workers overriden to 0 as temporary fix for problem with MultiNLI")
             num_workers=0
 
-        episodeDataset = EpisodeLoader(k, batch_managers, weight_fn=weight_fn)
+        episodeDataset = EpisodeLoader(k, batch_managers, weight_fn=weight_fn, shuffle_labels = shuffle_labels)
         collate_fn = lambda x : x # have identity function as collate_fn so we just get list.
         return data.DataLoader(episodeDataset, collate_fn = collate_fn, batch_size = batch_size, num_workers=num_workers)
     
-    def __init__(self, k, batch_managers, shuffle_labels=False, weight_fn=None):
+    def __init__(self, k, batch_managers, shuffle_labels=True, weight_fn=None):
         """
         Params:
           k: the amount of samples included in every support set.
