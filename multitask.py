@@ -58,7 +58,7 @@ def k_shots(config, model, times = 10):
 
 
     episode_iter = iter(EpisodeLoader.create_dataloader(
-        k_dim, [bm], 1
+        k_dim, [bm], 1, shuffle_labels = False
     ))
     # this object will yield balanced support sets of size k_dim
     episode_iter = next(episode_iter)[0][0]
