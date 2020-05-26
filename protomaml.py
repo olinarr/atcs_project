@@ -80,8 +80,6 @@ def load_model(config):
         trainable_layers = [int(l) for l in config.layers.split(',')]
     assert len(trainable_layers) == 0 or min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
 
-    # n_classes = None cause we don't use it
-    # use_classifier = False cause we don't use it
     model = ProtoMAML(device = config.device, trainable_layers = trainable_layers)
 
     # if we saved the state dictionary, load it.
@@ -158,6 +156,7 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
                 model_episode.zero_grad()
 
                 # [2] Adapt parameters on support set.
+                params = model_episode.custom_parameter_dict(alpha, config)
                 task_optimizer = optim.SGD(model_episode.parameters(), lr=alpha)
                 task_criterion = torch.nn.CrossEntropyLoss()
                 for step, batch in enumerate([support_set] * config.k):

@@ -1,6 +1,9 @@
 from transformers import BertModel, BertTokenizerFast, BertConfig
 
 import math
+import re
+
+from collections import defaultdict
 
 import torch
 import torch.nn as nn
@@ -10,7 +13,7 @@ from copy import copy, deepcopy
 
 class ProtoMAML(nn.Module):
 
-    def __init__(self, device = 'cpu', trainable_layers = [9, 10, 11], load_empty=False):
+    def __init__(self, device = 'cpu', trainable_layers = [9, 10, 11]):
         """Init of the model
 
         Parameters:
@@ -22,13 +25,17 @@ class ProtoMAML(nn.Module):
         self.device = device
         self.trainable_layers = trainable_layers
         
+        ATTENTION_DROPOUT = 0.3
+        HIDDEN_DROPOUT = 0.2
+
 
         # load pre-trained BERT: tokenizer and the model.
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
-        if load_empty:
-            self.BERT = BertModel(BertConfig()).to(device)
-        else:
-            self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
+        self.BERT = BertModel.from_pretrained(
+                'bert-base-uncased', 
+                attention_probs_dropout_prob=ATTENTION_DROPOUT,
+                hidden_dropout_prob=HIDDEN_DROPOUT
+            ).to(device)
         
         linear = nn.Linear(768, 768)
         self.sharedLinear = nn.Sequential(linear, nn.LeakyReLU()).to(device)
@@ -51,6 +58,39 @@ class ProtoMAML(nn.Module):
             # deactivate gradients.
             if not flag:
                 params.requires_grad = False
+
+        self._gen_default_lrs()
+
+
+    def _gen_default_lrs(self):
+        # generate default learning rates factors for BERT layers.
+        def layer2rate(layer):
+            group = (12-layer) // 3
+            lr_factor = 1 / 10**(group+1)
+            return lr_factor
+
+        def layer(layer_name):
+            return int(re.search('[0-9]+', layer_name)[0])
+
+        self.default_lr_f = defaultdict(lambda : 1)  
+
+        for name, params in self.named_parameters():
+            if params.requires_grad:
+                if "BERT" in name:
+                    self.default_lr_f[name] = layer2rate(layer(name))
+
+
+    def custom_parameter_dict(self, base_lr, config):
+        """
+        Returns a list with for each named parameter requiring gradients
+        a dictionary with those parameters and the corresponding learning rate.
+        """
+        learning_rates = {}
+
+        return [ { "params" : params, "lr" : base_lr * self.default_lr_f[name] } \
+                 for name, params in self.named_parameters() \
+                 if params.requires_grad ]
+
 
     def _applyBERT(self, inputs):
         """Forward function of BERT only
@@ -87,6 +127,8 @@ class ProtoMAML(nn.Module):
         # we get the first token (the [CLS] token)
         return out[:, 0, :]
 
+
+
     def generateParams(self, support_set, classes):
         """ Generate linear classifier form support set.
 
@@ -118,7 +160,6 @@ class ProtoMAML(nn.Module):
         self.ffn_W = nn.Parameter(self.original_W.detach())
         self.ffn_b = nn.Parameter(self.original_b.detach())
 
-    
     def deactivate_linear_layer(self):
         """ Deactivate the linear layer, if it exists """
 
