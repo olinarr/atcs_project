@@ -73,9 +73,11 @@ def load_model(config):
 
     Returns:
     FineTunedBERT: the loaded model"""
-
-
-    trainable_layers = [9, 10, 11]
+    
+    if config.layers in ['', '-']:
+        trainable_layers = []
+    else:
+        trainable_layers = [int(l) for l in config.layers.split(',')]
     assert len(trainable_layers) == 0 or min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
 
     # n_classes = None cause we don't use it
@@ -302,13 +304,14 @@ if __name__ == "__main__":
     # Training params
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
     parser.add_argument('--max_epochs', type=int, help='Number of epochs', default = 80)
-    parser.add_argument('--min_epochs', type=int, help='Number of epochs', default = 15)
+    parser.add_argument('--min_epochs', type=int, help='Number of epochs', default = 20)
     parser.add_argument('--batch_size', type=int, default="64", help="How many tasks in an episode over which gradients for M_init are accumulated")
     parser.add_argument('--k', type=int, default="3", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-4)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-3)
     parser.add_argument('--warmup', type=float, help='For how many episodes we do warmup on meta-optimization.', default = 100)
+    parser.add_argument('--layers', type=str, default='9,10,11', help='The layers of BERT to fine tune.')
     parser.add_argument('--samples_per_support', type=int, help='Number of samples to draw from the support set.', default = 32)
     parser.add_argument('--skip_prototypes', action='store_true')
 
