@@ -4,7 +4,7 @@ import torch.nn as nn
 
 class ProtoMODEL(nn.Module):
 
-    def __init__(self, device = 'cpu', trainable_layers = [9, 10,11]):
+    def __init__(self, device = 'cpu', trainable_layers = [9,10,11]):
         """Init of the model
 
         Parameters:
@@ -19,9 +19,6 @@ class ProtoMODEL(nn.Module):
         # load pre-trained BERT: tokenizer and the model.
         self.tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
         self.BERT = BertModel.from_pretrained('bert-base-uncased').to(device)
-
-        # until we initialize it, it will be None.
-        self.FFN = None
 
         # deactivate gradients on the parameters we do not need.
 
@@ -70,10 +67,6 @@ class ProtoMODEL(nn.Module):
         # out is BATCH x SENT_LENGTH x EMBEDDING LENGTH
         # we get the first token (the [CLS] token)
         return out[:, 0, :]
-
-    def deactivate_linear_layer(self):
-        """ Deactivate the linear layer (i.e., revert to "vanilla" bert)"""
-        self.FFN = None
 
     def forward(self, inputs):
         """Forward function of the model
