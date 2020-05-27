@@ -100,8 +100,9 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
     
     beta = config.beta
     alpha = config.alpha
-    
-    optimizer = AdamW(model_init.parameters(), lr=beta)
+   
+    params = model_init.custom_parameter_dict(beta, config)
+    optimizer = AdamW(params, lr=beta)
     criterion = torch.nn.CrossEntropyLoss()    
     scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps = config.warmup, num_training_steps = config.max_epochs * config.nr_episodes)
 
@@ -245,23 +246,26 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
 
     val_config = deepcopy(config)
     val_config.nr_episodes = 1 # we do 1 episode with config.nr_val_trials (32) batches of the val task
-    val_config.k = 20
+    val_config.k = 5 
     
     filename = path_to_dict(config)
 
     EARLY_STOPPING = 5
     epochs_since = 0
     best_acc = 0
+    best_loss = sys.maxsize
     for epoch in range(config.max_epochs):
         
         # validate 
         print('validating...')
         results = do_epoch(val_episodes, val_config, mode='val')
         
-        if results['acc_test'] > best_acc:
+        if results['test_acc'] > best_acc:
             best_acc = results['acc_test']
+        #if results['loss_q'] < best_loss:
+        #    best_loss = results['loss_q']
             torch.save(model_init.state_dict(), filename)
-            print("New best acc found at {}, written model to {}".format(best_acc, filename))
+            print("New best found at {}, written model to {}".format(best_acc, filename))
             epochs_since = 0
         else:
             if epochs_since >= EARLY_STOPPING:
@@ -275,9 +279,11 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
         do_epoch(train_episodes, config)
 
     test_episodes = iter(EpisodeLoader.create_dataloader(
-        config.samples_per_support, test_bms, 8*config.nr_val_trials # do a lot of trials for test to get stddev down.
+        config.samples_per_support, test_bms, 8*config.nr_val_trials # do a lot of trials for test to get accurate estimate. 
     ))
 
+    val_config.k = 5 
+    
     # test
     print('testing...')
     best_weights = torch.load(filename)
@@ -305,7 +311,7 @@ if __name__ == "__main__":
     parser.add_argument('--max_epochs', type=int, help='Number of epochs', default = 80)
     parser.add_argument('--min_epochs', type=int, help='Number of epochs', default = 20)
     parser.add_argument('--batch_size', type=int, default="64", help="How many tasks in an episode over which gradients for M_init are accumulated")
-    parser.add_argument('--k', type=int, default="3", help="How many times do we update weights prime")
+    parser.add_argument('--k', type=int, default="5", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--beta', type=float, help='Beta learning rate', default = 1e-4)
     parser.add_argument('--alpha', type=float, help='Alpha learning rate', default = 1e-3)

@@ -268,7 +268,7 @@ class SICKBatchManager(BatchManager):
         # we only keep [label, sent_1, sent_2]
         # labels are rounded cuz we want to do classification
 
-        binarize = lambda n : 0 if float(n) < 3 else 1
+        binarize = lambda n : 0 if float(n) < 3.7 else 1
 
         train_set, dev_set, test_set = [], [], []
         for sample in data:
@@ -282,10 +282,11 @@ class SICKBatchManager(BatchManager):
                 raise Exception()
 
         self.l2i = {0:0, 1:1}
-        
+
         self.train_set = ListDataset(train_set)
         self.dev_set   = ListDataset(dev_set)
         self.test_set  = ListDataset(test_set)
+
 
         self.device = device
         self.name = 'sick'
@@ -322,6 +323,7 @@ class PDBBatchManager(BatchManager):
         dev = pd.read_csv('./.data/pdb/PDB_dev_labeled.csv',sep="|")
         test = pd.read_csv('./.data/pdb/PDB_test_labeled.csv',sep="|")
 
+        # filter out sentences that don't fit in BERT
         train = train[ ( train['sent1'].map(len) + train['sent2'].map(len) ) < 512 ]
         dev   =   dev[ (   dev['sent1'].map(len) +   dev['sent2'].map(len) ) < 512 ]
         test  =  test[ (  test['sent1'].map(len) +  test['sent2'].map(len) ) < 512 ]
@@ -330,7 +332,6 @@ class PDBBatchManager(BatchManager):
         self.dev_set   = DataframeDataset(dev[['sent1','sent2','label']])
         self.test_set  = DataframeDataset(test[['sent1','sent2','label']])
    
-        
         self.device = device
         self.name = 'pdb'
 
@@ -338,17 +339,24 @@ class PDBBatchManager(BatchManager):
 
 
     def _get_partitions(self, k):
+        classes = ['Temporal', 'Comparison', 'Expansion', 'Contingency', 'EntRel'] #, 'NoRel', 'Hypophora']
+        
         # Returning all possible ways to partition the set of classes is not possible for so many classes.
-        # So here we just return a fixed number of random partitions, using a fixed seed for replicability.
+        for cls in classes:
+            parts = []
+            parts.append([c for c in self.l2i.keys() if c.startswith(cls)])
+            parts.append([c for c in self.l2i.keys() if not c.startswith(cls)])
+            yield parts
+        
+        # So here we just return a fixed number of random partition.
         # While also making sure not, for example put different kinds of 'Contingency' in different partitions.
     
-        classes = ['Temporal', 'Comparison', 'Expansion', 'Contingency', 'EntRel', 'NoRel', 'Hypophora']
-        for _ in range(self.MAX_NR_OF_SUBTASKS):
-            random.shuffle(classes)
+        #for _ in range(self.MAX_NR_OF_SUBTASKS):
+        #    random.shuffle(classes)
 
-            parts = np.array_split(classes, k) 
-            parts = [[cls for cls in self.l2i.keys() for Cls in part if cls.startswith(Cls)] for part in parts] 
-            yield parts
+        #    parts = np.array_split(classes, k) 
+        #    parts = [[cls for cls in self.l2i.keys() for Cls in part if cls.startswith(Cls)] for part in parts] 
+        #    yield parts
         
 
 if __name__ == "__main__":

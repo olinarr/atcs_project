@@ -138,7 +138,7 @@ dmypy.json
 .pyre/
 
 # tensorboard logs
-runs/
+*runs/
 
 # vim files
 *~

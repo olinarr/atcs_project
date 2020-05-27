@@ -25,7 +25,7 @@ class ProtoMAML(nn.Module):
         self.device = device
         self.trainable_layers = trainable_layers
         
-        ATTENTION_DROPOUT = 0.3
+        ATTENTION_DROPOUT = 0.2
         HIDDEN_DROPOUT = 0.2
 
 
