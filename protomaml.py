@@ -155,7 +155,7 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
                 model_episode.ffn_W = deepcopy(model_init.ffn_W)
                 model_episode.ffn_b = deepcopy(model_init.ffn_b)
                 model_episode.zero_grad()
-
+                    
                 # [2] Adapt parameters on support set.
                 params = model_episode.custom_parameter_dict(alpha, config)
                 task_optimizer = optim.SGD(model_episode.parameters(), lr=alpha)
@@ -187,6 +187,9 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
                     del model_episode.ffn_b
                     model_episode.ffn_W = ffn_W
                     model_episode.ffn_b = ffn_b
+
+                if not train:
+                    model_episode.eval()
 
                 # [3] Evaluate adapted params on query set, calc grads.            
                 for step, batch in enumerate(it.islice(query_iter, 1)):
@@ -222,6 +225,7 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
                 if not train:
                     acc = get_accuracy(model_episode, bm, True)
                     log(acc, bm, True, name='acc_test', print_=True)
+                    model_episode.train()
 
                 # end of inner loop
 
@@ -309,7 +313,7 @@ if __name__ == "__main__":
     # Training params
     parser.add_argument('--nr_episodes', type=int, help='Number of episodes in an epoch', default = 25)
     parser.add_argument('--max_epochs', type=int, help='Number of epochs', default = 80)
-    parser.add_argument('--min_epochs', type=int, help='Number of epochs', default = 20)
+    parser.add_argument('--min_epochs', type=int, help='Number of epochs', default = 10)
     parser.add_argument('--batch_size', type=int, default="64", help="How many tasks in an episode over which gradients for M_init are accumulated")
     parser.add_argument('--k', type=int, default="5", help="How many times do we update weights prime")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")

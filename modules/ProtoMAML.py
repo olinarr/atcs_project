@@ -25,8 +25,10 @@ class ProtoMAML(nn.Module):
         self.device = device
         self.trainable_layers = trainable_layers
         
-        ATTENTION_DROPOUT = 0.2
-        HIDDEN_DROPOUT = 0.2
+        ATTENTION_DROPOUT = 0.1 
+        HIDDEN_DROPOUT = 0.1 
+        #ATTENTION_DROPOUT = 0.2
+        #HIDDEN_DROPOUT = 0.2
 
 
         # load pre-trained BERT: tokenizer and the model.
@@ -66,7 +68,7 @@ class ProtoMAML(nn.Module):
         # generate default learning rates factors for BERT layers.
         def layer2rate(layer):
             group = (12-layer) // 3
-            lr_factor = 1 / 10**(group+1)
+            lr_factor = 1 / 5**(group+1)
             return lr_factor
 
         def layer(layer_name):
