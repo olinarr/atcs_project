@@ -260,7 +260,7 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
         print('validating...')
         results = do_epoch(val_episodes, val_config, mode='val')
         
-        if results['test_acc'] > best_acc:
+        if results['acc_test'] > best_acc:
             best_acc = results['acc_test']
         #if results['loss_q'] < best_loss:
         #    best_loss = results['loss_q']
