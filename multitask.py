@@ -90,7 +90,6 @@ def k_shots(config, model, times = 10):
 
             globalOptimizer.zero_grad()
             taskOptimizer.zero_grad()
-            print(len(data))
             out = model(data, task)
 
             loss = criterion(out, targets)
@@ -218,16 +217,6 @@ def train(config, batchmanager, model):
     try :
         for epoch in range(config.epochs):
 
-            # Validate
-            mean_acc, std_acc = k_shots(config, model)
-            if mean_acc > best_acc:
-                best_acc = mean_acc
-                torch.save(model.state_dict(), path_to_dicts(config))
-            else:
-                times_since += 1
-                if times_since >= 5:
-                    break
-
             # cumulative loss for printing
             loss_c = defaultdict(lambda : [])
             # iterating over the batchmanager returns
@@ -266,6 +255,18 @@ def train(config, batchmanager, model):
 
                     print("***", flush = True)
 
+                if i % config.validation_rate == 0:
+                    # Validate
+                    mean_acc, std_acc = k_shots(config, model, 5)
+                    if mean_acc > best_acc:
+                        best_acc = mean_acc
+                        times_since = 0
+                        torch.save(model.state_dict(), path_to_dicts(config))
+                    else:
+                        times_since += 1
+                        if times_since >= 5:
+                            return model.state_dict() 
+
             # end of an epoch
             print(f'\n\n#*#*#*#*# Epoch {epoch+1} concluded! #*#*#*#*#')
             # print accuracies
@@ -276,7 +277,6 @@ def train(config, batchmanager, model):
             
             print(f'#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*\n\n', flush = True)
             
-            #torch.save(model.state_dict(), path_to_dicts(config))
         
         # we would need to add SICK to the model's tasks before running this.
         """ for task in batchmanager.eval_tasks:
@@ -300,11 +300,12 @@ if __name__ == "__main__":
     parser.add_argument('--batch_size', type=int, default="32", help="Batch size")
     parser.add_argument('--random_seed', type=int, default="42", help="Random seed")
     parser.add_argument('--resume', action='store_true', help='resume training instead of restarting')
-    parser.add_argument('--task_lr', type=float, help='Learning rate', default = 2e-5)
+    parser.add_argument('--task_lr', type=float, help='Learning rate', default = 2e-3)
     parser.add_argument('--bert_lr', type=float, help='Learning rate', default = 2e-5)
     parser.add_argument('--epochs', type=int, help='Number of epochs', default = 10)
     parser.add_argument('--loss_print_rate', type=int, default='250', help='Print loss every')
-    parser.add_argument('--k', type=int, default='4', help='How many times do we perform backprop on the evaluation?')
+    parser.add_argument('--validation_rate', type=int, default='1000', help='Validate every')
+    parser.add_argument('--k', type=int, default='5', help='How many times do we perform backprop on the evaluation?')
     parser.add_argument('--eval_task', type=str, default='SICK', help='Task to perform k-shot eval on')
     parser.add_argument('--examples_per_label', type=int, default='16', help='Examples per support set (per label)')
     parser.add_argument('--k_shot_only', action='store_true', help = 'Avoid training, load a model and evaluate it on the k-shot challenge')
