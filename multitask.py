@@ -90,7 +90,7 @@ def k_shots(config, model, times = 10):
 
             globalOptimizer.zero_grad()
             taskOptimizer.zero_grad()
-
+            print(len(data))
             out = model(data, task)
 
             loss = criterion(out, targets)
@@ -207,14 +207,27 @@ def train(config, batchmanager, model):
     taskOptimizer = {task: Adam(model.taskParameters(task), lr=config.task_lr) for task in batchmanager.tasks}
 
     ## PRINT ACCURACY ON ALL TASKS
-    print("#########\nInitial dev accuracies: ")
-    for task in batchmanager.tasks:
-        dev_acc = get_accuracy(model, task, batchmanager)
-        print(f"dev acc of {task}: {dev_acc:.2f}", flush = True)
-    print("#########", flush = True)
+    #print("#########\nInitial dev accuracies: ")
+    #for task in batchmanager.tasks:
+    #    dev_acc = get_accuracy(model, task, batchmanager)
+    #    print(f"dev acc of {task}: {dev_acc:.2f}", flush = True)
+    #print("#########", flush = True)
 
+    best_acc = 0
+    times_since = 0
     try :
         for epoch in range(config.epochs):
+
+            # Validate
+            mean_acc, std_acc = k_shots(config, model)
+            if mean_acc > best_acc:
+                best_acc = mean_acc
+                torch.save(model.state_dict(), path_to_dicts(config))
+            else:
+                times_since += 1
+                if times_since >= 5:
+                    break
+
             # cumulative loss for printing
             loss_c = defaultdict(lambda : [])
             # iterating over the batchmanager returns
@@ -260,8 +273,10 @@ def train(config, batchmanager, model):
                 dev_acc = get_accuracy(model, task, batchmanager)
 
                 print(f"{task} dev_acc = {dev_acc:.2f}", flush = True)
+            
             print(f'#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*\n\n', flush = True)
-            torch.save(model.state_dict(), path_to_dicts(config))
+            
+            #torch.save(model.state_dict(), path_to_dicts(config))
         
         # we would need to add SICK to the model's tasks before running this.
         """ for task in batchmanager.eval_tasks:
