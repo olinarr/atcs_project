@@ -264,7 +264,7 @@ def train(config, batchmanager, model):
                         torch.save(model.state_dict(), path_to_dicts(config))
                     else:
                         times_since += 1
-                        if times_since >= 5:
+                        if times_since >= 5 and epoch > 0:
                             return model.state_dict() 
 
             # end of an epoch
