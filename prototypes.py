@@ -144,7 +144,7 @@ def k_shot_test(config, val_loader, val_bms, model, optimizer, test = False):
     write_to_csv(test_acc)
 
     # 
-    return 
+    return mean, std
 
 def write_to_csv(test_acc):
     """
@@ -213,6 +213,9 @@ def run_prototype(config, train_bms, model, val_bms, sw, test_bm):
     optimizer = AdamW(params, lr = config.lr)#TODO: parameters
     criterion = torch.nn.CrossEntropyLoss()
 
+    best_acc = 0
+    nr_since = 0
+
     # Iterate over epochs
     for i in range(config.epochs):
 
@@ -226,7 +229,17 @@ def run_prototype(config, train_bms, model, val_bms, sw, test_bm):
 
         # Do the k-shot test thing and evaluate
         model.eval()
-        k_shot_test(config, val_loader, val_bms, model, optimizer)
+        mean, _ = k_shot_test(config, val_loader, val_bms, model, optimizer)
+
+        if mean > best_acc:
+            best_acc = mean
+            nr_since = 0
+            model_path = os.path.join("state_dicts", model_name + ".pth")
+            torch.save(model.state_dict(), model_path)
+        else:
+            nr_since += 1
+            if nr_since >= 5:
+                break
 
         # # Validation
         # model.eval()
@@ -406,18 +419,21 @@ if __name__ == "__main__":
     batchmanager2 = IBMBatchManager(batch_size = config.samples_per_support, device = config.device)
     batchmanager3 = MRPCBatchManager(batch_size = config.samples_per_support, device = config.device)        
     batchmanager4 = PDBBatchManager(batch_size = config.samples_per_support, device = config.device)
-    batchmanager5 = SICKBatchManager(batch_size = config.samples_per_support, device = config.device)    
+    batchmanager5 = SICKBatchManager(batch_size = config.samples_per_support, device = config.device)
+    
+    pdb_subtasks = list(batchmanager4.get_subtasks(2))
+    mnli_subtasks = list(batchmanager1.get_subtasks(2))
 
-    #train_bms = [batchmanager5]
-    #train_bms = [batchmanager5]
-    #train_bms = [batchmanager2]
-    #train_bms = [batchmanager4.get_subtasks(2)]
-    train_bms = []
-    #train_bms.extend(batchmanager4.get_subtasks(2))
-    #train_bms.extend([batchmanager2])
-    train_bms.extend(batchmanager1.get_subtasks(2))
-    train_bms.extend(batchmanager4.get_subtasks(2))
-    train_bms.extend(batchmanager3.get_subtasks(2))
+    # Double the weighting of tasks that aren't represented twice (normal, binary-sub-tasks).
+    batchmanager3.weight_factor *= 2 # (only original)
+    for bm in pdb_subtasks:
+        bm.weight_factor *= 2        # (only subtasks)
+
+    # MultiNLI, MRPC, PDB for training.
+    train_bms = [ batchmanager1, batchmanager3 ]
+    train_bms.extend(mnli_subtasks)
+    train_bms.extend(pdb_subtasks)
+    
 
     """ Batchmanagers for validation and test task """
     val_bms = [batchmanager5] 
