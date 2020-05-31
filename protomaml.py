@@ -245,7 +245,8 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
         return { key : total/ns[key] for key,total in totals.items() }
  
     val_episodes = iter(EpisodeLoader.create_dataloader(
-        config.samples_per_support, val_bms, config.nr_val_trials
+        config.samples_per_support, val_bms, config.nr_val_trials,
+        shuffle_labels = False
     ))
 
     val_config = deepcopy(config)
@@ -253,6 +254,7 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
     val_config.k = 5 
     
     filename = path_to_dict(config)
+    torch.save(model_init.state_dict(), filename) # write fresh model
 
     EARLY_STOPPING = 5
     epochs_since = 0
@@ -266,8 +268,6 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
         
         if results['acc_test'] > best_acc:
             best_acc = results['acc_test']
-        #if results['loss_q'] < best_loss:
-        #    best_loss = results['loss_q']
             torch.save(model_init.state_dict(), filename)
             print("New best found at {}, written model to {}".format(best_acc, filename))
             epochs_since = 0
@@ -283,11 +283,14 @@ def protomaml(config, sw, model_init, train_bms, val_bms, test_bms):
         do_epoch(train_episodes, config)
 
     test_episodes = iter(EpisodeLoader.create_dataloader(
-        config.samples_per_support, test_bms, 8*config.nr_val_trials # do a lot of trials for test to get accurate estimate. 
+        int(len(test_bms[0].classes()) * config.samples_per_support / 2), 
+        test_bms, 
+        8*config.nr_val_trials, # do a lot of trials for test to get accurate estimate. 
+        shuffle_labels = False
     ))
 
-    val_config.k = 5 
-    
+    val_config.k = 5 #0
+
     # test
     print('testing...')
     best_weights = torch.load(filename)
