@@ -68,7 +68,7 @@ class ProtoMAML(nn.Module):
         # generate default learning rates factors for BERT layers.
         def layer2rate(layer):
             group = (12-layer) // 3
-            lr_factor = 1 / 5**(group+1)
+            lr_factor = 1 #1 / 5**(group+1) #disabled this, didn't seem to do much
             return lr_factor
 
         def layer(layer_name):
