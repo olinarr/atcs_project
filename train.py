@@ -42,7 +42,7 @@ def get_accuracy(model, iter):
     model.train()
     return count / num
 
-def load_model(config):
+def load_model(config, bm):
     """Load a model (either a new one or from disk)
 
     Parameters:
@@ -51,16 +51,9 @@ def load_model(config):
     Returns:
     FineTunedBERT: the loaded model"""
 
-    # some datasets have 3 classes, some other 2!
-    if config.dataset == 'PDB':
-        n_classes = 38
-    elif config.dataset != 'MRPC':
-        n_classes = 3 
-    else:
-        n_classes = 2
     trainable_layers = [9, 10, 11]
     assert min(trainable_layers) >= 0 and max(trainable_layers) <= 11 # BERT has 12 layers!
-    model = FineTunedBERT(device = config.device, n_classes = n_classes, trainable_layers = trainable_layers)
+    model = FineTunedBERT(device = config.device, n_classes = len(bm.classes()), trainable_layers = trainable_layers)
 
     # if we saved the state dictionary, load it.
     if config.resume:
@@ -146,6 +139,9 @@ def train(config, batchmanager, model):
             best_dev_acc = new_dev_acc
             best_model_dict = deepcopy(model.state_dict())
 
+    test_acc = get_accuracy(model, batchmanager.test_iter)
+    print(f"TEST ACCURACY: {test_acc}")
+
     return best_model_dict, best_dev_acc
 
 if __name__ == "__main__":
@@ -187,7 +183,7 @@ if __name__ == "__main__":
     else:
         raise NotImplementedError
 
-    model = load_model(config)
+    model = load_model(config, batchmanager)
 
     # Train the model
     print('Beginning the training...', flush = True)
