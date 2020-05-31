@@ -22,6 +22,7 @@ Similarly Multi-task training, training of Prototypical networks and Proto-MAML 
 * `.data/MRPC` for the MRPC dataset
   * Download dataset from [here](https://github.com/wasiahmad/paraphrase_identification/tree/master/dataset/msr-paraphrase-corpus).
 * `.data/pdb` for the Penn Discourse Bank
-  * Download dataset from [here](https://www.sfu.ca/rst/06tools/discourse_relations_corpus.html).
+  * Contact us for an appropriatly pre-processed version; or
+  * Download the raw dataset from [here](https://www.sfu.ca/rst/06tools/discourse_relations_corpus.html).
 * `.data/SICK` for SICK
   * Download dataset from [here](https://www.microsoft.com/en-us/download/details.aspx?id=52398).
